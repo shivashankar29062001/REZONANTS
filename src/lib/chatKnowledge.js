@@ -478,6 +478,12 @@ You can explore these under the Technologies section on our website.`,
       'madhapur',
       'vijayawada',
       'newcastle',
+      'dubai',
+      'dubai internet city',
+      'middle east',
+      'middle east hub',
+      'uae',
+      'united arab emirates',
       'south africa office',
       'office address',
       'office location',
@@ -497,6 +503,7 @@ You can explore these under the Technologies section on our website.`,
 📍 Hyderabad, India (Headquarters): ${CONTACT.address}
 📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}
 📍 South Africa Office: ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}
+📍 Middle East hub · United Arab Emirates: ${CONTACT.dubaiAddress}
 
 You can also use the "Send us a message" form on our homepage, or book a free consultation.`,
   },

@@ -33,7 +33,7 @@ Every item below appears somewhere in the codebase (`src/`, `supabase/migrations
 6. **Business Hours vs 24/7 Support & Consultation Budgets**
    - Contact panel states **`Mon – Sat, 9:30 – 18:30 IST`**, older server prompts had `Monday–Saturday, 10:00–19:00 IST`, and About/Managed Services refer to **`24/7 Support` / `24/7/365`**.
    - `/book-consultation` lists INR budget options (`Under ₹1L`, `₹1L – ₹5L`, `₹5L – ₹10L`, `₹10L+`) and time slots `9:00 AM – 6:00 PM` (without timezone specified).
-   - **Action needed:** Confirm office vs 24/7 support hours, consultation slot timezone, and whether visitors from South Africa have separate consultation hours/currencies.
+   - **Action needed:** Confirm office vs 24/7 support hours, consultation slot timezone, and whether visitors from South Africa or UAE have separate consultation hours/currencies.
 
 7. **Hyderabad Address Typo & Maps Pin Difference**
    - Hyderabad text contains typo `"HUDA Tecno Encalve"`, while the Google Maps link points to `"Samridhi Vasyam, D No 1/98/9/3/23, Capital Pk Rd"`.

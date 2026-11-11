@@ -40,6 +40,9 @@ export const CONTACT = {
     'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
   southAfricaMapsHref:
     'https://www.google.com/maps/search/Unit+11+Sunset+View+10+Hazy+Street+Newcastle+Kwa-Zulu+Natal+2930+South+Africa',
+  dubaiAddress: 'Building 11, Office 111, Dubai Internet City, UAE',
+  dubaiMapsHref:
+    'https://www.google.com/maps/search/Building+11,+Office+111,+Dubai+Internet+City,+UAE',
   social: {
     linkedin: 'https://www.linkedin.com/company/rezonants/',
     twitter: 'https://twitter.com/rezonants',
@@ -85,6 +88,18 @@ export const OFFICE_LOCATIONS = [
     address: CONTACT.southAfricaAddress,
     mapsHref: CONTACT.southAfricaMapsHref,
   },
+  {
+    id: 'dubai',
+    title: 'Middle East hub · United Arab Emirates',
+    contactLabelKey: 'contact.offices.dubai',
+    contactLabelDefault: 'Middle East hub · United Arab Emirates',
+    footerLabelKey: 'footer.dubaiLocation',
+    footerLabelDefault: 'Middle East hub · United Arab Emirates',
+    contactAriaLabel: 'Open Dubai Internet City office location on Google Maps',
+    footerAriaLabel: 'Open Dubai Internet City office location on Google Maps',
+    address: CONTACT.dubaiAddress,
+    mapsHref: CONTACT.dubaiMapsHref,
+  },
 ]
 
 export function formatOfficeListText() {
@@ -92,6 +107,7 @@ export function formatOfficeListText() {
     `- Hyderabad, India (Headquarters): ${CONTACT.address}`,
     `- Vijayawada, India: ${CONTACT.vijayawadaAddress}`,
     `- South Africa Office: ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
+    `- Middle East hub · United Arab Emirates: ${CONTACT.dubaiAddress}`,
   ].join('\n')
 }
 

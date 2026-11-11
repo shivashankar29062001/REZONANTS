@@ -114,8 +114,9 @@ const TEST_CASES = [
       /Hyderabad/i.test(r) &&
       /Vijayawada/i.test(r) &&
       /Newcastle/i.test(r) &&
-      !/Sandton/i.test(r) &&
-      !/Dubai/i.test(r),
+      /Dubai Internet City/i.test(r) &&
+      /Building 11, Office 111/i.test(r) &&
+      !/Sandton/i.test(r),
     expectScript: { te: /[\u0C00-\u0C7F]/, hi: /[\u0900-\u097F]/ },
   },
   {
