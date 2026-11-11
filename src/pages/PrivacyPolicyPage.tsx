@@ -1,5 +1,7 @@
+import { Trans } from 'react-i18next'
 import { useCookieConsent } from '../components/cookie/CookieConsentProvider'
-import { useTranslation } from '../i18n/TranslationContext'
+import { CONTACT } from '../config/contact'
+import { i18n, useTranslation } from '../i18n/TranslationContext'
 
 export function PrivacyPolicyPage() {
   const { openPreferences } = useCookieConsent()
@@ -79,7 +81,14 @@ export function PrivacyPolicyPage() {
             <article className="privacy-section">
               <h2>{t('privacy.contactUs')}</h2>
               <p>
-                {t('privacy.contactUsText')}
+                <Trans
+                  i18nKey="privacy.contactUsText"
+                  i18n={i18n}
+                  components={{
+                    1: <a href={CONTACT.emailHref} />,
+                    3: <a href={CONTACT.phoneHref} />,
+                  }}
+                />
               </p>
             </article>
           </div>

@@ -39,8 +39,8 @@ Every item below appears somewhere in the codebase (`src/`, `supabase/migrations
    - Hyderabad text contains typo `"HUDA Tecno Encalve"`, while the Google Maps link points to `"Samridhi Vasyam, D No 1/98/9/3/23, Capital Pk Rd"`.
    - **Action needed:** Confirm official Hyderabad street spelling and postal pin.
 
-8. **Privacy Policy & Footer Legal Links**
-   - `PrivacyPolicyPage.tsx` states `"Last updated: August 2026"` and line 82 renders `<1>info@rezonants.com</1>` literal tags because `t()` is rendered as plain text rather than `<Trans>`.
+8. **Privacy Policy Date & Footer Legal Links**
+   - `PrivacyPolicyPage.tsx` states `"Last updated: August 2026"`.
    - Footer displays `"Terms of Use"` and `"Accessibility"` as non-clickable text without dedicated routes.
-   - **Action needed:** Confirm whether Terms of Use / Accessibility pages will be added and fix `PrivacyPolicyPage.tsx` link markup if desired.
+   - **Action needed:** Confirm the Privacy Policy effective date and whether Terms of Use / Accessibility pages will be added.
 
