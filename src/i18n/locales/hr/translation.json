@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "O",
+    "services": "Usluge",
+    "products": "Proizvodi",
+    "perspectives": "Perspektive",
+    "technologies": "Tehnologije",
+    "contact": "Kontakt",
+    "signIn": "Prijavite se",
+    "signUp": "Prijavite se",
+    "signOut": "Odjavi se",
+    "chooseLanguage": "Odaberite svoj jezik",
+    "searchLanguage": "Jezik pretraživanja",
+    "resetEnglish": "Vrati na engleski",
+    "noResults": "Nema pronađenih jezika",
+    "englishDefault": "engleski (zadano)",
+    "english": "engleski"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Softver, dizajniran za način na koji <em>vaš posao</em> radi.",
+    "description": "Rezonants je tvrtka za IT usluge i digitalne proizvode. Dizajniramo, gradimo i skaliramo prilagođeni softver, web i mobilne proizvode, infrastrukturu u oblaku i AI — za tvrtke koje se natječu u izvedbi.",
+    "bookConsultation": "Rezervirajte besplatne konzultacije",
+    "exploreServices": "Istražite usluge",
+    "years": "godina",
+    "projects": "projekti",
+    "retention": "zadržavanje",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — od 2012",
+    "metaStudio": "Studio digitalnih proizvoda",
+    "metaTech": "Web · Mobilni · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "O nama",
+    "title": "Izgradnja digitalnih rješenja <em>koja pokreću tvrtke naprijed</em>",
+    "description": "Rezonants je tvrtka za tehnološka rješenja usmjerena na pomoć tvrtkama da transformiraju ideje u smislena digitalna iskustva. Kombiniramo tehnologiju, kreativnost i razumijevanje poslovanja kako bismo pružili rješenja koja su dizajnirana prema stvarnim potrebama.<br /><br />Od digitalne transformacije i prilagođenog razvoja softvera do oblaka, umjetne inteligencije, automatizacije i upravljanih tehnoloških usluga, pomažemo organizacijama da pojednostave složenost, poboljšaju učinkovitost i stvore trajnu digitalnu vrijednost.<br /><br /><strong>Naš pristup je jednostavan — razumite poslovanje, riješite pravi problem i izgradite tehnologiju koja pruža.</strong>",
+    "awardWinning": "Dobitnik nagrada",
+    "awardText": "Prepoznat po izvrsnosti isporuke kroz web i mobilni inženjering proizvoda.",
+    "professionalStaff": "Stručno osoblje",
+    "staffText": "Stariji, odgovorni inženjeri koji posjeduju posao od prvog poziva do puštanja u rad.",
+    "support247": "Podrška 24/7",
+    "supportText": "Upravljane usluge i linija za podršku koja odgovara kada vam je potrebna.",
+    "fairPrices": "Fer cijene",
+    "pricesText": "Iskrene procjene i transparentna naplata za svaki pojedinačni angažman.",
+    "yearsExcellence": "Godine poslovne izvrsnosti"
+  },
+  "stats": {
+    "happyClients": "Zadovoljni klijenti",
+    "projectsDone": "Urađeni projekti",
+    "winAwards": "Osvojite nagrade"
+  },
+  "insights": {
+    "eyebrow": "Perspektive",
+    "title": "Perspektive",
+    "sub": "Istraživanje ideja, trendova i tehnologije koja oblikuje budućnost.",
+    "filters": {
+      "all": "Sve",
+      "digital-transformation": "Digitalna transformacija",
+      "ai": "AI i automatizacija",
+      "cloud": "Oblak",
+      "data": "Podaci i analitika",
+      "software": "Softver",
+      "business": "Posao i tehnologija"
+    },
+    "readMore": "Pročitajte više",
+    "close": "Zatvori",
+    "keyTakeaways": "Ključni arhitektonski zaključci",
+    "relatedServices": "Povezane mogućnosti i usluge",
+    "minRead": "čitanje min",
+    "item1Date": "srpanj 2026",
+    "item1Tag": "Proizvod & ERP",
+    "item1Title": "Modularni ERP pristup za rastuća poduzeća",
+    "item1Text": "Kako strukturiramo ERP angažmane tako da se financije, zalihe, ljudski resursi i nabava besprijekorno integriraju bez višegodišnjeg prekida.",
+    "item2Date": "lipnja 2026",
+    "item2Tag": "Umjetna inteligencija",
+    "item2Title": "Agentski AI sustavi: prelazak s chatbota na autonomno izvršavanje",
+    "item2Text": "Projektiranje koordiniranih višeagentnih LLM sustava koji planiraju, potvrđuju i provode složene poslovne tijekove rada uz nadzor čovjeka u petlji.",
+    "item3Date": "Svibanj 2026",
+    "item3Tag": "Prekretnica tvrtke",
+    "item3Title": "Prepoznat među vodećim studijima za IT inovacije u Hyderabadu",
+    "item3Text": "Naš inženjerski studio dobio je priznanje za izvrsnost isporuke, duboke tehnološke mogućnosti i zadovoljstvo klijenata u globalnom inženjeringu proizvoda.",
+    "desc": "Istražite ideje i perspektive tvrtke Rezonants o digitalnoj transformaciji, umjetnoj inteligenciji, automatizaciji, oblaku, podacima, softveru i budućnosti poslovne tehnologije.",
+    "categories": {
+      "digitalTransformation": "Digitalna transformacija",
+      "ai": "AI i automatizacija",
+      "cloud": "Oblak",
+      "data": "Podaci i analitika",
+      "software": "Softver",
+      "business": "Posao i tehnologija"
+    }
+  },
+  "technologies": {
+    "title": "Tehnologije i arhitektura",
+    "headline": "Tehnološka rješenja za poduzeća",
+    "sub": "Inteligentna tehnologija. Automatizirane operacije. Pametnije poslovanje.",
+    "selectTechnology": "Odaberite tehnološko rješenje…",
+    "options": {
+      "aiRobotics": "Rješenja za umjetnu inteligenciju i robotiku",
+      "businessAutomation": "Rješenja za automatizaciju poslovanja",
+      "cloudMigrations": "Rješenja za migraciju u oblak",
+      "dataCenters": "Rješenja za podatkovne centre",
+      "cognitiveAnalytics": "Kognitivna analitika & AI",
+      "informationReporting": "Sustavi informacija i izvješćivanja",
+      "managedServices": "Upravljane usluge",
+      "oneStopSolutions": "Tehnološka rješenja na jednom mjestu"
+    },
+    "explore": "Istražite tehnologiju",
+    "bookDiscovery": "Book Technology Discovery",
+    "exploreAll": "Istražite sve tehnologije",
+    "coreCapabilities": "Osnovne tehnološke mogućnosti",
+    "bookConsultation": "Zakažite konzultacije"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Razgovarajte s višim inženjerom, a ne sa skriptom prodaje",
+    "sub": "Podijelite nešto o svom projektu i mi ćemo vam odgovoriti u roku od jednog radnog dana.",
+    "reachUs": "Kontaktirajte nas izravno",
+    "preferConversation": "Više volite razgovor? Na jedan smo poziv udaljeni.",
+    "contactLede": "Najbrži put naprijed je kratak razgovor. Kontaktirajte nas na bilo kojem kanalu u nastavku ili rezervirajte termin i doći ćemo k vama spremni.",
+    "phone": "Tel",
+    "email": "E-mail",
+    "office": "Ured",
+    "hours": "Sati",
+    "hoursValue": "pon – sub, 9:30 – 18:30 IST",
+    "bookSlot": "Rezervirajte termin za konzultacije",
+    "sendMessage": "Pošaljite nam poruku",
+    "fieldsRequired": "Polja označena * su obavezna.",
+    "fullName": "Puno ime *",
+    "emailLabel": "Email *",
+    "company": "Tvrtka",
+    "subject": "Predmet",
+    "messageLabel": "Poruka *",
+    "sending": "Slanje…",
+    "sendBtn": "Pošalji poruku",
+    "successMsg": "Poruka poslana! Kopija vam je poslana e-poštom.",
+    "errorMsg": "Nije moguće spremiti vašu poruku. Provjerite postoji li tablica contact_messages, a zatim pokušajte ponovno.",
+    "offices": {
+      "vijayawada": "Ured u Vijayawadi",
+      "southAfrica": "Južnoafrički ured"
+    },
+    "placeholders": {
+      "fullName": "Vaše puno ime",
+      "email": "vi@tvrtka.com",
+      "company": "Vaša tvrtka ili organizacija",
+      "subject": "Kako možemo pomoći?",
+      "message": "Recite nam nešto o svom projektu, vremenskoj liniji i ciljevima..."
+    },
+    "validation": {
+      "fullNameRequired": "Molimo unesite svoje puno ime.",
+      "emailRequired": "Molimo unesite svoju email adresu.",
+      "emailInvalid": "Molimo unesite važeću e-mail adresu.",
+      "messageRequired": "Molimo unesite poruku."
+    }
+  },
+  "services": {
+    "eyebrow": "Usluge",
+    "title": "Što radimo",
+    "sub": "Od strategije do upravljanih operacija, pružamo end-to-end tehnološka partnerstva za tvrtke koje se natječu u izvršenju.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Od početka do implementacije",
+        "description": "End-to-end razvoj novih digitalnih rješenja od poslovnih zahtjeva i arhitekture rješenja kroz razvoj, integraciju, testiranje, implementaciju i stalnu podršku."
+      },
+      "businessProcessAutomation": {
+        "label": "Automatizacija poslovnih procesa",
+        "description": "Dizajn i implementacija inteligentnih rješenja za automatizaciju koja pojednostavljuju poslovne procese, eliminiraju ponavljajuće ručne aktivnosti, poboljšavaju operativnu učinkovitost i ubrzavaju poslovne rezultate."
+      },
+      "centerOfExcellence": {
+        "label": "Centar izvrsnosti",
+        "description": "Uspostava specijaliziranih centara za tehnologiju i poslovne sposobnosti koji osiguravaju upravljanje, standarde, stručnost, okvire, imovinu koja se može ponovno koristiti i kontinuirano poboljšanje u cijeloj organizaciji."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Prilagođeni razvoj i prilagodba",
+        "description": "Razvoj i poboljšanje aplikacija, platformi, radnih procesa i poslovnih rješenja za rješavanje jedinstvenih poslovnih zahtjeva i pružanje prilagođene funkcionalnosti."
+      },
+      "digitalTransformation": {
+        "label": "Digitalna transformacija",
+        "description": "Modernizacija poslovnih operacija, tehnoloških ekosustava i korisničkih iskustava kroz oblak, AI, automatizaciju, podatke i moderne aplikacijske tehnologije."
+      },
+      "endToEndSolutionFramework": {
+        "label": "End-to-End okvir rješenja",
+        "description": "Sveobuhvatan pristup isporuci koji pokriva cijeli životni ciklus tehnologije—od strategije, zahtjeva i arhitekture do razvoja, integracije, implementacije, upravljanja, nadzora i podrške."
+      },
+      "migrationModernization": {
+        "label": "Migracija i modernizacija",
+        "description": "Sigurna i strukturirana migracija aplikacija, podataka, platformi, infrastrukture i radnih opterećenja iz naslijeđenih ili postojećih okruženja na moderne, skalabilne i optimizirane tehnološke platforme."
+      },
+      "pocPilotImplementation": {
+        "label": "Dokaz koncepta (PoC) & Pilot implementacija",
+        "description": "Brzi razvoj i validacija tehnoloških rješenja za procjenu tehničke izvedivosti, poslovne vrijednosti, integracijskih zahtjeva, performansi i skalabilnosti prije pune implementacije."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Zajedničke usluge i upravljane operacije",
+        "description": "Centralizirana isporuka tehnologije i operativnih sposobnosti kroz poslovne jedinice kroz standardizirane procese, kvalificirane resurse, okvire upravljanja, upravljanje uslugama i mjerljive razine usluga."
+      },
+      "customDevelopment": {
+        "label": "Od početka do implementacije",
+        "description": "End-to-end razvoj novih digitalnih rješenja od poslovnih zahtjeva i arhitekture rješenja kroz razvoj, integraciju, testiranje, implementaciju i stalnu podršku."
+      },
+      "processAutomation": {
+        "label": "Automatizacija poslovnih procesa",
+        "description": "Dizajn i implementacija inteligentnih rješenja za automatizaciju koja pojednostavljuju poslovne procese, eliminiraju ponavljajuće ručne aktivnosti, poboljšavaju operativnu učinkovitost i ubrzavaju poslovne rezultate."
+      },
+      "solutionEngineering": {
+        "label": "Prilagođeni razvoj i prilagodba",
+        "description": "Razvoj i poboljšanje aplikacija, platformi, radnih procesa i poslovnih rješenja za rješavanje jedinstvenih poslovnih zahtjeva i pružanje prilagođene funkcionalnosti."
+      },
+      "endToEndSolutions": {
+        "label": "End-to-End okvir rješenja",
+        "description": "Sveobuhvatan pristup isporuci koji pokriva cijeli životni ciklus tehnologije—od strategije, zahtjeva i arhitekture do razvoja, integracije, implementacije, upravljanja, nadzora i podrške."
+      },
+      "migrationServices": {
+        "label": "Migracija i modernizacija",
+        "description": "Sigurna i strukturirana migracija aplikacija, podataka, platformi, infrastrukture i radnih opterećenja iz naslijeđenih ili postojećih okruženja na moderne, skalabilne i optimizirane tehnološke platforme."
+      },
+      "pilotPrototyping": {
+        "label": "Dokaz koncepta (PoC) & Pilot implementacija",
+        "description": "Brzi razvoj i validacija tehnoloških rješenja za procjenu tehničke izvedivosti, poslovne vrijednosti, integracijskih zahtjeva, performansi i skalabilnosti prije pune implementacije."
+      },
+      "sharedServices": {
+        "label": "Zajedničke usluge i upravljane operacije",
+        "description": "Centralizirana isporuka tehnologije i operativnih sposobnosti kroz poslovne jedinice kroz standardizirane procese, kvalificirane resurse, okvire upravljanja, upravljanje uslugama i mjerljive razine usluga."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Zakažite konzultacije",
+      "exploreFramework": "Istražite okvir rješenja",
+      "talkSeniorEngineer": "Razgovarajte sa višim inženjerom",
+      "exploreTechStack": "Istražite Technology Stack",
+      "bookPocSession": "Rezervirajte PoC Discovery sesiju",
+      "seeAllServices": "Pogledajte sve usluge",
+      "requestAssessment": "Zatražite procjenu migracije",
+      "exploreCloudSolutions": "Istražite rješenja u oblaku"
+    },
+    "sharedServices": {
+      "heroBadge": "DIJELJENE USLUGE I UPRAVLJANE OPERACIJE",
+      "heroTitle": "Zajedničke usluge poduzeća i upravljane operacije",
+      "heroDesc": "Povećajte poslovne mogućnosti, pojednostavite višefunkcionalne tijekove rada i postignite operativnu izvrsnost kroz standardizirane, sigurne i isplative modele dijeljenih usluga.",
+      "bookDiscovery": "Otkrivanje upravljanih operacija knjiga",
+      "exploreFramework": "Istražite okvir rješenja",
+      "coreCapabilities": "Osnovne mogućnosti:",
+      "managedServices": "Upravljane usluge",
+      "itOperations": "IT operacije",
+      "appSupport": "Podrška za aplikacije",
+      "serviceManagement": "Upravljanje uslugama",
+      "resourceOptimization": "Optimizacija resursa",
+      "slaManagement": "SLA upravljanje",
+      "governance": "Upravljanje",
+      "continuousImprovement": "Kontinuirano poboljšanje",
+      "costOptimization": "Optimizacija troškova",
+      "readyTitle": "Jeste li spremni optimizirati svoje poslovanje?",
+      "readyDesc": "Otkrijte kako naši okviri dijeljenih usluga i upravljanih operacija mogu poboljšati kvalitetu usluge, osigurati kontinuitet rada i potaknuti održivu troškovnu učinkovitost za vaše poduzeće.",
+      "scheduleSession": "Zakažite sesiju otkrivanja"
+    },
+    "solutionEngineering": {
+      "heroBadge": "RJEŠENJE INŽENJERING & ARHITEKTURA",
+      "heroTitle": "Prilagođeni razvoj i prilagodba",
+      "heroDesc": "Arhitektirajte, projektirajte i implementirajte softverske sustave visokih performansi dizajnirane posebno za vaše operativne tijekove rada, podatkovne kanale i zahtjeve za razmjerom."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "BRZE INOVACIJE I EKSPERIMENT",
+      "heroTitle": "Dokaz koncepta (PoC) & Pilot implementacija",
+      "heroDesc": "Validirajte tehnologije u nastajanju, smanjite rizik složenih arhitektura i dokažite poslovnu vrijednost s prototipovima proizvodne razine u tjednima, a ne u kvartalima."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ŽIVOTNI CIKLUS ARHITEKTURA I ISPORUKA",
+      "heroTitle": "End-to-End okvir rješenja",
+      "heroDesc": "Objedinjeni model isporuke koji povezuje otkrivanje proizvoda, arhitekturu rješenja, inženjering, infrastrukturu u oblaku i operacije pouzdanosti 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTURA I MODERNIZACIJA NASLJEĐA",
+      "heroTitle": "Migracija i modernizacija",
+      "heroDesc": "Neometano prenesite naslijeđena radna opterećenja, monolitne arhitekture i lokalnu infrastrukturu na moderne, sigurne i skalabilne platforme u oblaku."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Modernizacija poduzeća",
+        "titlePart1": "Digitalno",
+        "titlePart2": "Transformacija",
+        "description": "Modernizacija poslovnih operacija, tehnoloških ekosustava i korisničkih iskustava kroz oblak, AI, automatizaciju, podatke i moderne aplikacijske tehnologije.",
+        "bookWorkshop": "Radionica transformacije knjige",
+        "exploreFramework": "Istražite okvir rješenja",
+        "startTransformation": "Započni transformaciju",
+        "exploreStrategy": "Istražite strategiju",
+        "coreCapabilitiesTitle": "Osnovne mogućnosti",
+        "coreCapabilities": [
+          "Digitalna strategija",
+          "Transformacija oblaka",
+          "AI i automatizacija",
+          "Modernizacija aplikacije",
+          "Modernizacija nasljeđa",
+          "Podaci i analitika",
+          "Iskustvo kupaca",
+          "Modernizacija tehnologije"
+        ],
+        "row1Eyebrow": "Strategija i plan",
+        "row1Title": "Od vizije do izvršnog plana",
+        "row1P1": "Surađujemo s čelnicima poduzeća kako bismo definirali digitalnu strategiju, poslovne slučajeve i fazne planove s brzim pobjedama i bez rizika izvršenja.",
+        "row1P2": "Prioritetne inicijative, TCO modeli i KPI osiguravaju da je svaki napor modernizacije tehnologije izravno povezan s prihodom, učinkovitošću i rezultatima zadovoljstva korisnika.",
+        "row2Eyebrow": "Modernizacija nasljeđa",
+        "row2Title": "Modernizirajte bez prekida poslovanja",
+        "row2P1": "Re-platformirajte monolite na mikroservise, API-je i uzorke izvorne u oblaku s prekidima bez prekida rada i automatiziranom regresijskom provjerom valjanosti.",
+        "row2P2": "Moderniziramo aplikacije, baze podataka i integracijske slojeve uz očuvanje usklađenosti i sigurnosti.",
+        "row3Eyebrow": "Cloud, AI & Podaci",
+        "row3Title": "Usvajanje oblaka i inteligencija vođena podacima",
+        "row3P1": "Usvojite AWS, Azure i GCP, izgradite moderne podatkovne kanale i ugradite agente strojnog učenja za donošenje autonomnih odluka.",
+        "row3P2": "Od prijenosa događaja u stvarnom vremenu do objedinjenih nadzornih ploča, transformacija postaje mjerljiva i održiva.",
+        "row4Eyebrow": "Iskustvo kupaca",
+        "row4Title": "Moderna višekanalna iskustva",
+        "row4P1": "Redizajnirajte putovanja korisnika preko responzivnog weba, iOS-a, Androida i samouslužnih portala s personaliziranim sučeljima.",
+        "row4P2": "Inženjering platforme, telemetrija i automatizirane povratne sprege čine digitalne inovacije kontinuiranim.",
+        "pillarsTitle": "Stupovi transformacije",
+        "pillarsSub": "Poluge usmjerene na rezultate koje osiguravaju održivo digitalno vodstvo.",
+        "pillar1Title": "Digitalna strategija i upravljanje",
+        "pillar1Desc": "Nacrti fazne transformacije s modeliranjem poslovnog slučaja, upravljanjem arhitekturom i praćenjem rizika.",
+        "pillar2Title": "Oblak i podatkovna platforma",
+        "pillar2Desc": "AWS/Azure/GCP multi-cloud temelji, automatizirani cjevovodi i mogućnost analitike poslovnih podataka.",
+        "pillar3Title": "AI i automatizacija",
+        "pillar3Desc": "Inteligentna automatizacija procesa, kognitivni AI agenti i prediktivna telemetrija za optimizaciju dnevnih operacija.",
+        "pillar4Title": "Iskustvo kupaca",
+        "pillar4Desc": "Višekanalni digitalni portali s visokim stupnjem konverzije i personalizirana sučelja izgrađena za maksimalno zadržavanje korisnika.",
+        "ctaTitle": "Spremni transformirati svoje poduzeće?",
+        "ctaSub": "Partnerstvo s Rezonants za postupnu digitalnu transformaciju bez rizika povezanu s mjerljivim poslovnim ishodima.",
+        "ctaButton": "Rezervirajte poziv za digitalnu transformaciju"
+      },
+      "customDevelopment": {
+        "eyebrow": "Digitalni inženjering od kraja do kraja",
+        "titlePart1": "Početak Za",
+        "titlePart2": "Raspoređivanje",
+        "bookConsultation": "Zakažite konzultacije",
+        "exploreEngineering": "Istražite Inženjering rješenja"
+      },
+      "processAutomation": {
+        "eyebrow": "Inteligentne procesne operacije",
+        "titlePart1": "Poslovni proces",
+        "titlePart2": "Automatizacija",
+        "bookDiscovery": "Book Automation Discovery",
+        "exploreCoE": "Istražite Centar izvrsnosti"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centar grada",
+        "titlePart2": "Izvrsnost",
+        "bookConsultation": "Book CoE Consultation",
+        "exploreCapabilities": "Istražite mogućnosti"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Kompletan životni ciklus tehnologije",
+        "titlePart1": "Od kraja do kraja",
+        "titlePart2": "Okvir rješenja",
+        "startJourney": "Započnite svoje životno putovanje",
+        "exploreTransformation": "Istražite transformaciju"
+      },
+      "migrationServices": {
+        "eyebrow": "Transformacija oblaka i infrastrukture",
+        "titlePart1": "Migracija &",
+        "titlePart2": "Modernizacija",
+        "planMigration": "Planirajte svoju migraciju",
+        "exploreTransformation": "Istražite transformaciju"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Brza provjera valjanosti i izvedivost",
+        "titlePart1": "Dokaz koncepta (PoC) &",
+        "titlePart2": "Pilot implementacija",
+        "initiateDiscovery": "Pokrenite PoC otkrivanje",
+        "exploreDevelopment": "Istražite prilagođeni razvoj"
+      },
+      "solutionEngineering": {
+        "badge": "Digitalni inženjering po mjeri",
+        "bookConsultation": "Zakažite konzultacije",
+        "exploreCapabilities": "Istražite mogućnosti"
+      },
+      "sharedServices": {
+        "eyebrow": "Centralizirano operativno središte",
+        "titlePart1": "Zajedničke usluge &",
+        "titlePart2": "Upravljane operacije",
+        "bookDiscovery": "Otkrivanje upravljanih operacija knjiga",
+        "exploreFramework": "Istražite okvir rješenja"
+      }
+    },
+    "coreCapabilities": "Osnovne mogućnosti"
+  },
+  "products": {
+    "featured": "Istaknuti proizvodi",
+    "featuredSub": "Pojednostavite operacije, povežite timove, automatizirajte procese i potaknite pametniji rast poslovanja.",
+    "seeAll": "Pogledajte sve proizvode",
+    "featuredProducts": "ISTAKNUTI PROIZVODI",
+    "meetAutonomous": "Upoznajte autonomnu radnu snagu",
+    "meetAutonomousText": "Transformirajte svoje operacije s AI agentima koji rade zajedno s vašim timom kako bi se nosili sa složenim zadacima koji se ponavljaju.",
+    "learnMore": "Saznajte više",
+    "erp": {
+      "title": "Jedna platforma spremna za sve",
+      "sub": "Osnaživanje poduzeća s povezanim, inteligentnim i skalabilnim rješenjima za upravljanje poduzećem.",
+      "explore": "Istražite ERP rješenja",
+      "gridTitle": "ERP RJEŠENJA",
+      "promoTitle": "Modularni ERP za rast",
+      "promoText": "Brzo implementirajte modularne ERP značajke bez složenosti tradicionalnih višegodišnjih sustava.",
+      "scheduleDemo": "Demo rasporeda"
+    },
+    "it": {
+      "title": "IT rješenja",
+      "sub": "Infrastruktura, sigurnost i DevOps rješenja na nivou poduzeća za nastavak poslovanja.",
+      "explore": "Istražite IT rješenja",
+      "gridTitle": "IT RJEŠENJA",
+      "promoTitle": "Pouzdana IT infrastruktura",
+      "promoText": "Izgradite otpornu tehnološku osnovu s upravljanim oblakom, sigurnosnim i DevOps uslugama.",
+      "getStarted": "Započnite"
+    },
+    "crm": {
+      "title": "CRM rješenja",
+      "sub": "Upravljanje odnosima s klijentima za pojednostavljenje prodaje, podrške i marketinških tokova rada.",
+      "explore": "Istražite CRM rješenja",
+      "gridTitle": "CRM RJEŠENJA",
+      "promoTitle": "Zatvori više ponuda",
+      "promoText": "Osnažite svoje timove za prodaju i podršku objedinjenim podacima o klijentima i inteligentnom automatizacijom.",
+      "startTrial": "Započni besplatnu probu"
+    },
+    "hrms": {
+      "title": "HRMS rješenja",
+      "sub": "Upravljanje ljudskim resursima koje pokriva obračun plaća, zapošljavanje, učinak i angažman zaposlenika.",
+      "explore": "Istražite HRMS rješenja",
+      "gridTitle": "HRMS RJEŠENJA",
+      "promoTitle": "Pojednostavite HR operacije",
+      "promoText": "Automatizirajte tijekove rada u ljudskim resursima od zapošljavanja do umirovljenja s modernom platformom usmjerenom na zaposlenike.",
+      "requestDemo": "Zatraži demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Istaknuti proizvodi",
+      "erpSolutions": "ERP rješenja",
+      "solutions": "RJEŠENJA"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Inteligentni autonomni agenti i alati koji automatiziraju složene tijekove rada i operacije korisnika."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Multi-cloud platforma za upravljanje optimiziranjem performansi, sigurnosti, usklađenosti i troškova."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hibridno središte za suradnju i produktivnost s integriranim upravljanjem zadacima, chatom i dokumentima."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Motor za analizu u stvarnom vremenu pretvara tokove poslovnih događaja u uvide koji se mogu poduzeti."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Jedinstvena arhitektura poduzeća koja povezuje financije, imovinu, ljudske resurse, nabavu i zalihe."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platforma za iskustvo zaposlenika koja pokriva obračun plaća, beneficije, ocjene učinka i samoposluživanje."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Logističko praćenje u stvarnom vremenu, automatizirano skladištenje i predviđanje potražnje."
+      },
+      "financeHub": {
+        "title": "Financijski centar",
+        "description": "Napredno upravljanje knjigom, tijek rada naplate, automatizirana usklađenost i izvješća o novčanom toku u stvarnom vremenu."
+      },
+      "cloudInfrastructure": {
+        "title": "Infrastruktura oblaka",
+        "description": "Skalabilna arhitektura oblaka, migracija i upravljanje kroz AWS, Azure i GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "End-to-end sigurnosni nadzor, otkrivanje prijetnji i upravljanje usklađenošću."
+      },
+      "devopsPipeline": {
+        "title": "DevOps cjevovod",
+        "description": "CI/CD automatizacija, kontejnerizacija i infrastruktura kao kod za bržu isporuku."
+      },
+      "managedItServices": {
+        "title": "Upravljane IT usluge",
+        "description": "24/7 praćenje infrastrukture, odgovor na incidente i proaktivno održavanje."
+      },
+      "salesCrm": {
+        "title": "Prodajni CRM",
+        "description": "Upravljanje projektima, bodovanje potencijalnih kupaca, praćenje poslova i predviđanje prodaje na jednoj platformi."
+      },
+      "customerSupportHub": {
+        "title": "Središte korisničke podrške",
+        "description": "Ticketing, baza znanja, live chat i upravljanje podrškom za sve kanale."
+      },
+      "marketingAutomation": {
+        "title": "Automatizacija marketinga",
+        "description": "Orkestracija kampanje, automatizacija e-pošte, njegovanje potencijalnih klijenata i analitika."
+      },
+      "customer360View": {
+        "title": "Customer 360 View",
+        "description": "Objedinjeni profili kupaca koji kombiniraju podatke o prodaji, podršci i interakciji."
+      },
+      "coreHr": {
+        "title": "Core HR",
+        "description": "Evidencija zaposlenika, organizacijska hijerarhija, upravljanje dopustima i praćenje prisutnosti."
+      },
+      "payrollCompliance": {
+        "title": "Obračun plaća i usklađenost",
+        "description": "Automatizirana obrada plaća, izračun poreza i zakonska usklađenost."
+      },
+      "performanceManagement": {
+        "title": "Upravljanje učinkom",
+        "description": "OKR praćenje, 360° pregledi, postavljanje ciljeva i planovi razvoja zaposlenika."
+      },
+      "recruitmentPortal": {
+        "title": "Portal za zapošljavanje",
+        "description": "Oglasi za posao, praćenje kandidata, zakazivanje intervjua i tijek rada za uvođenje."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Istaknuti proizvodi",
+        "heading": "Istaknuti proizvodi",
+        "sub": "Pojednostavite operacije, povežite timove, automatizirajte procese i potaknite pametniji rast poslovanja.",
+        "promoTitle": "Upoznajte autonomnu radnu snagu",
+        "promoText": "Transformirajte svoje operacije s AI agentima koji rade zajedno s vašim timom kako bi se nosili sa složenim zadacima koji se ponavljaju.",
+        "items": [
+          {
+            "title": "AI automatizacija i inteligentni agenti",
+            "description": "Automatizirajte zadatke koji se ponavljaju i implementirajte inteligentne AI agente koji poboljšavaju produktivnost, donošenje odluka i poslovne rezultate."
+          },
+          {
+            "title": "IT usluge i digitalna podrška",
+            "description": "Isporučite bržu, pametniju IT podršku s pojednostavljenim upravljanjem uslugama, automatizacijom i digitalnim tijekovima rada."
+          },
+          {
+            "title": "Upravljanje umjetnom inteligencijom poduzeća",
+            "description": "Izgradite odgovorno usvajanje AI uz snažno upravljanje, sigurnost, usklađenost, transparentnost i kontrolu rizika."
+          },
+          {
+            "title": "Inteligentne IT operacije",
+            "description": "Transformirajte IT operacije s nadzorom vođenim umjetnom inteligencijom, automatizacijom, prediktivnim uvidima i proaktivnim rješavanjem problema."
+          },
+          {
+            "title": "Upravljanje korisničkim iskustvom",
+            "description": "Kreirajte personalizirana putovanja korisnika s inteligentnim angažmanom, automatizacijom, analitikom i besprijekornim digitalnim iskustvima."
+          },
+          {
+            "title": "Poslovna strategija i optimizacija portfelja",
+            "description": "Uskladite tehnološka ulaganja s poslovnim ciljevima kako biste optimizirali portfelje, poboljšali učinkovitost i potaknuli održivi rast."
+          },
+          {
+            "title": "Životni ciklus IT imovine i tehnologije",
+            "description": "Upravljajte IT imovinom tijekom njihovog životnog ciklusa uz bolju vidljivost, automatizaciju, kontrolu troškova i tehnološko planiranje."
+          },
+          {
+            "title": "Rizik poduzeća i usklađenost",
+            "description": "Identificirajte, procijenite i upravljajte rizicima poduzeća uz jačanje usklađenosti, kontrola i organizacijske otpornosti."
+          },
+          {
+            "title": "Kibernetička sigurnost i operacije prijetnji",
+            "description": "Zaštitite digitalna okruženja proaktivnim otkrivanjem prijetnji, sigurnosnim operacijama, odgovorom na incidente i kontinuiranim nadzorom."
+          },
+          {
+            "title": "Automatizacija radne snage na terenu",
+            "description": "Osnažite timove na terenu s inteligentnim raspoređivanjem, mobilnim tijekovima rada, automatizacijom i operativnom vidljivošću u stvarnom vremenu."
+          },
+          {
+            "title": "Iskustvo zaposlenika & HR usluge",
+            "description": "Pojednostavite usluge zaposlenicima s digitalnim tijekovima rada, samoposlužnim rješenjima, automatizacijom i personaliziranim iskustvima zaposlenika."
+          },
+          {
+            "title": "Unified Digital Workplace",
+            "description": "Povežite ljude, procese, aplikacije i alate za suradnju kroz sigurno, inteligentno i besprijekorno digitalno radno mjesto."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP rješenja",
+        "heading": "Jedna platforma, spremna za sve",
+        "sub": "Osnaživanje poduzeća s povezanim, inteligentnim i skalabilnim rješenjima za upravljanje poduzećem.",
+        "promoTitle": "Modularni ERP za rast",
+        "promoText": "Brzo implementirajte modularne ERP značajke bez složenosti tradicionalnih višegodišnjih sustava.",
+        "items": [
+          {
+            "title": "Automatizacija poslovnih procesa",
+            "description": "Pojednostavite financije, ljudske resurse, prodaju, nabavu i dnevne operacije."
+          },
+          {
+            "title": "Integrirano poslovno upravljanje",
+            "description": "Povežite odjele, podatke i tijekove rada na jedinstvenoj platformi."
+          },
+          {
+            "title": "Financije i računovodstvo",
+            "description": "Poboljšajte financijsku vidljivost, izvješćivanje, izradu proračuna i usklađenost."
+          },
+          {
+            "title": "HR i obračun plaća",
+            "description": "Pojednostavite procese upravljanja zaposlenicima, prisutnosti, obračuna plaća i ljudskih resursa."
+          },
+          {
+            "title": "Upravljanje lancem opskrbe",
+            "description": "Optimizirajte nabavu, zalihe, dobavljače i logistiku."
+          },
+          {
+            "title": "Prodaja i upravljanje kupcima",
+            "description": "Učinkovito upravljajte potencijalnim kupcima, kupcima, narudžbama i učinkom prodaje."
+          },
+          {
+            "title": "Analitika i izvješćivanje u stvarnom vremenu",
+            "description": "Pretvorite poslovne podatke u korisne uvide za brže donošenje odluka."
+          },
+          {
+            "title": "Cloud ERP rješenja",
+            "description": "Omogućite sigurno, skalabilno i dostupno upravljanje poduzećem s bilo kojeg mjesta."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT rješenja",
+        "heading": "Naša IT rješenja",
+        "sub": "Transformirajte IT operacije s inteligentnim, proaktivnim i skalabilnim digitalnim rješenjima koja poboljšavaju performanse, produktivnost i kontinuitet poslovanja.",
+        "promoTitle": "Pouzdana IT infrastruktura",
+        "promoText": "Izgradite otpornu tehnološku osnovu s upravljanim oblakom, sigurnosnim i DevOps uslugama.",
+        "items": [
+          {
+            "title": "Upravljanje IT uslugama",
+            "description": "Pojednostavite IT usluge, incidente, zahtjeve i tijekove rada za brže rješavanje."
+          },
+          {
+            "title": "Upravljanje IT operacijama",
+            "description": "Pratite infrastrukturu i aplikacije proaktivnim IT operacijama vođenim podacima."
+          },
+          {
+            "title": "Upravljanje IT imovinom",
+            "description": "Učinkovito upravljajte tehnološkom imovinom uz smanjenje troškova, rizika i složenosti životnog ciklusa."
+          },
+          {
+            "title": "Arhitektura poduzeća",
+            "description": "Uskladite poslovnu strategiju s pravom tehnološkom arhitekturom i ulaganjima."
+          },
+          {
+            "title": "Upravljanje oblakom",
+            "description": "Poboljšajte sigurnost oblaka, usklađenost, performanse i upravljanje troškovima."
+          },
+          {
+            "title": "Digitalne operacije",
+            "description": "Automatizirajte IT procese i steknite vidljivost u stvarnom vremenu u svom tehnološkom okruženju."
+          },
+          {
+            "title": "Opservabilnost i praćenje",
+            "description": "Rano otkrijte probleme s performansama i održavajte pouzdana digitalna iskustva."
+          },
+          {
+            "title": "Strateško upravljanje portfeljem",
+            "description": "Povežite IT ulaganja s poslovnim prioritetima i mjerljivim rezultatima."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM rješenja",
+        "heading": "Naša CRM rješenja",
+        "sub": "Isporučite povezana, personalizirana i inteligentna korisnička iskustva kroz cijelo korisničko putovanje.",
+        "promoTitle": "Zatvori više ponuda",
+        "promoText": "Osnažite svoje timove za prodaju i podršku objedinjenim podacima o klijentima i inteligentnom automatizacijom.",
+        "items": [
+          {
+            "title": "Upravljanje korisničkom službom",
+            "description": "Poboljšajte korisničku podršku bržim razrješenjem, samoposluživanjem i inteligentnim tijekovima rada."
+          },
+          {
+            "title": "Automatizacija prodaje",
+            "description": "Automatizirajte prodajne aktivnosti, upravljajte potencijalnim kupcima i pomozite timovima da brže zatvore prilike."
+          },
+          {
+            "title": "Upravljanje prodajom i narudžbama",
+            "description": "Pojednostavite putovanje od potencijalnog klijenta do narudžbe i poboljšajte vidljivost prihoda."
+          },
+          {
+            "title": "Upravljanje terenskim uslugama",
+            "description": "Optimizirajte operacije na terenu, planiranje, otpremu i produktivnost tehničara."
+          },
+          {
+            "title": "Upravljanje korisničkim iskustvom",
+            "description": "Stvorite besprijekorna i personalizirana iskustva na svim dodirnim točkama korisnika."
+          },
+          {
+            "title": "CRM analitika i uvidi",
+            "description": "Pretvorite korisničke podatke u korisne uvide za pametnije poslovne odluke."
+          },
+          {
+            "title": "Automatizacija marketinga",
+            "description": "Automatizirajte kampanje, angažman kupaca i njegovanje potencijalnih klijenata."
+          },
+          {
+            "title": "CRM koji pokreće AI",
+            "description": "Upotrijebite inteligentnu automatizaciju i uvide AI kako biste poboljšali produktivnost i angažman kupaca."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS rješenja",
+        "heading": "Naša HRMS rješenja",
+        "sub": "Osnažite svoju radnu snagu inteligentnim, integriranim i automatiziranim HR rješenjima koja pojednostavljuju upravljanje zaposlenicima i poboljšavaju iskustvo na radnom mjestu.",
+        "promoTitle": "Pojednostavite HR operacije",
+        "promoText": "Automatizirajte tijekove rada u ljudskim resursima od zapošljavanja do umirovljenja s modernom platformom usmjerenom na zaposlenike.",
+        "items": [
+          {
+            "title": "Temeljni menadžment ljudskih resursa",
+            "description": "Učinkovito upravljajte informacijama o zaposlenicima, organizacijskim strukturama i ljudskim procesima."
+          },
+          {
+            "title": "Upravljanje plaćama",
+            "description": "Automatizirajte obračun plaća, obradu plaća, odbitke i usklađenost."
+          },
+          {
+            "title": "Samoposluživanje zaposlenika",
+            "description": "Omogućite zaposlenicima jednostavan pristup HR uslugama, zahtjevima, dokumentima i informacijama."
+          },
+          {
+            "title": "Upravljanje pohađanjem i dopustima",
+            "description": "Pojednostavite praćenje prisutnosti, zahtjeve za odlazak, smjene i radno vrijeme."
+          },
+          {
+            "title": "Zapošljavanje i uključivanje",
+            "description": "Pojednostavite zapošljavanje, upravljanje kandidatima, uključivanje i integraciju zaposlenika."
+          },
+          {
+            "title": "Upravljanje učinkom",
+            "description": "Postavite ciljeve, pratite učinak i podržite kontinuirani razvoj zaposlenika."
+          },
+          {
+            "title": "Učenje i razvoj",
+            "description": "Upravljajte programima obuke, razvojem vještina i rastom zaposlenika."
+          },
+          {
+            "title": "HR analitika i izvješćivanje",
+            "description": "Pretvorite podatke o radnoj snazi u korisne uvide za bolje odluke o ljudskim resursima."
+          },
+          {
+            "title": "HR automatizacija pokretana umjetnom inteligencijom",
+            "description": "Automatizirajte ponavljajuće HR zadatke i isporučite brže, personalizirano iskustvo zaposlenika."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Razvoj aplikacija",
+        "heading": "Naše usluge razvoja aplikacija",
+        "sub": "Izgradite sigurne, skalabilne i visokoučinkovite aplikacije koje ubrzavaju rast poslovanja i pojednostavljuju složene procese.",
+        "promoTitle": "Izradite aplikacije koje korisnici vole",
+        "promoText": "Od ideje do pokretanja, naš tim dizajnira i razvija visokokvalitetne mobilne i web aplikacije koje se skaliraju.",
+        "items": [
+          {
+            "title": "Razvoj aplikacija po narudžbi",
+            "description": "Izradite aplikacije prilagođene vašim jedinstvenim poslovnim zahtjevima."
+          },
+          {
+            "title": "Razvoj web i mobilnih aplikacija",
+            "description": "Isporučite besprijekorna digitalna iskustva na webu, mobilnim uređajima i više uređaja."
+          },
+          {
+            "title": "Razvoj poslovnih aplikacija",
+            "description": "Razvijte skalabilna rješenja koja se integriraju s vašim postojećim poslovnim sustavima."
+          },
+          {
+            "title": "Razvoj s niskim kodom i bez koda",
+            "description": "Ubrzajte isporuku aplikacija s fleksibilnim razvojnim platformama s niskim kodom."
+          },
+          {
+            "title": "API & integracija sustava",
+            "description": "Povežite aplikacije, platforme i sustave trećih strana za besprijekoran protok podataka."
+          },
+          {
+            "title": "Modernizacija aplikacije",
+            "description": "Transformirajte naslijeđene aplikacije u moderna, skalabilna i učinkovita rješenja."
+          },
+          {
+            "title": "Aplikacije koje pokreće AI",
+            "description": "Integrirajte AI, automatizaciju i inteligentne mogućnosti u poslovne aplikacije."
+          },
+          {
+            "title": "Podrška i održavanje aplikacija",
+            "description": "Osigurajte kontinuiranu izvedbu, sigurnost, ažuriranja i pouzdanost."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotika",
+    "businessAutomation": "Automatizacija poslovanja",
+    "cloudMigrations": "Migracije u oblak",
+    "dataCenters": "Podatkovni centri",
+    "cognitiveAnalyticsAi": "Kognitivna analitika & AI",
+    "informationReportingSystems": "Sustavi informacija i izvješćivanja",
+    "managedServices": "Upravljane usluge",
+    "oneStopSolutions": "Rješenja na jednom mjestu"
+  },
+  "servicePage": {
+    "serviceOverview": "Pregled usluge",
+    "whatWeOffer": "Što nudimo",
+    "whyChooseRezonants": "Zašto odabrati Rezonants",
+    "benefitsOfWorking": "Prednosti rada s nama",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Tehnologije koje koristimo",
+    "ourWork": "Naš rad",
+    "relatedProjects": "Povezani projekti",
+    "viewCaseStudy": "Pogledajte studiju slučaja",
+    "readyToDiscuss": "Jeste li spremni razgovarati o svom {{title}} projektu?",
+    "seniorEngineersReady": "Naši stariji inženjeri spremni su vam pomoći u planiranju, dizajnu i izgradnji vašeg rješenja.",
+    "startProject": "Započnite svoj projekt",
+    "howItWorks": "Kako to radi"
+  },
+  "consultation": {
+    "badge": "Rezervirajte besplatne konzultacije",
+    "title": "Isplanirajmo Vaš projekt <span class='hero-accent'>Zajedno</span>",
+    "description": "Zakažite neobavezan poziv s našim konzultantima. Razgovarajte o svojim zahtjevima, istražite ispravan tehnički pristup i dobijte jasnu ponudu — sve u manje od 30 minuta.",
+    "bookSlot": "Rezervirajte svoj termin",
+    "howItWorks": "Kako to radi",
+    "accountRequired": "Potreban račun",
+    "signInToBook": "Prijavite se kako biste rezervirali svoje konzultacije",
+    "accountRequiredText": "Trebat će vam Rezonants račun da zatražite konzultacije. Prijavite se ili ga izradite — potrebno je manje od minute.",
+    "signInToContinue": "Prijavite se za nastavak",
+    "newToRezonants": "Novi ste na Rezonantsu?",
+    "createAccount": "Otvorite račun",
+    "requestMeeting": "Zatražite sastanak",
+    "tellUsAboutProject": "Recite nam nešto o svom projektu",
+    "fillDetails": "Ispunite svoje podatke i potvrdit ćemo vaš termin za konzultacije putem e-pošte.",
+    "fullName": "Puno ime *",
+    "email": "Email *",
+    "phone": "Telefon *",
+    "company": "Tvrtka",
+    "serviceOfInterest": "Usluga od interesa *",
+    "selectService": "Odaberite uslugu…",
+    "preferredDate": "Željeni datum *",
+    "preferredTime": "Preferirano vrijeme *",
+    "selectTimeSlot": "Odaberite termin…",
+    "estimatedBudget": "Procijenjeni proračun",
+    "selectRange": "Odaberite raspon…",
+    "projectRequirements": "Projektni zahtjevi",
+    "booking": "Rezervacija…",
+    "bookFreeConsultation": "Rezervirajte moje besplatne konzultacije",
+    "freeNote": "100% besplatno i bez obveze. Obično odgovaramo u roku od 24 sata.",
+    "whatToExpect": "Što očekivati",
+    "preferToReachUs": "Radije nas kontaktirate izravno?",
+    "callUs": "Nazovite nas",
+    "emailUs": "Pošaljite nam e-poštu",
+    "visitUs": "Posjetite nas",
+    "whyBookWithUs": "Zašto rezervirati kod nas",
+    "freeCallTitle": "Besplatan poziv koji stvarno pomaže",
+    "freeCallNoPressure": "Besplatan poziv, bez pritiska",
+    "freeCallNoPressureText": "Svaka prva konzultacija je besplatna. Ne postoji obveza kupnje — samo iskren savjet.",
+    "seniorConsultants": "Samo za starije konzultante",
+    "seniorConsultantsText": "Vaš sastanak vode stariji inženjeri i konzultanti koji grade za život.",
+    "clearTimelines": "Očistite vremenske okvire i citate",
+    "clearTimelinesText": "Otiđite s definiranim sljedećim korakom, realnim vremenskim okvirom i transparentnim cijenama za vaš projekt.",
+    "services": {
+      "customSoftware": "Razvoj softvera po narudžbi",
+      "webMobile": "Razvoj web i mobilnih aplikacija",
+      "cloudDevops": "Cloud & DevOps rješenja",
+      "aiMl": "AI i strojno učenje",
+      "itConsulting": "IT savjetovanje",
+      "digitalMarketing": "Digitalni marketing i SEO",
+      "erpSolutions": "ERP rješenja",
+      "other": "Ostalo / Još nisam siguran"
+    },
+    "budgets": {
+      "under1L": "Ispod ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Još nije odlučeno"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Shvatite svoje ciljeve",
+        "text": "Prvo slušamo. 30-minutni poziv za mapiranje vaših poslovnih potreba, publike i željenih rezultata."
+      },
+      "technicalDirection": {
+        "title": "Dobijte tehničke upute",
+        "text": "Naši inženjeri dijele pravu arhitekturu, skup i pristup vašem projektu."
+      },
+      "clearQuote": {
+        "title": "Dobijte jasnu ponudu",
+        "text": "Otiđite s transparentnom procjenom, vremenskim okvirom i sljedećim koracima — bez obveze."
+      }
+    },
+    "validation": {
+      "nameRequired": "Potrebno je puno ime.",
+      "emailRequired": "Email je obavezan.",
+      "emailInvalid": "Unesite važeći email.",
+      "phoneRequired": "Broj telefona je obavezan.",
+      "phoneInvalid": "Unesite važeći broj telefona.",
+      "serviceRequired": "Odaberite uslugu.",
+      "dateRequired": "Odaberite željeni datum.",
+      "timeRequired": "Odaberite željeni termin.",
+      "messageTooShort": "Dodajte malo više detalja (barem 10 znakova).",
+      "signInRequired": "Prijavite se kako biste rezervirali konzultacije.",
+      "couldNotBook": "Ne mogu rezervirati vaše konzultacije. Provjerite postoji li stol za konzultacije, a zatim pokušajte ponovno.",
+      "bookedSuccess": "Konzultacije rezervirane! Naš tim će uskoro potvrditi vaš termin putem e-pošte."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Dobro došli natrag",
+    "createAccount": "Napravi račun",
+    "forgotPassword": "Zaboravili ste lozinku",
+    "createNewPassword": "Stvorite novu lozinku",
+    "welcomeBackDesc": "Prijavite se na svoj Rezonants račun.",
+    "createAccountDesc": "Pridružite se Rezonants već danas.",
+    "forgotDesc": "Unesite svoju e-mail adresu i poslat ćemo vam link za resetiranje lozinke.",
+    "recoveryDesc": "Odaberite jaku novu lozinku za svoj račun.",
+    "fullName": "Puno ime",
+    "email": "E-mail",
+    "password": "Lozinka",
+    "newPassword": "Nova lozinka",
+    "confirmPassword": "Potvrdite lozinku",
+    "confirmNewPassword": "Potvrdite novu lozinku",
+    "forgotPasswordLink": "Zaboravili ste lozinku?",
+    "privacyPolicy": "Prihvaćam Rezonants <1>Privatnost i sigurnost</1> pravila.",
+    "sendResetLink": "Pošalji link za ponovno postavljanje",
+    "signIn": "Prijavite se",
+    "signUp": "Prijavite se",
+    "pleaseWait": "Molimo pričekajte…",
+    "rememberedPassword": "Zaboravili ste lozinku?",
+    "signInLink": "Prijavite se",
+    "noAccount": "Nemate račun?",
+    "signUpLink": "Prijavite se",
+    "hasAccount": "Već imate račun?",
+    "changedMind": "Predomislili ste se?",
+    "backToSignIn": "Natrag na prijavu",
+    "resetSent": "Veza za ponovno postavljanje lozinke je poslana! Provjerite svoju e-poštu za izradu nove lozinke.",
+    "passwordUpdated": "Vaša lozinka je ažurirana. Prijavite se sa svojom novom lozinkom.",
+    "accountCreated": "Račun kreiran! Provjerite svoju e-poštu kako biste potvrdili svoju prijavu, a zatim se prijavite.",
+    "validation": {
+      "fullNameRequired": "Potrebno je puno ime.",
+      "emailRequired": "Email je obavezan.",
+      "emailInvalid": "Unesite važeći email.",
+      "passwordRequired": "Lozinka je obavezna.",
+      "passwordMinLength": "Lozinka mora imati najmanje 6 znakova.",
+      "passwordsNoMatch": "Lozinke se ne podudaraju.",
+      "acceptTerms": "Prihvatite Rezonants Pravila privatnosti i Sigurnosna pravila za nastavak."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Razgovarajte s Rezonants AI",
+    "openChatLabel": "Otvorite chat Rezonants AI Assistant",
+    "chatTitle": "Rezonants AI asistent",
+    "online": "Online",
+    "expandLabel": "Proširite chatbot",
+    "minimizeLabel": "Minimiziraj chatbot",
+    "closeLabel": "Zatvori chatbot",
+    "expand": "Proširi",
+    "minimize": "Minimiziraj",
+    "close": "Zatvori",
+    "popularTopics": "Popularne teme",
+    "askPlaceholder": "Pitaj me o Rezonantsu...",
+    "messageLabel": "Pošaljite poruku Rezonants AI asistentu",
+    "sendLabel": "Pošalji poruku",
+    "sendTitle": "Pošalji poruku",
+    "enterToSend": "Enter za slanje · Shift+Enter za novi red",
+    "newChat": "Novi razgovor",
+    "typing": "Rezonants AI tipka",
+    "menuOptions": "Opcije izbornika",
+    "greetingMorning": "Dobro jutro",
+    "greetingAfternoon": "Dobar dan",
+    "greetingEvening": "Dobra večer",
+    "welcomeText": "! 👋 Dobro došli u Rezonants.\nJa sam Rezonants AI asistent. Mogu vam pomoći istražiti naše usluge, tehnologije i podatke za kontakt."
+  },
+  "cookieConsent": {
+    "title": "Cijenimo vašu privatnost",
+    "description": "Koristimo kolačiće kako bismo poboljšali vaše iskustvo pregledavanja. Možete prihvatiti sve kolačiće, odbiti nebitne kolačiće ili prilagoditi svoje postavke. Neophodni kolačići uvijek su omogućeni kako bi se osiguralo ispravno funkcioniranje web stranice.",
+    "acceptAll": "Prihvati sve",
+    "rejectNonEssential": "Odbaci nebitno",
+    "managePreferences": "Upravljanje postavkama",
+    "privacyPolicy": "Politika privatnosti"
+  },
+  "cookiePreferences": {
+    "title": "Upravljanje postavkama kolačića",
+    "description": "Odaberite koje kategorije kolačića dopuštate. Osnovni kolačići ostaju omogućeni kako bi web stranica funkcionirala.",
+    "essential": "Bitno",
+    "essentialDesc": "Potrebno za rad web stranice (autentifikacija, sigurnost, balansiranje opterećenja). To se ne može onemogućiti.",
+    "analytics": "Analitika",
+    "analyticsDesc": "Pomozite nam razumjeti kako posjetitelji koriste stranicu kako bismo je mogli poboljšati. Onemogućeno prema zadanim postavkama.",
+    "marketing": "Marketing",
+    "marketingDesc": "Koristi se za prikazivanje relevantnih ponuda i kampanja. Onemogućeno prema zadanim postavkama.",
+    "cancel": "Odustani",
+    "savePreferences": "Spremi postavke"
+  },
+  "privacy": {
+    "badge": "Pravno",
+    "title": "Politika privatnosti",
+    "description": "Kako Rezonants prikuplja, koristi i štiti vaše osobne podatke i kolačiće.",
+    "lastUpdated": "Zadnje ažuriranje: kolovoz 2026",
+    "managingPreferences": "Upravljanje vašim preferencijama",
+    "managingPreferencesDesc": "U bilo kojem trenutku možete pregledati ili promijeniti koje kolačiće dopuštate na ploči s postavkama kolačića.",
+    "manageCookiePreferences": "Upravljanje postavkama kolačića",
+    "section1": {
+      "title": "1. Podaci koje prikupljamo",
+      "body": [
+        "Prikupljamo podatke koje dajete izravno (kao što su vaše ime i adresa e-pošte kada pošaljete obrazac za kontakt ili kreirate račun) i podatke prikupljene automatski putem kolačića i sličnih tehnologija, kao što su posjećene stranice, vrsta uređaja i približna lokacija."
+      ]
+    },
+    "section2": {
+      "title": "2. Kako koristimo kolačiće",
+      "body": [
+        "Osnovni kolačići su uvijek uključeni jer web stranica bez njih ne može ispravno funkcionirati. Oni pohranjuju sesiju i stanje autentifikacije i pamte vaše postavke kolačića.",
+        "Analitički kolačići pomažu nam razumjeti kako posjetitelji koriste stranicu kako bismo je mogli poboljšati. Marketinški kolačići koriste se za prikazivanje relevantnih ponuda i kampanja. Ove kategorije su omogućene samo uz vaš pristanak i mogu se promijeniti u bilo kojem trenutku na ploči s postavkama kolačića."
+      ]
+    },
+    "section3": {
+      "title": "3. Pravna osnova (GDPR)",
+      "body": [
+        "Osobne podatke obrađujemo na sljedećim pravnim osnovama: vaš pristanak (za nebitne kolačiće i marketing), izvršenje ugovora (za usluge koje tražite), zakonska obveza i legitimni interesi gdje vaša prava nemaju prednost nad njima. Privolu možete povući u bilo kojem trenutku bez utjecaja na zakonitost obrade koja je izvršena prije povlačenja."
+      ]
+    },
+    "section4": {
+      "title": "4. Vaša prava",
+      "body": [
+        "Ovisno o vašoj lokaciji, možete imati pravo na pristup, ispravak, brisanje ili ograničavanje obrade vaših osobnih podataka, na prigovor na obradu i na prenosivost podataka. Također možete podnijeti žalbu lokalnom nadzornom tijelu."
+      ]
+    },
+    "section5": {
+      "title": "5. Zadržavanje i sigurnost podataka",
+      "body": [
+        "Osobne podatke zadržavamo samo onoliko koliko je potrebno za svrhe opisane u ovoj politici. Primjenjujemo odgovarajuće tehničke i organizacijske mjere kako bismo zaštitili vaše podatke od neovlaštenog pristupa, izmjene, otkrivanja ili uništenja."
+      ]
+    },
+    "section6": {
+      "title": "6. Usluge trećih strana",
+      "body": [
+        "Neke kolačiće mogu postaviti dobavljači trećih strana (kao što su analitičke ili oglašivačke platforme) koji nam pomažu u radu web stranice. Ovi davatelji obrađuju podatke prema vlastitim pravilima o privatnosti i samo ako ste pristali na relevantnu kategoriju."
+      ]
+    },
+    "contactUs": "7. Kontaktirajte nas",
+    "contactUsText": "Za pitanja o ovim pravilima ili vašim osobnim podacima, kontaktirajte nas na <1>info@rezonants.com</1> ili nazovite <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Usluge",
+    "title": "Naše usluge",
+    "sub": "End-to-end tehnološka rješenja osmišljena da pomognu tvrtkama u inovacijama, skaliranju i uspjehu.",
+    "learnMore": "Saznajte više",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Od početka do implementacije",
+        "text": "Od početnog koncepta do proizvodne implementacije, isporučujemo skalabilna rješenja izgrađena za stvarne poslovne potrebe."
+      },
+      "businessProcessAutomation": {
+        "title": "Automatizacija poslovnih procesa",
+        "text": "Pojednostavite procese koji se ponavljaju i poboljšajte operativnu učinkovitost putem inteligentne poslovne automatizacije."
+      },
+      "centerOfExcellence": {
+        "title": "Centar izvrsnosti",
+        "text": "Izgradite specijalizirane tehnološke sposobnosti i stručnost za poticanje inovacija, kvalitete i kontinuiranog poboljšanja."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Prilagođeni razvoj i prilagodba",
+        "text": "Prilagođena softverska rješenja dizajnirana prema vašim jedinstvenim poslovnim zahtjevima i radnim procesima."
+      },
+      "digitalTransformation": {
+        "title": "Digitalna transformacija",
+        "text": "Modernizirajte svoje poslovanje digitalnim strategijama, tehnologijama i rješenjima koja stvaraju mjerljiv učinak."
+      },
+      "endToEndSolutionFramework": {
+        "title": "End-to-End okvir rješenja",
+        "text": "Integrirana tehnološka rješenja koja povezuju strategiju, razvoj, implementaciju i tekuće poslovanje."
+      },
+      "migrationModernization": {
+        "title": "Migracija i modernizacija",
+        "text": "Modernizirajte naslijeđene aplikacije i migrirajte sustave na skalabilne, sigurne i učinkovite tehnološke platforme."
+      },
+      "pocPilotImplementation": {
+        "title": "Dokaz koncepta (PoC) & Pilot implementacija",
+        "text": "Brzo potvrdite ideje kroz fokusirane prototipove i pilot implementacije prije potpune implementacije."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Zajedničke usluge i upravljane operacije",
+        "text": "Pouzdane upravljane tehnološke operacije koje poboljšavaju performanse, skalabilnost i kontinuitet poslovanja."
+      }
+    }
+  },
+  "footer": {
+    "company": "Tvrtka",
+    "about": "O",
+    "perspectives": "Perspektive",
+    "technologies": "Tehnologije",
+    "contact": "Kontakt",
+    "services": "Usluge",
+    "getInTouch": "Javite se",
+    "bookConsultation": "Zakažite konzultacije",
+    "copyright": "© {{year}} Rezonants. Sva prava pridržana.",
+    "cookiePreferences": "Postavke kolačića",
+    "privacyPolicy": "Politika privatnosti",
+    "description": "Rezonants je tvrtka za IT usluge i digitalne proizvode u Hyderabadu, Indija. Dizajniramo, gradimo i skaliramo softver za tvrtke koje se natječu u izvedbi.",
+    "locations": "Naše lokacije",
+    "indiaHq": "Hyderabad, Indija — sjedište u Indiji",
+    "southAfrica": "Južnoafrička Republika — REZONANTS PVT LTD",
+    "products": "Proizvodi",
+    "followUs": "Pratite nas",
+    "aboutUs": "O nama",
+    "contactUs": "Kontaktirajte nas",
+    "headline": "Gradimo",
+    "headlineAccent": "što je sljedeće.",
+    "subheadline": "Udružite se s Rezonants kako biste ideje pretvorili u pravi poslovni učinak.",
+    "credoIdeas": "IDEJE",
+    "credoSolutions": "RJEŠENJA",
+    "credoPeople": "LJUDI",
+    "credoBrighterTomorrow": "SVJETLIJE SUTRA",
+    "hyderabadLocation": "Hyderabad, Indija",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Južnoafrička Republika – REZONANTS PVT LTD",
+    "termsOfUse": "Uvjeti korištenja",
+    "accessibility": "Pristupačnost",
+    "quickLinks": "Brze veze",
+    "explore": "Istraži",
+    "vijayawadaOffice": "Ured u Vijayawadi",
+    "allRightsReserved": "Sva prava pridržana.",
+    "hyderabadPin": "Hyderabad, Indija",
+    "southAfricaPin": "Južna Afrika"
+  },
+  "common": {
+    "loading": "Učitavanje...",
+    "error": "Greška",
+    "retry": "Pokušaj ponovno",
+    "close": "Zatvori",
+    "backToTop": "Povratak na vrh",
+    "skipToContent": "Preskoči na sadržaj",
+    "scroll": "Svitak",
+    "whatWeOffer": "Što nudimo",
+    "howItWorks": "Kako to radi"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Traži državu ili kod…",
+    "noResults": "Nisu pronađene zemlje.",
+    "countryCodeLabel": "Pozivni broj države",
+    "required": "Broj telefona je obavezan.",
+    "incomplete": "Telefonski broj mora sadržavati točno {{count}} znamenki.",
+    "tooLong": "Telefonski broj ne može sadržavati više od {{count}} znamenki.",
+    "invalid": "Unesite važeći broj telefona za {{country}}."
+  },
+  "perspectives": {
+    "topic": "Tema:",
+    "published": "Objavljeno:",
+    "readingTime": "Vrijeme čitanja:",
+    "author": "Autor:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Područje tehnologije",
+    "purpose": "Svrha",
+    "talkToExperts": "Razgovarajte s našim stručnjacima",
+    "viewAll": "Pogledaj sve perspektive",
+    "exploreMore": "ISTRAŽITE VIŠE PERSPEKTIVE",
+    "continueExploring": "Nastavite s istraživanjem uvida u tehnologiju poduzeća",
+    "readPerspective": "Pročitajte Perspektiva"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Rješenja za umjetnu inteligenciju i robotiku",
+      "tagline": "Inteligentna tehnologija. Automatizirane operacije. Pametnije poslovanje.",
+      "heroBadge": "Inteligentni autonomni sustavi",
+      "overview": [
+        "Umjetna inteligencija i robotika mijenjaju način na koji organizacije rade, donose odluke i isporučuju vrijednost. Naša rješenja za umjetnu inteligenciju i robotiku pomažu tvrtkama da nadiđu tradicionalnu automatizaciju kombinirajući umjetnu inteligenciju, strojno učenje, računalni vid, inteligentnu automatizaciju procesa i robotiku za rješavanje praktičnih poslovnih izazova.",
+        "Dizajniramo inteligentna rješenja oko mjerljivih poslovnih rezultata. Bez obzira radi li se o zahtjevu za automatizacijom ponavljajućeg rada, analizom velikih količina informacija, otkrivanjem obrazaca, podržavanjem odluka ili uvođenjem robotike u radna okruženja, naš pristup usmjeren je na pouzdanost, skalabilnost, sigurnost i dugoročnu poslovnu vrijednost."
+      ],
+      "transformation": [
+        "Suvremene organizacije generiraju goleme količine podataka i obavljaju tisuće aktivnosti koje se ponavljaju svaki dan. Umjetna inteligencija i robotika mogu transformirati ove aktivnosti u inteligentne, automatizirane tijekove rada koji poboljšavaju produktivnost dok zaposlenicima omogućuju da se usredotoče na odgovornosti veće vrijednosti.",
+        "Naša rješenja mogu pomoći organizacijama da automatiziraju operacije koje se ponavljaju, smanje ručnu intervenciju, poboljšaju točnost, analiziraju složene informacije, podrže brže odluke, optimiziraju korištenje resursa, poboljšaju korisnička iskustva i izgrade skalabilne inteligentne sustave."
+      ],
+      "capabilities": [
+        {
+          "title": "Umjetna inteligencija",
+          "desc": "Razvijamo rješenja vođena umjetnom inteligencijom koja sustavima omogućuju razumijevanje informacija, prepoznavanje obrazaca, generiranje uvida i podržavanje poslovnih odluka."
+        },
+        {
+          "title": "Strojno učenje",
+          "desc": "Razvijamo modele strojnog učenja za predviđanje, klasifikaciju, sustave preporuka, otkrivanje anomalija, prediktivnu analizu i inteligentnu podršku odlučivanju."
+        },
+        {
+          "title": "Obrada prirodnog jezika",
+          "desc": "NLP se može koristiti za obradu dokumenata, razumijevanje teksta, klasificiranje informacija, izdvajanje relevantnog sadržaja i podržavanje konverzacijskih aplikacija."
+        },
+        {
+          "title": "Računalni vid",
+          "desc": "Rješenja računalnog vida mogu podržati klasifikaciju slika, detekciju objekata, inspekciju kvalitete, obradu dokumenata, vizualni nadzor i video analitiku."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotika kombinira softversku inteligenciju s fizičkim sustavima za automatizaciju aktivnosti koje tradicionalno zahtijevaju ručni napor. Prijave mogu uključivati ​​proizvodnju, logistiku, skladištenje, inspekciju, rukovanje materijalima i operativnu podršku."
+        },
+        {
+          "title": "Inteligentna automatizacija procesa",
+          "desc": "AI se može kombinirati s automatizacijom tijeka rada kako bi se stvorili sustavi koji tumače informacije, primjenjuju poslovna pravila ili modele i automatski pokreću odgovarajući proces."
+        }
+      ],
+      "lifecycleSteps": [
+        "Procjena poslovanja",
+        "Analiza podataka",
+        "AI strategija",
+        "Arhitektura rješenja",
+        "Razvoj",
+        "Integracija",
+        "Testiranje",
+        "Raspoređivanje",
+        "Praćenje",
+        "Optimizacija"
+      ],
+      "benefits": [
+        "Veća operativna produktivnost poduzeća",
+        "Značajno smanjenje operativnih troškova",
+        "Brža obrada i odluka u milisekundi",
+        "Poboljšana točnost podataka i tijeka rada",
+        "Optimizirano korištenje fizičkih i računalnih resursa",
+        "Smanjeni operativni rizici i ljudska pogreška",
+        "Besprijekorna skalabilnost na više platformi",
+        "Poboljšana iskustva kupaca i zaposlenika"
+      ],
+      "security": "Enterprise AI rješenja moraju biti dizajnirana s odgovarajućom sigurnošću, kontrolama pristupa, zaštitom podataka, nadzorom, upravljanjem modelom i operativnim zaštitnim mjerama. Ove zahtjeve razmatramo od faze arhitekture preko implementacije i tekućeg održavanja kako bismo osigurali pouzdanu inteligenciju proizvodne razine.",
+      "ctaHeadline": "Izgradite inteligentnu budućnost",
+      "ctaSub": "Učinite svoje poslovanje pametnijim. Automatizirajte ono što je bitno. Gradite za budućnost."
+    },
+    "business-automation-solutions": {
+      "title": "Rješenja za automatizaciju poslovanja",
+      "tagline": "Pojednostavite procese. Uklonite ponavljanje. Ubrzati rast.",
+      "heroBadge": "Optimizacija tijeka rada od kraja do kraja",
+      "overview": [
+        "Automatizacija poslovanja omogućuje organizacijama da zamijene ponavljajuće ručne aktivnosti pojednostavljenim digitalnim tijekovima rada. Naša rješenja za automatizaciju poslovanja pomažu tvrtkama da poboljšaju produktivnost, smanje operativnu složenost, minimiziraju pogreške i stvore dosljedne procese u svim odjelima.",
+        "Analiziramo postojeće tijekove rada, identificiramo uska grla i dizajniramo rješenja za automatizaciju koja povezuju ljude, aplikacije, podatke i poslovne procese."
+      ],
+      "transformation": [
+        "Mnoge organizacije još uvijek ovise o proračunskim tablicama, e-pošti, ručnim odobrenjima, unosu podataka koji se ponavlja, rukovanju dokumentima i nepovezanim aplikacijama. Ovi procesi troše dragocjeno vrijeme zaposlenika i mogu dovesti do kašnjenja, nedosljednosti i pogrešaka.",
+        "Naš pristup automatizaciji usmjeren je na razumijevanje cjelokupnog procesa, uklanjanje nepotrebnih koraka, integraciju sustava i automatizaciju aktivnosti koje pružaju najveću operativnu vrijednost."
+      ],
+      "capabilities": [
+        {
+          "title": "Automatizacija tijeka rada",
+          "desc": "Automatiziramo procese u više koraka koji uključuju zaposlenike, aplikacije, odobrenja, obavijesti i podatke u različitim odjelima."
+        },
+        {
+          "title": "Automatizacija robotskih procesa",
+          "desc": "Softverski roboti mogu obavljati ponavljajuće aktivnosti temeljene na pravilima kao što su unos podataka, ažuriranje sustava, usklađivanje i prijenos informacija."
+        },
+        {
+          "title": "Automatizacija dokumenata",
+          "desc": "Automatizirani radni tijekovi dokumenata mogu izvući informacije, potvrditi podatke, klasificirati dokumente, usmjeriti zahtjeve i pokrenuti nizvodne procese."
+        },
+        {
+          "title": "Automatizacija odobrenja",
+          "desc": "Tijek rada digitalnog odobrenja automatski usmjerava zahtjeve do ispravnih donositelja odluka i pruža uvid u radnje na čekanju u stvarnom vremenu."
+        },
+        {
+          "title": "Automatizacija integracije",
+          "desc": "Povezujemo poslovne aplikacije tako da se informacije mogu automatski kretati između platformi bez nepotrebne ručne intervencije."
+        },
+        {
+          "title": "Automatizacija obavijesti",
+          "desc": "Automatizirana upozorenja i obavijesti pomažu zaposlenicima da odmah odgovore na važne događaje, rokove, iznimke i operativne promjene."
+        }
+      ],
+      "lifecycleSteps": [
+        "Otkrijte",
+        "Analiziraj",
+        "Dizajn",
+        "Automatiziraj",
+        "Integriraj",
+        "test",
+        "Rasporedi",
+        "Monitor",
+        "Optimiziraj"
+      ],
+      "benefits": [
+        "Povećana propusnost tima i operativna brzina",
+        "Dramatično smanjenje pogrešaka ručnog unosa podataka",
+        "Skraćeno vrijeme obrade procesa od kraja do kraja",
+        "Jedinstvena vidljivost kroz poslovne operacije",
+        "Standardizirana usklađenost među odjelima",
+        "Značajno smanjeni operativni troškovi",
+        "Elastični kapacitet za skaliranje radnih opterećenja bez napora",
+        "Osnaženi timovi usmjereni na angažman kupaca i strateški rad"
+      ],
+      "security": "Kombiniramo platforme tijeka rada i RPA s inteligentnim modelima svjesnim konteksta kako bismo osigurali kontrolu pristupa temeljenu na ulogama, sveobuhvatne revizijske tragove i strogu usklađenost u svakoj automatiziranoj transakciji.",
+      "ctaHeadline": "Izgradite učinkovitije operacije",
+      "ctaSub": "Automatizirajte rad koji se ponavlja. Osnažite svoje ljude. Ubrzajte svoje poslovanje."
+    },
+    "cloud-migration-solutions": {
+      "title": "Rješenja za migraciju u oblak",
+      "tagline": "Prijeđite na oblak s povjerenjem.",
+      "heroBadge": "Transformacija u više oblaka",
+      "overview": [
+        "Računalstvo u oblaku postalo je kritična komponenta moderne IT infrastrukture. Organizacije sele aplikacije, baze podataka, radna opterećenja i infrastrukturu u okruženja oblaka kako bi poboljšale skalabilnost, dostupnost, fleksibilnost i operativnu učinkovitost.",
+        "Naše usluge migracije u oblak pomažu organizacijama da procijene svoja trenutna okruženja, definiraju migracijske strategije, izvrše migracije i optimiziraju radna opterećenja nakon prelaska u oblak."
+      ],
+      "transformation": [
+        "Migracija u oblak više je od premještanja poslužitelja iz jednog okruženja u drugo. Uspješna migracija zahtijeva pažljivu procjenu aplikacija, infrastrukture, ovisnosti, sigurnosnih zahtjeva, podataka, performansi, dostupnosti i kontinuiteta poslovanja.",
+        "Kreiramo migracijske strategije na temelju trenutnog okruženja organizacije i budućih ciljeva, odabirom odgovarajućeg migracijskog uzorka za svako radno opterećenje."
+      ],
+      "capabilities": [
+        {
+          "title": "Migracija infrastrukture",
+          "desc": "Migriramo tradicionalne poslužitelje, pohranu, virtualne strojeve i radna opterećenja u moderna okruženja oblaka na AWS, Azure i GCP."
+        },
+        {
+          "title": "Migracija aplikacije",
+          "desc": "Aplikacije se mogu ponovno hostirati, replatformirati, refaktorirati ili redizajnirati ovisno o poslovnim i tehničkim zahtjevima."
+        },
+        {
+          "title": "Migracija baze podataka",
+          "desc": "Migriramo baze podataka uzimajući u obzir cjelovitost podataka, performanse, kompatibilnost, dostupnost, sigurnost i zahtjeve za oporavak."
+        },
+        {
+          "title": "Modernizacija oblaka",
+          "desc": "Migracija postaje prilika za modernizaciju aplikacija korištenjem spremnika, mikrousluga, upravljanih baza podataka, usluga bez poslužitelja i arhitekture izvorne u oblaku."
+        },
+        {
+          "title": "Hibridni oblak",
+          "desc": "Organizacije koje trebaju i lokalnu i infrastrukturu u oblaku mogu usvojiti hibridne arhitekture koje neprimjetno povezuju postojeće sustave s uslugama u oblaku."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Za organizacije koje rade na više platformi u oblaku, pomažemo u osmišljavanju strategija radnog opterećenja koje poboljšavaju fleksibilnost, otpornost i upravljanje."
+        }
+      ],
+      "lifecycleSteps": [
+        "Procjena",
+        "Otkriće",
+        "Mapiranje ovisnosti",
+        "Strategija migracija",
+        "Projektiranje arhitekture",
+        "Migracija pilota",
+        "Migracija podataka",
+        "Migracija aplikacije",
+        "Testiranje",
+        "Migracija proizvodnje",
+        "Optimizacija"
+      ],
+      "benefits": [
+        "Elastična skalabilnost i visoka dostupnost resursa",
+        "Veća fleksibilnost infrastrukture i poslovna agilnost",
+        "Eliminiran fizički teret održavanja podatkovnog centra",
+        "Ubrzana implementacija značajki aplikacije",
+        "Robustan oporavak od katastrofe i otpornost sigurnosne kopije",
+        "Trenutačan pristup modernoj AI u oblaku i upravljanim uslugama",
+        "Optimizirano FinOps upravljanje i smanjenje TCO-a",
+        "Stalna usklađenost i automatizirane sigurnosne ograde"
+      ],
+      "security": "Sigurnost je sastavni dio planiranja migracije. Uzimamo u obzir upravljanje identitetom i pristupom, mrežnu sigurnost, enkripciju u prijenosu i mirovanju, zaštitu podataka, revizije ranjivosti aplikacija, nadzor, sigurnosno kopiranje i oporavak od katastrofe.",
+      "ctaHeadline": "Vaše putovanje u oblak, pravilno isplanirano",
+      "ctaSub": "Modernizirajte svoju infrastrukturu. Ubrzati inovacije. Izgradite skalabilni temelj oblaka."
+    },
+    "data-center-solutions": {
+      "title": "Rješenja za podatkovne centre",
+      "tagline": "Pouzdana infrastruktura za kritične operacije.",
+      "heroBadge": "Infrastruktura kritična za misiju",
+      "overview": [
+        "Podatkovni centri čine temelj modernog digitalnog poslovanja. Aplikacije, baze podataka, poslovni sustavi, komunikacijske platforme i ključne poslovne usluge ovise o pouzdanoj infrastrukturi.",
+        "Naša rješenja za podatkovne centre usmjerena su na projektiranje, modernizaciju, upravljanje i optimizaciju infrastrukturnih okruženja izgrađenih za dostupnost, sigurnost, skalabilnost, performanse i operativnu učinkovitost."
+      ],
+      "transformation": [
+        "Moderan podatkovni centar zahtijeva više od poslužitelja i pohrane. Zahtijeva pažljivo projektiranu infrastrukturu za računalstvo, umrežavanje, sigurnost, napajanje, hlađenje, nadzor, sigurnosno kopiranje i oporavak od katastrofe.",
+        "Pomažemo organizacijama u stvaranju otpornih infrastrukturnih okruženja koja podržavaju kritična radna opterećenja i pružaju temelj za budući tehnološki rast."
+      ],
+      "capabilities": [
+        {
+          "title": "Projektiranje infrastrukture",
+          "desc": "Dizajniramo okruženja na temelju zahtjeva radnog opterećenja, kapaciteta, performansi, dostupnosti, sigurnosti i budućeg rasta."
+        },
+        {
+          "title": "Infrastruktura poslužitelja",
+          "desc": "Podržavamo fizička i virtualna poslužiteljska okruženja za kritične poslovne aplikacije i radna opterećenja."
+        },
+        {
+          "title": "Rješenja za pohranu",
+          "desc": "Prilikom projektiranja okruženja za pohranu uzimamo u obzir performanse, kapacitet, redundanciju, brzi SAN/NAS, sigurnosno kopiranje i zaštitu podataka."
+        },
+        {
+          "title": "Mrežna infrastruktura",
+          "desc": "Dizajniramo mrežna okruženja s odgovarajućom segmentacijom, redundancijom, izvedbom s niskom latencijom, povezivanjem i sigurnosnim kontrolama."
+        },
+        {
+          "title": "Virtualizacija",
+          "desc": "Virtualizacija poboljšava korištenje resursa, fleksibilnost radnog opterećenja i centralizirano upravljanje infrastrukturom."
+        },
+        {
+          "title": "Sigurnosno kopiranje i oporavak od katastrofe",
+          "desc": "Pomažemo organizacijama da uspostave strategije sigurnosnog kopiranja i arhitekturu oporavka osmišljenu da minimizira vrijeme prekida rada i eliminira gubitak podataka."
+        }
+      ],
+      "lifecycleSteps": [
+        "Procjena kapaciteta",
+        "Profiliranje radnog opterećenja",
+        "Arhitektonski nacrt",
+        "Hardver i virtualno dimenzioniranje",
+        "Segmentacija mreže",
+        "Omogućavanje pohrane",
+        "Redundancija i DR testiranje",
+        "Prekid proizvodnje",
+        "Praćenje zdravlja 24/7",
+        "Kontinuirana optimizacija"
+      ],
+      "benefits": [
+        "Zajamčeno 99,999% neprekidnog rada infrastrukture",
+        "Nula pojedinačnih točaka kvara s višeslojnom redundancijom",
+        "Optimizirano računanje poslužitelja i virtualizacija visoke gustoće",
+        "Mrežne arhitekture niske latencije ispod milisekunde",
+        "Ojačana fizička i digitalna sigurnost perimetra",
+        "Proaktivno nadgledanje i automatizirano nadgledanje kvara",
+        "Skalabilna modularna pohrana podataka veličine petabajta",
+        "Predvidljivi ukupni trošak vlasništva i energetska učinkovitost"
+      ],
+      "security": "Sigurnost je integrirana kroz infrastrukturni sloj, pokrivajući mrežnu mikrosegmentaciju, hardverski root-of-trust, zero-trust kontrole pristupa, stalne revizije ranjivosti, obranu krajnjih točaka i stroge operativne politike.",
+      "ctaHeadline": "Infrastruktura spremna za budućnost",
+      "ctaSub": "Izgradite pouzdanu infrastrukturu danas. Stvorite temelje za tehnologiju sutrašnjice."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognitivna analitika & AI",
+      "tagline": "Pretvorite podatke u inteligenciju.",
+      "heroBadge": "Inteligencija od podataka do odluke",
+      "overview": [
+        "Organizacije generiraju ogromne količine informacija putem aplikacija, transakcija, kupaca, operacija, uređaja i digitalnih platformi. Izazov više nije samo prikupljanje podataka; to je razumijevanje tih podataka i njihovo pretvaranje u djelotvornu inteligenciju.",
+        "Naša rješenja za kognitivnu analitiku i umjetnu inteligenciju kombiniraju naprednu analitiku, strojno učenje, umjetnu inteligenciju, obradu podataka i poslovnu inteligenciju kako bi pomogli organizacijama u donošenju boljih odluka."
+      ],
+      "transformation": [
+        "Tradicionalno izvještavanje govori organizacijama što se dogodilo. Napredna analitika može pomoći objasniti zašto se to dogodilo, identificirati što bi se sljedeće moglo dogoditi i podržati odluke o tome što bi se trebalo dogoditi.",
+        "Pomažemo organizacijama da uspostave podatkovna okruženja koja idu dalje od statičnog izvješćivanja prema inteligentnoj analizi i podršci odlučivanju."
+      ],
+      "capabilities": [
+        {
+          "title": "Deskriptivna analitika",
+          "desc": "Razumite povijesnu izvedbu kroz interaktivna izvješća, višedimenzionalne nadzorne ploče, KPI-ove i poslovne metrike."
+        },
+        {
+          "title": "Dijagnostička analitika",
+          "desc": "Identificirajte temeljne odnose, trendove, statističke anomalije i temeljne uzroke poslovnih rezultata."
+        },
+        {
+          "title": "Prediktivna analitika",
+          "desc": "Koristite povijesne podatke i podatke u stvarnom vremenu sa statističkim modelima za prepoznavanje potencijalnih budućih ishoda i zahtjeva."
+        },
+        {
+          "title": "Preskriptivna analitika",
+          "desc": "Ocijenite moguće radnje i podržite optimalne puteve donošenja odluka na temelju predviđenih ishoda i strateških poslovnih ciljeva."
+        },
+        {
+          "title": "Modeli strojnog učenja",
+          "desc": "Razvijte prilagođene modele za predviđanje, klasifikaciju kupaca, preporuke, otkrivanje anomalija prijevare i prediktivno održavanje."
+        },
+        {
+          "title": "Uvidi pokretani umjetnom inteligencijom",
+          "desc": "Primijenite kognitivnu umjetnu inteligenciju na ogromne količine nestrukturiranih informacija kako biste otkrili skrivene obrasce, izvršne sažetke i preporuke."
+        }
+      ],
+      "lifecycleSteps": [
+        "Izvori podataka",
+        "Integracija podataka",
+        "Obrada podataka",
+        "Pohrana podataka",
+        "Analitika",
+        "AI/ML modeli",
+        "Vizualizacija",
+        "Poslovne odluke"
+      ],
+      "benefits": [
+        "Izvršno odlučivanje temeljeno na činjenicama i podacima",
+        "Točno predviđanje potražnje, prihoda i odljeva",
+        "Otkrivanje anomalija i prijevara u stvarnom vremenu",
+        "Duboki 360° uvid u ponašanje korisnika i personalizacija",
+        "Optimiziran opskrbni lanac i operativna učinkovitost",
+        "Ublažen operativni i financijski rizik",
+        "Otkrivanje skrivenih mogućnosti zarade",
+        "Ubrzano vrijeme do uvida u poslovne jedinice"
+      ],
+      "security": "Naši analitički ekosustavi implementiraju end-to-end enkripciju, automatizirano maskiranje podataka, stroga dopuštenja RBAC i upravljanje modelom za zaštitu vlasničkih podataka i održavanje usklađenosti s propisima (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Izgradite strategiju inteligentnih podataka",
+      "ctaSub": "Pretvorite informacije u uvid. Pretvorite uvid u akciju."
+    },
+    "information-reporting-systems": {
+      "title": "Sustavi informacija i izvješćivanja",
+      "tagline": "Prave informacije. U pravo vrijeme. Za bolje odluke.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Poslovni lideri i operativni timovi ovise o točnim informacijama za donošenje učinkovitih odluka. Naši informacijski i sustavi izvješćivanja pomažu organizacijama prikupiti, organizirati, analizirati i prezentirati poslovne informacije putem strukturiranih informacijskih sustava, platformi za izvješćivanje, nadzornih ploča i automatiziranih tokova izvješćivanja.",
+        "Organizacije često imaju informacije raspoređene po aplikacijama, proračunskim tablicama, bazama podataka i operativnim sustavima. To otežava uspostavljanje dosljednog pogleda na poslovni učinak. Pomažemo integrirati izvore informacija u strukturirana okruženja za izvješćivanje koja pružaju pouzdane, dostupne i dosljedne poslovne informacije."
+      ],
+      "transformation": [
+        "Sustav izvješćivanja ne bi trebao samo prikazivati ​​brojeve. Trebao bi pomoći korisnicima da razumiju izvedbu, identificiraju probleme, otkriju prilike i donesu informirane odluke.",
+        "Dizajniramo okruženja za izvješćivanje u skladu s načinom na koji vaša organizacija funkcionira, isporučujući strukturirane ekosustave od podataka do odluke prilagođene svim razinama upravljanja."
+      ],
+      "capabilities": [
+        {
+          "title": "Upravljački informacijski sustavi (MIS)",
+          "desc": "Razviti jedinstvene informacijske sustave koji izvršnom menadžmentu pružaju relevantnu operativnu i stratešku vidljivost."
+        },
+        {
+          "title": "Poslovno izvješćivanje",
+          "desc": "Pretvorite sirove poslovne podatke iz više kanala u strukturirana, standardizirana izvješća koja kontinuirano prate izvedbu."
+        },
+        {
+          "title": "Interaktivne nadzorne ploče",
+          "desc": "Omogućite interaktivnu vidljivost kritičnih poslovnih metrika, KPI-jeva, trendova i aktivnosti odjela u stvarnom vremenu ili prema rasporedu."
+        },
+        {
+          "title": "KPI upravljanje",
+          "desc": "Definirajte, pratite i mjerite značajne operativne KPI-ove koji su izravno usklađeni sa sveobuhvatnim ciljevima rasta poduzeća."
+        },
+        {
+          "title": "Integracija podataka",
+          "desc": "Integrirajte distribuirane izvore podataka u objedinjena skladišta podataka i semantičke slojeve za dosljedno izvješćivanje o jednom staklu."
+        },
+        {
+          "title": "Automatizirano izvješćivanje",
+          "desc": "Automatski generirajte i distribuirajte personalizirana izvješća prema unaprijed definiranim rasporedima, poslovnim pravilima i hijerarhijama primatelja."
+        }
+      ],
+      "lifecycleSteps": [
+        "Poslovni sustavi",
+        "Prikupljanje podataka",
+        "Integracija podataka",
+        "Obrada podataka",
+        "Repozitorij podataka",
+        "Analitika",
+        "Izvješća i nadzorne ploče"
+      ],
+      "benefits": [
+        "Jedan izvor istine u cijelom poduzeću",
+        "Brži pristup operativnim metrikama u stvarnom vremenu",
+        "Potpuna eliminacija ručnog sastavljanja proračunske tablice",
+        "Dosljedni, usklađeni KPI-jevi između odjela",
+        "Vrhunski izvršni nadzor i mogućnost revizije",
+        "Automatizirana distribucija izravno zainteresiranim stranama",
+        "Granularna sigurnost podataka i dopuštenja na razini retka",
+        "Poboljšana agilnost za odgovor na operativne anomalije"
+      ],
+      "security": "Poslovne informacije mogu sadržavati osjetljive operativne, financijske podatke i podatke o klijentima. Naša rješenja za izvješćivanje ugrađuju multifaktorsku autentifikaciju, granularnu autorizaciju temeljenu na ulogama, enkripciju i revizijske zapisnike u arhitekturu izvješćivanja.",
+      "ctaHeadline": "Izvještavanje koje podržava rast",
+      "ctaSub": "Učinite informacije dostupnima. Učinite učinak vidljivim. Donosite bolje odluke."
+    },
+    "managed-services": {
+      "title": "Upravljane usluge",
+      "tagline": "Pouzdane tehnološke operacije. Stručna podrška. Kontinuirano poboljšanje.",
+      "heroBadge": "24/7 IT operacije i podrška",
+      "overview": [
+        "Moderna IT okruženja su složena i stalno se mijenjaju. Organizacije trebaju pouzdanu infrastrukturu, aplikacije, mreže, sigurnost, nadzor i tehničku podršku kako bi poslovanje nastavilo s radom.",
+        "Naše upravljane usluge pružaju kontinuirano upravljanje tehnologijom i operativnu podršku, omogućujući organizacijama da održavaju pouzdana IT okruženja dok se interni timovi fokusiraju na strateške inicijative."
+      ],
+      "transformation": [
+        "Tradicionalna IT podrška često se fokusira na rješavanje problema nakon što se pojave. Upravljane usluge imaju proaktivan pristup kontinuiranim nadgledanjem infrastrukture, aplikacija, sustava i operativnih okruženja.",
+        "Ovaj pristup pomaže u ranom prepoznavanju potencijalnih problema, održavanju performansi, poboljšanju dostupnosti i smanjenju smetnji u radu koje je moguće izbjeći."
+      ],
+      "capabilities": [
+        {
+          "title": "Upravljanje infrastrukturom",
+          "desc": "Podrška tekućem radu, krpanju i upravljanju poslužiteljima, pohranom, virtualizacijskim platformama i infrastrukturom."
+        },
+        {
+          "title": "Upravljanje oblakom",
+          "desc": "Upravljajte radnim opterećenjima u oblaku, resursima u više oblaka, konfiguracijama, nadzorom, performansama i FinOps optimizacijom."
+        },
+        {
+          "title": "Upravljanje mrežom",
+          "desc": "Osigurajte 24/7 nadzor, upravljanje performansama, konfiguracijsku podršku, SD-WAN optimizaciju i rješavanje problema s mrežom."
+        },
+        {
+          "title": "Upravljanje aplikacijama",
+          "desc": "Podržite kritična aplikacijska okruženja putem proaktivnog nadzora, održavanja, rješavanja grešaka i operativnih nadogradnji."
+        },
+        {
+          "title": "Praćenje i promatranje",
+          "desc": "Omogućite sveobuhvatnu vidljivost u stvarnom vremenu stanja sustava, latencije, neprekidnog rada, ovisnosti o infrastrukturi i upozorenja."
+        },
+        {
+          "title": "Upravljanje sigurnosnom kopijom i oporavkom",
+          "desc": "Održavajte automatizirane rasporede sigurnosnog kopiranja, redovito testirajte failovere i osigurajte trenutne mogućnosti oporavka."
+        },
+        {
+          "title": "Sigurnosne operacije (SecOps)",
+          "desc": "Osigurajte kontinuirani sigurnosni nadzor, upravljanje zakrpama, provedbu kontrole pristupa i proaktivno ublažavanje prijetnji."
+        }
+      ],
+      "lifecycleSteps": [
+        "Uključivanje u okruženje",
+        "Otkriće i polazna linija",
+        "Integracija telemetrije",
+        "SLA definicija",
+        "24/7 aktivno praćenje",
+        "Klasifikacija incidenata",
+        "Brza rezolucija",
+        "Analiza uzroka",
+        "Preventivni inženjering",
+        "Kontinuirana optimizacija"
+      ],
+      "benefits": [
+        "Značajno smanjen interni operativni teret",
+        "Proaktivno otkrivanje problema prije nego što to utječe na korisnike",
+        "Zajamčeno 99,99% dostupnosti sustava i neprekidnog rada",
+        "Predvidljivo, transparentno IT operativno budžetiranje",
+        "Trenutačan pristup višim inženjerskim stručnjacima",
+        "Brzo vrijeme odgovora na incident podržano SLA-om",
+        "Automatizirani oporavak od katastrofe i kontinuitet poslovanja",
+        "Kontinuirana optimizacija i modernizacija tehnologije"
+      ],
+      "security": "Naše upravljane operacije pridržavaju se strogih ITIL i ISO okvira, osiguravajući šifrirani pristup, izolirane revizijske zapisnike, čuvanje vjerodajnica s najmanjim privilegijama i usklađivanje usklađenosti u svim upravljanim resursima.",
+      "ctaHeadline": "Kontinuirano poboljšanje",
+      "ctaSub": "Usredotočite se na svoj posao. Pomažemo u održavanju vaše tehnologije."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Tehnološka rješenja na jednom mjestu",
+      "tagline": "Jedan tehnološki partner. Višestruke mogućnosti. Cjelovita poslovna rješenja.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Organizacije često rade s više pružatelja tehnologije za infrastrukturu, oblak, aplikacije, automatizaciju, analitiku, sigurnost, podršku i digitalnu transformaciju. Upravljanje višestrukim dobavljačima može stvoriti složenost, komunikacijske praznine, dvostruke napore i fragmentirana tehnološka okruženja.",
+        "Naš pristup tehnološkim rješenjima na jednom mjestu spaja višestruke mogućnosti u jedinstveni model usluge, pomažući organizacijama da planiraju, implementiraju, integriraju, rade i kontinuirano poboljšavaju svoje tehnološko okruženje."
+      ],
+      "transformation": [
+        "Podržavamo kompletan životni ciklus tehnologije—od razumijevanja poslovnih zahtjeva i definiranja tehnološke strategije do dizajniranja rješenja, implementacije platformi, integracije sustava, postavljanja aplikacija, nadgledanja okruženja i pružanja stalne podrške.",
+        "Cilj je stvoriti povezani tehnološki ekosustav, a ne izolirana rješenja."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategija i arhitektura",
+          "desc": "Razumjeti poslovne ciljeve i dizajnirati skalabilne, sigurne tehnološke arhitekture koje se mogu održavati."
+        },
+        {
+          "title": "Implementacija i izgradnja",
+          "desc": "Implementirajte aplikacije, infrastrukturu, integracije, automatizaciju i digitalne platforme s poslovnom strogošću."
+        },
+        {
+          "title": "Integracija sustava",
+          "desc": "Povežite sustave i aplikacije tako da se informacije neometano kreću kroz cijelu organizaciju."
+        },
+        {
+          "title": "Strukturirana implementacija",
+          "desc": "Uspostavite automatizirane CI/CD i otpustite procese kako biste rješenja premjestili u proizvodnju pouzdano i sigurno."
+        },
+        {
+          "title": "Kontinuirano praćenje",
+          "desc": "Omogućite end-to-end pregled infrastrukture, aplikacija, izvedbe, dostupnosti i operativnog stanja."
+        },
+        {
+          "title": "Optimizacija i podrška",
+          "desc": "Kontinuirano provjeravajte okruženja za poboljšanje performansi, pouzdanosti, troškovne učinkovitosti i skalabilnosti."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategija",
+        "Arhitektura",
+        "Implementacija",
+        "Integracija",
+        "Raspoređivanje",
+        "Praćenje",
+        "Optimizacija",
+        "Podrška"
+      ],
+      "benefits": [
+        "Smanjena složenost i troškovi upravljanja dobavljačima",
+        "Besprijekorna koordinacija na svim arhitektonskim slojevima",
+        "Brže izvršenje projekta s nultim kašnjenjem primopredaje",
+        "Predvidljiva raspodjela proračuna i transparentna isporuka",
+        "Jedinstvena odgovornost poduzeća od nule do razmjera",
+        "Skalabilna rješenja dizajnirana za budući poslovni rast",
+        "Dugoročno pouzdano tehnološko partnerstvo",
+        "Sveobuhvatna digitalna transformacija s kraja na kraj"
+      ],
+      "security": "S jednim pouzdanim partnerom koji nadzire arhitekturu, implementaciju i operacije, upravljanje sigurnošću ostaje neprekinuto na svim razinama—eliminirajući slijepe točke integracije i osiguravajući kontinuiranu usklađenost.",
+      "ctaHeadline": "Vaš potpuni tehnološki partner",
+      "ctaSub": "Jedan partner. Jedna vizija. Višestruke tehnologije. Cjelovita rješenja."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Pregled poduzeća",
+    "overviewTitle": "Inteligentna tehnologija za mjerljive rezultate",
+    "transformationEyebrow": "Operativna transformacija",
+    "transformationTitle": "Transformacija poslovanja kroz inteligentne tijekove rada",
+    "deliveryEyebrow": "Pristup strukturirane isporuke",
+    "deliveryTitle": "Izvršenje od kraja do kraja i kontinuirana optimizacija",
+    "deliveryIntro": "Naš dokazani pristup implementaciji slijedi rigorozan životni ciklus isporuke:",
+    "deliveryOutro": "Ovaj strukturirani slijed osigurava tijesnu usklađenost s poslovnim ciljevima, robusnu sigurnosnu poziciju i mjerljive referentne vrijednosti povrata ulaganja u svakoj fazi.",
+    "securityEyebrow": "Sigurnost i upravljanje",
+    "securityTitle": "Zaštitne mjere pouzdanosti i usklađenosti na nivou poduzeća",
+    "securityOutro": "Ugrađujemo strogu kontrolu pristupa temeljenu na ulogama, automatizirano skeniranje ranjivosti, upravljanje modelom i višeslojnu enkripciju kako bismo osigurali da vaše proizvodno okruženje ostane otporno i potpuno usklađeno.",
+    "capabilitiesTitle": "Osnovne tehnološke mogućnosti",
+    "capabilitiesSub": "Sveobuhvatne tehničke kompetencije osmišljene za skaliranje vaših digitalnih operacija.",
+    "bookDiscovery": "Book Technology Discovery",
+    "exploreAll": "Istražite sve tehnologije",
+    "bookConsultation": "Zakažite konzultacije",
+    "coreCapabilities": "Osnovne mogućnosti"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Osnovne mogućnosti",
+    "exploreFramework": "Istražite okvir rješenja",
+    "bookConsultation": "Zakažite konzultacije",
+    "viewCaseStudies": "Pogledajte studije slučaja",
+    "provenPillars": "Provjereni stupovi",
+    "operationalOutcomes": "Operativni ishodi",
+    "learnMore": "Saznajte više"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Digitalni inženjering od kraja do kraja",
+      "titlePart1": "Početak Za",
+      "titlePart2": "Raspoređivanje",
+      "description": "End-to-end razvoj novih digitalnih rješenja od poslovnih zahtjeva i arhitekture rješenja kroz razvoj, integraciju, testiranje, implementaciju i stalnu podršku.",
+      "bookConsultation": "Zakažite konzultacije",
+      "exploreEngineering": "Istražite Inženjering rješenja",
+      "coreCapabilities": [
+        "Inženjering zahtjeva",
+        "Arhitektura rješenja",
+        "Razvoj aplikacija",
+        "API integracija",
+        "Osiguranje kvalitete",
+        "DevOps",
+        "Raspoređivanje",
+        "Podrška i održavanje"
+      ],
+      "row1Eyebrow": "Isporuka u cijelom životnom ciklusu",
+      "row1Title": "Razvoj od kraja do kraja od zahtjeva do razmjera",
+      "row1P1": "Svaka nova digitalna inicijativa počinje s jedinstvenim zahtjevima, operativnim tijekovima rada i strateškim ciljevima koji se ne mogu ispuniti softverom koji odgovara svima. Specijalizirani smo za izradu prilagođenih softverskih sustava visokih performansi potpuno od nule.",
+      "row1P2": "Od otkrivanja početnih zahtjeva i dizajna tehničke arhitekture do agilnog razvoja sprinta, integracije ekosustava API-ja, robusnih cjevovoda za testiranje i automatiziranih implementacija u oblaku, naši viši inženjerski timovi preuzimaju potpuno vlasništvo nad životnim ciklusom vašeg proizvoda.",
+      "row2Eyebrow": "Arhitektura rješenja i inženjering",
+      "row2Title": "Skalabilni sustavi izgrađeni za rast poduzeća",
+      "row2P1": "Dizajniramo otporne softverske arhitekture skrojene da izdrže velika proizvodna opterećenja. Od modularnih mikroservisa i pozadina vođenih događajima do tokova podataka visoke propusnosti i GraphQL/REST API-ja, gradimo platforme koje se skaliraju bez napora.",
+      "row2P2": "Uspostavom čistih, modularnih baza koda uparenih s automatiziranim testiranjem i kontinuiranom sigurnosnom usklađenošću, osiguravamo da se vaša osnova softvera može održavati, revidirati i spremna za dugoročnu evoluciju.",
+      "row3Eyebrow": "Osiguranje kvalitete & DevOps",
+      "row3Title": "Agilna isporuka s automatiziranim cjevovodima",
+      "row3P1": "Naš model isporuke ugrađuje automatiziranu jedinicu, integraciju i end-to-end regresijsko testiranje uz kontejnerske CI/CD tijekove rada (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Uz transparentne demonstracije sprinta, vidljivost u stvarnom vremenu i brzinu vođenu prekretnicama, osiguravamo brzo vrijeme do tržišta bez ugrožavanja sigurnosti, stabilnosti ili korisničkog iskustva.",
+      "row4Eyebrow": "Uvođenje i podrška",
+      "row4Title": "Pouzdane operacije 24/7 i dugoročna evolucija",
+      "row4P1": "Pokretanje uživo samo je početak. Pružamo proaktivno praćenje, održavanje podržano SLA-om, optimizaciju infrastrukture oblaka, podešavanje performansi i kontinuirano uvođenje značajki.",
+      "row4P2": "Naš inženjerski tim djeluje kao prirodni produžetak vaše organizacije, osiguravajući nula vremena zastoja i kontinuiranu tehnološku superiornost na vašem tržištu.",
+      "pillarsTitle": "Osnovne mogućnosti",
+      "pillarsSub": "Potpune full-stack mogućnosti osmišljene da prevedu vaše ideje od nule do proizvodnje.",
+      "pillar1Title": "Inženjering zahtjeva",
+      "pillar1Desc": "Duboka poslovna analiza, funkcionalne specifikacije i mapiranje korisničkog puta za definiranje točnih granica rješenja.",
+      "pillar2Title": "Arhitektura rješenja",
+      "pillar2Desc": "Skalabilne arhitekture izvorne u oblaku, modeliranje baze podataka, dizajn mikroservisa i sigurnosni temelji bez povjerenja.",
+      "pillar3Title": "Razvoj aplikacija",
+      "pillar3Desc": "Moderne full-stack web i mobilne aplikacije izrađene s čistim kodom, sigurnošću tipa i reaktivnim standardima korisničkog sučelja.",
+      "pillar4Title": "API integracija",
+      "pillar4Desc": "REST/GraphQL API-ji visoke propusnosti, orkestracije webhooka, pristupnici plaćanja i besprijekorna ERP/CRM sinkronizacija treće strane.",
+      "ctaTitle": "Jeste li spremni izgraditi svoje rješenje od početka do implementacije?",
+      "ctaSub": "Partnerstvo s Rezonants za projektiranje, inženjering i implementaciju vaše prilagođene digitalne platforme od poslovnih zahtjeva do proizvodne stvarnosti.",
+      "ctaButton": "Rezervirajte konzultacije o rješenju",
+      "pillar5Title": "Osiguranje kvalitete",
+      "pillar5Desc": "Stroga automatizacija testiranja, testiranje opterećenja/stresa, skeniranje ranjivosti i skupovi regresijskih testova.",
+      "pillar6Title": "DevOps i implementacija",
+      "pillar6Desc": "Automatizirani CI/CD cjevovodi, orkestracija spremnika (Docker/K8s), infrastruktura kao kod i izdanja bez prekida rada.",
+      "pillar7Title": "Podrška i održavanje",
+      "pillar7Desc": "24/7 proaktivno praćenje, zdravstvena telemetrija, revizije performansi, sigurnosno krpanje i tekuće SLA održavanje.",
+      "pillar8Title": "Stalne inovacije",
+      "pillar8Desc": "Uobičajena brzina značajki, integracija analitike podataka, AI poboljšanje i arhitektonske modernizacije."
+    },
+    "processAutomation": {
+      "eyebrow": "Inteligentne procesne operacije",
+      "titlePart1": "Poslovni proces",
+      "titlePart2": "Automatizacija",
+      "description": "End-to-end automatizacija poslovnih tokova, kombinirajući robotsku automatizaciju procesa (RPA), inteligentnu obradu dokumenata, motore poslovnih pravila i integraciju sustava.",
+      "bookDiscovery": "Book Automation Discovery",
+      "exploreFramework": "Istražite okvir rješenja",
+      "coreCapabilities": [
+        "Automatizacija tijeka rada",
+        "Automatizacija robotskih procesa",
+        "Obrada dokumenata",
+        "Integracijsko inženjerstvo",
+        "Poslovna pravila Motori",
+        "Analitika procesa",
+        "Kontinuirana optimizacija",
+        "Integracija naslijeđa"
+      ],
+      "row1Eyebrow": "Automatizacija robotskih procesa",
+      "row1Title": "Inteligentni roboti za velike količine operacija",
+      "row1P1": "Uklonite ponavljajući ručni unos podataka, međusistemska usklađivanja i usmjeravanje dokumenata. Postavljamo poslovne RPA botove koji izvršavaju strukturirane zadatke 24/7 s nultom stopom pogreške.",
+      "row1P2": "Povezivanjem naslijeđenih desktop sučelja, SAP/ERP pozadina i baza podataka u oblaku, softverski botovi oslobađaju vaš tim da se usredotoči na strateške poslovne inicijative.",
+      "row2Eyebrow": "Inteligentna obrada dokumenata",
+      "row2Title": "OCR, strojno učenje i AI dokumenata",
+      "row2P1": "Automatski unosite, klasificirajte i izdvajajte podatke iz faktura, ugovora, osobnih dokumenata i potraživanja. Naši cjevovodi vođeni umjetnom inteligencijom potvrđuju polja prema internim bazama podataka i pokreću automatizirane tijekove rada za odobravanje.",
+      "row2P2": "Postignite stope izravne obrade koje prelaze 95% uz drastično smanjenje vremena obrade s dana na sekunde.",
+      "row3Eyebrow": "Orkestracija procesa",
+      "row3Title": "End-to-end međuplatformska sinkronizacija",
+      "row3P1": "Povežite CRM, ERP, HRMS i bankarske API-je u objedinjene tokove podataka u stvarnom vremenu. Implementiramo okidače vođene događajima, redove poruka i automatizirane zamjenske rukovatelje.",
+      "row3P2": "Informacije besprijekorno teku kroz odjele bez ljudske intervencije, eliminirajući operativne silose i kašnjenja u komunikaciji.",
+      "row4Eyebrow": "Kontinuirana telemetrija",
+      "row4Title": "Analiza procesa u stvarnom vremenu & Kaizen Insights",
+      "row4P1": "Pratite vremena izvršenja procesa, mape topline uskih grla, učestalosti pogrešaka i financijski ROI na upravljačkim nadzornim pločama u stvarnom vremenu.",
+      "row4P2": "Kontinuirana dijagnostika strojnog učenja otkriva nove mogućnosti automatizacije, održavajući vaše poduzeće maksimalno učinkovitim.",
+      "pillarsTitle": "Stupovi automatizacije",
+      "pillarsSub": "Dokazani gradivni blokovi za inteligentne poslovne operacije.",
+      "pillar1Title": "Automatizacija tijeka rada",
+      "pillar1Desc": "Čovjek-u-petlji u više koraka i digitalni tijek rada usklađen s automatiziranim usmjeravanjem i eskalacijom.",
+      "pillar2Title": "Automatizacija robotskih procesa",
+      "pillar2Desc": "Softverski roboti temeljeni na pravilima koji izvršavaju rutinske zadatke unosa podataka, usklađivanja i više aplikacija.",
+      "pillar3Title": "Inteligentna AI automatizacija",
+      "pillar3Desc": "Kognitivni AI agenti koji tumače kontekst, sažimaju nestrukturirani tekst i donose automatizirane odluke.",
+      "pillar4Title": "Optimizacija procesa",
+      "pillar4Desc": "Procesno rudarenje, otkrivanje uskih grla i Kaizen tijek rada koji kontinuirano smanjuje operativne troškove.",
+      "ctaTitle": "Jeste li spremni automatizirati svoje poslovne tijekove?",
+      "ctaSub": "Povežite se s našim arhitektima za automatizaciju kako biste identificirali prilike s visokim povratom ulaganja i implementirali inteligentne digitalne tijekove rada.",
+      "ctaButton": "Rezervirajte konzultacije o automatizaciji"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Inženjerski standard & istraživanje i razvoj",
+      "titlePart1": "Centar grada",
+      "titlePart2": "Izvrsnost",
+      "description": "Centralizirana organizacija starijih arhitekata i stručnjaka za područje posvećena standardizaciji inženjerskih praksi, pokretanju inovacija i ubrzanju digitalnih inicijativa.",
+      "exploreStandards": "Istražite inženjerske standarde",
+      "initiateAssessment": "Pokrenite procjenu CoE",
+      "coreCapabilities": [
+        "Standardi arhitekture",
+        "Višekratni okviri",
+        "Najbolja praksa upravljanja",
+        "Razvoj vještina",
+        "Usporedba kvalitete",
+        "Istraživanje, razvoj i inovacije",
+        "Evaluacija tehnologije",
+        "Upute za više projekata"
+      ],
+      "uptimeLabel": "Radno vrijeme poduzeća",
+      "engineersLabel": "Inženjeri i arhitekti",
+      "deploymentsLabel": "AI & Cloud implementacije",
+      "satisfactionLabel": "Zadovoljstvo klijenata",
+      "row1Eyebrow": "Stup 01 — Tehnički standard",
+      "row1Title": "Softversko inženjerstvo visokih performansi",
+      "row1P1": "Naš centar izvrsnosti uspostavlja standardizirane obrasce dizajna, rigorozna automatizirana testiranja i prakse pregleda koda bez nedostataka koji ubrzavaju vrijeme izlaska na tržište, a tehnički dug drže na nuli.",
+      "row1F1": "Automatizirani cjevovodi za izdavanje CI/CD s DORA metričkom analitikom",
+      "row1F2": "Strogi odbori za reviziju arhitekture i upravljanje mikroservisima",
+      "row1F3": "Kontinuirano sigurnosno praćenje i automatsko krpanje ranjivosti",
+      "row1Btn": "Naučite inženjerske standarde",
+      "row1Tag": "DevOps i inženjerstvo kvalitete",
+      "row2Eyebrow": "Stup 02 — Istraživanje i razvoj inovacije",
+      "row2Title": "AI Innovation Lab & Tehnologija u nastajanju",
+      "row2P1": "Eksperimentiramo s najsuvremenijim modelima strojnog učenja, prilagođenim AI agentima i inteligentnom automatizacijom tijeka rada kako bismo izradili poslovne proizvode sljedeće generacije.",
+      "row2F1": "Enterprise Generative AI & RAG integracija znanja",
+      "row2F2": "Autonomni tijek rada agenta AI za automatizaciju poslovnih procesa",
+      "row2F3": "Optimizacija i fino podešavanje prilagođenog modela strojnog učenja",
+      "row2Btn": "Istražite AI Lab",
+      "row2Tag": "Istraživanje i razvoj umjetne inteligencije i neurona",
+      "row3Eyebrow": "Stup 03 — Infrastruktura",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Dizajniramo i upravljamo otpornim multi-cloud okruženjima izgrađenim na sigurnosnim okvirima bez povjerenja, osiguravajući da vaši podaci ostanu zaštićeni od globalnih cyber prijetnji koje se razvijaju.",
+      "row3F1": "Orkestracija infrastrukture više oblaka AWS, Azure i GCP",
+      "row3F2": "Mrežni pristup bez povjerenja (ZTNA) & IAM politike temeljene na ulogama",
+      "row3F3": "Automatizirano sigurnosno skeniranje spremnika i upravljanje tajnom",
+      "row3Btn": "Istražite oblak i sigurnost",
+      "row3Tag": "Arhitektura oblaka i nulto povjerenje",
+      "pillarsTitle": "Naši temeljni okviri izvrsnosti",
+      "pillarsSub": "Sistematizirane razvojne upute koje pokreću kritične platforme.",
+      "pillar1Title": "Odbor za reviziju arhitekture (ARB)",
+      "pillar1Desc": "Sveobuhvatan nadzor koji osigurava usklađenost svih poslovnih rješenja sa strogim protokolima skalabilnosti, sigurnosti i usklađenosti.",
+      "pillar2Title": "Višekratni akceleratori i biblioteka komponenti",
+      "pillar2Desc": "Vlasnički sustavi dizajna, API početni kitovi i predlošci pozadinskih mikroservisa smanjuju početno vrijeme razvoja za 40%.",
+      "pillar3Title": "Kontinuirano profiliranje performansi",
+      "pillar3Desc": "Napredni cjevovodi za promatranje u stvarnom vremenu koji prate kašnjenje aplikacije, uska grla u propusnosti i korištenje resursa u oblaku.",
+      "pillar4Title": "Poboljšanje vještina talenata i cehovi",
+      "pillar4Desc": "Strukturirani interni cehovi i certifikacije koji njeguju duboka tehnička znanja u oblaku, DevOps-u i primijenjenoj umjetnoj inteligenciji.",
+      "ctaTitle": "Podignite svoj inženjerski standard",
+      "ctaSub": "Udružite se s Rezonantsovim centrom izvrsnosti kako biste izgradili otporne arhitekture oblaka, automatizirali tijekove rada i ubrzali isporuku digitalnih proizvoda.",
+      "ctaButton": "Zakažite konzultacije s izvršnim direktorom",
+      "badge": "REZONANTS COE",
+      "scroll": "Svitak",
+      "p1Title": "Upravljanje i okviri",
+      "p1Desc": "Uspostavite arhitektonsko upravljanje u cijelom poduzeću, zaštitne ograde politike i standarde usklađenosti.",
+      "p1Tag": "Upravljanje",
+      "p2Title": "Tehnološki standardi i arhitektura",
+      "p2Desc": "Definirajte moderne referentne arhitekture, provjerene tehnološke nizove i uzorke mikroservisa.",
+      "p2Tag": "Arhitektura",
+      "p3Title": "Sredstva i knjižnice za višekratnu upotrebu",
+      "p3Desc": "Ubrzajte brzinu razvoja pomoću zajedničkih komponenti, predložaka, početnih kompleta i sustava dizajna.",
+      "p3Tag": "Ponovno korištenje",
+      "p4Title": "Razvoj kompetencija",
+      "p4Desc": "Strukturirana obuka, tehničko mentorstvo i omogućavanje vještina za podizanje sposobnosti timskog inženjeringa.",
+      "p4Tag": "Kompetencija",
+      "p5Title": "Inovacija i tehnologija u nastajanju",
+      "p5Desc": "Istraživanje i razvoj agenata umjetne inteligencije, cjevovoda za automatizaciju i okvira sljedeće generacije za održavanje tržišne prednosti.",
+      "p5Tag": "Inovacija",
+      "p6Title": "Kontinuirano poboljšanje",
+      "p6Desc": "Inženjerska metrika vođena podacima (DORA), SLA benchmarking i stalna optimizacija kvalitete.",
+      "p6Tag": "Kvaliteta"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Digitalni inženjering po mjeri",
+      "titlePart1": "Razvoj po narudžbi &",
+      "titlePart2": "Prilagodba",
+      "description": "Razvoj i poboljšanje aplikacija, platformi, radnih procesa i poslovnih rješenja za rješavanje jedinstvenih poslovnih zahtjeva i pružanje prilagođene funkcionalnosti.",
+      "bookConsultation": "Zakažite konzultacije",
+      "exploreCapabilities": "Istražite mogućnosti",
+      "coreCapabilities": [
+        "Razvoj po narudžbi",
+        "Konfiguracija platforme",
+        "Ekstenzije",
+        "Prilagođeni tijek rada",
+        "Razvoj API-ja",
+        "Integracija sustava",
+        "UI/UX poboljšanje",
+        "Optimizacija performansi"
+      ],
+      "row1Eyebrow": "FUNKCIONALNOST PO MERI",
+      "row1Title": "Posebno prilagođene značajke stvorene za vaš tijek rada",
+      "row1P1": "Standardni poslovni softver često ne zadovoljava specijalizirane poslovne potrebe. Naš prilagođeni inženjerski tim razvija prilagođene aplikacijske module, prilagođena poslovna pravila i specijalizirana proširenja prilagođena vašim operacijama.",
+      "row1P2": "Od prilagođenih CRM i ERP poboljšanja do specijaliziranih operativnih portala, gradimo značajke koje se besprijekorno usklađuju s točnim obrascima tijeka rada vašeg tima.",
+      "row2Eyebrow": "INTEGRACIJA SUSTAVA PODUZEĆA",
+      "row2Title": "Konfiguracija platforme i razvoj API-ja",
+      "row2P1": "Povežite različite softverske sustave u objedinjeni digitalni ekosustav. Projektiramo prilagođene REST i GraphQL API-je, rukovatelje web-dojavnicima i redove poslovnih poruka kako bismo osigurali sinkronizaciju podataka u stvarnom vremenu na svim vašim platformama.",
+      "row2P2": "Bilo da integriramo SaaS alate trećih strana ili proširimo vlasničke lokalne platforme, naše integracijske arhitekture daju prioritet integritetu podataka, propusnosti i nultom vremenu zastoja.",
+      "row3Eyebrow": "UI/UX & IZVEDBA",
+      "row3Title": "UI/UX poboljšanja i optimizacija performansi",
+      "row3P1": "Poboljšajte naslijeđena sučelja s modernim, odgovarajućim korisničkim iskustvima dizajniranim za brzinu i jasnoću. Ponovno projektiramo sučelja s intuitivnim uzorcima dizajna, usklađenošću pristupačnosti i pojednostavljenim modelima interakcije.",
+      "row3P2": "Paralelno, naši inženjeri za performanse optimiziraju upite baze podataka, strategije predmemoriranja i veličine paketa sučelja kako bi pružili trenutna vremena odgovora na svim uređajima.",
+      "pillarsTitle": "Projektirano prema Vašim točnim specifikacijama",
+      "pillarsSub": "Metodologije prilagodbe na razini poduzeća izgrađene za neprimjetno skaliranje.",
+      "pillar1Title": "Prilagođeni tijek rada i proširenja",
+      "pillar1Desc": "Prilagođena logika aplikacije i automatizirani strojevi stanja konfigurirani posebno prema vašim internim operativnim pravilima.",
+      "pillar2Title": "API & Integracija sustava",
+      "pillar2Desc": "Sigurni, autentificirani podatkovni mostovi koji povezuju vlasničke pozadine, ERP pakete, pristupnike plaćanja i usluge u oblaku.",
+      "pillar3Title": "Konfiguracija platforme",
+      "pillar3Desc": "Duboke arhitektonske prilagodbe koje modificiraju poslovni softver bez kršenja putanje nadogradnje ili ugovora o podršci dobavljača.",
+      "pillar4Title": "Optimizacija performansi",
+      "pillar4Desc": "Agresivno profiliranje upita, eliminacija curenja memorije i rubna distribucija CDN-a za učitavanja stranica ispod sekunde.",
+      "ctaTitle": "Jeste li spremni prilagoditi svoju poslovnu platformu?",
+      "ctaSub": "Povežite se s našim arhitektima rješenja kako biste dizajnirali i implementirali prilagođene module, tijekove rada i integracije prilagođene vašim poslovnim potrebama.",
+      "ctaButton": "Rezervirajte poziv za prilagođavanje",
+      "badge": "Digitalni inženjering po mjeri",
+      "viewAllServices": "Pogledaj sve usluge"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Modernizacija poduzeća",
+      "titlePart1": "Digitalno",
+      "titlePart2": "Transformacija",
+      "description": "Sveobuhvatna modernizacija poslovnih procesa, tehnoloških arhitektura i operativnih modela za poticanje organizacijske agilnosti, operativne učinkovitosti i održivog digitalnog rasta.",
+      "startTransformation": "Započni transformaciju",
+      "exploreStrategy": "Istražite strategiju",
+      "coreCapabilities": [
+        "Strategija i planovi",
+        "Modernizacija arhitekture",
+        "Oblak i infrastruktura",
+        "Podaci i analitika",
+        "Digitalizacija procesa",
+        "Iskustvo kupaca",
+        "Upravljanje promjenama",
+        "Agilni operativni modeli"
+      ],
+      "row1Eyebrow": "Strategija i plan",
+      "row1Title": "Od vizije do izvršnog plana",
+      "row1P1": "Surađujemo s čelnicima poduzeća kako bismo definirali digitalnu strategiju, poslovne slučajeve i planove u fazama s brzim pobjedama i izvršenjem bez rizika.",
+      "row1P2": "Prioritetne inicijative, TCO modeli i KPI osiguravaju da je svaki napor modernizacije tehnologije izravno povezan s prihodima, učinkovitošću i rezultatima zadovoljstva korisnika.",
+      "row2Eyebrow": "Modernizacija nasljeđa",
+      "row2Title": "Modernizirajte bez prekida poslovanja",
+      "row2P1": "Re-platformirajte monolite na mikroservise, API-je i uzorke izvorne u oblaku s prekidima bez prekida rada i automatiziranom regresijskom provjerom valjanosti.",
+      "row2P2": "Moderniziramo aplikacije, baze podataka i integracijske slojeve uz očuvanje usklađenosti i sigurnosti.",
+      "row3Eyebrow": "Cloud, AI & Podaci",
+      "row3Title": "Usvajanje oblaka i inteligencija vođena podacima",
+      "row3P1": "Usvojite AWS, Azure i GCP, izgradite moderne podatkovne kanale i ugradite agente strojnog učenja za donošenje autonomnih odluka.",
+      "row3P2": "Od prijenosa događaja u stvarnom vremenu do objedinjenih nadzornih ploča, transformacija postaje mjerljiva i održiva.",
+      "row4Eyebrow": "Iskustvo kupaca",
+      "row4Title": "Moderna višekanalna iskustva",
+      "row4P1": "Redizajnirajte putovanja korisnika preko responzivnog weba, iOS-a, Androida i samouslužnih portala s personaliziranim sučeljima.",
+      "row4P2": "Inženjering platforme, telemetrija i automatizirane povratne sprege čine digitalne inovacije kontinuiranim.",
+      "pillarsTitle": "Stupovi transformacije",
+      "pillarsSub": "Poluge usmjerene na rezultate koje osiguravaju održivo digitalno vodstvo.",
+      "pillar1Title": "Digitalna strategija i upravljanje",
+      "pillar1Desc": "Nacrti fazne transformacije s modeliranjem poslovnog slučaja, upravljanjem arhitekturom i praćenjem rizika.",
+      "pillar2Title": "Oblak i podatkovna platforma",
+      "pillar2Desc": "AWS/Azure/GCP multi-cloud temelji, automatizirani cjevovodi i mogućnost analitike poslovnih podataka.",
+      "pillar3Title": "AI & Automatizacija",
+      "pillar3Desc": "Inteligentna automatizacija procesa, kognitivni AI agenti i prediktivna telemetrija za optimizaciju dnevnih operacija.",
+      "pillar4Title": "Iskustvo kupaca",
+      "pillar4Desc": "Višekanalni digitalni portali s visokom pretvorbom i personalizirana sučelja izgrađena za maksimalno zadržavanje korisnika.",
+      "ctaTitle": "Spremni transformirati svoje poduzeće?",
+      "ctaSub": "Partner s tvrtkom Rezonants za postupnu digitalnu transformaciju bez rizika povezanu s mjerljivim poslovnim ishodima.",
+      "ctaButton": "Rezervirajte poziv za digitalnu transformaciju",
+      "bookWorkshop": "Radionica transformacije knjige",
+      "exploreFramework": "Istražite okvir rješenja",
+      "coreCapabilitiesTitle": "Osnovne mogućnosti"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Kompletan životni ciklus tehnologije",
+      "titlePart1": "Rješenje s kraja na kraj",
+      "titlePart2": "Okvir",
+      "description": "Strukturirani okvir isporuke s punim životnim ciklusom koji obuhvaća poslovne zahtjeve, dizajn arhitekture, inženjering, integraciju, osiguranje kvalitete, implementaciju oblaka i upravljane operacije.",
+      "startJourney": "Započnite svoj projekt",
+      "exploreFramework": "Istražite Framework",
+      "coreCapabilities": [
+        "Analiza zahtjeva",
+        "Projektiranje arhitekture",
+        "Full-Stack razvoj",
+        "Integracijsko inženjerstvo",
+        "Osiguranje kvalitete",
+        "Implementacija i uvođenje",
+        "Operacije u tijeku",
+        "Kontinuirana evolucija"
+      ],
+      "row1Eyebrow": "Strategija i arhitektura",
+      "row1Title": "Inženjering zahtjeva i dizajn rješenja",
+      "row1P1": "Suradničke radionice, mapiranje poslovne domene i specifikacije arhitekture oblaka dizajnirane za uklanjanje rizika prije nego što se napiše linija koda.",
+      "row1P2": "Definiramo modele podataka, sigurnosne okvire i prekretnice skalabilnosti koje postavljaju dugoročni uspjeh.",
+      "row2Eyebrow": "Inženjering i kvaliteta",
+      "row2Title": "Full-Stack razvoj i automatsko testiranje",
+      "row2P1": "Modularne mikrousluge, API-ji sigurni za tipove i responzivna sučelja u kombinaciji s automatiziranom jedinicom, integracijom i sigurnosnim skeniranjem.",
+      "row2P2": "Cjevovodi kontinuirane integracije s GitHub radnjama, Terraformom i automatiziranim sigurnosnim ogradama.",
+      "row3Eyebrow": "Uvođenje i operacije",
+      "row3Title": "Implementacija u oblaku i 24/7 upravljani nadzor",
+      "row3P1": "Orkestracija u više oblaka na AWS/Azure/GCP s automatskim vraćanjem na staro, prekidima bez prekida rada i mogućnošću promatranja u stvarnom vremenu.",
+      "row3P2": "Pružamo održavanje podržano SLA-om i kontinuirani nadzor telemetrije kako bismo neprimjetno razvijali vaš proizvod.",
+      "row4Eyebrow": "Upravljanje poduzećem",
+      "row4Title": "Jedinstveno upravljanje i stalna podrška",
+      "row4P1": "Odgovornost u jednoj točki za cijeli vaš digitalni skup — transparentna brzina sprinta, predvidljiv proračun i stalne inovacije.",
+      "row4P2": "Redovito predstavljanje značajki i ciklusi modernizacije drže vaše poduzeće ispred konkurencije.",
+      "pillarsTitle": "Stupovi okvira životnog ciklusa",
+      "pillarsSub": "Svaka faza projektirana s poslovnom strogošću.",
+      "pillar1Title": "Strategija i zahtjevi",
+      "pillar1Desc": "Otkrivanje domene, arhitektonski planovi i usklađivanje dionika kako bi se uklonili rizici izvršenja.",
+      "pillar2Title": "Arhitektura i gradnja",
+      "pillar2Desc": "Otporne mikrousluge izvorne u oblaku, API integracije i kontinuirano testiranje kvalitete.",
+      "pillar3Title": "Sigurnost i implementacija",
+      "pillar3Desc": "Sigurnosna usklađenost s nultim povjerenjem, izdanja u spremnicima i automatizirana implementacija u oblaku.",
+      "pillar4Title": "Upravljanje i podrška",
+      "pillar4Desc": "24/7 SLA praćenje, zdravstvena telemetrija i kontinuirani evolucijski inženjering.",
+      "ctaTitle": "Trebate partnera za cijeli životni ciklus?",
+      "ctaSub": "Posjedujemo cijeli životni ciklus tehnologije kako bi se vaš tim mogao usredotočiti na osnovne poslovne rezultate.",
+      "ctaButton": "Partner za cijeli životni ciklus"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformacija oblaka i infrastrukture",
+      "titlePart1": "Migracija &",
+      "titlePart2": "Modernizacija",
+      "description": "Sigurna, strukturirana migracija naslijeđenih aplikacija, baza podataka i infrastrukture na moderne arhitekture oblaka, uparena s kontinuiranom modernizacijom za poboljšanu agilnost i učinkovitost.",
+      "bookAssessment": "Procjena migracije knjiga",
+      "exploreStrategy": "Istražite Cloud strategiju",
+      "coreCapabilities": [
+        "Migracija u oblak",
+        "Modernizacija aplikacije",
+        "Migracija baze podataka",
+        "Ponovno hostiranje infrastrukture",
+        "Kontejnerizacija",
+        "Prijelaz mikroservisa",
+        "Optimizacija performansi",
+        "Sigurnost i sukladnost"
+      ],
+      "row1Eyebrow": "Migracija u oblak",
+      "row1Title": "Multi-Cloud strategija & Lift-and-Optimize",
+      "row1P1": "Besprijekorna migracija radnog opterećenja preko AWS-a, Azurea i Google Clouda s automatskim otkrivanjem, planiranjem valova i bez prekida poslovanja.",
+      "row1P2": "Usklađujemo ponovno hosting, replatforming i refactoring kako bismo optimizirali ukupne troškove vlasništva (TCO) i agilnost.",
+      "row2Eyebrow": "Migracija podataka i baze podataka",
+      "row2Title": "Sigurni ETL i automatizirana provjera valjanosti podataka",
+      "row2P1": "Automatizirana replikacija baze podataka, prijevod sheme i ETL cjevovodi visoke propusnosti sa 100% provjerom integriteta podataka.",
+      "row2P2": "Rehabilitacija bez prekida rada osigurava potpunu dosljednost podataka i kontinuitet poslovanja.",
+      "row3Eyebrow": "Modernizacija platforme",
+      "row3Title": "Kontejnerizacija i Kubernetes orkestracija",
+      "row3P1": "Modernizirajte naslijeđene monolite u skalabilne mikroservise orkestrirane putem Kubernetesa (EKS, AKS, GKE) s automatiziranim IaC nacrtima.",
+      "row3P2": "Profiliranje performansi nakon migracije i optimizacija troškova osiguravaju trenutačni ROI.",
+      "row4Eyebrow": "Planiranje prekida",
+      "row4Title": "Automatizirano testiranje i sigurnosne mreže vraćanja",
+      "row4P1": "Runbookovi testirani u bitkama, paketi automatizirane regresije i mehanizmi za trenutno vraćanje za potpuni mir.",
+      "row4P2": "Zdravstvena telemetrija nakon migracije i hiperskrb 24/7 jamče besprijekornu stabilnost proizvodnje.",
+      "pillarsTitle": "Migracijska osiguranja",
+      "pillarsSub": "Nerizični potezi podržani SLA-ovima za poduzeća.",
+      "pillar1Title": "Prekid bez prekida rada",
+      "pillar1Desc": "Canary izdanja i sinkronizacija dvostrukog pisanja baze podataka kako bi se osigurao nesmetan korisnički pristup.",
+      "pillar2Title": "Automatizirana provjera valjanosti podataka",
+      "pillar2Desc": "Usporedbe kontrolnih zbrojeva, revizije integriteta shema i automatizirano ETL usklađivanje.",
+      "pillar3Title": "Vraćanje sigurnosnih mreža",
+      "pillar3Desc": "Strogi protokoli oporavka od katastrofe i probne vježbe za suzbijanje rizika u svakoj fazi.",
+      "pillar4Title": "Optimizacija performansi i troškova",
+      "pillar4Desc": "Uključene su nadzorne ploče za pravljenje oblaka, pravila automatskog skaliranja i upravljanje troškovima.",
+      "ctaTitle": "Spremni za migraciju s potpunim povjerenjem?",
+      "ctaSub": "Udružite se s Rezonants za strukturirani oblak bez rizika i modernizaciju podataka.",
+      "ctaButton": "Planirajte svoju radionicu migracije"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Brza provjera valjanosti i izvedivost",
+      "titlePart1": "Dokaz koncepta (PoC) &",
+      "titlePart2": "Pilot implementacija",
+      "description": "Brzi razvoj i validacija tehnoloških rješenja za procjenu tehničke izvedivosti, poslovne vrijednosti, integracijskih zahtjeva, performansi i skalabilnosti prije pune implementacije.",
+      "initiateDiscovery": "Pokrenite PoC otkrivanje",
+      "exploreDevelopment": "Istražite prilagođeni razvoj",
+      "coreCapabilities": [
+        "PoC razvoj",
+        "Izrada prototipa",
+        "Studije izvodljivosti",
+        "Validacija arhitekture",
+        "Integracijsko testiranje",
+        "Usporedba performansi",
+        "Uvođenje pilota",
+        "Procjena vrijednosti"
+      ],
+      "row1Eyebrow": "Brza provjera valjanosti",
+      "row1Title": "Od koncepta do potvrđene izvedivosti",
+      "row1P1": "Pretvaranje ideje u rješenje na razini poduzeća zahtijeva rigoroznu provjeru valjanosti unaprijed. Naša PoC & Pilot usluga procjenjuje održivost tehnologije, testira stres kritične spojnice integracije i provjerava ROI poslovanja prije velikih kapitalnih obveza.",
+      "row1P2": "Konstruiramo visokovjerne MVP-ove i fokusirane sandbox pilote koji dokazuju tehničku izvedivost, mjere latenciju sustava i rano prikupljaju izravne provjere valjanosti dionika.",
+      "row1Cap": "Brza MVP izrada prototipova i tehnička mjerila",
+      "row2Eyebrow": "Agilna izrada prototipova",
+      "row2Title": "Interaktivni MVP-ovi i UX validacija",
+      "row2P1": "Gradimo interaktivne žičane okvire, korisničke tokove koji se mogu kliknuti i funkcionalne dokaze koncepata u danima, a ne mjesecima. Testirajte stvarne korisničke interakcije, poboljšajte UI/UX uzorke i prikupite korisne povratne informacije od dionika.",
+      "row2P2": "Skraćivanjem petlji povratnih informacija tijekom ranog razvoja, vaš tim smanjuje preradu i uspostavlja jasne tehničke specifikacije prije nego započnu kapitalno intenzivne faze izgradnje.",
+      "row2Cap": "Brza iteracija i klikabilni UX prototipovi",
+      "row3Eyebrow": "Testiranje integracije i skalabilnosti",
+      "row3Title": "Integracije složenih sustava za smanjenje rizika",
+      "row3P1": "Otkrijte tehnička uska grla, ograničenja API-ja i ograničenja performansi prije potpunog ulaganja kapitala. Naš pilot inženjerski tim testira integracije, podatkovne kanale i API-je trećih strana u izoliranim sandbox okruženjima.",
+      "row3P2": "Ovo proaktivno ublažavanje rizika osigurava visoku dostupnost sustava, sigurnosnu usklađenost i predvidljive vremenske okvire razvoja prilikom prijelaza vašeg PoC-a u proizvodnju poduzeća.",
+      "row3Cap": "Integracija sandboxa i testiranje otpornosti na stres",
+      "row4Eyebrow": "Pilot kontrolirane proizvodnje",
+      "row4Title": "Ciljano pokretanje pilota i provjera poslovnog slučaja",
+      "row4P1": "Postavite ciljana pilot izdanja na odabrani korisnički segment ili testno tržište. Pratite metriku izvedbe, analitiku prihvaćanja korisnika i operativne povratne informacije kako biste kvantificirali poslovnu vrijednost i uspostavili poslovni slučaj utemeljen na podacima.",
+      "row4P2": "Uz pilot uvide u stvarni svijet, izvršni sponzori dobivaju jasne metrike povrata ulaganja kako bi opravdali širu implementaciju i strateška ulaganja u digitalnu transformaciju.",
+      "row4Cap": "Kontrolirana implementacija i telemetrija performansi",
+      "pillarsTitle": "Naša načela pilotiranja",
+      "pillarsSub": "Vodeća načela koja tehničku neizvjesnost pretvaraju u predvidljiv poslovni uspjeh.",
+      "pillar1Title": "Izrada prototipa PoC i MVP",
+      "pillar1Desc": "Brzo isporučite funkcionalne prototipove kako biste potvrdili vrijednosne prijedloge rano u životnom ciklusu.",
+      "pillar2Title": "Izvedivost i validacija",
+      "pillar2Desc": "Provjerite kompatibilnost API-ja, pragove propusnosti i ograničenja usklađenosti u sandbox okruženjima.",
+      "pillar3Title": "Procjena skalabilnosti",
+      "pillar3Desc": "Simulirajte opterećenje proizvodnje kako biste uspostavili ograničenja kapaciteta i odredili veličinu arhitekture oblaka.",
+      "pillar4Title": "Validacija poslovnog slučaja",
+      "pillar4Desc": "Kvantificirajte opipljiv ROI i metriku produktivnosti za podršku odlukama o uvođenju na razini poduzeća.",
+      "ctaTitle": "Jeste li spremni potvrditi svoje sljedeće digitalno rješenje?",
+      "ctaSub": "Povežite se s našim inženjerskim timom rješenja kako biste istražili zahtjeve vašeg projekta, izradili prototip i testirali izvedivost bez rizika.",
+      "ctaButton": "Rezervirajte PoC konzultacije"
+    },
+    "sharedServices": {
+      "eyebrow": "Centralizirano operativno središte",
+      "titlePart1": "Zajedničke usluge &",
+      "titlePart2": "Upravljane operacije",
+      "description": "Centralizirana isporuka tehnologije i operativnih sposobnosti kroz poslovne jedinice kroz standardizirane procese, kvalificirane resurse, okvire upravljanja, upravljanje uslugama i mjerljive razine usluga.",
+      "bookDiscovery": "Otkrivanje upravljanih operacija knjiga",
+      "exploreFramework": "Istražite okvir rješenja",
+      "coreCapabilities": [
+        "Upravljane usluge",
+        "IT operacije",
+        "Podrška za aplikacije",
+        "Upravljanje uslugama",
+        "Optimizacija resursa",
+        "Upravljanje SLA",
+        "Upravljanje",
+        "Kontinuirano poboljšanje",
+        "Optimizacija troškova"
+      ],
+      "row1Eyebrow": "Unified Delivery Hub",
+      "row1Title": "Standardizirane usluge u svim poslovnim jedinicama",
+      "row1P1": "Konsolidirajte pozadinski IT, upravljanje infrastrukturom i tehničku podršku u jedan visokoučinkoviti centar za dostavu.",
+      "row1P2": "Uklanjanjem dupliciranih timskih troškova i standardiziranjem modela pružanja usluga, vaša organizacija osigurava dosljednu kvalitetu i smanjuje ukupne operativne troškove.",
+      "row2Eyebrow": "24/7 SRE i podrška za aplikacije",
+      "row2Title": "Proaktivno nadgledanje i brzo rješavanje incidenata",
+      "row2P1": "Naši posvećeni inženjeri za pouzdanost lokacije (SRE) i stručnjaci za podršku pružaju 24/7/365 nadzor telemetrije, automatiziranu trijažu upozorenja i brzo rješavanje problema L1/L2/L3.",
+      "row2P2": "Potpomognuti strogim SLA obvezama, jamčimo 99,99% dostupnost za vaše kritične aplikacije i infrastrukturu u oblaku.",
+      "row3Eyebrow": "ITIL upravljanje i sukladnost",
+      "row3Title": "Structured Service Management Frameworks",
+      "row3P1": "Implementirajte ITSM standarde koji su vodeći u industriji (ServiceNow, Jira Service Management) s transparentnim izdavanjem ulaznica, analizama uzroka i zaštitnim ogradama za upravljanje promjenama.",
+      "row3P2": "Sveobuhvatni revizijski tragovi i politike upravljanja osiguravaju da vaše operacije ostanu u skladu s međunarodnim sigurnosnim standardima.",
+      "row4Eyebrow": "FinOps i kontinuirano poboljšanje",
+      "row4Title": "Predvidljiv proračun i optimizacija resursa",
+      "row4P1": "Uklonite rasipanje u oblaku, optimizirajte veličinu računala i automatizirajte rutinsko operativno održavanje uz FinOps najbolju praksu.",
+      "row4P2": "Mjesečna izvješća o transparentnosti i predviđanja kapaciteta osiguravaju kontinuiranu optimizaciju operativnih troškova i visoku kapitalnu učinkovitost.",
+      "pillarsTitle": "Operativni stupovi",
+      "pillarsSub": "Provjerene operativne poluge za pouzdanu skalabilnost poduzeća.",
+      "pillar1Title": "Upravljane IT operacije 24/7",
+      "pillar1Desc": "Proaktivna NOC telemetrija, krpanje poslužitelja, održavanje infrastrukture i jamstvo neprekidnog rada od 99,99%.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Tier 1/2/3 višekanalna služba za pomoć, usmjeravanje incidenata i strukturirani radni tokovi rješavanja karata.",
+      "pillar3Title": "SLA & kontrola performansi",
+      "pillar3Desc": "Ugovorom podržana vremena odgovora, MTTR referentne vrijednosti i transparentne mjesečne revizije učinka.",
+      "pillar4Title": "FinOps & optimizacija troškova",
+      "pillar4Desc": "Kontinuirano pravilno dimenzioniranje resursa, reklamacija licence i automatizirano smanjenje troškova oblaka.",
+      "ctaTitle": "Jeste li spremni proširiti svoje upravljane operacije?",
+      "ctaSub": "Partner s Rezonants za pouzdane, 24/7 upravljane usluge koje optimiziraju troškove i eliminiraju operativne zastoje.",
+      "ctaButton": "Rezervirajte konzultacije o upravljanim operacijama",
+      "howItWorksHeading": "Dokazani put do uspjeha dijeljenih usluga"
+    },
+    "aiRobotics": {
+      "brand": "AI i robotika",
+      "eyebrow": "Inteligentni sustavi",
+      "heroHeading": "AI i robotika rade zajedno",
+      "intro": "Umjetna inteligencija (AI) i robotika transformiraju način na koji tvrtke funkcioniraju kombinirajući inteligentno donošenje odluka s naprednom automatizacijom. AI omogućuje strojevima da analiziraju podatke, uče obrasce i donose pametne odluke, dok robotika donosi te mogućnosti u fizički svijet za obavljanje zadataka brzinom, preciznošću i dosljednošću.",
+      "section1Heading": "Napravljen za pojednostavljenje svake operacije",
+      "section1Text": "Naša rješenja za umjetnu inteligenciju i robotiku pomažu organizacijama da pojednostave operacije, smanje ručni napor i poboljšaju produktivnost u raznim industrijama. Od automatizacije procesa i prediktivne analitike do pametne robotike i inteligentnih sustava, isporučujemo inovativne tehnologije koje povećavaju učinkovitost, potiču rast i podržavaju digitalnu transformaciju.",
+      "section2Heading": "Gdje se inteligencija susreće s akcijom",
+      "section2Text": "Svaku interakciju, odluku i pokret pokreće jedan povezani sustav — pretvarajući podatke u rezultate u stvarnom vremenu.",
+      "footerTag": "Inovativna tehnologija za digitalnu transformaciju"
+    },
+    "informationReporting": {
+      "brand": "Podatkovna platforma poduzeća",
+      "heroTitle": "Sustavi informacija i izvješćivanja",
+      "heroSubtitle": "Jedan izvor istine za svaki odjel — izgrađen da pretvori sirove operativne podatke u odluke prema kojima vaša tvrtka može djelovati danas.",
+      "statusLive": "UŽIVO",
+      "statusAnalyzed": "ANALIZIRANO",
+      "statusArchived": "ARHIVIRANO",
+      "statusPending": "NA ČEKANJU",
+      "metricUptime": "Vrijeme rada sustava",
+      "metricSessions": "Aktivne sesije",
+      "metricReportsPerDay": "Izvješća / dan",
+      "metricEvents": "Dnevni uneseni događaji",
+      "metricReports": "Planirana izvješća",
+      "metricLatency": "Latencija API-ja",
+      "unifiedPlatform": "Jedinstvena platforma",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Konzola za izvješćivanje",
+      "businessOutcome": "Poslovni rezultat",
+      "section1Heading": "Jedan centralizirani sustav za svaku metriku koja je bitna",
+      "section1P1": "Sustavi informacija i izvješćivanja ključna su poslovna rješenja koja organizacijama omogućuju prikupljanje, upravljanje i transformaciju podataka u smislene uvide. Ovi sustavi integriraju informacije iz više odjela, osiguravajući točan, dosljedan pristup kritičnim poslovnim podacima u stvarnom vremenu. Osiguravanjem centralizirane platforme za upravljanje informacijama, organizacije mogu poboljšati operativnu vidljivost, pojednostaviti tijekove rada i podržati strateško donošenje odluka na svim razinama poduzeća.",
+      "section1P2": "Ovi sustavi koriste automatizirano izvješćivanje, analitiku i nadzorne ploče za praćenje izvedbe, praćenje ključnih metrika i generiranje izvješća u stvarnom vremenu. Smanjenjem ručnog napora i poboljšanjem točnosti podataka, tvrtke mogu donositi brže i učinkovitije odluke.",
+      "section2Heading": "Izgrađen za vidljivost, usklađenost i razmjer",
+      "section2Text": "S poboljšanom vidljivošću, usklađenošću i suradnjom, sustavi informacija i izvješćivanja omogućuju organizacijama optimizaciju procesa, poboljšanje produktivnosti i poticanje održivog poslovnog rasta u konkurentskom okruženju.",
+      "ctaHeading": "Dajte svakom timu istu sliku poslovanja u stvarnom vremenu.",
+      "ctaText": "Pogledajte kako Nexus Data Systems može konsolidirati vaša izvješća u jednu inteligentnu platformu.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Sva prava pridržana.",
+      "navOverview": "Pregled",
+      "navCapabilities": "Sposobnosti",
+      "navImpact": "Utjecaj",
+      "navContact": "kontakt"
+    },
+    "managedServices": {
+      "subtitle": "Sveobuhvatne upravljane usluge za vaše poslovanje"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernizacija poslovnih aplikacija za poduzeće vođeno podacima",
+      "excerpt": "Kako moderna arhitektura aplikacija i povezani podaci mogu poboljšati operativnu učinkovitost, skalabilnost i poslovnu vidljivost.",
+      "tag": "Transformacija poslovanja",
+      "category": "POSLOVNA TRANSFORMACIJA",
+      "summary": "Moderna aplikacija i temelj podataka mogu pomoći poduzećima da poboljšaju operativnu učinkovitost, povežu poslovne sustave i stvore bolju vidljivost kroz svoje operacije."
+    },
+    "artificial-intelligence": {
+      "title": "Kako AI preoblikuje poslovne aplikacije",
+      "excerpt": "Istražite kako inteligentna automatizacija, AI kopiloti i prediktivna inteligencija postaju dio poslovnih aplikacija na koje se tvrtke oslanjaju svaki dan.",
+      "tag": "Umjetna inteligencija",
+      "category": "UMJETNA INTELIGENCIJA",
+      "summary": "Istražite kako inteligentna automatizacija, AI kopiloti i prediktivna inteligencija transformiraju svakodnevni poslovni softver u prilagodljive, proaktivne platforme."
+    },
+    "modern-erp": {
+      "title": "Ubrzavanje poslovne transformacije s modernim ERP-om",
+      "excerpt": "Istražite kako moderne ERP platforme povezuju financije, nabavu, opskrbni lanac i poslovne operacije kroz objedinjenu digitalnu osnovu.",
+      "tag": "Moderni ERP",
+      "category": "MODERNA ERP",
+      "summary": "Moderna ERP platforma povezuje financije, nabavu, opskrbni lanac i poslovne operacije u jedinstven operativni model u stvarnom vremenu."
+    },
+    "cybersecurity": {
+      "title": "Izgradnja kibernetičke otpornosti u povezanom poduzeću",
+      "excerpt": "Istražite kako organizacije mogu ojačati sigurnost, zaštititi kritične sustave i pripremiti se za prijetnje u sve povezanijim okruženjima.",
+      "tag": "Kibernetička sigurnost",
+      "category": "KIBERSIGURNOST",
+      "summary": "Kako poduzeća integriraju više sustava u oblaku, API-ja i partnerskih ekosustava, kibernetička otpornost osigurava da operacije kritične za misiju izdrže moderne prijetnje."
+    },
+    "cloud-modernization": {
+      "title": "Modernizacija naslijeđenih aplikacija za oblak",
+      "excerpt": "Istražite praktičan pristup procjeni, modernizaciji i premještanju naslijeđenih aplikacija prema skalabilnim, sigurnim arhitekturama oblaka.",
+      "tag": "Cloud & Modernizacija",
+      "category": "CLOUD & MODERNIZACIJA",
+      "summary": "Strukturiran, pragmatičan plan za procjenu, refaktoriranje i migraciju monolitnih poslovnih sustava na elastične arhitekture oblaka koje je moguće održavati."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "POSLOVNA TRANSFORMACIJA",
+      "title": "Modernizacija poslovnih aplikacija za poduzeće vođeno podacima",
+      "subtitle": "Moderna aplikacija i temelj podataka mogu pomoći poduzećima da poboljšaju operativnu učinkovitost, povežu poslovne sustave i stvore bolju vidljivost kroz svoje operacije.",
+      "date": "Rujan 2026",
+      "readTime": "7 min čitanja",
+      "imageCaption": "Tehnološka perspektiva poduzeća — Arhitektura aplikacije i povezani podaci",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Poslovne aplikacije",
+          "desc": "Različiti naslijeđeni CRM, ERP i alati odjela rade u silosima."
+        },
+        {
+          "title": "Višestruki izvori podataka",
+          "desc": "Fragmentirane operativne tablice, CSV izvatci i ad-hoc sheme."
+        },
+        {
+          "title": "Nepovezane baze podataka",
+          "desc": "Izolirana lokalna i nekoordinirana spremišta podataka u oblaku."
+        },
+        {
+          "title": "Izvješća i poslovni korisnici",
+          "desc": "Ručna usklađivanja, proturječne proračunske tablice i odgođeno izvješćivanje."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Poslovne aplikacije",
+          "desc": "Osnovne operativne platforme i suvremena responzivna sučelja."
+        },
+        {
+          "title": "API / integracijski sloj",
+          "desc": "Siguran API pristupnik vođen događajima koji povezuje tijekove rada poduzeća."
+        },
+        {
+          "title": "Podatkovne usluge",
+          "desc": "Objedinjeni glavni modeli podataka, cjevovodi i optimizirani strojevi za pohranu."
+        },
+        {
+          "title": "Analitika i izvješćivanje",
+          "desc": "Telemetrija u stvarnom vremenu, semantički modeli i automatizirano izvješćivanje."
+        },
+        {
+          "title": "Donositelji poslovnih odluka",
+          "desc": "Uživo operativne nadzorne ploče koje pružaju jedinstvenu vidljivost izvršne vlasti."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Poduzetničke aplikacije",
+          "purpose": "Upravljanje poslovnim procesima"
+        },
+        {
+          "area": "API-ji",
+          "purpose": "Integracija sustava"
+        },
+        {
+          "area": "Baze podataka",
+          "purpose": "Strukturirani poslovni podaci"
+        },
+        {
+          "area": "Integracija podataka",
+          "purpose": "Povezivanje više izvora"
+        },
+        {
+          "area": "Analitika",
+          "purpose": "Poslovni uvidi"
+        },
+        {
+          "area": "Infrastruktura oblaka",
+          "purpose": "Skalabilnost i fleksibilnost"
+        },
+        {
+          "area": "Praćenje",
+          "purpose": "Pouzdanost i performanse"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Poboljšana operativna vidljivost kroz međufunkcionalne jedinice",
+        "Bolja dosljednost podataka i jedinstven izvor poslovne istine",
+        "Smanjeno ručno izvješćivanje i automatska kompilacija podataka",
+        "Poboljšane performanse aplikacije i smanjena latencija transakcije",
+        "Lakša integracija sustava putem standardiziranih, sigurnih API-ja",
+        "Veća skalabilnost za podršku organskom rastu i akviziciji",
+        "Bolji temelj za buduće inovacije i usvajanje inteligencije"
+      ],
+      "keyPerspectivePoints": [
+        "Razumijevanje poslovnih procesa i stvarnih operativnih tijekova rada",
+        "Povezivanje sustava putem pouzdanih standarda integracije",
+        "Poboljšanje kvalitete podataka, upravljanja i modela glavnih podataka",
+        "Modernizacija aplikacija bez destabilizacije svakodnevnih operacija",
+        "Stvaranje skalabilne arhitekture prikladne za elastičan rast",
+        "Omogućivanje bolje poslovne vidljivosti za proaktivno donošenje odluka"
+      ],
+      "sec1Eyebrow": "POSLOVNI IZAZOV",
+      "sec1Heading": "Upravljanje složenošću u rastućem poduzeću",
+      "sec1Subtext": "Kako se poduzeća povećavaju, tehnološki se ekosustavi neizbježno šire. Ono što počinje kao fokusirana rješenja za pojedinačne odjele može se razviti u zapetljanu mrežu različitih sustava.",
+      "sec2Eyebrow": "EVOLUCIJA SUSTAVA",
+      "sec2Heading": "Složeni tehnološki krajolik",
+      "sec2Subtext": "Kada se poslovne aplikacije, baze podataka i operativni sustavi razvijaju neovisno, tokovi informacija postaju fragmentirani. Razumijevanje ove fragmentacije ključni je prvi korak.",
+      "sec3Eyebrow": "POVEZANI MODEL",
+      "sec3Heading": "Moderna arhitektura aplikacija",
+      "sec3Subtext": "Poduzeća se kreću prema arhitekturi vođenoj događajima, prvenstveno API-ju, gdje podaci pouzdano teku kroz osnovne platforme i dolaze do donositelja odluka u stvarnom vremenu.",
+      "sec4Eyebrow": "INTELIGENCIJA I VIDLJIVOST",
+      "sec4Heading": "Povezani podaci i analitika",
+      "sec4Subtext": "Kada poslovne aplikacije besprijekorno komuniciraju, podaci prestaju biti nusprodukt izvješćivanja i postaju primarni pokretač operativne agilnosti.",
+      "sec5Eyebrow": "NACRT ARHITEKTURE",
+      "sec5Heading": "Zaklada za tehnologiju",
+      "sec5Subtext": "Sveobuhvatan pogled na temeljna tehnološka područja koja čine temelj modernog, skalabilnog poduzeća.",
+      "sec6Eyebrow": "KVALITATIVNA VRIJEDNOST",
+      "sec6Heading": "Poslovni utjecaj",
+      "sec6Subtext": "Modernizacija arhitekture aplikacija i povezivanje fragmentiranih podataka donosi opipljiva operativna poboljšanja u cijeloj organizaciji.",
+      "ctaHeading": "Jeste li spremni modernizirati svoje tehnološko okruženje?",
+      "ctaDescription": "Istražite kako moderna arhitektura aplikacija, povezani podaci i skalabilna tehnologija mogu pomoći organizacijama da poboljšaju učinkovitost i pripreme se za budući rast.",
+      "ctaButton": "Razgovarajte s našim stručnjacima",
+      "sec1P1": "U tipičnom poslovnom okruženju rast često uvodi više generacija softvera. Financije, opskrbni lanac, korisnička služba i operacije na terenu često rade na zasebnim softverskim skupovima nabavljenim ili izgrađenim u različito vrijeme. Tijekom godina operativne evolucije, ovi sustavi razvijaju svoje vlastite formate podataka, ažuriraju takt i integracijske karakteristike.",
+      "sec1P2": "Trenje se očituje u cijelom poduzeću kroz uobičajena operativna uska grla:",
+      "sec1List": [
+        {
+          "bold": "Više nepovezanih poslovnih aplikacija",
+          "text": "koji zahtijevaju dvostruki unos podataka i ručno unakrsno upućivanje."
+        },
+        {
+          "bold": "Isključene baze podataka",
+          "text": "rade bez centraliziranog upravljanja ili objedinjenih matičnih zapisa."
+        },
+        {
+          "bold": "Ručno izvješćivanje",
+          "text": ", gdje analitički timovi provode dane povezujući izvoze umjesto da otkrivaju uvide."
+        },
+        {
+          "bold": "Nedosljednosti podataka",
+          "text": "preko odjela, stvarajući proturječne odgovore na temeljna operativna pitanja."
+        },
+        {
+          "bold": "Ograničenja troškova održavanja aplikacije i skalabilnosti",
+          "text": ", dok se krhke naslijeđene veze od točke do točke bore da podrže rastuće količine transakcija."
+        }
+      ],
+      "sec1P3": "Rješavanje ovih izazova zahtijeva promatranje tehnološkog krajolika ne kao zbirke izoliranih kupnji softvera, već kao međusobno povezane poslovne platforme dizajnirane za podršku strateškoj agilnosti.",
+      "legacyLandscapeBadge": "Naslijeđena osnovna linija",
+      "legacyLandscapeTitle": "Fragmentirani protok informacija",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silos podataka",
+          "desc": "Ključni podaci o klijentima, financijski podaci i podaci o zalihama ostaju zarobljeni u platformama odjela, sprječavajući jedinstveni jedinstveni pogled na poslovne operacije."
+        },
+        {
+          "num": "02",
+          "title": "Integracijske praznine",
+          "desc": "Veze od točke do točke i noćni batch ekstrakti stvaraju kašnjenje, visoke stope neuspjeha i skupe troškove održavanja u operativnim timovima."
+        },
+        {
+          "num": "03",
+          "title": "Odgođene informacije",
+          "desc": "Kada rukovoditelji danima moraju čekati na usklađivanje na kraju mjeseca kako bi razumjeli učinak, donošenje odluka je reaktivno, a ne predviđajuće."
+        }
+      ],
+      "modernArchitectureBadge": "Ciljana arhitektura",
+      "modernArchitectureTitle": "Model povezane poslovne aplikacije",
+      "sec3P1": "Moderna arhitektura aplikacija zamjenjuje krhke veze od točke do točke agilnim, razdvojenim temeljem. Uspostavom robusnog API-ja i integracijskog sloja, sustavi međusobno djeluju putem upravljanih, sigurnih krajnjih točaka, dok istovremeno čuvaju autonomiju pojedinačnih poslovnih jedinica.",
+      "sec3P2": "Ključne tehničke mogućnosti ovog arhitektonskog pomaka uključuju:",
+      "sec3List": [
+        {
+          "bold": "Modernizacija aplikacije:",
+          "text": "Odvajanje osnovne poslovne logike u skalabilne modularne usluge."
+        },
+        {
+          "bold": "API integracija:",
+          "text": "Uspostavljanje standardiziranih, dokumentiranih sučelja za internu i partnersku interoperabilnost."
+        },
+        {
+          "bold": "Integracija podataka i optimizacija baze podataka:",
+          "text": "Objedinjavanje cjevovoda operativnih podataka s optimizacijom upita visoke propusnosti."
+        },
+        {
+          "bold": "Vidljivost i sigurnost:",
+          "text": "Implementacija centralizirane telemetrije, revizijskih tragova i kontrola pristupa temeljenih na ulogama u svim uslugama."
+        }
+      ],
+      "sec4P1": "Integrirani temelji podataka mijenjaju način na koji vodstvo i operativni timovi komuniciraju s informacijama. Umjesto da se oslanjaju na retrospektivna izvješća koja pokazuju što se dogodilo prije nekoliko tjedana, organizacije dobivaju živu operativnu telemetriju kroz poslovne jedinice.",
+      "sec4P2": "Povezani podaci i analitika podržavaju održive poslovne rezultate kroz:",
+      "sec4List": [
+        {
+          "bold": "Operativna vidljivost:",
+          "text": "Kontinuirana transparentnost prodaje, zaliha, ispunjenja i financijskog učinka."
+        },
+        {
+          "bold": "Brži ritam izvještavanja:",
+          "text": "Skupljanje podataka na zahtjev koje eliminira ponavljanje ručnih proračunskih tablica."
+        },
+        {
+          "bold": "Dosljedne informacije:",
+          "text": "Jedinstvene definicije za metrike kao što su marža, dugotrajna vrijednost kupca i brzina potencijalnih kupaca."
+        },
+        {
+          "bold": "Bolji poslovni uvid:",
+          "text": "Prediktivno otkrivanje obrazaca koje prije vremena otkriva rizike i prilike."
+        },
+        {
+          "bold": "Poboljšano donošenje odluka:",
+          "text": "Samopouzdano izvršno djelovanje podržano potvrđenim podrijetlom podataka i transparentnošću."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEŠKA PERSPEKTIVA",
+      "keyPerspectiveTitle": "Modernizacija je više od zamjene softvera",
+      "keyPerspectiveLead": "Modernizacija poslovnih aplikacija nije samo zamjena starog softvera novim alatima. To je namjerno usklađivanje tehnologije s načinom na koji tvrtka funkcionira, skalira se i isporučuje vrijednost."
+    },
+    "artificialIntelligence": {
+      "category": "UMJETNA INTELIGENCIJA",
+      "title": "Kako AI preoblikuje poslovne aplikacije",
+      "subtitle": "Istražite kako inteligentna automatizacija, AI kopiloti i prediktivna inteligencija postaju dio poslovnih aplikacija na koje se tvrtke oslanjaju svaki dan.",
+      "date": "Rujan 2026",
+      "readTime": "6 min čitanja",
+      "imageCaption": "Tehnološka perspektiva poduzeća — Umjetna inteligencija i sustavi poduzeća",
+      "aiUseCases": [
+        {
+          "title": "Predviđanje lanca opskrbe",
+          "desc": "Predviđanje porasta potražnje i kašnjenja logistike iz povijesne telemetrije dobavljača."
+        },
+        {
+          "title": "Automatizirana revizija faktura",
+          "desc": "Izdvajanje stavki retka i uparivanje s narudžbenicama bez ljudskog unosa."
+        },
+        {
+          "title": "Inteligentni servisni stolovi",
+          "desc": "Trijaža i automatizirano rješavanje zahtjeva Tier-1 IT i HR zaposlenika."
+        },
+        {
+          "title": "Sprječavanje odljeva kupaca",
+          "desc": "Bihevioralno klasteriranje identificiranje ranih signala trenja za proaktivno širenje."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Brže operativne odluke vođene prediktivnim modelima u stvarnom vremenu",
+        "Smanjenje ponavljajuće obrade podataka i ručnih usklađivanja",
+        "Veća propusnost zaposlenika uz pomoć kontekstualnog kopilota",
+        "Poboljšano zadovoljstvo korisnika kroz hiperpersonalizirana iskustva",
+        "Kontinuirana samooptimizacija procesa temeljena na stvarnoj telemetriji",
+        "Praćenje usklađenosti bez rizika putem automatizirane inspekcije dnevnika revizije"
+      ],
+      "governancePoints": [
+        "Strogi pristup temeljen na ulogama osigurava da AI modeli nikad ne propuštaju osjetljive podatke",
+        "Transparentni tragovi razmišljanja koji omogućuju ljudski pregled radnji visoke vrijednosti",
+        "Kontinuirana evaluacija modela radi zaštite od halucinacija i pristranosti",
+        "Strogi standardi porijekla podataka u skladu s GDPR-om, SOC 2 i HIPAA-om",
+        "Putovi eskalacije čovjeka u petlji za neizvjesne rubne uvjete"
+      ],
+      "sec1Eyebrow": "PRIJELAZ NA NATIVNU INTELIGENCIJU",
+      "sec1Heading": "AI u Enterprise Applications",
+      "sec1Subtext": "Umjetna inteligencija prelazi iz eksperimentalnih sporednih projekata u temeljne operativne aplikacije na koje se poduzeća svakodnevno oslanjaju.",
+      "sec2Eyebrow": "AUTOMATIZACIJA NA RAZMJERI",
+      "sec2Heading": "Inteligentna automatizacija",
+      "sec2Subtext": "Nadilazimo tradicionalne skripte temeljene na pravilima prema kognitivnim tijekovima rada koji razumiju nestrukturirani sadržaj, prilagođavaju se varijacijama i dinamički optimiziraju procese.",
+      "sec3Eyebrow": "UGRAĐENA POMOĆ",
+      "sec3Heading": "Enterprise AI kopiloti",
+      "sec3Subtext": "Utemeljeni na organizacijskom znanju i sigurnosti poduzeća, AI pomoćnici djeluju kao specijalizirani partneri u svakodnevnim poslovnim tijekovima.",
+      "sec4Eyebrow": "OBRAZLOŽENJE U BUDUĆNOSTI",
+      "sec4Heading": "Prediktivna inteligencija",
+      "sec4Subtext": "Pretvaranje povijesnih poslovnih dnevnika i operativnih feedova u stvarnom vremenu u djelotvorno predviđanje.",
+      "sec5Eyebrow": "PRIMJENE U STVARNOM SVIJETU",
+      "sec5Heading": "Slučajevi korištenja umjetne inteligencije u poduzećima",
+      "sec5Subtext": "Praktični načini na koje vodeće organizacije primjenjuju umjetnu inteligenciju u temeljnim poslovnim funkcijama.",
+      "sec6Eyebrow": "STRATEŠKA VRIJEDNOST",
+      "sec6Heading": "Poslovne prednosti",
+      "sec6Subtext": "Kada se promišljeno implementira s upravljanim podacima poduzeća, AI otključava značajne kvalitativne prednosti.",
+      "ctaHeading": "Istražite AI mogućnosti za vaše poslovanje",
+      "ctaDescription": "Otkrijte kako inteligentna automatizacija, poslovni kopiloti i prediktivni modeli mogu otključati operativnu učinkovitost u vašim osnovnim sustavima.",
+      "ctaButton": "Razgovarajte s našim stručnjacima",
+      "sec1P1": "Godinama se umjetna inteligencija poduzeća tretirala kao vanjska sposobnost: model obučen u izolaciji, demonstracija sandboxa ili izolirani chatbot dostupan putem zasebnog portala. Danas se paradigma iz temelja promijenila. Visokoučinkovita umjetna inteligencija poduzeća ugrađena je izravno u sustave evidencije — ERP-ove, CRM-ove, platforme za ljudski kapital i motore opskrbnog lanca gdje se odvija pravi posao.",
+      "sec1P2": "Kada inteligencija djeluje unutar sustava zapisa, ona nasljeđuje uspostavljene sigurnosne granice organizacije, modele podataka i poslovnu logiku. Ne stvara samo generičke odgovore; djeluje na narudžbe uživo, tumači otvorene tikete za podršku, usklađuje fakture dobavljača i pomaže zaposlenicima unutar točno onih sučelja kojima se kreću svaki dan.",
+      "sec1P3": "Ova transformacija pomiče poslovni softver iz pasivnih baza podataka koje čekaju ljudske pritiske na tipke u proaktivne platforme koje predviđaju potrebe, automatiziraju korake i prikazuju pravovremene preporuke.",
+      "sec2P1": "Tradicionalna robotska automatizacija procesa (RPA) briljirala je u determinističkom, ponavljajućem struganju zaslona. Međutim, kruti skupovi pravila prekidaju se kad god se obrazac promijeni, pojavi se neočekivani raspored dokumenta ili dođe do iznimke. Inteligentna automatizacija premošćuje ovu podjelu kombinirajući kognitivno razmišljanje s izvršenjem transakcije:",
+      "sec2List": [
+        {
+          "bold": "Automatizacija tijeka rada:",
+          "text": "Orkestriranje složenih operacija među odjelima, usmjeravanje zadataka na temelju hitnosti i povijesnih putova rješavanja."
+        },
+        {
+          "bold": "Inteligentna obrada dokumenata:",
+          "text": "Ubacivanje nestrukturiranih PDF-ova, e-poruka, manifesta otpreme i ugovora, pretvarajući ih u strukturirane transakcije baze podataka."
+        },
+        {
+          "bold": "Inteligentna automatizacija zadataka:",
+          "text": "Automatiziranje operativnih provjera valjanosti u više koraka—kao što je uparivanje narudžbenica s računima i bankovnim izvodima."
+        },
+        {
+          "bold": "Optimizacija procesa:",
+          "text": "Kontinuirana analiza zapisnika procesa kako bi se identificirala uska grla u ciklusu i preporučila ciljana poboljšanja tijeka rada."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Pretraživanje informacija",
+          "desc": "Semantičko pretraživanje preko distribuiranih baza znanja, intranetskih pravila, specifikacija proizvoda i povijesnih rješenja ulaznica bez pogađanja ključnih riječi."
+        },
+        {
+          "icon": "📝",
+          "title": "Sažetak dokumenta",
+          "desc": "Trenutačna destilacija dugih RFP-ova, ugovora s dobavljačima, tehničkih specifikacija i zakonskih izmjena u izvršne sažetke i popise rizika."
+        },
+        {
+          "icon": "✨",
+          "title": "Generiranje sadržaja",
+          "desc": "Potpomognuta izrada prijedloga klijenata, operativne dokumentacije, standardnih operativnih postupaka (SOP) i standardiziranih ažuriranja za kupce usklađenih sa standardima marke."
+        },
+        {
+          "icon": "📈",
+          "title": "Analiza podataka",
+          "desc": "Prevođenje konverzacijskih upita u složene analitičke upite, generiranje on-the-fly sažetaka grafikona i isticanje kritičnih outliera za vodstvo."
+        },
+        {
+          "icon": "🔄",
+          "title": "Poslovni tijek rada",
+          "desc": "Pokretanje transakcija izravno iz upita za chat—kao što je zakazivanje resursa, stvaranje ulaznica, ažuriranje zapisa ili podnošenje zahtjeva za kupnju."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Pristup temeljen na ulogama",
+          "desc": "Osiguravanje da odgovori kopilota strogo poštuju razine dopuštenja korisnika, čuvajući povjerljive financijske podatke, datoteke ljudskih resursa i zaštitu intelektualnog vlasništva."
+        }
+      ],
+      "sec4P1": "Dok su generativni modeli izvrsni u razumijevanju i sintetiziranju jezika, prediktivna inteligencija fokusirana je na matematičke obrasce skrivene unutar strukturiranih skupova podataka poduzeća. Ugrađeni prediktivni modeli osnažuju organizacije da predvide operativne prepreke prije nego one poremete rad:",
+      "sec4List": [
+        {
+          "bold": "Operativno predviđanje:",
+          "text": "Predviđanje trendova prihoda, brzine inventara i potražnje za resursima sintetiziranjem sezonskih pokazatelja s brzinom protoka u stvarnom vremenu."
+        },
+        {
+          "bold": "Prediktivna analitika:",
+          "text": "Precizno određivanje rizika odlaska kupaca, ciklusa degradacije održavanja i kašnjenja u opskrbnom lancu dok još ima vremena za intervenciju."
+        },
+        {
+          "bold": "Identifikacija rizika:",
+          "text": "Označavanje anomalija u financijskim transakcijama, zapisnicima usklađenosti i obrascima nabave dobavljača prije nego što eskaliraju."
+        },
+        {
+          "bold": "Predviđanje potražnje:",
+          "text": "Usklađivanje predviđanja prodaje s proizvodnim kapacitetom i razinama skladišnih zaliha radi zaštite radnog kapitala."
+        }
+      ],
+      "keyPerspectiveEyebrow": "UPRAVLJANJE PODUZEĆEM",
+      "keyPerspectiveTitle": "Povjerenje, nadzor i ograde",
+      "keyPerspectiveLead": "AI je pouzdan samo onoliko koliko je pouzdan temelj podataka koji se nalazi ispod njega i upravljanje koje ga okružuje. Usvajanje održivog poduzeća zahtijeva promišljenu arhitektonsku disciplinu:"
+    },
+    "modernErp": {
+      "category": "MODERNA ERP",
+      "title": "Ubrzavanje poslovne transformacije s modernim ERP-om",
+      "subtitle": "Istražite kako moderne ERP platforme povezuju financije, nabavu, opskrbni lanac i poslovne operacije kroz objedinjenu digitalnu osnovu.",
+      "date": "kolovoz 2026",
+      "readTime": "6 min čitanja",
+      "imageCaption": "Tehnološka perspektiva poduzeća — ERP i povezane poslovne operacije",
+      "connectedFunctions": [
+        {
+          "title": "Financijski menadžment",
+          "desc": "Ažuriranje glavne knjige u stvarnom vremenu, automatsko prepoznavanje prihoda i trenutačno usklađivanje više valuta."
+        },
+        {
+          "title": "Lanac opskrbe i logistika",
+          "desc": "Pregled zaliha od kraja do kraja, optimizacija skladišta i telemetrija učinka dobavljača."
+        },
+        {
+          "title": "Ljudski kapital i radna snaga",
+          "desc": "Samoposlužni portali za zaposlenike, automatizirani obračun plaća i integrirano planiranje životnog ciklusa talenata."
+        },
+        {
+          "title": "Nabava i nabava",
+          "desc": "Automatizirano odobrenje kupnje, usklađenost ugovora s dobavljačem i dinamička analitika potrošnje."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Arhitektura izvorna u oblaku",
+          "desc": "Elastično računalno skaliranje bez opterećenja lokalne infrastrukture ili ometajućeg zaključavanja verzije."
+        },
+        {
+          "title": "Otvoreni API ekosustav",
+          "desc": "Unaprijed izgrađeni konektori koji omogućuju besprijekornu dvosmjernu sinkronizaciju podataka s prilagođenim mikroservisima i CRM paketima."
+        },
+        {
+          "title": "Ugrađena analitika",
+          "desc": "Izravna analiza nadzorne ploče iz bilanci visoke razine u pojedinačne zapise transakcija."
+        },
+        {
+          "title": "Automatizirani okidači tijeka rada",
+          "desc": "Okidači događaja vođeni događajima koji autonomno izvršavaju standardne operacije među odjelima."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Jedinstveni izvor istine koji eliminira proturječna izvješća odjela",
+        "Drastično smanjenje ciklusa zatvaranja na kraju mjeseca i na kraju kvartala",
+        "Pregled zaliha i logistike u stvarnom vremenu minimizira zalihe",
+        "Smanjeni troškovi IT održavanja putem modularnih nadogradnji u oblaku",
+        "Jedinstveno praćenje usklađenosti u višeregionalnim poreznim jurisdikcijama",
+        "Brže uključivanje stečenih entiteta u zajedničke operativne okosnice"
+      ],
+      "erpStrategyPoints": [
+        "Usklađivanje ERP arhitekture s osnovnim radnim procesima prije konfiguracije",
+        "Odabir modularnih modela implementacije za postizanje brzih uspjeha",
+        "Davanje prioriteta migraciji i usklađivanju matičnih podataka visoke kvalitete",
+        "Ugradnja automatiziranog upravljanja promjenama i programa obuke prilagođenih ulogama",
+        "Dizajniranje API pristupnika za nesmetano buduće proširenje integracije"
+      ],
+      "sec1Eyebrow": "OPERATIVNA KRALJEŽNICA",
+      "sec1Heading": "Zašto je moderan ERP važan",
+      "sec1Subtext": "ERP više nije samo back-office računovodstvo. To je operativni model modernog poduzeća izražen u softveru.",
+      "sec2Eyebrow": "INTEGRIRANI EKOSUSTAV",
+      "sec2Heading": "Povezane poslovne funkcije",
+      "sec2Subtext": "Prava organizacijska vrijednost nastaje kada osnovne poslovne funkcije rade zajedno na zajedničkom digitalnom temelju.",
+      "sec3Eyebrow": "MEĐFUNKCIONALNI SKLAD",
+      "sec3Heading": "Objedinjeni rad i protok informacija",
+      "sec3Subtext": "Rušenje komunikacijskih zidova između odjela kako bi se omogućili fluidni, sinkronizirani tijek rada poduzeća.",
+      "sec4Eyebrow": "PODUZEĆA TELEMETRIJA",
+      "sec4Heading": "Poslovna vidljivost u stvarnom vremenu",
+      "sec4Subtext": "Konsolidacija operativnih metrika u transparentne upravljačke ploče koje odražavaju trenutnu poslovnu stvarnost.",
+      "sec5Eyebrow": "OSNOVNA ARHITEKTURA PLATFORME",
+      "sec5Heading": "Moderne ERP mogućnosti",
+      "sec5Subtext": "Arhitektonski atributi koji odvajaju suvremene ERP platforme od krutih naslijeđenih instalacija.",
+      "sec6Eyebrow": "KVALITATIVNI UTJECAJ",
+      "sec6Heading": "Poslovne prednosti",
+      "sec6Subtext": "Povezivanje osnovnih poslovnih operacija u jedinstveni digitalni temelj daje mjerljivu organizacijsku otpornost.",
+      "ctaHeading": "Modernizirajte poslovanje vašeg poduzeća",
+      "ctaDescription": "Istražite kako moderne ERP platforme povezuju financije, nabavu, opskrbni lanac i poslovne operacije kroz objedinjenu digitalnu osnovu.",
+      "ctaButton": "Razgovarajte s našim stručnjacima",
+      "sec1P1": "U poduzećima koja se brzo mijenjaju, tradicionalni sustavi planiranja resursa poduzeća često imaju problema. Izgrađeni u eri skupne obrade i izoliranih lokalnih poslužitelja, naslijeđeni ERP-ovi bili su jako prilagođeni, teški za nadogradnju i bolno neprozirni. Ključne poslovne operacije funkcionirale su u paralelnim silosima, oslanjajući se na krhki noćni izvoz za sinkronizaciju knjiga sa skladištima.",
+      "sec1P2": "Moderni ERP izvorni u oblaku iz temelja redefinira ovu dinamiku. Djeluje kao objedinjena digitalna okosnica poduzeća—živi temelj gdje financije, nabava, opskrbni lanac, inventar i ljudski resursi rade na zajedničkom podatkovnom modelu.",
+      "sec1P3": "Dovođenjem osnovnih operacija u jedinstveno usklađeno okruženje, moderni ERP uklanja operativne slijepe točke koje usporavaju rast, omogućujući vođama da usmjeravaju poslovanje koristeći signale u stvarnom vremenu, a ne ustajale povijesne sažetke.",
+      "sec3P1": "Operativni silosi rijetko su ljudski problemi; they are architectural problems. Kada timovi za korisničku službu, nabavu i skladište rade u nepovezanim aplikacijama, svaka primopredaja zahtijeva ručnu e-poštu, proračunske tablice i telefonske pozive. Pogreške se množe, fakture se zadržavaju, a obveze kupaca izostaju.",
+      "sec3P2": "Moderni ERP to rješava kroz objedinjenu liniju podataka i orkestraciju procesa vođenu događajima:",
+      "sec3List": [
+        {
+          "bold": "Sinkronizirana narudžba za gotovinu:",
+          "text": "Kada se izvrši narudžba kupca, automatski se rezervišu zalihe, generiraju se naljepnice za otpremu i trenutačno se ažuriraju knjige naplate."
+        },
+        {
+          "bold": "Transparentnost nabave za plaćanje:",
+          "text": "Narudžbenice, računi robe i fakture dobavljača automatski se podudaraju s trosmjernim usklađivanjem, označavajući samo iznimke za ljudski pregled."
+        },
+        {
+          "bold": "Jedinstveni obračun troškova rada i poslovanja:",
+          "text": "Vremenske tablice projekta, raspodjele plaća i izravni operativni rashodi mapiraju se izravno u troškovna mjesta u stvarnom vremenu."
+        }
+      ],
+      "sec4P1": "Vođenje poduzeća bez jedinstvene vidljivosti je poput letenja u gustoj magli s instrumentima koji kasne. Moderni ERP pruža telemetriju u stvarnom vremenu u svim dimenzijama poslovanja:",
+      "sec4List": [
+        {
+          "bold": "Izvršne nadzorne ploče uživo:",
+          "text": "Trenutačni pregledi bruto marži, operativnih novčanih tokova, otvorenih obveza i zaostalih narudžbi bez čekanja na zatvaranje na kraju razdoblja."
+        },
+        {
+          "bold": "Samoposlužno operativno izvješćivanje:",
+          "text": "Voditelji odjela mogu izraditi prilagođene upite i prelaziti sa sažetaka na razini poduzeća na pojedinačne transakcijske stavke."
+        },
+        {
+          "bold": "Centralizirane glavne informacije:",
+          "text": "Uklanjanje kontradiktornih brojeva uspostavljanjem jedinstvenih upravljanih matičnih podataka za kupce, dobavljače i kataloge proizvoda."
+        },
+        {
+          "bold": "Proaktivna upozorenja o anomaliji:",
+          "text": "Automatska upozorenja odmah obavještavaju upravitelje kada marže padnu ispod praga, zalihe su pri kraju ili isporuka dobavljača izostane."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOZOFIJA ERP TRANSFORMACIJE",
+      "keyPerspectiveTitle": "Pragmatična modernizacija preko monolitnog remonta",
+      "keyPerspectiveLead": "Moderna ERP transformacija uspješna je kada je organizacije tretiraju kao evolucijsku operativnu nadogradnju, a ne kao sve-ili-ništa IT poremećaj:"
+    },
+    "cybersecurity": {
+      "category": "KIBERSIGURNOST",
+      "title": "Izgradnja kibernetičke otpornosti u povezanom poduzeću",
+      "subtitle": "Istražite kako organizacije mogu ojačati sigurnost, zaštititi kritične sustave i pripremiti se za prijetnje u sve povezanijim okruženjima.",
+      "date": "Rujan 2026",
+      "readTime": "8 min čitanja",
+      "imageCaption": "Tehnološka perspektiva poduzeća — obrana od prijetnji i arhitektura bez povjerenja",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrija i detekcija",
+          "desc": "Unos dnevnika u stvarnom vremenu i korelacija SIEM anomalija u svim krajnjim točkama oblaka i radnim opterećenjima."
+        },
+        {
+          "title": "Zadržavanje i izolacija",
+          "desc": "Pravila automatizirane mrežne karantene trenutno izoliraju kompromitirane spremnike ili vjerodajnice."
+        },
+        {
+          "title": "Sanacija i temeljni uzrok",
+          "desc": "Brzo uvođenje zakrpa i digitalna forenzika koja identificira točan vektor kršenja."
+        },
+        {
+          "title": "Otpornost i stvrdnjavanje",
+          "desc": "Kontinuirane povratne informacije o nepromjenjivim sigurnosnim kopijama, zaštitnim ogradama politike i automatiziranim simulacijama crvenog tima."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Značajno smanjenje površina napada ranjivosti u svim resursima oblaka",
+        "Zajamčeni kontinuitet rada i oporavak od katastrofe s minimalnim RTO/RPO",
+        "Potpuno povjerenje u usklađenost s revizijama ISO 27001, SOC 2, HIPAA i GDPR",
+        "Zaštita temeljnog intelektualnog vlasništva poduzeća i povjerljive evidencije kupaca",
+        "Pojednostavljeno upravljanje rizikom dobavljača i trećih strana putem jedinstvenih kontrola pristupa",
+        "Poboljšano povjerenje klijenata i ulagača potpomognuto provjerenim sigurnosnim stavovima bez povjerenja"
+      ],
+      "zeroTrustPrinciples": [
+        "Nikada ne vjeruj, uvijek provjeravaj: Za svaku transakciju potrebna je eksplicitna autentifikacija",
+        "Najmanje privilegirani pristup: Granulirane granice uloga koje ograničavaju kretanje bočne prijetnje",
+        "Pretpostaviti kršenje: Kontinuirano praćenje prijetnji, enkripcija u prijenosu i mirovanju",
+        "Mikro-segmentacija: mrežni vatrozidi koji izoliraju radna opterećenja pojedinačnih aplikacija",
+        "Kontinuirana telemetrija: automatizirana analiza ponašanja koja označava nepravilne zahtjeve za sesije"
+      ],
+      "sec1Eyebrow": "PROŠIRIVI PERIMETAR",
+      "sec1Heading": "Sigurnosni krajolik povezanog poduzeća",
+      "sec1Subtext": "Kako moderne organizacije povezuju sve više aplikacija, okruženja u oblaku, udaljenih zaposlenika, mobilnih uređaja i partnera trećih strana, tradicionalni sigurnosni perimetar prestaje postojati.",
+      "sec2Eyebrow": "SVEOBUHVATNA OBRANA",
+      "sec2Heading": "Višeslojna zaštita od prijetnji",
+      "sec2Subtext": "Proaktivna obrana koja štiti kritičnu infrastrukturu, osjetljive korporativne podatke i operativne sustave.",
+      "sec3Eyebrow": "NOVA SIGURNOSNA GRANICA",
+      "sec3Heading": "Upravljanje identitetom i pristupom (IAM)",
+      "sec3Subtext": "Identitet je temeljna kontrolna razina moderne sigurnosti. Gotovo sva ozbiljna kršenja sigurnosti započinju s ugroženim vjerodajnicama, a ne s iskorištavanjem softvera.",
+      "sec4Eyebrow": "ARHITEKTONSKA PARADIGMA",
+      "sec4Heading": "Demistificiranje arhitekture nultog povjerenja",
+      "sec4Subtext": "Zero Trust nije pojedinačni proizvod ili alat. To je arhitektonska strategija koja se temelji na jednostavnom principu: prema zadanim postavkama ne vjerujte nijednom entitetu unutar ili izvan mreže.",
+      "sec5Eyebrow": "UPRAVLJANJE INFRASTRUKTUROM",
+      "sec5Heading": "Sigurnosna razmatranja u oblaku",
+      "sec5Subtext": "Zaštita radnih opterećenja u javnom oblaku, hibridnim arhitekturama i okruženjima distribuiranih spremnika.",
+      "sec6Eyebrow": "OPERATIVNA OTPORNOST",
+      "sec6Heading": "Spremnost na incidente: izvan prevencije",
+      "sec6Subtext": "Prava kibernetička otpornost prihvaća da se incidenti mogu dogoditi. Pripravnost je usmjerena na brzo obuzdavanje, minimalne poremećaje u poslovanju i provjereni oporavak.",
+      "sec7Eyebrow": "STRATEŠKA VRIJEDNOST",
+      "sec7Heading": "Poslovne prednosti",
+      "sec7Subtext": "Izgradnja cyber-otpornog poduzeća štiti organizacijsku vrijednost, regulatorni status i tržišnu reputaciju.",
+      "ctaHeading": "Ojačajte sigurnost svoje tvrtke",
+      "ctaDescription": "Istražite kako organizacije mogu ojačati sigurnost, zaštititi kritične sustave i pripremiti se za prijetnje u sve povezanijim okruženjima.",
+      "ctaButton": "Razgovarajte s našim stručnjacima",
+      "sec1P1": "U naslijeđenoj eri poslovnog IT-a, sigurnost je djelovala na doktrini dvorca i jarka: sve unutar mreže korporativnih ureda smatralo se pouzdanim, dok se sve izvan smatralo nepouzdanim. Jedan korporativni vatrozid štiti interne poslužitelje, baze podataka i stolna računala.",
+      "sec1P2": "Današnje poduzeće preraslo je fizičke zidove. Radna opterećenja nalaze se u okruženjima s više oblaka (AWS, Azure, GCP), zaposlenici pristupaju poslovnim aplikacijama s različitih lokacija, a API-ji kontinuirano razmjenjuju osjetljive operativne podatke s vanjskim pružateljima logističkih usluga, financijskim institucijama i SaaS dobavljačima.",
+      "sec1P3": "Dok ova hiper-povezanost pokreće ogromnu poslovnu agilnost, uvelike proširuje površinu napada poduzeća. Svaka krajnja točka API-ja, token identiteta, povezani mobilni uređaj i SaaS integracija predstavljaju potencijalni vektor izloženosti. Prava zaštita poduzeća zahtijeva prelazak s obrane temeljene na perimetru na proaktivnu kibernetičku otpornost s kraja na kraj.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Otkrivanje prijetnji",
+          "desc": "Inteligencija prijetnji potpomognuta strojnim učenjem koja nadzire nepravilne mrežne obrasce, zlouporabu vjerodajnica i ranjivosti nultog dana u stvarnom vremenu."
+        },
+        {
+          "icon": "📡",
+          "title": "Sigurnosni nadzor",
+          "desc": "Telemetrija središnjeg sigurnosnog operativnog centra (SOC) povezuje događaje među poslužiteljima, klasterima spremnika, pružateljima identiteta i krajnjim točkama."
+        },
+        {
+          "icon": "🔍",
+          "title": "Upravljanje ranjivostima",
+          "desc": "Kontinuirano automatizirano skeniranje ranjivosti kroz infrastrukturu, repozitorije izvornog koda i registre spremnika za proaktivno otklanjanje slabosti."
+        },
+        {
+          "icon": "🔒",
+          "title": "Zaštita podataka",
+          "desc": "Robusna enkripcija u prijenosu (TLS 1.3) i mirovanju (AES-256), zajedno s granularnim upravljanjem sprječavanjem gubitka podataka (DLP) za sprječavanje curenja intelektualnog vlasništva."
+        }
+      ],
+      "sec3P1": "Zaštita imovine poduzeća zahtijeva osiguravanje da svaki identitet — bilo da se radi o izvršnom čovjeku, vanjskom ugovaratelju ili računu autonomne softverske usluge — ima potvrđenu autorizaciju za točne resurse kojima pristupa.",
+      "sec3List": [
+        {
+          "bold": "Centralizirano upravljanje identitetom:",
+          "text": "Single Sign-On (SSO) i standardi federalnog identiteta koji eliminiraju fragmentirana pohranjivanja lozinki u aplikacijama."
+        },
+        {
+          "bold": "Adaptivna provjera autentičnosti s više faktora (MFA):",
+          "text": "FIDO2 hardverski ključevi otporni na krađu identiteta i kontekstualni izazovi temeljeni na riziku za osjetljive administrativne funkcije."
+        },
+        {
+          "bold": "Granularna kontrola pristupa:",
+          "text": "Detaljne kontrole pristupa temeljene na ulogama (RBAC) i atributima (ABAC) nametnute na razini API-ja i baze podataka."
+        },
+        {
+          "bold": "Načela najmanjih privilegija:",
+          "text": "Odobravanje privremenog, pravodobnog (JIT) pristupa koji automatski istječe po završetku administrativnih zadataka."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TEMELJNA DOKTRINA NULTOG POVJERENJE",
+      "keyPerspectiveTitle": "Kontinuirana provjera preko slijepog povjerenja",
+      "keyPerspectiveLead": "U arhitekturi nultog povjerenja, implicitno povjerenje temeljeno na mrežnoj lokaciji potpuno je demontirano. Svaka transakcija, upit bazi podataka i prijava korisnika moraju stalno dokazivati svoju legitimnost:",
+      "cloudSecurityCards": [
+        {
+          "title": "Podijeljena odgovornost",
+          "desc": "Jasno upravljanje koje razlikuje sigurnost fizičke infrastrukture pružatelja usluga oblaka od odgovornosti poduzeća za enkripciju podataka, IAM pravila i kod aplikacije."
+        },
+        {
+          "title": "Infrastruktura kao kod (IaC)",
+          "desc": "Nepromjenjive, revizijske konfiguracije oblaka kojima se upravlja putem koda. Automatizirani skeneri politike kao koda blokiraju pogrešne konfiguracije i izložene spremnike prije implementacije."
+        },
+        {
+          "title": "Sigurnost spremnika i Kubernetes",
+          "desc": "Ojačana vremena izvođenja spremnika, potpisani registri slika, mrežna mikrosegmentacija i automatizirano upravljanje tajnom koje čuva vjerodajnice izvan izvornih repozitorija."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "CLOUD & MODERNIZACIJA",
+      "title": "Modernizacija naslijeđenih aplikacija za oblak",
+      "subtitle": "Istražite praktičan pristup procjeni, modernizaciji i premještanju naslijeđenih aplikacija prema skalabilnim, sigurnim arhitekturama oblaka.",
+      "date": "Rujan 2026",
+      "readTime": "6 min čitanja",
+      "imageCaption": "Tehnološka perspektiva poduzeća — Cloud-native re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Ponovno postavljanje (podizanje i pomicanje)",
+          "desc": "Brzo prenesite radna opterećenja na virtualne strojeve u oblaku uz minimalne izmjene koda."
+        },
+        {
+          "title": "Ponovna platforma (podizanje i preoblikovanje)",
+          "desc": "Nadogradite okvire vremena izvođenja, usvojite upravljane baze podataka u oblaku i pojednostavnite operacije."
+        },
+        {
+          "title": "Refactor (Obnavljanje izvorno u oblaku)",
+          "desc": "Dekonstruirajte monolite u kontejnerske mikroservise i API-je bez poslužitelja vođene događajima."
+        },
+        {
+          "title": "Zamijeni (SaaS modernizacija)",
+          "desc": "Povucite suvišne naslijeđene sustave u korist namjenskog poslovnog softvera u oblaku."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Procjena naslijeđa",
+          "desc": "Automatizirano mapiranje ovisnosti, tehnička katalogizacija duga i ocjenjivanje spremnosti za oblak."
+        },
+        {
+          "title": "Ciljana arhitektura",
+          "desc": "Modularni nacrti mikroservisa, topologije spremnika i automatizirani IaC predlošci."
+        },
+        {
+          "title": "Postupna migracija",
+          "desc": "Canary izdanja, sinkronizacija podataka s dvostrukim pisanjem i valovi prekidanja bez prekida rada."
+        },
+        {
+          "title": "Optimizacija oblaka",
+          "desc": "Kontinuirano upravljanje troškovima, telemetrija s automatskim skaliranjem i FinOps operativni pregledi."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponencijalno niži troškovi održavanja infrastrukture i osvježavanja hardvera",
+        "Gotovo beskonačna računalna elastičnost rukovanje vršnim poslovnim prometom s nultom latencijom",
+        "Ubrzana brzina otpuštanja s potpuno automatiziranim cjevovodima za implementaciju CI/CD-a",
+        "Uklanjanje naslijeđenih pojedinačnih točaka kvara uz visoku dostupnost multi-AZ",
+        "Moderne API arhitekture koje omogućuju brzu međuplatformsku integraciju partnera",
+        "Napredno praćenje performansi aplikacija i potrošnje u oblaku u stvarnom vremenu"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mapiranje složenih međuaplikacijskih ovisnosti i ritma sinkronizacije podataka",
+        "Identificiranje tvrdo kodiranih konfiguracija okruženja i vlasničkih shema baze podataka",
+        "Procjena usklađenosti s propisima i ograničenja suvereniteta podataka po jurisdikciji",
+        "Izračun realnog ukupnog troška vlasništva (TCO) preko refaktora u odnosu na rehost staze",
+        "Uspostavljanje jasnih valova uvođenja radi zaštite aktivnih dnevnih poslovnih operacija"
+      ],
+      "sec1Eyebrow": "STVARNOST NASLJEĐENIH SUSTAVA",
+      "sec1Heading": "Izazov nasljeđa",
+      "sec1Subtext": "Stari monoliti ograničavaju brzinu inovacija, povećavaju operativne ranjivosti i povećavaju troškove održavanja infrastrukture.",
+      "sec2Eyebrow": "PROCJENA I OTKRIĆE",
+      "sec2Heading": "Razumijevanje krajolika aplikacije",
+      "sec2Subtext": "Uspješna modernizacija oblaka počinje rigoroznom procjenom. Izravno ulazak u migraciju bez revizije ovisnosti o aplikaciji primarni je uzrok odgođenih prekida.",
+      "sec3Eyebrow": "4 PUTA MODERNIZACIJE",
+      "sec3Heading": "Pristupi modernizaciji",
+      "sec3Subtext": "Ne postoji jedinstvena strategija migracije koja bi odgovarala svima. Vodeća poduzeća usklađuju pravi obrazac modernizacije sa svakim specifičnim radnim opterećenjem na temelju poslovne vrijednosti, hitnosti i tehničkog duga.",
+      "sec4Eyebrow": "MODEL TRANSFORMACIJE CILJA",
+      "sec4Heading": "Moderna arhitektura oblaka",
+      "sec4Subtext": "Strukturirani plan koji naslijeđene monolite pretvara u elastične, sigurne i održive usluge u oblaku.",
+      "sec5Eyebrow": "ISHODI TRANSFORMACIJE",
+      "sec5Heading": "Ključne prednosti modernizacije",
+      "sec5Subtext": "Premještanje naslijeđenih sustava na moderne arhitekture oblaka donosi opipljivu operativnu agilnost i predvidljivost troškova.",
+      "ctaHeading": "Modernizirajte svoje naslijeđene aplikacije",
+      "ctaDescription": "Istražite praktičan pristup procjeni, modernizaciji i premještanju naslijeđenih aplikacija prema skalabilnim, sigurnim arhitekturama oblaka.",
+      "ctaButton": "Razgovarajte s našim stručnjacima",
+      "sec1P1": "Aplikacije kritične za misiju izgrađene prije deset godina još uvijek donose milijarde prihoda poduzeća, ali njihova arhitektonska krutost stvara sve veći operativni rizik.",
+      "sec1P2": "Svako poduzeće suočava se s napetostima između stabilnosti i modernizacije. Naslijeđeni sustavi projektirani su za izdržljivost i pouzdano rade godinama. Međutim, kako se poslovni zahtjevi ubrzavaju, ove stare arhitekture nailaze na strukturna ograničenja:",
+      "sec1List": [
+        {
+          "bold": "Starenje softverskih skupova:",
+          "text": "Monolitne baze kodova izgrađene na zastarjelim okvirima sa sve manjim talentima dostupnim za održavanje."
+        },
+        {
+          "bold": "Teški ciklusi održavanja:",
+          "text": "Čvrsto povezane komponente kod kojih promjena jedne značajke predstavlja opasnost od kvara nepovezanih operativnih modula."
+        },
+        {
+          "bold": "Ograničena skalabilnost:",
+          "text": "Ograničenja okomitog skaliranja koja zahtijevaju kupnju skupog vlasničkog hardvera za rukovanje sezonskim skokovima prometa."
+        },
+        {
+          "bold": "Izazovi integracije:",
+          "text": "Nemogućnost glatkog sučelja s modernim mobilnim aplikacijama, korisničkim portalima ili partnerskim API-jima bez krhkih batch skripti."
+        },
+        {
+          "bold": "Infrastrukturna ograničenja:",
+          "text": "Fizički životni ciklus poslužiteljske sobe, ranjivosti sigurnosnog kopiranja i visoki operativni troškovi napajanja/hlađenja."
+        }
+      ],
+      "sec2P1": "Pragmatično modernizacijsko putovanje počinje uspostavljanjem potpune jasnoće u postojećem posjedu:",
+      "sec2List": [
+        {
+          "bold": "Prijave:",
+          "text": "Katalogiziranje svih aktivnih radnih opterećenja, prilagođenih modula, pozadinskih skripti i povijesnih paketa trećih strana."
+        },
+        {
+          "bold": "Zavisnosti:",
+          "text": "Mapiranje složenog povezivanja vremena izvođenja, dijeljenih tablica baze podataka, izravnih poziva sustava datoteka i ugovora o vanjskim uslugama."
+        },
+        {
+          "bold": "Podaci:",
+          "text": "Ocjenjivanje struktura podataka, zahtjeva za transakcijskim integritetom, ritma sigurnosne kopije i pravila regulatorne suverenosti."
+        },
+        {
+          "bold": "Infrastruktura:",
+          "text": "Revizija CPU-a, memorije, iskorištenosti pohrane i propusnosti mreže prema specifikacijama ciljnog oblaka prave veličine."
+        },
+        {
+          "bold": "Poslovna kritičnost:",
+          "text": "Kategoriziranje aplikacija u razine za dizajniranje sigurnih, postupnih valova migracije s jasnim rezervnim postupcima."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Prednost:",
+      "cloudArchitectureBadge": "Životni ciklus modernizacije",
+      "cloudArchitectureTitle": "Tijek modernizacije oblaka od kraja do kraja",
+      "sec4P1": "Odredišna arhitektura odvaja osnovne aplikacije u modularne, kontejnerske usluge smještene na elastičnim platformama u oblaku (kao što je Kubernetes ili upravljana runtimes bez poslužitelja).",
+      "sec4P2": "Uspostavom automatiziranih cjevovoda za implementaciju CI/CD-a, automatiziranih plavo-zelenih prekida i infrastrukture kao koda, implementacije se pretvaraju iz nervoznih vikend događaja u besprijekorne dnevne rutine.",
+      "sec4P3": "Elastično računanje automatski se povećava tijekom porasta potražnje i smanjuje tijekom zatišja, eliminirajući troškove resursa u mirovanju, a jamči vrijeme odziva ispod sekunde za globalne korisnike.",
+      "keyPerspectiveEyebrow": "NAJBOLJE PRAKSE MODERNIZACIJE",
+      "keyPerspectiveTitle": "Četiri stupa uspješne migracije",
+      "keyPerspectiveLead": "Iskustvo pokazuje da projekti modernizacije uspijevaju kada se temelje na opsežnoj pripremi, jasnom slijedu valova i rigoroznom testiranju:"
+    }
+  }
+}

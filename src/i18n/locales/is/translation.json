@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Um",
+    "services": "Þjónusta",
+    "products": "Vörur",
+    "perspectives": "Sjónarhorn",
+    "technologies": "Tækni",
+    "contact": "Hafðu samband",
+    "signIn": "Skráðu þig inn",
+    "signUp": "Skráðu þig",
+    "signOut": "Skráðu þig út",
+    "chooseLanguage": "Veldu tungumálið þitt",
+    "searchLanguage": "Leita tungumál",
+    "resetEnglish": "Núllstilla á ensku",
+    "noResults": "Engin tungumál fundust",
+    "englishDefault": "Enska (sjálfgefið)",
+    "english": "ensku"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Hugbúnaður, hannaður fyrir hvernig <em>fyrirtækið þitt</em> rekur.",
+    "description": "Rezonants er fyrirtæki í upplýsingatækniþjónustu og stafrænum vörum. Við hönnum, smíðum og stækkum sérsniðinn hugbúnað, vef- og farsímavörur, skýjainnviði og gervigreind — fyrir fyrirtæki sem keppa um framkvæmd.",
+    "bookConsultation": "Bókaðu ókeypis ráðgjöf",
+    "exploreServices": "Kanna þjónustu",
+    "years": "ár",
+    "projects": "verkefni",
+    "retention": "varðveisla",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — síðan 2012",
+    "metaStudio": "Stafræn vörustúdíó",
+    "metaTech": "Vefur · Farsími · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Um okkur",
+    "title": "Að byggja upp stafrænar lausnir <em>sem færa fyrirtæki áfram</em>",
+    "description": "Rezonants er tæknilausnafyrirtæki sem einbeitir sér að því að hjálpa fyrirtækjum að umbreyta hugmyndum í þýðingarmikla stafræna upplifun. Við sameinum tækni, sköpunargáfu og viðskiptaskilning til að skila lausnum sem eru hannaðar í samræmi við raunverulegar þarfir.<br /><br />Frá stafrænum umbreytingum og sérsniðnum hugbúnaðarþróun til skýja, gervigreindar, sjálfvirkni og stýrðrar tækniþjónustu, hjálpum við fyrirtækjum að einfalda margbreytileika, bæta skilvirkni og skapa varanlegt stafrænt gildi.<br /><br /><strong>Nálgun okkar er einföld – skilur vandamálið, leysir rétta vandamálið, leysi tæknina, leysi rétta vandamálið.</strong>",
+    "awardWinning": "Verðlaunahafar",
+    "awardText": "Viðurkenndur fyrir framúrskarandi afhendingu á vef- og farsímavöruverkfræði.",
+    "professionalStaff": "Faglegt starfsfólk",
+    "staffText": "Háttsettir, ábyrgir verkfræðingar sem eiga verkið frá fyrsta símtali þar til það byrjar.",
+    "support247": "Stuðningur allan sólarhringinn",
+    "supportText": "Stýrð þjónusta og stuðningslína sem svarar þegar þú þarft á því að halda.",
+    "fairPrices": "Sanngjarnt verð",
+    "pricesText": "Heiðarleg áætlanir og gagnsæ innheimta fyrir hverja einustu þátttöku.",
+    "yearsExcellence": "Ára ára framúrskarandi fyrirtæki"
+  },
+  "stats": {
+    "happyClients": "Ánægðir viðskiptavinir",
+    "projectsDone": "Verkefni unnin",
+    "winAwards": "Vinna til verðlauna"
+  },
+  "insights": {
+    "eyebrow": "Sjónarhorn",
+    "title": "Sjónarhorn",
+    "sub": "Kanna hugmyndir, strauma og tækni sem mótar framtíðina.",
+    "filters": {
+      "all": "Allt",
+      "digital-transformation": "Stafræn umbreyting",
+      "ai": "gervigreind og sjálfvirkni",
+      "cloud": "Ský",
+      "data": "Gögn og greiningar",
+      "software": "Hugbúnaður",
+      "business": "Viðskipti og tækni"
+    },
+    "readMore": "Lesa meira",
+    "close": "Loka",
+    "keyTakeaways": "Helstu byggingarlistar",
+    "relatedServices": "Tengd hæfileiki og þjónusta",
+    "minRead": "mín lestur",
+    "item1Date": "júlí 2026",
+    "item1Tag": "Vara & ERP",
+    "item1Title": "Eininga ERP nálgun fyrir vaxandi fyrirtæki",
+    "item1Text": "Hvernig við skipuleggjum ERP verkefni þannig að fjármál, birgðahald, starfsmannamál og innkaup sameinast óaðfinnanlega án margra ára truflunar.",
+    "item2Date": "júní 2026",
+    "item2Tag": "Gervigreind",
+    "item2Title": "Umboðsleg gervigreind kerfi: að flytja frá spjallbotnum yfir í sjálfvirka framkvæmd",
+    "item2Text": "Byggir á samræmdum LLM-kerfum með mörgum umboðsaðilum sem skipuleggja, sannreyna og framkvæma flókin viðskiptavinnuflæði með eftirliti manna á milli.",
+    "item3Date": "maí 2026",
+    "item3Tag": "Áfangi fyrirtækisins",
+    "item3Title": "Viðurkennd meðal leiðandi upplýsingatæknistofnana í Hyderabad",
+    "item3Text": "Verkfræðistofan okkar hefur hlotið viðurkenningu fyrir framúrskarandi afhendingu, djúptæknigetu og ánægju viðskiptavina í alþjóðlegri vöruverkfræði.",
+    "desc": "Skoðaðu hugmyndir og sjónarmið Rezonants um stafræna umbreytingu, gervigreind, sjálfvirkni, ský, gögn, hugbúnað og framtíð viðskiptatækni.",
+    "categories": {
+      "digitalTransformation": "Stafræn umbreyting",
+      "ai": "gervigreind og sjálfvirkni",
+      "cloud": "Ský",
+      "data": "Gögn og greiningar",
+      "software": "Hugbúnaður",
+      "business": "Viðskipti og tækni"
+    }
+  },
+  "technologies": {
+    "title": "Tækni og arkitektúr",
+    "headline": "Tæknilausnir fyrirtækja",
+    "sub": "Greind tækni. Sjálfvirk starfsemi. Snjallari viðskipti.",
+    "selectTechnology": "Veldu tæknilausn...",
+    "options": {
+      "aiRobotics": "Gervigreind og vélfærafræðilausnir",
+      "businessAutomation": "Sjálfvirknilausnir fyrirtækja",
+      "cloudMigrations": "Cloud Migration Solutions",
+      "dataCenters": "Gagnamiðstöðvarlausnir",
+      "cognitiveAnalytics": "Vitsmunagreining og gervigreind",
+      "informationReporting": "Upplýsinga- og skýrslukerfi",
+      "managedServices": "Stýrð þjónusta",
+      "oneStopSolutions": "Tæknilausnir á einum stað"
+    },
+    "explore": "Kanna tækni",
+    "bookDiscovery": "Uppgötvun bókatækni",
+    "exploreAll": "Kannaðu alla tækni",
+    "coreCapabilities": "Kjarnatæknigeta",
+    "bookConsultation": "Bókaðu ráðgjöf"
+  },
+  "contact": {
+    "eyebrow": "Hafðu samband",
+    "title": "Talaðu við yfirverkfræðing, ekki söluhandrit",
+    "sub": "Deildu aðeins um verkefnið þitt og við svörum innan eins virkra dags.",
+    "reachUs": "Hafðu samband beint við okkur",
+    "preferConversation": "Viltu frekar samtal? Við erum einu símtali í burtu.",
+    "contactLede": "Fljótlegasta leiðin til að komast áfram er stutt samtal. Hafðu samband við okkur á hvaða rás sem er hér að neðan, eða bókaðu tíma og við komum til þín undirbúin.",
+    "phone": "Sími",
+    "email": "Tölvupóstur",
+    "office": "Skrifstofa",
+    "hours": "Klukkutímar",
+    "hoursValue": "mán – lau, 9:30 – 18:30 IST",
+    "bookSlot": "Pantaðu ráðgjafartíma",
+    "sendMessage": "Sendu okkur skilaboð",
+    "fieldsRequired": "Reitir merktir með * eru nauðsynlegir.",
+    "fullName": "Fullt nafn *",
+    "emailLabel": "Netfang *",
+    "company": "Fyrirtæki",
+    "subject": "Efni",
+    "messageLabel": "Skilaboð *",
+    "sending": "Sendir…",
+    "sendBtn": "Senda skilaboð",
+    "successMsg": "Skilaboð send! Afrit hefur verið sent þér í tölvupósti.",
+    "errorMsg": "Gat ekki vistað skilaboðin þín. Athugaðu hvort taflan contact_messages sé til, reyndu svo aftur.",
+    "offices": {
+      "vijayawada": "Vijayawada skrifstofa",
+      "southAfrica": "Suður-Afríkuskrifstofa"
+    },
+    "placeholders": {
+      "fullName": "Fullt nafn þitt",
+      "email": "þú@fyrirtæki.is",
+      "company": "Fyrirtækið þitt eða stofnun",
+      "subject": "Hvernig getum við hjálpað?",
+      "message": "Segðu okkur frá verkefninu þínu, tímalínu og markmiðum..."
+    },
+    "validation": {
+      "fullNameRequired": "Vinsamlegast sláðu inn fullt nafn.",
+      "emailRequired": "Vinsamlegast sláðu inn netfangið þitt.",
+      "emailInvalid": "Vinsamlegast sláðu inn gilt netfang.",
+      "messageRequired": "Vinsamlegast sláðu inn skilaboð."
+    }
+  },
+  "services": {
+    "eyebrow": "Þjónusta",
+    "title": "Það sem við gerum",
+    "sub": "Frá stefnumótun til stýrðs rekstrar, við skilum tæknisamstarfi frá enda til enda fyrir fyrirtæki sem keppa um framkvæmd.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Upphaf til dreifingar",
+        "description": "Þróun frá enda til enda á nýjum stafrænum lausnum frá viðskiptakröfum og lausnaarkitektúr í gegnum þróun, samþættingu, prófun, uppsetningu og áframhaldandi stuðning."
+      },
+      "businessProcessAutomation": {
+        "label": "Sjálfvirkni viðskiptaferla",
+        "description": "Hönnun og innleiðing á snjöllum sjálfvirknilausnum sem hagræða viðskiptaferlum, útrýma endurteknum handvirkum aðgerðum, bæta rekstrarhagkvæmni og flýta fyrir afkomu fyrirtækja."
+      },
+      "centerOfExcellence": {
+        "label": "öndvegissetur",
+        "description": "Stofnun sérhæfðra tækni- og viðskiptagetumiðstöðva sem veita stjórnun, staðla, sérfræðiþekkingu, ramma, endurnýtanlegar eignir og stöðugar umbætur í stofnuninni."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Sérsniðin þróun og sérsniðin",
+        "description": "Þróun og endurbætur á forritum, kerfum, verkflæði og fyrirtækjalausnum til að mæta einstökum viðskiptakröfum og skila sérsniðinni virkni."
+      },
+      "digitalTransformation": {
+        "label": "Stafræn umbreyting",
+        "description": "Nútímavæðing fyrirtækjareksturs, tæknivistkerfa og upplifunar viðskiptavina með skýi, gervigreind, sjálfvirkni, gögnum og nútíma forritatækni."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Lausnaramma frá enda til enda",
+        "description": "Alhliða afhendingaraðferð sem nær yfir allan tæknilífsferilinn—frá stefnu, kröfum og arkitektúr til þróunar, samþættingar, dreifingar, stjórnunar, eftirlits og stuðnings."
+      },
+      "migrationModernization": {
+        "label": "Flutningur og nútímavæðing",
+        "description": "Örugg og skipulögð flutningur á forritum, gögnum, kerfum, innviðum og vinnuálagi frá eldra eða núverandi umhverfi yfir í nútíma, stigstærð og fínstillt tæknikerfi."
+      },
+      "pocPilotImplementation": {
+        "label": "Proof of Concept (PoC) og tilraunaútfærsla",
+        "description": "Hröð þróun og löggilding tæknilausna til að meta tæknilega hagkvæmni, viðskiptagildi, samþættingarkröfur, frammistöðu og sveigjanleika fyrir innleiðingu í fullri stærð."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Sameiginleg þjónusta og stýrð rekstur",
+        "description": "Miðstýrð afhending tækni og rekstrargetu þvert á rekstrareiningar með stöðluðum ferlum, hæfum úrræðum, stjórnunarumgjörðum, þjónustustjórnun og mælanlegum þjónustustigum."
+      },
+      "customDevelopment": {
+        "label": "Upphaf til dreifingar",
+        "description": "Þróun frá enda til enda á nýjum stafrænum lausnum frá viðskiptakröfum og lausnaarkitektúr í gegnum þróun, samþættingu, prófun, uppsetningu og áframhaldandi stuðning."
+      },
+      "processAutomation": {
+        "label": "Sjálfvirkni viðskiptaferla",
+        "description": "Hönnun og innleiðing á snjöllum sjálfvirknilausnum sem hagræða viðskiptaferlum, útrýma endurteknum handvirkum aðgerðum, bæta rekstrarhagkvæmni og flýta fyrir afkomu fyrirtækja."
+      },
+      "solutionEngineering": {
+        "label": "Sérsniðin þróun og sérsniðin",
+        "description": "Þróun og endurbætur á forritum, kerfum, verkflæði og fyrirtækjalausnum til að mæta einstökum viðskiptakröfum og skila sérsniðinni virkni."
+      },
+      "endToEndSolutions": {
+        "label": "Lausnaramma frá enda til enda",
+        "description": "Alhliða afhendingaraðferð sem nær yfir allan tæknilífsferilinn—frá stefnu, kröfum og arkitektúr til þróunar, samþættingar, dreifingar, stjórnunar, eftirlits og stuðnings."
+      },
+      "migrationServices": {
+        "label": "Flutningur og nútímavæðing",
+        "description": "Örugg og skipulögð flutningur á forritum, gögnum, kerfum, innviðum og vinnuálagi frá eldra eða núverandi umhverfi yfir í nútíma, stigstærð og fínstillt tæknikerfi."
+      },
+      "pilotPrototyping": {
+        "label": "Proof of Concept (PoC) og tilraunaútfærsla",
+        "description": "Hröð þróun og löggilding tæknilausna til að meta tæknilega hagkvæmni, viðskiptagildi, samþættingarkröfur, frammistöðu og sveigjanleika fyrir innleiðingu í fullri stærð."
+      },
+      "sharedServices": {
+        "label": "Sameiginleg þjónusta og stýrð rekstur",
+        "description": "Miðstýrð afhending tækni og rekstrargetu þvert á rekstrareiningar með stöðluðum ferlum, hæfum auðlindum, stjórnunarramma, þjónustustjórnun og mælanlegum þjónustustigum."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Skipuleggðu samráð",
+      "exploreFramework": "Skoða lausnaramma",
+      "talkSeniorEngineer": "Talaðu við yfirverkfræðing",
+      "exploreTechStack": "Kanna tæknistafla",
+      "bookPocSession": "Bókaðu PoC Discovery Session",
+      "seeAllServices": "Sjá allar þjónustur",
+      "requestAssessment": "Biðja um flutningsmat",
+      "exploreCloudSolutions": "Skoðaðu skýjalausnir"
+    },
+    "sharedServices": {
+      "heroBadge": "DEILEG ÞJÓNUSTA OG STÝRÐ REKSTUR",
+      "heroTitle": "Sameiginleg þjónusta fyrirtækja og stýrð rekstur",
+      "heroDesc": "Stækkaðu viðskiptagetu, straumlínulaga þvervirkt verkflæði og náðu rekstrarárangri með stöðluðum, öruggum og hagkvæmum líkönum fyrir sameiginlega þjónustu.",
+      "bookDiscovery": "Uppgötvun bókstýrðra aðgerða",
+      "exploreFramework": "Kanna lausnaramma",
+      "coreCapabilities": "Kjarnageta:",
+      "managedServices": "Stýrð þjónusta",
+      "itOperations": "Upplýsingatæknirekstur",
+      "appSupport": "Stuðningur við forrit",
+      "serviceManagement": "Þjónustustjórnun",
+      "resourceOptimization": "Hagræðing auðlinda",
+      "slaManagement": "SLA stjórnun",
+      "governance": "Stjórnarhættir",
+      "continuousImprovement": "Stöðugar endurbætur",
+      "costOptimization": "Hagræðing kostnaðar",
+      "readyTitle": "Tilbúinn til að hagræða rekstur þinn?",
+      "readyDesc": "Uppgötvaðu hvernig ramma okkar fyrir sameiginlega þjónustu og stjórnaða starfsemi getur aukið þjónustugæði, tryggt rekstrarsamfellu og stuðlað að sjálfbærri kostnaðarhagkvæmni fyrir fyrirtækið þitt.",
+      "scheduleSession": "Skipuleggðu uppgötvunarlotu"
+    },
+    "solutionEngineering": {
+      "heroBadge": "LAUSNARVERKFRÆÐI OG ARKITEKTÚR",
+      "heroTitle": "Sérsniðin þróun og sérsniðin",
+      "heroDesc": "Arkitekt, verkfræðingur og innleiði afkastamikil hugbúnaðarkerfi sem eru hönnuð sérstaklega fyrir verkflæði þitt, gagnaleiðslur og mælikvarða."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "SNÖÐ NÝSKÖPUN OG TILRAUNIR",
+      "heroTitle": "Proof of Concept (PoC) og tilraunaútfærsla",
+      "heroDesc": "Sannreyndu nýja tækni, eyddu áhættu af flóknum arkitektúr og sannaðu viðskiptavirði með frumgerðum í framleiðslu á vikum, ekki ársfjórðungum."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "LÍFSFERÐARARKIKTÚR OG AFHENDING",
+      "heroTitle": "Lausnaramma frá enda til enda",
+      "heroDesc": "Sameinað afhendingarlíkan sem tengir vöruuppgötvun, lausnaarkitektúr, verkfræði, skýjainnviði og 24/7 áreiðanleikastarfsemi."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTUR OG ARFLEGAR NÚTÍÐUN",
+      "heroTitle": "Flutningur og nútímavæðing",
+      "heroDesc": "Færðu óaðfinnanlega eldri vinnuálag, einhæfan arkitektúr og innviði á staðnum yfir í nútímalega, örugga og stigstærða skýjapalla."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Nútímavæðing fyrirtækja",
+        "titlePart1": "Stafræn",
+        "titlePart2": "Umbreyting",
+        "description": "Nútímavæðing fyrirtækjareksturs, tæknivistkerfa og upplifunar viðskiptavina með skýi, gervigreind, sjálfvirkni, gögnum og nútíma forritatækni.",
+        "bookWorkshop": "Umbreytingarverkstæði bóka",
+        "exploreFramework": "Kanna lausnaramma",
+        "startTransformation": "Byrjaðu umbreytingu",
+        "exploreStrategy": "Kanna stefnu",
+        "coreCapabilitiesTitle": "Kjarnageta",
+        "coreCapabilities": [
+          "Stafræn stefna",
+          "Cloud Transformation",
+          "gervigreind og sjálfvirkni",
+          "Nútímavæðing forrita",
+          "Eldri nútímavæðing",
+          "Gögn og greiningar",
+          "Upplifun viðskiptavina",
+          "Tækni Nútímavæðing"
+        ],
+        "row1Eyebrow": "Stefna og vegvísir",
+        "row1Title": "Frá framtíðarsýn til keyranlegs vegakorts",
+        "row1P1": "Við erum í samstarfi við leiðtoga fyrirtækja til að skilgreina stafræna stefnu, viðskiptatilvik og áfangaleiðir með skjótum vinningum og áhættulausri framkvæmd.",
+        "row1P2": "Forgangsverkefni, TCO líkön og KPIs tryggja að öll tæknivæðingarátak tengist beint tekjum, skilvirkni og ánægju viðskiptavina.",
+        "row2Eyebrow": "Eldri nútímavæðing",
+        "row2Title": "Nútímavæðast án þess að rjúfa viðskiptin",
+        "row2P1": "Endursetja vettvang til örþjónustu, API og skýjaætt mynstur með niðurfellingu á stöðvunartíma og sjálfvirkri aðhvarfsstaðfestingu.",
+        "row2P2": "Við nútímavæðum forrit, gagnagrunna og samþættingarlög á sama tíma og við varðveitum samræmi og öryggisstöðu.",
+        "row3Eyebrow": "Ský, gervigreind og gögn",
+        "row3Title": "Skýjaupptaka og gagnadrifin greind",
+        "row3P1": "Taktu upp AWS, Azure og GCP, byggðu nútímalegar gagnaleiðslur og settu inn vélanámsmiðla til að knýja fram sjálfstæðar ákvarðanir.",
+        "row3P2": "Allt frá straumspilun viðburða í rauntíma til sameinaðs mælaborðs, umbreytingin verður mælanleg og sjálfbær.",
+        "row4Eyebrow": "Upplifun viðskiptavina",
+        "row4Title": "Nútíma upplifun fjölrása",
+        "row4P1": "Endurhanna ferðir viðskiptavina á móttækilegum vef-, iOS-, Android- og sjálfsafgreiðslugáttum með sérsniðnu viðmóti.",
+        "row4P2": "Pallverkfræði, fjarmælingar og sjálfvirkar endurgjöfarlykkjur gera stafræna nýsköpun stöðuga.",
+        "pillarsTitle": "Umbreytingarstoðir",
+        "pillarsSub": "Niðurstöðumiðaðar stangir sem tryggja sjálfbæra stafræna forystu.",
+        "pillar1Title": "Stafræn stefna og stjórnarhættir",
+        "pillar1Desc": "Áföngum umbreytingarteikningar með viðskiptalíkönum, stjórnunarháttum arkitektúrs og áhættumælingu á áfangastöðum.",
+        "pillar2Title": "Ský og gagnapallur",
+        "pillar2Desc": "AWS/Azure/GCP fjölskýjagrunnur, sjálfvirkar leiðslur og virkjun fyrirtækjagagnagreiningar.",
+        "pillar3Title": "gervigreind og sjálfvirkni",
+        "pillar3Desc": "Snjöll ferli sjálfvirkni, vitsmunalegir gervigreindir og forspárfjarmælingar til að hámarka daglegan rekstur.",
+        "pillar4Title": "Upplifun viðskiptavina",
+        "pillar4Desc": "Stafrænar gáttir með miklum umbreytingum og sérsniðin viðmót byggð fyrir hámarks varðveislu notenda.",
+        "ctaTitle": "Tilbúinn til að umbreyta fyrirtækinu þínu?",
+        "ctaSub": "Samstarf við Rezonants fyrir áfangastýrða, áhættulausa stafræna umbreytingu sem tengist mælanlegum viðskiptaniðurstöðum.",
+        "ctaButton": "Bókaðu símtal um stafræna umbreytingu"
+      },
+      "customDevelopment": {
+        "eyebrow": "Stafræn verkfræði frá enda til enda",
+        "titlePart1": "Upphaf Til",
+        "titlePart2": "Dreifing",
+        "bookConsultation": "Bókaðu ráðgjöf",
+        "exploreEngineering": "Skoða lausnaverkfræði"
+      },
+      "processAutomation": {
+        "eyebrow": "Intelligent Process Operations",
+        "titlePart1": "Viðskiptaferli",
+        "titlePart2": "Sjálfvirkni",
+        "bookDiscovery": "Uppgötvun bóka sjálfvirkni",
+        "exploreCoE": "Skoða öndvegismiðstöðina"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Miðstöð",
+        "titlePart2": "Ágæti",
+        "bookConsultation": "Bókaðu CoE ráðgjöf",
+        "exploreCapabilities": "Kanna möguleika"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Heill tæknilífsferill",
+        "titlePart1": "Frá enda til enda",
+        "titlePart2": "Lausnaramma",
+        "startJourney": "Byrjaðu lífsferilinn þinn",
+        "exploreTransformation": "Kanna umbreytingu"
+      },
+      "migrationServices": {
+        "eyebrow": "Umbreyting skýja og innviða",
+        "titlePart1": "Flutningur &",
+        "titlePart2": "Nútímavæðing",
+        "planMigration": "Skipuleggðu flutninginn þinn",
+        "exploreTransformation": "Kanna umbreytingu"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Hröð staðfesting og hagkvæmni",
+        "titlePart1": "Proof of Concept (PoC) &",
+        "titlePart2": "Framkvæmd tilrauna",
+        "initiateDiscovery": "Hefja PoC uppgötvun",
+        "exploreDevelopment": "Kannaðu sérsniðna þróun"
+      },
+      "solutionEngineering": {
+        "badge": "Sérsniðin stafræn verkfræði",
+        "bookConsultation": "Bókaðu ráðgjöf",
+        "exploreCapabilities": "Kanna möguleika"
+      },
+      "sharedServices": {
+        "eyebrow": "Miðstýrð rekstrarmiðstöð",
+        "titlePart1": "Sameiginleg þjónusta &",
+        "titlePart2": "Stýrður rekstur",
+        "bookDiscovery": "Uppgötvun bókstýrðra aðgerða",
+        "exploreFramework": "Skoða lausnaramma"
+      }
+    },
+    "coreCapabilities": "Kjarnageta"
+  },
+  "products": {
+    "featured": "Valdar vörur",
+    "featuredSub": "Einfaldaðu reksturinn, tengdu teymi, gerðu sjálfvirkan ferla og ýttu undir betri vöxt fyrirtækja.",
+    "seeAll": "Sjá allar vörur",
+    "featuredProducts": "VÖRUVÖRUR",
+    "meetAutonomous": "Hittu sjálfstjórnarstarfsfólkið",
+    "meetAutonomousText": "Umbreyttu aðgerðum þínum með gervigreindum umboðsmönnum sem vinna við hlið teymisins þíns til að takast á við flókin, endurtekin verkefni.",
+    "learnMore": "Lærðu meira",
+    "erp": {
+      "title": "Einn pallur tilbúinn fyrir hvað sem er",
+      "sub": "Að styrkja fyrirtæki með tengdum, snjöllum og skalanlegum fyrirtækjastjórnunarlausnum.",
+      "explore": "Kannaðu ERP lausnir",
+      "gridTitle": "ERP LAUSNIR",
+      "promoTitle": "Modular ERP fyrir vöxt",
+      "promoText": "Notaðu ERP-einingareiginleika hratt án þess að hefðbundin margra ára kerfi séu flókin.",
+      "scheduleDemo": "Dagskrá kynningu"
+    },
+    "it": {
+      "title": "Upplýsingatæknilausnir",
+      "sub": "Innviði, öryggi og DevOps lausnir fyrir fyrirtæki til að halda fyrirtækinu þínu gangandi.",
+      "explore": "Kannaðu upplýsingatæknilausnir",
+      "gridTitle": "ÞAÐ LAUSNIR",
+      "promoTitle": "Áreiðanlegur upplýsingatækniinnviði",
+      "promoText": "Byggðu upp sveigjanlegan tæknigrunn með stýrðri skýja-, öryggis- og DevOps þjónustu.",
+      "getStarted": "Byrjaðu"
+    },
+    "crm": {
+      "title": "CRM lausnir",
+      "sub": "Stjórnun viðskiptavinatengsla til að hagræða verkflæði í sölu, stuðningi og markaðssetningu.",
+      "explore": "Skoðaðu CRM lausnir",
+      "gridTitle": "CRM LAUSNIR",
+      "promoTitle": "Loka fleiri tilboðum",
+      "promoText": "Styrktu sölu- og stuðningsteymi þín með sameinuðum viðskiptavinagögnum og greindri sjálfvirkni.",
+      "startTrial": "Byrjaðu ókeypis prufuáskrift"
+    },
+    "hrms": {
+      "title": "HRMS lausnir",
+      "sub": "Mannauðsstjórnun sem nær yfir launagreiðslur, ráðningar, frammistöðu og þátttöku starfsmanna.",
+      "explore": "Kannaðu HRMS lausnir",
+      "gridTitle": "HRMS LAUSNIR",
+      "promoTitle": "Einfaldaðu starfsmannarekstur",
+      "promoText": "Gerðu sjálfvirkan HR vinnuflæði frá ráðningum til starfsloka með nútímalegum vettvangi sem er fyrsti starfsmaður.",
+      "requestDemo": "Biðja um kynningu"
+    },
+    "sidebar": {
+      "featuredProducts": "Valdar vörur",
+      "erpSolutions": "ERP lausnir",
+      "solutions": "LAUSNIR"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Snjallir sjálfstæðir umboðsmenn og verkfæri sem gera flókið verkflæði og rekstur viðskiptavina sjálfvirkan."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Stjórnunarvettvangur margra skýja sem hámarkar frammistöðu, öryggi, samræmi og kostnað."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hybrid samstarfs- og framleiðnimiðstöð með samþættri verkefna-, spjall- og skjalastjórnun."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Rauntíma greiningarvél sem umbreytir straumum viðskiptaviðburða í raunhæfa innsýn."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP kjarna",
+        "description": "Sameinað fyrirtækjaarkitektúr sem tengir saman fjármál, eignir, starfsmannamál, innkaup og birgðahald."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Upplifunarvettvangur starfsmanna sem nær yfir launaskrá, fríðindi, árangursmat og sjálfsafgreiðslu."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Rauntíma flutningsmæling, sjálfvirk vöruhúsarekstur og eftirspurnarspá."
+      },
+      "financeHub": {
+        "title": "Fjármálamiðstöð",
+        "description": "Háþróuð fjárhagsstjórnun, innheimtuvinnuflæði, sjálfvirkt samræmi og rauntíma sjóðstreymisskýrslur."
+      },
+      "cloudInfrastructure": {
+        "title": "Skýjainnviði",
+        "description": "Stærðanleg skýjaarkitektúr, flutningur og stjórnun þvert á AWS, Azure og GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Netöryggissvíta",
+        "description": "Öryggisvöktun frá enda til enda, uppgötvun ógnar og eftirlit með regluvörslu."
+      },
+      "devopsPipeline": {
+        "title": "DevOps leiðsla",
+        "description": "CI/CD sjálfvirkni, gámavæðing og innviði-sem-kóði fyrir hraðari afhendingu."
+      },
+      "managedItServices": {
+        "title": "Stýrð upplýsingatækniþjónusta",
+        "description": "24/7 vöktun innviða, viðbrögð við atvikum og fyrirbyggjandi viðhald."
+      },
+      "salesCrm": {
+        "title": "Sölu CRM",
+        "description": "Leiðslustjórnun, stigagjöf, viðskiptarakningu og söluspá á einum vettvangi."
+      },
+      "customerSupportHub": {
+        "title": "Þjónustumiðstöð",
+        "description": "Miðasala, þekkingargrunnur, lifandi spjall og stuðningur um alla rásir."
+      },
+      "marketingAutomation": {
+        "title": "Markaðstækni sjálfvirkni",
+        "description": "Herferðarskipun, sjálfvirkni tölvupósts, ræktun leiða og greiningar."
+      },
+      "customer360View": {
+        "title": "Viðskiptavinur 360 Skoða",
+        "description": "Sameinuð viðskiptavinasnið sem sameina sölu-, stuðning- og samskiptagögn."
+      },
+      "coreHr": {
+        "title": "Kjarna HR",
+        "description": "Starfsmannaskrár, stigveldi skipulagsheilda, orlofsstjórnun og mætingarakning."
+      },
+      "payrollCompliance": {
+        "title": "Launaskrá og samræmi",
+        "description": "Sjálfvirk launavinnsla, skattaútreikningar og lögbundið eftirlit."
+      },
+      "performanceManagement": {
+        "title": "Árangursstjórnun",
+        "description": "OKR mælingar, 360° umsagnir, markmiðasetning og þróunaráætlanir starfsmanna."
+      },
+      "recruitmentPortal": {
+        "title": "Ráðningargátt",
+        "description": "Atvinnutilkynningar, rakning umsækjenda, tímasetningu viðtala og vinnuflæði við inngöngu."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Valdar vörur",
+        "heading": "Valdar vörur",
+        "sub": "Einfaldaðu rekstur, tengdu teymi, gerðu sjálfvirkan ferla og ýttu undir betri vöxt fyrirtækja.",
+        "promoTitle": "Hittu sjálfstjórnarstarfsfólkið",
+        "promoText": "Umbreyttu aðgerðum þínum með gervigreindum umboðsmönnum sem vinna við hlið teymisins þíns til að takast á við flókin, endurtekin verkefni.",
+        "items": [
+          {
+            "title": "AI sjálfvirkni og greindur umboðsmenn",
+            "description": "Gerðu sjálfvirkan endurtekin verkefni og sendu inn greindar gervigreindarmiðlar sem bæta framleiðni, ákvarðanatöku og viðskiptaafkomu."
+          },
+          {
+            "title": "Upplýsingatækniþjónusta og stafræn aðstoð",
+            "description": "Veittu hraðari, snjallari upplýsingatæknistuðning með straumlínulagðri þjónustustjórnun, sjálfvirkni og stafrænu verkflæði."
+          },
+          {
+            "title": "Stjórnun gervigreindar fyrirtækja",
+            "description": "Byggja upp ábyrga gervigreind með sterkri stjórnsýslu, öryggi, regluvörslu, gagnsæi og áhættueftirliti."
+          },
+          {
+            "title": "Snjall upplýsingatæknirekstur",
+            "description": "Umbreyttu upplýsingatæknistarfsemi með gervigreindardrifnu eftirliti, sjálfvirkni, forspárinnsýn og fyrirbyggjandi úrlausn vandamála."
+          },
+          {
+            "title": "Upplifunarstjórnun viðskiptavina",
+            "description": "Búðu til persónulegar ferðir viðskiptavina með greindri þátttöku, sjálfvirkni, greiningu og hnökralausri stafrænni upplifun."
+          },
+          {
+            "title": "Viðskiptastefna og hagræðing eignasafns",
+            "description": "Samræmdu tæknifjárfestingar við viðskiptamarkmið til að hámarka eignasöfn, bæta skilvirkni og knýja fram sjálfbæran vöxt."
+          },
+          {
+            "title": "Lífsferill upplýsingatæknieigna og tækni",
+            "description": "Hafa umsjón með upplýsingatæknieignum allan lífsferilinn með betri sýnileika, sjálfvirkni, kostnaðarstjórnun og tækniáætlun."
+          },
+          {
+            "title": "Fyrirtækjaáhætta og fylgni",
+            "description": "Þekkja, meta og hafa umsjón með áhættu fyrirtækja á sama tíma og þú styrkir regluvörslu, eftirlit og seiglu í skipulagi."
+          },
+          {
+            "title": "Netöryggi og ógnunaraðgerðir",
+            "description": "Verndaðu stafrænt umhverfi með fyrirbyggjandi hættugreiningu, öryggisaðgerðum, viðbrögðum við atvikum og stöðugu eftirliti."
+          },
+          {
+            "title": "Sjálfvirkni á vettvangi",
+            "description": "Styrktu vettvangsteymi með greindri tímasetningu, farsímum vinnuflæði, sjálfvirkni og rauntíma rekstrarsýnileika."
+          },
+          {
+            "title": "Starfsreynsla og starfsmannaþjónusta",
+            "description": "Einfaldaðu starfsmannaþjónustu með stafrænu verkflæði, sjálfsafgreiðslulausnum, sjálfvirkni og persónulegri upplifun starfsmanna."
+          },
+          {
+            "title": "Sameinaður stafrænn vinnustaður",
+            "description": "Tengdu fólk, ferla, forrit og samstarfsverkfæri í gegnum öruggan, greindur og óaðfinnanlegur stafrænn vinnustaður."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP lausnir",
+        "heading": "Einn pallur, tilbúinn fyrir hvað sem er",
+        "sub": "Að styrkja fyrirtæki með tengdum, snjöllum og skalanlegum fyrirtækjastjórnunarlausnum.",
+        "promoTitle": "Modular ERP fyrir vöxt",
+        "promoText": "Notaðu ERP-einingareiginleika hratt án flókins hefðbundinna margra ára kerfa.",
+        "items": [
+          {
+            "title": "Sjálfvirkni viðskiptaferla",
+            "description": "Hagræða fjármálum, starfsmannamálum, sölu, innkaupum og daglegum rekstri."
+          },
+          {
+            "title": "Samþætt viðskiptastjórnun",
+            "description": "Tengdu deildir, gögn og verkflæði á sameinaðan vettvang."
+          },
+          {
+            "title": "Fjármál og bókhald",
+            "description": "Bættu fjárhagslegan sýnileika, skýrslugerð, fjárhagsáætlunargerð og samræmi."
+          },
+          {
+            "title": "HR & Launaskrá",
+            "description": "Einfaldaðu starfsmannastjórnun, viðveru, launaskrá og starfsmannaferla."
+          },
+          {
+            "title": "Aðfangakeðjustjórnun",
+            "description": "Fínstilltu innkaup, birgðahald, söluaðila og flutninga."
+          },
+          {
+            "title": "Sölu- og viðskiptavinastjórnun",
+            "description": "Stjórnaðu sölum, viðskiptavinum, pöntunum og söluárangri á skilvirkan hátt."
+          },
+          {
+            "title": "Rauntímagreining og skýrslur",
+            "description": "Breyttu viðskiptagögnum í raunhæfa innsýn fyrir hraðari ákvarðanir."
+          },
+          {
+            "title": "Cloud ERP lausnir",
+            "description": "Virkjaðu örugga, stigstærða og aðgengilega fyrirtækjastjórnun hvar sem er."
+          }
+        ]
+      },
+      "it": {
+        "title": "Upplýsingatæknilausnir",
+        "heading": "Upplýsingatæknilausnir okkar",
+        "sub": "Umbreyttu upplýsingatæknirekstri með snjöllum, fyrirbyggjandi og skalanlegum stafrænum lausnum sem bæta árangur, framleiðni og samfellu í rekstri.",
+        "promoTitle": "Áreiðanlegur upplýsingatækniinnviði",
+        "promoText": "Byggðu upp fjaðrandi tæknigrunn með stýrðri skýja-, öryggis- og DevOps þjónustu.",
+        "items": [
+          {
+            "title": "Þjónustustjórnun upplýsingatækni",
+            "description": "Hagræða upplýsingatækniþjónustu, atvikum, beiðnum og verkflæði fyrir hraðari úrlausn."
+          },
+          {
+            "title": "Rekstrarstjórnun upplýsingatækni",
+            "description": "Fylgstu með innviðum og forritum með fyrirbyggjandi, gagnastýrðum upplýsingatæknirekstri."
+          },
+          {
+            "title": "Eignastýring upplýsingatækni",
+            "description": "Hafa umsjón með tæknieignum á skilvirkan hátt á sama tíma og þú dregur úr kostnaði, áhættu og flóknu líftíma."
+          },
+          {
+            "title": "Enterprise arkitektúr",
+            "description": "Samræma viðskiptastefnu við réttan tækniarkitektúr og fjárfestingar."
+          },
+          {
+            "title": "Skýjastjórnun",
+            "description": "Bættu skýjaöryggi, samræmi, frammistöðu og kostnaðarstjórnun."
+          },
+          {
+            "title": "Stafræn starfsemi",
+            "description": "Gerðu sjálfvirkan upplýsingatækniferla og fáðu sýnileika í rauntíma í gegnum tækniumhverfið þitt."
+          },
+          {
+            "title": "Athugun og eftirlit",
+            "description": "Finndu frammistöðuvandamál snemma og viðhaldið áreiðanlegri stafrænni upplifun."
+          },
+          {
+            "title": "Stefnumiðuð eignasafnsstjórnun",
+            "description": "Tengdu upplýsingatæknifjárfestingar við forgangsröðun fyrirtækja og mælanlegan árangur."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM lausnir",
+        "heading": "CRM lausnir okkar",
+        "sub": "Gefðu tengdri, persónulegri og greindri upplifun viðskiptavina á öllu ferðalagi viðskiptavinarins.",
+        "promoTitle": "Loka fleiri tilboðum",
+        "promoText": "Styrktu sölu- og stuðningsteymi þín með sameinuðum viðskiptavinagögnum og greindri sjálfvirkni.",
+        "items": [
+          {
+            "title": "Þjónustustjórnun",
+            "description": "Bættu þjónustuver með hraðari upplausn, sjálfsafgreiðslu og greindu verkflæði."
+          },
+          {
+            "title": "Sölusjálfvirkni",
+            "description": "Gerðu sölustarfsemi sjálfvirkan, stjórnaðu sölum og hjálpaðu teymum að loka tækifærum hraðar."
+          },
+          {
+            "title": "Sölu- og pöntunarstjórnun",
+            "description": "Hagræða ferðina frá blý til pöntunar og bæta sýnileika tekna."
+          },
+          {
+            "title": "Þjónustustjórnun á vettvangi",
+            "description": "Fínstilltu vettvangsrekstur, tímasetningu, sendingu og framleiðni tæknimanna."
+          },
+          {
+            "title": "Upplifunarstjórnun viðskiptavina",
+            "description": "Búðu til óaðfinnanlega og persónulega upplifun á öllum snertipunktum viðskiptavina."
+          },
+          {
+            "title": "CRM greiningar og innsýn",
+            "description": "Breyttu gögnum viðskiptavina í raunhæfa innsýn fyrir snjallari viðskiptaákvarðanir."
+          },
+          {
+            "title": "Markaðstækni sjálfvirkni",
+            "description": "Gerðu sjálfvirkan herferðir, þátttöku viðskiptavina og hlúa að forystu."
+          },
+          {
+            "title": "AI-knúið CRM",
+            "description": "Notaðu greindar sjálfvirkni og gervigreind innsýn til að bæta framleiðni og þátttöku viðskiptavina."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS lausnir",
+        "heading": "HRMS lausnir okkar",
+        "sub": "Styrktu starfskrafta þína með snjöllum, samþættum og sjálfvirkum HR lausnum sem einfalda starfsmannastjórnun og bæta upplifun á vinnustað.",
+        "promoTitle": "Einfaldaðu starfsmannarekstur",
+        "promoText": "Gerðu sjálfvirkan HR vinnuflæði frá ráðningum til starfsloka með nútímalegum vettvangi sem er fyrsti starfsmaður.",
+        "items": [
+          {
+            "title": "Kjarna starfsmannastjórnun",
+            "description": "Stjórna starfsmannaupplýsingum, skipulagi og starfsmannaferlum á skilvirkan hátt."
+          },
+          {
+            "title": "Launastjórnun",
+            "description": "Gerðu sjálfvirkan launaútreikning, launavinnslu, frádrátt og fylgni."
+          },
+          {
+            "title": "Sjálfsafgreiðsla starfsmanna",
+            "description": "Veittu starfsmönnum greiðan aðgang að starfsmannaþjónustu, beiðnum, skjölum og upplýsingum."
+          },
+          {
+            "title": "Mætingar- og leyfisstjórnun",
+            "description": "Einfaldaðu mætingarakningu, leyfisbeiðnir, vaktir og vinnutíma."
+          },
+          {
+            "title": "Ráðningar og ráðningar",
+            "description": "Hagræða í ráðningum, stjórnun umsækjenda, inngöngu og samþættingu starfsmanna."
+          },
+          {
+            "title": "Árangursstjórnun",
+            "description": "Settu þér markmið, fylgdu frammistöðu og studdu stöðuga þróun starfsmanna."
+          },
+          {
+            "title": "Nám og þróun",
+            "description": "Stjórna þjálfunaráætlunum, færniþróun og vexti starfsmanna."
+          },
+          {
+            "title": "Mannauðsgreining og skýrslur",
+            "description": "Breyttu gögnum starfsmanna í raunhæfar innsýn fyrir betri ákvarðanir í starfsmannamálum."
+          },
+          {
+            "title": "AI-knúin HR sjálfvirkni",
+            "description": "Gerðu sjálfvirkan endurtekin HR verkefni og skilaðu hraðari, persónulegri upplifun starfsmanna."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Þróun forrita",
+        "heading": "Forritaþróunarþjónusta okkar",
+        "sub": "Byggðu örugg, stigstærð og afkastamikil forrit sem flýta fyrir vexti fyrirtækja og einfalda flókna ferla.",
+        "promoTitle": "Byggja forrit sem notendur elska",
+        "promoText": "Frá hugmynd til kynningar, teymið okkar hannar og þróar hágæða farsíma- og vefforrit í stærðargráðu.",
+        "items": [
+          {
+            "title": "Sérsniðin forritaþróun",
+            "description": "Byggðu sérsniðin forrit sem eru hönnuð í samræmi við einstaka viðskiptaþörf þína."
+          },
+          {
+            "title": "Þróun vef- og farsímaforrita",
+            "description": "Gefðu óaðfinnanlega stafræna upplifun á vefnum, farsímum og mörgum tækjum."
+          },
+          {
+            "title": "Þróun fyrirtækjaforrita",
+            "description": "Þróaðu skalanlegar lausnir sem samþættast núverandi viðskiptakerfum þínum."
+          },
+          {
+            "title": "Þróun lágkóða og án kóða",
+            "description": "Flýttu fyrir afhendingu forrita með sveigjanlegum þróunarkerfum með litlum kóða."
+          },
+          {
+            "title": "API og kerfissamþætting",
+            "description": "Tengdu forrit, vettvang og kerfi þriðja aðila fyrir hnökralaust gagnaflæði."
+          },
+          {
+            "title": "Nútímavæðing forrita",
+            "description": "Umbreyttu eldri forritum í nútímalegar, skalanlegar og skilvirkar lausnir."
+          },
+          {
+            "title": "AI-knúin forrit",
+            "description": "Samþættu gervigreind, sjálfvirkni og greindargetu inn í viðskiptaforrit."
+          },
+          {
+            "title": "Stuðningur og viðhald forrita",
+            "description": "Tryggðu stöðuga frammistöðu, öryggi, uppfærslur og áreiðanleika."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "gervigreind og vélfærafræði",
+    "businessAutomation": "Viðskiptasjálfvirkni",
+    "cloudMigrations": "Skýjaflutningar",
+    "dataCenters": "Gagnaver",
+    "cognitiveAnalyticsAi": "Vitsmunagreining og gervigreind",
+    "informationReportingSystems": "Upplýsinga- og skýrslukerfi",
+    "managedServices": "Stýrð þjónusta",
+    "oneStopSolutions": "Einstaklingslausnir"
+  },
+  "servicePage": {
+    "serviceOverview": "Þjónustuyfirlit",
+    "whatWeOffer": "Það sem við bjóðum upp á",
+    "whyChooseRezonants": "Af hverju að velja Rezonants",
+    "benefitsOfWorking": "Kostir þess að vinna með okkur",
+    "techStack": "Tæknistafla",
+    "technologiesWeUse": "Tækni sem við notum",
+    "ourWork": "Starf okkar",
+    "relatedProjects": "Tengd verkefni",
+    "viewCaseStudy": "Skoða dæmisögu",
+    "readyToDiscuss": "Tilbúinn til að ræða {{title}} verkefnið þitt?",
+    "seniorEngineersReady": "Yfirverkfræðingar okkar eru tilbúnir til að hjálpa þér að skipuleggja, hanna og smíða lausnina þína.",
+    "startProject": "Byrjaðu verkefnið þitt",
+    "howItWorks": "Hvernig það virkar"
+  },
+  "consultation": {
+    "badge": "Bókaðu ókeypis ráðgjöf",
+    "title": "Skipuleggjum verkefnið þitt <span class='hero-accent'>Saman</span>",
+    "description": "Pantaðu símtal við ráðgjafa okkar án skuldbindinga. Ræddu kröfur þínar, skoðaðu réttu tæknilegu nálgunina og fáðu skýra tilboð — allt á innan við 30 mínútum.",
+    "bookSlot": "Bókaðu spilakassann þinn",
+    "howItWorks": "Hvernig það virkar",
+    "accountRequired": "Reiknings krafist",
+    "signInToBook": "Skráðu þig inn til að bóka ráðgjöf þína",
+    "accountRequiredText": "Þú þarft Rezonants reikning til að biðja um samráð. Skráðu þig inn eða búðu til einn — það tekur minna en eina mínútu.",
+    "signInToContinue": "Skráðu þig inn til að halda áfram",
+    "newToRezonants": "Nýtt í Rezonants?",
+    "createAccount": "Búðu til reikning",
+    "requestMeeting": "Biðja um fund",
+    "tellUsAboutProject": "Segðu okkur frá verkefninu þínu",
+    "fillDetails": "Fylltu út upplýsingarnar þínar og við munum staðfesta samráðstímann þinn með tölvupósti.",
+    "fullName": "Fullt nafn *",
+    "email": "Netfang *",
+    "phone": "Sími *",
+    "company": "Fyrirtæki",
+    "serviceOfInterest": "Vaxtaþjónusta *",
+    "selectService": "Veldu þjónustu...",
+    "preferredDate": "Æskileg dagsetning *",
+    "preferredTime": "Æskilegur tími *",
+    "selectTimeSlot": "Veldu tíma…",
+    "estimatedBudget": "Áætluð fjárhagsáætlun",
+    "selectRange": "Veldu svið...",
+    "projectRequirements": "Verkefnakröfur",
+    "booking": "Bókun…",
+    "bookFreeConsultation": "Bókaðu ókeypis ráðgjöf mína",
+    "freeNote": "100% ókeypis og engin skuldbinding. Við svörum venjulega innan 24 klukkustunda.",
+    "whatToExpect": "Við hverju má búast",
+    "preferToReachUs": "Viltu frekar ná til okkar beint?",
+    "callUs": "Hringdu í okkur",
+    "emailUs": "Sendu okkur tölvupóst",
+    "visitUs": "Heimsæktu okkur",
+    "whyBookWithUs": "Af hverju að bóka hjá okkur",
+    "freeCallTitle": "Ókeypis símtal sem hjálpar í raun",
+    "freeCallNoPressure": "Ókeypis símtal, enginn þrýstingur",
+    "freeCallNoPressureText": "Sérhver fyrsta ráðgjöf er ókeypis. Það er engin skylda að kaupa - bara heiðarleg ráð.",
+    "seniorConsultants": "Aðeins yfirráðgjafar",
+    "seniorConsultantsText": "Fundinum þínum er stýrt af yfirverkfræðingum og ráðgjöfum sem byggja fyrir lífsviðurværi.",
+    "clearTimelines": "Hreinsa tímalínur og tilvitnanir",
+    "clearTimelinesText": "Farðu með skilgreint næsta skref, raunhæfa tímalínu og gagnsæja verðlagningu fyrir verkefnið þitt.",
+    "services": {
+      "customSoftware": "Sérsniðin hugbúnaðarþróun",
+      "webMobile": "Þróun vef- og farsímaforrita",
+      "cloudDevops": "Cloud & DevOps lausnir",
+      "aiMl": "gervigreind og vélanám",
+      "itConsulting": "Upplýsingatækniráðgjöf",
+      "digitalMarketing": "Stafræn markaðssetning og SEO",
+      "erpSolutions": "ERP lausnir",
+      "other": "Annað / Ekki viss ennþá"
+    },
+    "budgets": {
+      "under1L": "Undir 1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Ekki ákveðið ennþá"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Skildu markmið þín",
+        "text": "Við hlustum fyrst. 30 mínútna símtal til að kortleggja þarfir fyrirtækis þíns, markhóp og æskilegan árangur."
+      },
+      "technicalDirection": {
+        "title": "Fáðu tæknilega leiðbeiningar",
+        "text": "Verkfræðingar okkar deila réttum arkitektúr, stafla og nálgun fyrir verkefnið þitt."
+      },
+      "clearQuote": {
+        "title": "Fáðu skýra tilboð",
+        "text": "Farðu í burtu með gagnsætt mat, tímalínu og næstu skref — engin skuldbinding."
+      }
+    },
+    "validation": {
+      "nameRequired": "Fullt nafn er krafist.",
+      "emailRequired": "Tölvupóstur er nauðsynlegur.",
+      "emailInvalid": "Sláðu inn gilt netfang.",
+      "phoneRequired": "Símanúmer er áskilið.",
+      "phoneInvalid": "Sláðu inn gilt símanúmer.",
+      "serviceRequired": "Vinsamlegast veldu þjónustu.",
+      "dateRequired": "Veldu valinn dagsetningu.",
+      "timeRequired": "Veldu valinn tíma.",
+      "messageTooShort": "Bættu við aðeins meiri smáatriðum (að minnsta kosti 10 stafir).",
+      "signInRequired": "Vinsamlegast skráðu þig inn til að bóka ráðgjöf þína.",
+      "couldNotBook": "Ekki tókst að bóka ráðgjöf þína. Athugaðu hvort samráðstaflan sé til og reyndu svo aftur.",
+      "bookedSuccess": "Samráð bókað! Lið okkar mun staðfesta tímaramma þína með tölvupósti innan skamms."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Velkomin aftur",
+    "createAccount": "Búðu til reikning",
+    "forgotPassword": "Gleymt lykilorð",
+    "createNewPassword": "Búðu til nýtt lykilorð",
+    "welcomeBackDesc": "Skráðu þig inn á Rezonants reikninginn þinn.",
+    "createAccountDesc": "Skráðu þig í Rezonants í dag.",
+    "forgotDesc": "Sláðu inn netfangið þitt og við munum senda þér hlekk til að endurstilla lykilorðið þitt.",
+    "recoveryDesc": "Veldu sterkt nýtt lykilorð fyrir reikninginn þinn.",
+    "fullName": "Fullt nafn",
+    "email": "Tölvupóstur",
+    "password": "Lykilorð",
+    "newPassword": "Nýtt lykilorð",
+    "confirmPassword": "Staðfestu lykilorð",
+    "confirmNewPassword": "Staðfestu nýtt lykilorð",
+    "forgotPasswordLink": "Gleymt lykilorð?",
+    "privacyPolicy": "Ég samþykki Rezonants <1>Persónuverndar- og öryggi</1> stefnuna.",
+    "sendResetLink": "Senda endurstilla hlekk",
+    "signIn": "Skráðu þig inn",
+    "signUp": "Skráðu þig",
+    "pleaseWait": "Vinsamlegast bíddu...",
+    "rememberedPassword": "Manstu lykilorðið þitt?",
+    "signInLink": "Skráðu þig inn",
+    "noAccount": "Ertu ekki með reikning?",
+    "signUpLink": "Skráðu þig",
+    "hasAccount": "Ertu þegar með reikning?",
+    "changedMind": "Skiptir um skoðun?",
+    "backToSignIn": "Til baka til að skrá þig inn",
+    "resetSent": "Tengill til að endurstilla lykilorð sendur! Athugaðu tölvupóstinn þinn til að búa til nýtt lykilorð.",
+    "passwordUpdated": "Lykilorðið þitt hefur verið uppfært. Skráðu þig inn með nýja lykilorðinu þínu.",
+    "accountCreated": "Reikningur búinn til! Athugaðu tölvupóstinn þinn til að staðfesta skráningu þína og skráðu þig svo inn.",
+    "validation": {
+      "fullNameRequired": "Fullt nafn er krafist.",
+      "emailRequired": "Tölvupóstur er nauðsynlegur.",
+      "emailInvalid": "Sláðu inn gilt netfang.",
+      "passwordRequired": "Lykilorð er krafist.",
+      "passwordMinLength": "Lykilorð verður að vera að minnsta kosti 6 stafir.",
+      "passwordsNoMatch": "Lykilorð passa ekki.",
+      "acceptTerms": "Vinsamlegast samþykktu Rezonants persónuverndarstefnu og öryggisstefnu til að halda áfram."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Spjallaðu við Rezonants AI",
+    "openChatLabel": "Opnaðu Rezonants AI Assistant spjallið",
+    "chatTitle": "Rezonants AI aðstoðarmaður",
+    "online": "Á netinu",
+    "expandLabel": "Stækkaðu spjallbotninn",
+    "minimizeLabel": "Lágmarkaðu spjallbotninn",
+    "closeLabel": "Lokaðu spjallbotnum",
+    "expand": "Stækkaðu",
+    "minimize": "Lágmarka",
+    "close": "Loka",
+    "popularTopics": "Vinsælt efni",
+    "askPlaceholder": "Spurðu mig um Rezonants...",
+    "messageLabel": "Sendu skilaboð til Rezonants AI aðstoðarmannsins",
+    "sendLabel": "Senda skilaboð",
+    "sendTitle": "Senda skilaboð",
+    "enterToSend": "Sláðu inn til að senda · Shift+Enter fyrir nýja línu",
+    "newChat": "Nýtt spjall",
+    "typing": "Rezonants AI er að skrifa",
+    "menuOptions": "Valmöguleikar",
+    "greetingMorning": "Góðan daginn",
+    "greetingAfternoon": "Góðan daginn",
+    "greetingEvening": "Gott kvöld",
+    "welcomeText": "! 👋 Velkomin í Rezonants.\nÉg er Rezonants AI aðstoðarmaðurinn. Ég get hjálpað þér að kanna þjónustu okkar, tækni og tengiliðaupplýsingar."
+  },
+  "cookieConsent": {
+    "title": "Við metum friðhelgi þína",
+    "description": "Við notum vafrakökur til að bæta vafraupplifun þína. Þú getur samþykkt allar vafrakökur, hafnað ónauðsynlegum vafrakökum eða sérsniðið kjörstillingar þínar. Nauðsynlegar vafrakökur eru alltaf virkar til að tryggja að vefsíðan virki rétt.",
+    "acceptAll": "Samþykkja allt",
+    "rejectNonEssential": "Hafna ekki nauðsynlegt",
+    "managePreferences": "Stjórna kjörstillingum",
+    "privacyPolicy": "Persónuverndarstefna"
+  },
+  "cookiePreferences": {
+    "title": "Stjórna vafrakökum",
+    "description": "Veldu hvaða flokka af vafrakökum þú leyfir. Nauðsynlegar vafrakökur eru áfram virkar til að halda vefsíðunni gangandi.",
+    "essential": "Nauðsynlegt",
+    "essentialDesc": "Nauðsynlegt til að vefsíðan virki (staðfesting, öryggi, álagsjöfnun). Ekki er hægt að slökkva á þessum.",
+    "analytics": "Greining",
+    "analyticsDesc": "Hjálpaðu okkur að skilja hvernig gestir nota síðuna svo við getum bætt hana. Sjálfgefið óvirkt.",
+    "marketing": "Markaðssetning",
+    "marketingDesc": "Notað til að sýna þér viðeigandi tilboð og herferðir. Sjálfgefið óvirkt.",
+    "cancel": "Hætta við",
+    "savePreferences": "Vista kjörstillingar"
+  },
+  "privacy": {
+    "badge": "Löglegt",
+    "title": "Persónuverndarstefna",
+    "description": "Hvernig Rezonants safnar, notar og verndar persónuupplýsingar þínar og vafrakökur.",
+    "lastUpdated": "Síðast uppfært: ágúst 2026",
+    "managingPreferences": "Stjórna óskum þínum",
+    "managingPreferencesDesc": "Þú getur skoðað eða breytt hvaða vafrakökur þú leyfir hvenær sem er frá vafrakökustillingarborðinu.",
+    "manageCookiePreferences": "Stjórna vafrakökum",
+    "section1": {
+      "title": "1. Upplýsingar sem við söfnum",
+      "body": [
+        "Við söfnum upplýsingum sem þú gefur upp beint (svo sem nafni þínu og netfangi þegar þú sendir inn snertingareyðublaðið eða stofnar reikning) og upplýsingum sem safnað er sjálfkrafa með vafrakökum og svipaðri tækni, svo sem heimsóttar síður, gerð tækis og áætlaða staðsetningu."
+      ]
+    },
+    "section2": {
+      "title": "2. Hvernig við notum vafrakökur",
+      "body": [
+        "Nauðsynlegar vafrakökur eru alltaf virkar vegna þess að vefsíðan getur ekki virkað rétt án þeirra. Þeir geyma lotu og auðkenningarstöðu og muna stillingar þínar fyrir kökur.",
+        "Greiningarkökur hjálpa okkur að skilja hvernig gestir nota síðuna svo við getum bætt hana. Markaðskökur eru notaðar til að sýna þér viðeigandi tilboð og herferðir. Þessir flokkar eru aðeins virkjaðir með þínu samþykki og hægt er að breyta þeim hvenær sem er frá vafrakökustillingarborðinu."
+      ]
+    },
+    "section3": {
+      "title": "3. Lagalegur grundvöllur (GDPR)",
+      "body": [
+        "Við vinnum persónuupplýsingar á eftirfarandi lagagrundvelli: Samþykki þitt (fyrir ónauðsynlegar vafrakökur og markaðssetningu), framkvæmd samnings (fyrir þjónustu sem þú biður um), lagaskyldu og lögmæta hagsmuni þar sem réttindi þín ganga ekki framar. Þú getur afturkallað samþykki hvenær sem er án þess að það hafi áhrif á lögmæti vinnslu sem framkvæmd var fyrir afturköllun."
+      ]
+    },
+    "section4": {
+      "title": "4. Réttindi þín",
+      "body": [
+        "Það fer eftir staðsetningu þinni, þú gætir átt rétt á að fá aðgang að, leiðrétta, eyða eða takmarka vinnslu persónuupplýsinga þinna, andmæla vinnslu og flytja gögn. Þú getur líka lagt fram kvörtun til eftirlitsyfirvalda á staðnum."
+      ]
+    },
+    "section5": {
+      "title": "5. Gagnavarðveisla og öryggi",
+      "body": [
+        "Við geymum persónuupplýsingar aðeins svo lengi sem nauðsynlegt er í þeim tilgangi sem lýst er í þessari stefnu. Við beitum viðeigandi tæknilegum og skipulagslegum ráðstöfunum til að vernda upplýsingarnar þínar gegn óviðkomandi aðgangi, breytingum, birtingu eða eyðileggingu."
+      ]
+    },
+    "section6": {
+      "title": "6. Þjónusta þriðja aðila",
+      "body": [
+        "Sumar vafrakökur kunna að vera settar af þriðju aðila (svo sem greiningar- eða auglýsingakerfum) sem hjálpa okkur að reka vefsíðuna. Þessir veitendur vinna úr gögnum samkvæmt eigin persónuverndarstefnu og aðeins þegar þú hefur samþykkt viðkomandi flokk."
+      ]
+    },
+    "contactUs": "7. Hafðu samband",
+    "contactUsText": "Fyrir spurningar um þessa stefnu eða persónuupplýsingar þínar, hafðu samband við okkur á <1>info@rezonants.com</1> eða hringdu í <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Þjónusta",
+    "title": "Þjónustan okkar",
+    "sub": "Tæknilausnir frá enda til enda sem ætlað er að hjálpa fyrirtækjum við nýsköpun, stækka og ná árangri.",
+    "learnMore": "Lærðu meira",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Upphaf til dreifingar",
+        "text": "Frá fyrstu hugmynd til framleiðslu dreifingar, við afhendum skalanlegar lausnir byggðar fyrir raunverulegar viðskiptaþarfir."
+      },
+      "businessProcessAutomation": {
+        "title": "Sjálfvirkni viðskiptaferla",
+        "text": "Hagræða endurteknum ferlum og bæta skilvirkni í rekstri með skynsamlegri sjálfvirkni fyrirtækja."
+      },
+      "centerOfExcellence": {
+        "title": "öndvegissetur",
+        "text": "Byggja upp sérhæfða tæknigetu og sérfræðiþekkingu til að knýja fram nýsköpun, gæði og stöðugar umbætur."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Sérsniðin þróun og sérsniðin",
+        "text": "Sérsniðnar hugbúnaðarlausnir sem eru hannaðar út frá einstökum viðskiptaþörfum þínum og verkflæði."
+      },
+      "digitalTransformation": {
+        "title": "Stafræn umbreyting",
+        "text": "Nútímafærðu fyrirtæki þitt með stafrænum aðferðum, tækni og lausnum sem skapa mælanleg áhrif."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Lausnaramma frá enda til enda",
+        "text": "Samþættar tæknilausnir sem tengja saman stefnumótun, þróun, innleiðingu og áframhaldandi rekstur."
+      },
+      "migrationModernization": {
+        "title": "Flutningur og nútímavæðing",
+        "text": "Nútímafærðu eldri forrit og fluttu kerfi yfir á skalanlegt, öruggt og skilvirkt tæknikerfi."
+      },
+      "pocPilotImplementation": {
+        "title": "Proof of Concept (PoC) og tilraunaútfærsla",
+        "text": "Staðfestu hugmyndir fljótt með einbeittum frumgerðum og tilraunaútfærslum áður en þær eru settar í fullan stíl."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Sameiginleg þjónusta og stýrð rekstur",
+        "text": "Áreiðanleg stýrð tækniaðgerð sem bætir afköst, sveigjanleika og samfellu í rekstri."
+      }
+    }
+  },
+  "footer": {
+    "company": "Fyrirtæki",
+    "about": "Um",
+    "perspectives": "Sjónarhorn",
+    "technologies": "Tækni",
+    "contact": "Hafðu samband",
+    "services": "Þjónusta",
+    "getInTouch": "Hafðu samband",
+    "bookConsultation": "Bókaðu ráðgjöf",
+    "copyright": "© {{year}} Rezonants. Allur réttur áskilinn.",
+    "cookiePreferences": "Kökustillingar",
+    "privacyPolicy": "Persónuverndarstefna",
+    "description": "Rezonants er fyrirtæki í upplýsingatækniþjónustu og stafrænum vörum í Hyderabad á Indlandi. Við hönnum, smíðum og stækkum hugbúnað fyrir fyrirtæki sem keppa um framkvæmd.",
+    "locations": "Staðsetningar okkar",
+    "indiaHq": "Hyderabad, Indland – Höfuðstöðvar Indlands",
+    "southAfrica": "Suður-Afríka — REZONANTS PVT LTD",
+    "products": "Vörur",
+    "followUs": "Fylgdu okkur",
+    "aboutUs": "Um okkur",
+    "contactUs": "Hafðu samband",
+    "headline": "Byggjum",
+    "headlineAccent": "hvað er næst.",
+    "subheadline": "Samstarf við Rezonants til að breyta hugmyndum í raunveruleg viðskiptaáhrif.",
+    "credoIdeas": "HUGMYNDIR",
+    "credoSolutions": "LAUSNIR",
+    "credoPeople": "FÓLK",
+    "credoBrighterTomorrow": "Bjartari Á MORGUN",
+    "hyderabadLocation": "Hyderabad, Indland",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Suður-Afríka – REZONANTS PVT LTD",
+    "termsOfUse": "Notkunarskilmálar",
+    "accessibility": "Aðgengi",
+    "quickLinks": "Hraðtenglar",
+    "explore": "Kanna",
+    "vijayawadaOffice": "Vijayawada skrifstofa",
+    "allRightsReserved": "Allur réttur áskilinn.",
+    "hyderabadPin": "Hyderabad, Indland",
+    "southAfricaPin": "Suður Afríka"
+  },
+  "common": {
+    "loading": "Hleður...",
+    "error": "Villa",
+    "retry": "Reyndu aftur",
+    "close": "Loka",
+    "backToTop": "Til baka efst",
+    "skipToContent": "Fara í efni",
+    "scroll": "Skrunaðu",
+    "whatWeOffer": "Það sem við bjóðum",
+    "howItWorks": "Hvernig það virkar"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Leitaðu að landi eða kóða...",
+    "noResults": "Engin lönd fundust.",
+    "countryCodeLabel": "Landsnúmer",
+    "required": "Símanúmer er áskilið.",
+    "incomplete": "Símanúmer verður að innihalda nákvæmlega {{count}} tölustafi.",
+    "tooLong": "Símanúmer má ekki innihalda fleiri en {{count}} tölustafi.",
+    "invalid": "Sláðu inn gilt símanúmer fyrir {{country}}."
+  },
+  "perspectives": {
+    "topic": "Efni:",
+    "published": "Birt:",
+    "readingTime": "Lestrartími:",
+    "author": "Höfundur:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Tæknisvæði",
+    "purpose": "Tilgangur",
+    "talkToExperts": "Talaðu við sérfræðinga okkar",
+    "viewAll": "Skoða öll sjónarhorn",
+    "exploreMore": "KANNAÐU FLEIRI SJÓNARHORF",
+    "continueExploring": "Haltu áfram að skoða innsýn í fyrirtækjatækni",
+    "readPerspective": "Lesa sjónarhorn"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Gervigreind og vélfærafræðilausnir",
+      "tagline": "Greind tækni. Sjálfvirk starfsemi. Snjallari viðskipti.",
+      "heroBadge": "Greind sjálfvirk kerfi",
+      "overview": [
+        "Gervigreind og vélfærafræði eru að breyta því hvernig fyrirtæki starfa, taka ákvarðanir og skila verðmætum. Gervigreind og vélfærafræði lausnir okkar hjálpa fyrirtækjum að fara út fyrir hefðbundna sjálfvirkni með því að sameina gervigreind, vélanám, tölvusjón, snjalla ferli sjálfvirkni og vélfærafræði til að leysa hagnýtar viðskiptaáskoranir.",
+        "Við hönnum skynsamlegar lausnir í kringum mælanlegan viðskiptaafkomu. Hvort sem krafan er að gera sjálfvirka endurtekna vinnu, greina mikið magn upplýsinga, greina mynstur, styðja ákvarðanir eða innleiða vélmenni í rekstrarumhverfi, þá beinist nálgun okkar að áreiðanleika, sveigjanleika, öryggi og langtíma viðskiptavirði."
+      ],
+      "transformation": [
+        "Nútímastofnanir búa til gríðarlegt magn af gögnum og framkvæma þúsundir endurtekinna athafna á hverjum degi. Gervigreind og vélfærafræði geta umbreytt þessari starfsemi í snjöll, sjálfvirk vinnuflæði sem bæta framleiðni en gera starfsmönnum kleift að einbeita sér að mikilvægari ábyrgð.",
+        "Lausnirnar okkar geta hjálpað fyrirtækjum að gera endurteknar aðgerðir sjálfvirkar, draga úr handvirkum inngripum, bæta nákvæmni, greina flóknar upplýsingar, styðja hraðar ákvarðanir, hámarka nýtingu auðlinda, auka upplifun viðskiptavina og byggja upp stigstærð greindarkerfi."
+      ],
+      "capabilities": [
+        {
+          "title": "Gervigreind",
+          "desc": "Við þróum gervigreindardrifnar lausnir sem gera kerfum kleift að skilja upplýsingar, bera kennsl á mynstur, búa til innsýn og styðja við viðskiptaákvarðanir."
+        },
+        {
+          "title": "Machine Learning",
+          "desc": "Við þróum vélanámslíkön fyrir spá, flokkun, meðmælakerfi, fráviksgreiningu, forspárgreiningu og skynsamlega stuðning við ákvarðanatöku."
+        },
+        {
+          "title": "Náttúruleg málvinnsla",
+          "desc": "NLP er hægt að nota til að vinna úr skjölum, skilja texta, flokka upplýsingar, draga út viðeigandi efni og styðja við samtalsforrit."
+        },
+        {
+          "title": "Tölvusjón",
+          "desc": "Tölvusjónlausnir geta stutt myndflokkun, hlutgreiningu, gæðaskoðun, skjalavinnslu, sjónrænt eftirlit og myndbandsgreiningu."
+        },
+        {
+          "title": "Vélfærafræði",
+          "desc": "Vélfærafræði sameinar hugbúnaðargreind og líkamleg kerfi til að gera sjálfvirkar aðgerðir sem venjulega krefjast handvirkrar áreynslu. Umsóknir geta falið í sér framleiðslu, flutninga, vörugeymsla, skoðun, efnismeðferð og rekstraraðstoð."
+        },
+        {
+          "title": "Intelligent Process Automation",
+          "desc": "Hægt er að sameina gervigreind við sjálfvirkni verkflæðis til að búa til kerfi sem túlka upplýsingar, beita viðskiptareglum eða líkönum og hefja viðeigandi ferli sjálfkrafa."
+        }
+      ],
+      "lifecycleSteps": [
+        "Viðskiptamat",
+        "Gagnagreining",
+        "AI stefna",
+        "Lausnararkitektúr",
+        "Þróun",
+        "Samþætting",
+        "Próf",
+        "Dreifing",
+        "Vöktun",
+        "Hagræðing"
+      ],
+      "benefits": [
+        "Meiri framleiðni í rekstri fyrirtækja",
+        "Veruleg lækkun á rekstrarkostnaði",
+        "Hraðari afgreiðsla og millisekúndna ákvörðunarviðsnúningur",
+        "Bætt nákvæmni gagna og vinnuflæðis",
+        "Fínstillt efnisleg og reiknuð auðlindanýting",
+        "Minni rekstraráhætta og mannleg mistök",
+        "Óaðfinnanlegur fjölvettvangur sveigjanleiki",
+        "Aukin upplifun viðskiptavina og starfsmanna"
+      ],
+      "security": "Gervigreindarlausnir fyrirtækja verða að vera hannaðar með viðeigandi öryggi, aðgangsstýringum, gagnavernd, eftirliti, stjórnun líkana og rekstrarverndarráðstöfunum. Við íhugum þessar kröfur frá arkitektúrstigi í gegnum uppsetningu og áframhaldandi viðhald til að tryggja áreiðanlega, framleiðslugráða upplýsingaöflun.",
+      "ctaHeadline": "Byggja skynsamlega framtíð",
+      "ctaSub": "Gerðu rekstur þinn snjallari. Gerðu sjálfvirkan það sem skiptir máli. Byggja fyrir framtíðina."
+    },
+    "business-automation-solutions": {
+      "title": "Sjálfvirknilausnir fyrirtækja",
+      "tagline": "Einfaldaðu ferla. Útrýma endurtekningu. Flýttu fyrir vexti.",
+      "heroBadge": "Bestun verkflæðis frá enda til enda",
+      "overview": [
+        "Sjálfvirkni fyrirtækja gerir fyrirtækjum kleift að skipta út endurteknum handvirkum aðgerðum fyrir straumlínulagað stafrænt verkflæði. Sjálfvirknilausnir fyrirtækja hjálpa fyrirtækjum að bæta framleiðni, draga úr flækjustigi í rekstri, lágmarka villur og búa til samræmda ferla þvert á deildir.",
+        "Við greinum núverandi verkflæði, greinum flöskuhálsa og hönnum sjálfvirknilausnir sem tengja saman fólk, forrit, gögn og viðskiptaferla."
+      ],
+      "transformation": [
+        "Mörg fyrirtæki eru enn háð töflureiknum, tölvupósti, handvirkum samþykkjum, endurtekinni gagnafærslu, meðhöndlun skjala og ótengdum forritum. Þessir ferlar eyða dýrmætum tíma starfsmanna og geta valdið tafir, ósamræmi og villum.",
+        "Sjálfvirkninálgun okkar beinist að því að skilja allt ferlið, fjarlægja óþarfa skref, samþætta kerfi og gera sjálfvirkan þá starfsemi sem gefur mesta rekstrarvirði."
+      ],
+      "capabilities": [
+        {
+          "title": "Sjálfvirkni verkflæðis",
+          "desc": "Við gerum sjálfvirkan fjölþrepa ferla sem fela í sér starfsmenn, umsóknir, samþykki, tilkynningar og gögn þvert á ólíkar deildir."
+        },
+        {
+          "title": "Vélfærafræðiferli sjálfvirkni",
+          "desc": "Hugbúnaðarbottar geta framkvæmt endurteknar, reglubundnar aðgerðir eins og gagnafærslur, kerfisuppfærslur, afstemmingar og upplýsingaflutning."
+        },
+        {
+          "title": "Skjalasjálfvirkni",
+          "desc": "Sjálfvirk skjalavinnuflæði getur dregið út upplýsingar, staðfest gögn, flokkað skjöl, leiðbeiðnir og komið af stað niðurstreymisferlum."
+        },
+        {
+          "title": "Samþykki sjálfvirkni",
+          "desc": "Stafrænt samþykkisverkflæði vísar beiðnum sjálfkrafa til réttra ákvarðanatakenda og veitir rauntíma sýnileika yfir aðgerðir sem bíða."
+        },
+        {
+          "title": "Samþætting sjálfvirkni",
+          "desc": "Við tengjum viðskiptaforrit svo upplýsingar geti færst sjálfkrafa á milli kerfa án óþarfa handvirkrar íhlutunar."
+        },
+        {
+          "title": "Sjálfvirkni tilkynninga",
+          "desc": "Sjálfvirkar viðvaranir og tilkynningar hjálpa starfsmönnum að bregðast samstundis við mikilvægum atburðum, fresti, undantekningum og rekstrarbreytingum."
+        }
+      ],
+      "lifecycleSteps": [
+        "Uppgötvaðu",
+        "Greindu",
+        "Hönnun",
+        "Sjálfvirk",
+        "Samþætta",
+        "Próf",
+        "Dreifa",
+        "Skjár",
+        "Fínstilla"
+      ],
+      "benefits": [
+        "Aukið afköst liðs og rekstrarhraði",
+        "Stórkostleg fækkun á villum í handvirkum innsláttargögnum",
+        "Stytur afgreiðslutíma frá enda-til-enda ferli",
+        "Samræmd sýnileiki þvert á starfsemi fyrirtækja",
+        "Staðlað samræmi milli deilda",
+        "Verulega minni rekstrarútgjöld",
+        "Teygjanleg getu til að stækka vinnuálag áreynslulaust",
+        "Styrkt teymi með áherslu á þátttöku viðskiptavina og stefnumótandi vinnu"
+      ],
+      "security": "Við sameinum verkflæðiskerfi og RPA með snjöllum samhengisvituðum líkönum til að tryggja hlutverkatengda aðgangsstýringu, alhliða endurskoðunarferil og strangt samræmi í öllum sjálfvirkum viðskiptum.",
+      "ctaHeadline": "Byggja upp skilvirkari rekstur",
+      "ctaSub": "Gerðu sjálfvirka endurtekna vinnu. Styrktu fólkið þitt. Flýttu fyrir viðskiptum þínum."
+    },
+    "cloud-migration-solutions": {
+      "title": "Cloud Migration Solutions",
+      "tagline": "Farðu í skýið með sjálfstrausti.",
+      "heroBadge": "Multi-Cloud Umbreyting",
+      "overview": [
+        "Tölvuský er orðin mikilvægur þáttur í nútíma upplýsingatækniinnviðum. Stofnanir eru að færa forrit, gagnagrunna, vinnuálag og innviði í skýjaumhverfi til að bæta sveigjanleika, framboð, sveigjanleika og rekstrarhagkvæmni.",
+        "Skýflutningsþjónusta okkar hjálpar fyrirtækjum að meta núverandi umhverfi sitt, skilgreina flutningsáætlanir, framkvæma flutninga og hámarka vinnuálag eftir að þau fara yfir í skýið."
+      ],
+      "transformation": [
+        "Flutningur á skýi er meira en að flytja netþjóna úr einu umhverfi í annað. Árangursrík flutningur krefst vandlegrar mats á forritum, innviðum, ósjálfstæði, öryggiskröfum, gögnum, afköstum, framboði og samfellu í rekstri.",
+        "Við búum til flutningsáætlanir byggðar á núverandi umhverfi stofnunarinnar og framtíðarmarkmiðum, veljum viðeigandi flutningsmynstur fyrir hvert vinnuálag."
+      ],
+      "capabilities": [
+        {
+          "title": "Innviðaflutningur",
+          "desc": "Við flytjum hefðbundna netþjóna, geymslu, sýndarvélar og vinnuálag inn í nútíma skýjaumhverfi á AWS, Azure og GCP."
+        },
+        {
+          "title": "Flutningur forrita",
+          "desc": "Hægt er að hýsa forrit, endurskipuleggja, endurbyggja eða endurhanna allt eftir viðskiptalegum og tæknilegum kröfum."
+        },
+        {
+          "title": "Flutningur gagnagrunns",
+          "desc": "Við flytjum gagnagrunna samhliða því að huga að gagnaheilleika, afköstum, eindrægni, framboði, öryggi og endurheimtarkröfum."
+        },
+        {
+          "title": "Nútímavæðing skýja",
+          "desc": "Flutningur verður tækifæri til að nútímavæða forrit með því að nota ílát, örþjónustur, stýrða gagnagrunna, netþjónalausa þjónustu og skýjabyggðan arkitektúr."
+        },
+        {
+          "title": "Hybrid Cloud",
+          "desc": "Stofnanir sem þurfa bæði á staðnum og skýjainnviði geta tekið upp blendingaarkitektúr sem tengja núverandi kerfi óaðfinnanlega við skýjaþjónustu."
+        },
+        {
+          "title": "Fjölský",
+          "desc": "Fyrir stofnanir sem starfa á mörgum skýjakerfum, hjálpum við við að hanna vinnuálagsaðferðir sem bæta sveigjanleika, seiglu og stjórnun."
+        }
+      ],
+      "lifecycleSteps": [
+        "Námsmat",
+        "Uppgötvun",
+        "Dependency Mapping",
+        "Flutningastefna",
+        "Arkitektúrhönnun",
+        "Tilraunaflutningur",
+        "Gagnaflutningur",
+        "Flutningur forrita",
+        "Próf",
+        "Framleiðsluflutningur",
+        "Hagræðing"
+      ],
+      "benefits": [
+        "Teygjanlegur sveigjanleiki og mikið framboð á auðlindum",
+        "Meiri sveigjanleiki í innviðum og lipurð í viðskiptum",
+        "Fjarlægði líkamlega viðhaldsbyrði gagnavera",
+        "Hraðari uppsetning forritaeiginleika",
+        "Öflugur hörmungarbati og öryggisafritunarþol",
+        "Tafarlaus aðgangur að nútímaleg gervigreind í skýi og stýrðri þjónustu",
+        "Bjartsýni FinOps stjórnarhætti og lækkun eignarkostnaðar",
+        "Stöðugt fylgni og sjálfvirk öryggisvörn"
+      ],
+      "security": "Öryggi er óaðskiljanlegur hluti af skipulagningu fólksflutninga. Við íhugum auðkennis- og aðgangsstjórnun, netöryggi, dulkóðun í flutningi og í hvíld, gagnavernd, úttektir á varnarleysi forrita, eftirlit, öryggisafrit og endurheimt hamfara.",
+      "ctaHeadline": "Skýjaferðin þín, rétt skipulögð",
+      "ctaSub": "Nútímafærðu innviði þína. Flýttu fyrir nýsköpun. Búðu til stigstærðan skýjagrunn."
+    },
+    "data-center-solutions": {
+      "title": "Gagnamiðstöðvarlausnir",
+      "tagline": "Áreiðanlegur innviði fyrir verkefni sem skiptir máli.",
+      "heroBadge": "Mission-Critical Infrastructure",
+      "overview": [
+        "Gagnaver mynda grunninn að nútíma stafrænum viðskiptum. Forrit, gagnagrunnar, fyrirtækjakerfi, samskiptavettvangar og mikilvæg viðskiptaþjónusta eru háð áreiðanlegum innviðum.",
+        "Gagnamiðstöðvarlausnir okkar leggja áherslu á að hanna, nútímavæða, stjórna og fínstilla innviðaumhverfi sem byggt er fyrir aðgengi, öryggi, sveigjanleika, afköst og rekstrarhagkvæmni."
+      ],
+      "transformation": [
+        "Nútíma gagnaver krefst meira en netþjóna og geymslu. Það krefst vandlega hannaðra innviða þvert á tölvumál, netkerfi, öryggi, rafmagn, kælingu, eftirlit, öryggisafrit og hamfarabata.",
+        "Við hjálpum fyrirtækjum að búa til sveigjanlegt innviðaumhverfi sem styður mikilvægt vinnuálag og leggur grunn að tæknivexti í framtíðinni."
+      ],
+      "capabilities": [
+        {
+          "title": "Hönnun innviða",
+          "desc": "Við hönnum umhverfi byggt á kröfum um vinnuálag, getu, frammistöðu, framboð, öryggi og framtíðarvöxt."
+        },
+        {
+          "title": "Innviði netþjóns",
+          "desc": "Við styðjum líkamlegt og sýndarmiðlaraumhverfi fyrir verkefni sem eru mikilvæg fyrirtækisforrit og vinnuálag."
+        },
+        {
+          "title": "Geymslulausnir",
+          "desc": "Við tökum tillit til krafna um afköst, afkastagetu, offramboð, háhraða SAN/NAS, öryggisafrit og gagnaverndarkröfur við hönnun geymsluumhverfis."
+        },
+        {
+          "title": "Netuppbygging",
+          "desc": "Við hönnum netumhverfi með viðeigandi skiptingu, offramboði, afköstum með lítilli biðtíma, tengingum og öryggisstýringum."
+        },
+        {
+          "title": "Sýndarvæðing",
+          "desc": "Sýndarvæðing bætir nýtingu auðlinda, sveigjanleika í vinnuálagi og miðlægri innviðastjórnun."
+        },
+        {
+          "title": "Öryggisafritun og hörmungarbati",
+          "desc": "Við hjálpum fyrirtækjum að koma á öryggisafritunaraðferðum og endurheimtararkitektúrum sem eru hannaðir til að lágmarka niður í miðbæ og koma í veg fyrir tap á gögnum."
+        }
+      ],
+      "lifecycleSteps": [
+        "Getumat",
+        "Vinnuálagssnið",
+        "Arkitektúrteikning",
+        "Vélbúnaður og sýndarstærð",
+        "Netskiptingu",
+        "Geymsluútvegun",
+        "Offramboð og DR prófun",
+        "Framleiðsluskera",
+        "Heilbrigðiseftirlit allan sólarhringinn",
+        "Stöðug hagræðing"
+      ],
+      "benefits": [
+        "Trygging á 99,999% spennutíma innviða",
+        "Núll stakir bilunarpunktar með marglaga offramboði",
+        "Bjartsýni miðlaratölva og sýndarvæðing með mikilli þéttleika",
+        "Netarkitektúr undir millisekúndna með lítilli biðtíma",
+        "Hert líkamlegt og stafrænt jaðaröryggi",
+        "Fyrirbyggjandi eftirlit og sjálfvirkar bilanir",
+        "Stærðanleg einingageymsla fyrir gögn í petabæta mælikvarða",
+        "Fyrirsjáanlegur heildarkostnaður við eignarhald og orkunýtni"
+      ],
+      "security": "Öryggi er samþætt þvert á innviðalagið og nær yfir örskiptingu netkerfisins, rótarrót vélbúnaðar, aðgangsstýringar án trausts, stöðugar varnarleysisúttektir, endapunktavörn og strangar rekstrarstefnur.",
+      "ctaHeadline": "Framtíðartilbúnir innviðir",
+      "ctaSub": "Byggðu áreiðanlega innviði í dag. Búðu til grunn að tækni morgundagsins."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Vitsmunagreining og gervigreind",
+      "tagline": "Breyttu gögnum í upplýsingaöflun.",
+      "heroBadge": "Gögn-til-ákvörðun upplýsingaöflun",
+      "overview": [
+        "Stofnanir búa til gríðarlegt magn upplýsinga í gegnum forrit, viðskipti, viðskiptavini, rekstur, tæki og stafræna vettvang. Áskorunin er ekki lengur einfaldlega að safna gögnum; það er að skilja þessi gögn og breyta þeim í aðgerðarhæfar upplýsingaöflun.",
+        "Hugræn greiningar- og gervigreindarlausnir okkar sameina háþróaða greiningu, vélanám, gervigreind, gagnavinnslu og viðskiptagreind til að hjálpa fyrirtækjum að taka betri ákvarðanir."
+      ],
+      "transformation": [
+        "Hefðbundin skýrslugerð segir stofnunum hvað gerðist. Ítarleg greining getur hjálpað til við að útskýra hvers vegna það gerðist, greina hvað gæti gerst næst og stutt ákvarðanir um hvað ætti að gerast.",
+        "Við hjálpum fyrirtækjum að koma á fót gagnaumhverfi sem færist lengra en kyrrstæðar skýrslur í átt að greindri greiningu og stuðningi við ákvarðanir."
+      ],
+      "capabilities": [
+        {
+          "title": "Lýsandi greining",
+          "desc": "Skildu sögulegan árangur með gagnvirkum skýrslum, fjölvíddar mælaborðum, KPI og viðskiptamælingum."
+        },
+        {
+          "title": "Greiningargreining",
+          "desc": "Þekkja undirliggjandi tengsl, þróun, tölfræðileg frávik og rót á bak við afkomu fyrirtækja."
+        },
+        {
+          "title": "Forspárgreining",
+          "desc": "Notaðu söguleg og rauntíma streymisgögn með tölfræðilegum líkönum til að bera kennsl á hugsanlegar framtíðarútkomur og kröfur."
+        },
+        {
+          "title": "Forskriftargreining",
+          "desc": "Metið mögulegar aðgerðir og styðjið ákjósanlegar ákvarðanaleiðir byggðar á fyrirhuguðum niðurstöðum og stefnumótandi viðskiptamarkmiðum."
+        },
+        {
+          "title": "Vélræn námslíkön",
+          "desc": "Þróaðu sérsniðin líkön fyrir spá, flokkun viðskiptavina, ráðleggingar, uppgötvun frávikssvika og forspárviðhald."
+        },
+        {
+          "title": "AI-knúin innsýn",
+          "desc": "Notaðu vitræna gervigreind á gríðarlegt magn af óskipulögðum upplýsingum til að birta falin mynstur, samantektir og ráðleggingar."
+        }
+      ],
+      "lifecycleSteps": [
+        "Gagnaheimildir",
+        "Gagnasamþætting",
+        "Gagnavinnsla",
+        "Gagnageymsla",
+        "Greining",
+        "AI/ML gerðir",
+        "Visualization",
+        "Viðskiptaákvarðanir"
+      ],
+      "benefits": [
+        "Staðreynd byggð, gagnadrifin ákvarðanataka stjórnenda",
+        "Nákvæm eftirspurn, tekjur og affallsspá",
+        "Uppgötvun fráviks og svika í rauntíma",
+        "Djúp 360° innsýn í hegðun viðskiptavina og sérstillingu",
+        "Fínstillt aðfangakeðju og hagkvæmni í rekstri",
+        "Minnkuð rekstrar- og fjárhagsáhætta",
+        "Uppgötvun falinna tekjumöguleika",
+        "Hraðari tími til innsýnar milli rekstrareininga"
+      ],
+      "security": "Greiningarvistkerfi okkar innleiða end-til-enda dulkóðun, sjálfvirka gagnagrímu, strangar RBAC-heimildir og líkanstjórnun til að vernda séreignargögn og viðhalda regluverki (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Byggja upp snjalla gagnastefnu",
+      "ctaSub": "Breyttu upplýsingum í innsýn. Breyttu innsýn í aðgerð."
+    },
+    "information-reporting-systems": {
+      "title": "Upplýsinga- og skýrslukerfi",
+      "tagline": "Réttu upplýsingarnar. Á réttum tíma. Fyrir betri ákvarðanir.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Leiðtogar fyrirtækja og rekstrarteymi eru háðir nákvæmum upplýsingum til að taka árangursríkar ákvarðanir. Upplýsinga- og skýrslukerfi okkar hjálpa fyrirtækjum að safna, skipuleggja, greina og kynna viðskiptaupplýsingar með skipulögðum upplýsingakerfum, skýrslukerfum, mælaborðum og sjálfvirkum skýrslugerðum.",
+        "Stofnanir hafa oft upplýsingar sem dreifast um forrit, töflureikna, gagnagrunna og rekstrarkerfi. Þetta gerir það að verkum að erfitt er að koma á samræmdri sýn á frammistöðu fyrirtækja. Við aðstoðum við að samþætta upplýsingaveitur í skipulögð skýrsluumhverfi sem veita áreiðanlegar, aðgengilegar og samræmdar viðskiptaupplýsingar."
+      ],
+      "transformation": [
+        "Skýrslukerfi ætti ekki einfaldlega að birta tölur. Það ætti að hjálpa notendum að skilja árangur, greina vandamál, uppgötva tækifæri og taka upplýstar ákvarðanir.",
+        "Við hönnum skýrsluumhverfi í kringum það hvernig fyrirtæki þitt starfar, afhendum skipulögð vistkerfi gagna eftir ákvörðunum sem eru sérsniðin fyrir öll stjórnunarstig."
+      ],
+      "capabilities": [
+        {
+          "title": "Stjórnunarupplýsingakerfi (MIS)",
+          "desc": "Þróa sameinuð upplýsingakerfi sem veita framkvæmdastjórn viðeigandi rekstrarlega og stefnumótandi sýnileika."
+        },
+        {
+          "title": "Viðskiptaskýrslur",
+          "desc": "Umbreyttu hráum viðskiptagögnum frá mörgum rásum í skipulagðar, staðlaðar skýrslur sem fylgjast stöðugt með frammistöðu."
+        },
+        {
+          "title": "Gagnvirk mælaborð",
+          "desc": "Veita rauntíma eða áætlaða gagnvirka sýnileika í mikilvægum viðskiptamælingum, KPI, þróun og starfsemi deilda."
+        },
+        {
+          "title": "KPI Stjórnun",
+          "desc": "Skilgreindu, fylgstu með og viðmiðaðu þýðingarmiklar rekstrareiningar sem eru í beinu samræmi við yfirgripsmikil vaxtarmarkmið fyrirtækja."
+        },
+        {
+          "title": "Gagnasamþætting",
+          "desc": "Samþættu dreifðar gagnaveitur í sameinuð gagnavöruhús og merkingarlög fyrir samræmda skýrslugerð á einni glerglugga."
+        },
+        {
+          "title": "Sjálfvirk skýrsla",
+          "desc": "Búðu til og dreifðu sjálfkrafa sérsniðnum skýrslum í samræmi við fyrirfram skilgreindar áætlanir, viðskiptareglur og stigveldi viðtakenda."
+        }
+      ],
+      "lifecycleSteps": [
+        "Viðskiptakerfi",
+        "Gagnasöfnun",
+        "Gagnasamþætting",
+        "Gagnavinnsla",
+        "Gagnageymsla",
+        "Greining",
+        "Skýrslur og mælaborð"
+      ],
+      "benefits": [
+        "Ein uppspretta sannleika í öllu fyrirtækinu",
+        "Hraðari aðgangur að rauntíma rekstrarmælingum",
+        "Fullkomið útrýming handvirkrar samsetningar töflureikna",
+        "Samræmdar, samræmdar KPIs þvert á deildir",
+        "Yfirleitt eftirlit og endurskoðunarhæfni stjórnenda",
+        "Sjálfvirk dreifing beint til hagsmunaaðila",
+        "Nákvæmt gagnaöryggi og heimildir á línustigi",
+        "Aukin lipurð til að bregðast við rekstrarfrávikum"
+      ],
+      "security": "Viðskiptaupplýsingar geta innihaldið viðkvæm rekstrar-, fjárhags- og viðskiptavinaupplýsingar. Skýrslulausnir okkar fella fjölþætta auðkenningu, nákvæma hlutverkatengda heimild, dulkóðun og endurskoðunarskrár inn í skýrslugerðina.",
+      "ctaHeadline": "Skýrslur sem styðja við vöxt",
+      "ctaSub": "Gerðu upplýsingar aðgengilegar. Gerðu frammistöðu sýnilega. Taktu betri ákvarðanir."
+    },
+    "managed-services": {
+      "title": "Stýrð þjónusta",
+      "tagline": "Áreiðanleg tæknistarfsemi. Stuðningur sérfræðinga. Stöðugar endurbætur.",
+      "heroBadge": "24/7 IT Rekstur & Stuðningur",
+      "overview": [
+        "Nútíma upplýsingatækniumhverfi er flókið og breytist stöðugt. Stofnanir þurfa áreiðanlega innviði, forrit, net, öryggi, eftirlit og tæknilega aðstoð til að halda rekstri fyrirtækja gangandi.",
+        "Stýrð þjónusta okkar veitir viðvarandi tæknistjórnun og rekstrarstuðning, sem gerir fyrirtækjum kleift að viðhalda áreiðanlegu upplýsingatækniumhverfi á meðan innri teymi einbeita sér að stefnumótandi frumkvæði."
+      ],
+      "transformation": [
+        "Hefðbundinn upplýsingatæknistuðningur beinist oft að því að leysa vandamál eftir að þau koma upp. Stýrð þjónusta tekur fyrirbyggjandi nálgun með því að fylgjast stöðugt með innviðum, forritum, kerfum og rekstrarumhverfi.",
+        "Þessi nálgun hjálpar til við að bera kennsl á hugsanleg vandamál snemma, viðhalda frammistöðu, bæta aðgengi og draga úr rekstrartruflunum sem hægt er að forðast."
+      ],
+      "capabilities": [
+        {
+          "title": "Innviðastjórnun",
+          "desc": "Styðjið áframhaldandi rekstur, lagfæringar og stjórnun netþjóna, geymslu, sýndarvæðingarpalla og innviða."
+        },
+        {
+          "title": "Skýjastjórnun",
+          "desc": "Hafa umsjón með skýjaálagi, fjölskýjaauðlindum, stillingum, eftirliti, afköstum og FinOps hagræðingu."
+        },
+        {
+          "title": "Netstjórnun",
+          "desc": "Veita 24/7 vöktun, frammistöðustjórnun, stuðning við stillingar, SD-WAN fínstillingu og lausn netvandamála."
+        },
+        {
+          "title": "Umsóknarstjórnun",
+          "desc": "Styðjið mikilvæg forritsumhverfi með fyrirbyggjandi eftirliti, viðhaldi, villuupplausn og rekstraruppfærslu."
+        },
+        {
+          "title": "Vöktun og athugun",
+          "desc": "Veittu yfirgripsmikinn rauntíma sýnileika kerfisheilsu, leynd, spenntur, innviðaháð og viðvaranir."
+        },
+        {
+          "title": "Stjórnun öryggisafritunar og endurheimtar",
+          "desc": "Halda sjálfvirkum afritunaráætlunum, prófa bilanir reglulega og tryggja tafarlausa endurheimtarmöguleika."
+        },
+        {
+          "title": "Öryggisaðgerðir (SecOps)",
+          "desc": "Veittu stöðugt öryggiseftirlit, plástrastjórnun, framfylgni aðgangsstýringar og fyrirbyggjandi ógnun."
+        }
+      ],
+      "lifecycleSteps": [
+        "Umhverfisskráning",
+        "Uppgötvun og grunnlína",
+        "Samþætting fjarmælinga",
+        "SLA skilgreining",
+        "Virkt eftirlit allan sólarhringinn",
+        "Atviksflokkun",
+        "Hröð upplausn",
+        "Greining á rótum",
+        "Forvarnarverkfræði",
+        "Stöðug hagræðing"
+      ],
+      "benefits": [
+        "Verulega minni innra rekstrarbyrði",
+        "Fyrirbyggjandi uppgötvun vandamála áður en notendur verða fyrir áhrifum",
+        "Tryggt 99,99% kerfisframboð og spenntur",
+        "Fyrirsjáanleg, gagnsæ rekstraráætlun upplýsingatækni",
+        "Tafarlaus aðgangur að yfirverkfræðisérfræðingum",
+        "Skjótur SLA-studdur viðbragðstími atvika",
+        "Sjálfvirk endurheimt hamfara og samfelld viðskipta",
+        "Stöðug tæknihagræðing og nútímavæðing"
+      ],
+      "security": "Stýrð starfsemi okkar fylgir ströngum ITIL og ISO ramma, sem tryggir dulkóðaðan aðgang, einangraða endurskoðunarskrár, skilríkishvelfingu með minnstu forréttindi og samræmingu í öllum stýrðum tilföngum.",
+      "ctaHeadline": "Stöðugar endurbætur",
+      "ctaSub": "Þú einbeitir þér að fyrirtækinu þínu. Við hjálpum að halda tækninni þinni gangandi."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Tæknilausnir á einum stað",
+      "tagline": "Einn tæknifélagi. Margir möguleikar. Heildar viðskiptalausnir.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Stofnanir vinna oft með mörgum tækniveitum fyrir innviði, ský, forrit, sjálfvirkni, greiningar, öryggi, stuðning og stafræna umbreytingu. Að stjórna mörgum söluaðilum getur skapað margbreytileika, samskiptaeyður, tvítekið átak og sundurleitt tækniumhverfi.",
+        "One-Stop Tæknilausnir nálgun okkar sameinar marga möguleika undir sameinuðu þjónustulíkani, sem hjálpar fyrirtækjum að skipuleggja, innleiða, samþætta, reka og stöðugt bæta tækniumhverfi sitt."
+      ],
+      "transformation": [
+        "Við styðjum allan tæknilífsferilinn—frá því að skilja viðskiptakröfur og skilgreina tæknistefnu til að hanna lausnir, innleiða vettvang, samþætta kerfi, útfæra forrit, fylgjast með umhverfi og veita stöðugan stuðning.",
+        "Markmiðið er að skapa tengt tæknivistkerfi frekar en einangraðar lausnir."
+      ],
+      "capabilities": [
+        {
+          "title": "Stefna og arkitektúr",
+          "desc": "Skilja viðskiptamarkmið og hanna skalanlegan, öruggan og viðhaldanlegan tækniarkitektúr."
+        },
+        {
+          "title": "Innleiðing og smíði",
+          "desc": "Innleiða forrit, innviði, samþættingu, sjálfvirkni og stafræna vettvang með strangleika fyrirtækisins."
+        },
+        {
+          "title": "Kerfissamþætting",
+          "desc": "Tengdu kerfi og forrit svo upplýsingar berist óaðfinnanlega um alla stofnunina."
+        },
+        {
+          "title": "Skipulögð dreifing",
+          "desc": "Komdu á sjálfvirkum CI/CD og útgáfuferlum til að færa lausnir í framleiðslu á áreiðanlegan og öruggan hátt."
+        },
+        {
+          "title": "Stöðugt eftirlit",
+          "desc": "Veita sýnileika frá enda til enda í innviðum, forritum, frammistöðu, framboði og rekstrarheilbrigði."
+        },
+        {
+          "title": "Hagræðing og stuðningur",
+          "desc": "Endurskoðaðu umhverfið stöðugt til að bæta árangur, áreiðanleika, kostnaðarhagkvæmni og sveigjanleika."
+        }
+      ],
+      "lifecycleSteps": [
+        "Stefna",
+        "Arkitektúr",
+        "Framkvæmd",
+        "Samþætting",
+        "Dreifing",
+        "Vöktun",
+        "Hagræðing",
+        "Stuðningur"
+      ],
+      "benefits": [
+        "Minni flókið stjórnun söluaðila og kostnaður",
+        "Óaðfinnanleg samhæfing þvert á öll byggingarlag",
+        "Hraðari framkvæmd verks með engum töfum á afhendingu",
+        "Fyrirsjáanleg fjárveiting og gagnsæ afgreiðsla",
+        "Sameinað ábyrgð fyrirtækja frá núlli til mælikvarða",
+        "Skalanlegar lausnir hannaðar fyrir framtíðarvöxt fyrirtækja",
+        "Langtíma traust tæknisamstarf",
+        "Alhliða stafræn umbreyting frá enda til enda"
+      ],
+      "security": "Með einum traustum samstarfsaðila sem hefur umsjón með arkitektúr, innleiðingu og rekstri er öryggisstjórnun órofin á öllum stigum – útrýma blindum blettum samþættingar og tryggja stöðugt samræmi.",
+      "ctaHeadline": "Þinn fullkomni tæknifélagi",
+      "ctaSub": "Einn félagi. Ein sýn. Margvísleg tækni. Heildarlausnir."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Yfirlit yfir fyrirtæki",
+    "overviewTitle": "Greind tækni fyrir mælanlegar niðurstöður",
+    "transformationEyebrow": "Rekstrarbreyting",
+    "transformationTitle": "Umbreyta viðskiptum með snjöllum vinnuflæði",
+    "deliveryEyebrow": "Skipuleg afhendingaraðferð",
+    "deliveryTitle": "Framkvæmd frá enda til enda og stöðug hagræðing",
+    "deliveryIntro": "Reynt innleiðingaraðferð okkar fylgir ströngu afhendingarferli:",
+    "deliveryOutro": "Þessi skipulega röð tryggir nákvæma samræmingu við viðskiptamarkmið, öfluga öryggisstöðu og mælanleg arðsemisviðmið í hverju stigi.",
+    "securityEyebrow": "Öryggi og stjórnarhættir",
+    "securityTitle": "Varnarráðstafanir varðandi áreiðanleika og samræmi í fyrirtæki",
+    "securityOutro": "Við fellum inn stranga hlutverkatengda aðgangsstýringu, sjálfvirka varnarleysisskönnun, módelstjórnun og dulkóðun á mörgum hæðum til að tryggja að framleiðsluumhverfi þitt sé stöðugt og samræmist að fullu.",
+    "capabilitiesTitle": "Kjarnatæknigeta",
+    "capabilitiesSub": "Alhliða tæknifærni sem er hönnuð til að skala stafræna starfsemi þína.",
+    "bookDiscovery": "Uppgötvun bókatækni",
+    "exploreAll": "Kannaðu alla tækni",
+    "bookConsultation": "Bókaðu ráðgjöf",
+    "coreCapabilities": "Kjarnageta"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Kjarnageta",
+    "exploreFramework": "Skoða lausnaramma",
+    "bookConsultation": "Bókaðu ráðgjöf",
+    "viewCaseStudies": "Skoða dæmisögur",
+    "provenPillars": "Sannaðir stoðir",
+    "operationalOutcomes": "Rekstrarniðurstöður",
+    "learnMore": "Lærðu meira"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Stafræn verkfræði frá enda til enda",
+      "titlePart1": "Upphaf Til",
+      "titlePart2": "Dreifing",
+      "description": "Þróun frá enda til enda á nýjum stafrænum lausnum frá viðskiptakröfum og lausnaarkitektúr í gegnum þróun, samþættingu, prófun, uppsetningu og áframhaldandi stuðning.",
+      "bookConsultation": "Bókaðu ráðgjöf",
+      "exploreEngineering": "Skoða lausnaverkfræði",
+      "coreCapabilities": [
+        "Kröfuverkfræði",
+        "Lausnararkitektúr",
+        "Forritaþróun",
+        "API samþætting",
+        "Gæðatrygging",
+        "DevOps",
+        "Dreifing",
+        "Stuðningur og viðhald"
+      ],
+      "row1Eyebrow": "Afhending á fullri ævi",
+      "row1Title": "End-to-End þróun frá kröfum til mælikvarða",
+      "row1P1": "Sérhvert nýtt stafrænt frumkvæði byrjar með einstökum kröfum, verkflæði í rekstri og stefnumótandi markmiðum sem ekki er hægt að uppfylla með einhleypum hugbúnaði. Við sérhæfum okkur í að byggja sérsniðin, afkastamikil hugbúnaðarkerfi alveg frá grunni.",
+      "row1P2": "Frá upphafskröfum uppgötvun og tæknilega arkitektúrhönnun til liprar sprettþróunar, samþættingar API vistkerfa, öflugra prófunarleiðslna og sjálfvirkrar skýjauppsetningar, yfirverkfræðingateymi okkar taka fulla eignarhald á líftíma vörunnar.",
+      "row2Eyebrow": "Lausn Arkitektúr og verkfræði",
+      "row2Title": "Stærðanleg kerfi byggð fyrir fyrirtækisvöxt",
+      "row2P1": "Við hönnum sveigjanlegan hugbúnaðararkitektúr sem er sérsniðinn til að standast mikið framleiðsluálag. Frá eininga örþjónustum og atburðadrifnum bakenda til gagnastrauma með miklum afköstum og GraphQL/REST API, byggjum við vettvang sem stækkar áreynslulaust.",
+      "row2P2": "Með því að koma á hreinum, eininga kóðabasa ásamt sjálfvirkum prófunum og stöðugu öryggissamræmi, tryggjum við að hugbúnaðargrunnurinn þinn sé viðhaldshæfur, endurskoðandi og tilbúinn fyrir langtímaþróun.",
+      "row3Eyebrow": "Gæðatrygging og DevOps",
+      "row3Title": "Snögg afhending með sjálfvirkum leiðslum",
+      "row3P1": "Afhendingarlíkanið okkar fellur inn sjálfvirkar eininga-, samþættingar- og enda-til-enda aðhvarfsprófanir ásamt gámaskiptu CI/CD verkflæði (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Með gagnsæjum sprettisýnum, rauntíma athugun og tímamótadrifnum hraða tryggjum við skjótan tíma á markað án þess að skerða öryggi, stöðugleika eða notendaupplifun.",
+      "row4Eyebrow": "Dreifing og stuðningur",
+      "row4Title": "Áreiðanlegur rekstur allan sólarhringinn og langtímaþróun",
+      "row4P1": "Að fara í beinni er bara byrjunin. Við bjóðum upp á fyrirbyggjandi eftirlit, SLA-studd viðhald, fínstillingu skýjainnviða, afköstunarstillingu og áframhaldandi útfærslu eiginleika.",
+      "row4P2": "Verkfræðiteymið okkar virkar sem eðlileg framlenging á fyrirtækinu þínu og tryggir núll niður í miðbæ og stöðuga tæknilega yfirburði á þínum markaði.",
+      "pillarsTitle": "Kjarnageta",
+      "pillarsSub": "Fullkomin hæfileiki í fullri stafla sem er hannaður til að taka hugmyndir þínar frá núlli til framleiðslu.",
+      "pillar1Title": "Kröfuverkfræði",
+      "pillar1Desc": "Djúpstæð viðskiptagreining, hagnýtar forskriftir og kortlagning notendaferða til að skilgreina nákvæm lausnarmörk.",
+      "pillar2Title": "Lausnararkitektúr",
+      "pillar2Desc": "Stærðanleg skýjabyggð arkitektúr, gagnagrunnslíkön, hönnun örþjónustu og öryggisgrunnar sem ekki treysta á.",
+      "pillar3Title": "Forritaþróun",
+      "pillar3Desc": "Nútímaleg vef- og farsímaforrit í fullum stafla hönnuð með hreinum kóða, tegundaöryggi og viðbragðsviðmóti stöðlum.",
+      "pillar4Title": "API samþætting",
+      "pillar4Desc": "REST/GraphQL API með miklum afköstum, vefhókasamsetningar, greiðslugáttir og óaðfinnanleg ERP/CRM samstilling þriðja aðila.",
+      "ctaTitle": "Tilbúinn til að byggja upp þína lausn frá upphafi til notkunar?",
+      "ctaSub": "Samstarf við Rezonants til að arkitekta, verkfræðinga og útfæra sérsniðna stafræna vettvanginn þinn frá viðskiptakröfum til framleiðsluveruleika.",
+      "ctaButton": "Bókaðu lausnarráðgjöf",
+      "pillar5Title": "Gæðatrygging",
+      "pillar5Desc": "Strangt sjálfvirkni próf, álags-/álagspróf, varnarleysisskannanir og aðhvarfsprófunarsvítur.",
+      "pillar6Title": "DevOps og dreifing",
+      "pillar6Desc": "Sjálfvirkar CI/CD leiðslur, gámaskipun (Docker/K8s), innviðir sem kóða, og núll-niðurtíma útgáfur.",
+      "pillar7Title": "Stuðningur og viðhald",
+      "pillar7Desc": "Fyrirbyggjandi eftirlit allan sólarhringinn, heilsufjarmælingar, stjórnsýsluúttektir, öryggisplástur og áframhaldandi SLA viðhald.",
+      "pillar8Title": "Stöðug nýsköpun",
+      "pillar8Desc": "Venjulegur eiginleikahraði, samþætting gagnagreininga, aukningu gervigreindar og nútímavæðingar í byggingarlist."
+    },
+    "processAutomation": {
+      "eyebrow": "Intelligent Process Operations",
+      "titlePart1": "Viðskiptaferli",
+      "titlePart2": "Sjálfvirkni",
+      "description": "Sjálfvirkni verkflæðis frá enda til enda, sem sameinar sjálfvirkni vélfæraferla (RPA), snjallrar skjalavinnslu, viðskiptaregluvélar og kerfissamþættingu.",
+      "bookDiscovery": "Uppgötvun bóka sjálfvirkni",
+      "exploreFramework": "Kanna lausnaramma",
+      "coreCapabilities": [
+        "Sjálfvirkni verkflæðis",
+        "Vélfærafræðiferli sjálfvirkni",
+        "Skjalavinnsla",
+        "Samþættingarverkfræði",
+        "Viðskiptareglur Vélar",
+        "Ferlagreining",
+        "Stöðug hagræðing",
+        "Eldri samþætting"
+      ],
+      "row1Eyebrow": "Vélfærafræðiferli sjálfvirkni",
+      "row1Title": "Greindur vélmenni fyrir miklar aðgerðir",
+      "row1P1": "Útrýmdu endurteknum handvirkum innslætti gagna, afstemmingum þvert á kerfi og skjalaleiðingu. Við sendum inn RPA vélmenni fyrir fyrirtæki sem framkvæma skipulögð verkefni allan sólarhringinn með núll villuhlutfall.",
+      "row1P2": "Með því að tengja gamalt skjáborðsviðmót, SAP/ERP bakenda og skýjagagnagrunna, losa hugbúnaðarbottar teymi þitt til að einbeita sér að stefnumótandi verkefnum í viðskiptum.",
+      "row2Eyebrow": "Greind skjalavinnsla",
+      "row2Title": "OCR, vélanám og gervigreind skjala",
+      "row2P1": "Taktu sjálfkrafa inn, flokkaðu og dragðu gögn úr reikningum, samningum, auðkennisskjölum og kröfum. Gervigreindardrifnar leiðslur okkar sannprófa reiti gegn innri gagnagrunnum og koma af stað sjálfvirkum samþykkisvinnuflæði.",
+      "row2P2": "Náðu beint vinnsluhraða sem er yfir 95% á sama tíma og þú dregur verulega úr afgreiðslutíma frá dögum í sekúndur.",
+      "row3Eyebrow": "Process Orchestration",
+      "row3Title": "End-to-End Cross-Platform Samstilling",
+      "row3P1": "Tengdu CRM, ERP, HRMS og banka API í sameinað rauntíma gagnaflæði. Við innleiðum atburðadrifnar kveikjur, skilaboðabiðraðir og sjálfvirka fallback-meðhöndlun.",
+      "row3P2": "Upplýsingar streyma óaðfinnanlega þvert á deildir án mannlegrar íhlutunar, sem útilokar rekstur sílóa og tafir í samskiptum.",
+      "row4Eyebrow": "Stöðug fjarmæling",
+      "row4Title": "Rauntíma ferligreining og Kaizen Insights",
+      "row4P1": "Fylgstu með framkvæmdartíma ferli, flöskuhálshitakortum, villutíðni og fjárhagslegri arðsemi í rauntíma stjórnendamælaborðum.",
+      "row4P2": "Stöðug vélanámsgreining uppgötva ný sjálfvirknitækifæri, sem heldur fyrirtækinu þínu í hámarks skilvirkni.",
+      "pillarsTitle": "Sjálfvirknisúlur",
+      "pillarsSub": "Reyndar byggingareiningar fyrir greindur fyrirtækisrekstur.",
+      "pillar1Title": "Sjálfvirkni verkflæðis",
+      "pillar1Desc": "Fjölþrepa manneskjur í lykkju og stafræn vinnuflæði skipulögð með sjálfvirkri leið og stigmögnun.",
+      "pillar2Title": "Vélfærafræðiferli sjálfvirkni",
+      "pillar2Desc": "Reglubundnir hugbúnaðarbottar sem framkvæma venjubundnar gagnafærslur, afstemmingar og þvert á forrit.",
+      "pillar3Title": "Greind gervigreind sjálfvirkni",
+      "pillar3Desc": "Hugræn gervigreind sem túlka samhengi, draga saman ómótaðan texta og taka sjálfvirkar ákvarðanir.",
+      "pillar4Title": "Fínstilling á ferli",
+      "pillar4Desc": "Vinnslunám, flöskuhálsgreining og Kaizen verkflæði sem lækka stöðugt rekstrarkostnað.",
+      "ctaTitle": "Tilbúinn til að gera verkflæði fyrirtækja sjálfvirkt?",
+      "ctaSub": "Tengstu við sjálfvirkniarkitekta okkar til að bera kennsl á möguleika á mikilli arðsemi og innleiða greindar stafrænar vinnuflæði.",
+      "ctaButton": "Bókaðu sjálfvirkniráðgjöf"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Verkfræðistaðall & R&D",
+      "titlePart1": "Miðstöð",
+      "titlePart2": "Ágæti",
+      "description": "Miðstýrð stofnun háttsettra arkitekta og lénssérfræðinga sem leggja áherslu á að staðla verkfræðihætti, knýja fram nýsköpun og flýta fyrir stafrænum verkefnum.",
+      "exploreStandards": "Kannaðu verkfræðistaðla",
+      "initiateAssessment": "Hefja CoE Assessment",
+      "coreCapabilities": [
+        "Arkitektúrstaðlar",
+        "Endurnýtanlegar rammar",
+        "Besta starfshættir Stjórnarhættir",
+        "Færniþróun",
+        "Gæðaviðmið",
+        "R&D og nýsköpun",
+        "Tæknimat",
+        "Þververkefni leiðsögn"
+      ],
+      "uptimeLabel": "Spenntur fyrirtækja",
+      "engineersLabel": "Verkfræðingar og arkitektar",
+      "deploymentsLabel": "gervigreind og skýjauppfærslur",
+      "satisfactionLabel": "Ánægja viðskiptavina",
+      "row1Eyebrow": "Stoð 01 — Verkfræðistaðall",
+      "row1Title": "Afkastamikil hugbúnaðarverkfræði",
+      "row1P1": "Árangursmiðstöðin okkar kemur á fót stöðluðu hönnunarmynstri, ströngum sjálfvirkum prófunum og aðferðum við endurskoðun á núllgöllum kóða sem flýta fyrir markaðssetningu en halda tæknilegum skuldum í núlli.",
+      "row1F1": "Sjálfvirkar CI/CD útgáfuleiðslur með DORA mæligildum",
+      "row1F2": "Strangar byggingarendurskoðunarnefndir og stjórnsýslu örþjónustu",
+      "row1F3": "Stöðug öryggisfóðrun og sjálfvirk varnarleysisbót",
+      "row1Btn": "Lærðu verkfræðistaðla",
+      "row1Tag": "DevOps og gæðaverkfræði",
+      "row2Eyebrow": "Stoð 02 — Nýsköpun í rannsóknum og þróun",
+      "row2Title": "AI Innovation Lab & Emerging Technology",
+      "row2P1": "Við gerum tilraunir með nýjustu vélanámslíkönum, sérsniðnum gervigreindum umboðsmönnum og greindri sjálfvirkni verkflæðis til að byggja upp næstu kynslóðar fyrirtækjavörur.",
+      "row2F1": "Enterprise Generative AI & RAG þekkingarsamþætting",
+      "row2F2": "Sjálfstætt verkflæði gervigreindar umboðsmanna fyrir sjálfvirkni viðskiptaferla",
+      "row2F3": "Sérsniðið vélnámslíkan fínstilling og fínstilling",
+      "row2Btn": "Skoða AI Lab",
+      "row2Tag": "Gervigreind og taugarannsóknir",
+      "row3Eyebrow": "Stoð 03 — Innviðir",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Við hönnum og stjórnum fjaðrandi fjölskýjaumhverfi sem byggt er á öryggisramma án trausts, sem tryggir að gögnin þín séu áfram vernduð gegn alþjóðlegum netógnum sem þróast.",
+      "row3F1": "AWS, Azure og GCP fjölskýja innviðaskipan",
+      "row3F2": "Zero-trust netaðgangur (ZTNA) & hlutverkamiðaðar IAM-reglur",
+      "row3F3": "Sjálfvirk gámaöryggisskönnun og leynistjórnun",
+      "row3Btn": "Skoðaðu ský og öryggi",
+      "row3Tag": "Cloud Architecture & Zero-Traust",
+      "pillarsTitle": "Kjarnaframmistöðuramma okkar",
+      "pillarsSub": "Kerfisbundnar þróunarleikbækur sem knýja fram verkefni sem eru mikilvægar.",
+      "pillar1Title": "Byggingarráð (ARB)",
+      "pillar1Desc": "Alhliða eftirlit sem tryggir að allar fyrirtækjalausnir samræmast ströngum skalanleika, öryggi og samskiptareglum.",
+      "pillar2Title": "Endurnotanleg hröðunartæki og íhlutasafn",
+      "pillar2Desc": "Sérhönnunarkerfi, API byrjunarsett og bakenda örþjónustusniðmát sem draga úr upphafsþróunartíma um 40%.",
+      "pillar3Title": "Stöðug árangursprófun",
+      "pillar3Desc": "Háþróaðar rauntíma athugunarleiðslur sem fylgjast með biðtíma forrita, afköstum flöskuhálsum og nýtingu skýjaauðlinda.",
+      "pillar4Title": "Hæfileikauppfærsla og lið",
+      "pillar4Desc": "Skipulögð innri guild og vottanir sem rækta djúpa tæknikunnáttu í skýi, DevOps og beitt gervigreind.",
+      "ctaTitle": "Lyftu verkfræðistaðlinum þínum",
+      "ctaSub": "Samstarf við Rezonants's Excellence Center til að byggja upp seigur skýjaarkitektúr, gera sjálfvirkan verkflæði og flýta fyrir afhendingu stafrænna vara.",
+      "ctaButton": "Dagskrá framkvæmdaráðs",
+      "badge": "REZONANTS COE",
+      "scroll": "Skrunaðu",
+      "p1Title": "Stjórnarhættir og rammar",
+      "p1Desc": "Koma á skipulagi yfir alla fyrirtæki, verndarhandrið og fylgnistaðla.",
+      "p1Tag": "Stjórnarhættir",
+      "p2Title": "Tæknistaðlar og arkitektúr",
+      "p2Desc": "Skilgreindu nútíma viðmiðunararkitektúr, yfirfarnar tæknistafla og örþjónustumynstur.",
+      "p2Tag": "Arkitektúr",
+      "p3Title": "Endurnýtanlegar eignir og bókasöfn",
+      "p3Desc": "Flýttu þróunarhraða með sameiginlegum íhlutum, sniðmátum, byrjunarsettum og hönnunarkerfum.",
+      "p3Tag": "Endurnýtanleiki",
+      "p4Title": "Hæfniþróun",
+      "p4Desc": "Skipulögð þjálfun, tæknileg leiðsögn og kunnátta til að auka hæfileika teymisins.",
+      "p4Tag": "Hæfni",
+      "p5Title": "Nýsköpun og ný tækni",
+      "p5Desc": "R&D á gervigreindum umboðsmönnum, sjálfvirknileiðslum og næstu kynslóðar ramma til að viðhalda markaðsforskoti.",
+      "p5Tag": "Nýsköpun",
+      "p6Title": "Stöðugar endurbætur",
+      "p6Desc": "Gagnadrifnar verkfræðimælingar (DORA), SLA viðmiðun og áframhaldandi gæðahagræðing.",
+      "p6Tag": "Gæði"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Sérsniðin stafræn verkfræði",
+      "titlePart1": "Sérsniðin þróun &",
+      "titlePart2": "Sérsnið",
+      "description": "Þróun og endurbætur á forritum, kerfum, verkflæði og fyrirtækjalausnum til að mæta einstökum viðskiptakröfum og skila sérsniðinni virkni.",
+      "bookConsultation": "Bókaðu ráðgjöf",
+      "exploreCapabilities": "Kanna möguleika",
+      "coreCapabilities": [
+        "Sérsniðin þróun",
+        "Stilling vettvangs",
+        "Viðbætur",
+        "Sérsniðin verkflæði",
+        "API þróun",
+        "Kerfissamþætting",
+        "UI/UX Aukning",
+        "Hagræðing afkasta"
+      ],
+      "row1Eyebrow": "SANNAÐ VIRKNI",
+      "row1Title": "Sérsniðnir eiginleikar byggðir fyrir vinnuflæðið þitt",
+      "row1P1": "Venjulegur hugbúnaður fyrir fyrirtæki nær oft ekki til að mæta sérhæfðum viðskiptaþörfum. Sérsniðið verkfræðiteymi okkar þróar sérsniðnar forritaeiningar, sérsniðnar viðskiptareglur og sérhæfðar viðbætur sem eru sérsniðnar að rekstri þínum.",
+      "row1P2": "Allt frá sérsniðnum CRM og ERP endurbótum til sérhæfðra rekstrargátta, byggjum við eiginleika sem samræmast hnökralaust nákvæmlega vinnuflæðismynstri teymisins þíns.",
+      "row2Eyebrow": "FRAMKVÆMDARKERFI SAMTÖKUN",
+      "row2Title": "Uppsetning palla og þróun API",
+      "row2P1": "Tengdu ólík hugbúnaðarkerfi í sameinað stafrænt vistkerfi. Við gerum sérsniðin REST og GraphQL API, vefhook-meðhöndlara og fyrirtækjaskilaboðaraðir til að tryggja samstillingu gagna í rauntíma á öllum kerfum þínum.",
+      "row2P2": "Hvort sem verið er að samþætta SaaS verkfæri þriðja aðila eða stækka sérstakt svæði á staðnum, þá setja samþættingararkitektúrar okkar gagnaheilleika, afköst og núll niður í miðbæ.",
+      "row3Eyebrow": "UI/UX & AFKOMA",
+      "row3Title": "UI/UX aukahlutir og árangursfínstilling",
+      "row3P1": "Lyftu eldri viðmótum með nútímalegri, móttækilegri notendaupplifun sem er hönnuð fyrir hraða og skýrleika. Við endurhönnum framenda með leiðandi hönnunarmynstri, samræmi við aðgengi og straumlínulagað samspilslíkön.",
+      "row3P2": "Samhliða hagræðingu verkfræðinga okkar gagnagrunnsfyrirspurnir, skyndiminnisaðferðir og framenda búntastærðir til að skila tafarlausum viðbragðstíma í öllum tækjum.",
+      "pillarsTitle": "Hannað að þínum nákvæmum forskriftum",
+      "pillarsSub": "Sérsniðnaraðferðir fyrir fyrirtæki sem eru byggðar til að skalast óaðfinnanlega.",
+      "pillar1Title": "Sérsniðin verkflæði og viðbætur",
+      "pillar1Desc": "Sérsniðin forritsrökfræði og sjálfvirkar ástandsvélar sem eru sérstaklega stilltar í kringum innri rekstrarreglur þínar.",
+      "pillar2Title": "API og kerfissamþætting",
+      "pillar2Desc": "Öruggar, sannvottaðar gagnabrýr sem tengja saman eigin bakenda, ERP-svítur, greiðslugáttir og skýjaþjónustu.",
+      "pillar3Title": "Stilling vettvangs",
+      "pillar3Desc": "Djúpar byggingaraðlöganir sem breyta hugbúnaði fyrirtækja án þess að brjóta uppfærsluleiðir eða stuðningssamninga söluaðila.",
+      "pillar4Title": "Bestun árangur",
+      "pillar4Desc": "Árásargjarn fyrirspurnarsnið, útrýming minnisleka og kant CDN dreifing fyrir undir-sekúndu síðuhleðslu.",
+      "ctaTitle": "Tilbúinn til að sérsníða fyrirtækisvettvanginn þinn?",
+      "ctaSub": "Tengstu við lausnaarkitektana okkar til að hanna og dreifa sérsniðnum einingum, verkflæði og samþættingum sem eru sérsniðnar að þörfum fyrirtækisins.",
+      "ctaButton": "Bókaðu sérsníða símtal",
+      "badge": "Sérsniðin stafræn verkfræði",
+      "viewAllServices": "Skoða allar þjónustur"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Nútímavæðing fyrirtækja",
+      "titlePart1": "Stafræn",
+      "titlePart2": "Umbreyting",
+      "description": "Alhliða nútímavæðing viðskiptaferla, tækniarkitektúrs og rekstrarlíkana til að knýja fram snerpu skipulagsheildar, rekstrarhagkvæmni og sjálfbæran stafrænan vöxt.",
+      "startTransformation": "Byrjaðu umbreytingu",
+      "exploreStrategy": "Kanna stefnu",
+      "coreCapabilities": [
+        "Stefna og vegakort",
+        "Nútímavæðing byggingarlistar",
+        "Ský og innviðir",
+        "Gögn og greiningar",
+        "Stafræn aðferð",
+        "Upplifun viðskiptavina",
+        "Breytingastjórnun",
+        "Agile rekstrarlíkön"
+      ],
+      "row1Eyebrow": "Stefna og vegvísir",
+      "row1Title": "Frá framtíðarsýn til keyranlegs vegakorts",
+      "row1P1": "Við erum í samstarfi við leiðtoga fyrirtækja til að skilgreina stafræna stefnu, viðskiptatilvik og áfangaleiðir með skjótum vinningum og áhættulausri framkvæmd.",
+      "row1P2": "Forgangsverkefni, TCO líkön og KPIs tryggja að sérhver tæknivæðing viðleitni tengist beint tekjum, skilvirkni og ánægju viðskiptavina.",
+      "row2Eyebrow": "Eldri nútímavæðing",
+      "row2Title": "Nútímavæða án þess að brjóta viðskiptin niður",
+      "row2P1": "Endursetja vettvang til örþjónustur, API og skýjaætt mynstur með niðurskurði á núll niðritíma og sjálfvirkri aðhvarfsstaðfestingu.",
+      "row2P2": "Við nútímafærum forrit, gagnagrunna og samþættingarlög á sama tíma og við varðveitum samræmi og öryggisstöðu.",
+      "row3Eyebrow": "Ský, gervigreind og gögn",
+      "row3Title": "Skýjaupptaka og gagnadrifin greind",
+      "row3P1": "Taktu upp AWS, Azure og GCP, byggðu nútíma gagnaleiðslur og felldu inn vélanámsmiðla til að knýja fram sjálfstæðar ákvarðanir.",
+      "row3P2": "Frá straumspilun viðburða í rauntíma til sameinaðs mælaborðs, umbreyting verður mælanleg og sjálfbær.",
+      "row4Eyebrow": "Upplifun viðskiptavina",
+      "row4Title": "Nútíma upplifun fjölrása",
+      "row4P1": "Endurhanna ferðir viðskiptavina á móttækilegum vef-, iOS-, Android- og sjálfsafgreiðslugáttum með sérsniðnu viðmóti.",
+      "row4P2": "Pallverkfræði, fjarmælingar og sjálfvirkar endurgjöfarlykkjur gera stafræna nýsköpun stöðuga.",
+      "pillarsTitle": "Umbreytingarstoðir",
+      "pillarsSub": "Útkomumiðaðar stangir sem tryggja sjálfbæra stafræna forystu.",
+      "pillar1Title": "Stafræn stefna og stjórnarhættir",
+      "pillar1Desc": "Áföngum umbreytingarteikningum með viðskiptalíkönum, stjórnunarháttum arkitektúrs og áhættumælingu áfangastaða.",
+      "pillar2Title": "Ský og gagnapallur",
+      "pillar2Desc": "AWS/Azure/GCP fjölskýjagrunnur, sjálfvirkar leiðslur og virkjun fyrirtækjagagnagreiningar.",
+      "pillar3Title": "gervigreind og sjálfvirkni",
+      "pillar3Desc": "Snjöll ferli sjálfvirkni, vitsmunalegir gervigreindir og forspárfjarmælingar til að hámarka daglegan rekstur.",
+      "pillar4Title": "Upplifun viðskiptavina",
+      "pillar4Desc": "Stafrænar gáttir með miklum umbreytingum og sérsniðin viðmót byggð fyrir hámarks varðveislu notenda.",
+      "ctaTitle": "Tilbúinn til að umbreyta fyrirtækinu þínu?",
+      "ctaSub": "Samstarf við Rezonants fyrir áfangastýrða, áhættulausa stafræna umbreytingu sem tengist mælanlegum viðskiptaniðurstöðum.",
+      "ctaButton": "Bókaðu símtal um stafræna umbreytingu",
+      "bookWorkshop": "Umbreytingarverkstæði bóka",
+      "exploreFramework": "Kanna lausnaramma",
+      "coreCapabilitiesTitle": "Kjarnageta"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Heill tæknilífsferill",
+      "titlePart1": "Lokalausn",
+      "titlePart2": "Rammi",
+      "description": "Skipulagður afhendingarrammi fyrir allan lífsferil sem spannar viðskiptakröfur, arkitektúrhönnun, verkfræði, samþættingu, gæðatryggingu, skýjadreifingu og stjórnaða starfsemi.",
+      "startJourney": "Byrjaðu verkefnið þitt",
+      "exploreFramework": "Kanna ramma",
+      "coreCapabilities": [
+        "Kröfugreining",
+        "Arkitektúrhönnun",
+        "Þróun í fullri stafla",
+        "Samþættingarverkfræði",
+        "Gæðatrygging",
+        "Uppsetning og útfærsla",
+        "Áframhaldandi starfsemi",
+        "Stöðug þróun"
+      ],
+      "row1Eyebrow": "Stefna og arkitektúr",
+      "row1Title": "Kröfur Verkfræði og lausnahönnun",
+      "row1P1": "Samvinnuvinnustofur, kortlagning viðskiptaléna og skýjaarkitektúrforskriftir sem ætlað er að útrýma áhættu áður en kóðalína er skrifuð.",
+      "row1P2": "Við skilgreinum gagnalíkön, öryggisramma og stigstærðaráfanga sem skapa langtíma árangur.",
+      "row2Eyebrow": "Verkfræði og gæði",
+      "row2Title": "Þróun í fullri stafla og sjálfvirk prófun",
+      "row2P1": "Eininga örþjónustur, tegundaörugg API og móttækileg framenda ásamt sjálfvirkri einingu, samþættingu og öryggisskönnun.",
+      "row2P2": "Stöðugar samþættingarleiðslur með GitHub Actions, Terraform og sjálfvirkum öryggisvörnum.",
+      "row3Eyebrow": "Dreifing og rekstur",
+      "row3Title": "Uppsetning skýja og stýrt eftirlit allan sólarhringinn",
+      "row3P1": "Fjölskýjaskipun á AWS/Azure/GCP með sjálfvirkri afturköllun, stöðvunartíma án niðri og rauntíma athugun.",
+      "row3P2": "Við bjóðum upp á SLA-bakið viðhald og stöðugt fjarmælingarvöktun til að þróa vöruna þína óaðfinnanlega.",
+      "row4Eyebrow": "Stjórnarhættir fyrirtækja",
+      "row4Title": "Samræmd stjórnarhættir og áframhaldandi stuðningur",
+      "row4P1": "Ábyrgð á einum punkti yfir allan stafræna stafla þinn - gagnsæ hraða, fyrirsjáanleg fjárhagsáætlun og stöðug nýsköpun.",
+      "row4P2": "Regluleg útfærsla á eiginleikum og nútímavæðingarlotur halda fyrirtækinu þínu á undan samkeppninni.",
+      "pillarsTitle": "Rammastoðir líftíma",
+      "pillarsSub": "Sérhver áfangi hannaður af fyrirtækisstífni.",
+      "pillar1Title": "Stefna og kröfur",
+      "pillar1Desc": "Uppgötvun léna, vegakort í byggingarlist og aðlögun hagsmunaaðila til að útiloka framkvæmdaráhættu.",
+      "pillar2Title": "Arkitektúr og smíði",
+      "pillar2Desc": "Seigur ský-innfæddur örþjónusta, API samþættingar og stöðugar QA próf.",
+      "pillar3Title": "Öryggi og uppsetning",
+      "pillar3Desc": "Núlltraust öryggissamræmi, gámaútgáfur og sjálfvirk skýjauppsetning.",
+      "pillar4Title": "Stjórnarhættir og stuðningur",
+      "pillar4Desc": "24/7 SLA vöktun, heilsufjarmæling og áframhaldandi þróunarverkfræði.",
+      "ctaTitle": "Þarftu heildarlífsfélaga?",
+      "ctaSub": "Við eigum allan tæknilífsferilinn svo teymið þitt getur einbeitt sér að niðurstöðum kjarnaviðskipta.",
+      "ctaButton": "Samstarfsaðili fyrir allan lífsferilinn"
+    },
+    "migrationServices": {
+      "eyebrow": "Umbreyting skýja og innviða",
+      "titlePart1": "Flutningur &",
+      "titlePart2": "Nútímavæðing",
+      "description": "Örugg, skipulögð flutningur eldri forrita, gagnagrunna og innviða yfir í nútíma skýjaarkitektúr, parað við stöðuga nútímavæðingu fyrir aukna lipurð og skilvirkni.",
+      "bookAssessment": "Bókaflutningsmat",
+      "exploreStrategy": "Kanna skýjastefnu",
+      "coreCapabilities": [
+        "Cloud Flutningur",
+        "Nútímavæðing forrita",
+        "Flutningur gagnagrunns",
+        "Endurhýsing innviða",
+        "Gámavæðing",
+        "Umskipti í örþjónustu",
+        "Hagræðing afkasta",
+        "Öryggi og samræmi"
+      ],
+      "row1Eyebrow": "Cloud Flutningur",
+      "row1Title": "Multi-Cloud Strategy & Lift-and-Optimize",
+      "row1P1": "Óaðfinnanlegur flutningur á vinnuálagi yfir AWS, Azure og Google Cloud með sjálfvirkri uppgötvun, bylgjuskipulagningu og engum viðskiptatruflunum.",
+      "row1P2": "Við tökum jafnvægi á endurhýsingu, endurskipulagningu og endurstillingu til að hámarka heildarkostnað við eignarhald (TCO) og lipurð.",
+      "row2Eyebrow": "Flutningur gagna og gagnagrunna",
+      "row2Title": "Örugg ETL og sjálfvirk gagnaprófun",
+      "row2P1": "Sjálfvirk afritun gagnagrunns, kerfisþýðing og ETL leiðslur með miklum afköstum með 100% sannprófun á gagnaheilleika.",
+      "row2P2": "Núll-niðurtíma niðurskurðaræfing tryggir algjöra gagnasamkvæmni og samfellu í viðskiptum.",
+      "row3Eyebrow": "Nútímavæðing vettvangs",
+      "row3Title": "Gámavæðing og Kubernetes hljómsveit",
+      "row3P1": "Nútímafærðu eldri einliða í skalanlegar örþjónustur skipulagðar í gegnum Kubernetes (EKS, AKS, GKE) með sjálfvirkum IaC teikningum.",
+      "row3P2": "Frammistöðusnið eftir flutning og hagræðing kostnaðar tryggja tafarlausa arðsemi.",
+      "row4Eyebrow": "Skipulagsáætlun",
+      "row4Title": "Sjálfvirk prófun og öryggisnet til baka",
+      "row4P1": "Bardagaprófaðar niðurskurðarbækur, sjálfvirkar aðhvarfssvítur og tafarlausar afturköllunaraðferðir fyrir fullkominn hugarró.",
+      "row4P2": "Heilsufjarmælingar eftir búferlaflutninga og 24/7 ofurþjónusta tryggja gallalausan framleiðslustöðugleika.",
+      "pillarsTitle": "Flutningatryggingar",
+      "pillarsSub": "Áhættulausar hreyfingar studdar af SLA fyrirtækja.",
+      "pillar1Title": "Núllstöðvunartími",
+      "pillar1Desc": "Kanaríútgáfur og tvískrifa samstilling gagnagrunns til að tryggja ótruflaðan aðgang notenda.",
+      "pillar2Title": "Sjálfvirk gagnaprófun",
+      "pillar2Desc": "Samanburður á eftirlitssummu, úttektir á kerfisheilleika og sjálfvirk ETL afstemming.",
+      "pillar3Title": "Öryggisnet til baka",
+      "pillar3Desc": "Strangar samskiptareglur um endurheimt hamfara og æfingar til að halda í skefjum á hverju stigi.",
+      "pillar4Title": "Afköst og hagræðing kostnaðar",
+      "pillar4Desc": "Réttastærð skýja, stefnur um sjálfstýringu og kostnaðarstjórnunar mælaborð innifalin.",
+      "ctaTitle": "Tilbúinn til að flytja með fullu trausti?",
+      "ctaSub": "Samstarf við Rezonants fyrir skipulagða, áhættulausa nútímavæðingu skýja og gagna.",
+      "ctaButton": "Skipuleggðu flutningsvinnustofuna þína"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Hröð staðfesting og hagkvæmni",
+      "titlePart1": "Proof of Concept (PoC) &",
+      "titlePart2": "Tilraunaframkvæmd",
+      "description": "Hröð þróun og löggilding tæknilausna til að meta tæknilega hagkvæmni, viðskiptagildi, samþættingarkröfur, frammistöðu og sveigjanleika fyrir innleiðingu í fullri stærð.",
+      "initiateDiscovery": "Hefja PoC uppgötvun",
+      "exploreDevelopment": "Kannaðu sérsniðna þróun",
+      "coreCapabilities": [
+        "PoC þróun",
+        "Frumgerðaverkfræði",
+        "Hagkvæmniathuganir",
+        "Löggilding byggingarlistar",
+        "Samþættingarprófun",
+        "Árangursviðmiðun",
+        "Dreifing flugmanna",
+        "Gildismat"
+      ],
+      "row1Eyebrow": "Hröð staðfesting",
+      "row1Title": "Frá hugmynd til staðfests hagkvæmni",
+      "row1P1": "Til að breyta hugmynd í fyrirtækjalausn þarf stranga staðfestingu fyrirfram. PoC & Pilot þjónustan okkar metur hagkvæmni tækninnar, álagsprófar mikilvægar samþættingarkrókar og staðfestir arðsemi fyrirtækja fyrir meiriháttar fjármagnsskuldbindingar.",
+      "row1P2": "Við smíðum hágæða MVP og einbeittan sandkassaflugmenn sem sanna tæknilega hagkvæmni, mæla kerfisleynd og safna beinni sannprófun hagsmunaaðila snemma.",
+      "row1Cap": "Rapid MVP frumgerð og tæknileg viðmið",
+      "row2Eyebrow": "Agile frumgerð",
+      "row2Title": "Gagnvirk MVP og UX staðfesting",
+      "row2P1": "Við smíðum gagnvirka þráðramma, smellanlegt notendaflæði og hagnýtar sönnunargögn á dögum, ekki mánuðum. Prófaðu raunveruleg notendasamskipti, fínstilltu UI/UX mynstur og safnaðu hagnýtri endurgjöf frá hagsmunaaðilum.",
+      "row2P2": "Með því að stytta endurgjöfarlykkjur meðan á fyrstu þróun stendur, lágmarkar teymið þitt endurvinnslu og setur skýrar tækniforskriftir áður en fjármagnsfrekir byggingaráfangar hefjast.",
+      "row2Cap": "Hröð endurtekning og smellanlegar UX frumgerðir",
+      "row3Eyebrow": "Samþættingar- og sveigjanleikaprófun",
+      "row3Title": "De-Risk Complex System Integration",
+      "row3P1": "Afhjúpaðu tæknilega flöskuhálsa, API takmarkanir og frammistöðutakmarkanir fyrir fulla skuldbindingu. Tilraunaverkfræðiteymi okkar álagsprófar samþættingar, gagnaleiðslur og API frá þriðja aðila í einangruðu sandkassaumhverfi.",
+      "row3P2": "Þessi fyrirbyggjandi áhættuminnkun tryggir mikið kerfisframboð, öryggissamræmi og fyrirsjáanlegar þróunartímalínur þegar þú breytir PoC þínum í fyrirtækjaframleiðslu.",
+      "row3Cap": "Samþætting sandkassa og álagspróf",
+      "row4Eyebrow": "Stýrð framleiðsluflugmaður",
+      "row4Title": "Markviss tilraunakynning og staðfesting á viðskiptatilvikum",
+      "row4P1": "Sendu markvissar tilraunaútgáfur á valinn notendahluta eða prófunarmarkað. Fylgstu með frammistöðumælingum, greiningu notendaupptöku og rekstrarendurgjöf til að mæla viðskiptavirði og koma á gagnatryggðum viðskiptatilvikum.",
+      "row4P2": "Með raunverulegri innsýn í tilraunaverkefni, fá stjórnendur styrktaraðila skýrar arðsemismælikvarða til að réttlæta víðtækari dreifingu og stefnumótandi fjárfestingar í stafrænum umbreytingum.",
+      "row4Cap": "Stýrð dreifing og afköst fjarmæling",
+      "pillarsTitle": "Frumverkfræðireglur okkar",
+      "pillarsSub": "Leiðarljós sem breyta tæknilegri óvissu í fyrirsjáanlegan árangur í viðskiptum.",
+      "pillar1Title": "PoC & MVP frumgerð",
+      "pillar1Desc": "Skilaðu hagnýtum frumgerðum hratt til að sannreyna gildistillögur snemma á lífsferlinum.",
+      "pillar2Title": "Hagkvæmni og staðfesting",
+      "pillar2Desc": "Staðfestu API samhæfni, afköst þröskulda og samræmistakmarkanir í sandkassaumhverfi.",
+      "pillar3Title": "Sveigjanleikamat",
+      "pillar3Desc": "Líktu eftir framleiðsluálagi til að koma á afkastagetumörkum og ákvarða stærð skýjaarkitektúrs.",
+      "pillar4Title": "Staðfesting viðskiptatilvika",
+      "pillar4Desc": "Mældu áþreifanlega arðsemi og framleiðnimælingar til að styðja ákvarðanir um útbreiðslu fyrirtækisins.",
+      "ctaTitle": "Tilbúinn til að staðfesta næstu stafrænu lausn þína?",
+      "ctaSub": "Tengstu við lausnarverkfræðiteymi okkar til að kanna verkefniskröfur þínar, smíða frumgerð og prófa hagkvæmni án áhættu.",
+      "ctaButton": "Bókaðu PoC ráðgjöf"
+    },
+    "sharedServices": {
+      "eyebrow": "Miðstýrð rekstrarmiðstöð",
+      "titlePart1": "Sameiginleg þjónusta &",
+      "titlePart2": "Stýrður rekstur",
+      "description": "Miðstýrð afhending tækni og rekstrargetu þvert á rekstrareiningar með stöðluðum ferlum, hæfum úrræðum, stjórnunarumgjörðum, þjónustustjórnun og mælanlegum þjónustustigum.",
+      "bookDiscovery": "Uppgötvun bókstýrðra aðgerða",
+      "exploreFramework": "Skoða lausnaramma",
+      "coreCapabilities": [
+        "Stýrð þjónusta",
+        "Upplýsingatæknirekstur",
+        "Stuðningur við forrit",
+        "Þjónustustjórnun",
+        "Hagræðing auðlinda",
+        "SLA stjórnun",
+        "Stjórnarhættir",
+        "Stöðugar endurbætur",
+        "Hagræðing kostnaðar"
+      ],
+      "row1Eyebrow": "Sameinað afhendingarmiðstöð",
+      "row1Title": "Stöðluð þjónusta á öllum rekstrareiningum",
+      "row1P1": "Sameinaðu bakskrifstofu upplýsingatækni, innviðastjórnun og tækniaðstoð í eina afkastamikla afhendingarmiðstöð.",
+      "row1P2": "Með því að útrýma tvíteknum kostnaði í teymi og staðla þjónustuafhendingarlíkön tryggir fyrirtækið þitt stöðug gæði og lækkar heildarútgjöld.",
+      "row2Eyebrow": "24/7 SRE & Umsóknarstuðningur",
+      "row2Title": "Fyrirbyggjandi eftirlit og hröð úrlausn atvika",
+      "row2P1": "Sérhæfðir verkfræðingar okkar um áreiðanleika á vefsvæðinu (SRE) og stuðningssérfræðingar veita 24/7/365 fjarmælingarvöktun, sjálfvirka viðvörunarprófun og hraða lausn L1/L2/L3 vandamála.",
+      "row2P2": "Stuðningur af ströngum SLA-skuldbindingum tryggjum við 99,99% framboð á mikilvægum forritum þínum og skýjauppbyggingu.",
+      "row3Eyebrow": "ITIL Stjórnarhættir og samræmi",
+      "row3Title": "Skipulagðir þjónustustjórnunarrammar",
+      "row3P1": "Innleiða leiðandi ITSM staðla (ServiceNow, Jira Service Management) með gagnsæjum miðasölu, rótarsakagreiningum og varnarhandriðum um breytingastjórnun.",
+      "row3P2": "Alhliða endurskoðunarferlar og stjórnunarstefnur tryggja að starfsemi þín sé í samræmi við alþjóðlega öryggisstaðla.",
+      "row4Eyebrow": "FinOps og stöðugar endurbætur",
+      "row4Title": "Fyrirsjáanleg fjárhagsáætlunargerð og hagræðing tilfanga",
+      "row4P1": "Fjarlægðu skýjasóun, fínstilltu stærð tölvunnar og gerðu sjálfvirkt reglubundið rekstrarviðhald með bestu starfsvenjum FinOps.",
+      "row4P2": "Mánaðarlegar gagnsæisskýrslur og afkastagetuspár tryggja stöðuga hagræðingu rekstrarkostnaðar og mikla skilvirkni fjármagns.",
+      "pillarsTitle": "Rekstrarstoðir",
+      "pillarsSub": "Reyndar rekstrarstöng fyrir áreiðanlegan sveigjanleika fyrirtækja.",
+      "pillar1Title": "Stýrður upplýsingatæknirekstur allan sólarhringinn",
+      "pillar1Desc": "Fyrirbyggjandi NOC fjarmæling, lagfæringar á netþjónum, viðhald innviða og 99,99% spennturstryggingar.",
+      "pillar2Title": "ITSM & Þjónustuborð",
+      "pillar2Desc": "Þriðja 1/2/3 fjölrása þjónustuver, leiðsögn atvika og skipulögð verkflæði miðaupplausnar.",
+      "pillar3Title": "SLA & árangursstýring",
+      "pillar3Desc": "Samningsbundinn viðbragðstími, MTTR viðmið og gagnsæ mánaðarleg stjórnsýsluúttekt.",
+      "pillar4Title": "FinOps og kostnaðarhagræðing",
+      "pillar4Desc": "Stöðug tilföng í réttri stærð, endurheimt leyfis og sjálfvirk lækkun skýjakostnaðar.",
+      "ctaTitle": "Tilbúinn til að stækka stýrða starfsemi þína?",
+      "ctaSub": "Samstarf við Rezonants fyrir áreiðanlega, 24/7 stýrða þjónustu sem hámarkar kostnað og kemur í veg fyrir rekstrarstöðvun.",
+      "ctaButton": "Bókaðu ráðgjöf um stjórnað rekstur",
+      "howItWorksHeading": "Sannuð leið til að ná árangri í sameiginlegri þjónustu"
+    },
+    "aiRobotics": {
+      "brand": "gervigreind og vélfærafræði",
+      "eyebrow": "Greind kerfi",
+      "heroHeading": "gervigreind og vélfærafræði vinna saman",
+      "intro": "Gervigreind (AI) og vélfærafræði eru að breyta því hvernig fyrirtæki starfa með því að sameina greindar ákvarðanatöku og háþróaða sjálfvirkni. Gervigreind gerir vélum kleift að greina gögn, læra mynstur og taka snjallar ákvarðanir, en vélfærafræði færir þessa getu inn í líkamlega heiminn til að framkvæma verkefni með hraða, nákvæmni og samkvæmni.",
+      "section1Heading": "Byggt til að hagræða hverri aðgerð",
+      "section1Text": "Gervigreind og vélfærafræði lausnir okkar hjálpa fyrirtækjum að hagræða rekstri, draga úr handvirkri áreynslu og bæta framleiðni í ýmsum atvinnugreinum. Allt frá sjálfvirkni ferla og forspárgreiningar til snjallra vélfærafræði og greindra kerfa, við afhendum nýstárlega tækni sem eykur skilvirkni, eykur vöxt og styður stafræna umbreytingu.",
+      "section2Heading": "Þar sem njósnir mæta aðgerðum",
+      "section2Text": "Sérhver samskipti, ákvörðun og hreyfing er knúin áfram af einu tengdu kerfi - sem breytir gögnum í niðurstöður í rauntíma.",
+      "footerTag": "Nýstárleg tækni fyrir stafræna umbreytingu"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Upplýsinga- og skýrslukerfi",
+      "heroSubtitle": "Ein uppspretta sannleika fyrir hverja deild – byggð til að breyta hráum rekstrargögnum í ákvarðanir sem fyrirtækið þitt getur brugðist við í dag.",
+      "statusLive": "Í BEINNI",
+      "statusAnalyzed": "GREIÐIÐ",
+      "statusArchived": "Í geymslu",
+      "statusPending": "Í bið",
+      "metricUptime": "Spenntur kerfis",
+      "metricSessions": "Virkir fundir",
+      "metricReportsPerDay": "Skýrslur / Dagur",
+      "metricEvents": "Daglegir innteknir viðburðir",
+      "metricReports": "Áætlaðar skýrslur",
+      "metricLatency": "API bið",
+      "unifiedPlatform": "Sameinaður vettvangur",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Reporting Console",
+      "businessOutcome": "Viðskiptaniðurstaða",
+      "section1Heading": "Eitt miðstýrt kerfi fyrir hvern mælikvarða sem skiptir máli",
+      "section1P1": "Upplýsinga- og skýrslukerfi eru nauðsynlegar viðskiptalausnir sem gera fyrirtækjum kleift að safna, stjórna og umbreyta gögnum í þýðingarmikla innsýn. Þessi kerfi samþætta upplýsingar frá mörgum deildum, tryggja nákvæman, samkvæman og rauntíma aðgang að mikilvægum viðskiptagögnum. Með því að bjóða upp á miðlægan vettvang fyrir upplýsingastjórnun geta stofnanir bætt sýnileika í rekstri, hagrætt verkflæði og stutt stefnumótandi ákvarðanatöku á öllum stigum fyrirtækisins.",
+      "section1P2": "Þessi kerfi nota sjálfvirka skýrslugerð, greiningar og mælaborð til að fylgjast með frammistöðu, fylgjast með lykilmælingum og búa til rauntímaskýrslur. Með því að draga úr handvirkri fyrirhöfn og bæta nákvæmni gagna geta fyrirtæki tekið hraðari og skilvirkari ákvarðanir.",
+      "section2Heading": "Byggt fyrir sýnileika, samræmi og umfang",
+      "section2Text": "Með aukinni sýnileika, samræmi og samvinnu gera upplýsinga- og skýrslukerfi fyrirtækjum kleift að hámarka ferla, bæta framleiðni og knýja fram sjálfbæran viðskiptavöxt í samkeppnisumhverfi.",
+      "ctaHeading": "Gefðu hverju liði sömu rauntímamyndina af fyrirtækinu.",
+      "ctaText": "Sjáðu hvernig Nexus Data Systems getur sameinað skýrslugerðina þína í einn greindur vettvang.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Allur réttur áskilinn.",
+      "navOverview": "Yfirlit",
+      "navCapabilities": "Hæfni",
+      "navImpact": "Áhrif",
+      "navContact": "Hafðu samband"
+    },
+    "managedServices": {
+      "subtitle": "Alhliða stýrð þjónusta fyrir fyrirtæki þitt"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Nútímavæða viðskiptaforrit fyrir gagnadrifið fyrirtæki",
+      "excerpt": "Hvernig nútíma forritaarkitektúr og tengd gögn geta bætt rekstrarhagkvæmni, sveigjanleika og sýnileika fyrirtækja.",
+      "tag": "Viðskiptaumbreyting",
+      "category": "VIÐSKIPTI",
+      "summary": "Nútímalegt forrit og gagnagrunnur getur hjálpað fyrirtækjum að bæta rekstrarhagkvæmni, tengja viðskiptakerfi og skapa betri sýnileika í starfsemi þeirra."
+    },
+    "artificial-intelligence": {
+      "title": "Hvernig gervigreind er að endurmóta fyrirtækjaforrit",
+      "excerpt": "Kannaðu hvernig snjöll sjálfvirkni, gervigreind aðstoðarflugmenn og forspárgreind eru að verða hluti af þeim forritum sem fyrirtæki treysta á á hverjum degi.",
+      "tag": "Gervigreind",
+      "category": "GERVIVIÐ",
+      "summary": "Kannaðu hvernig snjöll sjálfvirkni, gervigreind aðstoðarflugmenn og forspárgreind eru að umbreyta hversdagslegum fyrirtækjahugbúnaði í aðlögunarhæfa, fyrirbyggjandi vettvang."
+    },
+    "modern-erp": {
+      "title": "Hraða viðskiptaumbreytingum með nútíma ERP",
+      "excerpt": "Kannaðu hvernig nútímalegir ERP vettvangar tengja saman fjármál, innkaup, aðfangakeðju og viðskiptarekstur í gegnum sameinaðan stafrænan grunn.",
+      "tag": "Nútíma ERP",
+      "category": "NÚTÍMA ERP",
+      "summary": "Nútímalegur ERP vettvangur tengir saman fjármál, innkaup, aðfangakeðju og viðskiptarekstur í sameinað rauntíma rekstrarlíkan."
+    },
+    "cybersecurity": {
+      "title": "Að byggja upp netviðnám í tengdu fyrirtæki",
+      "excerpt": "Kannaðu hvernig stofnanir geta styrkt öryggi, verndað mikilvæg kerfi og undirbúið sig fyrir ógnir í sífellt tengdari umhverfi.",
+      "tag": "Netöryggi",
+      "category": "NETÖRYGGI",
+      "summary": "Eftir því sem fyrirtæki samþætta fleiri skýjakerfi, API og vistkerfi samstarfsaðila, tryggir netviðnám mikilvægar aðgerðir að þær standist nútíma ógnir."
+    },
+    "cloud-modernization": {
+      "title": "Nútímavæðing eldri forrita fyrir skýið",
+      "excerpt": "Kannaðu hagnýta nálgun við að meta, nútímavæða og færa eldri forrit í átt að skalanlegum, öruggum skýjaarkitektúr.",
+      "tag": "Ský og nútímavæðing",
+      "category": "SKÝ OG NÚTÍÐUN",
+      "summary": "Skipulagður, raunhæfur vegvísir til að meta, endurbæta og flytja einhæf fyrirtækiskerfi yfir í teygjanlegan, viðhaldanlegan skýjaarkitektúr."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "VIÐSKIPTI",
+      "title": "Nútímavæða viðskiptaforrit fyrir gagnadrifið fyrirtæki",
+      "subtitle": "Nútímalegt forrit og gagnagrunnur getur hjálpað fyrirtækjum að bæta rekstrarhagkvæmni, tengja viðskiptakerfi og skapa betri sýnileika í starfsemi þeirra.",
+      "date": "september 2026",
+      "readTime": "7 mín lesin",
+      "imageCaption": "Framtakstæknisjónarmið — forritaarkitektúr og tengd gögn",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Viðskiptaforrit",
+          "desc": "Mismunandi eldri CRM, ERP og deildarverkfæri sem keyra í sílóum."
+        },
+        {
+          "title": "Margar gagnaheimildir",
+          "desc": "Brotnar aðgerðatöflur, CSV útdrættir og sérsniðin skema."
+        },
+        {
+          "title": "Ótengdir gagnagrunnar",
+          "desc": "Einangruð staðbundin og ósamræmd gagnageymslur í skýi."
+        },
+        {
+          "title": "Skýrslur og viðskiptanotendur",
+          "desc": "Handvirkar afstemmingar, misvísandi töflureiknar og seinkun á skýrslugjöf."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Viðskiptaforrit",
+          "desc": "Kjarnarekstrarvettvangar og nútímalegt móttækilegt viðmót."
+        },
+        {
+          "title": "API / samþættingarlag",
+          "desc": "Örugg, atburðadrifin API-gátt sem tengir vinnuflæði fyrirtækja."
+        },
+        {
+          "title": "Gagnaþjónusta",
+          "desc": "Sameinuð aðalgagnalíkön, leiðslur og fínstilltar geymsluvélar."
+        },
+        {
+          "title": "Greining og skýrslur",
+          "desc": "Rauntíma fjarmæling, merkingarlíkön og sjálfvirk skýrsla."
+        },
+        {
+          "title": "Viðskiptaákvarðanir",
+          "desc": "Virkar mælaborð í beinni sem veita sameinað sýnileika stjórnenda."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Fyrirtækjaforrit",
+          "purpose": "Viðskiptaferlastjórnun"
+        },
+        {
+          "area": "API",
+          "purpose": "Kerfissamþætting"
+        },
+        {
+          "area": "Gagnasöfn",
+          "purpose": "Skipulögð viðskiptagögn"
+        },
+        {
+          "area": "Gagnasamþætting",
+          "purpose": "Að tengja margar heimildir"
+        },
+        {
+          "area": "Greining",
+          "purpose": "Viðskiptainnsýn"
+        },
+        {
+          "area": "Skýjainnviði",
+          "purpose": "Sveigjanleiki og sveigjanleiki"
+        },
+        {
+          "area": "Vöktun",
+          "purpose": "Áreiðanleiki og frammistaða"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Bættur sýnileiki í rekstri þvert á þvervirkar einingar",
+        "Betri gagnasamkvæmni og ein uppspretta sannleika fyrirtækisins",
+        "Minni handvirk skýrslugerð og sjálfvirk gagnasöfnun",
+        "Bætt afköst forrita og minni biðtími viðskipta",
+        "Auðveldari kerfissamþætting með stöðluðum, öruggum API",
+        "Meiri sveigjanleiki til að styðja við innri vöxt og yfirtökur",
+        "Betri grunnur fyrir framtíðarnýsköpun og upptöku upplýsingaöflunar"
+      ],
+      "keyPerspectivePoints": [
+        "Skilningur á viðskiptaferlum og raunverulegum verkflæði í rekstri",
+        "Að tengja kerfi með áreiðanlegum samþættingarstöðlum",
+        "Að bæta gagnagæði, stjórnunarhætti og aðalgagnalíkön",
+        "Nútímavæða forrit án þess að raska daglegum rekstri",
+        "Að búa til stigstærðan arkitektúr sem hentar fyrir teygjanlegan vöxt",
+        "Gerir betri sýnileika fyrirtækja fyrir fyrirbyggjandi ákvarðanatöku"
+      ],
+      "sec1Eyebrow": "VIÐSKIPTAÁskorunin",
+      "sec1Heading": "Flækjustig í vaxandi fyrirtæki",
+      "sec1Subtext": "Þegar fyrirtæki stækka stækka tæknivistkerfi óhjákvæmilega. Það sem byrjar sem einbeittar lausnir fyrir einstakar deildir getur þróast í flækjuvef ólíkra kerfa.",
+      "sec2Eyebrow": "KERFI ÞRÓUN",
+      "sec2Heading": "Flókið tæknilandslag",
+      "sec2Subtext": "Þegar viðskiptaforrit, gagnagrunnar og rekstrarkerfi þróast sjálfstætt verður upplýsingaflæði sundrað. Að skilja þessa sundrungu er mikilvæga fyrsta skrefið.",
+      "sec3Eyebrow": "TENGDA GERÐIN",
+      "sec3Heading": "Nútímalegur forritaarkitektúr",
+      "sec3Subtext": "Fyrirtæki fara í átt að atburðadrifnum, API-fyrsta arkitektúr þar sem gögn flæða á áreiðanlegan hátt yfir kjarnakerfi og ná til ákvarðanatökumanna í rauntíma.",
+      "sec4Eyebrow": "VIÐSKIPTI OG SÝNNI",
+      "sec4Heading": "Tengd gögn og greining",
+      "sec4Subtext": "Þegar viðskiptaforrit eiga óaðfinnanleg samskipti hætta gögn að vera fylgifiskur skýrslugerðar og verða aðal drifkraftur snerpu í rekstri.",
+      "sec5Eyebrow": "ARKITEKTÚR BLUEPRINT",
+      "sec5Heading": "Tæknisjóður",
+      "sec5Subtext": "Yfirgripsmikil yfirsýn yfir helstu tæknisviðin sem mynda nútímalegan, stigstærðan fyrirtækisgrunn.",
+      "sec6Eyebrow": "EIGINLEGT VERÐI",
+      "sec6Heading": "Viðskiptaáhrif",
+      "sec6Subtext": "Að nútímavæða forritaarkitektúr og tengja sundurliðuð gögn skila áþreifanlegum rekstrarumbótum í stofnuninni.",
+      "ctaHeading": "Tilbúinn til að nútímavæða tækniumhverfið þitt?",
+      "ctaDescription": "Kannaðu hvernig nútímalegur forritaarkitektúr, tengd gögn og stigstærð tækni geta hjálpað fyrirtækjum að bæta skilvirkni og búa sig undir framtíðarvöxt.",
+      "ctaButton": "Talaðu við sérfræðinga okkar",
+      "sec1P1": "Í dæmigerðu fyrirtækjaumhverfi kynnir vöxtur oft margar kynslóðir hugbúnaðar. Fjármál, aðfangakeðja, þjónusta við viðskiptavini og starfsemi á vettvangi starfa oft á aðskildum hugbúnaðarbunkum sem keyptir eru eða smíðaðir á mismunandi tímum. Í gegnum áralanga þróun í rekstri þróa þessi kerfi sín eigin gagnasnið, uppfæra kadensur og samþættingareinkenni.",
+      "sec1P2": "Núningurinn kemur fram í fyrirtækinu í gegnum algenga flöskuhálsa í rekstri:",
+      "sec1List": [
+        {
+          "bold": "Mörg ótengd viðskiptaforrit",
+          "text": "sem krefjast tvítekinnar gagnafærslu og handvirkrar krosstilvísunar."
+        },
+        {
+          "bold": "Ótengdir gagnagrunnar",
+          "text": "starfa án miðstýrðrar stjórnunar eða sameinaðs aðalskrár."
+        },
+        {
+          "bold": "Handvirk skýrslugerð",
+          "text": ", þar sem greiningarteymi eyða dögum í að sauma saman útflutning frekar en að afhjúpa innsýn."
+        },
+        {
+          "bold": "Ósamræmi í gögnum",
+          "text": "þvert á deildir, skapa misvísandi svör við grundvallarspurningum í rekstri."
+        },
+        {
+          "bold": "Viðhaldskostnaður og sveigjanleikamörk forrita",
+          "text": ", þar sem brothætt arfleifð punkt-til-punkt tengingar eiga í erfiðleikum með að styðja við vaxandi viðskiptamagn."
+        }
+      ],
+      "sec1P3": "Til að takast á við þessar áskoranir þarf að skoða tæknilandslagið ekki sem safn einangraðra hugbúnaðarkaupa, heldur sem samtengdan viðskiptavettvang sem er hannaður til að styðja við stefnumótandi lipurð.",
+      "legacyLandscapeBadge": "Eldri grunnlína",
+      "legacyLandscapeTitle": "Brotið upplýsingaflæði",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Gagnasíló",
+          "desc": "Mikilvægar upplýsingar um viðskiptavini, fjármál og birgðahald eru enn föst í deildum, sem kemur í veg fyrir eina heildstæða sýn á starfsemi fyrirtækja."
+        },
+        {
+          "num": "02",
+          "title": "Samþættingargöt",
+          "desc": "Point-to-point tengingar og næturlotuútdrættir skapa leynd, háa bilanatíðni og kostnaðarsöm viðhaldskostnað yfir rekstrarteymi."
+        },
+        {
+          "num": "03",
+          "title": "Seinkaðar upplýsingar",
+          "desc": "Þegar stjórnendur þurfa að bíða dögum saman eftir mánaðarmótum til að skilja frammistöðu, er ákvarðanataka viðbragðsfrek frekar en spá."
+        }
+      ],
+      "modernArchitectureBadge": "Markarkitektúr",
+      "modernArchitectureTitle": "Tengd fyrirtækjaforritalíkan",
+      "sec3P1": "Nútímalegur forritaarkitektúr kemur í stað brothættra punkta til punkta tenginga fyrir lipran, ótengdan grunn. Með því að koma á öflugu API og samþættingarlagi, hafa kerfi samskipti í gegnum stjórnaða, örugga endapunkta á sama tíma og þau varðveita sjálfræði einstakra rekstrareininga.",
+      "sec3P2": "Helstu tæknilegir eiginleikar þessarar byggingarbreytingar eru:",
+      "sec3List": [
+        {
+          "bold": "Nútímavæðing forrita:",
+          "text": "Að aftengja rökfræði kjarnaviðskipta í stigstærða einingaþjónustu."
+        },
+        {
+          "bold": "API samþætting:",
+          "text": "Koma á stöðluðum, skjalfestum viðmótum fyrir samvirkni innanlands og samstarfsaðila."
+        },
+        {
+          "bold": "Gagnasamþætting og hagræðing gagnagrunns:",
+          "text": "Sameinar rekstrargagnaleiðslur með hagræðingu fyrirspurna með mikilli afköstum."
+        },
+        {
+          "bold": "Athugun og öryggi:",
+          "text": "Innleiðing miðlægrar fjarmælinga, endurskoðunarslóða og hlutverkatengdra aðgangsstýringa í allri þjónustu."
+        }
+      ],
+      "sec4P1": "Samþættir gagnagrunnar umbreyta því hvernig forystu- og rekstrarteymi hafa samskipti við upplýsingar. Í stað þess að reiða sig á afturvirkar skýrslur sem sýna hvað gerðist fyrir vikum, fá stofnanir í beinni fjarmælingu á milli rekstrareininga.",
+      "sec4P2": "Tengd gögn og greiningar styðja sjálfbæran viðskiptaafkomu með:",
+      "sec4List": [
+        {
+          "bold": "Sýnileiki í rekstri:",
+          "text": "Stöðugt gagnsæi yfir sölu, birgðahald, uppfyllingu og fjárhagslega frammistöðu."
+        },
+        {
+          "bold": "Hraðari skýrslur:",
+          "text": "Gagnasöfnun á eftirspurn sem útilokar endurteknar handvirkar töflureikna."
+        },
+        {
+          "bold": "Samræmdar upplýsingar:",
+          "text": "Einstakar skilgreiningar fyrir mælikvarða eins og framlegð, lífstíma viðskiptavinar og leiðsluhraða."
+        },
+        {
+          "bold": "Betri viðskiptainnsýn:",
+          "text": "Forspár mynsturgreining sem sýnir áhættu og tækifæri fyrirfram."
+        },
+        {
+          "bold": "Bætt ákvarðanataka:",
+          "text": "Örugg framkvæmdaaðgerð studd af staðfestri gagnaætt og gagnsæi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRÁTÆGLEGT SÝN",
+      "keyPerspectiveTitle": "Nútímavæðing er meira en að skipta um hugbúnað",
+      "keyPerspectiveLead": "Að nútímavæða viðskiptaforrit er ekki einfaldlega að skipta út gömlum hugbúnaði fyrir ný verkfæri. Það er viljandi samræming tækni við hvernig fyrirtækið starfar, mælikvarða og skilar virði."
+    },
+    "artificialIntelligence": {
+      "category": "GERVIVIÐ",
+      "title": "Hvernig gervigreind er að endurmóta fyrirtækjaforrit",
+      "subtitle": "Kannaðu hvernig snjöll sjálfvirkni, gervigreind aðstoðarflugmenn og forspárgreind eru að verða hluti af fyrirtækjaforritum sem fyrirtæki treysta á á hverjum degi.",
+      "date": "september 2026",
+      "readTime": "6 mín lesin",
+      "imageCaption": "Framtakstæknisjónarmið — gervigreind og fyrirtækiskerfi",
+      "aiUseCases": [
+        {
+          "title": "Framboðskeðjuspá",
+          "desc": "Spá um aukna eftirspurn og tafir á flutningum frá sögulegum fjarmælingum birgja."
+        },
+        {
+          "title": "Sjálfvirk endurskoðun reikninga",
+          "desc": "Tekur út línuvörur og pörun á móti innkaupapöntunum án mannlegrar færslu."
+        },
+        {
+          "title": "Greind þjónustuborð",
+          "desc": "Könnun og sjálfvirk úrlausn á Tier-1 upplýsingatækni- og starfsmannabeiðnum starfsmanna."
+        },
+        {
+          "title": "Forvarnir gegn viðskiptavinum",
+          "desc": "Hegðunarklasing sem auðkennir snemma núningsmerki fyrir fyrirbyggjandi útrás."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Hraðari rekstrarákvarðanir knúnar áfram af rauntíma spálíkönum",
+        "Minnkun á endurtekinni gagnavinnslu og handvirkum afstemmingum",
+        "Meiri afköst starfsmanna með samhengisaðstoð aðstoðarflugmanns",
+        "Bætt ánægju viðskiptavina með ofpersónulegri upplifun",
+        "Stöðug sjálfshagræðing ferli byggt á raunverulegri fjarmælingu",
+        "Ræktun eftirfylgni í áhættuhópi með sjálfvirkri skoðun á endurskoðunarskrá"
+      ],
+      "governancePoints": [
+        "Strangur hlutverkatengdur aðgangur sem tryggir að gervigreind líkön leki aldrei viðkvæmum gögnum",
+        "Gagnsæ rökhugsun sem gerir mönnum kleift að skoða mikilvægar aðgerðir",
+        "Stöðugt líkanmat til að verjast ofskynjunum og hlutdrægni",
+        "Ströngir staðlar um uppruna gagna í samræmi við GDPR, SOC 2 og HIPAA",
+        "Stækkunarleiðir manna í lykkju fyrir óvissar jaðarskilyrði"
+      ],
+      "sec1Eyebrow": "Breytingin yfir í innfædda greind",
+      "sec1Heading": "gervigreind í fyrirtækjaforritum",
+      "sec1Subtext": "Gervigreind er að breytast úr tilraunahliðarverkefnum yfir í helstu rekstrarforrit sem fyrirtæki treysta á á hverjum degi.",
+      "sec2Eyebrow": "SJÁLFVERÐI Í STÆRÐA",
+      "sec2Heading": "Greind sjálfvirkni",
+      "sec2Subtext": "Farið lengra en hefðbundin reglubundin forskrift í átt að vitrænum vinnuflæði sem skilja óskipulagt efni, laga sig að afbrigðum og hagræða ferla á kraftmikinn hátt.",
+      "sec3Eyebrow": "INNBYGGÐ AÐSTOÐ",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Gervigreind aðstoðarmenn eru byggðir á skipulagsþekkingu og öryggi fyrirtækja og starfa sem sérhæfðir samstarfsaðilar í daglegu verkflæði fyrirtækja.",
+      "sec4Eyebrow": "FRAMHORÐUR RÖKUR",
+      "sec4Heading": "Forspárgreind",
+      "sec4Subtext": "Umbreyta sögulegum fyrirtækjaskrám og rauntíma rekstrarstraumum í framkvæmdahæfa framsýni.",
+      "sec5Eyebrow": "RAUNVERJAR UMSÓKNIR",
+      "sec5Heading": "Notkunartilvik fyrir gervigreind fyrirtækis",
+      "sec5Subtext": "Hagnýtar leiðir sem leiðandi stofnanir nota gervigreind í gegnum kjarnastarfsemi.",
+      "sec6Eyebrow": "STRÁTÍSKA VERÐI",
+      "sec6Heading": "Hagur fyrirtækja",
+      "sec6Subtext": "Þegar það er útfært af yfirvegun með stýrðum fyrirtækjagögnum, opnar gervigreind umtalsverða eigindlega kosti.",
+      "ctaHeading": "Kannaðu gervigreind tækifæri fyrir fyrirtæki þitt",
+      "ctaDescription": "Uppgötvaðu hvernig snjöll sjálfvirkni, aukaflugmenn fyrirtækja og forspárlíkön geta opnað rekstrarhagkvæmni í kjarnakerfum þínum.",
+      "ctaButton": "Talaðu við sérfræðinga okkar",
+      "sec1P1": "Í mörg ár var gervigreind fyrirtækja meðhöndluð sem ytri hæfileika: líkan sem þjálfað var í einangrun, sandkassasýning eða einangrað spjallbot sem er aðgengilegt í gegnum sérstaka gátt. Í dag hefur hugmyndafræðin breyst í grundvallaratriðum. Gervigreind fyrirtækja með miklum áhrifum er felld beint inn í skráningarkerfin - ERP, CRM, mannauðsvettvangar og aðfangakeðjuvélar þar sem raunveruleg viðskipti eiga sér stað.",
+      "sec1P2": "Þegar upplýsingaöflun starfar inni í skráningarkerfinu erfir hún staðfest öryggismörk fyrirtækisins, gagnalíkön og viðskiptarökfræði. Það býr ekki einfaldlega til almenn svör; það virkar á pöntunum í beinni, túlkar opna stuðningsmiða, samræmir reikninga birgja og aðstoðar starfsmenn í nákvæmlega þeim viðmótum sem þeir fara í á hverjum degi.",
+      "sec1P3": "Þessi umbreyting færir fyrirtækishugbúnað úr óvirkum gagnagrunnum sem bíða eftir ásláttum manna yfir í fyrirbyggjandi vettvang sem sjá fyrir þarfir, gera sjálfvirkan skref og birta tímabærar ráðleggingar.",
+      "sec2P1": "Hefðbundin vélmennaferli sjálfvirkni (RPA) skara fram úr í ákveðinni, endurtekinni skjáskrapun. Hins vegar brotna stíf reglusett þegar eyðublað breytist, óvænt skjalaútlit berst eða undantekning á sér stað. Snjöll sjálfvirkni brúar þessa gjá með því að sameina vitræna rökhugsun og framkvæmd viðskipta:",
+      "sec2List": [
+        {
+          "bold": "Sjálfvirkni verkflæðis:",
+          "text": "Skipuleggja flóknar aðgerðir þvert á deildir, leiðbeina verkefnum sem byggjast á brýni og sögulegum upplausnarleiðum."
+        },
+        {
+          "bold": "Snjöll skjalavinnsla:",
+          "text": "Inntaka ómótaðra PDF-skjala, tölvupósta, sendingarskráa og samninga, umbreyta þeim í skipulögð gagnagrunnsviðskipti."
+        },
+        {
+          "bold": "Snjöll verk sjálfvirkni:",
+          "text": "Sjálfvirk fjölþrepa rekstrarstaðfestingar—svo sem að passa innkaupapantanir við kvittanir og bankayfirlit."
+        },
+        {
+          "bold": "Fínstilling á ferli:",
+          "text": "Stöðugt að greina ferliskrár til að bera kennsl á flöskuhálsa í lotutíma og mæla með markvissum betrumbótum á verkflæði."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "IP",
+          "title": "Upplýsingaleit",
+          "desc": "Merkingarfræðileg sókn yfir dreifðan þekkingargrunn, innra netstefnur, vöruforskriftir og sögulegar miðaupplausnir án þess að giska á lykilorð."
+        },
+        {
+          "icon": "📝",
+          "title": "Skjalasamantekt",
+          "desc": "Tafarlaus eiming á löngum tilboðum, samningum söluaðila, tækniforskriftum og lagabreytingum í framkvæmdatilkynningar og áhættugátlista."
+        },
+        {
+          "icon": "✨",
+          "title": "Myndun efnis",
+          "desc": "Aðstoð við gerð tillagna viðskiptavina, rekstrarskjöl, staðlaðar verklagsreglur (SOPs) og staðlaðar uppfærslur viðskiptavina í samræmi við vörumerkjastaðla."
+        },
+        {
+          "icon": "📈",
+          "title": "Gagnagreining",
+          "desc": "Þýða samtalsfyrirspurnir yfir í flóknar greiningarfyrirspurnir, búa til samantektir á flugritum og draga fram mikilvægar útlínur fyrir forystu."
+        },
+        {
+          "icon": "🔄",
+          "title": "Verkflæði fyrirtækja",
+          "desc": "Að hefja viðskipti beint úr spjallbeiðnum—svo sem að skipuleggja tilföng, búa til miða, uppfæra skrár eða senda inn innkaupabeiðnir."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Aðgangur með hlutverki",
+          "desc": "Að tryggja að viðbrögð aðstoðarflugmanns virða nákvæmlega leyfisstig notenda, halda trúnaðarupplýsingum um fjárhag, starfsmannaskrár og hugverkaréttindi varin."
+        }
+      ],
+      "sec4P1": "Þó að kynslóðarlíkön skara fram úr í skilningi og samsetningu tungumáls, beinist forspárgreind að stærðfræðilegum mynstrum sem eru falin í skipulögðum gagnasettum fyrirtækja. Innbyggð forspárlíkön gera fyrirtækjum kleift að sjá fyrir rekstrarhindranir áður en þær trufla starfsemi:",
+      "sec4List": [
+        {
+          "bold": "Rekstrarspá:",
+          "text": "Spá fyrir um tekjuþróun, birgðahraða og auðlindaþörf með því að búa til árstíðabundnar vísbendingar með rauntíma leiðsluhraða."
+        },
+        {
+          "bold": "Forspárgreining:",
+          "text": "Greining á hættu á viðskiptavinum, skemmdum á viðhaldi og tafir á aðfangakeðjunni á meðan enn er tími til að grípa inn í."
+        },
+        {
+          "bold": "Áhættuauðkenning:",
+          "text": "Að flagga frávikum í fjármálaviðskiptum, fylgniskrám og innkaupamynstri söluaðila áður en þau stigmagnast."
+        },
+        {
+          "bold": "Eftirspurnarspá:",
+          "text": "Samræma söluspár við framleiðslugetu og lagerbirgðir til að vernda veltufé."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STJÓRN FYRIRTÆKJA",
+      "keyPerspectiveTitle": "Traust, eftirlit og handrið",
+      "keyPerspectiveLead": "Gervigreind er aðeins eins áreiðanleg og gagnagrunnurinn undir því og stjórnunarhættir í kringum hann. Sjálfbær upptaka fyrirtækja krefst vísvitandi arkitektúrs:"
+    },
+    "modernErp": {
+      "category": "NÚTÍMA ERP",
+      "title": "Hraða viðskiptaumbreytingum með nútíma ERP",
+      "subtitle": "Kannaðu hvernig nútímalegir ERP vettvangar tengja saman fjármál, innkaup, aðfangakeðju og viðskiptarekstur í gegnum sameinaðan stafrænan grunn.",
+      "date": "ágúst 2026",
+      "readTime": "6 mín lesin",
+      "imageCaption": "Framtakstæknisjónarmið — ERP og tengdur viðskiptarekstur",
+      "connectedFunctions": [
+        {
+          "title": "Fjármálastjórnun",
+          "desc": "Rauntímauppfærslur á fjárhagsbókum, sjálfvirk tekjugreining og samstundis afstemming í mörgum gjaldmiðlum."
+        },
+        {
+          "title": "Aðfangakeðja og vörustjórnun",
+          "desc": "Birgðasýnileiki frá enda til enda, hagræðingu vöruhúsa og fjarmæling á frammistöðu birgja."
+        },
+        {
+          "title": "Mannauður og vinnuafl",
+          "desc": "Sjálfsafgreiðslu starfsmannagáttir, sjálfvirkar launakeyrslur og samþætt líftímaáætlun um hæfileika."
+        },
+        {
+          "title": "Innkaup og innkaup",
+          "desc": "Sjálfvirk innkaupasamþykki, samræmi við samninga seljanda og kraftmikil eyðslugreining."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-native arkitektúr",
+          "desc": "Teygjanleg stærðarstærð án innviða á staðnum eða truflandi útgáfu læsingu."
+        },
+        {
+          "title": "Opið API vistkerfi",
+          "desc": "Forsmíðuð tengi sem gera óaðfinnanlega tvíhliða gagnasamstillingu kleift með sérsniðnum örþjónustum og CRM-svítum."
+        },
+        {
+          "title": "Innbyggð greining",
+          "desc": "Bein niðurfærslu mælaborðs úr efnahagsreikningum á háu stigi yfir í einstakar viðskiptaskrár."
+        },
+        {
+          "title": "Sjálfvirkir verkflæðiskallar",
+          "desc": "Atburðadrifinn atburður kallar fram staðlaðar aðgerðir þvert á deildir sjálfkrafa."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Ein uppspretta sannleika sem kemur í veg fyrir misvísandi skýrslur deilda",
+        "Stórkostleg lækkun á lokunarlotum í lok mánaðar og ársfjórðungs",
+        "Rauntíma birgða- og skipulagssýnileiki sem lágmarkar birgðir",
+        "Minni kostnaður við upplýsingatækniviðhald með skýjauppfærslum sem byggjast á mát",
+        "Samræmd fylgnimæling í fjölsvæða skattaumdæmum",
+        "Hraðari innlimun yfirtekinna aðila í sameiginlega rekstrargrunna"
+      ],
+      "erpStrategyPoints": [
+        "Samræma ERP arkitektúr við kjarna verkflæði fyrir uppsetningu",
+        "Velja mát dreifingarlíkön til að átta sig á hröðum áfangasigrum",
+        "Forgangsraða hágæða aðalgagnaflutningi og afstemmingu",
+        "Innbyggja sjálfvirka breytingastjórnun og hlutverkasniðin þjálfunaráætlanir",
+        "Hanna API gáttir fyrir núningslausa framtíðarsamþættingu"
+      ],
+      "sec1Eyebrow": "REKSTURINN",
+      "sec1Heading": "Hvers vegna nútíma ERP skiptir máli",
+      "sec1Subtext": "ERP er ekki lengur bara bakskrifstofubókhald. Það er rekstrarmódel nútíma fyrirtækis tjáð í hugbúnaði.",
+      "sec2Eyebrow": "SAMANNAÐ VIRKISKERFI",
+      "sec2Heading": "Tengdar viðskiptaaðgerðir",
+      "sec2Subtext": "Raunverulegt skipulagslegt gildi kemur fram þegar kjarnastarfsemi starfa saman á sameiginlegum stafrænum grunni.",
+      "sec3Eyebrow": "ÞVERFUNKAL SAMHÆRNI",
+      "sec3Heading": "Sameinað rekstur og upplýsingaflæði",
+      "sec3Subtext": "Að brjóta niður samskiptaveggi milli deilda til að gera fljótandi, samstillt verkflæði fyrirtækja.",
+      "sec4Eyebrow": "FRAMKVÆMDASTJÓRN",
+      "sec4Heading": "Sýnileiki fyrirtækja í rauntíma",
+      "sec4Subtext": "Að sameina rekstrarmælingar í gagnsæ stjórnendamælaborð sem endurspegla núverandi viðskiptaveruleika.",
+      "sec5Eyebrow": "ARKITEKTÚR KJERNA PLATFORMS",
+      "sec5Heading": "Nútíma ERP-geta",
+      "sec5Subtext": "Byggingareiginleikarnir sem aðskilja nútíma ERP palla frá stífum eldri uppsetningum.",
+      "sec6Eyebrow": "EIGINLEIKAR ÁHRIF",
+      "sec6Heading": "Hagur fyrirtækja",
+      "sec6Subtext": "Að tengja kjarnastarfsemi í sameinaðan stafrænan grunn skilar mælanlegu seiglu skipulagi.",
+      "ctaHeading": "Nútímafærðu fyrirtækisreksturinn þinn",
+      "ctaDescription": "Kannaðu hvernig nútímalegir ERP vettvangar tengja saman fjármál, innkaup, aðfangakeðju og viðskiptarekstur í gegnum sameinaðan stafrænan grunn.",
+      "ctaButton": "Talaðu við sérfræðinga okkar",
+      "sec1P1": "Í fyrirtækjalandslagi sem er á hraðri hreyfingu eiga hefðbundin fyrirtækisáætlunarkerfi oft í erfiðleikum. Eldri ERP-kerfi voru byggð á tímum hópvinnslu og einangraðra staðbundinna netþjóna, mjög sérsniðin, erfið í uppfærslu og sársaukafull ógagnsæ. Mikilvægur viðskiptarekstur virkaði samhliða sílóum og treysti á viðkvæman útflutning á einni nóttu til að samstilla höfuðbækur við vöruhús.",
+      "sec1P2": "Nútímalegt, skýjaætt ERP endurskilgreinir þessa krafta í grundvallaratriðum. Það starfar sem sameinuð stafræn burðarás fyrirtækisins - lifandi grunnur þar sem fjármál, innkaup, aðfangakeðja, birgðahald og mannauður eiga viðskipti á sameiginlegu gagnalíkani.",
+      "sec1P3": "Með því að koma kjarnastarfsemi inn í eitt samræmt umhverfi, útilokar nútímalegt ERP blindu blettina í rekstri sem hægir á vexti, sem gerir leiðtogum kleift að stýra fyrirtækinu með því að nota rauntímamerki frekar en gamaldags sögulegar samantektir.",
+      "sec3P1": "Rekstrarsíló eru sjaldnast vandamál fólks; þau eru byggingarfræðileg vandamál. Þegar þjónustuver, innkaupa- og vöruhúsateymi vinna í ótengdum forritum, krefst hver afhending handvirkra tölvupósta, töflureikna og símtöla. Villur margfaldast, reikningar halda á lofti og skuldbindingar viðskiptavina renna út.",
+      "sec3P2": "Nútíma ERP tekur á þessu með sameinuðum gagnaættum og atburðadrifinni ferlaskipan:",
+      "sec3List": [
+        {
+          "bold": "Samstillt pöntun í reiðufé:",
+          "text": "Þegar pöntun viðskiptavinar er lögð inn, safnast birgðir sjálfkrafa, sendingarmerki mynda og innheimtubókar uppfærast samstundis."
+        },
+        {
+          "bold": "Gagnsæi fyrir kaup til að borga:",
+          "text": "Innkaupapantanir, vörukvittanir og reikningar lánardrottna passa sjálfkrafa við 3-átta afstemmingu, sem merkir aðeins undantekningar vegna mannlegrar skoðunar."
+        },
+        {
+          "bold": "Sameinað vinnuafl og rekstrarkostnaður:",
+          "text": "Verkefnatímaskýrslur, launaúthlutun og bein rekstrarútgjöld kortlagt beint á kostnaðarstaði í rauntíma."
+        }
+      ],
+      "sec4P1": "Að reka fyrirtæki án sameinaðs skyggni er eins og að fljúga í þéttri þoku með seinkun tækja. Nútíma ERP veitir rauntíma fjarmælingu í öllum viðskiptavíddum:",
+      "sec4List": [
+        {
+          "bold": "Stjórnendamælaborð í beinni:",
+          "text": "Tafarlaus yfirsýn yfir framlegð, sjóðstreymi frá rekstri, opnar skuldir og pantanabirgðir án þess að bíða eftir lokun tímabils."
+        },
+        {
+          "bold": "Rekstrarskýrslur í sjálfsafgreiðslu:",
+          "text": "Deildarstjórar geta smíðað sérsniðnar fyrirspurnir og borið niður úr samantektum á fyrirtækisstigi yfir í einstakar færslulínur."
+        },
+        {
+          "bold": "Miðstýrðar aðalupplýsingar:",
+          "text": "Útrýma misvísandi tölum með því að koma á fót stýrðum aðalgögnum fyrir viðskiptavini, söluaðila og vörulista."
+        },
+        {
+          "bold": "Fyrirbyggjandi viðvaranir um frávik:",
+          "text": "Sjálfvirkar viðvaranir láta stjórnendur vita þegar í stað þegar framlegð fer niður fyrir viðmiðunarmörk, birgðahald er lítið eða birgðasendingar renna út."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP UMbreytingarheimspeki",
+      "keyPerspectiveTitle": "Pragmatísk nútímavæðing yfir einlita endurskoðun",
+      "keyPerspectiveLead": "Nútíma ERP umbreyting heppnast þegar stofnanir líta á það sem þróunarlega rekstraruppfærslu frekar en allt-eða-ekkert truflun á upplýsingatækni:"
+    },
+    "cybersecurity": {
+      "category": "NETÖRYGGI",
+      "title": "Byggja upp netviðnám í tengdu fyrirtæki",
+      "subtitle": "Kannaðu hvernig stofnanir geta styrkt öryggi, verndað mikilvæg kerfi og undirbúið sig fyrir ógnir í sífellt tengdari umhverfi.",
+      "date": "september 2026",
+      "readTime": "8 mín lesin",
+      "imageCaption": "Framtakstæknisjónarmið — ógnarvörn og núlltraustsarkitektúr",
+      "incidentReadinessPhases": [
+        {
+          "title": "Fjarmæling og uppgötvun",
+          "desc": "Rauntíma inntaka annála og SIEM fráviksfylgni yfir alla skýendapunkta og vinnuálag."
+        },
+        {
+          "title": "Innilokun og einangrun",
+          "desc": "Sjálfvirkar sóttkvíarreglur fyrir net sem einangra ílát eða skilríki í hættu samstundis."
+        },
+        {
+          "title": "Úrbætur og rót",
+          "desc": "Hröð útfærsla plástra og stafræn réttarrannsókn sem auðkennir nákvæmlega brotsveirann."
+        },
+        {
+          "title": "Seiglu og hersla",
+          "desc": "Stöðug endurgjöf í óbreytanleg öryggisafrit, stefnuvarðar og sjálfvirkar uppgerðir af rauðum liðum."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Veruleg minnkun á varnarleysisárásum á yfirborði skýja",
+        "Tryggt rekstrarsamfellu og hamfarabata með lágmarks RTO/RPO",
+        "Fullkomið samræmisöryggi í endurskoðunum ISO 27001, SOC 2, HIPAA og GDPR",
+        "Vernd hugverkaréttar kjarnafyrirtækis og trúnaðarupplýsingar viðskiptavina",
+        "Straumlínulagað áhættustjórnun söluaðila og þriðja aðila með sameinuðu aðgangsstýringum",
+        "Aukið traust viðskiptavina og fjárfesta stutt af sannreyndum öryggisstillingum án trausts"
+      ],
+      "zeroTrustPrinciples": [
+        "Aldrei treysta, alltaf staðfesta: Skýr auðkenning krafist fyrir hverja færslu",
+        "Aðgangur með minnstu forréttindi: Nákvæm hlutverkamörk sem takmarka hreyfingu hliðarógna",
+        "Gerum ráð fyrir broti: Stöðugt ógnareftirlit, dulkóðun í flutningi og í hvíld",
+        "Örskipting: Eldveggir netkerfis sem einangra vinnuálag einstakra forrita",
+        "Stöðug fjarmæling: Sjálfvirk atferlisgreining sem flaggar afbrigðilegar lotubeiðnir"
+      ],
+      "sec1Eyebrow": "SÆKANDI JAMIÐURINN",
+      "sec1Heading": "Öryggislandslag tengdra fyrirtækja",
+      "sec1Subtext": "Eftir því sem nútíma stofnanir tengja fleiri forrit, skýjaumhverfi, fjarstarfsmenn, fartæki og samstarfsaðila þriðja aðila, hættir hefðbundin öryggisumhverfi að vera til.",
+      "sec2Eyebrow": "ALLAR VÖRN",
+      "sec2Heading": "Marglaga ógnunarvörn",
+      "sec2Subtext": "Fyrirbyggjandi varnir sem standa vörð um mikilvæga innviði, viðkvæm fyrirtækjagögn og rekstrarkerfi.",
+      "sec3Eyebrow": "NÝJU ÖRYGGISLANDAMÆRIN",
+      "sec3Heading": "Identity & Access Management (IAM)",
+      "sec3Subtext": "Sjálfsmynd er grunnstjórnarstig nútíma öryggis. Næstum öll alvarleg öryggisbrot byrja með málamiðlun skilríkjum frekar en hugbúnaðar hetjudáð.",
+      "sec4Eyebrow": "ARKITEKTÚNAÐUR",
+      "sec4Heading": "Afmystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust er ekki ein vara eða tól. Það er arkitektúrstefna sem byggir á einfaldri meginreglu: treystu engum aðila innan eða utan netsins sjálfgefið.",
+      "sec5Eyebrow": "STJÓRNSÝSLA INNBYGGÐAR",
+      "sec5Heading": "Öryggissjónarmið í skýinu",
+      "sec5Subtext": "Að standa vörð um vinnuálag í almenningsskýi, blendingsarkitektúrum og dreifðu gámaumhverfi.",
+      "sec6Eyebrow": "REKSTFRÆÐILEGA",
+      "sec6Heading": "Viðbúnaður til atvika: Beyond Prevention",
+      "sec6Subtext": "Raunhæf netviðnám samþykkir að atvik geti átt sér stað. Viðbúnaður leggur áherslu á hraða innilokun, lágmarks röskun á viðskiptum og staðfestan bata.",
+      "sec7Eyebrow": "STÆTTIÐ GILDI",
+      "sec7Heading": "Hagur fyrirtækja",
+      "sec7Subtext": "Að byggja upp netþolið fyrirtæki verndar skipulagsgildi, reglufestu og orðspor markaðarins.",
+      "ctaHeading": "Styrktu öryggi fyrirtækisins",
+      "ctaDescription": "Kannaðu hvernig stofnanir geta styrkt öryggi, verndað mikilvæg kerfi og undirbúið sig fyrir ógnir í sífellt tengdari umhverfi.",
+      "ctaButton": "Talaðu við sérfræðinga okkar",
+      "sec1P1": "Á tímum upplýsingatækni fyrirtækja var öryggi byggt á kenningu um kastala og mýri: talið var að allt innan skrifstofukerfis fyrirtækisins væri treyst, en allt utan var talið ótraust. Einn eldveggur fyrirtækja varði innri netþjóna, gagnagrunna og borðtölvur.",
+      "sec1P2": "Framtak dagsins í dag hefur vaxið úr líkamlegum veggjum. Vinnuálag er í fjölskýjaumhverfi (AWS, Azure, GCP), starfsmenn fá aðgang að viðskiptaforritum frá ýmsum stöðum og API skiptast stöðugt á viðkvæmum rekstrargögnum við ytri flutningsþjónustuaðila, fjármálastofnanir og SaaS söluaðila.",
+      "sec1P3": "Þó að þessi ofurtenging knýi fram gríðarlega lipurð í viðskiptum, stækkar hún til muna árásaryfirborð fyrirtækisins. Sérhver API endapunktur, auðkennismerki, tengdur farsímabúnaður og SaaS samþætting táknar hugsanlegan útsetningarvektor. Raunveruleg fyrirtækisvernd krefst þess að skipta frá jaðartengdri vörn yfir í fyrirbyggjandi netviðnámsþol frá lokum til enda.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Ógnagreining",
+          "desc": "Vélrænni ógnunaraðstoð sem fylgist með afbrigðilegu netmynstri, misnotkun á skilríkjum og núlldaga varnarleysi í rauntíma."
+        },
+        {
+          "icon": "📡",
+          "title": "Öryggisvöktun",
+          "desc": "Miðstýrð öryggisaðgerðamiðstöð (SOC) fjarmæling sem tengir atburði yfir netþjóna, gámaklasa, auðkennisveitur og endapunkta."
+        },
+        {
+          "icon": "IP",
+          "title": "Varnarleysisstjórnun",
+          "desc": "Stöðug sjálfvirk varnarleysisskönnun þvert á innviði, frumkóðageymslur og gámaskrár til að bæta úr veikleikum með fyrirbyggjandi hætti."
+        },
+        {
+          "icon": "🔒",
+          "title": "Persónuvernd",
+          "desc": "Öflug dulkóðun í flutningi (TLS 1.3) og í kyrrstöðu (AES-256), ásamt kornbundinni gagnatapsvörn (DLP) stjórnsýslu til að koma í veg fyrir leka á hugverkum."
+        }
+      ],
+      "sec3P1": "Til að vernda eignir fyrirtækja þarf að tryggja að sérhver auðkenni – hvort sem það er mannauðsstjóri, utanaðkomandi verktaki eða sjálfstæður hugbúnaðarþjónustureikningur – hafi staðfest heimild fyrir nákvæmlega tilföngin sem hún hefur aðgang að.",
+      "sec3List": [
+        {
+          "bold": "Miðstýrð auðkennisstjórnun:",
+          "text": "Single Sign-On (SSO) og sameinaðir auðkennisstaðlar sem útrýma sundurliðuðum lykilorðageymslum þvert á forrit."
+        },
+        {
+          "bold": "Aðlagandi fjölþátta auðkenning (MFA):",
+          "text": "Vefveiðaþolnir FIDO2 vélbúnaðarlyklar og áhættutengdar samhengisáskoranir fyrir viðkvæmar stjórnunaraðgerðir."
+        },
+        {
+          "bold": "Nákvæm aðgangsstýring:",
+          "text": "Fínn hlutverkatengd (RBAC) og eigindamiðuð (ABAC) aðgangsstýring sem framfylgt er á API- og gagnagrunnsstigi."
+        },
+        {
+          "bold": "Meginreglur um lágmarksréttindi:",
+          "text": "Veitir tímabundinn, bara-í-tíma (JIT) aðgang sem rennur út sjálfkrafa þegar stjórnunarverkefnum lýkur."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NÚLL TRUST KJARNA KENNING",
+      "keyPerspectiveTitle": "Stöðug staðfesting yfir blindu trausti",
+      "keyPerspectiveLead": "Í Zero Trust arkitektúr er óbeint traust byggt á netstaðsetningu algjörlega afnumið. Sérhver viðskipti, gagnagrunnsfyrirspurn og notendainnskráning verða stöðugt að sanna lögmæti þeirra:",
+      "cloudSecurityCards": [
+        {
+          "title": "Sameiginleg ábyrgð",
+          "desc": "Skýr stjórnun sem aðgreinir líkamlegt innviðaöryggi skýjaveitunnar frá ábyrgð fyrirtækisins á dulkóðun gagna, IAM stefnum og forritakóða."
+        },
+        {
+          "title": "Innviði sem kóða (IAC)",
+          "desc": "Óbreytanlegar, endurskoðanlegar skýjastillingar sem stjórnað er með kóða. Sjálfvirkir skannarar með stefnu sem kóða loka fyrir rangstillingar og afhjúpa fötu fyrir uppsetningu."
+        },
+        {
+          "title": "Gáma- og Kubernetes öryggi",
+          "desc": "Hertar keyrslutímar gáma, undirritaðar myndaskrár, örskipting netkerfis og sjálfvirk leyndarstjórnun sem heldur skilríkjum frá upprunageymslum."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "SKÝ OG NÚTÍÐUN",
+      "title": "Nútímavæðing eldri forrita fyrir skýið",
+      "subtitle": "Kannaðu hagnýta nálgun til að meta, nútímavæða og færa eldri forrit í átt að skalanlegum, öruggum skýjaarkitektúrum.",
+      "date": "september 2026",
+      "readTime": "6 mín lesin",
+      "imageCaption": "Framtakstæknisjónarmið — Cloud-Native enduruppbygging og gámavæðing",
+      "modernizationApproaches": [
+        {
+          "title": "Endurgestgjafi (lyfta og færa)",
+          "desc": "Skiptu vinnuálagi hratt yfir í sýndarvélar í skýi með lágmarksbreytingum á kóða."
+        },
+        {
+          "title": "Replatform (lyfta og endurmóta)",
+          "desc": "Uppfærðu keyrslutímaramma, samþykkja stýrða skýjagagnagrunna og hagræða í rekstri."
+        },
+        {
+          "title": "Refactor (Cloud-Native endurbygging)",
+          "desc": "Afbyggja einlita í gáma örþjónustur og atburðadrifnar netþjónalaus API."
+        },
+        {
+          "title": "Skipta út (SaaS nútímavæðing)",
+          "desc": "Hættu við óþarfa eldri kerfum í þágu sérsniðins fyrirtækisskýjahugbúnaðar."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Arfmat",
+          "desc": "Sjálfvirk kortlagning á ósjálfstæði, tæknileg skuldaskráning og stigagjöf fyrir ský."
+        },
+        {
+          "title": "Markarkitektúr",
+          "desc": "Modular smáþjónustuteikningar, gámasvæðifræði og sjálfvirk IaC sniðmát."
+        },
+        {
+          "title": "Áfangaflutningur",
+          "desc": "Kanaríútgáfur, samstillingu gagna með tvöföldum skrifum og stöðvunarbylgjur án niðurtíma."
+        },
+        {
+          "title": "Skýjahagræðing",
+          "desc": "Stöðug kostnaðarstjórnun, sjálfstýrð fjarmæling og FinOps rekstrarendurskoðun."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Verulega lægri kostnaður við viðhald innviða og endurnýjun vélbúnaðar",
+        "Nánast óendanlegur teygjanleiki reiknings sem meðhöndlar hámarksumferð fyrirtækja með núll leynd",
+        "Hraðari losunarhraði með fullkomlega sjálfvirkum CI/CD dreifingarleiðslum",
+        "Útrýming eldri stakra bilunarpunkta með miklu framboði á mörgum AZ",
+        "Nútíma API arkitektúr sem gerir hraðvirka samþættingu samstarfsaðila á milli palla",
+        "Háþróuð rauntíma athugun á frammistöðu forrita og skýjaeyðslu"
+      ],
+      "landscapeAssessmentPoints": [
+        "Kortlagning flókinna ósjálfstæðis milli forrita og gagnasamstillingar",
+        "Að bera kennsl á harðkóðaðar umhverfisstillingar og sérsniðnar gagnagrunnsskemur",
+        "Mat á reglufylgni og takmarkanir á fullveldi gagna eftir lögsögu",
+        "Útreikningur á raunhæfum heildarkostnaði við eignarhald (TCO) þvert á endurhýsingarleiðir á móti endurhýsingarleiðum",
+        "Koma á skýrum útbreiðslubylgjum til að vernda virkan daglegan rekstur"
+      ],
+      "sec1Eyebrow": "VERULEIKUR ELDRA KERFA",
+      "sec1Heading": "Arfleifðaráskorunin",
+      "sec1Subtext": "Öldrunareinkenni hefta nýsköpunarhraða, auka veikleika í rekstri og auka viðhaldskostnað innviða.",
+      "sec2Eyebrow": "MAT OG UPPLÝSINGAR",
+      "sec2Heading": "Skilningur á landslagi forritsins",
+      "sec2Subtext": "Árangursrík nútímavæðing skýja hefst með ströngu mati. Stökk beint inn í flutning án þess að endurskoða ósjálfstæði forrita er aðalorsök seinkaðrar niðurfellingar.",
+      "sec3Eyebrow": "Nútímavæðingarstígarnir 4",
+      "sec3Heading": "Nútímavæðingaraðferðir",
+      "sec3Subtext": "Það er engin ein-stærð sem hentar öllum flutningsaðferðum. Leiðandi fyrirtæki passa rétta nútímavæðingarmynstrið við hvert tiltekið vinnuálag byggt á viðskiptavirði, brýnt og tæknilegum skuldum.",
+      "sec4Eyebrow": "MÁLUM UMbreytingarlíkan",
+      "sec4Heading": "Nútíma skýjaarkitektúr",
+      "sec4Subtext": "Skipulagður vegvísir sem umbreytir eldri einlitum í teygjanlega, örugga og viðhaldshæfa skýjaþjónustu.",
+      "sec5Eyebrow": "UMbreytingarniðurstöður",
+      "sec5Heading": "Helstu kostir nútímavæðingar",
+      "sec5Subtext": "Að færa eldri kerfi yfir í nútíma skýjaarkitektúr skilar áþreifanlegri snerpu í rekstri og fyrirsjáanleika kostnaðar.",
+      "ctaHeading": "Nútímafærðu eldri forritin þín",
+      "ctaDescription": "Kannaðu hagnýta nálgun til að meta, nútímavæða og færa eldri forrit í átt að skalanlegum, öruggum skýjaarkitektúr.",
+      "ctaButton": "Talaðu við sérfræðinga okkar",
+      "sec1P1": "Verkefnismikil forrit sem smíðuð voru fyrir áratug síðan skila enn milljörðum í tekjur fyrirtækja, en samt skapar stífni í byggingarlist vaxandi rekstraráhættu.",
+      "sec1P2": "Sérhvert fyrirtæki stendur frammi fyrir togstreitu milli stöðugleika og nútímavæðingar. Eldri kerfi voru hönnuð fyrir endingu og þau hafa skilað áreiðanlegum árangri í mörg ár. Hins vegar, þegar viðskiptakröfur hraðar, lenda þessi öldrunararkitektúr fyrir burðarvirkjum:",
+      "sec1List": [
+        {
+          "bold": "Öldrunarhugbúnaðarstafla:",
+          "text": "Einhverfa kóðabasar byggðar á úreltum ramma með minnkandi hæfileikahópum sem eru tiltækir til viðhalds."
+        },
+        {
+          "bold": "Erfiðar viðhaldslotur:",
+          "text": "Þétttengdir íhlutir þar sem það er hætta á að ótengdar rekstrareiningar brjóti að breyta einum eiginleika."
+        },
+        {
+          "bold": "Takmarkaður sveigjanleiki:",
+          "text": "Lóðrétt stigstærðarmörk sem krefjast þess að kaupa dýran eigin vélbúnað til að takast á við árstíðabundna umferðarauka."
+        },
+        {
+          "bold": "Samþættingaráskoranir:",
+          "text": "Vanhæfni til að tengjast snurðulaust við nútíma farsímaforrit, viðskiptavinagáttir eða API samstarfsaðila án viðkvæmra lotuforskrifta."
+        },
+        {
+          "bold": "Innviðatakmarkanir:",
+          "text": "Líkamlegt líftíma netþjónaherbergis, öryggisafrit og mikil rekstrarútgjöld fyrir orku/kælingu."
+        }
+      ],
+      "sec2P1": "Raunsæi nútímavæðingarferð hefst með því að koma á algerum skýrleika yfir núverandi búi:",
+      "sec2List": [
+        {
+          "bold": "Forrit:",
+          "text": "Skráning á öllu virku vinnuálagi, sérsniðnum einingum, bakgrunnsskriftum og sögulegum þriðja aðila pakka."
+        },
+        {
+          "bold": "Ósjálfstæði:",
+          "text": "Kortlagning flókinna keyrslutímatengingar, sameiginlegar gagnagrunnstöflur, bein skráakerfissímtöl og ytri þjónustusamningar."
+        },
+        {
+          "bold": "Gögn:",
+          "text": "Mat á gagnaskipulagi, kröfum um heiðarleika viðskipta, öryggisafrit og fullveldisreglur."
+        },
+        {
+          "bold": "Innviði:",
+          "text": "Endurskoðun örgjörva, minnis, geymslunotkunar og netafkösts í samræmi við skýjaforskriftir í réttri stærð."
+        },
+        {
+          "bold": "Viðskiptagagnrýni:",
+          "text": "Flokkun forrita í flokka til að hanna öruggar, sviðsettar flutningsbylgjur með skýrum varaaðferðum."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Kostur:",
+      "cloudArchitectureBadge": "Lífsferill nútímavæðingar",
+      "cloudArchitectureTitle": "Nútímavæðingarflæði skýja frá enda til enda",
+      "sec4P1": "Áfangaarkitektúrinn aftengir kjarnaforrit í eininga, gámaþjónustu sem hýst er á teygjanlegum skýjapöllum (svo sem Kubernetes eða stýrðum netþjónumlausum keyrslutíma).",
+      "sec4P2": "Með því að koma á sjálfvirkum CI/CD dreifingarleiðslum, sjálfvirkum blágrænum klippum og innviðum sem kóða, breytast dreifingar úr taugatrekkjandi helgaratburðum í hnökralausar daglegar venjur.",
+      "sec4P3": "Teygjanlegur reikningur stækkar sjálfkrafa við aukningu á eftirspurn og minnkar við lægð, sem útilokar aðgerðalausan auðlindakostnað á sama tíma og tryggir viðbragðstíma undir sekúndu fyrir alþjóðlega notendur.",
+      "keyPerspectiveEyebrow": "NÚTÍMAVÆÐING BESTU starfsvenjur",
+      "keyPerspectiveTitle": "Fjórar stoðir farsæls fólksflutninga",
+      "keyPerspectiveLead": "Reynslan sýnir að nútímavæðingarverkefni skila árangri þegar þau eru byggð á alhliða undirbúningi, skýrri bylgjuröð og ströngum prófunum:"
+    }
+  }
+}

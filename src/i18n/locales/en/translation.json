@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "products": "Products",
+    "perspectives": "Perspectives",
+    "technologies": "Technologies",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "chooseLanguage": "Choose your language",
+    "searchLanguage": "Search language",
+    "resetEnglish": "Reset to English",
+    "noResults": "No languages found",
+    "englishDefault": "English (Default)",
+    "english": "English"
+  },
+  "hero": {
+    "eyebrow": "REZONANTS - HYDERABAD",
+    "title": "Software, engineered for the way <em>your business</em> runs.",
+    "description": "Rezonants is an IT services and digital products company. We design, build and scale custom software, web and mobile products, cloud infrastructure and AI — for companies that compete on execution.",
+    "bookConsultation": "Book a free consultation",
+    "exploreServices": "Explore services",
+    "years": "years",
+    "projects": "projects",
+    "retention": "retention",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — since 2012",
+    "metaStudio": "Digital product studio",
+    "metaTech": "Web · Mobile · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "Building Digital Solutions <em>That Move Businesses Forward</em>",
+    "description": "Rezonants is a technology solutions company focused on helping businesses transform ideas into meaningful digital experiences. We combine technology, creativity, and business understanding to deliver solutions that are designed around real-world needs.<br /><br />From digital transformation and custom software development to cloud, AI, automation, and managed technology services, we help organizations simplify complexity, improve efficiency, and create lasting digital value.<br /><br /><strong>Our approach is simple — understand the business, solve the right problem, and build technology that delivers.</strong>",
+    "awardWinning": "Award Winning",
+    "awardText": "Recognized for delivery excellence across web and mobile product engineering.",
+    "professionalStaff": "Professional Staff",
+    "staffText": "Senior, accountable engineers who own the work from first call to go-live.",
+    "support247": "24/7 Support",
+    "supportText": "Managed services and a support line that answers when you need it.",
+    "fairPrices": "Fair Prices",
+    "pricesText": "Honest estimates and transparent billing on every single engagement.",
+    "yearsExcellence": "Years of Enterprise Excellence"
+  },
+  "stats": {
+    "happyClients": "Happy clients",
+    "projectsDone": "Projects done",
+    "winAwards": "Win awards"
+  },
+  "insights": {
+    "eyebrow": "Perspectives",
+    "title": "Perspectives",
+    "sub": "Exploring ideas, trends, and technology shaping the future.",
+    "filters": {
+      "all": "All",
+      "digital-transformation": "Digital Transformation",
+      "ai": "AI & Automation",
+      "cloud": "Cloud",
+      "data": "Data & Analytics",
+      "software": "Software",
+      "business": "Business & Technology"
+    },
+    "readMore": "Read More",
+    "close": "Close",
+    "keyTakeaways": "Key Architectural Takeaways",
+    "relatedServices": "Related Capabilities & Services",
+    "minRead": "min read",
+    "item1Date": "Jul 2026",
+    "item1Tag": "Product & ERP",
+    "item1Title": "A modular ERP approach for growing enterprises",
+    "item1Text": "How we structure ERP engagements so finance, inventory, HR and procurement integrate seamlessly without multi-year disruption.",
+    "item2Date": "Jun 2026",
+    "item2Tag": "Artificial Intelligence",
+    "item2Title": "Agentic AI systems: moving from chatbots to autonomous execution",
+    "item2Text": "Architecting coordinated multi-agent LLM systems that plan, validate, and execute complex business workflows with human-in-the-loop oversight.",
+    "item3Date": "May 2026",
+    "item3Tag": "Company Milestone",
+    "item3Title": "Recognized among leading IT innovation studios in Hyderabad",
+    "item3Text": "Our engineering studio has been acknowledged for delivery excellence, deep tech capabilities, and client satisfaction across global product engineering.",
+    "desc": "Explore ideas and perspectives from Rezonants on digital transformation, AI, automation, cloud, data, software, and the future of business technology.",
+    "categories": {
+      "digitalTransformation": "Digital Transformation",
+      "ai": "AI & Automation",
+      "cloud": "Cloud",
+      "data": "Data & Analytics",
+      "software": "Software",
+      "business": "Business & Technology"
+    }
+  },
+  "technologies": {
+    "title": "Technologies & Architecture",
+    "headline": "Enterprise Technology Solutions",
+    "sub": "Intelligent Technology. Automated Operations. Smarter Business.",
+    "selectTechnology": "Select a technology solution…",
+    "options": {
+      "aiRobotics": "AI & Robotics Solutions",
+      "businessAutomation": "Business Automation Solutions",
+      "cloudMigrations": "Cloud Migration Solutions",
+      "dataCenters": "Data Center Solutions",
+      "cognitiveAnalytics": "Cognitive Analytics & AI",
+      "informationReporting": "Information & Reporting Systems",
+      "managedServices": "Managed Services",
+      "oneStopSolutions": "One-Stop Technology Solutions"
+    },
+    "explore": "Explore Technology",
+    "bookDiscovery": "Book Technology Discovery",
+    "exploreAll": "Explore All Technologies",
+    "coreCapabilities": "Core Technology Capabilities",
+    "bookConsultation": "Book a Consultation"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Talk to a senior engineer, not a sales script",
+    "sub": "Share a little about your project and we will respond within one business day.",
+    "reachUs": "Reach us directly",
+    "preferConversation": "Prefer a conversation? We are one call away.",
+    "contactLede": "The fastest way to move forward is a short conversation. Reach us on any channel below, or book a slot and we will come to you prepared.",
+    "phone": "Phone",
+    "email": "Email",
+    "office": "Office",
+    "hours": "Hours",
+    "hoursValue": "Mon – Sat, 9:30 – 18:30 IST",
+    "bookSlot": "Book a consultation slot",
+    "sendMessage": "Send us a message",
+    "fieldsRequired": "Fields marked with * are required.",
+    "fullName": "Full Name *",
+    "emailLabel": "Email *",
+    "company": "Company",
+    "subject": "Subject",
+    "messageLabel": "Message *",
+    "sending": "Sending…",
+    "sendBtn": "Send message",
+    "successMsg": "Message sent! A copy has been emailed to you.",
+    "errorMsg": "Could not save your message. Check that the contact_messages table exists, then try again.",
+    "offices": {
+      "vijayawada": "Vijayawada Office",
+      "southAfrica": "South Africa Office"
+    },
+    "placeholders": {
+      "fullName": "Your full name",
+      "email": "you@company.com",
+      "company": "Your company or organization",
+      "subject": "How can we help?",
+      "message": "Tell us about your project, timeline, and goals..."
+    },
+    "validation": {
+      "fullNameRequired": "Please enter your full name.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "messageRequired": "Please enter a message."
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "What we do",
+    "sub": "From strategy to managed operations, we deliver end-to-end technology partnerships for companies that compete on execution.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Inception To Deployment",
+        "description": "End-to-end development of new digital solutions from business requirements and solution architecture through development, integration, testing, deployment, and ongoing support."
+      },
+      "businessProcessAutomation": {
+        "label": "Business Process Automation",
+        "description": "Design and implementation of intelligent automation solutions that streamline business processes, eliminate repetitive manual activities, improve operational efficiency, and accelerate business outcomes."
+      },
+      "centerOfExcellence": {
+        "label": "Center of Excellence",
+        "description": "Establishment of specialized technology and business capability centers that provide governance, standards, expertise, frameworks, reusable assets, and continuous improvement across the organization."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Custom Development & Customization",
+        "description": "Development and enhancement of applications, platforms, workflows, and enterprise solutions to address unique business requirements and deliver tailored functionality."
+      },
+      "digitalTransformation": {
+        "label": "Digital Transformation",
+        "description": "Modernization of business operations, technology ecosystems, and customer experiences through cloud, AI, automation, data, and modern application technologies."
+      },
+      "endToEndSolutionFramework": {
+        "label": "End-to-End Solution Framework",
+        "description": "A comprehensive delivery approach covering the complete technology lifecycle—from strategy, requirements, and architecture to development, integration, deployment, governance, monitoring, and support."
+      },
+      "migrationModernization": {
+        "label": "Migration & Modernization",
+        "description": "Secure and structured migration of applications, data, platforms, infrastructure, and workloads from legacy or existing environments to modern, scalable, and optimized technology platforms."
+      },
+      "pocPilotImplementation": {
+        "label": "Proof of Concept (PoC) & Pilot Implementation",
+        "description": "Rapid development and validation of technology solutions to assess technical feasibility, business value, integration requirements, performance, and scalability before full-scale implementation."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Shared Services & Managed Operations",
+        "description": "Centralized delivery of technology and operational capabilities across business units through standardized processes, skilled resources, governance frameworks, service management, and measurable service levels."
+      },
+      "customDevelopment": {
+        "label": "Inception To Deployment",
+        "description": "End-to-end development of new digital solutions from business requirements and solution architecture through development, integration, testing, deployment, and ongoing support."
+      },
+      "processAutomation": {
+        "label": "Business Process Automation",
+        "description": "Design and implementation of intelligent automation solutions that streamline business processes, eliminate repetitive manual activities, improve operational efficiency, and accelerate business outcomes."
+      },
+      "solutionEngineering": {
+        "label": "Custom Development & Customization",
+        "description": "Development and enhancement of applications, platforms, workflows, and enterprise solutions to address unique business requirements and deliver tailored functionality."
+      },
+      "endToEndSolutions": {
+        "label": "End-to-End Solution Framework",
+        "description": "A comprehensive delivery approach covering the complete technology lifecycle—from strategy, requirements, and architecture to development, integration, deployment, governance, monitoring, and support."
+      },
+      "migrationServices": {
+        "label": "Migration & Modernization",
+        "description": "Secure and structured migration of applications, data, platforms, infrastructure, and workloads from legacy or existing environments to modern, scalable, and optimized technology platforms."
+      },
+      "pilotPrototyping": {
+        "label": "Proof of Concept (PoC) & Pilot Implementation",
+        "description": "Rapid development and validation of technology solutions to assess technical feasibility, business value, integration requirements, performance, and scalability before full-scale implementation."
+      },
+      "sharedServices": {
+        "label": "Shared Services & Managed Operations",
+        "description": "Centralized delivery of technology and operational capabilities across business units through standardized processes, skilled resources, governance frameworks, service management, and measurable service levels."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Schedule a Consultation",
+      "exploreFramework": "Explore Solution Framework",
+      "talkSeniorEngineer": "Talk to a Senior Engineer",
+      "exploreTechStack": "Explore Technology Stack",
+      "bookPocSession": "Book a PoC Discovery Session",
+      "seeAllServices": "See All Services",
+      "requestAssessment": "Request a Migration Assessment",
+      "exploreCloudSolutions": "Explore Cloud Solutions"
+    },
+    "sharedServices": {
+      "heroBadge": "SHARED SERVICES & MANAGED OPERATIONS",
+      "heroTitle": "Enterprise Shared Services & Managed Operations",
+      "heroDesc": "Scale business capabilities, streamline cross-functional workflows, and achieve operational excellence through standardized, secure, and cost-effective shared service models.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Explore Solution Framework",
+      "coreCapabilities": "Core Capabilities:",
+      "managedServices": "Managed Services",
+      "itOperations": "IT Operations",
+      "appSupport": "Application Support",
+      "serviceManagement": "Service Management",
+      "resourceOptimization": "Resource Optimization",
+      "slaManagement": "SLA Management",
+      "governance": "Governance",
+      "continuousImprovement": "Continuous Improvement",
+      "costOptimization": "Cost Optimization",
+      "readyTitle": "Ready to Optimize Your Operations?",
+      "readyDesc": "Discover how our Shared Services & Managed Operations frameworks can enhance service quality, ensure operational continuity, and drive sustainable cost efficiencies for your enterprise.",
+      "scheduleSession": "Schedule a Discovery Session"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SOLUTION ENGINEERING & ARCHITECTURE",
+      "heroTitle": "Custom Development & Customization",
+      "heroDesc": "Architect, engineer, and deploy high-performance software systems designed specifically for your operational workflows, data pipelines, and scale requirements."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "RAPID INNOVATION & EXPERIMENTATION",
+      "heroTitle": "Proof of Concept (PoC) & Pilot Implementation",
+      "heroDesc": "Validate emerging technologies, de-risk complex architectures, and prove business value with production-grade prototypes in weeks, not quarters."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "LIFECYCLE ARCHITECTURE & DELIVERY",
+      "heroTitle": "End-to-End Solution Framework",
+      "heroDesc": "A unified delivery model connecting product discovery, solution architecture, engineering, cloud infrastructure, and 24/7 reliability operations."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUCTURE & LEGACY MODERNIZATION",
+      "heroTitle": "Migration & Modernization",
+      "heroDesc": "Seamlessly transition legacy workloads, monolithic architectures, and on-premises infrastructure to modern, secure, and scalable cloud platforms."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Enterprise Modernization",
+        "titlePart1": "Digital",
+        "titlePart2": "Transformation",
+        "description": "Modernization of business operations, technology ecosystems, and customer experiences through cloud, AI, automation, data, and modern application technologies.",
+        "bookWorkshop": "Book Transformation Workshop",
+        "exploreFramework": "Explore Solution Framework",
+        "startTransformation": "Start Transformation",
+        "exploreStrategy": "Explore Strategy",
+        "coreCapabilitiesTitle": "Core Capabilities",
+        "coreCapabilities": [
+          "Digital Strategy",
+          "Cloud Transformation",
+          "AI & Automation",
+          "Application Modernization",
+          "Legacy Modernization",
+          "Data & Analytics",
+          "Customer Experience",
+          "Technology Modernization"
+        ],
+        "row1Eyebrow": "Strategy & Roadmap",
+        "row1Title": "From Vision to Executable Roadmap",
+        "row1P1": "We partner with enterprise leaders to define digital strategy, business cases, and phased roadmaps with quick wins and de-risked execution.",
+        "row1P2": "Prioritized initiatives, TCO models, and KPIs ensure every technology modernization effort ties directly to revenue, efficiency, and customer satisfaction outcomes.",
+        "row2Eyebrow": "Legacy Modernization",
+        "row2Title": "Modernize Without Breaking the Business",
+        "row2P1": "Re-platform monoliths to microservices, APIs, and cloud-native patterns with zero-downtime cutovers and automated regression validation.",
+        "row2P2": "We modernize applications, databases, and integration layers while preserving compliance and security posture.",
+        "row3Eyebrow": "Cloud, AI & Data",
+        "row3Title": "Cloud Adoption & Data-Driven Intelligence",
+        "row3P1": "Adopt AWS, Azure, and GCP, build modern data pipelines, and embed machine learning agents to drive autonomous decisions.",
+        "row3P2": "From real-time event streaming to unified dashboards, transformation becomes measurable and sustainable.",
+        "row4Eyebrow": "Customer Experience",
+        "row4Title": "Modern Omnichannel Experiences",
+        "row4P1": "Redesign customer journeys across responsive web, iOS, Android, and self-service portals with personalized interfaces.",
+        "row4P2": "Platform engineering, telemetry, and automated feedback loops make digital innovation continuous.",
+        "pillarsTitle": "Transformation Pillars",
+        "pillarsSub": "Outcome-focused levers that ensure sustainable digital leadership.",
+        "pillar1Title": "Digital Strategy & Governance",
+        "pillar1Desc": "Phased transformation blueprints with business case modeling, architecture governance, and milestone risk tracking.",
+        "pillar2Title": "Cloud & Data Platform",
+        "pillar2Desc": "AWS/Azure/GCP multi-cloud foundations, automated pipelines, and enterprise data analytics enablement.",
+        "pillar3Title": "AI & Automation",
+        "pillar3Desc": "Intelligent process automation, cognitive AI agents, and predictive telemetry to optimize daily operations.",
+        "pillar4Title": "Customer Experience",
+        "pillar4Desc": "High-converting omnichannel digital portals and personalized interfaces built for maximum user retention.",
+        "ctaTitle": "Ready to Transform Your Enterprise?",
+        "ctaSub": "Partner with Rezonants for phased, de-risked digital transformation tied to measurable business outcomes.",
+        "ctaButton": "Book a Digital Transformation Call"
+      },
+      "customDevelopment": {
+        "eyebrow": "End-to-End Digital Engineering",
+        "titlePart1": "Inception To",
+        "titlePart2": "Deployment",
+        "bookConsultation": "Book a Consultation",
+        "exploreEngineering": "Explore Solution Engineering"
+      },
+      "processAutomation": {
+        "eyebrow": "Intelligent Process Operations",
+        "titlePart1": "Business Process",
+        "titlePart2": "Automation",
+        "bookDiscovery": "Book Automation Discovery",
+        "exploreCoE": "Explore Center of Excellence"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Center of",
+        "titlePart2": "Excellence",
+        "bookConsultation": "Book CoE Consultation",
+        "exploreCapabilities": "Explore Capabilities"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Complete Technology Lifecycle",
+        "titlePart1": "End-to-End",
+        "titlePart2": "Solution Framework",
+        "startJourney": "Start Your Lifecycle Journey",
+        "exploreTransformation": "Explore Transformation"
+      },
+      "migrationServices": {
+        "eyebrow": "Cloud & Infrastructure Transformation",
+        "titlePart1": "Migration &",
+        "titlePart2": "Modernization",
+        "planMigration": "Plan Your Migration",
+        "exploreTransformation": "Explore Transformation"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Rapid Validation & Feasibility",
+        "titlePart1": "Proof of Concept (PoC) &",
+        "titlePart2": "Pilot Implementation",
+        "initiateDiscovery": "Initiate PoC Discovery",
+        "exploreDevelopment": "Explore Custom Development"
+      },
+      "solutionEngineering": {
+        "badge": "Tailored Digital Engineering",
+        "bookConsultation": "Book a Consultation",
+        "exploreCapabilities": "Explore Capabilities"
+      },
+      "sharedServices": {
+        "eyebrow": "Centralized Operations Hub",
+        "titlePart1": "Shared Services &",
+        "titlePart2": "Managed Operations",
+        "bookDiscovery": "Book Managed Operations Discovery",
+        "exploreFramework": "Explore Solution Framework"
+      }
+    },
+    "coreCapabilities": "Core Capabilities"
+  },
+  "products": {
+    "featured": "Featured Products",
+    "featuredSub": "Simplify operations, connect teams, automate processes, and drive smarter business growth.",
+    "seeAll": "See All Products",
+    "featuredProducts": "FEATURED PRODUCTS",
+    "meetAutonomous": "Meet the Autonomous Workforce",
+    "meetAutonomousText": "Transform your operations with AI agents that work alongside your team to handle complex, repetitive tasks.",
+    "learnMore": "Learn More",
+    "erp": {
+      "title": "One Platform Ready for Anything",
+      "sub": "Empowering businesses with connected, intelligent, and scalable enterprise management solutions.",
+      "explore": "Explore ERP Solutions",
+      "gridTitle": "ERP SOLUTIONS",
+      "promoTitle": "Modular ERP for Growth",
+      "promoText": "Deploy modular ERP features rapidly without the complexity of traditional multi-year systems.",
+      "scheduleDemo": "Schedule Demo"
+    },
+    "it": {
+      "title": "IT Solutions",
+      "sub": "Enterprise-grade infrastructure, security, and DevOps solutions to keep your business running.",
+      "explore": "Explore IT Solutions",
+      "gridTitle": "IT SOLUTIONS",
+      "promoTitle": "Reliable IT Infrastructure",
+      "promoText": "Build a resilient technology foundation with managed cloud, security, and DevOps services.",
+      "getStarted": "Get Started"
+    },
+    "crm": {
+      "title": "CRM Solutions",
+      "sub": "Customer relationship management to streamline sales, support, and marketing workflows.",
+      "explore": "Explore CRM Solutions",
+      "gridTitle": "CRM SOLUTIONS",
+      "promoTitle": "Close More Deals",
+      "promoText": "Empower your sales and support teams with unified customer data and intelligent automation.",
+      "startTrial": "Start Free Trial"
+    },
+    "hrms": {
+      "title": "HRMS Solutions",
+      "sub": "Human resource management covering payroll, recruitment, performance, and employee engagement.",
+      "explore": "Explore HRMS Solutions",
+      "gridTitle": "HRMS SOLUTIONS",
+      "promoTitle": "Simplify HR Operations",
+      "promoText": "Automate HR workflows from recruitment to retirement with a modern, employee-first platform.",
+      "requestDemo": "Request Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Featured Products",
+      "erpSolutions": "ERP Solutions",
+      "solutions": "SOLUTIONS"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Intelligent autonomous agents and tools that automate complex workflows and customer operations."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Multi-cloud management platform optimizing performance, security, compliance, and costs."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hybrid collaboration and productivity hub with integrated task, chat, and document management."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Real-time analytics engine transforming streams of business events into actionable insights."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Unified enterprise architecture connecting finance, assets, HR, procurement, and inventory."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Employee experience platform covering payroll, benefits, performance reviews, and self-service."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Real-time logistics tracking, automated warehouse operations, and demand forecasting."
+      },
+      "financeHub": {
+        "title": "Finance Hub",
+        "description": "Advanced ledger management, billing workflows, automated compliance, and real-time cashflow reports."
+      },
+      "cloudInfrastructure": {
+        "title": "Cloud Infrastructure",
+        "description": "Scalable cloud architecture, migration, and management across AWS, Azure, and GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "End-to-end security monitoring, threat detection, and compliance management."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD automation, containerization, and infrastructure-as-code for faster delivery."
+      },
+      "managedItServices": {
+        "title": "Managed IT Services",
+        "description": "24/7 infrastructure monitoring, incident response, and proactive maintenance."
+      },
+      "salesCrm": {
+        "title": "Sales CRM",
+        "description": "Pipeline management, lead scoring, deal tracking, and sales forecasting in one platform."
+      },
+      "customerSupportHub": {
+        "title": "Customer Support Hub",
+        "description": "Ticketing, knowledge base, live chat, and omnichannel support management."
+      },
+      "marketingAutomation": {
+        "title": "Marketing Automation",
+        "description": "Campaign orchestration, email automation, lead nurturing, and analytics."
+      },
+      "customer360View": {
+        "title": "Customer 360 View",
+        "description": "Unified customer profiles combining sales, support, and interaction data."
+      },
+      "coreHr": {
+        "title": "Core HR",
+        "description": "Employee records, org hierarchy, leave management, and attendance tracking."
+      },
+      "payrollCompliance": {
+        "title": "Payroll & Compliance",
+        "description": "Automated payroll processing, tax calculations, and statutory compliance."
+      },
+      "performanceManagement": {
+        "title": "Performance Management",
+        "description": "OKR tracking, 360° reviews, goal setting, and employee development plans."
+      },
+      "recruitmentPortal": {
+        "title": "Recruitment Portal",
+        "description": "Job postings, applicant tracking, interview scheduling, and onboarding workflows."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Featured Products",
+        "heading": "Featured Products",
+        "sub": "Simplify operations, connect teams, automate processes, and drive smarter business growth.",
+        "promoTitle": "Meet the Autonomous Workforce",
+        "promoText": "Transform your operations with AI agents that work alongside your team to handle complex, repetitive tasks.",
+        "items": [
+          {
+            "title": "AI Automation & Intelligent Agents",
+            "description": "Automate repetitive tasks and deploy intelligent AI agents that improve productivity, decision-making, and business outcomes."
+          },
+          {
+            "title": "IT Service & Digital Support",
+            "description": "Deliver faster, smarter IT support with streamlined service management, automation, and digital workflows."
+          },
+          {
+            "title": "Enterprise AI Governance",
+            "description": "Build responsible AI adoption with strong governance, security, compliance, transparency, and risk controls."
+          },
+          {
+            "title": "Intelligent IT Operations",
+            "description": "Transform IT operations with AI-driven monitoring, automation, predictive insights, and proactive issue resolution."
+          },
+          {
+            "title": "Customer Experience Management",
+            "description": "Create personalized customer journeys with intelligent engagement, automation, analytics, and seamless digital experiences."
+          },
+          {
+            "title": "Business Strategy & Portfolio Optimization",
+            "description": "Align technology investments with business goals to optimize portfolios, improve efficiency, and drive sustainable growth."
+          },
+          {
+            "title": "IT Asset & Technology Lifecycle",
+            "description": "Manage IT assets throughout their lifecycle with better visibility, automation, cost control, and technology planning."
+          },
+          {
+            "title": "Enterprise Risk & Compliance",
+            "description": "Identify, assess, and manage enterprise risks while strengthening compliance, controls, and organizational resilience."
+          },
+          {
+            "title": "Cybersecurity & Threat Operations",
+            "description": "Protect digital environments with proactive threat detection, security operations, incident response, and continuous monitoring."
+          },
+          {
+            "title": "Field Workforce Automation",
+            "description": "Empower field teams with intelligent scheduling, mobile workflows, automation, and real-time operational visibility."
+          },
+          {
+            "title": "Employee Experience & HR Services",
+            "description": "Simplify employee services with digital workflows, self-service solutions, automation, and personalized employee experiences."
+          },
+          {
+            "title": "Unified Digital Workplace",
+            "description": "Connect people, processes, applications, and collaboration tools through a secure, intelligent, and seamless digital workplace."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP Solutions",
+        "heading": "One Platform, Ready for Anything",
+        "sub": "Empowering businesses with connected, intelligent, and scalable enterprise management solutions.",
+        "promoTitle": "Modular ERP for Growth",
+        "promoText": "Deploy modular ERP features rapidly without the complexity of traditional multi-year systems.",
+        "items": [
+          {
+            "title": "Business Process Automation",
+            "description": "Streamline finance, HR, sales, procurement, and daily operations."
+          },
+          {
+            "title": "Integrated Business Management",
+            "description": "Connect departments, data, and workflows on a unified platform."
+          },
+          {
+            "title": "Finance & Accounting",
+            "description": "Improve financial visibility, reporting, budgeting, and compliance."
+          },
+          {
+            "title": "HR & Payroll",
+            "description": "Simplify employee management, attendance, payroll, and HR processes."
+          },
+          {
+            "title": "Supply Chain Management",
+            "description": "Optimize procurement, inventory, vendors, and logistics."
+          },
+          {
+            "title": "Sales & Customer Management",
+            "description": "Manage leads, customers, orders, and sales performance efficiently."
+          },
+          {
+            "title": "Real-Time Analytics & Reporting",
+            "description": "Turn business data into actionable insights for faster decisions."
+          },
+          {
+            "title": "Cloud ERP Solutions",
+            "description": "Enable secure, scalable, and accessible enterprise management from anywhere."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT Solutions",
+        "heading": "Our IT Solutions",
+        "sub": "Transform IT operations with intelligent, proactive, and scalable digital solutions that improve performance, productivity, and business continuity.",
+        "promoTitle": "Reliable IT Infrastructure",
+        "promoText": "Build a resilient technology foundation with managed cloud, security, and DevOps services.",
+        "items": [
+          {
+            "title": "IT Service Management",
+            "description": "Streamline IT services, incidents, requests, and workflows for faster resolution."
+          },
+          {
+            "title": "IT Operations Management",
+            "description": "Monitor infrastructure and applications with proactive, data-driven IT operations."
+          },
+          {
+            "title": "IT Asset Management",
+            "description": "Manage technology assets efficiently while reducing costs, risks, and lifecycle complexity."
+          },
+          {
+            "title": "Enterprise Architecture",
+            "description": "Align business strategy with the right technology architecture and investments."
+          },
+          {
+            "title": "Cloud Governance",
+            "description": "Improve cloud security, compliance, performance, and cost management."
+          },
+          {
+            "title": "Digital Operations",
+            "description": "Automate IT processes and gain real-time visibility across your technology environment."
+          },
+          {
+            "title": "Observability & Monitoring",
+            "description": "Detect performance issues early and maintain reliable digital experiences."
+          },
+          {
+            "title": "Strategic Portfolio Management",
+            "description": "Connect IT investments with business priorities and measurable outcomes."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM Solutions",
+        "heading": "Our CRM Solutions",
+        "sub": "Deliver connected, personalized, and intelligent customer experiences across the entire customer journey.",
+        "promoTitle": "Close More Deals",
+        "promoText": "Empower your sales and support teams with unified customer data and intelligent automation.",
+        "items": [
+          {
+            "title": "Customer Service Management",
+            "description": "Improve customer support with faster resolution, self-service, and intelligent workflows."
+          },
+          {
+            "title": "Sales Automation",
+            "description": "Automate sales activities, manage leads, and help teams close opportunities faster."
+          },
+          {
+            "title": "Sales & Order Management",
+            "description": "Streamline the journey from lead to order and improve revenue visibility."
+          },
+          {
+            "title": "Field Service Management",
+            "description": "Optimize field operations, scheduling, dispatch, and technician productivity."
+          },
+          {
+            "title": "Customer Experience Management",
+            "description": "Create seamless and personalized experiences across every customer touchpoint."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "Turn customer data into actionable insights for smarter business decisions."
+          },
+          {
+            "title": "Marketing Automation",
+            "description": "Automate campaigns, customer engagement, and lead nurturing."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Use intelligent automation and AI insights to improve productivity and customer engagement."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS Solutions",
+        "heading": "Our HRMS Solutions",
+        "sub": "Empower your workforce with intelligent, integrated, and automated HR solutions that simplify employee management and improve the workplace experience.",
+        "promoTitle": "Simplify HR Operations",
+        "promoText": "Automate HR workflows from recruitment to retirement with a modern, employee-first platform.",
+        "items": [
+          {
+            "title": "Core HR Management",
+            "description": "Manage employee information, organizational structures, and HR processes efficiently."
+          },
+          {
+            "title": "Payroll Management",
+            "description": "Automate payroll, salary processing, deductions, and compliance."
+          },
+          {
+            "title": "Employee Self-Service",
+            "description": "Give employees easy access to HR services, requests, documents, and information."
+          },
+          {
+            "title": "Attendance & Leave Management",
+            "description": "Simplify attendance tracking, leave requests, shifts, and working hours."
+          },
+          {
+            "title": "Recruitment & Onboarding",
+            "description": "Streamline hiring, candidate management, onboarding, and employee integration."
+          },
+          {
+            "title": "Performance Management",
+            "description": "Set goals, track performance, and support continuous employee development."
+          },
+          {
+            "title": "Learning & Development",
+            "description": "Manage training programs, skills development, and employee growth."
+          },
+          {
+            "title": "HR Analytics & Reporting",
+            "description": "Turn workforce data into actionable insights for better HR decisions."
+          },
+          {
+            "title": "AI-Powered HR Automation",
+            "description": "Automate repetitive HR tasks and deliver faster, personalized employee experiences."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "App Development",
+        "heading": "Our App Development Services",
+        "sub": "Build secure, scalable, and high-performance applications that accelerate business growth and simplify complex processes.",
+        "promoTitle": "Build Apps Users Love",
+        "promoText": "From idea to launch, our team designs and develops high-quality mobile and web applications that scale.",
+        "items": [
+          {
+            "title": "Custom Application Development",
+            "description": "Build tailored applications designed around your unique business requirements."
+          },
+          {
+            "title": "Web & Mobile App Development",
+            "description": "Deliver seamless digital experiences across web, mobile, and multiple devices."
+          },
+          {
+            "title": "Enterprise Application Development",
+            "description": "Develop scalable solutions that integrate with your existing business systems."
+          },
+          {
+            "title": "Low-Code & No-Code Development",
+            "description": "Accelerate application delivery with flexible low-code development platforms."
+          },
+          {
+            "title": "API & System Integration",
+            "description": "Connect applications, platforms, and third-party systems for seamless data flow."
+          },
+          {
+            "title": "Application Modernization",
+            "description": "Transform legacy applications into modern, scalable, and efficient solutions."
+          },
+          {
+            "title": "AI-Powered Applications",
+            "description": "Integrate AI, automation, and intelligent capabilities into business applications."
+          },
+          {
+            "title": "Application Support & Maintenance",
+            "description": "Ensure continuous performance, security, updates, and reliability."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Business Automation",
+    "cloudMigrations": "Cloud Migrations",
+    "dataCenters": "Data Centers",
+    "cognitiveAnalyticsAi": "Cognitive Analytics & AI",
+    "informationReportingSystems": "Information & Reporting Systems",
+    "managedServices": "Managed Services",
+    "oneStopSolutions": "One-Stop Solutions"
+  },
+  "servicePage": {
+    "serviceOverview": "Service Overview",
+    "whatWeOffer": "What We Offer",
+    "whyChooseRezonants": "Why Choose Rezonants",
+    "benefitsOfWorking": "Benefits of working with us",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Technologies we use",
+    "ourWork": "Our Work",
+    "relatedProjects": "Related projects",
+    "viewCaseStudy": "View case study",
+    "readyToDiscuss": "Ready to discuss your {{title}} project?",
+    "seniorEngineersReady": "Our senior engineers are ready to help you plan, design, and build your solution.",
+    "startProject": "Start your project",
+    "howItWorks": "How It Works"
+  },
+  "consultation": {
+    "badge": "Book a Free Consultation",
+    "title": "Let's Plan Your Project <span class='hero-accent'>Together</span>",
+    "description": "Schedule a no-obligation call with our consultants. Discuss your requirements, explore the right technical approach and get a clear quote — all in under 30 minutes.",
+    "bookSlot": "Book Your Slot",
+    "howItWorks": "How It Works",
+    "accountRequired": "Account Required",
+    "signInToBook": "Sign in to book your consultation",
+    "accountRequiredText": "You'll need a Rezonants account to request a consultation. Sign in or create one — it takes less than a minute.",
+    "signInToContinue": "Sign In to Continue",
+    "newToRezonants": "New to Rezonants?",
+    "createAccount": "Create an account",
+    "requestMeeting": "Request a Meeting",
+    "tellUsAboutProject": "Tell Us About Your Project",
+    "fillDetails": "Fill in your details and we will confirm your consultation slot by email.",
+    "fullName": "Full Name *",
+    "email": "Email *",
+    "phone": "Phone *",
+    "company": "Company",
+    "serviceOfInterest": "Service of Interest *",
+    "selectService": "Select a service…",
+    "preferredDate": "Preferred Date *",
+    "preferredTime": "Preferred Time *",
+    "selectTimeSlot": "Select a time slot…",
+    "estimatedBudget": "Estimated Budget",
+    "selectRange": "Select a range…",
+    "projectRequirements": "Project Requirements",
+    "booking": "Booking…",
+    "bookFreeConsultation": "Book My Free Consultation",
+    "freeNote": "100% free and no obligation. We normally respond within 24 hours.",
+    "whatToExpect": "What to Expect",
+    "preferToReachUs": "Prefer to Reach Us Directly?",
+    "callUs": "Call us",
+    "emailUs": "Email us",
+    "visitUs": "Visit us",
+    "whyBookWithUs": "Why Book With Us",
+    "freeCallTitle": "A Free Call That Actually Helps",
+    "freeCallNoPressure": "Free Call, No Pressure",
+    "freeCallNoPressureText": "Every first consultation is free. There is no obligation to buy — just honest advice.",
+    "seniorConsultants": "Senior Consultants Only",
+    "seniorConsultantsText": "Your meeting is led by senior engineers and consultants who build for a living.",
+    "clearTimelines": "Clear Timelines & Quotes",
+    "clearTimelinesText": "Leave with a defined next step, realistic timeline and transparent pricing for your project.",
+    "services": {
+      "customSoftware": "Custom Software Development",
+      "webMobile": "Web & Mobile App Development",
+      "cloudDevops": "Cloud & DevOps Solutions",
+      "aiMl": "AI & Machine Learning",
+      "itConsulting": "IT Consulting",
+      "digitalMarketing": "Digital Marketing & SEO",
+      "erpSolutions": "ERP Solutions",
+      "other": "Other / Not sure yet"
+    },
+    "budgets": {
+      "under1L": "Under ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Not decided yet"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Understand your goals",
+        "text": "We listen first. A 30-minute call to map your business needs, audience and desired outcomes."
+      },
+      "technicalDirection": {
+        "title": "Get technical direction",
+        "text": "Our engineers share the right architecture, stack and approach for your project."
+      },
+      "clearQuote": {
+        "title": "Receive a clear quote",
+        "text": "Walk away with a transparent estimate, timeline and next steps — no obligation."
+      }
+    },
+    "validation": {
+      "nameRequired": "Full name is required.",
+      "emailRequired": "Email is required.",
+      "emailInvalid": "Enter a valid email.",
+      "phoneRequired": "Phone number is required.",
+      "phoneInvalid": "Enter a valid phone number.",
+      "serviceRequired": "Please choose a service.",
+      "dateRequired": "Pick a preferred date.",
+      "timeRequired": "Pick a preferred time slot.",
+      "messageTooShort": "Add a little more detail (at least 10 characters).",
+      "signInRequired": "Please sign in to book your consultation.",
+      "couldNotBook": "Could not book your consultation. Check that the consultations table exists, then try again.",
+      "bookedSuccess": "Consultation booked! Our team will confirm your time slot via email shortly."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "createAccount": "Create Account",
+    "forgotPassword": "Forgot Password",
+    "createNewPassword": "Create New Password",
+    "welcomeBackDesc": "Sign in to your Rezonants account.",
+    "createAccountDesc": "Join Rezonants today.",
+    "forgotDesc": "Enter your email and we will send you a link to reset your password.",
+    "recoveryDesc": "Choose a strong new password for your account.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "confirmNewPassword": "Confirm New Password",
+    "forgotPasswordLink": "Forgot password?",
+    "privacyPolicy": "I accept the Rezonants <1>Privacy & Security</1> policy.",
+    "sendResetLink": "Send Reset Link",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "pleaseWait": "Please wait…",
+    "rememberedPassword": "Remembered your password?",
+    "signInLink": "Sign in",
+    "noAccount": "Don't have an account?",
+    "signUpLink": "Sign up",
+    "hasAccount": "Already have an account?",
+    "changedMind": "Changed your mind?",
+    "backToSignIn": "Back to sign in",
+    "resetSent": "Password reset link sent! Check your email to create a new password.",
+    "passwordUpdated": "Your password has been updated. Sign in with your new password.",
+    "accountCreated": "Account created! Check your email to confirm your signup, then sign in.",
+    "validation": {
+      "fullNameRequired": "Full name is required.",
+      "emailRequired": "Email is required.",
+      "emailInvalid": "Enter a valid email.",
+      "passwordRequired": "Password is required.",
+      "passwordMinLength": "Password must be at least 6 characters.",
+      "passwordsNoMatch": "Passwords do not match.",
+      "acceptTerms": "Please accept the Rezonants Privacy Policy and Security Policy to continue."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chat with Rezonants AI",
+    "openChatLabel": "Open the Rezonants AI Assistant chat",
+    "chatTitle": "Rezonants AI Assistant",
+    "online": "Online",
+    "expandLabel": "Expand the chatbot",
+    "minimizeLabel": "Minimize the chatbot",
+    "closeLabel": "Close the chatbot",
+    "expand": "Expand",
+    "minimize": "Minimize",
+    "close": "Close",
+    "popularTopics": "Popular topics",
+    "askPlaceholder": "Ask me about Rezonants...",
+    "messageLabel": "Message the Rezonants AI Assistant",
+    "sendLabel": "Send message",
+    "sendTitle": "Send message",
+    "enterToSend": "Enter to send · Shift+Enter for a new line",
+    "newChat": "New chat",
+    "typing": "Rezonants AI is typing",
+    "menuOptions": "Menu options",
+    "greetingMorning": "Good morning",
+    "greetingAfternoon": "Good afternoon",
+    "greetingEvening": "Good evening",
+    "welcomeText": "! 👋 Welcome to Rezonants.\nI'm the Rezonants AI Assistant. I can help you explore our services, technologies, and contact information."
+  },
+  "cookieConsent": {
+    "title": "We value your privacy",
+    "description": "We use cookies to improve your browsing experience. You can accept all cookies, reject non-essential cookies, or customize your preferences. Essential cookies are always enabled to ensure the website functions correctly.",
+    "acceptAll": "Accept All",
+    "rejectNonEssential": "Reject Non-Essential",
+    "managePreferences": "Manage Preferences",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "cookiePreferences": {
+    "title": "Manage Cookie Preferences",
+    "description": "Choose which categories of cookies you allow. Essential cookies remain enabled to keep the website functioning.",
+    "essential": "Essential",
+    "essentialDesc": "Required for the website to function (authentication, security, load balancing). These cannot be disabled.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Help us understand how visitors use the site so we can improve it. Disabled by default.",
+    "marketing": "Marketing",
+    "marketingDesc": "Used to show you relevant offers and campaigns. Disabled by default.",
+    "cancel": "Cancel",
+    "savePreferences": "Save Preferences"
+  },
+  "privacy": {
+    "badge": "Legal",
+    "title": "Privacy Policy",
+    "description": "How Rezonants collects, uses, and protects your personal information and cookies.",
+    "lastUpdated": "Last updated: August 2026",
+    "managingPreferences": "Managing your preferences",
+    "managingPreferencesDesc": "You can review or change which cookies you allow at any time from the cookie preference panel.",
+    "manageCookiePreferences": "Manage Cookie Preferences",
+    "section1": {
+      "title": "1. Information We Collect",
+      "body": [
+        "We collect information you provide directly (such as your name and email address when you submit the contact form or create an account) and information collected automatically through cookies and similar technologies, such as pages visited, device type and approximate location."
+      ]
+    },
+    "section2": {
+      "title": "2. How We Use Cookies",
+      "body": [
+        "Essential cookies are always enabled because the website cannot function correctly without them. They store session and authentication state and remember your cookie preferences.",
+        "Analytics cookies help us understand how visitors use the site so we can improve it. Marketing cookies are used to show you relevant offers and campaigns. These categories are only enabled with your consent and can be changed at any time from the cookie preference panel."
+      ]
+    },
+    "section3": {
+      "title": "3. Legal Basis (GDPR)",
+      "body": [
+        "We process personal data on the following legal bases: your consent (for non-essential cookies and marketing), performance of a contract (for services you request), legal obligation, and legitimate interests where your rights do not override them. You may withdraw consent at any time without affecting the lawfulness of processing carried out before withdrawal."
+      ]
+    },
+    "section4": {
+      "title": "4. Your Rights",
+      "body": [
+        "Depending on your location, you may have the right to access, rectify, erase, or restrict the processing of your personal data, to object to processing, and to data portability. You may also lodge a complaint with your local supervisory authority."
+      ]
+    },
+    "section5": {
+      "title": "5. Data Retention & Security",
+      "body": [
+        "We retain personal data only as long as necessary for the purposes described in this policy. We apply appropriate technical and organisational measures to protect your information against unauthorised access, alteration, disclosure or destruction."
+      ]
+    },
+    "section6": {
+      "title": "6. Third-Party Services",
+      "body": [
+        "Some cookies may be set by third-party providers (such as analytics or advertising platforms) that help us operate the website. These providers process data under their own privacy policies and only when you have consented to the relevant category."
+      ]
+    },
+    "contactUs": "7. Contact Us",
+    "contactUsText": "For questions about this policy or your personal data, contact us at <1>info@rezonants.com</1> or call <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Services",
+    "title": "Our Services",
+    "sub": "End-to-end technology solutions designed to help businesses innovate, scale, and succeed.",
+    "learnMore": "Learn More",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Inception To Deployment",
+        "text": "From initial concept to production deployment, we deliver scalable solutions built for real-world business needs."
+      },
+      "businessProcessAutomation": {
+        "title": "Business Process Automation",
+        "text": "Streamline repetitive processes and improve operational efficiency through intelligent business automation."
+      },
+      "centerOfExcellence": {
+        "title": "Center of Excellence",
+        "text": "Build specialized technology capabilities and expertise to drive innovation, quality, and continuous improvement."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Custom Development & Customization",
+        "text": "Tailored software solutions designed around your unique business requirements and workflows."
+      },
+      "digitalTransformation": {
+        "title": "Digital Transformation",
+        "text": "Modernize your business with digital strategies, technologies, and solutions that create measurable impact."
+      },
+      "endToEndSolutionFramework": {
+        "title": "End-to-End Solution Framework",
+        "text": "Integrated technology solutions that connect strategy, development, implementation, and ongoing operations."
+      },
+      "migrationModernization": {
+        "title": "Migration & Modernization",
+        "text": "Modernize legacy applications and migrate systems to scalable, secure, and efficient technology platforms."
+      },
+      "pocPilotImplementation": {
+        "title": "Proof of Concept (PoC) & Pilot Implementation",
+        "text": "Validate ideas quickly through focused prototypes and pilot implementations before full-scale deployment."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Shared Services & Managed Operations",
+        "text": "Reliable managed technology operations that improve performance, scalability, and business continuity."
+      }
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About",
+    "perspectives": "Perspectives",
+    "technologies": "Technologies",
+    "contact": "Contact",
+    "services": "Services",
+    "getInTouch": "Get in touch",
+    "bookConsultation": "Book a consultation",
+    "copyright": "© {{year}} Rezonants. All rights reserved.",
+    "cookiePreferences": "Cookie Preferences",
+    "privacyPolicy": "Privacy Policy",
+    "description": "Rezonants is an IT services and digital products company in Hyderabad, India. We design, build and scale software for companies that compete on execution.",
+    "locations": "Our Locations",
+    "indiaHq": "Hyderabad, India — India Headquarters",
+    "southAfrica": "South Africa — REZONANTS PVT LTD",
+    "products": "Products",
+    "followUs": "Follow us",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "headline": "Let's build",
+    "headlineAccent": "what's next.",
+    "subheadline": "Partner with Rezonants to turn ideas into real business impact.",
+    "credoIdeas": "IDEAS",
+    "credoSolutions": "SOLUTIONS",
+    "credoPeople": "PEOPLE",
+    "credoBrighterTomorrow": "A BRIGHTER TOMORROW",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "South Africa – REZONANTS PVT LTD",
+    "termsOfUse": "Terms of Use",
+    "accessibility": "Accessibility",
+    "quickLinks": "Quick Links",
+    "explore": "Explore",
+    "vijayawadaOffice": "Vijayawada Office",
+    "allRightsReserved": "All rights reserved.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "South Africa"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "close": "Close",
+    "backToTop": "Back to top",
+    "skipToContent": "Skip to content",
+    "scroll": "Scroll",
+    "whatWeOffer": "What We Offer",
+    "howItWorks": "How It Works"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Search country or code…",
+    "noResults": "No countries found.",
+    "countryCodeLabel": "Country calling code",
+    "required": "Phone number is required.",
+    "incomplete": "Phone number must contain exactly {{count}} digits.",
+    "tooLong": "Phone number cannot contain more than {{count}} digits.",
+    "invalid": "Enter a valid phone number for {{country}}."
+  },
+  "perspectives": {
+    "topic": "Topic:",
+    "published": "Published:",
+    "readingTime": "Reading Time:",
+    "author": "Author:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Technology Area",
+    "purpose": "Purpose",
+    "talkToExperts": "Talk to Our Experts",
+    "viewAll": "View All Perspectives",
+    "exploreMore": "EXPLORE MORE PERSPECTIVES",
+    "continueExploring": "Continue Exploring Enterprise Technology Insights",
+    "readPerspective": "Read Perspective"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotics Solutions",
+      "tagline": "Intelligent Technology. Automated Operations. Smarter Business.",
+      "heroBadge": "Intelligent Autonomous Systems",
+      "overview": [
+        "Artificial Intelligence and Robotics are transforming the way organizations operate, make decisions, and deliver value. Our AI & Robotics solutions help businesses move beyond traditional automation by combining artificial intelligence, machine learning, computer vision, intelligent process automation, and robotics to solve practical business challenges.",
+        "We design intelligent solutions around measurable business outcomes. Whether the requirement is automating repetitive work, analyzing large volumes of information, detecting patterns, supporting decisions, or introducing robotics into operational environments, our approach focuses on reliability, scalability, security, and long-term business value."
+      ],
+      "transformation": [
+        "Modern organizations generate enormous amounts of data and perform thousands of repetitive activities every day. AI and robotics can transform these activities into intelligent, automated workflows that improve productivity while allowing employees to focus on higher-value responsibilities.",
+        "Our solutions can help organizations automate repetitive operations, reduce manual intervention, improve accuracy, analyze complex information, support faster decisions, optimize resource utilization, enhance customer experiences, and build scalable intelligent systems."
+      ],
+      "capabilities": [
+        {
+          "title": "Artificial Intelligence",
+          "desc": "We develop AI-driven solutions that enable systems to understand information, identify patterns, generate insights, and support business decisions."
+        },
+        {
+          "title": "Machine Learning",
+          "desc": "We develop machine learning models for forecasting, classification, recommendation systems, anomaly detection, predictive analysis, and intelligent decision support."
+        },
+        {
+          "title": "Natural Language Processing",
+          "desc": "NLP can be used to process documents, understand text, classify information, extract relevant content, and support conversational applications."
+        },
+        {
+          "title": "Computer Vision",
+          "desc": "Computer vision solutions can support image classification, object detection, quality inspection, document processing, visual monitoring, and video analytics."
+        },
+        {
+          "title": "Robotics",
+          "desc": "Robotics combines software intelligence with physical systems to automate activities that traditionally require manual effort. Applications can include manufacturing, logistics, warehousing, inspection, material handling, and operational support."
+        },
+        {
+          "title": "Intelligent Process Automation",
+          "desc": "AI can be combined with workflow automation to create systems that interpret information, apply business rules or models, and initiate the appropriate process automatically."
+        }
+      ],
+      "lifecycleSteps": [
+        "Business Assessment",
+        "Data Analysis",
+        "AI Strategy",
+        "Solution Architecture",
+        "Development",
+        "Integration",
+        "Testing",
+        "Deployment",
+        "Monitoring",
+        "Optimization"
+      ],
+      "benefits": [
+        "Higher enterprise operational productivity",
+        "Substantial reduction in operational costs",
+        "Faster processing and millisecond decision turnaround",
+        "Improved data and workflow accuracy",
+        "Optimized physical and computational resource utilization",
+        "Reduced operational risks and human error",
+        "Seamless multi-platform scalability",
+        "Enhanced customer and employee experiences"
+      ],
+      "security": "Enterprise AI solutions must be designed with appropriate security, access controls, data protection, monitoring, model governance, and operational safeguards. We consider these requirements from the architecture stage through deployment and ongoing maintenance to ensure dependable, production-grade intelligence.",
+      "ctaHeadline": "Build an Intelligent Future",
+      "ctaSub": "Make your operations smarter. Automate what matters. Build for the future."
+    },
+    "business-automation-solutions": {
+      "title": "Business Automation Solutions",
+      "tagline": "Simplify Processes. Eliminate Repetition. Accelerate Growth.",
+      "heroBadge": "End-to-End Workflow Optimization",
+      "overview": [
+        "Business automation enables organizations to replace repetitive manual activities with streamlined digital workflows. Our business automation solutions help companies improve productivity, reduce operational complexity, minimize errors, and create consistent processes across departments.",
+        "We analyze existing workflows, identify bottlenecks, and design automation solutions that connect people, applications, data, and business processes."
+      ],
+      "transformation": [
+        "Many organizations still depend on spreadsheets, emails, manual approvals, repetitive data entry, document handling, and disconnected applications. These processes consume valuable employee time and can introduce delays, inconsistencies, and errors.",
+        "Our automation approach focuses on understanding the complete process, removing unnecessary steps, integrating systems, and automating the activities that provide the greatest operational value."
+      ],
+      "capabilities": [
+        {
+          "title": "Workflow Automation",
+          "desc": "We automate multi-step processes involving employees, applications, approvals, notifications, and data across disparate departments."
+        },
+        {
+          "title": "Robotic Process Automation",
+          "desc": "Software bots can perform repetitive, rule-based activities such as data entry, system updates, reconciliation, and information transfer."
+        },
+        {
+          "title": "Document Automation",
+          "desc": "Automated document workflows can extract information, validate data, classify documents, route requests, and initiate downstream processes."
+        },
+        {
+          "title": "Approval Automation",
+          "desc": "Digital approval workflows automatically route requests to the correct decision-makers and provide real-time visibility into pending actions."
+        },
+        {
+          "title": "Integration Automation",
+          "desc": "We connect business applications so information can move automatically between platforms without unnecessary manual intervention."
+        },
+        {
+          "title": "Notification Automation",
+          "desc": "Automated alerts and notifications help employees respond instantly to important events, deadlines, exceptions, and operational changes."
+        }
+      ],
+      "lifecycleSteps": [
+        "Discover",
+        "Analyze",
+        "Design",
+        "Automate",
+        "Integrate",
+        "Test",
+        "Deploy",
+        "Monitor",
+        "Optimize"
+      ],
+      "benefits": [
+        "Increased team throughput and operational velocity",
+        "Dramatic reduction in manual data entry errors",
+        "Shortened end-to-end process turnaround times",
+        "Unified visibility across business operations",
+        "Standardized cross-departmental compliance",
+        "Significantly reduced operating expenditures",
+        "Elastic capacity to scale workloads effortlessly",
+        "Empowered teams focused on customer engagement and strategic work"
+      ],
+      "security": "We combine workflow platforms and RPA with intelligent context-aware models to ensure role-based access control, comprehensive audit trails, and strict compliance across every automated transaction.",
+      "ctaHeadline": "Build More Efficient Operations",
+      "ctaSub": "Automate repetitive work. Empower your people. Accelerate your business."
+    },
+    "cloud-migration-solutions": {
+      "title": "Cloud Migration Solutions",
+      "tagline": "Move to the Cloud with Confidence.",
+      "heroBadge": "Multi-Cloud Transformation",
+      "overview": [
+        "Cloud computing has become a critical component of modern IT infrastructure. Organizations are moving applications, databases, workloads, and infrastructure to cloud environments to improve scalability, availability, flexibility, and operational efficiency.",
+        "Our cloud migration services help organizations assess their current environments, define migration strategies, execute migrations, and optimize workloads after they move to the cloud."
+      ],
+      "transformation": [
+        "Cloud migration is more than moving servers from one environment to another. A successful migration requires careful assessment of applications, infrastructure, dependencies, security requirements, data, performance, availability, and business continuity.",
+        "We create migration strategies based on the organization’s current environment and future objectives, selecting the appropriate migration pattern for each workload."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastructure Migration",
+          "desc": "We migrate traditional servers, storage, virtual machines, and workloads into modern cloud environments on AWS, Azure, and GCP."
+        },
+        {
+          "title": "Application Migration",
+          "desc": "Applications can be rehosted, replatformed, refactored, or redesigned depending on business and technical requirements."
+        },
+        {
+          "title": "Database Migration",
+          "desc": "We migrate databases while considering data integrity, performance, compatibility, availability, security, and recovery requirements."
+        },
+        {
+          "title": "Cloud Modernization",
+          "desc": "Migration becomes an opportunity to modernize applications using containers, microservices, managed databases, serverless services, and cloud-native architectures."
+        },
+        {
+          "title": "Hybrid Cloud",
+          "desc": "Organizations that need both on-premises and cloud infrastructure can adopt hybrid architectures that seamlessly connect existing systems with cloud services."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "For organizations operating across multiple cloud platforms, we help design workload strategies that improve flexibility, resilience, and governance."
+        }
+      ],
+      "lifecycleSteps": [
+        "Assessment",
+        "Discovery",
+        "Dependency Mapping",
+        "Migration Strategy",
+        "Architecture Design",
+        "Pilot Migration",
+        "Data Migration",
+        "Application Migration",
+        "Testing",
+        "Production Migration",
+        "Optimization"
+      ],
+      "benefits": [
+        "Elastic scalability and high resource availability",
+        "Greater infrastructure flexibility and business agility",
+        "Eliminated physical datacenter maintenance burden",
+        "Accelerated application feature deployment",
+        "Robust disaster recovery and backup resilience",
+        "Immediate access to modern cloud AI and managed services",
+        "Optimized FinOps governance and TCO reduction",
+        "Continuous compliance and automated security guardrails"
+      ],
+      "security": "Security is an integral part of migration planning. We consider identity and access management, network security, encryption in-transit and at-rest, data protection, application vulnerability audits, monitoring, backup, and disaster recovery.",
+      "ctaHeadline": "Your Cloud Journey, Properly Planned",
+      "ctaSub": "Modernize your infrastructure. Accelerate innovation. Build a scalable cloud foundation."
+    },
+    "data-center-solutions": {
+      "title": "Data Center Solutions",
+      "tagline": "Reliable Infrastructure for Mission-Critical Operations.",
+      "heroBadge": "Mission-Critical Infrastructure",
+      "overview": [
+        "Data centers form the foundation of modern digital businesses. Applications, databases, enterprise systems, communication platforms, and critical business services depend on reliable infrastructure.",
+        "Our data center solutions focus on designing, modernizing, managing, and optimizing infrastructure environments built for availability, security, scalability, performance, and operational efficiency."
+      ],
+      "transformation": [
+        "A modern data center requires more than servers and storage. It requires carefully engineered infrastructure across computing, networking, security, power, cooling, monitoring, backup, and disaster recovery.",
+        "We help organizations create resilient infrastructure environments that support critical workloads and provide a foundation for future technology growth."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastructure Design",
+          "desc": "We design environments based on workload requirements, capacity, performance, availability, security, and future growth."
+        },
+        {
+          "title": "Server Infrastructure",
+          "desc": "We support physical and virtual server environments for mission-critical enterprise applications and workloads."
+        },
+        {
+          "title": "Storage Solutions",
+          "desc": "We consider performance, capacity, redundancy, high-speed SAN/NAS, backup, and data protection requirements when designing storage environments."
+        },
+        {
+          "title": "Network Infrastructure",
+          "desc": "We design network environments with appropriate segmentation, redundancy, low-latency performance, connectivity, and security controls."
+        },
+        {
+          "title": "Virtualization",
+          "desc": "Virtualization improves resource utilization, workload flexibility, and centralized infrastructure management."
+        },
+        {
+          "title": "Backup & Disaster Recovery",
+          "desc": "We help organizations establish backup strategies and recovery architectures designed to minimize downtime and eliminate data loss."
+        }
+      ],
+      "lifecycleSteps": [
+        "Capacity Assessment",
+        "Workload Profiling",
+        "Architecture Blueprint",
+        "Hardware & Virtual Sizing",
+        "Network Segmentation",
+        "Storage Provisioning",
+        "Redundancy & DR Testing",
+        "Production Cutover",
+        "24/7 Health Monitoring",
+        "Continuous Optimization"
+      ],
+      "benefits": [
+        "Guaranteed 99.999% infrastructure uptime",
+        "Zero single points of failure with multi-layered redundancy",
+        "Optimized server compute and high-density virtualization",
+        "Sub-millisecond low-latency networking architectures",
+        "Hardened physical and digital perimeter security",
+        "Proactive monitoring and automated failure failovers",
+        "Scalable modular storage for petabyte-scale data",
+        "Predictable total cost of ownership and power efficiency"
+      ],
+      "security": "Security is integrated across the infrastructure layer, covering network micro-segmentation, hardware root-of-trust, zero-trust access controls, continuous vulnerability audits, endpoint defense, and strict operational policies.",
+      "ctaHeadline": "Future-Ready Infrastructure",
+      "ctaSub": "Build reliable infrastructure today. Create the foundation for tomorrow's technology."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Cognitive Analytics & AI",
+      "tagline": "Turn Data into Intelligence.",
+      "heroBadge": "Data-to-Decision Intelligence",
+      "overview": [
+        "Organizations generate enormous amounts of information through applications, transactions, customers, operations, devices, and digital platforms. The challenge is no longer simply collecting data; it is understanding that data and turning it into actionable intelligence.",
+        "Our Cognitive Analytics & AI solutions combine advanced analytics, machine learning, artificial intelligence, data processing, and business intelligence to help organizations make better decisions."
+      ],
+      "transformation": [
+        "Traditional reporting tells organizations what happened. Advanced analytics can help explain why it happened, identify what may happen next, and support decisions about what should happen.",
+        "We help organizations establish data environments that move beyond static reporting toward intelligent analysis and decision support."
+      ],
+      "capabilities": [
+        {
+          "title": "Descriptive Analytics",
+          "desc": "Understand historical performance through interactive reports, multidimensional dashboards, KPIs, and business metrics."
+        },
+        {
+          "title": "Diagnostic Analytics",
+          "desc": "Identify underlying relationships, trends, statistical anomalies, and root causes behind business outcomes."
+        },
+        {
+          "title": "Predictive Analytics",
+          "desc": "Use historical and real-time streaming data with statistical models to identify potential future outcomes and demands."
+        },
+        {
+          "title": "Prescriptive Analytics",
+          "desc": "Evaluate possible actions and support optimal decision pathways based on predicted outcomes and strategic business objectives."
+        },
+        {
+          "title": "Machine Learning Models",
+          "desc": "Develop custom models for forecasting, customer classification, recommendations, fraud anomaly detection, and predictive maintenance."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Apply cognitive AI to massive volumes of unstructured information to surface hidden patterns, executive summaries, and recommendations."
+        }
+      ],
+      "lifecycleSteps": [
+        "Data Sources",
+        "Data Integration",
+        "Data Processing",
+        "Data Storage",
+        "Analytics",
+        "AI/ML Models",
+        "Visualization",
+        "Business Decisions"
+      ],
+      "benefits": [
+        "Fact-based, data-driven executive decision making",
+        "Accurate demand, revenue, and churn forecasting",
+        "Real-time anomaly and fraud detection",
+        "Deep 360° customer behavior insights and personalization",
+        "Optimized supply chain and operational efficiency",
+        "Mitigated operational and financial risk",
+        "Discovery of hidden revenue opportunities",
+        "Accelerated time-to-insight across business units"
+      ],
+      "security": "Our analytics ecosystems implement end-to-end encryption, automated data masking, strict RBAC permissions, and model governance to safeguard proprietary data and maintain regulatory compliance (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Build an Intelligent Data Strategy",
+      "ctaSub": "Turn information into insight. Turn insight into action."
+    },
+    "information-reporting-systems": {
+      "title": "Information & Reporting Systems",
+      "tagline": "The Right Information. At the Right Time. For Better Decisions.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Business leaders and operational teams depend on accurate information to make effective decisions. Our Information & Reporting Systems help organizations collect, organize, analyze, and present business information through structured information systems, reporting platforms, dashboards, and automated reporting workflows.",
+        "Organizations often have information distributed across applications, spreadsheets, databases, and operational systems. This makes it difficult to establish a consistent view of business performance. We help integrate information sources into structured reporting environments that provide reliable, accessible, and consistent business information."
+      ],
+      "transformation": [
+        "A reporting system should not simply display numbers. It should help users understand performance, identify problems, discover opportunities, and make informed decisions.",
+        "We design reporting environments around the way your organization operates, delivering structured data-to-decision ecosystems tailored for all management tiers."
+      ],
+      "capabilities": [
+        {
+          "title": "Management Information Systems (MIS)",
+          "desc": "Develop unified information systems that provide executive management with relevant operational and strategic visibility."
+        },
+        {
+          "title": "Business Reporting",
+          "desc": "Transform raw business data from multiple channels into structured, standardized reports that monitor performance continuously."
+        },
+        {
+          "title": "Interactive Dashboards",
+          "desc": "Provide real-time or scheduled interactive visibility into critical business metrics, KPIs, trends, and departmental activities."
+        },
+        {
+          "title": "KPI Management",
+          "desc": "Define, track, and benchmark meaningful operational KPIs aligned directly with overarching enterprise growth targets."
+        },
+        {
+          "title": "Data Integration",
+          "desc": "Integrate distributed data sources into unified data warehouses and semantic layers for consistent single-pane-of-glass reporting."
+        },
+        {
+          "title": "Automated Reporting",
+          "desc": "Automatically generate and distribute personalized reports according to predefined schedules, business rules, and recipient hierarchies."
+        }
+      ],
+      "lifecycleSteps": [
+        "Business Systems",
+        "Data Collection",
+        "Data Integration",
+        "Data Processing",
+        "Data Repository",
+        "Analytics",
+        "Reports & Dashboards"
+      ],
+      "benefits": [
+        "Single source of truth across the entire enterprise",
+        "Faster access to real-time operational metrics",
+        "Complete elimination of manual spreadsheet assembly",
+        "Consistent, reconciled cross-departmental KPIs",
+        "Superior executive oversight and auditability",
+        "Automated distribution directly to stakeholders",
+        "Granular row-level data security and permissions",
+        "Enhanced agility to respond to operational anomalies"
+      ],
+      "security": "Business information can contain sensitive operational, financial, and customer data. Our reporting solutions embed multi-factor authentication, granular role-based authorization, encryption, and audit logs into the reporting architecture.",
+      "ctaHeadline": "Reporting That Supports Growth",
+      "ctaSub": "Make information accessible. Make performance visible. Make better decisions."
+    },
+    "managed-services": {
+      "title": "Managed Services",
+      "tagline": "Reliable Technology Operations. Expert Support. Continuous Improvement.",
+      "heroBadge": "24/7 IT Operations & Support",
+      "overview": [
+        "Modern IT environments are complex and constantly changing. Organizations need reliable infrastructure, applications, networks, security, monitoring, and technical support to keep business operations running.",
+        "Our Managed Services provide ongoing technology management and operational support, allowing organizations to maintain dependable IT environments while internal teams focus on strategic initiatives."
+      ],
+      "transformation": [
+        "Traditional IT support often focuses on resolving problems after they occur. Managed services take a proactive approach by continuously monitoring infrastructure, applications, systems, and operational environments.",
+        "This approach helps identify potential issues early, maintain performance, improve availability, and reduce avoidable operational disruption."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastructure Management",
+          "desc": "Support the ongoing operation, patching, and management of servers, storage, virtualization platforms, and infrastructure."
+        },
+        {
+          "title": "Cloud Management",
+          "desc": "Manage cloud workloads, multi-cloud resources, configurations, monitoring, performance, and FinOps optimization."
+        },
+        {
+          "title": "Network Management",
+          "desc": "Provide 24/7 monitoring, performance management, configuration support, SD-WAN optimization, and network issue resolution."
+        },
+        {
+          "title": "Application Management",
+          "desc": "Support critical application environments through proactive monitoring, maintenance, bug resolution, and operational upgrades."
+        },
+        {
+          "title": "Monitoring & Observability",
+          "desc": "Provide comprehensive real-time visibility into system health, latency, uptime, infrastructure dependencies, and alerts."
+        },
+        {
+          "title": "Backup & Recovery Management",
+          "desc": "Maintain automated backup schedules, test failovers regularly, and ensure instant recovery capabilities."
+        },
+        {
+          "title": "Security Operations (SecOps)",
+          "desc": "Provide continuous security monitoring, patch management, access control enforcement, and proactive threat mitigation."
+        }
+      ],
+      "lifecycleSteps": [
+        "Environment Onboarding",
+        "Discovery & Baseline",
+        "Telemetry Integration",
+        "SLA Definition",
+        "24/7 Active Monitoring",
+        "Incident Classification",
+        "Rapid Resolution",
+        "Root Cause Analysis",
+        "Preventive Engineering",
+        "Continuous Optimization"
+      ],
+      "benefits": [
+        "Significantly reduced internal operational burden",
+        "Proactive issue detection before users are impacted",
+        "Guaranteed 99.99% system availability and uptime",
+        "Predictable, transparent IT operational budgeting",
+        "Immediate access to senior engineering specialists",
+        "Rapid SLA-backed incident response times",
+        "Automated disaster recovery and business continuity",
+        "Continuous technology optimization and modernization"
+      ],
+      "security": "Our managed operations adhere to strict ITIL and ISO frameworks, ensuring encrypted access, isolated audit logs, least-privilege credential vaulting, and compliance alignment across every managed resource.",
+      "ctaHeadline": "Continuous Improvement",
+      "ctaSub": "You focus on your business. We help keep your technology running."
+    },
+    "one-stop-technology-solutions": {
+      "title": "One-Stop Technology Solutions",
+      "tagline": "One Technology Partner. Multiple Capabilities. Complete Business Solutions.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Organizations often work with multiple technology providers for infrastructure, cloud, applications, automation, analytics, security, support, and digital transformation. Managing multiple vendors can create complexity, communication gaps, duplicated effort, and fragmented technology environments.",
+        "Our One-Stop Technology Solutions approach brings multiple capabilities together under a unified service model, helping organizations plan, implement, integrate, operate, and continuously improve their technology environment."
+      ],
+      "transformation": [
+        "We support the complete technology lifecycle—from understanding business requirements and defining a technology strategy to designing solutions, implementing platforms, integrating systems, deploying applications, monitoring environments, and providing ongoing support.",
+        "The objective is to create a connected technology ecosystem rather than isolated solutions."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategy & Architecture",
+          "desc": "Understand business objectives and design scalable, secure, and maintainable technology architectures."
+        },
+        {
+          "title": "Implementation & Build",
+          "desc": "Implement applications, infrastructure, integrations, automation, and digital platforms with enterprise rigor."
+        },
+        {
+          "title": "System Integration",
+          "desc": "Connect systems and applications so information moves seamlessly across the entire organization."
+        },
+        {
+          "title": "Structured Deployment",
+          "desc": "Establish automated CI/CD and release processes to move solutions into production reliably and safely."
+        },
+        {
+          "title": "Continuous Monitoring",
+          "desc": "Provide end-to-end visibility into infrastructure, applications, performance, availability, and operational health."
+        },
+        {
+          "title": "Optimization & Support",
+          "desc": "Continuously review environments to improve performance, reliability, cost efficiency, and scalability."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategy",
+        "Architecture",
+        "Implementation",
+        "Integration",
+        "Deployment",
+        "Monitoring",
+        "Optimization",
+        "Support"
+      ],
+      "benefits": [
+        "Reduced vendor management complexity and overhead",
+        "Seamless coordination across all architectural layers",
+        "Faster project execution with zero handoff delays",
+        "Predictable budget allocation and transparent delivery",
+        "Unified enterprise accountability from zero to scale",
+        "Scalable solutions designed for future business growth",
+        "Long-term trusted technology partnership",
+        "Comprehensive end-to-end digital transformation"
+      ],
+      "security": "With a single trusted partner overseeing architecture, implementation, and operations, security governance remains unbroken across all tiers—eliminating integration blind spots and ensuring continuous compliance.",
+      "ctaHeadline": "Your Complete Technology Partner",
+      "ctaSub": "One partner. One vision. Multiple technologies. Complete solutions."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Enterprise Overview",
+    "overviewTitle": "Intelligent Technology for Measurable Outcomes",
+    "transformationEyebrow": "Operational Transformation",
+    "transformationTitle": "Transforming Business Through Intelligent Workflows",
+    "deliveryEyebrow": "Structured Delivery Approach",
+    "deliveryTitle": "End-to-End Execution & Continuous Optimization",
+    "deliveryIntro": "Our proven implementation approach follows a rigorous delivery lifecycle:",
+    "deliveryOutro": "This structured sequence ensures tight alignment with business goals, robust security posture, and measurable ROI benchmarks at every phase.",
+    "securityEyebrow": "Security & Governance",
+    "securityTitle": "Enterprise-Grade Reliability & Compliance Safeguards",
+    "securityOutro": "We embed strict role-based access control, automated vulnerability scanning, model governance, and multi-tier encryption to ensure your production environment remains resilient and fully compliant.",
+    "capabilitiesTitle": "Core Technology Capabilities",
+    "capabilitiesSub": "Comprehensive technical competencies engineered to scale your digital operations.",
+    "bookDiscovery": "Book Technology Discovery",
+    "exploreAll": "Explore All Technologies",
+    "bookConsultation": "Book a Consultation",
+    "coreCapabilities": "Core Capabilities"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Core Capabilities",
+    "exploreFramework": "Explore Solution Framework",
+    "bookConsultation": "Book a Consultation",
+    "viewCaseStudies": "View Case Studies",
+    "provenPillars": "Proven Pillars",
+    "operationalOutcomes": "Operational Outcomes",
+    "learnMore": "Learn More"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "End-to-End Digital Engineering",
+      "titlePart1": "Inception To",
+      "titlePart2": "Deployment",
+      "description": "End-to-end development of new digital solutions from business requirements and solution architecture through development, integration, testing, deployment, and ongoing support.",
+      "bookConsultation": "Book a Consultation",
+      "exploreEngineering": "Explore Solution Engineering",
+      "coreCapabilities": [
+        "Requirements Engineering",
+        "Solution Architecture",
+        "Application Development",
+        "API Integration",
+        "Quality Assurance",
+        "DevOps",
+        "Deployment",
+        "Support & Maintenance"
+      ],
+      "row1Eyebrow": "Full Lifecycle Delivery",
+      "row1Title": "End-to-End Development from Requirements to Scale",
+      "row1P1": "Every new digital initiative starts with unique requirements, operational workflows, and strategic objectives that cannot be met by one-size-fits-all software. We specialize in building custom, high-performance software systems completely from scratch.",
+      "row1P2": "From initial requirements discovery and technical architecture design to agile sprint development, API ecosystem integration, robust testing pipelines, and automated cloud deployments, our senior engineering teams take full ownership of your product lifecycle.",
+      "row2Eyebrow": "Solution Architecture & Engineering",
+      "row2Title": "Scalable Systems Built for Enterprise Growth",
+      "row2P1": "We design resilient software architectures tailored to withstand heavy production loads. From modular microservices and event-driven backends to high-throughput data streams and GraphQL/REST APIs, we build platforms that scale effortlessly.",
+      "row2P2": "By establishing clean, modular codebases paired with automated testing and continuous security compliance, we ensure your software foundation is maintainable, auditable, and ready for long-term evolution.",
+      "row3Eyebrow": "Quality Assurance & DevOps",
+      "row3Title": "Agile Delivery with Automated Pipelines",
+      "row3P1": "Our delivery model embeds automated unit, integration, and end-to-end regression testing alongside containerized CI/CD workflows (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "With transparent sprint demos, real-time observability, and milestone-driven velocity, we ensure rapid time-to-market without compromising security, stability, or user experience.",
+      "row4Eyebrow": "Deployment & Support",
+      "row4Title": "Reliable 24/7 Operations and Long-Term Evolution",
+      "row4P1": "Going live is just the beginning. We provide proactive monitoring, SLA-backed maintenance, cloud infrastructure optimization, performance tuning, and ongoing feature rollouts.",
+      "row4P2": "Our engineering team acts as a natural extension of your organization, ensuring zero downtime and continuous technological superiority in your market.",
+      "pillarsTitle": "Core Capabilities",
+      "pillarsSub": "Complete full-stack capabilities engineered to take your ideas from zero to production.",
+      "pillar1Title": "Requirements Engineering",
+      "pillar1Desc": "Deep-dive business analysis, functional specifications, and user journey mapping to define exact solution boundaries.",
+      "pillar2Title": "Solution Architecture",
+      "pillar2Desc": "Scalable cloud-native architectures, database modeling, microservices design, and zero-trust security foundations.",
+      "pillar3Title": "Application Development",
+      "pillar3Desc": "Modern full-stack web and mobile applications engineered with clean code, type-safety, and reactive UI standards.",
+      "pillar4Title": "API Integration",
+      "pillar4Desc": "High-throughput REST/GraphQL APIs, webhook orchestrations, payment gateways, and seamless third-party ERP/CRM sync.",
+      "ctaTitle": "Ready to Build Your Solution from Inception to Deployment?",
+      "ctaSub": "Partner with Rezonants to architect, engineer, and deploy your custom digital platform from business requirements to production reality.",
+      "ctaButton": "Book a Solution Consultation",
+      "pillar5Title": "Quality Assurance",
+      "pillar5Desc": "Rigorous test automation, load/stress testing, vulnerability scans, and regression test suites.",
+      "pillar6Title": "DevOps & Deployment",
+      "pillar6Desc": "Automated CI/CD pipelines, container orchestration (Docker/K8s), infrastructure as code, and zero-downtime releases.",
+      "pillar7Title": "Support & Maintenance",
+      "pillar7Desc": "24/7 proactive monitoring, health telemetry, performance audits, security patching, and ongoing SLA maintenance.",
+      "pillar8Title": "Continuous Innovation",
+      "pillar8Desc": "Regular feature velocity, data analytics integration, AI enhancement, and architectural modernizations."
+    },
+    "processAutomation": {
+      "eyebrow": "Intelligent Process Operations",
+      "titlePart1": "Business Process",
+      "titlePart2": "Automation",
+      "description": "End-to-end automation of enterprise workflows, combining robotic process automation (RPA), intelligent document processing, business rules engines, and system integration.",
+      "bookDiscovery": "Book Automation Discovery",
+      "exploreFramework": "Explore Solution Framework",
+      "coreCapabilities": [
+        "Workflow Automation",
+        "Robotic Process Automation",
+        "Document Processing",
+        "Integration Engineering",
+        "Business Rules Engines",
+        "Process Analytics",
+        "Continuous Optimization",
+        "Legacy Integration"
+      ],
+      "row1Eyebrow": "Robotic Process Automation",
+      "row1Title": "Intelligent Bots for High-Volume Operations",
+      "row1P1": "Eliminate repetitive manual data entry, cross-system reconciliations, and document routing. We deploy enterprise RPA bots that execute structured tasks 24/7 with zero error rate.",
+      "row1P2": "By connecting legacy desktop interfaces, SAP/ERP backends, and cloud databases, software bots free your team to focus on strategic business initiatives.",
+      "row2Eyebrow": "Intelligent Document Processing",
+      "row2Title": "OCR, Machine Learning & Document AI",
+      "row2P1": "Automatically ingest, classify, and extract data from invoices, contracts, identity documents, and claims. Our AI-driven pipelines validate fields against internal databases and trigger automated approval workflows.",
+      "row2P2": "Achieve straight-through processing rates exceeding 95% while drastically reducing turnaround times from days to seconds.",
+      "row3Eyebrow": "Process Orchestration",
+      "row3Title": "End-to-End Cross-Platform Synchronization",
+      "row3P1": "Connect CRM, ERP, HRMS, and banking APIs into unified real-time data flows. We implement event-driven triggers, message queues, and automated fallback handlers.",
+      "row3P2": "Information flows seamlessly across departments without human intervention, eliminating operational silos and communication delays.",
+      "row4Eyebrow": "Continuous Telemetry",
+      "row4Title": "Real-Time Process Analytics & Kaizen Insights",
+      "row4P1": "Track process execution times, bottleneck heatmaps, error frequencies, and financial ROI in real-time executive dashboards.",
+      "row4P2": "Continuous machine learning diagnostics discover new automation opportunities, keeping your enterprise operating at maximum efficiency.",
+      "pillarsTitle": "Automation Pillars",
+      "pillarsSub": "Proven building blocks for intelligent enterprise operations.",
+      "pillar1Title": "Workflow Automation",
+      "pillar1Desc": "Multi-step human-in-the-loop and digital workflows orchestrated with automated routing and escalations.",
+      "pillar2Title": "Robotic Process Automation",
+      "pillar2Desc": "Rule-based software bots executing routine data entry, reconciliation, and cross-application tasks.",
+      "pillar3Title": "Intelligent AI Automation",
+      "pillar3Desc": "Cognitive AI agents that interpret context, summarize unstructured text, and make automated decisions.",
+      "pillar4Title": "Process Optimization",
+      "pillar4Desc": "Process mining, bottleneck detection, and Kaizen workflows that continuously reduce operational costs.",
+      "ctaTitle": "Ready to Automate Your Business Workflows?",
+      "ctaSub": "Connect with our automation architects to identify high-ROI opportunities and deploy intelligent digital workflows.",
+      "ctaButton": "Book an Automation Consultation"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Engineering Standard & R&D",
+      "titlePart1": "Centre of",
+      "titlePart2": "Excellence",
+      "description": "A centralized organization of senior architects and domain specialists dedicated to standardizing engineering practices, driving innovation, and accelerating digital initiatives.",
+      "exploreStandards": "Explore Engineering Standards",
+      "initiateAssessment": "Initiate CoE Assessment",
+      "coreCapabilities": [
+        "Architecture Standards",
+        "Reusable Frameworks",
+        "Best Practice Governance",
+        "Skill Development",
+        "Quality Benchmarking",
+        "R&D & Innovation",
+        "Technology Evaluation",
+        "Cross-Project Guidance"
+      ],
+      "uptimeLabel": "Enterprise Uptime",
+      "engineersLabel": "Engineers & Architects",
+      "deploymentsLabel": "AI & Cloud Deployments",
+      "satisfactionLabel": "Client Satisfaction",
+      "row1Eyebrow": "Pillar 01 — Engineering Standard",
+      "row1Title": "High-Performance Software Engineering",
+      "row1P1": "Our Centre of Excellence establishes standardized design patterns, rigorous automated testing, and zero-defect code review practices that accelerate time-to-market while keeping technical debt to zero.",
+      "row1F1": "Automated CI/CD release pipelines with DORA metrics analytics",
+      "row1F2": "Strict architectural review boards & microservices governance",
+      "row1F3": "Continuous security linting and automated vulnerability patching",
+      "row1Btn": "Learn Engineering Standards",
+      "row1Tag": "DevOps & Quality Engineering",
+      "row2Eyebrow": "Pillar 02 — R&D Innovation",
+      "row2Title": "AI Innovation Lab & Emerging Technology",
+      "row2P1": "We experiment with state-of-the-art machine learning models, custom AI agents, and intelligent workflow automation to build next-generation enterprise products.",
+      "row2F1": "Enterprise Generative AI & RAG knowledge integration",
+      "row2F2": "Autonomous AI agent workflows for business process automation",
+      "row2F3": "Custom machine learning model optimization & fine-tuning",
+      "row2Btn": "Explore AI Lab",
+      "row2Tag": "Artificial Intelligence & Neural R&D",
+      "row3Eyebrow": "Pillar 03 — Infrastructure",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "We design and manage resilient multi-cloud environments built on zero-trust security frameworks, ensuring your data remains protected against evolving global cyber threats.",
+      "row3F1": "AWS, Azure, & GCP multi-cloud infrastructure orchestration",
+      "row3F2": "Zero-trust network access (ZTNA) & role-based IAM policies",
+      "row3F3": "Automated container security scanning & secret management",
+      "row3Btn": "Explore Cloud & Security",
+      "row3Tag": "Cloud Architecture & Zero-Trust",
+      "pillarsTitle": "Our Core Excellence Frameworks",
+      "pillarsSub": "Systematized development playbooks powering mission-critical platforms.",
+      "pillar1Title": "Architectural Review Board (ARB)",
+      "pillar1Desc": "Comprehensive oversight ensuring all enterprise solutions align with strict scalability, security, and compliance protocols.",
+      "pillar2Title": "Reusable Accelerators & Component Library",
+      "pillar2Desc": "Proprietary design systems, API starter kits, and backend microservice templates reducing initial development time by 40%.",
+      "pillar3Title": "Continuous Performance Profiling",
+      "pillar3Desc": "Advanced real-time observability pipelines monitoring application latency, throughput bottlenecks, and cloud resource utilization.",
+      "pillar4Title": "Talent Upskilling & Guilds",
+      "pillar4Desc": "Structured internal guilds and certifications cultivating deep technical proficiencies across cloud, DevOps, and applied AI.",
+      "ctaTitle": "Elevate Your Engineering Standard",
+      "ctaSub": "Partner with Rezonants’s Centre of Excellence to build resilient cloud architectures, automate workflows, and accelerate digital product delivery.",
+      "ctaButton": "Schedule Executive Consultation",
+      "badge": "REZONANTS COE",
+      "scroll": "Scroll",
+      "p1Title": "Governance & Frameworks",
+      "p1Desc": "Establish enterprise-wide architectural governance, policy guardrails, and compliance standards.",
+      "p1Tag": "Governance",
+      "p2Title": "Technology Standards & Architecture",
+      "p2Desc": "Define modern reference architectures, vetted technology stacks, and microservices patterns.",
+      "p2Tag": "Architecture",
+      "p3Title": "Reusable Assets & Libraries",
+      "p3Desc": "Accelerate development velocity with shared components, templates, starter kits, and design systems.",
+      "p3Tag": "Reusability",
+      "p4Title": "Competency Development",
+      "p4Desc": "Structured training, tech mentorship, and skill enablement to elevate team engineering prowess.",
+      "p4Tag": "Competency",
+      "p5Title": "Innovation & Emerging Tech",
+      "p5Desc": "R&D on AI agents, automation pipelines, and next-generation frameworks to maintain market edge.",
+      "p5Tag": "Innovation",
+      "p6Title": "Continuous Improvement",
+      "p6Desc": "Data-driven engineering metrics (DORA), SLA benchmarking, and ongoing quality optimization.",
+      "p6Tag": "Quality"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Tailored Digital Engineering",
+      "titlePart1": "Custom Development &",
+      "titlePart2": "Customization",
+      "description": "Development and enhancement of applications, platforms, workflows, and enterprise solutions to address unique business requirements and deliver tailored functionality.",
+      "bookConsultation": "Book a Consultation",
+      "exploreCapabilities": "Explore Capabilities",
+      "coreCapabilities": [
+        "Custom Development",
+        "Platform Configuration",
+        "Extensions",
+        "Custom Workflows",
+        "API Development",
+        "System Integration",
+        "UI/UX Enhancement",
+        "Performance Optimization"
+      ],
+      "row1Eyebrow": "TAILORED FUNCTIONALITY",
+      "row1Title": "Bespoke Features Built for Your Workflow",
+      "row1P1": "Standard enterprise software often falls short of meeting specialized business needs. Our custom engineering team develops bespoke application modules, custom business rules, and specialized extensions tailored to your operations.",
+      "row1P2": "From custom CRM and ERP enhancements to specialized operational portals, we build features that seamlessly align with your team's exact workflow patterns.",
+      "row2Eyebrow": "ENTERPRISE SYSTEM INTEGRATION",
+      "row2Title": "Platform Configuration & API Development",
+      "row2P1": "Connect disparate software systems into a unified digital ecosystem. We engineer custom REST and GraphQL APIs, webhook handlers, and enterprise message queues to ensure real-time data sync across all your platforms.",
+      "row2P2": "Whether integrating third-party SaaS tools or extending proprietary on-premise platforms, our integration architectures prioritize data integrity, throughput, and zero downtime.",
+      "row3Eyebrow": "UI/UX & PERFORMANCE",
+      "row3Title": "UI/UX Enhancements & Performance Optimization",
+      "row3P1": "Elevate legacy interfaces with modern, responsive user experiences designed for speed and clarity. We re-engineer frontends with intuitive design patterns, accessibility compliance, and streamlined interaction models.",
+      "row3P2": "In parallel, our performance engineers optimize database queries, caching strategies, and frontend bundle sizes to deliver instantaneous response times across all devices.",
+      "pillarsTitle": "Engineered to Your Exact Specifications",
+      "pillarsSub": "Enterprise-grade customization methodologies built to scale seamlessly.",
+      "pillar1Title": "Custom Workflows & Extensions",
+      "pillar1Desc": "Tailored application logic and automated state machines configured specifically around your internal operational rules.",
+      "pillar2Title": "API & System Integration",
+      "pillar2Desc": "Secure, authenticated data bridges connecting proprietary backends, ERP suites, payment gateways, and cloud services.",
+      "pillar3Title": "Platform Configuration",
+      "pillar3Desc": "Deep architectural adaptations that modify enterprise software without breaking upgrade paths or vendor support agreements.",
+      "pillar4Title": "Performance Optimization",
+      "pillar4Desc": "Aggressive query profiling, memory leak elimination, and edge CDN distribution for sub-second page loads.",
+      "ctaTitle": "Ready to Customize Your Enterprise Platform?",
+      "ctaSub": "Connect with our solutions architects to design and deploy custom modules, workflows, and integrations tailored to your business needs.",
+      "ctaButton": "Book a Customization Call",
+      "badge": "Tailored Digital Engineering",
+      "viewAllServices": "View All Services"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Enterprise Modernization",
+      "titlePart1": "Digital",
+      "titlePart2": "Transformation",
+      "description": "Comprehensive modernization of business processes, technology architectures, and operational models to drive organizational agility, operational efficiency, and sustainable digital growth.",
+      "startTransformation": "Start Transformation",
+      "exploreStrategy": "Explore Strategy",
+      "coreCapabilities": [
+        "Strategy & Roadmapping",
+        "Architecture Modernization",
+        "Cloud & Infrastructure",
+        "Data & Analytics",
+        "Process Digitization",
+        "Customer Experience",
+        "Change Management",
+        "Agile Operating Models"
+      ],
+      "row1Eyebrow": "Strategy & Roadmap",
+      "row1Title": "From Vision to Executable Roadmap",
+      "row1P1": "We partner with enterprise leaders to define digital strategy, business cases, and phased roadmaps with quick wins and de-risked execution.",
+      "row1P2": "Prioritized initiatives, TCO models, and KPIs ensure every technology modernization effort ties directly to revenue, efficiency, and customer satisfaction outcomes.",
+      "row2Eyebrow": "Legacy Modernization",
+      "row2Title": "Modernize Without Breaking the Business",
+      "row2P1": "Re-platform monoliths to microservices, APIs, and cloud-native patterns with zero-downtime cutovers and automated regression validation.",
+      "row2P2": "We modernize applications, databases, and integration layers while preserving compliance and security posture.",
+      "row3Eyebrow": "Cloud, AI & Data",
+      "row3Title": "Cloud Adoption & Data-Driven Intelligence",
+      "row3P1": "Adopt AWS, Azure, and GCP, build modern data pipelines, and embed machine learning agents to drive autonomous decisions.",
+      "row3P2": "From real-time event streaming to unified dashboards, transformation becomes measurable and sustainable.",
+      "row4Eyebrow": "Customer Experience",
+      "row4Title": "Modern Omnichannel Experiences",
+      "row4P1": "Redesign customer journeys across responsive web, iOS, Android, and self-service portals with personalized interfaces.",
+      "row4P2": "Platform engineering, telemetry, and automated feedback loops make digital innovation continuous.",
+      "pillarsTitle": "Transformation Pillars",
+      "pillarsSub": "Outcome-focused levers that ensure sustainable digital leadership.",
+      "pillar1Title": "Digital Strategy & Governance",
+      "pillar1Desc": "Phased transformation blueprints with business case modeling, architecture governance, and milestone risk tracking.",
+      "pillar2Title": "Cloud & Data Platform",
+      "pillar2Desc": "AWS/Azure/GCP multi-cloud foundations, automated pipelines, and enterprise data analytics enablement.",
+      "pillar3Title": "AI & Automation",
+      "pillar3Desc": "Intelligent process automation, cognitive AI agents, and predictive telemetry to optimize daily operations.",
+      "pillar4Title": "Customer Experience",
+      "pillar4Desc": "High-converting omnichannel digital portals and personalized interfaces built for maximum user retention.",
+      "ctaTitle": "Ready to Transform Your Enterprise?",
+      "ctaSub": "Partner with Rezonants for phased, de-risked digital transformation tied to measurable business outcomes.",
+      "ctaButton": "Book a Digital Transformation Call",
+      "bookWorkshop": "Book Transformation Workshop",
+      "exploreFramework": "Explore Solution Framework",
+      "coreCapabilitiesTitle": "Core Capabilities"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Complete Technology Lifecycle",
+      "titlePart1": "End-to-End Solution",
+      "titlePart2": "Framework",
+      "description": "A structured, full-lifecycle delivery framework spanning business requirements, architecture design, engineering, integration, quality assurance, cloud deployment, and managed operations.",
+      "startJourney": "Start Your Project",
+      "exploreFramework": "Explore Framework",
+      "coreCapabilities": [
+        "Requirements Analysis",
+        "Architecture Design",
+        "Full-Stack Development",
+        "Integration Engineering",
+        "Quality Assurance",
+        "Deployment & Rollout",
+        "Ongoing Operations",
+        "Continuous Evolution"
+      ],
+      "row1Eyebrow": "Strategy & Architecture",
+      "row1Title": "Requirements Engineering & Solution Design",
+      "row1P1": "Collaborative workshops, business domain mapping, and cloud architecture specifications designed to eliminate risk before a line of code is written.",
+      "row1P2": "We define data models, security frameworks, and scalability milestones that set up long-term success.",
+      "row2Eyebrow": "Engineering & Quality",
+      "row2Title": "Full-Stack Development & Automated Testing",
+      "row2P1": "Modular microservices, type-safe APIs, and responsive frontends combined with automated unit, integration, and security scans.",
+      "row2P2": "Continuous integration pipelines with GitHub Actions, Terraform, and automated security guardrails.",
+      "row3Eyebrow": "Deployment & Operations",
+      "row3Title": "Cloud Deployment & 24/7 Managed Monitoring",
+      "row3P1": "Multi-cloud orchestration on AWS/Azure/GCP with automated rollback, zero-downtime cutovers, and real-time observability.",
+      "row3P2": "We provide SLA-backed maintenance and continuous telemetry monitoring to evolve your product seamlessly.",
+      "row4Eyebrow": "Enterprise Governance",
+      "row4Title": "Unified Governance & Ongoing Support",
+      "row4P1": "Single-point accountability across your entire digital stack — transparent sprint velocity, predictable budgeting, and continuous innovation.",
+      "row4P2": "Regular feature rollouts and modernization cycles keep your enterprise ahead of the competition.",
+      "pillarsTitle": "Lifecycle Framework Pillars",
+      "pillarsSub": "Every phase engineered with enterprise rigor.",
+      "pillar1Title": "Strategy & Requirements",
+      "pillar1Desc": "Domain discovery, architectural roadmaps, and stakeholder alignment to eliminate execution risks.",
+      "pillar2Title": "Architecture & Build",
+      "pillar2Desc": "Resilient cloud-native microservices, API integrations, and continuous QA testing.",
+      "pillar3Title": "Security & Deployment",
+      "pillar3Desc": "Zero-trust security compliance, containerized releases, and automated cloud deployments.",
+      "pillar4Title": "Governance & Support",
+      "pillar4Desc": "24/7 SLA monitoring, health telemetry, and ongoing evolutionary engineering.",
+      "ctaTitle": "Need a Complete Lifecycle Partner?",
+      "ctaSub": "We own the full technology lifecycle so your team can focus on core business outcomes.",
+      "ctaButton": "Partner for the Full Lifecycle"
+    },
+    "migrationServices": {
+      "eyebrow": "Cloud & Infrastructure Transformation",
+      "titlePart1": "Migration &",
+      "titlePart2": "Modernization",
+      "description": "Secure, structured migration of legacy applications, databases, and infrastructure to modern cloud architectures, paired with continuous modernization for enhanced agility and efficiency.",
+      "bookAssessment": "Book Migration Assessment",
+      "exploreStrategy": "Explore Cloud Strategy",
+      "coreCapabilities": [
+        "Cloud Migration",
+        "Application Modernization",
+        "Database Migration",
+        "Infrastructure Rehosting",
+        "Containerization",
+        "Microservices Transition",
+        "Performance Optimization",
+        "Security & Compliance"
+      ],
+      "row1Eyebrow": "Cloud Migration",
+      "row1Title": "Multi-Cloud Strategy & Lift-and-Optimize",
+      "row1P1": "Seamless workload migration across AWS, Azure, and Google Cloud with automated discovery, wave planning, and zero business interruption.",
+      "row1P2": "We balance rehosting, replatforming, and refactoring to optimize total cost of ownership (TCO) and agility.",
+      "row2Eyebrow": "Data & Database Migration",
+      "row2Title": "Secure ETL & Automated Data Validation",
+      "row2P1": "Automated database replication, schema translation, and high-throughput ETL pipelines with 100% data integrity verification.",
+      "row2P2": "Zero-downtime cutover rehearsal ensures complete data consistency and business continuity.",
+      "row3Eyebrow": "Platform Modernization",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Modernize legacy monoliths into scalable microservices orchestrated via Kubernetes (EKS, AKS, GKE) with automated IaC blueprints.",
+      "row3P2": "Post-migration performance profiling and cost optimization ensure immediate ROI.",
+      "row4Eyebrow": "Cutover Planning",
+      "row4Title": "Automated Testing & Rollback Safety Nets",
+      "row4P1": "Battle-tested cutover runbooks, automated regression suites, and instant rollback mechanisms for complete peace of mind.",
+      "row4P2": "Post-migration health telemetry and 24/7 hypercare guarantee flawless production stability.",
+      "pillarsTitle": "Migration Assurances",
+      "pillarsSub": "De-risked moves backed by enterprise SLAs.",
+      "pillar1Title": "Zero-Downtime Cutover",
+      "pillar1Desc": "Canary releases and database dual-write sync to ensure uninterrupted user access.",
+      "pillar2Title": "Automated Data Validation",
+      "pillar2Desc": "Checksum comparisons, schema integrity audits, and automated ETL reconciliation.",
+      "pillar3Title": "Rollback Safety Nets",
+      "pillar3Desc": "Strict disaster recovery protocols and rehearsal drills to contain risk at every phase.",
+      "pillar4Title": "Performance & Cost Optimization",
+      "pillar4Desc": "Cloud rightsizing, autoscaling policies, and cost governance dashboards included.",
+      "ctaTitle": "Ready to Migrate with Complete Confidence?",
+      "ctaSub": "Partner with Rezonants for structured, risk-free cloud and data modernization.",
+      "ctaButton": "Plan Your Migration Workshop"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Rapid Validation & Feasibility",
+      "titlePart1": "Proof of Concept (PoC) &",
+      "titlePart2": "Pilot Implementation",
+      "description": "Rapid development and validation of technology solutions to assess technical feasibility, business value, integration requirements, performance, and scalability before full-scale implementation.",
+      "initiateDiscovery": "Initiate PoC Discovery",
+      "exploreDevelopment": "Explore Custom Development",
+      "coreCapabilities": [
+        "PoC Development",
+        "Prototype Engineering",
+        "Feasibility Studies",
+        "Architecture Validation",
+        "Integration Testing",
+        "Performance Benchmarking",
+        "Pilot Deployment",
+        "Value Assessment"
+      ],
+      "row1Eyebrow": "Rapid Validation",
+      "row1Title": "From Concept to Validated Feasibility",
+      "row1P1": "Turning an idea into an enterprise-scale solution requires rigorous upfront validation. Our PoC & Pilot service evaluates technology viability, stress-tests critical integration hooks, and validates business ROI before major capital commitments.",
+      "row1P2": "We construct high-fidelity MVPs and focused sandbox pilots that prove technical feasibility, measure system latency, and gather direct stakeholder validation early.",
+      "row1Cap": "Rapid MVP Prototyping & Technical Benchmarks",
+      "row2Eyebrow": "Agile Prototyping",
+      "row2Title": "Interactive MVPs & UX Validation",
+      "row2P1": "We build interactive wireframes, clickable user flows, and functional proof-of-concepts in days, not months. Test real user interactions, refine UI/UX patterns, and gather actionable feedback from stakeholders.",
+      "row2P2": "By shortening feedback loops during early development, your team minimizes rework and establishes clear technical specifications before capital-intensive build phases begin.",
+      "row2Cap": "Rapid Iteration & Clickable UX Prototypes",
+      "row3Eyebrow": "Integration & Scalability Testing",
+      "row3Title": "De-Risk Complex System Integrations",
+      "row3P1": "Uncover technical bottlenecks, API limitations, and performance constraints before full capital commitment. Our pilot engineering team stress-tests integrations, data pipelines, and third-party APIs in isolated sandbox environments.",
+      "row3P2": "This proactive risk mitigation ensures high system availability, security compliance, and predictable development timelines when transitioning your PoC into enterprise production.",
+      "row3Cap": "Sandbox Integration & Stress Testing",
+      "row4Eyebrow": "Controlled Production Pilot",
+      "row4Title": "Targeted Pilot Launch & Business Case Validation",
+      "row4P1": "Deploy targeted pilot releases to a select user segment or test market. Track performance metrics, user adoption analytics, and operational feedback to quantify business value and establish a data-backed business case.",
+      "row4P2": "With real-world pilot insights, executive sponsors gain clear ROI metrics to justify broader deployment and strategic digital transformation investments.",
+      "row4Cap": "Controlled Deployment & Performance Telemetry",
+      "pillarsTitle": "Our Pilot Engineering Principles",
+      "pillarsSub": "Guiding principles that turn technical uncertainty into predictable business success.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Deliver functional prototypes rapidly to validate value propositions early in the lifecycle.",
+      "pillar2Title": "Feasibility & Validation",
+      "pillar2Desc": "Verify API compatibility, throughput thresholds, and compliance constraints in sandbox environments.",
+      "pillar3Title": "Scalability Assessment",
+      "pillar3Desc": "Simulate production load to establish capacity limits and determine cloud architecture sizing.",
+      "pillar4Title": "Business Case Validation",
+      "pillar4Desc": "Quantify tangible ROI and productivity metrics to support enterprise-wide rollout decisions.",
+      "ctaTitle": "Ready to validate your next digital solution?",
+      "ctaSub": "Connect with our solution engineering team to explore your project requirements, build a prototype, and test feasibility with zero risk.",
+      "ctaButton": "Book a PoC Consultation"
+    },
+    "sharedServices": {
+      "eyebrow": "Centralized Operations Hub",
+      "titlePart1": "Shared Services &",
+      "titlePart2": "Managed Operations",
+      "description": "Centralized delivery of technology and operational capabilities across business units through standardized processes, skilled resources, governance frameworks, service management, and measurable service levels.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Explore Solution Framework",
+      "coreCapabilities": [
+        "Managed Services",
+        "IT Operations",
+        "Application Support",
+        "Service Management",
+        "Resource Optimization",
+        "SLA Management",
+        "Governance",
+        "Continuous Improvement",
+        "Cost Optimization"
+      ],
+      "row1Eyebrow": "Unified Delivery Hub",
+      "row1Title": "Standardized Services Across All Business Units",
+      "row1P1": "Consolidate back-office IT, infrastructure management, and technical support into a single high-efficiency delivery center.",
+      "row1P2": "By eliminating duplicative team overhead and standardizing service delivery models, your organization secures consistent quality and lowers total operating expenditure.",
+      "row2Eyebrow": "24/7 SRE & Application Support",
+      "row2Title": "Proactive Monitoring & Rapid Incident Resolution",
+      "row2P1": "Our dedicated Site Reliability Engineers (SRE) and support specialists provide 24/7/365 telemetry monitoring, automated alert triage, and rapid L1/L2/L3 issue resolution.",
+      "row2P2": "Backed by strict SLA commitments, we guarantee 99.99% availability for your mission-critical applications and cloud infrastructure.",
+      "row3Eyebrow": "ITIL Governance & Compliance",
+      "row3Title": "Structured Service Management Frameworks",
+      "row3P1": "Implement industry-leading ITSM standards (ServiceNow, Jira Service Management) with transparent ticketing, root-cause analyses, and change management guardrails.",
+      "row3P2": "Comprehensive audit trails and governance policies ensure your operations stay compliant with international security standards.",
+      "row4Eyebrow": "FinOps & Continuous Improvement",
+      "row4Title": "Predictable Budgeting & Resource Optimization",
+      "row4P1": "Eliminate cloud waste, optimize compute sizing, and automate routine operational maintenance with FinOps best practices.",
+      "row4P2": "Monthly transparency reports and capacity forecasts ensure continuous operational cost optimization and high capital efficiency.",
+      "pillarsTitle": "Operations Pillars",
+      "pillarsSub": "Proven operational levers for dependable enterprise scalability.",
+      "pillar1Title": "24/7 Managed IT Operations",
+      "pillar1Desc": "Proactive NOC telemetry, server patching, infrastructure maintenance, and 99.99% uptime guarantees.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Tier 1/2/3 multi-channel helpdesk, incident routing, and structured ticket resolution workflows.",
+      "pillar3Title": "SLA & Performance Control",
+      "pillar3Desc": "Contractually backed response times, MTTR benchmarks, and transparent monthly performance audits.",
+      "pillar4Title": "FinOps & Cost Optimization",
+      "pillar4Desc": "Continuous resource right-sizing, license reclamation, and automated cloud cost reduction.",
+      "ctaTitle": "Ready to Scale Your Managed Operations?",
+      "ctaSub": "Partner with Rezonants for reliable, 24/7 managed services that optimize costs and eliminate operational downtime.",
+      "ctaButton": "Book a Managed Operations Consultation",
+      "howItWorksHeading": "A proven path to shared services success"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Intelligent systems",
+      "heroHeading": "AI & Robotics working together",
+      "intro": "Artificial Intelligence (AI) and Robotics are transforming the way businesses operate by combining intelligent decision-making with advanced automation. AI enables machines to analyze data, learn patterns, and make smart decisions, while robotics brings these capabilities into the physical world to perform tasks with speed, accuracy, and consistency.",
+      "section1Heading": "Built to streamline every operation",
+      "section1Text": "Our AI and Robotics solutions help organizations streamline operations, reduce manual effort, and improve productivity across various industries. From process automation and predictive analytics to smart robotics and intelligent systems, we deliver innovative technologies that enhance efficiency, drive growth, and support digital transformation.",
+      "section2Heading": "Where intelligence meets action",
+      "section2Text": "Every interaction, decision, and movement is powered by a single connected system — turning data into outcomes in real time.",
+      "footerTag": "Innovative technology for digital transformation"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Information & Reporting Systems",
+      "heroSubtitle": "A single source of truth for every department — built to turn raw operational data into decisions your business can act on today.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALYZED",
+      "statusArchived": "ARCHIVED",
+      "statusPending": "PENDING",
+      "metricUptime": "System Uptime",
+      "metricSessions": "Active Sessions",
+      "metricReportsPerDay": "Reports / Day",
+      "metricEvents": "Daily Ingested Events",
+      "metricReports": "Scheduled Reports",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Unified Platform",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Reporting Console",
+      "businessOutcome": "Business Outcome",
+      "section1Heading": "One centralized system for every metric that matters",
+      "section1P1": "Information & Reporting Systems are essential business solutions that enable organizations to collect, manage, and transform data into meaningful insights. These systems integrate information from multiple departments, ensuring accurate, consistent, and real-time access to critical business data. By providing a centralized platform for information management, organizations can improve operational visibility, streamline workflows, and support strategic decision-making across all levels of the enterprise.",
+      "section1P2": "These systems use automated reporting, analytics, and dashboards to track performance, monitor key metrics, and generate real-time reports. By reducing manual effort and improving data accuracy, businesses can make faster and more effective decisions.",
+      "section2Heading": "Built for visibility, compliance, and scale",
+      "section2Text": "With enhanced visibility, compliance, and collaboration, Information & Reporting Systems enable organizations to optimize processes, improve productivity, and drive sustainable business growth in a competitive environment.",
+      "ctaHeading": "Give every team the same real-time picture of the business.",
+      "ctaText": "See how Nexus Data Systems can consolidate your reporting into one intelligent platform.",
+      "footerCopyright": "© 2026 Nexus Data Systems. All rights reserved.",
+      "navOverview": "Overview",
+      "navCapabilities": "Capabilities",
+      "navImpact": "Impact",
+      "navContact": "Contact"
+    },
+    "managedServices": {
+      "subtitle": "Comprehensive managed services for your business"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernizing Business Applications for a Data-Driven Enterprise",
+      "excerpt": "How modern application architecture and connected data can improve operational efficiency, scalability and business visibility.",
+      "tag": "Business Transformation",
+      "category": "BUSINESS TRANSFORMATION",
+      "summary": "A modern application and data foundation can help enterprises improve operational efficiency, connect business systems and create better visibility across their operations."
+    },
+    "artificial-intelligence": {
+      "title": "How AI Is Reshaping Enterprise Applications",
+      "excerpt": "Explore how intelligent automation, AI copilots and predictive intelligence are becoming part of the enterprise applications businesses rely on every day.",
+      "tag": "Artificial Intelligence",
+      "category": "ARTIFICIAL INTELLIGENCE",
+      "summary": "Explore how intelligent automation, AI copilots and predictive intelligence are transforming everyday enterprise software into adaptive, proactive platforms."
+    },
+    "modern-erp": {
+      "title": "Accelerating Business Transformation with Modern ERP",
+      "excerpt": "Explore how modern ERP platforms connect finance, procurement, supply chain and business operations through a unified digital foundation.",
+      "tag": "Modern ERP",
+      "category": "MODERN ERP",
+      "summary": "A modern ERP platform connects finance, procurement, supply chain, and business operations into a unified, real-time operating model."
+    },
+    "cybersecurity": {
+      "title": "Building Cyber Resilience in a Connected Enterprise",
+      "excerpt": "Explore how organizations can strengthen security, protect critical systems and prepare for threats across increasingly connected environments.",
+      "tag": "Cybersecurity",
+      "category": "CYBERSECURITY",
+      "summary": "As enterprises integrate more cloud systems, APIs, and partner ecosystems, cyber resilience ensures mission-critical operations withstand modern threats."
+    },
+    "cloud-modernization": {
+      "title": "Modernizing Legacy Applications for the Cloud",
+      "excerpt": "Explore a practical approach to assessing, modernizing and moving legacy applications toward scalable, secure cloud architectures.",
+      "tag": "Cloud & Modernization",
+      "category": "CLOUD & MODERNIZATION",
+      "summary": "A structured, pragmatic roadmap to assess, refactor, and migrate monolithic enterprise systems to elastic, maintainable cloud architectures."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "BUSINESS TRANSFORMATION",
+      "title": "Modernizing Business Applications for a Data-Driven Enterprise",
+      "subtitle": "A modern application and data foundation can help enterprises improve operational efficiency, connect business systems and create better visibility across their operations.",
+      "date": "September 2026",
+      "readTime": "7 min read",
+      "imageCaption": "Enterprise Technology Perspective — Application Architecture & Connected Data",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Business Applications",
+          "desc": "Disparate legacy CRM, ERP, and departmental tools running in silos."
+        },
+        {
+          "title": "Multiple Data Sources",
+          "desc": "Fragmented operational tables, CSV extracts, and ad-hoc schemas."
+        },
+        {
+          "title": "Disconnected Databases",
+          "desc": "Isolated on-premise and uncoordinated cloud data repositories."
+        },
+        {
+          "title": "Reports & Business Users",
+          "desc": "Manual reconciliations, conflicting spreadsheets, and delayed reporting."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Business Applications",
+          "desc": "Core operational platforms and modern responsive interfaces."
+        },
+        {
+          "title": "API / Integration Layer",
+          "desc": "Secure, event-driven API gateway connecting enterprise workflows."
+        },
+        {
+          "title": "Data Services",
+          "desc": "Unified master data models, pipelines, and optimized storage engines."
+        },
+        {
+          "title": "Analytics & Reporting",
+          "desc": "Real-time telemetry, semantic models, and automated reporting."
+        },
+        {
+          "title": "Business Decision Makers",
+          "desc": "Live operational dashboards providing unified executive visibility."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Enterprise Applications",
+          "purpose": "Business process management"
+        },
+        {
+          "area": "APIs",
+          "purpose": "System integration"
+        },
+        {
+          "area": "Databases",
+          "purpose": "Structured business data"
+        },
+        {
+          "area": "Data Integration",
+          "purpose": "Connecting multiple sources"
+        },
+        {
+          "area": "Analytics",
+          "purpose": "Business insights"
+        },
+        {
+          "area": "Cloud Infrastructure",
+          "purpose": "Scalability and flexibility"
+        },
+        {
+          "area": "Monitoring",
+          "purpose": "Reliability and performance"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Improved operational visibility across cross-functional units",
+        "Better data consistency and single source of enterprise truth",
+        "Reduced manual reporting effort and automated data compilation",
+        "Improved application performance and reduced transaction latency",
+        "Easier system integration through standardized, secure APIs",
+        "Greater scalability to support organic growth and acquisition",
+        "Better foundation for future innovation and intelligence adoption"
+      ],
+      "keyPerspectivePoints": [
+        "Understanding business processes and real operational workflows",
+        "Connecting systems through dependable integration standards",
+        "Improving data quality, governance, and master data models",
+        "Modernizing applications without destabilizing day-to-day operations",
+        "Creating scalable architecture suited for elastic growth",
+        "Enabling better business visibility for proactive decision-making"
+      ],
+      "sec1Eyebrow": "THE BUSINESS CHALLENGE",
+      "sec1Heading": "Navigating Complexity in a Growing Enterprise",
+      "sec1Subtext": "As businesses scale, technology ecosystems inevitably expand. What begins as focused solutions for individual departments can evolve into a tangled web of disparate systems.",
+      "sec2Eyebrow": "SYSTEM EVOLUTION",
+      "sec2Heading": "A Complex Technology Landscape",
+      "sec2Subtext": "When business applications, databases, and operational systems evolve independently, information flows become fragmented. Understanding this fragmentation is the critical first step.",
+      "sec3Eyebrow": "THE CONNECTED MODEL",
+      "sec3Heading": "Modern Application Architecture",
+      "sec3Subtext": "Enterprises move toward an event-driven, API-first architecture where data flows reliably across core platforms and reaches decision-makers in real time.",
+      "sec4Eyebrow": "INTELLIGENCE & VISIBILITY",
+      "sec4Heading": "Connected Data & Analytics",
+      "sec4Subtext": "When business applications communicate seamlessly, data ceases to be a reporting byproduct and becomes a primary driver of operational agility.",
+      "sec5Eyebrow": "ARCHITECTURE BLUEPRINT",
+      "sec5Heading": "Technology Foundation",
+      "sec5Subtext": "A comprehensive view of the core technology areas that compose a modern, scalable enterprise foundation.",
+      "sec6Eyebrow": "QUALITATIVE VALUE",
+      "sec6Heading": "Business Impact",
+      "sec6Subtext": "Modernizing application architecture and connecting fragmented data delivers tangible operational improvements across the organization.",
+      "ctaHeading": "Ready to Modernize Your Technology Environment?",
+      "ctaDescription": "Explore how modern application architecture, connected data and scalable technology can help organizations improve efficiency and prepare for future growth.",
+      "ctaButton": "Talk to Our Experts",
+      "sec1P1": "In a typical enterprise environment, growth often introduces multiple generations of software. Finance, supply chain, customer service, and field operations often operate on separate software stacks acquired or built at different times. Over years of operational evolution, these systems develop their own data formats, update cadences, and integration quirks.",
+      "sec1P2": "The friction manifests across the enterprise through common operational bottlenecks:",
+      "sec1List": [
+        {
+          "bold": "Multiple disconnected business applications",
+          "text": " that require duplicate data entry and manual cross-referencing."
+        },
+        {
+          "bold": "Disconnected databases",
+          "text": " operating without centralized governance or unified master records."
+        },
+        {
+          "bold": "Manual reporting overhead",
+          "text": ", where analytical teams spend days stitching together exports rather than uncovering insights."
+        },
+        {
+          "bold": "Data inconsistencies",
+          "text": " across departments, creating conflicting answers to fundamental operational questions."
+        },
+        {
+          "bold": "Application maintenance overhead and scalability limits",
+          "text": ", as brittle legacy point-to-point connections struggle to support growing transaction volumes."
+        }
+      ],
+      "sec1P3": "Addressing these challenges requires viewing the technology landscape not as a collection of isolated software purchases, but as an interconnected business platform designed to support strategic agility.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Fragmented Information Flow",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Data Silos",
+          "desc": "Crucial customer, financial, and inventory data remains trapped in departmental platforms, preventing a single unified view of business operations."
+        },
+        {
+          "num": "02",
+          "title": "Integration Gaps",
+          "desc": "Point-to-point connections and nightly batch extracts create latency, high failure rates, and costly maintenance overhead across operational teams."
+        },
+        {
+          "num": "03",
+          "title": "Delayed Information",
+          "desc": "When executives must wait days for month-end reconciliation to understand performance, decision-making is reactive rather than predictive."
+        }
+      ],
+      "modernArchitectureBadge": "Target Architecture",
+      "modernArchitectureTitle": "Connected Enterprise Application Model",
+      "sec3P1": "A modern application architecture replaces brittle point-to-point connections with an agile, decoupled foundation. By establishing a robust API and integration layer, systems interact through governed, secure endpoints while preserving the autonomy of individual business units.",
+      "sec3P2": "Key technical capabilities of this architectural shift include:",
+      "sec3List": [
+        {
+          "bold": "Application modernization:",
+          "text": " Decoupling core business logic into scalable modular services."
+        },
+        {
+          "bold": "API integration:",
+          "text": " Establishing standardized, documented interfaces for internal and partner interoperability."
+        },
+        {
+          "bold": "Data integration & database optimization:",
+          "text": " Unifying operational data pipelines with high-throughput query optimization."
+        },
+        {
+          "bold": "Observability & security:",
+          "text": " Implementing centralized telemetry, audit trails, and role-based access controls across all services."
+        }
+      ],
+      "sec4P1": "Integrated data foundations transform how leadership and operational teams interact with information. Rather than relying on retrospective reports that show what occurred weeks ago, organizations gain live operational telemetry across business units.",
+      "sec4P2": "Connected data and analytics support sustainable business outcomes through:",
+      "sec4List": [
+        {
+          "bold": "Operational visibility:",
+          "text": " Continuous transparency across sales, inventory, fulfillment, and financial performance."
+        },
+        {
+          "bold": "Faster reporting cadences:",
+          "text": " On-demand data aggregation that eliminates repetitive manual spreadsheets."
+        },
+        {
+          "bold": "Consistent information:",
+          "text": " Single definitions for metrics like margin, customer lifetime value, and lead velocity."
+        },
+        {
+          "bold": "Better business insights:",
+          "text": " Predictive pattern detection that surfaces risks and opportunities ahead of time."
+        },
+        {
+          "bold": "Improved decision-making:",
+          "text": " Confident executive action supported by validated data lineage and transparency."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGIC PERSPECTIVE",
+      "keyPerspectiveTitle": "Modernization Is More Than Software Replacement",
+      "keyPerspectiveLead": "Modernizing business applications is not simply replacing old software with new tools. It is an intentional alignment of technology with how the business operates, scales, and delivers value."
+    },
+    "artificialIntelligence": {
+      "category": "ARTIFICIAL INTELLIGENCE",
+      "title": "How AI Is Reshaping Enterprise Applications",
+      "subtitle": "Explore how intelligent automation, AI copilots and predictive intelligence are becoming part of the enterprise applications businesses rely on every day.",
+      "date": "September 2026",
+      "readTime": "6 min read",
+      "imageCaption": "Enterprise Technology Perspective — Artificial Intelligence & Enterprise Systems",
+      "aiUseCases": [
+        {
+          "title": "Supply Chain Forecasting",
+          "desc": "Predicting demand spikes and logistics delays from historical supplier telemetry."
+        },
+        {
+          "title": "Automated Invoice Auditing",
+          "desc": "Extracting line items and matching against purchase orders with zero human entry."
+        },
+        {
+          "title": "Intelligent Service Desks",
+          "desc": "Triage and automated resolution of Tier-1 employee IT and HR requests."
+        },
+        {
+          "title": "Customer Churn Prevention",
+          "desc": "Behavioral clustering identifying early friction signals for proactive outreach."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Faster operational decisions driven by real-time predictive models",
+        "Reduction in repetitive data processing and manual reconciliations",
+        "Higher employee throughput with contextual copilot assistance",
+        "Improved customer satisfaction through hyper-personalized experiences",
+        "Continuous process self-optimization based on real telemetry",
+        "De-risked compliance tracking via automated audit-log inspection"
+      ],
+      "governancePoints": [
+        "Strict role-based access ensuring AI models never leak sensitive data",
+        "Transparent reasoning traces allowing human review on high-value actions",
+        "Continuous model evaluation to guard against hallucination and bias",
+        "Strict data provenance standards aligning with GDPR, SOC 2, and HIPAA",
+        "Human-in-the-loop escalation paths for uncertain edge conditions"
+      ],
+      "sec1Eyebrow": "THE SHIFT TO NATIVE INTELLIGENCE",
+      "sec1Heading": "AI in Enterprise Applications",
+      "sec1Subtext": "Artificial intelligence is transitioning from experimental side-projects into the core operational applications that enterprises rely on every day.",
+      "sec2Eyebrow": "AUTOMATION AT SCALE",
+      "sec2Heading": "Intelligent Automation",
+      "sec2Subtext": "Moving beyond traditional rule-based scripts toward cognitive workflows that understand unstructured content, adapt to variations, and optimize processes dynamically.",
+      "sec3Eyebrow": "EMBEDDED ASSISTANCE",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Grounded in organizational knowledge and enterprise security, AI assistants act as specialized partners across daily business workflows.",
+      "sec4Eyebrow": "FORWARD-LOOKING REASONING",
+      "sec4Heading": "Predictive Intelligence",
+      "sec4Subtext": "Transforming historical enterprise logs and real-time operational feeds into actionable foresight.",
+      "sec5Eyebrow": "REAL-WORLD APPLICATIONS",
+      "sec5Heading": "Enterprise AI Use Cases",
+      "sec5Subtext": "Practical ways leading organizations are applying artificial intelligence across core business functions.",
+      "sec6Eyebrow": "STRATEGIC VALUE",
+      "sec6Heading": "Business Benefits",
+      "sec6Subtext": "When implemented thoughtfully with governed enterprise data, AI unlocks substantial qualitative advantages.",
+      "ctaHeading": "Explore AI Opportunities for Your Business",
+      "ctaDescription": "Discover how intelligent automation, enterprise copilots and predictive models can unlock operational efficiency across your core systems.",
+      "ctaButton": "Talk to Our Experts",
+      "sec1P1": "For years, enterprise artificial intelligence was treated as an external capability: a model trained in isolation, a sandbox demonstration, or an isolated chatbot accessible through a separate portal. Today, the paradigm has fundamentally shifted. High-impact enterprise AI is embedded directly inside the systems of record—the ERPs, CRMs, human capital platforms, and supply chain engines where real business occurs.",
+      "sec1P2": "When intelligence operates inside the system of record, it inherits the organization’s established security boundaries, data models, and business logic. It does not simply generate generic responses; it acts on live orders, interprets open support tickets, reconciles supplier invoices, and assists employees within the exact interfaces they navigate every day.",
+      "sec1P3": "This transformation moves enterprise software from passive databases that wait for human keystrokes into proactive platforms that anticipate needs, automate steps, and surface timely recommendations.",
+      "sec2P1": "Traditional Robotic Process Automation (RPA) excelled at deterministic, repetitive screen scraping. However, rigid rule sets break whenever a form changes, an unexpected document layout arrives, or an exception occurs. Intelligent automation bridges this divide by combining cognitive reasoning with transactional execution:",
+      "sec2List": [
+        {
+          "bold": "Workflow automation:",
+          "text": " Orchestrating complex cross-departmental operations, routing tasks based on urgency and historical resolution paths."
+        },
+        {
+          "bold": "Intelligent document processing:",
+          "text": " Ingesting unstructured PDFs, emails, shipping manifests, and contracts, converting them into structured database transactions."
+        },
+        {
+          "bold": "Intelligent task automation:",
+          "text": " Automating multi-step operational validations—such as matching purchase orders against receipts and bank statements."
+        },
+        {
+          "bold": "Process optimization:",
+          "text": " Continuously analyzing process logs to identify cycle-time bottlenecks and recommending targeted workflow refinements."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Information Search",
+          "desc": "Semantic retrieval across distributed knowledge bases, intranet policies, product specifications, and historical ticket resolutions without keyword guessing."
+        },
+        {
+          "icon": "📝",
+          "title": "Document Summarization",
+          "desc": "Instant distillation of lengthy RFPs, vendor agreements, technical specifications, and legal amendments into actionable executive briefs and risk checklists."
+        },
+        {
+          "icon": "✨",
+          "title": "Content Generation",
+          "desc": "Assisted drafting of client proposals, operational documentation, standard operating procedures (SOPs), and standardized customer updates aligned with brand standards."
+        },
+        {
+          "icon": "📈",
+          "title": "Data Analysis",
+          "desc": "Translating conversational inquiries into complex analytical queries, generating on-the-fly chart summaries and highlighting critical outliers for leadership."
+        },
+        {
+          "icon": "🔄",
+          "title": "Business Workflows",
+          "desc": "Initiating transactions directly from chat prompts—such as scheduling resources, creating tickets, updating records, or submitting purchase requisitions."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Role-Grounded Access",
+          "desc": "Ensuring copilot responses strictly respect user permission levels, keeping confidential financials, HR files, and intellectual property protected."
+        }
+      ],
+      "sec4P1": "While generative models excel at understanding and synthesizing language, predictive intelligence focuses on mathematical patterns hidden within structured enterprise datasets. Embedded predictive models empower organizations to anticipate operational hurdles before they disrupt operations:",
+      "sec4List": [
+        {
+          "bold": "Operational forecasting:",
+          "text": " Predicting revenue trends, inventory velocity, and resource demands by synthesizing seasonal indicators with real-time pipeline velocity."
+        },
+        {
+          "bold": "Predictive analytics:",
+          "text": " Pinpointing customer churn risks, maintenance degradation cycles, and supply chain delays while there is still time to intervene."
+        },
+        {
+          "bold": "Risk identification:",
+          "text": " Flagging anomalies in financial transactions, compliance logs, and vendor procurement patterns before they escalate."
+        },
+        {
+          "bold": "Demand prediction:",
+          "text": " Harmonizing sales forecasts with manufacturing capacity and warehouse stock levels to protect working capital."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ENTERPRISE GOVERNANCE",
+      "keyPerspectiveTitle": "Trust, Oversight & Guardrails",
+      "keyPerspectiveLead": "AI is only as dependable as the data foundation beneath it and the governance surrounding it. Sustainable enterprise adoption requires deliberate architectural discipline:"
+    },
+    "modernErp": {
+      "category": "MODERN ERP",
+      "title": "Accelerating Business Transformation with Modern ERP",
+      "subtitle": "Explore how modern ERP platforms connect finance, procurement, supply chain and business operations through a unified digital foundation.",
+      "date": "August 2026",
+      "readTime": "6 min read",
+      "imageCaption": "Enterprise Technology Perspective — ERP & Connected Business Operations",
+      "connectedFunctions": [
+        {
+          "title": "Financial Management",
+          "desc": "Real-time ledger updates, automated revenue recognition, and instant multi-currency reconciliation."
+        },
+        {
+          "title": "Supply Chain & Logistics",
+          "desc": "End-to-end inventory visibility, warehouse optimization, and supplier performance telemetry."
+        },
+        {
+          "title": "Human Capital & Workforce",
+          "desc": "Self-service employee portals, automated payroll runs, and integrated talent lifecycle planning."
+        },
+        {
+          "title": "Procurement & Sourcing",
+          "desc": "Automated purchase approvals, vendor contract compliance, and dynamic spend analytics."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-Native Architecture",
+          "desc": "Elastic compute scaling without on-premise infrastructure overhead or disruptive version lock-in."
+        },
+        {
+          "title": "Open API Ecosystem",
+          "desc": "Pre-built connectors enabling seamless two-way data sync with custom microservices and CRM suites."
+        },
+        {
+          "title": "Embedded Analytics",
+          "desc": "Direct dashboard drill-downs from high-level balance sheets into individual transaction logs."
+        },
+        {
+          "title": "Automated Workflow Triggers",
+          "desc": "Event-driven event triggers executing standard cross-departmental operations autonomously."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Single source of truth eliminating conflicting departmental reports",
+        "Drastic reduction in month-end and quarter-end close cycles",
+        "Real-time inventory and logistics visibility minimizing stockouts",
+        "Reduced IT maintenance overhead through modular cloud-native updates",
+        "Unified compliance tracking across multi-regional tax jurisdictions",
+        "Faster onboarding of acquired entities into shared operational backbones"
+      ],
+      "erpStrategyPoints": [
+        "Aligning ERP architecture with core operational workflows before configuration",
+        "Selecting modular deployment models to realize rapid milestone wins",
+        "Prioritizing high-quality master data migration and reconciliation",
+        "Embedding automated change management and role-tailored training programs",
+        "Designing API gateways for frictionless future integration expansion"
+      ],
+      "sec1Eyebrow": "THE OPERATIONAL BACKBONE",
+      "sec1Heading": "Why Modern ERP Matters",
+      "sec1Subtext": "ERP is no longer just back-office accounting. It is the operating model of the modern enterprise expressed in software.",
+      "sec2Eyebrow": "INTEGRATED ECOSYSTEM",
+      "sec2Heading": "Connected Business Functions",
+      "sec2Subtext": "Real organizational value emerges when core business functions transact together on a shared digital foundation.",
+      "sec3Eyebrow": "CROSS-FUNCTIONAL HARMONY",
+      "sec3Heading": "Unified Operations & Information Flow",
+      "sec3Subtext": "Breaking down communication walls between departments to enable fluid, synchronized enterprise workflows.",
+      "sec4Eyebrow": "ENTERPRISE TELEMETRY",
+      "sec4Heading": "Real-Time Business Visibility",
+      "sec4Subtext": "Consolidating operational metrics into transparent executive dashboards that reflect current business realities.",
+      "sec5Eyebrow": "CORE PLATFORM ARCHITECTURE",
+      "sec5Heading": "Modern ERP Capabilities",
+      "sec5Subtext": "The architectural attributes that separate contemporary ERP platforms from rigid legacy installations.",
+      "sec6Eyebrow": "QUALITATIVE IMPACT",
+      "sec6Heading": "Business Benefits",
+      "sec6Subtext": "Connecting core business operations into a unified digital foundation yields measurable organizational resilience.",
+      "ctaHeading": "Modernize Your Enterprise Operations",
+      "ctaDescription": "Explore how modern ERP platforms connect finance, procurement, supply chain and business operations through a unified digital foundation.",
+      "ctaButton": "Talk to Our Experts",
+      "sec1P1": "In fast-moving enterprise landscapes, traditional Enterprise Resource Planning systems often struggle. Built in an era of batch processing and isolated local servers, legacy ERPs were heavily customized, difficult to upgrade, and painfully opaque. Crucial business operations functioned in parallel siloes, relying on fragile overnight exports to synchronize ledgers with warehouses.",
+      "sec1P2": "Modern, cloud-native ERP fundamentally redefines this dynamic. It operates as the unified digital backbone of the enterprise—a living foundation where finance, procurement, supply chain, inventory, and human resources transact on a shared data model.",
+      "sec1P3": "By bringing core operations into a single harmonized environment, modern ERP eliminates the operational blind spots that slow down growth, enabling leaders to steer the business using real-time signals rather than stale historical summaries.",
+      "sec3P1": "Operational silos are rarely people problems; they are architectural problems. When customer service, procurement, and warehouse teams work in disconnected applications, every handoff requires manual emails, spreadsheets, and phone calls. Errors multiply, invoices get held up, and customer commitments slip.",
+      "sec3P2": "Modern ERP addresses this through unified data lineage and event-driven process orchestration:",
+      "sec3List": [
+        {
+          "bold": "Synchronized order-to-cash:",
+          "text": " When a customer order is placed, inventory reserves automatically, shipping labels generate, and billing ledgers update instantaneously."
+        },
+        {
+          "bold": "Procure-to-pay transparency:",
+          "text": " Purchase orders, goods receipts, and vendor invoices match automatically with 3-way reconciliation, flagging only exceptions for human review."
+        },
+        {
+          "bold": "Unified labor and operational costing:",
+          "text": " Project timesheets, payroll allocations, and direct operational expenditures map directly to cost centers in real time."
+        }
+      ],
+      "sec4P1": "Operating an enterprise without unified visibility is like flying in dense fog with delayed instruments. Modern ERP provides real-time telemetry across every business dimension:",
+      "sec4List": [
+        {
+          "bold": "Live executive dashboards:",
+          "text": " Instantaneous views of gross margins, operating cash flows, open liabilities, and order backlogs without waiting for period-end closing."
+        },
+        {
+          "bold": "Self-service operational reporting:",
+          "text": " Departmental heads can build custom queries and drill down from enterprise-level summaries to individual transaction line items."
+        },
+        {
+          "bold": "Centralized master information:",
+          "text": " Eliminating contradictory numbers by establishing single governed master data for customers, vendors, and product catalogs."
+        },
+        {
+          "bold": "Proactive anomaly alerts:",
+          "text": " Automated alerts notify managers immediately when margins drop below threshold, inventory runs low, or supplier deliveries slip."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMATION PHILOSOPHY",
+      "keyPerspectiveTitle": "Pragmatic Modernization Over Monolithic Overhaul",
+      "keyPerspectiveLead": "Modern ERP transformation succeeds when organizations treat it as an evolutionary operating upgrade rather than an all-or-nothing IT disruption:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Building Cyber Resilience in a Connected Enterprise",
+      "subtitle": "Explore how organizations can strengthen security, protect critical systems and prepare for threats across increasingly connected environments.",
+      "date": "September 2026",
+      "readTime": "8 min read",
+      "imageCaption": "Enterprise Technology Perspective — Threat Defense & Zero-Trust Architecture",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Detection",
+          "desc": "Real-time log ingestion and SIEM anomaly correlation across all cloud endpoints and workloads."
+        },
+        {
+          "title": "Containment & Isolation",
+          "desc": "Automated network quarantine rules isolating compromised containers or credentials instantly."
+        },
+        {
+          "title": "Remediation & Root-Cause",
+          "desc": "Rapid patch rollout and digital forensics identifying the exact breach vector."
+        },
+        {
+          "title": "Resilience & Hardening",
+          "desc": "Continuous feedback into immutable backups, policy guardrails, and automated red-team simulations."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Substantial reduction in vulnerability attack surfaces across cloud assets",
+        "Guaranteed operational continuity and disaster recovery with minimal RTO/RPO",
+        "Total compliance confidence across ISO 27001, SOC 2, HIPAA, and GDPR audits",
+        "Protection of core enterprise intellectual property and confidential customer records",
+        "Streamlined vendor and third-party risk governance through unified access controls",
+        "Enhanced client and investor trust backed by verified zero-trust security postures"
+      ],
+      "zeroTrustPrinciples": [
+        "Never Trust, Always Verify: Explicit authentication required for every transaction",
+        "Least-Privilege Access: Granular role boundaries limiting lateral threat movement",
+        "Assume Breach: Continuous threat monitoring, encryption in transit and at rest",
+        "Micro-Segmentation: Network firewalls isolating individual application workloads",
+        "Continuous Telemetry: Automated behavioral analysis flagging anomalous session requests"
+      ],
+      "sec1Eyebrow": "THE EXPANDING PERIMETER",
+      "sec1Heading": "The Connected Enterprise Security Landscape",
+      "sec1Subtext": "As modern organizations connect more applications, cloud environments, remote employees, mobile devices, and third-party partners, the traditional security perimeter ceases to exist.",
+      "sec2Eyebrow": "COMPREHENSIVE DEFENSE",
+      "sec2Heading": "Multi-Layered Threat Protection",
+      "sec2Subtext": "Proactive defenses that safeguard critical infrastructure, sensitive corporate data, and operational systems.",
+      "sec3Eyebrow": "THE NEW SECURITY BORDER",
+      "sec3Heading": "Identity & Access Management (IAM)",
+      "sec3Subtext": "Identity is the foundational control plane of modern security. Nearly all serious security breaches begin with compromised credentials rather than software exploits.",
+      "sec4Eyebrow": "ARCHITECTURAL PARADIGM",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust is not a single product or tool. It is an architectural strategy based on a straightforward principle: trust no entity inside or outside the network by default.",
+      "sec5Eyebrow": "INFRASTRUCTURE GOVERNANCE",
+      "sec5Heading": "Cloud Security Considerations",
+      "sec5Subtext": "Safeguarding workloads across public cloud, hybrid architectures, and distributed container environments.",
+      "sec6Eyebrow": "OPERATIONAL RESILIENCE",
+      "sec6Heading": "Incident Readiness: Beyond Prevention",
+      "sec6Subtext": "True cyber resilience accepts that incidents may occur. Preparedness focuses on rapid containment, minimal business disruption, and verified recovery.",
+      "sec7Eyebrow": "STRATEGIC VALUE",
+      "sec7Heading": "Business Benefits",
+      "sec7Subtext": "Building a cyber-resilient enterprise protects organizational value, regulatory standing, and market reputation.",
+      "ctaHeading": "Strengthen Your Enterprise Security",
+      "ctaDescription": "Explore how organizations can strengthen security, protect critical systems and prepare for threats across increasingly connected environments.",
+      "ctaButton": "Talk to Our Experts",
+      "sec1P1": "In the legacy era of enterprise IT, security operated on a castle-and-moat doctrine: everything inside the corporate office network was presumed trusted, while everything outside was considered untrusted. A single corporate firewall protected internal servers, databases, and desktop computers.",
+      "sec1P2": "Today’s enterprise has outgrown physical walls. Workloads reside across multi-cloud environments (AWS, Azure, GCP), employees access business applications from diverse locations, and APIs continuously exchange sensitive operational data with external logistics providers, financial institutions, and SaaS vendors.",
+      "sec1P3": "While this hyper-connectivity drives tremendous business agility, it vastly expands the enterprise attack surface. Every API endpoint, identity token, connected mobile device, and SaaS integration represents a potential vector of exposure. True enterprise protection requires shifting from perimeter-based defense to proactive, end-to-end cyber resilience.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Threat Detection",
+          "desc": "Machine learning-assisted threat intelligence that monitors anomalous network patterns, credential abuse, and zero-day vulnerabilities in real time."
+        },
+        {
+          "icon": "📡",
+          "title": "Security Monitoring",
+          "desc": "Centralized Security Operations Center (SOC) telemetry correlating events across servers, container clusters, identity providers, and endpoints."
+        },
+        {
+          "icon": "🔍",
+          "title": "Vulnerability Management",
+          "desc": "Continuous automated vulnerability scanning across infrastructure, source code repositories, and container registries to remediate weaknesses proactively."
+        },
+        {
+          "icon": "🔒",
+          "title": "Data Protection",
+          "desc": "Robust encryption in transit (TLS 1.3) and at rest (AES-256), alongside granular data loss prevention (DLP) governance to prevent intellectual property leaks."
+        }
+      ],
+      "sec3P1": "Protecting enterprise assets requires ensuring that every identity—whether a human executive, an external contractor, or an autonomous software service account—has validated authorization for the exact resources it accesses.",
+      "sec3List": [
+        {
+          "bold": "Centralized identity management:",
+          "text": " Single Sign-On (SSO) and federated identity standards that eliminate fragmented password stores across applications."
+        },
+        {
+          "bold": "Adaptive multi-factor authentication (MFA):",
+          "text": " Phishing-resistant FIDO2 hardware keys and risk-based contextual challenges for sensitive administrative functions."
+        },
+        {
+          "bold": "Granular access control:",
+          "text": " Fine-grained Role-Based (RBAC) and Attribute-Based (ABAC) access controls enforced at the API and database levels."
+        },
+        {
+          "bold": "Least-privilege principles:",
+          "text": " Granting temporary, just-in-time (JIT) access that expires automatically when administrative tasks conclude."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ZERO TRUST CORE DOCTRINE",
+      "keyPerspectiveTitle": "Continuous Verification Over Blind Trust",
+      "keyPerspectiveLead": "In a Zero Trust architecture, implicit trust based on network location is entirely dismantled. Every transaction, database query, and user login must continuously prove its legitimacy:",
+      "cloudSecurityCards": [
+        {
+          "title": "Shared Responsibility",
+          "desc": "Clear governance distinguishing the cloud provider's physical infrastructure security from the enterprise's responsibility for data encryption, IAM policies, and application code."
+        },
+        {
+          "title": "Infrastructure as Code (IaC)",
+          "desc": "Immutable, auditable cloud configurations managed through code. Automated policy-as-code scanners block misconfigurations and exposed buckets before deployment."
+        },
+        {
+          "title": "Container & Kubernetes Security",
+          "desc": "Hardened container runtimes, signed image registries, network micro-segmentation, and automated secret management that keeps credentials out of source repositories."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "CLOUD & MODERNIZATION",
+      "title": "Modernizing Legacy Applications for the Cloud",
+      "subtitle": "Explore a practical approach to assessing, modernizing and moving legacy applications toward scalable, secure cloud architectures.",
+      "date": "September 2026",
+      "readTime": "6 min read",
+      "imageCaption": "Enterprise Technology Perspective — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (Lift & Shift)",
+          "desc": "Transition workloads to cloud virtual machines rapidly with minimal code modifications."
+        },
+        {
+          "title": "Replatform (Lift & Reshape)",
+          "desc": "Upgrade runtime frameworks, adopt managed cloud databases, and streamline operations."
+        },
+        {
+          "title": "Refactor (Cloud-Native Rebuild)",
+          "desc": "Deconstruct monoliths into containerized microservices and event-driven serverless APIs."
+        },
+        {
+          "title": "Replace (SaaS Modernization)",
+          "desc": "Retire redundant legacy systems in favor of purpose-built enterprise cloud software."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Legacy Assessment",
+          "desc": "Automated dependency mapping, technical debt cataloging, and cloud-readiness scoring."
+        },
+        {
+          "title": "Target Architecture",
+          "desc": "Modular microservice blueprints, container topologies, and automated IaC templates."
+        },
+        {
+          "title": "Phased Migration",
+          "desc": "Canary releases, dual-write data synchronization, and zero-downtime cutover waves."
+        },
+        {
+          "title": "Cloud Optimization",
+          "desc": "Continuous cost governance, autoscaling telemetry, and FinOps operational reviews."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Exponentially lower infrastructure maintenance and hardware refresh expenses",
+        "Near-infinite compute elasticity handling peak enterprise traffic with zero latency",
+        "Accelerated release velocity with fully automated CI/CD deployment pipelines",
+        "Elimination of legacy single points of failure with multi-AZ high availability",
+        "Modern API architectures enabling rapid cross-platform partner integrations",
+        "Advanced real-time observability into application performance and cloud spending"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mapping complex inter-application dependencies and data synchronization cadences",
+        "Identifying hardcoded environmental configurations and proprietary database schemas",
+        "Assessing regulatory compliance and data sovereignty constraints per jurisdiction",
+        "Calculating realistic Total Cost of Ownership (TCO) across refactor versus rehost paths",
+        "Establishing clear rollout waves to protect active daily business operations"
+      ],
+      "sec1Eyebrow": "THE REALITY OF LEGACY SYSTEMS",
+      "sec1Heading": "The Legacy Challenge",
+      "sec1Subtext": "Aging monoliths constrain innovation velocity, increase operational vulnerabilities, and escalate infrastructure maintenance costs.",
+      "sec2Eyebrow": "ASSESSMENT & DISCOVERY",
+      "sec2Heading": "Understanding the Application Landscape",
+      "sec2Subtext": "Successful cloud modernization begins with rigorous assessment. Jumping directly into migration without auditing application dependencies is the primary cause of delayed cutovers.",
+      "sec3Eyebrow": "THE 4 MODERNIZATION PATHS",
+      "sec3Heading": "Modernization Approaches",
+      "sec3Subtext": "There is no one-size-fits-all migration strategy. Leading enterprises match the right modernization pattern to each specific workload based on business value, urgency, and technical debt.",
+      "sec4Eyebrow": "TARGET TRANSFORMATION MODEL",
+      "sec4Heading": "Modern Cloud Architecture",
+      "sec4Subtext": "A structured roadmap that transforms legacy monoliths into elastic, secure, and maintainable cloud services.",
+      "sec5Eyebrow": "TRANSFORMATION OUTCOMES",
+      "sec5Heading": "Key Modernization Benefits",
+      "sec5Subtext": "Moving legacy systems onto modern cloud architectures delivers tangible operational agility and cost predictability.",
+      "ctaHeading": "Modernize Your Legacy Applications",
+      "ctaDescription": "Explore a practical approach to assessing, modernizing and moving legacy applications toward scalable, secure cloud architectures.",
+      "ctaButton": "Talk to Our Experts",
+      "sec1P1": "Mission-critical applications built a decade ago still drive billions in enterprise revenue, yet their architectural rigidities create growing operational risk.",
+      "sec1P2": "Every enterprise faces the tension between stability and modernization. Legacy systems were engineered for durability, and they have performed reliably for years. However, as business requirements accelerate, these aging architectures encounter structural limits:",
+      "sec1List": [
+        {
+          "bold": "Aging software stacks:",
+          "text": " Monolithic codebases built on deprecated frameworks with diminishing talent pools available for maintenance."
+        },
+        {
+          "bold": "Difficult maintenance cycles:",
+          "text": " Tightly coupled components where changing a single feature risks breaking unrelated operational modules."
+        },
+        {
+          "bold": "Limited scalability:",
+          "text": " Vertical scaling limits that require purchasing expensive proprietary hardware to handle seasonal traffic spikes."
+        },
+        {
+          "bold": "Integration challenges:",
+          "text": " Inability to interface smoothly with modern mobile apps, customer portals, or partner APIs without fragile batch scripts."
+        },
+        {
+          "bold": "Infrastructure constraints:",
+          "text": " Physical server room lifecycles, backup vulnerabilities, and high power/cooling operational expenditures."
+        }
+      ],
+      "sec2P1": "A pragmatic modernization journey begins by establishing total clarity across the existing estate:",
+      "sec2List": [
+        {
+          "bold": "Applications:",
+          "text": " Cataloging all active workloads, custom modules, background scripts, and historical third-party packages."
+        },
+        {
+          "bold": "Dependencies:",
+          "text": " Mapping complex runtime coupling, shared database tables, direct file system calls, and external service contracts."
+        },
+        {
+          "bold": "Data:",
+          "text": " Evaluating data structures, transactional integrity requirements, backup cadence, and regulatory sovereignty rules."
+        },
+        {
+          "bold": "Infrastructure:",
+          "text": " Auditing CPU, memory, storage utilization, and network throughput to right-size target cloud specifications."
+        },
+        {
+          "bold": "Business criticality:",
+          "text": " Categorizing applications into tiers to design safe, staged migration waves with clear fallback procedures."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Advantage:",
+      "cloudArchitectureBadge": "Modernization Lifecycle",
+      "cloudArchitectureTitle": "End-to-End Cloud Modernization Flow",
+      "sec4P1": "The destination architecture decouples core applications into modular, containerized services hosted on elastic cloud platforms (such as Kubernetes or managed serverless runtimes).",
+      "sec4P2": "By establishing automated CI/CD deployment pipelines, automated blue-green cutovers, and infrastructure as code, deployments transform from nerve-wracking weekend events into seamless daily routines.",
+      "sec4P3": "Elastic compute automatically scales up during demand surges and scales down during lulls, eliminating idle resource costs while guaranteeing sub-second response times for global users.",
+      "keyPerspectiveEyebrow": "MODERNIZATION BEST PRACTICES",
+      "keyPerspectiveTitle": "Four Pillars of a Successful Migration",
+      "keyPerspectiveLead": "Experience shows that modernization projects succeed when founded on comprehensive preparation, clear wave sequencing, and rigorous testing:"
+    }
+  }
+}

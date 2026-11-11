@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "services": "Perkhidmatan",
+    "products": "Produk",
+    "perspectives": "Perspektif",
+    "technologies": "Teknologi",
+    "contact": "Kenalan",
+    "signIn": "Log Masuk",
+    "signUp": "Daftar",
+    "signOut": "Log Keluar",
+    "chooseLanguage": "Pilih bahasa anda",
+    "searchLanguage": "Bahasa carian",
+    "resetEnglish": "Tetapkan semula kepada bahasa Inggeris",
+    "noResults": "Tiada bahasa ditemui",
+    "englishDefault": "Inggeris (Lalai)",
+    "english": "Inggeris"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Perisian, direka bentuk untuk cara <em>perniagaan anda</em> berjalan.",
+    "description": "Rezonants ialah sebuah syarikat perkhidmatan IT dan produk digital. Kami mereka bentuk, membina dan menskala perisian tersuai, web dan produk mudah alih, infrastruktur awan dan AI — untuk syarikat yang bersaing dalam pelaksanaan.",
+    "bookConsultation": "Tempah konsultasi percuma",
+    "exploreServices": "Teroka perkhidmatan",
+    "years": "tahun",
+    "projects": "projek",
+    "retention": "pengekalan",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — sejak 2012",
+    "metaStudio": "Studio produk digital",
+    "metaTech": "Web · Mudah Alih · Awan · AI"
+  },
+  "about": {
+    "eyebrow": "Tentang Kami",
+    "title": "Membina Penyelesaian Digital <em>Yang Menggerakkan Perniagaan ke Hadapan</em>",
+    "description": "Rezonants ialah syarikat penyelesaian teknologi yang memberi tumpuan kepada membantu perniagaan mengubah idea kepada pengalaman digital yang bermakna. Kami menggabungkan teknologi, kreativiti dan pemahaman perniagaan untuk menyampaikan penyelesaian yang direka mengikut keperluan dunia sebenar.<br /><br />Daripada transformasi digital dan pembangunan perisian tersuai kepada awan, AI, automasi dan perkhidmatan teknologi terurus, kami membantu organisasi memudahkan kerumitan, meningkatkan kecekapan dan mencipta nilai digital yang berkekalan.<br /><br /><strong>Pendekatan kami adalah mudah — memahami masalah, membina teknologi yang betul.</strong>",
+    "awardWinning": "Pemenang Anugerah",
+    "awardText": "Diiktiraf untuk kecemerlangan penyampaian merentas web dan kejuruteraan produk mudah alih.",
+    "professionalStaff": "Kakitangan Profesional",
+    "staffText": "Jurutera kanan dan bertanggungjawab yang memiliki kerja dari panggilan pertama hingga siaran langsung.",
+    "support247": "Sokongan 24/7",
+    "supportText": "Perkhidmatan terurus dan talian sokongan yang menjawab apabila anda memerlukannya.",
+    "fairPrices": "Harga Patut",
+    "pricesText": "Anggaran yang jujur ​​dan pengebilan yang telus pada setiap penglibatan.",
+    "yearsExcellence": "Tahun Kecemerlangan Perusahaan"
+  },
+  "stats": {
+    "happyClients": "Pelanggan gembira",
+    "projectsDone": "Projek selesai",
+    "winAwards": "Menangi anugerah"
+  },
+  "insights": {
+    "eyebrow": "Perspektif",
+    "title": "Perspektif",
+    "sub": "Meneroka idea, aliran dan teknologi yang membentuk masa depan.",
+    "filters": {
+      "all": "Semua",
+      "digital-transformation": "Transformasi Digital",
+      "ai": "AI & Automasi",
+      "cloud": "Awan",
+      "data": "Data & Analitis",
+      "software": "Perisian",
+      "business": "Perniagaan & Teknologi"
+    },
+    "readMore": "Baca Lagi",
+    "close": "Tutup",
+    "keyTakeaways": "Ambilan Seni Bina Utama",
+    "relatedServices": "Keupayaan & Perkhidmatan Berkaitan",
+    "minRead": "min baca",
+    "item1Date": "Julai 2026",
+    "item1Tag": "Produk & ERP",
+    "item1Title": "Pendekatan ERP modular untuk perusahaan yang sedang berkembang",
+    "item1Text": "Cara kami menstrukturkan penglibatan ERP supaya kewangan, inventori, HR dan perolehan disepadukan dengan lancar tanpa gangguan berbilang tahun.",
+    "item2Date": "Jun 2026",
+    "item2Tag": "Kecerdasan Buatan",
+    "item2Title": "Sistem AI Agentik: beralih daripada chatbots kepada pelaksanaan autonomi",
+    "item2Text": "Mereka bina sistem LLM berbilang ejen yang diselaraskan yang merancang, mengesahkan dan melaksanakan aliran kerja perniagaan yang kompleks dengan pengawasan manusia-dalam-gelung.",
+    "item3Date": "Mei 2026",
+    "item3Tag": "Pencapaian Syarikat",
+    "item3Title": "Diiktiraf antara studio inovasi IT terkemuka di Hyderabad",
+    "item3Text": "Studio kejuruteraan kami telah diiktiraf untuk kecemerlangan penghantaran, keupayaan teknologi mendalam dan kepuasan pelanggan merentas kejuruteraan produk global.",
+    "desc": "Terokai idea dan perspektif daripada Rezonants tentang transformasi digital, AI, automasi, awan, data, perisian dan masa depan teknologi perniagaan.",
+    "categories": {
+      "digitalTransformation": "Transformasi Digital",
+      "ai": "AI & Automasi",
+      "cloud": "Awan",
+      "data": "Data & Analitis",
+      "software": "Perisian",
+      "business": "Perniagaan & Teknologi"
+    }
+  },
+  "technologies": {
+    "title": "Teknologi & Seni Bina",
+    "headline": "Penyelesaian Teknologi Perusahaan",
+    "sub": "Teknologi Pintar. Operasi Automatik. Perniagaan Lebih Bijak.",
+    "selectTechnology": "Pilih penyelesaian teknologi…",
+    "options": {
+      "aiRobotics": "Penyelesaian AI & Robotik",
+      "businessAutomation": "Penyelesaian Automasi Perniagaan",
+      "cloudMigrations": "Penyelesaian Migrasi Awan",
+      "dataCenters": "Penyelesaian Pusat Data",
+      "cognitiveAnalytics": "Analitis Kognitif & AI",
+      "informationReporting": "Sistem Maklumat & Pelaporan",
+      "managedServices": "Perkhidmatan Terurus",
+      "oneStopSolutions": "Penyelesaian Teknologi Sehenti"
+    },
+    "explore": "Teroka Teknologi",
+    "bookDiscovery": "Penemuan Teknologi Buku",
+    "exploreAll": "Teroka Semua Teknologi",
+    "coreCapabilities": "Keupayaan Teknologi Teras",
+    "bookConsultation": "Tempah Perundingan"
+  },
+  "contact": {
+    "eyebrow": "Kenalan",
+    "title": "Bercakap dengan jurutera kanan, bukan skrip jualan",
+    "sub": "Kongsi sedikit tentang projek anda dan kami akan membalas dalam satu hari perniagaan.",
+    "reachUs": "Hubungi kami terus",
+    "preferConversation": "Lebih suka perbualan? Kami hanya satu panggilan sahaja.",
+    "contactLede": "Cara terpantas untuk bergerak ke hadapan ialah perbualan pendek. Hubungi kami di mana-mana saluran di bawah, atau tempah slot dan kami akan datang kepada anda dengan bersedia.",
+    "phone": "Telefon",
+    "email": "E-mel",
+    "office": "Pejabat",
+    "hours": "Jam",
+    "hoursValue": "Isn – Sab, 9:30 – 18:30 IST",
+    "bookSlot": "Tempah slot perundingan",
+    "sendMessage": "Hantar mesej kepada kami",
+    "fieldsRequired": "Medan bertanda * diperlukan.",
+    "fullName": "Nama Penuh *",
+    "emailLabel": "E-mel *",
+    "company": "Syarikat",
+    "subject": "Subjek",
+    "messageLabel": "Mesej *",
+    "sending": "Menghantar…",
+    "sendBtn": "Hantar mesej",
+    "successMsg": "Mesej dihantar! Satu salinan telah dihantar melalui e-mel kepada anda.",
+    "errorMsg": "Tidak dapat menyimpan mesej anda. Semak sama ada jadual contact_messages wujud, kemudian cuba lagi.",
+    "offices": {
+      "vijayawada": "Pejabat Vijayawada",
+      "southAfrica": "Pejabat Afrika Selatan"
+    },
+    "placeholders": {
+      "fullName": "Nama penuh anda",
+      "email": "you@company.com",
+      "company": "Syarikat atau organisasi anda",
+      "subject": "Bagaimana kami boleh membantu?",
+      "message": "Beritahu kami tentang projek, garis masa dan matlamat anda..."
+    },
+    "validation": {
+      "fullNameRequired": "Sila masukkan nama penuh anda.",
+      "emailRequired": "Sila masukkan alamat e-mel anda.",
+      "emailInvalid": "Sila masukkan alamat e-mel yang sah.",
+      "messageRequired": "Sila masukkan mesej."
+    }
+  },
+  "services": {
+    "eyebrow": "Perkhidmatan",
+    "title": "Apa yang kami lakukan",
+    "sub": "Daripada strategi kepada operasi terurus, kami menyampaikan perkongsian teknologi hujung ke hujung untuk syarikat yang bersaing dalam pelaksanaan.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Permulaan Untuk Penggunaan",
+        "description": "Pembangunan hujung ke hujung penyelesaian digital baharu daripada keperluan perniagaan dan seni bina penyelesaian melalui pembangunan, penyepaduan, ujian, penggunaan dan sokongan berterusan."
+      },
+      "businessProcessAutomation": {
+        "label": "Automasi Proses Perniagaan",
+        "description": "Reka bentuk dan pelaksanaan penyelesaian automasi pintar yang menyelaraskan proses perniagaan, menghapuskan aktiviti manual yang berulang, meningkatkan kecekapan operasi dan mempercepatkan hasil perniagaan."
+      },
+      "centerOfExcellence": {
+        "label": "Pusat Kecemerlangan",
+        "description": "Penubuhan teknologi khusus dan pusat keupayaan perniagaan yang menyediakan tadbir urus, piawaian, kepakaran, rangka kerja, aset boleh guna semula dan penambahbaikan berterusan di seluruh organisasi."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Pembangunan & Penyesuaian Tersuai",
+        "description": "Pembangunan dan peningkatan aplikasi, platform, aliran kerja dan penyelesaian perusahaan untuk menangani keperluan perniagaan yang unik dan menyampaikan fungsi yang disesuaikan."
+      },
+      "digitalTransformation": {
+        "label": "Transformasi Digital",
+        "description": "Pemodenan operasi perniagaan, ekosistem teknologi dan pengalaman pelanggan melalui awan, AI, automasi, data dan teknologi aplikasi moden."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Rangka Kerja Penyelesaian Hujung ke Hujung",
+        "description": "Pendekatan penyampaian komprehensif yang meliputi kitaran hayat teknologi yang lengkap—daripada strategi, keperluan dan seni bina kepada pembangunan, penyepaduan, penggunaan, tadbir urus, pemantauan dan sokongan."
+      },
+      "migrationModernization": {
+        "label": "Migrasi & Pemodenan",
+        "description": "Penghijrahan aplikasi, data, platform, infrastruktur dan beban kerja yang selamat dan berstruktur daripada persekitaran lama atau sedia ada kepada platform teknologi moden, berskala dan dioptimumkan."
+      },
+      "pocPilotImplementation": {
+        "label": "Bukti Konsep (PoC) & Pelaksanaan Perintis",
+        "description": "Pembangunan pantas dan pengesahan penyelesaian teknologi untuk menilai kebolehlaksanaan teknikal, nilai perniagaan, keperluan penyepaduan, prestasi dan kebolehskalaan sebelum pelaksanaan skala penuh."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Perkhidmatan Dikongsi & Operasi Terurus",
+        "description": "Penyampaian teknologi dan keupayaan operasi secara berpusat merentas unit perniagaan melalui proses piawai, sumber mahir, rangka kerja tadbir urus, pengurusan perkhidmatan dan tahap perkhidmatan yang boleh diukur."
+      },
+      "customDevelopment": {
+        "label": "Permulaan Untuk Penggunaan",
+        "description": "Pembangunan hujung ke hujung penyelesaian digital baharu daripada keperluan perniagaan dan seni bina penyelesaian melalui pembangunan, penyepaduan, ujian, penggunaan dan sokongan berterusan."
+      },
+      "processAutomation": {
+        "label": "Automasi Proses Perniagaan",
+        "description": "Reka bentuk dan pelaksanaan penyelesaian automasi pintar yang menyelaraskan proses perniagaan, menghapuskan aktiviti manual yang berulang, meningkatkan kecekapan operasi dan mempercepatkan hasil perniagaan."
+      },
+      "solutionEngineering": {
+        "label": "Pembangunan & Penyesuaian Tersuai",
+        "description": "Pembangunan dan peningkatan aplikasi, platform, aliran kerja dan penyelesaian perusahaan untuk menangani keperluan perniagaan yang unik dan menyampaikan fungsi yang disesuaikan."
+      },
+      "endToEndSolutions": {
+        "label": "Rangka Kerja Penyelesaian Hujung ke Hujung",
+        "description": "Pendekatan penyampaian komprehensif yang meliputi kitaran hayat teknologi yang lengkap—daripada strategi, keperluan dan seni bina kepada pembangunan, penyepaduan, penggunaan, tadbir urus, pemantauan dan sokongan."
+      },
+      "migrationServices": {
+        "label": "Migrasi & Pemodenan",
+        "description": "Penghijrahan aplikasi, data, platform, infrastruktur dan beban kerja yang selamat dan berstruktur daripada persekitaran lama atau sedia ada kepada platform teknologi moden, berskala dan dioptimumkan."
+      },
+      "pilotPrototyping": {
+        "label": "Bukti Konsep (PoC) & Pelaksanaan Perintis",
+        "description": "Pembangunan pantas dan pengesahan penyelesaian teknologi untuk menilai kebolehlaksanaan teknikal, nilai perniagaan, keperluan penyepaduan, prestasi dan kebolehskalaan sebelum pelaksanaan skala penuh."
+      },
+      "sharedServices": {
+        "label": "Perkhidmatan Dikongsi & Operasi Terurus",
+        "description": "Penyampaian teknologi dan keupayaan operasi secara berpusat merentas unit perniagaan melalui proses piawai, sumber mahir, rangka kerja tadbir urus, pengurusan perkhidmatan dan tahap perkhidmatan yang boleh diukur."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Jadualkan Perundingan",
+      "exploreFramework": "Teroka Rangka Kerja Penyelesaian",
+      "talkSeniorEngineer": "Bercakap dengan Jurutera Kanan",
+      "exploreTechStack": "Teroka Tindanan Teknologi",
+      "bookPocSession": "Tempah Sesi Penemuan PoC",
+      "seeAllServices": "Lihat Semua Perkhidmatan",
+      "requestAssessment": "Minta Penilaian Migrasi",
+      "exploreCloudSolutions": "Terokai Penyelesaian Awan"
+    },
+    "sharedServices": {
+      "heroBadge": "PERKHIDMATAN BERKONGSI & OPERASI TERURUS",
+      "heroTitle": "Perkhidmatan Kongsi Perusahaan & Operasi Terurus",
+      "heroDesc": "Skalakan keupayaan perniagaan, perkemas aliran kerja merentas fungsi, dan capai kecemerlangan operasi melalui model perkhidmatan kongsi yang standard, selamat dan kos efektif.",
+      "bookDiscovery": "Penemuan Operasi Terurus Buku",
+      "exploreFramework": "Teroka Rangka Kerja Penyelesaian",
+      "coreCapabilities": "Keupayaan Teras:",
+      "managedServices": "Perkhidmatan Terurus",
+      "itOperations": "Operasi IT",
+      "appSupport": "Sokongan Aplikasi",
+      "serviceManagement": "Pengurusan Perkhidmatan",
+      "resourceOptimization": "Pengoptimuman Sumber",
+      "slaManagement": "Pengurusan SLA",
+      "governance": "Tadbir urus",
+      "continuousImprovement": "Penambahbaikan Berterusan",
+      "costOptimization": "Pengoptimuman Kos",
+      "readyTitle": "Bersedia untuk Mengoptimumkan Operasi Anda?",
+      "readyDesc": "Ketahui cara rangka kerja Perkhidmatan Kongsi & Operasi Terurus kami boleh meningkatkan kualiti perkhidmatan, memastikan kesinambungan operasi dan memacu kecekapan kos yang mampan untuk perusahaan anda.",
+      "scheduleSession": "Jadualkan Sesi Penemuan"
+    },
+    "solutionEngineering": {
+      "heroBadge": "KEJURUTERAAN & SENIBINA PENYELESAIAN",
+      "heroTitle": "Pembangunan & Penyesuaian Tersuai",
+      "heroDesc": "Arkitek, jurutera dan gunakan sistem perisian berprestasi tinggi yang direka khusus untuk aliran kerja operasi, saluran paip data dan keperluan skala anda."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "INOVASI & EKSPERIMENTASI PANTAS",
+      "heroTitle": "Bukti Konsep (PoC) & Pelaksanaan Perintis",
+      "heroDesc": "Sahkan teknologi baru muncul, seni bina kompleks nyah risiko dan buktikan nilai perniagaan dengan prototaip gred pengeluaran dalam beberapa minggu, bukan suku."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "SENIBINA & PENGHANTARAN KITAR HIDUP",
+      "heroTitle": "Rangka Kerja Penyelesaian Hujung ke Hujung",
+      "heroDesc": "Model penyampaian bersatu yang menghubungkan penemuan produk, seni bina penyelesaian, kejuruteraan, infrastruktur awan dan operasi kebolehpercayaan 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "PEMODENAN INFRASTRUKTUR & LEGASI",
+      "heroTitle": "Migrasi & Pemodenan",
+      "heroDesc": "Alihkan beban kerja lama, seni bina monolitik dan infrastruktur di premis dengan lancar kepada platform awan yang moden, selamat dan berskala."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Pemodenan Perusahaan",
+        "titlePart1": "digital",
+        "titlePart2": "Transformasi",
+        "description": "Pemodenan operasi perniagaan, ekosistem teknologi dan pengalaman pelanggan melalui awan, AI, automasi, data dan teknologi aplikasi moden.",
+        "bookWorkshop": "Bengkel Transformasi Buku",
+        "exploreFramework": "Teroka Rangka Kerja Penyelesaian",
+        "startTransformation": "Mulakan Transformasi",
+        "exploreStrategy": "Terokai Strategi",
+        "coreCapabilitiesTitle": "Keupayaan Teras",
+        "coreCapabilities": [
+          "Strategi Digital",
+          "Transformasi Awan",
+          "AI & Automasi",
+          "Pemodenan Aplikasi",
+          "Pemodenan Legasi",
+          "Data & Analitis",
+          "Pengalaman Pelanggan",
+          "Pemodenan Teknologi"
+        ],
+        "row1Eyebrow": "Strategi & Hala Tuju",
+        "row1Title": "Daripada Visi kepada Pelan Hala Tuju Boleh Laksana",
+        "row1P1": "Kami bekerjasama dengan pemimpin perusahaan untuk mentakrifkan strategi digital, kes perniagaan dan peta jalan berperingkat dengan kemenangan pantas dan pelaksanaan yang tidak berisiko.",
+        "row1P2": "Inisiatif yang diutamakan, model TCO dan KPI memastikan setiap usaha pemodenan teknologi berkait secara langsung dengan hasil, kecekapan dan kepuasan pelanggan.",
+        "row2Eyebrow": "Pemodenan Legasi",
+        "row2Title": "Modenkan Tanpa Memecahkan Perniagaan",
+        "row2P1": "Platform semula monolit kepada perkhidmatan mikro, API dan corak asli awan dengan pemotongan masa henti sifar dan pengesahan regresi automatik.",
+        "row2P2": "Kami memodenkan aplikasi, pangkalan data dan lapisan integrasi sambil mengekalkan pematuhan dan postur keselamatan.",
+        "row3Eyebrow": "Awan, AI & Data",
+        "row3Title": "Penggunaan Awan & Perisikan Dipacu Data",
+        "row3P1": "Gunakan AWS, Azure dan GCP, bina saluran data moden dan benamkan ejen pembelajaran mesin untuk memacu keputusan autonomi.",
+        "row3P2": "Daripada penstriman acara masa nyata kepada papan pemuka bersatu, transformasi menjadi boleh diukur dan mampan.",
+        "row4Eyebrow": "Pengalaman Pelanggan",
+        "row4Title": "Pengalaman Omnichannel Moden",
+        "row4P1": "Reka bentuk semula perjalanan pelanggan merentas web responsif, iOS, Android dan portal layan diri dengan antara muka yang diperibadikan.",
+        "row4P2": "Kejuruteraan platform, telemetri dan gelung maklum balas automatik menjadikan inovasi digital berterusan.",
+        "pillarsTitle": "Tonggak Transformasi",
+        "pillarsSub": "Tuas berfokuskan hasil yang memastikan kepimpinan digital yang mampan.",
+        "pillar1Title": "Strategi & Tadbir Urus Digital",
+        "pillar1Desc": "Pelan tindakan transformasi berperingkat dengan pemodelan kes perniagaan, tadbir urus seni bina dan penjejakan risiko peristiwa penting.",
+        "pillar2Title": "Platform Awan & Data",
+        "pillar2Desc": "Asas berbilang awan AWS/Azure/GCP, saluran paip automatik dan pembolehan analitis data perusahaan.",
+        "pillar3Title": "AI & Automasi",
+        "pillar3Desc": "Automasi proses pintar, ejen AI kognitif dan telemetri ramalan untuk mengoptimumkan operasi harian.",
+        "pillar4Title": "Pengalaman Pelanggan",
+        "pillar4Desc": "Portal digital omnichannel bertukar tinggi dan antara muka diperibadikan yang dibina untuk pengekalan pengguna maksimum.",
+        "ctaTitle": "Bersedia untuk Mengubah Perusahaan Anda?",
+        "ctaSub": "Bekerjasama dengan Rezonants untuk transformasi digital berperingkat dan tidak berisiko yang terikat dengan hasil perniagaan yang boleh diukur.",
+        "ctaButton": "Tempah Panggilan Transformasi Digital"
+      },
+      "customDevelopment": {
+        "eyebrow": "Kejuruteraan Digital Hujung ke Hujung",
+        "titlePart1": "Permulaan Kepada",
+        "titlePart2": "Kerahan",
+        "bookConsultation": "Tempah Perundingan",
+        "exploreEngineering": "Terokai Kejuruteraan Penyelesaian"
+      },
+      "processAutomation": {
+        "eyebrow": "Operasi Proses Pintar",
+        "titlePart1": "Proses Perniagaan",
+        "titlePart2": "Automasi",
+        "bookDiscovery": "Penemuan Automasi Buku",
+        "exploreCoE": "Terokai Pusat Kecemerlangan"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Pusat",
+        "titlePart2": "Kecemerlangan",
+        "bookConsultation": "Tempah Konsultasi CoE",
+        "exploreCapabilities": "Teroka Keupayaan"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Kitaran Hayat Teknologi Lengkap",
+        "titlePart1": "Hujung ke Hujung",
+        "titlePart2": "Rangka Kerja Penyelesaian",
+        "startJourney": "Mulakan Perjalanan Kitaran Hayat Anda",
+        "exploreTransformation": "Terokai Transformasi"
+      },
+      "migrationServices": {
+        "eyebrow": "Awan & Transformasi Infrastruktur",
+        "titlePart1": "Penghijrahan &",
+        "titlePart2": "Pemodenan",
+        "planMigration": "Rancang Penghijrahan Anda",
+        "exploreTransformation": "Terokai Transformasi"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Pengesahan Pantas & Kebolehlaksanaan",
+        "titlePart1": "Bukti Konsep (PoC) &",
+        "titlePart2": "Pelaksanaan Perintis",
+        "initiateDiscovery": "Mulakan Penemuan PoC",
+        "exploreDevelopment": "Terokai Pembangunan Tersuai"
+      },
+      "solutionEngineering": {
+        "badge": "Kejuruteraan Digital Disesuaikan",
+        "bookConsultation": "Tempah Perundingan",
+        "exploreCapabilities": "Teroka Keupayaan"
+      },
+      "sharedServices": {
+        "eyebrow": "Hab Operasi Berpusat",
+        "titlePart1": "Perkhidmatan Dikongsi &",
+        "titlePart2": "Operasi Terurus",
+        "bookDiscovery": "Penemuan Operasi Terurus Buku",
+        "exploreFramework": "Terokai Rangka Kerja Penyelesaian"
+      }
+    },
+    "coreCapabilities": "Keupayaan Teras"
+  },
+  "products": {
+    "featured": "Produk Pilihan",
+    "featuredSub": "Memudahkan operasi, menghubungkan pasukan, mengautomasikan proses dan memacu pertumbuhan perniagaan yang lebih bijak.",
+    "seeAll": "Lihat Semua Produk",
+    "featuredProducts": "PRODUK TERKENAL",
+    "meetAutonomous": "Temui Tenaga Kerja Autonomi",
+    "meetAutonomousText": "Ubah operasi anda dengan ejen AI yang bekerja bersama pasukan anda untuk mengendalikan tugasan yang kompleks dan berulang.",
+    "learnMore": "Ketahui Lebih Lanjut",
+    "erp": {
+      "title": "Satu Platform Sedia untuk Apa-apa sahaja",
+      "sub": "Memperkasakan perniagaan dengan penyelesaian pengurusan perusahaan yang berkaitan, pintar dan berskala.",
+      "explore": "Terokai Penyelesaian ERP",
+      "gridTitle": "PENYELESAIAN ERP",
+      "promoTitle": "ERP Modular untuk Pertumbuhan",
+      "promoText": "Gunakan ciri ERP modular dengan pantas tanpa kerumitan sistem berbilang tahun tradisional.",
+      "scheduleDemo": "Jadual Demo"
+    },
+    "it": {
+      "title": "Penyelesaian IT",
+      "sub": "Penyelesaian infrastruktur, keselamatan dan DevOps gred perusahaan untuk memastikan perniagaan anda terus berjalan.",
+      "explore": "Terokai Penyelesaian IT",
+      "gridTitle": "PENYELESAIAN IT",
+      "promoTitle": "Infrastruktur IT yang Boleh Dipercayai",
+      "promoText": "Bina asas teknologi yang berdaya tahan dengan perkhidmatan awan, keselamatan dan DevOps terurus.",
+      "getStarted": "Bermula"
+    },
+    "crm": {
+      "title": "Penyelesaian CRM",
+      "sub": "Pengurusan perhubungan pelanggan untuk menyelaraskan aliran kerja jualan, sokongan dan pemasaran.",
+      "explore": "Terokai Penyelesaian CRM",
+      "gridTitle": "PENYELESAIAN CRM",
+      "promoTitle": "Tutup Lagi Tawaran",
+      "promoText": "Perkasakan pasukan jualan dan sokongan anda dengan data pelanggan bersatu dan automasi pintar.",
+      "startTrial": "Mulakan Percubaan Percuma"
+    },
+    "hrms": {
+      "title": "Penyelesaian HRMS",
+      "sub": "Pengurusan sumber manusia meliputi senarai gaji, pengambilan, prestasi dan penglibatan pekerja.",
+      "explore": "Terokai Penyelesaian HRMS",
+      "gridTitle": "PENYELESAIAN HRMS",
+      "promoTitle": "Permudahkan Operasi HR",
+      "promoText": "Automatikkan aliran kerja HR daripada pengambilan hingga persaraan dengan platform moden yang mengutamakan pekerja.",
+      "requestDemo": "Minta Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Produk Pilihan",
+      "erpSolutions": "Penyelesaian ERP",
+      "solutions": "PENYELESAIAN"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Ejen autonomi pintar dan alatan yang mengautomasikan aliran kerja dan operasi pelanggan yang kompleks."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Platform pengurusan berbilang awan yang mengoptimumkan prestasi, keselamatan, pematuhan dan kos."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hab kerjasama dan produktiviti hibrid dengan pengurusan tugasan, sembang dan dokumen bersepadu."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Enjin analitik masa nyata mengubah aliran acara perniagaan menjadi cerapan yang boleh diambil tindakan."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Seni bina perusahaan bersatu yang menghubungkan kewangan, aset, HR, perolehan dan inventori."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platform pengalaman pekerja meliputi senarai gaji, faedah, ulasan prestasi dan layan diri."
+      },
+      "supplyChainIq": {
+        "title": "IQ Rantaian Bekalan",
+        "description": "Penjejakan logistik masa nyata, operasi gudang automatik dan ramalan permintaan."
+      },
+      "financeHub": {
+        "title": "Hab Kewangan",
+        "description": "Pengurusan lejar lanjutan, aliran kerja pengebilan, pematuhan automatik dan laporan aliran tunai masa nyata."
+      },
+      "cloudInfrastructure": {
+        "title": "Infrastruktur Awan",
+        "description": "Seni bina awan berskala, migrasi dan pengurusan merentas AWS, Azure dan GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Suite Keselamatan Siber",
+        "description": "Pemantauan keselamatan hujung ke hujung, pengesanan ancaman dan pengurusan pematuhan."
+      },
+      "devopsPipeline": {
+        "title": "Saluran Paip DevOps",
+        "description": "Automasi CI/CD, kontena dan infrastruktur-sebagai-kod untuk penghantaran yang lebih pantas."
+      },
+      "managedItServices": {
+        "title": "Perkhidmatan IT Terurus",
+        "description": "Pemantauan infrastruktur 24/7, tindak balas insiden dan penyelenggaraan proaktif."
+      },
+      "salesCrm": {
+        "title": "CRM Jualan",
+        "description": "Pengurusan saluran paip, pemarkahan petunjuk, penjejakan tawaran dan ramalan jualan dalam satu platform."
+      },
+      "customerSupportHub": {
+        "title": "Hab Sokongan Pelanggan",
+        "description": "Tiket, pangkalan pengetahuan, sembang langsung dan pengurusan sokongan omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Automasi Pemasaran",
+        "description": "Orkestrasi kempen, automasi e-mel, asuhan petunjuk dan analitis."
+      },
+      "customer360View": {
+        "title": "Paparan Pelanggan 360",
+        "description": "Profil pelanggan bersatu yang menggabungkan data jualan, sokongan dan interaksi."
+      },
+      "coreHr": {
+        "title": "Sumber Manusia Teras",
+        "description": "Rekod pekerja, hierarki organisasi, pengurusan cuti dan penjejakan kehadiran."
+      },
+      "payrollCompliance": {
+        "title": "Gaji & Pematuhan",
+        "description": "Pemprosesan gaji automatik, pengiraan cukai dan pematuhan berkanun."
+      },
+      "performanceManagement": {
+        "title": "Pengurusan Prestasi",
+        "description": "Penjejakan OKR, ulasan 360°, penetapan matlamat dan rancangan pembangunan pekerja."
+      },
+      "recruitmentPortal": {
+        "title": "Portal Pengambilan",
+        "description": "Penyiaran kerja, penjejakan pemohon, penjadualan temu duga dan aliran kerja onboarding."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Produk Pilihan",
+        "heading": "Produk Pilihan",
+        "sub": "Memudahkan operasi, menghubungkan pasukan, mengautomasikan proses dan memacu pertumbuhan perniagaan yang lebih bijak.",
+        "promoTitle": "Temui Tenaga Kerja Autonomi",
+        "promoText": "Ubah operasi anda dengan ejen AI yang bekerja bersama pasukan anda untuk mengendalikan tugasan yang kompleks dan berulang.",
+        "items": [
+          {
+            "title": "Automasi AI & Ejen Pintar",
+            "description": "Automatikkan tugasan berulang dan gunakan ejen AI pintar yang meningkatkan produktiviti, membuat keputusan dan hasil perniagaan."
+          },
+          {
+            "title": "Perkhidmatan IT & Sokongan Digital",
+            "description": "Menyampaikan sokongan IT yang lebih pantas dan lebih pintar dengan pengurusan perkhidmatan yang diperkemas, automasi dan aliran kerja digital."
+          },
+          {
+            "title": "Tadbir Urus AI Perusahaan",
+            "description": "Bina penggunaan AI yang bertanggungjawab dengan tadbir urus, keselamatan, pematuhan, ketelusan dan kawalan risiko yang kukuh."
+          },
+          {
+            "title": "Operasi IT Pintar",
+            "description": "Ubah operasi IT dengan pemantauan dipacu AI, automasi, cerapan ramalan dan penyelesaian isu proaktif."
+          },
+          {
+            "title": "Pengurusan Pengalaman Pelanggan",
+            "description": "Buat perjalanan pelanggan yang diperibadikan dengan penglibatan pintar, automasi, analitik dan pengalaman digital yang lancar."
+          },
+          {
+            "title": "Strategi Perniagaan & Pengoptimuman Portfolio",
+            "description": "Selaraskan pelaburan teknologi dengan matlamat perniagaan untuk mengoptimumkan portfolio, meningkatkan kecekapan dan memacu pertumbuhan yang mampan."
+          },
+          {
+            "title": "Kitaran Hayat Aset & Teknologi IT",
+            "description": "Urus aset IT sepanjang kitaran hayatnya dengan keterlihatan, automasi, kawalan kos dan perancangan teknologi yang lebih baik."
+          },
+          {
+            "title": "Risiko & Pematuhan Perusahaan",
+            "description": "Kenal pasti, menilai dan mengurus risiko perusahaan sambil mengukuhkan pematuhan, kawalan dan daya tahan organisasi."
+          },
+          {
+            "title": "Keselamatan Siber & Operasi Ancaman",
+            "description": "Lindungi persekitaran digital dengan pengesanan ancaman proaktif, operasi keselamatan, tindak balas insiden dan pemantauan berterusan."
+          },
+          {
+            "title": "Automasi Tenaga Kerja Lapangan",
+            "description": "Memperkasakan pasukan lapangan dengan penjadualan pintar, aliran kerja mudah alih, automasi dan keterlihatan operasi masa nyata."
+          },
+          {
+            "title": "Pengalaman Pekerja & Perkhidmatan HR",
+            "description": "Permudahkan perkhidmatan pekerja dengan aliran kerja digital, penyelesaian layan diri, automasi dan pengalaman pekerja yang diperibadikan."
+          },
+          {
+            "title": "Tempat Kerja Digital Bersatu",
+            "description": "Hubungkan orang, proses, aplikasi dan alatan kerjasama melalui tempat kerja digital yang selamat, pintar dan lancar."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Penyelesaian ERP",
+        "heading": "Satu Platform, Bersedia untuk Apa-apa",
+        "sub": "Memperkasakan perniagaan dengan penyelesaian pengurusan perusahaan yang berkaitan, pintar dan berskala.",
+        "promoTitle": "ERP Modular untuk Pertumbuhan",
+        "promoText": "Gunakan ciri ERP modular dengan pantas tanpa kerumitan sistem berbilang tahun tradisional.",
+        "items": [
+          {
+            "title": "Automasi Proses Perniagaan",
+            "description": "Perkemas kewangan, HR, jualan, perolehan dan operasi harian."
+          },
+          {
+            "title": "Pengurusan Perniagaan Bersepadu",
+            "description": "Sambungkan jabatan, data dan aliran kerja pada platform bersatu."
+          },
+          {
+            "title": "Kewangan & Perakaunan",
+            "description": "Tingkatkan keterlihatan kewangan, pelaporan, belanjawan dan pematuhan."
+          },
+          {
+            "title": "HR & Gaji",
+            "description": "Permudahkan pengurusan pekerja, kehadiran, senarai gaji dan proses HR."
+          },
+          {
+            "title": "Pengurusan Rantaian Bekalan",
+            "description": "Optimumkan perolehan, inventori, vendor dan logistik."
+          },
+          {
+            "title": "Pengurusan Jualan & Pelanggan",
+            "description": "Urus petunjuk, pelanggan, pesanan dan prestasi jualan dengan cekap."
+          },
+          {
+            "title": "Analitis & Pelaporan Masa Nyata",
+            "description": "Tukar data perniagaan menjadi cerapan yang boleh diambil tindakan untuk membuat keputusan yang lebih pantas."
+          },
+          {
+            "title": "Penyelesaian Cloud ERP",
+            "description": "Dayakan pengurusan perusahaan yang selamat, berskala dan boleh diakses dari mana-mana sahaja."
+          }
+        ]
+      },
+      "it": {
+        "title": "Penyelesaian IT",
+        "heading": "Penyelesaian IT Kami",
+        "sub": "Ubah operasi IT dengan penyelesaian digital pintar, proaktif dan berskala yang meningkatkan prestasi, produktiviti dan kesinambungan perniagaan.",
+        "promoTitle": "Infrastruktur IT Boleh Dipercayai",
+        "promoText": "Bina asas teknologi yang berdaya tahan dengan perkhidmatan awan, keselamatan dan DevOps terurus.",
+        "items": [
+          {
+            "title": "Pengurusan Perkhidmatan IT",
+            "description": "Perkemas perkhidmatan IT, insiden, permintaan dan aliran kerja untuk penyelesaian yang lebih pantas."
+          },
+          {
+            "title": "Pengurusan Operasi IT",
+            "description": "Pantau infrastruktur dan aplikasi dengan operasi IT yang dipacu data yang proaktif."
+          },
+          {
+            "title": "Pengurusan Aset IT",
+            "description": "Urus aset teknologi dengan cekap sambil mengurangkan kos, risiko dan kerumitan kitaran hayat."
+          },
+          {
+            "title": "Seni Bina Perusahaan",
+            "description": "Selaraskan strategi perniagaan dengan seni bina teknologi dan pelaburan yang betul."
+          },
+          {
+            "title": "Tadbir Urus Awan",
+            "description": "Tingkatkan keselamatan awan, pematuhan, prestasi dan pengurusan kos."
+          },
+          {
+            "title": "Operasi Digital",
+            "description": "Automatikkan proses IT dan dapatkan keterlihatan masa nyata merentas persekitaran teknologi anda."
+          },
+          {
+            "title": "Kebolehmerhatian & Pemantauan",
+            "description": "Kesan isu prestasi lebih awal dan kekalkan pengalaman digital yang boleh dipercayai."
+          },
+          {
+            "title": "Pengurusan Portfolio Strategik",
+            "description": "Hubungkan pelaburan IT dengan keutamaan perniagaan dan hasil yang boleh diukur."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Penyelesaian CRM",
+        "heading": "Penyelesaian CRM Kami",
+        "sub": "Sampaikan pengalaman pelanggan yang berkaitan, diperibadikan dan pintar merentasi keseluruhan perjalanan pelanggan.",
+        "promoTitle": "Tutup Lagi Tawaran",
+        "promoText": "Memperkasakan pasukan jualan dan sokongan anda dengan data pelanggan bersatu dan automasi pintar.",
+        "items": [
+          {
+            "title": "Pengurusan Perkhidmatan Pelanggan",
+            "description": "Tingkatkan sokongan pelanggan dengan resolusi yang lebih pantas, layan diri dan aliran kerja pintar."
+          },
+          {
+            "title": "Automasi Jualan",
+            "description": "Automatikkan aktiviti jualan, urus petunjuk dan bantu pasukan menutup peluang dengan lebih pantas."
+          },
+          {
+            "title": "Pengurusan Jualan & Pesanan",
+            "description": "Perkemas perjalanan daripada petunjuk kepada pesanan dan tingkatkan keterlihatan hasil."
+          },
+          {
+            "title": "Pengurusan Khidmat Lapangan",
+            "description": "Optimumkan operasi lapangan, penjadualan, penghantaran dan produktiviti juruteknik."
+          },
+          {
+            "title": "Pengurusan Pengalaman Pelanggan",
+            "description": "Cipta pengalaman yang lancar dan diperibadikan merentas setiap titik sentuh pelanggan."
+          },
+          {
+            "title": "Analitis & Cerapan CRM",
+            "description": "Tukar data pelanggan menjadi cerapan yang boleh diambil tindakan untuk membuat keputusan perniagaan yang lebih bijak."
+          },
+          {
+            "title": "Automasi Pemasaran",
+            "description": "Automatikkan kempen, penglibatan pelanggan dan pemupukan petunjuk."
+          },
+          {
+            "title": "CRM Dikuasakan AI",
+            "description": "Gunakan automasi pintar dan cerapan AI untuk meningkatkan produktiviti dan penglibatan pelanggan."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Penyelesaian HRMS",
+        "heading": "Penyelesaian HRMS kami",
+        "sub": "Memperkasakan tenaga kerja anda dengan penyelesaian HR yang bijak, bersepadu dan automatik yang memudahkan pengurusan pekerja dan meningkatkan pengalaman di tempat kerja.",
+        "promoTitle": "Permudahkan Operasi HR",
+        "promoText": "Automatikkan aliran kerja HR dari pengambilan hingga persaraan dengan platform moden yang mengutamakan pekerja.",
+        "items": [
+          {
+            "title": "Pengurusan Sumber Manusia Teras",
+            "description": "Urus maklumat pekerja, struktur organisasi dan proses HR dengan cekap."
+          },
+          {
+            "title": "Pengurusan Gaji",
+            "description": "Automatikkan senarai gaji, pemprosesan gaji, potongan dan pematuhan."
+          },
+          {
+            "title": "Layan Diri Pekerja",
+            "description": "Berikan pekerja akses mudah kepada perkhidmatan HR, permintaan, dokumen dan maklumat."
+          },
+          {
+            "title": "Pengurusan Kehadiran & Cuti",
+            "description": "Permudahkan pengesanan kehadiran, permintaan cuti, syif dan waktu bekerja."
+          },
+          {
+            "title": "Pengambilan & Onboarding",
+            "description": "Perkemas pengambilan pekerja, pengurusan calon, onboarding dan integrasi pekerja."
+          },
+          {
+            "title": "Pengurusan Prestasi",
+            "description": "Tetapkan matlamat, jejak prestasi, dan sokong pembangunan pekerja yang berterusan."
+          },
+          {
+            "title": "Pembelajaran & Perkembangan",
+            "description": "Urus program latihan, pembangunan kemahiran, dan pertumbuhan pekerja."
+          },
+          {
+            "title": "Analisis HR & Pelaporan",
+            "description": "Tukar data tenaga kerja menjadi cerapan yang boleh diambil tindakan untuk keputusan HR yang lebih baik."
+          },
+          {
+            "title": "Automasi HR Dikuasakan AI",
+            "description": "Automatikkan tugas HR yang berulang dan berikan pengalaman pekerja yang lebih pantas dan diperibadikan."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Pembangunan Apl",
+        "heading": "Perkhidmatan Pembangunan Apl Kami",
+        "sub": "Bina aplikasi selamat, berskala dan berprestasi tinggi yang mempercepatkan pertumbuhan perniagaan dan memudahkan proses yang kompleks.",
+        "promoTitle": "Bina Aplikasi Suka Pengguna",
+        "promoText": "Daripada idea kepada pelancaran, pasukan kami mereka bentuk dan membangunkan aplikasi mudah alih dan web berkualiti tinggi mengikut skala.",
+        "items": [
+          {
+            "title": "Pembangunan Aplikasi Tersuai",
+            "description": "Bina aplikasi yang disesuaikan yang direka bentuk mengikut keperluan perniagaan anda yang unik."
+          },
+          {
+            "title": "Pembangunan Web & Apl Mudah Alih",
+            "description": "Menyampaikan pengalaman digital yang lancar merentas web, mudah alih dan berbilang peranti."
+          },
+          {
+            "title": "Pembangunan Aplikasi Perusahaan",
+            "description": "Bangunkan penyelesaian berskala yang disepadukan dengan sistem perniagaan sedia ada anda."
+          },
+          {
+            "title": "Pembangunan Kod Rendah & Tanpa Kod",
+            "description": "Mempercepatkan penghantaran aplikasi dengan platform pembangunan kod rendah yang fleksibel."
+          },
+          {
+            "title": "Penyepaduan API & Sistem",
+            "description": "Sambungkan aplikasi, platform dan sistem pihak ketiga untuk aliran data yang lancar."
+          },
+          {
+            "title": "Pemodenan Aplikasi",
+            "description": "Ubah aplikasi lama kepada penyelesaian moden, berskala dan cekap."
+          },
+          {
+            "title": "Aplikasi Dikuasakan AI",
+            "description": "Mengintegrasikan AI, automasi dan keupayaan pintar ke dalam aplikasi perniagaan."
+          },
+          {
+            "title": "Sokongan & Penyelenggaraan Aplikasi",
+            "description": "Pastikan prestasi berterusan, keselamatan, kemas kini dan kebolehpercayaan."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotik",
+    "businessAutomation": "Automasi Perniagaan",
+    "cloudMigrations": "Migrasi Awan",
+    "dataCenters": "Pusat Data",
+    "cognitiveAnalyticsAi": "Analitis Kognitif & AI",
+    "informationReportingSystems": "Sistem Maklumat & Pelaporan",
+    "managedServices": "Perkhidmatan Terurus",
+    "oneStopSolutions": "Penyelesaian Sehenti"
+  },
+  "servicePage": {
+    "serviceOverview": "Gambaran Keseluruhan Perkhidmatan",
+    "whatWeOffer": "Apa yang Kami Tawarkan",
+    "whyChooseRezonants": "Mengapa Memilih Rezonants",
+    "benefitsOfWorking": "Faedah bekerja dengan kami",
+    "techStack": "Timbunan Teknologi",
+    "technologiesWeUse": "Teknologi yang kami gunakan",
+    "ourWork": "Kerja Kami",
+    "relatedProjects": "Projek berkaitan",
+    "viewCaseStudy": "Lihat kajian kes",
+    "readyToDiscuss": "Bersedia untuk membincangkan projek {{title}} anda?",
+    "seniorEngineersReady": "Jurutera kanan kami bersedia membantu anda merancang, mereka bentuk dan membina penyelesaian anda.",
+    "startProject": "Mulakan projek anda",
+    "howItWorks": "Cara Ia Berfungsi"
+  },
+  "consultation": {
+    "badge": "Tempah Perundingan Percuma",
+    "title": "Mari Rancang Projek Anda <span class='hero-accent'>Bersama</span>",
+    "description": "Jadualkan panggilan tanpa kewajipan dengan perunding kami. Bincangkan keperluan anda, terokai pendekatan teknikal yang betul dan dapatkan sebut harga yang jelas — semuanya dalam masa kurang daripada 30 minit.",
+    "bookSlot": "Tempah Slot Anda",
+    "howItWorks": "Cara Ia Berfungsi",
+    "accountRequired": "Akaun Diperlukan",
+    "signInToBook": "Log masuk untuk menempah perundingan anda",
+    "accountRequiredText": "Anda memerlukan akaun Rezonants untuk meminta perundingan. Log masuk atau buat satu — ia mengambil masa kurang daripada satu minit.",
+    "signInToContinue": "Log Masuk untuk Meneruskan",
+    "newToRezonants": "Baru kepada Rezonants?",
+    "createAccount": "Buat akaun",
+    "requestMeeting": "Minta Mesyuarat",
+    "tellUsAboutProject": "Beritahu Kami Mengenai Projek Anda",
+    "fillDetails": "Isikan butiran anda dan kami akan mengesahkan slot konsultasi anda melalui e-mel.",
+    "fullName": "Nama Penuh *",
+    "email": "E-mel *",
+    "phone": "Telefon *",
+    "company": "Syarikat",
+    "serviceOfInterest": "Perkhidmatan Kepentingan *",
+    "selectService": "Pilih perkhidmatan…",
+    "preferredDate": "Tarikh Pilihan *",
+    "preferredTime": "Masa Pilihan *",
+    "selectTimeSlot": "Pilih slot masa…",
+    "estimatedBudget": "Anggaran Belanjawan",
+    "selectRange": "Pilih julat…",
+    "projectRequirements": "Keperluan Projek",
+    "booking": "Tempahan…",
+    "bookFreeConsultation": "Tempah Konsultasi Percuma Saya",
+    "freeNote": "100% percuma dan tiada kewajipan. Kami biasanya bertindak balas dalam masa 24 jam.",
+    "whatToExpect": "Apa yang Dijangkakan",
+    "preferToReachUs": "Lebih suka Hubungi Kami Terus?",
+    "callUs": "Hubungi kami",
+    "emailUs": "E-mel kepada kami",
+    "visitUs": "Lawati kami",
+    "whyBookWithUs": "Mengapa Tempah Dengan Kami",
+    "freeCallTitle": "Panggilan Percuma Yang Sebenarnya Membantu",
+    "freeCallNoPressure": "Panggilan Percuma, Tiada Tekanan",
+    "freeCallNoPressureText": "Setiap konsultasi pertama adalah percuma. Tidak ada kewajipan untuk membeli - hanya nasihat yang jujur.",
+    "seniorConsultants": "Perunding Kanan Sahaja",
+    "seniorConsultantsText": "Mesyuarat anda diketuai oleh jurutera kanan dan perunding yang membina untuk mencari rezeki.",
+    "clearTimelines": "Kosongkan Garis Masa & Petikan",
+    "clearTimelinesText": "Keluar dengan langkah seterusnya yang ditentukan, garis masa yang realistik dan harga yang telus untuk projek anda.",
+    "services": {
+      "customSoftware": "Pembangunan Perisian Tersuai",
+      "webMobile": "Pembangunan Apl Web & Mudah Alih",
+      "cloudDevops": "Penyelesaian Cloud & DevOps",
+      "aiMl": "AI & Pembelajaran Mesin",
+      "itConsulting": "Perundingan IT",
+      "digitalMarketing": "Pemasaran Digital & SEO",
+      "erpSolutions": "Penyelesaian ERP",
+      "other": "Lain-lain / Belum pasti"
+    },
+    "budgets": {
+      "under1L": "Bawah ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Belum diputuskan lagi"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Fahami matlamat anda",
+        "text": "Kita dengar dulu. Panggilan selama 30 minit untuk memetakan keperluan perniagaan anda, khalayak dan hasil yang diingini."
+      },
+      "technicalDirection": {
+        "title": "Dapatkan arahan teknikal",
+        "text": "Jurutera kami berkongsi seni bina, susunan dan pendekatan yang betul untuk projek anda."
+      },
+      "clearQuote": {
+        "title": "Terima sebut harga yang jelas",
+        "text": "Keluar dengan anggaran yang telus, garis masa dan langkah seterusnya — tiada kewajipan."
+      }
+    },
+    "validation": {
+      "nameRequired": "Nama penuh diperlukan.",
+      "emailRequired": "E-mel diperlukan.",
+      "emailInvalid": "Masukkan e-mel yang sah.",
+      "phoneRequired": "Nombor telefon diperlukan.",
+      "phoneInvalid": "Masukkan nombor telefon yang sah.",
+      "serviceRequired": "Sila pilih perkhidmatan.",
+      "dateRequired": "Pilih tarikh pilihan.",
+      "timeRequired": "Pilih slot masa pilihan.",
+      "messageTooShort": "Tambahkan sedikit lagi butiran (sekurang-kurangnya 10 aksara).",
+      "signInRequired": "Sila log masuk untuk menempah perundingan anda.",
+      "couldNotBook": "Tidak dapat menempah perundingan anda. Semak sama ada jadual perundingan wujud, kemudian cuba lagi.",
+      "bookedSuccess": "Perundingan ditempah! Pasukan kami akan mengesahkan slot masa anda melalui e-mel sebentar lagi."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Selamat Kembali",
+    "createAccount": "Cipta Akaun",
+    "forgotPassword": "Terlupa Kata Laluan",
+    "createNewPassword": "Cipta Kata Laluan Baharu",
+    "welcomeBackDesc": "Log masuk ke akaun Rezonants anda.",
+    "createAccountDesc": "Sertai Rezonants hari ini.",
+    "forgotDesc": "Masukkan e-mel anda dan kami akan menghantar pautan kepada anda untuk menetapkan semula kata laluan anda.",
+    "recoveryDesc": "Pilih kata laluan baharu yang kukuh untuk akaun anda.",
+    "fullName": "Nama Penuh",
+    "email": "E-mel",
+    "password": "Kata laluan",
+    "newPassword": "Kata Laluan Baharu",
+    "confirmPassword": "Sahkan Kata Laluan",
+    "confirmNewPassword": "Sahkan Kata Laluan Baharu",
+    "forgotPasswordLink": "Lupa kata laluan?",
+    "privacyPolicy": "Saya menerima dasar <1>Privasi & Keselamatan</1> Rezonants.",
+    "sendResetLink": "Hantar Pautan Set Semula",
+    "signIn": "Log Masuk",
+    "signUp": "Daftar",
+    "pleaseWait": "Sila tunggu…",
+    "rememberedPassword": "Ingat kata laluan anda?",
+    "signInLink": "Log masuk",
+    "noAccount": "Tiada akaun?",
+    "signUpLink": "Daftar",
+    "hasAccount": "Sudah mempunyai akaun?",
+    "changedMind": "Berubah fikiran?",
+    "backToSignIn": "Kembali untuk log masuk",
+    "resetSent": "Pautan tetapan semula kata laluan dihantar! Semak e-mel anda untuk membuat kata laluan baharu.",
+    "passwordUpdated": "Kata laluan anda telah dikemas kini. Log masuk dengan kata laluan baharu anda.",
+    "accountCreated": "Akaun dibuat! Semak e-mel anda untuk mengesahkan pendaftaran anda, kemudian log masuk.",
+    "validation": {
+      "fullNameRequired": "Nama penuh diperlukan.",
+      "emailRequired": "E-mel diperlukan.",
+      "emailInvalid": "Masukkan e-mel yang sah.",
+      "passwordRequired": "Kata laluan diperlukan.",
+      "passwordMinLength": "Kata laluan mestilah sekurang-kurangnya 6 aksara.",
+      "passwordsNoMatch": "Kata laluan tidak sepadan.",
+      "acceptTerms": "Sila terima Dasar Privasi dan Dasar Keselamatan Rezonants untuk meneruskan."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Sembang dengan Rezonants AI",
+    "openChatLabel": "Buka sembang Rezonants AI Assistant",
+    "chatTitle": "Pembantu AI Rezonants",
+    "online": "Dalam talian",
+    "expandLabel": "Kembangkan chatbot",
+    "minimizeLabel": "Kurangkan chatbot",
+    "closeLabel": "Tutup chatbot",
+    "expand": "Kembangkan",
+    "minimize": "Minimumkan",
+    "close": "Tutup",
+    "popularTopics": "Topik popular",
+    "askPlaceholder": "Tanya saya tentang Rezonants...",
+    "messageLabel": "Hantar mesej kepada Pembantu AI Rezonants",
+    "sendLabel": "Hantar mesej",
+    "sendTitle": "Hantar mesej",
+    "enterToSend": "Enter untuk menghantar · Shift+Enter untuk baris baharu",
+    "newChat": "Sembang baharu",
+    "typing": "Rezonants AI sedang menaip",
+    "menuOptions": "Pilihan menu",
+    "greetingMorning": "Selamat pagi",
+    "greetingAfternoon": "Selamat petang",
+    "greetingEvening": "Selamat petang",
+    "welcomeText": "! 👋 Selamat datang ke Rezonants.\nSaya Pembantu AI Rezonants. Saya boleh membantu anda meneroka perkhidmatan, teknologi dan maklumat hubungan kami."
+  },
+  "cookieConsent": {
+    "title": "Kami menghargai privasi anda",
+    "description": "Kami menggunakan kuki untuk meningkatkan pengalaman menyemak imbas anda. Anda boleh menerima semua kuki, menolak kuki yang tidak penting atau menyesuaikan pilihan anda. Kuki penting sentiasa didayakan untuk memastikan tapak web berfungsi dengan betul.",
+    "acceptAll": "Terima Semua",
+    "rejectNonEssential": "Tolak Bukan Penting",
+    "managePreferences": "Urus Keutamaan",
+    "privacyPolicy": "Dasar Privasi"
+  },
+  "cookiePreferences": {
+    "title": "Urus Keutamaan Kuki",
+    "description": "Pilih kategori kuki yang anda benarkan. Kuki penting kekal didayakan untuk memastikan tapak web berfungsi.",
+    "essential": "Penting",
+    "essentialDesc": "Diperlukan untuk tapak web berfungsi (pengesahan, keselamatan, pengimbangan beban). Ini tidak boleh dilumpuhkan.",
+    "analytics": "Analitis",
+    "analyticsDesc": "Bantu kami memahami cara pelawat menggunakan tapak supaya kami boleh memperbaikinya. Dilumpuhkan secara lalai.",
+    "marketing": "Pemasaran",
+    "marketingDesc": "Digunakan untuk menunjukkan kepada anda tawaran dan kempen yang berkaitan. Dilumpuhkan secara lalai.",
+    "cancel": "Batal",
+    "savePreferences": "Simpan Keutamaan"
+  },
+  "privacy": {
+    "badge": "Sah",
+    "title": "Dasar Privasi",
+    "description": "Cara Rezonants mengumpul, menggunakan dan melindungi maklumat peribadi dan kuki anda.",
+    "lastUpdated": "Kemas kini terakhir: Ogos 2026",
+    "managingPreferences": "Menguruskan pilihan anda",
+    "managingPreferencesDesc": "Anda boleh menyemak atau menukar kuki yang anda benarkan pada bila-bila masa daripada panel pilihan kuki.",
+    "manageCookiePreferences": "Urus Keutamaan Kuki",
+    "section1": {
+      "title": "1. Maklumat yang Kami Kumpul",
+      "body": [
+        "Kami mengumpul maklumat yang anda berikan secara langsung (seperti nama dan alamat e-mel anda apabila anda menyerahkan borang hubungan atau membuat akaun) dan maklumat yang dikumpul secara automatik melalui kuki dan teknologi serupa, seperti halaman yang dilawati, jenis peranti dan lokasi anggaran."
+      ]
+    },
+    "section2": {
+      "title": "2. Cara Kami Menggunakan Kuki",
+      "body": [
+        "Kuki penting sentiasa didayakan kerana tapak web tidak boleh berfungsi dengan betul tanpanya. Mereka menyimpan keadaan sesi dan pengesahan serta mengingati pilihan kuki anda.",
+        "Kuki analitis membantu kami memahami cara pelawat menggunakan tapak supaya kami boleh memperbaikinya. Kuki pemasaran digunakan untuk menunjukkan kepada anda tawaran dan kempen yang berkaitan. Kategori ini hanya didayakan dengan persetujuan anda dan boleh ditukar pada bila-bila masa daripada panel pilihan kuki."
+      ]
+    },
+    "section3": {
+      "title": "3. Asas Undang-undang (GDPR)",
+      "body": [
+        "Kami memproses data peribadi berdasarkan asas undang-undang berikut: persetujuan anda (untuk kuki dan pemasaran yang tidak penting), pelaksanaan kontrak (untuk perkhidmatan yang anda minta), kewajipan undang-undang dan kepentingan sah di mana hak anda tidak mengatasinya. Anda boleh menarik balik kebenaran pada bila-bila masa tanpa menjejaskan kesahihan pemprosesan yang dijalankan sebelum pengeluaran."
+      ]
+    },
+    "section4": {
+      "title": "4. Hak Anda",
+      "body": [
+        "Bergantung pada lokasi anda, anda mungkin mempunyai hak untuk mengakses, membetulkan, memadam atau menyekat pemprosesan data peribadi anda, membantah pemprosesan dan kemudahalihan data. Anda juga boleh membuat aduan kepada pihak berkuasa penyeliaan tempatan anda."
+      ]
+    },
+    "section5": {
+      "title": "5. Pengekalan & Keselamatan Data",
+      "body": [
+        "Kami menyimpan data peribadi hanya selagi perlu untuk tujuan yang diterangkan dalam dasar ini. Kami menggunakan langkah teknikal dan organisasi yang sesuai untuk melindungi maklumat anda daripada akses, pengubahan, pendedahan atau pemusnahan yang tidak dibenarkan."
+      ]
+    },
+    "section6": {
+      "title": "6. Perkhidmatan Pihak Ketiga",
+      "body": [
+        "Sesetengah kuki mungkin ditetapkan oleh penyedia pihak ketiga (seperti analitik atau platform pengiklanan) yang membantu kami mengendalikan tapak web. Pembekal ini memproses data di bawah dasar privasi mereka sendiri dan hanya apabila anda telah bersetuju dengan kategori yang berkaitan."
+      ]
+    },
+    "contactUs": "7. Hubungi Kami",
+    "contactUsText": "Untuk pertanyaan tentang dasar ini atau data peribadi anda, hubungi kami di <1>info@rezonants.com</1> atau hubungi <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Perkhidmatan",
+    "title": "Perkhidmatan Kami",
+    "sub": "Penyelesaian teknologi hujung ke hujung direka untuk membantu perniagaan berinovasi, skala dan berjaya.",
+    "learnMore": "Ketahui Lebih Lanjut",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Permulaan Untuk Penggunaan",
+        "text": "Daripada konsep awal kepada penggunaan pengeluaran, kami menyampaikan penyelesaian berskala yang dibina untuk keperluan perniagaan dunia sebenar."
+      },
+      "businessProcessAutomation": {
+        "title": "Automasi Proses Perniagaan",
+        "text": "Memperkemas proses berulang dan meningkatkan kecekapan operasi melalui automasi perniagaan pintar."
+      },
+      "centerOfExcellence": {
+        "title": "Pusat Kecemerlangan",
+        "text": "Bina keupayaan dan kepakaran teknologi khusus untuk memacu inovasi, kualiti dan peningkatan berterusan."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Pembangunan & Penyesuaian Tersuai",
+        "text": "Penyelesaian perisian yang disesuaikan direka bentuk mengikut keperluan perniagaan dan aliran kerja anda yang unik."
+      },
+      "digitalTransformation": {
+        "title": "Transformasi Digital",
+        "text": "Permodenkan perniagaan anda dengan strategi digital, teknologi dan penyelesaian yang mencipta impak yang boleh diukur."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Rangka Kerja Penyelesaian Hujung ke Hujung",
+        "text": "Penyelesaian teknologi bersepadu yang menghubungkan strategi, pembangunan, pelaksanaan dan operasi berterusan."
+      },
+      "migrationModernization": {
+        "title": "Migrasi & Pemodenan",
+        "text": "Memodenkan aplikasi warisan dan memindahkan sistem kepada platform teknologi yang boleh skala, selamat dan cekap."
+      },
+      "pocPilotImplementation": {
+        "title": "Bukti Konsep (PoC) & Pelaksanaan Perintis",
+        "text": "Sahkan idea dengan cepat melalui prototaip terfokus dan pelaksanaan perintis sebelum penggunaan skala penuh."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Perkhidmatan Dikongsi & Operasi Terurus",
+        "text": "Operasi teknologi terurus yang boleh dipercayai yang meningkatkan prestasi, kebolehskalaan dan kesinambungan perniagaan."
+      }
+    }
+  },
+  "footer": {
+    "company": "Syarikat",
+    "about": "Mengenai",
+    "perspectives": "Perspektif",
+    "technologies": "Teknologi",
+    "contact": "Kenalan",
+    "services": "Perkhidmatan",
+    "getInTouch": "Hubungi",
+    "bookConsultation": "Tempah perundingan",
+    "copyright": "© {{year}} Rezonants. Semua hak terpelihara.",
+    "cookiePreferences": "Pilihan Kuki",
+    "privacyPolicy": "Dasar Privasi",
+    "description": "Rezonants ialah syarikat perkhidmatan IT dan produk digital di Hyderabad, India. Kami mereka bentuk, membina dan menskala perisian untuk syarikat yang bersaing dalam pelaksanaan.",
+    "locations": "Lokasi Kami",
+    "indiaHq": "Hyderabad, India — Ibu Pejabat India",
+    "southAfrica": "Afrika Selatan — REZONANTS PVT LTD",
+    "products": "Produk",
+    "followUs": "Ikuti Kami",
+    "aboutUs": "Mengenai Kami",
+    "contactUs": "Hubungi Kami",
+    "headline": "Jom bina",
+    "headlineAccent": "apa yang seterusnya.",
+    "subheadline": "Bekerjasama dengan Rezonants untuk mengubah idea menjadi impak perniagaan sebenar.",
+    "credoIdeas": "IDEA",
+    "credoSolutions": "PENYELESAIAN",
+    "credoPeople": "ORANG",
+    "credoBrighterTomorrow": "ESOK LEBIH CERAH",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Afrika Selatan – REZONANTS PVT LTD",
+    "termsOfUse": "Syarat Penggunaan",
+    "accessibility": "Kebolehcapaian",
+    "quickLinks": "Pautan Pantas",
+    "explore": "Teroka",
+    "vijayawadaOffice": "Pejabat Vijayawada",
+    "allRightsReserved": "Semua hak terpelihara.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Afrika Selatan"
+  },
+  "common": {
+    "loading": "Memuatkan...",
+    "error": "Ralat",
+    "retry": "Cuba semula",
+    "close": "Tutup",
+    "backToTop": "Kembali ke atas",
+    "skipToContent": "Langkau ke kandungan",
+    "scroll": "Tatal",
+    "whatWeOffer": "Apa yang Kami Tawarkan",
+    "howItWorks": "Bagaimana Ia Berfungsi"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Cari negara atau kod…",
+    "noResults": "Tiada negara ditemui.",
+    "countryCodeLabel": "Kod panggilan negara",
+    "required": "Nombor telefon diperlukan.",
+    "incomplete": "Nombor telefon mesti mengandungi tepat {{count}} digit.",
+    "tooLong": "Nombor telefon tidak boleh mengandungi lebih daripada {{count}} digit.",
+    "invalid": "Masukkan nombor telefon yang sah untuk {{country}}."
+  },
+  "perspectives": {
+    "topic": "Topik:",
+    "published": "Diterbitkan:",
+    "readingTime": "Masa Membaca:",
+    "author": "Pengarang:",
+    "authorName": "Studio Seni Bina Rezonants Enterprise",
+    "techArea": "Kawasan Teknologi",
+    "purpose": "Tujuan",
+    "talkToExperts": "Bercakap dengan Pakar Kami",
+    "viewAll": "Lihat Semua Perspektif",
+    "exploreMore": "TEROKA LEBIH PERSPEKTIF",
+    "continueExploring": "Teruskan Meneroka Wawasan Teknologi Perusahaan",
+    "readPerspective": "Baca Perspektif"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Penyelesaian AI & Robotik",
+      "tagline": "Teknologi Pintar. Operasi Automatik. Perniagaan Lebih Bijak.",
+      "heroBadge": "Sistem Autonomi Pintar",
+      "overview": [
+        "Kecerdasan Buatan dan Robotik sedang mengubah cara organisasi beroperasi, membuat keputusan dan menyampaikan nilai. Penyelesaian AI & Robotik kami membantu perniagaan bergerak melangkaui automasi tradisional dengan menggabungkan kecerdasan buatan, pembelajaran mesin, penglihatan komputer, automasi proses pintar dan robotik untuk menyelesaikan cabaran perniagaan praktikal.",
+        "Kami mereka bentuk penyelesaian pintar di sekitar hasil perniagaan yang boleh diukur. Sama ada keperluan itu ialah mengautomasikan kerja berulang, menganalisis jumlah maklumat yang besar, mengesan corak, menyokong keputusan atau memperkenalkan robotik ke dalam persekitaran operasi, pendekatan kami memfokuskan pada kebolehpercayaan, skalabiliti, keselamatan dan nilai perniagaan jangka panjang."
+      ],
+      "transformation": [
+        "Organisasi moden menjana sejumlah besar data dan melakukan beribu-ribu aktiviti berulang setiap hari. AI dan robotik boleh mengubah aktiviti ini menjadi aliran kerja automatik yang pintar yang meningkatkan produktiviti sambil membenarkan pekerja menumpukan pada tanggungjawab yang bernilai lebih tinggi.",
+        "Penyelesaian kami boleh membantu organisasi mengautomasikan operasi berulang, mengurangkan campur tangan manual, meningkatkan ketepatan, menganalisis maklumat yang kompleks, menyokong keputusan yang lebih pantas, mengoptimumkan penggunaan sumber, meningkatkan pengalaman pelanggan dan membina sistem pintar berskala."
+      ],
+      "capabilities": [
+        {
+          "title": "Kepintaran Buatan",
+          "desc": "Kami membangunkan penyelesaian dipacu AI yang membolehkan sistem memahami maklumat, mengenal pasti corak, menjana cerapan dan menyokong keputusan perniagaan."
+        },
+        {
+          "title": "Pembelajaran Mesin",
+          "desc": "Kami membangunkan model pembelajaran mesin untuk peramalan, pengelasan, sistem pengesyoran, pengesanan anomali, analisis ramalan dan sokongan keputusan pintar."
+        },
+        {
+          "title": "Pemprosesan Bahasa Semulajadi",
+          "desc": "NLP boleh digunakan untuk memproses dokumen, memahami teks, mengklasifikasikan maklumat, mengekstrak kandungan yang berkaitan dan menyokong aplikasi perbualan."
+        },
+        {
+          "title": "Penglihatan Komputer",
+          "desc": "Penyelesaian penglihatan komputer boleh menyokong klasifikasi imej, pengesanan objek, pemeriksaan kualiti, pemprosesan dokumen, pemantauan visual dan analitik video."
+        },
+        {
+          "title": "Robotik",
+          "desc": "Robotik menggabungkan kecerdasan perisian dengan sistem fizikal untuk mengautomasikan aktiviti yang secara tradisinya memerlukan usaha manual. Aplikasi boleh termasuk pembuatan, logistik, pergudangan, pemeriksaan, pengendalian bahan dan sokongan operasi."
+        },
+        {
+          "title": "Automasi Proses Pintar",
+          "desc": "AI boleh digabungkan dengan automasi aliran kerja untuk mencipta sistem yang mentafsir maklumat, menggunakan peraturan atau model perniagaan dan memulakan proses yang sesuai secara automatik."
+        }
+      ],
+      "lifecycleSteps": [
+        "Penilaian Perniagaan",
+        "Analisis Data",
+        "Strategi AI",
+        "Senibina Penyelesaian",
+        "Perkembangan",
+        "Integrasi",
+        "Pengujian",
+        "Pengerahan",
+        "Pemantauan",
+        "Pengoptimuman"
+      ],
+      "benefits": [
+        "Produktiviti operasi perusahaan yang lebih tinggi",
+        "Pengurangan besar dalam kos operasi",
+        "Pemprosesan yang lebih pantas dan pusingan keputusan milisaat",
+        "Data dan ketepatan aliran kerja dipertingkat",
+        "Penggunaan sumber fizikal dan pengiraan yang dioptimumkan",
+        "Mengurangkan risiko operasi dan kesilapan manusia",
+        "Skala berbilang platform yang lancar",
+        "Pengalaman pelanggan dan pekerja yang dipertingkatkan"
+      ],
+      "security": "Penyelesaian AI Perusahaan mesti direka bentuk dengan keselamatan yang sesuai, kawalan akses, perlindungan data, pemantauan, tadbir urus model dan perlindungan operasi. Kami mempertimbangkan keperluan ini dari peringkat seni bina melalui penggunaan dan penyelenggaraan berterusan untuk memastikan kecerdasan gred pengeluaran yang boleh dipercayai.",
+      "ctaHeadline": "Bina Masa Depan Pintar",
+      "ctaSub": "Jadikan operasi anda lebih bijak. Automatikkan perkara yang penting. Bina untuk masa depan."
+    },
+    "business-automation-solutions": {
+      "title": "Penyelesaian Automasi Perniagaan",
+      "tagline": "Permudahkan Proses. Hilangkan Pengulangan. Mempercepatkan Pertumbuhan.",
+      "heroBadge": "Pengoptimuman Aliran Kerja Hujung ke Hujung",
+      "overview": [
+        "Automasi perniagaan membolehkan organisasi menggantikan aktiviti manual yang berulang dengan aliran kerja digital yang diperkemas. Penyelesaian automasi perniagaan kami membantu syarikat meningkatkan produktiviti, mengurangkan kerumitan operasi, meminimumkan ralat dan mencipta proses yang konsisten merentas jabatan.",
+        "Kami menganalisis aliran kerja sedia ada, mengenal pasti kesesakan dan mereka bentuk penyelesaian automasi yang menghubungkan orang, aplikasi, data dan proses perniagaan."
+      ],
+      "transformation": [
+        "Banyak organisasi masih bergantung pada hamparan, e-mel, kelulusan manual, kemasukan data berulang, pengendalian dokumen dan aplikasi yang terputus sambungan. Proses ini memakan masa pekerja yang berharga dan boleh menyebabkan kelewatan, ketidakkonsistenan dan kesilapan.",
+        "Pendekatan automasi kami memberi tumpuan kepada memahami proses lengkap, mengalih keluar langkah yang tidak perlu, menyepadukan sistem dan mengautomasikan aktiviti yang memberikan nilai operasi yang paling besar."
+      ],
+      "capabilities": [
+        {
+          "title": "Automasi Aliran Kerja",
+          "desc": "Kami mengautomasikan proses berbilang langkah yang melibatkan pekerja, aplikasi, kelulusan, pemberitahuan dan data merentas jabatan yang berbeza."
+        },
+        {
+          "title": "Automasi Proses Robotik",
+          "desc": "Bot perisian boleh melakukan aktiviti berasaskan peraturan yang berulang seperti kemasukan data, kemas kini sistem, penyelarasan dan pemindahan maklumat."
+        },
+        {
+          "title": "Automasi Dokumen",
+          "desc": "Aliran kerja dokumen automatik boleh mengekstrak maklumat, mengesahkan data, mengelaskan dokumen, permintaan laluan dan memulakan proses hiliran."
+        },
+        {
+          "title": "Automasi Kelulusan",
+          "desc": "Aliran kerja kelulusan digital secara automatik menghalakan permintaan kepada pembuat keputusan yang betul dan memberikan keterlihatan masa nyata kepada tindakan yang belum selesai."
+        },
+        {
+          "title": "Automasi Integrasi",
+          "desc": "Kami menyambungkan aplikasi perniagaan supaya maklumat boleh bergerak secara automatik antara platform tanpa campur tangan manual yang tidak perlu."
+        },
+        {
+          "title": "Automasi Pemberitahuan",
+          "desc": "Makluman dan pemberitahuan automatik membantu pekerja bertindak balas serta-merta kepada acara penting, tarikh akhir, pengecualian dan perubahan operasi."
+        }
+      ],
+      "lifecycleSteps": [
+        "Temui",
+        "Analisis",
+        "Reka bentuk",
+        "Automatik",
+        "Sepadukan",
+        "Ujian",
+        "Sebarkan",
+        "Pantau",
+        "Optimumkan"
+      ],
+      "benefits": [
+        "Peningkatan daya pengeluaran pasukan dan halaju operasi",
+        "Pengurangan dramatik dalam ralat kemasukan data manual",
+        "Memendekkan masa pemulihan proses hujung ke hujung",
+        "Keterlihatan bersatu merentas operasi perniagaan",
+        "Pematuhan merentas jabatan standard",
+        "Mengurangkan perbelanjaan mengurus dengan ketara",
+        "Kapasiti anjal untuk skala beban kerja dengan mudah",
+        "Pasukan yang diperkasakan memberi tumpuan kepada penglibatan pelanggan dan kerja strategik"
+      ],
+      "security": "Kami menggabungkan platform aliran kerja dan RPA dengan model pintar memahami konteks untuk memastikan kawalan akses berasaskan peranan, jejak audit yang komprehensif dan pematuhan ketat merentas setiap transaksi automatik.",
+      "ctaHeadline": "Bina Operasi yang Lebih Cekap",
+      "ctaSub": "Automatikkan kerja berulang. Perkasakan rakyat anda. Percepatkan perniagaan anda."
+    },
+    "cloud-migration-solutions": {
+      "title": "Penyelesaian Migrasi Awan",
+      "tagline": "Bergerak ke Awan dengan Keyakinan.",
+      "heroBadge": "Transformasi Berbilang Awan",
+      "overview": [
+        "Pengkomputeran awan telah menjadi komponen kritikal infrastruktur IT moden. Organisasi memindahkan aplikasi, pangkalan data, beban kerja dan infrastruktur ke persekitaran awan untuk meningkatkan kebolehskalaan, ketersediaan, fleksibiliti dan kecekapan operasi.",
+        "Perkhidmatan migrasi awan kami membantu organisasi menilai persekitaran semasa mereka, mentakrifkan strategi migrasi, melaksanakan migrasi dan mengoptimumkan beban kerja selepas mereka beralih ke awan."
+      ],
+      "transformation": [
+        "Migrasi awan lebih daripada memindahkan pelayan dari satu persekitaran ke persekitaran yang lain. Penghijrahan yang berjaya memerlukan penilaian yang teliti terhadap aplikasi, infrastruktur, kebergantungan, keperluan keselamatan, data, prestasi, ketersediaan dan kesinambungan perniagaan.",
+        "Kami mencipta strategi migrasi berdasarkan persekitaran semasa organisasi dan objektif masa depan, memilih corak migrasi yang sesuai untuk setiap beban kerja."
+      ],
+      "capabilities": [
+        {
+          "title": "Migrasi Infrastruktur",
+          "desc": "Kami memindahkan pelayan tradisional, storan, mesin maya dan beban kerja ke dalam persekitaran awan moden pada AWS, Azure dan GCP."
+        },
+        {
+          "title": "Migrasi Permohonan",
+          "desc": "Aplikasi boleh dihos semula, disusun semula, difaktorkan semula atau direka bentuk semula bergantung pada keperluan perniagaan dan teknikal."
+        },
+        {
+          "title": "Migrasi Pangkalan Data",
+          "desc": "Kami memindahkan pangkalan data sambil mempertimbangkan integriti data, prestasi, keserasian, ketersediaan, keselamatan dan keperluan pemulihan."
+        },
+        {
+          "title": "Pemodenan Awan",
+          "desc": "Migrasi menjadi peluang untuk memodenkan aplikasi menggunakan bekas, perkhidmatan mikro, pangkalan data terurus, perkhidmatan tanpa pelayan dan seni bina asli awan."
+        },
+        {
+          "title": "Awan Hibrid",
+          "desc": "Organisasi yang memerlukan infrastruktur di premis dan awan boleh menggunakan seni bina hibrid yang menghubungkan sistem sedia ada dengan perkhidmatan awan dengan lancar."
+        },
+        {
+          "title": "Berbilang Awan",
+          "desc": "Untuk organisasi yang beroperasi merentasi berbilang platform awan, kami membantu mereka bentuk strategi beban kerja yang meningkatkan fleksibiliti, daya tahan dan tadbir urus."
+        }
+      ],
+      "lifecycleSteps": [
+        "Penilaian",
+        "Penemuan",
+        "Pemetaan Ketergantungan",
+        "Strategi Migrasi",
+        "Reka Bentuk Seni Bina",
+        "Migrasi Juruterbang",
+        "Migrasi Data",
+        "Migrasi Permohonan",
+        "Ujian",
+        "Migrasi Pengeluaran",
+        "Pengoptimuman"
+      ],
+      "benefits": [
+        "Kebolehskalaan elastik dan ketersediaan sumber yang tinggi",
+        "Fleksibiliti infrastruktur yang lebih baik dan ketangkasan perniagaan",
+        "Menghapuskan beban penyelenggaraan pusat data fizikal",
+        "Penggunaan ciri aplikasi dipercepatkan",
+        "Pemulihan bencana yang teguh dan daya tahan sandaran",
+        "Akses segera kepada AI awan moden dan perkhidmatan terurus",
+        "Tadbir urus FinOps yang dioptimumkan dan pengurangan TCO",
+        "Pematuhan berterusan dan pagar keselamatan automatik"
+      ],
+      "security": "Keselamatan adalah bahagian penting dalam perancangan migrasi. Kami mempertimbangkan pengurusan identiti dan akses, keselamatan rangkaian, penyulitan dalam transit dan semasa rehat, perlindungan data, audit kelemahan aplikasi, pemantauan, sandaran dan pemulihan bencana.",
+      "ctaHeadline": "Perjalanan Awan Anda, Dirancang Dengan Betul",
+      "ctaSub": "Modenkan infrastruktur anda. Mempercepatkan inovasi. Bina asas awan berskala."
+    },
+    "data-center-solutions": {
+      "title": "Penyelesaian Pusat Data",
+      "tagline": "Infrastruktur Boleh Dipercayai untuk Operasi Misi-Kritis.",
+      "heroBadge": "Infrastruktur Misi-Kritis",
+      "overview": [
+        "Pusat data membentuk asas perniagaan digital moden. Aplikasi, pangkalan data, sistem perusahaan, platform komunikasi dan perkhidmatan perniagaan kritikal bergantung pada infrastruktur yang boleh dipercayai.",
+        "Penyelesaian pusat data kami menumpukan pada mereka bentuk, memodenkan, mengurus dan mengoptimumkan persekitaran infrastruktur yang dibina untuk ketersediaan, keselamatan, kebolehskalaan, prestasi dan kecekapan operasi."
+      ],
+      "transformation": [
+        "Pusat data moden memerlukan lebih daripada pelayan dan storan. Ia memerlukan infrastruktur yang direka bentuk dengan teliti merentasi pengkomputeran, rangkaian, keselamatan, kuasa, penyejukan, pemantauan, sandaran dan pemulihan bencana.",
+        "Kami membantu organisasi mewujudkan persekitaran infrastruktur yang berdaya tahan yang menyokong beban kerja kritikal dan menyediakan asas untuk pertumbuhan teknologi masa hadapan."
+      ],
+      "capabilities": [
+        {
+          "title": "Reka Bentuk Infrastruktur",
+          "desc": "Kami mereka bentuk persekitaran berdasarkan keperluan beban kerja, kapasiti, prestasi, ketersediaan, keselamatan dan pertumbuhan masa hadapan."
+        },
+        {
+          "title": "Infrastruktur Pelayan",
+          "desc": "Kami menyokong persekitaran pelayan fizikal dan maya untuk aplikasi dan beban kerja perusahaan yang kritikal misi."
+        },
+        {
+          "title": "Penyelesaian Storan",
+          "desc": "Kami mempertimbangkan prestasi, kapasiti, redundansi, SAN/NAS berkelajuan tinggi, sandaran dan keperluan perlindungan data semasa mereka bentuk persekitaran storan."
+        },
+        {
+          "title": "Infrastruktur Rangkaian",
+          "desc": "Kami mereka bentuk persekitaran rangkaian dengan pembahagian, redundansi, prestasi kependaman rendah, ketersambungan dan kawalan keselamatan yang sesuai."
+        },
+        {
+          "title": "Virtualisasi",
+          "desc": "Virtualisasi meningkatkan penggunaan sumber, fleksibiliti beban kerja dan pengurusan infrastruktur terpusat."
+        },
+        {
+          "title": "Sandaran & Pemulihan Bencana",
+          "desc": "Kami membantu organisasi mewujudkan strategi sandaran dan seni bina pemulihan yang direka untuk meminimumkan masa henti dan menghapuskan kehilangan data."
+        }
+      ],
+      "lifecycleSteps": [
+        "Penilaian Kapasiti",
+        "Pemprofilan Beban Kerja",
+        "Rangka Tindakan Seni Bina",
+        "Perkakasan & Saiz Maya",
+        "Pembahagian Rangkaian",
+        "Peruntukan Storan",
+        "Redundansi & Ujian DR",
+        "Potongan Pengeluaran",
+        "Pemantauan Kesihatan 24/7",
+        "Pengoptimuman Berterusan"
+      ],
+      "benefits": [
+        "Dijamin 99.999% masa beroperasi infrastruktur",
+        "Sifar titik kegagalan tunggal dengan lebihan berbilang lapisan",
+        "Pengiraan pelayan yang dioptimumkan dan virtualisasi berketumpatan tinggi",
+        "Seni bina rangkaian kependaman rendah sub-milisaat",
+        "Keselamatan perimeter fizikal dan digital yang mengeras",
+        "Pemantauan proaktif dan kegagalan kegagalan automatik",
+        "Storan modular boleh skala untuk data skala petabyte",
+        "Jumlah kos pemilikan dan kecekapan kuasa yang boleh diramalkan"
+      ],
+      "security": "Keselamatan disepadukan merentas lapisan infrastruktur, meliputi pembahagian mikro rangkaian, akar-kepercayaan perkakasan, kawalan akses sifar amanah, audit kelemahan berterusan, pertahanan titik akhir dan dasar operasi yang ketat.",
+      "ctaHeadline": "Infrastruktur Sedia Masa Depan",
+      "ctaSub": "Bina infrastruktur yang boleh dipercayai hari ini. Cipta asas untuk teknologi masa depan."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Analitis Kognitif & AI",
+      "tagline": "Tukar Data kepada Perisikan.",
+      "heroBadge": "Perisikan Data-ke-Keputusan",
+      "overview": [
+        "Organisasi menjana sejumlah besar maklumat melalui aplikasi, transaksi, pelanggan, operasi, peranti dan platform digital. Cabarannya bukan lagi sekadar mengumpul data; ia adalah memahami data itu dan mengubahnya menjadi kecerdasan yang boleh diambil tindakan.",
+        "Penyelesaian Analitis Kognitif & AI kami menggabungkan analisis lanjutan, pembelajaran mesin, kecerdasan buatan, pemprosesan data dan kecerdasan perniagaan untuk membantu organisasi membuat keputusan yang lebih baik."
+      ],
+      "transformation": [
+        "Pelaporan tradisional memberitahu organisasi apa yang berlaku. Analitis lanjutan boleh membantu menjelaskan sebab ia berlaku, mengenal pasti perkara yang mungkin berlaku seterusnya dan menyokong keputusan tentang perkara yang perlu berlaku.",
+        "Kami membantu organisasi mewujudkan persekitaran data yang bergerak melangkaui pelaporan statik ke arah analisis pintar dan sokongan keputusan."
+      ],
+      "capabilities": [
+        {
+          "title": "Analitis Deskriptif",
+          "desc": "Fahami prestasi sejarah melalui laporan interaktif, papan pemuka berbilang dimensi, KPI dan metrik perniagaan."
+        },
+        {
+          "title": "Analitis Diagnostik",
+          "desc": "Kenal pasti perhubungan asas, arah aliran, anomali statistik dan punca di sebalik hasil perniagaan."
+        },
+        {
+          "title": "Analitis Ramalan",
+          "desc": "Gunakan data penstriman sejarah dan masa nyata dengan model statistik untuk mengenal pasti hasil dan permintaan masa hadapan yang berpotensi."
+        },
+        {
+          "title": "Analitis Preskriptif",
+          "desc": "Menilai tindakan yang mungkin dan menyokong laluan keputusan yang optimum berdasarkan hasil yang diramalkan dan objektif perniagaan strategik."
+        },
+        {
+          "title": "Model Pembelajaran Mesin",
+          "desc": "Bangunkan model tersuai untuk ramalan, klasifikasi pelanggan, pengesyoran, pengesanan anomali penipuan dan penyelenggaraan ramalan."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Gunakan AI kognitif pada jumlah besar maklumat tidak berstruktur untuk memaparkan corak tersembunyi, ringkasan eksekutif dan pengesyoran."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sumber Data",
+        "Penyepaduan Data",
+        "Pemprosesan Data",
+        "Storan Data",
+        "Analitis",
+        "Model AI/ML",
+        "Visualisasi",
+        "Keputusan Perniagaan"
+      ],
+      "benefits": [
+        "Pembuatan keputusan eksekutif berasaskan fakta, dipacu data",
+        "Ramalan permintaan, hasil dan churn yang tepat",
+        "Anomali masa nyata dan pengesanan penipuan",
+        "Cerapan dan pemperibadian tingkah laku pelanggan 360° yang mendalam",
+        "Rantaian bekalan yang dioptimumkan dan kecekapan operasi",
+        "Mengurangkan risiko operasi dan kewangan",
+        "Penemuan peluang pendapatan tersembunyi",
+        "Mempercepatkan masa-untuk-cerapan merentas unit perniagaan"
+      ],
+      "security": "Ekosistem analitik kami melaksanakan penyulitan hujung ke hujung, penyamaran data automatik, kebenaran RBAC yang ketat dan tadbir urus model untuk melindungi data proprietari dan mengekalkan pematuhan kawal selia (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Bina Strategi Data Pintar",
+      "ctaSub": "Tukar maklumat kepada pandangan. Tukar wawasan kepada tindakan."
+    },
+    "information-reporting-systems": {
+      "title": "Sistem Maklumat & Pelaporan",
+      "tagline": "Maklumat Yang Betul. Pada Masa yang Tepat. Untuk Keputusan yang Lebih Baik.",
+      "heroBadge": "Kepintaran Perusahaan Bersatu",
+      "overview": [
+        "Pemimpin perniagaan dan pasukan operasi bergantung pada maklumat yang tepat untuk membuat keputusan yang berkesan. Sistem Maklumat & Pelaporan kami membantu organisasi mengumpul, menyusun, menganalisis dan mempersembahkan maklumat perniagaan melalui sistem maklumat berstruktur, platform pelaporan, papan pemuka dan aliran kerja pelaporan automatik.",
+        "Organisasi selalunya mempunyai maklumat yang diedarkan merentasi aplikasi, hamparan, pangkalan data dan sistem operasi. Ini menyukarkan untuk mewujudkan pandangan yang konsisten terhadap prestasi perniagaan. Kami membantu menyepadukan sumber maklumat ke dalam persekitaran pelaporan berstruktur yang menyediakan maklumat perniagaan yang boleh dipercayai, boleh diakses dan konsisten."
+      ],
+      "transformation": [
+        "Sistem pelaporan tidak seharusnya hanya memaparkan nombor. Ia seharusnya membantu pengguna memahami prestasi, mengenal pasti masalah, menemui peluang dan membuat keputusan termaklum.",
+        "Kami mereka bentuk persekitaran pelaporan mengikut cara organisasi anda beroperasi, menyampaikan ekosistem data-ke-keputusan berstruktur yang disesuaikan untuk semua peringkat pengurusan."
+      ],
+      "capabilities": [
+        {
+          "title": "Sistem Maklumat Pengurusan (MIS)",
+          "desc": "Membangunkan sistem maklumat bersatu yang menyediakan pengurusan eksekutif dengan keterlihatan operasi dan strategik yang relevan."
+        },
+        {
+          "title": "Pelaporan Perniagaan",
+          "desc": "Ubah data perniagaan mentah daripada berbilang saluran kepada laporan berstruktur dan piawai yang memantau prestasi secara berterusan."
+        },
+        {
+          "title": "Papan Pemuka Interaktif",
+          "desc": "Menyediakan keterlihatan interaktif masa nyata atau berjadual ke dalam metrik perniagaan kritikal, KPI, arah aliran dan aktiviti jabatan."
+        },
+        {
+          "title": "Pengurusan KPI",
+          "desc": "Takrif, jejak dan tanda aras KPI operasi yang bermakna sejajar secara langsung dengan sasaran pertumbuhan perusahaan menyeluruh."
+        },
+        {
+          "title": "Penyepaduan Data",
+          "desc": "Sepadukan sumber data yang diedarkan ke dalam gudang data bersatu dan lapisan semantik untuk pelaporan satu anak tetingkap kaca yang konsisten."
+        },
+        {
+          "title": "Pelaporan Automatik",
+          "desc": "Menjana dan mengedarkan laporan diperibadikan secara automatik mengikut jadual yang telah ditetapkan, peraturan perniagaan dan hierarki penerima."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sistem Perniagaan",
+        "Pengumpulan Data",
+        "Penyepaduan Data",
+        "Pemprosesan Data",
+        "Repositori Data",
+        "Analitis",
+        "Laporan & Papan Pemuka"
+      ],
+      "benefits": [
+        "Satu sumber kebenaran di seluruh perusahaan",
+        "Akses lebih pantas kepada metrik operasi masa nyata",
+        "Penyingkiran lengkap pemasangan hamparan manual",
+        "KPI rentas jabatan yang konsisten dan diselaraskan",
+        "Pengawasan eksekutif yang unggul dan kebolehaudit",
+        "Pengedaran automatik terus kepada pihak berkepentingan",
+        "Keselamatan dan kebenaran data peringkat baris berbutir",
+        "Meningkatkan ketangkasan untuk bertindak balas terhadap anomali operasi"
+      ],
+      "security": "Maklumat perniagaan boleh mengandungi data operasi, kewangan dan pelanggan yang sensitif. Penyelesaian pelaporan kami membenamkan pengesahan berbilang faktor, kebenaran berasaskan peranan terperinci, penyulitan dan log audit ke dalam seni bina pelaporan.",
+      "ctaHeadline": "Pelaporan Yang Menyokong Pertumbuhan",
+      "ctaSub": "Jadikan maklumat boleh diakses. Jadikan prestasi kelihatan. Buat keputusan yang lebih baik."
+    },
+    "managed-services": {
+      "title": "Perkhidmatan Terurus",
+      "tagline": "Operasi Teknologi Boleh Dipercayai. Sokongan Pakar. Penambahbaikan Berterusan.",
+      "heroBadge": "Operasi & Sokongan IT 24/7",
+      "overview": [
+        "Persekitaran IT moden adalah kompleks dan sentiasa berubah. Organisasi memerlukan infrastruktur, aplikasi, rangkaian, keselamatan, pemantauan dan sokongan teknikal yang boleh dipercayai untuk memastikan operasi perniagaan berjalan.",
+        "Perkhidmatan Terurus kami menyediakan pengurusan teknologi dan sokongan operasi yang berterusan, membolehkan organisasi mengekalkan persekitaran IT yang boleh dipercayai manakala pasukan dalaman memberi tumpuan kepada inisiatif strategik."
+      ],
+      "transformation": [
+        "Sokongan IT tradisional sering menumpukan pada menyelesaikan masalah selepas ia berlaku. Perkhidmatan terurus mengambil pendekatan proaktif dengan memantau infrastruktur, aplikasi, sistem dan persekitaran operasi secara berterusan.",
+        "Pendekatan ini membantu mengenal pasti isu yang berpotensi lebih awal, mengekalkan prestasi, meningkatkan ketersediaan dan mengurangkan gangguan operasi yang boleh dielakkan."
+      ],
+      "capabilities": [
+        {
+          "title": "Pengurusan Infrastruktur",
+          "desc": "Menyokong operasi berterusan, menampal dan pengurusan pelayan, storan, platform virtualisasi dan infrastruktur."
+        },
+        {
+          "title": "Pengurusan Awan",
+          "desc": "Urus beban kerja awan, sumber berbilang awan, konfigurasi, pemantauan, prestasi dan pengoptimuman FinOps."
+        },
+        {
+          "title": "Pengurusan Rangkaian",
+          "desc": "Menyediakan pemantauan 24/7, pengurusan prestasi, sokongan konfigurasi, pengoptimuman SD-WAN dan penyelesaian isu rangkaian."
+        },
+        {
+          "title": "Pengurusan Permohonan",
+          "desc": "Menyokong persekitaran aplikasi kritikal melalui pemantauan proaktif, penyelenggaraan, penyelesaian pepijat dan peningkatan operasi."
+        },
+        {
+          "title": "Pemantauan & Kebolehmerhatian",
+          "desc": "Menyediakan keterlihatan masa nyata yang komprehensif ke dalam kesihatan sistem, kependaman, masa aktif, kebergantungan infrastruktur dan makluman."
+        },
+        {
+          "title": "Pengurusan Sandaran & Pemulihan",
+          "desc": "Kekalkan jadual sandaran automatik, uji failover dengan kerap dan pastikan keupayaan pemulihan segera."
+        },
+        {
+          "title": "Operasi Keselamatan (SecOps)",
+          "desc": "Menyediakan pemantauan keselamatan berterusan, pengurusan tampalan, penguatkuasaan kawalan akses dan pengurangan ancaman proaktif."
+        }
+      ],
+      "lifecycleSteps": [
+        "Persekitaran Onboarding",
+        "Penemuan & Garis Dasar",
+        "Integrasi Telemetri",
+        "Definisi SLA",
+        "Pemantauan Aktif 24/7",
+        "Klasifikasi Insiden",
+        "Resolusi Pantas",
+        "Analisis Punca Punca",
+        "Kejuruteraan Pencegahan",
+        "Pengoptimuman Berterusan"
+      ],
+      "benefits": [
+        "Mengurangkan beban operasi dalaman dengan ketara",
+        "Pengesanan isu proaktif sebelum pengguna terjejas",
+        "Dijamin 99.99% ketersediaan sistem dan masa beroperasi",
+        "Belanjawan operasi IT yang boleh diramal dan telus",
+        "Akses segera kepada pakar kejuruteraan kanan",
+        "Masa tindak balas insiden yang disokong SLA yang pantas",
+        "Pemulihan bencana automatik dan kesinambungan perniagaan",
+        "Pengoptimuman dan pemodenan teknologi berterusan"
+      ],
+      "security": "Operasi terurus kami mematuhi rangka kerja ITIL dan ISO yang ketat, memastikan akses yang disulitkan, log audit terpencil, peti besi kelayakan yang paling tidak mempunyai keistimewaan dan penjajaran pematuhan merentas setiap sumber terurus.",
+      "ctaHeadline": "Penambahbaikan Berterusan",
+      "ctaSub": "Anda fokus pada perniagaan anda. Kami membantu memastikan teknologi anda terus berjalan."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Penyelesaian Teknologi Sehenti",
+      "tagline": "Satu Rakan Kongsi Teknologi. Pelbagai Keupayaan. Penyelesaian Perniagaan Lengkap.",
+      "heroBadge": "Rakan Kongsi Perusahaan Bersatu",
+      "overview": [
+        "Organisasi sering bekerjasama dengan pelbagai penyedia teknologi untuk infrastruktur, awan, aplikasi, automasi, analitik, keselamatan, sokongan dan transformasi digital. Menguruskan berbilang vendor boleh mewujudkan kerumitan, jurang komunikasi, usaha pendua dan persekitaran teknologi yang berpecah-belah.",
+        "Pendekatan Penyelesaian Teknologi Sehenti kami menggabungkan pelbagai keupayaan di bawah model perkhidmatan bersatu, membantu organisasi merancang, melaksana, menyepadukan, mengendali dan menambah baik persekitaran teknologi mereka secara berterusan."
+      ],
+      "transformation": [
+        "Kami menyokong kitaran hayat teknologi yang lengkap—daripada memahami keperluan perniagaan dan mentakrifkan strategi teknologi kepada mereka bentuk penyelesaian, melaksanakan platform, menyepadukan sistem, menggunakan aplikasi, memantau persekitaran dan menyediakan sokongan berterusan.",
+        "Objektifnya adalah untuk mewujudkan ekosistem teknologi yang berkaitan dan bukannya penyelesaian terpencil."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategi & Seni Bina",
+          "desc": "Fahami objektif perniagaan dan reka bentuk seni bina teknologi berskala, selamat dan boleh diselenggara."
+        },
+        {
+          "title": "Pelaksanaan & Bina",
+          "desc": "Laksanakan aplikasi, infrastruktur, penyepaduan, automasi dan platform digital dengan ketelitian perusahaan."
+        },
+        {
+          "title": "Integrasi Sistem",
+          "desc": "Sambungkan sistem dan aplikasi supaya maklumat bergerak dengan lancar ke seluruh organisasi."
+        },
+        {
+          "title": "Penerapan Berstruktur",
+          "desc": "Wujudkan CI/CD automatik dan proses keluarkan untuk memindahkan penyelesaian ke dalam pengeluaran dengan pasti dan selamat."
+        },
+        {
+          "title": "Pemantauan Berterusan",
+          "desc": "Menyediakan keterlihatan hujung ke hujung ke dalam infrastruktur, aplikasi, prestasi, ketersediaan dan kesihatan operasi."
+        },
+        {
+          "title": "Pengoptimuman & Sokongan",
+          "desc": "Semak semula persekitaran secara berterusan untuk meningkatkan prestasi, kebolehpercayaan, kecekapan kos dan kebolehskalaan."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategi",
+        "Seni bina",
+        "Perlaksanaan",
+        "Integrasi",
+        "Kerahan",
+        "Pemantauan",
+        "Pengoptimuman",
+        "Sokongan"
+      ],
+      "benefits": [
+        "Mengurangkan kerumitan pengurusan vendor dan overhed",
+        "Penyelarasan lancar merentas semua lapisan seni bina",
+        "Perlaksanaan projek yang lebih pantas dengan kelewatan penyerahan sifar",
+        "Peruntukan bajet yang boleh diramal dan penyampaian yang telus",
+        "Akauntabiliti perusahaan bersatu dari sifar ke skala",
+        "Penyelesaian berskala yang direka untuk pertumbuhan perniagaan masa hadapan",
+        "Perkongsian teknologi dipercayai jangka panjang",
+        "Transformasi digital menyeluruh dari hujung ke hujung"
+      ],
+      "security": "Dengan satu rakan kongsi dipercayai yang menyelia seni bina, pelaksanaan dan operasi, tadbir urus keselamatan kekal tidak terputus merentas semua peringkat—menghapuskan titik buta integrasi dan memastikan pematuhan berterusan.",
+      "ctaHeadline": "Rakan Kongsi Teknologi Lengkap Anda",
+      "ctaSub": "Satu pasangan. Satu penglihatan. Pelbagai teknologi. Penyelesaian lengkap."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Gambaran Keseluruhan Perusahaan",
+    "overviewTitle": "Teknologi Pintar untuk Hasil Boleh Diukur",
+    "transformationEyebrow": "Transformasi Operasi",
+    "transformationTitle": "Mengubah Perniagaan Melalui Aliran Kerja Pintar",
+    "deliveryEyebrow": "Pendekatan Penyampaian Berstruktur",
+    "deliveryTitle": "Pelaksanaan Hujung ke Hujung & Pengoptimuman Berterusan",
+    "deliveryIntro": "Pendekatan pelaksanaan terbukti kami mengikut kitaran hayat penghantaran yang ketat:",
+    "deliveryOutro": "Urutan berstruktur ini memastikan penjajaran yang ketat dengan matlamat perniagaan, postur keselamatan yang teguh dan penanda aras ROI yang boleh diukur pada setiap fasa.",
+    "securityEyebrow": "Keselamatan & Tadbir Urus",
+    "securityTitle": "Perlindungan Kebolehpercayaan & Pematuhan Gred Perusahaan",
+    "securityOutro": "Kami membenamkan kawalan akses berasaskan peranan yang ketat, pengimbasan kerentanan automatik, tadbir urus model dan penyulitan berbilang peringkat untuk memastikan persekitaran pengeluaran anda kekal berdaya tahan dan mematuhi sepenuhnya.",
+    "capabilitiesTitle": "Keupayaan Teknologi Teras",
+    "capabilitiesSub": "Kecekapan teknikal yang komprehensif direka bentuk untuk skala operasi digital anda.",
+    "bookDiscovery": "Penemuan Teknologi Buku",
+    "exploreAll": "Terokai Semua Teknologi",
+    "bookConsultation": "Tempah Konsultasi",
+    "coreCapabilities": "Keupayaan Teras"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Keupayaan Teras",
+    "exploreFramework": "Terokai Rangka Kerja Penyelesaian",
+    "bookConsultation": "Tempah Konsultasi",
+    "viewCaseStudies": "Lihat Kajian Kes",
+    "provenPillars": "Tiang Terbukti",
+    "operationalOutcomes": "Hasil Operasi",
+    "learnMore": "Ketahui Lebih Lanjut"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Kejuruteraan Digital Hujung ke Hujung",
+      "titlePart1": "Permulaan Kepada",
+      "titlePart2": "Kerahan",
+      "description": "Pembangunan menyeluruh bagi penyelesaian digital baharu daripada keperluan perniagaan dan seni bina penyelesaian melalui pembangunan, penyepaduan, ujian, penggunaan dan sokongan berterusan.",
+      "bookConsultation": "Tempah Konsultasi",
+      "exploreEngineering": "Terokai Kejuruteraan Penyelesaian",
+      "coreCapabilities": [
+        "Kejuruteraan Keperluan",
+        "Senibina Penyelesaian",
+        "Pembangunan Aplikasi",
+        "Penyepaduan API",
+        "Jaminan Kualiti",
+        "DevOps",
+        "Pengerahan",
+        "Sokongan & Penyelenggaraan"
+      ],
+      "row1Eyebrow": "Penghantaran Kitaran Hayat Penuh",
+      "row1Title": "Pembangunan Hujung-ke-Hujung dari Keperluan kepada Skala",
+      "row1P1": "Setiap inisiatif digital baharu bermula dengan keperluan unik, aliran kerja operasi dan objektif strategik yang tidak dapat dipenuhi oleh perisian satu saiz untuk semua. Kami pakar dalam membina sistem perisian tersuai dan berprestasi tinggi sepenuhnya dari awal.",
+      "row1P2": "Daripada penemuan keperluan awal dan reka bentuk seni bina teknikal kepada pembangunan pecut tangkas, penyepaduan ekosistem API, saluran paip ujian yang mantap dan penggunaan awan automatik, pasukan kejuruteraan kanan kami mengambil alih pemilikan penuh kitaran hayat produk anda.",
+      "row2Eyebrow": "Senibina & Kejuruteraan Penyelesaian",
+      "row2Title": "Sistem Boleh Skala Dibina untuk Pertumbuhan Perusahaan",
+      "row2P1": "Kami mereka bentuk seni bina perisian berdaya tahan yang disesuaikan untuk menahan beban pengeluaran yang berat. Daripada perkhidmatan mikro modular dan bahagian belakang terdorong peristiwa kepada strim data pemprosesan tinggi dan API GraphQL/REST, kami membina platform yang berskala dengan mudah.",
+      "row2P2": "Dengan mewujudkan pangkalan kod modular yang bersih dan dipasangkan dengan ujian automatik dan pematuhan keselamatan berterusan, kami memastikan asas perisian anda boleh diselenggara, boleh diaudit dan bersedia untuk evolusi jangka panjang.",
+      "row3Eyebrow": "Jaminan Kualiti & DevOps",
+      "row3Title": "Penghantaran Tangkas dengan Talian Paip Automatik",
+      "row3P1": "Model penyampaian kami membenamkan unit automatik, penyepaduan dan ujian regresi hujung ke hujung bersama aliran kerja CI/CD dalam kontena (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Dengan tunjuk cara pecut telus, pemerhatian masa nyata dan halaju yang didorong oleh peristiwa penting, kami memastikan masa ke pasaran yang pantas tanpa menjejaskan keselamatan, kestabilan atau pengalaman pengguna.",
+      "row4Eyebrow": "Penyerahan & Sokongan",
+      "row4Title": "Operasi 24/7 yang Boleh Dipercayai dan Evolusi Jangka Panjang",
+      "row4P1": "Bersiaran langsung hanyalah permulaan. Kami menyediakan pemantauan proaktif, penyelenggaraan yang disokong SLA, pengoptimuman infrastruktur awan, penalaan prestasi dan pelancaran ciri yang berterusan.",
+      "row4P2": "Pasukan kejuruteraan kami bertindak sebagai lanjutan semula jadi bagi organisasi anda, memastikan masa henti sifar dan keunggulan teknologi berterusan dalam pasaran anda.",
+      "pillarsTitle": "Keupayaan Teras",
+      "pillarsSub": "Lengkapkan keupayaan tindanan penuh yang direka bentuk untuk membawa idea anda daripada sifar kepada pengeluaran.",
+      "pillar1Title": "Kejuruteraan Keperluan",
+      "pillar1Desc": "Analisis perniagaan mendalam, spesifikasi fungsi dan pemetaan perjalanan pengguna untuk menentukan sempadan penyelesaian yang tepat.",
+      "pillar2Title": "Senibina Penyelesaian",
+      "pillar2Desc": "Seni bina asli awan boleh skala, pemodelan pangkalan data, reka bentuk perkhidmatan mikro dan asas keselamatan sifar amanah.",
+      "pillar3Title": "Pembangunan Aplikasi",
+      "pillar3Desc": "Aplikasi web dan mudah alih tindanan penuh moden yang direka bentuk dengan kod bersih, keselamatan jenis dan standard UI reaktif.",
+      "pillar4Title": "Penyepaduan API",
+      "pillar4Desc": "API REST/GraphQL pemprosesan tinggi, orkestrasi webhook, gerbang pembayaran dan penyegerakan ERP/CRM pihak ketiga yang lancar.",
+      "ctaTitle": "Bersedia untuk Membina Penyelesaian Anda dari Permulaan hingga Penerapan?",
+      "ctaSub": "Bekerjasama dengan Rezonants untuk mengarkitek, jurutera dan menggunakan platform digital tersuai anda daripada keperluan perniagaan kepada realiti pengeluaran.",
+      "ctaButton": "Tempah Konsultasi Penyelesaian",
+      "pillar5Title": "Jaminan Kualiti",
+      "pillar5Desc": "Automasi ujian yang ketat, ujian beban/tekanan, imbasan kelemahan dan set ujian regresi.",
+      "pillar6Title": "DevOps & Deployment",
+      "pillar6Desc": "Talian paip CI/CD automatik, orkestrasi kontena (Docker/K8s), infrastruktur sebagai kod dan keluaran masa sifar.",
+      "pillar7Title": "Sokongan & Penyelenggaraan",
+      "pillar7Desc": "Pemantauan proaktif 24/7, telemetri kesihatan, audit prestasi, tampalan keselamatan dan penyelenggaraan SLA yang berterusan.",
+      "pillar8Title": "Inovasi Berterusan",
+      "pillar8Desc": "Halaju ciri biasa, integrasi analitik data, peningkatan AI dan pemodenan seni bina."
+    },
+    "processAutomation": {
+      "eyebrow": "Operasi Proses Pintar",
+      "titlePart1": "Proses Perniagaan",
+      "titlePart2": "Automasi",
+      "description": "Automasi hujung ke hujung aliran kerja perusahaan, menggabungkan automasi proses robotik (RPA), pemprosesan dokumen pintar, enjin peraturan perniagaan dan penyepaduan sistem.",
+      "bookDiscovery": "Penemuan Automasi Buku",
+      "exploreFramework": "Terokai Rangka Kerja Penyelesaian",
+      "coreCapabilities": [
+        "Automasi Aliran Kerja",
+        "Automasi Proses Robotik",
+        "Pemprosesan Dokumen",
+        "Kejuruteraan Integrasi",
+        "Enjin Peraturan Perniagaan",
+        "Analitis Proses",
+        "Pengoptimuman Berterusan",
+        "Integrasi Legasi"
+      ],
+      "row1Eyebrow": "Automasi Proses Robotik",
+      "row1Title": "Bot Pintar untuk Operasi Kelantangan Tinggi",
+      "row1P1": "Hapuskan kemasukan data manual yang berulang, penyelarasan silang sistem dan penghalaan dokumen. Kami menggunakan bot RPA perusahaan yang melaksanakan tugas berstruktur 24/7 dengan kadar ralat sifar.",
+      "row1P2": "Dengan menyambungkan antara muka desktop lama, bahagian belakang SAP/ERP dan pangkalan data awan, bot perisian membebaskan pasukan anda untuk menumpukan pada inisiatif perniagaan strategik.",
+      "row2Eyebrow": "Pemprosesan Dokumen Pintar",
+      "row2Title": "OCR, Pembelajaran Mesin & AI Dokumen",
+      "row2P1": "Menelan, mengklasifikasikan dan mengekstrak data secara automatik daripada invois, kontrak, dokumen pengenalan diri dan tuntutan. Talian paip dipacu AI kami mengesahkan medan terhadap pangkalan data dalaman dan mencetuskan aliran kerja kelulusan automatik.",
+      "row2P2": "Mencapai kadar pemprosesan terus melebihi 95% sambil mengurangkan masa pusing ganti secara drastik dari hari ke saat.",
+      "row3Eyebrow": "Orkestrasi Proses",
+      "row3Title": "Penyegerakan Rentas Platform Hujung ke Hujung",
+      "row3P1": "Sambungkan CRM, ERP, HRMS dan API perbankan ke dalam aliran data masa nyata bersatu. Kami melaksanakan pencetus terdorong peristiwa, baris gilir mesej dan pengendali sandaran automatik.",
+      "row3P2": "Maklumat mengalir dengan lancar merentas jabatan tanpa campur tangan manusia, menghapuskan silo operasi dan kelewatan komunikasi.",
+      "row4Eyebrow": "Telemetri Berterusan",
+      "row4Title": "Analitis Proses Masa Nyata & Cerapan Kaizen",
+      "row4P1": "Jejaki masa pelaksanaan proses, peta haba kesesakan, kekerapan ralat dan ROI kewangan dalam papan pemuka eksekutif masa nyata.",
+      "row4P2": "Diagnostik pembelajaran mesin berterusan menemui peluang automasi baharu, memastikan perusahaan anda beroperasi pada kecekapan maksimum.",
+      "pillarsTitle": "Tonggak Automasi",
+      "pillarsSub": "Bahan binaan yang terbukti untuk operasi perusahaan pintar.",
+      "pillar1Title": "Automasi Aliran Kerja",
+      "pillar1Desc": "Aliran kerja manusia-dalam-gelung berbilang langkah dan digital yang diatur dengan penghalaan dan peningkatan automatik.",
+      "pillar2Title": "Automasi Proses Robotik",
+      "pillar2Desc": "Bot perisian berasaskan peraturan yang melaksanakan kemasukan data rutin, penyelarasan dan tugasan merentas aplikasi.",
+      "pillar3Title": "Automasi AI Pintar",
+      "pillar3Desc": "Ejen AI kognitif yang mentafsir konteks, meringkaskan teks tidak berstruktur dan membuat keputusan automatik.",
+      "pillar4Title": "Pengoptimuman Proses",
+      "pillar4Desc": "Proses perlombongan, pengesanan kesesakan dan aliran kerja Kaizen yang mengurangkan kos operasi secara berterusan.",
+      "ctaTitle": "Bersedia untuk Mengautomasikan Aliran Kerja Perniagaan Anda?",
+      "ctaSub": "Berhubung dengan arkitek automasi kami untuk mengenal pasti peluang ROI tinggi dan menggunakan aliran kerja digital pintar.",
+      "ctaButton": "Tempah Perundingan Automasi"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Piawaian Kejuruteraan & R&D",
+      "titlePart1": "Pusat",
+      "titlePart2": "Kecemerlangan",
+      "description": "Organisasi terpusat arkitek kanan dan pakar domain yang berdedikasi untuk menyeragamkan amalan kejuruteraan, memacu inovasi dan mempercepatkan inisiatif digital.",
+      "exploreStandards": "Terokai Piawaian Kejuruteraan",
+      "initiateAssessment": "Mulakan Penilaian CoE",
+      "coreCapabilities": [
+        "Piawaian Seni Bina",
+        "Rangka Kerja Boleh Digunakan Semula",
+        "Tadbir Urus Amalan Terbaik",
+        "Pembangunan Kemahiran",
+        "Penandaarasan Kualiti",
+        "R&D & Inovasi",
+        "Penilaian Teknologi",
+        "Bimbingan Merentas Projek"
+      ],
+      "uptimeLabel": "Masa Operasi Perusahaan",
+      "engineersLabel": "Jurutera & Arkitek",
+      "deploymentsLabel": "AI & Penerapan Awan",
+      "satisfactionLabel": "Kepuasan Pelanggan",
+      "row1Eyebrow": "Tiang 01 — Piawaian Kejuruteraan",
+      "row1Title": "Kejuruteraan Perisian Berprestasi Tinggi",
+      "row1P1": "Pusat Kecemerlangan kami menetapkan corak reka bentuk piawai, ujian automatik yang ketat dan amalan semakan kod sifar kecacatan yang mempercepatkan masa ke pasaran sambil mengekalkan hutang teknikal kepada sifar.",
+      "row1F1": "Saluran paip keluaran CI/CD automatik dengan analitik metrik DORA",
+      "row1F2": "Papan semakan seni bina yang ketat & tadbir urus perkhidmatan mikro",
+      "row1F3": "Linting keselamatan berterusan dan tampalan kelemahan automatik",
+      "row1Btn": "Pelajari Piawaian Kejuruteraan",
+      "row1Tag": "DevOps & Kejuruteraan Kualiti",
+      "row2Eyebrow": "Tunjang 02 — Inovasi R&D",
+      "row2Title": "Makmal Inovasi AI & Teknologi Baru Muncul",
+      "row2P1": "Kami bereksperimen dengan model pembelajaran mesin terkini, ejen AI tersuai dan automasi aliran kerja pintar untuk membina produk perusahaan generasi akan datang.",
+      "row2F1": "Penyepaduan pengetahuan AI & RAG Generatif Perusahaan",
+      "row2F2": "Aliran kerja ejen AI Autonomi untuk automasi proses perniagaan",
+      "row2F3": "Pengoptimuman model pembelajaran mesin tersuai & penalaan halus",
+      "row2Btn": "Terokai Makmal AI",
+      "row2Tag": "Kecerdasan Buatan & R&D Neural",
+      "row3Eyebrow": "Tonggak 03 — Infrastruktur",
+      "row3Title": "Seni Bina Awan Perusahaan & Keselamatan Sifar Amanah",
+      "row3P1": "Kami mereka bentuk dan mengurus persekitaran berbilang awan yang berdaya tahan yang dibina di atas rangka kerja keselamatan sifar amanah, memastikan data anda kekal dilindungi daripada ancaman siber global yang semakin berkembang.",
+      "row3F1": "Orkestrasi infrastruktur berbilang awan AWS, Azure & GCP",
+      "row3F2": "Akses rangkaian sifar amanah (ZTNA) & dasar IAM berasaskan peranan",
+      "row3F3": "Pengimbasan keselamatan kontena automatik & pengurusan rahsia",
+      "row3Btn": "Terokai Awan & Keselamatan",
+      "row3Tag": "Seni Bina Awan & Amanah Sifar",
+      "pillarsTitle": "Rangka Kerja Kecemerlangan Teras Kami",
+      "pillarsSub": "Buku permainan pembangunan bersistem yang menjanakan platform kritikal misi.",
+      "pillar1Title": "Lembaga Semakan Senibina (ARB)",
+      "pillar1Desc": "Pemantauan menyeluruh memastikan semua penyelesaian perusahaan sejajar dengan protokol berskala, keselamatan dan pematuhan yang ketat.",
+      "pillar2Title": "Pemecut Boleh Digunakan Semula & Pustaka Komponen",
+      "pillar2Desc": "Sistem reka bentuk proprietari, kit permulaan API dan templat perkhidmatan mikro bahagian belakang mengurangkan masa pembangunan awal sebanyak 40%.",
+      "pillar3Title": "Pemprofilan Prestasi Berterusan",
+      "pillar3Desc": "Talian paip kebolehmerhatian masa nyata lanjutan memantau kependaman aplikasi, kesesakan pemprosesan dan penggunaan sumber awan.",
+      "pillar4Title": "Peningkatan Bakat & Persatuan",
+      "pillar4Desc": "Persatuan dan pensijilan dalaman berstruktur yang memupuk kecekapan teknikal yang mendalam merentas awan, DevOps dan AI gunaan.",
+      "ctaTitle": "Tingkatkan Standard Kejuruteraan Anda",
+      "ctaSub": "Bekerjasama dengan Pusat Kecemerlangan Rezonants untuk membina seni bina awan yang berdaya tahan, mengautomasikan aliran kerja dan mempercepatkan penghantaran produk digital.",
+      "ctaButton": "Jadualkan Perundingan Eksekutif",
+      "badge": "REZONANTS COE",
+      "scroll": "Tatal",
+      "p1Title": "Tadbir Urus & Rangka Kerja",
+      "p1Desc": "Wujudkan tadbir urus seni bina seluruh perusahaan, pagar dasar dan piawaian pematuhan.",
+      "p1Tag": "Tadbir urus",
+      "p2Title": "Piawaian Teknologi & Seni Bina",
+      "p2Desc": "Tentukan seni bina rujukan moden, susunan teknologi yang disemak dan corak perkhidmatan mikro.",
+      "p2Tag": "Seni bina",
+      "p3Title": "Aset & Perpustakaan Boleh Digunakan Semula",
+      "p3Desc": "Mempercepatkan halaju pembangunan dengan berkongsi komponen, templat, kit permulaan dan sistem reka bentuk.",
+      "p3Tag": "Kebolehgunaan semula",
+      "p4Title": "Pembangunan Kompetensi",
+      "p4Desc": "Latihan berstruktur, bimbingan teknologi, dan pembolehan kemahiran untuk meningkatkan kehebatan kejuruteraan pasukan.",
+      "p4Tag": "Kecekapan",
+      "p5Title": "Inovasi & Teknologi Baru Muncul",
+      "p5Desc": "R&D tentang ejen AI, saluran paip automasi dan rangka kerja generasi akan datang untuk mengekalkan kelebihan pasaran.",
+      "p5Tag": "Inovasi",
+      "p6Title": "Penambahbaikan Berterusan",
+      "p6Desc": "Metrik kejuruteraan dipacu data (DORA), penanda aras SLA dan pengoptimuman kualiti yang berterusan.",
+      "p6Tag": "Kualiti"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Kejuruteraan Digital Disesuaikan",
+      "titlePart1": "Pembangunan Tersuai &",
+      "titlePart2": "Penyesuaian",
+      "description": "Pembangunan dan peningkatan aplikasi, platform, aliran kerja dan penyelesaian perusahaan untuk menangani keperluan perniagaan yang unik dan menyampaikan fungsi yang disesuaikan.",
+      "bookConsultation": "Tempah Konsultasi",
+      "exploreCapabilities": "Terokai Keupayaan",
+      "coreCapabilities": [
+        "Pembangunan Tersuai",
+        "Konfigurasi Platform",
+        "Sambungan",
+        "Aliran Kerja Tersuai",
+        "Pembangunan IPU",
+        "Integrasi Sistem",
+        "Peningkatan UI/UX",
+        "Pengoptimuman Prestasi"
+      ],
+      "row1Eyebrow": "FUNGSI TERSUAI",
+      "row1Title": "Ciri Tempahan Dibina untuk Aliran Kerja Anda",
+      "row1P1": "Perisian perusahaan standard sering gagal memenuhi keperluan perniagaan khusus. Pasukan kejuruteraan tersuai kami membangunkan modul aplikasi yang dipesan lebih dahulu, peraturan perniagaan tersuai dan sambungan khusus yang disesuaikan dengan operasi anda.",
+      "row1P2": "Daripada peningkatan CRM dan ERP tersuai kepada portal operasi khusus, kami membina ciri yang selaras dengan lancar dengan corak aliran kerja tepat pasukan anda.",
+      "row2Eyebrow": "INTEGRASI SISTEM ENTERPRISE",
+      "row2Title": "Konfigurasi Platform & Pembangunan API",
+      "row2P1": "Sambungkan sistem perisian yang berbeza ke dalam ekosistem digital bersatu. Kami merekayasa API REST dan GraphQL tersuai, pengendali webhook dan baris gilir mesej perusahaan untuk memastikan penyegerakan data masa nyata merentas semua platform anda.",
+      "row2P2": "Sama ada menyepadukan alat SaaS pihak ketiga atau melanjutkan platform proprietari di premis, seni bina penyepaduan kami mengutamakan integriti data, daya pemprosesan dan masa henti sifar.",
+      "row3Eyebrow": "UI/UX & PRESTASI",
+      "row3Title": "Peningkatan UI/UX & Pengoptimuman Prestasi",
+      "row3P1": "Tingkatkan antara muka lama dengan pengalaman pengguna yang moden dan responsif yang direka untuk kelajuan dan kejelasan. Kami merekayasa semula bahagian hadapan dengan corak reka bentuk intuitif, pematuhan kebolehaksesan dan model interaksi yang diperkemas.",
+      "row3P2": "Secara selari, jurutera prestasi kami mengoptimumkan pertanyaan pangkalan data, strategi caching dan saiz berkas bahagian hadapan untuk menyampaikan masa tindak balas serta-merta merentas semua peranti.",
+      "pillarsTitle": "Dicipta mengikut Spesifikasi Tepat Anda",
+      "pillarsSub": "Metodologi penyesuaian gred perusahaan dibina untuk skala dengan lancar.",
+      "pillar1Title": "Aliran Kerja & Sambungan Tersuai",
+      "pillar1Desc": "Logik aplikasi yang disesuaikan dan mesin keadaan automatik yang dikonfigurasikan khusus di sekitar peraturan operasi dalaman anda.",
+      "pillar2Title": "Penyepaduan API & Sistem",
+      "pillar2Desc": "Jambatan data selamat dan disahkan yang menghubungkan hujung belakang proprietari, suite ERP, gerbang pembayaran dan perkhidmatan awan.",
+      "pillar3Title": "Konfigurasi Platform",
+      "pillar3Desc": "Penyesuaian seni bina mendalam yang mengubah suai perisian perusahaan tanpa melanggar laluan naik taraf atau perjanjian sokongan vendor.",
+      "pillar4Title": "Pengoptimuman Prestasi",
+      "pillar4Desc": "Pemprofilan pertanyaan agresif, penghapusan kebocoran memori dan pengedaran CDN tepi untuk pemuatan halaman subsaat.",
+      "ctaTitle": "Bersedia untuk Menyesuaikan Platform Perusahaan Anda?",
+      "ctaSub": "Berhubung dengan arkitek penyelesaian kami untuk mereka bentuk dan menggunakan modul tersuai, aliran kerja dan penyepaduan yang disesuaikan dengan keperluan perniagaan anda.",
+      "ctaButton": "Tempah Panggilan Penyesuaian",
+      "badge": "Kejuruteraan Digital Disesuaikan",
+      "viewAllServices": "Lihat Semua Perkhidmatan"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Pemodenan Perusahaan",
+      "titlePart1": "digital",
+      "titlePart2": "Transformasi",
+      "description": "Pemodenan menyeluruh proses perniagaan, seni bina teknologi dan model operasi untuk memacu ketangkasan organisasi, kecekapan operasi dan pertumbuhan digital yang mampan.",
+      "startTransformation": "Mulakan Transformasi",
+      "exploreStrategy": "Terokai Strategi",
+      "coreCapabilities": [
+        "Strategi & Pemetaan Jalan",
+        "Pemodenan Seni Bina",
+        "Awan & Infrastruktur",
+        "Data & Analitis",
+        "Pendigitalan Proses",
+        "Pengalaman Pelanggan",
+        "Pengurusan Perubahan",
+        "Model Operasi Tangkas"
+      ],
+      "row1Eyebrow": "Strategi & Hala Tuju",
+      "row1Title": "Daripada Visi kepada Pelan Hala Tuju Boleh Laksana",
+      "row1P1": "Kami bekerjasama dengan pemimpin perusahaan untuk mentakrifkan strategi digital, kes perniagaan dan peta jalan berperingkat dengan kemenangan pantas dan pelaksanaan yang tidak berisiko.",
+      "row1P2": "Inisiatif yang diutamakan, model TCO dan KPI memastikan setiap usaha pemodenan teknologi berkait secara langsung dengan hasil, kecekapan dan kepuasan pelanggan.",
+      "row2Eyebrow": "Pemodenan Legasi",
+      "row2Title": "Modenkan Tanpa Memecahkan Perniagaan",
+      "row2P1": "Platform semula monolit kepada perkhidmatan mikro, API dan corak asli awan dengan pemotongan masa henti sifar dan pengesahan regresi automatik.",
+      "row2P2": "Kami memodenkan aplikasi, pangkalan data dan lapisan penyepaduan sambil mengekalkan pematuhan dan postur keselamatan.",
+      "row3Eyebrow": "Awan, AI & Data",
+      "row3Title": "Penggunaan Awan & Perisikan Dipacu Data",
+      "row3P1": "Gunakan AWS, Azure dan GCP, bina saluran paip data moden dan benamkan ejen pembelajaran mesin untuk memacu keputusan autonomi.",
+      "row3P2": "Daripada penstriman acara masa nyata kepada papan pemuka bersatu, transformasi menjadi boleh diukur dan mampan.",
+      "row4Eyebrow": "Pengalaman Pelanggan",
+      "row4Title": "Pengalaman Omnichannel Moden",
+      "row4P1": "Reka bentuk semula perjalanan pelanggan merentas web responsif, iOS, Android dan portal layan diri dengan antara muka yang diperibadikan.",
+      "row4P2": "Kejuruteraan platform, telemetri dan gelung maklum balas automatik menjadikan inovasi digital berterusan.",
+      "pillarsTitle": "Tonggak Transformasi",
+      "pillarsSub": "Tuas berfokuskan hasil yang memastikan kepimpinan digital yang mampan.",
+      "pillar1Title": "Strategi & Tadbir Urus Digital",
+      "pillar1Desc": "Pelan tindakan transformasi berperingkat dengan pemodelan kes perniagaan, tadbir urus seni bina dan penjejakan risiko peristiwa penting.",
+      "pillar2Title": "Platform Awan & Data",
+      "pillar2Desc": "Asas berbilang awan AWS/Azure/GCP, saluran paip automatik dan pembolehan analitis data perusahaan.",
+      "pillar3Title": "AI & Automasi",
+      "pillar3Desc": "Automasi proses pintar, ejen AI kognitif dan telemetri ramalan untuk mengoptimumkan operasi harian.",
+      "pillar4Title": "Pengalaman Pelanggan",
+      "pillar4Desc": "Portal digital omnichannel bertukar tinggi dan antara muka diperibadikan dibina untuk pengekalan pengguna maksimum.",
+      "ctaTitle": "Bersedia untuk Mengubah Perusahaan Anda?",
+      "ctaSub": "Bekerjasama dengan Rezonants untuk transformasi digital berperingkat dan tidak berisiko yang terikat dengan hasil perniagaan yang boleh diukur.",
+      "ctaButton": "Tempah Panggilan Transformasi Digital",
+      "bookWorkshop": "Bengkel Transformasi Buku",
+      "exploreFramework": "Terokai Rangka Kerja Penyelesaian",
+      "coreCapabilitiesTitle": "Keupayaan Teras"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Kitaran Hayat Teknologi Lengkap",
+      "titlePart1": "Penyelesaian Hujung-ke-Hujung",
+      "titlePart2": "Kerangka",
+      "description": "Rangka kerja penghantaran kitaran hayat penuh berstruktur yang merangkumi keperluan perniagaan, reka bentuk seni bina, kejuruteraan, penyepaduan, jaminan kualiti, penggunaan awan dan operasi terurus.",
+      "startJourney": "Mulakan Projek Anda",
+      "exploreFramework": "Terokai Rangka Kerja",
+      "coreCapabilities": [
+        "Analisis Keperluan",
+        "Reka Bentuk Seni Bina",
+        "Pembangunan Tindanan Penuh",
+        "Kejuruteraan Integrasi",
+        "Jaminan Kualiti",
+        "Penerapan & Pelancaran",
+        "Operasi Berterusan",
+        "Evolusi Berterusan"
+      ],
+      "row1Eyebrow": "Strategi & Seni Bina",
+      "row1Title": "Keperluan Kejuruteraan & Reka Bentuk Penyelesaian",
+      "row1P1": "Bengkel kolaboratif, pemetaan domain perniagaan dan spesifikasi seni bina awan yang direka untuk menghapuskan risiko sebelum baris kod ditulis.",
+      "row1P2": "Kami mentakrifkan model data, rangka kerja keselamatan dan pencapaian skalabiliti yang menetapkan kejayaan jangka panjang.",
+      "row2Eyebrow": "Kejuruteraan & Kualiti",
+      "row2Title": "Pembangunan Tindanan Penuh & Ujian Automatik",
+      "row2P1": "Perkhidmatan mikro modular, API jenis selamat dan bahagian hadapan responsif digabungkan dengan unit automatik, penyepaduan dan imbasan keselamatan.",
+      "row2P2": "Talian paip penyepaduan berterusan dengan Tindakan GitHub, Terraform dan pagar keselamatan automatik.",
+      "row3Eyebrow": "Kerahan & Operasi",
+      "row3Title": "Penerapan Awan & Pemantauan Terurus 24/7",
+      "row3P1": "Orkestra berbilang awan pada AWS/Azure/GCP dengan pemulangan automatik, pemotongan masa sifar dan kebolehmerhatian masa nyata.",
+      "row3P2": "Kami menyediakan penyelenggaraan yang disokong SLA dan pemantauan telemetri berterusan untuk mengembangkan produk anda dengan lancar.",
+      "row4Eyebrow": "Tadbir Urus Perusahaan",
+      "row4Title": "Tadbir Urus Bersatu & Sokongan Berterusan",
+      "row4P1": "Akauntabiliti satu mata merentasi keseluruhan timbunan digital anda — halaju pecut telus, belanjawan boleh diramal dan inovasi berterusan.",
+      "row4P2": "Pelancaran ciri biasa dan kitaran pemodenan memastikan perusahaan anda mendahului persaingan.",
+      "pillarsTitle": "Tunjang Rangka Kerja Kitaran Hayat",
+      "pillarsSub": "Setiap fasa direka bentuk dengan ketelitian perusahaan.",
+      "pillar1Title": "Strategi & Keperluan",
+      "pillar1Desc": "Penemuan domain, peta jalan seni bina dan penjajaran pihak berkepentingan untuk menghapuskan risiko pelaksanaan.",
+      "pillar2Title": "Seni Bina & Binaan",
+      "pillar2Desc": "Perkhidmatan mikro asli awan yang berdaya tahan, penyepaduan API dan ujian QA berterusan.",
+      "pillar3Title": "Keselamatan & Penggunaan",
+      "pillar3Desc": "Pematuhan keselamatan sifar amanah, keluaran dalam kontena dan penggunaan awan automatik.",
+      "pillar4Title": "Tadbir Urus & Sokongan",
+      "pillar4Desc": "Pemantauan SLA 24/7, telemetri kesihatan dan kejuruteraan evolusi yang berterusan.",
+      "ctaTitle": "Perlukan Rakan Kongsi Kitaran Hayat Lengkap?",
+      "ctaSub": "Kami memiliki kitaran hayat teknologi penuh supaya pasukan anda boleh menumpukan pada hasil perniagaan teras.",
+      "ctaButton": "Rakan Kongsi untuk Kitaran Hayat Penuh"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformasi Awan & Infrastruktur",
+      "titlePart1": "Penghijrahan &",
+      "titlePart2": "Pemodenan",
+      "description": "Penghijrahan aplikasi, pangkalan data dan infrastruktur warisan yang selamat dan berstruktur kepada seni bina awan moden, digandingkan dengan pemodenan berterusan untuk ketangkasan dan kecekapan yang dipertingkatkan.",
+      "bookAssessment": "Penilaian Migrasi Buku",
+      "exploreStrategy": "Terokai Strategi Awan",
+      "coreCapabilities": [
+        "Migrasi Awan",
+        "Pemodenan Aplikasi",
+        "Migrasi Pangkalan Data",
+        "Pengehosan Semula Infrastruktur",
+        "Kontena",
+        "Peralihan Perkhidmatan Mikro",
+        "Pengoptimuman Prestasi",
+        "Keselamatan & Pematuhan"
+      ],
+      "row1Eyebrow": "Migrasi Awan",
+      "row1Title": "Strategi Berbilang Awan & Angkat-dan-Optimumkan",
+      "row1P1": "Penghijrahan beban kerja yang lancar merentas AWS, Azure dan Google Cloud dengan penemuan automatik, perancangan gelombang dan gangguan perniagaan sifar.",
+      "row1P2": "Kami mengimbangi pengehosan semula, penyusunan semula dan pemfaktoran semula untuk mengoptimumkan jumlah kos pemilikan (TCO) dan ketangkasan.",
+      "row2Eyebrow": "Migrasi Data & Pangkalan Data",
+      "row2Title": "ETL Selamat & Pengesahan Data Automatik",
+      "row2P1": "Replikasi pangkalan data automatik, terjemahan skema dan saluran paip ETL throughput tinggi dengan pengesahan integriti data 100%.",
+      "row2P2": "Latihan pemotongan masa sifar sifar memastikan konsistensi data dan kesinambungan perniagaan yang lengkap.",
+      "row3Eyebrow": "Pemodenan Platform",
+      "row3Title": "Kontena & Orkestrasi Kubernetes",
+      "row3P1": "Memodenkan monolit lama menjadi perkhidmatan mikro boleh skala yang diatur melalui Kubernetes (EKS, AKS, GKE) dengan cetak biru IaC automatik.",
+      "row3P2": "Pemprofilan prestasi selepas migrasi dan pengoptimuman kos memastikan ROI serta-merta.",
+      "row4Eyebrow": "Perancangan Cutover",
+      "row4Title": "Ujian Automatik & Jaring Keselamatan Guling Balik",
+      "row4P1": "Buku panduan cutover yang diuji pertempuran, suite regresi automatik dan mekanisme rollback segera untuk ketenangan fikiran sepenuhnya.",
+      "row4P2": "Telemetri kesihatan pasca migrasi dan penjagaan hiper 24/7 menjamin kestabilan pengeluaran yang sempurna.",
+      "pillarsTitle": "Jaminan Migrasi",
+      "pillarsSub": "Langkah yang tidak berisiko disokong oleh SLA perusahaan.",
+      "pillar1Title": "Pemotong Masa Sifar-Sifar",
+      "pillar1Desc": "Keluaran Canary dan penyegerakan dwi-tulis pangkalan data untuk memastikan akses pengguna tidak terganggu.",
+      "pillar2Title": "Pengesahan Data Automatik",
+      "pillar2Desc": "Perbandingan jumlah semak, audit integriti skema dan penyesuaian ETL automatik.",
+      "pillar3Title": "Gulung Balik Jaring Keselamatan",
+      "pillar3Desc": "Protokol pemulihan bencana dan latihan latihan yang ketat untuk membendung risiko pada setiap fasa.",
+      "pillar4Title": "Prestasi & Pengoptimuman Kos",
+      "pillar4Desc": "Pembetulan awan, dasar penskalaan automatik dan papan pemuka tadbir urus kos disertakan.",
+      "ctaTitle": "Bersedia Berhijrah dengan Penuh Keyakinan?",
+      "ctaSub": "Berkongsi dengan Rezonants untuk pemodenan awan dan data berstruktur, bebas risiko.",
+      "ctaButton": "Rancang Bengkel Migrasi Anda"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Pengesahan Pantas & Kebolehlaksanaan",
+      "titlePart1": "Bukti Konsep (PoC) &",
+      "titlePart2": "Perlaksanaan Perintis",
+      "description": "Pembangunan pantas dan pengesahan penyelesaian teknologi untuk menilai kebolehlaksanaan teknikal, nilai perniagaan, keperluan penyepaduan, prestasi dan kebolehskalaan sebelum pelaksanaan skala penuh.",
+      "initiateDiscovery": "Mulakan Penemuan PoC",
+      "exploreDevelopment": "Terokai Pembangunan Tersuai",
+      "coreCapabilities": [
+        "Pembangunan PoC",
+        "Kejuruteraan Prototaip",
+        "Kajian Kebolehlaksanaan",
+        "Pengesahan Seni Bina",
+        "Pengujian Integrasi",
+        "Penandaarasan Prestasi",
+        "Kerahan Juruterbang",
+        "Penilaian Nilai"
+      ],
+      "row1Eyebrow": "Pengesahan Pantas",
+      "row1Title": "Daripada Konsep kepada Kebolehlaksanaan yang Disahkan",
+      "row1P1": "Mengubah idea menjadi penyelesaian skala perusahaan memerlukan pengesahan awal yang rapi. Perkhidmatan PoC & Pilot kami menilai daya maju teknologi, menguji tekanan pengait integrasi kritikal dan mengesahkan ROI perniagaan sebelum komitmen modal utama.",
+      "row1P2": "Kami membina MVP kesetiaan tinggi dan juruterbang kotak pasir terfokus yang membuktikan kebolehlaksanaan teknikal, mengukur kependaman sistem dan mengumpulkan pengesahan pihak berkepentingan langsung lebih awal.",
+      "row1Cap": "Prototaip & Penanda Aras Teknikal MVP Pantas",
+      "row2Eyebrow": "Prototaip Tangkas",
+      "row2Title": "MVP Interaktif & Pengesahan UX",
+      "row2P1": "Kami membina bingkai wayar interaktif, aliran pengguna boleh klik dan pembuktian konsep berfungsi dalam hari, bukan bulan. Uji interaksi pengguna sebenar, perhalusi corak UI/UX dan kumpulkan maklum balas yang boleh diambil tindakan daripada pihak berkepentingan.",
+      "row2P2": "Dengan memendekkan gelung maklum balas semasa pembangunan awal, pasukan anda meminimumkan kerja semula dan menetapkan spesifikasi teknikal yang jelas sebelum fasa binaan berintensif modal bermula.",
+      "row2Cap": "Lelaran Pantas & Prototaip UX Boleh Diklik",
+      "row3Eyebrow": "Pengujian Penyepaduan & Kebolehskalaan",
+      "row3Title": "Integrasi Sistem Kompleks Nyah Risiko",
+      "row3P1": "Temui kesesakan teknikal, had API dan kekangan prestasi sebelum komitmen modal penuh. Pasukan kejuruteraan perintis kami menguji integrasi, saluran paip data dan API pihak ketiga dalam persekitaran kotak pasir terpencil.",
+      "row3P2": "Pengurangan risiko proaktif ini memastikan ketersediaan sistem yang tinggi, pematuhan keselamatan dan garis masa pembangunan yang boleh diramalkan apabila mengalihkan PoC anda kepada pengeluaran perusahaan.",
+      "row3Cap": "Penyepaduan Kotak Pasir & Ujian Tekanan",
+      "row4Eyebrow": "Juruterbang Pengeluaran Terkawal",
+      "row4Title": "Pelancaran Juruterbang Sasaran & Pengesahan Kes Perniagaan",
+      "row4P1": "Sebarkan keluaran perintis yang disasarkan kepada segmen pengguna terpilih atau pasaran ujian. Jejaki metrik prestasi, analitik penerimaan pengguna dan maklum balas operasi untuk mengukur nilai perniagaan dan mewujudkan kes perniagaan yang disokong data.",
+      "row4P2": "Dengan cerapan perintis dunia sebenar, penaja eksekutif memperoleh metrik ROI yang jelas untuk mewajarkan penggunaan yang lebih luas dan pelaburan transformasi digital yang strategik.",
+      "row4Cap": "Telemetri Penerapan & Prestasi Terkawal",
+      "pillarsTitle": "Prinsip Kejuruteraan Juruterbang Kami",
+      "pillarsSub": "Prinsip panduan yang mengubah ketidakpastian teknikal kepada kejayaan perniagaan yang boleh diramal.",
+      "pillar1Title": "Prototaip PoC & MVP",
+      "pillar1Desc": "Menyampaikan prototaip berfungsi dengan pantas untuk mengesahkan cadangan nilai pada awal kitaran hayat.",
+      "pillar2Title": "Kebolehlaksanaan & Pengesahan",
+      "pillar2Desc": "Sahkan keserasian API, ambang pemprosesan dan kekangan pematuhan dalam persekitaran kotak pasir.",
+      "pillar3Title": "Penilaian Kebolehskalaan",
+      "pillar3Desc": "Simulasikan beban pengeluaran untuk menetapkan had kapasiti dan menentukan saiz seni bina awan.",
+      "pillar4Title": "Pengesahan Kes Perniagaan",
+      "pillar4Desc": "Kira ROI ketara dan metrik produktiviti untuk menyokong keputusan pelancaran seluruh perusahaan.",
+      "ctaTitle": "Bersedia untuk mengesahkan penyelesaian digital anda yang seterusnya?",
+      "ctaSub": "Berhubung dengan pasukan kejuruteraan penyelesaian kami untuk meneroka keperluan projek anda, membina prototaip dan menguji kebolehlaksanaan dengan risiko sifar.",
+      "ctaButton": "Tempah Konsultasi PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Hab Operasi Berpusat",
+      "titlePart1": "Perkhidmatan Berkongsi &",
+      "titlePart2": "Operasi Terurus",
+      "description": "Penyampaian teknologi dan keupayaan operasi secara berpusat merentas unit perniagaan melalui proses piawai, sumber mahir, rangka kerja tadbir urus, pengurusan perkhidmatan dan tahap perkhidmatan yang boleh diukur.",
+      "bookDiscovery": "Penemuan Operasi Terurus Buku",
+      "exploreFramework": "Terokai Rangka Kerja Penyelesaian",
+      "coreCapabilities": [
+        "Perkhidmatan Terurus",
+        "Operasi IT",
+        "Sokongan Aplikasi",
+        "Pengurusan Perkhidmatan",
+        "Pengoptimuman Sumber",
+        "Pengurusan SLA",
+        "Tadbir urus",
+        "Penambahbaikan Berterusan",
+        "Pengoptimuman Kos"
+      ],
+      "row1Eyebrow": "Hab Penghantaran Bersatu",
+      "row1Title": "Perkhidmatan Terpiawai Merentas Semua Unit Perniagaan",
+      "row1P1": "Menyatukan IT pejabat belakang, pengurusan infrastruktur dan sokongan teknikal ke dalam satu pusat penyampaian kecekapan tinggi.",
+      "row1P2": "Dengan menghapuskan overhed pasukan pendua dan menyeragamkan model penyampaian perkhidmatan, organisasi anda memperoleh kualiti yang konsisten dan mengurangkan jumlah perbelanjaan operasi.",
+      "row2Eyebrow": "24/7 SRE & Sokongan Aplikasi",
+      "row2Title": "Pemantauan Proaktif & Penyelesaian Insiden Pantas",
+      "row2P1": "Jurutera Kebolehpercayaan Tapak (SRE) kami yang berdedikasi dan pakar sokongan menyediakan pemantauan telemetri 24/7/365, triage amaran automatik dan penyelesaian isu L1/L2/L3 yang pantas.",
+      "row2P2": "Disokong oleh komitmen SLA yang ketat, kami menjamin ketersediaan 99.99% untuk aplikasi kritikal misi dan infrastruktur awan anda.",
+      "row3Eyebrow": "Tadbir Urus & Pematuhan ITIL",
+      "row3Title": "Rangka Kerja Pengurusan Perkhidmatan Berstruktur",
+      "row3P1": "Laksanakan piawaian ITSM peneraju industri (ServiceNow, Jira Service Management) dengan tiket yang telus, analisis punca dan pagar pengurusan perubahan.",
+      "row3P2": "Jejak audit dan dasar tadbir urus yang komprehensif memastikan operasi anda kekal mematuhi piawaian keselamatan antarabangsa.",
+      "row4Eyebrow": "FinOps & Penambahbaikan Berterusan",
+      "row4Title": "Belanjawan Boleh Diramal & Pengoptimuman Sumber",
+      "row4P1": "Menghapuskan sisa awan, mengoptimumkan saiz pengiraan dan mengautomasikan penyelenggaraan operasi rutin dengan amalan terbaik FinOps.",
+      "row4P2": "Laporan ketelusan bulanan dan ramalan kapasiti memastikan pengoptimuman kos operasi berterusan dan kecekapan modal yang tinggi.",
+      "pillarsTitle": "Tonggak Operasi",
+      "pillarsSub": "Tuas operasi yang terbukti untuk skalabiliti perusahaan yang boleh dipercayai.",
+      "pillar1Title": "24/7 Operasi IT Terurus",
+      "pillar1Desc": "Telemetri NOC proaktif, tampalan pelayan, penyelenggaraan infrastruktur, dan jaminan masa operasi 99.99%.",
+      "pillar2Title": "ITSM & Meja Perkhidmatan",
+      "pillar2Desc": "Meja bantuan berbilang saluran Tahap 1/2/3, penghalaan insiden dan aliran kerja penyelesaian tiket berstruktur.",
+      "pillar3Title": "SLA & Kawalan Prestasi",
+      "pillar3Desc": "Masa respons yang disokong secara kontrak, penanda aras MTTR dan audit prestasi bulanan yang telus.",
+      "pillar4Title": "FinOps & Pengoptimuman Kos",
+      "pillar4Desc": "Pembahagian saiz sumber yang berterusan, penambakan lesen dan pengurangan kos awan automatik.",
+      "ctaTitle": "Bersedia untuk Skalakan Operasi Terurus Anda?",
+      "ctaSub": "Bekerjasama dengan Rezonants untuk perkhidmatan terurus 24/7 yang boleh dipercayai yang mengoptimumkan kos dan menghapuskan masa henti operasi.",
+      "ctaButton": "Tempah Perundingan Operasi Terurus",
+      "howItWorksHeading": "Laluan yang terbukti untuk kejayaan perkhidmatan dikongsi"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotik",
+      "eyebrow": "Sistem pintar",
+      "heroHeading": "AI & Robotik bekerjasama",
+      "intro": "Kecerdasan Buatan (AI) dan Robotik sedang mengubah cara perniagaan beroperasi dengan menggabungkan pembuatan keputusan pintar dengan automasi termaju. AI membolehkan mesin menganalisis data, mempelajari corak dan membuat keputusan yang bijak, manakala robotik membawa keupayaan ini ke dalam dunia fizikal untuk melaksanakan tugas dengan pantas, ketepatan dan konsisten.",
+      "section1Heading": "Dibina untuk menyelaraskan setiap operasi",
+      "section1Text": "Penyelesaian AI dan Robotik kami membantu organisasi menyelaraskan operasi, mengurangkan usaha manual dan meningkatkan produktiviti merentas pelbagai industri. Daripada automasi proses dan analitik ramalan kepada robotik pintar dan sistem pintar, kami menyampaikan teknologi inovatif yang meningkatkan kecekapan, memacu pertumbuhan dan menyokong transformasi digital.",
+      "section2Heading": "Di mana kecerdasan bertemu tindakan",
+      "section2Text": "Setiap interaksi, keputusan dan pergerakan dikuasakan oleh satu sistem yang disambungkan — menukar data kepada hasil dalam masa nyata.",
+      "footerTag": "Teknologi inovatif untuk transformasi digital"
+    },
+    "informationReporting": {
+      "brand": "Platform Data Perusahaan",
+      "heroTitle": "Sistem Maklumat & Pelaporan",
+      "heroSubtitle": "Satu sumber kebenaran untuk setiap jabatan — dibina untuk menjadikan data operasi mentah menjadi keputusan yang boleh diambil tindakan oleh perniagaan anda hari ini.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "DIANALISIS",
+      "statusArchived": "DIARKIB",
+      "statusPending": "SELESAI",
+      "metricUptime": "Masa Beroperasi Sistem",
+      "metricSessions": "Sesi Aktif",
+      "metricReportsPerDay": "Laporan / Hari",
+      "metricEvents": "Peristiwa Dimakan Harian",
+      "metricReports": "Laporan Berjadual",
+      "metricLatency": "Kependaman API",
+      "unifiedPlatform": "Platform Bersatu",
+      "analyticsSuite": "Suite Analitis",
+      "reportingConsole": "Konsol Pelaporan",
+      "businessOutcome": "Hasil Perniagaan",
+      "section1Heading": "Satu sistem berpusat untuk setiap metrik yang penting",
+      "section1P1": "Sistem Maklumat & Pelaporan ialah penyelesaian perniagaan penting yang membolehkan organisasi mengumpul, mengurus dan mengubah data menjadi cerapan yang bermakna. Sistem ini menyepadukan maklumat daripada pelbagai jabatan, memastikan akses tepat, konsisten dan masa nyata kepada data perniagaan kritikal. Dengan menyediakan platform terpusat untuk pengurusan maklumat, organisasi boleh meningkatkan keterlihatan operasi, memperkemas aliran kerja dan menyokong pembuatan keputusan strategik merentas semua peringkat perusahaan.",
+      "section1P2": "Sistem ini menggunakan pelaporan automatik, analitik dan papan pemuka untuk menjejak prestasi, memantau metrik utama dan menjana laporan masa nyata. Dengan mengurangkan usaha manual dan meningkatkan ketepatan data, perniagaan boleh membuat keputusan yang lebih pantas dan berkesan.",
+      "section2Heading": "Dibina untuk keterlihatan, pematuhan dan skala",
+      "section2Text": "Dengan keterlihatan, pematuhan dan kerjasama yang dipertingkatkan, Sistem Maklumat & Pelaporan membolehkan organisasi mengoptimumkan proses, meningkatkan produktiviti dan memacu pertumbuhan perniagaan yang mampan dalam persekitaran yang kompetitif.",
+      "ctaHeading": "Berikan setiap pasukan gambaran masa nyata perniagaan yang sama.",
+      "ctaText": "Lihat cara Sistem Data Nexus boleh menyatukan pelaporan anda ke dalam satu platform pintar.",
+      "footerCopyright": "© 2026 Sistem Data Nexus. Semua hak terpelihara.",
+      "navOverview": "Gambaran keseluruhan",
+      "navCapabilities": "Keupayaan",
+      "navImpact": "Kesan",
+      "navContact": "Kenalan"
+    },
+    "managedServices": {
+      "subtitle": "Perkhidmatan terurus yang komprehensif untuk perniagaan anda"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Memodenkan Aplikasi Perniagaan untuk Perusahaan Terpacu Data",
+      "excerpt": "Bagaimana seni bina aplikasi moden dan data bersambung boleh meningkatkan kecekapan operasi, kebolehskalaan dan keterlihatan perniagaan.",
+      "tag": "Transformasi Perniagaan",
+      "category": "TRANSFORMASI PERNIAGAAN",
+      "summary": "Aplikasi moden dan asas data boleh membantu perusahaan meningkatkan kecekapan operasi, menghubungkan sistem perniagaan dan mewujudkan keterlihatan yang lebih baik merentas operasi mereka."
+    },
+    "artificial-intelligence": {
+      "title": "Bagaimana AI Membentuk Semula Aplikasi Perusahaan",
+      "excerpt": "Terokai cara automasi pintar, salinan AI dan kecerdasan ramalan menjadi sebahagian daripada aplikasi perusahaan yang dipercayai oleh perniagaan setiap hari.",
+      "tag": "Kepintaran Buatan",
+      "category": "KECERDASAN TIRUAN",
+      "summary": "Terokai cara automasi pintar, kopilot AI dan kecerdasan ramalan mengubah perisian perusahaan setiap hari menjadi platform adaptif dan proaktif."
+    },
+    "modern-erp": {
+      "title": "Mempercepatkan Transformasi Perniagaan dengan ERP Moden",
+      "excerpt": "Terokai cara platform ERP moden menghubungkan kewangan, perolehan, rantaian bekalan dan operasi perniagaan melalui asas digital bersatu.",
+      "tag": "ERP Moden",
+      "category": "ERP MODEN",
+      "summary": "Platform ERP moden menghubungkan kewangan, perolehan, rantaian bekalan dan operasi perniagaan ke dalam model operasi masa nyata yang bersatu."
+    },
+    "cybersecurity": {
+      "title": "Membina Ketahanan Siber dalam Perusahaan Terhubung",
+      "excerpt": "Terokai cara organisasi boleh mengukuhkan keselamatan, melindungi sistem kritikal dan bersedia menghadapi ancaman merentas persekitaran yang semakin bersambung.",
+      "tag": "Keselamatan siber",
+      "category": "KESELAMATAN SIBER",
+      "summary": "Memandangkan perusahaan menyepadukan lebih banyak sistem awan, API dan ekosistem rakan kongsi, daya tahan siber memastikan operasi kritikal misi menahan ancaman moden."
+    },
+    "cloud-modernization": {
+      "title": "Memodenkan Aplikasi Legasi untuk Awan",
+      "excerpt": "Terokai pendekatan praktikal untuk menilai, memodenkan dan mengalihkan aplikasi warisan ke arah seni bina awan yang boleh skala dan selamat.",
+      "tag": "Awan & Pemodenan",
+      "category": "AWAN & PEMODENAN",
+      "summary": "Pelan jalan berstruktur dan pragmatik untuk menilai, memfaktorkan semula dan memindahkan sistem perusahaan monolitik kepada seni bina awan yang anjal dan boleh diselenggara."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "TRANSFORMASI PERNIAGAAN",
+      "title": "Memodenkan Aplikasi Perniagaan untuk Perusahaan Terpacu Data",
+      "subtitle": "Aplikasi moden dan asas data boleh membantu perusahaan meningkatkan kecekapan operasi, menghubungkan sistem perniagaan dan mewujudkan keterlihatan yang lebih baik merentas operasi mereka.",
+      "date": "September 2026",
+      "readTime": "7 min dibaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Seni Bina Aplikasi & Data Bersambung",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Aplikasi Perniagaan",
+          "desc": "CRM warisan yang berbeza, ERP dan alatan jabatan berjalan dalam silo."
+        },
+        {
+          "title": "Sumber Data Berbilang",
+          "desc": "Jadual operasi berpecah-belah, ekstrak CSV dan skema ad-hoc."
+        },
+        {
+          "title": "Pangkalan Data Terputus",
+          "desc": "Repositori data awan di premis dan tidak diselaraskan terpencil."
+        },
+        {
+          "title": "Laporan & Pengguna Perniagaan",
+          "desc": "Penyesuaian manual, hamparan bercanggah dan pelaporan tertunda."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Aplikasi Perniagaan",
+          "desc": "Platform operasi teras dan antara muka responsif moden."
+        },
+        {
+          "title": "API / Lapisan Integrasi",
+          "desc": "Gerbang API terdorong peristiwa selamat yang menghubungkan aliran kerja perusahaan."
+        },
+        {
+          "title": "Perkhidmatan Data",
+          "desc": "Model data induk bersatu, saluran paip dan enjin storan yang dioptimumkan."
+        },
+        {
+          "title": "Analitis & Pelaporan",
+          "desc": "Telemetri masa nyata, model semantik dan pelaporan automatik."
+        },
+        {
+          "title": "Pembuat Keputusan Perniagaan",
+          "desc": "Papan pemuka operasi langsung memberikan keterlihatan eksekutif bersatu."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Aplikasi Perusahaan",
+          "purpose": "Pengurusan proses perniagaan"
+        },
+        {
+          "area": "API",
+          "purpose": "Penyepaduan sistem"
+        },
+        {
+          "area": "Pangkalan data",
+          "purpose": "Data perniagaan berstruktur"
+        },
+        {
+          "area": "Penyepaduan Data",
+          "purpose": "Menyambung pelbagai sumber"
+        },
+        {
+          "area": "Analitis",
+          "purpose": "Pandangan perniagaan"
+        },
+        {
+          "area": "Infrastruktur Awan",
+          "purpose": "Kebolehskalaan dan fleksibiliti"
+        },
+        {
+          "area": "Pemantauan",
+          "purpose": "Kebolehpercayaan dan prestasi"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Keterlihatan operasi yang lebih baik merentas unit rentas fungsi",
+        "Konsistensi data yang lebih baik dan sumber tunggal kebenaran perusahaan",
+        "Mengurangkan usaha pelaporan manual dan penyusunan data automatik",
+        "Meningkatkan prestasi aplikasi dan mengurangkan kependaman transaksi",
+        "Penyepaduan sistem yang lebih mudah melalui API terpiawai dan selamat",
+        "Skala yang lebih besar untuk menyokong pertumbuhan dan pemerolehan organik",
+        "Asas yang lebih baik untuk inovasi masa depan dan penggunaan kecerdasan"
+      ],
+      "keyPerspectivePoints": [
+        "Memahami proses perniagaan dan aliran kerja operasi sebenar",
+        "Menghubungkan sistem melalui piawaian penyepaduan yang boleh dipercayai",
+        "Meningkatkan kualiti data, tadbir urus dan model data induk",
+        "Memodenkan aplikasi tanpa menjejaskan kestabilan operasi harian",
+        "Mencipta seni bina berskala yang sesuai untuk pertumbuhan anjal",
+        "Mendayakan keterlihatan perniagaan yang lebih baik untuk membuat keputusan yang proaktif"
+      ],
+      "sec1Eyebrow": "CABARAN PERNIAGAAN",
+      "sec1Heading": "Menavigasi Kerumitan dalam Perusahaan yang Berkembang",
+      "sec1Subtext": "Apabila perniagaan berkembang pesat, ekosistem teknologi pasti berkembang. Apa yang bermula sebagai penyelesaian tertumpu untuk jabatan individu boleh berkembang menjadi rangkaian sistem yang berbeza-beza.",
+      "sec2Eyebrow": "EVOLUSI SISTEM",
+      "sec2Heading": "Landskap Teknologi yang Kompleks",
+      "sec2Subtext": "Jejak aplikasi warisan memperkenalkan pemecahan merentas stor data, pengalaman pengguna dan keterlihatan operasi.",
+      "sec3Eyebrow": "MODEL YANG BERSAMBUNG",
+      "sec3Heading": "Seni Bina Aplikasi Moden",
+      "sec3Subtext": "Beralih daripada silo monolitik kepada perkhidmatan terpisah yang disambungkan oleh API selamat dan penstriman data dipacu peristiwa.",
+      "sec4Eyebrow": "KECERDASAN & KELIHATAN",
+      "sec4Heading": "Data Bersambung & Analitis",
+      "sec4Subtext": "Membuka kunci silo data untuk menggerakkan pelaporan automatik, papan pemuka bersatu dan keputusan perniagaan yang proaktif.",
+      "sec5Eyebrow": "BLUEPRINT SENIBINA",
+      "sec5Heading": "Asas Teknologi",
+      "sec5Subtext": "Pandangan berstruktur bagi lapisan seni bina utama yang membolehkan ketersambungan dan kebolehskalaan seluruh perusahaan.",
+      "sec6Eyebrow": "NILAI KUALITATIF",
+      "sec6Heading": "Kesan Perniagaan",
+      "sec6Subtext": "Keuntungan operasi yang boleh diukur disampaikan melalui pemodenan aplikasi dan asas data yang disambungkan.",
+      "ctaHeading": "Bersedia untuk Memodenkan Landskap Aplikasi Perusahaan Anda?",
+      "ctaDescription": "Terokai cara Rezonants boleh bekerjasama dengan kepimpinan anda untuk mengarkitek, membina dan menggunakan platform aplikasi bersatu dan saluran paip data moden.",
+      "ctaButton": "Bercakap dengan Arkitek Perusahaan",
+      "sec1P1": "Dalam persekitaran perusahaan biasa, pertumbuhan sering memperkenalkan berbilang generasi perisian. Kewangan, rantaian bekalan, perkhidmatan pelanggan dan operasi lapangan sering beroperasi pada susunan perisian berasingan yang diperoleh atau dibina pada masa yang berbeza. Selama bertahun-tahun evolusi operasi, sistem ini membangunkan format data mereka sendiri, kaden kemas kini dan ciri penyepaduan.",
+      "sec1P2": "Geseran menjelma di seluruh perusahaan melalui kesesakan operasi biasa:",
+      "sec1List": [
+        {
+          "bold": "Berbilang aplikasi perniagaan terputus sambungan",
+          "text": "yang memerlukan kemasukan data pendua dan rujukan silang manual."
+        },
+        {
+          "bold": "Pangkalan data terputus sambungan",
+          "text": "beroperasi tanpa tadbir urus berpusat atau rekod induk bersatu."
+        },
+        {
+          "bold": "Overhed pelaporan manual",
+          "text": ", di mana pasukan analitik menghabiskan masa berhari-hari menyatukan eksport dan bukannya mendedahkan cerapan."
+        },
+        {
+          "bold": "Data tidak konsisten",
+          "text": "merentas jabatan, mencipta jawapan yang bercanggah kepada soalan operasi asas."
+        },
+        {
+          "bold": "Overhed penyelenggaraan aplikasi dan had kebolehskalaan",
+          "text": ", kerana sambungan titik ke titik warisan rapuh berjuang untuk menyokong volum transaksi yang semakin meningkat."
+        }
+      ],
+      "sec1P3": "Menangani cabaran ini memerlukan melihat landskap teknologi bukan sebagai koleksi pembelian perisian terpencil, tetapi sebagai platform perniagaan yang saling berkaitan yang direka bentuk untuk menyokong ketangkasan strategik.",
+      "legacyLandscapeBadge": "Garis Dasar Warisan",
+      "legacyLandscapeTitle": "Aliran Maklumat Berpecah-belah",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silo Data",
+          "desc": "Data pelanggan, kewangan dan inventori yang penting kekal terperangkap dalam platform jabatan, menghalang satu pandangan bersatu tentang operasi perniagaan."
+        },
+        {
+          "num": "02",
+          "title": "Jurang Integrasi",
+          "desc": "Sambungan titik ke titik dan ekstrak kelompok setiap malam mewujudkan kependaman, kadar kegagalan yang tinggi dan overhed penyelenggaraan yang mahal merentas pasukan operasi."
+        },
+        {
+          "num": "03",
+          "title": "Maklumat Tertunda",
+          "desc": "Apabila eksekutif mesti menunggu beberapa hari untuk penyesuaian akhir bulan untuk memahami prestasi, pembuatan keputusan adalah reaktif dan bukannya ramalan."
+        }
+      ],
+      "modernArchitectureBadge": "Seni Bina Sasaran",
+      "modernArchitectureTitle": "Model Aplikasi Perusahaan Terhubung",
+      "sec3P1": "Seni bina aplikasi moden menggantikan sambungan titik-ke-titik yang rapuh dengan asas yang tangkas dan dipisahkan. Dengan mewujudkan API yang mantap dan lapisan integrasi, sistem berinteraksi melalui titik akhir yang dikawal dan selamat sambil mengekalkan autonomi unit perniagaan individu.",
+      "sec3P2": "Keupayaan teknikal utama peralihan seni bina ini termasuk:",
+      "sec3List": [
+        {
+          "bold": "Pemodenan aplikasi:",
+          "text": "Menggabungkan logik perniagaan teras ke dalam perkhidmatan modular boleh skala."
+        },
+        {
+          "bold": "Penyepaduan API:",
+          "text": "Mewujudkan antara muka piawai dan didokumenkan untuk kebolehoperasian dalaman dan rakan kongsi."
+        },
+        {
+          "bold": "Penyepaduan data & pengoptimuman pangkalan data:",
+          "text": "Menyatukan saluran data operasi dengan pengoptimuman pertanyaan pemprosesan tinggi."
+        },
+        {
+          "bold": "Kebolehlihatan & keselamatan:",
+          "text": "Melaksanakan telemetri berpusat, jejak audit dan kawalan akses berasaskan peranan merentas semua perkhidmatan."
+        }
+      ],
+      "sec4P1": "Asas data bersepadu mengubah cara kepimpinan dan pasukan operasi berinteraksi dengan maklumat. Daripada bergantung pada laporan retrospektif yang menunjukkan perkara yang berlaku minggu lalu, organisasi memperoleh telemetri operasi secara langsung merentas unit perniagaan.",
+      "sec4P2": "Data dan analitik yang disambungkan menyokong hasil perniagaan yang mampan melalui:",
+      "sec4List": [
+        {
+          "bold": "Keterlihatan operasi:",
+          "text": "Ketelusan berterusan merentas jualan, inventori, pemenuhan dan prestasi kewangan."
+        },
+        {
+          "bold": "Irama pelaporan yang lebih pantas:",
+          "text": "Pengagregatan data atas permintaan yang menghapuskan hamparan manual berulang."
+        },
+        {
+          "bold": "Maklumat yang konsisten:",
+          "text": "Takrifan tunggal untuk metrik seperti margin, nilai seumur hidup pelanggan dan halaju petunjuk."
+        },
+        {
+          "bold": "Cerapan perniagaan yang lebih baik:",
+          "text": "Pengesanan corak ramalan yang memaparkan risiko dan peluang lebih awal daripada masa."
+        },
+        {
+          "bold": "Pembuatan keputusan yang lebih baik:",
+          "text": "Tindakan eksekutif yang yakin disokong oleh keturunan data yang disahkan dan ketelusan."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PERSPEKTIF STRATEGIK",
+      "keyPerspectiveTitle": "Pemodenan Adalah Lebih Daripada Penggantian Perisian",
+      "keyPerspectiveLead": "Memodenkan aplikasi perniagaan bukan sekadar menggantikan perisian lama dengan alatan baharu. Ia adalah penjajaran teknologi yang disengajakan dengan cara perniagaan beroperasi, mengukur dan menyampaikan nilai."
+    },
+    "artificialIntelligence": {
+      "category": "KECERDASAN TIRUAN",
+      "title": "Bagaimana AI Membentuk Semula Aplikasi Perusahaan",
+      "subtitle": "Terokai cara automasi pintar, kopil AI dan kecerdasan ramalan menjadi sebahagian daripada aplikasi perusahaan yang dipercayai oleh perniagaan setiap hari.",
+      "date": "September 2026",
+      "readTime": "6 min dibaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Perisikan Asli & Aliran Kerja Automatik",
+      "aiUseCases": [
+        {
+          "title": "Ramalan Rantaian Bekalan",
+          "desc": "Meramalkan lonjakan permintaan dan kelewatan logistik daripada telemetri pembekal sejarah."
+        },
+        {
+          "title": "Pengauditan Invois Automatik",
+          "desc": "Mengeluarkan item baris dan padanan dengan pesanan pembelian dengan kemasukan sifar manusia."
+        },
+        {
+          "title": "Meja Perkhidmatan Pintar",
+          "desc": "Triage dan resolusi automatik permintaan IT dan HR pekerja Tahap-1."
+        },
+        {
+          "title": "Pencegahan Churn Pelanggan",
+          "desc": "Pengelompokan tingkah laku mengenal pasti isyarat geseran awal untuk jangkauan proaktif."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Keputusan operasi yang lebih pantas didorong oleh model ramalan masa nyata",
+        "Pengurangan dalam pemprosesan data berulang dan penyesuaian manual",
+        "Daya pengeluaran pekerja yang lebih tinggi dengan bantuan copilot kontekstual",
+        "Meningkatkan kepuasan pelanggan melalui pengalaman hiper-peribadi",
+        "Pengoptimuman kendiri proses berterusan berdasarkan telemetri sebenar",
+        "Penjejakan pematuhan tidak berisiko melalui pemeriksaan log audit automatik"
+      ],
+      "governancePoints": [
+        "Akses berasaskan peranan yang ketat memastikan model AI tidak pernah membocorkan data sensitif",
+        "Jejak penaakulan yang telus membenarkan semakan manusia terhadap tindakan bernilai tinggi",
+        "Penilaian model berterusan untuk mengawal halusinasi dan berat sebelah",
+        "Standard asal data yang ketat sejajar dengan GDPR, SOC 2 dan HIPAA",
+        "Laluan peningkatan manusia-dalam-gelung untuk keadaan tepi yang tidak menentu"
+      ],
+      "sec1Eyebrow": "PERANJAKAN KEPADA KECERDASAN ASLI",
+      "sec1Heading": "AI dalam Aplikasi Perusahaan",
+      "sec1Subtext": "Kecerdasan buatan bergerak melangkaui percubaan kendiri ke dalam fabrik teras sistem perusahaan harian.",
+      "sec2Eyebrow": "AUTOMASI PADA SKALA",
+      "sec2Heading": "Automasi Pintar",
+      "sec2Subtext": "Menggantikan rutin berasaskan peraturan yang rapuh dengan aliran kerja kognitif yang mentafsir dokumen, pengecualian laluan dan menyesuaikan diri.",
+      "sec3Eyebrow": "BANTUAN TERMASUK",
+      "sec3Heading": "Copilot AI Perusahaan",
+      "sec3Subtext": "Pembantu yang peka konteks dibenamkan di dalam aplikasi perniagaan untuk membantu pekerja berpengetahuan merentas analisis data, dokumentasi dan pertanyaan operasi.",
+      "sec4Eyebrow": "PENAAKULAN YANG BERPANDANG KE HADAPAN",
+      "sec4Heading": "Kecerdasan Ramalan",
+      "sec4Subtext": "Beralih daripada laporan retrospektif yang melihat ke belakang kepada enjin keputusan proaktif yang menjangkakan gangguan operasi.",
+      "sec5Eyebrow": "APLIKASI DUNIA SEBENAR",
+      "sec5Heading": "Kes Penggunaan AI Perusahaan",
+      "sec5Subtext": "Aplikasi yang ditunjukkan memberikan keuntungan kecekapan yang boleh diukur merentas domain perusahaan operasi.",
+      "sec6Eyebrow": "NILAI STRATEGIK",
+      "sec6Heading": "Faedah Perniagaan",
+      "sec6Subtext": "Keuntungan produktiviti ketara dan ketangkasan operasi direalisasikan melalui penggunaan AI perusahaan.",
+      "ctaHeading": "Bersedia untuk Mengintegrasikan AI Asli ke dalam Aplikasi Perniagaan Anda?",
+      "ctaDescription": "Berhubung dengan Rezonants amalan AI untuk mengarkitek, menilai dan menggunakan kopilot AI perusahaan dan enjin automasi pintar.",
+      "ctaButton": "Rujuk Pakar AI",
+      "sec1P1": "Selama bertahun-tahun, kecerdasan buatan perusahaan dianggap sebagai keupayaan luaran: model yang dilatih secara berasingan, demonstrasi kotak pasir atau bot sembang terpencil yang boleh diakses melalui portal berasingan. Hari ini, paradigma secara asasnya telah berubah. AI perusahaan berimpak tinggi dibenamkan terus di dalam sistem rekod—ERP, CRM, platform modal insan dan enjin rantaian bekalan tempat perniagaan sebenar berlaku.",
+      "sec1P2": "Apabila perisikan beroperasi di dalam sistem rekod, ia mewarisi sempadan keselamatan, model data dan logik perniagaan yang ditetapkan oleh organisasi. Ia bukan sekadar menjana tindak balas generik; ia bertindak atas pesanan langsung, mentafsir tiket sokongan terbuka, menyelaraskan invois pembekal dan membantu pekerja dalam antara muka tepat yang mereka navigasi setiap hari.",
+      "sec1P3": "Transformasi ini memindahkan perisian perusahaan daripada pangkalan data pasif yang menunggu ketukan kekunci manusia kepada platform proaktif yang menjangka keperluan, mengotomatisasi langkah dan mengemukakan cadangan tepat pada masanya.",
+      "sec2P1": "Automasi Proses Robotik Tradisional (RPA) cemerlang dalam pengikisan skrin yang deterministik dan berulang. Walau bagaimanapun, set peraturan tegar pecah apabila borang berubah, susun atur dokumen yang tidak dijangka tiba atau pengecualian berlaku. Automasi pintar merapatkan jurang ini dengan menggabungkan penaakulan kognitif dengan pelaksanaan transaksi:",
+      "sec2List": [
+        {
+          "bold": "Automasi aliran kerja:",
+          "text": "Mendalangi operasi merentas jabatan yang kompleks, penghalaan tugas berdasarkan kesegeraan dan laluan penyelesaian sejarah."
+        },
+        {
+          "bold": "Pemprosesan dokumen pintar:",
+          "text": "Menelan PDF tidak berstruktur, e-mel, manifes penghantaran dan kontrak, menukarnya kepada transaksi pangkalan data berstruktur."
+        },
+        {
+          "bold": "Automasi tugas pintar:",
+          "text": "Mengautomasikan pengesahan operasi berbilang langkah—seperti memadankan pesanan pembelian dengan resit dan penyata bank."
+        },
+        {
+          "bold": "Pengoptimuman proses:",
+          "text": "Menganalisis log proses secara berterusan untuk mengenal pasti kesesakan masa kitaran dan mengesyorkan penghalusan aliran kerja yang disasarkan."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Carian Maklumat",
+          "desc": "Dapatkan semula semantik merentas pangkalan pengetahuan yang diedarkan, dasar intranet, spesifikasi produk dan resolusi tiket sejarah tanpa meneka kata kunci."
+        },
+        {
+          "icon": "📝",
+          "title": "Ringkasan Dokumen",
+          "desc": "Penyulingan segera RFP yang panjang, perjanjian vendor, spesifikasi teknikal dan pindaan undang-undang ke dalam taklimat eksekutif yang boleh diambil tindakan dan senarai semak risiko."
+        },
+        {
+          "icon": "✨",
+          "title": "Penjanaan Kandungan",
+          "desc": "Membantu merangka cadangan pelanggan, dokumentasi operasi, prosedur operasi standard (SOP) dan kemas kini pelanggan piawai yang sejajar dengan piawaian jenama."
+        },
+        {
+          "icon": "📈",
+          "title": "Analisis Data",
+          "desc": "Menterjemah pertanyaan perbualan ke dalam pertanyaan analitikal yang kompleks, menjana ringkasan carta segera dan menyerlahkan outlier kritikal untuk kepimpinan."
+        },
+        {
+          "icon": "🔄",
+          "title": "Aliran Kerja Perniagaan",
+          "desc": "Memulakan transaksi terus daripada gesaan sembang—seperti penjadualan sumber, mencipta tiket, mengemas kini rekod atau menyerahkan permintaan pembelian."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Akses Berasaskan Peranan",
+          "desc": "Memastikan respons copilot benar-benar menghormati tahap kebenaran pengguna, menjaga kewangan sulit, fail HR dan harta intelek dilindungi."
+        }
+      ],
+      "sec4P1": "Walaupun model generatif cemerlang dalam memahami dan mensintesis bahasa, kecerdasan ramalan memfokuskan pada corak matematik yang tersembunyi dalam set data perusahaan berstruktur. Model ramalan terbenam memperkasakan organisasi untuk menjangka halangan operasi sebelum ia mengganggu operasi:",
+      "sec4List": [
+        {
+          "bold": "Ramalan operasi:",
+          "text": "Meramalkan arah aliran hasil, halaju inventori dan permintaan sumber dengan mensintesis penunjuk bermusim dengan halaju saluran paip masa nyata."
+        },
+        {
+          "bold": "Analitik ramalan:",
+          "text": "Menentukan risiko churn pelanggan, kitaran degradasi penyelenggaraan dan kelewatan rantaian bekalan sementara masih ada masa untuk campur tangan."
+        },
+        {
+          "bold": "Pengenalpastian risiko:",
+          "text": "Membenderakan anomali dalam urus niaga kewangan, log pematuhan dan corak perolehan vendor sebelum ia meningkat."
+        },
+        {
+          "bold": "Ramalan permintaan:",
+          "text": "Mengharmonikan ramalan jualan dengan kapasiti pembuatan dan paras stok gudang untuk melindungi modal kerja."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TADBIR URUS PERUSAHAAN",
+      "keyPerspectiveTitle": "Amanah, Pengawasan & Pengawal",
+      "keyPerspectiveLead": "AI hanya boleh dipercayai seperti asas data di bawahnya dan tadbir urus di sekelilingnya. Penerimaan perusahaan yang mampan memerlukan disiplin seni bina yang disengajakan:"
+    },
+    "modernErp": {
+      "category": "ERP MODEN",
+      "title": "Mempercepatkan Transformasi Perniagaan dengan ERP Moden",
+      "subtitle": "Terokai cara platform ERP moden menghubungkan kewangan, perolehan, rantaian bekalan dan operasi perniagaan melalui asas digital bersatu.",
+      "date": "September 2026",
+      "readTime": "7 min dibaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — ERP Bersambung & Ketangkasan Operasi",
+      "connectedFunctions": [
+        {
+          "title": "Pengurusan Kewangan",
+          "desc": "Kemas kini lejar masa nyata, pengiktirafan hasil automatik dan penyesuaian berbilang mata wang segera."
+        },
+        {
+          "title": "Rantaian Bekalan & Logistik",
+          "desc": "Keterlihatan inventori hujung ke hujung, pengoptimuman gudang dan telemetri prestasi pembekal."
+        },
+        {
+          "title": "Modal Insan & Tenaga Kerja",
+          "desc": "Portal pekerja layan diri, larian gaji automatik dan perancangan kitaran hayat bakat bersepadu."
+        },
+        {
+          "title": "Perolehan & Penyumberan",
+          "desc": "Kelulusan pembelian automatik, pematuhan kontrak vendor dan analisis perbelanjaan dinamik."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Seni Bina Asli Awan",
+          "desc": "Penskalaan pengiraan anjal tanpa overhed infrastruktur di premis atau penguncian versi yang mengganggu."
+        },
+        {
+          "title": "Ekosistem API Terbuka",
+          "desc": "Penyambung pra-bina yang membolehkan penyegerakan data dua hala yang lancar dengan perkhidmatan mikro tersuai dan suite CRM."
+        },
+        {
+          "title": "Analitis Terbenam",
+          "desc": "Latihan papan pemuka terus daripada kunci kira-kira peringkat tinggi ke dalam log transaksi individu."
+        },
+        {
+          "title": "Pencetus Aliran Kerja Automatik",
+          "desc": "Peristiwa yang didorong oleh peristiwa mencetuskan pelaksanaan operasi standard merentas jabatan secara autonomi."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Sumber tunggal kebenaran yang menghapuskan laporan jabatan yang bercanggah",
+        "Pengurangan drastik dalam kitaran tutup akhir bulan dan suku akhir",
+        "Keterlihatan inventori dan logistik masa nyata meminimumkan kehabisan stok",
+        "Mengurangkan overhed penyelenggaraan IT melalui kemas kini asli awan modular",
+        "Penjejakan pematuhan bersatu merentas bidang kuasa cukai berbilang wilayah",
+        "Penyertaan entiti yang diperoleh dengan lebih pantas ke dalam tulang belakang operasi dikongsi"
+      ],
+      "erpStrategyPoints": [
+        "Menjajarkan seni bina ERP dengan aliran kerja operasi teras sebelum konfigurasi",
+        "Memilih model penggunaan modular untuk merealisasikan kejayaan pencapaian pesat",
+        "Mengutamakan migrasi dan penyelarasan data induk berkualiti tinggi",
+        "Membenamkan pengurusan perubahan automatik dan program latihan yang disesuaikan dengan peranan",
+        "Mereka bentuk get laluan API untuk pengembangan penyepaduan masa hadapan tanpa geseran"
+      ],
+      "sec1Eyebrow": "TULANG BELAKANG OPERASI",
+      "sec1Heading": "Mengapa ERP Moden Penting",
+      "sec1Subtext": "Kecekapan perusahaan bergantung pada penyegerakan data yang lancar merentas kewangan, perolehan, operasi dan modal insan.",
+      "sec2Eyebrow": "EKOSISTEM BERSEPADU",
+      "sec2Heading": "Fungsi Perniagaan Bersambung",
+      "sec2Subtext": "Memecahkan silo jabatan tradisional untuk membolehkan data transaksi mengalir serta-merta merentas unit perniagaan.",
+      "sec3Eyebrow": "KEHARMONIAN MERENTAS FUNGSI",
+      "sec3Heading": "Operasi Bersatu & Aliran Maklumat",
+      "sec3Subtext": "Tulang belakang digital yang bersambung memastikan kontrak jualan segera mengemas kini pesanan rantaian bekalan dan lejar kewangan.",
+      "sec4Eyebrow": "TELEMETRI PERUSAHAAN",
+      "sec4Heading": "Keterlihatan Perniagaan Masa Nyata",
+      "sec4Subtext": "Risikan operasi langsung menggantikan hamparan retrospektif tertunda dengan penunjuk prestasi serta-merta.",
+      "sec5Eyebrow": "SENIBINA PLATFORM TERAS",
+      "sec5Heading": "Keupayaan ERP Moden",
+      "sec5Subtext": "Asas seni bina yang membezakan platform awan tangkas daripada sistem monolitik warisan.",
+      "sec6Eyebrow": "IMPAK KUALITATIF",
+      "sec6Heading": "Faedah Perniagaan",
+      "sec6Subtext": "Kepantasan organisasi yang nyata, ketelusan dan kecekapan kos dibuka oleh platform ERP moden.",
+      "ctaHeading": "Bersedia untuk Memodenkan Tulang Belakang ERP Perusahaan Anda?",
+      "ctaDescription": "Temui cara Rezonants boleh membantu anda skop, mengkonfigurasi dan menyepadukan platform ERP modular yang disesuaikan dengan operasi perniagaan anda.",
+      "ctaButton": "Bercakap dengan Arkitek ERP",
+      "sec1P1": "Dalam landskap perusahaan yang bergerak pantas, sistem Perancangan Sumber Perusahaan tradisional sering mengalami kesukaran. Dibina dalam era pemprosesan kelompok dan pelayan tempatan terpencil, ERP lama telah banyak disesuaikan, sukar untuk dinaik taraf dan sangat legap. Operasi perniagaan penting berfungsi dalam silo selari, bergantung pada eksport semalaman yang rapuh untuk menyegerakkan lejar dengan gudang.",
+      "sec1P2": "ERP moden, asli awan mentakrifkan semula dinamik ini secara asas. Ia beroperasi sebagai tulang belakang digital bersatu bagi perusahaan—asas hidup di mana kewangan, pemerolehan, rantaian bekalan, inventori dan sumber manusia berurus niaga pada model data yang dikongsi.",
+      "sec1P3": "Dengan membawa operasi teras ke dalam satu persekitaran yang harmoni, ERP moden menghapuskan titik buta operasi yang memperlahankan pertumbuhan, membolehkan pemimpin mengemudi perniagaan menggunakan isyarat masa nyata dan bukannya ringkasan sejarah yang lapuk.",
+      "sec3P1": "Silo operasi jarang menjadi masalah orang; mereka adalah masalah seni bina. Apabila perkhidmatan pelanggan, pemerolehan dan pasukan gudang bekerja dalam aplikasi yang terputus sambungan, setiap penyerahan memerlukan e-mel manual, hamparan dan panggilan telefon. Ralat berganda, invois ditangguhkan dan komitmen pelanggan tergelincir.",
+      "sec3P2": "ERP moden menangani perkara ini melalui garis keturunan data bersatu dan orkestrasi proses dipacu peristiwa:",
+      "sec3List": [
+        {
+          "bold": "Pesanan ke tunai yang disegerakkan:",
+          "text": "Apabila pesanan pelanggan dibuat, rizab inventori secara automatik, label penghantaran menjana dan lejar pengebilan dikemas kini dengan serta-merta."
+        },
+        {
+          "bold": "Ketelusan perolehan untuk membayar:",
+          "text": "Pesanan pembelian, resit barangan dan invois vendor sepadan secara automatik dengan penyesuaian 3 hala, hanya membenderakan pengecualian untuk semakan manusia."
+        },
+        {
+          "bold": "Pengekosan buruh dan operasi bersatu:",
+          "text": "Helaian masa projek, peruntukan gaji dan perbelanjaan operasi terus dipetakan terus ke pusat kos dalam masa nyata."
+        }
+      ],
+      "sec4P1": "Mengendalikan perusahaan tanpa keterlihatan bersatu adalah seperti terbang dalam kabus tebal dengan instrumen tertangguh. ERP moden menyediakan telemetri masa nyata merentas setiap dimensi perniagaan:",
+      "sec4List": [
+        {
+          "bold": "Papan pemuka eksekutif langsung:",
+          "text": "Pandangan serta-merta bagi margin kasar, aliran tunai operasi, liabiliti terbuka dan tunggakan pesanan tanpa menunggu penutupan akhir tempoh."
+        },
+        {
+          "bold": "Pelaporan operasi layan diri:",
+          "text": "Ketua jabatan boleh membina pertanyaan tersuai dan menelusuri dari ringkasan peringkat perusahaan kepada item baris transaksi individu."
+        },
+        {
+          "bold": "Maklumat induk terpusat:",
+          "text": "Menghapuskan nombor bercanggah dengan mewujudkan data induk tertadbir tunggal untuk pelanggan, vendor dan katalog produk."
+        },
+        {
+          "bold": "Makluman anomali proaktif:",
+          "text": "Makluman automatik memberitahu pengurus dengan segera apabila margin menurun di bawah ambang, inventori berkurangan atau penghantaran pembekal tergelincir."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FALSAFAH TRANSFORMASI ERP",
+      "keyPerspectiveTitle": "Pemodenan Pragmatik Ke Atas Pembaikan Monolitik",
+      "keyPerspectiveLead": "Transformasi ERP moden berjaya apabila organisasi menganggapnya sebagai peningkatan operasi evolusi dan bukannya gangguan IT sama sekali:"
+    },
+    "cybersecurity": {
+      "category": "KESELAMATAN SIBER",
+      "title": "Membina Ketahanan Siber dalam Perusahaan Terhubung",
+      "subtitle": "Terokai bagaimana organisasi boleh mengukuhkan keselamatan, melindungi sistem kritikal dan bersedia menghadapi ancaman merentas persekitaran yang semakin bersambung.",
+      "date": "September 2026",
+      "readTime": "8 min dibaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Pertahanan Ancaman & Seni Bina Sifar Amanah",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetri & Pengesanan",
+          "desc": "Pengingesan log masa nyata dan korelasi anomali SIEM merentas semua titik akhir awan dan beban kerja."
+        },
+        {
+          "title": "Penahanan & Pengasingan",
+          "desc": "Peraturan kuarantin rangkaian automatik mengasingkan bekas atau bukti kelayakan yang terjejas serta-merta."
+        },
+        {
+          "title": "Pemulihan & Punca Punca",
+          "desc": "Pelancaran tampalan pantas dan forensik digital mengenal pasti vektor pelanggaran yang tepat."
+        },
+        {
+          "title": "Ketahanan & Pengerasan",
+          "desc": "Maklum balas berterusan ke dalam sandaran tidak berubah, pagar dasar dan simulasi pasukan merah automatik."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Pengurangan ketara dalam permukaan serangan kerentanan merentas aset awan",
+        "Kesinambungan operasi terjamin dan pemulihan bencana dengan RTO/RPO minimum",
+        "Jumlah keyakinan pematuhan merentas audit ISO 27001, SOC 2, HIPAA dan GDPR",
+        "Perlindungan harta intelek perusahaan teras dan rekod pelanggan sulit",
+        "tadbir urus risiko vendor dan pihak ketiga yang diperkemas melalui kawalan akses bersatu",
+        "Kepercayaan pelanggan dan pelabur yang dipertingkatkan disokong oleh postur keselamatan amanah sifar yang disahkan"
+      ],
+      "zeroTrustPrinciples": [
+        "Jangan Percaya, Sentiasa Sahkan: Pengesahan eksplisit diperlukan untuk setiap transaksi",
+        "Akses Keistimewaan Paling Rendah: Sempadan peranan terperinci yang mengehadkan pergerakan ancaman sisi",
+        "Anggap Pelanggaran: Pemantauan ancaman berterusan, penyulitan dalam transit dan dalam keadaan rehat",
+        "Segmentasi Mikro: Tembok api rangkaian mengasingkan beban kerja aplikasi individu",
+        "Telemetri Berterusan: Analisis tingkah laku automatik membenderakan permintaan sesi anomali"
+      ],
+      "sec1Eyebrow": "PERIMETER MENGELUAR",
+      "sec1Heading": "Landskap Keselamatan Perusahaan Terhubung",
+      "sec1Subtext": "Apabila perusahaan mengguna pakai perkhidmatan awan, pasukan terpencil yang diedarkan dan peranti IoT, sempadan keselamatan tradisional dibubarkan.",
+      "sec2Eyebrow": "PERTAHANAN KOMPREHENSIF",
+      "sec2Heading": "Perlindungan Ancaman Berbilang Lapis",
+      "sec2Subtext": "Menyelaraskan perisikan ancaman, pengimbasan kerentanan dan tindak balas insiden automatik merentas timbunan teknologi penuh.",
+      "sec3Eyebrow": "SEMPADAN KESELAMATAN BARU",
+      "sec3Heading": "Pengurusan Identiti & Akses (IAM)",
+      "sec3Subtext": "Identiti ialah satah kawalan utama. Akses berbutir, MFA dan SSO memastikan hanya pengetua yang dibenarkan mengakses sistem perniagaan.",
+      "sec4Eyebrow": "PARADIGMA SENIBINA",
+      "sec4Heading": "Menyahmisti Seni Bina Amanah Sifar",
+      "sec4Subtext": "Pemikiran keselamatan asas berdasarkan pengesahan berterusan, kebenaran eksplisit dan diandaikan kompromi.",
+      "sec5Eyebrow": "TADBIR URUS INFRASTRUKTUR",
+      "sec5Heading": "Pertimbangan Keselamatan Awan",
+      "sec5Subtext": "Menangani model tanggungjawab bersama, Infrastruktur sebagai pagar Kod dan perlindungan masa jalan Kubernetes.",
+      "sec6Eyebrow": "KETAHANAN OPERASI",
+      "sec6Heading": "Kesediaan Insiden: Melangkaui Pencegahan",
+      "sec6Subtext": "Menyediakan buku panduan berstruktur, latihan pembendungan automatik dan sandaran pemulihan bencana yang tidak boleh diubah untuk daya tahan operasi keseluruhan.",
+      "sec7Eyebrow": "NILAI STRATEGIK",
+      "sec7Heading": "Faedah Perniagaan",
+      "sec7Subtext": "Ketahanan perusahaan, pengesahan pematuhan dan perlindungan reputasi jenama yang disampaikan oleh pertahanan siber moden.",
+      "ctaHeading": "Bersedia untuk Memantapkan Ketahanan Siber Perusahaan Anda?",
+      "ctaDescription": "Bekerjasama dengan amalan keselamatan Rezonants untuk mengaudit seni bina, melaksanakan rangka kerja Zero Trust dan melindungi sistem kritikal misi.",
+      "ctaButton": "Rujuk Arkitek Siber",
+      "sec1P1": "Dalam era legasi IT perusahaan, keselamatan beroperasi berdasarkan doktrin istana dan parit: segala-galanya di dalam rangkaian pejabat korporat dianggap dipercayai, manakala segala-galanya di luar dianggap tidak dipercayai. Firewall korporat tunggal melindungi pelayan dalaman, pangkalan data dan komputer meja.",
+      "sec1P2": "Perusahaan hari ini telah mengatasi tembok fizikal. Beban kerja berada di seluruh persekitaran berbilang awan (AWS, Azure, GCP), pekerja mengakses aplikasi perniagaan dari pelbagai lokasi dan API secara berterusan bertukar-tukar data operasi sensitif dengan pembekal logistik luaran, institusi kewangan dan vendor SaaS.",
+      "sec1P3": "Walaupun sambungan hiper ini memacu ketangkasan perniagaan yang luar biasa, ia meluaskan permukaan serangan perusahaan secara meluas. Setiap titik akhir API, token identiti, peranti mudah alih yang disambungkan dan penyepaduan SaaS mewakili potensi vektor pendedahan. Perlindungan perusahaan sebenar memerlukan peralihan daripada pertahanan berasaskan perimeter kepada proaktif, daya tahan siber hujung ke hujung.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Pengesanan Ancaman",
+          "desc": "Perisikan ancaman bantuan pembelajaran mesin yang memantau corak rangkaian anomali, penyalahgunaan kelayakan dan kerentanan sifar hari dalam masa nyata."
+        },
+        {
+          "icon": "📡",
+          "title": "Pemantauan Keselamatan",
+          "desc": "Telemetri Pusat Operasi Keselamatan Berpusat (SOC) mengaitkan peristiwa merentas pelayan, kelompok kontena, pembekal identiti dan titik akhir."
+        },
+        {
+          "icon": "🔍",
+          "title": "Pengurusan Keterdedahan",
+          "desc": "Pengimbasan kerentanan automatik berterusan merentas infrastruktur, repositori kod sumber dan pendaftaran kontena untuk memperbaiki kelemahan secara proaktif."
+        },
+        {
+          "icon": "🔒",
+          "title": "Perlindungan Data",
+          "desc": "Penyulitan teguh dalam transit (TLS 1.3) dan semasa (AES-256), di samping tadbir urus pencegahan kehilangan data berbutir (DLP) untuk mengelakkan kebocoran harta intelek."
+        }
+      ],
+      "sec3P1": "Melindungi aset perusahaan memerlukan memastikan bahawa setiap identiti—sama ada eksekutif manusia, kontraktor luar atau akaun perkhidmatan perisian autonomi—telah mengesahkan kebenaran untuk sumber tepat yang diaksesnya.",
+      "sec3List": [
+        {
+          "bold": "Pengurusan identiti berpusat:",
+          "text": "Single Sign-On (SSO) dan piawaian identiti bersekutu yang menghapuskan storan kata laluan berpecah-belah merentas aplikasi."
+        },
+        {
+          "bold": "Pengesahan berbilang faktor penyesuaian (MFA):",
+          "text": "Kunci perkakasan FIDO2 yang tahan pancingan data dan cabaran kontekstual berasaskan risiko untuk fungsi pentadbiran yang sensitif."
+        },
+        {
+          "bold": "Kawalan akses berbutir:",
+          "text": "Kawalan capaian Berasaskan Peranan (RBAC) dan Berasaskan Atribut (ABAC) halus yang dikuatkuasakan pada peringkat API dan pangkalan data."
+        },
+        {
+          "bold": "Prinsip-prinsip yang paling tidak istimewa:",
+          "text": "Memberi akses sementara, tepat dalam masa (JIT) yang tamat tempoh secara automatik apabila tugas pentadbiran selesai."
+        }
+      ],
+      "keyPerspectiveEyebrow": "DOKTRIN TERAS AMANAH SIFAR",
+      "keyPerspectiveTitle": "Pengesahan Berterusan Terhadap Kepercayaan Buta",
+      "keyPerspectiveLead": "Dalam seni bina Zero Trust, kepercayaan tersirat berdasarkan lokasi rangkaian dibongkar sepenuhnya. Setiap transaksi, pertanyaan pangkalan data dan log masuk pengguna mesti terus membuktikan kesahihannya:",
+      "cloudSecurityCards": [
+        {
+          "title": "Tanggungjawab Bersama",
+          "desc": "Tadbir urus yang jelas membezakan keselamatan infrastruktur fizikal penyedia awan daripada tanggungjawab perusahaan untuk penyulitan data, dasar IAM dan kod aplikasi."
+        },
+        {
+          "title": "Infrastruktur sebagai Kod (IaC)",
+          "desc": "Konfigurasi awan tidak boleh ubah dan boleh diaudit diurus melalui kod. Pengimbas dasar sebagai kod automatik menyekat salah konfigurasi dan baldi terdedah sebelum penggunaan."
+        },
+        {
+          "title": "Keselamatan Kontena & Kubernetes",
+          "desc": "Masa jalan kontena yang dikeraskan, pendaftaran imej yang ditandatangani, pembahagian mikro rangkaian dan pengurusan rahsia automatik yang menyimpan bukti kelayakan daripada repositori sumber."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "AWAN & PEMODENAN",
+      "title": "Memodenkan Aplikasi Legasi untuk Awan",
+      "subtitle": "Terokai pendekatan praktikal untuk menilai, memodenkan dan mengalihkan aplikasi warisan ke arah seni bina awan yang boleh skala dan selamat.",
+      "date": "September 2026",
+      "readTime": "6 min dibaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Peplatform Semula & Pebekalan Cloud-Native",
+      "modernizationApproaches": [
+        {
+          "title": "Hos Semula (Angkat & Anjakan)",
+          "desc": "Peralihan beban kerja kepada mesin maya awan dengan pantas dengan pengubahsuaian kod yang minimum."
+        },
+        {
+          "title": "Bentuk Semula (Angkat & Bentuk Semula)",
+          "desc": "Tingkatkan rangka kerja masa jalan, pakai pangkalan data awan terurus dan lancarkan operasi."
+        },
+        {
+          "title": "Refactor (Binaan Semula Cloud-Native)",
+          "desc": "Nyahbina monolit kepada perkhidmatan mikro bekas dan API tanpa pelayan dipacu peristiwa."
+        },
+        {
+          "title": "Gantikan (Pemodenan SaaS)",
+          "desc": "Menghentikan sistem legasi berlebihan yang memihak kepada perisian awan perusahaan yang dibina khas."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Penilaian Legasi",
+          "desc": "Pemetaan pergantungan automatik, pengkatalogan hutang teknikal dan pemarkahan kesediaan awan."
+        },
+        {
+          "title": "Seni Bina Sasaran",
+          "desc": "Cetak biru perkhidmatan mikro modular, topologi bekas dan templat IaC automatik."
+        },
+        {
+          "title": "Migrasi Berperingkat",
+          "desc": "Keluaran Canary, penyegerakan data dwi-tulis dan gelombang pemotongan masa sifar."
+        },
+        {
+          "title": "Pengoptimuman Awan",
+          "desc": "Tadbir urus kos berterusan, telemetri penskalaan automatik dan semakan operasi FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Belanja penyelenggaraan infrastruktur dan penyegaran perkakasan yang lebih rendah secara eksponen",
+        "Keanjalan pengiraan hampir tak terhingga mengendalikan trafik perusahaan puncak dengan kependaman sifar",
+        "Halaju pelepasan dipercepatkan dengan saluran paip penggunaan CI/CD automatik sepenuhnya",
+        "Penghapusan titik kegagalan tunggal warisan dengan ketersediaan tinggi berbilang AZ",
+        "Seni bina API moden yang membolehkan integrasi rakan kongsi merentas platform yang pantas",
+        "Kecekapan masa nyata lanjutan ke dalam prestasi aplikasi dan perbelanjaan awan"
+      ],
+      "landscapeAssessmentPoints": [
+        "Memetakan kebergantungan antara aplikasi yang kompleks dan kaden penyegerakan data",
+        "Mengenal pasti konfigurasi persekitaran berkod keras dan skema pangkalan data proprietari",
+        "Menilai pematuhan peraturan dan kekangan kedaulatan data setiap bidang kuasa",
+        "Mengira Jumlah Kos Pemilikan (TCO) realistik merentas refactor berbanding laluan pengehos semula",
+        "Mewujudkan gelombang pelancaran yang jelas untuk melindungi operasi perniagaan harian yang aktif"
+      ],
+      "sec1Eyebrow": "REALITI SISTEM LEGASI",
+      "sec1Heading": "Cabaran Legasi",
+      "sec1Subtext": "Monolit penuaan mengekang halaju inovasi, meningkatkan kelemahan operasi, dan meningkatkan kos penyelenggaraan infrastruktur.",
+      "sec2Eyebrow": "PENILAIAN & PENEMUAN",
+      "sec2Heading": "Memahami Landskap Aplikasi",
+      "sec2Subtext": "Penemuan seni bina yang rapi untuk memetakan kebergantungan data, versi perisian dan ROI pemodenan sebelum penghijrahan.",
+      "sec3Eyebrow": "4 LALUAN PEMODENAN",
+      "sec3Heading": "Pendekatan Pemodenan",
+      "sec3Subtext": "Memilih corak migrasi yang betul untuk setiap beban kerja: pengehosan semula, pembentukan semula, pemfaktoran semula atau penggantian.",
+      "sec4Eyebrow": "MODEL TRANSFORMASI SASARAN",
+      "sec4Heading": "Seni Bina Awan Moden",
+      "sec4Subtext": "Mereka bentuk perkhidmatan mikro yang berdaya tahan, pangkalan data terurus dan saluran paip penggunaan automatik yang sesuai untuk kebolehskalaan yang tinggi.",
+      "sec5Eyebrow": "HASIL TRANSFORMASI",
+      "sec5Heading": "Faedah Pemodenan Utama",
+      "sec5Subtext": "Ketangkasan yang ketara, pengurangan kos dan dividen kebolehpercayaan dibuka oleh transformasi asli awan.",
+      "ctaHeading": "Bersedia untuk Memodenkan Aplikasi Legasi Anda untuk Awan?",
+      "ctaDescription": "Bekerjasama dengan arkitek awan Rezonants untuk menilai kebergantungan, membina peta jalan migrasi dan mengalihkan sistem anda dengan selamat.",
+      "ctaButton": "Bercakap dengan Pakar Awan",
+      "sec1P1": "Aplikasi kritikal misi yang dibina sedekad yang lalu masih memacu berbilion-bilion hasil perusahaan, namun ketegaran seni binanya mewujudkan risiko operasi yang semakin meningkat.",
+      "sec1P2": "Setiap perusahaan menghadapi ketegangan antara kestabilan dan pemodenan. Sistem warisan telah direka bentuk untuk ketahanan, dan mereka telah menunjukkan prestasi yang boleh dipercayai selama bertahun-tahun. Walau bagaimanapun, apabila keperluan perniagaan semakin pantas, seni bina penuaan ini menghadapi had struktur:",
+      "sec1List": [
+        {
+          "bold": "Timbunan perisian penuaan:",
+          "text": "Pangkalan kod monolitik dibina pada rangka kerja yang tidak digunakan dengan kumpulan bakat yang semakin berkurangan tersedia untuk penyelenggaraan."
+        },
+        {
+          "bold": "Kitaran penyelenggaraan yang sukar:",
+          "text": "Komponen berganding rapat yang menukar satu ciri berisiko memecahkan modul operasi yang tidak berkaitan."
+        },
+        {
+          "bold": "Skala terhad:",
+          "text": "Had penskalaan menegak yang memerlukan pembelian perkakasan proprietari yang mahal untuk mengendalikan lonjakan trafik bermusim."
+        },
+        {
+          "bold": "Cabaran integrasi:",
+          "text": "Ketidakupayaan untuk antara muka dengan lancar dengan apl mudah alih moden, portal pelanggan atau API rakan kongsi tanpa skrip kelompok yang rapuh."
+        },
+        {
+          "bold": "Kekangan infrastruktur:",
+          "text": "Kitaran hayat bilik pelayan fizikal, kelemahan sandaran dan perbelanjaan operasi berkuasa tinggi/penyejukan."
+        }
+      ],
+      "sec2P1": "Perjalanan pemodenan pragmatik bermula dengan mewujudkan kejelasan menyeluruh merentasi estet sedia ada:",
+      "sec2List": [
+        {
+          "bold": "Permohonan:",
+          "text": "Mengkatalogkan semua beban kerja aktif, modul tersuai, skrip latar belakang dan pakej pihak ketiga yang bersejarah."
+        },
+        {
+          "bold": "Kebergantungan:",
+          "text": "Memetakan gandingan masa jalan yang kompleks, jadual pangkalan data dikongsi, panggilan sistem fail terus dan kontrak perkhidmatan luaran."
+        },
+        {
+          "bold": "Data:",
+          "text": "Menilai struktur data, keperluan integriti transaksi, kaden sandaran dan peraturan kedaulatan kawal selia."
+        },
+        {
+          "bold": "Infrastruktur:",
+          "text": "Mengaudit CPU, memori, penggunaan storan dan daya pemprosesan rangkaian kepada spesifikasi awan sasaran bersaiz betul."
+        },
+        {
+          "bold": "Kritikan perniagaan:",
+          "text": "Mengkategorikan aplikasi ke dalam peringkat untuk mereka bentuk gelombang migrasi berperingkat yang selamat dengan prosedur sandaran yang jelas."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Kelebihan:",
+      "cloudArchitectureBadge": "Kitaran Hayat Pemodenan",
+      "cloudArchitectureTitle": "Aliran Pemodenan Awan Hujung ke Hujung",
+      "sec4P1": "Seni bina destinasi mengasingkan aplikasi teras menjadi perkhidmatan modular, kontena yang dihoskan pada platform awan elastik (seperti Kubernetes atau masa jalan tanpa pelayan terurus).",
+      "sec4P2": "Dengan mewujudkan saluran paip penggunaan CI/CD automatik, pemotongan automatik biru-hijau dan infrastruktur sebagai kod, penempatan berubah daripada acara hujung minggu yang menyayat hati kepada rutin harian yang lancar.",
+      "sec4P3": "Pengiraan anjal meningkat secara automatik semasa lonjakan permintaan dan berkurangan semasa reda, menghapuskan kos sumber terbiar sambil menjamin masa tindak balas subsaat untuk pengguna global.",
+      "keyPerspectiveEyebrow": "AMALAN TERBAIK PEMODENAN",
+      "keyPerspectiveTitle": "Empat Tonggak Hijrah yang Berjaya",
+      "keyPerspectiveLead": "Pengalaman menunjukkan bahawa projek pemodenan berjaya apabila diasaskan pada penyediaan komprehensif, penjujukan gelombang yang jelas dan ujian yang ketat:"
+    }
+  }
+}

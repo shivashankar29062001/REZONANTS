@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Mō Mātou",
+    "services": "Ratonga",
+    "products": "Hua",
+    "perspectives": "Tirohanga",
+    "technologies": "Hangarau",
+    "contact": "Whakapā",
+    "signIn": "Waitohu Mai",
+    "signUp": "Waitohu",
+    "signOut": "Waitohu ki waho",
+    "chooseLanguage": "Kōwhiria tō reo",
+    "searchLanguage": "Rapu reo",
+    "resetEnglish": "Tautuhi ano ki te reo Ingarihi",
+    "noResults": "Kaore he reo i kitea",
+    "englishDefault": "Ingarihi (Taunoa)",
+    "english": "Ingarihi"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Pūmanawa, i hangaia mo te huarahi <em>to pakihi</em> whakahaere.",
+    "description": "He kamupene ratonga IT me nga hua mamati a Rezonants. Ka hoahoa, ka hanga me te tauine i nga raupaparorohiko ritenga, paetukutuku me nga hua pūkoro, hanganga kapua me AI - mo nga kamupene e whakataetae ana ki te mahi.",
+    "bookConsultation": "Tonoa he korero kore utu",
+    "exploreServices": "Torotoro ratonga\n<",
+    "years": "tau\n<",
+    "projects": "kaupapa\n<",
+    "retention": "pupuri",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — mai i te tau 2012\n<",
+    "metaStudio": "studio hua mamati",
+    "metaTech": "Tukutuku · Pūkoro · Kapua · AI"
+  },
+  "about": {
+    "eyebrow": "Mo Tatou",
+    "title": "Te Hanga Whakataunga Mamati <em>E Whakanuia Nga Pakihi</em>",
+    "description": "Ko Rezonants he kamupene otinga hangarau e arotahi ana ki te awhina i nga pakihi ki te huri i nga whakaaro ki nga wheako mamati whai kiko. Ka whakakotahihia e matou te hangarau, te mahi auaha, me te mohiotanga pakihi ki te whakaputa i nga otinga kua hoahoatia mo nga hiahia o te ao.<br /><br />Mai i te huringa mamati me te whanaketanga rorohiko ritenga ki te kapua, AI, aunoatanga, me nga ratonga hangarau whakahaere, ka awhina matou i nga whakahaere ki te whakangawari i te uaua, te whakapai ake i te pai, me te hanga uara mamati pumau.<br /><br /><strong>He maamaa noa ta matou huarahi — kia mohio ki te rapanga, ki te hanga hangarau.</strong>",
+    "awardWinning": "Tohu Tohu",
+    "awardText": "I mohiohia mo te hiranga tuku puta noa i te paetukutuku me te miihini hua pūkoro.",
+    "professionalStaff": "Nga Kaimahi Ngaio",
+    "staffText": "Nga Kaitohutohu kaumatua, whai mana i a raatau nga mahi mai i te waeatanga tuatahi ki te haere ora.",
+    "support247": "24/7 Tautoko",
+    "supportText": "Nga ratonga whakahaere me tetahi raina tautoko e whakautu ana ina hiahia koe.",
+    "fairPrices": "Utu Totika",
+    "pricesText": "Nga whakatau tata me te maramara o nga nama mo ia mahi kotahi.",
+    "yearsExcellence": "Nga Tau o te Hiranga Hiranga"
+  },
+  "stats": {
+    "happyClients": "Nga kiritaki harikoa",
+    "projectsDone": "Kua oti nga kaupapa",
+    "winAwards": "Riro tohu"
+  },
+  "insights": {
+    "eyebrow": "Tirohanga",
+    "title": "Nga Tirohanga",
+    "sub": "Te torotoro i nga whakaaro, nga ia, me nga hangarau e hanga ana i nga ra kei mua.",
+    "filters": {
+      "all": "Katoa",
+      "digital-transformation": "Huringa Mamati",
+      "ai": "AI & Aunoatanga",
+      "cloud": "Kapua",
+      "data": "Raraunga me te Tatari",
+      "software": "Pūmanawa",
+      "business": "Pakihi me te Hangarau"
+    },
+    "readMore": "Panui Atu",
+    "close": "Katia",
+    "keyTakeaways": "Nga Tikanga Hangahanga Matua",
+    "relatedServices": "Nga Whakaaetanga me nga Ratonga",
+    "minRead": "min panui",
+    "item1Date": "Hūrae 2026",
+    "item1Tag": "Hua & ERP",
+    "item1Title": "He huarahi ERP tauira mo nga umanga whakatipu",
+    "item1Text": "Me pehea ta matou hanganga i nga mahi ERP kia uru pai ai te putea, te rarangi pukapuka, te HR me te hoko hoko me te kore e pakaru nga tau maha.",
+    "item2Date": "Pipiri 2026",
+    "item2Tag": "Maramatanga Artificial",
+    "item2Title": "Pūnaha AI Agentic: neke mai i nga chatbots ki te mahi motuhake",
+    "item2Text": "Ko te hoahoanga o nga punaha LLM-maha-a-te-rangi e whakamahere ana, e whakamana ana, e whakahaere ana i nga rerengamahi pakihi uaua me te tirotiro i te tangata-i-te-roopu.\n<",
+    "item3Date": "Haratua 2026",
+    "item3Tag": "Kamupene Milestone",
+    "item3Title": "I mohiohia i waenga i nga whare wananga hou IT i Hyderabad",
+    "item3Text": "Kua whakamihihia to maatau taiwhanga miihini mo te hiranga o te tuku, te kaha hangarau hohonu, me te pai o te kiritaki puta noa i te miihini hua o te ao.",
+    "desc": "Torotoro whakaaro me nga tirohanga mai i Rezonants mo te hurihanga matihiko, AI, aunoatanga, kapua, raraunga, rorohiko, me te heke mai o te hangarau pakihi.",
+    "categories": {
+      "digitalTransformation": "Huringa Mamati",
+      "ai": "AI & Aunoatanga",
+      "cloud": "Kapua",
+      "data": "Raraunga me te Tatari",
+      "software": "Pūmanawa",
+      "business": "Pakihi me te Hangarau"
+    }
+  },
+  "technologies": {
+    "title": "Hangarau me te Hanganga",
+    "headline": "Hangarau Hangarau Hangarau",
+    "sub": "Hangarau Maramarama. Nga Mahi Aunoa. Pakihi Maamaa.",
+    "selectTechnology": "Tīpakohia he otinga hangarau…",
+    "options": {
+      "aiRobotics": "AI & Robotics Solutions",
+      "businessAutomation": "Nga Whakataunga Aunoa Pakihi",
+      "cloudMigrations": "Nga Whakataunga Hekenga Kapua",
+      "dataCenters": "Nga Raraunga Raraunga Raraunga",
+      "cognitiveAnalytics": "Nga Taatari Hinengaro & AI",
+      "informationReporting": "Nga Pūnaha Korero me te Purongo",
+      "managedServices": "Nga Ratonga Whakahaere",
+      "oneStopSolutions": "Nga Whakataunga Hangarau Tutahi"
+    },
+    "explore": "Torotoro Hangarau",
+    "bookDiscovery": "Te Tirohanga Hangarau Pukapuka",
+    "exploreAll": "Torotoro Hangarau Katoa",
+    "coreCapabilities": "Nga Mahinga Hangarau Matua",
+    "bookConsultation": "Whakatakotoria he Korero"
+  },
+  "contact": {
+    "eyebrow": "Whakapā",
+    "title": "Me korero ki tetahi miihini matua, kaua ki te tuhinga hoko",
+    "sub": "Tohaina he iti mo to kaupapa ka whakautu matou i roto i te ra mahi kotahi.",
+    "reachUs": "Me toro tika mai",
+    "preferConversation": "He pai ki te korerorero? Kotahi te karanga atu.",
+    "contactLede": "Ko te huarahi tere ki te anga whakamua he korero poto. Whakapaa mai ki a matou i runga i tetahi hongere kei raro, tuhia ranei he mokamoka ka tae mai matou ki a koe kua rite.\n<",
+    "phone": "Waea\n<",
+    "email": "Īmēra\n<",
+    "office": "Tari",
+    "hours": "Nga haora",
+    "hoursValue": "Mane – Hatarei, 9:30 – 18:30 IST",
+    "bookSlot": "Tuhia he mokamoka korero",
+    "sendMessage": "Tukuna mai he karere",
+    "fieldsRequired": "Ko nga mara kua tohua ki te * e hiahiatia ana.",
+    "fullName": "Ingoa Katoa *",
+    "emailLabel": "Īmēra *",
+    "company": "Kamupene\n<",
+    "subject": "Kaupapa\n<",
+    "messageLabel": "Karere *",
+    "sending": "Tukuna...",
+    "sendBtn": "Tuku karere",
+    "successMsg": "Kua tukuna te karere! Kua tukuna he kape ki a koe.",
+    "errorMsg": "Kāore i taea te tiaki i tō karere. Tirohia kei te noho tonu te ripanga contact_messages, ka ngana ano.",
+    "offices": {
+      "vijayawada": "Tari Vijayawada",
+      "southAfrica": "Te Tari o Awherika ki te Tonga"
+    },
+    "placeholders": {
+      "fullName": "To ingoa katoa",
+      "email": "you@company.com",
+      "company": "To kamupene, whakahaere ranei",
+      "subject": "Me pehea e awhina ai?",
+      "message": "Korero mai ki a matou mo to kaupapa, waahi wa, me to whainga..."
+    },
+    "validation": {
+      "fullNameRequired": "Whakauruhia to ingoa katoa.",
+      "emailRequired": "Whakaurua koa to wahitau imeera.",
+      "emailInvalid": "Whakaurua koa he wahitau imeera whaimana.",
+      "messageRequired": "Whakaurua he karere.\n<"
+    }
+  },
+  "services": {
+    "eyebrow": "Ratonga",
+    "title": "He aha ta matou mahi",
+    "sub": "Mai i te rautaki ki nga whakahaere whakahaere, ka tukuna e matou nga hononga hangarau mutunga-ki-mutunga mo nga kamupene e whakataetae ana ki te mahi.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Te timatanga ki te tuku",
+        "description": "Whakawhanake mutunga-ki-te-mutunga o nga otinga mamati hou mai i nga whakaritenga pakihi me te hoahoanga otinga na roto i te whanaketanga, te whakauru, te whakamatautau, te tuku, me te tautoko tonu."
+      },
+      "businessProcessAutomation": {
+        "label": "Ahumahi Tukatuka Pakihi",
+        "description": "Hoahoa me te whakatinanatanga o nga otinga aunoatanga mohio e whakamaarama ana i nga mahi pakihi, whakakore i nga mahi a-ringa tukurua, whakapai ake i te pai o te whakahaere, me te whakatere i nga hua pakihi."
+      },
+      "centerOfExcellence": {
+        "label": "Pokapū Kairangi",
+        "description": "Te whakatu i nga pokapu hangarau motuhake me te kaha pakihi e whakarato ana i te mana whakahaere, i nga paerewa, i nga tohungatanga, i nga anga, i nga rawa ka taea te whakamahi, me te whakapai tonu puta noa i te whakahaere."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Whanaketanga Ritenga me te Whakaritenga",
+        "description": "Whakawhanaketanga me te whakarei ake i nga tono, papaaapapa, rerengamahi, me nga otinga hinonga hei whakatutuki i nga whakaritenga pakihi ahurei me te whakaputa i nga mahi kua whakaritea."
+      },
+      "digitalTransformation": {
+        "label": "Huringa Mamati",
+        "description": "Whakahoutanga o nga mahi pakihi, hangarau rauwiringa kaiao, me nga wheako o nga kaihoko ma te kapua, AI, aunoatanga, raraunga, me nga hangarau tono hou."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Anga Whakataunga Whakamutunga-ki-Whakamutunga",
+        "description": "He huarahi tuku matawhānui e kapi ana i te huringa ora hangarau katoa—mai i te rautaki, nga whakaritenga, me te hoahoanga ki te whanaketanga, te whakauru, te horahanga, te whakahaere, te aro turuki, me te tautoko."
+      },
+      "migrationModernization": {
+        "label": "Heke me te Whakahoutanga",
+        "description": "Hekenga haumaru me te hanganga o nga tono, nga raraunga, nga papaahoa, nga hanganga, me nga kawenga mahi mai i nga waahi tuku iho, i nga taiao o naianei ranei ki nga papahanga hangarau hou, whakaineine, me te arotau."
+      },
+      "pocPilotImplementation": {
+        "label": "Tohu o te Ariā (PoC) & Whakatinana Pilot",
+        "description": "Te whakawhanaketanga tere me te whakamana i nga otinga hangarau hei aromatawai i te whaihuatanga hangarau, te uara pakihi, nga whakaritenga whakauru, te mahi, me te tauine i mua i te whakatinanatanga-katoa."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Ratonga Tiriri me nga Mahi Whakahaere",
+        "description": "Te tukunga o te hangarau me te kaha whakahaere puta noa i nga waahanga pakihi ma roto i nga tikanga paerewa, nga rauemi mohio, nga anga whakahaere, te whakahaere ratonga, me nga taumata ratonga ine."
+      },
+      "customDevelopment": {
+        "label": "Te Timatatanga Ki te Tukunga",
+        "description": "Whakawhanake mutunga-ki-te-mutunga o nga otinga mamati hou mai i nga whakaritenga pakihi me te hoahoanga otinga na roto i te whanaketanga, te whakauru, te whakamatautau, te tuku, me te tautoko tonu."
+      },
+      "processAutomation": {
+        "label": "Ahumahi Tukatuka Pakihi",
+        "description": "Hoahoa me te whakatinanatanga o nga otinga aunoatanga mohio e whakamaarama ana i nga tukanga pakihi, whakakore i nga mahi a-ringa tukurua, whakapai ake i te pai o te whakahaere, me te whakatere i nga hua pakihi."
+      },
+      "solutionEngineering": {
+        "label": "Whanaketanga Ritenga me te Whakaritenga",
+        "description": "Whakawhanake me te whakarei ake i nga tono, papaaapapa, rerengamahi, me nga otinga hinonga hei whakatutuki i nga whakaritenga pakihi ahurei me te whakaputa i nga mahi kua whakaingoatia."
+      },
+      "endToEndSolutions": {
+        "label": "Anga Whakataunga Whakamutunga-ki-Whakamutunga",
+        "description": "He huarahi tuku matawhānui e kapi ana i te huringa ora hangarau katoa—mai i te rautaki, nga whakaritenga, me te hoahoanga ki te whanaketanga, te whakauru, te horahanga, te whakahaere, te aro turuki, me te tautoko."
+      },
+      "migrationServices": {
+        "label": "Heke me te Whakahoutanga",
+        "description": "Hekenga haumaru me te hanganga o nga tono, nga raraunga, nga papaahoa, nga hanganga, me nga kawenga mahi mai i nga waahi tuku iho, i nga taiao o naianei ranei ki nga papahanga hangarau hou, whakaineine, me te arotau."
+      },
+      "pilotPrototyping": {
+        "label": "Tohu o te Ariā (PoC) & Whakatinana Pilot",
+        "description": "Te whakawhanake tere me te whakamana i nga otinga hangarau hei aromatawai i te whaihuatanga hangarau, te uara pakihi, nga whakaritenga whakauru, te mahi, me te tauine i mua i te whakatinanatanga o te tauine katoa."
+      },
+      "sharedServices": {
+        "label": "Nga Ratonga Tiriri me nga Mahi Whakahaere",
+        "description": "Te tukunga o te hangarau me te kaha whakahaere puta noa i nga waahanga pakihi ma roto i nga tikanga paerewa, rauemi mohio, anga whakahaere, whakahaere ratonga, me nga taumata ratonga ine."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Whakaritea he Whakawhitiwhitinga",
+      "exploreFramework": "Tirotiro Anga Whakataunga",
+      "talkSeniorEngineer": "Korero ki tetahi Kaihanga Matua",
+      "exploreTechStack": "Torotoro Hangarau Hangarau",
+      "bookPocSession": "Tuhia he PoC Discovery Session",
+      "seeAllServices": "Tirohia nga Ratonga Katoa",
+      "requestAssessment": "Tonoa he Aromatawai Heke",
+      "exploreCloudSolutions": "Torotoro i nga Rongoa Kapua"
+    },
+    "sharedServices": {
+      "heroBadge": "RATONGA TARIRI ME NGA WHAKAMAHI WHAKAMAHI",
+      "heroTitle": "Nga Ratonga Tirihi me nga Mahi Whakahaere",
+      "heroDesc": "Whakatauhia nga kaha pakihi, whakamomori i nga rerenga mahi whakawhiti, me te eke ki te hiranga o te whakahaere ma nga tauira ratonga tiritiri, haumaru, whai hua hoki.",
+      "bookDiscovery": "Pukapuka Whakahaerehia nga Mahi Whakakitenga",
+      "exploreFramework": "Tirotiro Anga Whakataunga\n<",
+      "coreCapabilities": "Nga Aheinga Matua:",
+      "managedServices": "Nga Ratonga Whakahaere",
+      "itOperations": "Nga Mahi IT",
+      "appSupport": "Tautoko Taupānga",
+      "serviceManagement": "Whakahaere Ratonga",
+      "resourceOptimization": "Rauemi Arotautanga",
+      "slaManagement": "Whakahaerenga SLA",
+      "governance": "Whakahaerenga",
+      "continuousImprovement": "Whakapai Tonu",
+      "costOptimization": "Arotautanga Utu",
+      "readyTitle": "Kua Riri ki te Whakapaipai i o Mahi?",
+      "readyDesc": "Tirohia me pehea e taea ai e a maatau anga Mahi Tiriri me te Whakahaere Whakahaere te whakaniko i te kounga o te ratonga, te whakarite i te haere tonu o te whakahaere, me te akiaki i nga utu totika mo to hinonga.",
+      "scheduleSession": "Whakaritea he Wātū Whakakitenga"
+    },
+    "solutionEngineering": {
+      "heroBadge": "WHAKAMAHI WHAKAMAHI ME TE WHAKAMAHI",
+      "heroTitle": "Whanaketanga Ritenga me te Whakaritenga",
+      "heroDesc": "Kaihanga, miihini, me te whakatakoto i nga punaha raupaparorohiko mahi teitei i hangaia mo o rerengamahi whakahaere, raina paipa raraunga, me nga whakaritenga tauine."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "TE WHAKAMAHI KAUPAPA ME TE WHAKAMAHI",
+      "heroTitle": "Tohu o te Ariā (PoC) & Whakatinana Pilot",
+      "heroDesc": "Whakamana i nga hangarau ka puta ake, ka whakakore i nga hoahoanga uaua, ka whakamatau i te uara pakihi me nga tauira tohu-whakaputa i roto i nga wiki, kaua ko nga hauwhā."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "TE HUNGA ORA me te tuku",
+      "heroTitle": "Anga Whakataunga Whakamutunga-ki-Whakamutunga",
+      "heroDesc": "He tauira tuku whakakotahi e hono ana i te kitenga hua, te hoahoanga otinga, te miihini, te hanganga kapua, me nga mahi pono 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "TE WHAKARANGA ME TE WHAKATAUTANGA TANGATA",
+      "heroTitle": "Heke me te Whakahoutanga",
+      "heroDesc": "Te whakawhiti marie i nga kawenga mahi tuku iho, nga hoahoanga monolithic, me nga hanganga-a-whare ki nga papaahi kapua hou, haumaru, tauineine."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Te Whakahou Hanganga",
+        "titlePart1": "Mamati",
+        "titlePart2": "Huringa",
+        "description": "Whakahoutanga o nga mahi pakihi, hangarau rauwiringa kaiao, me nga wheako o nga kaihoko ma te kapua, AI, aunoatanga, raraunga, me nga hangarau tono hou.",
+        "bookWorkshop": "Awheawhe Hurihuri Pukapuka",
+        "exploreFramework": "Tirotiro Anga Whakataunga",
+        "startTransformation": "Tīmata Huringa",
+        "exploreStrategy": "Rapu Rautaki",
+        "coreCapabilitiesTitle": "Nga Taea Matua",
+        "coreCapabilities": [
+          "Rautaki Mamati",
+          "Huringa Kapua",
+          "AI & Aunoatanga",
+          "Whakahoutanga Taumahi",
+          "Nga Taonga Tuku Iho",
+          "Raraunga me te Tatari",
+          "Te Wheako Kaihoko",
+          "Hangarau Hou"
+        ],
+        "row1Eyebrow": "Rautaki me te Mahere Ara",
+        "row1Title": "Mai i te Whakakitenga ki te Mapi Ara Whakahaere",
+        "row1P1": "Ka mahi tahi matou me nga kaihautu hinonga ki te tautuhi i te rautaki matihiko, nga keehi pakihi, me nga mahere rori e tere ana te wikitoria me te whakakore i nga mahi kino.",
+        "row1P2": "Ko nga kaupapa matua, ko nga tauira TCO, me nga KPI ka whakarite kia hono tika nga mahi whakamohoatanga hangarau katoa ki nga moni whiwhi, whai hua, me nga hua e pai ana ki nga kaihoko.",
+        "row2Eyebrow": "Te Whakahoutanga Tuku iho",
+        "row2Title": "Whakahouhia me te kore e pakaru te Pakihi",
+        "row2P1": "Whakaritea ano nga monoliths ki nga ratonga moroiti, API, me nga tauira kapua-maori me nga tapahi kore-waahi me te whakamana whakamuri aunoa.",
+        "row2P2": "Ka whakahōu mātou i ngā tono, ngā pātengi raraunga, me ngā paparanga kōmitimiti i te wā e pupuri ana i te hanganga ture me te noho haumaru.",
+        "row3Eyebrow": "Kapua, AI me te Raraunga",
+        "row3Title": "Whakapainga Kapua me te Maramatanga-a-Raraunga",
+        "row3P1": "Whakauruhia te AWS, Azure, me te GCP, hanga i nga paipa raraunga hou, me te whakauru i nga apiha ako miihini hei akiaki i nga whakatau motuhake.",
+        "row3P2": "Mai i te wa-tūturu e rere ana i nga huihuinga ki nga papatohu whakakotahi, ka taea te ine me te pumau te huringa.",
+        "row4Eyebrow": "Te Wheako Kaihoko",
+        "row4Title": "Nga Wheako Omnichannel Hou",
+        "row4P1": "Hoahoa ano i nga haerenga a nga kaihoko puta noa i te paetukutuku aro, iOS, Android, me nga tomokanga ratonga whaiaro me nga atanga whakawhaiaro.",
+        "row4P2": "Ko te hangahanga papaaho, te waea waea, me nga kopiri urupare aunoa ka mau tonu te auahatanga mamati.",
+        "pillarsTitle": "Nga Pou Hurihuri",
+        "pillarsSub": "Ko nga huanga-a-ringa e whakapumau ana i te kaiarahitanga mamati ukauka.",
+        "pillar1Title": "Rautaki Mamati & Whakahaerenga",
+        "pillar1Desc": "Nga mahere panoni i te wahanga me te whakatauira take pakihi, te whakahaere hoahoanga, me te whai waahi morearea.",
+        "pillar2Title": "Kapua & Raraunga Raraunga",
+        "pillar2Desc": "AWS/Azure/GCP turanga kapua maha, paipa aunoa, me te whakaaheitanga tātari raraunga hinonga.",
+        "pillar3Title": "AI & Aunoatanga",
+        "pillar3Desc": "Nga mahi aunoatanga mohio, nga kaihoko AI mohio, me te waea waea matapae hei arotau i nga mahi o ia ra.\n<",
+        "pillar4Title": "Wheako Kiritaki",
+        "pillar4Desc": "Nga tomokanga mamati omnichannel me nga atanga whakawhaiaro i hangaia hei pupuri i nga kaiwhakamahi.",
+        "ctaTitle": "Kua Riri ki te Huri I To Hinonga?",
+        "ctaSub": "Mahi tahi me Rezonants mo nga huringa matihiko kua wehea, kua kore e tupono kua herea ki nga hua pakihi ine.",
+        "ctaButton": "Tuhia he Waea Huringa Mamati"
+      },
+      "customDevelopment": {
+        "eyebrow": "Whakamutunga-ki-Whakamutunga Hangarau Mamati",
+        "titlePart1": "Timatatanga Ki\n<",
+        "titlePart2": "Tukunga\n<",
+        "bookConsultation": "Pukapuka Whakawhitiwhiti",
+        "exploreEngineering": "Tirotiro Hangarau Rongoa"
+      },
+      "processAutomation": {
+        "eyebrow": "Nga Mahi Tukatuka Maramarama",
+        "titlePart1": "Tukanga Pakihi",
+        "titlePart2": "Aunoatanga",
+        "bookDiscovery": "Tuwhera Aunoatanga Pukapuka",
+        "exploreCoE": "Tirotiro Pokapū Kairangi"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Pokapū o\n<",
+        "titlePart2": "Kairangi",
+        "bookConsultation": "Pukapuka Whakawhitiwhitinga CoE",
+        "exploreCapabilities": "Te Tirotiro Raukaha"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Whakaotia Hangarau Hangarau",
+        "titlePart1": "Mutu-ki-Mutunga",
+        "titlePart2": "Anga Whakataunga",
+        "startJourney": "Tīmatahia To Haerenga Huringa Ora",
+        "exploreTransformation": "Tirotiro Huringa"
+      },
+      "migrationServices": {
+        "eyebrow": "Kapua me te Huringa Hanganga",
+        "titlePart1": "Hekenga &",
+        "titlePart2": "Whakahoutanga",
+        "planMigration": "Whakaritea To Hekenga",
+        "exploreTransformation": "Tirotiro Huringa"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Whakamana Tere me te Mahinga",
+        "titlePart1": "Tohu o te Ariā (PoC) &",
+        "titlePart2": "Whakatinana Pilot",
+        "initiateDiscovery": "Tīmatahia te PoC Discovery",
+        "exploreDevelopment": "Torotoro Whanaketanga Ritenga"
+      },
+      "solutionEngineering": {
+        "badge": "Hangaia Mamati",
+        "bookConsultation": "Tuhia he Whakawhitiwhitinga\n<",
+        "exploreCapabilities": "Torotoro Raukaha"
+      },
+      "sharedServices": {
+        "eyebrow": "Te Tari Whakahaere Putanga",
+        "titlePart1": "Ratonga Tirihi &",
+        "titlePart2": "Nga Mahi Whakahaere",
+        "bookDiscovery": "Pukapuka Whakahaerehia nga Mahi Whakakitenga",
+        "exploreFramework": "Tirotiro Anga Whakataunga"
+      }
+    },
+    "coreCapabilities": "Nga Raukaha Matua"
+  },
+  "products": {
+    "featured": "Nga Hua Whakaatu",
+    "featuredSub": "Whakangwarihia nga mahi, hono atu i nga kapa, whakaaunoa i nga tukanga, me te akiaki i te tipu pakihi.",
+    "seeAll": "Tirohia nga Hua Katoa",
+    "featuredProducts": "HUA WHAKAMAHI",
+    "meetAutonomous": "Tutaki ki te Kaimahi Motuhake",
+    "meetAutonomousText": "Hurihia o mahi me nga kaihoko AI e mahi ana i te taha o to roopu ki te hapai i nga mahi uaua, tukurua.",
+    "learnMore": "Ako Anō",
+    "erp": {
+      "title": "Kotahi Papanga Kua Reri mo tetahi mea",
+      "sub": "Te whakamana i nga pakihi me nga otinga whakahaere hinonga honohono, mohio, me te tauineine.",
+      "explore": "Torotoro ERP Solutions\n<",
+      "gridTitle": "WHAKAMAHI ERP",
+      "promoTitle": "ERP Modular mo te Tipu",
+      "promoText": "Hoatuhia nga ahuatanga ERP modular me te kore he uaua o nga punaha tau-maha tuku iho.",
+      "scheduleDemo": "Whakaritea Whakaaturanga"
+    },
+    "it": {
+      "title": "Nga Whakatau IT",
+      "sub": "Hanganga-hanganga-hanganga, haumarutanga, me nga otinga DevOps kia rere tonu to pakihi.",
+      "explore": "Tirotiro Hangarau IT\n<",
+      "gridTitle": "IT SOLUTION",
+      "promoTitle": "Hanganga IT Whakapono",
+      "promoText": "Hangaia he turanga hangarau pakari me te kapua whakahaere, te haumaru, me nga ratonga DevOps.",
+      "getStarted": "Tīmatahia"
+    },
+    "crm": {
+      "title": "Nga Whakataunga CRM",
+      "sub": "Ko te whakahaere hononga a te Kaihoko hei whakatika i nga hokonga, tautoko, me nga rerenga mahi hokohoko.",
+      "explore": "Torotoro CRM Solutions\n<",
+      "gridTitle": "WHAKAMAHI CRM",
+      "promoTitle": "Katia etahi atu utu",
+      "promoText": "Whakamanahia o roopu hoko me o roopu tautoko me nga raraunga kaihoko kotahi me te mahi aunoatanga mohio.",
+      "startTrial": "Tīmata Whakamātautau Koreutu"
+    },
+    "hrms": {
+      "title": "HRMS Solutions",
+      "sub": "Whakahaerenga rauemi tangata e hipoki ana i te utu utu, te kimi mahi, te mahi, me te whakauru kaimahi.",
+      "explore": "Torotoro HRMS Solutions\n<",
+      "gridTitle": "WHAKAMAHI A HRMS",
+      "promoTitle": "Whakangwarihia nga Mahi HR",
+      "promoText": "Whakaaunoa i nga rerenga mahi HR mai i te whakaurunga ki te reti me te papaaho hou, kaimahi-tuatahi.",
+      "requestDemo": "Tono Whakaaturanga\n<"
+    },
+    "sidebar": {
+      "featuredProducts": "Nga Hua Whakaatu",
+      "erpSolutions": "Nga Whakataunga ERP\n<",
+      "solutions": "WHAKAARO"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Nga kaihoko mana motuhake me nga taputapu e whakaaunoa ana i nga rerengamahi uaua me nga mahi a nga kaihoko."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Puapapa whakahaere maha-kapua e arotau ana i te mahi, te haumarutanga, te hanganga ture me nga utu."
+      },
+      "workSync": {
+        "title": "Tukutahi Mahi",
+        "description": "Te mahi tahi ranu me te tari hua me nga mahi whakauru, korerorero, me te whakahaere tuhinga."
+      },
+      "dataStream": {
+        "title": "Raraunga Raraunga",
+        "description": "Ko te miihini wetewete i te waa tuuturu e huri ana i nga awa o nga huihuinga pakihi hei tirohanga mahi."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Te hoahoanga hinonga whakakotahi e hono ana i nga putea, rawa, HR, hoko, me nga taonga."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Te turanga wheako kaimahi e hipoki ana i te utu utu, nga painga, nga arotake mahi, me te mahi whaiaro.\n<"
+      },
+      "supplyChainIq": {
+        "title": "IQ Tukunga",
+        "description": "Aroturuki i nga wa tuturu, nga mahi whare putunga aunoa, me te matapae tono."
+      },
+      "financeHub": {
+        "title": "Te Puka Putea",
+        "description": "Te whakahaere pukapuka pukapuka matatau, nga rerenga mahi nama, te tutukitanga aunoa, me nga purongo moni-a-waa."
+      },
+      "cloudInfrastructure": {
+        "title": "Hanganga Kapua",
+        "description": "Ko te hoahoanga kapua tauine, te heke, me te whakahaere puta noa i te AWS, Azure, me te GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Haumaru Haumaru Haumaru",
+        "description": "Aroturuki haumarutanga mutunga-ki-mutunga, rapunga riri, me te whakahaere hanganga ture."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD aunoatanga, whakangao ipu, me nga hanganga-hei-waehere mo te tuku tere."
+      },
+      "managedItServices": {
+        "title": "Nga Ratonga IT Whakahaere",
+        "description": "24/7 te aro turuki i nga hanganga, te urupare maiki, me te tiaki tere."
+      },
+      "salesCrm": {
+        "title": "Hoko CRM",
+        "description": "Whakahaerenga paipa, tohu tohu, aroturuki mahi, me te matapae hoko i te papa kotahi."
+      },
+      "customerSupportHub": {
+        "title": "Puka Tautoko Kiritaki",
+        "description": "Nga tikiti, turanga matauranga, korero ora, me te whakahaere tautoko omnichannel.\n<"
+      },
+      "marketingAutomation": {
+        "title": "Hokohoko Aunoatanga",
+        "description": "Whakaritenga kaupapa whakatairanga, aunoatanga imeera, te poipoi kaiarahi, me te tātari."
+      },
+      "customer360View": {
+        "title": "Kiritaki 360 Tirohanga",
+        "description": "Nga korero a nga kaihoko whakakotahi e whakakotahi ana i nga hokonga, tautoko, me nga raraunga taunekeneke."
+      },
+      "coreHr": {
+        "title": "Matua HR",
+        "description": "Nga rekoata a nga kaimahi, te hierarchy org, te whakahaere whakamatuatanga, me te tirotiro haere."
+      },
+      "payrollCompliance": {
+        "title": "Utu utu me te Tautukunga",
+        "description": "Tukatuka utu aunoa, tatauranga taake, me te hanganga ture."
+      },
+      "performanceManagement": {
+        "title": "Whakahaere Mahi",
+        "description": "Aroturuki OKR, 360° arotake, whakatakoto kaupapa, me nga mahere whanaketanga kaimahi."
+      },
+      "recruitmentPortal": {
+        "title": "Putanga Tohunga",
+        "description": "Nga whakairinga mahi, te aroturuki kaitono, te whakarite uiui, me nga rerenga mahi."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Nga Hua Whakaatu",
+        "heading": "Nga Hua Whakaatu",
+        "sub": "Whakangwarihia nga mahi, hono atu i nga kapa, whakaaunoa i nga mahi, me te akiaki i te tipu o te pakihi.",
+        "promoTitle": "Tutaki ki te Kaimahi Motuhake",
+        "promoText": "Hurihia o mahi me nga kaihoko AI e mahi ana i te taha o to roopu ki te hapai i nga mahi uaua, tukurua.",
+        "items": [
+          {
+            "title": "AI Aunoatanga me nga Kaitohu Maamaa",
+            "description": "Whakaaunoa i nga mahi tukurua me te tuku i nga kaihoko mohio AI hei whakapai ake i te hua, te whakatau, me nga hua pakihi."
+          },
+          {
+            "title": "Ratonga IT & Tautoko Mamati",
+            "description": "He tere ake, he maamaa ake te tautoko IT me te whakahaeretanga o te ratonga, te mahi aunoa, me nga rerengamahi mamati."
+          },
+          {
+            "title": "Te Whakahaere Ahumahi AI",
+            "description": "Hangaia te whakatamarikitanga AI haepapa me te mana whakahaere, te haumarutanga, te tautukunga, te marama, me te mana whakahaere morearea."
+          },
+          {
+            "title": "Nga Mahi IT Maramarama",
+            "description": "Hurihia nga mahi IT me te aro turuki a AI, aunoatanga, nga tirohanga matapae, me te whakatau take."
+          },
+          {
+            "title": "Whakahaere Wheako Kaihoko",
+            "description": "Waihangahia nga haerenga a nga kaihoko me te whakaurunga mohio, aunoatanga, tātaritanga, me nga wheako matihiko ngawari."
+          },
+          {
+            "title": "Rautaki Pakihi me te Arotautanga Putea",
+            "description": "Whakaritea nga haumi hangarau me nga whaainga pakihi ki te arotau i nga putea, ki te whakapai ake i te pai, ki te akiaki i te tipu toiwhi."
+          },
+          {
+            "title": "Rawa IT me te Huringa Ora Hangarau",
+            "description": "Whakahaerehia nga rawa IT puta noa i to ratau oranga me te pai ake o te tirohanga, te mahi aunoa, te whakahaere utu, me te whakamahere hangarau."
+          },
+          {
+            "title": "Te Morea me te Tautukunga o te hinonga",
+            "description": "Tautuhia, aromatawai, me te whakahaere i nga morearea hinonga i te wa e whakakaha ana i nga hanganga ture, nga mana whakahaere, me te mauri whakahaere."
+          },
+          {
+            "title": "Haumaru Haumaru me te Whakawehi",
+            "description": "Tiaki i nga taiao matihiko me te whakamohiotanga o te riri, nga mahi haumaru, te urupare mai i nga maiki, me te aroturuki tonu."
+          },
+          {
+            "title": "Aunoatanga a nga Kaimahi mara",
+            "description": "Whakamanahia nga kapa mara ki te whakatakotoranga mohio, nga rerengamahi pūkoro, aunoatanga, me te tirohanga mahi mo te wa-tūturu."
+          },
+          {
+            "title": "Wheako Kaimahi & Ratonga HR",
+            "description": "Whakangwarihia nga ratonga kaimahi me nga rerengamahi matihiko, otinga ratonga whaiaro, aunoatanga, me nga wheako kaimahi whaiaro."
+          },
+          {
+            "title": "Wahi Mahi Mamati Kotahitanga",
+            "description": "Honoa nga tangata, nga tukanga, nga tono, me nga taputapu mahi tahi na roto i te waahi mahi matihiko haumaru, mohio me te maamaa."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Nga Whakataunga ERP",
+        "heading": "Kotahi Papa, Riri mo nga mea katoa",
+        "sub": "Te whakamana i nga pakihi me nga otinga whakahaere hinonga hono, mohio, me te tauineine.",
+        "promoTitle": "ERP Modular mo te Tipu",
+        "promoText": "Hoatuhia nga ahuatanga ERP modular me te kore he uaua o nga punaha tau-maha tuku iho.",
+        "items": [
+          {
+            "title": "Ahumahi Tukatuka Pakihi",
+            "description": "Whakapaihia nga putea, HR, hoko, hoko, me nga mahi o ia ra."
+          },
+          {
+            "title": "Whakahaere Pakihi Whakauru",
+            "description": "Honoa nga tari, nga raraunga, me nga rerengamahi ki runga i te papa kotahi."
+          },
+          {
+            "title": "Putea me te Kaute",
+            "description": "Whakapai ake i te tirohanga putea, te tuku purongo, te tahua, me te hanganga ture."
+          },
+          {
+            "title": "HR me te utu",
+            "description": "Whakangwarihia te whakahaere kaimahi, te haere mai, te utu utu, me nga tukanga HR."
+          },
+          {
+            "title": "Whakahaerenga Raina Raina",
+            "description": "Arotau i te hokonga, i te rarangi ingoa, i nga kaihoko, me nga mahi arotau."
+          },
+          {
+            "title": "Hoko & Whakahaere Kiritaki",
+            "description": "Whakahaerehia nga kaiarahi, nga kaihoko, nga ota, me nga mahi hokohoko."
+          },
+          {
+            "title": "Nga Taatari Waa Tuturu me te Purongo",
+            "description": "Hurihia nga raraunga pakihi hei tirohanga mahi mo nga whakatau tere ake."
+          },
+          {
+            "title": "Kapua ERP Solutions",
+            "description": "Whakahohehia te whakahaere hinonga haumaru, tauine me te uru mai i hea.\n<"
+          }
+        ]
+      },
+      "it": {
+        "title": "Rongoa IT\n<",
+        "heading": "A matou Rongoa IT",
+        "sub": "Hurihia nga mahi IT me nga otinga mamati mohio, kokiri, me te tauine hei whakapai ake i te mahi, te hua, me te haere tonu o te pakihi.",
+        "promoTitle": "Hanganga IT Whakapono",
+        "promoText": "Hangaia he turanga hangarau pakari me te kapua whakahaere, te haumaru, me nga ratonga DevOps.",
+        "items": [
+          {
+            "title": "Whakahaere Ratonga IT",
+            "description": "Whakapaihia nga ratonga IT, nga maiki, nga tono, me nga rerenga mahi kia tere ake te whakatau."
+          },
+          {
+            "title": "Whakahaere Whakahaere IT",
+            "description": "Aroturuki i nga hanganga me nga tono me nga mahi aa-rorohiko me nga mahi IT."
+          },
+          {
+            "title": "Whakahaerenga Rawa IT",
+            "description": "Te whakahaere tika i nga rawa hangarau me te whakaiti i nga utu, nga tupono, me te uauatanga o te oranga."
+          },
+          {
+            "title": "Hangahanga Hanganga",
+            "description": "Whakaritea te rautaki pakihi ki te hoahoanga hangarau tika me nga haumi."
+          },
+          {
+            "title": "Kapua Whakahaere",
+            "description": "Whakapai ake i te haumarutanga kapua, te hanganga ture, te mahi, me te whakahaere utu."
+          },
+          {
+            "title": "Nga Mahi Mamati",
+            "description": "Whakaaunoa i nga tukanga IT me te whakakitenga i te waa-tuturu puta noa i to taiao hangarau."
+          },
+          {
+            "title": "Te Tirohanga me te Aroturuki",
+            "description": "Rapu wawe nga take mahi me te pupuri i nga wheako mamati pono."
+          },
+          {
+            "title": "Whakahaerenga Pukapapa Rautaki",
+            "description": "Honoa nga haumi IT me nga kaupapa matua me nga hua ine."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Nga Whakataunga CRM",
+        "heading": "Ko o maatau Whakataunga CRM",
+        "sub": "Tukuna nga wheako kaihoko hono, whakawhaiaro, mohio hoki puta noa i te haerenga a nga kaihoko.",
+        "promoTitle": "Katia etahi atu utu",
+        "promoText": "Whakamanahia o roopu hoko me o roopu tautoko me nga raraunga kaihoko kotahi me te mahi aunoatanga mohio.",
+        "items": [
+          {
+            "title": "Whakahaere Ratonga Kaihoko",
+            "description": "Whakapai ake i te tautoko a nga kaihoko me te tere ake te whakatau, te mahi whaiaro, me nga rerenga mahi mohio."
+          },
+          {
+            "title": "Hoko Aunoatanga",
+            "description": "Whakaaunoa i nga mahi hokohoko, whakahaere i nga kaiarahi, me te awhina i nga roopu ki te kati i nga huarahi tere."
+          },
+          {
+            "title": "Whakahaerenga Hoko & Ota",
+            "description": "Whakapaihia te haerenga mai i te arahi ki te ota me te whakapai ake i te tirohanga moni.\n<"
+          },
+          {
+            "title": "Whakahaere Ratonga mara",
+            "description": "Arotauhia nga mahi mara, te whakarite, te tuku, me te hua kaitoi."
+          },
+          {
+            "title": "Whakahaere Wheako Kiritaki",
+            "description": "Waihangahia nga wheako maamaa me te whakawhaiaro puta noa i nga waahi pa o nga kaihoko."
+          },
+          {
+            "title": "CRM tātaritanga me nga tirohanga",
+            "description": "Hurihia nga raraunga a nga kaihoko hei tirohanga mahi mo nga whakatau pakihi mohio ake.\n<"
+          },
+          {
+            "title": "Aunoa hokohoko",
+            "description": "Whakaaunoa i nga kaupapa whakatairanga, te whai waahi ki nga kaihoko, me te whangai arahi."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Whakamahia te aunoatanga mohio me nga tirohanga AI hei whakapai ake i te hua me te whai waahi ki nga kaihoko."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS Solutions",
+        "heading": "Ko a maatau Whakatau HRMS",
+        "sub": "Whakamanahia to kaimahi ki nga otinga HR mohio, whakauru, me te aunoa hei whakangawari i te whakahaere kaimahi me te whakapai ake i te wheako waahi mahi.",
+        "promoTitle": "Whakangwarihia nga Mahi HR",
+        "promoText": "Whakaaunoa i nga rerenga mahi HR mai i te whakauru ki te reti me te papaaho hou, kaimahi-tuatahi.",
+        "items": [
+          {
+            "title": "Whakahaere HR Matua",
+            "description": "Whakahaerehia nga korero a nga kaimahi, nga hanganga whakahaere, me nga tukanga HR."
+          },
+          {
+            "title": "Whakahaerenga utu",
+            "description": "Whakaaunoa te utu utu, te tukatuka utu, tangohanga, me te hanganga ture."
+          },
+          {
+            "title": "Ratonga Whaiaro Kaimahi",
+            "description": "Hoatu ki nga kaimahi te uru ngawari ki nga ratonga HR, tono, tuhinga, me nga korero."
+          },
+          {
+            "title": "Te Haerenga me te Whakahaere Whakarerea",
+            "description": "Whakangwarihia te aroturuki i te taenga mai, nga tono waiho, nga nekehanga, me nga haora mahi."
+          },
+          {
+            "title": "Recruitment & Onboarding",
+            "description": "Whakapaihia te utu, te whakahaere kaitono, te whakaurunga, me te whakauru kaimahi."
+          },
+          {
+            "title": "Whakahaere Mahi",
+            "description": "Whakaritehia nga whainga, te whai i nga mahi, me te tautoko i te whakawhanaketanga tonu o nga kaimahi."
+          },
+          {
+            "title": "Ako me te Whanaketanga",
+            "description": "Whakahaerehia nga kaupapa whakangungu, whanaketanga pukenga, me te tipu o nga kaimahi."
+          },
+          {
+            "title": "HR Tātari me te Pūrongo",
+            "description": "Hurihia nga raraunga kaimahi hei tirohanga mahi mo nga whakataunga HR pai ake."
+          },
+          {
+            "title": "AI-Powered HR Aunoatanga",
+            "description": "Whakaaunoa i nga mahi HR tukurua me te tuku tere, wheako kaimahi whaiaro."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Whanaketanga Taupānga",
+        "heading": "To Tatou Ratonga Whanaketanga Taupānga",
+        "sub": "Hangaia nga tono haumaru, whakahiato me te tino mahi e whakatere ai i te tipu o te pakihi me te whakangawari i nga tukanga uaua.",
+        "promoTitle": "Hanga Taupānga Aroha nga Kaiwhakamahi",
+        "promoText": "Mai i te whakaaro ki te whakarewatanga, ka hoahoa to taatau roopu me te whakawhanake i nga tono pūkoro me te paetukutuku kounga teitei.",
+        "items": [
+          {
+            "title": "Whanaketanga Taupānga Ritenga",
+            "description": "Hangaia nga tono kua whakaritea mo o hiahia pakihi ahurei."
+          },
+          {
+            "title": "Whanaketanga Tukutuku & Waea Pukoro",
+            "description": "Whakaorangia nga wheako matihiko puta noa i te paetukutuku, waea pūkoro, me nga taputapu maha."
+          },
+          {
+            "title": "Whakawhanaketanga Taupānga Hinonga",
+            "description": "Whakawhanakehia he otinga tauineine e hono ana ki o punaha pakihi o naianei."
+          },
+          {
+            "title": "Waehere-iti me te Whanaketanga Waehere-kore",
+            "description": "Whakaterehia te tuku tono me nga papahanga whanaketanga tohu-iti ngawari."
+          },
+          {
+            "title": "API me te Whakauru Pūnaha",
+            "description": "Honoa nga tono, papaapapa, me nga punaha-tuatoru mo te rerenga raraunga kore."
+          },
+          {
+            "title": "Te Whakahoutanga Taumahi",
+            "description": "Hurihia nga tono tuku iho ki nga otinga hou, ka taea te tauine me te pai."
+          },
+          {
+            "title": "Nga Taupānga AI-Powered",
+            "description": "Whakauruhia te AI, te mahi aunoa, me nga kaha mohio ki nga tono pakihi."
+          },
+          {
+            "title": "Tautoko Taupānga me te Tiaki",
+            "description": "Whakaritea te mahi tonu, te haumarutanga, te whakahou, me te pono."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Pakihi Aunoatanga",
+    "cloudMigrations": "Hekenga Kapua",
+    "dataCenters": "Pokapū Raraunga",
+    "cognitiveAnalyticsAi": "Nga Taatari Hinengaro & AI",
+    "informationReportingSystems": "Nga Korero me nga Pūnaha Ripoata",
+    "managedServices": "Nga Ratonga Whakahaere",
+    "oneStopSolutions": "Rongoa Kotahi-Tuhinga"
+  },
+  "servicePage": {
+    "serviceOverview": "Tirohanga Ratonga",
+    "whatWeOffer": "He aha ta matou e tuku",
+    "whyChooseRezonants": "He aha i whiriwhiri ai i te Rezonants",
+    "benefitsOfWorking": "Nga painga o te mahi ki a matou\n<",
+    "techStack": "Tāpae Hangarau",
+    "technologiesWeUse": "Nga hangarau e whakamahia ana e matou",
+    "ourWork": "Ta Tatou Mahi",
+    "relatedProjects": "Nga kaupapa e pa ana",
+    "viewCaseStudy": "Tirohia te rangahau take",
+    "readyToDiscuss": "Kua reri ki te matapaki i to kaupapa {{title}}?",
+    "seniorEngineersReady": "Kua reri a maatau miihini matua ki te awhina i a koe ki te whakamahere, ki te hoahoa me te hanga i to otinga.",
+    "startProject": "Tīmatahia tō kaupapa",
+    "howItWorks": "Pehea te Mahi"
+  },
+  "consultation": {
+    "badge": "Tapuhia he Whakawhitiwhiti Koreutu",
+    "title": "Kia Whakamahere Tatou i To Kaupapa <span class='hero-accent'>Tuatahi</span>",
+    "description": "Whakaritea he waea kore here me o maatau kaitohutohu. Matapakihia o hiahia, tirotirohia te huarahi hangarau tika me te whai korero marama - katoa i raro i te 30 meneti.",
+    "bookSlot": "Tuhia to Slot",
+    "howItWorks": "Pehea te Mahi",
+    "accountRequired": "Ka hiahiatia he putea",
+    "signInToBook": "Waitohu ki te tuhi i to korero",
+    "accountRequiredText": "Ka hiahia koe ki tetahi kaute Rezonants hei tono korero. Waitohu mai, waihangahia ranei - he iti iho i te meneti.",
+    "signInToContinue": "Waitohu ki te Haere tonu",
+    "newToRezonants": "Hou ki Rezonants?",
+    "createAccount": "Waihangahia he kaute",
+    "requestMeeting": "Tonoa he Hui",
+    "tellUsAboutProject": "Korero Mai Mo To Kaupapa",
+    "fillDetails": "Whakakiia o korero ka whakamanahia e matou to waahi korero ma te imeera.",
+    "fullName": "Ingoa Katoa *",
+    "email": "Īmēra *\n<",
+    "phone": "Waea *",
+    "company": "Kamupene",
+    "serviceOfInterest": "Ratonga Whakapainga *",
+    "selectService": "Tīpakohia he ratonga…",
+    "preferredDate": "Te Ra Hiahia *",
+    "preferredTime": "Wā Hiahia *",
+    "selectTimeSlot": "Tīpakohia he mokowā wā…",
+    "estimatedBudget": "Putea Whakatau",
+    "selectRange": "Tīpakohia tētahi awhe…",
+    "projectRequirements": "Nga Whakaritenga Kaupapa",
+    "booking": "Rahui…",
+    "bookFreeConsultation": "Pukapuka Taku Whakawhitiwhitinga Koreutu",
+    "freeNote": "100% kore utu me te kore he here. Ka whakautu matou i roto i nga haora 24.",
+    "whatToExpect": "He aha te tumanako",
+    "preferToReachUs": "He pai ake ki te toro atu ki a matou?",
+    "callUs": "Karanga mai",
+    "emailUs": "Īmēra mai",
+    "visitUs": "Haere mai ki a matou",
+    "whyBookWithUs": "He aha te pukapuka ki a matou",
+    "freeCallTitle": "He Waea Koreutu e Awhina Ana",
+    "freeCallNoPressure": "Waea Karekau, Kare he Peke",
+    "freeCallNoPressureText": "He kore utu nga korero tuatahi. Kaore he herenga ki te hoko - he tohutohu pono.",
+    "seniorConsultants": "Nga Kaitohutohu Matua Anake",
+    "seniorConsultantsText": "Ko to hui e arahina ana e nga miihini matua me nga kaitohutohu e hanga whare ana hei oranga.",
+    "clearTimelines": "Maamaa Nga Rarangi Waa me nga Korero",
+    "clearTimelinesText": "Waiho me tetahi taahiraa e whai ake nei, te raarangi tuuturu me te utu marama mo to kaupapa.",
+    "services": {
+      "customSoftware": "Whanaketanga Pūmanawa Ritenga",
+      "webMobile": "Whanaketanga Tukutuku & Waea Pukoro",
+      "cloudDevops": "Kapua & DevOps Solutions",
+      "aiMl": "AI me te Ako Miihini",
+      "itConsulting": "IT Consulting",
+      "digitalMarketing": "Mamati Mamati & SEO",
+      "erpSolutions": "Nga Whakataunga ERP",
+      "other": "Ētahi atu / Kaore ano kia tino mohio"
+    },
+    "budgets": {
+      "under1L": "I raro i te ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Kaore ano kia whakatauhia"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Kia mohio ki o whainga",
+        "text": "Ka whakarongo tuatahi. He waea 30-meneti ki te mahere i o hiahia pakihi, te hunga whakarongo me nga hua e hiahiatia ana."
+      },
+      "technicalDirection": {
+        "title": "Tikina te huarahi hangarau",
+        "text": "Ka tohatohahia e a maatau miihini te hoahoanga tika, te puranga me te huarahi mo to kaupapa."
+      },
+      "clearQuote": {
+        "title": "Whiwhi i tetahi korero marama",
+        "text": "Haere atu me te whakatau tata, te rarangi wa me nga mahi ka whai ake - kaore he here."
+      }
+    },
+    "validation": {
+      "nameRequired": "Me te ingoa katoa.",
+      "emailRequired": "Me īmera.",
+      "emailInvalid": "Whakauruhia he imeera whaimana.",
+      "phoneRequired": "Me tau waea.",
+      "phoneInvalid": "Whakauruhia he nama waea whaimana.",
+      "serviceRequired": "Kōwhiria he ratonga.",
+      "dateRequired": "Whiriwhiria he ra pai.",
+      "timeRequired": "Whiriwhiria he mokamoka wa pai.",
+      "messageTooShort": "Taapirihia etahi atu taipitopito (kia 10 nga tohu).",
+      "signInRequired": "Tena koa haina ki te tuhi i to korero.",
+      "couldNotBook": "Kaore i taea te tuhi i to korero. Tirohia kei te noho tonu te ripanga korero, ka ngana ano.",
+      "bookedSuccess": "Kua tohua te whiriwhiringa! Ka whakaūhia e ta maatau roopu to waahi wa ma te imeera."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Nau Mai Hoki Mai",
+    "createAccount": "Waihanga Pūkete",
+    "forgotPassword": "Wareware Kupuhipa",
+    "createNewPassword": "Waihanga Kupuhipa Hou",
+    "welcomeBackDesc": "Waitohu ki tō pūkete Rezonants.",
+    "createAccountDesc": "Hono atu ki Rezonants i tenei ra.",
+    "forgotDesc": "Whakauruhia to imeera ka tukuna atu he hononga ki a koe hei tautuhi i to kupuhipa.",
+    "recoveryDesc": "Kōwhiria he kupuhipa hōu kaha mō tō pūkete.",
+    "fullName": "Ingoa Katoa\n<",
+    "email": "Īmēra",
+    "password": "Kupuhipa",
+    "newPassword": "Kupuhipa Hou",
+    "confirmPassword": "Whakaū Kupuhipa",
+    "confirmNewPassword": "Whakaū Kupuhipa Hou",
+    "forgotPasswordLink": "Kua wareware ki te kupuhipa?",
+    "privacyPolicy": "Ka whakaae ahau ki te Rezonants <1>Privacy & Security</1> kaupapa here.",
+    "sendResetLink": "Tukua Hononga Tautuhi\n<",
+    "signIn": "Waitohu Mai",
+    "signUp": "Waitohu",
+    "pleaseWait": "Taria koa...",
+    "rememberedPassword": "I mahara koe ki to kupu huna?",
+    "signInLink": "Waitohu",
+    "noAccount": "Karekau he kaute?",
+    "signUpLink": "Waitohu",
+    "hasAccount": "He pūkete kē?",
+    "changedMind": "I huri to whakaaro?",
+    "backToSignIn": "Hoki ki te haina",
+    "resetSent": "Kua tukuna he hononga tautuhi kupuhipa! Tirohia to imeera ki te hanga kupuhipa hou.",
+    "passwordUpdated": "Kua whakahoutia to kupuhipa. Waitohu me to kupuhipa hou.",
+    "accountCreated": "Kua hangaia he kaute! Tirohia to imeera hei whakaū i to hainatanga, katahi ka haina.",
+    "validation": {
+      "fullNameRequired": "Me te ingoa katoa.",
+      "emailRequired": "Me īmera.",
+      "emailInvalid": "Whakauruhia he imeera whaimana.",
+      "passwordRequired": "Me hiahia te kupuhipa.",
+      "passwordMinLength": "Me 6 te iti rawa o te kupuhipa.",
+      "passwordsNoMatch": "Karekau nga kupuhipa e taurite.",
+      "acceptTerms": "Tena koa whakaaehia te Rezonants Privacy Policy me te Kaupapahere Haumarutanga kia haere tonu."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Kōrerorero me Rezonants AI",
+    "openChatLabel": "Whakatuwheratia te Rezonants AI Assistant chat",
+    "chatTitle": "Rezonants AI Kaiāwhina\n<",
+    "online": "Ipurangi",
+    "expandLabel": "Whakaroha te chatbot",
+    "minimizeLabel": "Whakaitihia te chatbot",
+    "closeLabel": "Katia te chatbot",
+    "expand": "Roha",
+    "minimize": "Whakaiti",
+    "close": "Katia",
+    "popularTopics": "Nga kaupapa rongonui",
+    "askPlaceholder": "Uia mai ahau mo Rezonants...",
+    "messageLabel": "Karere atu ki te Kaiawhina AI Rezonants",
+    "sendLabel": "Tuku karere",
+    "sendTitle": "Tuku karere",
+    "enterToSend": "Tomo ki te tuku · Shift+Enter mo te raina hou\n<",
+    "newChat": "Kōrerorero hou",
+    "typing": "Kei te patopato a Rezonants AI",
+    "menuOptions": "Kōwhiringa tahua",
+    "greetingMorning": "Kia ora",
+    "greetingAfternoon": "Kia pai te ahiahi",
+    "greetingEvening": "Kia pai te ahiahi",
+    "welcomeText": "! 👋 Nau mai ki Rezonants.\nKo ahau te Kaiawhina AI Rezonants. Ka taea e au te awhina i a koe ki te tirotiro i a maatau ratonga, hangarau, me nga korero whakapā."
+  },
+  "cookieConsent": {
+    "title": "Ka whakanuia e matou to noho muna",
+    "description": "Ka whakamahi matou i nga pihikete hei whakapai ake i to wheako tirotiro. Ka taea e koe te whakaae ki nga pihikete katoa, te whakakore i nga pihikete kore-tino, te whakarite ranei i o hiahia. Ko nga pihikete matua ka whakaahei i nga wa katoa kia pai ai te mahi o te paetukutuku.",
+    "acceptAll": "Whakaae Katoa",
+    "rejectNonEssential": "Whakakahore i te Mea Tino",
+    "managePreferences": "Whakahaere Manakohanga",
+    "privacyPolicy": "Kaupapahere Tūmataiti"
+  },
+  "cookiePreferences": {
+    "title": "Whakahaere Manakohanga Pihikete",
+    "description": "Kōwhirihia ko ēhea kāwai pihikete ka whakaaetia e koe. Ka noho tonu nga pihikete tino kaha ki te pupuri i te mahi a te paetukutuku.",
+    "essential": "Mea faufaa",
+    "essentialDesc": "E hiahiatia ana mo te mahi a te paetukutuku (motuhēhēnga, haumarutanga, whakatauritenga kawenga). Kaore e taea te mono i enei.",
+    "analytics": "Nga tātaritanga",
+    "analyticsDesc": "Awhina mai kia mohio matou ki te whakamahi a nga manuhiri i te pae kia pai ake ai. Kua monoa e te taunoa.",
+    "marketing": "Te hokohoko",
+    "marketingDesc": "I whakamahia hei whakaatu ki a koe nga tuku me nga kaupapa whakatairanga. Kua monoa e te taunoa.",
+    "cancel": "Whakakore",
+    "savePreferences": "Tiaki Manakohanga"
+  },
+  "privacy": {
+    "badge": "Ture",
+    "title": "Kaupapahere Tūmataiti",
+    "description": "Me pehea a Rezonants ki te kohikohi, ki te whakamahi, ki te tiaki i o korero whaiaro me nga pihikete.",
+    "lastUpdated": "Whakahoutanga whakamutunga: Akuhata 2026",
+    "managingPreferences": "Te whakahaere i o hiahia",
+    "managingPreferencesDesc": "Ka taea e koe te arotake, te whakarereke ranei i nga pihikete ka whakaaetia e koe i nga wa katoa mai i te paewhiri manakohanga pihikete.",
+    "manageCookiePreferences": "Whakahaere Manakohanga Pihikete",
+    "section1": {
+      "title": "1. Nga korero ka kohia e matou",
+      "body": [
+        "Ka kohikohia e matou nga korero ka tukuna tika e koe (penei i to ingoa me to wahitau imeera ina tuku koe i te puka whakapā, ka hanga kaute ranei) me nga korero ka kohia aunoa ma nga pihikete me nga hangarau rite, penei i nga wharangi kua tirohia, momo taputapu me te waahi tata."
+      ]
+    },
+    "section2": {
+      "title": "2. Me pehea te Whakamahi Pihikete",
+      "body": [
+        "Ka whakahohea nga pihikete matua i nga wa katoa na te mea kaore e taea e te paetukutuku te mahi tika me te kore. Ka penapenahia e ratou te waahi me te motuhēhēnga o te waahi ka maumahara ki o hiahia pihikete.",
+        "Ka awhina nga pihikete tātaritanga ki te mohio me pehea te whakamahi a nga manuhiri i te papanga kia pai ake ai. Ka whakamahia nga pihikete hokohoko hei whakaatu ki a koe nga tuku me nga kaupapa whakatairanga. Ka taea noa enei waahanga me to whakaaetanga ka taea te whakarereke i nga wa katoa mai i te paewhiri manakohanga pihikete."
+      ]
+    },
+    "section3": {
+      "title": "3. Kaupapa Ture (GDPR)",
+      "body": [
+        "Ka tukatukahia e matou nga raraunga whaiaro i runga i nga turanga ture e whai ake nei: to whakaaetanga (mo nga pihikete me te hokohoko kore-tino), te mahi o te kirimana (mo nga ratonga e tono ana koe), te herenga ture, me nga paanga tika kaore e taea e o tika te whakakore. Ka taea e koe te tango whakaaetanga i nga wa katoa me te kore e pa ki te tika o te tukatuka i mahia i mua i te tangohanga."
+      ]
+    },
+    "section4": {
+      "title": "4. To Tika",
+      "body": [
+        "I runga i to waahi, ka whai mana pea koe ki te uru, ki te whakatika, ki te whakakore, ki te aukati ranei i te tukatuka o o raraunga whaiaro, ki te whakahē ki te tukatuka, ki te kawe raraunga. Ka taea ano e koe te tuku amuamu ki to mana whakahaere o to rohe."
+      ]
+    },
+    "section5": {
+      "title": "5. Pupuri Raraunga me te Haumarutanga",
+      "body": [
+        "Ka pupuri matou i nga raraunga whaiaro i te wa e tika ana mo nga kaupapa e whakaahuatia ana i roto i tenei kaupapa here. Ka whakamahia e matou nga tikanga hangarau me te whakahaere tika hei tiaki i o korero mai i te urunga kore mana, whakarereketanga, whakakitenga, whakangaro ranei."
+      ]
+    },
+    "section6": {
+      "title": "6. Ratonga Tuatoru",
+      "body": [
+        "Ko etahi pihikete ka whakaritea pea e nga kaiwhakarato tuatoru (penei i nga tātaritanga, i nga papaa panui ranei) hei awhina ia matou ki te whakahaere i te paetukutuku. Ka tukatukahia e enei kaiwhakarato nga raraunga i raro i a raatau ake kaupapa here tūmataiti me te wa anake kua whakaae koe ki te waahanga e tika ana."
+      ]
+    },
+    "contactUs": "7. Whakapā mai",
+    "contactUsText": "Mo nga patai mo tenei kaupapa here me o raraunga whaiaro, whakapaa mai ki a matou i <1>info@rezonants.com</1> waea mai ranei <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Ratonga",
+    "title": "A matou Ratonga",
+    "sub": "Nga otinga hangarau mutunga-ki-mutunga i hangaia hei awhina i nga pakihi ki te hanga hou, ki te tauine me te angitu.",
+    "learnMore": "Ako Anō",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Te timatanga ki te tuku",
+        "text": "Mai i te ariā tuatahi ki te whakaputanga whakangao, ka tukuna e matou he otinga tauineine i hangaia mo nga hiahia pakihi o te ao."
+      },
+      "businessProcessAutomation": {
+        "title": "Ahumahi Tukatuka Pakihi",
+        "text": "Whakapaipai i nga tukanga tukurua me te whakapai ake i te pai o te whakahaere ma te miihini umanga mohio."
+      },
+      "centerOfExcellence": {
+        "title": "Pokapū Kairangi",
+        "text": "Hangaia nga pukenga hangarau motuhake me nga tohungatanga ki te akiaki i te auahatanga, te kounga me te whakapai tonu."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Whanaketanga Ritenga me te Whakaritenga",
+        "text": "Ko nga otinga rorohiko kua whakaritea mo o hiahia pakihi ahurei me o rerenga mahi."
+      },
+      "digitalTransformation": {
+        "title": "Huringa Mamati",
+        "text": "Whakahouhia to pakihi me nga rautaki matihiko, nga hangarau, me nga otinga ka puta te paanga ine."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Anga Whakataunga Whakamutunga-ki-Whakamutunga",
+        "text": "Nga rongoā hangarau whakauru e hono ana i te rautaki, te whanaketanga, te whakatinanatanga, me nga mahi tonu."
+      },
+      "migrationModernization": {
+        "title": "Heke me te Whakahoutanga",
+        "text": "Whakahoutia nga tono tuku iho me te heke i nga punaha ki nga papahanga hangarau e taea te tauine, te haumaru, me te pai."
+      },
+      "pocPilotImplementation": {
+        "title": "Tohu o te Ariā (PoC) & Whakamahinga Pilot",
+        "text": "Kia tere te whakamana i nga whakaaro ma roto i nga tauira e arotahi ana me nga whakatinanatanga pairati i mua i te tukunga-katoa."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Nga Ratonga Tiriri me nga Mahi Whakahaere",
+        "text": "Nga mahi hangarau whakahaere pono e whakapai ake ana i te mahi, te tauine, me te haere tonu o te pakihi."
+      }
+    }
+  },
+  "footer": {
+    "company": "Kamupene",
+    "about": "Mō",
+    "perspectives": "Tirohanga",
+    "technologies": "Hangarau",
+    "contact": "Whakapā",
+    "services": "Ratonga",
+    "getInTouch": "Whakapa atu\n<",
+    "bookConsultation": "Tuhia he korerorero",
+    "copyright": "© {{year}} Rezonants. Katoa nga mana.",
+    "cookiePreferences": "Manakohanga Pihikete",
+    "privacyPolicy": "Kaupapahere Tūmataiti",
+    "description": "Ko Rezonants he kamupene ratonga IT me nga hua mamati kei Hyderabad, Inia. Ka hoahoa, ka hanga me te tauine i nga rorohiko mo nga kamupene e whakataetae ana ki te mahi.",
+    "locations": "O Tatou Wahi",
+    "indiaHq": "Hyderabad, Inia — India Headquarters",
+    "southAfrica": "Awherika ki te Tonga — REZONANTS PVT LTD",
+    "products": "Hua",
+    "followUs": "Whaia matou",
+    "aboutUs": "Mo Tatou",
+    "contactUs": "Whakapā mai",
+    "headline": "Kia hanga tatou",
+    "headlineAccent": "he aha kei muri.",
+    "subheadline": "Mahi tahi me Rezonants ki te huri i nga whakaaro ki te paanga pakihi pono.",
+    "credoIdeas": "WHAKAARO\n<",
+    "credoSolutions": "WHAKAARO",
+    "credoPeople": "TANGATA",
+    "credoBrighterTomorrow": "HE KAMARANGA Apopo",
+    "hyderabadLocation": "Hyderabad, Inia",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Awherika ki te Tonga – REZONANTS PVT LTD",
+    "termsOfUse": "Nga Ture Whakamahi",
+    "accessibility": "Te Urunga",
+    "quickLinks": "Hononga Tere",
+    "explore": "Torotoro",
+    "vijayawadaOffice": "Tari Vijayawada",
+    "allRightsReserved": "Pūmau te mana.",
+    "hyderabadPin": "Hyderabad, Inia",
+    "southAfricaPin": "Āwherika ki te Tonga"
+  },
+  "common": {
+    "loading": "Uta ana...",
+    "error": "Hapa",
+    "retry": "Ngana ano",
+    "close": "Katia",
+    "backToTop": "Hoki ki runga",
+    "skipToContent": "Tīpoka ki te ihirangi",
+    "scroll": "Panuku",
+    "whatWeOffer": "He aha ta matou e tuku",
+    "howItWorks": "Pehea te Mahi"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Rapu whenua, waehere ranei...",
+    "noResults": "Kaore he whenua i kitea.",
+    "countryCodeLabel": "Waehere waea whenua",
+    "required": "Me tau waea.",
+    "incomplete": "Me {{count}} nga mati o te nama waea.",
+    "tooLong": "Ko te nama waea kaua e nui ake i te {{count}} mati.",
+    "invalid": "Whakauruhia he nama waea whaimana mo {{country}}.\n<"
+  },
+  "perspectives": {
+    "topic": "Kaupapa:",
+    "published": "Whakaputaina:",
+    "readingTime": "Wā Pānui:",
+    "author": "Kaituhi:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Rohe Hangarau",
+    "purpose": "Te kaupapa",
+    "talkToExperts": "Korero ki o Tatou Tohunga",
+    "viewAll": "Tirohia nga Tirohanga Katoa\n<",
+    "exploreMore": "HANGA ATU ATU ATU",
+    "continueExploring": "Tonu Te Tirotiro Hangarau Hangarau Hangarau",
+    "readPerspective": "Panui Tirohanga"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotics Solutions",
+      "tagline": "Hangarau Maramarama. Nga Mahi Aunoa. Pakihi Maamaa.",
+      "heroBadge": "Nga Pūnaha Motuhake Motuhake",
+      "overview": [
+        "Kei te huri te Maramatanga Artificial me te Robotics i te mahi a nga whakahaere, te whakatau whakatau me te whakaputa uara. Ko a maatau otinga AI me nga Robotics ka awhina i nga pakihi ki te neke atu i te aunoatanga tuku iho ma te whakakotahi i te mohiotanga horihori, te ako miihini, te tirohanga rorohiko, te mahi aunoatanga mohio, me nga karetao ki te whakaoti i nga wero pakihi.",
+        "Ka hoahoa matou i nga otinga mohio mo nga hua pakihi ka taea te ine. Ahakoa ko te hiahia ko te whakaaunoa i nga mahi tukurua, te wetewete i te nui o nga korero, te kimi tauira, te tautoko i nga whakatau, te whakauru karetao ki roto i nga taiao whakahaere, ko ta matou huarahi e aro ana ki te pono, te tauine, te haumaru, me te uara pakihi mo te wa roa."
+      ],
+      "transformation": [
+        "Ko nga whakahaere hou e whakaputa ana i te nui o nga raraunga me te mahi i nga mano tini mahi tukurua ia ra. Ka taea e AI me nga karetao te huri i enei mahi ki roto i nga rerenga mahi mohio, aunoa hei whakapai ake i te hua i te wa e tuku ana nga kaimahi ki te aro ki nga kawenga utu nui ake.",
+        "Ka taea e a maatau otinga te awhina i nga whakahaere ki te whakaaunoa i nga mahi tukurua, te whakaiti i te wawaotanga a-ringa, te whakapai ake i te tika, te tātari i nga korero uaua, te tautoko i nga whakatau tere, te arotau i te whakamahi rawa, te whakarei ake i nga wheako o nga kaihoko, me te hanga i nga punaha mohio."
+      ],
+      "capabilities": [
+        {
+          "title": "Maramatanga Artificial",
+          "desc": "Ka whakawhanakehia e matou he otinga a-AI e taea ai e nga punaha te mohio ki nga korero, te tautuhi i nga tauira, te whakaputa whakaaro, me te tautoko i nga whakataunga pakihi."
+        },
+        {
+          "title": "Ako Miihini",
+          "desc": "Ka whakawhanakehia e matou he tauira ako miihini mo te matapae, te whakarōpūtanga, nga punaha tohutohu, te rapunga kohihiko, te tātari matapae, me te tautoko whakatau mohio."
+        },
+        {
+          "title": "Tukatuka Reo Maori",
+          "desc": "Ka taea te whakamahi i te NLP ki te tukatuka i nga tuhinga, ki te mohio ki nga tuhinga, ki te whakarōpū i nga korero, ki te tango i nga mea e tika ana, me te tautoko i nga tono korero."
+        },
+        {
+          "title": "Matakite Rorohiko",
+          "desc": "Ka taea e nga otinga matakite rorohiko te tautoko i te whakarōpū whakaahua, te kitenga ahanoa, te tirotiro kounga, te tukatuka tuhinga, te aro turuki tirohanga, me te tātari ataata."
+        },
+        {
+          "title": "Karetao",
+          "desc": "Ka whakakotahihia e te Robotics te matauranga rorohiko me nga punaha tinana hei whakaaunoa i nga mahi e hiahia ana ki te mahi a-ringa. Ka taea e nga tono te whakauru i nga mahi hangahanga, logistics, whare putunga, tirotiro, whakahaere rawa, me te tautoko mahi."
+        },
+        {
+          "title": "Maramatanga Tukatuka Aunoatanga",
+          "desc": "Ka taea te whakakotahi a AI me te aunoatanga rerengamahi ki te hanga i nga punaha hei whakamaori i nga korero, te whakamahi i nga ture pakihi, i nga tauira ranei, me te timata aunoa i te tukanga e tika ana."
+        }
+      ],
+      "lifecycleSteps": [
+        "Aromatawai Pakihi",
+        "Te Raraunga Raraunga",
+        "Rautaki AI\n<",
+        "Otinga Hanganga",
+        "Whanaketanga",
+        "Whakauru",
+        "Whakamatau",
+        "Tukuna",
+        "Aroturuki",
+        "Arotautanga"
+      ],
+      "benefits": [
+        "He nui ake te hua o te whakahaere hinonga",
+        "He nui te whakahekenga o nga utu whakahaere",
+        "He tere ake te tukatuka me te hurihanga whakatau mirimitakona",
+        "Kua pai ake te raraunga me te tika rerengamahi",
+        "Kua arotauhia te whakamahi rauemi tinana me te rorohiko",
+        "Kua whakahekehia nga raruraru whakahaere me te hapa tangata",
+        "Te whakahiato papa-maha",
+        "Nga wheako kaihoko me nga kaimahi kua whakarei ake"
+      ],
+      "security": "Ko nga otinga hinonga AI me hoahoa me te haumarutanga tika, te mana uru, te whakamarumaru raraunga, te aro turuki, te whakahaere tauira, me nga whakamarumaru mahi. Ka whakaarohia e matou enei whakaritenga mai i te waahanga hoahoanga na roto i te tukunga me te tiaki haere tonu hei whakarite kia pono, kia mohio ai ki te whakaputa.",
+      "ctaHeadline": "Hangaia he Ake Maramarama",
+      "ctaSub": "Kia pai ake o mahi. Whakaaunoa i nga mea nui. Hanga mo te heke mai."
+    },
+    "business-automation-solutions": {
+      "title": "Nga Whakataunga Aunoa Pakihi",
+      "tagline": "Whakamaamaa Nga Tukatuka. Whakakorehia te Tukurua. Whakatere Tipu.",
+      "heroBadge": "Whakamutunga-ki-Whakamutunga Arotautanga Rerengamahi",
+      "overview": [
+        "Ka taea e te aunoatanga pakihi nga whakahaere ki te whakakapi i nga mahi a-ringa tukurua ki nga rerengamahi matihiko ngawari. Ko a maatau otinga aunoatanga pakihi ka awhina i nga kamupene ki te whakapai ake i te hua, te whakaiti i te uaua o te whakahaere, te whakaiti i nga hapa, me te hanga i nga tikanga rite puta noa i nga tari.",
+        "Ka wetewetehia e matou nga rerengamahi o naianei, ka tautuhi i nga kohungahunga, ka hoahoa i nga otinga aunoatanga e hono ana i nga tangata, nga tono, nga raraunga, me nga tikanga pakihi."
+      ],
+      "transformation": [
+        "He maha nga whakahaere kei te whakawhirinaki tonu ki nga ripanga, imeera, whakaaetanga a-ringa, whakauru raraunga tukurua, whakahaere tuhinga, me nga tono momotu. Ka pau i enei tukanga te wa nui o nga kaimahi, ka taea te whakauru i nga whakaroa, nga taupatupatu, me nga hapa.",
+        "Ko ta matou huarahi aunoatanga e aro ana ki te mohio ki nga mahi katoa, ki te tango i nga hikoinga koretake, ki te whakauru i nga punaha, me te whakaaunoa i nga mahi e whakarato ana i te uara whakahaere nui rawa atu."
+      ],
+      "capabilities": [
+        {
+          "title": "Reremahi Aunoatanga",
+          "desc": "Ka whakaaunoa matou i nga tukanga maha-taahiraa e pa ana ki nga kaimahi, nga tono, nga whakaaetanga, nga whakamohiotanga, me nga raraunga puta noa i nga tari rereke."
+        },
+        {
+          "title": "Te Tukatuka Robotic",
+          "desc": "Ka taea e nga karetao rorohiko te mahi i nga mahi tukurua, i runga i nga ture penei i te urunga raraunga, nga whakahou punaha, te houhanga rongo, me te whakawhiti korero."
+        },
+        {
+          "title": "Te Aunoatanga Tuhinga",
+          "desc": "Ka taea e nga rerengamahi tuhinga aunoa te tango korero, te whakamana raraunga, te whakarōpū i nga tuhinga, nga tono huarahi, me te timata i nga tikanga whakararo."
+        },
+        {
+          "title": "Whakaaetanga Aunoatanga",
+          "desc": "Ko nga rerengamahi whakaaetanga mamati ka arai aunoa i nga tono ki nga kai-whakatau tika, me te whakaatu i nga wa-pono ki nga mahi e tatari ana."
+        },
+        {
+          "title": "Whakauru Aunoatanga",
+          "desc": "Ka honoa e matou nga tono pakihi kia taea te neke aunoa nga korero i waenga i nga papaahi me te kore e wawao a-ringa."
+        },
+        {
+          "title": "Aunoatanga Whakamōhiotanga",
+          "desc": "Ko nga matohi me nga whakamohiotanga aunoa ka awhina i nga kaimahi ki te whakautu wawe ki nga huihuinga nui, nga wa kati, nga waahanga me nga huringa whakahaere."
+        }
+      ],
+      "lifecycleSteps": [
+        "Tirohia",
+        "Tātarihia",
+        "Hoahoa",
+        "Aunoa",
+        "Whakauru",
+        "Whakamatau",
+        "Hoatuhia",
+        "Aroturuki",
+        "Arotau"
+      ],
+      "benefits": [
+        "Kua piki ake te mahi a te roopu me te tere whakahaere",
+        "Te whakaiti nui i nga hapa whakaurunga raraunga a-ringa",
+        "Kua whakapotohia nga wa hurihanga mutunga-ki-mutunga",
+        "Te tirohanga kotahi puta noa i nga mahi pakihi",
+        "Whakatauritehia nga hanganga ture whakawhiti-taringa",
+        "I tino whakahekehia nga whakapaunga whakahaere",
+        "Te kaha rapa ki te whakatau i nga kawenga mahi ma te ngawari",
+        "Ko nga roopu kua whakamanahia i aro ki te mahi a nga kaihoko me nga mahi rautaki"
+      ],
+      "security": "Ka whakakotahihia e matou nga papaaho rerengamahi me te RPA me nga tauira mohio ki te horopaki hei whakarite i te mana uru ki runga i nga mahi, nga huarahi arotake matawhānui, me te tino tautukunga puta noa i ia tauwhitinga aunoa.",
+      "ctaHeadline": "Hangaia nga Mahi Pai ake",
+      "ctaSub": "Whakaaunoa i te mahi tukurua. Whakakahangia to iwi. Whakaterehia to pakihi."
+    },
+    "cloud-migration-solutions": {
+      "title": "Rongoa Hekenga Kapua",
+      "tagline": "Neke ki te Kapua me te Maia.",
+      "heroBadge": "Huringa Kapua-maha",
+      "overview": [
+        "Kua noho te rorohiko kapua hei waahanga nui o te hanganga IT hou. Kei te nukuhia e nga whakahaere nga tono, nga papaa raraunga, nga taumahatanga mahi, me nga hanganga ki nga taiao kapua hei whakapai ake i te tauineine, te waatea, te ngawari, me te pai o te whakahaere.",
+        "Ko a maatau ratonga heke kapua ka awhina i nga whakahaere ki te aromatawai i o raatau taiao o naianei, ki te tautuhi i nga rautaki heke, ki te whakahaere i nga hekenga, me te arotau i nga kawenga mahi i muri i to ratou neke ki te kapua."
+      ],
+      "transformation": [
+        "He nui ake te hekenga kapua i te neke i nga tūmau mai i tetahi taiao ki tetahi. Ko te hekenga angitu me tino aromatawai i nga tono, nga hanganga, nga whakawhirinakitanga, nga whakaritenga haumarutanga, nga raraunga, nga mahi, te waatea, me te haere tonu o te pakihi.",
+        "Ka hangaia e matou nga rautaki heke i runga i te taiao o te whakahaere o naianei me nga whaainga a meake nei, me te whiriwhiri i te tauira hekenga tika mo ia kawenga mahi."
+      ],
+      "capabilities": [
+        {
+          "title": "Hekenga Hanganga",
+          "desc": "Ka heke matou i nga tūmau tuku iho, te rokiroki, nga miihini mariko, me nga kawenga mahi ki nga taiao kapua hou i runga i te AWS, Azure, me te GCP."
+        },
+        {
+          "title": "Taupānga Hekenga",
+          "desc": "Ka taea te whakahou, te whakahou, te whakahou, te hoahoa ranei i nga tono i runga i nga whakaritenga pakihi me te hangarau."
+        },
+        {
+          "title": "Hekenga Raraunga Raraunga",
+          "desc": "Ka heke matou i nga papaunga raraunga i te wa e whakaaro ana matou ki te pono o te raraunga, te mahi, te hototahi, te waatea, te haumaru, me nga whakaritenga whakaora."
+        },
+        {
+          "title": "Whakahou Kapua",
+          "desc": "Ka whai waahi te heke ki te whakahou i nga tono ma te whakamahi i nga ipu, ratonga moroiti, papaa raraunga whakahaere, ratonga kore-tumau, me nga hoahoanga-kapua."
+        },
+        {
+          "title": "Kapua Ranu",
+          "desc": "Ka taea e nga whakahaere e hiahia ana ki te whare me nga hanganga kapua te tango i nga hoahoanga ranu e hono pai ai nga punaha o mua me nga ratonga kapua."
+        },
+        {
+          "title": "Kapua-maha",
+          "desc": "Mo nga whakahaere e mahi ana puta noa i nga papaaho kapua maha, ka awhina matou ki te hoahoa i nga rautaki kawenga mahi hei whakapai ake i te ngawari, te kaha, me te mana whakahaere."
+        }
+      ],
+      "lifecycleSteps": [
+        "Aromatawai",
+        "Te kitenga",
+        "Mahere Whakawhirinaki",
+        "Rautaki Heke",
+        "Hoahoa Hoahoa",
+        "Hekenga Pairati",
+        "Hekenga Raraunga",
+        "Taupānga Hekenga",
+        "Whakamatau",
+        "Hekenga Whakaputa",
+        "Arotautanga"
+      ],
+      "benefits": [
+        "Whakanuia rapa me te nui o nga rawa e waatea ana",
+        "He pai ake te hangahanga me te ngawari o te pakihi",
+        "Kua whakakorehia te taumahatanga tiaki pokapū raraunga tinana",
+        "Whakaterehia te waahanga tono tono",
+        "He kaha te whakaora i te aituā me te whakaahuru",
+        "Te uru wawe ki te kapua AI hou me nga ratonga whakahaere",
+        "Te mana whakahaere FinOps me te whakahekenga TCO",
+        "Te hanganga ture tonu me nga arai haumaru aunoa"
+      ],
+      "security": "Ko te haumarutanga tetahi waahanga nui o te whakamahere hekenga. Ka whakaarohia e matou te tuakiri me te whakahaere uru, te haumarutanga whatunga, te whakamunatanga i roto i te whakawhiti me te okiokinga, te whakamarumaru raraunga, te arotake whakaraeraetanga tono, te aro turuki, te taapiri, me te whakaora i nga aitua.",
+      "ctaHeadline": "To Haerenga Kapua, Kua Whakaritea Tika",
+      "ctaSub": "Whakahouhia to hanganga. Whakatere i te auahatanga. Hangaia he turanga kapua tauineine.\n<"
+    },
+    "data-center-solutions": {
+      "title": "Rongoa Pokapū Raraunga",
+      "tagline": "Nga Hanganga Whakapono mo nga Mahi Miihana-Kiwa.",
+      "heroBadge": "Nga Hanganga-Miihana",
+      "overview": [
+        "Ko nga pokapū raraunga te turanga o nga pakihi mamati hou. Ko nga tono, nga papaunga raraunga, nga punaha hinonga, nga papaa korero, me nga ratonga pakihi nui e whakawhirinaki ana ki nga hanganga pono.",
+        "Ko o matou otinga pokapū raraunga e arotahi ana ki te hoahoa, ki te whakahou, ki te whakahaere me te arotau i nga taiao hanganga i hangaia mo te waatea, te haumaru, te tauine, te mahi me te pai o te whakahaere."
+      ],
+      "transformation": [
+        "Ko te pokapū raraunga hou me nui ake i nga kaitoro me te rokiroki. Me ata hangai nga hanganga puta noa i te rorohiko, te whatunga, te haumarutanga, te hiko, te whakamatao, te aro turuki, te taapiri, me te whakaora i nga aitua.",
+        "Ka awhina matou i nga whakahaere ki te hanga i nga taiao hanganga kaha e tautoko ana i nga taumahatanga mahi nui, me te whakarato turanga mo te tipu o te hangarau a meake nei."
+      ],
+      "capabilities": [
+        {
+          "title": "Hoahoa Hanganga",
+          "desc": "Ka hoahoa matou i nga taiao i runga i nga whakaritenga kawenga mahi, te kaha, te mahi, te waatea, te haumarutanga, me te tipu a meake nei."
+        },
+        {
+          "title": "Hanganga Tūmau",
+          "desc": "Ka tautoko matou i nga taiao tūmau tinana me te mariko mo nga tono hinonga me nga kawenga mahi.\n<"
+        },
+        {
+          "title": "Rongoa Rokiroki",
+          "desc": "Ka whakaarohia e matou te mahinga, te kaha, te taapiri, te SAN/NAS tere-tere, te taapiri, me nga whakaritenga whakamarumaru raraunga i te wa e hoahoa ana i nga taiao rokiroki."
+        },
+        {
+          "title": "Hanganga Whatunga",
+          "desc": "Ka hoahoa matou i nga taiao whatunga me te waahanga tika, te taapiri, te mahi iti-roa, te honohono, me nga mana haumaru."
+        },
+        {
+          "title": "Mariko",
+          "desc": "Ko te Marikotanga te whakapai ake i te whakamahinga rawa, te ngawari o te mahi, me te whakahaerenga hanganga matua."
+        },
+        {
+          "title": "Whakaora me te Whakaora",
+          "desc": "Ka awhina matou i nga whakahaere ki te whakarite rautaki taapiri me nga hoahoanga whakaora i hangaia hei whakaiti i te wa heke me te whakakore i te ngaronga raraunga."
+        }
+      ],
+      "lifecycleSteps": [
+        "Aromatawai Raukaha",
+        "Te Mahi Mahi",
+        "Mahere Hangahanga",
+        "Pūmārō me te Rahi Mariko",
+        "Waahanga Whatunga",
+        "Whakaritenga Rokiroki",
+        "Whakamaaramatanga me te DR",
+        "Tapahanga Whakaputa",
+        "24/7 Aroturuki Hauora",
+        "Arotautanga Tonu"
+      ],
+      "benefits": [
+        "Kua whakamanahia 99.999% te wa mahi hanganga",
+        "Kore nga tohu kotahi o te rahunga me te maha o nga paparanga taapiri",
+        "Whakatairanga tūmau kua arotau me te mariko teitei",
+        "Nga hoahoanga whatunga iti-mirihakona iti",
+        "Te haumarutanga paenga tinana me te matihiko",
+        "Te aro turuki i nga mahi me nga rahunga aunoa",
+        "Te putunga tauine ka taea mo te raraunga tauine-petabyte",
+        "Te utu matapae mo te mana rangatira me te kaha o te hiko"
+      ],
+      "security": "Kua tuituia te Haumarutanga puta noa i te paparanga hanganga, e kapi ana i te wehenga moroiti o te whatunga, te pakiaka-o-whakawhirinaki taputapu, te mana uru kore-whirinaki, te arotake whakaraeraetanga tonu, te aukati mutunga, me nga kaupapa here whakahaere.",
+      "ctaHeadline": "Nga Hanganga Kua Reri Ake",
+      "ctaSub": "Hangaia nga hanganga pono i tenei ra. Hangaia te turanga mo te hangarau apopo."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Nga Taatari Hinengaro & AI",
+      "tagline": "Hurihia te Raraunga hei Maramatanga.",
+      "heroBadge": "Raraunga-ki-Whakatau Maramatanga",
+      "overview": [
+        "He nui nga korero ka mahia e nga whakahaere ma nga tono, whakawhitinga, kaihoko, mahi, taputapu, me nga papaaho mamati. Ko te wero ehara i te kohi raraunga noa; ko te maarama ki taua raraunga me te huri ki te maaramatanga mahi.",
+        "Ko a maatau Whakaaetanga Tohunga me nga otinga AI e whakakotahi ana i nga tātaritanga matatau, te ako miihini, te mohio horihori, te tukatuka raraunga, me te mohio pakihi hei awhina i nga whakahaere ki te whakatau pai ake."
+      ],
+      "transformation": [
+        "Ko nga purongo tuku iho e whakaatu ana ki nga whakahaere nga mea i tupu. Ka taea e nga tātaritanga matatau te whakamarama he aha i tupu ai, te tautuhi i nga mea ka puta i muri mai, me te tautoko i nga whakatau mo nga mea ka puta.",
+        "Ka awhina matou i nga whakahaere ki te whakatu i nga taiao raraunga ka neke atu i tua atu o te purongo pateko ki te tātari mohio me te tautoko whakatau."
+      ],
+      "capabilities": [
+        {
+          "title": "Nga Taatari Whakaahua",
+          "desc": "Kia mohio ki nga mahi o mua mai i nga purongo tauwhitiwhiti, papatohu maha, KPI, me nga inenga pakihi."
+        },
+        {
+          "title": "Nga Taatari Tataunga",
+          "desc": "Tautuhia nga hononga o raro, nga ia, nga koohikotanga tauanga, me nga take putake i muri i nga hua pakihi."
+        },
+        {
+          "title": "Nga Tatari Matapae",
+          "desc": "Whakamahia nga raraunga rerenga korero o mua me te wa-tuituru me nga tauira tauanga hei tautuhi i nga hua me nga tono a meake nei."
+        },
+        {
+          "title": "Whakaritenga Tohunga",
+          "desc": "Te arotake i nga mahi ka taea, ka tautoko i nga huarahi whakatau tino pai i runga i nga hua matapae me nga whaainga pakihi rautaki."
+        },
+        {
+          "title": "Tauira Ako Miihini",
+          "desc": "Whakawhanakehia nga tauira ritenga mo te matapae, te whakarōpūtanga o nga kaihoko, nga taunakitanga, te rapu i nga mahi tinihanga, me te tiaki matapae."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Hoatuhia te AI hinengaro ki te maha o nga korero kaore i hangahia ki runga i nga tauira huna, nga whakarāpopototanga whakahaere, me nga taunakitanga."
+        }
+      ],
+      "lifecycleSteps": [
+        "Raraunga Raraunga",
+        "Whakauru Raraunga",
+        "Tukatuka Raraunga",
+        "Rokiroki Raraunga",
+        "Nga tātaritanga",
+        "Tauira AI/ML",
+        "Whakaaturanga",
+        "Nga Whakatau Pakihi"
+      ],
+      "benefits": [
+        "I runga i te meka, na runga raraunga te whakatau whakatau a nga kaiwhakahaere",
+        "Te tono tika, nga moni whiwhi, me te matapae mokamoka",
+        "Kohikohi i te wa tuturu me te kitenga tinihanga",
+        "Hohonu 360° nga tirohanga whanonga a nga kaihoko me te whakawhaiaro",
+        "He mekameka tuku me te pai o te whakahaere",
+        "Whakaitihia te raruraru whakahaere me te putea",
+        "Te kitenga o nga whai waahi moni huna",
+        "Te wa-ki-te-maramatanga puta noa i nga waahanga pakihi"
+      ],
+      "security": "Ka whakatinanahia e a maatau punaha rauwiringa kaiao te whakamunatanga mutunga-ki-te-mutunga, te hunanga raraunga aunoa, nga whakaaetanga RBAC tino, me te whakatauira i te mana whakahaere hei tiaki i nga raraunga rangatira me te pupuri i nga hanganga ture (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Hangaia he Rautaki Raraunga Maramarama",
+      "ctaSub": "Hurihia nga korero hei matauranga. Hurihia te matauranga ki te mahi."
+    },
+    "information-reporting-systems": {
+      "title": "Pūnaha Mōhiohio me te Pūrongo",
+      "tagline": "Nga Korero Tika. I te Wa Tika. Mo Nga Whakatau Pai.",
+      "heroBadge": "Te Maramatanga Huinga Whakakotahi",
+      "overview": [
+        "Ka whakawhirinaki nga kaihautu pakihi me nga roopu whakahaere ki nga korero tika kia pai ai nga whakatau. Ka awhina a maatau Pūnaha Korero me te Ripoata i nga whakahaere ki te kohi, ki te whakarite, ki te tātari, ki te whakaatu i nga korero pakihi ma roto i nga punaha korero hangai, papaaho korero, papatohu, me nga rerenga mahi purongo aunoa.",
+        "He maha nga korero ka tohatohahia e nga whakahaere puta noa i nga tono, ripanga, papaa raraunga, me nga punaha whakahaere. He uaua tenei ki te whakarite i te tirohanga riterite mo nga mahi pakihi. Ka awhina matou ki te whakauru i nga puna korero ki roto i nga taiao tuku korero e whakarato ana i nga korero pakihi pono, waatea, me te rite tonu."
+      ],
+      "transformation": [
+        "Kaua te punaha ripoata e whakaatu noa i nga nama. Me awhina i nga kaiwhakamahi ki te mohio ki nga mahi, ki te tautuhi i nga raruraru, ki te kimi huarahi, ki te whakatau whakatau.",
+        "Ka hoahoa matou i nga taiao purongo e pa ana ki te mahi a to whakahaere, e tuku ana i nga rauwiringa kaiao-whakatau-a-whakatau kua whakaritea mo nga taumata whakahaere katoa."
+      ],
+      "capabilities": [
+        {
+          "title": "Nga Pūnaha Korero Whakahaere (MIS)",
+          "desc": "Whakawhanakehia nga punaha korero whakakotahi e whakarato ana i nga whakahaere whakahaere me te tirohanga whaitake me te tirohanga rautaki."
+        },
+        {
+          "title": "Purongo Pakihi",
+          "desc": "Hurihia nga raraunga pakihi mata mai i nga hongere maha ki roto i nga purongo kua oti te hanga, kua whakatauhia e aro turuki ana i nga mahi."
+        },
+        {
+          "title": "Papatohu Tauwhitiwhiti",
+          "desc": "Whakarato i te wa-tuuturu, kua whakaritea ranei te kitenga tauwhitiwhiti ki nga inenga pakihi tino nui, nga KPI, nga ia, me nga mahi a te tari."
+        },
+        {
+          "title": "Whakahaere KPI",
+          "desc": "Te tautuhi, te whai, me te tohu tohu i nga KPI mahi whai kiko e hono tika ana ki nga whaainga whakatipu hinonga."
+        },
+        {
+          "title": "Whakauru Raraunga",
+          "desc": "Whakauruhia nga puna raraunga toha ki roto i nga whare putunga raraunga whakakotahi me nga paparanga oro mo te purongo kotahi-a-karaihe rite tonu."
+        },
+        {
+          "title": "Pūrongo Aunoa",
+          "desc": "Whakaputa aunoa me te tohatoha i nga purongo whakawhaiaro kia rite ki nga raarangi kua tautuhia, nga ture pakihi, me nga arowhai kaiwhiwhi."
+        }
+      ],
+      "lifecycleSteps": [
+        "Pūnaha Pakihi",
+        "Kohinga Raraunga",
+        "Whakauru Raraunga",
+        "Tukatuka Raraunga",
+        "Pupuri Raraunga",
+        "Nga tātaritanga",
+        "Nga Ripoata me nga Papatohu"
+      ],
+      "benefits": [
+        "Kotahi te puna pono puta noa i te umanga katoa",
+        "He tere ake te uru atu ki nga inenga whakahaere-waahi",
+        "Whakaotia te whakakorenga o te huinga ripanga a-ringa",
+        "Nga KPI whakawhiti-taringa riterite, houhia",
+        "Te mana whakahaere rangatira me te tirotiro",
+        "Toha aunoa tika ki te hunga whai paanga",
+        "Haumarutanga raraunga taumata-rarangi maramara me nga whakaaetanga",
+        "Whakanuia te kaikawe ki te whakautu ki nga mahi kino"
+      ],
+      "security": "Ka taea e nga korero pakihi te pupuri i nga raraunga whakahaere, putea, me nga kaihoko. Ko a maatau otinga ripoata ka whakauru i te whakamotuhēhēnga-maha, te whakamanatanga e pa ana ki te mahi, te whakamunatanga, me nga raarangi arotake ki roto i te hoahoanga purongo.",
+      "ctaHeadline": "Ripoata e Tautoko ana i te Tipu",
+      "ctaSub": "Whakawhanakehia nga korero. Kia kitea te mahi. Whakaritea nga whakatau pai ake."
+    },
+    "managed-services": {
+      "title": "Nga Ratonga Whakahaere",
+      "tagline": "Nga Mahi Hangarau Whakapono. Tautoko Tohunga. Te whakapai tonu.",
+      "heroBadge": "24/7 Nga Mahi IT & Tautoko",
+      "overview": [
+        "He uaua nga taiao IT o naianei me te huri tonu. Ko nga whakahaere e hiahia ana ki nga hanganga pono, nga tono, nga whatunga, te haumarutanga, te aroturuki, me te tautoko hangarau hei pupuri i nga mahi pakihi.",
+        "Ko a maatau Ratonga Whakahaere e whakarato tonu ana i te whakahaere hangarau me te tautoko whakahaere, ka taea e nga whakahaere te pupuri i nga taiao IT pono i te wa e aro ana nga roopu o roto ki nga kaupapa rautaki."
+      ],
+      "transformation": [
+        "Ko te tautoko IT tuku iho e aro nui ana ki te whakaoti rapanga i muri i te puta. Ko nga ratonga whakahaere he huarahi kaha ma te aro turuki tonu i nga hanganga, nga tono, nga punaha, me nga taiao whakahaere.",
+        "Ka awhina tenei huarahi ki te tautuhi wawe i nga take ka taea, te pupuri i te mahi, te whakapai ake i te waatea, me te whakaiti i nga raruraru whakahaere ka taea te karo."
+      ],
+      "capabilities": [
+        {
+          "title": "Whakahaerenga Hanganga",
+          "desc": "Tautokohia te mahi tonu, te papaki, me te whakahaere o nga kaimau, te rokiroki, nga papaaho mariko, me nga hanganga."
+        },
+        {
+          "title": "Whakahaere Kapua",
+          "desc": "Whakahaerehia nga mahi kapua, nga rauemi maha-kapua, nga whirihoranga, te aro turuki, te mahi, me te arotautanga FinOps."
+        },
+        {
+          "title": "Whakahaere Whatunga",
+          "desc": "Whakaratohia te aroturuki 24/7, te whakahaere mahi, te tautoko whirihoranga, te arotautanga SD-WAN, me te whakatau take whatunga."
+        },
+        {
+          "title": "Whakahaere Tono",
+          "desc": "Tautokohia nga taiao tono tino nui ma te aro turuki, te tiaki, te whakatau iro, me nga whakahoutanga whakahaere."
+        },
+        {
+          "title": "Te Aroturuki me te Matakitaki",
+          "desc": "Whakaratohia te tirohanga matawhānui i te wa-tūturu ki te hauora o te punaha, te roanga, te wa mahi, te whakawhirinaki o te hanganga, me nga matohi."
+        },
+        {
+          "title": "Whakahaere Pūrua me te Whakaora",
+          "desc": "Pumau tonu i nga raarangi taapiri aunoa, whakamatautau i nga ngoikoretanga i nga wa katoa, me te whakarite i nga kaha whakaora tere."
+        },
+        {
+          "title": "Nga Mahi Haumarutanga (SecOps)",
+          "desc": "Whakaratohia te aroturuki haumarutanga tonu, te whakahaere papaki, te urunga mana uru, me te aukati riri.\n<"
+        }
+      ],
+      "lifecycleSteps": [
+        "Taiao Onboarding",
+        "Kitea me te Rarangi",
+        "Te Whakakotahitanga Telemetry",
+        "Whakamaramatanga SLA",
+        "24/7 Aroturuki Hohe",
+        "Whakar",
+        "Whakatau Tere",
+        "Te Tatari Take Putake",
+        "Te Hangarau Whakatairanga",
+        "Arotautanga Tonu"
+      ],
+      "benefits": [
+        "I tino whakaitihia te taumahatanga whakahaere o roto",
+        "Te kimi take i mua i te paheketanga o nga kaiwhakamahi",
+        "Kua whakamanahia 99.99% te waatea o te punaha me te wa mahi",
+        "Matapae, maramara te tahua whakahaere IT",
+        "Te urunga atu ki nga tohunga tohunga miihini",
+        "Nga wa whakautu maiki i tautokohia e te SLA tere",
+        "Whakaora aituā aunoa me te haere tonu o te pakihi",
+        "Te arotautanga hangarau me te whakahou"
+      ],
+      "security": "Ko a maatau whakahaere e u ana ki nga anga ITIL me te ISO, me te whakarite i te urunga whakamunatia, nga raarangi arotake taratahi, nga tohu whaimana iti rawa atu, me te whakahaangai i nga hanganga ture puta noa i nga rauemi whakahaere katoa.",
+      "ctaHeadline": "Whakapai Tonu",
+      "ctaSub": "Ka arotahi koe ki to pakihi. Ka awhina matou ki te pupuri i to hangarau."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Rongoa Hangarau Kotahi-Tuhinga",
+      "tagline": "Kotahi Hoa Hangarau. Nga Kaha Maha. Whakaoti Whakaoti Pakihi.",
+      "heroBadge": "Hoa Huinga Whakakotahi",
+      "overview": [
+        "He maha nga wa ka mahi tahi nga whakahaere me nga kaiwhakarato hangarau maha mo nga hanganga, kapua, tono, aunoatanga, tātaritanga, haumarutanga, tautoko, me te whakarereketanga mamati. Ko te whakahaere i nga kaihoko maha ka taea te hanga i te uaua, nga waahi korero, nga mahi taapiri, me nga taiao hangarau kua pakaru.",
+        "Ko ta matou huarahi Whakatau Hangarau Kotahi-Stop he whakakotahi i nga kaha maha i raro i te tauira ratonga whakakotahi, hei awhina i nga whakahaere ki te whakamahere, ki te whakatinana, ki te whakauru, ki te whakahaere, ki te whakapai tonu i o raatau taiao hangarau."
+      ],
+      "transformation": [
+        "Ka tautoko matou i te huringa oranga hangarau katoa—mai i te mohio ki nga whakaritenga pakihi me te tautuhi i te rautaki hangarau ki te hoahoa otinga, te whakatinana i nga papaaho, te whakauru i nga punaha, te tuku tono, te tirotiro i nga taiao, me te whakarato tautoko tonu.",
+        "Ko te whainga ko te hanga i te rauwiringa kaiao hangarau hono, kaua ki nga otinga motuhake."
+      ],
+      "capabilities": [
+        {
+          "title": "Rautaki me te Hangahanga",
+          "desc": "Kia mohio ki nga whainga pakihi me te hoahoa i nga hoahoanga hangarau e taea te tauine, te haumaru, me te pupuri."
+        },
+        {
+          "title": "Whakatinana me te Hanga",
+          "desc": "Whakatinana tono, hangahanga, whakaurunga, aunoatanga, me nga papaa mamati me te kaha o te hinonga."
+        },
+        {
+          "title": "Whakauru Pūnaha",
+          "desc": "Honoa nga punaha me nga tono kia tere haere nga korero puta noa i te whakahaeretanga katoa."
+        },
+        {
+          "title": "Te Whakaritenga Hanganga",
+          "desc": "Whakapumautia te CI/CD aunoa me te tuku i nga tukanga hei neke i nga otinga ki roto i nga mahi whakangao pono me te haumaru."
+        },
+        {
+          "title": "Aroturuki Tonu",
+          "desc": "Whakaratohia te tirohanga mutunga-ki-te-mutunga ki nga hanganga, nga tono, nga mahi, te waatea, me te hauora whakahaere."
+        },
+        {
+          "title": "Arotautanga me te Tautoko",
+          "desc": "Te arotake tonu i nga taiao hei whakapai ake i te mahi, te pono, te pai o te utu, me te tauineine."
+        }
+      ],
+      "lifecycleSteps": [
+        "Rautaki",
+        "Hangahanga",
+        "Whakatinana",
+        "Whakauru",
+        "Tukuna",
+        "Aroturuki",
+        "Arotautanga",
+        "Tautoko"
+      ],
+      "benefits": [
+        "Kua whakaitihia te uaua o te whakahaere a te kaihoko me te taapiri",
+        "He pai te ruruku ki nga paparanga hoahoanga katoa",
+        "He tere ake te whakatutukitanga o te kaupapa me te kore whakaroa",
+        "Te tohatoha tahua matapae me te tuku marama",
+        "Te kawenga takohanga hinonga kotahi mai i te kore ki te tauine",
+        "Nga otinga ka taea te whakarite mo te tipu pakihi a meake nei",
+        "Te hononga hangarau pono mo te wa roa",
+        "Te hurihanga matihiko mutunga-ki-mutunga"
+      ],
+      "security": "Ma te hoa pono kotahi e whakahaere ana i te hoahoanga, te whakatinanatanga me nga mahi, ka noho tonu te mana whakahaere haumarutanga puta noa i nga reanga katoa—ka whakakore i nga waahi matapo whakaurunga me te whakarite kia tutuki tonu.",
+      "ctaHeadline": "To Hoa Hangarau Katoa",
+      "ctaSub": "Kotahi hoa. Kotahi te tirohanga. Hangarau maha. Whakaoti otinga."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Tirohanga Hanganga",
+    "overviewTitle": "Hangarau Maramarama mo nga Putanga Ine",
+    "transformationEyebrow": "Huringa Mahi",
+    "transformationTitle": "Te Huri Pakihi Na roto i nga Reremahi Maramarama",
+    "deliveryEyebrow": "Te huarahi Tukunga Hangaia",
+    "deliveryTitle": "Whakamutunga-ki-Whakamutunga me te Arotau Tonu",
+    "deliveryIntro": "Ko ta matou huarahi whakatinanatanga e whai ana i te huringa ora o te tukunga kaha:",
+    "deliveryOutro": "Ko tenei raupapa hanganga e whakarite ana i te tuitui ki nga whainga pakihi, te tuunga haumarutanga pakari, me nga tohu tohu ROI ine i ia wahanga.",
+    "securityEyebrow": "Haumarutanga me te Whakahaere",
+    "securityTitle": "Te Tiakitanga o te Koeke Hinonga me nga Tiaki Tautukunga",
+    "securityOutro": "Ka whakaurua e matou te mana uru e pa ana ki te mahi, te matawai whakaraeraetanga aunoa, te whakahaere tauira, me te whakamunatanga taumata-maha kia mau tonu ai to taiao whakangao me te tino tutuki.",
+    "capabilitiesTitle": "Nga Raupapa Hangarau Matua",
+    "capabilitiesSub": "Nga pukenga hangarau matawhānui i hangaia hei whakahiato i o mahi matihiko.",
+    "bookDiscovery": "Te Tirohanga Hangarau Pukapuka",
+    "exploreAll": "Torotoro Hangarau Katoa",
+    "bookConsultation": "Tuhia he Whakawhitiwhitinga",
+    "coreCapabilities": "Nga Kaha Matua"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Nga Kaha Matua",
+    "exploreFramework": "Tirotiro Anga Whakataunga",
+    "bookConsultation": "Whakatakotoria he Korero",
+    "viewCaseStudies": "Tiro Matauranga Take",
+    "provenPillars": "Nga Pou Whakamatau",
+    "operationalOutcomes": "Nga Putanga Mahi",
+    "learnMore": "Ako Atu"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Whakamutunga-ki-Whakamutunga Hangarau Mamati",
+      "titlePart1": "Timatatanga Ki",
+      "titlePart2": "Tukuna",
+      "description": "Whakawhanake mutunga-ki-te-mutunga o nga otinga mamati hou mai i nga whakaritenga pakihi me te hoahoanga otinga ma te whakawhanaketanga, te whakauru, te whakamatautau, te tuku, me te tautoko tonu.",
+      "bookConsultation": "Tuhia he Whakawhitiwhitinga",
+      "exploreEngineering": "Tirotiro Hangarau Rongoa",
+      "coreCapabilities": [
+        "Nga Whakaritenga Hangarau",
+        "Otinga Hanganga",
+        "Whanaketanga Taupānga",
+        "API Whakauru",
+        "Kounga Kounga",
+        "DevOps",
+        "Tukuna",
+        "Tautoko & Tiaki"
+      ],
+      "row1Eyebrow": "Tukunga Katoa o te Ora",
+      "row1Title": "Whakawhanake Whakamutunga ki te Whakamutunga mai i nga Whakaritenga ki te Tauine",
+      "row1P1": "Ko nga kaupapa mamati hou katoa ka tiimata me nga whakaritenga ahurei, nga rerenga mahi, me nga whaainga rautaki kaore e taea te whakatutuki e te rorohiko kotahi-rahi-katoa. He tohungatanga matou ki te hanga i nga punaha raupaparorohiko mahi nui mai i te wahanga.",
+      "row1P2": "Mai i te kitenga o nga whakaritenga tuatahi me te hoahoa hoahoanga hangarau tae noa ki te whakawhanaketanga tere tere, te whakaurunga rauwiringa kaiao API, nga paipa whakamatautau pakari, me te tuku kapua aunoa, ka riro i a maatau roopu miihini matua te mana o to huringa oranga hua.",
+      "row2Eyebrow": "Otinga Hangahanga me te Hangarau",
+      "row2Title": "Nga Pūnaha Tauinei Hangaia mo te Tipu Hungamahi",
+      "row2P1": "Ka hoahoa matou i nga hoahoanga raupaparorohiko kaha kua whakararangitia kia mau ki nga kawenga whakangao taumaha. Mai i nga ratonga moroiti tauira me nga tuara-a-takahanga ki nga rerenga raraunga teitei me nga API GraphQL/REST, ka hangaia e matou nga papaahi e tauine ngawari ana.",
+      "row2P2": "Na roto i te whakatuu i nga papawaewae ma, taurite e honoa ana ki te whakamatautau aunoa me te ū tonutanga o te haumarutanga, ka whakarite matou ka taea te pupuri, te arotake, me te reri o to turanga rorohiko mo te kukuwhatanga roa.",
+      "row3Eyebrow": "Kounga Kounga & DevOps",
+      "row3Title": "Tukunga Kaikawe me nga Pipeline Aunoa",
+      "row3P1": "Ko ta matou tauira tuku he whakauru i te waeine aunoa, te whakauru, me te whakamatautau whakamuri mutunga-ki-mutunga ki te taha o nga rerengamahi CI/CD (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Ma nga whakaaturanga sprint maramara, te tirohanga-a-waa, me te tere o te tohu tohu, ka whakarite maatau i te waa-ki-te maakete me te kore e whakararu i te haumarutanga, te pumau, te wheako kaiwhakamahi ranei.",
+      "row4Eyebrow": "Tukunga me te Tautoko",
+      "row4Title": "Whakapono 24/7 Nga Mahi me te Kuwhatanga Waa-roa",
+      "row4P1": "Ko te haere ora ko te timatanga noa iho. Ka whakaratohia e matou te aroturuki kaha, te tiaki i te tautoko a te SLA, te arotautanga o te hanganga kapua, te whakatikatika i nga mahi, me nga mahi e haere tonu ana.",
+      "row4P2": "Ko ta matou roopu miihini te mahi hei toronga maori o to whakahaere, me te whakarite kia kore he wa heke me te mana o te hangarau ki to maakete.",
+      "pillarsTitle": "Nga Raukaha Matua",
+      "pillarsSub": "Whakaotia nga kaha o te puranga katoa i hangaia hei kawe i o whakaaro mai i te kore ki te hanga.",
+      "pillar1Title": "Nga Whakaritenga Hangarau",
+      "pillar1Desc": "Te rangahau pakihi ruku-hohonu, nga whakaritenga mahi, me te mahere haerenga a te kaiwhakamahi ki te tautuhi i nga rohe otinga tika.\n<",
+      "pillar2Title": "Otinga Hanganga",
+      "pillar2Desc": "Ko nga hoahoanga kapua-maori ka taea te whakahiato, te whakatauira papaunga raraunga, te hoahoa ratonga moroiti, me nga turanga haumaru kore-whirinaki.",
+      "pillar3Title": "Whanaketanga Taupānga",
+      "pillar3Desc": "Ko nga tono tukutuku me nga tono pūkoro o naianei kua hangaia ki te waehere ma, momo-haumaru, me nga paerewa UI urupare.",
+      "pillar4Title": "API Whakauru",
+      "pillar4Desc": "Nga API REST/GraphQL teitei, te hangai tukutuku, nga huarahi utu, me te tukutahi ERP/CRM a te hunga tuatoru.",
+      "ctaTitle": "Kua Riri ki te Hanga To Rongoa mai i te timatanga ki te tuku?",
+      "ctaSub": "Mahi tahi me Rezonants ki te hoahoa, ki te miihini, ki te tuku i to papaahi mamati ritenga mai i nga whakaritenga pakihi ki te hanga mooni.\n<",
+      "ctaButton": "Tuhia he Whakawhitiwhitinga Whakataunga",
+      "pillar5Title": "Whakapumau Kounga",
+      "pillar5Desc": "Nga mahi aunoatanga whakamatautau, te whakamatautau uta/te taumahatanga, te karapa whakaraerae, me nga huinga whakamatautau whakamuri.",
+      "pillar6Title": "DevOps & Whakamahinga",
+      "pillar6Desc": "Nga paipa paipa CI/CD Aunoa, te whakatakotoranga ipu (Docker/K8s), nga hanganga hei waehere, me nga tukunga kore-kore.",
+      "pillar7Title": "Tautoko & Tiaki",
+      "pillar7Desc": "24/7 te aro turuki, te waea waea hauora, te arotake i nga mahi, te whakamaarama haumaru, me te tiaki SLA tonu.",
+      "pillar8Title": "Whakahoutanga Tonu",
+      "pillar8Desc": "Te tere o te ahua, te whakaurunga tātaritanga raraunga, te whakarei AI, me nga mahi hangahanga."
+    },
+    "processAutomation": {
+      "eyebrow": "Nga Mahi Tukatuka Maramarama",
+      "titlePart1": "Tukanga Pakihi",
+      "titlePart2": "Aunoatanga",
+      "description": "Mutu-ki-mutunga aunoatanga o nga rerengamahi hinonga, te whakakotahi i te aunoatanga tukanga robotic (RPA), te tukatuka tuhinga mohio, nga miihini ture pakihi, me te whakauru punaha.",
+      "bookDiscovery": "Tuwhera Aunoatanga Pukapuka",
+      "exploreFramework": "Tirotiro Anga Whakataunga",
+      "coreCapabilities": [
+        "Reremahi Aunoatanga",
+        "Te Tukatuka Robotic",
+        "Tukatuka Tuhinga\n<",
+        "Whakauru Hangarau",
+        "Nga Miihini Ture Pakihi",
+        "Tukatuka Tatautanga",
+        "Arotautanga Tonu",
+        "Whakakotahitanga tuku iho"
+      ],
+      "row1Eyebrow": "Te Tukatuka Robotic",
+      "row1Title": "Nga Bots Maramarama mo nga Mahi Nui-Rirangi",
+      "row1P1": "Whakakorehia te whakaurunga raraunga-a-ringa tukurua, te whakatikatika i nga punaha, me te ararere tuhinga. Ka tukuna e matou nga potae RPA hinonga e mahi ana i nga mahi hanganga 24/7 me te kore reeti hapa.",
+      "row1P2": "Ma te hono atu i nga atanga papamahi tuku iho, SAP/ERP backends, me nga papaa raraunga kapua, ka tukuna e nga potae rorohiko to roopu ki te aro ki nga kaupapa pakihi rautaki.",
+      "row2Eyebrow": "Tukatuka Tuhinga Maramarama",
+      "row2Title": "OCR, Ako Miihini & Tuhinga AI",
+      "row2P1": "Whakauru aunoa, whakarōpū, tango raraunga mai i nga nama, kirimana, tuhinga tuakiri, me nga kereme. Ka whakamanahia e a maatau raina paipa a AI nga mara ki nga papaa raraunga o roto me te whakaoho i nga rerenga mahi whakaaetanga aunoa.",
+      "row2P2": "Me tutuki nga reiti tukatuka tika ki runga ake i te 95% me te whakaiti i nga wa huri mai i nga ra ki nga hēkona.",
+      "row3Eyebrow": "Tukatuka Tukatuka",
+      "row3Title": "Whakamutunga-ki-Whakamutunga Whakawhiti Whakawhiti Tukutahi",
+      "row3P1": "Honoa nga CRM, ERP, HRMS, me nga API peeke ki roto i nga rerenga raraunga tuuturu. Ka whakatinanahia e matou nga keu e aki ana i te takahanga, nga rarangi karere, me nga kaikawe whakamuri aunoa.",
+      "row3P2": "Ka rere marie nga korero puta noa i nga tari karekau he wawaotanga a te tangata, ka whakakore i nga waahi whakahaere me nga whakaroa korero.",
+      "row4Eyebrow": "Telemetry Tonu",
+      "row4Title": "Tuturu Tukatuka Tatautanga & Kaizen Insights",
+      "row4P1": "Aroturuki i nga wa mahi, nga mapi wera pounamu, nga hapa hapa, me te ROI putea i roto i nga papatohu whakahaere-waahi.",
+      "row4P2": "Ka kitea e nga tātaritanga ako miihini haere tonu nga huarahi aunoatanga hou, kia pai ai te whakahaere o to hinonga.",
+      "pillarsTitle": "Nga Pou Aunoa",
+      "pillarsSub": "Nga poraka hangahanga mo nga mahi hinonga mohio.",
+      "pillar1Title": "Rere Mahi Aunoa",
+      "pillar1Desc": "Ko nga rerengamahi-a-tangata-i-te-rorohiko me nga rerengamahi matihiko kua whakaritea me te ararere aunoa me te piki haere.",
+      "pillar2Title": "Te Tukatuka Robotic",
+      "pillar2Desc": "Nga karetao rorohiko i runga i te ture e whakahaere ana i nga mahi whakaurunga raraunga, te houhanga rongo, me nga mahi whakawhiti tono.",
+      "pillar3Title": "Maramarama AI Aunoatanga",
+      "pillar3Desc": "Ko nga kaihoko AI hinengaro e whakamaori ana i te horopaki, e whakarapopoto ana i nga tuhinga kore hanga, me te whakatau aunoa.",
+      "pillar4Title": "Arotautanga Tukanga",
+      "pillar4Desc": "Tukatuka maina, kimi pounamu, me nga rerengamahi Kaizen e whakaiti tonu ana i nga utu whakahaere.",
+      "ctaTitle": "Kua Riri ki te Whakaaunoa i o Reremahi Pakihi?",
+      "ctaSub": "Hono atu ki o maatau kaihoahoa aunoa ki te tautuhi i nga whai wāhitanga ROI teitei me te hora i nga rerengamahi mamati mohio.",
+      "ctaButton": "Tapuhia he Whakawhitiwhiti Whakawhitinga Aunoa"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Paerewa Hangarau & R&D",
+      "titlePart1": "Pokapū o\n<",
+      "titlePart2": "Kairangi",
+      "description": "He whakahaere matua o nga kaitoi matua me nga tohunga mo nga rohe e whakatapua ana ki te whakatau i nga mahi miihini, te akiaki i nga mahi auaha, me te whakatere i nga kaupapa mamati.",
+      "exploreStandards": "Torotoro Paerewa Hangarau",
+      "initiateAssessment": "Tīmatahia te Aromatawai CoE",
+      "coreCapabilities": [
+        "Paerewa Hangahanga",
+        "Anga Whakamahi Anō",
+        "Whakahaerenga Mahi Pai",
+        "Whanaketanga Pukenga",
+        "Tohu Paerewa Kounga",
+        "R&D & Whakahoutanga",
+        "Aromātai Hangarau",
+        "Arataki Kaupapa Whakawhiti"
+      ],
+      "uptimeLabel": "Nga Mahi Mahi",
+      "engineersLabel": "Kaihanga Kaihanga me nga Kaihanga",
+      "deploymentsLabel": "AI me te Whakamahinga Kapua\n<",
+      "satisfactionLabel": "Te Kaihoko Pai",
+      "row1Eyebrow": "Pou 01 — Paerewa Hangarau",
+      "row1Title": "Te Hangarau Rorohiko Mahi-Teitei",
+      "row1P1": "Ka whakatauhia e to tatou Pokapū Kairangi nga tauira hoahoa paerewa, nga whakamatautau aunoa, me nga tikanga arotake waehere hapa-kore e whakatere ana i te waa-ki-maakete me te pupuri i te nama hangarau ki te kore.",
+      "row1F1": "Nga paipa tuku a CI/CD aunoa me te tātari ine DORA",
+      "row1F2": "Nga papa arotake hoahoanga me te whakahaere moroiti",
+      "row1F3": "Te whakaraerae haumaru me te whakaraerae whakaraerae aunoa",
+      "row1Btn": "Ako Paerewa Hangarau",
+      "row1Tag": "DevOps & Hangarau Kounga",
+      "row2Eyebrow": "Pou 02 — R&D Innovation",
+      "row2Title": "AI Innovation Lab & Hangarau Putanga",
+      "row2P1": "Ka whakamatau matou ki nga tauira ako miihini hou-a-toi, nga kaihoko AI ritenga, me te aunoatanga rerengamahi mohio ki te hanga hua hinonga whakatipuranga.",
+      "row2F1": "Hinonga Generative AI & RAG te whakauru matauranga",
+      "row2F2": "Nga rerengamahi kaihoko AI motuhake mo te mahi aunoatanga",
+      "row2F3": "Arotautanga tauira ako miihini ritenga me te whakatikatika pai",
+      "row2Btn": "Torotoro AI Lab",
+      "row2Tag": "Ataahua Artificial & Neural R&D",
+      "row3Eyebrow": "Pou 03 — Hanganga",
+      "row3Title": "Hanganga Kapua Hinonga me te Haumaru Kore-Trust",
+      "row3P1": "Ka hoahoa, ka whakahaeretia e matou nga taiao kapua maha i hangaia i runga i nga anga haumaru kore-whirinaki, me te whakarite kia tiakina tonu o raraunga mai i nga tuma ipurangi huri noa i te ao.",
+      "row3F1": "AWS, Azure, me te GCP nga hanganga kapua maha",
+      "row3F2": "Kore-whakawhirinaki uru whatunga (ZTNA) me nga kaupapa here IAM i runga i te turanga",
+      "row3F3": "Matawai haumaru ipu aunoa me te whakahaere ngaro",
+      "row3Btn": "Torotoro Kapua & Haumarutanga",
+      "row3Tag": "Hangahanga Kapua & Kore-Trust",
+      "pillarsTitle": "To Tatou Anga Kairangi Matua",
+      "pillarsSub": "Nga pukapuka whakaari whanaketanga e whakakaha ana i nga tüäpapa miihana.",
+      "pillar1Title": "Poari Arotake Hanganga (ARB)",
+      "pillar1Desc": "Tirotiro matawhānui e whakarite ana i nga otinga hinonga katoa e hängai ana ki te tino tauine, haumarutanga me nga tikanga herenga.",
+      "pillar2Title": "Ka taea te whakamahi ano me te Puna Waahanga",
+      "pillar2Desc": "Pūnaha hoahoa rangatira, kete whakaoho API, me nga tauira ratonga miihini tuara e whakaiti ana i te wa whanaketanga tuatahi ma te 40%.",
+      "pillar3Title": "Whakaaturanga Mahi Tonu",
+      "pillar3Desc": "Nga paipa paipa maataki i nga wa-tuituru e aro turuki ana i te roanga o nga tono, nga paarua whakaurunga, me te whakamahi rauemi kapua.",
+      "pillar4Title": "Whakanuia Talent me nga Guilds",
+      "pillar4Desc": "Kua hangaia nga roopu o roto me nga tiwhikete e whakatipu ana i nga pukenga hangarau hohonu puta noa i te kapua, DevOps, me te whakamahi AI.",
+      "ctaTitle": "Whakanuia To Paerewa Hangarau",
+      "ctaSub": "Mahi tahi me te Rezonants's Center of Excellence ki te hanga i nga hoahoanga kapua pakari, whakaaunoa i nga rerenga mahi, me te whakatere i te tuku hua mamati.",
+      "ctaButton": "Whakaritea te Whakawhitiwhitinga Whakahaere",
+      "badge": "REZONANTS COE",
+      "scroll": "Panuku",
+      "p1Title": "Whakahaerenga me nga Anga",
+      "p1Desc": "Whakapumautia te mana whakahaere hoahoanga puta noa i te hinonga, nga arai kaupapa here, me nga paerewa tautukunga.",
+      "p1Tag": "Whakahaerenga",
+      "p2Title": "Paerewa Hangarau me te Hanganga",
+      "p2Desc": "Tautuhia nga hoahoanga tohutoro hou, nga kohinga hangarau kua arowhaihia, me nga tauira ratonga miihini.",
+      "p2Tag": "Hangahanga",
+      "p3Title": "Nga Rawa Whakamahia Me Nga Whare Pukapuka",
+      "p3Desc": "Whakatere i te tere whanaketanga me nga waahanga tiritahi, tauira, kete tiimata, me nga punaha hoahoa.",
+      "p3Tag": "Whakamahinga",
+      "p4Title": "Whakawhanaketanga Tohunga",
+      "p4Desc": "Ko te whakangungu hanganga, te tohutohu hangarau, me te whakakaha i nga pukenga ki te hiki ake i te tohungatanga o te roopu miihini.",
+      "p4Tag": "Te matatau",
+      "p5Title": "Te Whakahoutanga me te Hangarau Putanga",
+      "p5Desc": "R&D i runga i nga apiha AI, nga raina paipa aunoa, me nga anga whakatipuranga e whai ake nei hei pupuri i te taha o te maakete.",
+      "p5Tag": "Whakahoutanga",
+      "p6Title": "Whakapai Tonu",
+      "p6Desc": "Nga inenga hangarau a-raraunga (DORA), tohu tohu SLA, me te arotautanga o te kounga.",
+      "p6Tag": "Kounga"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Hangaia Mamati",
+      "titlePart1": "Whanaketanga Ritenga &",
+      "titlePart2": "Whakaritenga",
+      "description": "Whakawhanake me te whakarei ake i nga tono, i nga papaahoa, i nga rerenga mahi, me nga otinga hinonga hei whakatutuki i nga whakaritenga pakihi ahurei me te whakaputa i nga mahi kua whakaritea.",
+      "bookConsultation": "Tuhia he Whakawhitiwhitinga",
+      "exploreCapabilities": "Rapu Raukaha",
+      "coreCapabilities": [
+        "Whanaketanga Ritenga",
+        "Whirihoranga Papa",
+        "Toronga",
+        "Reremahi Ritenga",
+        "Whanaketanga API",
+        "Whakauru Pūnaha",
+        "UI/UX Whakarei",
+        "Arotautanga Mahinga"
+      ],
+      "row1Eyebrow": "TE WHAKAMAHI I TE WHAKAMAHI",
+      "row1Title": "Nga waahanga i hangaia mo to rerenga mahi",
+      "row1P1": "He maha nga wa ka taka te raupaparorohiko hinonga paerewa ki te whakatutuki i nga hiahia pakihi motuhake. Ka hangaia e ta maatau roopu miihini ritenga nga waahanga tono, nga ture pakihi ritenga, me nga taapiri motuhake kua whakaritea ki o mahi.",
+      "row1P2": "Mai i nga whakanikonikotanga CRM me te ERP ki nga tomokanga whakahaere motuhake, ka hangaia e matou nga ahuatanga e tika ana ki nga tauira rerenga mahi tika a to roopu.",
+      "row2Eyebrow": "TE HOKOHOKO SYSTEM ENTERPRISE",
+      "row2Title": "Whirihoranga Papa me te Whanaketanga API",
+      "row2P1": "Honoa nga punaha rorohiko rereke ki roto i te rauwiringa kaiao mamati kotahi. Hangaia e matou nga API REST me te GraphQL ritenga, nga kaikawe tukutuku, me nga rarangi karere hinonga hei whakarite i te tukutahi raraunga tuuturu puta noa i o papaahi katoa.",
+      "row2P2": "Ahakoa te whakauru i nga taputapu SaaS tuatoru-tuatoru, te whakaroa atu ranei i nga papaapapa-a-whare motuhake, ko o maatau hoahoanga whakaurunga ka aro nui ki te pono o te raraunga, te whakaputanga, me te kore wa heke.",
+      "row3Eyebrow": "UI/UX & WHAKAMAHI",
+      "row3Title": "UI/UX Whakarei me te Arotau Mahi",
+      "row3P1": "Whakanuia nga hononga tuku iho me nga wheako kaiwhakamahi hou, whakautu i hangaia mo te tere me te marama. Ka hangaia ano e matou nga waahanga o mua me nga tauira hoahoa whai kiko, te urunga urunga, me nga tauira tauwhitinga ngawari.",
+      "row3P2": "I roto i te whakarara, ka arotau a maatau miihini mahi i nga paatai ​​paataka raraunga, rautaki keteroki, me te rahi o te paihere o mua ki te tuku i nga wa whakautu tere puta noa i nga taputapu katoa.",
+      "pillarsTitle": "I Hangaia ki o Whakatakotoranga Tika",
+      "pillarsSub": "Nga tikanga whakarite-akomanga hinonga i hangaia hei awhata marie.",
+      "pillar1Title": "Rerengamahi Ritenga me te Toronga",
+      "pillar1Desc": "Ko te arorau tono me nga miihini aa-aunoa kua whirihorahia mo o ture whakahaere o roto.",
+      "pillar2Title": "API me te Whakauru Pūnaha",
+      "pillar2Desc": "Nga piriti raraunga haumaru, whakamotuhēhē e tūhono ana i ngā tuara rangatira, huinga ERP, kuaha utu, me nga ratonga kapua.",
+      "pillar3Title": "Whirihoranga Papa",
+      "pillar3Desc": "Nga urutaunga hoahoanga hohonu e whakarereke ana i nga punaha hinonga me te kore e pakaru i nga huarahi whakamohoatanga me nga whakaaetanga tautoko a te kaihoko.",
+      "pillar4Title": "Arotautanga Mahinga",
+      "pillar4Desc": "Ko te whakamohio i nga paatai, te whakakore i nga mahara, me te tohatoha CDN taha mo nga uta wharangi-rua.",
+      "ctaTitle": "Kua Riri ki te Whakaritea i to Raarangi Hinonga?",
+      "ctaSub": "Hono atu ki o maatau kaiwhakatakoto otinga ki te hoahoa me te whakatakoto i nga waahanga ritenga, nga rerengamahi, me nga whakaurunga e rite ana ki o hiahia pakihi.",
+      "ctaButton": "Tuhia he Waea Whakaritea",
+      "badge": "Hangaia Mamati",
+      "viewAllServices": "Tirohia nga Ratonga Katoa"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Te Whakahoutanga o te Hinonga",
+      "titlePart1": "Mamati",
+      "titlePart2": "Huringa",
+      "description": "Whakahoutanga matawhānui o nga tukanga pakihi, nga hoahoanga hangarau, me nga tauira whakahaere hei akiaki i te kakama o te whakahaere, te pai o te whakahaere, me te tipu o te mamati toimau.",
+      "startTransformation": "Tīmata Huringa",
+      "exploreStrategy": "Rapu Rautaki",
+      "coreCapabilities": [
+        "Rautaki me te Mahere Ara",
+        "Te Hangahanga Hou",
+        "Kapua & Hanganga",
+        "Raraunga me te Tatari",
+        "Tukatuka Whakarorohiko",
+        "Te Wheako Kaihoko",
+        "Whakahaere Huri",
+        "Tauira Mahi Aki"
+      ],
+      "row1Eyebrow": "Rautaki me te Mahere Ara",
+      "row1Title": "Mai i te Whakakitenga ki te Mapi Ara Whakahaere",
+      "row1P1": "Ka mahi tahi matou me nga kaihautu hinonga ki te tautuhi i te rautaki matihiko, nga keehi pakihi, me nga mapi rori me nga toa tere me te whakakore i nga mahi kino.",
+      "row1P2": "Ko nga kaupapa matua, nga tauira TCO, me nga KPI ka whakarite kia hono tika nga mahi whakamohoatanga hangarau katoa ki te whiwhinga moni, te pai, me nga hua e pai ana ki nga kaihoko.",
+      "row2Eyebrow": "Te Whakahoutanga Tuku iho",
+      "row2Title": "Whakahouhia me te kore e pakaru te Pakihi",
+      "row2P1": "Whakaritea ano nga monoliths ki nga ratonga moroiti, API, me nga tauira kapua-maori me nga tapahi kore-waahi me te whakamana whakamuri aunoa.",
+      "row2P2": "Ka whakahōu mātou i ngā tono, ngā pātengi raraunga, me ngā paparanga kōmitimiti me te pupuri i te hanganga ture me te tū haumarutanga.",
+      "row3Eyebrow": "Kapua, AI me te Raraunga",
+      "row3Title": "Whakapainga Kapua me te Maramatanga-a-Raraunga",
+      "row3P1": "Whakauruhia te AWS, Azure, me te GCP, hanga i nga paipa raraunga hou, me te whakauru i nga kaihoko ako miihini ki te akiaki i nga whakatau motuhake.",
+      "row3P2": "Mai i te wa-tūturu e rere ana i nga huihuinga ki nga papatohu whakakotahi, ka taea te ine me te pumau te huringa.\n<",
+      "row4Eyebrow": "Wheako Kiritaki",
+      "row4Title": "Nga Wheako Omnichannel Hou",
+      "row4P1": "Hoahoa ano i nga haerenga a nga kaihoko puta noa i te paetukutuku urupare, iOS, Android, me nga tomokanga ratonga whaiaro me nga atanga whakawhaiaro.",
+      "row4P2": "Ko te hangahanga papaaho, te waea waea, me nga kopiri urupare aunoa ka mau tonu te auahatanga mamati.",
+      "pillarsTitle": "Nga Pou Hurihuri",
+      "pillarsSub": "Ko nga huanga-a-ringa e whakapumau ana i te kaiarahitanga mamati toimau.",
+      "pillar1Title": "Rautaki Mamati & Whakahaerenga",
+      "pillar1Desc": "Ko nga mahere panoni i te wahanga me te whakatauira take pakihi, te whakahaere hoahoanga, me te whai waahi morearea.",
+      "pillar2Title": "Kapua & Raraunga Raraunga",
+      "pillar2Desc": "AWS/Azure/GCP turanga kapua maha, paipa aunoa, me te whakaaheitanga tātari raraunga hinonga.",
+      "pillar3Title": "AI & Aunoatanga",
+      "pillar3Desc": "Nga mahi aunoatanga mohio, nga kaihoko AI mohio, me te waea waea matapae hei arotau i nga mahi o ia ra.\n<",
+      "pillar4Title": "Wheako Kiritaki",
+      "pillar4Desc": "Nga tomokanga mamati omnichannel me nga atanga whakawhaiaro i hangaia hei pupuri i nga kaiwhakamahi.",
+      "ctaTitle": "Kua Riri ki te Huri I To Hinonga?",
+      "ctaSub": "Mahi tahi me Rezonants mo nga huringa matihiko kua wehea, kua kore e tupono kua herea ki nga hua pakihi ine.",
+      "ctaButton": "Tuhia he Waea Huringa Mamati",
+      "bookWorkshop": "Awheawhe Hurihuri Pukapuka",
+      "exploreFramework": "Tirotiro Anga Whakataunga",
+      "coreCapabilitiesTitle": "Nga Kaha Matua"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Whakaotia Hangarau Hangarau",
+      "titlePart1": "Rongoa Whakamutunga-ki-Whakamutunga",
+      "titlePart2": "Anga",
+      "description": "He anga tukunga, hurihanga ora katoa e hora ana i nga whakaritenga pakihi, hoahoa hoahoanga, miihini, whakauru, whakapumautanga kounga, tuku kapua, me nga mahi whakahaere.",
+      "startJourney": "Tīmatahia To Kaupapa",
+      "exploreFramework": "Anga Torotoro",
+      "coreCapabilities": [
+        "Tirohanga Whakaritenga",
+        "Hoahoa Hoahoa\n<",
+        "Whanaketanga Tapae Katoa",
+        "Whakauru Hangarau",
+        "Whakapumautanga Kounga",
+        "Tukunga me te Whakaputa",
+        "Nga Mahi Haere tonu",
+        "Te Kuwhatanga Tonu"
+      ],
+      "row1Eyebrow": "Rautaki me te Hangahanga",
+      "row1Title": "Nga Whakaritenga Hangarau me te Hoahoa Rongoa",
+      "row1P1": "Nga awheawhe mahi tahi, te mahere rohe pakihi, me nga whakaritenga hoahoanga kapua i hangaia hei whakakore i te morearea i mua i te tuhi i tetahi rarangi waehere.",
+      "row1P2": "Ka tautuhia e matou nga tauira raraunga, nga anga haumarutanga, me nga tohu whakahirahira e whakarite ana i te angitu mo te wa roa.",
+      "row2Eyebrow": "Hangarau me te Kounga",
+      "row2Title": "Whakawhanake-Tapae Katoa me te Whakamatau Aunoa",
+      "row2P1": "Nga ratonga moroiti, momo-haumaru API, me te aro o mua ka honoa ki te waeine aunoa, te whakauru, me te matawai haumarutanga.",
+      "row2P2": "Nga raina paipa whakauru tonu me nga Mahi a GitHub, Terraform, me nga arai haumaru aunoa.",
+      "row3Eyebrow": "Whakamahinga me nga Mahi",
+      "row3Title": "Tukunga Kapua & 24/7 Te Aroturuki Whakahaere",
+      "row3P1": "Whakakotahitanga kapua-maha i runga i te AWS/Azure/GCP me te whakamuri aunoa, te tapahi kore-waahi, me te mataki i te waa-tūturu.",
+      "row3P2": "Ka whakaratohia e matou te tiaki i te tautoko a te SLA me te aro turuki i te waea waea kia pai ai te whanake o to hua.",
+      "row4Eyebrow": "Whakahaerenga hinonga",
+      "row4Title": "Whakahaere Kotahitanga me te Tautoko Tonu",
+      "row4P1": "Ko te kawenga takohanga kotahi ira puta noa i to puranga matihiko katoa — te tere omaoma maramara, te putea matapae, me te mahi auaha tonu.",
+      "row4P2": "Ko te whakaputa i nga ahuatanga me nga huringa o te ao hou ka mau tonu to hinonga ki mua i te whakataetae.",
+      "pillarsTitle": "Nga Pou Takiwa Ora",
+      "pillarsSub": "Ko ia wahanga i hangaia me te kaha o te hinonga.",
+      "pillar1Title": "Rautaki me nga Whakaritenga",
+      "pillar1Desc": "Te kitenga rohe, nga mahere huarahi hoahoanga, me te whakahāngaitanga o te hunga whai paanga ki te whakakore i nga tupono o te mahi.",
+      "pillar2Title": "Hangahanga me te Hanga",
+      "pillar2Desc": "Nga ratonga moroiti taketake-kapua, whakauru API, me nga whakamatautau QA tonu.",
+      "pillar3Title": "Haumarutanga me te Tukunga",
+      "pillar3Desc": "Te herenga haumaru kore-whakawhirinaki, nga tukunga ipu, me te tuku kapua aunoa.",
+      "pillar4Title": "Whakahaere me te Tautoko",
+      "pillar4Desc": "24/7 te aroturuki SLA, te waea waea hauora, me te hangahanga whanaketanga haere tonu.",
+      "ctaTitle": "Kei te hiahia koe i tetahi hoa o te ora?",
+      "ctaSub": "Kei a matou te katoa o te huringa ora hangarau kia taea ai e to roopu te aro ki nga hua pakihi matua.",
+      "ctaButton": "Hoa mo te Huringa Ora Katoa"
+    },
+    "migrationServices": {
+      "eyebrow": "Kapua me te Huringa Hanganga",
+      "titlePart1": "Hekenga &",
+      "titlePart2": "Whakahoutanga",
+      "description": "He haumaru, he hanganga hanganga o nga tono tuku iho, papaa raraunga, me nga hanganga ki nga hoahoanga kapua hou, i honoa ki te whakahou tonu kia pai ake ai te kakama me te pai.",
+      "bookAssessment": "Aromatawai Hekenga Pukapuka",
+      "exploreStrategy": "Torotoro Rautaki Kapua",
+      "coreCapabilities": [
+        "Hekenga Kapua",
+        "Te Whakahoutanga Taumahi",
+        "Hekenga Raraunga Raraunga",
+        "Te Whakahou Hanganga",
+        "Whakapapanga",
+        "Whakawhitinga Microservices",
+        "Arotautanga Mahinga",
+        "Haumarutanga me te Tautukunga"
+      ],
+      "row1Eyebrow": "Hekenga Kapua",
+      "row1Title": "Rautaki Kapua-maha me te Hiki-a-Arotau",
+      "row1P1": "Te hekenga o te mahi mahi puta noa i te AWS, Azure, me Google Cloud me te kitenga aunoa, te whakamahere ngaru, me te kore he aukati pakihi.",
+      "row1P2": "Ka whakatauritehia e matou te manaaki, te whakahou, me te whakahou kia arotau te utu katoa o te mana pupuri (TCO) me te kakama.",
+      "row2Eyebrow": "Hekenga Raraunga me te Raraunga Raraunga",
+      "row2Title": "ETL Haumaru me te Whakamana Raraunga Aunoa",
+      "row2P1": "Ko te tukuruatanga raraunga aunoa, te whakamaoritanga aronuinga, me nga raina paipa ETL teitei me te 100% te manatoko pono o te raraunga.",
+      "row2P2": "Ko te whakaharatau tapahi kore-waahi ka whakarite kia rite nga raraunga me te haere tonu o nga pakihi.",
+      "row3Eyebrow": "Whakahoutanga Papa",
+      "row3Title": "Te Whakapukenga & Kubernetes Orchestration",
+      "row3P1": "Whakahouhia nga monolith tuku iho ki roto i nga ratonga moroiti ka taea te whakarite ma te Kubernetes (EKS, AKS, GKE) me nga hoahoa IaC aunoa.",
+      "row3P2": "Ko te whakamohiotanga mahi i muri i te hekenga me te arotautanga o te utu ka whakarite i te ROI tonu.",
+      "row4Eyebrow": "Mahere Tapahi",
+      "row4Title": "Whakamatau Aunoa me nga Kupenga Haumaru Whakamuri",
+      "row4P1": "Puka whakahaere tapahi kua whakamatauria e te pakanga, nga huinga whakamuri aunoa, me nga tikanga whakamuri inamata kia mau te rongo o te hinengaro.",
+      "row4P2": "Ko te waea waea hauora i muri i te hekenga me te 24/7 hypercare te whakapumau i te koretake o te whakaputanga.",
+      "pillarsTitle": "Whakapumautanga Heke",
+      "pillarsSub": "Nga nekehanga whakamorearea e tautokohia ana e nga SLA hinonga.",
+      "pillar1Title": "Kore-Whakararo Tapahanga",
+      "pillar1Desc": "Nga whakaputanga Canary me te tukutahi-rua-tuhi papaa raraunga hei whakarite kia kore e haukotia te uru a te kaiwhakamahi.",
+      "pillar2Title": "Whakamana Raraunga Aunoa",
+      "pillar2Desc": "Ko nga whakatairitenga arowhai, te arowhai i te pono o te kaupapa, me te houhanga hou a ETL.",
+      "pillar3Title": "Hurihia Nga Kupenga Haumaru",
+      "pillar3Desc": "Nga tikanga morearea mo te whakaora i nga aituā me nga whakaharatau kia mau i te tupono i ia wahanga.",
+      "pillar4Title": "Mahinga me te Arotautanga Utu",
+      "pillar4Desc": "Ko te whakatikatika i te kapua, ko nga kaupapa here a-aunoa, me nga papatohu whakahaere utu.",
+      "ctaTitle": "Kua Reri ki te Heke me te Maia Tino?",
+      "ctaSub": "Mahi tahi me Rezonants mo te hanganga, te kapua kore morearea me te whakahou raraunga.",
+      "ctaButton": "Whakamaherehia to Awheawhe Migration"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Whakamana Tere me te Mahinga",
+      "titlePart1": "Tohu o te Ariā (PoC) &",
+      "titlePart2": "Whakatinana Pilot",
+      "description": "Te whakawhanake tere me te whakamana i nga otinga hangarau ki te aromatawai i te whaihuatanga hangarau, te uara pakihi, nga whakaritenga whakauru, te mahi, me te tauine i mua i te whakatinanatanga-katoa.",
+      "initiateDiscovery": "Tīmatahia te PoC Discovery",
+      "exploreDevelopment": "Torotoro Whanaketanga Ritenga",
+      "coreCapabilities": [
+        "Whanaketanga PoC\n<",
+        "Hangaia tauira",
+        "Tikanga Tikanga",
+        "Whakamanatanga Hangahanga",
+        "Whakamatau Whakauru",
+        "Tohu Paetau Mahi",
+        "Te Whakatairanga Pilot",
+        "Aromatawai Uara"
+      ],
+      "row1Eyebrow": "Whakamana Tere",
+      "row1Title": "Mai i te Ariā ki te Whakaaetanga Whakamana",
+      "row1P1": "Ko te huri i tetahi whakaaro ki te otinga hinonga-tauine me tino whakamanatanga o mua. Ka arotakehia e ta maatau ratonga PoC & Pilot te kaha o te hangarau, te whakamaarama-whakamatautau i nga matau whakaurunga whakahirahira, me te whakamana i te ROI pakihi i mua i nga whakapaunga whakapaipai nui.",
+      "row1P2": "Ka hangaia e matou nga MVP tino pono me nga kaiurungi pouaka kirikiri arotahi e whakaatu ana i te whaihuatanga hangarau, te ine i te roanga o te punaha, me te kohikohi wawe i te whakamanatanga a te hunga whai paanga.",
+      "row1Cap": "Tere MVP Prototyping & Tohu Paerewa Hangarau",
+      "row2Eyebrow": "Aile Prototyping",
+      "row2Title": "Nga MVP Whakawhitiwhiti me te Whakamana UX",
+      "row2P1": "Ka hangaia e matou nga waea waea tauwhitiwhiti, nga rerenga kaiwhakamahi ka taea te panui, me nga tohu-a-aroaro mahi i roto i nga ra, ehara i nga marama. Whakamātautauhia nga taunekeneke a nga kaiwhakamahi pono, whakamahine i nga tauira UI/UX, ka kohia nga urupare mahi mai i te hunga whai paanga.",
+      "row2P2": "Ma te whakapoto i nga huringa urupare i te wa o te whanaketanga o mua, ka whakaitihia e to roopu te mahi ano me te whakarite i nga whakaritenga hangarau maamaa i mua i te tiimata o nga waahanga hanga whakapaipai.",
+      "row2Cap": "Te Whakawhitinga Tere me nga Tohu UX Ka taea te panui",
+      "row3Eyebrow": "Whakauru me te Whakamatau Whakatau",
+      "row3Title": "Whakakore-Risk Whakakotahitanga Pūnaha Matatini",
+      "row3P1": "Wewetehia nga pounamu hangarau, te herenga API, me nga here mahi i mua i te whakapaunga moni. Ko ta matou roopu miihini pairati ka whakamatau i nga whakaurunga, nga raina paipa raraunga, me nga API tuatoru i roto i nga taiao pouaka kirikiri taratahi.",
+      "row3P2": "Ko tenei whakahekenga morearea e whakapumau ana i te wateatanga o te punaha, te tautukunga haumarutanga, me nga raarangi whanaketanga matapae i te wa e whakawhiti ana to PoC ki te hanga hinonga.",
+      "row3Cap": "Te Whakakotahitanga Pouaka kirikiri me te Whakamatau Ake",
+      "row4Eyebrow": "Kaiurungi Whakaputa Whakahaere",
+      "row4Title": "Te Whakarewa Pilot me te Whakamana Take Pakihi\n<",
+      "row4P1": "Tukuna nga tukunga pairati kua whaaia ki tetahi waahanga kaiwhakamahi, maakete whakamatautau ranei. Aroturuki i nga inenga mahi, tātaritanga tango kaiwhakamahi, me nga urupare whakahaere ki te ine i te uara pakihi me te whakatu i tetahi keehi pakihi kua tautokohia e nga raraunga.",
+      "row4P2": "Ma nga tirohanga pairati o te ao, ka whiwhi nga kaitautoko whakahaere i nga inenga ROI maamaa hei whakamana i te horahanga whanui me nga haumi huringa mamati rautaki.",
+      "row4Cap": "Te Whakamahinga Whakahaere me te Waea Mahinga",
+      "pillarsTitle": "Ko o matou Kaupapa Hangaia Kaiurungi",
+      "pillarsSub": "Nga maataapono arataki e huri ana i te maaramatanga hangarau ki te angitu pakihi matapae.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Kia tere te tuku tauira mahi hei whakamana i nga whakaaro uara i te timatanga o te huringa ora.",
+      "pillar2Title": "Te Whakaritenga me te Whakamana",
+      "pillar2Desc": "Manatokohia te hototahitanga API, nga paepae urunga, me nga here herenga i roto i nga taiao pouaka kirikiri.",
+      "pillar3Title": "Aromatawai Tauineine",
+      "pillar3Desc": "Whakatairitehia te kawenga whakangao hei whakarite i nga tepe kaha me te whakatau i te rahinga hoahoanga kapua.",
+      "pillar4Title": "Whakamana Take Pakihi",
+      "pillar4Desc": "Te ine i te ROI tino kitea me nga inenga hua hei tautoko i nga whakatau whakaputanga puta noa i te hinonga.",
+      "ctaTitle": "Kua reri ki te whakamana i to otinga mamati e whai ake nei?",
+      "ctaSub": "Hono atu ki ta maatau roopu miihini otinga ki te tirotiro i o hiahia kaupapa, hanga tauira tauira, me te whakamatau i te whaihuatanga me te kore e tupono.",
+      "ctaButton": "Whakatakotoria he PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Te Tari Whakahaere Puku",
+      "titlePart1": "Ratonga tiritahi &",
+      "titlePart2": "Nga Mahi Whakahaere",
+      "description": "Te tukunga o te hangarau me te kaha whakahaere puta noa i nga waahanga pakihi ma roto i nga tikanga paerewa, nga rauemi mohio, nga anga whakahaere, te whakahaere ratonga, me nga taumata ratonga ine.",
+      "bookDiscovery": "Pukapuka Whakahaere Nga Mahi Discovery",
+      "exploreFramework": "Tirotiro Anga Whakataunga",
+      "coreCapabilities": [
+        "Nga Ratonga Whakahaere",
+        "Nga Mahi IT",
+        "Tautoko Taupānga",
+        "Whakahaere Ratonga",
+        "Rauemi Arotautanga",
+        "Whakahaerenga SLA",
+        "Whakahaerenga",
+        "Whakapai Tonu",
+        "Arotautanga Utu"
+      ],
+      "row1Eyebrow": "Te Tari Tukunga Kotahitanga",
+      "row1Title": "Nga Ratonga Paerewa puta noa i nga Waeine Pakihi Katoa",
+      "row1P1": "Whakakotahitia te IT tari-muri, te whakahaere hanganga, me te tautoko hangarau ki roto i tetahi pokapu tuku tino pai.",
+      "row1P2": "Ma te whakakore i te taarua o runga o nga roopu me te whakataurite i nga tauira tuku ratonga, ka mau to whakahaere i te kounga orite me te whakaheke i nga whakapaunga whakahaere.",
+      "row2Eyebrow": "24/7 SRE & Tautoko Taupānga",
+      "row2Title": "Te Aroturuki Aroturuki me te Whakatau Whakatairanga Tere",
+      "row2P1": "Ka whakaratohia e a maatau Kaihanga Whakapono Pae (SRE) me nga tohunga tautoko te 24/7/365 te aro turuki waea, te whakamatautau matohi aunoa, me te whakatau tere L1/L2/L3.",
+      "row2P2": "I tautokohia e nga herenga SLA kaha, ka whakapumau matou i te 99.99% te waatea mo o tono tino kaupapa me o hanganga kapua.",
+      "row3Eyebrow": "ITIL Te Whakahaere me te Whakaaetanga",
+      "row3Title": "Anga Whakahaere Ratonga Hangaia",
+      "row3P1": "Whakatinana i nga paerewa ITSM arataki-ahumahi (ServiceNow, Jira Service Management) me te tohu tohu maramara, te tātari take-a-papa, me nga arai whakahaere whakarereke.",
+      "row3P2": "Ko nga huarahi arotake matawhānui me nga kaupapa here whakahaere ka whakarite kia u tonu o mahi ki nga paerewa haumarutanga o te ao.",
+      "row4Eyebrow": "FinOps & Whakapai Tonu",
+      "row4Title": "Matapae Putea me te Arotautanga Rauemi",
+      "row4P1": "Whakakorea te para kapua, arotau i te rahinga rorohiko, me te whakaaunoa i nga mahinga whakahaere me nga mahi pai rawa atu a FinOps.",
+      "row4P2": "Ko nga purongo marama marama me nga matapae kaha e whakarite kia arotau tonu nga utu whakahaere me te tino pai o te whakapaipai.",
+      "pillarsTitle": "Nga Pou Mahi",
+      "pillarsSub": "Nga reanga whakahaere kua whakamatauria mo te tauineine hinonga pono.",
+      "pillar1Title": "24/7 Whakahaerehia nga Mahi IT",
+      "pillar1Desc": "Ko te waea waea NOC tere, te papaki tūmau, te tiaki hanganga, me te 99.99% nga taurangi wa roa.",
+      "pillar2Title": "ITSM & Tepu Ratonga",
+      "pillar2Desc": "Tier 1/2/3 papaawhi hongere-maha, ararere maiki, me nga rerengamahi whakatau tiiti kua oti te hanga.",
+      "pillar3Title": "SLA & Mana Mahi",
+      "pillar3Desc": "Nga wa whakautu kua tautokohia e te kirimana, nga tohu tohu MTTR, me nga arotake mahi marama marama.",
+      "pillar4Title": "FinOps me te Arotautanga Utu",
+      "pillar4Desc": "Rahi-matau tonu te rauemi, whakahou raihana, me te whakahekenga utu kapua aunoa.",
+      "ctaTitle": "Kua Riri ki te Whakanuia o Mahi Whakahaerehia?",
+      "ctaSub": "Mahi tahi me Rezonants mo te pono, 24/7 nga ratonga whakahaere e arotau ana i nga utu me te whakakore i te waa mahi.",
+      "ctaButton": "Tuhia he Whakawhitinga Mahi Whakahaere",
+      "howItWorksHeading": "He huarahi whakamatau kia angitu nga ratonga tiritahi"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Nga punaha mohio",
+      "heroHeading": "AI me Robotics mahi tahi",
+      "intro": "Kei te huri te Artificial Intelligence (AI) me te Robotics i te mahi a nga pakihi ma te whakakotahi i nga mahi whakatau mohio me te mahi aunoatanga. Ka taea e AI nga mihini ki te tātari raraunga, ki te ako i nga tauira, ki te whakatau whakaaro mohio, i te wa e kawe mai ai nga karetao i enei kaha ki te ao kikokiko ki te mahi i nga mahi me te tere, te tika, me te riterite.",
+      "section1Heading": "He mea hanga hei whakamaarama i ia mahi",
+      "section1Text": "Ko a maatau otinga AI me Robotics ka awhina i nga whakahaere ki te whakatika i nga mahi, ki te whakaiti i nga mahi a-ringa, me te whakapai ake i nga hua puta noa i nga momo ahumahi. Mai i te mahi aunoatanga me te tātari matapae ki nga karetao atamai me nga punaha mohio, ka tukuna e matou nga hangarau hou e whakanui ana i te pai, te akiaki i te tipu, me te tautoko i te huringa mamati.",
+      "section2Heading": "Ko te waahi ka tutaki te matauranga ki nga mahi",
+      "section2Text": "Ko ia tauwhitinga, whakatau, me nga nekehanga ka whakakahahia e te punaha hono kotahi - ka huri i nga raraunga hei huanga i roto i te waa.",
+      "footerTag": "Hangarau auaha mo te hurihanga matihiko"
+    },
+    "informationReporting": {
+      "brand": "Raraunga Raraunga hinonga",
+      "heroTitle": "Pūnaha Pārongo me te Pūrongo",
+      "heroSubtitle": "He puna pono mo ia tari - he mea hanga hei huri i nga raraunga whakahaere hei whakatau ka taea e to pakihi te mahi i tenei ra.",
+      "statusLive": "ORA",
+      "statusAnalyzed": "TE WHAKAMAHI",
+      "statusArchived": "PURANGA",
+      "statusPending": "E TARERE ana",
+      "metricUptime": "Te wa o te punaha",
+      "metricSessions": "Wātū Hohe",
+      "metricReportsPerDay": "Ripoata / Ra",
+      "metricEvents": "Nga Takahanga I Te Ra",
+      "metricReports": "Ripoata kua whakaritea",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Pūhara Kotahi",
+      "analyticsSuite": "Rangahau tātaritanga",
+      "reportingConsole": "Papatohu Pūrongo",
+      "businessOutcome": "Putanga Pakihi",
+      "section1Heading": "Kotahi te punaha matua mo ia inenga nui",
+      "section1P1": "Ko nga Pūnaha Korero me te Ripoata he tino otinga pakihi e taea ai e nga whakahaere te kohi, te whakahaere, me te huri i nga raraunga hei tirohanga whai kiko. Ko enei punaha e whakauru ana i nga korero mai i nga tari maha, me te whakarite kia tika, kia rite, kia whai waahi ki nga raraunga pakihi nui. Na roto i te whakarato i tetahi papaa matua mo te whakahaere korero, ka taea e nga whakahaere te whakapai ake i te tirohanga whakahaere, te whakamaarama i nga rerenga mahi, me te tautoko i nga whakataunga rautaki puta noa i nga taumata katoa o te hinonga.",
+      "section1P2": "Ka whakamahia e enei punaha nga purongo aunoa, nga tātaritanga, me nga papatohu ki te whai i nga mahi, ki te aro turuki i nga inenga matua, me te whakaputa i nga purongo o te waa. Ma te whakaiti i nga mahi a-ringa me te whakapai ake i te tika o nga raraunga, ka taea e nga pakihi te whakatau tere me te whai hua ake.",
+      "section2Heading": "I hangaia mo te tirohanga, te hanganga ture, me te tauine",
+      "section2Text": "Na te kaha ake o te tirohanga, te hanganga ture, me te mahi tahi, Ko nga Pūnaha Korero me te Ripoata ka taea e nga whakahaere te arotau i nga tikanga, te whakapai ake i te hua, me te akiaki i te tipu o te pakihi taumau i roto i te taiao whakataetae.",
+      "ctaHeading": "Hoatu ki ia kapa kia rite tonu te pikitia mo te pakihi.",
+      "ctaText": "Tirohia me pehea e taea ai e nga Pūnaha Raraunga Nexus te whakakotahi i to purongo ki tetahi papaaata mohio.",
+      "footerCopyright": "© 2026 Pūnaha Raraunga Nexus. Katoa nga mana.",
+      "navOverview": "Tirohanga",
+      "navCapabilities": "Nga kaha",
+      "navImpact": "Pānga",
+      "navContact": "Whakapā"
+    },
+    "managedServices": {
+      "subtitle": "Nga ratonga whakahaere whanui mo to pakihi"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Te Whakahoutanga i nga Tono Pakihi mo te hinonga Raraunga",
+      "excerpt": "Me pehea e taea ai e te hoahoanga tono hou me nga raraunga hono te whakapai ake i te pai o te whakahaere, te tauine me te tirohanga pakihi.",
+      "tag": "Huringa Pakihi",
+      "category": "WHAKAMAHI KAUPAPA",
+      "summary": "Ka taea e te tono hou me te turanga raraunga te awhina i nga hinonga ki te whakapai ake i te pai o te whakahaere, te hono i nga punaha pakihi me te pai ake o te tirohanga puta noa i a raatau mahi."
+    },
+    "artificial-intelligence": {
+      "title": "Me pehea a AI ki te whakahou i nga tono umanga",
+      "excerpt": "Torotoro pehea te mahi aunoatanga mohio, nga kape AI me te maarama matapae e uru ana ki nga tono hinonga e whakawhirinaki ana nga umanga ia ra.",
+      "tag": "Maramatanga Artificial",
+      "category": "TE WHAKAMAHI TANGATA",
+      "summary": "Torotoro pehea te mahi aunoatanga mohio, nga kape AI me te maarama matapae e huri ana i nga punaha hinonga o ia ra ki nga papaaa urutau, ngaa mahi."
+    },
+    "modern-erp": {
+      "title": "Whakatere Huringa Pakihi me te ERP Hou",
+      "excerpt": "Torotoro pehea te hono a nga papaaho hou o ERP i te putea, te hoko, te mekameka tuku me nga mahi pakihi na roto i te turanga mamati kotahi.",
+      "tag": "ERP hou",
+      "category": "ERP NOANEI",
+      "summary": "He tüäpapa ERP hou e hono ana i te pütea, te hoko, te mekameka tuku, me nga mahi pakihi ki roto i te tauira mahi kotahi, wa-tuituru."
+    },
+    "cybersecurity": {
+      "title": "Hangaia te Manawao Cyber i roto i te hinonga hono",
+      "excerpt": "Torotoro me pehea e taea ai e nga whakahaere te whakapakari i te haumarutanga, te tiaki i nga punaha whakahirahira me te whakarite mo nga whakatuma puta noa i nga taiao hono.",
+      "tag": "Haumaru Haumaru",
+      "category": "CYBERSECURITY",
+      "summary": "I te wa e whakauru ana nga hinonga i te maha atu o nga punaha kapua, nga API, me nga punaha rauwiringa kaiao hoa, ma te kaha o te ipurangi ka whakapumau i nga mahi whakahirahira ki te tu atu ki nga riri hou."
+    },
+    "cloud-modernization": {
+      "title": "Te Whakahoutanga o Nga Tono Tuku iho mo te Kapua",
+      "excerpt": "Torotoro he huarahi whaitake ki te aromatawai, te whakahou me te nuku i nga tono tuku iho ki nga hoahoanga kapua e mau ana.",
+      "tag": "Kapua & Whakahoutanga",
+      "category": "KAUA & WHAKATAUTANGA",
+      "summary": "He mahere huarahi kua hangai, whai kiko hei aromatawai, hei whakahoki, hei whakawhiti i nga punaha hinonga monolithic ki nga hoahoanga kapua e mau tonu ana."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "WHAKAMAHI KAUPAPA",
+      "title": "Te Whakahou i nga tono Pakihi mo te hinonga Raraunga",
+      "subtitle": "Ka taea e te tono hou me te turanga raraunga te awhina i nga umanga ki te whakapai ake i te pai o te whakahaere, ki te hono i nga punaha pakihi me te pai ake o te tirohanga puta noa i a raatau mahi.",
+      "date": "Mahuru 2026",
+      "readTime": "7 meneti panui",
+      "imageCaption": "Tirohanga Hangarau Hinonga — Hanganga Taupānga & Raraunga Tuhono",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Nga Tono Pakihi",
+          "desc": "Nga taonga tuku iho CRM, ERP, me nga taputapu tari e rere ana i roto i nga silos."
+        },
+        {
+          "title": "Nga Raraunga Raraunga Maha",
+          "desc": "Nga ripanga mahi kua wehewehea, nga tangohanga CSV, me nga aronuinga aahua."
+        },
+        {
+          "title": "Nga Raraunga Raraunga Momotu",
+          "desc": "Nga putunga raraunga kapua kua wehea i runga ake i te kaainga me te kore ruruku."
+        },
+        {
+          "title": "Nga Purongo me nga Kaiwhakamahi Pakihi",
+          "desc": "Nga houhanga a-ringa, nga ripanga taupatupatu, me nga purongo whakaroa."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Nga Tono Pakihi",
+          "desc": "Nga papa whakahaere matua me nga atanga urupare hou."
+        },
+        {
+          "title": "API / Apa Whakauru",
+          "desc": "Te keti API haumaru, i aia e te takahanga e hono ana i nga rerengamahi hinonga."
+        },
+        {
+          "title": "Ratonga Raraunga",
+          "desc": "Nga tauira raraunga matua whakakotahi, paipa, me nga miihini rokiroki pai."
+        },
+        {
+          "title": "Tātaritanga me te Pūrongo",
+          "desc": "Waea-a-waa-a-waa, nga tauira tohutoro, me nga purongo aunoa."
+        },
+        {
+          "title": "Nga Kaihanga Whakatau Pakihi",
+          "desc": "Nga papatohu whakahaere ora e whakarato ana i te tirohanga rangatira kotahi."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Nga tono hinonga",
+          "purpose": "Whakahaere tukanga pakihi\n<"
+        },
+        {
+          "area": "API",
+          "purpose": "Te tuitui pūnaha"
+        },
+        {
+          "area": "Nga Raraunga Raraunga",
+          "purpose": "Raraunga pakihi hanganga"
+        },
+        {
+          "area": "Whakauru Raraunga",
+          "purpose": "Te hono i nga puna maha"
+        },
+        {
+          "area": "Tātaritanga",
+          "purpose": "Nga tirohanga pakihi"
+        },
+        {
+          "area": "Hanganga Kapua",
+          "purpose": "Whakanuia me te ngawari"
+        },
+        {
+          "area": "Aroturuki",
+          "purpose": "Te pono me te mahi"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Kua pai ake te tirohanga whakahaere puta noa i nga waahanga whakawhiti",
+        "He pai ake te rite o nga raraunga me te puna kotahi o te pono hinonga",
+        "Kua whakaitihia te mahi purongo a-ringa me te whakahiato raraunga aunoa",
+        "Kua pai ake te mahi tono me te whakaheke i te toronga tauwhitinga",
+        "He ngawari ake te whakaurunga o te punaha ma nga API paerewa, haumaru",
+        "He nui ake te tauine hei tautoko i te tipu me te hoko",
+        "He turanga pai ake mo nga mahi auaha me te tango matauranga"
+      ],
+      "keyPerspectivePoints": [
+        "Te mohio ki nga tukanga pakihi me nga rerenga mahi tuturu",
+        "Te hono i nga punaha ma nga paerewa whakauru pono",
+        "Te whakapai ake i te kounga raraunga, te mana whakahaere me nga tauira raraunga rangatira",
+        "Te whakahou i nga tono me te kore e whakararu i nga mahi o ia ra",
+        "Te hanga hoahoanga tauineine e tika ana mo te tipu rapa",
+        "Kia pai ake te tirohanga pakihi mo nga mahi whakatau"
+      ],
+      "sec1Eyebrow": "TE WANANGA PAHIHI",
+      "sec1Heading": "Te Whakatere Matatini i roto i tetahi Hinonga e tipu haere ana",
+      "sec1Subtext": "I te nui o nga pakihi, ka tipu haere nga punaha rauropi hangarau. Ko nga mea ka tiimata hei otinga arotahi mo nga tari takitahi ka huri ki roto i te paetukutuku marara o nga punaha rereke.",
+      "sec2Eyebrow": "WHAKAWHANGA PUNA",
+      "sec2Heading": "He Whenua Hangarau Matatini",
+      "sec2Subtext": "I te wa e tipu takitahi ana nga tono pakihi, nga papaunga raraunga, me nga punaha whakahaere, ka wehewehea nga rerenga korero. Ko te mohio ki tenei wahanga ko te tino mahi tuatahi.",
+      "sec3Eyebrow": "TE TAUIRA HUA",
+      "sec3Heading": "Hangahanga Taumahi Hou",
+      "sec3Subtext": "Ka neke nga hinonga ki te hoahoanga-a-takitahi, API-tuatahi ka rere pono nga raraunga puta noa i nga papaaapapa matua, ka tae atu ki nga kaihanga whakatau i te waa tuturu.",
+      "sec4Eyebrow": "TE WHAKAMAHI ME TE KORERO",
+      "sec4Heading": "Raraunga Tuhono me te Tatari",
+      "sec4Subtext": "I te wa e whakawhitiwhiti ana nga tono pakihi, ka mutu nga raraunga hei whakaputanga purongo, ka noho hei kaikawe tuatahi mo te kaikawe whakahaere.\n<",
+      "sec5Eyebrow": "BLUEPRINT ARCHITECTURE",
+      "sec5Heading": "Te Kaupapa Hangarau",
+      "sec5Subtext": "He tirohanga matawhānui mo nga waahanga hangarau matua e tito ana i te turanga hinonga hou, ka taea te tauine.",
+      "sec6Eyebrow": "UARA TIKA",
+      "sec6Heading": "Paanga Pakihi",
+      "sec6Subtext": "Ko te whakahou ake i te hoahoanga tono me te hono i nga raraunga kua maataki ka puta nga whakapainga whakahaere puta noa i te whakahaere.",
+      "ctaHeading": "Kua Riri ki te Whakahou I To Taiao Hangarau?",
+      "ctaDescription": "Torotoro me pehea e taea ai e te hoahoanga tono hou, nga raraunga hono me te hangarau whakaineine te awhina i nga whakahaere ki te whakapai ake i te pai me te whakarite mo te tipu a meake nei.",
+      "ctaButton": "Korero ki o Tatou Tohunga",
+      "sec1P1": "I roto i te taiao umanga angamaheni, he maha nga wa ka uru mai te tipuranga ki nga reanga maha o te rorohiko. He maha nga wa e mahi ana te putea, te mekameka tuku, te ratonga kaihoko, me nga mahi mara i runga i nga putunga rorohiko motuhake i riro mai, i hangaia ranei i nga waa rereke. I roto i nga tau o te whanaketanga whakahaere, ka whakawhanake enei punaha i o raatau ake whakatakotoranga raraunga, whakahou i nga waahanga, me nga mahi whakauru.",
+      "sec1P2": "Ka kitea te taupatupatu puta noa i te hinonga na roto i nga kohungahunga mahi noa:",
+      "sec1List": [
+        {
+          "bold": "Nga tono pakihi maha kua momotuhia",
+          "text": "e hiahia ana kia taarua te urunga raraunga me te tohutoro-a-ringa."
+        },
+        {
+          "bold": "Nga papaunga raraunga kua wehea",
+          "text": "ka mahi me te kore he mana whakahaere, he rekoata matua whakakotahi ranei."
+        },
+        {
+          "bold": "Ripoata a-ringa ki runga",
+          "text": ", e noho ana nga roopu tātari i nga ra ki te tuitui i nga kaweake ki tawahi, kaua ki te hura whakaaro."
+        },
+        {
+          "bold": "Raraunga maiorooro",
+          "text": "puta noa i nga tari, te hanga whakautu taupatupatu ki nga paatai whakahaere matua."
+        },
+        {
+          "bold": "Te tiaki i runga i te tono me nga rohe tauineine",
+          "text": ", i te mea e uaua ana nga hononga tuku iho tohu-ki-ira ki te tautoko i te tipu haere o nga pukapuka hokohoko."
+        }
+      ],
+      "sec1P3": "Ma te whakatika i enei wero me titiro ki te whenua hangarau ehara i te kohinga o nga hoko rorohiko taratahi, engari he papa pakihi honohono i hangaia hei tautoko i te kakama rautaki.",
+      "legacyLandscapeBadge": "Rainanga Tuku iho",
+      "legacyLandscapeTitle": "Te Rerenga Momoohio Waahanga",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silos Raraunga",
+          "desc": "Ka mau tonu nga raraunga a nga kaihoko, putea, me nga rarangi pukapuka ki nga papahanga tari, kia kore ai te tirohanga kotahi mo nga mahi pakihi.\n<"
+        },
+        {
+          "num": "02",
+          "title": "Nga Waahi Whakakotahitanga",
+          "desc": "Ko nga hononga tohu-ki-ira me nga tangohanga puranga o ia po ka hanga roa, he nui nga reeti kore, me te utu nui o te tiaki i nga roopu whakahaere."
+        },
+        {
+          "num": "03",
+          "title": "Nga korero kua roa",
+          "desc": "Ina tatari nga kaiwhakahaere i nga ra mo te houhanga rongo i te mutunga o te marama kia mohio ai ratou ki nga mahi, ka tauhohe nga mahi whakatau, kaua ki te matapae."
+        }
+      ],
+      "modernArchitectureBadge": "Te Hangahanga Whainga",
+      "modernArchitectureTitle": "Tauira Tono Hinonga Hononga",
+      "sec3P1": "Ko te hoahoanga tono hou e whakakapi ana i nga hononga pakaru-ki-te-ira ki te turanga kakama, kua wehea. Ma te whakatuu i te API pakari me te paparanga whakauru, ka pahekoheko nga punaha na roto i nga waahi mutunga e whakahaerehia ana, me te pupuri i te mana motuhake o nga waahanga pakihi takitahi.",
+      "sec3P2": "Ko nga kaha hangarau matua o tenei nekehanga hoahoanga ko:",
+      "sec3List": [
+        {
+          "bold": "Whakahoutanga tono:",
+          "text": "Te whakakore i te arorau pakihi matua ki nga ratonga tauineine."
+        },
+        {
+          "bold": "Whakauru API:",
+          "text": "Te whakapumau i nga atanga paerewa, kua tuhia mo te mahi tahi o roto me te hoa."
+        },
+        {
+          "bold": "Whakauru Raraunga me te arotautanga raraunga:",
+          "text": "Te whakakotahi i nga raina paipa raraunga whakahaere me te arotautanga patai nui.\n<"
+        },
+        {
+          "bold": "Matakitaki me te haumaru:",
+          "text": "Te whakatinana i te waea waea, nga huarahi arotake, me nga mana uru ki runga i nga mahi puta noa i nga ratonga katoa."
+        }
+      ],
+      "sec4P1": "Ka huri nga turanga raraunga whakauru i te mahi a te kaiarahi me nga roopu whakahaere me nga korero. Engari ki te whakawhirinaki ki nga purongo whakamuri e whakaatu ana i nga mea i puta i nga wiki kua hipa, ka whiwhi nga whakahaere i nga waea waea whakahaere puta noa i nga waahanga pakihi.",
+      "sec4P2": "Ko nga raraunga hono me nga tātaritanga e tautoko ana i nga hua pakihi tauwhiro ma:",
+      "sec4List": [
+        {
+          "bold": "Tirohanga mahi:",
+          "text": "Puta tonu puta noa i nga hokonga, i nga raarangi, i nga whakatutukitanga me nga mahi putea."
+        },
+        {
+          "bold": "He tere ake te tuku korero:",
+          "text": "Ko te whakahiato raraunga i runga i te tono e whakakore ana i nga ripanga a-ringa tukurua."
+        },
+        {
+          "bold": "Nga korero rite:",
+          "text": "Ko nga whakamaramatanga kotahi mo nga inenga penei i te tawhē, te uara ora o te kaihoko, me te tere arahi."
+        },
+        {
+          "bold": "He pai ake nga tirohanga pakihi:",
+          "text": "Te kitenga tauira matapae ka puta nga tupono me nga whai waahi i mua i te waa."
+        },
+        {
+          "bold": "Kua pai ake te whakatau whakatau:",
+          "text": "Te mahi a te kaiwhakahaere maia e tautokohia ana e te whakapapa raraunga whaimana me te maramatanga."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TIROHANGA RAUTAKI",
+      "keyPerspectiveTitle": "He nui ake te Whakahoutanga i te Whakakapinga Pūmanawa",
+      "keyPerspectiveLead": "Ko te whakahou i nga tono pakihi ehara i te whakakapi noa i nga rorohiko tawhito ki nga taputapu hou. He whakahāngaitanga o te hangarau me pehea te mahi a te pakihi, te pauna, me te tuku uara."
+    },
+    "artificialIntelligence": {
+      "category": "TE WHAKAMAHI TANGATA",
+      "title": "Me pehea a AI ki te whakahou i nga tono hinonga",
+      "subtitle": "Torotoro pehea te mahi aunoatanga mohio, nga kape AI me te maarama matapae hei waahanga o nga tono hinonga e whakawhirinaki ana nga umanga ia ra.\n<",
+      "date": "Mahuru 2026",
+      "readTime": "6 meneti panui",
+      "imageCaption": "Tirohanga Hangarau Hangarau — Hangarau Hangarau me nga punaha hinonga",
+      "aiUseCases": [
+        {
+          "title": "Matapae Raina Raina",
+          "desc": "Te matapae i te pikinga o te tono me te whakaroa mai i te waea a nga kaiwhakarato o mua."
+        },
+        {
+          "title": "Te Kaute Moni Aunoa",
+          "desc": "Te tango i nga mea raina me te whakarite ki nga ota hoko kaore he urunga tangata."
+        },
+        {
+          "title": "Nga Tepu Ratonga Maramarama",
+          "desc": "Te whakamatautau me te whakatau aunoa mo nga tono IT me te HR a nga kaimahi Tier-1."
+        },
+        {
+          "title": "Aukati Kiritaki Churn",
+          "desc": "Rapoi whanonga e tautuhi ana i nga tohu waku moata mo te toro atu."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "He tere ake nga whakatau whakahaere e peehia ana e nga tauira matapae wa-tūturu",
+        "Te whakaheke i te tukatuka raraunga tukurua me te houhanga a-ringa",
+        "He nui ake te urunga o nga kaimahi me te awhina taapiri horopaki",
+        "Kua pai ake te pai o nga kaihoko na roto i nga wheako tino-whaiaro",
+        "Te mahi tonu i te arotautanga whaiaro i runga i te tino waea",
+        "Ko te aroturuki i nga hanganga ture kua whakakorehia ma te tirotiro tirotiro-raupapa aunoa"
+      ],
+      "governancePoints": [
+        "Kia kaha te uru ki runga i nga mahi kia kore ai nga tauira AI e tuku i nga raraunga tairongo",
+        "Nga tohu whakaaro marama e taea ai te arotake a te tangata mo nga mahi utu nui",
+        "Aromātai tauira haere tonu hei tiaki i te pohewa me te rītaha",
+        "Nga paerewa takenga raraunga tino e hono ana ki te GDPR, SOC 2, me te HIPAA",
+        "Nga ara pikinga-tangata-i-te-kopiko mo nga ahuatanga o te taha koretake"
+      ],
+      "sec1Eyebrow": "TE HIKI KI TE MAHI MAOTI",
+      "sec1Heading": "AI i roto i nga tono hinonga",
+      "sec1Subtext": "Kei te whakawhiti te matauranga Artificial mai i nga kaupapa-taha-whakamatautau ki nga tono whakahaere matua e whakawhirinaki ana nga umanga ia ra.",
+      "sec2Eyebrow": "TE WHAKAMAHI I TE KAUPAPA",
+      "sec2Heading": "Aunoatanga Maramarama",
+      "sec2Subtext": "Ko te neke ki tua atu i nga tuhinga tuhi ture tuku iho ki nga rerengamahi hinengaro e mohio ana ki nga ihirangi kore hanga, urutau ki nga rerekee, me te arotau i nga mahi.",
+      "sec3Eyebrow": "AWHINA WHAKAPUTA",
+      "sec3Heading": "Nga Kaihanga AI Enterprise",
+      "sec3Subtext": "I runga i te matauranga whakahaere me te haumaru hinonga, ka mahi nga kaiawhina AI hei hoa motuhake puta noa i nga rerenga mahi pakihi o ia ra.",
+      "sec4Eyebrow": "WHAKAARO MUA",
+      "sec4Heading": "Matakite Matapae",
+      "sec4Subtext": "Te huri i nga raarangi hinonga o mua me nga whangai whakahaere-waahi hei tirohanga matakite.",
+      "sec5Eyebrow": "NGA TONO AO-TINO",
+      "sec5Heading": "Nga Take Whakamahi AI Enterprise AI",
+      "sec5Subtext": "Ko nga huarahi whai tikanga e arataki ana i nga whakahaere ki te whakamahi i te matauranga horihori puta noa i nga mahi pakihi matua.",
+      "sec6Eyebrow": "UARA RAUTAKI",
+      "sec6Heading": "Nga Painga Pakihi",
+      "sec6Subtext": "Ina whakatinanahia ma te whakaaro nui me nga raraunga hinonga whakahaere, ka whakatuwherahia e AI nga painga kounga nui.",
+      "ctaHeading": "Tirotirohia nga Whainga AI mo to Pakihi",
+      "ctaDescription": "Tirohia me pehea e taea ai e te aunoatanga mohio, nga kape hinonga me nga tauira matapae te whakatuwhera i te pai o te whakahaere puta noa i o punaha matua.",
+      "ctaButton": "Korero ki o Tatou Tohunga",
+      "sec1P1": "He maha nga tau, i whakaarohia te matauranga hangai hinonga hei mana o waho: he tauira i whakangungua mokemoke, he whakaaturanga pouaka kirikiri, he korerorero taratahi ranei ka uru atu ma te tomokanga motuhake. I tenei ra, kua tino huri te tauira. Ko AI te hinonga nui-paanga kua whakauruhia ki roto i nga punaha rekoata—ko nga ERP, CRM, nga papa whakapaipai tangata, me nga miihini mekameka tuku kei reira nga mahi pakihi.",
+      "sec1P2": "I te wa e mahi ana te matauranga i roto i te punaha rekoata, ka riro i a ia nga rohe haumarutanga kua whakaritea, nga tauira raraunga, me te arorau pakihi. Ehara i te whakaputa noa i nga whakautu whanui; ka mahi i runga i nga ota ora, te whakamaori i nga tikiti tautoko tuwhera, te whakatikatika i nga nama a nga kaiwhakarato, me te awhina i nga kaimahi i roto i nga hononga tika e whakaterehia ana e ratou ia ra.",
+      "sec1P3": "Ko tenei panoni ka nekehia nga rorohiko hinonga mai i nga papaaarangi paanui e tatari ana mo nga patene tangata ki roto i nga papaa mahi e tatari ana ki nga hiahia, whakaaunoa i nga hikoinga, me te whakaatu i nga taunakitanga i te waa.",
+      "sec2P1": "Tikanga Rorohiko Tukatuka Tikanga (RPA) i tino pai ki te wetewete i te mata o te mata. Heoi, ka pakaru nga huinga ture maataki i nga wa katoa ka huri te ahua, ka tae mai he tahora tuhinga ohorere, ka puta mai ranei he okotahi. Ko te aunoatanga mohio e piri ana i tenei wehenga ma te whakakotahi i nga whakaaro mohio me nga mahi tauwhitinga:",
+      "sec2List": [
+        {
+          "bold": "Reremahi aunoa:",
+          "text": "Te whakarite i nga mahi whakawhiti-a-taringa uaua, nga mahi ararere i runga i nga huarahi tere me nga huarahi whakatau o mua."
+        },
+        {
+          "bold": "Tukatuka tuhinga mohio:",
+          "text": "Te whakauru i nga PDF kore-hanganga, nga imeera, nga whakaaturanga kaipuke, me nga kirimana, ka huri hei tauwhitinga papaa raraunga hanganga."
+        },
+        {
+          "bold": "Aunoatanga mahi mohio:",
+          "text": "Whakaaunoa i nga whakamanatanga whakahaere maha-penei i te whakaorite i nga ota hoko ki nga riki me nga tauākī peeke."
+        },
+        {
+          "bold": "Arotautanga tukanga:",
+          "text": "Te wetewete haere tonu i nga raarangi mahi ki te tautuhi i nga kohanga o te waa huringa me te taunaki i nga whakatikatika rerengamahi kua whakaritea."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Rapu Korero",
+          "desc": "Tikina reo puta noa i nga turanga matauranga toha, kaupapa here ipurangiroto, whakaritenga hua, me nga whakataunga tiiti o mua me te kore e matapae kupu matua."
+        },
+        {
+          "icon": "📝",
+          "title": "Whakarāpopototanga Tuhinga",
+          "desc": "Te whakakorenga o nga RFP roa, nga whakaaetanga kaihoko, nga whakaritenga hangarau, me nga whakatikatika ture ki roto i nga purongo whakahaere me nga rarangi arowhai morearea."
+        },
+        {
+          "icon": "✨",
+          "title": "Whakatupu Ihirangi",
+          "desc": "I awhina i te tuhi i nga tono a nga kiritaki, i nga tuhinga mahi, i nga tikanga whakahaere paerewa (SOP), me nga whakahou hou a nga kaihoko e hono ana ki nga paerewa waitohu.\n<"
+        },
+        {
+          "icon": "📈",
+          "title": "Tātari Raraunga",
+          "desc": "Te whakamaori i nga pakirehua korero ki roto i nga paatai wetewete uaua, te whakaputa whakarāpopototanga tūtohi i runga i te rere, me te whakaatu i nga korero whakahirahira mo te kaiarahi.\n<"
+        },
+        {
+          "icon": "🔄",
+          "title": "Nga Rerengamahi Pakihi",
+          "desc": "Ka timata tika i nga whakawhitiwhitinga mai i nga korero akiaki—penei i te whakarite rauemi, te hanga tikiti, te whakahou i nga rekoata, te tuku tono hoko ranei."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Te Uru-a-Turanga",
+          "desc": "Ko te whakarite i nga whakautu kape ka tino whakaute i nga taumata whakaaetanga a nga kaiwhakamahi, me te pupuri i nga putea huna, nga konae HR, me nga rawa hinengaro."
+        }
+      ],
+      "sec4P1": "Ahakoa te hiranga o nga tauira whakatipu ki te mohio me te whakahiato i te reo, ka aro te mohio matapae ki nga tauira pangarau huna i roto i nga huingararaunga hinonga. Ko nga tauira matapae kua whakauruhia ki te whakamana i nga whakahaere ki te tatari i nga arai whakahaere i mua i te whakararu i nga mahi:",
+      "sec4List": [
+        {
+          "bold": "Matapae mahi:",
+          "text": "Te matapae i nga ia moni whiwhi, te tere pukapuka, me nga tono rauemi ma te whakahiato i nga tohu o te kaupeka me te tere paipa o te waa."
+        },
+        {
+          "bold": "Tātari matapae:",
+          "text": "Te tohu i nga morearea o te hurihanga a nga kaihoko, nga huringa whakahekenga tiaki, me te whakaroa o nga mekameka tuku i te wa e whai wa ana ki te wawao."
+        },
+        {
+          "bold": "Tautuhinga morearea:",
+          "text": "Te tohu i nga kohihiko i roto i nga whakawhitiwhitinga putea, nga raarangi hanganga ture, me nga tauira hoko kaihoko i mua i te piki haere."
+        },
+        {
+          "bold": "Matapae tono:",
+          "text": "Te whakakotahi i nga matapae hoko me te kaha whakangao me nga taumata o nga taonga whare putunga hei tiaki i te whakapaipai mahi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TE KAWANATANGA KAUPAPA",
+      "keyPerspectiveTitle": "Whakawhirinaki, Tirotiro me nga Ararere",
+      "keyPerspectiveLead": "He rite noa te ti'aturi o AI ki te turanga raraunga kei raro iho me te mana whakahaere e karapoti ana. Ko te whakatamarikitanga hinonga tauwhiro e hiahia ana ki te ako i nga mahi hoahoanga:"
+    },
+    "modernErp": {
+      "category": "ERP NOANEI",
+      "title": "Te Whakatere Huringa Pakihi me te ERP Hou",
+      "subtitle": "Torotoro me pehea te hono a nga papaaho ERP hou i nga putea, hoko, mekameka tuku me nga mahi pakihi ma te turanga mamati kotahi.",
+      "date": "Akuhata 2026",
+      "readTime": "6 meneti panui",
+      "imageCaption": "Tirohanga Hangarau Hangarau — ERP & Mahi Pakihi Hononga",
+      "connectedFunctions": [
+        {
+          "title": "Whakahaere Putea",
+          "desc": "Nga whakahōutanga o te pukapuka pukapuka mo te wa-tuuturu, te whakamohiotanga moni whiwhi aunoa, me te houhanga moni maha tonu."
+        },
+        {
+          "title": "Raina Whakarato me te Raraunga",
+          "desc": "Putanga-ki-te-mutunga tirohanga, arotautanga whare putunga, me te waea mahi a te kaiwhakarato."
+        },
+        {
+          "title": "Tangata Tangata & Mahi Mahi",
+          "desc": "Nga tomokanga o nga kaimahi mahi-whaiaro, nga utu utu aunoa, me te whakamahere huringa oranga o te taranata."
+        },
+        {
+          "title": "Te Hokonga me te Mahinga",
+          "desc": "Whakaaetanga hoko aunoa, tautukunga kirimana kaihoko, me te tātari whakapaunga hihiri."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Kapua-Native Architecture",
+          "desc": "Whakanuia rorohiko rapa me te kore hangahanga i runga ake i te waahi, he raka ranei te putanga whakararuraru."
+        },
+        {
+          "title": "Whakatuwherahia te punaha rauropi API",
+          "desc": "Tuhono i mua i hangaia e taea ai te tukutahi raraunga ara-rua me nga ratonga miihini ritenga me nga huinga CRM."
+        },
+        {
+          "title": "Nga Tatari Whakamau",
+          "desc": "Whakahauhia te papatohu mai i nga pepa toenga taumata teitei ki roto i nga raarangi tauwhitinga takitahi."
+        },
+        {
+          "title": "Rere Mahi Aunoa",
+          "desc": "Ko te takahanga-a-takahanga ka tiimata te whakahaere i nga mahi whakawhiti-taringa paerewa motuhake."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Ko te puna kotahi o te pono e whakakore ana i nga purongo a nga tari taupatupatu",
+        "He iti te whakahekenga o nga huringa kati mutunga-marama me te hauwha-mutunga",
+        "Te wa-tu-tuu-tuu-tuu-tuuturu me te whakakitenga arorau hei whakaiti i nga taonga",
+        "I whakaitihia te tiaki IT i runga ake na roto i nga whakahoutanga kapua-taketake",
+        "Te aroturuki i nga hanganga ture whakakotahi puta noa i nga mana taake a-rohe maha",
+        "He tere ake te whakaurunga o nga hinonga kua riro ki roto i nga tuara mahi tiritahi"
+      ],
+      "erpStrategyPoints": [
+        "Whakaritea te hoahoanga ERP me nga rerenga mahi matua i mua i te whirihoranga",
+        "Te kowhiri i nga tauira whakangao kia tere ai te wikitoria",
+        "Te kaupapa matua mo te hekenga me te houhanga rongo",
+        "Te whakauru i te whakahaere huringa aunoa me nga kaupapa whakangungu kua whakaritea",
+        "Te hoahoa i nga kuaha API mo te whakawhanaungatanga a muri ake nei"
+      ],
+      "sec1Eyebrow": "TE TUARUA WHAKAMAHI",
+      "sec1Heading": "He aha te take o te ERP o naianei",
+      "sec1Subtext": "Ehara i te mea ko te ERP te kaute kaute. Ko te tauira whakahaere o te hinonga hou e whakaatuhia ana i roto i te rorohiko.",
+      "sec2Eyebrow": "TE KAIWHIRI KIA",
+      "sec2Heading": "Nga Mahi Pakihi Hononga",
+      "sec2Subtext": "Ka puta te uara whakahaere tuturu ina mahi tahi nga mahi pakihi matua i runga i te turanga mamati tiritahi.\n<",
+      "sec3Eyebrow": "RUNGA-MAHI RANGI",
+      "sec3Heading": "Nga Mahi Whakakotahi me te Rere Korero",
+      "sec3Subtext": "Te wawahi i nga pakitara korero i waenga i nga tari kia taea ai te rere o nga rerenga mahi hinonga.",
+      "sec4Eyebrow": "ENTERPRISE TELEMETRY",
+      "sec4Heading": "Tirohanga Pakihi Waa-Tuturu",
+      "sec4Subtext": "Te whakakotahi i nga inenga whakahaere ki nga papatohu whakahaere marama e whakaata ana i nga ahuatanga pakihi o naianei.\n<",
+      "sec5Eyebrow": "TE WHAKARANGA KAUPAPA KAUPAPA",
+      "sec5Heading": "Nga Mahinga ERP Hou",
+      "sec5Subtext": "Nga huanga hoahoanga e wehe ana i nga papaaho ERP o naianei mai i nga whakaurunga tuku iho.",
+      "sec6Eyebrow": "WHAKAMAHI KAUPAPA",
+      "sec6Heading": "Nga Painga Pakihi",
+      "sec6Subtext": "Ko te hono i nga mahi pakihi matua ki te turanga mamati whakakotahi ka puta te mana whakahaere ine.",
+      "ctaHeading": "Whakahouhia o Mahi Mahi",
+      "ctaDescription": "Torotoro pehea te hono a nga papaaho hou o ERP i nga putea, hoko, mekameka tuku me nga mahi pakihi ma te turanga mamati kotahi.",
+      "ctaButton": "Korero ki o Tatou Tohunga",
+      "sec1P1": "I roto i nga whenua hinonga e tere haere ana, he maha nga wa e uaua ana nga punaha Whakamahere Rauemi hinonga. I hangaia i roto i te waa o te tukatuka puranga me nga kaitoro o te rohe motuhake, i tino whakaritehia nga ERP tuku iho, he uaua ki te whakapai ake, me te mamae mamae. Ko nga mahi pakihi nui i mahi i roto i nga siloes whakarara, e whakawhirinaki ana ki nga kaweake ngoikore mo te po ki te tukutahi i nga pukapuka pukapuka me nga whare putunga.",
+      "sec1P2": "Ko te ERP o naianei, ko te kapua-maori te tautuhi ano i tenei hihiko. Ka mahi hei tuara mamati whakakotahi o te hinonga—he turanga ora e mahi ai te putea, te hoko, te mekameka tuku, te raarangi, me nga rauemi tangata i runga i te tauira raraunga tiritahi.",
+      "sec1P3": "Ma te kawe mai i nga mahi matua ki roto i te taiao whakakotahi kotahi, ka whakakorehia e te ERP hou nga waahi matapo e whakaroa ana i te tipu, e taea ai e nga kaiarahi te arahi i te pakihi ma te whakamahi i nga tohu o te waa tuuturu, kaua ki nga whakarāpopototanga o mua.",
+      "sec3P1": "He iti noa nga raruraru a te tangata; he raruraru hoahoanga. I te wa e mahi ana nga ratonga kaihoko, hoko, me nga roopu whare putunga ki nga tono momotuhia, me tono imeera a-ringa, ripanga me nga waea waea. Ka maha nga hapa, ka mau nga nama, ka paheke nga herenga a nga kaihoko.",
+      "sec3P2": "Ka whakatutukihia e te ERP o naianei na roto i te whakapapa raraunga whakakotahi me te whakahiato i nga mahi a te takahanga:",
+      "sec3List": [
+        {
+          "bold": "Tono tukutahi-ki-moni:",
+          "text": "Ka tukuna he ota a nga kaihoko, ka rahuihia nga raarangi, ka whakaputa nga tapanga kaipuke, ka whakahou tonu nga pukapuka pukapuka nama."
+        },
+        {
+          "bold": "Hokona-ki-utu maramatanga:",
+          "text": "Ko nga ota hoko, rihīti taonga, me nga nama kaihoko ka hono aunoa ki te houhanga 3-ara, ka tohu i nga tuunga mo te arotake tangata."
+        },
+        {
+          "bold": "Te utu mahi me te utu whakahaere:",
+          "text": "Ko nga pepa taima kaupapa, nga toha utu utu, me nga whakapaunga whakahaere tika ka mapi tika ki nga pokapu utu i te waa tuturu."
+        }
+      ],
+      "sec4P1": "Ko te whakahaere hinonga me te kore e kitea kotahitanga he rite ki te rere i roto i te kohu matotoru me nga taputapu whakaroa. Ko te ERP o naianei e whakarato ana i te waea-a-waa-a-waa puta noa i nga waahanga pakihi katoa:",
+      "sec4List": [
+        {
+          "bold": "Nga papatohu kaiwhakahaere ora:",
+          "text": "Nga tirohanga ohorere mo nga tawhē nui, nga rerenga ukauka whakahaere, nga taunahatanga tuwhera, me nga ota whakamuri me te kore e tatari mo te katinga-mutunga."
+        },
+        {
+          "bold": "Nga purongo whakahaere-whaiaro:",
+          "text": "Ka taea e nga upoko o nga tari te hanga patai ritenga me te tirotiro mai i nga whakarāpopototanga taumata hinonga ki nga taonga raina tauwhitinga takitahi."
+        },
+        {
+          "bold": "Nga korero matua matua:",
+          "text": "Te whakakore i nga tau taupatupatu ma te whakatuu i nga raraunga rangatira kotahi mo nga kaihoko, kaihoko, me nga raarangi hua."
+        },
+        {
+          "bold": "Matohi anomaly proactive:",
+          "text": "Ko nga matohi aunoa ka whakamohio atu ki nga kaiwhakahaere ina heke iho nga tawhē ki raro i te paepae, ka iti haere nga taonga, ka paheke ranei nga tuku tuku."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TE WHAKAMAHI WHAKAMAHI ERP",
+      "keyPerspectiveTitle": "Te Whakahoutanga Tikanga mo te Whakahou Monolithic",
+      "keyPerspectiveLead": "Ka angitu te hurihanga ERP o naianei ina ka whakaarohia e nga whakahaere he whakamohoatanga whakahaere kunenga ake, kaua ki te aukati IT katoa-kaore ranei:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Hangaia te Manawao Cyber i roto i te hinonga hono",
+      "subtitle": "Torotoro me pehea e taea ai e nga whakahaere te whakapakari i te haumarutanga, te tiaki i nga punaha whakahirahira me te whakarite mo nga whakatuma puta noa i nga taiao hono.",
+      "date": "Mahuru 2026",
+      "readTime": "8 meneti panui",
+      "imageCaption": "Tirohanga Hangarau Hinonga — Tiaki Tiaki me te Hanganga Kore-Trust",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Rapu",
+          "desc": "Te whakaurunga rangitaki wa-tūturu me te hononga anomaly SIEM puta noa i nga waahi mutunga kapua me nga kawenga mahi."
+        },
+        {
+          "title": "Pupuri me te Wehe",
+          "desc": "Nga ture taratahi whatunga aunoa e wehe ana i nga ipu kua taupatupatuhia, i nga tohu tohu ranei."
+        },
+        {
+          "title": "Whakatikatika me te Putake-take",
+          "desc": "Ko te whakaputanga papaki tere me te rangahau matapae mamati e tohu ana i te vector pakaru tika."
+        },
+        {
+          "title": "Te Maamaa me te Whakapakeke",
+          "desc": "Nga urupare haere tonu ki roto i nga taapiri e kore e taea te whakarereke, nga arai kaupapa here, me nga whaihanga a te roopu-whero aunoa."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "He nui te whakahekenga o nga mata whakaeke whakaraerae puta noa i nga rawa kapua",
+        "Whakapumautia te haere tonu o te whakahaere me te whakaora i nga aitua me te iti o te RTO/RPO",
+        "Te katoa o te maia herenga puta noa i te ISO 27001, SOC 2, HIPAA, me te GDPR arotake",
+        "Tiaki i nga rawa hinengaro hinonga matua me nga rekoata a nga kaihoko",
+        "Kaihoko tere me te mana whakahaere morearea o te hunga tuatoru na roto i nga mana uru whakakotahi",
+        "Whakanuia te whakawhirinaki o te kiritaki me te kaipakihi kua tautokohia e nga turanga haumaru kore-whirinaki"
+      ],
+      "zeroTrustPrinciples": [
+        "Kaua rawa e ti'aturi, Manatoko i nga wa katoa: Ko te motuhēhēnga marama e hiahiatia ana mo ia tauwhitinga",
+        "Te Whakaaetanga Whakaiti rawa atu: Ko nga rohenga o nga waahi e whakatiki ana i nga nekehanga whakatuma whakamuri.",
+        "Whakaarohia te Waahi: Te aro turuki tonu i te riri, te whakamunatanga i te whakawhiti me te okioki",
+        "Waahanga Mokoiti: Ko nga papangaahi whatunga e wehe ana i nga kawenga mahi tono takitahi",
+        "Telemetry Tonu: Te tātari whanonga aunoa e tohu ana i nga tono huihuinga rereke"
+      ],
+      "sec1Eyebrow": "TE ROA TE ROA",
+      "sec1Heading": "Ko te Whakaaetanga Haumarutanga Hinonga Hononga",
+      "sec1Subtext": "I te wa e hono ana nga whakahaere hou i nga tono, nga taiao kapua, nga kaimahi mamao, nga taputapu pūkoro, me nga hoa-tuatoru, ka mutu te noho o te paenga haumarutanga tuku iho.",
+      "sec2Eyebrow": "WHAKATAURANGA KAUPAPA",
+      "sec2Heading": "Parenga Whakamatau-maha-papa",
+      "sec2Subtext": "Nga parenga kaha e tiaki ana i nga hanganga whakahirahira, nga raraunga umanga tairongo, me nga punaha whakahaere.",
+      "sec3Eyebrow": "TE TAITAE HOU",
+      "sec3Heading": "Te Tuakiri me te Whakahaere Uru (IAM)",
+      "sec3Subtext": "Ko te tuakiri te papa whakahaere turanga o te haumarutanga hou. Tata ki te katoa o nga pakaru haumarutanga ka timata mai i nga tohu kua taupatupatuhia, kaua ki nga mahi rorohiko.",
+      "sec4Eyebrow": "PARADIGMA ARCHITECTURAL",
+      "sec4Heading": "Te Whakakore i te Hanganga Kore Trust",
+      "sec4Subtext": "Ko Zero Trust ehara i te hua, taputapu kotahi. He rautaki hoahoanga i runga i te maapono tika: kaua e whakawhirinaki ki tetahi hinonga i roto, i waho ranei o te whatunga ma te taunoa.",
+      "sec5Eyebrow": "TE KARERE WHAKAMAHI",
+      "sec5Heading": "Nga Whakaaro Haumarutanga Kapua",
+      "sec5Subtext": "Te tiaki i nga kawenga mahi puta noa i te kapua a te iwi, nga hoahoanga ranu, me nga taiao ipu toha.",
+      "sec6Eyebrow": "TE WHAKAMAHI KAUPAPA",
+      "sec6Heading": "Riri ai nga aitua: I tua atu i te Aukati",
+      "sec6Subtext": "Ka whakaaetia e te tino pakari ipurangi tera pea ka puta mai nga aitua. Ko te takatu e aro ana ki te pupuri tere, te iti o te raruraru pakihi, me te whakaora manatoko.",
+      "sec7Eyebrow": "UARA RAUTAKI",
+      "sec7Heading": "Nga Painga Pakihi",
+      "sec7Subtext": "Ko te hanga i te hinonga whakakaha ipurangi e tiaki ana i te uara whakahaere, te tuunga ture, me te rongonui o te maakete.",
+      "ctaHeading": "Whakapaia to Haumarutanga hinonga",
+      "ctaDescription": "Torotoro me pehea e taea ai e nga whakahaere te whakapakari i te haumarutanga, te tiaki i nga punaha whakahirahira me te whakarite mo nga whakatuma puta noa i nga taiao hono.",
+      "ctaButton": "Korero ki o Tatou Tohunga",
+      "sec1P1": "I roto i te wa tuku iho o te hinonga IT, i whakahaeretia te haumarutanga i runga i te whakaakoranga whare-a-moat: ko nga mea katoa i roto i te kupenga tari umanga i kiia he pono, engari ko nga mea katoa o waho ka kiia he kore pono. Ko te papangaahi rangatōpū kotahi i tiaki i nga tūmau o roto, i nga papaa raraunga, me nga rorohiko papamahi.",
+      "sec1P2": "Ko te hinonga o tenei ra kua nui ake nga pakitara tinana. Ka noho nga kawenga mahi puta noa i nga taiao maha-kapua (AWS, Azure, GCP), ka uru nga kaimahi ki nga tono pakihi mai i nga waahi kanorau, ka whakawhiti tonu nga API i nga raraunga whakahaere tairongo me nga kaiwhakarato logistics o waho, nga umanga putea, me nga kaihoko SaaS.",
+      "sec1P3": "Ahakoa ko tenei hononga hononga-a-tinana e akiaki ana i te kaikawe pakihi, ka tino whakawhanuihia te mata whakaeke hinonga. Ko ia pito mutunga API, tohu tuakiri, taputapu pūkoro hono, me te whakaurunga SaaS e tohu ana i te peara o te whakaaturanga. Ko te whakamarumaru hinonga pono me huri mai i te whakamarumaru i runga i te paenga-a-te-pae ki te whakaahuru, mutunga-ki-mutunga ipurangi.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Rapu Whakawehi",
+          "desc": "Maramatanga riri-awhina-ako-miihini e aro turuki ana i nga tauira whatunga rerekee, te kino o nga tohu, me nga whakaraeraetanga kore-ra i te waa tuturu."
+        },
+        {
+          "icon": "📡",
+          "title": "Aroturuki Haumarutanga",
+          "desc": "Centralized Security Operations Center (SOC) telemetry e hono ana i nga huihuinga puta noa i nga tūmau, nga tautau ipu, nga kaiwhakarato tuakiri, me nga waahi mutunga.\n<"
+        },
+        {
+          "icon": "🔍",
+          "title": "Whakahaere Whakaraeraetanga",
+          "desc": "Te tirotiro whakaraeraetanga aunoa puta noa i nga hanganga, nga putunga waehere puna, me nga rehita ipu hei whakatika i nga ngoikoretanga.\n<"
+        },
+        {
+          "icon": "🔒",
+          "title": "Tiaki Raraunga",
+          "desc": "Te whakamunatanga pakari i roto i te whakawhiti (TLS 1.3) me te okioki (AES-256), i te taha o te mana whakahaere aukatinga ngaronga raraunga (DLP) hei aukati i te turuturu o nga rawa hinengaro."
+        }
+      ],
+      "sec3P1": "Ma te tiaki i nga rawa hinonga me whakarite kua whakamanahia e ia tuakiri—ahakoa he kaiwhakahaere tangata, he kaikirimana o waho, he kaute ratonga rorohiko motuhake ranei—he whakamanatanga mo nga rawa tika e uru atu ana.",
+      "sec3List": [
+        {
+          "bold": "Whakahaerenga tuakiri matua:",
+          "text": "Waitohu Takitahi (SSO) me nga paerewa tuakiri whakakotahi e whakakore ana i nga toa kupu huna kua wehewehea puta noa i nga tono."
+        },
+        {
+          "bold": "Motuhēhēnga āhuatanga-maha urutau (MFA):",
+          "text": "Nga taviri taputapu FIDO2-atete ki te hītinihanga me nga wero horopaki morearea mo nga mahi whakahaere tairongo."
+        },
+        {
+          "bold": "Mana uru maramara:",
+          "text": "Ko nga mana uru-a-ringa (RBAC) me te Huanga-Huanga (ABAC) kua whakamanahia ki nga taumata API me nga papaa raraunga."
+        },
+        {
+          "bold": "Nga maataapono iti rawa:",
+          "text": "Te tuku urunga rangitahi, tika-i-wa (JIT) ka pau aunoa ina mutu nga mahi whakahaere."
+        }
+      ],
+      "keyPerspectiveEyebrow": "KAUPAPA KAUPAPA KAUPAPA KAUPAPA",
+      "keyPerspectiveTitle": "Manatoko Tonu Mo Te Tiakitanga Matapo",
+      "keyPerspectiveLead": "I roto i te hoahoanga Zero Trust, ka wetewete katoa te whakawhirinaki i runga i te waahi whatunga. Ko nga tauwhitinga katoa, nga uiuinga raraunga, me te takiurunga kaiwhakamahi me whakaatu tonu tona mana tika:",
+      "cloudSecurityCards": [
+        {
+          "title": "Kawenga Tiri",
+          "desc": "Maama te mana whakahaere e wehewehe ana i te haumarutanga hanganga tinana o te kaiwhakarato kapua mai i te kawenga a te hinonga mo te whakamunatanga raraunga, kaupapa here IAM, me te waehere tono."
+        },
+        {
+          "title": "Hanganga hei Waehere (IaC)",
+          "desc": "Ko nga whirihoranga kapua e taea te whakarereke, ka taea te whakahaere ma te waehere. Ko nga kaitirotiro kaupapa here-a-waehere aunoa e aukati ana i nga whirihora pohehe me nga peere e kitea ana i mua i te tukunga."
+        },
+        {
+          "title": "Ipu & Kubernetes Haumarutanga",
+          "desc": "Nga wa whakahaere ipu, nga rehita whakaahua kua hainatia, te wehewehenga moroiti whatunga, me te whakahaere ngaro aunoa e pupuri ana i nga tohu ki waho o nga putunga puna."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "KAUA & WHAKATAUTANGA",
+      "title": "Te Whakahoutanga o Nga Tono Tuku iho mo te Kapua",
+      "subtitle": "Tuhurahia he huarahi whaitake ki te aromatawai, ki te whakahou me te neke i nga tono tuku iho ki nga hoahoanga kapua, haumaru.",
+      "date": "Mahuru 2026",
+      "readTime": "6 meneti panui",
+      "imageCaption": "Tirohanga Hangarau Hinonga — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Whakatauhia (Whakaarahia me te Huri)",
+          "desc": "Whakawhitihia nga kawenga mahi ki te kapua miihini mariko tere me te iti o nga whakarereketanga waehere."
+        },
+        {
+          "title": "Whakahou (Whakaarahia me te Hanga Anō)",
+          "desc": "Whakapai ake i nga anga mahi whakahaere, tango i nga putunga korero kapua kua whakahaerehia, me te whakamaarama i nga mahi."
+        },
+        {
+          "title": "Refactor (Cloud-Native Rebuild)",
+          "desc": "Whakawetohia nga monolith ki roto i nga ratonga moroiti me nga API kore-tumau-a-takahanga."
+        },
+        {
+          "title": "Whakakapi (SaaS Modernization)",
+          "desc": "Retihia nga punaha tuku iho nui hei tautoko i te rorohiko kapua hinonga kua hangaia."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Aromatawai tuku iho",
+          "desc": "Mahere ti'aturi aunoa, whakararangi nama hangarau, me te tohu reri-kapua."
+        },
+        {
+          "title": "Te Hangahanga Whainga",
+          "desc": "Nga mahere mahere moroiti, nga topologies ipu, me nga tauira IaC aunoa."
+        },
+        {
+          "title": "Hekenga Whakamarama",
+          "desc": "Nga whakaputanga Canary, te tukutahi raraunga tuhi-rua, me nga ngaru tapahi wa-kore."
+        },
+        {
+          "title": "Arotautanga Kapua",
+          "desc": "Te whakahaere utu tonu, te waea whakaata aunoa, me nga arotake whakahaere a FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "He iti ake nga utu tiaki hanganga me te whakahou taputapu",
+        "Tata-kore mutunga elasticity te whakahaere i te tihi o nga waka hinonga me te kore roa",
+        "Te tere tuku tere me nga raina paipa tuku CI/CD aunoa",
+        "Ko te whakakore i nga waahi tuku iho o te rahunga me te maha-AZ e waatea ana",
+        "Ko nga hoahoanga API hou e taea ai te whakaurunga hoa-whakawhitinga tere\n<",
+        "Mataki i nga wa-tuituru ki nga mahi tono me nga whakapaunga kapua"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mahere i nga whakawhirinakitanga-a-tonotanga matatini me nga waahanga tukutahi raraunga",
+        "Te tautuhi i nga whirihoranga taiao kua oti te whakawaeherehere me nga aronuinga papaunga raraunga rangatira",
+        "Te aromatawai i te hanganga ture me nga herenga mana motuhake mo ia mana whakahaere",
+        "Te tatau i te Utu Katoa o te Rangatiratanga (TCO) puta noa i te refactor ki nga huarahi whakahoki ano",
+        "Te whakatu i nga ngaru whakamaarama hei whakamarumaru i nga mahi pakihi o ia ra"
+      ],
+      "sec1Eyebrow": "TE TINO O NGA PUNA TUKU",
+      "sec1Heading": "Te Wero Tukutuku",
+      "sec1Subtext": "Ko nga monolith tawhito e aukati ana i te tere o te auahatanga, te whakanui ake i nga whakaraeraetanga whakahaere, me te whakapiki i nga utu tiaki hanganga.",
+      "sec2Eyebrow": "Aromatawai me te hura",
+      "sec2Heading": "Te Maramatanga ki te Whenua Taupānga",
+      "sec2Subtext": "Ka timata te whakamohoatanga o te kapua ki te aro matawai. Ko te peke tika ki te hekenga me te kore e arotake i nga whakawhirinakitanga tono ko te take tuatahi o te whakaroa i te tapahi.",
+      "sec3Eyebrow": "TE 4 ARA WHAKAARO",
+      "sec3Heading": "Nga Tikanga Whakahoutanga",
+      "sec3Subtext": "Karekau he rautaki hekenga kotahi te rahi. Ko nga hinonga rangatira e taurite ana ki te tauira whakatikatika tika ki ia kawenga mahi motuhake i runga i te uara pakihi, te tere, me te nama hangarau.",
+      "sec4Eyebrow": "TE TAUIRA WHAKAMAHI WHITI",
+      "sec4Heading": "Hanganga Kapua o Naianei",
+      "sec4Subtext": "He mahere huarahi hanga e huri ana i nga monolith tuku iho ki nga ratonga kapua rapa, haumaru me te tiaki.",
+      "sec5Eyebrow": "NGA PUTANGA PANUITANGA",
+      "sec5Heading": "Nga Painga Whakahoutanga Matua",
+      "sec5Subtext": "Ko te nuku i nga punaha tuku iho ki runga i nga hoahoanga kapua hou e tuku ana i te kaha o te whakahaere me te matapae utu.",
+      "ctaHeading": "Whakahouhia o tono tuku iho",
+      "ctaDescription": "Torotoro he huarahi whaitake ki te aromatawai, ki te whakahou me te neke i nga tono tuku iho ki nga hoahoanga kapua e mau ana.",
+      "ctaButton": "Korero ki o Tatou Tohunga",
+      "sec1P1": "Ko nga tono whakahirahira i hangaia i te tekau tau ki muri kei te akiaki tonu i nga piriona moni whiwhinga hinonga, engari na o raatau hangahanga hangai ka piki ake te raru o te whakahaere.",
+      "sec1P2": "Ka anga ia hinonga ki te raruraru i waenga i te pumau me te whakahou. I hangaia nga punaha tuku iho mo te mau tonu, a kua mahi pono mo nga tau. Heoi, i te mea e tere haere ana nga whakaritenga pakihi, ka tutuki enei hoahoanga tawhito ki nga rohe hanganga:",
+      "sec1List": [
+        {
+          "bold": "Tapae rorohiko tawhito:",
+          "text": "Nga turanga waehere monolitiki i hangaia i runga i nga anga kua pahemo me nga puna taana iti e waatea ana hei tiaki."
+        },
+        {
+          "bold": "Nga huringa tiaki uaua:",
+          "text": "Nga waahanga honoa ka huri i tetahi ahuatanga ka tupono ka pakaru nga waahanga whakahaere kore hono."
+        },
+        {
+          "bold": "Tauineine iti:",
+          "text": "Nga tepe tauine poutū e hiahia ana ki te hoko i nga taputapu rangatira utu nui hei hapai i te pikinga o te tau."
+        },
+        {
+          "bold": "Nga wero whakauru:",
+          "text": "Te kore e kaha ki te hono pai ki nga taupānga pūkoro hou, nga waapa a nga kaihoko, me nga API hoa mahi kaore he tuhinga pakaru."
+        },
+        {
+          "bold": "Nga herenga hanganga:",
+          "text": "Nga huringa ora rūma tūmau tinana, whakaraeraetanga whakaraerae, me nga whakapaunga whakahaere mana nui / whakamatao."
+        }
+      ],
+      "sec2P1": "Ka timata te haerenga whakamohoatanga ma te whakapumau i te tino marama puta noa i te whenua o naianei:",
+      "sec2List": [
+        {
+          "bold": "Nga tono:",
+          "text": "Te whakarārangi i ngā kawenga mahi katoa, ngā kōwae ritenga, ngā hōtuhi papamuri, me ngā mōkihi-tuatoru o mua.\n<"
+        },
+        {
+          "bold": "Whakawhirinaki:",
+          "text": "Mahere i te hononga o te wa mahi uaua, nga ripanga papaa raraunga tiritahi, nga waea punaha konae tika, me nga kirimana ratonga o waho."
+        },
+        {
+          "bold": "Raraunga:",
+          "text": "Te arotake i nga hanganga raraunga, nga whakaritenga pono o te tauwhitinga, te reanga taapiri, me nga ture mana motuhake."
+        },
+        {
+          "bold": "Hanganga:",
+          "text": "Te tirotiro i te PTM, te mahara, te whakamahi rokiroki, me te whakaurunga whatunga ki nga whakaritenga kapua i te rahi-matau.\n<"
+        },
+        {
+          "bold": "Te hiranga pakihi:",
+          "text": "Te whakarōpū i nga tono ki nga taumata hei hoahoa i nga ngaru heke haumaru me nga tikanga takahuri marama."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Painga:",
+      "cloudArchitectureBadge": "Te Huringa Ora",
+      "cloudArchitectureTitle": "Rere Whakahou Kapua Whakamutunga-ki-Mutunga",
+      "sec4P1": "Ko te hoahoanga haerenga ka wehe i nga tono matua ki roto i nga ratonga whakaraerae, ipuipui e whakahaerehia ana i runga i nga papaa kapua rapa (pēnei i nga Kubernetes, i nga wa whakahaere kore-tumau ranei).",
+      "sec4P2": "Na te whakatuu i nga paipa tuku a CI/CD aunoa, nga tapahi puru-matomato aunoa, me nga hanganga hei tohu, ka huri nga tukunga mai i nga huihuinga o te wiki whakararu ki nga mahi o ia ra.",
+      "sec4P3": "Ka piki aunoa te tatauranga elastic i te wa e piki haere ana te tono me te heke iho i te wa e moe ana, ka whakakore i nga utu rauemi mangere me te whakapumau i nga wa whakautu-tuarua mo nga kaiwhakamahi o te ao.",
+      "keyPerspectiveEyebrow": "WHAKAARO WHAKAARO NGA WHAKAMAHI KAUPAPA",
+      "keyPerspectiveTitle": "E wha nga Pou o te Hekenga Angitu",
+      "keyPerspectiveLead": "Ko nga wheako e whakaatu ana ka angitu nga kaupapa whakahou i te wa i whakatauhia i runga i nga whakaritenga matawhānui, te raupapa ngaru marama, me nga whakamatautau kaha:"
+    }
+  }
+}

@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Om os",
+    "services": "Tjenester",
+    "products": "Produkter",
+    "perspectives": "Perspektiver",
+    "technologies": "teknologier",
+    "contact": "Kontakte",
+    "signIn": "Log ind",
+    "signUp": "Tilmeld dig",
+    "signOut": "Log ud",
+    "chooseLanguage": "Vælg dit sprog",
+    "searchLanguage": "Søg sprog",
+    "resetEnglish": "Nulstil til engelsk",
+    "noResults": "Ingen sprog fundet",
+    "englishDefault": "Engelsk (standard)",
+    "english": "engelsk"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Software, udviklet til den måde <em>din virksomhed</em> kører på.",
+    "description": "Rezonants er en virksomhed med it-services og digitale produkter. Vi designer, bygger og skalerer skræddersyet software, web- og mobilprodukter, cloud-infrastruktur og kunstig intelligens — til virksomheder, der konkurrerer om udførelse.",
+    "bookConsultation": "Book en gratis konsultation",
+    "exploreServices": "Udforsk tjenester",
+    "years": "år",
+    "projects": "projekter",
+    "retention": "tilbageholdelse",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — siden 2012",
+    "metaStudio": "Digitalt produktstudie",
+    "metaTech": "Web · Mobil · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Om os",
+    "title": "Opbygning af digitale løsninger <em>der flytter virksomheder fremad</em>",
+    "description": "Rezonants er en teknologiløsningsvirksomhed, der fokuserer på at hjælpe virksomheder med at transformere ideer til meningsfulde digitale oplevelser. Vi kombinerer teknologi, kreativitet og forretningsforståelse for at levere løsninger, der er designet til virkelighedens behov.<br /><br />Fra digital transformation og tilpasset softwareudvikling til cloud, AI, automatisering og administrerede teknologitjenester hjælper vi organisationer med at forenkle kompleksiteten, forbedre effektiviteten og skabe varig digital værdi.<br /><br /><strong>Vores tilgang er enkel – forstå problemet, opbygge den rigtige teknologi og løse den rigtige forretning.</strong>",
+    "awardWinning": "Prisvindende",
+    "awardText": "Anerkendt for fremragende levering på tværs af web- og mobilproduktudvikling.",
+    "professionalStaff": "Professionelt personale",
+    "staffText": "Senior, ansvarlige ingeniører, der ejer værket fra første opkald til start.",
+    "support247": "24/7 support",
+    "supportText": "Administrerede tjenester og en supportlinje, der svarer, når du har brug for det.",
+    "fairPrices": "Fair Priser",
+    "pricesText": "Ærlige estimater og gennemsigtig fakturering på hver enkelt engagement.",
+    "yearsExcellence": "År med Enterprise Excellence"
+  },
+  "stats": {
+    "happyClients": "Glade kunder",
+    "projectsDone": "Udførte projekter",
+    "winAwards": "Vind priser"
+  },
+  "insights": {
+    "eyebrow": "Perspektiver",
+    "title": "Perspektiver",
+    "sub": "Udforske ideer, trends og teknologi, der former fremtiden.",
+    "filters": {
+      "all": "Alle",
+      "digital-transformation": "Digital transformation",
+      "ai": "AI og automatisering",
+      "cloud": "Sky",
+      "data": "Data og analyse",
+      "software": "Software",
+      "business": "Forretning og teknologi"
+    },
+    "readMore": "Læs mere",
+    "close": "Luk",
+    "keyTakeaways": "Nøgle arkitektoniske takeaways",
+    "relatedServices": "Relaterede funktioner og tjenester",
+    "minRead": "min læst",
+    "item1Date": "juli 2026",
+    "item1Tag": "Produkt & ERP",
+    "item1Title": "En modulær ERP-tilgang til virksomheder i vækst",
+    "item1Text": "Hvordan vi strukturerer ERP-engagementer, så økonomi, lager, HR og indkøb integreres problemfrit uden flere års afbrydelse.",
+    "item2Date": "juni 2026",
+    "item2Tag": "Kunstig intelligens",
+    "item2Title": "Agentiske AI-systemer: flytning fra chatbots til autonom udførelse",
+    "item2Text": "Arkitektering af koordinerede multi-agent LLM-systemer, der planlægger, validerer og udfører komplekse forretningsprocesser med menneskelig overvågning.",
+    "item3Date": "maj 2026",
+    "item3Tag": "Virksomhedens milepæl",
+    "item3Title": "Anerkendt blandt førende IT-innovationsstudier i Hyderabad",
+    "item3Text": "Vores ingeniørstudie er blevet anerkendt for fremragende levering, dybe teknologiske evner og kundetilfredshed på tværs af global produktudvikling.",
+    "desc": "Udforsk ideer og perspektiver fra Rezonants om digital transformation, kunstig intelligens, automatisering, cloud, data, software og fremtidens forretningsteknologi.",
+    "categories": {
+      "digitalTransformation": "Digital transformation",
+      "ai": "AI og automatisering",
+      "cloud": "Sky",
+      "data": "Data og analyse",
+      "software": "Software",
+      "business": "Forretning og teknologi"
+    }
+  },
+  "technologies": {
+    "title": "Teknologier og arkitektur",
+    "headline": "Virksomhedsteknologiløsninger",
+    "sub": "Intelligent teknologi. Automatiserede operationer. Smartere forretning.",
+    "selectTechnology": "Vælg en teknologisk løsning...",
+    "options": {
+      "aiRobotics": "AI & Robotics Solutions",
+      "businessAutomation": "Business Automation Solutions",
+      "cloudMigrations": "Cloud-migreringsløsninger",
+      "dataCenters": "Datacenterløsninger",
+      "cognitiveAnalytics": "Kognitiv analyse og kunstig intelligens",
+      "informationReporting": "Informations- og rapporteringssystemer",
+      "managedServices": "Administrerede tjenester",
+      "oneStopSolutions": "One-Stop teknologiløsninger"
+    },
+    "explore": "Udforsk teknologi",
+    "bookDiscovery": "Bogteknologi opdagelse",
+    "exploreAll": "Udforsk alle teknologier",
+    "coreCapabilities": "Kerneteknologiske muligheder",
+    "bookConsultation": "Book en konsultation"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Tal med en senioringeniør, ikke et salgsmanuskript",
+    "sub": "Del lidt om dit projekt, så svarer vi inden for en hverdag.",
+    "reachUs": "Kontakt os direkte",
+    "preferConversation": "Foretrækker du en samtale? Vi er et opkald væk.",
+    "contactLede": "Den hurtigste måde at komme videre på er en kort samtale. Kontakt os på en hvilken som helst kanal nedenfor, eller book en plads, så kommer vi forberedt til dig.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "office": "Kontor",
+    "hours": "Timer",
+    "hoursValue": "Man – Lør, 9:30 – 18:30 IST",
+    "bookSlot": "Book et konsultationstidspunkt",
+    "sendMessage": "Send os en besked",
+    "fieldsRequired": "Felter markeret med * skal udfyldes.",
+    "fullName": "Fuldt navn *",
+    "emailLabel": "E-mail *",
+    "company": "Firma",
+    "subject": "Emne",
+    "messageLabel": "Besked *",
+    "sending": "Sender...",
+    "sendBtn": "Send besked",
+    "successMsg": "Besked sendt! En kopi er blevet sendt til dig.",
+    "errorMsg": "Kunne ikke gemme din besked. Tjek, at tabellen contact_messages findes, og prøv derefter igen.",
+    "offices": {
+      "vijayawada": "Vijayawada kontor",
+      "southAfrica": "Sydafrika Kontor"
+    },
+    "placeholders": {
+      "fullName": "Dit fulde navn",
+      "email": "dig@virksomhed.com",
+      "company": "Din virksomhed eller organisation",
+      "subject": "Hvordan kan vi hjælpe?",
+      "message": "Fortæl os om dit projekt, din tidslinje og dine mål..."
+    },
+    "validation": {
+      "fullNameRequired": "Indtast venligst dit fulde navn.",
+      "emailRequired": "Indtast venligst din e-mailadresse.",
+      "emailInvalid": "Indtast venligst en gyldig e-mailadresse.",
+      "messageRequired": "Indtast venligst en besked."
+    }
+  },
+  "services": {
+    "eyebrow": "Tjenester",
+    "title": "Hvad vi gør",
+    "sub": "Fra strategi til styret drift leverer vi end-to-end teknologipartnerskaber til virksomheder, der konkurrerer om udførelse.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Indledning til implementering",
+        "description": "End-to-end udvikling af nye digitale løsninger fra forretningskrav og løsningsarkitektur gennem udvikling, integration, test, implementering og løbende support."
+      },
+      "businessProcessAutomation": {
+        "label": "Business Process Automation",
+        "description": "Design og implementering af intelligente automatiseringsløsninger, der strømliner forretningsprocesser, eliminerer gentagne manuelle aktiviteter, forbedrer driftseffektiviteten og fremskynder forretningsresultater."
+      },
+      "centerOfExcellence": {
+        "label": "Center of Excellence",
+        "description": "Etablering af specialiserede teknologi- og forretningskapacitetscentre, der leverer styring, standarder, ekspertise, rammer, genanvendelige aktiver og løbende forbedringer på tværs af organisationen."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Skræddersyet udvikling og tilpasning",
+        "description": "Udvikling og forbedring af applikationer, platforme, arbejdsgange og virksomhedsløsninger for at imødekomme unikke forretningskrav og levere skræddersyet funktionalitet."
+      },
+      "digitalTransformation": {
+        "label": "Digital transformation",
+        "description": "Modernisering af forretningsdrift, teknologiske økosystemer og kundeoplevelser gennem cloud, AI, automatisering, data og moderne applikationsteknologier."
+      },
+      "endToEndSolutionFramework": {
+        "label": "End-to-end Solution Framework",
+        "description": "En omfattende leveringstilgang, der dækker hele teknologiens livscyklus – fra strategi, krav og arkitektur til udvikling, integration, implementering, styring, overvågning og support."
+      },
+      "migrationModernization": {
+        "label": "Migration og modernisering",
+        "description": "Sikker og struktureret migrering af applikationer, data, platforme, infrastruktur og arbejdsbelastninger fra ældre eller eksisterende miljøer til moderne, skalerbare og optimerede teknologiplatforme."
+      },
+      "pocPilotImplementation": {
+        "label": "Proof of Concept (PoC) og pilotimplementering",
+        "description": "Hurtig udvikling og validering af teknologiløsninger til at vurdere teknisk gennemførlighed, forretningsværdi, integrationskrav, ydeevne og skalerbarhed før fuldskala implementering."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Shared Services & Managed Operations",
+        "description": "Centraliseret levering af teknologi og operationelle muligheder på tværs af forretningsenheder gennem standardiserede processer, dygtige ressourcer, styringsrammer, servicestyring og målbare serviceniveauer."
+      },
+      "customDevelopment": {
+        "label": "Indledning til implementering",
+        "description": "End-to-end udvikling af nye digitale løsninger fra forretningskrav og løsningsarkitektur gennem udvikling, integration, test, implementering og løbende support."
+      },
+      "processAutomation": {
+        "label": "Business Process Automation",
+        "description": "Design og implementering af intelligente automatiseringsløsninger, der strømliner forretningsprocesser, eliminerer gentagne manuelle aktiviteter, forbedrer driftseffektiviteten og fremskynder forretningsresultater."
+      },
+      "solutionEngineering": {
+        "label": "Skræddersyet udvikling og tilpasning",
+        "description": "Udvikling og forbedring af applikationer, platforme, arbejdsgange og virksomhedsløsninger for at imødekomme unikke forretningskrav og levere skræddersyet funktionalitet."
+      },
+      "endToEndSolutions": {
+        "label": "End-to-end Solution Framework",
+        "description": "En omfattende leveringstilgang, der dækker hele teknologiens livscyklus – fra strategi, krav og arkitektur til udvikling, integration, implementering, styring, overvågning og support."
+      },
+      "migrationServices": {
+        "label": "Migration og modernisering",
+        "description": "Sikker og struktureret migrering af applikationer, data, platforme, infrastruktur og arbejdsbelastninger fra ældre eller eksisterende miljøer til moderne, skalerbare og optimerede teknologiplatforme."
+      },
+      "pilotPrototyping": {
+        "label": "Proof of Concept (PoC) og pilotimplementering",
+        "description": "Hurtig udvikling og validering af teknologiløsninger til at vurdere teknisk gennemførlighed, forretningsværdi, integrationskrav, ydeevne og skalerbarhed før fuldskala implementering."
+      },
+      "sharedServices": {
+        "label": "Shared Services & Managed Operations",
+        "description": "Centraliseret levering af teknologi og operationelle muligheder på tværs af forretningsenheder gennem standardiserede processer, dygtige ressourcer, styringsrammer, servicestyring og målbare serviceniveauer."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Planlæg en konsultation",
+      "exploreFramework": "Udforsk Solution Framework",
+      "talkSeniorEngineer": "Tal med en senioringeniør",
+      "exploreTechStack": "Udforsk teknologistak",
+      "bookPocSession": "Book en PoC Discovery-session",
+      "seeAllServices": "Se alle tjenester",
+      "requestAssessment": "Anmod om en migrationsvurdering",
+      "exploreCloudSolutions": "Udforsk Cloud-løsninger"
+    },
+    "sharedServices": {
+      "heroBadge": "DELTE TJENESTER OG STYREDE OPERATIONER",
+      "heroTitle": "Enterprise Shared Services & Managed Operations",
+      "heroDesc": "Skaler forretningskapaciteter, strømlin tværfunktionelle arbejdsgange, og opnå operationel ekspertise gennem standardiserede, sikre og omkostningseffektive shared service-modeller.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Udforsk Solution Framework",
+      "coreCapabilities": "Kernefunktioner:",
+      "managedServices": "Administrerede tjenester",
+      "itOperations": "IT-drift",
+      "appSupport": "Applikationssupport",
+      "serviceManagement": "Service Management",
+      "resourceOptimization": "Ressourceoptimering",
+      "slaManagement": "SLA Management",
+      "governance": "Styring",
+      "continuousImprovement": "Kontinuerlig forbedring",
+      "costOptimization": "Omkostningsoptimering",
+      "readyTitle": "Klar til at optimere din drift?",
+      "readyDesc": "Opdag, hvordan vores Shared Services & Managed Operations-rammer kan forbedre servicekvaliteten, sikre driftskontinuitet og fremme bæredygtig omkostningseffektivitet for din virksomhed.",
+      "scheduleSession": "Planlæg en opdagelsessession"
+    },
+    "solutionEngineering": {
+      "heroBadge": "LØSNINGSENGINEERING & ARKITEKTUR",
+      "heroTitle": "Skræddersyet udvikling og tilpasning",
+      "heroDesc": "Arkitekt, konstruer og implementer højtydende softwaresystemer designet specifikt til dine operationelle arbejdsgange, datapipelines og skaleringskrav."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "HURTIG INNOVATION & EKSPERIMENTERING",
+      "heroTitle": "Proof of Concept (PoC) og pilotimplementering",
+      "heroDesc": "Validerer nye teknologier, fjern risikoen for komplekse arkitekturer, og bevis forretningsværdi med prototyper i produktionskvalitet på uger, ikke kvartaler."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "LIVSCYKLUSARKITEKTUR & LEVERING",
+      "heroTitle": "End-to-end Solution Framework",
+      "heroDesc": "En ensartet leveringsmodel, der forbinder produktopdagelse, løsningsarkitektur, teknik, cloud-infrastruktur og driftssikkerhed døgnet rundt."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTUR OG LEGACY MODERNISERING",
+      "heroTitle": "Migration og modernisering",
+      "heroDesc": "Overfør problemfrit ældre arbejdsbelastninger, monolitiske arkitekturer og lokal infrastruktur til moderne, sikre og skalerbare cloudplatforme."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Virksomhedsmodernisering",
+        "titlePart1": "Digital",
+        "titlePart2": "Transformation",
+        "description": "Modernisering af forretningsdrift, teknologiske økosystemer og kundeoplevelser gennem cloud, AI, automatisering, data og moderne applikationsteknologier.",
+        "bookWorkshop": "Bogforvandlingsværksted",
+        "exploreFramework": "Udforsk Solution Framework",
+        "startTransformation": "Start transformation",
+        "exploreStrategy": "Udforsk strategi",
+        "coreCapabilitiesTitle": "Kernefunktioner",
+        "coreCapabilities": [
+          "Digital strategi",
+          "Cloud Transformation",
+          "AI og automatisering",
+          "Applikationsmodernisering",
+          "Ældre modernisering",
+          "Data og analyse",
+          "Kundeoplevelse",
+          "Teknologimodernisering"
+        ],
+        "row1Eyebrow": "Strategi & køreplan",
+        "row1Title": "Fra vision til eksekverbar køreplan",
+        "row1P1": "Vi samarbejder med virksomhedsledere for at definere digital strategi, forretningscases og trinvise køreplaner med hurtige gevinster og risikofri udførelse.",
+        "row1P2": "Prioriterede initiativer, TCO-modeller og KPI'er sikrer, at enhver teknologimoderniseringsindsats er direkte knyttet til omsætning, effektivitet og kundetilfredshed.",
+        "row2Eyebrow": "Ældre modernisering",
+        "row2Title": "Moderniser uden at bryde forretningen",
+        "row2P1": "Re-platform monolitter til mikrotjenester, API'er og cloud-native mønstre med nul-downtime cutovers og automatiseret regressionsvalidering.",
+        "row2P2": "Vi moderniserer applikationer, databaser og integrationslag, samtidig med at vi bevarer compliance og sikkerhedsposition.",
+        "row3Eyebrow": "Cloud, AI og data",
+        "row3Title": "Cloudadoption og datadrevet intelligens",
+        "row3P1": "Adopter AWS, Azure og GCP, byg moderne datapipelines, og indlejr maskinlæringsagenter for at drive autonome beslutninger.",
+        "row3P2": "Fra streaming af begivenheder i realtid til forenede dashboards bliver transformation målbar og bæredygtig.",
+        "row4Eyebrow": "Kundeoplevelse",
+        "row4Title": "Moderne Omnichannel-oplevelser",
+        "row4P1": "Redesign kunderejser på tværs af responsive web-, iOS-, Android- og selvbetjeningsportaler med personlige grænseflader.",
+        "row4P2": "Platformkonstruktion, telemetri og automatiserede feedbacksløjfer gør digital innovation kontinuerlig.",
+        "pillarsTitle": "Transformationssøjler",
+        "pillarsSub": "Resultatfokuserede løftestænger, der sikrer bæredygtigt digitalt lederskab.",
+        "pillar1Title": "Digital Strategi & Governance",
+        "pillar1Desc": "Fasetransformationsplaner med business case-modellering, arkitekturstyring og milepælsrisikosporing.",
+        "pillar2Title": "Cloud og dataplatform",
+        "pillar2Desc": "AWS/Azure/GCP multi-cloud-fundamenter, automatiserede pipelines og virksomhedsdataanalyseaktivering.",
+        "pillar3Title": "AI og automatisering",
+        "pillar3Desc": "Intelligent procesautomatisering, kognitive AI-agenter og forudsigelig telemetri for at optimere den daglige drift.",
+        "pillar4Title": "Kundeoplevelse",
+        "pillar4Desc": "Højkonverterende omnichannel digitale portaler og personlige grænseflader bygget til maksimal brugerfastholdelse.",
+        "ctaTitle": "Klar til at transformere din virksomhed?",
+        "ctaSub": "Partner med Rezonants for trinvis, risikofri digital transformation knyttet til målbare forretningsresultater.",
+        "ctaButton": "Book et digital transformationsopkald"
+      },
+      "customDevelopment": {
+        "eyebrow": "End-to-end Digital Engineering",
+        "titlePart1": "Indledning til",
+        "titlePart2": "Implementering",
+        "bookConsultation": "Book en konsultation",
+        "exploreEngineering": "Udforsk Solution Engineering"
+      },
+      "processAutomation": {
+        "eyebrow": "Intelligente procesoperationer",
+        "titlePart1": "Forretningsproces",
+        "titlePart2": "Automatisering",
+        "bookDiscovery": "Opdagelse af bogautomatisering",
+        "exploreCoE": "Udforsk Center of Excellence"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Center for",
+        "titlePart2": "Fremragende",
+        "bookConsultation": "Bog CoE-høring",
+        "exploreCapabilities": "Udforsk muligheder"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Komplet teknologilivscyklus",
+        "titlePart1": "End-to-End",
+        "titlePart2": "Løsningsramme",
+        "startJourney": "Start din livscyklusrejse",
+        "exploreTransformation": "Udforsk Transformation"
+      },
+      "migrationServices": {
+        "eyebrow": "Cloud & Infrastruktur Transformation",
+        "titlePart1": "Migration &",
+        "titlePart2": "Modernisering",
+        "planMigration": "Planlæg din migration",
+        "exploreTransformation": "Udforsk Transformation"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Hurtig validering og gennemførlighed",
+        "titlePart1": "Proof of Concept (PoC) &",
+        "titlePart2": "Pilotimplementering",
+        "initiateDiscovery": "Start PoC Discovery",
+        "exploreDevelopment": "Udforsk tilpasset udvikling"
+      },
+      "solutionEngineering": {
+        "badge": "Skræddersyet Digital Engineering",
+        "bookConsultation": "Book en konsultation",
+        "exploreCapabilities": "Udforsk muligheder"
+      },
+      "sharedServices": {
+        "eyebrow": "Centraliseret driftshub",
+        "titlePart1": "Fælles tjenester &",
+        "titlePart2": "Administreret drift",
+        "bookDiscovery": "Book Managed Operations Discovery",
+        "exploreFramework": "Udforsk Solution Framework"
+      }
+    },
+    "coreCapabilities": "Kernefunktioner"
+  },
+  "products": {
+    "featured": "Udvalgte produkter",
+    "featuredSub": "Forenkle driften, forbinde teams, automatisere processer, og drive smartere virksomhedsvækst.",
+    "seeAll": "Se alle produkter",
+    "featuredProducts": "UDVALGTE PRODUKTER",
+    "meetAutonomous": "Mød den autonome arbejdsstyrke",
+    "meetAutonomousText": "Transformer dine operationer med AI-agenter, der arbejder sammen med dit team for at håndtere komplekse, gentagne opgaver.",
+    "learnMore": "Lær mere",
+    "erp": {
+      "title": "Én platform klar til hvad som helst",
+      "sub": "Bemyndigelse af virksomheder med forbundne, intelligente og skalerbare virksomhedsstyringsløsninger.",
+      "explore": "Udforsk ERP-løsninger",
+      "gridTitle": "ERP-LØSNINGER",
+      "promoTitle": "Modulær ERP til vækst",
+      "promoText": "Implementer modulære ERP-funktioner hurtigt uden kompleksiteten af ​​traditionelle flerårige systemer.",
+      "scheduleDemo": "Planlæg demo"
+    },
+    "it": {
+      "title": "IT-løsninger",
+      "sub": "Enterprise-grade infrastruktur, sikkerhed og DevOps-løsninger for at holde din virksomhed kørende.",
+      "explore": "Udforsk IT-løsninger",
+      "gridTitle": "IT-LØSNINGER",
+      "promoTitle": "Pålidelig IT-infrastruktur",
+      "promoText": "Byg et robust teknologigrundlag med administrerede cloud-, sikkerhed- og DevOps-tjenester.",
+      "getStarted": "Kom i gang"
+    },
+    "crm": {
+      "title": "CRM-løsninger",
+      "sub": "Administration af kunderelationer for at strømline salgs-, support- og marketingarbejdsgange.",
+      "explore": "Udforsk CRM-løsninger",
+      "gridTitle": "CRM-LØSNINGER",
+      "promoTitle": "Luk Flere tilbud",
+      "promoText": "Styrk dine salgs- og supportteams med ensartede kundedata og intelligent automatisering.",
+      "startTrial": "Start gratis prøveperiode"
+    },
+    "hrms": {
+      "title": "HRMS-løsninger",
+      "sub": "Personalestyring, der dækker løn, rekruttering, præstationer og medarbejderinddragelse.",
+      "explore": "Udforsk HRMS-løsninger",
+      "gridTitle": "HRMS-LØSNINGER",
+      "promoTitle": "Forenkle HR Operations",
+      "promoText": "Automatiser HR-arbejdsgange fra rekruttering til pensionering med en moderne, medarbejder-første platform.",
+      "requestDemo": "Anmod om demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Udvalgte produkter",
+      "erpSolutions": "ERP-løsninger",
+      "solutions": "LØSNINGER"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Intelligente autonome agenter og værktøjer, der automatiserer komplekse arbejdsgange og kundeoperationer."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Multi-cloud-administrationsplatform, der optimerer ydeevne, sikkerhed, overholdelse og omkostninger."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hybrid samarbejde og produktivitetshub med integreret opgave-, chat- og dokumenthåndtering."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Analysemotor i realtid, der omdanner strømme af forretningsbegivenheder til brugbar indsigt."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Ensartet virksomhedsarkitektur, der forbinder økonomi, aktiver, HR, indkøb og lager."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Medarbejderoplevelsesplatform, der dækker løn, fordele, præstationsanmeldelser og selvbetjening."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Logistiksporing i realtid, automatiseret lagerdrift og efterspørgselsprognose."
+      },
+      "financeHub": {
+        "title": "Finance Hub",
+        "description": "Avanceret finansstyring, faktureringsarbejdsgange, automatiseret overholdelse og real-time cashflow-rapporter."
+      },
+      "cloudInfrastructure": {
+        "title": "Cloud Infrastruktur",
+        "description": "Skalerbar cloud-arkitektur, migrering og administration på tværs af AWS, Azure og GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersikkerhedssuite",
+        "description": "End-to-end sikkerhedsovervågning, trusselsdetektion og overholdelsesstyring."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD-automatisering, containerisering og infrastruktur-som-kode for hurtigere levering."
+      },
+      "managedItServices": {
+        "title": "Administrerede IT-tjenester",
+        "description": "24/7 infrastrukturovervågning, hændelsesrespons og proaktiv vedligeholdelse."
+      },
+      "salesCrm": {
+        "title": "Salgs-CRM",
+        "description": "Pipelinestyring, leadscoring, aftalesporing og salgsprognose på én platform."
+      },
+      "customerSupportHub": {
+        "title": "Kundesupport Hub",
+        "description": "Billetsalg, vidensbase, live chat og omnichannel supportstyring."
+      },
+      "marketingAutomation": {
+        "title": "Marketing Automation",
+        "description": "Kampagneorkestrering, e-mailautomatisering, lead-pleje og analyse."
+      },
+      "customer360View": {
+        "title": "Kunde 360 ​​Vis",
+        "description": "Samlede kundeprofiler, der kombinerer salgs-, support- og interaktionsdata."
+      },
+      "coreHr": {
+        "title": "Kerne HR",
+        "description": "Medarbejderregistreringer, organisationshierarki, orlovsstyring og tilstedeværelsessporing."
+      },
+      "payrollCompliance": {
+        "title": "Løn og overholdelse",
+        "description": "Automatiseret lønbehandling, skatteberegninger og lovpligtig overholdelse."
+      },
+      "performanceManagement": {
+        "title": "Performance Management",
+        "description": "OKR-sporing, 360°-gennemgange, målsætning og medarbejderudviklingsplaner."
+      },
+      "recruitmentPortal": {
+        "title": "Rekrutteringsportal",
+        "description": "Jobopslag, ansøgersporing, samtaleplanlægning og onboarding arbejdsgange."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Udvalgte produkter",
+        "heading": "Udvalgte produkter",
+        "sub": "Forenkle driften, forbinde teams, automatisere processer, og drive smartere virksomhedsvækst.",
+        "promoTitle": "Mød den autonome arbejdsstyrke",
+        "promoText": "Transformer dine operationer med AI-agenter, der arbejder sammen med dit team for at håndtere komplekse, gentagne opgaver.",
+        "items": [
+          {
+            "title": "AI-automatisering og intelligente agenter",
+            "description": "Automatiser gentagne opgaver og implementer intelligente AI-agenter, der forbedrer produktivitet, beslutningstagning og forretningsresultater."
+          },
+          {
+            "title": "IT Service & Digital Support",
+            "description": "Lever hurtigere og smartere it-support med strømlinet servicestyring, automatisering og digitale arbejdsgange."
+          },
+          {
+            "title": "Enterprise AI Governance",
+            "description": "Opbyg ansvarlig AI-adoption med stærk styring, sikkerhed, overholdelse, gennemsigtighed og risikokontrol."
+          },
+          {
+            "title": "Intelligent IT-drift",
+            "description": "Transform it-drift med AI-drevet overvågning, automatisering, forudsigelig indsigt og proaktiv problemløsning."
+          },
+          {
+            "title": "Customer Experience Management",
+            "description": "Skab personlige kunderejser med intelligent engagement, automatisering, analyser og sømløse digitale oplevelser."
+          },
+          {
+            "title": "Forretningsstrategi og porteføljeoptimering",
+            "description": "Afstem teknologiinvesteringer med forretningsmål for at optimere porteføljer, forbedre effektiviteten og drive bæredygtig vækst."
+          },
+          {
+            "title": "IT Asset & Technology Lifecycle",
+            "description": "Administrer it-aktiver gennem deres livscyklus med bedre synlighed, automatisering, omkostningskontrol og teknologiplanlægning."
+          },
+          {
+            "title": "Enterprise Risk & Compliance",
+            "description": "Identificer, vurder og administrer virksomhedens risici, mens du styrker compliance, kontroller og organisatorisk modstandskraft."
+          },
+          {
+            "title": "Cybersikkerheds- og trusselsoperationer",
+            "description": "Beskyt digitale miljøer med proaktiv trusselsdetektion, sikkerhedsoperationer, hændelsesrespons og kontinuerlig overvågning."
+          },
+          {
+            "title": "Field Workforce Automation",
+            "description": "Styrk feltteams med intelligent planlægning, mobile arbejdsgange, automatisering og operationel synlighed i realtid."
+          },
+          {
+            "title": "Medarbejdererfaring & HR Services",
+            "description": "Forenkle medarbejderservices med digitale arbejdsgange, selvbetjeningsløsninger, automatisering og personlige medarbejderoplevelser."
+          },
+          {
+            "title": "Unified Digital Workplace",
+            "description": "Forbind mennesker, processer, applikationer og samarbejdsværktøjer gennem en sikker, intelligent og problemfri digital arbejdsplads."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP-løsninger",
+        "heading": "Én platform, klar til hvad som helst",
+        "sub": "Styrker virksomheder med forbundne, intelligente og skalerbare virksomhedsadministrationsløsninger.",
+        "promoTitle": "Modulær ERP til vækst",
+        "promoText": "Implementer modulære ERP-funktioner hurtigt uden kompleksiteten af traditionelle flerårige systemer.",
+        "items": [
+          {
+            "title": "Business Process Automation",
+            "description": "Strømlin økonomi, HR, salg, indkøb og daglig drift."
+          },
+          {
+            "title": "Integreret virksomhedsledelse",
+            "description": "Forbind afdelinger, data og arbejdsgange på en samlet platform."
+          },
+          {
+            "title": "Finans & Regnskab",
+            "description": "Forbedre økonomisk synlighed, rapportering, budgettering og overholdelse."
+          },
+          {
+            "title": "HR & Løn",
+            "description": "Forenkle medarbejderledelse, fremmøde, løn og HR-processer."
+          },
+          {
+            "title": "Supply Chain Management",
+            "description": "Optimer indkøb, lagerbeholdning, leverandører og logistik."
+          },
+          {
+            "title": "Salg & kundestyring",
+            "description": "Administrer kundeemner, kunder, ordrer og salgsresultater effektivt."
+          },
+          {
+            "title": "Realtidsanalyse og rapportering",
+            "description": "Forvandl virksomhedsdata til brugbar indsigt for hurtigere beslutninger."
+          },
+          {
+            "title": "Cloud ERP-løsninger",
+            "description": "Aktiver sikker, skalerbar og tilgængelig virksomhedsadministration hvor som helst."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT-løsninger",
+        "heading": "Vores IT-løsninger",
+        "sub": "Transform it-drift med intelligente, proaktive og skalerbare digitale løsninger, der forbedrer ydeevne, produktivitet og forretningskontinuitet.",
+        "promoTitle": "Pålidelig IT-infrastruktur",
+        "promoText": "Byg et robust teknologigrundlag med administrerede cloud-, sikkerhed- og DevOps-tjenester.",
+        "items": [
+          {
+            "title": "IT Service Management",
+            "description": "Strømlin it-tjenester, hændelser, anmodninger og arbejdsgange for hurtigere løsning."
+          },
+          {
+            "title": "IT Driftsstyring",
+            "description": "Overvåg infrastruktur og applikationer med proaktiv, datadrevet IT-drift."
+          },
+          {
+            "title": "IT Asset Management",
+            "description": "Administrer teknologiaktiver effektivt, samtidig med at omkostninger, risici og livscykluskompleksitet reduceres."
+          },
+          {
+            "title": "Enterprise arkitektur",
+            "description": "Afstem forretningsstrategi med den rigtige teknologiarkitektur og investeringer."
+          },
+          {
+            "title": "Cloud Governance",
+            "description": "Forbedre cloud-sikkerhed, overholdelse, ydeevne og omkostningsstyring."
+          },
+          {
+            "title": "Digital drift",
+            "description": "Automatiser it-processer og få realtidssynlighed på tværs af dit teknologimiljø."
+          },
+          {
+            "title": "Observerbarhed og overvågning",
+            "description": "Opdag ydeevneproblemer tidligt, og bevar pålidelige digitale oplevelser."
+          },
+          {
+            "title": "Strategisk Porteføljestyring",
+            "description": "Forbind IT-investeringer med forretningsprioriteter og målbare resultater."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM-løsninger",
+        "heading": "Vores CRM-løsninger",
+        "sub": "Lever forbundne, personlige og intelligente kundeoplevelser på tværs af hele kunderejsen.",
+        "promoTitle": "Luk Flere tilbud",
+        "promoText": "Styrk dine salgs- og supportteams med ensartede kundedata og intelligent automatisering.",
+        "items": [
+          {
+            "title": "Kundeservicestyring",
+            "description": "Forbedre kundesupport med hurtigere opløsning, selvbetjening og intelligente arbejdsgange."
+          },
+          {
+            "title": "Salgsautomatisering",
+            "description": "Automatiser salgsaktiviteter, administrer kundeemner og hjælp teams med at lukke muligheder hurtigere."
+          },
+          {
+            "title": "Salg & Ordrestyring",
+            "description": "Strømlin rejsen fra kundeemne til ordre og forbedre indtjeningens synlighed."
+          },
+          {
+            "title": "Field Service Management",
+            "description": "Optimer markdrift, planlægning, afsendelse og teknikers produktivitet."
+          },
+          {
+            "title": "Customer Experience Management",
+            "description": "Skab sømløse og personlige oplevelser på tværs af alle kundekontaktpunkter."
+          },
+          {
+            "title": "CRM-analyse og -indsigt",
+            "description": "Gør kundedata til brugbar indsigt for smartere forretningsbeslutninger."
+          },
+          {
+            "title": "Marketing Automation",
+            "description": "Automatiser kampagner, kundeengagement og pleje af kundeemner."
+          },
+          {
+            "title": "AI-drevet CRM",
+            "description": "Brug intelligent automatisering og AI-indsigt til at forbedre produktiviteten og kundernes engagement."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS-løsninger",
+        "heading": "Vores HRMS-løsninger",
+        "sub": "Styrk din arbejdsstyrke med intelligente, integrerede og automatiserede HR-løsninger, der forenkler medarbejderledelse og forbedrer arbejdspladsoplevelsen.",
+        "promoTitle": "Forenkle HR-drift",
+        "promoText": "Automatiser HR-arbejdsgange fra rekruttering til pensionering med en moderne, medarbejder-først platform.",
+        "items": [
+          {
+            "title": "Core HR Management",
+            "description": "Administrer medarbejderinformation, organisationsstrukturer og HR-processer effektivt."
+          },
+          {
+            "title": "Lønstyring",
+            "description": "Automatiser løn, lønbehandling, fradrag og overholdelse."
+          },
+          {
+            "title": "Medarbejderselvbetjening",
+            "description": "Giv medarbejderne nem adgang til HR-tjenester, anmodninger, dokumenter og information."
+          },
+          {
+            "title": "Ledelse af tilstedeværelse og orlov",
+            "description": "Forenkle tilstedeværelsessporing, orlovsanmodninger, vagter og arbejdstider."
+          },
+          {
+            "title": "Rekruttering & Onboarding",
+            "description": "Strømlin ansættelse, kandidatstyring, onboarding og medarbejderintegration."
+          },
+          {
+            "title": "Performance Management",
+            "description": "Sæt mål, spor præstationer og understøt løbende medarbejderudvikling."
+          },
+          {
+            "title": "Læring & Udvikling",
+            "description": "Administrer træningsprogrammer, kompetenceudvikling og medarbejdervækst."
+          },
+          {
+            "title": "HR Analytics og rapportering",
+            "description": "Gør arbejdsstyrkedata til handlingsvenlig indsigt for bedre HR-beslutninger."
+          },
+          {
+            "title": "AI-drevet HR-automatisering",
+            "description": "Automatiser gentagne HR-opgaver og lever hurtigere, personlige medarbejderoplevelser."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Appudvikling",
+        "heading": "Vores appudviklingstjenester",
+        "sub": "Byg sikre, skalerbare og højtydende applikationer, der accelererer virksomhedens vækst og forenkler komplekse processer.",
+        "promoTitle": "Byg apps, brugere elsker",
+        "promoText": "Fra idé til lancering designer og udvikler vores team højkvalitets mobil- og webapplikationer, der skalerer.",
+        "items": [
+          {
+            "title": "Brugerdefineret applikationsudvikling",
+            "description": "Byg skræddersyede applikationer designet til dine unikke forretningskrav."
+          },
+          {
+            "title": "Udvikling af web- og mobilapps",
+            "description": "Lever problemfri digitale oplevelser på tværs af web, mobil og flere enheder."
+          },
+          {
+            "title": "Enterprise applikationsudvikling",
+            "description": "Udvikl skalerbare løsninger, der integreres med dine eksisterende forretningssystemer."
+          },
+          {
+            "title": "Low-Code & No-Code udvikling",
+            "description": "Fremskynd leveringen af applikationer med fleksible udviklingsplatforme med lav kode."
+          },
+          {
+            "title": "API & systemintegration",
+            "description": "Forbind applikationer, platforme og tredjepartssystemer for problemfri datastrøm."
+          },
+          {
+            "title": "Applikationsmodernisering",
+            "description": "Transform ældre applikationer til moderne, skalerbare og effektive løsninger."
+          },
+          {
+            "title": "AI-drevne applikationer",
+            "description": "Integrer kunstig intelligens, automatisering og intelligente funktioner i forretningsapplikationer."
+          },
+          {
+            "title": "Applikationssupport og vedligeholdelse",
+            "description": "Sikre kontinuerlig ydeevne, sikkerhed, opdateringer og pålidelighed."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Business Automation",
+    "cloudMigrations": "Skymigreringer",
+    "dataCenters": "Datacentre",
+    "cognitiveAnalyticsAi": "Kognitiv analyse og kunstig intelligens",
+    "informationReportingSystems": "Informations- og rapporteringssystemer",
+    "managedServices": "Administrerede tjenester",
+    "oneStopSolutions": "One-Stop-løsninger"
+  },
+  "servicePage": {
+    "serviceOverview": "Serviceoversigt",
+    "whatWeOffer": "Hvad vi tilbyder",
+    "whyChooseRezonants": "Hvorfor vælge Rezonants",
+    "benefitsOfWorking": "Fordele ved at arbejde med os",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Teknologier, vi bruger",
+    "ourWork": "Vores arbejde",
+    "relatedProjects": "Relaterede projekter",
+    "viewCaseStudy": "Se casestudie",
+    "readyToDiscuss": "Er du klar til at diskutere dit {{title}}-projekt?",
+    "seniorEngineersReady": "Vores senioringeniører er klar til at hjælpe dig med at planlægge, designe og bygge din løsning.",
+    "startProject": "Start dit projekt",
+    "howItWorks": "Sådan fungerer det"
+  },
+  "consultation": {
+    "badge": "Book en gratis konsultation",
+    "title": "Lad os planlægge dit projekt <span class='hero-accent'>sammen</span>",
+    "description": "Aftal en uforpligtende samtale med vores konsulenter. Diskuter dine krav, udforsk den rigtige tekniske tilgang og få et klart tilbud - alt sammen på under 30 minutter.",
+    "bookSlot": "Book din spilleautomat",
+    "howItWorks": "Sådan fungerer det",
+    "accountRequired": "Konto påkrævet",
+    "signInToBook": "Log ind for at booke din konsultation",
+    "accountRequiredText": "Du skal bruge en Rezonants-konto for at anmode om en konsultation. Log ind eller opret en - det tager mindre end et minut.",
+    "signInToContinue": "Log ind for at fortsætte",
+    "newToRezonants": "Ny hos Rezonants?",
+    "createAccount": "Opret en konto",
+    "requestMeeting": "Anmod om et møde",
+    "tellUsAboutProject": "Fortæl os om dit projekt",
+    "fillDetails": "Udfyld dine oplysninger, og vi bekræfter din konsultation via e-mail.",
+    "fullName": "Fuldt navn *",
+    "email": "E-mail *",
+    "phone": "Telefon *",
+    "company": "Firma",
+    "serviceOfInterest": "Forkyndelse af interesse *",
+    "selectService": "Vælg en tjeneste…",
+    "preferredDate": "Foretrukken dato *",
+    "preferredTime": "Foretrukken tid *",
+    "selectTimeSlot": "Vælg et tidsrum...",
+    "estimatedBudget": "Anslået budget",
+    "selectRange": "Vælg et område...",
+    "projectRequirements": "Projektkrav",
+    "booking": "Booking…",
+    "bookFreeConsultation": "Book min gratis konsultation",
+    "freeNote": "100% gratis og uforpligtende. Vi svarer normalt inden for 24 timer.",
+    "whatToExpect": "Hvad kan du forvente",
+    "preferToReachUs": "Foretrækker du at nå os direkte?",
+    "callUs": "Ring til os",
+    "emailUs": "Send os en e-mail",
+    "visitUs": "Besøg os",
+    "whyBookWithUs": "Hvorfor booke hos os",
+    "freeCallTitle": "Et gratis opkald, der rent faktisk hjælper",
+    "freeCallNoPressure": "Gratis opkald, intet pres",
+    "freeCallNoPressureText": "Hver første konsultation er gratis. Der er ingen købsforpligtelse - kun ærlig rådgivning.",
+    "seniorConsultants": "Kun seniorkonsulenter",
+    "seniorConsultantsText": "Dit møde ledes af senioringeniører og konsulenter, der bygger for deres levebrød.",
+    "clearTimelines": "Ryd tidslinjer og citater",
+    "clearTimelinesText": "Gå afsted med et defineret næste trin, realistisk tidslinje og gennemsigtig prissætning for dit projekt.",
+    "services": {
+      "customSoftware": "Brugerdefineret softwareudvikling",
+      "webMobile": "Web- og mobilappudvikling",
+      "cloudDevops": "Cloud- og DevOps-løsninger",
+      "aiMl": "AI & Machine Learning",
+      "itConsulting": "IT Rådgivning",
+      "digitalMarketing": "Digital markedsføring og SEO",
+      "erpSolutions": "ERP-løsninger",
+      "other": "Andet / Ikke sikker endnu"
+    },
+    "budgets": {
+      "under1L": "Under 1 L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "10 L+",
+      "notDecided": "Ikke besluttet endnu"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Forstå dine mål",
+        "text": "Vi lytter først. Et 30-minutters opkald for at kortlægge din virksomheds behov, målgruppe og ønskede resultater."
+      },
+      "technicalDirection": {
+        "title": "Få teknisk vejledning",
+        "text": "Vores ingeniører deler den rigtige arkitektur, stak og tilgang til dit projekt."
+      },
+      "clearQuote": {
+        "title": "Modtag et tydeligt tilbud",
+        "text": "Gå væk med et gennemsigtigt estimat, tidslinje og næste trin - ingen forpligtelse."
+      }
+    },
+    "validation": {
+      "nameRequired": "Fuldt navn er påkrævet.",
+      "emailRequired": "E-mail er påkrævet.",
+      "emailInvalid": "Indtast en gyldig e-mail.",
+      "phoneRequired": "Telefonnummer er påkrævet.",
+      "phoneInvalid": "Indtast et gyldigt telefonnummer.",
+      "serviceRequired": "Vælg venligst en tjeneste.",
+      "dateRequired": "Vælg en foretrukken dato.",
+      "timeRequired": "Vælg et foretrukket tidspunkt.",
+      "messageTooShort": "Tilføj lidt flere detaljer (mindst 10 tegn).",
+      "signInRequired": "Log venligst ind for at booke din konsultation.",
+      "couldNotBook": "Kunne ikke bestille din konsultation. Tjek, at konsultationstabellen findes, og prøv derefter igen.",
+      "bookedSuccess": "Konsultation bestilt! Vores team vil snart bekræfte din tid via e-mail."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Velkommen tilbage",
+    "createAccount": "Opret konto",
+    "forgotPassword": "Glemt adgangskode",
+    "createNewPassword": "Opret ny adgangskode",
+    "welcomeBackDesc": "Log ind på din Rezonants-konto.",
+    "createAccountDesc": "Tilmeld dig Rezonants i dag.",
+    "forgotDesc": "Indtast din e-mail, og vi sender dig et link til at nulstille din adgangskode.",
+    "recoveryDesc": "Vælg en stærk ny adgangskode til din konto.",
+    "fullName": "Fulde navn",
+    "email": "E-mail",
+    "password": "Adgangskode",
+    "newPassword": "Ny adgangskode",
+    "confirmPassword": "Bekræft adgangskode",
+    "confirmNewPassword": "Bekræft ny adgangskode",
+    "forgotPasswordLink": "Glemt adgangskode?",
+    "privacyPolicy": "Jeg accepterer Rezonantss <1>Privatliv og sikkerhed</1>-politik.",
+    "sendResetLink": "Send Reset Link",
+    "signIn": "Log ind",
+    "signUp": "Tilmeld dig",
+    "pleaseWait": "Vent venligst...",
+    "rememberedPassword": "Har du husket din adgangskode?",
+    "signInLink": "Log ind",
+    "noAccount": "Har du ikke en konto?",
+    "signUpLink": "Tilmeld dig",
+    "hasAccount": "Har du allerede en konto?",
+    "changedMind": "Har du skiftet mening?",
+    "backToSignIn": "Tilbage for at logge ind",
+    "resetSent": "Link til nulstilling af adgangskode sendt! Tjek din e-mail for at oprette en ny adgangskode.",
+    "passwordUpdated": "Din adgangskode er blevet opdateret. Log ind med din nye adgangskode.",
+    "accountCreated": "Konto oprettet! Tjek din e-mail for at bekræfte din tilmelding, og log derefter ind.",
+    "validation": {
+      "fullNameRequired": "Fuldt navn er påkrævet.",
+      "emailRequired": "E-mail er påkrævet.",
+      "emailInvalid": "Indtast en gyldig e-mail.",
+      "passwordRequired": "Adgangskode er påkrævet.",
+      "passwordMinLength": "Adgangskoden skal være på mindst 6 tegn.",
+      "passwordsNoMatch": "Adgangskoder stemmer ikke overens.",
+      "acceptTerms": "Accepter venligst Rezonantss privatlivspolitik og sikkerhedspolitik for at fortsætte."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chat med Rezonants AI",
+    "openChatLabel": "Åbn Rezonants AI Assistant-chatten",
+    "chatTitle": "Rezonants AI assistent",
+    "online": "Online",
+    "expandLabel": "Udvid chatbotten",
+    "minimizeLabel": "Minimer chatbotten",
+    "closeLabel": "Luk chatbotten",
+    "expand": "Udvid",
+    "minimize": "Minimer",
+    "close": "Luk",
+    "popularTopics": "Populære emner",
+    "askPlaceholder": "Spørg mig om Rezonants...",
+    "messageLabel": "Send besked til Rezonants AI Assistant",
+    "sendLabel": "Send besked",
+    "sendTitle": "Send besked",
+    "enterToSend": "Enter for at sende · Shift+Enter for en ny linje",
+    "newChat": "Ny chat",
+    "typing": "Rezonants AI skriver",
+    "menuOptions": "Menuindstillinger",
+    "greetingMorning": "Godmorgen",
+    "greetingAfternoon": "God eftermiddag",
+    "greetingEvening": "Godaften",
+    "welcomeText": "! 👋 Velkommen til Rezonants.\nJeg er Rezonants AI Assistant. Jeg kan hjælpe dig med at udforske vores tjenester, teknologier og kontaktoplysninger."
+  },
+  "cookieConsent": {
+    "title": "Vi værdsætter dit privatliv",
+    "description": "Vi bruger cookies til at forbedre din browseroplevelse. Du kan acceptere alle cookies, afvise ikke-essentielle cookies eller tilpasse dine præferencer. Væsentlige cookies er altid aktiveret for at sikre, at hjemmesiden fungerer korrekt.",
+    "acceptAll": "Accepter alle",
+    "rejectNonEssential": "Afvis ikke-væsentlige",
+    "managePreferences": "Administrer præferencer",
+    "privacyPolicy": "Privatlivspolitik"
+  },
+  "cookiePreferences": {
+    "title": "Administrer Cookie-præferencer",
+    "description": "Vælg hvilke kategorier af cookies du tillader. Væsentlige cookies forbliver aktiveret for at holde hjemmesiden fungerende.",
+    "essential": "Væsentlig",
+    "essentialDesc": "Nødvendig for at hjemmesiden kan fungere (godkendelse, sikkerhed, belastningsbalancering). Disse kan ikke deaktiveres.",
+    "analytics": "Analyse",
+    "analyticsDesc": "Hjælp os med at forstå, hvordan besøgende bruger webstedet, så vi kan forbedre det. Deaktiveret som standard.",
+    "marketing": "Markedsføring",
+    "marketingDesc": "Bruges til at vise dig relevante tilbud og kampagner. Deaktiveret som standard.",
+    "cancel": "Annuller",
+    "savePreferences": "Gem præferencer"
+  },
+  "privacy": {
+    "badge": "Juridisk",
+    "title": "Privatlivspolitik",
+    "description": "Hvordan Rezonants indsamler, bruger og beskytter dine personlige oplysninger og cookies.",
+    "lastUpdated": "Sidst opdateret: august 2026",
+    "managingPreferences": "Håndtering af dine præferencer",
+    "managingPreferencesDesc": "Du kan til enhver tid gennemgå eller ændre, hvilke cookies du tillader fra panelet med cookiepræferencer.",
+    "manageCookiePreferences": "Administrer Cookie-præferencer",
+    "section1": {
+      "title": "1. Oplysninger, vi indsamler",
+      "body": [
+        "Vi indsamler oplysninger, du giver direkte (såsom dit navn og e-mailadresse, når du indsender kontaktformularen eller opretter en konto) og oplysninger, der indsamles automatisk gennem cookies og lignende teknologier, såsom besøgte sider, enhedstype og omtrentlig placering."
+      ]
+    },
+    "section2": {
+      "title": "2. Hvordan vi bruger cookies",
+      "body": [
+        "Væsentlige cookies er altid aktiveret, fordi hjemmesiden ikke kan fungere korrekt uden dem. De gemmer session og godkendelsestilstand og husker dine cookie-præferencer.",
+        "Analytics-cookies hjælper os med at forstå, hvordan besøgende bruger webstedet, så vi kan forbedre det. Marketingcookies bruges til at vise dig relevante tilbud og kampagner. Disse kategorier er kun aktiveret med dit samtykke og kan til enhver tid ændres fra cookie-præferencepanelet."
+      ]
+    },
+    "section3": {
+      "title": "3. Retsgrundlag (GDPR)",
+      "body": [
+        "Vi behandler personoplysninger på følgende juridiske grundlag: dit samtykke (til ikke-væsentlige cookies og markedsføring), opfyldelse af en kontrakt (for tjenester, du anmoder om), juridiske forpligtelser og legitime interesser, hvor dine rettigheder ikke tilsidesætter dem. Du kan til enhver tid trække samtykket tilbage uden at påvirke lovligheden af ​​den behandling, der blev udført før tilbagetrækningen."
+      ]
+    },
+    "section4": {
+      "title": "4. Dine rettigheder",
+      "body": [
+        "Afhængigt af din placering kan du have ret til at få adgang til, rette, slette eller begrænse behandlingen af ​​dine personlige data, til at gøre indsigelse mod behandling og til dataportabilitet. Du kan også indgive en klage til din lokale tilsynsmyndighed."
+      ]
+    },
+    "section5": {
+      "title": "5. Dataopbevaring og sikkerhed",
+      "body": [
+        "Vi opbevarer kun personoplysninger, så længe det er nødvendigt til de formål, der er beskrevet i denne politik. Vi anvender passende tekniske og organisatoriske foranstaltninger for at beskytte dine oplysninger mod uautoriseret adgang, ændring, offentliggørelse eller ødelæggelse."
+      ]
+    },
+    "section6": {
+      "title": "6. Tredjepartstjenester",
+      "body": [
+        "Nogle cookies kan blive sat af tredjepartsudbydere (såsom analyse- eller reklameplatforme), der hjælper os med at drive hjemmesiden. Disse udbydere behandler data under deres egne privatlivspolitikker og kun når du har givet samtykke til den relevante kategori."
+      ]
+    },
+    "contactUs": "7. Kontakt os",
+    "contactUsText": "For spørgsmål om denne politik eller dine personlige data, kontakt os på <1>info@rezonants.com</1> eller ring <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Tjenester",
+    "title": "Vores tjenester",
+    "sub": "End-to-end teknologiløsninger designet til at hjælpe virksomheder med at innovere, skalere og få succes.",
+    "learnMore": "Lær mere",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Indledning til implementering",
+        "text": "Fra indledende koncept til produktionsimplementering leverer vi skalerbare løsninger bygget til virkelige forretningsbehov."
+      },
+      "businessProcessAutomation": {
+        "title": "Business Process Automation",
+        "text": "Strømlin gentagne processer og forbedre driftseffektiviteten gennem intelligent forretningsautomatisering."
+      },
+      "centerOfExcellence": {
+        "title": "Center of Excellence",
+        "text": "Opbyg specialiserede teknologiske evner og ekspertise til at drive innovation, kvalitet og løbende forbedringer."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Skræddersyet udvikling og tilpasning",
+        "text": "Skræddersyede softwareløsninger designet til dine unikke forretningskrav og arbejdsgange."
+      },
+      "digitalTransformation": {
+        "title": "Digital transformation",
+        "text": "Moderniser din virksomhed med digitale strategier, teknologier og løsninger, der skaber målbar effekt."
+      },
+      "endToEndSolutionFramework": {
+        "title": "End-to-end Solution Framework",
+        "text": "Integrerede teknologiløsninger, der forbinder strategi, udvikling, implementering og løbende drift."
+      },
+      "migrationModernization": {
+        "title": "Migration og modernisering",
+        "text": "Moderniser ældre applikationer og migrer systemer til skalerbare, sikre og effektive teknologiplatforme."
+      },
+      "pocPilotImplementation": {
+        "title": "Proof of Concept (PoC) og pilotimplementering",
+        "text": "Valider idéer hurtigt gennem fokuserede prototyper og pilotimplementeringer før implementering i fuld skala."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Shared Services & Managed Operations",
+        "text": "Pålidelige administrerede teknologioperationer, der forbedrer ydeevne, skalerbarhed og forretningskontinuitet."
+      }
+    }
+  },
+  "footer": {
+    "company": "Firma",
+    "about": "Om",
+    "perspectives": "Perspektiver",
+    "technologies": "Teknologier",
+    "contact": "Kontakt",
+    "services": "Tjenester",
+    "getInTouch": "Kontakt",
+    "bookConsultation": "Book en konsultation",
+    "copyright": "© {{year}} Rezonants. Alle rettigheder forbeholdes.",
+    "cookiePreferences": "Cookie-præferencer",
+    "privacyPolicy": "Privatlivspolitik",
+    "description": "Rezonants er en virksomhed med it-tjenester og digitale produkter i Hyderabad, Indien. Vi designer, bygger og skalerer software til virksomheder, der konkurrerer på udførelse.",
+    "locations": "Vores lokationer",
+    "indiaHq": "Hyderabad, Indien — Indiens hovedkvarter",
+    "southAfrica": "Sydafrika — REZONANTS PVT LTD",
+    "products": "Produkter",
+    "followUs": "Følg os",
+    "aboutUs": "Om os",
+    "contactUs": "Kontakt os",
+    "headline": "Lad os bygge",
+    "headlineAccent": "hvad er det næste.",
+    "subheadline": "Partner med Rezonants for at omsætte ideer til reel virksomhedspåvirkning.",
+    "credoIdeas": "IDÉER",
+    "credoSolutions": "LØSNINGER",
+    "credoPeople": "FOLK",
+    "credoBrighterTomorrow": "EN LYSERE I MORGEN",
+    "hyderabadLocation": "Hyderabad, Indien",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Sydafrika – REZONANTS PVT LTD",
+    "termsOfUse": "Vilkår for brug",
+    "accessibility": "Tilgængelighed",
+    "quickLinks": "Hurtige links",
+    "explore": "Udforsk",
+    "vijayawadaOffice": "Vijayawada kontor",
+    "allRightsReserved": "Alle rettigheder forbeholdes.",
+    "hyderabadPin": "Hyderabad, Indien",
+    "southAfricaPin": "Sydafrika"
+  },
+  "common": {
+    "loading": "Indlæser...",
+    "error": "Fejl",
+    "retry": "Prøv igen",
+    "close": "Luk",
+    "backToTop": "Tilbage til toppen",
+    "skipToContent": "Spring til indhold",
+    "scroll": "Rul",
+    "whatWeOffer": "Hvad vi tilbyder",
+    "howItWorks": "Hvordan det virker"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Søg efter land eller kode...",
+    "noResults": "Ingen lande fundet.",
+    "countryCodeLabel": "Landekaldskode",
+    "required": "Telefonnummer er påkrævet.",
+    "incomplete": "Telefonnummeret skal indeholde nøjagtigt {{count}} cifre.",
+    "tooLong": "Telefonnummeret må ikke indeholde mere end {{count}} cifre.",
+    "invalid": "Indtast et gyldigt telefonnummer for {{country}}."
+  },
+  "perspectives": {
+    "topic": "Emne:",
+    "published": "Udgivet:",
+    "readingTime": "Læsetid:",
+    "author": "Forfatter:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Teknologiområde",
+    "purpose": "Formål",
+    "talkToExperts": "Tal med vores eksperter",
+    "viewAll": "Vis alle perspektiver",
+    "exploreMore": "UDFORSK FLERE PERSPEKTIV",
+    "continueExploring": "Fortsæt med at udforske Enterprise Technology Insights",
+    "readPerspective": "Læs Perspektiv"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotics Solutions",
+      "tagline": "Intelligent teknologi. Automatiserede operationer. Smartere forretning.",
+      "heroBadge": "Intelligente autonome systemer",
+      "overview": [
+        "Kunstig intelligens og robotteknologi transformerer den måde, organisationer fungerer på, træffer beslutninger og leverer værdi. Vores AI & Robotics-løsninger hjælper virksomheder med at bevæge sig ud over traditionel automatisering ved at kombinere kunstig intelligens, maskinlæring, computervision, intelligent procesautomatisering og robotteknologi til at løse praktiske forretningsmæssige udfordringer.",
+        "Vi designer intelligente løsninger omkring målbare forretningsresultater. Uanset om kravet er at automatisere gentagne arbejde, analysere store mængder information, opdage mønstre, støtte beslutninger eller introducere robotteknologi i driftsmiljøer, fokuserer vores tilgang på pålidelighed, skalerbarhed, sikkerhed og langsigtet forretningsværdi."
+      ],
+      "transformation": [
+        "Moderne organisationer genererer enorme mængder data og udfører tusindvis af gentagne aktiviteter hver dag. AI og robotteknologi kan omdanne disse aktiviteter til intelligente, automatiserede arbejdsgange, der forbedrer produktiviteten, samtidig med at medarbejderne kan fokusere på ansvar af højere værdi.",
+        "Vores løsninger kan hjælpe organisationer med at automatisere gentagne operationer, reducere manuel indgriben, forbedre nøjagtigheden, analysere kompleks information, understøtte hurtigere beslutninger, optimere ressourceudnyttelsen, forbedre kundeoplevelsen og bygge skalerbare intelligente systemer."
+      ],
+      "capabilities": [
+        {
+          "title": "Kunstig intelligens",
+          "desc": "Vi udvikler AI-drevne løsninger, der gør det muligt for systemer at forstå information, identificere mønstre, generere indsigt og understøtte forretningsbeslutninger."
+        },
+        {
+          "title": "Machine Learning",
+          "desc": "Vi udvikler maskinlæringsmodeller til prognoser, klassificering, anbefalingssystemer, anomalidetektion, forudsigende analyse og intelligent beslutningsstøtte."
+        },
+        {
+          "title": "Naturlig sprogbehandling",
+          "desc": "NLP kan bruges til at behandle dokumenter, forstå tekst, klassificere information, udtrække relevant indhold og understøtte samtaleapplikationer."
+        },
+        {
+          "title": "Computer Vision",
+          "desc": "Computervisionsløsninger kan understøtte billedklassificering, objektdetektering, kvalitetsinspektion, dokumentbehandling, visuel overvågning og videoanalyse."
+        },
+        {
+          "title": "Robotteknologi",
+          "desc": "Robotics kombinerer softwareintelligens med fysiske systemer for at automatisere aktiviteter, der traditionelt kræver manuel indsats. Applikationer kan omfatte fremstilling, logistik, lager, inspektion, materialehåndtering og driftsstøtte."
+        },
+        {
+          "title": "Intelligent procesautomatisering",
+          "desc": "AI kan kombineres med workflowautomatisering for at skabe systemer, der fortolker information, anvender forretningsregler eller modeller og starter den relevante proces automatisk."
+        }
+      ],
+      "lifecycleSteps": [
+        "Virksomhedsvurdering",
+        "Dataanalyse",
+        "AI-strategi",
+        "Løsningsarkitektur",
+        "Udvikling",
+        "Integration",
+        "Test",
+        "Implementering",
+        "Overvågning",
+        "Optimering"
+      ],
+      "benefits": [
+        "Højere virksomhedsdriftsproduktivitet",
+        "Væsentlig reduktion i driftsomkostninger",
+        "Hurtigere behandling og millisekunders beslutningsproces",
+        "Forbedret data- og arbejdsgangnøjagtighed",
+        "Optimeret fysisk og beregningsmæssig ressourceudnyttelse",
+        "Reducerede operationelle risici og menneskelige fejl",
+        "Sømløs skalerbarhed på flere platforme",
+        "Forbedrede kunde- og medarbejderoplevelser"
+      ],
+      "security": "Enterprise AI-løsninger skal designes med passende sikkerhed, adgangskontrol, databeskyttelse, overvågning, modelstyring og operationelle sikkerhedsforanstaltninger. Vi overvejer disse krav fra arkitekturstadiet gennem implementering og løbende vedligeholdelse for at sikre pålidelig intelligens i produktionskvalitet.",
+      "ctaHeadline": "Byg en intelligent fremtid",
+      "ctaSub": "Gør dine operationer smartere. Automatiser det, der betyder noget. Byg til fremtiden."
+    },
+    "business-automation-solutions": {
+      "title": "Business Automation Solutions",
+      "tagline": "Forenkling af processer. Eliminer gentagelse. Fremskynde vækst.",
+      "heroBadge": "End-to-End Workflow Optimering",
+      "overview": [
+        "Virksomhedsautomatisering gør det muligt for organisationer at erstatte gentagne manuelle aktiviteter med strømlinede digitale arbejdsgange. Vores virksomhedsautomatiseringsløsninger hjælper virksomheder med at forbedre produktiviteten, reducere operationel kompleksitet, minimere fejl og skabe ensartede processer på tværs af afdelinger.",
+        "Vi analyserer eksisterende arbejdsgange, identificerer flaskehalse og designer automatiseringsløsninger, der forbinder mennesker, applikationer, data og forretningsprocesser."
+      ],
+      "transformation": [
+        "Mange organisationer er stadig afhængige af regneark, e-mails, manuelle godkendelser, gentagen dataindtastning, dokumenthåndtering og afbrudte applikationer. Disse processer bruger værdifuld medarbejdertid og kan introducere forsinkelser, inkonsekvenser og fejl.",
+        "Vores automatiseringstilgang fokuserer på at forstå hele processen, fjerne unødvendige trin, integrere systemer og automatisere de aktiviteter, der giver den største driftsværdi."
+      ],
+      "capabilities": [
+        {
+          "title": "Workflow automatisering",
+          "desc": "Vi automatiserer flertrinsprocesser, der involverer medarbejdere, applikationer, godkendelser, meddelelser og data på tværs af forskellige afdelinger."
+        },
+        {
+          "title": "Robotisk procesautomatisering",
+          "desc": "Softwarebots kan udføre gentagne, regelbaserede aktiviteter såsom dataindtastning, systemopdateringer, afstemning og informationsoverførsel."
+        },
+        {
+          "title": "Dokumentautomatisering",
+          "desc": "Automatiserede dokumentarbejdsgange kan udtrække information, validere data, klassificere dokumenter, ruteforespørgsler og igangsætte downstream-processer."
+        },
+        {
+          "title": "Godkendelsesautomatisering",
+          "desc": "Digitale godkendelsesworkflows dirigerer automatisk anmodninger til de korrekte beslutningstagere og giver real-time synlighed i afventende handlinger."
+        },
+        {
+          "title": "Integrationsautomatisering",
+          "desc": "Vi forbinder forretningsapplikationer, så information kan flyttes automatisk mellem platforme uden unødvendig manuel indgriben."
+        },
+        {
+          "title": "Notifikationsautomatisering",
+          "desc": "Automatiserede advarsler og meddelelser hjælper medarbejderne med at reagere øjeblikkeligt på vigtige hændelser, deadlines, undtagelser og driftsændringer."
+        }
+      ],
+      "lifecycleSteps": [
+        "Opdag",
+        "Analyser",
+        "Design",
+        "Automatiser",
+        "Integrer",
+        "Prøve",
+        "Implementer",
+        "Overvåge",
+        "Optimer"
+      ],
+      "benefits": [
+        "Øget teamgennemstrømning og driftshastighed",
+        "Dramatisk reduktion af manuelle dataindtastningsfejl",
+        "Forkortede ende-til-ende proces-gennemløbstider",
+        "Ensartet synlighed på tværs af forretningsdrift",
+        "Standardiseret overholdelse på tværs af afdelinger",
+        "Markant reducerede driftsudgifter",
+        "Elastisk kapacitet til at skalere arbejdsbelastninger ubesværet",
+        "Styrkede teams fokuseret på kundeengagement og strategisk arbejde"
+      ],
+      "security": "Vi kombinerer workflowplatforme og RPA med intelligente kontekstbevidste modeller for at sikre rollebaseret adgangskontrol, omfattende revisionsspor og streng overholdelse på tværs af alle automatiserede transaktioner.",
+      "ctaHeadline": "Byg mere effektiv drift",
+      "ctaSub": "Automatiser gentagne arbejde. Styrk dit folk. Sæt fart på din virksomhed."
+    },
+    "cloud-migration-solutions": {
+      "title": "Cloud-migreringsløsninger",
+      "tagline": "Flyt til skyen med tillid.",
+      "heroBadge": "Multi-Cloud Transformation",
+      "overview": [
+        "Cloud computing er blevet en kritisk komponent i moderne it-infrastruktur. Organisationer flytter applikationer, databaser, arbejdsbelastninger og infrastruktur til cloudmiljøer for at forbedre skalerbarhed, tilgængelighed, fleksibilitet og driftseffektivitet.",
+        "Vores skymigreringstjenester hjælper organisationer med at vurdere deres nuværende miljøer, definere migreringsstrategier, udføre migreringer og optimere arbejdsbelastninger, efter de flytter til skyen."
+      ],
+      "transformation": [
+        "Skymigrering er mere end at flytte servere fra et miljø til et andet. En vellykket migrering kræver omhyggelig vurdering af applikationer, infrastruktur, afhængigheder, sikkerhedskrav, data, ydeevne, tilgængelighed og forretningskontinuitet.",
+        "Vi opretter migrationsstrategier baseret på organisationens nuværende miljø og fremtidige mål, idet vi vælger det passende migrationsmønster for hver arbejdsbyrde."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastrukturmigrering",
+          "desc": "Vi migrerer traditionelle servere, storage, virtuelle maskiner og arbejdsbelastninger til moderne cloudmiljøer på AWS, Azure og GCP."
+        },
+        {
+          "title": "Application Migration",
+          "desc": "Applikationer kan genhostes, omplatformeres, omstruktureres eller omdesignes afhængigt af forretningsmæssige og tekniske krav."
+        },
+        {
+          "title": "Databasemigration",
+          "desc": "Vi migrerer databaser under hensyntagen til dataintegritet, ydeevne, kompatibilitet, tilgængelighed, sikkerhed og gendannelseskrav."
+        },
+        {
+          "title": "Cloud Modernisering",
+          "desc": "Migration bliver en mulighed for at modernisere applikationer ved hjælp af containere, mikrotjenester, administrerede databaser, serverløse tjenester og cloud-native arkitekturer."
+        },
+        {
+          "title": "Hybrid sky",
+          "desc": "Organisationer, der har brug for både on-premises og cloud-infrastruktur, kan anvende hybride arkitekturer, der problemfrit forbinder eksisterende systemer med cloud-tjenester."
+        },
+        {
+          "title": "Multi-sky",
+          "desc": "For organisationer, der opererer på tværs af flere cloud-platforme, hjælper vi med at designe arbejdsbelastningsstrategier, der forbedrer fleksibilitet, robusthed og styring."
+        }
+      ],
+      "lifecycleSteps": [
+        "Vurdering",
+        "Opdagelse",
+        "Afhængighedskortlægning",
+        "Migrationsstrategi",
+        "Arkitekturdesign",
+        "Pilotmigrering",
+        "Datamigrering",
+        "Application Migration",
+        "Test",
+        "Produktionsmigrering",
+        "Optimering"
+      ],
+      "benefits": [
+        "Elastisk skalerbarhed og høj ressourcetilgængelighed",
+        "Større infrastrukturfleksibilitet og forretningsfleksibilitet",
+        "Elimineret fysisk datacentervedligeholdelsesbyrde",
+        "Accelereret implementering af applikationsfunktioner",
+        "Robust gendannelse efter katastrofe og sikkerhedskopiering",
+        "Øjeblikkelig adgang til moderne cloud AI og administrerede tjenester",
+        "Optimeret FinOps-styring og reduktion af TCO",
+        "Kontinuerlig overholdelse og automatiserede sikkerhedsrækværk"
+      ],
+      "security": "Sikkerhed er en integreret del af migrationsplanlægning. Vi overvejer identitets- og adgangsstyring, netværkssikkerhed, kryptering under transport og i hvile, databeskyttelse, revision af applikationssårbarhed, overvågning, backup og katastrofegendannelse.",
+      "ctaHeadline": "Din skyrejse, korrekt planlagt",
+      "ctaSub": "Moderniser din infrastruktur. Fremskynde innovation. Byg et skalerbart cloud-fundament."
+    },
+    "data-center-solutions": {
+      "title": "Datacenterløsninger",
+      "tagline": "Pålidelig infrastruktur til missionskritiske operationer.",
+      "heroBadge": "Missionskritisk infrastruktur",
+      "overview": [
+        "Datacentre danner grundlaget for moderne digitale virksomheder. Applikationer, databaser, virksomhedssystemer, kommunikationsplatforme og kritiske forretningstjenester afhænger af pålidelig infrastruktur.",
+        "Vores datacenterløsninger fokuserer på at designe, modernisere, administrere og optimere infrastrukturmiljøer bygget til tilgængelighed, sikkerhed, skalerbarhed, ydeevne og driftseffektivitet."
+      ],
+      "transformation": [
+        "Et moderne datacenter kræver mere end servere og lagring. Det kræver omhyggeligt udviklet infrastruktur på tværs af computing, netværk, sikkerhed, strøm, køling, overvågning, backup og katastrofegendannelse.",
+        "Vi hjælper organisationer med at skabe robuste infrastrukturmiljøer, der understøtter kritiske arbejdsbelastninger og danner grundlag for fremtidig teknologivækst."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastrukturdesign",
+          "desc": "Vi designer miljøer baseret på arbejdsbelastningskrav, kapacitet, ydeevne, tilgængelighed, sikkerhed og fremtidig vækst."
+        },
+        {
+          "title": "Serverinfrastruktur",
+          "desc": "Vi understøtter fysiske og virtuelle servermiljøer til missionskritiske virksomhedsapplikationer og arbejdsbelastninger."
+        },
+        {
+          "title": "Opbevaringsløsninger",
+          "desc": "Vi tager hensyn til krav til ydeevne, kapacitet, redundans, højhastigheds-SAN/NAS, sikkerhedskopiering og databeskyttelse, når vi designer lagringsmiljøer."
+        },
+        {
+          "title": "Netværksinfrastruktur",
+          "desc": "Vi designer netværksmiljøer med passende segmentering, redundans, ydeevne med lav latens, tilslutningsmuligheder og sikkerhedskontroller."
+        },
+        {
+          "title": "Virtualisering",
+          "desc": "Virtualisering forbedrer ressourceudnyttelsen, arbejdsbelastningsfleksibiliteten og centraliseret infrastrukturstyring."
+        },
+        {
+          "title": "Backup & Disaster Recovery",
+          "desc": "Vi hjælper organisationer med at etablere sikkerhedskopieringsstrategier og gendannelsesarkitekturer designet til at minimere nedetid og eliminere tab af data."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kapacitetsvurdering",
+        "Arbejdsbelastningsprofilering",
+        "Arkitektur Blueprint",
+        "Hardware og virtuel størrelse",
+        "Netværkssegmentering",
+        "Lagerforsyning",
+        "Redundans & DR Test",
+        "Produktion cutover",
+        "24/7 Sundhedsovervågning",
+        "Kontinuerlig optimering"
+      ],
+      "benefits": [
+        "Garanteret 99,999 % infrastrukturoppetid",
+        "Nul enkelte fejlpunkter med flerlagsredundans",
+        "Optimeret serverberegning og virtualisering med høj tæthed",
+        "Netværksarkitekturer med lav latens på under millisekunder",
+        "Hærdet fysisk og digital perimetersikkerhed",
+        "Proaktiv overvågning og automatiserede fejlfejl",
+        "Skalerbar modulær lagring til petabyte-skala data",
+        "Forudsigelige samlede ejeromkostninger og strømeffektivitet"
+      ],
+      "security": "Sikkerhed er integreret på tværs af infrastrukturlaget og dækker netværksmikrosegmentering, hardware root-of-trust, nul-trust adgangskontrol, kontinuerlige sårbarhedsrevisioner, endpoint-forsvar og strenge operationelle politikker.",
+      "ctaHeadline": "Fremtidsklar infrastruktur",
+      "ctaSub": "Byg pålidelig infrastruktur i dag. Skab grundlaget for morgendagens teknologi."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognitiv analyse og kunstig intelligens",
+      "tagline": "Gør data til intelligens.",
+      "heroBadge": "Data-til-beslutning intelligens",
+      "overview": [
+        "Organisationer genererer enorme mængder information gennem applikationer, transaktioner, kunder, operationer, enheder og digitale platforme. Udfordringen er ikke længere blot at indsamle data; det er at forstå disse data og omdanne dem til handlingsdygtig intelligens.",
+        "Vores kognitive analyser og AI-løsninger kombinerer avanceret analyse, maskinlæring, kunstig intelligens, databehandling og business intelligence for at hjælpe organisationer med at træffe bedre beslutninger."
+      ],
+      "transformation": [
+        "Traditionel rapportering fortæller organisationer, hvad der skete. Avanceret analyse kan hjælpe med at forklare, hvorfor det skete, identificere, hvad der kan ske derefter, og understøtte beslutninger om, hvad der skal ske.",
+        "Vi hjælper organisationer med at etablere datamiljøer, der bevæger sig ud over statisk rapportering i retning af intelligent analyse og beslutningsstøtte."
+      ],
+      "capabilities": [
+        {
+          "title": "Beskrivende analyse",
+          "desc": "Forstå historisk præstation gennem interaktive rapporter, multidimensionelle dashboards, KPI'er og forretningsmålinger."
+        },
+        {
+          "title": "Diagnostisk analyse",
+          "desc": "Identificer underliggende sammenhænge, tendenser, statistiske anomalier og grundlæggende årsager bag forretningsresultater."
+        },
+        {
+          "title": "Prædiktiv analyse",
+          "desc": "Brug historiske og realtidsstreamingdata med statistiske modeller til at identificere potentielle fremtidige resultater og krav."
+        },
+        {
+          "title": "Præskriptiv analyse",
+          "desc": "Evaluer mulige handlinger og understøtte optimale beslutningsveje baseret på forudsagte resultater og strategiske forretningsmål."
+        },
+        {
+          "title": "Maskinlæringsmodeller",
+          "desc": "Udvikle tilpassede modeller til prognoser, kundeklassificering, anbefalinger, afsløring af uregelmæssigheder i bedrageri og forudsigelig vedligeholdelse."
+        },
+        {
+          "title": "AI-drevet indsigt",
+          "desc": "Anvend kognitiv kunstig intelligens på enorme mængder af ustruktureret information for at vise skjulte mønstre, resuméer og anbefalinger."
+        }
+      ],
+      "lifecycleSteps": [
+        "Datakilder",
+        "Dataintegration",
+        "Databehandling",
+        "Datalagring",
+        "Analyse",
+        "AI/ML-modeller",
+        "Visualisering",
+        "Forretningsbeslutninger"
+      ],
+      "benefits": [
+        "Faktabaseret, datadrevet executive beslutningstagning",
+        "Præcis prognose for efterspørgsel, omsætning og kundeafgang",
+        "Afsløring af uregelmæssigheder og svindel i realtid",
+        "Dyb 360° kundeadfærdsindsigt og personalisering",
+        "Optimeret forsyningskæde og driftseffektivitet",
+        "Reduceret operationel og finansiel risiko",
+        "Opdagelse af skjulte indtægtsmuligheder",
+        "Accelereret tid til indsigt på tværs af forretningsenheder"
+      ],
+      "security": "Vores analytiske økosystemer implementerer end-to-end-kryptering, automatiseret datamaskering, strenge RBAC-tilladelser og modelstyring for at beskytte proprietære data og opretholde lovoverholdelse (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Byg en intelligent datastrategi",
+      "ctaSub": "Gør information til indsigt. Gør indsigt til handling."
+    },
+    "information-reporting-systems": {
+      "title": "Informations- og rapporteringssystemer",
+      "tagline": "Den rigtige information. På det rigtige tidspunkt. For bedre beslutninger.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Virksomhedsledere og operationelle teams er afhængige af nøjagtig information for at træffe effektive beslutninger. Vores informations- og rapporteringssystemer hjælper organisationer med at indsamle, organisere, analysere og præsentere forretningsinformation gennem strukturerede informationssystemer, rapporteringsplatforme, dashboards og automatiserede rapporteringsarbejdsgange.",
+        "Organisationer har ofte information fordelt på tværs af applikationer, regneark, databaser og driftssystemer. Dette gør det vanskeligt at etablere et konsistent syn på virksomhedens resultater. Vi hjælper med at integrere informationskilder i strukturerede rapporteringsmiljøer, der giver pålidelige, tilgængelige og konsistente forretningsoplysninger."
+      ],
+      "transformation": [
+        "Et rapporteringssystem bør ikke blot vise tal. Det skal hjælpe brugerne med at forstå ydeevne, identificere problemer, opdage muligheder og træffe informerede beslutninger.",
+        "Vi designer rapporteringsmiljøer omkring den måde, din organisation fungerer på, og leverer strukturerede data-til-beslutning-økosystemer, der er skræddersyet til alle ledelsesniveauer."
+      ],
+      "capabilities": [
+        {
+          "title": "Management Information Systems (MIS)",
+          "desc": "Udvikle forenede informationssystemer, der giver den administrerende ledelse relevant operationel og strategisk synlighed."
+        },
+        {
+          "title": "Virksomhedsrapportering",
+          "desc": "Transformer rå forretningsdata fra flere kanaler til strukturerede, standardiserede rapporter, der overvåger ydeevnen løbende."
+        },
+        {
+          "title": "Interaktive dashboards",
+          "desc": "Giv realtid eller planlagt interaktiv synlighed i kritiske forretningsmålinger, KPI'er, trends og afdelingsaktiviteter."
+        },
+        {
+          "title": "KPI-styring",
+          "desc": "Definer, spor og benchmark meningsfulde operationelle KPI'er, der er direkte tilpasset overordnede virksomhedsvækstmål."
+        },
+        {
+          "title": "Dataintegration",
+          "desc": "Integrer distribuerede datakilder i forenede datavarehuse og semantiske lag for ensartet rapportering på én enkelt rude."
+        },
+        {
+          "title": "Automatiseret rapportering",
+          "desc": "Generer og distribuer automatisk tilpassede rapporter i henhold til foruddefinerede tidsplaner, forretningsregler og modtagerhierarkier."
+        }
+      ],
+      "lifecycleSteps": [
+        "Forretningssystemer",
+        "Dataindsamling",
+        "Dataintegration",
+        "Databehandling",
+        "Datalager",
+        "Analyse",
+        "Rapporter & Dashboards"
+      ],
+      "benefits": [
+        "En enkelt kilde til sandhed på tværs af hele virksomheden",
+        "Hurtigere adgang til operationelle målinger i realtid",
+        "Fuldstændig eliminering af manuel regnearkssamling",
+        "Konsekvente, afstemte KPI'er på tværs af afdelinger",
+        "Overlegent ledende tilsyn og auditabilitet",
+        "Automatiseret distribution direkte til interessenter",
+        "Granulær datasikkerhed og tilladelser på rækkeniveau",
+        "Forbedret smidighed til at reagere på operationelle uregelmæssigheder"
+      ],
+      "security": "Virksomhedsoplysninger kan indeholde følsomme operationelle, økonomiske og kundedata. Vores rapporteringsløsninger integrerer multifaktorgodkendelse, granulær rollebaseret godkendelse, kryptering og revisionslogfiler i rapporteringsarkitekturen.",
+      "ctaHeadline": "Rapportering, der understøtter vækst",
+      "ctaSub": "Gør information tilgængelig. Gør ydeevnen synlig. Træf bedre beslutninger."
+    },
+    "managed-services": {
+      "title": "Administrerede tjenester",
+      "tagline": "Pålidelig teknologidrift. Ekspertsupport. Kontinuerlig forbedring.",
+      "heroBadge": "24/7 IT Drift & Support",
+      "overview": [
+        "Moderne it-miljøer er komplekse og i konstant forandring. Organisationer har brug for pålidelig infrastruktur, applikationer, netværk, sikkerhed, overvågning og teknisk support for at holde forretningsdriften kørende.",
+        "Vores administrerede tjenester leverer løbende teknologistyring og driftsstøtte, hvilket giver organisationer mulighed for at opretholde pålidelige it-miljøer, mens interne teams fokuserer på strategiske initiativer."
+      ],
+      "transformation": [
+        "Traditionel IT-support fokuserer ofte på at løse problemer, efter de opstår. Administrerede tjenester tager en proaktiv tilgang ved løbende at overvåge infrastruktur, applikationer, systemer og driftsmiljøer.",
+        "Denne tilgang hjælper med at identificere potentielle problemer tidligt, opretholde ydeevnen, forbedre tilgængeligheden og reducere undgåelige driftsforstyrrelser."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastrukturstyring",
+          "desc": "Understøtter den løbende drift, patching og administration af servere, storage, virtualiseringsplatforme og infrastruktur."
+        },
+        {
+          "title": "Cloud Management",
+          "desc": "Administrer cloud-arbejdsbelastninger, multi-cloud-ressourcer, konfigurationer, overvågning, ydeevne og FinOps-optimering."
+        },
+        {
+          "title": "Netværksstyring",
+          "desc": "Giver 24/7 overvågning, ydeevnestyring, konfigurationssupport, SD-WAN-optimering og løsning af netværksproblemer."
+        },
+        {
+          "title": "Applikationsstyring",
+          "desc": "Støt kritiske applikationsmiljøer gennem proaktiv overvågning, vedligeholdelse, fejlløsning og operationelle opgraderinger."
+        },
+        {
+          "title": "Overvågning og observerbarhed",
+          "desc": "Giver omfattende realtidssynlighed i systemsundhed, latens, oppetid, infrastrukturafhængigheder og advarsler."
+        },
+        {
+          "title": "Backup & Recovery Management",
+          "desc": "Oprethold automatiserede sikkerhedskopieringsplaner, test failovers regelmæssigt, og sørg for øjeblikkelige gendannelsesmuligheder."
+        },
+        {
+          "title": "Sikkerhedsoperationer (SecOps)",
+          "desc": "Sørg for løbende sikkerhedsovervågning, patch-administration, håndhævelse af adgangskontrol og proaktiv trusselbegrænsning."
+        }
+      ],
+      "lifecycleSteps": [
+        "Miljø Onboarding",
+        "Discovery & Baseline",
+        "Telemetri-integration",
+        "SLA-definition",
+        "Aktiv overvågning døgnet rundt",
+        "Hændelsesklassificering",
+        "Hurtig opløsning",
+        "Grundårsagsanalyse",
+        "Forebyggende teknik",
+        "Kontinuerlig optimering"
+      ],
+      "benefits": [
+        "Markant reduceret intern driftsbyrde",
+        "Proaktiv problemdetektion, før brugerne påvirkes",
+        "Garanteret 99,99 % systemtilgængelighed og oppetid",
+        "Forudsigelig, gennemsigtig IT-driftsbudgettering",
+        "Øjeblikkelig adgang til senior ingeniørspecialister",
+        "Hurtige SLA-understøttede hændelsesvarstider",
+        "Automatiseret katastrofegendannelse og forretningskontinuitet",
+        "Løbende teknologioptimering og modernisering"
+      ],
+      "security": "Vores administrerede operationer overholder strenge ITIL- og ISO-rammer, der sikrer krypteret adgang, isolerede revisionslogfiler, mindste privilegerede legitimationsbokse og overensstemmelsesjustering på tværs af alle administrerede ressourcer.",
+      "ctaHeadline": "Kontinuerlig forbedring",
+      "ctaSub": "Du fokuserer på din virksomhed. Vi hjælper med at holde din teknologi kørende."
+    },
+    "one-stop-technology-solutions": {
+      "title": "One-Stop teknologiløsninger",
+      "tagline": "Én teknologipartner. Flere muligheder. Komplette forretningsløsninger.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Organisationer arbejder ofte med flere teknologiudbydere til infrastruktur, cloud, applikationer, automatisering, analyser, sikkerhed, support og digital transformation. Håndtering af flere leverandører kan skabe kompleksitet, kommunikationshuller, duplikeret indsats og fragmenterede teknologimiljøer.",
+        "Vores One-Stop Technology Solutions-tilgang bringer flere muligheder sammen under en samlet servicemodel, der hjælper organisationer med at planlægge, implementere, integrere, drive og løbende forbedre deres teknologiske miljø."
+      ],
+      "transformation": [
+        "Vi understøtter hele teknologiens livscyklus – fra forståelse af forretningskrav og definition af en teknologistrategi til design af løsninger, implementering af platforme, integration af systemer, implementering af applikationer, overvågning af miljøer og løbende support.",
+        "Målet er at skabe et forbundet teknologiøkosystem frem for isolerede løsninger."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategi og arkitektur",
+          "desc": "Forstå forretningsmål og design skalerbare, sikre og vedligeholdelige teknologiarkitekturer."
+        },
+        {
+          "title": "Implementering & Byg",
+          "desc": "Implementer applikationer, infrastruktur, integrationer, automatisering og digitale platforme med virksomhedens strenghed."
+        },
+        {
+          "title": "Systemintegration",
+          "desc": "Forbind systemer og applikationer, så information bevæger sig problemfrit på tværs af hele organisationen."
+        },
+        {
+          "title": "Struktureret implementering",
+          "desc": "Etabler automatiserede CI/CD- og frigivelsesprocesser for at bringe løsningerne i produktion pålideligt og sikkert."
+        },
+        {
+          "title": "Kontinuerlig overvågning",
+          "desc": "Giv ende-til-ende synlighed i infrastruktur, applikationer, ydeevne, tilgængelighed og driftstilstand."
+        },
+        {
+          "title": "Optimering og support",
+          "desc": "Gennemgå løbende miljøer for at forbedre ydeevne, pålidelighed, omkostningseffektivitet og skalerbarhed."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategi",
+        "Arkitektur",
+        "Implementering",
+        "Integration",
+        "Implementering",
+        "Overvågning",
+        "Optimering",
+        "Støtte"
+      ],
+      "benefits": [
+        "Reduceret leverandørstyringskompleksitet og overhead",
+        "Sømløs koordinering på tværs af alle arkitektoniske lag",
+        "Hurtigere projektudførelse med ingen afleveringsforsinkelser",
+        "Forudsigelig budgetfordeling og gennemsigtig levering",
+        "Samlet virksomhedsansvar fra nul til skala",
+        "Skalerbare løsninger designet til fremtidig forretningsvækst",
+        "Langsigtet betroet teknologipartnerskab",
+        "Omfattende end-to-end digital transformation"
+      ],
+      "security": "Med en enkelt betroet partner, der fører tilsyn med arkitektur, implementering og drift, forbliver sikkerhedsstyring ubrudt på tværs af alle niveauer – eliminerer blinde vinkler for integration og sikrer kontinuerlig overholdelse.",
+      "ctaHeadline": "Din komplette teknologipartner",
+      "ctaSub": "Én partner. Én vision. Flere teknologier. Fuldstændige løsninger."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Virksomhedsoversigt",
+    "overviewTitle": "Intelligent teknologi til målbare resultater",
+    "transformationEyebrow": "Operationel transformation",
+    "transformationTitle": "Transformering af forretning gennem intelligente arbejdsgange",
+    "deliveryEyebrow": "Struktureret leveringstilgang",
+    "deliveryTitle": "End-to-End-udførelse og kontinuerlig optimering",
+    "deliveryIntro": "Vores gennemprøvede implementeringstilgang følger en streng leveringslivscyklus:",
+    "deliveryOutro": "Denne strukturerede sekvens sikrer stram overensstemmelse med forretningsmål, robust sikkerhedsposition og målbare ROI-benchmarks i hver fase.",
+    "securityEyebrow": "Sikkerhed og styring",
+    "securityTitle": "Sikkerhedsforanstaltninger for pålidelighed og overholdelse af virksomheder",
+    "securityOutro": "Vi indlejrer streng rollebaseret adgangskontrol, automatiseret sårbarhedsscanning, modelstyring og flerlagskryptering for at sikre, at dit produktionsmiljø forbliver robust og fuldt kompatibelt.",
+    "capabilitiesTitle": "Kerneteknologiske muligheder",
+    "capabilitiesSub": "Omfattende tekniske kompetencer udviklet til at skalere dine digitale operationer.",
+    "bookDiscovery": "Bogteknologiopdagelse",
+    "exploreAll": "Udforsk alle teknologier",
+    "bookConsultation": "Book en konsultation",
+    "coreCapabilities": "Kernefunktioner"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Kernefunktioner",
+    "exploreFramework": "Udforsk Solution Framework",
+    "bookConsultation": "Book en konsultation",
+    "viewCaseStudies": "Se casestudier",
+    "provenPillars": "Gennemprøvede søjler",
+    "operationalOutcomes": "Operationelle resultater",
+    "learnMore": "Lær mere"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "End-to-end Digital Engineering",
+      "titlePart1": "Indledning til",
+      "titlePart2": "Implementering",
+      "description": "End-to-end udvikling af nye digitale løsninger fra forretningskrav og løsningsarkitektur gennem udvikling, integration, test, implementering og løbende support.",
+      "bookConsultation": "Book en konsultation",
+      "exploreEngineering": "Udforsk Solution Engineering",
+      "coreCapabilities": [
+        "Krav Engineering",
+        "Løsningsarkitektur",
+        "Applikationsudvikling",
+        "API-integration",
+        "Kvalitetssikring",
+        "DevOps",
+        "Implementering",
+        "Support og vedligeholdelse"
+      ],
+      "row1Eyebrow": "Fuld livscyklus levering",
+      "row1Title": "End-to-End-udvikling fra krav til skala",
+      "row1P1": "Ethvert nyt digitalt tiltag starter med unikke krav, operationelle arbejdsgange og strategiske mål, som ikke kan opfyldes af ensartet software. Vi er specialiserede i at bygge brugerdefinerede, højtydende softwaresystemer helt fra bunden.",
+      "row1P2": "Fra indledende kravopdagelse og teknisk arkitekturdesign til agil sprintudvikling, API-økosystemintegration, robuste testpipelines og automatiserede cloud-implementeringer, tager vores senioringeniørteam det fulde ejerskab af din produktlivscyklus.",
+      "row2Eyebrow": "Løsningsarkitektur og teknik",
+      "row2Title": "Skalerbare systemer bygget til virksomhedsvækst",
+      "row2P1": "Vi designer robuste softwarearkitekturer, der er skræddersyet til at modstå store produktionsbelastninger. Fra modulære mikrotjenester og hændelsesdrevne backends til datastrømme med høj kapacitet og GraphQL/REST API'er bygger vi platforme, der skalerer ubesværet.",
+      "row2P2": "Ved at etablere rene, modulære kodebaser parret med automatiseret test og kontinuerlig sikkerhedsoverholdelse, sikrer vi, at dit softwaregrundlag kan vedligeholdes, revideres og klar til langsigtet udvikling.",
+      "row3Eyebrow": "Kvalitetssikring & DevOps",
+      "row3Title": "Agile levering med automatiserede rørledninger",
+      "row3P1": "Vores leveringsmodel integrerer automatiseret enheds-, integrations- og end-to-end-regressionstest sammen med containeriserede CI/CD-workflows (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Med gennemsigtige sprintdemoer, observerbarhed i realtid og milepælsdrevet hastighed sikrer vi hurtig time-to-market uden at gå på kompromis med sikkerhed, stabilitet eller brugeroplevelse.",
+      "row4Eyebrow": "Implementering og support",
+      "row4Title": "Pålidelig 24/7 drift og langsigtet udvikling",
+      "row4P1": "At gå live er kun begyndelsen. Vi leverer proaktiv overvågning, SLA-understøttet vedligeholdelse, optimering af cloud-infrastruktur, justering af ydeevne og løbende udrulning af funktioner.",
+      "row4P2": "Vores ingeniørteam fungerer som en naturlig forlængelse af din organisation og sikrer nul nedetid og kontinuerlig teknologisk overlegenhed på dit marked.",
+      "pillarsTitle": "Kernefunktioner",
+      "pillarsSub": "Komplet full-stack-funktioner udviklet til at tage dine ideer fra nul til produktion.",
+      "pillar1Title": "Krav Engineering",
+      "pillar1Desc": "Dybdegående forretningsanalyse, funktionelle specifikationer og kortlægning af brugerrejser for at definere nøjagtige løsningsgrænser.",
+      "pillar2Title": "Løsningsarkitektur",
+      "pillar2Desc": "Skalerbare cloud-native arkitekturer, databasemodellering, design af mikrotjenester og sikkerhedsgrundlag med nul tillid.",
+      "pillar3Title": "Applikationsudvikling",
+      "pillar3Desc": "Moderne full-stack web- og mobilapplikationer udviklet med ren kode, typesikkerhed og reaktive UI-standarder.",
+      "pillar4Title": "API-integration",
+      "pillar4Desc": "High-throughput REST/GraphQL API'er, webhook-orkestreringer, betalingsgateways og problemfri tredjeparts ERP/CRM-synkronisering.",
+      "ctaTitle": "Klar til at bygge din løsning fra start til implementering?",
+      "ctaSub": "Partner med Rezonants for at arkitekte, konstruere og implementere din tilpassede digitale platform fra forretningskrav til produktionsvirkelighed.",
+      "ctaButton": "Book en løsningskonsultation",
+      "pillar5Title": "Kvalitetssikring",
+      "pillar5Desc": "Strenge testautomatisering, belastnings-/stresstest, sårbarhedsscanninger og regressionstestpakker.",
+      "pillar6Title": "DevOps og implementering",
+      "pillar6Desc": "Automatiserede CI/CD-pipelines, containerorkestrering (Docker/K8s), infrastruktur som kode og frigivelser uden nedetid.",
+      "pillar7Title": "Support og vedligeholdelse",
+      "pillar7Desc": "24/7 proaktiv overvågning, helbredstelemetri, performance audits, sikkerhedspatching og løbende SLA-vedligeholdelse.",
+      "pillar8Title": "Kontinuerlig innovation",
+      "pillar8Desc": "Regelmæssig funktionshastighed, dataanalyseintegration, AI-forbedring og arkitektoniske moderniseringer."
+    },
+    "processAutomation": {
+      "eyebrow": "Intelligente procesoperationer",
+      "titlePart1": "Forretningsproces",
+      "titlePart2": "Automatisering",
+      "description": "End-to-end automatisering af virksomhedens arbejdsgange, der kombinerer robotprocesautomatisering (RPA), intelligent dokumentbehandling, forretningsregler og systemintegration.",
+      "bookDiscovery": "Opdagelse af bogautomatisering",
+      "exploreFramework": "Udforsk Solution Framework",
+      "coreCapabilities": [
+        "Workflow automatisering",
+        "Robotisk procesautomatisering",
+        "Dokumentbehandling",
+        "Integrationsteknik",
+        "Motorer til forretningsregler",
+        "Procesanalyse",
+        "Kontinuerlig optimering",
+        "Ældre integration"
+      ],
+      "row1Eyebrow": "Robotisk procesautomatisering",
+      "row1Title": "Intelligente bots til højvolumenoperationer",
+      "row1P1": "Eliminer gentagne manuel dataindtastning, tværsystemafstemninger og dokumentruting. Vi implementerer enterprise RPA-bots, der udfører strukturerede opgaver 24/7 med nul fejlrate.",
+      "row1P2": "Ved at forbinde ældre desktop-grænseflader, SAP/ERP-backends og cloud-databaser frigør softwarebots dit team til at fokusere på strategiske forretningsinitiativer.",
+      "row2Eyebrow": "Intelligent dokumentbehandling",
+      "row2Title": "OCR, Machine Learning & Document AI",
+      "row2P1": "Indlæs, klassificer og udtræk automatisk data fra fakturaer, kontrakter, identitetsdokumenter og krav. Vores AI-drevne pipelines validerer felter mod interne databaser og udløser automatiserede godkendelsesworkflows.",
+      "row2P2": "Opnå direkte behandlingshastigheder, der overstiger 95 %, samtidig med at ekspeditionstiderne reduceres drastisk fra dage til sekunder.",
+      "row3Eyebrow": "Procesorkestrering",
+      "row3Title": "End-to-End Cross-Platform Synchronization",
+      "row3P1": "Forbind CRM-, ERP-, HRMS- og bank-API'er til ensartede datastrømme i realtid. Vi implementerer hændelsesdrevne triggere, beskedkøer og automatiske fallback-handlere.",
+      "row3P2": "Information flyder problemfrit på tværs af afdelinger uden menneskelig indgriben, hvilket eliminerer driftssiloer og kommunikationsforsinkelser.",
+      "row4Eyebrow": "Kontinuerlig telemetri",
+      "row4Title": "Procesanalyse i realtid og Kaizen Insights",
+      "row4P1": "Spor procesudførelsestider, flaskehals-heatmaps, fejlfrekvenser og økonomisk ROI i real-time executive dashboards.",
+      "row4P2": "Kontinuerlig maskinlæringsdiagnostik opdager nye automatiseringsmuligheder, der holder din virksomhed i drift med maksimal effektivitet.",
+      "pillarsTitle": "Automationssøjler",
+      "pillarsSub": "Gennemprøvede byggesten til intelligent virksomhedsdrift.",
+      "pillar1Title": "Workflow automatisering",
+      "pillar1Desc": "Flertrins menneske-i-løkken og digitale arbejdsgange orkestreret med automatiseret routing og eskaleringer.",
+      "pillar2Title": "Robotisk procesautomatisering",
+      "pillar2Desc": "Regelbaserede softwarebots, der udfører rutinemæssige dataindtastning, afstemning og krydsapplikationsopgaver.",
+      "pillar3Title": "Intelligent AI-automatisering",
+      "pillar3Desc": "Kognitive AI-agenter, der fortolker kontekst, opsummerer ustruktureret tekst og træffer automatiske beslutninger.",
+      "pillar4Title": "Procesoptimering",
+      "pillar4Desc": "Process mining, flaskehalsdetektion og Kaizen-arbejdsgange, der løbende reducerer driftsomkostningerne.",
+      "ctaTitle": "Klar til at automatisere din virksomheds arbejdsgange?",
+      "ctaSub": "Kom i kontakt med vores automationsarkitekter for at identificere muligheder med høj ROI og implementere intelligente digitale arbejdsgange.",
+      "ctaButton": "Book en automatiseringskonsultation"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Engineering Standard & R&D",
+      "titlePart1": "Center for",
+      "titlePart2": "Fremragende",
+      "description": "En centraliseret organisation af seniorarkitekter og domænespecialister dedikeret til at standardisere ingeniørpraksis, drive innovation og accelerere digitale initiativer.",
+      "exploreStandards": "Udforsk tekniske standarder",
+      "initiateAssessment": "Start CoE-vurdering",
+      "coreCapabilities": [
+        "Arkitekturstandarder",
+        "Genanvendelige rammer",
+        "Best Practice Governance",
+        "Udvikling af færdigheder",
+        "Kvalitetsbenchmarking",
+        "R&D & Innovation",
+        "Teknologievaluering",
+        "Vejledning på tværs af projekter"
+      ],
+      "uptimeLabel": "Enterprise Oppetid",
+      "engineersLabel": "Ingeniører og arkitekter",
+      "deploymentsLabel": "AI & Cloud-implementeringer",
+      "satisfactionLabel": "Kundetilfredshed",
+      "row1Eyebrow": "Søjle 01 — Teknisk standard",
+      "row1Title": "Højtydende softwareteknik",
+      "row1P1": "Vores Center of Excellence etablerer standardiserede designmønstre, strenge automatiserede tests og praksisser med nul-defekt kodegennemgang, der accelererer time-to-market, mens den tekniske gæld holdes på nul.",
+      "row1F1": "Automatiserede CI/CD-udgivelsespipelines med DORA metrics analytics",
+      "row1F2": "Strenge arkitektoniske revisionsnævn og styring af mikrotjenester",
+      "row1F3": "Kontinuerlig sikkerhedslinting og automatiseret sårbarhedspatching",
+      "row1Btn": "Lær tekniske standarder",
+      "row1Tag": "DevOps & Quality Engineering",
+      "row2Eyebrow": "Søjle 02 — F&U-innovation",
+      "row2Title": "AI Innovation Lab & Emerging Technology",
+      "row2P1": "Vi eksperimenterer med state-of-the-art maskinlæringsmodeller, tilpassede AI-agenter og intelligent workflowautomatisering for at bygge næste generations virksomhedsprodukter.",
+      "row2F1": "Enterprise Generative AI & RAG videnintegration",
+      "row2F2": "Autonome AI-agentarbejdsgange til automatisering af forretningsprocesser",
+      "row2F3": "Tilpasset maskinlæringsmodeloptimering og finjustering",
+      "row2Btn": "Udforsk AI Lab",
+      "row2Tag": "Kunstig intelligens og neural R&D",
+      "row3Eyebrow": "Søjle 03 — Infrastruktur",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Vi designer og administrerer modstandsdygtige multi-cloud-miljøer bygget på nul-tillid-sikkerhedsrammer, der sikrer, at dine data forbliver beskyttet mod nye globale cybertrusler.",
+      "row3F1": "AWS, Azure og GCP multi-cloud infrastruktur orkestrering",
+      "row3F2": "Zero-trust network access (ZTNA) & rollebaserede IAM-politikker",
+      "row3F3": "Automatiseret containersikkerhedsscanning og hemmelig styring",
+      "row3Btn": "Udforsk Cloud & Security",
+      "row3Tag": "Cloud Architecture & Zero-Trust",
+      "pillarsTitle": "Vores Core Excellence Frameworks",
+      "pillarsSub": "Systematiserede udviklingsplaybooks, der driver missionskritiske platforme.",
+      "pillar1Title": "Architectural Review Board (ARB)",
+      "pillar1Desc": "Omfattende overvågning, der sikrer, at alle virksomhedsløsninger stemmer overens med strenge skalerbarhed, sikkerhed og overholdelsesprotokoller.",
+      "pillar2Title": "Genanvendelige acceleratorer og komponentbibliotek",
+      "pillar2Desc": "Proprietære designsystemer, API-startsæt og backend-mikroserviceskabeloner, der reducerer den indledende udviklingstid med 40 %.",
+      "pillar3Title": "Kontinuerlig præstationsprofilering",
+      "pillar3Desc": "Avancerede realtidsobservationspipelines, der overvåger applikationsforsinkelse, gennemløbsflaskehalse og cloud-ressourceudnyttelse.",
+      "pillar4Title": "Talentopkvalificering & guilds",
+      "pillar4Desc": "Strukturerede interne guilds og certificeringer, der dyrker dybe tekniske færdigheder på tværs af cloud, DevOps og anvendt AI.",
+      "ctaTitle": "Løft din tekniske standard",
+      "ctaSub": "Partner med Rezonantss Center of Excellence for at bygge modstandsdygtige cloud-arkitekturer, automatisere arbejdsgange og fremskynde levering af digitale produkter.",
+      "ctaButton": "Planlæg lederkonsultation",
+      "badge": "REZONANTS COE",
+      "scroll": "Rul",
+      "p1Title": "Governance & Rammer",
+      "p1Desc": "Etabler virksomhedsdækkende arkitektonisk styring, politikværn og overholdelsesstandarder.",
+      "p1Tag": "Styring",
+      "p2Title": "Teknologistandarder og arkitektur",
+      "p2Desc": "Definer moderne referencearkitekturer, kontrollerede teknologistakke og mikroservicemønstre.",
+      "p2Tag": "Arkitektur",
+      "p3Title": "Genanvendelige aktiver og biblioteker",
+      "p3Desc": "Accelerer udviklingshastigheden med delte komponenter, skabeloner, startsæt og designsystemer.",
+      "p3Tag": "Genanvendelighed",
+      "p4Title": "Kompetenceudvikling",
+      "p4Desc": "Struktureret træning, teknisk mentorskab og færdighedsaktivering for at højne teamets tekniske dygtighed.",
+      "p4Tag": "Kompetence",
+      "p5Title": "Innovation & Emerging Tech",
+      "p5Desc": "R&D på AI-agenter, automatiseringspipelines og næste generations rammer for at bevare markedsfordelen.",
+      "p5Tag": "Innovation",
+      "p6Title": "Kontinuerlig forbedring",
+      "p6Desc": "Datadrevne ingeniørmålinger (DORA), SLA-benchmarking og løbende kvalitetsoptimering.",
+      "p6Tag": "Kvalitet"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Skræddersyet Digital Engineering",
+      "titlePart1": "tilpasset udvikling og",
+      "titlePart2": "Tilpasning",
+      "description": "Udvikling og forbedring af applikationer, platforme, arbejdsgange og virksomhedsløsninger for at imødekomme unikke forretningskrav og levere skræddersyet funktionalitet.",
+      "bookConsultation": "Book en konsultation",
+      "exploreCapabilities": "Udforsk muligheder",
+      "coreCapabilities": [
+        "Skræddersyet udvikling",
+        "Platformkonfiguration",
+        "Udvidelser",
+        "Brugerdefinerede arbejdsgange",
+        "API-udvikling",
+        "Systemintegration",
+        "UI/UX-forbedring",
+        "Ydeevneoptimering"
+      ],
+      "row1Eyebrow": "SKræddersyet FUNKTIONALITET",
+      "row1Title": "Skræddersyede funktioner bygget til din arbejdsgang",
+      "row1P1": "Standard virksomhedssoftware opfylder ofte de specialiserede virksomhedsbehov. Vores brugerdefinerede ingeniørteam udvikler skræddersyede applikationsmoduler, tilpassede forretningsregler og specialiserede udvidelser, der er skræddersyet til dine operationer.",
+      "row1P2": "Fra tilpassede CRM- og ERP-forbedringer til specialiserede operationelle portaler bygger vi funktioner, der problemfrit stemmer overens med dit teams nøjagtige arbejdsgangsmønstre.",
+      "row2Eyebrow": "INTEGRATION AF VIRKSOMHEDSSYSTEM",
+      "row2Title": "Platformkonfiguration og API-udvikling",
+      "row2P1": "Forbind forskellige softwaresystemer til et samlet digitalt økosystem. Vi udvikler tilpassede REST- og GraphQL-API'er, webhook-handlere og virksomhedsmeddelelseskøer for at sikre datasynkronisering i realtid på tværs af alle dine platforme.",
+      "row2P2": "Uanset om vi integrerer tredjeparts SaaS-værktøjer eller udvider proprietære on-premise platforme, prioriterer vores integrationsarkitekturer dataintegritet, gennemløb og nul nedetid.",
+      "row3Eyebrow": "UI/UX & YDELSE",
+      "row3Title": "UI/UX-forbedringer og ydeevneoptimering",
+      "row3P1": "Løft ældre grænseflader med moderne, responsive brugeroplevelser designet til hastighed og klarhed. Vi omkonstruerer frontends med intuitive designmønstre, overholdelse af tilgængelighed og strømlinede interaktionsmodeller.",
+      "row3P2": "Sideløbende optimerer vores præstationsingeniører databaseforespørgsler, cachingstrategier og frontend-bundtstørrelser for at levere øjeblikkelige responstider på tværs af alle enheder.",
+      "pillarsTitle": "Udviklet til dine nøjagtige specifikationer",
+      "pillarsSub": "Tilpasningsmetoder i virksomhedskvalitet bygget til at skalere problemfrit.",
+      "pillar1Title": "Brugerdefinerede arbejdsgange og udvidelser",
+      "pillar1Desc": "Skræddersyet applikationslogik og automatiserede tilstandsmaskiner konfigureret specifikt omkring dine interne driftsregler.",
+      "pillar2Title": "API og systemintegration",
+      "pillar2Desc": "Sikre, autentificerede databroer, der forbinder proprietære backends, ERP-pakker, betalingsgateways og cloud-tjenester.",
+      "pillar3Title": "Platformkonfiguration",
+      "pillar3Desc": "Dybde arkitektoniske tilpasninger, der ændrer virksomhedssoftware uden at bryde opgraderingsstier eller leverandørsupportaftaler.",
+      "pillar4Title": "Ydeevneoptimering",
+      "pillar4Desc": "Aggressiv forespørgselsprofilering, eliminering af hukommelseslækage og kant-CDN-distribution til sideindlæsninger på under-sekund.",
+      "ctaTitle": "Klar til at tilpasse din virksomhedsplatform?",
+      "ctaSub": "Kom i kontakt med vores løsningsarkitekter for at designe og implementere tilpassede moduler, arbejdsgange og integrationer skræddersyet til dine forretningsbehov.",
+      "ctaButton": "Book et tilpasningsopkald",
+      "badge": "Skræddersyet Digital Engineering",
+      "viewAllServices": "Se alle tjenester"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Virksomhedsmodernisering",
+      "titlePart1": "Digital",
+      "titlePart2": "Forvandling",
+      "description": "Omfattende modernisering af forretningsprocesser, teknologiarkitekturer og operationelle modeller for at fremme organisatorisk smidighed, driftseffektivitet og bæredygtig digital vækst.",
+      "startTransformation": "Start transformation",
+      "exploreStrategy": "Udforsk strategi",
+      "coreCapabilities": [
+        "Strategi & køreplanlægning",
+        "Modernisering af arkitektur",
+        "Cloud & Infrastruktur",
+        "Data og analyse",
+        "Procesdigitalisering",
+        "Kundeoplevelse",
+        "Forandringsledelse",
+        "Agile driftsmodeller"
+      ],
+      "row1Eyebrow": "Strategi & køreplan",
+      "row1Title": "Fra vision til eksekverbar køreplan",
+      "row1P1": "Vi samarbejder med virksomhedsledere for at definere digital strategi, forretningscases og trinvise køreplaner med hurtige gevinster og risikofri udførelse.",
+      "row1P2": "Prioriterede initiativer, TCO-modeller og KPI'er sikrer, at enhver teknologimoderniseringsindsats er direkte knyttet til omsætning, effektivitet og kundetilfredshedsresultater.",
+      "row2Eyebrow": "Ældre modernisering",
+      "row2Title": "Moderniser uden at bryde forretningen",
+      "row2P1": "Re-platform monolitter til mikrotjenester, API'er og cloud-native mønstre med nul-downtime cutovers og automatiseret regressionsvalidering.",
+      "row2P2": "Vi moderniserer applikationer, databaser og integrationslag, samtidig med at vi bevarer compliance og sikkerhedsposition.",
+      "row3Eyebrow": "Cloud, AI og data",
+      "row3Title": "Cloudadoption og datadrevet intelligens",
+      "row3P1": "Adopter AWS, Azure og GCP, byg moderne datapipelines, og indlejr maskinlæringsagenter for at drive autonome beslutninger.",
+      "row3P2": "Fra streaming af begivenheder i realtid til forenede dashboards bliver transformation målbar og bæredygtig.",
+      "row4Eyebrow": "Kundeoplevelse",
+      "row4Title": "Moderne Omnichannel-oplevelser",
+      "row4P1": "Redesign kunderejser på tværs af responsive web-, iOS-, Android- og selvbetjeningsportaler med personlige grænseflader.",
+      "row4P2": "Platformkonstruktion, telemetri og automatiserede feedbacksløjfer gør digital innovation kontinuerlig.",
+      "pillarsTitle": "Transformationssøjler",
+      "pillarsSub": "Resultatfokuserede løftestænger, der sikrer bæredygtigt digitalt lederskab.",
+      "pillar1Title": "Digital Strategi & Governance",
+      "pillar1Desc": "Fasetransformationsplaner med business case-modellering, arkitekturstyring og milepælsrisikosporing.",
+      "pillar2Title": "Cloud og dataplatform",
+      "pillar2Desc": "AWS/Azure/GCP multi-cloud-fundamenter, automatiserede pipelines og virksomhedsdataanalyseaktivering.",
+      "pillar3Title": "AI og automatisering",
+      "pillar3Desc": "Intelligent procesautomatisering, kognitive AI-agenter og forudsigelig telemetri for at optimere den daglige drift.",
+      "pillar4Title": "Kundeoplevelse",
+      "pillar4Desc": "Højkonverterende omnichannel digitale portaler og personlige grænseflader bygget til maksimal brugerfastholdelse.",
+      "ctaTitle": "Klar til at transformere din virksomhed?",
+      "ctaSub": "Partner med Rezonants for trinvis, risikofri digital transformation knyttet til målbare forretningsresultater.",
+      "ctaButton": "Book et digital transformationsopkald",
+      "bookWorkshop": "Bogforvandlingsværksted",
+      "exploreFramework": "Udforsk Solution Framework",
+      "coreCapabilitiesTitle": "Kernefunktioner"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Komplet teknologilivscyklus",
+      "titlePart1": "End-to-End-løsning",
+      "titlePart2": "Ramme",
+      "description": "En struktureret leveringsramme for fuld livscyklus, der spænder over forretningskrav, arkitekturdesign, konstruktion, integration, kvalitetssikring, cloud-implementering og administrerede operationer.",
+      "startJourney": "Start dit projekt",
+      "exploreFramework": "Udforsk rammeværk",
+      "coreCapabilities": [
+        "Kravanalyse",
+        "Arkitekturdesign",
+        "Udvikling i fuld stack",
+        "Integrationsteknik",
+        "Kvalitetssikring",
+        "Implementering og udrulning",
+        "Løbende drift",
+        "Kontinuerlig udvikling"
+      ],
+      "row1Eyebrow": "Strategi og arkitektur",
+      "row1Title": "Krav Engineering & Solution Design",
+      "row1P1": "Samarbejdsworkshops, kortlægning af forretningsdomæner og cloud-arkitekturspecifikationer designet til at eliminere risiko, før en kodelinje skrives.",
+      "row1P2": "Vi definerer datamodeller, sikkerhedsrammer og skalerbarhedsmilepæle, der skaber langsigtet succes.",
+      "row2Eyebrow": "Engineering & Kvalitet",
+      "row2Title": "Full-stack udvikling og automatiseret test",
+      "row2P1": "Modulære mikrotjenester, typesikre API'er og responsive frontends kombineret med automatiserede enheds-, integrations- og sikkerhedsscanninger.",
+      "row2P2": "Kontinuerlig integrationspipelines med GitHub Actions, Terraform og automatiserede sikkerhedsværn.",
+      "row3Eyebrow": "Implementering og drift",
+      "row3Title": "Cloud-implementering og 24/7 administreret overvågning",
+      "row3P1": "Multi-cloud-orkestrering på AWS/Azure/GCP med automatisk tilbagerulning, nul-downtime cutovers og observerbarhed i realtid.",
+      "row3P2": "Vi leverer SLA-understøttet vedligeholdelse og kontinuerlig telemetriovervågning for at udvikle dit produkt problemfrit.",
+      "row4Eyebrow": "Enterprise Governance",
+      "row4Title": "Unified Governance & Løbende Support",
+      "row4P1": "Enkeltpunktsansvar på tværs af hele din digitale stak — gennemsigtig sprinthastighed, forudsigelig budgettering og kontinuerlig innovation.",
+      "row4P2": "Regelmæssig funktionsudrulning og moderniseringscyklusser holder din virksomhed foran konkurrenterne.",
+      "pillarsTitle": "Livscyklusrammesøjler",
+      "pillarsSub": "Hver fase er konstrueret med virksomhedens stringens.",
+      "pillar1Title": "Strategi og krav",
+      "pillar1Desc": "Domæneopdagelse, arkitektoniske køreplaner og interessenttilpasning for at eliminere udførelsesrisici.",
+      "pillar2Title": "Arkitektur & Byg",
+      "pillar2Desc": "Resiliente cloud-native mikrotjenester, API-integrationer og kontinuerlig QA-test.",
+      "pillar3Title": "Sikkerhed og implementering",
+      "pillar3Desc": "Zero-trust sikkerhedsoverholdelse, containeriserede udgivelser og automatiserede cloud-implementeringer.",
+      "pillar4Title": "Governance & Support",
+      "pillar4Desc": "24/7 SLA-overvågning, sundhedstelemetri og løbende evolutionær ingeniørarbejde.",
+      "ctaTitle": "Har du brug for en komplet livscykluspartner?",
+      "ctaSub": "Vi ejer hele teknologiens livscyklus, så dit team kan fokusere på kerneforretningens resultater.",
+      "ctaButton": "Partner for hele livscyklussen"
+    },
+    "migrationServices": {
+      "eyebrow": "Cloud & Infrastruktur Transformation",
+      "titlePart1": "Migration &",
+      "titlePart2": "Modernisering",
+      "description": "Sikker, struktureret migrering af ældre applikationer, databaser og infrastruktur til moderne cloud-arkitekturer, parret med kontinuerlig modernisering for øget smidighed og effektivitet.",
+      "bookAssessment": "Bog migrationsvurdering",
+      "exploreStrategy": "Udforsk Cloud-strategien",
+      "coreCapabilities": [
+        "Skymigrering",
+        "Applikationsmodernisering",
+        "Databasemigration",
+        "Infrastrukturgenhosting",
+        "Containerisering",
+        "Overgang til mikrotjenester",
+        "Ydeevneoptimering",
+        "Sikkerhed og overholdelse"
+      ],
+      "row1Eyebrow": "Skymigrering",
+      "row1Title": "Multi-Cloud-strategi og løft-og-optimer",
+      "row1P1": "Problemfri arbejdsbelastningsmigrering på tværs af AWS, Azure og Google Cloud med automatiseret opdagelse, bølgeplanlægning og ingen forretningsafbrydelser.",
+      "row1P2": "Vi balancerer rehosting, replatforming og refactoring for at optimere de samlede ejeromkostninger (TCO) og smidighed.",
+      "row2Eyebrow": "Data- og databasemigrering",
+      "row2Title": "Sikker ETL og automatiseret datavalidering",
+      "row2P1": "Automatiseret databasereplikering, skemaoversættelse og high-throughput ETL-pipelines med 100 % verifikation af dataintegritet.",
+      "row2P2": "Nul nedetid cutover genhør sikrer fuldstændig datakonsistens og forretningskontinuitet.",
+      "row3Eyebrow": "Modernisering af platforme",
+      "row3Title": "Containerisering og Kubernetes Orchestration",
+      "row3P1": "Moderniser ældre monolitter til skalerbare mikrotjenester orkestreret via Kubernetes (EKS, AKS, GKE) med automatiserede IaC-planer.",
+      "row3P2": "Præstationsprofilering efter migrering og omkostningsoptimering sikrer øjeblikkelig ROI.",
+      "row4Eyebrow": "Afskæringsplanlægning",
+      "row4Title": "Automatiseret test- og tilbagerulningssikkerhedsnet",
+      "row4P1": "Kamptestede cutover-runbooks, automatiserede regressionsuiter og øjeblikkelige rollback-mekanismer for fuldstændig ro i sindet.",
+      "row4P2": "Sundhedstelemetri efter migration og 24/7 hyperpleje garanterer fejlfri produktionsstabilitet.",
+      "pillarsTitle": "Migrationsforsikringer",
+      "pillarsSub": "Udrykkede bevægelser støttet af virksomhedens SLA'er.",
+      "pillar1Title": "Nul-nedetid cutover",
+      "pillar1Desc": "Canary-udgivelser og dobbelt-skrive-synkronisering for at sikre uafbrudt brugeradgang.",
+      "pillar2Title": "Automatiseret datavalidering",
+      "pillar2Desc": "Kontrolsum-sammenligninger, skemaintegritetsrevisioner og automatiseret ETL-afstemning.",
+      "pillar3Title": "Sikkerhedsnet til tilbagerulning",
+      "pillar3Desc": "Strenge gendannelsesprotokoller og øvelsesøvelser for at begrænse risikoen i alle faser.",
+      "pillar4Title": "Ydelse og omkostningsoptimering",
+      "pillar4Desc": "Cloud rightsizing, autoskaleringspolitikker og omkostningsstyringsdashboards inkluderet.",
+      "ctaTitle": "Klar til at migrere med fuld tillid?",
+      "ctaSub": "Partner med Rezonants for struktureret, risikofri cloud- og datamodernisering.",
+      "ctaButton": "Planlæg dit migrationsworkshop"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Hurtig validering og gennemførlighed",
+      "titlePart1": "Proof of Concept (PoC) &",
+      "titlePart2": "Pilotimplementering",
+      "description": "Hurtig udvikling og validering af teknologiløsninger til vurdering af teknisk gennemførlighed, forretningsværdi, integrationskrav, ydeevne og skalerbarhed før fuldskala implementering.",
+      "initiateDiscovery": "Start PoC Discovery",
+      "exploreDevelopment": "Udforsk tilpasset udvikling",
+      "coreCapabilities": [
+        "PoC-udvikling",
+        "Prototypeteknik",
+        "Forundersøgelser",
+        "Arkitekturvalidering",
+        "Integrationstest",
+        "Performance Benchmarking",
+        "Pilotinstallation",
+        "Værdivurdering"
+      ],
+      "row1Eyebrow": "Hurtig validering",
+      "row1Title": "Fra koncept til valideret gennemførlighed",
+      "row1P1": "At omdanne en idé til en løsning i virksomhedsskala kræver streng forhåndsvalidering. Vores PoC & Pilot-service evaluerer teknologiens levedygtighed, stresstester kritiske integrationskroge og validerer virksomhedens ROI før større kapitaltilsagn.",
+      "row1P2": "Vi konstruerer high-fidelity MVP'er og fokuserede sandbox-piloter, der beviser teknisk gennemførlighed, måler systemforsinkelse og indsamler direkte interessentvalidering tidligt.",
+      "row1Cap": "Hurtig MVP-prototyping og tekniske benchmarks",
+      "row2Eyebrow": "Agile prototyping",
+      "row2Title": "Interaktive MVP'er og UX-validering",
+      "row2P1": "Vi bygger interaktive wireframes, klikbare brugerflows og funktionelle proof-of-concepts på dage, ikke måneder. Test rigtige brugerinteraktioner, finpuds UI/UX-mønstre, og indsaml handlingsorienteret feedback fra interessenter.",
+      "row2P2": "Ved at forkorte feedback-loops under tidlig udvikling minimerer dit team efterarbejde og etablerer klare tekniske specifikationer, før kapitalintensive byggefaser begynder.",
+      "row2Cap": "Hurtig iteration og klikbare UX-prototyper",
+      "row3Eyebrow": "Integrations- og skalerbarhedstest",
+      "row3Title": "De-Risk komplekse systemintegrationer",
+      "row3P1": "Afdække tekniske flaskehalse, API-begrænsninger og præstationsbegrænsninger før fuld kapitalforpligtelse. Vores pilotingeniørteam stresstester integrationer, datapipelines og tredjeparts API'er i isolerede sandkassemiljøer.",
+      "row3P2": "Denne proaktive risikoreduktion sikrer høj systemtilgængelighed, sikkerhedsoverholdelse og forudsigelige udviklingstidslinjer, når du overfører din PoC til virksomhedsproduktion.",
+      "row3Cap": "Sandbox Integration & Stresstest",
+      "row4Eyebrow": "Kontrolleret produktionspilot",
+      "row4Title": "Målrettet pilotlancering og Business Case-validering",
+      "row4P1": "Implementer målrettede pilotudgivelser til et udvalgt brugersegment eller testmarked. Spor præstationsmålinger, brugeradoptionsanalyse og operationel feedback for at kvantificere forretningsværdi og etablere en databaseret forretningscase.",
+      "row4P2": "Med pilotindsigt i den virkelige verden opnår executive sponsorer klare ROI-metrics for at retfærdiggøre bredere implementering og strategiske investeringer i digital transformation.",
+      "row4Cap": "Kontrolleret implementering og ydeevnetelemetri",
+      "pillarsTitle": "Vores pilottekniske principper",
+      "pillarsSub": "Vejledende principper, der gør teknisk usikkerhed til forudsigelig forretningssucces.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Lever funktionelle prototyper hurtigt for at validere værdiforslag tidligt i livscyklussen.",
+      "pillar2Title": "Gennemførlighed og validering",
+      "pillar2Desc": "Bekræft API-kompatibilitet, gennemløbstærskler og overholdelsesbegrænsninger i sandkassemiljøer.",
+      "pillar3Title": "Skalerbarhedsvurdering",
+      "pillar3Desc": "Simuler produktionsbelastning for at etablere kapacitetsgrænser og bestemme størrelsen på skyarkitekturen.",
+      "pillar4Title": "Business Case Validering",
+      "pillar4Desc": "Kvantificer håndgribelige ROI- og produktivitetsmålinger for at understøtte beslutninger om udrulning i hele virksomheden.",
+      "ctaTitle": "Klar til at validere din næste digitale løsning?",
+      "ctaSub": "Kom i kontakt med vores løsningsingeniørteam for at udforske dine projektkrav, bygge en prototype og teste gennemførligheden uden risiko.",
+      "ctaButton": "Book en PoC-konsultation"
+    },
+    "sharedServices": {
+      "eyebrow": "Centraliseret driftshub",
+      "titlePart1": "Delte tjenester &",
+      "titlePart2": "Administreret drift",
+      "description": "Centraliseret levering af teknologi og operationelle muligheder på tværs af forretningsenheder gennem standardiserede processer, dygtige ressourcer, styringsrammer, servicestyring og målbare serviceniveauer.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Udforsk Solution Framework",
+      "coreCapabilities": [
+        "Administrerede tjenester",
+        "IT-drift",
+        "Applikationssupport",
+        "Service Management",
+        "Ressourceoptimering",
+        "SLA Management",
+        "Styring",
+        "Kontinuerlig forbedring",
+        "Omkostningsoptimering"
+      ],
+      "row1Eyebrow": "Unified Delivery Hub",
+      "row1Title": "Standardiserede tjenester på tværs af alle forretningsenheder",
+      "row1P1": "Konsolider back-office IT, infrastrukturstyring og teknisk support i et enkelt højeffektivt leveringscenter.",
+      "row1P2": "Ved at eliminere duplikativ teamoverhead og standardisere serviceleveringsmodeller sikrer din organisation ensartet kvalitet og sænker de samlede driftsudgifter.",
+      "row2Eyebrow": "24/7 SRE & Application Support",
+      "row2Title": "Proaktiv overvågning og hurtig hændelsesløsning",
+      "row2P1": "Vores dedikerede Site Reliability Engineers (SRE) og supportspecialister leverer 24/7/365 telemetriovervågning, automatisk advarselstriage og hurtig L1/L2/L3 problemløsning.",
+      "row2P2": "Bakket op af strenge SLA-forpligtelser garanterer vi 99,99 % tilgængelighed for dine missionskritiske applikationer og cloud-infrastruktur.",
+      "row3Eyebrow": "ITIL Governance & Compliance",
+      "row3Title": "Strukturerede Service Management Frameworks",
+      "row3P1": "Implementer brancheførende ITSM-standarder (ServiceNow, Jira Service Management) med gennemsigtige billettering, rodårsagsanalyser og ændringsstyringsværn.",
+      "row3P2": "Omfattende revisionsspor og styringspolitikker sikrer, at dine operationer forbliver i overensstemmelse med internationale sikkerhedsstandarder.",
+      "row4Eyebrow": "FinOps og løbende forbedring",
+      "row4Title": "Forudsigelig budgettering og ressourceoptimering",
+      "row4P1": "Eliminer skyspild, optimer computerstørrelser og automatiser rutinemæssig driftsvedligeholdelse med FinOps bedste praksis.",
+      "row4P2": "Månedlige gennemsigtighedsrapporter og kapacitetsprognoser sikrer løbende driftsomkostningsoptimering og høj kapitaleffektivitet.",
+      "pillarsTitle": "Driftssøjler",
+      "pillarsSub": "Gennemprøvede operationelle løftestænger til pålidelig virksomhedsskalerbarhed.",
+      "pillar1Title": "24/7 styret IT-drift",
+      "pillar1Desc": "Proaktiv NOC-telemetri, serverpatching, infrastrukturvedligeholdelse og 99,99 % oppetidsgarantier.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Tier 1/2/3 multi-channel helpdesk, hændelsesrouting og strukturerede billetløsningsarbejdsgange.",
+      "pillar3Title": "SLA & Performance Control",
+      "pillar3Desc": "Kontraktligt understøttede svartider, MTTR-benchmarks og gennemsigtige månedlige effektivitetsrevisioner.",
+      "pillar4Title": "FinOps & omkostningsoptimering",
+      "pillar4Desc": "Kontinuerlig ressourcetilpasning, licensindvinding og automatiseret skyomkostningsreduktion.",
+      "ctaTitle": "Klar til at skalere dine administrerede operationer?",
+      "ctaSub": "Partner med Rezonants for pålidelige, 24/7 administrerede tjenester, der optimerer omkostningerne og eliminerer driftsnedetid.",
+      "ctaButton": "Book en Managed Operations-konsultation",
+      "howItWorksHeading": "En gennemprøvet vej til succes med fælles tjenester"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Intelligente systemer",
+      "heroHeading": "AI & Robotics arbejder sammen",
+      "intro": "Artificial Intelligence (AI) og Robotics transformerer den måde, virksomheder opererer på ved at kombinere intelligent beslutningstagning med avanceret automatisering. AI gør det muligt for maskiner at analysere data, lære mønstre og træffe smarte beslutninger, mens robotteknologi bringer disse muligheder ind i den fysiske verden for at udføre opgaver med hastighed, nøjagtighed og konsistens.",
+      "section1Heading": "Bygget til at strømline enhver operation",
+      "section1Text": "Vores AI- og Robotics-løsninger hjælper organisationer med at strømline driften, reducere den manuelle indsats og forbedre produktiviteten på tværs af forskellige brancher. Fra procesautomatisering og forudsigelig analyse til smart robotik og intelligente systemer leverer vi innovative teknologier, der øger effektiviteten, driver vækst og understøtter digital transformation.",
+      "section2Heading": "Hvor intelligens møder handling",
+      "section2Text": "Hver interaktion, beslutning og bevægelse er drevet af et enkelt tilsluttet system - hvilket gør data til resultater i realtid.",
+      "footerTag": "Innovativ teknologi til digital transformation"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Informations- og rapporteringssystemer",
+      "heroSubtitle": "En enkelt kilde til sandhed for hver afdeling – bygget til at omdanne rå driftsdata til beslutninger, som din virksomhed kan handle på i dag.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALYSERET",
+      "statusArchived": "ARKIVERING",
+      "statusPending": "AFVENTER",
+      "metricUptime": "Systemets oppetid",
+      "metricSessions": "Aktive sessioner",
+      "metricReportsPerDay": "Rapporter / Dag",
+      "metricEvents": "Daglige indtaget begivenheder",
+      "metricReports": "Planlagte rapporter",
+      "metricLatency": "API-forsinkelse",
+      "unifiedPlatform": "Samlet platform",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Rapporteringskonsol",
+      "businessOutcome": "Forretningsresultat",
+      "section1Heading": "Ét centraliseret system for hver metrik, der betyder noget",
+      "section1P1": "Informations- og rapporteringssystemer er essentielle forretningsløsninger, der gør det muligt for organisationer at indsamle, administrere og transformere data til meningsfuld indsigt. Disse systemer integrerer information fra flere afdelinger, hvilket sikrer nøjagtig, konsistent og realtidsadgang til kritiske forretningsdata. Ved at levere en centraliseret platform til informationsstyring kan organisationer forbedre den operationelle synlighed, strømline arbejdsgange og understøtte strategisk beslutningstagning på tværs af alle niveauer i virksomheden.",
+      "section1P2": "Disse systemer bruger automatisk rapportering, analyser og dashboards til at spore ydeevne, overvåge nøglemålinger og generere realtidsrapporter. Ved at reducere den manuelle indsats og forbedre datanøjagtigheden kan virksomheder træffe hurtigere og mere effektive beslutninger.",
+      "section2Heading": "Bygget til synlighed, overholdelse og skalering",
+      "section2Text": "Med forbedret synlighed, overholdelse og samarbejde gør informations- og rapporteringssystemer det muligt for organisationer at optimere processer, forbedre produktiviteten og drive bæredygtig virksomhedsvækst i et konkurrencepræget miljø.",
+      "ctaHeading": "Giv hvert team det samme realtidsbillede af virksomheden.",
+      "ctaText": "Se, hvordan Nexus Data Systems kan konsolidere din rapportering i én intelligent platform.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Alle rettigheder forbeholdes.",
+      "navOverview": "Oversigt",
+      "navCapabilities": "Evner",
+      "navImpact": "Indvirkning",
+      "navContact": "Kontakt"
+    },
+    "managedServices": {
+      "subtitle": "Omfattende administrerede tjenester til din virksomhed"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernisering af forretningsapplikationer til en datadrevet virksomhed",
+      "excerpt": "Hvordan moderne applikationsarkitektur og forbundne data kan forbedre operationel effektivitet, skalerbarhed og forretningssynlighed.",
+      "tag": "Forretningstransformation",
+      "category": "VIRKSOMHEDSTRANSFORMATION",
+      "summary": "Et moderne applikations- og datagrundlag kan hjælpe virksomheder med at forbedre driftseffektiviteten, forbinde forretningssystemer og skabe bedre synlighed på tværs af deres operationer."
+    },
+    "artificial-intelligence": {
+      "title": "Hvordan AI omformer virksomhedsapplikationer",
+      "excerpt": "Udforsk, hvordan intelligent automatisering, AI-copiloter og forudsigelig intelligens bliver en del af de virksomhedsapplikationer, som virksomheder er afhængige af hver dag.",
+      "tag": "Kunstig intelligens",
+      "category": "KUNSTIG INTELLIGENS",
+      "summary": "Udforsk, hvordan intelligent automatisering, AI-copiloter og forudsigelig intelligens transformerer hverdagens virksomhedssoftware til adaptive, proaktive platforme."
+    },
+    "modern-erp": {
+      "title": "Fremskyndelse af forretningstransformation med moderne ERP",
+      "excerpt": "Udforsk, hvordan moderne ERP-platforme forbinder økonomi, indkøb, forsyningskæde og forretningsdrift gennem et samlet digitalt fundament.",
+      "tag": "Moderne ERP",
+      "category": "MODERNE ERP",
+      "summary": "En moderne ERP-platform forbinder økonomi, indkøb, forsyningskæde og forretningsdrift til en samlet driftsmodel i realtid."
+    },
+    "cybersecurity": {
+      "title": "Opbygning af cyberresiliens i en forbundet virksomhed",
+      "excerpt": "Udforsk, hvordan organisationer kan styrke sikkerheden, beskytte kritiske systemer og forberede sig på trusler på tværs af stadigt mere forbundne miljøer.",
+      "tag": "Cybersikkerhed",
+      "category": "CYBERSIKKERHED",
+      "summary": "Efterhånden som virksomheder integrerer flere cloud-systemer, API'er og partnerøkosystemer, sikrer cyberresiliens, at missionskritiske operationer modstår moderne trusler."
+    },
+    "cloud-modernization": {
+      "title": "Modernisering af ældre applikationer til skyen",
+      "excerpt": "Udforsk en praktisk tilgang til at vurdere, modernisere og flytte ældre applikationer mod skalerbare, sikre skyarkitekturer.",
+      "tag": "Cloud og modernisering",
+      "category": "SKY OG MODERNISERING",
+      "summary": "En struktureret, pragmatisk køreplan til at vurdere, omstrukturere og migrere monolitiske virksomhedssystemer til elastiske, vedligeholdelige cloud-arkitekturer."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "VIRKSOMHEDSTRANSFORMATION",
+      "title": "Modernisering af forretningsapplikationer til en datadrevet virksomhed",
+      "subtitle": "Et moderne applikations- og datagrundlag kan hjælpe virksomheder med at forbedre driftseffektiviteten, forbinde forretningssystemer og skabe bedre synlighed på tværs af deres operationer.",
+      "date": "september 2026",
+      "readTime": "7 min læst",
+      "imageCaption": "Enterprise Technology Perspective — Application Architecture & Connected Data",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Virksomhedsapplikationer",
+          "desc": "Forskellige ældre CRM-, ERP- og afdelingsværktøjer, der kører i siloer."
+        },
+        {
+          "title": "Flere datakilder",
+          "desc": "Fragmenterede operationelle tabeller, CSV-udtræk og ad-hoc-skemaer."
+        },
+        {
+          "title": "Frakoblede databaser",
+          "desc": "Isolerede on-premise og ukoordinerede cloud-datalagre."
+        },
+        {
+          "title": "Rapporter og erhvervsbrugere",
+          "desc": "Manuelle afstemninger, modstridende regneark og forsinket rapportering."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Virksomhedsapplikationer",
+          "desc": "Kernedriftsplatforme og moderne responsive grænseflader."
+        },
+        {
+          "title": "API / Integration Layer",
+          "desc": "Sikker, hændelsesdrevet API-gateway, der forbinder virksomhedens arbejdsgange."
+        },
+        {
+          "title": "Datatjenester",
+          "desc": "Forenede masterdatamodeller, pipelines og optimerede lagringsmotorer."
+        },
+        {
+          "title": "Analyse og rapportering",
+          "desc": "Telemetri i realtid, semantiske modeller og automatiseret rapportering."
+        },
+        {
+          "title": "Forretningsbeslutningstagere",
+          "desc": "Live operationelle dashboards giver ensartet executive synlighed."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Virksomhedsapplikationer",
+          "purpose": "Ledelse af forretningsprocesser"
+        },
+        {
+          "area": "API'er",
+          "purpose": "Systemintegration"
+        },
+        {
+          "area": "Databaser",
+          "purpose": "Strukturerede forretningsdata"
+        },
+        {
+          "area": "Dataintegration",
+          "purpose": "Tilslutning af flere kilder"
+        },
+        {
+          "area": "Analyse",
+          "purpose": "Forretningsindsigt"
+        },
+        {
+          "area": "Cloud Infrastruktur",
+          "purpose": "Skalerbarhed og fleksibilitet"
+        },
+        {
+          "area": "Overvågning",
+          "purpose": "Pålidelighed og ydeevne"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Forbedret operationel synlighed på tværs af tværfunktionelle enheder",
+        "Bedre datakonsistens og enkelt kilde til virksomhedens sandhed",
+        "Reduceret manuel rapporteringsindsats og automatiseret datakompilering",
+        "Forbedret applikationsydelse og reduceret transaktionsforsinkelse",
+        "Nemmere systemintegration gennem standardiserede, sikre API'er",
+        "Større skalerbarhed for at understøtte organisk vækst og opkøb",
+        "Bedre grundlag for fremtidig innovation og efterretningsadoption"
+      ],
+      "keyPerspectivePoints": [
+        "Forståelse af forretningsprocesser og reelle operationelle arbejdsgange",
+        "Forbinder systemer gennem pålidelige integrationsstandarder",
+        "Forbedring af datakvalitet, styring og masterdatamodeller",
+        "Modernisering af applikationer uden at destabilisere den daglige drift",
+        "Skaber skalerbar arkitektur velegnet til elastisk vækst",
+        "Muliggør bedre forretningssynlighed for proaktiv beslutningstagning"
+      ],
+      "sec1Eyebrow": "ERHVERVSUDFORDRINGEN",
+      "sec1Heading": "Navigering i kompleksitet i en voksende virksomhed",
+      "sec1Subtext": "Efterhånden som virksomheder skaleres, udvides teknologiøkosystemerne uundgåeligt. Det, der begynder som fokuserede løsninger til individuelle afdelinger, kan udvikle sig til et sammenfiltret net af forskellige systemer.",
+      "sec2Eyebrow": "SYSTEMUDVIKLING",
+      "sec2Heading": "Et komplekst teknologilandskab",
+      "sec2Subtext": "Ældre applikationsfodspor introducerer fragmentering på tværs af datalagre, brugeroplevelser og operationel synlighed.",
+      "sec3Eyebrow": "DEN TILSLUTTEDE MODEL",
+      "sec3Heading": "Moderne applikationsarkitektur",
+      "sec3Subtext": "Overgang fra monolitiske siloer til afkoblede tjenester forbundet med sikre API'er og hændelsesdrevet datastreaming.",
+      "sec4Eyebrow": "INTELLIGENS & SYNLIGHED",
+      "sec4Heading": "Forbundne data og analyser",
+      "sec4Subtext": "Oplåsning af datasiloer for at drive automatiseret rapportering, ensartede dashboards og proaktive forretningsbeslutninger.",
+      "sec5Eyebrow": "ARKITEKTUR BLUEPRINT",
+      "sec5Heading": "Teknologifonden",
+      "sec5Subtext": "En struktureret visning af vigtige arkitektoniske lag, der muliggør forbindelse og skalerbarhed i hele virksomheden.",
+      "sec6Eyebrow": "KVALITATIV VÆRDI",
+      "sec6Heading": "Forretningspåvirkning",
+      "sec6Subtext": "Målbare driftsgevinster leveret gennem applikationsmodernisering og forbundne datafundamenter.",
+      "ctaHeading": "Klar til at modernisere dit virksomhedsapplikationslandskab?",
+      "ctaDescription": "Udforsk, hvordan Rezonants kan samarbejde med dit lederskab om at bygge, bygge og implementere forenede applikationsplatforme og moderne datapipelines.",
+      "ctaButton": "Tal med en virksomhedsarkitekt",
+      "sec1P1": "I et typisk virksomhedsmiljø introducerer vækst ofte flere generationer af software. Finansiering, forsyningskæde, kundeservice og feltoperationer opererer ofte på separate softwarestakke, der erhverves eller bygges på forskellige tidspunkter. I løbet af flere års operationel udvikling udvikler disse systemer deres egne dataformater, opdaterer kadencer og integrationsquirks.",
+      "sec1P2": "Friktionen manifesterer sig på tværs af virksomheden gennem almindelige operationelle flaskehalse:",
+      "sec1List": [
+        {
+          "bold": "Flere afbrudte forretningsapplikationer",
+          "text": ", der kræver dobbelt dataindtastning og manuel krydshenvisning."
+        },
+        {
+          "bold": "Afbrudte databaser",
+          "text": "fungerer uden centraliseret styring eller ensartede masterregistre."
+        },
+        {
+          "bold": "Manuel rapportering overhead",
+          "text": ", hvor analytiske teams bruger dage på at sy eksporter sammen i stedet for at afdække indsigt."
+        },
+        {
+          "bold": "Datainkonsistens",
+          "text": "på tværs af afdelinger, hvilket skaber modstridende svar på grundlæggende operationelle spørgsmål."
+        },
+        {
+          "bold": "Overhead og skalerbarhedsgrænser for applikationsvedligeholdelse",
+          "text": ", da skøre ældre punkt-til-punkt-forbindelser kæmper for at understøtte voksende transaktionsvolumener."
+        }
+      ],
+      "sec1P3": "At tackle disse udfordringer kræver, at man ser teknologilandskabet ikke som en samling af isolerede softwarekøb, men som en sammenkoblet forretningsplatform designet til at understøtte strategisk agilitet.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Fragmenteret informationsflow",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Datasiloer",
+          "desc": "Afgørende kunde-, finans- og lagerdata forbliver fanget i afdelingsplatforme, hvilket forhindrer et enkelt samlet overblik over forretningsdriften."
+        },
+        {
+          "num": "02",
+          "title": "Integrationsgaps",
+          "desc": "Punkt-til-punkt-forbindelser og batchudtræk hver nat skaber latens, høje fejlfrekvenser og dyre vedligeholdelsesomkostninger på tværs af operationelle teams."
+        },
+        {
+          "num": "03",
+          "title": "Forsinket information",
+          "desc": "Når ledere skal vente dage på månedsafstemning for at forstå præstationer, er beslutningstagningen reaktiv snarere end forudsigelig."
+        }
+      ],
+      "modernArchitectureBadge": "Målarkitektur",
+      "modernArchitectureTitle": "Connected Enterprise Application Model",
+      "sec3P1": "En moderne applikationsarkitektur erstatter skøre punkt-til-punkt-forbindelser med et smidigt, afkoblet fundament. Ved at etablere et robust API og integrationslag interagerer systemerne gennem styrede, sikre slutpunkter, samtidig med at de individuelle forretningsenheders autonomi bevares.",
+      "sec3P2": "De vigtigste tekniske egenskaber ved dette arkitektoniske skift omfatter:",
+      "sec3List": [
+        {
+          "bold": "Applikationsmodernisering:",
+          "text": "Afkobling af kerneforretningslogik til skalerbare modulære tjenester."
+        },
+        {
+          "bold": "API-integration:",
+          "text": "Etablering af standardiserede, dokumenterede grænseflader for intern og partnerinteroperabilitet."
+        },
+        {
+          "bold": "Dataintegration og databaseoptimering:",
+          "text": "Forener operationelle datapipelines med forespørgselsoptimering med høj gennemstrømning."
+        },
+        {
+          "bold": "Observerbarhed og sikkerhed:",
+          "text": "Implementering af centraliseret telemetri, revisionsspor og rollebaserede adgangskontroller på tværs af alle tjenester."
+        }
+      ],
+      "sec4P1": "Integrerede datafundamenter transformerer, hvordan ledelses- og operationelle teams interagerer med information. I stedet for at stole på retrospektive rapporter, der viser, hvad der skete for uger siden, får organisationer direkte operationel telemetri på tværs af forretningsenheder.",
+      "sec4P2": "Forbundne data og analyser understøtter bæredygtige forretningsresultater gennem:",
+      "sec4List": [
+        {
+          "bold": "Operationel synlighed:",
+          "text": "Kontinuerlig gennemsigtighed på tværs af salg, beholdning, opfyldelse og økonomiske resultater."
+        },
+        {
+          "bold": "Hurtigere rapporteringskadencer:",
+          "text": "On-demand dataaggregering, der eliminerer gentagne manuelle regneark."
+        },
+        {
+          "bold": "Konsekvente oplysninger:",
+          "text": "Enkeltdefinitioner for målinger som margin, kundelevetidsværdi og leadhastighed."
+        },
+        {
+          "bold": "Bedre forretningsindsigt:",
+          "text": "Forudsigende mønsterdetektion, der afdækker risici og muligheder før tid."
+        },
+        {
+          "bold": "Forbedret beslutningstagning:",
+          "text": "Selvsikker executive handling understøttet af valideret datalinje og gennemsigtighed."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGISK PERSPEKTIV",
+      "keyPerspectiveTitle": "Modernisering er mere end udskiftning af software",
+      "keyPerspectiveLead": "Modernisering af forretningsapplikationer er ikke blot at erstatte gammel software med nye værktøjer. Det er en bevidst tilpasning af teknologi til, hvordan virksomheden opererer, skalerer og leverer værdi."
+    },
+    "artificialIntelligence": {
+      "category": "KUNSTIG INTELLIGENS",
+      "title": "Hvordan AI omformer virksomhedsapplikationer",
+      "subtitle": "Udforsk, hvordan intelligent automatisering, AI-copiloter og forudsigelig intelligens bliver en del af de virksomhedsapplikationer, som virksomheder er afhængige af hver dag.",
+      "date": "september 2026",
+      "readTime": "6 min læst",
+      "imageCaption": "Enterprise Technology Perspective — Native Intelligence & Automated Workflows",
+      "aiUseCases": [
+        {
+          "title": "Supply Chain Forecasting",
+          "desc": "Forudsigelse af efterspørgselsstigninger og logistikforsinkelser fra historisk leverandørtelemetri."
+        },
+        {
+          "title": "Automatiseret fakturarevision",
+          "desc": "Udtræk linjeposter og matchning mod indkøbsordrer med nul menneskelig indtastning."
+        },
+        {
+          "title": "Intelligente Service Desks",
+          "desc": "Triage og automatiseret løsning af Tier-1 medarbejderens IT- og HR-anmodninger."
+        },
+        {
+          "title": "Forebyggelse af kundeafgang",
+          "desc": "Adfærdsklynge, der identificerer tidlige friktionssignaler til proaktiv opsøgende kontakt."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Hurtigere operationelle beslutninger drevet af forudsigelige modeller i realtid",
+        "Reduktion af gentagne databehandlinger og manuelle afstemninger",
+        "Højere medarbejdergennemstrømning med kontekstuel copilotassistance",
+        "Forbedret kundetilfredshed gennem hyper-personlige oplevelser",
+        "Kontinuerlig processelvoptimering baseret på ægte telemetri",
+        "Udsat overholdelsessporing via automatiseret revisionslog-inspektion"
+      ],
+      "governancePoints": [
+        "Streng rollebaseret adgang, der sikrer AI-modeller aldrig lækker følsomme data",
+        "Gennemsigtige ræsonnementspor, der tillader menneskelig gennemgang af handlinger af høj værdi",
+        "Kontinuerlig modelevaluering for at beskytte mod hallucinationer og bias",
+        "Strenge standarder for data herkomst i overensstemmelse med GDPR, SOC 2 og HIPAA",
+        "Human-in-the-loop eskaleringsstier til usikre kantforhold"
+      ],
+      "sec1Eyebrow": "SKIFTET TIL NATIVE INTELLIGENS",
+      "sec1Heading": "AI i virksomhedsapplikationer",
+      "sec1Subtext": "Kunstig intelligens bevæger sig ud over selvstændige eksperimenter og ind i kernestrukturen i daglige virksomhedssystemer.",
+      "sec2Eyebrow": "AUTOMATION I SKALA",
+      "sec2Heading": "Intelligent automatisering",
+      "sec2Subtext": "Udskiftning af skrøbelige regelbaserede rutiner med kognitive arbejdsgange, der fortolker dokumenter, ruter undtagelser og tilpasser sig.",
+      "sec3Eyebrow": "INDBYGGET ASSISTANCE",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Kontekstbevidste assistenter indlejret i forretningsapplikationer for at hjælpe videnarbejdere på tværs af dataanalyse, dokumentation og operationelle forespørgsler.",
+      "sec4Eyebrow": "FREMUDSEENDE RÆSONNER",
+      "sec4Heading": "Prædiktiv intelligens",
+      "sec4Subtext": "Skift fra bagudskuende retrospektive rapporter til proaktive beslutningsmotorer, der forudser driftsforstyrrelser.",
+      "sec5Eyebrow": "APPLIKATIONER I VIRKELIG VERDEN",
+      "sec5Heading": "Enterprise AI Use Cases",
+      "sec5Subtext": "Demonstrerede applikationer, der leverer målbare effektivitetsgevinster på tværs af operationelle virksomhedsdomæner.",
+      "sec6Eyebrow": "STRATEGISK VÆRDI",
+      "sec6Heading": "Forretningsmæssige fordele",
+      "sec6Subtext": "Håndgribelige produktivitetsgevinster og operationel smidighed realiseret gennem implementering af AI i virksomheden.",
+      "ctaHeading": "Klar til at integrere Native AI i dine forretningsapplikationer?",
+      "ctaDescription": "Få forbindelse med Rezonants AI-praksis for at bygge, evaluere og implementere AI-copiloter og intelligente automatiseringsmotorer.",
+      "ctaButton": "Kontakt en AI-specialist",
+      "sec1P1": "I årevis blev virksomhedens kunstige intelligens behandlet som en ekstern kapacitet: en model trænet i isolation, en sandkassedemonstration eller en isoleret chatbot, der er tilgængelig via en separat portal. I dag har paradigmet ændret sig fundamentalt. Virksomheds-AI med stor gennemslagskraft er indlejret direkte i registreringssystemerne - ERP'erne, CRM'erne, menneskelige kapitalplatforme og forsyningskædemotorer, hvor der foregår virkelig forretning.",
+      "sec1P2": "Når intelligens opererer inde i registreringssystemet, arver den organisationens etablerede sikkerhedsgrænser, datamodeller og forretningslogik. Det genererer ikke blot generiske svar; det handler på live-ordrer, fortolker åbne supportbilletter, afstemmer leverandørfakturaer og hjælper medarbejderne inden for de nøjagtige grænseflader, de navigerer i hver dag.",
+      "sec1P3": "Denne transformation flytter virksomhedssoftware fra passive databaser, der venter på menneskelige tastetryk, til proaktive platforme, der forudser behov, automatiserer trin og fremkommer rettidige anbefalinger.",
+      "sec2P1": "Traditionel robotprocesautomatisering (RPA) udmærkede sig ved deterministisk, gentagne skærmskrabninger. Men stive regelsæt går i stykker, når en formular ændres, et uventet dokumentlayout ankommer, eller der opstår en undtagelse. Intelligent automatisering bygger bro over denne kløft ved at kombinere kognitiv ræsonnement med transaktionel eksekvering:",
+      "sec2List": [
+        {
+          "bold": "Workflowautomatisering:",
+          "text": "Orkestrering af komplekse operationer på tværs af afdelinger, routing af opgaver baseret på hastende og historiske løsningsveje."
+        },
+        {
+          "bold": "Intelligent dokumentbehandling:",
+          "text": "Indtagelse af ustrukturerede PDF'er, e-mails, forsendelsesmanifester og kontrakter, konvertering af dem til strukturerede databasetransaktioner."
+        },
+        {
+          "bold": "Intelligent opgaveautomatisering:",
+          "text": "Automatisering af flertrins operationelle valideringer – såsom matchning af indkøbsordrer mod kvitteringer og kontoudtog."
+        },
+        {
+          "bold": "Procesoptimering:",
+          "text": "Kontinuerlig analyse af proceslogfiler for at identificere flaskehalse i cyklustiden og anbefale målrettede justeringer af arbejdsgangene."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Informationssøgning",
+          "desc": "Semantisk hentning på tværs af distribuerede vidensbaser, intranetpolitikker, produktspecifikationer og historiske billetopløsninger uden at gætte på nøgleord."
+        },
+        {
+          "icon": "📝",
+          "title": "Dokumentopsummering",
+          "desc": "Øjeblikkelig destillation af lange RFP'er, leverandøraftaler, tekniske specifikationer og juridiske ændringer til handlingsrettede executive briefs og risikochecklister."
+        },
+        {
+          "icon": "✨",
+          "title": "Indholdsgenerering",
+          "desc": "Assisteret udarbejdelse af kundeforslag, operationel dokumentation, standarddriftsprocedurer (SOP'er) og standardiserede kundeopdateringer tilpasset brandstandarder."
+        },
+        {
+          "icon": "📈",
+          "title": "Dataanalyse",
+          "desc": "Oversættelse af samtaleforespørgsler til komplekse analytiske forespørgsler, generering af on-the-fly diagramoversigter og fremhævelse af kritiske outliers for ledelse."
+        },
+        {
+          "icon": "🔄",
+          "title": "Business arbejdsgange",
+          "desc": "Start af transaktioner direkte fra chat-prompter – såsom planlægning af ressourcer, oprettelse af billetter, opdatering af registreringer eller indsendelse af indkøbsrekvisitioner."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Rollebaseret adgang",
+          "desc": "Sikring af copilotsvar strengt respekterer brugertilladelsesniveauer, holder fortrolige økonomiske oplysninger, HR-filer og intellektuel ejendom beskyttet."
+        }
+      ],
+      "sec4P1": "Mens generative modeller udmærker sig ved at forstå og syntetisere sprog, fokuserer forudsigelig intelligens på matematiske mønstre skjult i strukturerede virksomhedsdatasæt. Indlejrede forudsigende modeller giver organisationer mulighed for at forudse operationelle forhindringer, før de forstyrrer driften:",
+      "sec4List": [
+        {
+          "bold": "Operationel prognose:",
+          "text": "Forudsigelse af omsætningstendenser, lagerhastighed og ressourcebehov ved at syntetisere sæsonbestemte indikatorer med pipelinehastighed i realtid."
+        },
+        {
+          "bold": "Prædiktiv analyse:",
+          "text": "Fastlæggelse af risici for kundeafgang, forringede vedligeholdelsescyklusser og forsyningskædeforsinkelser, mens der stadig er tid til at gribe ind."
+        },
+        {
+          "bold": "Risikoidentifikation:",
+          "text": "Markering af uregelmæssigheder i finansielle transaktioner, overholdelseslogfiler og leverandørindkøbsmønstre, før de eskalerer."
+        },
+        {
+          "bold": "Forudsigelse af efterspørgsel:",
+          "text": "Harmonisering af salgsprognoser med produktionskapacitet og lagerbeholdninger for at beskytte arbejdskapitalen."
+        }
+      ],
+      "keyPerspectiveEyebrow": "VIRKSOMHEDSLEDELSE",
+      "keyPerspectiveTitle": "Tillid, overvågning og værn",
+      "keyPerspectiveLead": "AI er kun så pålidelig som datagrundlaget under det og styringen omkring det. Bæredygtig virksomhedsadoption kræver bevidst arkitektonisk disciplin:"
+    },
+    "modernErp": {
+      "category": "MODERNE ERP",
+      "title": "Fremskyndelse af forretningstransformation med moderne ERP",
+      "subtitle": "Udforsk, hvordan moderne ERP-platforme forbinder økonomi, indkøb, forsyningskæde og forretningsdrift gennem et samlet digitalt fundament.",
+      "date": "september 2026",
+      "readTime": "7 min læst",
+      "imageCaption": "Enterprise Technology Perspective — Connected ERP & Operational Agility",
+      "connectedFunctions": [
+        {
+          "title": "Økonomistyring",
+          "desc": "Regnskabsopdateringer i realtid, automatiseret indtægtsgenkendelse og øjeblikkelig afstemning af flere valutaer."
+        },
+        {
+          "title": "Supply Chain & Logistik",
+          "desc": "End-to-end lagersynlighed, lageroptimering og leverandørydelsestelemetri."
+        },
+        {
+          "title": "Menneskelig kapital og arbejdsstyrke",
+          "desc": "Selvbetjente medarbejderportaler, automatiserede lønkørsler og integreret talentlivscyklusplanlægning."
+        },
+        {
+          "title": "Indkøb og indkøb",
+          "desc": "Automatiserede købsgodkendelser, leverandørkontraktoverholdelse og dynamiske forbrugsanalyser."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-native arkitektur",
+          "desc": "Elastisk beregningsskalering uden on-premise infrastruktur overhead eller forstyrrende versionslåsning."
+        },
+        {
+          "title": "Åbn API-økosystem",
+          "desc": "Forudbyggede stik, der muliggør problemfri to-vejs datasynkronisering med tilpassede mikrotjenester og CRM-suiter."
+        },
+        {
+          "title": "Indlejret Analytics",
+          "desc": "Direkte dashboard-drill-downs fra balancer på højt niveau til individuelle transaktionslogfiler."
+        },
+        {
+          "title": "Automatiserede workflow-udløsere",
+          "desc": "Hændelsesdrevet hændelse udløser, der udfører standard operationer på tværs af afdelinger autonomt."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Enkelt kilde til sandhed eliminerer modstridende afdelingsrapporter",
+        "Drastisk reduktion i slutningen af måneds- og kvartalsudgangen",
+        "Lagerbeholdning og logistiksynlighed i realtid minimerer lagerbeholdninger",
+        "Reduceret IT-vedligeholdelsesomkostninger gennem modulære cloud-native opdateringer",
+        "Ensartet overholdelsessporing på tværs af multiregionale skattejurisdiktioner",
+        "Hurtigere onboarding af opkøbte enheder i delte operationelle backbones"
+      ],
+      "erpStrategyPoints": [
+        "Justering af ERP-arkitektur med kernedriftsarbejdsgange før konfiguration",
+        "Valg af modulære implementeringsmodeller for at realisere hurtige milepælsgevinster",
+        "Prioritering af masterdatamigrering og afstemning af høj kvalitet",
+        "Indlejring af automatiseret forandringsledelse og rolletilpassede træningsprogrammer",
+        "Design af API-gateways til friktionsfri fremtidig integrationsudvidelse"
+      ],
+      "sec1Eyebrow": "DEN OPERATIONELLE RYGGRAD",
+      "sec1Heading": "Hvorfor moderne ERP betyder noget",
+      "sec1Subtext": "Virksomhedseffektivitet afhænger af problemfri synkronisering af data på tværs af økonomi, indkøb, drift og menneskelig kapital.",
+      "sec2Eyebrow": "INTEGRERET ØKOSYSTEM",
+      "sec2Heading": "Forbundne forretningsfunktioner",
+      "sec2Subtext": "Nedbrydning af traditionelle afdelingssiloer for at tillade transaktionsdata at flyde øjeblikkeligt på tværs af forretningsenheder.",
+      "sec3Eyebrow": "TværFUNKTIONEL HARMONI",
+      "sec3Heading": "Unified Operations & Information Flow",
+      "sec3Subtext": "En tilsluttet digital rygrad, der sikrer, at salgskontrakter straks opdaterer forsyningskædeordrer og finansregnskaber.",
+      "sec4Eyebrow": "VIRKSOMHEDSTELEMETRI",
+      "sec4Heading": "Forretningssynlighed i realtid",
+      "sec4Subtext": "Live operationel intelligens erstatter forsinkede retrospektive regneark med øjeblikkelige præstationsindikatorer.",
+      "sec5Eyebrow": "KERNEPLATFORMARKITEKTUR",
+      "sec5Heading": "Moderne ERP-funktioner",
+      "sec5Subtext": "Det arkitektoniske grundlag, der adskiller agile cloud-platforme fra ældre monolitiske systemer.",
+      "sec6Eyebrow": "KVALITATIV PÅVIRKNING",
+      "sec6Heading": "Forretningsmæssige fordele",
+      "sec6Subtext": "Håndgribelig organisatorisk hastighed, gennemsigtighed og omkostningseffektivitet frigivet af moderne ERP-platforme.",
+      "ctaHeading": "Klar til at modernisere din Enterprise ERP Spine?",
+      "ctaDescription": "Opdag, hvordan Rezonants kan hjælpe dig med at udvide, konfigurere og integrere modulære ERP-platforme, der er skræddersyet til din virksomhedsdrift.",
+      "ctaButton": "Tal med en ERP-arkitekt",
+      "sec1P1": "I hurtige virksomhedslandskaber har traditionelle Enterprise Resource Planning-systemer det ofte svært. Bygget i en æra med batchbehandling og isolerede lokale servere, var ældre ERP'er stærkt tilpassede, svære at opgradere og smerteligt uigennemsigtige. Afgørende forretningsdrift fungerede i parallelle siloer, der var afhængige af skrøbelig eksport over natten for at synkronisere hovedbøger med lagre.",
+      "sec1P2": "Moderne, cloud-native ERP omdefinerer fundamentalt denne dynamik. Det fungerer som virksomhedens forenede digitale rygrad – et levende fundament, hvor finansiering, indkøb, forsyningskæde, lagerbeholdning og menneskelige ressourcer handler på en delt datamodel.",
+      "sec1P3": "Ved at bringe kernedriften ind i et enkelt harmoniseret miljø eliminerer moderne ERP de operationelle blinde vinkler, der bremser væksten, hvilket gør det muligt for ledere at styre virksomheden ved hjælp af realtidssignaler i stedet for forældede historiske opsummeringer.",
+      "sec3P1": "Driftssiloer er sjældent menneskelige problemer; de er arkitektoniske problemer. Når kundeservice-, indkøbs- og lagerteams arbejder i afbrudte applikationer, kræver hver overdragelse manuelle e-mails, regneark og telefonopkald. Fejl formerer sig, fakturaer bliver holdt op, og kundeforpligtelser glider.",
+      "sec3P2": "Moderne ERP adresserer dette gennem unified data lineage og begivenhedsdrevet procesorkestrering:",
+      "sec3List": [
+        {
+          "bold": "Synkroniseret ordre-til-kontant:",
+          "text": "Når en kundeordre er afgivet, reserveres lagerbeholdningen automatisk, forsendelsesetiketter genereres, og faktureringsregnskaber opdateres øjeblikkeligt."
+        },
+        {
+          "bold": "Procure-to-pay-gennemsigtighed:",
+          "text": "Indkøbsordrer, varekvitteringer og leverandørfakturaer matcher automatisk med 3-vejs afstemning, der kun markerer undtagelser til menneskelig gennemgang."
+        },
+        {
+          "bold": "Samlet arbejds- og driftsomkostninger:",
+          "text": "Projekttidssedler, løntildelinger og direkte driftsudgifter kortlægges direkte til omkostningssteder i realtid."
+        }
+      ],
+      "sec4P1": "At drive en virksomhed uden samlet synlighed er som at flyve i tæt tåge med forsinkede instrumenter. Moderne ERP leverer telemetri i realtid på tværs af alle forretningsdimensioner:",
+      "sec4List": [
+        {
+          "bold": "Direkte kontrolpaneler:",
+          "text": "Øjeblikkelige visninger af bruttoavancer, driftspengestrømme, åbne forpligtelser og ordrebeholdninger uden at vente på afslutningen af perioden."
+        },
+        {
+          "bold": "Selvbetjent driftsrapportering:",
+          "text": "Afdelingsledere kan bygge tilpassede forespørgsler og bore ned fra oversigter på virksomhedsniveau til individuelle transaktionslinjeposter."
+        },
+        {
+          "bold": "Centraliseret masterinformation:",
+          "text": "Eliminering af modstridende tal ved at etablere enkelt styret stamdata for kunder, leverandører og produktkataloger."
+        },
+        {
+          "bold": "Proaktive advarsler om uregelmæssigheder:",
+          "text": "Automatiske alarmer giver ledere besked med det samme, når marginerne falder til under tærsklen, lagerbeholdningen løber lavt, eller leverandørleverancer glider."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMATION FILOSOFI",
+      "keyPerspectiveTitle": "Pragmatisk modernisering over monolitisk eftersyn",
+      "keyPerspectiveLead": "Moderne ERP-transformation lykkes, når organisationer behandler det som en evolutionær driftsopgradering snarere end en alt-eller-intet-it-afbrydelse:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSIKKERHED",
+      "title": "Opbygning af cyberresiliens i en forbundet virksomhed",
+      "subtitle": "Udforsk, hvordan organisationer kan styrke sikkerheden, beskytte kritiske systemer og forberede sig på trusler på tværs af stadigt mere forbundne miljøer.",
+      "date": "september 2026",
+      "readTime": "8 min læst",
+      "imageCaption": "Enterprise Technology Perspective — Threat Defence & Zero-Trust Architecture",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetri og detektion",
+          "desc": "Logindtagelse i realtid og SIEM-anomali-korrelation på tværs af alle cloud-endepunkter og arbejdsbelastninger."
+        },
+        {
+          "title": "Indeslutning og isolering",
+          "desc": "Automatiserede netværkskarantæneregler, der isolerer kompromitterede containere eller legitimationsoplysninger øjeblikkeligt."
+        },
+        {
+          "title": "Afhjælpning og rodårsager",
+          "desc": "Hurtig patch-udrulning og digital efterforskning, der identificerer den nøjagtige brudvektor."
+        },
+        {
+          "title": "Modstandsdygtighed og hærdning",
+          "desc": "Kontinuerlig feedback til uforanderlige sikkerhedskopier, politikværn og automatiserede red-team-simuleringer."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Væsentlig reduktion af sårbarhedsangreb på tværs af cloud-aktiver",
+        "Garanteret driftskontinuitet og gendannelse efter katastrofer med minimal RTO/RPO",
+        "Total overholdelsessikkerhed på tværs af ISO 27001, SOC 2, HIPAA og GDPR-revision",
+        "Beskyttelse af kernevirksomhedens intellektuelle ejendomsret og fortrolige kunderegistre",
+        "Strømlinet risikostyring for leverandører og tredjeparter gennem ensartet adgangskontrol",
+        "Forbedret kunde- og investortillid understøttet af verificerede sikkerhedspositioner uden tillid"
+      ],
+      "zeroTrustPrinciples": [
+        "Stol aldrig på, bekræft altid: Eksplicit godkendelse påkrævet for hver transaktion",
+        "Adgang med mindst privilegium: Granulære rollegrænser, der begrænser bevægelse af lateral trussel",
+        "Antag brud: Kontinuerlig trusselsovervågning, kryptering under transport og i hvile",
+        "Mikrosegmentering: Netværksfirewalls, der isolerer individuelle applikationsarbejdsbelastninger",
+        "Kontinuerlig telemetri: Automatiseret adfærdsanalyse, der markerer unormale sessionsanmodninger"
+      ],
+      "sec1Eyebrow": "DEN UDVIDENDE OMRÅDE",
+      "sec1Heading": "The Connected Enterprise Security Landscape",
+      "sec1Subtext": "Efterhånden som virksomheder anvender cloud-tjenester, distribuerede fjernteams og IoT-enheder, opløses traditionelle sikkerhedsgrænser.",
+      "sec2Eyebrow": "OMFATTET FORSVAR",
+      "sec2Heading": "Flerlags trusselsbeskyttelse",
+      "sec2Subtext": "Koordinering af trusselsintelligens, sårbarhedsscanning og automatiseret hændelsesrespons på tværs af hele teknologistakken.",
+      "sec3Eyebrow": "DEN NYE SIKKERHEDSGRÆNSE",
+      "sec3Heading": "Identitets- og adgangsstyring (IAM)",
+      "sec3Subtext": "Identitet er det primære kontrolplan. Granulær adgang, MFA og SSO sikrer, at kun autoriserede principaler får adgang til forretningssystemer.",
+      "sec4Eyebrow": "ARKITEKTURISK PARADIGM",
+      "sec4Heading": "Afmystificerende Zero Trust-arkitektur",
+      "sec4Subtext": "En grundlæggende sikkerhedstankegang baseret på kontinuerlig verifikation, eksplicit autorisation og påtaget kompromis.",
+      "sec5Eyebrow": "INFRASTRUKTURSTYRING",
+      "sec5Heading": "Skysikkerhedsovervejelser",
+      "sec5Subtext": "Adressering af modeller med delt ansvar, Infrastruktur som kodeværn og Kubernetes-runtime-beskyttelse.",
+      "sec6Eyebrow": "OPERATIONEL RESILIENCE",
+      "sec6Heading": "Hændelsesberedskab: Ud over forebyggelse",
+      "sec6Subtext": "Udarbejdelse af strukturerede runbooks, automatiserede indeslutningsøvelser og uforanderlige sikkerhedskopiering af katastrofegendannelse for total driftsstabilitet.",
+      "sec7Eyebrow": "STRATEGISK VÆRDI",
+      "sec7Heading": "Forretningsmæssige fordele",
+      "sec7Subtext": "Virksomhedsresiliens, verifikation af overholdelse og varemærkeomdømme, leveret af moderne cyberforsvar.",
+      "ctaHeading": "Klar til at styrke din virksomheds cyberresiliens?",
+      "ctaDescription": "Samarbejd med Rezonants sikkerhedspraksis for at revidere arkitekturer, implementere Zero Trust-frameworks og sikre missionskritiske systemer.",
+      "ctaButton": "Rådfør dig med en cyberarkitekt",
+      "sec1P1": "I den gamle æra af virksomheds-IT opererede sikkerheden ud fra en borg-og-grav-doktrin: alt inde i virksomhedens kontornetværk blev formodet betroet, mens alt udenfor blev betragtet som upålidelig. En enkelt virksomheds firewall beskyttede interne servere, databaser og stationære computere.",
+      "sec1P2": "Dagens virksomhed er vokset ud af fysiske vægge. Arbejdsbelastninger findes på tværs af multi-cloud-miljøer (AWS, Azure, GCP), medarbejdere får adgang til forretningsapplikationer fra forskellige lokationer, og API'er udveksler løbende følsomme driftsdata med eksterne logistikudbydere, finansielle institutioner og SaaS-leverandører.",
+      "sec1P3": "Selvom denne hyper-forbindelse driver en enorm forretningsadfærdighed, udvider den virksomhedens angrebsflade betydeligt. Hvert API-endepunkt, identitetstoken, tilsluttet mobilenhed og SaaS-integration repræsenterer en potentiel eksponeringsvektor. Ægte virksomhedsbeskyttelse kræver et skift fra perimeterbaseret forsvar til proaktiv, end-to-end cyberresiliens.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Trusselsdetektion",
+          "desc": "Machine learning-assisteret trusselsintelligens, der overvåger unormale netværksmønstre, misbrug af legitimationsoplysninger og nul-dages sårbarheder i realtid."
+        },
+        {
+          "icon": "📡",
+          "title": "Sikkerhedsovervågning",
+          "desc": "Centralized Security Operations Center (SOC) telemetri, der korrelerer hændelser på tværs af servere, containerklynger, identitetsudbydere og slutpunkter."
+        },
+        {
+          "icon": "🔍",
+          "title": "Sårbarhedshåndtering",
+          "desc": "Kontinuerlig automatiseret sårbarhedsscanning på tværs af infrastruktur, kildekodelagre og containerregistre for proaktivt at afhjælpe svagheder."
+        },
+        {
+          "icon": "🔒",
+          "title": "Databeskyttelse",
+          "desc": "Robust kryptering under transit (TLS 1.3) og i hvile (AES-256) sammen med styring af granulær datatabsforebyggelse (DLP) for at forhindre læk af intellektuel ejendom."
+        }
+      ],
+      "sec3P1": "Beskyttelse af virksomhedsaktiver kræver, at man sikrer, at enhver identitet – hvad enten det er en menneskelig leder, en ekstern kontrahent eller en selvstændig softwareservicekonto – har valideret autorisation for de nøjagtige ressourcer, den får adgang til.",
+      "sec3List": [
+        {
+          "bold": "Centraliseret identitetsstyring:",
+          "text": "Single Sign-On (SSO) og fødererede identitetsstandarder, der eliminerer fragmenterede adgangskodelagre på tværs af applikationer."
+        },
+        {
+          "bold": "Adaptiv multifaktorgodkendelse (MFA):",
+          "text": "Phishing-resistente FIDO2-hardwarenøgler og risikobaserede kontekstuelle udfordringer for følsomme administrative funktioner."
+        },
+        {
+          "bold": "Granulær adgangskontrol:",
+          "text": "Finkornet rollebaseret (RBAC) og attributbaseret (ABAC) adgangskontrol håndhævet på API- og databaseniveau."
+        },
+        {
+          "bold": "Mindst privilegerede principper:",
+          "text": "Tildeling af midlertidig, just-in-time (JIT) adgang, der udløber automatisk, når administrative opgaver afsluttes."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NUL TILLID KERNE",
+      "keyPerspectiveTitle": "Kontinuerlig verifikation over blind tillid",
+      "keyPerspectiveLead": "I en Zero Trust-arkitektur er implicit tillid baseret på netværksplacering fuldstændig afmonteret. Hver transaktion, databaseforespørgsel og brugerlogin skal løbende bevise sin legitimitet:",
+      "cloudSecurityCards": [
+        {
+          "title": "Fælles ansvar",
+          "desc": "Klar styring, der adskiller cloud-udbyderens fysiske infrastruktursikkerhed fra virksomhedens ansvar for datakryptering, IAM-politikker og applikationskode."
+        },
+        {
+          "title": "Infrastruktur som kode (IaC)",
+          "desc": "Uforanderlige, reviderbare skykonfigurationer administreret via kode. Automatiserede policy-as-code scannere blokerer fejlkonfigurationer og afslørede buckets før implementering."
+        },
+        {
+          "title": "Container- og Kubernetes-sikkerhed",
+          "desc": "Hærdede containerkørselstider, signerede billedregistre, netværksmikrosegmentering og automatiseret hemmelig styring, der holder legitimationsoplysninger ude af kildelagre."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "SKY OG MODERNISERING",
+      "title": "Modernisering af ældre applikationer til skyen",
+      "subtitle": "Udforsk en praktisk tilgang til vurdering, modernisering og flytning af ældre applikationer mod skalerbare, sikre skyarkitekturer.",
+      "date": "september 2026",
+      "readTime": "6 min læst",
+      "imageCaption": "Enterprise Technology Perspective — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Genhost (løft og skift)",
+          "desc": "Overfør arbejdsbelastninger til virtuelle cloud-maskiner hurtigt med minimale kodeændringer."
+        },
+        {
+          "title": "Replatform (løft og omform)",
+          "desc": "Opgrader runtime-frameworks, adopter administrerede cloud-databaser, og strømlin driften."
+        },
+        {
+          "title": "Refactor (Cloud-Native Rebuild)",
+          "desc": "Dekonstruer monolitter til containeriserede mikrotjenester og hændelsesdrevne serverløse API'er."
+        },
+        {
+          "title": "Erstat (SaaS-modernisering)",
+          "desc": "Træk redundante ældre systemer tilbage til fordel for specialbygget enterprise cloud-software."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Legacy vurdering",
+          "desc": "Automatiseret afhængighedskortlægning, teknisk gældskatalogisering og cloud-readiness scoring."
+        },
+        {
+          "title": "Målarkitektur",
+          "desc": "Modulære mikroserviceplaner, containertopologier og automatiserede IaC-skabeloner."
+        },
+        {
+          "title": "Faseret migration",
+          "desc": "Canary-udgivelser, dual-write datasynkronisering og nul-nedetid cutover-bølger."
+        },
+        {
+          "title": "Cloud optimering",
+          "desc": "Kontinuerlig omkostningsstyring, autoskalering af telemetri og FinOps driftsgennemgange."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponentielt lavere udgifter til vedligeholdelse af infrastruktur og hardwareopdatering",
+        "Næsten uendelig beregningselasticitet, der håndterer spidsbelastning af virksomhedstrafik med nul latency",
+        "Accelereret udgivelseshastighed med fuldautomatisk CI/CD-implementeringspipelines",
+        "Eliminering af ældre single points of failure med multi-AZ høj tilgængelighed",
+        "Moderne API-arkitekturer, der muliggør hurtig integration af partnere på tværs af platforme",
+        "Avanceret observerbarhed i realtid i applikationsydelse og skyudgifter"
+      ],
+      "landscapeAssessmentPoints": [
+        "Kortlægning af komplekse inter-applikationsafhængigheder og datasynkroniseringskadencer",
+        "Identifikation af hårdkodede miljøkonfigurationer og proprietære databaseskemaer",
+        "Vurdering af lovoverholdelse og datasuverænitetsbegrænsninger pr. jurisdiktion",
+        "Beregning af realistiske Total Cost of Ownership (TCO) på tværs af refactor versus rehost-stier",
+        "Etablering af klare udrulningsbølger for at beskytte den aktive daglige forretningsdrift"
+      ],
+      "sec1Eyebrow": "VIRKELIGHEDEN AF LEGACY SYSTEMER",
+      "sec1Heading": "Arveudfordringen",
+      "sec1Subtext": "Aldrende monolitter begrænser innovationshastigheden, øger driftsmæssige sårbarheder og eskalerer infrastrukturvedligeholdelsesomkostninger.",
+      "sec2Eyebrow": "VURDERING & OPDAGELSE",
+      "sec2Heading": "Forståelse af applikationslandskabet",
+      "sec2Subtext": "Omhyggelig arkitektonisk opdagelse for at kortlægge dataafhængigheder, softwareversioner og moderniserings-ROI før migrering.",
+      "sec3Eyebrow": "DE 4 MODERNISERINGSVEJER",
+      "sec3Heading": "Moderniseringstilgange",
+      "sec3Subtext": "Valg af det rigtige migreringsmønster for hver arbejdsbelastning: genhosting, replatforming, refaktorering eller udskiftning.",
+      "sec4Eyebrow": "MÅLTRANSFORMATIONSMODEL",
+      "sec4Heading": "Moderne skyarkitektur",
+      "sec4Subtext": "Design af modstandsdygtige mikrotjenester, administrerede databaser og automatiserede implementeringspipelines, der er egnet til høj skalerbarhed.",
+      "sec5Eyebrow": "TRANSFORMATIONSRESULTATER",
+      "sec5Heading": "Vigtigste moderniseringsfordele",
+      "sec5Subtext": "Betydelig fleksibilitet, omkostningsreduktion og pålidelighedsudbytte frigivet af cloud-native transformation.",
+      "ctaHeading": "Klar til at modernisere dine ældre applikationer til skyen?",
+      "ctaDescription": "Partner med Rezonants cloud-arkitekter for at evaluere afhængigheder, opbygge migreringskøreplaner og overføre dine systemer sikkert.",
+      "ctaButton": "Tal med en cloud-specialist",
+      "sec1P1": "Missionskritiske applikationer bygget for et årti siden driver stadig milliarder i virksomhedsomsætning, men deres arkitektoniske stivhed skaber en voksende operationel risiko.",
+      "sec1P2": "Enhver virksomhed står over for spændingen mellem stabilitet og modernisering. Ældre systemer blev konstrueret til holdbarhed, og de har fungeret pålideligt i årevis. Men efterhånden som forretningskravene accelererer, støder disse aldrende arkitekturer på strukturelle begrænsninger:",
+      "sec1List": [
+        {
+          "bold": "Ældrende softwarestabler:",
+          "text": "Monolitiske kodebaser bygget på forældede rammer med aftagende talentpuljer til rådighed for vedligeholdelse."
+        },
+        {
+          "bold": "Vanskelige vedligeholdelsescyklusser:",
+          "text": "Tæt koblede komponenter, hvor ændring af en enkelt funktion risikerer at bryde ikke-relaterede driftsmoduler."
+        },
+        {
+          "bold": "Begrænset skalerbarhed:",
+          "text": "Lodrette skaleringsgrænser, der kræver køb af dyr proprietær hardware for at håndtere sæsonbestemte trafikstigninger."
+        },
+        {
+          "bold": "Integrationsudfordringer:",
+          "text": "Manglende evne til at interface glat med moderne mobilapps, kundeportaler eller partner-API'er uden skrøbelige batch-scripts."
+        },
+        {
+          "bold": "Infrastrukturbegrænsninger:",
+          "text": "Fysisk serverrums livscyklus, sikkerhedskopieringssårbarheder og høje driftsudgifter til strøm/køling."
+        }
+      ],
+      "sec2P1": "En pragmatisk moderniseringsrejse begynder med at skabe total klarhed på tværs af den eksisterende ejendom:",
+      "sec2List": [
+        {
+          "bold": "Ansøgninger:",
+          "text": "Katalogisering af alle aktive arbejdsbelastninger, tilpassede moduler, baggrundsscripts og historiske tredjepartspakker."
+        },
+        {
+          "bold": "Afhængigheder:",
+          "text": "Kortlægning af kompleks runtime-kobling, delte databasetabeller, direkte filsystemkald og eksterne servicekontrakter."
+        },
+        {
+          "bold": "Data:",
+          "text": "Evaluering af datastrukturer, transaktionsintegritetskrav, backup-kadence og regulatoriske suverænitetsregler."
+        },
+        {
+          "bold": "Infrastruktur:",
+          "text": "Revision af CPU, hukommelse, lagerudnyttelse og netværksgennemstrømning til skyspecifikationer i den rigtige størrelse."
+        },
+        {
+          "bold": "Forretningskritikitet:",
+          "text": "Kategorisering af applikationer i niveauer for at designe sikre, iscenesatte migrationsbølger med klare fallback-procedurer."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Fordel:",
+      "cloudArchitectureBadge": "Moderniserings livscyklus",
+      "cloudArchitectureTitle": "End-to-End Cloud Modernisering Flow",
+      "sec4P1": "Destinationsarkitekturen afkobler kerneapplikationer til modulære, containeriserede tjenester hostet på elastiske cloudplatforme (såsom Kubernetes eller administrerede serverløse kørselstider).",
+      "sec4P2": "Ved at etablere automatiserede CI/CD-implementeringspipelines, automatiserede blågrønne cutovers og infrastruktur som kode, transformeres implementeringer fra nervepirrende weekendbegivenheder til problemfri daglige rutiner.",
+      "sec4P3": "Elastic compute skalerer automatisk op under stigninger i efterspørgslen og nedskalerer under pauser, hvilket eliminerer ledige ressourceomkostninger og garanterer samtidig responstider på under sekunder for globale brugere.",
+      "keyPerspectiveEyebrow": "BEDSTE PRAKSIS FOR MODERNISERING",
+      "keyPerspectiveTitle": "Fire søjler i en vellykket migration",
+      "keyPerspectiveLead": "Erfaring viser, at moderniseringsprojekter lykkes, når de er baseret på omfattende forberedelse, klar bølgesekvens og streng test:"
+    }
+  }
+}

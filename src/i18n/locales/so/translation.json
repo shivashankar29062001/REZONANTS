@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Ku saabsan",
+    "services": "Adeegyada",
+    "products": "Alaabta",
+    "perspectives": "Aragtida",
+    "technologies": "Farsamooyinka",
+    "contact": "La xidhiidh",
+    "signIn": "Soo gal",
+    "signUp": "Isdiiwaangeli",
+    "signOut": "Ka Bax",
+    "chooseLanguage": "Dooro luqadaada",
+    "searchLanguage": "Raadi luqadda",
+    "resetEnglish": "Dib ugu noqo Ingiriisiga",
+    "noResults": "Luuqado lama helin",
+    "englishDefault": "Ingiriisi (Default)",
+    "english": "Ingiriis"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Software, loo farsameeyay habka <em>ganacsigaagu u socdo.",
+    "description": "Rezonants waa adeeg IT iyo shirkad alaabeed dhijitaal ah. Waxaan naqshadeynaa, dhisnaa oo aan cabbirnaa software gaar ah, mareegaha iyo alaabada mobilada, kaabayaasha daruuraha iyo AI - shirkadaha ku tartamaya fulinta.",
+    "bookConsultation": "Qabso la tashi bilaash ah",
+    "exploreServices": "Baadh adeegyada",
+    "years": "sano",
+    "projects": "mashaariicda",
+    "retention": "sii hayn",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants - ilaa 2012",
+    "metaStudio": "Istuudiyaha wax soo saarka dhijitaalka ah",
+    "metaTech": "Shabakadda · Mobile · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "xaggayaga",
+    "title": "Dhisidda Xalka Dijital ah <em>Taas hore u dhaqaajisa ganacsiyada</em>",
+    "description": "Rezonants waa shirkad xalal tignoolajiyadeed oo diiradda saarta ka caawinta ganacsiyada inay u beddelaan fikradaha khibrado dhijitaal ah oo macno leh. Waxaan isku darnaa tignoolajiyada, hal-abuurka, iyo fahamka ganacsiga si loo bixiyo xalal loogu talagalay baahiyaha adduunka dhabta ah<br /><br /> Laga soo bilaabo isbeddelka dhijitaalka ah iyo horumarinta software-ka caadiga ah ilaa daruuraha, AI, automation-ka, iyo adeegyada teknoolojiyadda la maareeyay, waxaan ka caawinnaa ururrada inay fududeeyaan kakanaanta, hagaajinta hufnaanta, iyo abuurista qiime dijital ah oo waara.",
+    "awardWinning": "Ku Guulaysiga Abaalmarinta",
+    "awardText": "Loo aqoonsaday in si heer sare ah loo gaadhsiiyo guud ahaan mareegaha iyo agabka mobilada.",
+    "professionalStaff": "Shaqaale Xirfadlayaal ah",
+    "staffText": "Injineerada sare, xisaabtanka leh ee leh shaqada laga bilaabo wacitaanka ugu horreeya ee noolaanshaha.",
+    "support247": "24/7 Taageero",
+    "supportText": "Adeegyada la maamulay iyo khadka taageerada ee ka jawaabaya marka aad u baahan tahay.",
+    "fairPrices": "Qiimaha Caddaaladda",
+    "pricesText": "Qiyaasaha daacadda ah iyo biilasha hufan ee hawlgelin kasta.",
+    "yearsExcellence": "Sannadaha Heerka Sare ee Ganacsiga"
+  },
+  "stats": {
+    "happyClients": "Macaamiisha faraxsan",
+    "projectsDone": "Mashaariic la sameeyay",
+    "winAwards": "Ku guulaysta abaal-marinaha"
+  },
+  "insights": {
+    "eyebrow": "Aragtida",
+    "title": "Aragtida",
+    "sub": "Sahaminta fikradaha, isbeddellada, iyo farsamada qaabaynta mustaqbalka.",
+    "filters": {
+      "all": "Dhammaan",
+      "digital-transformation": "Isbeddelka Dijital ah",
+      "ai": "AI & Automation-ka",
+      "cloud": "Daruur",
+      "data": "Xogta & Falanqaynta",
+      "software": "Software-ka",
+      "business": "Ganacsiga & Tignoolajiyada"
+    },
+    "readMore": "Sii akhri",
+    "close": "Xir",
+    "keyTakeaways": "Qaadashada Muhiimka ah ee Dhismaha",
+    "relatedServices": "Awoodaha & Adeegyada La Xiriira",
+    "minRead": "daq",
+    "item1Date": "Julaay 2026",
+    "item1Tag": "Alaabta & ERP",
+    "item1Title": "Habka ERP modular ee shirkadaha soo koraya",
+    "item1Text": "Sida aan u qaabeyno ka qaybgalka ERP si dhaqaalaha, alaabada, HR iyo wax soo iibsiga ay u dhexgalaan si aan kala go 'lahayn iyada oo aan la carqaladayn sannado badan.",
+    "item2Date": "Juun 2026",
+    "item2Tag": "Sirdoonka Artificial",
+    "item2Title": "Nidaamyada AI ee asalka ah: ka guurista chatbots una guurto fulin madax-bannaan",
+    "item2Text": "Dhisidda nidaamyada LLM ee wakiillada badan ee isku-dubbaridan kuwaas oo qorsheeya, ansixiya, oo fuliya socodka shaqo ee ganacsi ee adag iyada oo la kormeerayo aadanaha-in-loop-ka.",
+    "item3Date": "Meey 2026",
+    "item3Tag": "Horumarka Shirkadda",
+    "item3Title": "Laga aqoonsan yahay hormoodka istuudiyaha hal-abuurka IT ee Hyderabad",
+    "item3Text": "Istuudiyahayada injineernimada ayaa loo aqoonsaday bixinta heer sare ah, awoodaha tignoolajiyada qoto dheer, iyo ku qanacsanaanta macmiilka guud ahaan injineernimada alaabta caalamiga ah.",
+    "desc": "Ka baadho fikradaha iyo aragtida Rezonants ee ku saabsan isbeddelka dhijitaalka ah, AI, automation, Cloud, data, software, iyo mustaqbalka tignoolajiyada ganacsiga.",
+    "categories": {
+      "digitalTransformation": "Isbeddelka Dijital ah",
+      "ai": "AI & Automation-ka",
+      "cloud": "Daruur",
+      "data": "Xogta & Falanqaynta",
+      "software": "Software-ka",
+      "business": "Ganacsiga & Tignoolajiyada"
+    }
+  },
+  "technologies": {
+    "title": "Farsamooyinka & Dhismaha",
+    "headline": "Solutions Technology Enterprise",
+    "sub": "Farsamada caqliga leh. Hawlgallada otomaatiga ah. Ganacsi caqli badan.",
+    "selectTechnology": "Dooro xalka tignoolajiyada...",
+    "options": {
+      "aiRobotics": "AI & Robotics Solutions",
+      "businessAutomation": "Xalka Automation-ka Ganacsiga",
+      "cloudMigrations": "Xalka Socdaalka Cloud",
+      "dataCenters": "Xalalka Xarunta Xogta",
+      "cognitiveAnalytics": "Falanqaynta garashada & AI",
+      "informationReporting": "Macluumaadka & Nidaamyada Warbixinta",
+      "managedServices": "Adeegyada la maamulay",
+      "oneStopSolutions": "Hal-Stop Technology Solutions"
+    },
+    "explore": "Baadh Tignoolajiyada",
+    "bookDiscovery": "Baadhitaanka Tignoolajiyada Buuga",
+    "exploreAll": "Baadh Dhammaan Farsamooyinka",
+    "coreCapabilities": "Awoodaha Farsamada Muhiimka ah",
+    "bookConsultation": "Buug wada tashi ah"
+  },
+  "contact": {
+    "eyebrow": "La xidhiidh",
+    "title": "La hadal injineer sare, ma aha qoraal iib ah",
+    "sub": "La wadaag wax yar oo ku saabsan mashruucaaga waxaanu kaga jawaabi doonaa hal maalin shaqo gudaheed.",
+    "reachUs": "toos noogu soo gaadh",
+    "preferConversation": "Ma door bidaa wada hadal? Waxaan nahay hal wicitaan.",
+    "contactLede": "Sida ugu dhakhsaha badan ee aad hore ugu socon kartaa waa sheeko gaaban. Channel kaan hoose nagula soo xidhiidh,ama Boos ka sii qabso anagoo diyaarsan ayaanu kuugu iman doonaa.",
+    "phone": "Taleefanka",
+    "email": "Iimayl",
+    "office": "Xafiiska",
+    "hours": "Saacadaha",
+    "hoursValue": "Isniin - Sabti, 9:30 - 18:30 IST",
+    "bookSlot": "Buuxi booska la-tashiga",
+    "sendMessage": "noo soo dir fariin",
+    "fieldsRequired": "Goobaha ku calaamadsan * ayaa loo baahan yahay.",
+    "fullName": "Magaca buuxa *",
+    "emailLabel": "Iimayl *",
+    "company": "Shirkadda",
+    "subject": "Mawduuc",
+    "messageLabel": "Fariinta *",
+    "sending": "diraya…",
+    "sendBtn": "Dir fariin",
+    "successMsg": "Fariinta la diray! Nuqul ayaa laguu soo diray.",
+    "errorMsg": "Ma kaydin karo fariintaada. Hubi in miiska contact_messages uu jiro, ka dibna isku day mar kale.",
+    "offices": {
+      "vijayawada": "Xafiiska Vijayawada",
+      "southAfrica": "Xafiiska Koonfur Afrika"
+    },
+    "placeholders": {
+      "fullName": "Magacaaga oo buuxa",
+      "email": "you@company.com",
+      "company": "Shirkaddaada ama ururkaaga",
+      "subject": "Sideen ku caawin karnaa?",
+      "message": "Wax nooga sheeg mashruucaaga, wakhtiga, iyo yoolalkaaga..."
+    },
+    "validation": {
+      "fullNameRequired": "Fadlan geli magacaaga oo buuxa.",
+      "emailRequired": "Fadlan geli ciwaanka emailkaaga.",
+      "emailInvalid": "Fadlan geli ciwaan email sax ah.",
+      "messageRequired": "Fadlan geli fariin."
+    }
+  },
+  "services": {
+    "eyebrow": "Adeegyada",
+    "title": "Waxaan samayno",
+    "sub": "Laga soo bilaabo istiraatijiyadda ilaa hawlgallada la maareeyay, waxaanu bixinaa iskaashiga tignoolajiyada dhamaadka-ilaa-dhamaadka ee shirkadaha ku tartamaya fulinta.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Bilowgii Hawlgelinta",
+        "description": "Horumarinta dhamaadka-ilaa-dhamaadka ee xalalka dhijitaalka ah ee cusub ee shuruudaha ganacsiga iyo qaabdhismeedka xalinta iyada oo loo marayo horumarinta, isdhexgalka, tijaabinta, geynta, iyo taageerada joogtada ah."
+      },
+      "businessProcessAutomation": {
+        "label": "Habka Ganacsiga Automation",
+        "description": "Naqshadeynta iyo hirgelinta xalal otomaatig ah oo caqli-gal ah oo habeeya hab-socodka ganacsiga, baabi'iya waxqabadyada gacanta ee soo noqnoqda, hagaajinta hufnaanta hawlgalka, iyo dardar-gelinta natiijooyinka ganacsiga."
+      },
+      "centerOfExcellence": {
+        "label": "Xarunta Wanaagga",
+        "description": "Aasaaska tignoolajiyada gaarka ah iyo xarumo karti ganacsi oo bixiya maamulka, halbeegyada, khibrada, qaab-dhismeedka, hantida dib loo isticmaali karo, iyo horumarinta joogtada ah ee ururka oo dhan."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Horumarinta Gaarka ah & Habaynta",
+        "description": "Horumarinta iyo tayeynta codsiyada, goobaha, qulqulka shaqada, iyo xalalka ganacsiga si wax looga qabto shuruudaha ganacsiga gaarka ah iyo bixinta shaqeynta ku habboon."
+      },
+      "digitalTransformation": {
+        "label": "Isbeddelka Dijital ah",
+        "description": "Casriyeynta hawlaha ganacsiga, nidaamyada deegaanka tignoolajiyada, iyo khibradaha macaamiisha iyada oo loo marayo daruuraha, AI, automation-ka, xogta, iyo tignoolajiyada casriga ah ee codsiga."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Qaab-dhismeedka Xalka Dhamaadka-ilaa-Dhamaadka",
+        "description": "Habka gaarsiinta oo dhameystiran oo daboolaya wareegga nolosha tignoolajiyada dhameystiran-laga bilaabo istaraatiijiyadda, shuruudaha, iyo qaab dhismeedka illaa horumarinta, isdhexgalka, geynta, maamulka, kormeerka, iyo taageerada."
+      },
+      "migrationModernization": {
+        "label": "Tahriibka & Casriyeynta",
+        "description": "Soo guurista sugan iyo habaysan ee codsiyada, xogta, goobaha, kaabayaasha, iyo culaysyada shaqada ee laga dhaxlay ama bay'adaha jira ilaa kuwa casriga ah, la cabbiri karo, iyo aaladaha teknoolojiyadda la hagaajiyay."
+      },
+      "pocPilotImplementation": {
+        "label": "Caddaynta Fikradda (PoC) & Hirgelinta Tijaabada",
+        "description": "Kobcinta degdega ah iyo ansixinta xalalka tignoolajiyada si loo qiimeeyo suurtogalnimada farsamada, qiimaha ganacsiga, shuruudaha isdhexgalka, waxqabadka, iyo miisaanka ka hor inta aan la fulin si buuxda."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Adeegyada La Wadaago & Hawlgallada la Maamulo",
+        "description": "Bixinta tignoolajiyada dhexe iyo awoodaha hawlgelinta ee qaybaha ganacsiga iyada oo loo marayo hannaan habaysan, ilo xirfad leh, qaab-dhismeedka maamulka, maaraynta adeegga, iyo heerarka adeegga la cabbiri karo."
+      },
+      "customDevelopment": {
+        "label": "Bilowgii Hawlgelinta",
+        "description": "Horumarinta dhamaadka-ilaa-dhamaadka ee xalalka dhijitaalka ah ee cusub ee shuruudaha ganacsiga iyo qaab dhismeedka xalka iyada oo loo marayo horumarinta, isdhexgalka, tijaabinta, geynta, iyo taageerada joogtada ah."
+      },
+      "processAutomation": {
+        "label": "Habka Ganacsiga Automation",
+        "description": "Naqshadeynta iyo hirgelinta xalal otomaatig ah oo caqli-gal ah oo habeeya hab-socodka ganacsiga, meesha ka saaraya dhaqdhaqaaqyada gacanta ee soo noqnoqda, hagaajinta hufnaanta shaqada, iyo dardargelinta natiijooyinka ganacsiga."
+      },
+      "solutionEngineering": {
+        "label": "Horumarinta Gaarka ah & Habaynta",
+        "description": "Horumarinta iyo tayeynta codsiyada, goobaha, qulqulka shaqada, iyo xalalka ganacsiga si wax looga qabto shuruudaha ganacsiga gaarka ah iyo bixinta shaqeynta ku habboon."
+      },
+      "endToEndSolutions": {
+        "label": "Qaab-dhismeedka Xalka Dhamaad-ilaa-Dhamaadka",
+        "description": "Habka gaarsiinta oo dhameystiran oo daboolaya meertada nolosha tignoolajiyada oo dhameystiran—laga bilaabo istiraatijiyada, shuruudaha, iyo qaab dhismeedka ilaa horumarka, isdhexgalka, geynta, maamulka, kormeerka, iyo taageerada."
+      },
+      "migrationServices": {
+        "label": "Tahriibka & Casriyeynta",
+        "description": "Soo guurista sugan oo habaysan ee codsiyada, xogta, goobaha, kaabayaasha, iyo culaysyada shaqada ee laga dhaxlay ama bay'adaha jira ilaa kuwa casriga ah, la cabbiri karo, iyo aaladaha tignoolajiyada la hagaajiyay."
+      },
+      "pilotPrototyping": {
+        "label": "Caddaynta Fikradda (PoC) & Hirgelinta Tijaabada",
+        "description": "Kobcinta degdega ah iyo ansixinta xalalka teknoolajiyada si loo qiimeeyo suurtogalnimada farsamada, qiimaha ganacsiga, shuruudaha isdhexgalka, waxqabadka, iyo miisaanka ka hor inta aan la fulinin heerka buuxa."
+      },
+      "sharedServices": {
+        "label": "Adeegyada La Wadaago & Hawlgallada la Maamulo",
+        "description": "Bixinta tignoolajiyada dhexe iyo awoodaha hawlgelinta ee qaybaha ganacsiga iyada oo loo marayo hannaan habaysan, ilo xirfad leh, qaab-dhismeedka maamulka, maaraynta adeegga, iyo heerarka adeegga la cabbiri karo."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Jadwalka la-tashiga",
+      "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+      "talkSeniorEngineer": "La hadal Injineer Sare",
+      "exploreTechStack": "Baadh Tignoolajiyada Casriga ah",
+      "bookPocSession": "Buug-buucso kulanka daahfurka PoC",
+      "seeAllServices": "Eeg Dhammaan Adeegyada",
+      "requestAssessment": "Codso Qiimaynta Socdaalka",
+      "exploreCloudSolutions": "Baadh xalalka daruuraha"
+    },
+    "sharedServices": {
+      "heroBadge": "ADEEGYADA LA WADAAGO & HAWLADA LA MAAMULO",
+      "heroTitle": "Adeegyada La Wadaago ee Ganacsiga & Hawlgallada la Maamulo",
+      "heroDesc": "Cabbirka awoodaha ganacsiga, hagaajinta qulqulka shaqada ee isdhaafsan, oo lagu gaaro heer sare oo hawleed iyada oo loo marayo moodooyinka adeegga la wadaago ee la jaan-qaadaya, sugan, iyo kharash-ool ah.",
+      "bookDiscovery": "Soo-helidda Hawlgallada la Maamulay ee Buugga",
+      "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+      "coreCapabilities": "Awoodaha Muhiimka ah:",
+      "managedServices": "Adeegyada la maamulay",
+      "itOperations": "Hawlaha IT-ga",
+      "appSupport": "Taageerada Codsiga",
+      "serviceManagement": "Maamulka Adeegga",
+      "resourceOptimization": "Horumarinta Khayraadka",
+      "slaManagement": "Maamulka SLA",
+      "governance": "Dawladnimada",
+      "continuousImprovement": "Horumar joogto ah",
+      "costOptimization": "Kordhinta Qiimaha",
+      "readyTitle": "Diyaar ma u tahay inaad wanaajiso Hawlahaaga?",
+      "readyDesc": "Soo hel sida Adeegyadayada La Wadaago & Qaababka Hawlgallada la Maareeyo ay kor ugu qaadi karaan tayada adeegga, hubinta sii wadida shaqada, iyo u kaxaynta waxtarka qiimaha waara ee ganacsigaaga.",
+      "scheduleSession": "Jadwalka kulanka daahfurka"
+    },
+    "solutionEngineering": {
+      "heroBadge": "Xalka Injineerka & DHISMAHA",
+      "heroTitle": "Horumarinta Gaarka ah & Habaynta",
+      "heroDesc": "Naqshadeeye, injineer, oo geeyaa nidaamyada software-ka waxqabadka sarreeya ee loogu talagalay gaar ahaan socodka shaqadaada, dhuumaha xogta, iyo shuruudaha cabbirka."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "Hal-abuur deg deg ah & Tijaabo",
+      "heroTitle": "Caddaynta Fikradda (PoC) & Hirgelinta Tijaabada",
+      "heroDesc": "Xaqiiji tignoolajiyada soo ifbaxaya, khatarta ka saaraysa qaab-dhismeedka adag, oo caddeeya qiimaha ganacsiga ee tusaalooyinka heerka-soo-saarka toddobaadyo gudahood, ma aha rubuc."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "DHISMAHA NOLOSHA IYO GAARINTA",
+      "heroTitle": "Qaab-dhismeedka Xalka Dhammaadka-ilaa-Dhamaadka",
+      "heroDesc": "Nashqada gaarsiinta midaysan ee isku xidha daahfurka alaabta, qaab dhismeedka xalka, injineernimada, kaabayaasha daruuraha, iyo 24/7 hawlgallada la isku hallayn karo."
+    },
+    "migrationServices": {
+      "heroBadge": "KAABAYAASHA & Casriyeynta Dhaxalka",
+      "heroTitle": "Tahriibka & Casriyeynta",
+      "heroDesc": "Si aan kala go 'lahayn ugu beddelo culayska shaqada dhaxalka ah, qaab-dhismeedyada keli-taliska ah, iyo kaabeyaasha dhismaha dhexdiisa una gudbaya aaladaha daruuriga ah ee casriga ah, sugan, iyo kuwa la cabbiri karo."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Casriyeynta Ganacsiga",
+        "titlePart1": "Digital",
+        "titlePart2": "Isbeddelka",
+        "description": "Casriyeynta hawlaha ganacsiga, nidaamka deegaanka tignoolajiyada, iyo khibradaha macaamiisha iyada oo loo marayo daruuraha, AI, automation-ka, xogta, iyo tignoolajiyada casriga ah ee codsiga.",
+        "bookWorkshop": "Aqoon-is-weydaarsiga Isbeddelka Buugaagta",
+        "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+        "startTransformation": "Bilow Isbedelka",
+        "exploreStrategy": "Sahaminta Xeeladda",
+        "coreCapabilitiesTitle": "Awoodaha Muhiimka ah",
+        "coreCapabilities": [
+          "Istaraatiijiyada Dijital ah",
+          "Isbeddelka Daruuraha",
+          "AI & Automation-ka",
+          "Casriyeynta Codsiga",
+          "Casriyeynta Dhaxalka",
+          "Xogta & Falanqaynta",
+          "Khibrada Macmiilka",
+          "Casriyeynta Tignoolajiyada"
+        ],
+        "row1Eyebrow": "Istaraatiijiyada & Khariidadda Tubta",
+        "row1Title": "Laga soo bilaabo Vision ilaa Roadmap-ka la fulin karo",
+        "row1P1": "Waxaan iskaashi la samaynaa hogaamiyayaasha ganacsiga si aan u qeexno istaraatiijiyad dhijitaalka ah, kiisaska ganacsiga, iyo khariidado wajiyo leh oo leh guulo degdeg ah iyo fulinta khatarta ah.",
+        "row1P2": "Hindisayaasha mudnaanta leh, moodooyinka TCO, iyo KPIs waxay xaqiijinayaan dadaal kasta oo casriyeynta tignoolajiyada inuu si toos ah ugu xidhmo dakhliga, hufnaanta, iyo natiijooyinka ku qanacsanaanta macaamilka.",
+        "row2Eyebrow": "Casriyeynta Dhaxalka",
+        "row2Title": "Casriyeyn Adoon Jebin Ganacsiga",
+        "row2P1": "Dib-u-habaynta monoliths ee adeeg-yaraha, API-yada, iyo qaababka daruur-dhalay ee leh waqti---hoos-u-dhigid iyo ansaxinta toosan ee dib-u-celinta.",
+        "row2P2": "Waxaan casriyeynaynaa codsiyada, xog-ururinta, iyo lakabyada is dhexgalka anagoo ilaalinayna u hogaansanaanta iyo qaabka amniga.",
+        "row3Eyebrow": "Daruuraha, AI & Xogta",
+        "row3Title": "Korsashada Daruuraha & Xogta ay Wadato Sirdoonka",
+        "row3P1": "Qaado AWS, Azure, iyo GCP, dhis dhuumaha xogta casriga ah, oo geli wakiilada barashada mashiinka si ay u kaxeeyaan go'aamo madax-banaan",
+        "row3P2": "Laga soo bilaabo qul-qulka dhacdada-waqtiga dhabta ah ilaa dashboards midaysan, isbeddelku waxa uu noqdaa mid la cabbiri karo oo waara.",
+        "row4Eyebrow": "Khibrada Macmiilka",
+        "row4Title": "Waayo-aragnimada Omnichannel Casriga ah",
+        "row4P1": "Dib-u-qaabaynta safarrada macaamiisha ee dhammaan shabakadaha wax ka qabata, iOS, Android, iyo marinnada is-adeegga oo leh is-dhexyaal la gaaryeelay.",
+        "row4P2": "Injineerinka Platform, telemetry, iyo wareegyada jawaab celinta tooska ah ayaa ka dhigaya hal-abuurnimada dhijitaalka ah mid joogto ah.",
+        "pillarsTitle": "Tiirarka Isbeddelka",
+        "pillarsSub": "Kaabayaasha diirada saaraya natiijada ee hubinta hogaaminta dhijitaalka ah ee waara.",
+        "pillar1Title": "Istaraatiijiyadda Dijital ah & Maamulka",
+        "pillar1Desc": "Nashqadaha isbeddelka wejiyada leh oo leh qaabaynta kiis ganacsi, maamul dhisme, iyo raad-raac khatar ah.",
+        "pillar2Title": "Cloud & Platform",
+        "pillar2Desc": "AWS/Azure/GCP asaasyada daruuraha badan, dhuumaha otomaatiga ah, iyo awooda falanqaynta xogta ganacsiga.",
+        "pillar3Title": "AI & Automation-ka",
+        "pillar3Desc": "Automation habka garaadka, wakiilada AI garashada, iyo telemetry saadaalinta si kor loogu qaado hawl maalmeedka.",
+        "pillar4Title": "Khibrada Macmiilka",
+        "pillar4Desc": "Iridaha dhijitaalka ah ee omnichannel-ka-beddelaya ee sarreeya iyo is-dhexyaal la gaaryeelay oo loo dhisay haynta isticmaale ee ugu badan.",
+        "ctaTitle": "Diyaar ma u tahay inaad beddesho ganacsigaaga?",
+        "ctaSub": "La-hawlgalayaasha Rezonants Teknolojiyada ee isbeddelka dhijitaalka ah ee wejigiisa, khatarta ka saaray ee ku xidhan natiijooyinka ganacsi ee la cabbiri karo.",
+        "ctaButton": "Qabso Wicitaan Isbeddel Dijital ah"
+      },
+      "customDevelopment": {
+        "eyebrow": "Dhamaadka-ilaa-Dhammaadka Injineernimada Dijital ah",
+        "titlePart1": "Bilowgii Ku",
+        "titlePart2": "Hawlgelinta",
+        "bookConsultation": "Buug la-tashi",
+        "exploreEngineering": "Baadh Injineerinka Xalka"
+      },
+      "processAutomation": {
+        "eyebrow": "Hawlgallada Habraaca Caqliga leh",
+        "titlePart1": "Habka Ganacsiga",
+        "titlePart2": "Automation",
+        "bookDiscovery": "Buugga Automation Discovery",
+        "exploreCoE": "Sahaminta Xarunta Sare ee Sare"
+      },
+      "centreOfExcellence": {
+        "badge": "Hal qayb oo ka mid ah REZONANTS COE",
+        "titlePart1": "Xarunta",
+        "titlePart2": "Heer sare",
+        "bookConsultation": "Buuga Wadatashiga Wadatashiga",
+        "exploreCapabilities": "Baadh Awoodaha"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Noloshii Tignoolajiyada oo Dhamaystiran",
+        "titlePart1": "Dhammaad-ilaa-dhammaad",
+        "titlePart2": "Qaab-dhismeedka Xalka",
+        "startJourney": "Bilow Socdaalkaaga Wareegga Nolosha",
+        "exploreTransformation": "Baadh Isbeddelka"
+      },
+      "migrationServices": {
+        "eyebrow": "Cloud & Isbeddelka Kaabayaasha",
+        "titlePart1": "Tahriibka &",
+        "titlePart2": "Casriyeynta",
+        "planMigration": "Qorshee socdaalkaaga",
+        "exploreTransformation": "Baadh Isbeddelka"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Xaqiijinta Degdegga ah & Suurtogalnimada",
+        "titlePart1": "Caddaynta Fikradda (PoC) &",
+        "titlePart2": "Hirgelinta tijaabada",
+        "initiateDiscovery": "Bilow daahfurka PoC",
+        "exploreDevelopment": "Baadh Horumarka Gaarka ah"
+      },
+      "solutionEngineering": {
+        "badge": "Injineeriyada Dijital ah ee Haboon",
+        "bookConsultation": "Buug la-tashi",
+        "exploreCapabilities": "Baadh Awoodaha"
+      },
+      "sharedServices": {
+        "eyebrow": "Xarunta Hawlgallada Dhexe",
+        "titlePart1": "Adeegyada La Wadaago &",
+        "titlePart2": "Hawlgallada la maamulay",
+        "bookDiscovery": "Soo-helidda Hawlgallada la Maamulay ee Buugga",
+        "exploreFramework": "Baadh Qaab-dhismeedka Xalka"
+      }
+    },
+    "coreCapabilities": "Awoodaha Muhiimka ah"
+  },
+  "products": {
+    "featured": "Alaabta Muuqata",
+    "featuredSub": "Fududeeya hawlaha, isku xidh kooxaha, hab-socodka otomaatig u samee, oo wad koboc ganacsi oo caqli badan.",
+    "seeAll": "Eeg Dhammaan Alaabta",
+    "featuredProducts": "Alaabooyin MUUQAAL AH",
+    "meetAutonomous": "La kulan Ciidanka Madaxbanaan",
+    "meetAutonomousText": "U beddelo hawlahaaga wakiilada AI ee ka garab shaqeeya kooxdaada si ay u qabtaan hawlo adag oo soo noqnoqda.",
+    "learnMore": "Wax badan baro",
+    "erp": {
+      "title": "Hal Platform Wax kasta u diyaarsan",
+      "sub": "Awood-siinta ganacsiyada ee ku xidhan, caqli-gal, iyo xalal maarayn ganacsi oo la miisaami karo.",
+      "explore": "Sahami ERP Solutions",
+      "gridTitle": "Xalka ERP",
+      "promoTitle": "Qaabka ERP ee Kobaca",
+      "promoText": "Geli sifada ERP modular si degdeg ah iyada oo aan la adkayn nidaamka dhaqameed ee dhowrka sano ah.",
+      "scheduleDemo": "Jadwalka Demo"
+    },
+    "it": {
+      "title": "Xalka IT",
+      "sub": "Kaabayaasha heerka-shirkadeed, amniga, iyo xalalka DevOps si ganacsigaagu u sii socdo.",
+      "explore": "Baadh Xalka IT-ga",
+      "gridTitle": "WAA XAL",
+      "promoTitle": "Kaabayaasha IT-ga lagu kalsoonaan karo",
+      "promoText": "Dhis aasaas tignoolajiyadeed adkeysi leh oo leh daruur la maamulay, amniga, iyo adeegyada DevOps.",
+      "getStarted": "Bilow"
+    },
+    "crm": {
+      "title": "Xalka CRM",
+      "sub": "Maareynta xiriirka macaamiisha si loo hagaajiyo iibka, taageerada, iyo socodka shaqada suuq-geynta.",
+      "explore": "Sahami CRM Solutions",
+      "gridTitle": "Xalka CRM",
+      "promoTitle": "Xidh heshiisyo badan",
+      "promoText": "Ku xooji iibka iyo kooxaha taageerada xogta macmiilka midaysan iyo automation caqli leh.",
+      "startTrial": "Bilow tijaabo bilaash ah"
+    },
+    "hrms": {
+      "title": "Xalka HRMS",
+      "sub": "Maareynta ilaha aadanaha ee daboolaya mushaar bixinta, qorista, waxqabadka, iyo ka qaybgalka shaqaalaha.",
+      "explore": "Sahaminta HRMS Solutions",
+      "gridTitle": "Xalka HRMS",
+      "promoTitle": "Fududeeya Hawlaha HR",
+      "promoText": "Si otomaatig ah u samee socodka shaqada HR laga bilaabo qoritaanka ilaa hawlgabka oo leh qalab casri ah, shaqaale-koowaad.",
+      "requestDemo": "Codso Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Alaabta sifaysan",
+      "erpSolutions": "Xalka ERP",
+      "solutions": "XAL"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "rezonants AI Suite",
+        "description": "Wakiilo madax-bannaan oo caqli-gal ah iyo aalado toosiya qulqulka shaqada ee adag iyo hawlaha macaamiisha."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Mareegta maamulka daruuraha badan oo wanaajinaya waxqabadka, amniga, u hoggaansanaanta, iyo kharashyada."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Wada shaqayn isku-dhafan iyo xarun wax-soo-saar leh oo leh hawl isku-dhafan, wada-sheekeysi, iyo maamul dukumentiyo."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Matoorka falanqaynta-waqtiga-dhabta ah u beddelaya durdurrada dhacdooyinka ganacsi ee aragtiyo la taaban karo."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Nashqada midaysan ee ganacsi ee isku xidha maaliyadda, hantida, HR, soo iibsiga, iyo agabka."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Meesha waayo-aragnimada shaqaalaha ee daboolaysa mushaharka, faa'iidooyinka, dib u eegista waxqabadka, iyo is-adeegga."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Raadinta saadka ee waqtiga-dhabta ah, hawlgallada bakhaarka tooska ah, iyo saadaalinta dalabka."
+      },
+      "financeHub": {
+        "title": "Hubka Maaliyadda",
+        "description": "Maaraynta ledgerka sare, biilasha shaqo socodka, u hogaansanaanta otomaatiga ah, iyo warbixinada socodka lacagta caddaanka ah ee waqtiga-dhabta ah."
+      },
+      "cloudInfrastructure": {
+        "title": "Kaabayaasha daruuraha",
+        "description": "Qaab dhismeedka daruuraha la qiyaasi karo, socdaalka, iyo maamulka guud ahaan AWS, Azure, iyo GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Dhamaadka-ilaa-dhamaadka la socodka amniga, ogaanshaha khatarta, iyo maaraynta u hoggaansanaanta."
+      },
+      "devopsPipeline": {
+        "title": "Dhuumaha DevOps",
+        "description": "Automation-ka CI/CD, weel-samaynta, iyo kaabayaasha-as-code ee gaarsiinta degdegga ah."
+      },
+      "managedItServices": {
+        "title": "Adeegyada IT-ga ee la maamulay",
+        "description": "24/7 la socodka kaabayaasha, jawaabta shilka, iyo dayactirka firfircoonida leh."
+      },
+      "salesCrm": {
+        "title": "Iibka CRM",
+        "description": "Maareynta dhuumaha, dhibcaha rasaasta, raadraaca heshiisyada, iyo saadaalinta iibka ee hal goob."
+      },
+      "customerSupportHub": {
+        "title": "Xarunta Taageerada Macmiilka",
+        "description": "Tigidhada, saldhigga aqoonta, wada sheekaysiga tooska ah, iyo maamulka taageerada omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Automation-ka Suuqgeynta",
+        "description": "Abaabulka ololaha, automation-ka iimaylka, kobcinta rasaasta, iyo falanqaynta."
+      },
+      "customer360View": {
+        "title": "Macmiilka 360 View",
+        "description": "Noocyada macaamiisha midaysan ee isku dara iibka, taageerada, iyo xogta isdhexgalka."
+      },
+      "coreHr": {
+        "title": "Xuddunta HR",
+        "description": "Diiwaanada shaqaalaha, kala sareynta org, maamulka ka tagista, iyo dabagalka imaanshaha."
+      },
+      "payrollCompliance": {
+        "title": "Mushahar bixinta & U hoggaansanaanta",
+        "description": "Habaynta mushaharka tooska ah, xisaabinta cashuuraha, iyo u hogaansanaanta sharciga."
+      },
+      "performanceManagement": {
+        "title": "Maaraynta Waxqabadka",
+        "description": "Dabagalka OKR, 360° dib u eegis, dejinta yoolka, iyo qorshayaasha horumarinta shaqaalaha."
+      },
+      "recruitmentPortal": {
+        "title": "Xariirka Shaqaalaysiinta",
+        "description": "Soo dhejinta shaqada, raadraaca codsadaha, jadwalka waraysiga, iyo qulqulka shaqada ee korka."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Alaabta Muuqata",
+        "heading": "Alaabooyinka la soo bandhigay",
+        "sub": "Fududeeya hawlaha, isku xidh kooxaha, hab-socodka otomaatig u samee, oo wad koboc ganacsi oo caqli badan.",
+        "promoTitle": "La kulan Ciidanka Madaxbanaan",
+        "promoText": "U beddelo hawlahaaga wakiilada AI ee la shaqeeya kooxdaada si ay u qabtaan hawlo adag oo soo noqnoqda.",
+        "items": [
+          {
+            "title": "AI Automation & Wakiilada caqliga",
+            "description": "Si otomaatig ah u samee hawlaha soo noqnoqda oo dir wakiilada AI caqliga leh ee hagaajiya wax soo saarka, go'aan qaadashada, iyo natiijooyinka ganacsiga."
+          },
+          {
+            "title": "Adeegga IT & Taageerada Dijital ah",
+            "description": "U keen si dhakhso leh, ka caqli badan taageerada IT oo leh maarayn adeeg oo la habeeyey, automation, iyo qulqulka shaqada dhijitaalka ah."
+          },
+          {
+            "title": "Ganacsiga AI Maamulka",
+            "description": "Dhis korsashada AI mas'uul ka ah oo leh maamul adag, amni, u hoggaansanaan, daah-furnaan, iyo xakamaynta khatarta."
+          },
+          {
+            "title": "Hawlaha IT-ga ee caqliga leh",
+            "description": "Ku beddel hawlaha IT-ga iyada oo la socota kormeerka AI ay wado, automation, aragtiyo saadaal ah, iyo xallinta arrimaha firfircoon."
+          },
+          {
+            "title": "Maaraynta Khibrada Macmiilka",
+            "description": "Abuur safarro shakhsiyeed oo macmiil ah oo leh ka-qaybgal caqli-gal, farsamayn, falanqayn, iyo waayo-aragnimo dhijitaal ah oo aan xidhiidh lahayn."
+          },
+          {
+            "title": "Istaraatiijiyada Ganacsiga & Kor u qaadida Portfolio",
+            "description": "Isku hagaaji maalgashiga tignoolajiyada iyo yoolalka ganacsiga si loo wanaajiyo faylalka, horumarinta hufnaanta, iyo in loo wado koboc waara."
+          },
+          {
+            "title": "Hanti IT & Meerto-nololeedka Tignoolajiyada",
+            "description": "Ku maamul hantida IT-ga inta ay nool yihiin oo dhan iyagoo leh muuqaal wanaagsan, qalabayn, kontorool kharash, iyo qorshayn tignoolajiyadeed."
+          },
+          {
+            "title": "Khatarta Ganacsiga & U Hogaansanaanta",
+            "description": "Aqoonso, qiimee, oo maareyso khataraha ganacsiga iyadoo la xoojinayo u hoggaansanaanta, kontaroolada, iyo adkeysiga ururka."
+          },
+          {
+            "title": "Amniga internetka & Hawlgallada Hanjabaadda",
+            "description": "Ka ilaali bay'ada dhijitaalka ah ogaanshaha khatarta ah ee firfircoon, hawlgallada amniga, jawaabta shilka, iyo kormeer joogto ah."
+          },
+          {
+            "title": "Automation Workforce Field",
+            "description": "Ku xooji kooxaha goobta jooga jadwal caqli leh, socodka shaqada mobilada, otomaatignimada, iyo muuqaalka hawlgalka wakhtiga-dhabta ah."
+          },
+          {
+            "title": "Waayo-aragnimada Shaqaalaha & Adeegyada HR",
+            "description": "Ku fududee adeegyada shaqaalaha qulqulka shaqada dhijitaalka ah, xalalka is-adeegga, automation-ka, iyo khibradaha shaqaalaha ee gaarka ah."
+          },
+          {
+            "title": "Goobta Shaqada Dijital ah ee Midaysan",
+            "description": "Ku xidh dadka, hababka, codsiyada, iyo agabka wada shaqaynta iyada oo loo marayo goob shaqo oo dhijitaal ah oo sugan, caqli badan, oo aan xidhiidh lahayn."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Xalka ERP",
+        "heading": "Hal Platform, oo Wax kasta diyaar u ah",
+        "sub": "Xoojinta ganacsiyada leh isku xidhan, caqli leh, iyo xalal maarayn ganacsi oo la miisaami karo.",
+        "promoTitle": "Qaabka ERP ee Kobaca",
+        "promoText": "Geli sifada ERP modular si degdeg ah iyada oo aan la adkayn nidaamyada dhaqameed ee dhowrka sano ah.",
+        "items": [
+          {
+            "title": "Habka Ganacsiga Automation",
+            "description": "Hagaajinta maaliyadda, HR, iibka, soo iibsiga, iyo hawl-maalmeedka."
+          },
+          {
+            "title": "Maaraynta Ganacsiga Isku-dhafka ah",
+            "description": "Ku xidh waaxyaha, xogta, iyo socodka shaqada ee madal midaysan."
+          },
+          {
+            "title": "Maaliyadda & Xisaabaadka",
+            "description": "Hagaajinta aragtida maaliyadeed, ka warbixinta, miisaaniyada, iyo u hogaansanaanta."
+          },
+          {
+            "title": "HR & Mushahar bixinta",
+            "description": "Fududeeya maaraynta shaqaalaha, imaanshaha, mushaharka, iyo hababka HR."
+          },
+          {
+            "title": "Maareynta Silsilada Supply",
+            "description": "Kor u qaad soo iibsiga, alaabada, iibiyeyaasha, iyo saadka."
+          },
+          {
+            "title": "Iibka & Maamulka Macmiilka",
+            "description": "Si hufan u maamul hoggaanka, macaamiisha, dalabaadka, iyo waxqabadka iibka."
+          },
+          {
+            "title": "Falanqaynta-Waqtiga-dhabta ah & Warbixinta",
+            "description": "U rog xogta ganacsiga fikrado la fulin karo si loo gaaro go'aanno degdeg ah."
+          },
+          {
+            "title": "Cloud ERP Solutions",
+            "description": "Ka yeel ammaan, miisaaman, oo la heli karo maamulka ganacsiga meel kasta."
+          }
+        ]
+      },
+      "it": {
+        "title": "Xalka IT",
+        "heading": "Xalka IT-gayada",
+        "sub": "Ku beddel hawlaha IT-ga oo leh caqli-gal, firfircooni, iyo xalal dhijitaal ah oo la cabbiri karo kuwaas oo horumariya waxqabadka, wax-soo-saarka, iyo sii wadida ganacsiga.",
+        "promoTitle": "Kaabayaasha IT-ga lagu kalsoonaan karo",
+        "promoText": "Dhis aasaaska tignoolajiyada adkeysiga leh oo leh daruur la maareeyey, amniga, iyo adeegyada DevOps.",
+        "items": [
+          {
+            "title": "Maamulka Adeegga IT-ga",
+            "description": "Hagaajinta adeegyada IT, shilalka, codsiyada, iyo socodka shaqada si loo xalliyo degdega ah."
+          },
+          {
+            "title": "Maamulka Hawlaha IT-ga",
+            "description": "La soco kaabayaasha iyo arjiyada leh firfircooni, xogta ay wado hawlaha IT."
+          },
+          {
+            "title": "Maamulka Hantida IT-ga",
+            "description": "U maamul hantida tignoolajiyada si hufan iyadoo la dhimayo kharashaadka, khatarta, iyo kakanaanta meertada nolosha."
+          },
+          {
+            "title": "Dhismaha Ganacsiga",
+            "description": "Isku hagaaji istiraatijiyadda ganacsiga iyo qaab dhismeedka farsamada saxda ah iyo maalgashiga."
+          },
+          {
+            "title": "Maamulka Cloud",
+            "description": "Hagaajinta amniga daruuraha, u hoggaansanaanta, waxqabadka, iyo maaraynta kharashka."
+          },
+          {
+            "title": "Hawlgallada Dijital ah",
+            "description": "Si otomaatig ah u samee hababka IT oo hel muuqaalka wakhtiga dhabta ah ee deegaankaaga tignoolajiyada."
+          },
+          {
+            "title": "La-fiirsasho & Dabagal",
+            "description": "Horay u ogaada arrimaha waxqabadka oo ilaali khibradaha dhijitaalka ah ee la isku halayn karo."
+          },
+          {
+            "title": "Maaraynta Bootfooliyada Istaraatiijiga ah",
+            "description": "Ku xidh maalgashiga IT-ga oo leh mudnaanta ganacsiga iyo natiijooyinka la qiyaasi karo."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Xalka CRM",
+        "heading": "Xalalkayada CRM",
+        "sub": "Keeno khibradaha macmiilka ee ku xidhan, la gaaryeelay, iyo caqliga leh ee safarka macmiilka oo dhan.",
+        "promoTitle": "Xidh heshiisyo badan",
+        "promoText": "Ku xooji iibintaada iyo kooxaha taageerada xogta macaamiisha midaysan iyo automation caqli leh.",
+        "items": [
+          {
+            "title": "Maareynta Adeegga Macmiilka",
+            "description": "Ku wanaaji taageerada macmiilka leh xallin degdeg ah, is-adeegga, iyo socodka shaqada ee caqliga leh."
+          },
+          {
+            "title": "Automation Iibka",
+            "description": "Si otomaatig ah u samee hawlaha iibka, maamul hoggaanka, oo ka caawi kooxaha inay si dhakhso leh u xidhaan fursadaha."
+          },
+          {
+            "title": "Iibka & Maamulka Dalabka",
+            "description": "Hagaajinta safarka ka bilow hogaanka una hagaajiso aragtida dakhliga."
+          },
+          {
+            "title": "Maareynta Adeegga Goobta",
+            "description": "Kor u qaad hawlaha goobta, jadwalka, diritaanka, iyo wax soo saarka farsamada."
+          },
+          {
+            "title": "Maaraynta Khibrada Macmiilka",
+            "description": "Abuur khibrado aan kala go 'lahayn iyo kuwa la gaaryeelay meel kasta oo macaamiisha ah."
+          },
+          {
+            "title": "Falanqaynta iyo Aragtida CRM",
+            "description": "U rog xogta macmiilka fikrado la fulin karo si loo gaaro go'aamo ganacsi oo caqli badan."
+          },
+          {
+            "title": "Automation Marketing",
+            "description": "Olole toos ah, ka qayb qaadashada macaamiisha, iyo kobcinta hogaanka."
+          },
+          {
+            "title": "CRM-Awoodda AI",
+            "description": "Isticmaal otomaatig caqli leh iyo aragtiyaha AI si loo horumariyo wax soo saarka iyo ka qaybgalka macaamiisha."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Xalka HRMS",
+        "heading": "Xalkayaga HRMS",
+        "sub": "Ku xooji xooggaaga shaqada si caqli leh, isku dhafan, iyo xalal HR oo toos ah oo fududeeya maaraynta shaqaalaha oo wanaajiya khibradda goobta shaqada.",
+        "promoTitle": "Fududeeya Hawlaha HR",
+        "promoText": "Si otomaatig ah u samee socodka shaqada HR laga bilaabo qoritaanka ilaa hawlgabka oo leh qalab casri ah, shaqaale-koowaad.",
+        "items": [
+          {
+            "title": "Maaraynta Muhiimka ah ee HR",
+            "description": "Si hufan u maamul macluumaadka shaqaalaha, qaab-dhismeedka ururka, iyo hababka HR."
+          },
+          {
+            "title": "Maaraynta Mushaharka",
+            "description": "Mushahar otomaatig ah u samee, habaynta mushaharka, dhimista, iyo u hogaansanaanta."
+          },
+          {
+            "title": "Is-adeegga Shaqaalaha",
+            "description": "Sii shaqaalaha inay si fudud u helaan adeegyada HR, codsiyada, waraaqaha, iyo macluumaadka."
+          },
+          {
+            "title": "Imaanshaha & Maamulka Fasaxa",
+            "description": "Fududee raadraaca imaanshaha, ka tag codsiyada, saacadaha shaqada, iyo saacadaha shaqada."
+          },
+          {
+            "title": "Shaqaalaysiinta & Koritaanka",
+            "description": "Hagaajinta shaqaaleysiinta, maaraynta musharraxiinta, la-socoshada, iyo isku-dhafka shaqaalaha."
+          },
+          {
+            "title": "Maareynta Waxqabadka",
+            "description": "Deji yoolal, la soco waxqabadka, oo taageer horumarka joogtada ah ee shaqaalaha."
+          },
+          {
+            "title": "Barashada & Horumarinta",
+            "description": "Maamul barnaamijyada tababarka, horumarinta xirfadaha, iyo kobaca shaqaalaha."
+          },
+          {
+            "title": "Falanqaynta HR & Warbixinta",
+            "description": "U rog xogta xoogga shaqaalaha fikrado la fulin karo si loo gaaro go'aannada HR ee wanaagsan."
+          },
+          {
+            "title": "Automation-ka HR ee ku shaqeeya AI",
+            "description": "Si otomaatig ah u samee hawlaha HR ee soo noqnoqda oo bixi si dhakhso leh, khibradaha shakhsi ahaaneed ee shaqaalaha."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Horumarinta App-ka",
+        "heading": "Adeegyada Horumarinta App-kayaga",
+        "sub": "Dhis codsiyo sugan, la cabbiri karo, iyo waxqabad sarreeya kuwaas oo dardargeliya kobaca ganacsiga oo fududeeya hababka adag.",
+        "promoTitle": "Dhis Isticmaalayaasha Apps-ka Jecel",
+        "promoText": "Laga bilaabo fikradda ilaa bilawga, kooxdayadu waxay naqshadeeyaan oo horumariyaan codsiyada mobilada iyo shabakada tayada sare leh ee cabbiraya.",
+        "items": [
+          {
+            "title": "Horumarinta Codsiga Gaarka ah",
+            "description": "Dhis codsiyo ku habboon oo loo qaabeeyey shuruudaha ganacsigaaga gaarka ah."
+          },
+          {
+            "title": "Horumarinta App-ka Shabakadda & Mobaylka",
+            "description": "Keeni waayo-aragnimada dhijitaalka ah ee aan kala go 'lahayn ee shabakada, moobilka, iyo aaladaha badan."
+          },
+          {
+            "title": "Horumarinta Codsiga Ganacsiga",
+            "description": "Samee xalal la qiyaasi karo kuwaas oo ku dhex milmay nidaamyada ganacsi ee jira."
+          },
+          {
+            "title": "Koodh-hoose & Kobcinta Koodh-la'aan",
+            "description": "Dardar gelinta gudbinta arjiga oo leh aalado horumarineed oo kood hooseeya oo dabacsan."
+          },
+          {
+            "title": "API & Is-dhexgalka Nidaamka",
+            "description": "Ku xidh arjiyada, aaladaha, iyo nidaamyada qolo saddexaad ee socodka xogta aan kala go 'lahayn."
+          },
+          {
+            "title": "Casriyeynta Codsiga",
+            "description": "U beddel codsiyada dhaxalgalka ah una beddelo xalal casri ah, la cabbiri karo, oo hufan."
+          },
+          {
+            "title": "Codsiyada ku shaqeeya AI",
+            "description": "Isku dhafka AI, automation-ka, iyo awoodaha caqliga leh ee codsiyada ganacsiga."
+          },
+          {
+            "title": "Taageerada Codsiga & Dayactirka",
+            "description": "Hubi waxqabadka joogtada ah, amniga, cusboonaysiinta, iyo kalsoonida."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Automation-ka Ganacsiga",
+    "cloudMigrations": "Socdaalkii daruuraha",
+    "dataCenters": "Xarumaha Xogta",
+    "cognitiveAnalyticsAi": "Falanqaynta garashada & AI",
+    "informationReportingSystems": "Macluumaadka & Nidaamyada Warbixinta",
+    "managedServices": "Adeegyada la maamulay",
+    "oneStopSolutions": "Hal-Stop Xalka"
+  },
+  "servicePage": {
+    "serviceOverview": "Dulmarka Adeegga",
+    "whatWeOffer": "Waxa aanu bixinayno",
+    "whyChooseRezonants": "Maxaad u dooratay rezonants",
+    "benefitsOfWorking": "Faa'iidooyinka nala shaqaynta",
+    "techStack": "Qalabka Tiknoolajiyada",
+    "technologiesWeUse": "Farsamooyinka aynu isticmaalno",
+    "ourWork": "Shaqadayada",
+    "relatedProjects": "Mashaariicda la xidhiidha",
+    "viewCaseStudy": "Eeg daraasadda",
+    "readyToDiscuss": "Diyaar ma u tahay inaad ka hadasho mashruucaaga {{title}}?",
+    "seniorEngineersReady": "Injineeradayada sare waxay diyaar u yihiin inay kaa caawiyaan qorsheynta, naqshadeynta, iyo dhisidda xalkaaga.",
+    "startProject": "Bilow mashruucaaga",
+    "howItWorks": "Siday u shaqeyso"
+  },
+  "consultation": {
+    "badge": "Buug la-tashi bilaash ah",
+    "title": "Aynu Qorsheyno Mashruucaaga <span class='hero-accent'>wadajir</span>",
+    "description": "La qabso la-taliyeyaasheenna ballan-qaad la'aan. Kala hadal shuruudahaaga, sahamiso habka saxda ah ee farsamada oo hel xigasho cad - dhammaan wax ka yar 30 daqiiqo.",
+    "bookSlot": "Book Your Slot",
+    "howItWorks": "sida ay u shaqeyso",
+    "accountRequired": "Koontada Loo Baahan Yahay",
+    "signInToBook": "Soo gal si aad u qabsato la-tashigaaga",
+    "accountRequiredText": "Waxaad u baahan doontaa akoon Rezonants si aad u codsato la tashi Saxeex ama samee mid - waxay qaadanaysaa wax ka yar hal daqiiqo.",
+    "signInToContinue": "Soo gal si aad u sii wadato",
+    "newToRezonants": "Ku cusub rezonants?",
+    "createAccount": "Abuur akoon",
+    "requestMeeting": "Codso kulan",
+    "tellUsAboutProject": "Wax nooga sheeg Mashruucaaga",
+    "fillDetails": "Buuxi faahfaahintaada waxaanu ku xaqiijin doonaa booska la-tashigaaga email ahaan.",
+    "fullName": "Magaca buuxa *",
+    "email": "Iimayl *",
+    "phone": "Taleefanka *",
+    "company": "Shirkadda",
+    "serviceOfInterest": "Adeegga Danaynta *",
+    "selectService": "Dooro adeeg...",
+    "preferredDate": "Taariikhda la door biday *",
+    "preferredTime": "Waqtiga la door biday *",
+    "selectTimeSlot": "Dooro wakhti go'an…",
+    "estimatedBudget": "Miisaaniyadda la qiyaasay",
+    "selectRange": "Dooro kala duwan...",
+    "projectRequirements": "Shuruudaha Mashruuca",
+    "booking": "Boos...",
+    "bookFreeConsultation": "Buug la tashigayga bilaashka ah",
+    "freeNote": "100% bilaash ah oo aan waajib ahayn. Caadi ahaan waxaanu kaga jawaabnaa 24 saacadood gudahood.",
+    "whatToExpect": "Maxaa la filayaa",
+    "preferToReachUs": "Ma door bidaysaa inaad si toos ah noogu soo gaadho?",
+    "callUs": "Na soo wac",
+    "emailUs": "Email noogu soo dir",
+    "visitUs": "Na soo booqo",
+    "whyBookWithUs": "Waa maxay sababta nala buuga",
+    "freeCallTitle": "Wicitaan bilaasha ah oo runtii wax taraysa",
+    "freeCallNoPressure": "Wicitaan bilaash ah, Cadaadis la'aan",
+    "freeCallNoPressureText": "La tashi kasta oo hore waa bilaash. Ma jiro wax waajib ah in la iibsado - kaliya talo daacad ah.",
+    "seniorConsultants": "La-taliyayaasha Sare Keliya",
+    "seniorConsultantsText": "Kulankaaga waxaa hogaaminaya injineero sare iyo la-taliyeyaal u dhisa nolol-maalmeed.",
+    "clearTimelines": "Nadiifi Jadwalka & Xigashooyinka",
+    "clearTimelinesText": "Ka tag tallaabada xigta ee qeexan, wakhtiga dhabta ah iyo qiimaha daah-furnaanta mashruucaaga.",
+    "services": {
+      "customSoftware": "Horumarinta Software-ka gaarka ah",
+      "webMobile": "Horumarinta App-ka Shabakadda & Mobaylka",
+      "cloudDevops": "Cloud & DevOps Solutions",
+      "aiMl": "AI & Barashada Mashiinnada",
+      "itConsulting": "La-talinta IT-ga",
+      "digitalMarketing": "Suuqgeynta Dijital ah & SEO",
+      "erpSolutions": "Xalka ERP",
+      "other": "Mid kale / Wali lama hubo"
+    },
+    "budgets": {
+      "under1L": "Ka hooseeya ₹1L",
+      "1to5L": "₹1L - 5L",
+      "5to10L": "₹5L - 10L",
+      "above10L": "₹ 10L+",
+      "notDecided": "Weli lama go'aansan"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Faham yoolalkaaga",
+        "text": "Horta waanu dhegaysanaynaa. Wicitaan 30-daqiiqo ah si aad u sawirto baahiyahaaga ganacsi, dhagaystayaasha iyo natiijooyinka aad rabto."
+      },
+      "technicalDirection": {
+        "title": "Hel jihada farsamada",
+        "text": "Injineeradayadu waxay wadaagaan qaab-dhismeedka saxda ah, xidhmooyin iyo habka saxda ah ee mashruucaaga."
+      },
+      "clearQuote": {
+        "title": "Qaado hadal cad",
+        "text": "Ku soco adiga oo leh qiyaas hufan, waqti iyo tillaabooyinka xiga - waajib ma leh."
+      }
+    },
+    "validation": {
+      "nameRequired": "Magac buuxa ayaa loo baahan yahay.",
+      "emailRequired": "Iimayl ayaa loo baahan yahay.",
+      "emailInvalid": "Geli iimaylka saxda ah.",
+      "phoneRequired": "Lambarka taleefanka ayaa loo baahan yahay.",
+      "phoneInvalid": "Geli nambar telefoon sax ah.",
+      "serviceRequired": "Fadlan door adeeg",
+      "dateRequired": "Dooro taariikhda la door bidayo.",
+      "timeRequired": "Dooro wakhtiga la door biday.",
+      "messageTooShort": "Ku dar faahfaahin yar oo dheeri ah (ugu yaraan 10 xaraf).",
+      "signInRequired": "Fadlan saxiix si aad u qabsato la-tashigaaga.",
+      "couldNotBook": "Ma qabsan kari wayday la-tashigaada. Hubi in miiska wada-tashiga uu jiro, ka dibna isku day mar kale.",
+      "bookedSuccess": "La-tashiga waa la ballansan yahay! Kooxdayadu waxay ku xaqiijin doonaan wakhtigaaga emaylka wax yar ka dib."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Soo Dhawoow",
+    "createAccount": "Abuur Account",
+    "forgotPassword": "Furaha la ilaaway",
+    "createNewPassword": "Samee Password Cusub",
+    "welcomeBackDesc": "Gal akoonkaaga rezonants.",
+    "createAccountDesc": "Ku biir Teknoolojiyadda Rezonants maanta.",
+    "forgotDesc": "Geli iimaylkaga waxa aanu kuu soo diri doonaa xidhiidh aad dib ugu dejiso eraygaaga sirta ah.",
+    "recoveryDesc": "Dooro eraygaaga sirta ah oo cusub.",
+    "fullName": "Magaca oo buuxa",
+    "email": "Iimayl",
+    "password": "Furaha",
+    "newPassword": "Password Cusub",
+    "confirmPassword": "Xaqiiji erayga sirta ah",
+    "confirmNewPassword": "Xaqiiji erayga sirta ah ee cusub",
+    "forgotPasswordLink": "Ma illowday erayga sirta ah?",
+    "privacyPolicy": "Waan aqbalay Rezonants <1>Qorshaha iyo Amniga</1> siyaasada.",
+    "sendResetLink": "Dir isku xidhka dib u dajinta",
+    "signIn": "Soo gal",
+    "signUp": "Isdiiwaangeli",
+    "pleaseWait": "Fadlan sug…",
+    "rememberedPassword": "Ma xasuusatay eraygaaga sirta ah?",
+    "signInLink": "Soo gal",
+    "noAccount": "Xisaab ma leedahay?",
+    "signUpLink": "Isdiiwaangeli",
+    "hasAccount": "Durba xisaab ma leedahay?",
+    "changedMind": "Ma baddashay maskaxdaada?",
+    "backToSignIn": "Ku laabo si aad u soo gasho",
+    "resetSent": "Isku xirka dib u habeynta erayga sirta ah ayaa la diray! Hubi iimaylkaga si aad u abuurto furaha sirta ah ee cusub.",
+    "passwordUpdated": "Furahaaga sirta ah waa la cusboonaysiiyay. Ku gal eraygaaga sirta ah ee cusub",
+    "accountCreated": "Akoonka la sameeyay! Hubi iimaylkaga si aad u xaqiijiso is-diiwaangelintaada, ka dibna soo gal",
+    "validation": {
+      "fullNameRequired": "Magac buuxa ayaa loo baahan yahay.",
+      "emailRequired": "Iimayl ayaa loo baahan yahay.",
+      "emailInvalid": "Geli iimaylka saxda ah.",
+      "passwordRequired": "Furaha ayaa loo baahan yahay.",
+      "passwordMinLength": "Password waa in uu ahaado ugu yaraan 6 xaraf.",
+      "passwordsNoMatch": "Ereyada sirdoonku isma dhigmaan.",
+      "acceptTerms": "Fadlan aqbal Siyaasadda Khaaska ah ee Rezonants iyo Siyaasadda Ammaanka si aad u sii waddo."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "La hadal Rezonants AI",
+    "openChatLabel": "Fur Rezonants AI Assistant chat",
+    "chatTitle": "Rezonants AI Kaaliyaha",
+    "online": "Online",
+    "expandLabel": "Balaadhi chatbot-ka",
+    "minimizeLabel": "Yaree chatbot-ka",
+    "closeLabel": "Xidh chatbot-ka",
+    "expand": "Kordhi",
+    "minimize": "Yaree",
+    "close": "Xir",
+    "popularTopics": "Mowduucyada caanka ah",
+    "askPlaceholder": "I waydii Rezonants...",
+    "messageLabel": "Fariin kaaliyaha Rezonants AI",
+    "sendLabel": "Dir fariin",
+    "sendTitle": "Dir fariin",
+    "enterToSend": "Geli si aad u dirto · Shift+ Geli khad cusub",
+    "newChat": "Sheeko cusub",
+    "typing": "rezonants AI ayaa qoraya",
+    "menuOptions": "Xulashada liiska",
+    "greetingMorning": "Subax wanaagsan",
+    "greetingAfternoon": "galab wanaagsan",
+    "greetingEvening": "Habeen wanaagsan",
+    "welcomeText": "! 👋 Ku Soo Dhawoow Rezonants.\nWaxaan ahay Rezonants AI Kaaliyaha. Waxaan kaa caawin karaa inaad sahamiso adeegyadayada, tignoolajiyada, iyo macluumaadka xidhiidhka."
+  },
+  "cookieConsent": {
+    "title": "Waanu qiimaynaa sirtaada",
+    "description": "Waxaan isticmaalnaa cookies si aan u wanaajino khibradaada wax raadinta. Waad aqbali kartaa dhammaan cookies-ka, diidi kartaa cookies-ka aan muhiimka ahayn, ama aad habayn kartaa dookhyadaada. Kukiyada muhiimka ah ayaa had iyo jeer la awood si loo hubiyo in shabakada si sax ah u shaqeyso.",
+    "acceptAll": "Aqbal dhammaan",
+    "rejectNonEssential": "Diid Aan Muhiim ahayn",
+    "managePreferences": "Maamul dookhyada",
+    "privacyPolicy": "Siyaasadda Qarsoonnimada"
+  },
+  "cookiePreferences": {
+    "title": "Maamul Dookhyada Kukiyada",
+    "description": "Dooro qaybaha buskudka aad ogolanayso. Kukiyada muhiimka ah ayaa weli awood u leh si ay u sii shaqeeyaan mareegaha",
+    "essential": "Muhiim",
+    "essentialDesc": "Loo baahan yahay si uu website-ku u shaqeeyo (xaqiijinta, amniga, isu dheelitirka culeyska). Kuwaas lama naafo.",
+    "analytics": "Falanqaynta",
+    "analyticsDesc": "Naga caawi fahamka sida booqdayaashu u isticmaalaan goobta si aan u horumarino. Naafo si caadi ah",
+    "marketing": "Suuqgeynta",
+    "marketingDesc": "Loo isticmaalay in lagu tuso dalabyo iyo ololeyaal khuseeya. Naafo si caadi ah",
+    "cancel": "Jooji",
+    "savePreferences": "Keydi Dookhyada"
+  },
+  "privacy": {
+    "badge": "Sharci",
+    "title": "Siyaasadda Qarsoonnimada",
+    "description": "Sida Rezonants u ururiso, u isticmaasho oo u ilaaliso macluumaadkaaga shakhsiyeed iyo cookies",
+    "lastUpdated": "Markii u dambaysay ee la cusboonaysiiyay: Ogosto 2026",
+    "managingPreferences": "Maaraynta dookhyadaada",
+    "managingPreferencesDesc": "Waxaad dib u eegis ku samayn kartaa ama ka beddeli kartaa cookies-ka aad u ogolaato wakhti kasta guddida doorbidida buskudka.",
+    "manageCookiePreferences": "Maamul Dookhyada Kukiyada",
+    "section1": {
+      "title": "1. Akhbaar aan ururino",
+      "body": [
+        "Waxaan aruurineynaa macluumaadka aad si toos ah u bixiso (sida magacaaga iyo cinwaanka iimaylkaaga marka aad soo gudbiso foomka xiriirka ama aad sameysatid xisaab) iyo macluumaadka si toos ah looga aruuriyo cookies iyo teknoolojiyada la midka ah, sida boggaga la booqday, nooca aaladda iyo goobta ku dhow."
+      ]
+    },
+    "section2": {
+      "title": "2. Sida aan u isticmaalno Kukiyada",
+      "body": [
+        "Kukiyada lama huraanka ah mar walba waa la damqadaa sababtoo ah mareegaha si sax ah uma shaqeyn karo la'aantood. Waxay kaydiyaan fadhiga iyo xaalada sugida waxayna xasuusan yihiin dookhyadaada buskudka.",
+        "Kukiyada falanqaynta ayaa naga caawiya fahamka sida booqdayaashu u isticmaalaan goobta si aan u horumarin karno. Kukiyada suuq-geynta ayaa loo adeegsadaa si ay kuu tusaan dalabyo iyo ololeyaal khuseeya. Qaybahan waxa kaliya oo lagu suurtageliyay ogolaanshahaaga waxaana laga bedeli karaa wakhti kasta guddiga doorbidida buskudka."
+      ]
+    },
+    "section3": {
+      "title": "3. Saldhig Sharci (GDPR)",
+      "body": [
+        "Waxaanu ku shaqaynaa xogta shakhsi ahaaneed ee saldhigyada sharciga ah ee soo socda: oggolaanshahaaga (kuukiiska aan muhiimka ahayn iyo suuq-geynta), fulinta qandaraaska (adeegyada aad codsato), waajibaadka sharciga ah, iyo danaha sharciga ah halka xuquuqahaagu aanay ka hor imanayn. Waxaad ka noqon kartaa ogolaanshaha wakhti kasta adiga oo aan saameyn ku yeelan sharcinimada habraaca la sameeyay ka hor ka noqoshada."
+      ]
+    },
+    "section4": {
+      "title": "4. Xuquuqdaada",
+      "body": [
+        "Iyadoo ku xiran goobtaada, waxaad xaq u yeelan kartaa inaad gasho, saxdo, tirtirto, ama xaddido habaynta xogtaada shakhsiyeed, inaad diido habaynta, iyo qaadista xogta. Waxa kale oo aad ashtako u gudbin kartaa maamulka maaraynta deegaankaaga."
+      ]
+    },
+    "section5": {
+      "title": "5. Haynta Xogta & Amniga",
+      "body": [
+        "Waxaan haynaa xogta shakhsiyeed kaliya ilaa inta lagama maarmaanka u ah ujeedooyinka lagu sifeeyay siyaasaddan. Waxaanu ku dabaqnaa tilaabooyin farsamo iyo mid urureed oo munaasib ah si aanu macluumaadkaaga uga ilaalino galitaanka, beddelka, siidaynta ama burburinta aan la ogolayn."
+      ]
+    },
+    "section6": {
+      "title": "6. Adeegyada Xisbiga Saddexaad",
+      "body": [
+        "Qaar ka mid ah cookies-ka ayaa laga yaabaa inay dejiyaan bixiyeyaasha dhinac saddexaad (sida falanqaynta ama aaladaha xayaysiinta) ee naga caawiya hawlgalinta shabakada. Bixiyeyaashani waxay ku shaqeeyaan xogta iyagoo raacaya siyaasadahooda gaarka ah iyo kaliya markaad ogolaato qaybta khuseeya."
+      ]
+    },
+    "contactUs": "7. Nala soo xidhiidh",
+    "contactUsText": "Su'aalaha ku saabsan siyaasaddan ama xogtaada khaaska ah, nagala soo xidhiidh <1>info@rezonants.com</1> ama wac <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Adeegyada",
+    "title": "Adeegyadayada",
+    "sub": "Dhammaadka-ilaa-dhamaadka teknoolojiyadda xalal loogu talagalay in lagu caawiyo ganacsiyada inay hal-abuuraan, cabbiraan, oo guuleystaan.",
+    "learnMore": "Wax badan baro",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Bilowgii Hawlgelinta",
+        "text": "Laga soo bilaabo fikradda bilowga ah ilaa soo saarista wax soo saarka, waxaanu bixinaa xalal la qiyaasi karo oo loo dhisay baahiyaha ganacsi ee dhabta ah."
+      },
+      "businessProcessAutomation": {
+        "title": "Habka Ganacsiga Automation",
+        "text": "Hagaajinta hababka soo noqnoqda oo wanaaji hufnaanta hawlgelinta iyada oo loo marayo automation ganacsi oo caqli leh."
+      },
+      "centerOfExcellence": {
+        "title": "Xarunta Wanaagga",
+        "text": "Dhis awoodaha tignoolajiyada gaarka ah iyo khibrad si aad u dhaqaajiso hal-abuurnimo, tayo, iyo horumar joogto ah."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Horumarinta Gaarka ah & Habaynta",
+        "text": "Xalalka kombuyuutarrada ee habaysan ee loo qaabeeyey shuruudaha ganacsigaaga gaarka ah iyo socodka shaqada."
+      },
+      "digitalTransformation": {
+        "title": "Isbeddelka Dijital ah",
+        "text": "Ku cusboonaysii ganacsigaaga xeelado dhijitaal ah, teknooloji, iyo xalal abuura saamayn la qiyaasi karo."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Qaab-dhismeedka Xalka Dhamaadka-ilaa-Dhamaadka",
+        "text": "Xalka teknoolajiyada isku dhafan ee isku xidha istaraatiijiyada, horumarinta, fulinta, iyo hawlgallada socda."
+      },
+      "migrationModernization": {
+        "title": "Tahriibka & Casriyeynta",
+        "text": "Casriyeynta arjiyada dhaxalka ah una haajiraan nidaamyada si loo helo goobo tignoolajiyadeed la cabbiri karo, sugan oo hufan."
+      },
+      "pocPilotImplementation": {
+        "title": "Caddaynta Fikradda (PoC) & Hirgelinta Tijaabada",
+        "text": "Si dhakhso leh u xaqiiji fikradaha iyada oo loo marayo hab-dhaqameedyo diiradda lagu saarayo iyo hirgelinta tijaabada ka hor inta aan si buuxda loo dirin."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Adeegyada La Wadaago & Hawlgallada la Maamulo",
+        "text": "Hawlgallo teknoloji oo la maareeyay oo la isku halayn karo oo wanaajisa waxqabadka, miisaanka, iyo sii wadida ganacsiga."
+      }
+    }
+  },
+  "footer": {
+    "company": "Shirkadda",
+    "about": "Ku saabsan",
+    "perspectives": "Aragtida",
+    "technologies": "Farsamooyinka",
+    "contact": "La xidhiidh",
+    "services": "Adeegyada",
+    "getInTouch": "la xidhiidh",
+    "bookConsultation": "Buug wada tashi ah",
+    "copyright": "© {{year}} Rezonants. Dhammaan xuquuqaha way xifdiyeen",
+    "cookiePreferences": "Dookhyada Kukiyada",
+    "privacyPolicy": "Siyaasadda Qarsoonnimada",
+    "description": "Rezonants waa adeeg IT iyo shirkad wax soo saar dhijitaal ah oo ku taal Hyderabad, India. Waxaanu u qaabaynaa, u dhisnaa oo u cabbirnaa software-ka shirkadaha ku tartamaya fulinta.",
+    "locations": "Goobahayaga",
+    "indiaHq": "Hyderabad, India - Xarunta Dhexe ee Hindiya",
+    "southAfrica": "Koonfur Afrika - REZONANTS PVT LTD",
+    "products": "Alaabta",
+    "followUs": "na raac",
+    "aboutUs": "xaggayaga",
+    "contactUs": "Nala soo xidhiidh",
+    "headline": "Aan dhisno",
+    "headlineAccent": "maxaa xiga.",
+    "subheadline": "La wadaag Teknoolojiyadda Rezonants si fikradaha loogu beddelo saameyn ganacsi oo dhab ah.",
+    "credoIdeas": "RA'YIGA",
+    "credoSolutions": "XAL",
+    "credoPeople": "DAD",
+    "credoBrighterTomorrow": "BERIYO NOLOL",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Koonfur Afrika – REZONANTS PVT LTD",
+    "termsOfUse": "Shuruudaha Isticmaalka",
+    "accessibility": "Helitaanka",
+    "quickLinks": "Xiriirinta Degdegga ah",
+    "explore": "Baadh",
+    "vijayawadaOffice": "Xafiiska Vijayawada",
+    "allRightsReserved": "Dhammaan xuquuqaha way xifdiyeen.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Koonfur Afrika"
+  },
+  "common": {
+    "loading": "Soodejinaya...",
+    "error": "Khalad",
+    "retry": "Isku day",
+    "close": "Xir",
+    "backToTop": "Kor ugu laabo",
+    "skipToContent": "U bood nuxurka",
+    "scroll": "Duubista",
+    "whatWeOffer": "Waxa aanu bixino",
+    "howItWorks": "Sida ay u shaqeyso"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Raadi waddan ama kood…",
+    "noResults": "Wadamo lama helin.",
+    "countryCodeLabel": "Koodhka wacitaanka waddanka",
+    "required": "Lambarka taleefanka ayaa loo baahan yahay.",
+    "incomplete": "Lambarka talefanku waa inuu ka kooban yahay {{count}} lambar.",
+    "tooLong": "Lambarka talefanku kama koobnaan karo wax ka badan {{count}} lambar",
+    "invalid": "Geli nambar taleefoon sax ah {{country}}."
+  },
+  "perspectives": {
+    "topic": "Mawduuca:",
+    "published": "La daabacay:",
+    "readingTime": "Waqtiga Akhriska:",
+    "author": "Qore:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Aagga Tignoolajiyada",
+    "purpose": "Ujeedo",
+    "talkToExperts": "La hadal khubaradayada",
+    "viewAll": "Eeg dhammaan aragtiyaha",
+    "exploreMore": "SAHAMI ARAGTIYO BADAN",
+    "continueExploring": "Sii wad Sahanka Aragtida Tignoolajiyada Ganacsiga",
+    "readPerspective": "Aragtida Akhriska"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotics Solutions",
+      "tagline": "Farsamada caqliga leh. Hawlgallada otomaatiga ah. Ganacsi caqli badan.",
+      "heroBadge": "Nidaamyada Madax-bannaan ee caqliga leh",
+      "overview": [
+        "Sirdoonka Artificial iyo Robotics ayaa wax ka beddelaya habka ay ururadu u shaqeeyaan, go'aannada u gaadhaan, oo ay qiimeeyaan. Xalalkayada AI & Robotics-ka waxay ka caawiyaan ganacsiyada inay ka gudbaan otomaatig dhaqameedka iyagoo isku daraya sirdoonka macmal, barashada mashiinka, aragga kumbuyuutarka, farsamaynta habka caqliga leh, iyo robotics si loo xalliyo caqabadaha ganacsi ee la taaban karo.",
+        "Waxaan naqshadeynaa xalal caqli-gal ah oo ku wareegsan natiijooyinka ganacsi ee la cabbiri karo. Haddi shuruudu ay tahay otomaatig u samaynta shaqada soo noqnoqota, falanqaynta tiro badan oo macluumaad ah, ogaanshaha qaababka, go'aamada taageeraya, ama soo bandhigida robotyada jawiyada shaqada, habkayagu waxa uu diiradda saarayaa isku halaynta, miisaannaanta, amniga, iyo qiimaha ganacsiga ee mustaqbalka fog."
+      ],
+      "transformation": [
+        "Ururada casriga ahi waxay soo saaraan xog aad u tiro badan waxayna qabtaan kumanaan hawlo oo soo noqnoqda maalin kasta. AI iyo robotics-ku waxay u bedeli karaan waxqabadyadan si caqli-gal ah, qulqulo shaqo oo toos ah oo hagaajiya wax soo saarka iyada oo u oggolaanaysa shaqaalaha inay diiradda saaraan mas'uuliyadaha qiimaha sare leh.",
+        "Xalkeennu waxa uu ka caawin karaa ururrada in ay toos u sameeyaan hawlgallada soo noqnoqda, yaraynta faragelinta buug-gacmeedka, hagaajinta saxnaanta, falanqaynta macluumaadka adag, taageer go'aannada degdegga ah, kor u qaadida ka faa'iidaysiga kheyraadka, kor u qaadida khibradaha macaamiisha, iyo dhisidda nidaamyo caqli-gal ah."
+      ],
+      "capabilities": [
+        {
+          "title": "Sirdoonka Artificial",
+          "desc": "Waxaan horumarinaa xalal AI ay wado oo awood u siinaya nidaamyada inay fahmaan macluumaadka, aqoonsadaan qaababka, abuuraan fikrado, iyo taageeraan go'aamada ganacsiga."
+        },
+        {
+          "title": "Barashada Mashiinka",
+          "desc": "Waxaan horumarinaa moodooyinka barashada mashiinka ee saadaalinta, kala-soocidda, nidaamyada talada, ogaanshaha cilladaha, falanqaynta saadaalinta, iyo taageerada go'aannada caqliga leh."
+        },
+        {
+          "title": "Habaynta Luuqadda Dabiiciga ah",
+          "desc": "NLP waxa loo isticmaali karaa in lagu habeeyo dukumeentiyada, fahamka qoraalka, kala soocida macluumaadka, soo saarida nuxurka khuseeya, iyo taageerada codsiyada wada hadalka."
+        },
+        {
+          "title": "Aragtida Computerka",
+          "desc": "Xalalka aragga kombuyuutarku waxay taageeri karaan kala-soocidda sawirka, ogaanshaha shayga, hubinta tayada, habaynta dukumentiga, kormeerka muuqaalka, iyo falanqaynta muuqaalka."
+        },
+        {
+          "title": "Robotics",
+          "desc": "Robotics-ku waxay isku daraan sirdoonka softiweerka iyo nidaamyada jireed si ay u habeeyaan dhaqdhaqaaqyada dhaqan ahaan u baahan dadaalka gacanta. Codsiyada waxaa ka mid noqon kara wax soo saarka, saadka, bakhaarka, kormeerka, maaraynta alaabta, iyo taageerada hawlgalka."
+        },
+        {
+          "title": "Habka Automation-ka ee caqliga leh",
+          "desc": "AI waxaa lagu dari karaa otomaatigga socodka shaqada si loo abuuro nidaamyo fasiraadda macluumaadka, dabaqa xeerarka ganacsiga ama moodooyinka, oo si toos ah u bilaabo habka ku habboon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Qiimaynta Ganacsiga",
+        "Falanqaynta Xogta",
+        "Istaraatiijiyada AI",
+        "Dhismaha Xalka",
+        "Horumarinta",
+        "Is-dhexgalka",
+        "Imtixaanka",
+        "Hawlgelinta",
+        "Kormeerka",
+        "Hagaajinta"
+      ],
+      "benefits": [
+        "Wax soo saarka hawl-galka ganacsiga sare",
+        "Hoos u dhac weyn oo ku yimid kharashyada hawlgalka",
+        "Habayn degdeg ah iyo soo jeedin go'aan millisecond",
+        "Xogta la hagaajiyay iyo saxnaanta socodka shaqada",
+        "La wanaajiyey ka faa'iidaysiga kheyraadka jirka iyo xisaabinta",
+        "Khatarta hawleed ee la dhimay iyo khaladka aadanaha",
+        "Miisaan-qaadista madal-badan oo aan kala go 'lahayn",
+        "Macmiil iyo khibrad shaqaale oo la wanaajiyey"
+      ],
+      "security": "Xalalka AI ee ganacsiga waa in loo qaabeeyaa iyada oo leh ilaalin ku habboon, kontaroolada gelitaanka, ilaalinta xogta, la socodka, qaabka maamulka, iyo ilaalinta hawlgalka. Waxaan tixgelineynaa shuruudahan laga soo bilaabo marxaladda dhismaha iyada oo loo marayo dejinta iyo dayactirka joogtada ah si loo hubiyo in la isku halleyn karo, sirdoonka heerka-soo-saarka.",
+      "ctaHeadline": "Dhis mustaqbal caqli leh",
+      "ctaSub": "Ka dhig hawlahaaga kuwo caqli badan. Si otomaatig ah u samee waxa muhiimka ah. U dhis mustaqbalka."
+    },
+    "business-automation-solutions": {
+      "title": "Xalka Automation-ka Ganacsiga",
+      "tagline": "Habsocodyada la fududeeyo. Baabi'in ku celcelinta. Dardar gelinta Kobaca",
+      "heroBadge": "Dhammaadka-ilaa-Dhammaadka Hagaajinta socodka shaqada",
+      "overview": [
+        "Automation-ka ganacsigu waxa uu u sahlayaa hay'adaha in ay ku beddelaan hawlaha gacanta ee soo noqnoqda iyagoo adeegsanaya socodka shaqada ee dhijitaalka ah oo la habeeyey. Xalalka otomaatiga ah ee ganacsigeena waxay ka caawiyaan shirkadaha inay horumariyaan wax soo saarka, yareeyaan kakanaanta shaqada, yareeyaan khaladaadka, iyo abuurista habab joogto ah dhammaan waaxyaha.",
+        "Waxaan falanqeyneynaa socodka shaqada ee jira, waxaan aqoonsaneynaa caqabadaha, iyo naqshadeynta xalalka iswada ee isku xira dadka, codsiyada, xogta, iyo hababka ganacsiga."
+      ],
+      "transformation": [
+        "Ururo badan ayaa wali ku tiirsan xaashida xaashida, iimaylada, oggolaanshaha gacanta, gelida xogta soo noqnoqota, maaraynta dukumentiyada, iyo codsiyada go'ay. Nidaamyadani waxay lumiyaan waqti shaqaale oo qiimo leh waxayna soo bandhigi karaan dib u dhac, iswaafaqla'aan, iyo khaladaad.",
+        "Habka automation-kayaga waxa uu diiradda saarayaa fahamka hannaanka dhammaystiran, ka saarida tillaabooyinka aan loo baahnayn, isku-dhafka nidaamyada, iyo toosinta hawlaha bixiya qiimaha ugu sarreeya ee hawlgalka."
+      ],
+      "capabilities": [
+        {
+          "title": "Automation socodka shaqada",
+          "desc": "Waxaan si otomaatig ah u samaynaa habab dhowr tallaabo ah oo ay ku lug leeyihiin shaqaalaha, codsiyada, oggolaanshaha, ogeysiinta, iyo xogta qaybaha kala duwan."
+        },
+        {
+          "title": "Habka Automation-ka ee Robotic",
+          "desc": "Bots Software-ku waxay qaban karaan soo noqnoqoshada, hawlaha qaanuunka ku salaysan sida gelida xogta, nidaamka cusboonaysiinta, dib-u-heshiisiinta, iyo wareejinta macluumaadka."
+        },
+        {
+          "title": "Automation Document",
+          "desc": "Qulqulka shaqada dukumeenti toos ah ayaa soo saari kara macluumaadka, xaqiijin kara xogta, kala saari kara dukumeentiyada, codsiyada dariiqa, oo bilaabi kara hababka hoose."
+        },
+        {
+          "title": "Automation Oggolaanshaha",
+          "desc": "Oggolaanshaha dhijitaalka ah ee socodka shaqada ayaa si toos ah u jiheeya codsiyada go'aamiyeyaasha saxda ah oo bixiya muuqaalka wakhtiga dhabta ah ee ficilada la sugayo."
+        },
+        {
+          "title": "Is-dhexgalka Automation",
+          "desc": "Waxaan isku xireynaa codsiyada ganacsiga si akhbaartu ay si toos ah ugu dhex socoto goobaha iyada oo aan loo baahnayn faragelin gacanta ah."
+        },
+        {
+          "title": "Automation Ogaysiinta",
+          "desc": "Ogeysiisyada otomaatiga ah iyo ogeysiisyada waxay caawiyaan shaqaalaha inay isla markiiba uga jawaabaan dhacdooyinka muhiimka ah, waqtiyada kama dambaysta ah, ka reebanaanshaha, iyo isbeddellada hawlgalka."
+        }
+      ],
+      "lifecycleSteps": [
+        "Soo saar",
+        "Falanqee",
+        "Naqshadeynta",
+        "Si toos ah u samee",
+        "Isku-dhafka",
+        "Imtixaan",
+        "La geeyo",
+        "Kormeer",
+        "Hagaaji"
+      ],
+      "benefits": [
+        "Kordhinta wax-soo-saarka kooxda iyo xawaaraha hawlgalka",
+        "Hoos u dhac weyn oo ku yimid khaladaadka gelitaanka xogta gacanta",
+        "Geedi socodka dhamaadka-ilaa-dhamaadka oo la gaabiyay waqtiyada soo celinta",
+        "Muuqashada midaysan ee guud ahaan hawlaha ganacsiga",
+        "U hoggaansanaanta waaxeed ee la jaan-qaaday",
+        "Kharashaadka hawlgalka oo si weyn loo dhimay",
+        "Awood laastikada ah si loo cabbiro culeyska shaqada si aan dadaal lahayn",
+        "Kooxaha awoodda leh waxay diiradda saaraan ka-qaybgalka macaamiisha iyo shaqada istaraatiijiga ah"
+      ],
+      "security": "Waxaan isku daraynaa habab socodka shaqada iyo RPA oo wata moodallo caqli-gal ah oo xog-ogaal ah si loo hubiyo kontoroolka gelitaanka doorka-ku-saleysan, dariiqyada xisaabinta dhamaystiran, iyo u hoggaansanaanta adag ee macaamil kasta oo toos ah.",
+      "ctaHeadline": "Dhis Hawlo Hufan oo Dheeraad ah",
+      "ctaSub": "Si toos ah shaqada ugu celi Xooji dadkaaga. Dardar geli ganacsigaaga."
+    },
+    "cloud-migration-solutions": {
+      "title": "Xalka Socdaalka Cloud",
+      "tagline": "U dhaqaaq Daruuraha Kalsooni.",
+      "heroBadge": "Isbeddelka Darruur badan",
+      "overview": [
+        "Xisaabinta daruurtu waxay noqotay qayb muhiim ah oo ka mid ah kaabayaasha IT-ga casriga ah. Ururadu waxay u rarayaan codsiyada, xog ururinta, culayska shaqada, iyo kaabayaasha deegaanka daruuraha si ay u horumariyaan miisaan, helitaan, dabacsanaan, iyo hufnaan hawleed.",
+        "Adeegyada socdaalka daruuraha ayaa ka caawiya ururada inay qiimeeyaan deegaankooda hadda, qeexaan xeeladaha socdaalka, fulinta hijrada, oo kor u qaadaan culayska shaqada ka dib markay u guuraan daruuraha."
+      ],
+      "transformation": [
+        "hijrada daruurtu way ka badan tahay in server-yada laga wareejiyo deegaan una guuro deegaan kale. Socdaalka guusha leh wuxuu u baahan yahay in si taxadar leh loo qiimeeyo codsiyada, kaabayaasha, ku tiirsanaanta, shuruudaha amniga, xogta, waxqabadka, helitaanka, iyo sii wadida ganacsiga.",
+        "Waxaan abuurnaa xeelado socdaal oo ku salaysan deegaanka ururka ee hadda iyo ujeedooyinka mustaqbalka, anagoo dooranayna qaabka socdaalka ee ku habboon culays kasta oo shaqo."
+      ],
+      "capabilities": [
+        {
+          "title": "Socdaalka Kaabayaasha dhaqaalaha",
+          "desc": "Waxaan u haajiray server-yada dhaqameed, kaydinta, mashiinada farsamada, iyo culaysyada shaqada ee jawiyada daruuraha casriga ah ee AWS, Azure, iyo GCP."
+        },
+        {
+          "title": "Socdaalka Codsiga",
+          "desc": "Codsiyada dib ayaa loo habeyn karaa, dib loo habeyn karaa, dib loo habeyn karaa, ama dib ayaa loo habeyn karaa iyadoo ku xiran shuruudaha ganacsiga iyo farsamada."
+        },
+        {
+          "title": "Socdaalka Database",
+          "desc": "Waxaan u haajiray xogta xogta anagoo tixgelinayna daacadnimada xogta, waxqabadka, waafaqid, helitaan, amniga, iyo shuruudaha soo kabashada."
+        },
+        {
+          "title": "Casriyeynta daruuraha",
+          "desc": "Socdaalku waxa uu noqdaa fursad lagu casriyeeyo codsiyada iyada oo la adeegsanayo weelasha, adeegaha yar yar, kaydka xogta la maareeyay, adeegyada aan server lahayn, iyo naqshadaha daruuriga ah."
+        },
+        {
+          "title": "Darruur Isku-dhafan",
+          "desc": "Hay'adaha u baahan labadaba dhismaha iyo kaabayaasha daruuraha waxay qaadan karaan qaab-dhismeedyo isku-dhafan oo si aan kala go 'lahayn ugu xidha nidaamyada jira iyo adeegyada daruuraha."
+        },
+        {
+          "title": "Darruur badan",
+          "desc": "Hay'adaha ka hawlgala meelo badan oo daruuro ah, waxaanu ka caawinaa qaabaynta xeeladaha culayska shaqada ee hagaajiya dabacsanaanta, adkeysiga, iyo maamulka."
+        }
+      ],
+      "lifecycleSteps": [
+        "Qiimaynta",
+        "Daahfurka",
+        "Khariidaynta Ku-tiirsanaanta",
+        "Xeeladda Socdaalka",
+        "Naqshadeynta Dhismaha",
+        "Socdaalka duuliyaha",
+        "Socdaalka Xogta",
+        "Socdaalka Codsiga",
+        "Imtixaanka",
+        "Soo saarista Tahriibka",
+        "Hagaajinta"
+      ],
+      "benefits": [
+        "Miisaanka laastikada iyo helitaanka kheyraadka sare",
+        "Dabacsanaanta kaabayaasha aadka u weyn iyo firfircoonida ganacsiga",
+        "Meesha laga saaray culayska dayactirka xarunta xogta jirka",
+        "dardargelinta sifada codsiga",
+        "Soo kabasho adag oo musiibo ah iyo adkaysi u adkaysi",
+        "Helitaanka degdegga ah ee daruuraha casriga ah ee AI iyo adeegyada la maareeyey",
+        "Maamulka FinOps oo la hagaajiyay iyo dhimista TCO",
+        "U hogaansanaan joogto ah iyo ilaalin toos ah"
+      ],
+      "security": "Amnigu waa qayb ka mid ah qorshaynta socdaalka. Waxaan tixgelineynaa aqoonsiga iyo marin u helka, amniga shabakada, sirta gaadiidka iyo nasashada, ilaalinta xogta, xisaabinta nuglaanta arjiga, la socodka, kaabta, iyo soo kabashada musiibada.",
+      "ctaHeadline": "Socdaalkaaga Daruuraha ah, si sax ah loo qorsheeyay",
+      "ctaSub": "Casriyeynta kaabayaashaaga. Dardar gelinta hal-abuurka Dhis aasaaska daruuraha la miisaami karo."
+    },
+    "data-center-solutions": {
+      "title": "Xalalka Xarunta Xogta",
+      "tagline": "Kaabayaasha la isku halayn karo ee Hawlgallada Muhiimka ah.",
+      "heroBadge": "Himilada-Kaabayaasha Muhiimka ah",
+      "overview": [
+        "Xarumaha xogta ayaa aasaas u ah ganacsiyada casriga ah ee dhijitaalka ah. Codsiyada, xog ururinta, nidaamyada ganacsiga, goobaha isgaarsiinta, iyo adeegyada ganacsi ee muhiimka ah waxay ku xiran yihiin kaabayaasha la isku halayn karo.",
+        "Xalka xarunta xogtayadu waxay diiradda saaraan naqshadaynta, casriyaynta, maaraynta, iyo tayaynta bay'adaha kaabayaasha ee loo dhisay helitaanka, amniga, scalability, waxqabadka, iyo hufnaanta hawlgelinta."
+      ],
+      "transformation": [
+        "Xarunta xogta casriga ahi waxay u baahan tahay wax ka badan server-yada iyo kaydinta. Waxay u baahan tahay kaabayaal si taxadar leh loo habeeyey oo dhan xisaabinta, isku xidhka, amniga, tamarta, qaboojinta, la socodka, kaabaynta, iyo soo kabashada musiibada.",
+        "Waxaan ka caawinay ururada inay abuuraan deegaan kaabayaasha adkeysi leh oo taageera culeysyada shaqada ee muhiimka ah oo bixiya aasaaska koritaanka tignoolajiyada mustaqbalka."
+      ],
+      "capabilities": [
+        {
+          "title": "Naqshadeynta Kaabayaasha",
+          "desc": "Waxaan naqshadeynaa deegaan ku saleysan shuruudaha culeyska shaqada, awoodda, waxqabadka, helitaanka, amniga, iyo koritaanka mustaqbalka."
+        },
+        {
+          "title": "Kaabayaasha adeegaha",
+          "desc": "Waxaan taageernaa bay'ada server-ka jireed iyo kuwa farsamada ah ee codsiyada ganacsiga muhiimka ah iyo culeyska shaqada."
+        },
+        {
+          "title": "Xalalka Kaydinta",
+          "desc": "Waxaan tixgelineynaa waxqabadka, kartida, dib-u-celinta, SAN/NAS-xawaaraha sare, kaydinta, iyo shuruudaha ilaalinta xogta marka la naqshadeynayo deegaan kaydinta."
+        },
+        {
+          "title": "Kaabayaasha Shabakadda",
+          "desc": "Waxaan u qaabaynaynaa deegaanka shabakadaha oo leh kala qaybsanaan habboon, dib-u-celin, waxqabad daahsoon, isku xidhid, iyo kontaroolo amniga."
+        },
+        {
+          "title": "Farsamaynta",
+          "desc": "Muuqaal-samaynta waxay hagaajisaa ka faa'iidaysiga kheyraadka, dabacsanaanta shaqada, iyo maareynta kaabayaasha dhexe."
+        },
+        {
+          "title": "Kaabta & Soo kabashada Musiibada",
+          "desc": "Waxaan ka caawinay ururada inay dejiyaan xeelado gurmad ah iyo qaab dhismeedka soo kabashada ee loogu talagalay in lagu yareeyo wakhtiga dhimista iyo baabi'inta luminta xogta."
+        }
+      ],
+      "lifecycleSteps": [
+        "Qiimaynta Awoodda",
+        "Xog-ururinta culayska shaqada",
+        "Naqshadaynta Naqshadeynta",
+        "Qalabka & Cabbirka Virtual",
+        "Qaybinta Shabakadda",
+        "Bixinta Kaydinta",
+        "Dib-u-celinta & Tijaabada DR",
+        "Wax-soo-saar gooye",
+        "24/7 Kormeerka Caafimaadka",
+        "Horumarinta Joogtada ah"
+      ],
+      "benefits": [
+        "La dammaanad qaaday 99.999% wakhtiga kaabeyaasha",
+        "Eber dhibcood hal dhibic oo guuldarro ah oo leh dib-u-celinta lakabyo badan",
+        "Xisaabinta server-ka la hagaajiyay iyo cufnaanta sare ee xisaabinta",
+        "-Milli-ilbiriqsi-hoosaadyada qaab-dhismeedyada isku-xidhka daahsoonaanta",
+        "Ammaanka wareegyada dhijitaalka ah ee adag",
+        "Korjoogteynta firfircoon iyo guuldarrooyinka otomaatiga ah",
+        "Kaydinta modular la qiyaasi karo ee xogta cabbirka petabyte",
+        "La saadaalin karo wadarta qiimaha lahaanshaha iyo hufnaanta korantada"
+      ],
+      "security": "Amniga waxa lagu dhex milmay lakabka kaabayaasha, oo daboolaya kala qaybsanaanta-yar-yar ee shabakada, xidid-kalsoonida-qalabka, kontaroolada gelitaanka kalsoonida eber, xisaab xidhka nuglaanshaha joogtada ah, difaaca dhamaadka, iyo siyaasadaha hawlgelinta adag.",
+      "ctaHeadline": "Kaabayaasha u diyaarsan mustaqbalka",
+      "ctaSub": "Dhis kaabayaal la isku halayn karo maanta. Abuur aasaaska tignoolajiyada berrito."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Falanqaynta garashada & AI",
+      "tagline": "Xogta u rog sirdoon.",
+      "heroBadge": "Xog-o-go'aanka Sirdoonka",
+      "overview": [
+        "Hay'aduhu waxay soo saaraan xog aad u tiro badan iyada oo la adeegsanayo codsiyada, wax kala iibsiga, macaamiisha, hawlgallada, aaladaha, iyo aaladaha dhijitaalka ah. Caqabada hadda ka dib si fudud uma ururinayso xogta; waa fahamka xogtaas oo u beddeleysa sirdoon la shaqayn karo.",
+        "Falanqaynta garashadayada & xalalka AI waxay isku daraan falanqaynta horumarsan, barashada mashiinka, sirdoonka macmal, habaynta xogta, iyo sirdoonka ganacsiga si ay uga caawiso ururadu inay sameeyaan go'aamo wanagsan."
+      ],
+      "transformation": [
+        "Warbixin dhaqameed ayaa u sheegaysa ururada wixii dhacay. Falanqaynta sare waxay kaa caawin kartaa sharraxaadda sababta ay u dhacday, aqoonsato waxa dhici kara, iyo taageeridda go'aamada ku saabsan waxa dhici doona.",
+        "Waxaan ka caawinnaa ururada inay dhisaan jawi xogeed oo ka gudbaya warbixinada taagan ee u jeeda falanqaynta caqliga leh iyo taageerada go'aanka."
+      ],
+      "capabilities": [
+        {
+          "title": "Falanqaynta Sharaxaadda",
+          "desc": "Ku fahan waxqabadka taariikhiga ah iyada oo loo marayo warbixino is dhexgal ah, dashboards dhinacyo badan leh, KPI-yada, iyo cabbirada ganacsiga."
+        },
+        {
+          "title": "Falanqaynta ogaanshaha",
+          "desc": "Aqoonso xidhiidhada hoose, isbeddellada, cilladaha tirakoobka, iyo sababaha asalka u ah natiijooyinka ganacsiga."
+        },
+        {
+          "title": "Falanqaynta saadaalinta",
+          "desc": "Adeegso xogta tariikhda iyo wakhtiga-dhabta ah ee qul qulka ah oo wata moodallo tirokoob si loo aqoonsado natiijooyinka mustaqbalka iyo baahida mustaqbalka."
+        },
+        {
+          "title": "Falanqaynta Prescriptive",
+          "desc": "Qiimee falalka suurtagalka ah oo taageer dariiqooyinka go'aannada ugu fiican ee ku salaysan natiijooyinka la saadaaliyay iyo ujeedooyinka ganacsi ee istiraatiijiga ah."
+        },
+        {
+          "title": "Moodooyinka Barashada Mashiinka",
+          "desc": "Samee habab gaar ah oo loogu talagalay saadaalinta, kala-soocidda macaamiisha, talooyinka, ogaanshaha cilladaha khiyaanada, iyo dayactirka saadaalinta."
+        },
+        {
+          "title": "Aragtida Awoodeed ee AI",
+          "desc": "Codso garashada AI si aad u hesho tiro badan oo macluumaad ah oo aan qaabaysan si aad dusha uga saarto qaababka qarsoon, soo koobida fulinta, iyo talooyinka."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ilaha Xogta",
+        "Is-dhexgalka Xogta",
+        "Habaynta Xogta",
+        "Kaydinta Xogta",
+        "Falanqaynta",
+        "Qaababka AI/ML",
+        "Aragtida",
+        "Go'aamada Ganacsiga"
+      ],
+      "benefits": [
+        "Xaqiiqo ku salaysan, xog-ururin go'aan fulineed",
+        "Baahida saxda ah, dakhliga, iyo saadaalinta qallafsan",
+        "Xaqiiqda dhabta ah iyo ogaanshaha cilladaha",
+        "Qoto dheer 360° aragtida dhaqanka macmiilka iyo shakhsiyaynta",
+        "Silsiladda saadka ee la hagaajiyay iyo hufnaanta hawleed",
+        "La dhimay khatarta hawl-galka iyo dhaqaalaha",
+        "Helitaanka fursadaha dakhli ee qarsoon",
+        "La dardargeliyay-waqtiga-aragtida guud ahaan qaybaha ganacsiga"
+      ],
+      "security": "Nidaamyada deegaanka ee falanqaynta waxay hirgeliyaan sirta dhamaadka-ilaa-dhamaadka, qarinta xogta otomaatiga ah, ogolaanshaha RBAC adag, iyo qaabka maamulka si loo ilaaliyo xogta lahaanshaha iyo ilaalinta u hogaansanaanta sharciga (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Dhis Istaraatiijiyada Xogta Caqliga leh",
+      "ctaSub": "U rog xogta aragti. Aragtida u beddel ficil."
+    },
+    "information-reporting-systems": {
+      "title": "Macluumaadka & Nidaamyada Warbixinta",
+      "tagline": "Xogta Saxda ah. Waqtiga saxda ah. Go'aamo Wanaagsan.",
+      "heroBadge": "Sirdoonka Ganacsiga Midaysan",
+      "overview": [
+        "Hogaamiyayaasha ganacsiga iyo kooxaha hawl-fulintu waxay ku xidhan yihiin xogta saxda ah si ay u gaadhaan go'aamo wax ku ool ah. Nidaamkeena Macluumaadka & Nidaamyada Warbixinta waxay ka caawiyaan ururrada inay ururiyaan, habeeyaan, falanqeeyaan, oo soo bandhigaan macluumaadka ganacsiga iyada oo loo marayo nidaamyada macluumaadka habaysan, goobaha warbixinta, boodhadhka, iyo socodsiinta warbixinta otomaatiga ah.",
+        "Hay'aduhu waxay inta badan hayaan macluumaadka loo qaybiyay codsiyada, xaashiyaha, kaydinta xogta, iyo nidaamyada hawlgalka. Tani waxay adkeyneysaa in la sameeyo aragti joogta ah oo ku saabsan waxqabadka ganacsiga. Waxaan ka caawinnaa in ilaha macluumaadka lagu dhex daro jawi warbixineed habaysan oo bixiya macluumaad ganacsi oo la isku halayn karo, la heli karo, oo joogto ah."
+      ],
+      "transformation": [
+        "Nidaamka warbixintu waa inaanu si fudud u muujin tirooyin. Waa inay ka caawisaa isticmaalayaasha inay fahmaan waxqabadka, aqoonsadaan dhibaatooyinka, ogaadaan fursadaha, oo ay sameeyaan go'aano xog ogaal ah.",
+        "Waxaanu naqshadaynaynaa deegaanka warbixinta ee habka ururkaagu u shaqeeyo, anagoo gudbinayna xogta habaysan ee deegaanka ee go'aan qaadashada ee loogu talagaly dhamaan heerarka maamulka."
+      ],
+      "capabilities": [
+        {
+          "title": "Nidaamyada Macluumaadka Maamulka (MIS)",
+          "desc": "Samee habab macluumaad midaysan oo siinaya maamulka fulinta muuqaal hawleed iyo istiraatijiyadeed oo khuseeya."
+        },
+        {
+          "title": "Warbixinta Ganacsiga",
+          "desc": "Ka beddel xogta ganacsiga cayriin ee kanaalo badan una beddelo warbixinno habaysan, habaysan oo si joogto ah ula socda waxqabadka."
+        },
+        {
+          "title": "Dashboards-ka is-dhexgalka",
+          "desc": "Bixi muuqaalka is dhexgal wakhtiga dhabta ah ama qorshaysan ee cabbirada ganacsiga muhiimka ah, KPIs, isbeddellada, iyo hawlaha waaxda."
+        },
+        {
+          "title": "Maamulka KPI",
+          "desc": "Qeex, raadraac, iyo bar-tilmaameedka KPI-yada hawl-galka ah ee macnaha leh oo si toos ah ula socda yoolalka kobaca ganacsiga ee guud."
+        },
+        {
+          "title": "Is-dhexgalka Xogta",
+          "desc": "Isku-dubarid ilaha xogta la qaybiyey kaydin xogta midaysan iyo lakabyo semantic si joogto ah warbixin hal-muradle ah."
+        },
+        {
+          "title": "Warbixinta tooska ah",
+          "desc": "Si otomaatig ah u soo saar oo u qaybi warbixinnada gaarka ah iyadoo la raacayo jadwalka la sii cayimay, xeerarka ganacsiga, iyo kala sareynta qaataha."
+        }
+      ],
+      "lifecycleSteps": [
+        "Nidaamyada Ganacsiga",
+        "Xog ururin",
+        "Is-dhexgalka Xogta",
+        "Habaynta Xogta",
+        "Kaydka Xogta",
+        "Falanqaynta",
+        "Warbixinnada & Dashboards"
+      ],
+      "benefits": [
+        "Isha keliya ee runta ee guud ahaan ganacsiga",
+        "Helitaanka degdegga ah ee cabbirrada hawlgelinta wakhtiga-dhabta ah",
+        "Ciribtirka dhammaystiran ee ururinta xaashida buug-gacmeedka",
+        "Joogto ah, oo la heshiisiinayo waax-is-goysyada KPIs",
+        "Kormeerka fulinta sare iyo hanti-dhawrka",
+        "Si toos ah ugu qaybinta daneeyayaasha",
+        "Amniga iyo oggolaanshaha xogta heerka safka ee granular",
+        "Awood la xoojiyey oo lagaga jawaabayo cilladaha hawlgalka"
+      ],
+      "security": "Macluumaadka ganacsigu waxa uu ka koobnaan karaa hawl-gal, maaliyadeed, iyo xogta macaamiisha xasaasiga ah. Xallinta warbixintayadu waxay ka kooban tahay xaqiijinta arrimo badan, oggolaansho ku-saleysan doorka ku saleysan, sir, iyo xisaabinta gelida qaab dhismeedka warbixinta.",
+      "ctaHeadline": "Warbixinta Taageeraysa Kobaca",
+      "ctaSub": "Ka dhig macluumaadka la heli karo. Samee waxqabadka muuqda Qaado go'aamo wanagsan"
+    },
+    "managed-services": {
+      "title": "Adeegyada la maamulay",
+      "tagline": "Hawlaha Tignoolajiyada La isku halleyn karo. Taageerada khabiirada. Horumar joogto ah.",
+      "heroBadge": "24/7 Hawlaha IT & Taageerada",
+      "overview": [
+        "Deegaannada IT-ga casriga ahi waa kuwo adag oo si joogto ah isu beddelaya. Ururadu waxay u baahan yihiin kaabayaal la isku halayn karo, codsiyada, shabakadaha, amniga, la socodka, iyo taageerada farsamada si ay u sii socdaan hawlaha ganacsiga.",
+        "Adeegyadayada la maamulay waxay bixiyaan maaraynta tignoolajiyada socda iyo taageerada hawlgalka, taas oo u oggolaanaysa ururrada inay sii wadaan bay'ad IT-ga lagu kalsoonaan karo iyadoo kooxaha gudaha ay diiradda saarayaan hindisayaasha istaraatiijiga ah."
+      ],
+      "transformation": [
+        "Caawinta IT-ga dhaqameed waxay inta badan diiradda saartaa xallinta dhibaatooyinka ka dib markay dhacaan. Adeegyada la maareeyay waxay qaataan hab firfircoon iyagoo si joogto ah ula socda kaabayaasha, codsiyada, nidaamyada, iyo jawiga hawlgalka.",
+        "Habkani waxa uu caawiyaa in la aqoonsado arrimaha suurtagalka ah goor hore, joogteeyo waxqabadka, wanaajiyo helitaanka, iyo in la yareeyo carqaladaynta hawleed ee laga fogaan karo."
+      ],
+      "capabilities": [
+        {
+          "title": "Maaraynta Kaabayaasha",
+          "desc": "Taageer hawlgalka socda, balaadhinta, iyo maamulka server-yada, kaydinta, dhufto ee virturization, iyo kaabayaasha."
+        },
+        {
+          "title": "Maamulka daruuraha",
+          "desc": "Maamul culayska shaqo ee daruuraha, agabka daruuraha badan, qaabaynta, la socodka, waxqabadka, iyo hagaajinta FinOps."
+        },
+        {
+          "title": "Maaraynta Shabakadda",
+          "desc": "Bixi 24/7 la socodka, maaraynta waxqabadka, taageerada qaabaynta, tayaynta SD-WAN, iyo xallinta arrinta shabakada."
+        },
+        {
+          "title": "Maaraynta Codsiga",
+          "desc": "Taageer jawiga codsiga muhiimka ah iyada oo loo marayo la socodka firfircoon, dayactirka, xallinta cayayaanka, iyo casriyaynta shaqada."
+        },
+        {
+          "title": "Korjoogteynta & La-socodka",
+          "desc": "Bixi muuqaal dhammaystiran oo wakhtiga-dhabta ah ee nidaamka caafimaadka, daahitaanka, wakhtiga, ku-tiirsanaanta kaabayaasha, iyo digniinaha."
+        },
+        {
+          "title": "Kaabta & Maaraynta Soo kabashada",
+          "desc": "Joogto jadwallada kaydinta otomaatiga ah, tijaabi guuldarrooyinka si joogto ah, oo hubi awoodaha soo kabashada degdegga ah."
+        },
+        {
+          "title": "Hawlgallada Ammaanka (SecOps)",
+          "desc": "Bixi kormeer amni oo joogto ah, maaraynta balastar, meel marinta xakamaynta gelitaanka, iyo yaraynta khatarta firfircoon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Deegaanka Dusha",
+        "Helitaanka & Saldhigga",
+        "Isdhexgalka Telemetry",
+        "Qeexida SLA",
+        "24/7 Korjoogteynta Firfircoon",
+        "Kala soocidda Dhacdooyinka",
+        "Xallin degdeg ah",
+        "Falanqaynta Sababta xididka",
+        "Injineeriyada Ka Hortagga ah",
+        "Horumarinta Joogtada ah"
+      ],
+      "benefits": [
+        "Culayska hawlgalka gudaha oo si weyn loo dhimay",
+        "Ogaanshaha arrin firfircoon ka hor intaan isticmaalayaasha la taaban",
+        "La dammaanad qaaday 99.99% nidaamka helitaanka iyo wakhtiga",
+        "La saadaalin karo, miisaaniyad hawlgelinta IT-ga oo hufan",
+        "Helitaanka degdega ah ee khubarada injineernimada sare",
+        "Waqtiyada jawaabta shilka degdega ah ee SLA taageerto",
+        "Soo kabasho toos ah oo musiibo ah iyo sii wadida ganacsiga",
+        "Kor u qaadida tignoolajiyada iyo casriyaynta joogtada ah"
+      ],
+      "security": "Hawlgalkayaga la maareeyay waxay u hoggaansamaan qaab-dhismeedka ITIL ee adag, hubinta gelitaanka qarsoodiga ah, diiwaannada hanti dhawrka ee go'doonsan, qiimaynta aqoonsiga mudnaanta-yar, iyo u hoggaansanaanta u hoggaansanaanta dhammaan kheyraadka la maareeyo.",
+      "ctaHeadline": "Horumar joogto ah",
+      "ctaSub": "Waxaad diiradda saartaa ganacsigaaga. Waxaan kaa caawineynaa in tignoolajiyadaada ay sii socoto."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Hal-Stop Technology Solutions",
+      "tagline": "Hal-wadaag Farsamo. Awoodo badan. Xalka Ganacsiga oo Dhameystiran.",
+      "heroBadge": "Iskaashatada Ganacsiga Midaysan",
+      "overview": [
+        "Hay'aduhu waxay inta badan la shaqeeyaan bixiyeyaasha tignoolajiyada badan ee kaabayaasha, daruuraha, codsiyada, otomatiga, falanqaynta, amniga, taageerada, iyo isbeddelka dhijitaalka ah. Maareynta iibiyeyaasha badan waxay abuuri kartaa kakanaanta, farqiga isgaarsiinta, dadaal la soo koobay, iyo jawi tignoolajiyadeed oo jajaban.",
+        "Habka Hal-Stop Technology Solutions wuxuu keenaa awoodo kala duwan iyadoo la raacayo qaab adeeg midaysan, ka caawinta ururada inay qorsheeyaan, hirgeliyaan, dhexgalaan, shaqeeyaan, oo si joogto ah u hagaajiyaan deegaankooda tignoolajiyada."
+      ],
+      "transformation": [
+        "Waxaan taageernaa wareegga nolosha tignoolajiyada oo dhammaystiran-laga bilaabo fahamka shuruudaha ganacsiga iyo qeexida istaraatiijiyadda tignoolajiyada si loo qaabeeyo xalalka, hirgelinta aaladaha, isku dhafka nidaamyada, geynta codsiyada, kormeerka deegaanka, iyo bixinta taageero joogto ah.",
+        "Ujeedadu waa in la abuuro hab deegaan teknooloji oo isku xiran halkii laga heli lahaa xal go'doon ah."
+      ],
+      "capabilities": [
+        {
+          "title": "Istaraatiijiyadda & Dhismaha",
+          "desc": "Faham ujeedooyinka ganacsiga oo naqshadee qaab-dhismeedka tignoolajiyada la miisaami karo, sugan, lana ilaalin karo."
+        },
+        {
+          "title": "Hirgelinta & Dhisidda",
+          "desc": "Hirgelinta codsiyada, kaabayaasha, is dhexgalka, otomaatigga, iyo aaladaha dhijitaalka ah oo leh caqabado ganacsi."
+        },
+        {
+          "title": "Is-dhexgalka Nidaamka",
+          "desc": "Ku xidh nidaamyada iyo codsiyada si xogtu si habsami leh ugu socoto guud ahaan ururka oo dhan."
+        },
+        {
+          "title": "Diyaarinta qaabaysan",
+          "desc": "Samee CI/CD otomaatig ah oo sii daaya habab si loo xalliyo wax soo saarka si la isku halleyn karo oo badbaado leh."
+        },
+        {
+          "title": "Kormeer joogto ah",
+          "desc": "Bixi muuqaalka dhamaadka-ilaa-dhamaadka ee kaabayaasha, codsiyada, waxqabadka, helitaanka, iyo caafimaadka hawlgalka."
+        },
+        {
+          "title": "Hagaajinta & Taageerada",
+          "desc": "Si joogto ah dib u eegis jawiga si loo horumariyo waxqabadka, isku halaynta, hufnaanta kharashka, iyo miisaanka."
+        }
+      ],
+      "lifecycleSteps": [
+        "Xeeladda",
+        "Dhismaha",
+        "Hirgelinta",
+        "Is-dhexgalka",
+        "Hawlgelinta",
+        "Kormeerka",
+        "Hagaajinta",
+        "Taageero"
+      ],
+      "benefits": [
+        "La dhimay kakanaanta maaraynta iibiyaha iyo kor u kaca",
+        "Isku-dubbarid aan toos ahayn dhammaan lakabyada qaab-dhismeedka",
+        "Fulinta mashruuca oo degdeg ah oo aan dib-u-dhac lahayn",
+        "Qoondaynta Miisaaniyadda ee la saadaalin karo iyo keenista hufan",
+        "La xisaabtanka ganacsi ee midaysan min eber ilaa miisaan",
+        "Xalalka la qiyaasi karo ee loogu talagalay kobaca ganacsiga mustaqbalka",
+        "Iskaashiga tignoolajiyada la aamini karo ee muddada-dheer",
+        "Dhammaystir-ilaa-dhamaadka isbeddelka dhijitaalka ah"
+      ],
+      "security": "Iyadoo hal lammaane oo lagu kalsoon yahay uu kormeerayo qaab-dhismeedka, hirgelinta, iyo hawlgallada, maamulka ammaanku waa mid aan kala go' lahayn dhammaan heerarka - baabi'inta indhoolayaasha is-dhexgalka iyo hubinta u hoggaansanaanta joogtada ah.",
+      "ctaHeadline": "Saaxiibkaaga Tignoolajiyada Dhamaystiran",
+      "ctaSub": "Hal lammaane. Hal aragti. Farsamooyin badan. xalal dhamaystiran."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Dulmarka Ganacsiga",
+    "overviewTitle": "Farsamada caqliga leh ee Natiijooyinka la qiyaasi karo",
+    "transformationEyebrow": "Isbedelka Hawleed",
+    "transformationTitle": "Beddelka Ganacsiga Iyadoo loo marayo Socod Shaqo oo Caqli ah",
+    "deliveryEyebrow": "Habka gaarsiinta qaabaysan",
+    "deliveryTitle": "Dhammaadka-ilaa-dhamaadka & fulinta iyo hagaajinta joogtada ah",
+    "deliveryIntro": "Habka fulinta ee la xaqiijiyay waxa uu raacayaa meertada nolosha dhalmada ee adag:",
+    "deliveryOutro": "Tixanahan habaysan waxa ay hubisaa in si adag ula jaanqaadi karo yoolalka ganacsiga, qaab ammaan oo adag, iyo bartilmaameedyada ROI ee la cabbiri karo weji kasta.",
+    "securityEyebrow": "Amniga & Maamulka",
+    "securityTitle": "Kalsoonida Darajada Ganacsiga & Ilaalada U Hogaansanaanta",
+    "securityOutro": "Waxa aanu dhignay kontoroolka gelitaanka doorka-ku-salaysan ee adag, baadhista dayacanka tooska ah, qaabka maamulka, iyo sirta heerarka kala duwan si loo hubiyo in deegaankaaga wax-soo-saarku uu ahaado mid adkaysi leh oo si buuxda u hoggaansamaya.",
+    "capabilitiesTitle": "Awoodaha Tignoolajiyada Muhiimka ah",
+    "capabilitiesSub": "Xirfado farsamo oo dhammaystiran oo la farsameeyay si loo cabbiro hawlahaaga dhijitaalka ah.",
+    "bookDiscovery": "Baadhitaanka Tignoolajiyada Buuga",
+    "exploreAll": "Baadh Dhammaan Farsamooyinka",
+    "bookConsultation": "Buug wada tashi ah",
+    "coreCapabilities": "Awoodaha Muhiimka ah"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Awoodaha Muhiimka ah",
+    "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+    "bookConsultation": "Buug la talinta",
+    "viewCaseStudies": "Eeg Daraasadaha Kiis",
+    "provenPillars": "Tiirarka la xaqiijiyay",
+    "operationalOutcomes": "Natiijooyinka hawlgalka",
+    "learnMore": "Wax badan baro"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Dhamaadka-ilaa-Dhammaadka Injineeriyada Dijital ah",
+      "titlePart1": "Bilowgii Ku",
+      "titlePart2": "Hawlgelinta",
+      "description": "Horumarinta dhamaadka-ilaa-dhamaadka ee xalalka dhijitaalka ah ee cusub ee shuruudaha ganacsiga iyo qaab dhismeedka xalka iyada oo loo marayo horumarinta, isdhexgalka, tijaabinta, geynta, iyo taageerada joogtada ah.",
+      "bookConsultation": "Buug la-tashi",
+      "exploreEngineering": "Baadh Injineerinka Xalka",
+      "coreCapabilities": [
+        "Shuruudaha injineernimada",
+        "Dhismaha Xalka",
+        "Horumarinta Codsiga",
+        "Is dhexgalka API",
+        "Xaqiijinta Tayada",
+        "DevOps",
+        "Hawlgelinta",
+        "Taageerada & Dayactirka"
+      ],
+      "row1Eyebrow": "Bixinta Wareegga Nolosha oo Buuxa",
+      "row1Title": "Horumarinta-Dhamaadka-ilaa-Dhamaadka laga bilaabo Shuruudaha illaa Miisaanka",
+      "row1P1": "Hal-abuur kasta oo dhijitaal ah oo cusub wuxuu ku bilaabmaa shuruudo gaar ah, qulqulka shaqada, iyo ujeedooyinka istaraatiijiga ah ee aan la kulmi karin hal-cabbir-kulli-dhammaan-software. Waxaan ku takhasusay inaan dhisno nidaamyada software-ka ee wax-qabadka sarreeya ee gebi ahaanba meel eber ah.",
+      "row1P2": "Laga soo bilaabo daahfurka shuruudaha bilowga ah iyo naqshadaynta qaab dhismeedka farsamada ilaa horumarka degdega ah, is dhexgalka nidaamka deegaanka API, dhuumaha tijaabinta adag, iyo diritaanka daruuraha otomaatiga ah, kooxahayada injineerada sare waxay si buuxda ula wareegayaan lahaanshaha meertada nolosha badeecadaada.",
+      "row2Eyebrow": "Dhismaha Xalka & Injineerinka",
+      "row2Title": "Nidaamyada Miisaanka leh ee loo dhisay Kobaca Ganacsiga",
+      "row2P1": "Waxaan naqshadeynaa naqshadaha kombuyuutarrada ee adkeysiga leh oo loogu talagalay inay u adkeystaan culeyska wax soo saarka ee culus. Laga soo bilaabo adeegyadda yar yar ee moodeelka ah iyo gadaal-dambeedka ay wadaan dhacdada ilaa qulqulka xogta-soo-saarka sare leh iyo GraphQL/REST APIs, waxaan dhisnaa goobo si dhib la'aan ah u cabbira.",
+      "row2P2": "Anagoo samaynayna saldhigyo kood nadiif ah oo modular ah oo ay ku lammaansan yihiin imtixaan otomaatig ah iyo u hogaansanaan amniga joogtada ah, waxaanu hubinaynaa in aasaaska software-kaagu yahay mid la ilaalin karo, la daabici karo, oo diyaar u ah horumarka muddada-dheer.",
+      "row3Eyebrow": "Xaqiijinta Tayada & DevOps",
+      "row3Title": "Bixinta Degdegga ah ee Tubooyinka Atoomatiga ah",
+      "row3P1": "Qaabka gaarsiintayadu waxa uu ku dhexjiraa unug otomaatig ah, is dhexgalka, iyo dhamaadka-ilaa-dhamaadka tijaabada regression oo ay weheliso weel ku jira CI/CD socodka shaqada (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Iyada oo la adeegsanayo bandhigyada sprint ee hufan, fiirsashada waqtiga-dhabta ah, iyo xawaaraha la wado, waxaan hubineynaa waqti-suuq-geynta degdega ah iyada oo aan waxyeello u geysan amniga, xasilloonida, ama khibradda isticmaale.",
+      "row4Eyebrow": "Hawlgelinta & Taageerada",
+      "row4Title": "La isku halayn karo 24/7 Hawlgallada iyo Kobcinta Muddada Dheer",
+      "row4P1": "In aad noolaato waa bilow uun. Waxaan bixinaa la socodka firfircoon, dayactirka ay taageerto SLA, hagaajinta kaabayaasha daruuraha, hagaajinta waxqabadka, iyo soo bandhigista muuqaalka socda.",
+      "row4P2": "Kooxdayada injineernimada waxay u dhaqmaan sidii fidinta dabiiciga ah ee ururkaaga, hubinta eber wakhtiga hoos u dhaca iyo sareynta tignoolajiyada joogtada ah ee suuqaaga.",
+      "pillarsTitle": "Awoodaha Muhiimka ah",
+      "pillarsSub": "Dhamaystiran awoodaha xidhmo buuxa oo la farsameeyay si ay fikradahaaga eber uga qaadaan una soo saaraan.",
+      "pillar1Title": "Shuruudaha injineernimada",
+      "pillar1Desc": "Falanqaynta qoto-dheer ee ganacsiga, qeexitaannada shaqada, iyo khariidaynta safarka isticmaalaha si loo qeexo xuduudaha xalka saxda ah.",
+      "pillar2Title": "Dhismaha Xalka",
+      "pillar2Desc": "Nashqadaha asalka ah ee daruuriga ah ee la qiyaasi karo, qaabaynta xogta xogta, naqshadaynta adeegyadda yar yar, iyo aasaaska amniga ee aan aaminka ahayn.",
+      "pillar3Title": "Horumarinta Codsiga",
+      "pillar3Desc": "Shabakadda casriga ah ee buuxa iyo barnaamijyada moobilka oo lagu farsameeyay kood nadiif ah, nooca-nabdoonaanta, iyo heerarka UI ee falcelinta.",
+      "pillar4Title": "Is dhexgalka API",
+      "pillar4Desc": "Wax soo saar sare leh REST/GraphQL APIs, orchestrations webhook, albaabada lacag bixinta, iyo isku xidhka ERP/CRM qolo saddexaad oo aan kala go 'lahayn.",
+      "ctaTitle": "Diyaar ma u tahay in aad dhisto Xalkaaga Bilowgii ilaa Hawlgelinta?",
+      "ctaSub": "La-hawlgalayaasha Rezonants Teknolojiyadda si ay u naqshadeeyaan, injineer, oo u geeyaan goobtaada dhijitaalka ah ee caadiga ah laga bilaabo shuruudaha ganacsiga ilaa xaqiiqda wax soo saarka.",
+      "ctaButton": "Buug la tashiga Xalka",
+      "pillar5Title": "Xaqiijinta Tayada",
+      "pillar5Desc": "Automation-ka adag ee tijaabada, tijaabinta culayska/ walbahaarka, baadhista nuglaanta, iyo qolalka imtixaanada dib u noqoshada.",
+      "pillar6Title": "DevOps & Dirista",
+      "pillar6Desc": "Dhuumaha otomaatiga ah ee CI/CD, abaabulka weelka (Docker/K8s), kaabayaasha sida koodka, iyo siidaynta eber",
+      "pillar7Title": "Taageerada & Dayactirka",
+      "pillar7Desc": "24/7 la socodka firfircoonida leh, telemetry caafimaadka, xisaab xidhka waxqabadka, ilaalinta amniga, iyo dayactirka SLA socda.",
+      "pillar8Title": "Hal-abuur joogto ah",
+      "pillar8Desc": "Xawaaraha muuqaalka joogtada ah, is dhexgalka falanqaynta xogta, kobcinta AI, iyo casriyaynta qaabdhismeedka."
+    },
+    "processAutomation": {
+      "eyebrow": "Hawlgallada Habraaca Caqliga leh",
+      "titlePart1": "Habka Ganacsiga",
+      "titlePart2": "Automation",
+      "description": "Automation-ka-dhamaadka-ilaa-dhamaadka ee socodka shaqada ganacsiga, isku-darka hab-socodka automation-ka-robotka (RPA), farsamaynta dukumeenti caqli-gal ah, matoorada xeerarka ganacsiga, iyo is-dhexgalka nidaamka.",
+      "bookDiscovery": "Buugga Automation Discovery",
+      "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+      "coreCapabilities": [
+        "Automation socodka shaqada",
+        "Automation-ka Habka Robotka",
+        "Habaynta dhokumantiyada",
+        "Injineerinnimada Is-dhexgalka",
+        "Matoorada Xeerarka Ganacsiga",
+        "Falanqaynta Habraaca",
+        "Horumarinta Joogtada ah",
+        "Is-dhexgalka Dhaxalka ah"
+      ],
+      "row1Eyebrow": "Automation-ka Habka Robotka",
+      "row1Title": "Bots garaadka ee Hawlaha Mug-sare ah",
+      "row1P1": "Tirtir gelida xogta buug-gacmeedka ee soo noqnoqota, dib-u-heshiisiinta nidaamka isdhaafsan, iyo habaynta dukumentiga. Waxaan geyneynaa bots-yada RPA-ga ee fuliya hawlo habaysan 24/7 oo leh qiime khalad eber ah.",
+      "row1P2": "Adigoo isku xiraya is-dhex-galka miistoorka dhaxalka ah, SAP/ERP backends, iyo database-yada daruuraha, bots software-ka ayaa xor u ah kooxdaada inay diiradda saaraan hindisayaasha ganacsi ee istiraatiijiga ah.",
+      "row2Eyebrow": "Habaynta Dukumentiyada Caqliga leh",
+      "row2Title": "OCR, Barashada Mashiinka & Dukumeenti AI",
+      "row2P1": "Si toos ah u gal, u kala saar oo uga saar xogta qaansheegyada, qandaraasyada, waraaqaha aqoonsiga, iyo sheegashooyinka. Dhuumahayada AI-ka ay wado waxay ansixiyaan aagagga lidka ku ah xog ururinta gudaha waxayna kiciyaan socodka oggolaanshaha tooska ah.",
+      "row2P2": "Ku guulaysato habayn toos ah oo ka badan 95% adigoo si wayn u dhimaya wakhtiyada soo celinta maalmo ilaa ilbiriqsi.",
+      "row3Eyebrow": "Habraaca Habraaca",
+      "row3Title": "Dhammaadka-ilaa-dhamaadka Isku-tallaabta-Madal-is-dhaafsiga",
+      "row3P1": "Ku xidh CRM, ERP, HRMS, iyo API-yada bangiyada isu socodka xogta wakhtiga-dhabta ah ee midaysan. Waxaan hirgelineynaa kiciyeyaasha ay wadaan dhacdada, safafka fariimaha, iyo kuwa gacanta ku haya dib u dhaca tooska ah.",
+      "row3P2": "Xogtu waxay si aan kala go 'lahayn ugu socotaa dhammaan waaxaha iyada oo aysan jirin faragelin bini'aadmi, taas oo meesha ka saaraysa siloosyada shaqada iyo dib u dhaca isgaarsiinta.",
+      "row4Eyebrow": "Telemetry joogto ah",
+      "row4Title": "Falanqaynta Habka-Waqtiga-dhabta ah & Aragtida Kaizen",
+      "row4P1": "Lasoco waqtiyada fulinta nidaamka, khariidadaha kulaylka dhalooyinka, inta jeer ee khaladka, iyo ROI maaliyadeed ee dashboards fulinta wakhtiga dhabta ah.",
+      "row4P2": "Baadhitaannada barashada mashiinka joogtada ah waxay helayaan fursado cusub oo otomaatig ah, taasoo ka dhigaysa ganacsigaaga inuu ku shaqeeyo waxtarka ugu sarreeya.",
+      "pillarsTitle": "Tiirarka Automation-ka",
+      "pillarsSub": "Dhismayaasha la xaqiijiyay ee hawlaha ganacsi ee caqliga leh.",
+      "pillar1Title": "Automation socodka shaqada",
+      "pillar1Desc": "Tallaabo badan oo biniaadmi-ku-jira-loop-ka ah iyo qulqulka shaqada dhijitaalka ah",
+      "pillar2Title": "Habka Automation-ka ee Robotic",
+      "pillar2Desc": "Bots software-ku-saleysan oo fulinaya gelitaanka xogta joogtada ah, dib-u-heshiisiinta, iyo hawlaha isdhaafsiga ah.",
+      "pillar3Title": "Automation garaadka AI",
+      "pillar3Desc": "Garashada AI wakiillada tarjuma macnaha guud, soo koobaya qoraalka aan habaysan, oo sameeya go'aanno toos ah.",
+      "pillar4Title": "Habraaca Hagaajinta",
+      "pillar4Desc": "Habka macdan qodista, ogaanshaha cidhiidhiga, iyo socodka shaqada ee Kaizen oo si joogto ah u dhimaya kharashaadka hawlgalka.",
+      "ctaTitle": "Diyaar ma u tahay inaad otomaatig u sameyso socodka shaqadaada ganacsiga?",
+      "ctaSub": "Ku xidh naqshadeeyayaasha otomaatiga ah si loo aqoonsado fursadaha ROI-sare oo loo diro qulqulka shaqada dhijitaalka ah ee caqliga leh.",
+      "ctaButton": "Buug la tashiga Automation-ka"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Heerka Injineerinka & R&D",
+      "titlePart1": "Xarunta dhexe",
+      "titlePart2": "Heer sare",
+      "description": "Urur dhexe oo ka kooban naqshadeeyayaasha sare iyo khabiiro domain ah oo u heellan habaynta hab-dhaqannada injineernimada, wadida hal-abuurka, iyo dardargelinta hindisayaasha dhijitaalka ah.",
+      "exploreStandards": "Baadh Heerarka Injineerinka",
+      "initiateAssessment": "Bilow Qiimaynta CoE",
+      "coreCapabilities": [
+        "Heerarka Dhismaha",
+        "Qaab-dhismeedka dib loo isticmaali karo",
+        "Maamulka Dhaqanka ugu Fiican",
+        "Kobcinta Xirfadda",
+        "Qiimaynta Tayada",
+        "R&D & Hal-abuurnimo",
+        "Qiimaynta Tignoolajiyada",
+        "Hagidda Mashruuca Isku-tallaabta"
+      ],
+      "uptimeLabel": "Wakhtiga Shaqada",
+      "engineersLabel": "Injineerada & Dhismayaasha",
+      "deploymentsLabel": "AI & Cloud Geysiinta",
+      "satisfactionLabel": "Ku qanacsanaanta macmiilka",
+      "row1Eyebrow": "Tiirka 01 - Halbeegga Injineeriyada",
+      "row1Title": "Injineerinka Software-ka Waxqabadka Sare",
+      "row1P1": "Xaruntayada Wanaajinta waxay dejisaa qaabab nakhshad habaysan, imtixaan toos ah oo toos ah, iyo dhaqamada dib u eegista koodka cilad-xumada ah ee kordhisa wakhtiga-suuqa iyada oo deynta farsamo lagu ilaalinayo eber.",
+      "row1F1": "Dhuumaha CI/CD otomaatiga ah ee sii daaya dhuumaha oo leh falanqaynta cabbirka DORA",
+      "row1F2": "Guddiyada dib-u-eegista qaab dhismeedka adag iyo maamulka adeegyada yaryar",
+      "row1F3": "Dabool ammaan oo joogto ah iyo dhejinta dayacanka tooska ah",
+      "row1Btn": "Baro Heerarka Injineerinka",
+      "row1Tag": "DevOps & injineernimada tayada",
+      "row2Eyebrow": "Tiirka 02 - Hal-abuurka R&D",
+      "row2Title": "Shaybaarka Hal-abuurka AI & Farsamada Soo Koraysa",
+      "row2P1": "Waxaan tijaabineynaa moodooyinka barashada mashiinka casriga ah, wakiilada AI ee caadiga ah, iyo farsameynta socodka shaqada ee caqliga leh si aan u dhisno alaabada ganacsi ee jiilka soo socda.",
+      "row2F1": "Hal-abuurka Ganacsiga AI & is-dhexgalka aqoonta RAG",
+      "row2F2": "Hawl-socodyada wakiilka AI ee madaxa-bannaan ee habka ganacsiga otomaatiga",
+      "row2F3": "Hagaajinta moodeelka barashada mashiinka gaarka ah & hagaajinta",
+      "row2Btn": "Baadh AI Lab",
+      "row2Tag": "Sirdoonka Artificial & Neural R&D",
+      "row3Eyebrow": "Tiirka 03 - Kaabayaasha dhaqaalaha",
+      "row3Title": "Dhismaha Cloud Cloud & Security Trust Zero-Trust",
+      "row3P1": "Waxaanu naqshadaynaa oo aanu maamulnaa bey'ado daruuro badan leh oo adkeysi leh oo lagu dhisay qaab-dhismeedka amniga eber-aaminaad, anagoo hubinayna in xogtaadu ay weli tahay mid laga ilaalinayo horumarinta khataraha internetka.",
+      "row3F1": "AWS, Azure, & GCP abaabulka kaabayaasha daruuraha badan",
+      "row3F2": "Gelitaanka shabakadda Zero-trust network (ZTNA) & siyaasadaha doorka ku salaysan ee IAM",
+      "row3F3": "Sawirka ilaalinta weelka otomaatiga ah & maamulka sirta",
+      "row3Btn": "Baadh Cloud & Security",
+      "row3Tag": "Dhismaha daruuraha & Kalsoonida Zero-Trust",
+      "pillarsTitle": "Qaab-dhismeedka Sare ee Xuddunta",
+      "pillarsSub": "Buugaag-ciyaareedka horumarinta habaysan oo awood u siinaya hawlgallada muhiimka ah.",
+      "pillar1Title": "Guddiga Dib-u-eegista Dhismaha (ARB)",
+      "pillar1Desc": "Kormeer dhamaystiran oo hubinaya in dhammaan xalalka ganacsigu ay la socdaan miisaan adag, amniga, iyo borotokoolka u hoggaansanaanta.",
+      "pillar2Title": "Dardariyeyaasha dib loo isticmaali karo & Maktabada Qaybaha",
+      "pillar2Desc": "Nidaamyada naqshadaynta lahaanshaha, xirmooyinka bilowga API, iyo qaab-dhismeedka microservice-ka dhabarka waxay yareynayaan wakhtiga horumarinta bilowga 40%.",
+      "pillar3Title": "Xog-ururinta Waxqabadka Joogtada ah",
+      "pillar3Desc": "tubooyin daah-furnaan ah oo wakhtiga-dhabta ah ee dhuumaha la socodka daahitaanka arjiga, caqabadaha wax soo saarka, iyo ka faa'iidaysiga kheyraadka daruuraha.",
+      "pillar4Title": "Kor-u-qaadista Kartida & Guilds",
+      "pillar4Desc": "Guilds gudaha habaysan iyo shahaadooyin kobcinaya xirfado farsamo oo qoto dheer daruuraha, DevOps, iyo codsatay AI.",
+      "ctaTitle": "Kor u qaad heerka injineernimadaada",
+      "ctaSub": "La-hawlgalayaasha Xarunta Sare ee Rezonants si loo dhiso naqshadaha daruuraha adkeysiga leh, otomaatig u ah socodka shaqada, iyo dardargelinta gaarsiinta alaabta dhijitaalka ah.",
+      "ctaButton": "Jadwalka Latashiga Fulinta",
+      "badge": "Hal qayb oo ka mid ah REZONANTS COE",
+      "scroll": "Duub",
+      "p1Title": "Maamulka & Qaab-dhismeedka",
+      "p1Desc": "Samee maamul dhismeed ganacsi oo dhan, ilaalinta siyaasada, iyo heerarka u hogaansanaanta.",
+      "p1Tag": "Dawladnimada",
+      "p2Title": "Heerarka Farsamada & Dhismaha",
+      "p2Desc": "Qeex qaab-dhismeedyada tixraaca ee casriga ah, xirmooyin tignoolajiyada la shaandheeyay, iyo qaababka adeegyada yar yar.",
+      "p2Tag": "Dhismaha",
+      "p3Title": "Hantida dib loo isticmaali karo & Maktabadaha",
+      "p3Desc": "Dedeji xawaaraha horumarka oo leh qaybo la wadaago, qaab-qaabeeya, xidhmooyinka bilowga, iyo nidaamyada naqshadaynta.",
+      "p3Tag": "Dib loo isticmaali karo",
+      "p4Title": "Kobcinta Kartida",
+      "p4Desc": "Tababar habaysan, la-talin tignoolajiyadeed, iyo karti-xirfadeed si kor loogu qaado awoodda injineernimada kooxda.",
+      "p4Tag": "Kartida",
+      "p5Title": "Hal-abuurnimada & Farsamada Soo Koraysa",
+      "p5Desc": "R&D ee wakiilada AI, dhuumaha iswada, iyo qaab dhismeedka jiilka soo socda si loo ilaaliyo cidhifka suuqa.",
+      "p5Tag": "Hal-abuurnimo",
+      "p6Title": "Horumar joogto ah",
+      "p6Desc": "Halbeegyada injineernimada xogta-driven (DORA), bartilmaameedka SLA, iyo tayaynta tayada socota.",
+      "p6Tag": "Tayada"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Injineeriyada Dijital ah ee Haboon",
+      "titlePart1": "Horumarinta Gaarka ah &",
+      "titlePart2": "Habaynta",
+      "description": "Horumarinta iyo tayeynta codsiyada, goobaha, qulqulka shaqada, iyo xalalka ganacsiga si wax looga qabto shuruudaha ganacsiga gaarka ah iyo bixinta shaqeynta ku habboon.",
+      "bookConsultation": "Buug wada tashi ah",
+      "exploreCapabilities": "Baadh Awoodaha",
+      "coreCapabilities": [
+        "Horumarinta Gaarka ah",
+        "Qaabaynta Platform",
+        "Kordhinta",
+        "Socod-shaqeedka gaarka ah",
+        "Horumarinta API",
+        "Is-dhexgalka Nidaamka",
+        "Kobcinta UI/UX",
+        "Hagaajinta Waxqabadka"
+      ],
+      "row1Eyebrow": "SHAQO SAMEEYN AH",
+      "row1Title": "Tilmaamaha Hadal-qaadka loo dhisay Socodkaaga Shaqo",
+      "row1P1": "Software-ka caadiga ah ee shirkadda inta badan wuu ka gaabiyaa daboolida baahiyaha ganacsi ee gaarka ah. Kooxdayada injineernimada gaarka ah waxay horumariyaan qaybo codsi ah, xeerar ganacsi oo gaar ah, iyo kordhin khaas ah oo ku habboon hawlahaaga.",
+      "row1P2": "Laga soo bilaabo horumarinta CRM ee caadada u ah iyo ERP ilaa albaabbada hawleed ee gaarka ah, waxaanu dhisnaa sifooyin si aan kala go 'lahayn ula jaan qaadaya habka saxda ah ee socodka shaqada kooxdaada.",
+      "row2Eyebrow": "Is-dhexgalka NIDAAMKA GANACSIGA",
+      "row2Title": "Qaabaynta Platform & Horumarinta API",
+      "row2P1": "Ku xidh nidaamyada softiweerka ee kala duwan si ay u noqdaan hab deegaan dijital ah oo midaysan. Waxaan farsameynaa REST caadada u ah iyo GraphQL APIs, maamulayaasha webhook, iyo safafka fariimaha ganacsiga si aan u hubinno isku-dheelitirka xogta waqtiga-dhabta ah dhammaan aaladahaaga.",
+      "row2P2": "Haddi la isku daro agabka SaaS dhinac saddexaad ama fidinta goobaha lahaanshaha ee dhismaha, qaab dhismeedka is dhexgalka ayaa mudnaan siiya daacadnimada xogta, wax soo saarka, iyo eber hoos u dhaca.",
+      "row3Eyebrow": "UI/UX & Waxqabad",
+      "row3Title": "Kobcinta UI/UX & Hagaajinta Waxqabadka",
+      "row3P1": "Kor u qaad is-dhexgalka dhaxalka leh ee casriga ah, waayo-aragnimada isticmaale ee jawaab-celinta loogu talagalay xawaaraha iyo caddaynta. Waxaan dib-u-hawlgalayaasha hore ee habab naqshadayn dareen leh, u hoggaansanaan u hoggaansanaan ku samaynay, iyo moodooyinka is-dhexgalka la habeeyey.",
+      "row3P2": "Marka la barbar dhigo, injineeradayada waxqabadka waxay wanaajiyaan weydiimaha xogta, xeeladaha kaydinta, iyo cabbirrada xidhmada hore si ay u bixiyaan waqtiyada jawaabta degdegga ah ee dhammaan aaladaha.",
+      "pillarsTitle": "Lagu farsameeyay Tilmaamahaaga Saxda ah",
+      "pillarsSub": "Hababka waxka beddelka heerka-shirkadda oo loo dhisay si loo cabbiro si aan kala go 'lahayn.",
+      "pillar1Title": "Socod-shaqeedka gaarka ah & Kordhinta",
+      "pillar1Desc": "Codsiga ku habboon ee macquulka ah iyo mishiinnada dawladeed ee otomaatiga ah oo si gaar ah loogu habeeyey xeerarkaaga hawlgelinta gudaha.",
+      "pillar2Title": "API & Is-dhexgalka Nidaamka",
+      "pillar2Desc": "Ammaan, buundooyinka xogta la xaqiijiyay ee isku xidha dhabarka danbe ee lahaanshaha, qolalka ERP, albaabada lacag bixinta, iyo adeegyada daruuraha.",
+      "pillar3Title": "Qaabaynta Platform",
+      "pillar3Desc": "La qabsiga qaabdhismeedka qoto dheer ee wax ka beddela software-ka ganacsiga iyada oo aan la jebin dariiqyada casriyaynta ama heshiisyada taageerada iibiyuhu.",
+      "pillar4Title": "Hagaajinta Waxqabadka",
+      "pillar4Desc": "Soo bandhigida weydiinta gardarada ah, baabiinta daadinta xusuusta, iyo qaybinta CDN geesaha ee culeyska bogga labaad.",
+      "ctaTitle": "Diyaar ma u tahay in aad habayso Platform-ka ganacsigaaga?",
+      "ctaSub": "Ku xidh naqshadeeyayaasha xalalka si aad u qaabayso oo aad u gayso qaybo gaar ah, socodka shaqada, iyo isdhexgalka ee ku habboon baahiyahaaga ganacsi.",
+      "ctaButton": "Qabso Wicitaan Is-habeyn",
+      "badge": "Injineeriyada Dijital ah ee Haboon",
+      "viewAllServices": "Daawo Dhammaan Adeegyada"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Casriyeynta Ganacsiga",
+      "titlePart1": "Digital",
+      "titlePart2": "Isbeddelka",
+      "description": "Casriyeyn dhammaystiran oo hab-socodka ganacsiga, qaab-dhismeedka tignoolajiyada, iyo moodooyinka hawl-fulinta si loo kaxeeyo awoodda ururka, hufnaanta hawl-fulinta, iyo kobaca dhijitaalka ah ee waara.",
+      "startTransformation": "Bilow Isbeddelka",
+      "exploreStrategy": "Sahaminta Xeeladda",
+      "coreCapabilities": [
+        "Istaraatiijiyada & Khariidadda Waddooyinka",
+        "Casriyeynta Dhismaha",
+        "Daruur & Kaabayaasha",
+        "Xogta & Falanqaynta",
+        "Habka Digitization",
+        "Khibrada Macmiilka",
+        "Maamulka Isbeddelka",
+        "Moodooyinka Hawlgelinta Deggan"
+      ],
+      "row1Eyebrow": "Istaraatiijiyada & Khariidadda Tubta",
+      "row1Title": "Laga soo bilaabo Vision ilaa Roadmap-ka la fulin karo",
+      "row1P1": "Waxaan iskaashi la samaynaa hogaamiyayaasha ganacsiga si aan u qeexno istaraatiijiyad dhijitaalka ah, kiisaska ganacsiga, iyo khariidado wajiyo leh oo leh guulo degdeg ah iyo fulinta khatarta ah.",
+      "row1P2": "Hindisayaasha mudnaanta leh, moodooyinka TCO, iyo KPIs waxay xaqiijinayaan dadaal kasta oo casriyeynta tignoolajiyada inuu si toos ah ugu xidhmo dakhliga, hufnaanta, iyo natiijooyinka ku qanacsanaanta macaamilka.",
+      "row2Eyebrow": "Casriyeynta Dhaxalka",
+      "row2Title": "Casriyeyn Adoon Jebin Ganacsiga",
+      "row2P1": "Dib-u-habaynta monoliths ee adeeg-yaraha, API-yada, iyo qaababka daruur-dhalay ee leh waqti--hoos-u-dhigid iyo ansaxinta toosan ee dib-u-celinta.",
+      "row2P2": "Waxaan casriyeynaynaa codsiyada, xog-ururinta, iyo lakabyada is dhexgalka anagoo ilaalinayna u hogaansanaanta iyo qaabka amniga.",
+      "row3Eyebrow": "Daruuraha, AI & Xogta",
+      "row3Title": "Korsashada Daruuraha & Xogta ay Wado Sirdoonka",
+      "row3P1": "Qaado AWS, Azure, iyo GCP, dhis dhuumaha xogta casriga ah, oo geli wakiilada barashada mashiinka si ay u kaxeeyaan go'aamo madax-banaan",
+      "row3P2": "Laga soo bilaabo qul-qulka dhacdada-waqtiga dhabta ah ilaa dashboards midaysan, isbeddelku waxa uu noqdaa mid la cabbiri karo oo waara.",
+      "row4Eyebrow": "Khibrada Macmiilka",
+      "row4Title": "Waayo-aragnimada Omnichannel Casriga ah",
+      "row4P1": "Dib-u-qaabaynta safarrada macaamiisha ee dhammaan shabakadaha wax ka qabata, IOS, Android, iyo marinnada is-adeegga oo leh is-dhexyaal shakhsiyeed.",
+      "row4P2": "Injineerinka Platform, telemetry, iyo wareegyada jawaab celinta tooska ah ayaa ka dhigaya hal-abuurnimada dhijitaalka ah mid joogto ah.",
+      "pillarsTitle": "Tiirarka Isbeddelka",
+      "pillarsSub": "Kaabayaasha diirada saaraya natiijada ee hubinta hogaaminta dhijitaalka ah ee waara.",
+      "pillar1Title": "Istaraatiijiyada Dijital ah & Maamulka",
+      "pillar1Desc": "Nashqadaha isbeddelka wejiyada leh ee qaabaynta kiis ganacsi, maamul dhisme, iyo raad-raac khatar ah oo muhiim ah.",
+      "pillar2Title": "Cloud & Platform",
+      "pillar2Desc": "AWS/Azure/GCP asaasyada daruuraha badan, dhuumaha otomaatiga ah, iyo karti-gelinta xogta xogta ganacsiga.",
+      "pillar3Title": "AI & Automation-ka",
+      "pillar3Desc": "Automation habka garaadka, wakiilada AI garashada, iyo telemetry saadaalinta si kor loogu qaado hawl maalmeedka.",
+      "pillar4Title": "Khibrada Macmiilka",
+      "pillar4Desc": "Iridaha dhijitaalka ah ee omnichannel-ka-beddelaya iyo is-dhexyaal la gaaryeelay oo loo dhisay haynta isticmaale ee ugu badan.",
+      "ctaTitle": "Diyaar ma u tahay inaad beddesho ganacsigaaga?",
+      "ctaSub": "La-hawlgalayaasha Rezonants Teknolojiyada ee isbeddelka dhijitaalka ah ee wejigiisa, khatarta ka saaraya kuna xidhan natiijooyinka ganacsi ee la cabbiri karo.",
+      "ctaButton": "Qabso Wicitaan Isbeddel Dijital ah",
+      "bookWorkshop": "Aqoon-is-weydaarsiga Isbeddelka Buugaagta",
+      "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+      "coreCapabilitiesTitle": "Awoodaha Muhiimka ah"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Noloshii Tignoolajiyada oo Dhamaystiran",
+      "titlePart1": "Dhamaadka-ilaa-Dhamaadka Xalka",
+      "titlePart2": "Qaab-dhismeedka",
+      "description": "Qaab dhismeed, qaab nololeed oo dhammaystiran oo gudbin ah oo ka kooban shuruudaha ganacsiga, naqshadaynta dhismaha, injineernimada, isdhexgalka, hubinta tayada, geynta daruuraha, iyo hawlgallada la maareeyey.",
+      "startJourney": "Bilow Mashruucaaga",
+      "exploreFramework": "Baadh Qaab-dhismeedka",
+      "coreCapabilities": [
+        "Falanqaynta Shuruudaha",
+        "Naqshadeynta Dhismaha",
+        "Kobcinta-buuxa",
+        "Injineernimada Is-dhexgalka",
+        "Xaqiijinta Tayada",
+        "Hawlgelinta & Bixinta",
+        "Hawlgallada socda",
+        "Horumarka Joogtada ah"
+      ],
+      "row1Eyebrow": "Istaraatiijiyadda & Dhismaha",
+      "row1Title": "Shuruudaha Injineerinka & Naqshadeynta Xalka",
+      "row1P1": "Aqoon-is-weydaarsiyo iskaashi, khariidad ganacsi oo ganacsi, iyo qeexitaannada qaab dhismeedka daruuraha ee loogu talagalay in lagu baabi'iyo khatarta ka hor inta aan la qorin xariiq kood.",
+      "row1P2": "Waxaan qeexnaa moodooyinka xogta, qaab-dhismeedka amniga, iyo heerarka baaxadda leh ee dejinaya guusha mustaqbalka fog.",
+      "row2Eyebrow": "Injineerinka & Tayada",
+      "row2Title": "Kobcinta-buuxda & Tijaabada tooska ah",
+      "row2P1": "Adeegyo yar yar oo Modular ah, nooca-nabdoonaanta API-yada, iyo wajiyada hore ee jawaabta oo ay weheliso unug otomaatig ah, is-dhexgalka, iyo baadhista amniga.",
+      "row2P2": "Dhuumaha is dhexgalka joogtada ah ee leh GitHub Actions, Terraform, iyo ilaalin otomaatig ah.",
+      "row3Eyebrow": "Hawlgelinta & Hawlgallada",
+      "row3Title": "Dirista daruuraha & 24/7 Korjoogteynta la maamulay",
+      "row3P1": "Orchestration Cloud Multi-cloud on AWS/Azure/GCP oo leh dib-u-soo-celin toos ah, eber-gooyo, iyo daawasho-waqtiga-dhabta ah.",
+      "row3P2": "Waxaan bixinaa dayactirka ay taageerto SLA iyo la socodka telemetry joogto ah si aan u kobcino alaabtaada si aan kala go 'lahayn.",
+      "row4Eyebrow": "Maamulka Ganacsiga",
+      "row4Title": "Dawlad Midaysan & Taageero Joogto ah",
+      "row4P1": "La xisaabtanka hal-dhibcood ee dhammaan kaydkaaga dhijitaalka ah - xawaaraha orodka hufan, miisaaniyad-samaynta la saadaalin karo, iyo hal-abuurnimo joogto ah.",
+      "row4P2": "Qaababka joogtada ah ee wareegyada iyo wareegyada casriyaynta ayaa ka dhigaya ganacsigaaga ka hor tartanka.",
+      "pillarsTitle": "Tiirarka Qaab-dhismeedka Nolosha",
+      "pillarsSub": "Marxalad kasta oo lagu farsameeyay si adag oo ganacsi.",
+      "pillar1Title": "Xeeladda & Shuruudaha",
+      "pillar1Desc": "Helitaanka domain, khariidado qaab dhismeedka, iyo toosinta daneeyayaasha si meesha looga saaro khataraha fulinta.",
+      "pillar2Title": "Dhismaha & Dhiska",
+      "pillar2Desc": "Adeegyada-yaraha-dhalashada daruuriga ah ee adkeysiga leh, isku-dhafka API, iyo tijaabinta QA ee joogtada ah.",
+      "pillar3Title": "Amniga & Hawlgelinta",
+      "pillar3Desc": "U hoggaansanaanta amniga ee aan aaminka ahayn, siidaynta weelka, iyo dirida daruuraha tooska ah.",
+      "pillar4Title": "Dawladnimada & Taageerada",
+      "pillar4Desc": "24/7 SLA la socodka, telemetry caafimaadka, iyo injineernimada horumarka socda.",
+      "ctaTitle": "Ma u baahan tahay lammaane Dhamaystiran oo Nolosha Socda?",
+      "ctaSub": "Waxaan leenahay nolosha meertada tignoolajiyada buuxda si kooxdaadu ay diiradda u saarto natiijooyinka ganacsiga aasaasiga ah.",
+      "ctaButton": "La-hawlgalaha wareegga nolosha ee Buuxa"
+    },
+    "migrationServices": {
+      "eyebrow": "Cloud & Isbeddelka Kaabayaasha",
+      "titlePart1": "Tahriibka &",
+      "titlePart2": "Casriyeynta",
+      "description": "Sugan, guuritaanka habaysan ee codsiyada dhaxalka ah, kaydinta xogta, iyo kaabayaasha qaab dhismeedka daruuraha casriga ah, oo lagu lamaaniyay casriyeyn joogto ah si loo kobciyo karti iyo hufnaan.",
+      "bookAssessment": "Qiimaynta Tahriibka",
+      "exploreStrategy": "Baadh Istaraatiijiyada daruuraha",
+      "coreCapabilities": [
+        "Hijrada daruuriga ah",
+        "Casriyeynta Codsiga",
+        "Socdaalka Database",
+        "Dib u habeynta kaabayaasha",
+        "Haamaha",
+        "Kala-guurka Adeegga-yaraha",
+        "Hagaajinta Waxqabadka",
+        "Amniga & U Hogaansanaanta"
+      ],
+      "row1Eyebrow": "Hijrada daruuriga ah",
+      "row1Title": "Istaraatiijiyada Daruur-dareenka badan & Kor-u-qaad iyo Hagaajinta",
+      "row1P1": "U guurista culayska shaqo la'aanta ah ee guud ahaan AWS, Azure, iyo Google Cloud oo leh daahfur toos ah, qorshaynta mawjada, iyo eber ganacsi hakad ah.",
+      "row1P2": "Waxaan isku dheellitirnaa soo-celinta, dib-u-habaynta, iyo dib-u-habaynta si aan u wanaajino wadarta qiimaha lahaanshaha (TCO) iyo dardargelinta.",
+      "row2Eyebrow": "Xogta & Socdaalka Xogta",
+      "row2Title": "Sugan ETL & Xaqiijinta Xogta Atoomaatiga ah",
+      "row2P1": "Ku celcelinta xogta otomaatiga ah, tarjumaadda schema, iyo dhuumaha ETL-soo-saar sare leh oo leh 100% xaqiijinta daacadnimada xogta.",
+      "row2P2": "Dib-u-dhis-wakhti-joojin ah ku celcelinta waxay hubisaa joogtaynta xogta oo dhammaystiran iyo sii socoshada ganacsiga.",
+      "row3Eyebrow": "Casriyeynta Platform",
+      "row3Title": "Konteenarada & Orchestration Kubernetes",
+      "row3P1": "Casriyeyn monoliths dhaxalgal ah oo loo beddelo adeeg-yaro la miisaami karo oo laga abaabulay Kubernetes (EKS, AKS, GKE) oo wata naqshadaha IaC ee otomaatiga ah.",
+      "row3P2": "Xog-ururinta waxqabadka ka dib socdaalka iyo kor u qaadida kharashku waxay xaqiijisaa ROI degdeg ah.",
+      "row4Eyebrow": "Qorshaynta Cutover",
+      "row4Title": "Tijaabada Atoomaatiga ah & Shabakadaha Badbaadada Dib-u-celinta",
+      "row4P1": "Buugaag run-gooyo ah oo dagaal lagu tijaabiyay, qolal dib-u-celin otomaatig ah, iyo hababka dib-u-soo-celinta degdegga ah ee xasilloonida maskaxda oo dhammaystiran.",
+      "row4P2": "Telemetry caafimaadka ka dib socdaalka iyo 24/7 daryeel-caafimaadeed ayaa dammaanad qaadaya xasilloonida wax soo saarka aan cillad lahayn.",
+      "pillarsTitle": "Dammaanad qaadka socdaalka",
+      "pillarsSub": "Dhaqdhaqaaqyada khatarta ah oo ay taageerayaan SLAs ganacsi.",
+      "pillar1Title": "Goosha Zero-Downtime",
+      "pillar1Desc": "Sii daynta Canary iyo xogta xogta laba-qori isku xidhka si loo hubiyo gelitaanka isticmaale aan kala go' lahayn.",
+      "pillar2Title": "Xaqiijinta Xogta Toos ah",
+      "pillar2Desc": "Isbarbardhigga hubinta, xisaabinta daacadnimada schema, iyo dib-u-heshiisiinta ETL ee tooska ah.",
+      "pillar3Title": "Shabaqyada Badbaadada ee Rollback",
+      "pillar3Desc": "Nidaamyada adag ee ka-kabashada musiibada iyo laylisyada ku celcelinta si loo xakameeyo khatarta weji kasta.",
+      "pillar4Title": "Waxqabadka & Kordhinta Qiimaha",
+      "pillar4Desc": "Xuquuqda daruuraha, siyaasadaha xisaabinta, iyo dashboards-ka maamulka qiimaha ayaa lagu daray.",
+      "ctaTitle": "Diyaar ma u tahay inaad u tahriibto kalsooni buuxda?",
+      "ctaSub": "La-hawlgalayaasha Rezonants ee habaysan, khatarta aan khatarta lahayn iyo casriyaynta xogta.",
+      "ctaButton": "Qorshee Aqoon-is-weydaarsiga Socdaalkaaga"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Xaqiijinta Degdegga ah & Suurtogalnimada",
+      "titlePart1": "Caddaynta Fikradda (PoC) &",
+      "titlePart2": "Hirgelinta tijaabada",
+      "description": "Kobcinta degdega ah iyo ansixinta xalalka tignoolajiyada si loo qiimeeyo suurtogalnimada farsamada, qiimaha ganacsiga, shuruudaha isdhexgalka, waxqabadka, iyo miisaanka ka hor inta aan la hirgelin buuxda.",
+      "initiateDiscovery": "Bilow daahfurka PoC",
+      "exploreDevelopment": "Baadh Horumarka Gaarka ah",
+      "coreCapabilities": [
+        "Horumarinta PoC",
+        "Injineerinnimada Prototype",
+        "Daraasadaha Suurtogalnimada",
+        "Xaqiijinta Dhismaha",
+        "Tijaabada Is-dhexgalka",
+        "Qiimaynta Waxqabadka",
+        "Dirista tijaabada",
+        "Qiimaynta Qiimaha"
+      ],
+      "row1Eyebrow": "Xaqiijin degdeg ah",
+      "row1Title": "Laga bilaabo Fikradda ilaa la ansaxiyay",
+      "row1P1": "U beddelashada fikradda xal-u-hel ganacsi waxay u baahan tahay ansaxinta hore ee adag. Adeegeena PoC & Pilot waxay qiimeeyaan ku jiritaan teknoolojiyadda, walbahaarka-tijaabada isku xidhka muhiimka ah, oo ansixiyaa ganacsiga ROI ka hor ballan-qaadyada waaweyn ee raasamaalka.",
+      "row1P2": "Waxaanu dhisnay MVP-yada daacadda ah iyo duuliyayaasha sanduuqa-cammuudka ah ee diiradda saaraya kuwaas oo caddaynaya suurtogalnimada farsamada, cabbiraadda habacsanaanta, oo soo ururisa ansixinta daneeyayaasha tooska ah goor hore.",
+      "row1Cap": "Soo-saarista MVP ee Degdegga ah & Tilmaamaha Farsamada",
+      "row2Eyebrow": "Dhaqan-qaadista Prototyping",
+      "row2Title": "MVP-yada is dhexgalka & Xaqiijinta UX",
+      "row2P1": "Waxaan dhisnaa fiilo is-dhexgal leh, qulqulka isticmaale la riixi karo, iyo caddaynta-fikradaha shaqeeya maalmo, ma aha bilo. Tijaabi is dhexgalka isticmaalaha dhabta ah, nadiifi qaababka UI/UX, oo ka soo ururi jawaab celin la fulin karo daneeyayaasha.",
+      "row2P2": "Iyaga oo gaabinaya wareegyada jawaab-celinta inta lagu jiro horumarka hore, kooxdaadu waxay yaraynaysaa dib-u-shaqaynta waxayna dejinaysaa tilmaamo farsamo oo cad ka hor inta aanay bilaabmin wejiyada dhisidda degdegga ah.",
+      "row2Cap": "Soocelinta Degdega ah & Qaababka UX ee la riixi karo",
+      "row3Eyebrow": "Tijaabada Is-dhexgalka & Cabbiraadda",
+      "row3Title": "Isku-dhafka Nidaamka Isku-dhafka ah ee Khatar-jabinta",
+      "row3P1": "Daaha ka qaad cilad farsamo, xaddidaadyada API, iyo caqabadaha waxqabadka ka hor ballan-qaad buuxa oo raasumaal ah. Kooxdayada injineernimada tijaabada ah waxay tijaabiyaan isku-dhafka, dhuumaha xogta, iyo API-yada qolo saddexaad ee jawiyada sanduuqa-cammuudda ee go'doonsan.",
+      "row3P2": "Yaraynta khatarta firfircooni waxay hubisaa helitaanka nidaamka sare, u hoggaansanaanta amniga, iyo wakhtiyada horumarineed ee la saadaalin karo marka aad PoC-gaaga u wareejinayso wax soo saarka ganacsiga.",
+      "row3Cap": "Is dhexgalka Sandbox & Tijaabada Cadaadiska",
+      "row4Eyebrow": "Duuliye Wax-soo-saar la xakameeyey",
+      "row4Title": "Daahfurka Duuliyaha La Beegsaday & Xaqiijinta Kiis Ganacsi",
+      "row4P1": "Geli sii daynta tijaabada ah ee la beegsaday qayb adeegsade ama suuqa tijaabada. Raad-raac cabirka waxqabadka, falanqaynta korsashada isticmaalaha, iyo jawaab celinta hawlgelinta si aad u qiyaasto qiimaha ganacsiga oo aad u samayso kiis ganacsi oo xogta taageerto.",
+      "row4P2": "Iyadoo la raacayo aragtida tijaabada ah ee dhabta ah ee adduunka, kafaala-qaadayaasha fulinta waxay helayaan cabbirro ROI oo cad si ay u caddeeyaan hawlgelinta ballaaran iyo maalgashiyada isbeddelka dhijitaalka ah ee istiraatiijiga ah.",
+      "row4Cap": "Hawlgelinta la xakameeyey & Telemetry waxqabadka",
+      "pillarsTitle": "Mabaadi'da Injineerinka Tijaabada",
+      "pillarsSub": "Mabaadi'da hagaya ee u rogaya hubanti la'aanta farsamada guul ganacsi oo la saadaalin karo.",
+      "pillar1Title": "PoC & Prototyping MVP",
+      "pillar1Desc": "Si degdeg ah u soo bixi tusaalooyin shaqaynaya si loo ansixiyo soo jeedinta qiimaha horaantii wareegga nolosha.",
+      "pillar2Title": "Suurtogalnimada & Xaqiijinta",
+      "pillar2Desc": "Xaqiiji iswaafajinta API, xadka wax-soo-saarka, iyo xaddidaadaha u hoggaansanaanta jawiga sandbox.",
+      "pillar3Title": "Qiimaynta Miisaanka",
+      "pillar3Desc": "Isku day culeyska wax soo saarka si aad u dejiso xadka awoodda oo aad u go'aamiso cabbirka qaab dhismeedka daruuraha.",
+      "pillar4Title": "Xaqiijinta Kiiska Ganacsiga",
+      "pillar4Desc": "Tiro ROI la taaban karo iyo cabirrada wax soo saarka si loo taageero go'aannada soo-bandhigidda ganacsiga oo dhan.",
+      "ctaTitle": "Diyaar ma u tahay in aad ansixiso xalkaaga dhijitaalka ah ee xiga?",
+      "ctaSub": "Ku xidh kooxdayada injineernimada xalka si aad u sahamiso shuruudahaaga mashruuca, u dhis nooc, iyo tijaabi suurtogalnimada khatarta eber.",
+      "ctaButton": "Buug la-tashi PoC ah"
+    },
+    "sharedServices": {
+      "eyebrow": "Xarunta Hawlgallada Dhexe",
+      "titlePart1": "Adeegyada La Wadaago &",
+      "titlePart2": "Hawlgallada la maamulay",
+      "description": "Bixinta tignoolajiyada dhexe iyo awoodaha hawlgelinta ee qaybaha ganacsiga iyada oo loo marayo hannaan habaysan, ilo xirfad leh, qaab-dhismeedka maamulka, maaraynta adeegga, iyo heerarka adeegga la cabbiri karo.",
+      "bookDiscovery": "Soo-helidda Hawlgallada la Maamulay ee Buugga",
+      "exploreFramework": "Baadh Qaab-dhismeedka Xalka",
+      "coreCapabilities": [
+        "Adeegyada la maamulay",
+        "Hawlaha IT-ga",
+        "Taageerada Codsiga",
+        "Maamulka Adeegga",
+        "Horumarinta Khayraadka",
+        "Maamulka SLA",
+        "Dawladnimada",
+        "Horumar joogto ah",
+        "Kordhinta Qiimaha"
+      ],
+      "row1Eyebrow": "Xubinta Gaarsiinta Midaysan",
+      "row1Title": "Adeegyada Halbeegga ah ee Dhammaan Qaybaha Ganacsiga",
+      "row1P1": "Isku-dubarid IT-ga dambe ee xafiiska, maamulka kaabayaasha, iyo taageerada farsamada oo laga dhigo hal xarun wax-is-gudbineed oo tayo sare leh.",
+      "row1P2": "Iyadoo la baabi'inayo kooxda nuqul ka mid ah dulsaarka iyo habaynta moodooyinka adeeg bixinta, ururkaagu wuxuu xaqiijiyaa tayada joogtada ah waxayna hoos u dhigtaa wadarta kharashka hawlgalka.",
+      "row2Eyebrow": "24/7 SRE & Codsiga Taageerada",
+      "row2Title": "Kormeerka Firfircoon & Xallinta Dhacdada Degdegga ah",
+      "row2P1": "Injineerada Isku-kalsoonida Goobta (SRE) iyo khabiirada taageerada waxay bixiyaan 24/7/365 la socodka telemetry, kala soocida digniinta tooska ah, iyo xallinta arrinta L1/L2/L3 degdeg ah.",
+      "row2P2": "Iyadoo ay taageerayaan ballanqaadyo adag oo SLA, waxaanu dammaanad qaadaynaa 99.99% helitaanka codsiyadaada muhiimka ah iyo kaabayaasha daruuriga ah.",
+      "row3Eyebrow": "Maamulka ITIL & Hoggaaminta",
+      "row3Title": "Qaab-dhismeedka Maamulka Adeegga Qaabaysan",
+      "row3P1": "Hirgelinta heerarka ITSM ee hogaaminaya warshadaha (ServiceNow, Maareynta Adeegga Jira) oo leh tigidh hufan, falanqaynta sababaha asalka u ah, iyo beddelka ilaalinta ilaalinta.",
+      "row3P2": "Dariiqyada hanti-dhawrka oo dhammaystiran iyo siyaasadaha maamulka ayaa xaqiijinaya in hawlgalladaadu ay yihiin kuwo u hoggaansan heerarka amniga caalamiga ah.",
+      "row4Eyebrow": "FinOps & Horumar joogto ah",
+      "row4Title": "Miisaaniyadda la saadaalin karo & Horumarinta Khayraadka",
+      "row4P1": "Ciribtirka qashinka daruuriga ah, kor u qaad cabbirka xisaabinta, oo otomaatig u samee dayactirka joogtada ah ee hawlgalinta hababka ugu fiican ee FinOps.",
+      "row4P2": "Warbixinaha daah-furnaanta billaha ah iyo saadaasha awoodda waxay xaqiijinayaan hagaajinta qiimaha hawlgelinta joogtada ah iyo hufnaanta raasamaalka sare.",
+      "pillarsTitle": "Tiirarka Hawlaha",
+      "pillarsSub": "Levers-hawleed la xaqiijiyay oo loogu talagalay miisaan ganacsi oo la isku halayn karo.",
+      "pillar1Title": "24/7 Maareeyay Hawlaha IT",
+      "pillar1Desc": "Telemetry NOC ee firfircoon, dhejinta server-ka, dayactirka kaabayaasha, iyo 99.99% dammaanad qaadka wakhtiga.",
+      "pillar2Title": "ITSM & Miiska Adeegga",
+      "pillar2Desc": "Tier 1/2/3 miiska caawinta kanaalka badan, habaynta shilka, iyo xalinta socodka tigidhada habaysan.",
+      "pillar3Title": "SLA & Xakamaynta Waxqabadka",
+      "pillar3Desc": "Waqtiyada jawaab celinta heshiisku taageeray, MTTR bartilmaameedyada, iyo xisaab-xidhka hawlqabadka ee bilaha ah oo hufan.",
+      "pillar4Title": "FinOps & Kor u qaadida Qiimaha",
+      "pillar4Desc": "Saxeexa kheyraadka joogtada ah, dib u soo celinta shatiga, iyo dhimista qiimaha daruuriga ah ee tooska ah.",
+      "ctaTitle": "Diyaar ma u tahay in aad cabbirto hawlgallada aad maamusho?",
+      "ctaSub": "La-hawlgalayaasha Rezonants ee la isku halayn karo, 24/7 adeegyada la maareeyo ee wanaajiya kharashyada isla markaana meesha ka saaraya wakhtiga shaqada.",
+      "ctaButton": "Buug la-tashiyada hawlgallada la maamulay",
+      "howItWorksHeading": "Jidka la xaqiijiyay ee guusha adeegyada la wadaago"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Nidaamyada caqliga leh",
+      "heroHeading": "AI & Robotics-ka oo wada shaqeynaya",
+      "intro": "Sirdoonka Artificial (AI) iyo Robotics-ku waxa ay beddelaan habka ganacsiyadu u shaqeeyaan iyaga oo isku daraya go'aan gaarista garaadka iyo automation horumarsan. AI waxay awood u siinaysaa mishiinada inay falanqeeyaan xogta, bartaan qaababka, oo ay gaadhaan go'aano caqli-gal ah, halka robotiyadu ay awoodahaas u keenayaan adduunka jireed si ay u qabtaan hawlo leh xawaare, sax ah, iyo joogtayn.",
+      "section1Heading": "Loo dhisay si loo habeeyo hawlgal kasta",
+      "section1Text": "Xalalkayada AI iyo Robotics-ka waxay caawiyaan ururrada inay hagaajiyaan hawlaha, yareeyaan dadaalka gacanta, iyo horumarinta wax soo saarka warshadaha kala duwan. Laga soo bilaabo automation-ka habka iyo falanqaynta saadaalinta ilaa robotics-ka caqliga leh iyo nidaamyada caqliga leh, waxaanu bixinaa tignoolajiyada cusub ee kor u qaadaya hufnaanta, kor u kaca kobaca, taageerana isbeddelka dhijitaalka ah.",
+      "section2Heading": "Halka ay sirdoonku ku kulmaan ficilka",
+      "section2Text": "Is-dhexgal kasta, go'aan, iyo dhaqdhaqaaq kasta waxaa xoojiya hal nidaam oo isku xiran - xogta u beddeleysa natiijooyinka waqtiga dhabta ah.",
+      "footerTag": "Tignoolajiyada cusub ee isbeddelka dhijitaalka ah"
+    },
+    "informationReporting": {
+      "brand": "Platform Xogta Ganacsiga",
+      "heroTitle": "Macluumaadka & Nidaamyada Warbixinta",
+      "heroSubtitle": "Ilaha runta ah ee waax kasta - oo loo dhisay inay xogta hawlgelinta cayriin u rogo go'aannada ganacsigaagu ku dhaqmi karo maanta.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "LA FALANQAY",
+      "statusArchived": "QAYBSAN",
+      "statusPending": "LA SOCO",
+      "metricUptime": "Waqtiga Nidaamka",
+      "metricSessions": "Fadhiyo Firfircoon",
+      "metricReportsPerDay": "Warbixinada / Maalinta",
+      "metricEvents": "Dhacdooyinka maalinlaha ah ee la cuno",
+      "metricReports": "Warbixinada la qorsheeyay",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Platform Midaysan",
+      "analyticsSuite": "Falanqaynta Suite",
+      "reportingConsole": "Console ka warbixinta",
+      "businessOutcome": "Natiijada Ganacsiga",
+      "section1Heading": "Hal nidaam oo dhexe oo loogu talagalay mitir kasta oo muhiim ah",
+      "section1P1": "Nidaamyada Macluumaadka & Warbixinta ayaa ah xalal ganacsi oo muhiim ah kuwaas oo awood u siinaya ururrada inay ururiyaan, maamulaan, oo u beddelaan xogta fikrado macno leh. Nidaamyadani waxay isku daraan macluumaadka qaybo badan, iyagoo hubinaya helitaanka saxda ah, joogtada ah, iyo helitaanka xogta ganacsiga muhiimka ah ee waqtiga dhabta ah. Iyadoo la siinayo meel dhexe oo loogu talagalay maareynta macluumaadka, ururradu waxay hagaajin karaan muuqaalka hawlgalka, hagaajinta socodka shaqada, iyo taageerida go'aan qaadashada istaraatiijiga ah ee dhammaan heerarka ganacsiga.",
+      "section1P2": "Nidaamyadani waxay adeegsadaan warbixinta otomaatiga ah, falanqaynta, iyo dashboards si ay ula socdaan waxqabadka, ula socdaan cabbirrada muhiimka ah, una soo saaraan warbixinno-waqtiga dhabta ah. Marka la dhimo dadaalka gacanta iyo hagaajinta saxnaanta xogta, ganacsiyadu waxay gaari karaan go'aamo degdeg ah oo waxtar leh.",
+      "section2Heading": "Loo dhisay muuqaal, u hoggaansanaan, iyo cabbir",
+      "section2Text": "Iyada oo la wanaajiyey aragga, u hoggaansanaanta, iyo iskaashiga, Macluumaadka & Nidaamyada Warbixinta ayaa awood u siinaya ururrada in ay wanaajiyaan geeddi-socodka, wanaajiyaan wax-soo-saarka, oo ay ku kaxeeyaan koboc ganacsi oo waara jawi tartan ah.",
+      "ctaHeading": "Sii koox kasta isla sawirka wakhtiga dhabta ah ee ganacsiga.",
+      "ctaText": "Eeg sida Nexus Data Systems ay u xoojin karaan warbixintaada hal madal oo caqli badan.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Dhammaan xuquuqaha way xifdiyeen",
+      "navOverview": "Dulmar",
+      "navCapabilities": "Awoodaha",
+      "navImpact": "Saamaynta",
+      "navContact": "Xiriir"
+    },
+    "managedServices": {
+      "subtitle": "Adeegyada la maareeyay oo dhamaystiran ee ganacsigaaga"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Casriyeynta Codsiyada Ganacsiga ee Shirkad Xog-Waday",
+      "excerpt": "Sida qaab-dhismeedka casriga ah ee codsiga iyo xogta ku xidhani ay u wanaajin karto hufnaanta hawleed, miisaanka iyo muuqaalka ganacsiga.",
+      "tag": "Isbeddelka Ganacsiga",
+      "category": "ISBEDDELKA GANACSIGA",
+      "summary": "Codsiga casriga ah iyo aasaaska xogta ayaa ka caawin kara ganacsiyada hagaajinta hufnaanta shaqada, isku xidhka nidaamyada ganacsiga iyo abuurista muuqaal wanaagsan oo dhan hawlahooda."
+    },
+    "artificial-intelligence": {
+      "title": "Sidee AI Dib u qaabaynaysaa Codsiyada Ganacsiga",
+      "excerpt": "Sahami sida otomaatignimada caqliga leh, koobiyaasha AI iyo sirta saadaalintu ay uga mid noqonayaan qayb ka mid ah codsiyada ganacsiyada ganacsiyadu ay ku tiirsan yihiin maalin kasta.",
+      "tag": "Sirdoonka Artificial",
+      "category": "WAXGARADKA MACMALKA AH",
+      "summary": "Sahami sida otomaatignimada garaadka leh, koobiyaasha AI iyo sirta saadaalinta ay u beddelaan software-ka ganacsi ee maalinlaha ah una beddelaan aalado firfircoon."
+    },
+    "modern-erp": {
+      "title": "Dar-dargelinta Isbeddelka Ganacsiga ee ERP Casriga ah",
+      "excerpt": "Sahami sida aaladaha casriga ah ee ERP ay isugu xidhaan maaliyadda, soo iibsiga, silsiladda sahayda iyo hawlaha ganacsiga iyada oo loo marayo aasaas dijital ah oo midaysan.",
+      "tag": "Casriga ah ERP",
+      "category": "ERP Casriga ah",
+      "summary": "Qalabka casriga ah ee ERP waxa uu isku xidhaa maaliyadda, wax soo iibsiga, silsiladda sahayda, iyo hawlaha ganacsiga oo noqda qaab hawleed midaysan, wakhtiga dhabta ah."
+    },
+    "cybersecurity": {
+      "title": "Dhisida u adkaysiga Cyber ee Shirkad ku xidhan",
+      "excerpt": "Sahami sida ururadu u xoojin karaan amniga, u ilaalin karaan nidaamyada muhiimka ah iyo u diyaargarowga khataraha guud ahaan bay'ada sii kordheysa ee isku xiran.",
+      "tag": "Amniga internetka",
+      "category": "CYBERSECURITY",
+      "summary": "Sida ganacsiyadu u dhexgalaan habab badan oo daruuro ah, API-yada, iyo nidaamyada deegaanka ee shuraakada, adkeysiga internetku wuxuu xaqiijiyaa hawlgallada muhimka ah ee u adkeysanaya khataraha casriga ah."
+    },
+    "cloud-modernization": {
+      "title": "Casriyeynta Codsiyada Dhaxalka ah ee Daruuraha",
+      "excerpt": "Sahami hab wax ku ool ah oo qiimaynta, casriyaynta iyo dhaqaajinta codsiyada dhaxalka ah ee loo maro la cabbiri karo, naqshadaha daruuriga ah ee sugan.",
+      "tag": "Daruur & Casriyeyn",
+      "category": "DARUUR & Casriyeyn",
+      "summary": "Nidaam habaysan, khariidad dhab ah oo lagu qiimaynayo, dib-u-habayn ku samaynayo, oo loogu guurayo nidaamyada ganacsi ee monolithic si loo helo qaab-dhismeedyada daruuriga ah ee lala-ilaa, la ilaalin karo."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "ISBEDDELKA GANACSIGA",
+      "title": "Casriyeynta Codsiyada Ganacsiga ee Shirkad Xog-Waday",
+      "subtitle": "Codsiga casriga ah iyo aasaaska xogta ayaa ka caawin kara ganacsiyada inay horumariyaan hufnaanta shaqada, isku xidhka nidaamyada ganacsiga iyo abuurista muuqaal wanaagsan oo dhan hawlahooda.",
+      "date": "Sebtembar 2026",
+      "readTime": "7 daqiiqo akhri",
+      "imageCaption": "Aragtida Tignoolajiyada Ganacsiga - Dhismaha Codsiga & Xogta ku xidhan",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Codsiyada Ganacsiga",
+          "desc": "Dhaxalka kala duwan ee CRM, ERP, iyo agabka waaxaha ee ku dhex socda silos."
+        },
+        {
+          "title": "Ilaha Xogta Badan",
+          "desc": "Miisaska hawlgalka oo jajaban, CSV-ga laga soosaaray, iyo qorshayaasha ad-hoc."
+        },
+        {
+          "title": "Databases-ka oo go'ay",
+          "desc": "Guryaha go'doonsan iyo kaydadka xogta daruuraha ee aan la isku xidhin."
+        },
+        {
+          "title": "Warbixinnada & Isticmaalayaasha Ganacsiga",
+          "desc": "Dib-u-heshiisiinta gacanta, xaashiyaha is khilaafsan, iyo warbixinta dib u dhaca."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Codsiyada Ganacsiga",
+          "desc": "Goobaha hawlgelinta muhiimka ah iyo is-dhexyaalka jawaabaha casriga ah."
+        },
+        {
+          "title": "API / Lakabka Is-dhexgalka",
+          "desc": "Sugan, kadinka API ee dhacdo- wado ee isku xidha qulqulka shaqada ee ganacsiga."
+        },
+        {
+          "title": "Adeegyada Xogta",
+          "desc": "Qaababka xogta sayid ee midaysan, dhuumaha, iyo matoorada kaydinta la hagaajiyay."
+        },
+        {
+          "title": "Falanqaynta & Warbixinta",
+          "desc": "Telemetry-waqtiga dhabta ah, moodooyinka semantic, iyo warbixin toos ah."
+        },
+        {
+          "title": "Go'aan-qaadayaasha Ganacsiga",
+          "desc": "Dashboards hawleed toos ah oo bixinaya muuqaal fulineed midaysan."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Codsiyada Ganacsiga",
+          "purpose": "Maaraynta habka ganacsiga"
+        },
+        {
+          "area": "API-yada",
+          "purpose": "Isdhexgalka nidaamka"
+        },
+        {
+          "area": "Keydka xogta",
+          "purpose": "Xogta ganacsi ee habaysan"
+        },
+        {
+          "area": "Is-dhexgalka Xogta",
+          "purpose": "Isku xidhka ilo badan"
+        },
+        {
+          "area": "Falanqaynta",
+          "purpose": "Fikradaha ganacsiga"
+        },
+        {
+          "area": "Kaabayaasha daruuraha",
+          "purpose": "Miisaanka iyo dabacsanaanta"
+        },
+        {
+          "area": "Kormeerka",
+          "purpose": "Kalsoonida iyo waxqabadka"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "muuqa hawleedka oo la hagaajiyay ee qaybaha kala duwan",
+        "Joogteynta xogta ka wanaagsan iyo isha keliya ee runta ganacsiga",
+        "Dedaalka warbixinta gacanta oo la dhimay iyo xog uruurin toos ah",
+        "Waxqabadka codsiga oo la hagaajiyay iyo daahitaanka wax kala iibsiga oo yaraaday",
+        "Is dhexgalka nidaamka sahlan iyada oo loo marayo API-yada la jaan-qaadaya, sugan",
+        "Miisaan weyn oo lagu taageerayo kobaca organic iyo iibsiga",
+        "Aasaaska wanaagsan ee hal-abuurka mustaqbalka iyo korsashada sirdoonka"
+      ],
+      "keyPerspectivePoints": [
+        "Fahamka hababka ganacsiga iyo socodka shaqada dhabta ah",
+        "Isku xirka nidaamyada iyada oo loo marayo heerarka isdhexgalka ee la isku halayn karo",
+        "Hagaajinta tayada xogta, maamulka, iyo moodooyinka xogta",
+        "Codsiyada Casriyeynta iyada oo aan la carqaladayn hawl-maalmeedka",
+        "Abuuritaanka qaab-dhismeed la cabbiri karo oo ku habboon korriinka laastikada",
+        "Awood-siinta muuqaal ganacsi oo ka wanaagsan go'aan-qaadasho firfircoon"
+      ],
+      "sec1Eyebrow": "DHIBAATADA GANACSIGA",
+      "sec1Heading": "Socodka Kakanaanta ee Shirkad Koraysa",
+      "sec1Subtext": "Sida ganacsiyadu u cabbiraan, nidaamyada deegaanka ee tignoolajiyadu si lama huraan ah ayey u fidayaan. Waxa ku bilaabmaya sida xalalka diirada la saarayo ee waaxaha gaarka ah waxay u xuubsiiban karaan shabakad isku xidhan oo nidaamyo kala duwani ah.",
+      "sec2Eyebrow": "HABKA HORUMARINTA",
+      "sec2Heading": "Muuqaal Tignoolajiyada Kakan",
+      "sec2Subtext": "Marka codsiyada ganacsiga, xogta xogta, iyo nidaamyada hawlgalku ay si madaxbanaan u horumaraan, qulqulka macluumaadka ayaa noqda mid kala qaybsan. Fahamka kala qaybsanaantan ayaa ah tallaabada koowaad ee muhiimka ah.",
+      "sec3Eyebrow": "MUUQAALKA XIRIIRKA AH",
+      "sec3Heading": "Qaab-dhismeedka Codsiga Casriga ah",
+      "sec3Subtext": "Shirkaduhu waxay u dhaqaaqaan qaab-dhismeedka dhacdada-koowaad, API-qaab-dhismeedka koowaad halkaas oo xogtu si la isku halleyn karo ugu dhex socoto dhammaan aaladaha asaasiga ah oo ay gaadho go'aan-qaadayaasha wakhtiga dhabta ah.",
+      "sec4Eyebrow": "CAQLI & MUUQAALKA",
+      "sec4Heading": "Xogta ku xidhan & Falanqaynta",
+      "sec4Subtext": "Marka codsiyada ganacsigu ay u wada xidhiidhaan si aan kala go 'lahayn, xogtu waxay joojinaysaa inay noqoto mid ka soo baxday warbixinta oo waxay noqotaa darawalka aasaasiga ah ee firfircoonida hawlgalka.",
+      "sec5Eyebrow": "BLUEPRING DHISMAHA",
+      "sec5Heading": "Aasaaska Farsamada",
+      "sec5Subtext": "Aragti dhammaystiran oo ku saabsan aagagga tignoolajiyada xudunta u ah ee ka kooban aasaas ganacsi oo casri ah, la miisaami karo.",
+      "sec6Eyebrow": "QIIMO TAYO LEH",
+      "sec6Heading": "Saamaynta Ganacsiga",
+      "sec6Subtext": "Casriyeynta qaab dhismeedka arjiga iyo isku xidhka xogta kala daadsan waxay keentaa horumar hawleed la taaban karo oo ururka oo dhan ah.",
+      "ctaHeading": "Diyaar ma u tahay in aad casriyeyso deegaankaaga tignoolajiyada?",
+      "ctaDescription": "Sahami sida qaab-dhismeedka casriga ah ee codsiga, xogta ku xidhan iyo tignoolajiyada la cabbiri karo ay uga caawin karaan ururrada inay hagaajiyaan hufnaanta una diyaargaroobaan koritaanka mustaqbalka.",
+      "ctaButton": "La hadal khubaradayada",
+      "sec1P1": "Jawi ganacsi oo caadi ah, koritaanku wuxuu inta badan soo bandhigaa jiilal badan oo software ah. Maaliyadda, silsiladda sahayda, adeegga macaamiisha, iyo hawlgallada goobta waxay inta badan ku shaqeeyaan xidhmooyin softiweer ah oo kala duwan oo la helay ama la dhisay waqtiyo kala duwan. Sannado badan oo horumar shaqo ah, nidaamyadani waxay horumariyaan qaabab xogtooda, cusbooneysiiyaan cadences, iyo is-dhexgalka quirks.",
+      "sec1P2": "Khilaafku waxa uu ka muuqdaa guud ahaan ganacsiga iyada oo loo marayo cilad hawleed caadi ah:",
+      "sec1List": [
+        {
+          "bold": "Codsiyo ganacsi oo kala go'ay oo badan",
+          "text": "oo u baahan gelid xog nuqul ah iyo tixraac-tixraac-gacmeed."
+        },
+        {
+          "bold": "Keydka xogta oo go'ay",
+          "text": "ku shaqeeya iyada oo aan la hayn maamul dhexe ama diiwaanka sare ee midaysan."
+        },
+        {
+          "bold": "Korka warbixinta buug-gacmeedka",
+          "text": ", halkaas oo kooxaha falanqeeya ay ku qaataan maalmo ay isku toshaan dhoofinta halkii ay daaha ka qaadi lahaayeen fikradaha."
+        },
+        {
+          "bold": "Xog la'aanta",
+          "text": "waaxyaha oo dhan, abuurista jawaabo is khilaafsan oo ku saabsan su'aalaha aasaasiga ah ee hawlgalka."
+        },
+        {
+          "bold": "Kor u kaynta dayactirka arjiga iyo xadaynta miisaanka",
+          "text": ", iyada oo isku xidhka barta-ilaa-dhibcood ee dhaxalka jaban ay u halgamayaan sidii ay u taageeri lahaayeen tirada sii kordheysa ee macaamil ganacsi."
+        }
+      ],
+      "sec1P3": "Wax ka qabashada caqabadahan waxay u baahan tahay in la eego muuqaalka tignoolajiyada ee maaha sida ururinta iibsashada software-ka ee go'doonsan, laakiin sida goob ganacsi oo isku xidhan oo loogu talagalay in lagu taageero firfircoonida istaraatiijiyadeed.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Socodka Xogta Kala Duwan",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Xogta Silos",
+          "desc": "Macmiilka muhiimka ah, dhaqaalaha, iyo xogta alaabada ayaa weli ku xayiran xarumaha waaxaha, iyaga oo ka hortagaya hal aragti oo midaysan ee hawlaha ganacsiga."
+        },
+        {
+          "num": "02",
+          "title": "Nusqaamaha Is-dhexgalka",
+          "desc": "Isku xirka bar-ilaa-dhibcaha iyo soosaarista dufcaddii habeenka waxay abuurtaa daahitaan, heerar guuldarro sare, iyo dayactirka qaaliga ah ee dhammaan kooxaha hawlgalka."
+        },
+        {
+          "num": "03",
+          "title": "Xogta Daahday",
+          "desc": "Marka maamulayaashu ay tahay inay sugaan maalmo dib-u-heshiisiin bisha-dhammaadka ah si ay u fahmaan waxqabadka, go'aan-qaadashadu waa fal-celin halkii la saadaalin lahaa."
+        }
+      ],
+      "modernArchitectureBadge": "Dhismaha Bartilmaameedka",
+      "modernArchitectureTitle": "Qaabka Codsiga Shirkad Ku Xidhan",
+      "sec3P1": "Nashqada arji casriyeysan waxa ay ku beddeshaa isku xirka bar-ilaa-dhibcood ee jajaban oo leh asaas toosan oo go'ay. Samaynta API adag iyo lakabka is dhexgalka, nidaamyadu waxay is dhexgalaan iyada oo la maamulayo, qodobbada ugu dambeeya ee sugan iyadoo la ilaalinayo madax-bannaanida unugyada ganacsiga gaarka ah.",
+      "sec3P2": "Awoodaha farsamo ee muhiimka ah ee isbeddelka dhismahan waxaa ka mid ah:",
+      "sec3List": [
+        {
+          "bold": "Casriyeynta codsiga:",
+          "text": "Kala-soocidda macquulka ganacsiga aasaasiga ah oo loo beddelo adeegyo qaabaysan oo la miisaami karo."
+        },
+        {
+          "bold": "Is dhexgalka API:",
+          "text": "Samaynta is-dhexgal la isku habeeyay, oo dukumeenti ah oo loogu talagalay wada shaqaynta gudaha iyo lammaanaha."
+        },
+        {
+          "bold": "Isku-dhafka xogta iyo kobcinta xogta:",
+          "text": "Midaynta dhuumaha xogta hawlgalka oo leh wanaajin su'aal sare leh."
+        },
+        {
+          "bold": "U fiirsashada & amniga:",
+          "text": "Hirgelinta telemetry dhexe, dariiqyada xisaabinta, iyo kontaroolada gelitaanka doorka ku salaysan ee dhammaan adeegyada."
+        }
+      ],
+      "sec4P1": "Aasaaska xogta isku-dhafan ayaa beddela sida hoggaanka iyo kooxaha hawlgalku ula falgalaan macluumaadka. Halkii ay ku tiirsanaan lahaayeen warbixinnada dib-u-fiirinta ee muujinaya wixii dhacay toddobaadyo ka hor, ururradu waxay helaan telemetry hawlgal toos ah qaybaha ganacsiga.",
+      "sec4P2": "Xogta ku xidhan iyo falanqayntu waxay taageertaa natiijooyinka ganacsi ee waara iyada oo loo marayo:",
+      "sec4List": [
+        {
+          "bold": "Muuqaal hawleed:",
+          "text": "Daah-furnaan joogto ah oo ku saabsan iibka, alaabada, buuxinta, iyo waxqabadka maaliyadeed."
+        },
+        {
+          "bold": "Warbixinnada degdegga ah:",
+          "text": "Isku-darka xogta baahida ee meesha ka saaraysa xaashida buug-gacmeedka ee soo noqnoqda."
+        },
+        {
+          "bold": "Xog joogto ah:",
+          "text": "Qeexitaannada kelida ah ee cabbirrada sida margin, qiimaha nolosha macmiilka, iyo xawaaraha rasaasta."
+        },
+        {
+          "bold": "Fikrado ganacsi oo wanaagsan:",
+          "text": "Ogaanshaha hannaankii saadaalinta ee dusha ka saara khataraha iyo fursadaha wakhti ka hor."
+        },
+        {
+          "bold": "Go'aan-qaadasho la hagaajiyay:",
+          "text": "Tallaabo fulineed oo kalsooni leh oo ay taageerto xogta la ansixiyey iyo hufnaanta."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ARAGTIDA Istaraatiijiyadda",
+      "keyPerspectiveTitle": "Casriyeyntu way ka badan tahay Beddelka Software-ka",
+      "keyPerspectiveLead": "Casriyeynta codsiyada ganacsigu maaha in software hore lagu beddelo qalab cusub. Waa isku toosin ula kac ah ee tignoolajiyada iyo sida ganacsigu u shaqeeyo, u miisaamo, oo u bixiyo qiimaha."
+    },
+    "artificialIntelligence": {
+      "category": "WAXGARADKA MACMALKA AH",
+      "title": "Sidee AI Dib u qaabaynaysaa Codsiyada Ganacsiga",
+      "subtitle": "Sahami sida otomaatignimada garaadka leh, koobiyaasha AI iyo sirta saadaalintu ay uga mid noqonayaan qayb ka mid ah codsiyada ganacsi ee ganacsiyadu ku tiirsan yihiin maalin kasta.",
+      "date": "Sebtembar 2026",
+      "readTime": "6 daqiiqo akhri",
+      "imageCaption": "Aragtida Tignoolajiyada Ganacsiga - Sirdoonka Artificial & Nidaamyada Ganacsiga",
+      "aiUseCases": [
+        {
+          "title": "Saadaasha Silsiladda Wax-soo-saarka",
+          "desc": "Saadaasha kororka baahida iyo dib u dhaca saadka ee telemetry alaab-qeybiyaha taariikhiga ah."
+        },
+        {
+          "title": "Xisaabinta qaansheegta tooska ah",
+          "desc": "Soo saarida shayada xariiqda iyo u dhigma ka dhanka ah amarada wax iibsiga ee eber soo gelida aadanaha."
+        },
+        {
+          "title": "Miisaska Adeegga Sirdoonka",
+          "desc": "Kala soocida iyo xallinta iswada ee Tier-1 ee shaqaalaha IT iyo codsiyada HR."
+        },
+        {
+          "title": "Kahortagga Xubinta Macmiilka",
+          "desc": "Kooxda hab-dhaqanka ee aqoonsanaysa calaamadaha is-jiidhka hore ee wacyigelinta firfircoonida leh."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Go'aamo hawl-qabad oo degdeg ah oo ay horseedaan moodallo saadaalin-waqtiga-dhabta ah",
+        "Yaraynta habaynta xogta soo noqnoqota iyo dib-u-heshiisiinta gacanta",
+        "Wax-soo-saarka shaqaale sare oo leh caawimo koobiye ah",
+        "Qanacsanaanta macmiilka oo la hagaajiyay iyada oo loo marayo khibradaha gaarka ah ee gaarka ah",
+        "Is-habayn joogto ah oo ku salaysan telemetry dhabta ah",
+        "Dabagalka u hoggaansanaanta khatarta ah ee laga saaray iyada oo loo marayo kormeerka xisaab-xidhka ee tooska ah"
+      ],
+      "governancePoints": [
+        "Helitaanka adag ee doorka ku salaysan iyadoo la hubinayo moodooyinka AI waligood inay daadan xogta xasaasiga ah",
+        "Raad sababeed hufan oo u oggolaanaya dib u eegista aadanaha ee ficillada qiimaha sare leh",
+        "Qiimaynta moodeelka joogtada ah si looga ilaaliyo dhalanteedka iyo eexda",
+        "Heerarka caddaynta xogta adag ee la socda GDPR, SOC 2, iyo HIPAA",
+        "Wadooyinka kor u kaca ee bini'aadamka-in-the-loop ee xaaladaha cirifka ee aan la hubin"
+      ],
+      "sec1Eyebrow": "U BEDDELKA CAQLIGA HOOYO",
+      "sec1Heading": "AI ee Codsiyada Ganacsiga",
+      "sec1Subtext": "Sirdoon macmal ah ayaa ka gudbaya mashruucyo tijaabo ah oo u gudbaya codsiyada hawlgelinta ee asaasiga ah ee shirkaduhu ku tiirsan yihiin maalin kasta.",
+      "sec2Eyebrow": "Automation at Miisaanka",
+      "sec2Heading": "Automation garaadka",
+      "sec2Subtext": "Ka gudbida qoraallada ku salaysan xeerka dhaqanka ee u socda socodka shaqo ee garashada oo fahma nuxurka aan habaysan, la qabsiga kala duwanaanshiyaha, una wanaajiya habsocodka si firfircoon.",
+      "sec3Eyebrow": "GARGAAR QORAN",
+      "sec3Heading": "Copilots AI Enterprise",
+      "sec3Subtext": "Iyadoo lagu saleeyay aqoonta ururka iyo amniga ganacsiga, kaaliyeyaasha AI waxay u dhaqmaan sidii shuraako khaas ah oo ku saabsan socodka shaqada maalinlaha ah ee ganacsiga.",
+      "sec4Eyebrow": "CAQLI HOR U EEGID",
+      "sec4Heading": "Sirdoonka saadaalinta",
+      "sec4Subtext": "U beddelashada diiwaannada ganacsiga ee taariikhiga ah iyo quudinta hawlgelinta waqtiga-dhabta ah ee loo beddelo aragti la fulin karo.",
+      "sec5Eyebrow": "CODSIGA DHABTA AH",
+      "sec5Heading": "Ganacsiga AI Kiisaska Isticmaalka",
+      "sec5Subtext": "Siyaabaha wax ku oolka ah ee hogaaminaya ururadu waxay u adeegsadaan garaadka macmalka ah ee guud ahaan hawlaha ganacsiga aasaasiga ah.",
+      "sec6Eyebrow": "QIIMAHA Istaraatiijiyadda",
+      "sec6Heading": "Faa'iidooyinka Ganacsiga",
+      "sec6Subtext": "Marka si taxaddar leh loo fuliyo xogta ganacsiga ee la xukumo, AI waxay furaysaa faa'iidooyin tayo leh oo la taaban karo.",
+      "ctaHeading": "U sahamin AI Fursadaha Ganacsigaaga",
+      "ctaDescription": "Soo ogow sida otomaatignimada caqliga leh, duuliyayaasha shirkadaha iyo moodooyinka saadaaliya ay u furi karaan hufnaanta hawlgelinta nidaamyadaaga asaasiga ah.",
+      "ctaButton": "La hadal khubaradayada",
+      "sec1P1": "Muddo sanado ah, sirdoonka macmalka ah ee ganacsiga waxaa loola dhaqmi jiray sidii karti dibadeed: qaab lagu tabobaray go'doon, bandhig sanduuqa ciid ah, ama chatbot go'doon ah oo laga heli karo marin gaar ah. Maanta, jaan-goynta ayaa asal ahaan beddeshay. Shirkadda AI ee saamaynta sare leh waxay si toos ah ugu xidhan tahay nidaamka diiwaanka-ERP-yada, CRM-yada, goobaha raasamaal ee dadka, iyo matoorada silsiladda sahayda halkaas oo ganacsiga dhabta ahi ka dhaco.",
+      "sec1P2": "Marka sirdoonku ka shaqeeyo gudaha nidaamka diiwaanka, waxa uu dhaxlaa xudduudaha amniga ee ururka, moodooyinka xogta, iyo caqliga ganacsiga. Si fudud uma dhalin jawaabo guud; waxay ku shaqaysaa amarada tooska ah, waxay tarjumtaa tigidhada taageerada furan, waxay heshiisisaa qaansheegyada alaab-qeybiyaha, waxayna ka caawisaa shaqaalaha isku xidhka saxda ah ee ay maraan maalin kasta.",
+      "sec1P3": "Isbeddelkani waxa uu ka dhaqaajiyaa software-ka shirkadda xog-ururin dadban oo sugaya furayaasha bini'aadamka una beddelo goobo firfircoon oo saadaaliya baahiyaha, toosiya tillaabooyinka, iyo talooyinka dusha sare ee wakhtiga.",
+      "sec2P1": "Habka Automation-ka Robotic-ga Dhaqanka (RPA) wuxuu aad ugu sarreeyay go'aaminta, xoqitaanka shaashadda soo noqnoqda. Si kastaba ha ahaatee, qaanuunka adagi wuxuu dejiyaa jebinta mar kasta oo foomku isbeddelo, qaab dukumeenti lama filaan ah yimaado, ama ka reeban ayaa dhaco. Automation-ka caqliga leh ayaa buundooyinka kala qaybsanaanayaa isagoo isku daraya sababaynta garashada iyo fulinta wax kala iibsiga:",
+      "sec2List": [
+        {
+          "bold": "Automation socodka shaqada:",
+          "text": "Abaabulka hawlgallada isku dhafan ee qaybaha, habaynta hawlaha ku salaysan degdegga iyo waddooyinka xallinta taariikhiga ah."
+        },
+        {
+          "bold": "Habaynta dukumentiyada sirdoonka:",
+          "text": "Gelitaanka PDF-yada, iimaylada, warqadaha dhoofinta, iyo qandaraasyada aan habaysanayn, iyaga oo u beddelaya macaamil ganacsi habaysan."
+        },
+        {
+          "bold": "Automation hawl garaadka:",
+          "text": "Toos u samaynta ansaxinta tillaabooyinka badan ee hawl-galka — sida ku habboon amarada iibsiga ee ka dhanka ah rasiidhada iyo bayaanada bangiga."
+        },
+        {
+          "bold": "Hagaajinta habka:",
+          "text": "Si joogto ah u falanqeynaya diiwaannada habraaca si loo aqoonsado caqiidooyinka wareegga-waqtiga iyo ku talinaynta sifaynta socodka shaqada ee la beegsanayo."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Raadinta Macluumaadka",
+          "desc": "Dib-u-soo-celinta Semantic ee saldhigyada aqoonta la qaybiyey, siyaasadaha intranetka, qeexida alaabta, iyo xallinta tigidhada taariikhiga ah iyada oo aan la qiyaasin ereyga muhiimka ah."
+        },
+        {
+          "icon": "📝",
+          "title": "Soo koobida dukumeentiga",
+          "desc": "Dhaqdhaqaaqa degdega ah ee RFP-yada dhaadheer, heshiisyada iibiyeyaasha, qeexitaannada farsamada, iyo wax ka beddelka sharci ee qoraallada fulinta ee la fulin karo iyo liiska hubinta khatarta ah."
+        },
+        {
+          "icon": "✨",
+          "title": "Jiilka nuxurka",
+          "desc": "Qoritaanka la caawiyey ee soo jeedinta macmiilka, dukumentiyada hawlgelinta, habraacyada hawlgelinta caadiga ah (SOPs), iyo cusboonaysiinta macaamiisha caadiga ah ee la socota heerarka summada."
+        },
+        {
+          "icon": "📈",
+          "title": "Falanqaynta Xogta",
+          "desc": "U turjumida weydiimaha wada hadalka ee su'aalo gorfayn adag, abuurista jaantuska duulista oo kooban iyo muujinta kuwa muhiimka ah ee hogaaminta."
+        },
+        {
+          "icon": "🔄",
+          "title": "Socodka Shaqada Ganacsiga",
+          "desc": "Si toos ah uga bilawda wax kala iibsiga si toos ah u sheekeysiga — sida jadwal u samaynta agabka, samaynta tigidhada, cusboonaysiinta diiwaanada, ama soo gudbinta shuruudaha iibka."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Helitaanka doorka ku salaysan",
+          "desc": "Hubinta jawaabaha duuliyaha si adag u ixtiraamaan heerarka oggolaanshaha isticmaalaha, ilaalinta dhaqaalaha sirta ah, faylasha HR, iyo hantida garaadka la ilaaliyo."
+        }
+      ],
+      "sec4P1": "Iyadoo moodooyinka wax-soo-saarka ahi ay aad ugu sarreeyaan fahamka iyo isku-dubbaridka luqadda, sirta saadaalintu waxay diiradda saartaa qaababka xisaabeed ee ku dhex qarsoon xog-ururinta ganacsiga habaysan. Qaababka saadaasha ee isku xidhan waxa ay awood siinayaan ururada in ay odorosaan caqabadaha hawl-galka ka hor inta aanay carqaladayn hawlaha:",
+      "sec4List": [
+        {
+          "bold": "Saadaasha hawleed:",
+          "text": "Saadaasha isbeddellada dakhliga, xawaaraha alaabada, iyo baahida kheyraadka iyadoo la isku duba ridayo tilmaamayaasha xilliyeedka xawaaraha dhuumaha ee waqtiga-dhabta ah."
+        },
+        {
+          "bold": "Falanqaynta saadaalinta:",
+          "text": "Tilmaanta khataraha qallafsan ee macmiilka, wareegyada xaalufka dayactirka, iyo dib u dhaca silsiladda sahayda iyadoo ay weli jirto waqti faragelin ah."
+        },
+        {
+          "bold": "Aqoonsiga khatarta:",
+          "text": "Calaamadaynta cilladaha ku jira dhaq-dhaqaaqyada maaliyadeed, diiwaan-gelinta u hoggaansanaanta, iyo qaababka wax-soo-iibsiga ee iibiyaha ka hor inta aysan kordhin."
+        },
+        {
+          "bold": "Codsiga saadaalinta:",
+          "text": "Iswaafajinta saadaasha iibka ee leh awooda wax soo saarka iyo heerarka kaydka kaydka si loo ilaaliyo raasamaal shaqada."
+        }
+      ],
+      "keyPerspectiveEyebrow": "MAAMULKA GANACSIGA",
+      "keyPerspectiveTitle": "Kalsoonida, Kormeerka & Ilaalada",
+      "keyPerspectiveLead": "AI waa la isku halleyn karo oo keliya sida aasaaska xogta hoose iyo maamulka ku xeeran. Korsashada ganacsi waara waxay u baahan tahay anshax-dhismeed ula kac ah:"
+    },
+    "modernErp": {
+      "category": "ERP Casriga ah",
+      "title": "Dardargelinta Isbeddelka Ganacsiga ERP Casriga ah",
+      "subtitle": "Sahami sida aaladaha casriga ah ee ERP ay isugu xidhaan maaliyadda, wax soo iibsiga, silsiladda sahayda iyo hawlaha ganacsiga iyada oo loo marayo aasaas dijital ah oo midaysan.",
+      "date": "Ogosto 2026",
+      "readTime": "6 daqiiqo akhri",
+      "imageCaption": "Aragtida Tignoolajiyada Ganacsiga - ERP & Hawlgallada Ganacsi ee Ku Xidhan",
+      "connectedFunctions": [
+        {
+          "title": "Maamulka Maaliyadda",
+          "desc": "Cusboonaysiinta buug-gacmeedka-waqtiga-dhabta ah, aqoonsiga dakhliga otomaatigga ah, iyo dib-u-heshiisiinta lacagta badan ee degdegga ah."
+        },
+        {
+          "title": "Silsiladda Saadka & Saadka",
+          "desc": "Dhamaadka-ilaa-dhamaadka muuqaalka alaabada, tayaynta bakhaarrada, iyo telemetry waxqabadka alaab-qeybiyaha."
+        },
+        {
+          "title": "Hantida Aadanaha & Xoog-shaqaynta",
+          "desc": "Xariiradaha shaqaalaha ee iskaa u adeega, socodsiinta mushaar bixinta otomaatiga ah, iyo qorshaynta xirfadda isku dhafan ee meertada nolosha."
+        },
+        {
+          "title": "Soo iibsiga & Ilaha",
+          "desc": "Oggolaanshaha iibka tooska ah, u hoggaansanaanta qandaraaska iibiyaha, iyo falanqaynta kharashaadka firfircoon."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Dhismaha Daruuraha- Dhaladka ah",
+          "desc": "Xisaabinta Elastic-ka iyada oo aan kaabeyaasha goobta la dhaafin ama la xidhin nooca qaska."
+        },
+        {
+          "title": "Furan API Ecosystem",
+          "desc": "Xidhiidhiyayaasha horay loo dhisay oo awood u siinaya isku xidhka xogta laba-geesoodka ah ee aan kala go'a lahayn ee leh adeeg-yaraha gaarka ah iyo qolalka CRM."
+        },
+        {
+          "title": "Falanqaynta ku duugan",
+          "desc": "Dashboard-ka tooska ah ee hoos-u-dhisyada xaashida dheelitirka heerka sare ah una geliso diiwaannada wax kala iibsiga."
+        },
+        {
+          "title": "Kiciyeyaasha Socodka Shaqada Atoomatiga ah",
+          "desc": "Dhacdada ay wado waxay kicisaa fulinta hawlgallada waaxeed caadiga ah si madaxbanaan."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Ilaha runta ah ee meesha ka saaraya warbixinnada waaxyaha ee iska soo horjeeda",
+        "Hoos u dhac weyn oo ku yimaadda wareegyada dhow ee bisha-dhammaadka iyo dhammaadka-dhammaadka",
+        "Alaabada-waqtiga-dhabta ah iyo aragtida saadka oo yaraynaysa saadka",
+        "Kordhinta dayactirka IT-ga oo la dhimay iyada oo loo marayo cusboonaysiinta daruuraha-hooyo",
+        "Dabagalka u hoggaansanaanta midaysan ee dhammaan awoodaha cashuuraha ee gobollo badan",
+        "Sida ugu dhaqsaha badan u fuulida hay'adaha la helay ee lafo-dhabar hawleed wadaag ah"
+      ],
+      "erpStrategyPoints": [
+        "Isku-habaynta ERP-ga qaabdhismeedkeeda iyo socodka shaqada ee asaasiga ah ka hor qaabaynta",
+        "Xulashada moodooyinka hawlgelinta modular si loo xaqiijiyo guulo muhiim ah oo degdeg ah",
+        "Kala horraysiinta hayaanka xogta master-ta tayada sare leh iyo dib-u-heshiisiinta",
+        "Ku-xidhka maamulka isbeddelka tooska ah iyo barnaamijyada tababarka doorka ku-habboon",
+        "Naqshadaynta albaabada API ee ballaadhinta is-dhexgalka mustaqbalka ee bilaa khilaaf"
+      ],
+      "sec1Eyebrow": "Laf-dhabarta Hawl-galka",
+      "sec1Heading": "Waa maxay sababta ERP-da casriga ahi ay muhiim u tahay",
+      "sec1Subtext": "ERP hadda ma aha xisaabinta xafiiska dambe. Waa qaabka hawlgalka ee ganacsiga casriga ah ee lagu muujiyay software.",
+      "sec2Eyebrow": "NIDAAMKA ISKU dhafka ah",
+      "sec2Heading": "Hawlaha Ganacsi ee Isku Xidhan",
+      "sec2Subtext": "Qiimaha urureed ee dhabta ahi waxa uu soo baxaa marka hawlaha ganacsi ee asaasiga ahi ay si wadajir ah uga wada ganacsadaan aasaaska dhijitaalka ah ee la wadaago.",
+      "sec3Eyebrow": "WANAAGSAN-SHAQAYNTA ISKU-TALAGAY",
+      "sec3Heading": "Hawlgallada Midaysan & Socodka Xogta",
+      "sec3Subtext": "Burburinta darbiyada isgaadhsiinta ee u dhexeeya waaxaha si ay awood ugu siiso dareeraha, socodka shaqada ee isku xidhan.",
+      "sec4Eyebrow": "TELEMETERYADA SHAQADA",
+      "sec4Heading": "Muuqaalka Ganacsiga-Waqtiga dhabta ah",
+      "sec4Subtext": "Isku-dubbarididda cabbirrada hawl-fulinta ee dashboard-yada fulinta hufan ee ka tarjumaya xaqiiqooyinka ganacsi ee hadda jira.",
+      "sec5Eyebrow": "DHISMAHA MIDAAMKA MUHIIMKA AH",
+      "sec5Heading": "Awoodaha ERP Casriga ah",
+      "sec5Subtext": "Tilmaamaha qaab-dhismeedka ee kala sooca aaladaha ERP-ga ee casriga ah iyo rakibaadda dhaxalka adag.",
+      "sec6Eyebrow": "SAAMEYN TAYO LEH",
+      "sec6Heading": "Faa'iidooyinka Ganacsiga",
+      "sec6Subtext": "Isku xidhka hawlaha ganacsiga asaasiga ah ee aasaaska dhijitaalka ah ee midaysan waxa ay dhalisaa adkaysi urureed oo la qiyaasi karo.",
+      "ctaHeading": "Casriyeyn Hawlaha Ganacsigaaga",
+      "ctaDescription": "Sahami sida aaladaha casriga ah ee ERP ay isugu xidhaan maaliyadda, wax soo iibsiga, silsiladda sahayda iyo hawlaha ganacsiga iyada oo loo marayo aasaas dijital ah oo midaysan.",
+      "ctaButton": "La hadal khubaradayada",
+      "sec1P1": "Goobaha ganacsi ee dhaqsaha badan u socda, nidaamyada Qorshaynta Ilaha Ganacsiga ee soo jireenka ah ayaa had iyo jeer la halgama. Waxaa la dhisay xilli habayn lagu samaynayo dufcaddii iyo adeegayaasha maxalliga ah ee go'doonsan, ERP-yada dhaxalka ah ayaa si aad ah loo habeeyey, way adagtahay in la cusboonaysiiyo, oo si xanuun badan aan mugdi lahayn. Hawlgallada ganacsi ee muhiimka ah waxay u shaqaynayeen siloo is barbar socda, iyagoo ku tiirsan dhoofinta jilicsan ee habbeenkii si ay ula midoobaan buugaagta bakhaarada.",
+      "sec1P2": "Casriga ah, ERP-da daruuriga ah ayaa asal ahaan dib u qeexaysa firfircoonidaan. Waxa ay u shaqaysaa sidii laf dhabarta dhijitaalka ah ee midaysan ee ganacsiga—aasaaska nolosha halkaas oo maaliyadda, soo iibsiga, silsiladda sahayda, agabka iyo agabka bini’aadmigu ay wax kaga beddelaan qaab xogta la wadaago.",
+      "sec1P3": "Iyada oo la keenayo hawlgallada asaasiga ah hal deegaan oo iswaafajisan, ERP casriga ah ayaa meesha ka saaraysa indhoolayaasha shaqada ee hoos u dhigaya kobaca, taas oo awood u siinaysa hoggaamiyeyaasha in ay maamulaan ganacsiga iyaga oo isticmaalaya calaamadaha waqtiga-dhabta ah halkii ay ka ahaan lahaayeen soo koobid taariikhi ah.",
+      "sec3P1": "Silo-hawleedku waa dhif iyo naadir dhibaato dadka; waa dhibaatooyin dhismeed. Marka adeegga macaamiisha, kooxaha wax soo iibsiga, iyo kooxaha bakhaarku ay ku shaqeeyaan codsiyada go'an, gacan-ku-saar kastaa wuxuu u baahan yahay iimaylo gacanta ah, xaashida xaashida, iyo wicitaannada taleefanka. Khaladaadku waa bataan, qaansheegtooyinku waa la hayaa, iyo ballan qaadyada macaamiisha way siibtaan.",
+      "sec3P2": "Casrigan ERP waxa uu tan wax uga qabtaa iyada oo loo sii marayo xogta midaysan iyo habsocodka hab-socodka ay waddo dhacdada:",
+      "sec3List": [
+        {
+          "bold": "Dalab-lacag-lacageed ah oo la isku daray:",
+          "text": "Marka dalabka macmiilka la dhigo, alaabada kaydka si toos ah ayay u kaydsan tahay, sumadaha rarida ayaa abuurma, iyo ledgerada biilasha ayaa isla markiiba cusboonaysiiya."
+        },
+        {
+          "bold": "Daah-furnaanta soo iibsiga-lagu bixiyo:",
+          "text": "Dalabka wax iibsiga, rasiidhada alaabada, iyo qaansheegyada iibiyuhu waxay si toos ah ula jaan qaadaan dib-u-heshiisiinta 3-dariiqa ah, iyaga oo calaamadinaya kaliya ka reebanaanshaha dib u eegista aadanaha."
+        },
+        {
+          "bold": "Shaqada midaysan iyo kharashka hawlgalka:",
+          "text": "Xaashiyaha wakhtiga mashruuca, qoondaynta mushaharka, iyo kharashyada hawlgalka tooska ah si toos ah xarumaha kharashka wakhtiga dhabta ah."
+        }
+      ],
+      "sec4P1": "Ka shaqaynta shirkad aan lahayn muuqaal midaysan waxay la mid tahay duulista ceeryaamo cufan oo leh qalab daahsan. Casrigan ERP wuxuu bixiyaa telemetry-waqtiga-dhabta ah dhinac kasta oo ganacsi:",
+      "sec4List": [
+        {
+          "bold": "Dashboards fulinta tooska ah:",
+          "text": "Aragtida degdega ah ee xad-dhaafka guud, socodka lacagta caddaanka ah ee shaqaynaysa, deymaha furan, iyo dalbashada dib-u-dhacyada iyada oo aan la sugin xidhitaanka dhammaadka muddada."
+        },
+        {
+          "bold": "Warbixinta hawlgelinta is-adeegga:",
+          "text": "Madaxda waaxdu waxay dhisi karaan su'aalo caadi ah waxayna hoos u dhigi karaan soo koobida heerka-shirkadda ilaa shayada wax kala iibsiga."
+        },
+        {
+          "bold": "Xogta guud ee sare:",
+          "text": "Ciribtirka tirooyinka is burinaya iyada oo la samaynayo xogta sayid ee la xukumo ee macaamiisha, iibiyeyaasha, iyo buugaagta alaabta."
+        },
+        {
+          "bold": "Ogeysiisyo anomaly oo firfircoon:",
+          "text": "Ogeysiis otomaatig ah ayaa ogeysiiya maamulayaasha isla markaaba marka xad-dhaafku hoos uga dhaco heerka, alaab-qeybiyaha uu hooseeyo, ama silbashka alaab-qeybiyaha."
+        }
+      ],
+      "keyPerspectiveEyebrow": "Falsafadda Beddelka ERP",
+      "keyPerspectiveTitle": "Casriyeynta Pragmatic ee Dib-u-habaynta Monolithic",
+      "keyPerspectiveLead": "Isbeddelka ERP-ga casriga ahi waxa uu guulaystaa marka ururadu ula dhaqmaan sidii kor-u-qaad hawleed horumarineed halkii ay ka ahaan lahaayeen wax kasta oo IT carqaladeeya:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Dhisida u adkaysiga internetka ee shirkad ku xidhan",
+      "subtitle": "Sahaminta sida ururadu u xoojin karaan amniga, u ilaalin karaan nidaamyada muhiimka ah iyo u diyaargarowga khataraha ka jira deegaannada sii kordheysa ee isku xiran.",
+      "date": "Sebtembar 2026",
+      "readTime": "8 daqiiqo akhri",
+      "imageCaption": "Aragtida Tignoolajiyada Ganacsiga - Difaaca Khatarta & Dhismashada Kalsoonida Zero-Trust",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Ogaanshaha",
+          "desc": "Log-waqtiga-dhabta ah ee galinta iyo isku xidhka anomaly SIEM ee dhammaan meelaha dhamaadka daruuraha iyo culaysyada shaqada."
+        },
+        {
+          "title": "Haysashada & Go'doominta",
+          "desc": "Xeerarka karantiilka shabakada otomaatiga ah ayaa go'doominaya weelasha ama waraaqaha aqoonsiga isla markaaba."
+        },
+        {
+          "title": "Dib-u-heshiisiin & Sababta-Sababta",
+          "desc": "Baahinta degdega ah iyo baadhista dhijitaalka ah ee caddaynaysa vectorka jebinta saxda ah."
+        },
+        {
+          "title": "Adkeysiga & Adkeynta",
+          "desc": "Jawaab celin joogto ah oo ku saabsan kaydka aan la bedeli karin, ilaalinta siyaasadda, iyo jilitaanka kooxda-cas ee otomaatiga ah."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Hoos-u-dhac weyn oo ku yimaadda nuglaanshaha dusha sare ee hantida daruuraha",
+        "La dammaanad qaaday sii socoshada hawlgalka iyo soo kabashada musiibada iyada oo ugu yar RTO/RPO",
+        "Wadarta kalsoonida u hogaansanaanta guud ahaan ISO 27001, SOC 2, HIPAA, iyo GDPR",
+        "Ilaalinta hantida garaadka ee meheradda asaasiga ah iyo diiwaanka macaamiisha sirta ah",
+        "Iibiyaha toosan iyo maamulka khatarta ah ee qolo saddexaad iyada oo loo marayo kontaroollo midaysan",
+        "Kalsoonida macmiilka iyo maalgeliyaha oo la xoojiyey oo ay taageerto goobaha ammaan ee eber-kalsoonida la xaqiijiyey"
+      ],
+      "zeroTrustPrinciples": [
+        "Weligaa ha aaminin, had iyo jeer xaqiiji: Xaqiijinta cad ayaa looga baahan yahay macaamil kasta",
+        "Helitaanka Mudnaanta Ugu Yar: Xuduudaha doorka guud ee xaddidaya dhaqdhaqaaqa khatarta dambe",
+        "Ka soo qaad Jebinta: Dabagal joogto ah oo la socodka khatarta ah, sirta gaadiidka iyo wakhtiga nasashada",
+        "Qayb-yar-yar: Dab-damisyada shabakadu waxay go'doomiyaan culayska shaqada ee shakhsi ahaaneed",
+        "Telemetry Joogta ah: Falanqaynta habdhaqanka tooska ah ee tilmaamaysa codsiyada kalfadhiga aan caadiga ahayn"
+      ],
+      "sec1Eyebrow": "XEERARKA BADBAADINTA",
+      "sec1Heading": "Muuqaalka Badbaadada Ganacsiga ee Isku Xidhan",
+      "sec1Subtext": "Maadaama ururada casriga ahi ay ku xidhaan codsiyo badan, deegaan daruuro ah, shaqaalaha fogfog, aaladaha mobilada, iyo la-hawlgalayaasha dhinac saddexaad, wareega amniga dhaqameedku wuu joogsanayaa inuu jiro.",
+      "sec2Eyebrow": "DIFAAC DHEERAAD AH",
+      "sec2Heading": "Ilaalinta Hanjabaadaha Kala Duwan",
+      "sec2Subtext": "Difaaca firfircoon ee ilaaliya kaabayaasha muhiimka ah, xogta shirkadaha xasaasiga ah, iyo nidaamyada hawlgalka.",
+      "sec3Eyebrow": "XUDUUDDA AMNIGA CUSUB",
+      "sec3Heading": "Aqoonsiga & Maaraynta Helitaanka (IAM)",
+      "sec3Subtext": "Aqoonsigu waa diyaaradda xakamaynta aasaasiga ah ee amniga casriga ah. Ku dhawaad ​​dhammaan jebinta amniga ee halista ah waxay ku bilowdaan aqoonsiyo la jabiyay halkii ay ka isticmaali lahaayeen ka faa'iidaysiga software-ka.",
+      "sec4Eyebrow": "ARCHITECTURAL PARADIGM",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust ma aha hal badeeco ama qalab. Waa istaraatijiyad dhismeed oo ku salaysan mabda' toosan: ha aaminin cid gudaha ku jirta ama ka baxsan shabakada si caadi ah.",
+      "sec5Eyebrow": "MAAMULKA KAABAYAASHA",
+      "sec5Heading": "Tixgelinta Amniga daruuraha",
+      "sec5Subtext": "Ilaalinta culayska shaqada ee daruuraha guud, qaab-dhismeedyada isku-dhafka ah, iyo meelaha weelka la qaybiyey.",
+      "sec6Eyebrow": "U adkaysiga hawlqabadka",
+      "sec6Heading": "Diyaargarowga Dhacdada: Kahortagga Ka-hortagga",
+      "sec6Subtext": "U adkaysiga internetka ee runta ah waxay aqbashaa in shilalka dhici karaan. U diyaargarowgu waxa uu diiradda saaraa xakamaynta degdega ah, carqaladaynta ganacsiga ugu yar, iyo soo kabashada la xaqiijiyay.",
+      "sec7Eyebrow": "QIIMAHA Istaraatiijiyadda",
+      "sec7Heading": "Faa'iidooyinka Ganacsiga",
+      "sec7Subtext": "Dhisidda shirkad u adkaysata internetka waxay ilaalisaa qiimaha ururka, heerka sharci, iyo sumcadda suuqa.",
+      "ctaHeading": "Xooji Ammaanka Ganacsigaaga",
+      "ctaDescription": "Sahaminta sida ururadu u xoojin karaan amniga, u ilaalin karaan nidaamyada muhiimka ah iyo u diyaargarowga khataraha ka dhacaya deegaannada sii kordheysa ee isku xiran.",
+      "ctaButton": "La hadal khubaradayada",
+      "sec1P1": "Waagii dhaxalka ee IT-ga ganacsiga, ammaanku waxa uu ku shaqaynayay caqiido qalcaddii-iyo-moat: wax kasta oo ku jira shabakadda xafiiska shirkadda waxaa loo malaynayay in la aamini karo, halka wax kasta oo ka baxsan loo tixgeliyey mid aan la aamini karin. Hal dab-damis oo shirkadeed ayaa ilaaliyay serfarada gudaha, xog-ururinta, iyo kombayutarada miiska.",
+      "sec1P2": "Ganacsiga maanta waxa uu ka soo baxay darbiyo jireed. Culaysyada shaqadu waxay ku nool yihiin jawiyada daruuraha badan (AWS, Azure, GCP), shaqaaluhu waxay ka helaan codsiyada ganacsiga meelo kala duwan, iyo APIs waxay si joogto ah u beddelaan xogta hawlgallada xasaasiga ah bixiyeyaasha saadka ee dibadda, hay'adaha maaliyadeed, iyo iibiyaasha SaaS.",
+      "sec1P3": "In kasta oo isku xidhnaantaan sare-u-qaadistani ay keento firfircooni ganacsi oo baaxad leh, waxa ay si weyn u ballaadhisay dusha weerarka ganacsiga. Meel kasta oo API ah, calaamadda aqoonsiga, aaladda mobilada ee ku xiran, iyo is dhexgalka SaaS waxay u taagan tahay soo-gaadhista suurtagalka ah. Ilaalinta ganacsiga dhabta ah waxay u baahan tahay in laga beddelo difaaca ku salaysan wareegtada loona beddelo firfircooni, dhammaadka-ilaa-dhamaadka adkeysiga internetka.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Ogaanshaha Hanjabaadda",
+          "desc": "Sirdoonka khatarta ah ee ku caawinaya barashada mashiinka kaas oo kormeera qaababka shabakadaha aan caadiga ahayn, xadgudubka aqoonsiga, iyo dayacanka maalinta eber ah wakhtiga dhabta ah."
+        },
+        {
+          "icon": "📡",
+          "title": "Kormeerka Amniga",
+          "desc": "Xarunta Hawlgallada Nabadgelyada Dhexe (SOC) ee telemetry xidhiidhiya dhacdooyinka server-yada, kooxaha weelka, bixiyayaasha aqoonsiga, iyo meelaha dhamaadka ah."
+        },
+        {
+          "icon": "🔍",
+          "title": "Maareynta Nuglaanta",
+          "desc": "Baadhitaan joogto ah oo toos ah oo dayacanka kaabeyaasha, kaydka koodhka isha, iyo diiwaannada weelka si loo saxo daciifnimada si firfircooni leh."
+        },
+        {
+          "icon": "🔒",
+          "title": "Ilaalinta Xogta",
+          "desc": "Sirin adag oo ku-meel-gaar ah (TLS 1.3) iyo nasashada (AES-256), oo ay weheliso maamulka ka hortagga luminta xogta granular (DLP) si looga hortago daadinta hantida garaadka."
+        }
+      ],
+      "sec3P1": "Ilaalinta hantida ganacsigu waxay u baahan tahay in la hubiyo in aqoonsi kasta - hadday tahay fulinta bini'aadamka, qandaraasle dibadeed, ama koontada adeegga software-ka madaxbannaan - uu ansixiyay oggolaanshaha saxda ah ee ay gasho.",
+      "sec3List": [
+        {
+          "bold": "Maamulka aqoonsiga dhexe:",
+          "text": "Single Sign-On (SSO) iyo jaangooyooyinka aqoonsiga federaaliga ah ee baabi'iya bakhaarka sirta ah ee dhammaan codsiyada."
+        },
+        {
+          "bold": "Xaqiijinta qodobbada badan ee la qabsiga (MFA):",
+          "text": "phishing u adkaysta furayaasha qalabka FIDO2 iyo caqabadaha ku salaysan khatarta ah ee hawlaha maamulka xasaasiga ah."
+        },
+        {
+          "bold": "Kantaroolka gelitaanka granular:",
+          "text": "Kaalin-ku-salaysan-ku-salaysan (RBAC) iyo sifo-ku-salaysan (ABAC) kontaroolada gelitaanka ee lagu dhaqan geliyo API iyo heerarka xogta xogta."
+        },
+        {
+          "bold": "Mabaadi'da mudnaanta ugu yar:",
+          "text": "Siinta ku meel gaadhka ah, wakhtiga saxda ah (JIT) oo si toos ah u dhacaysa marka hawlaha maamulka la soo gabagabeeyo."
+        }
+      ],
+      "keyPerspectiveEyebrow": "CAQIIDADA XARUNTA AMANAANTA EE EBER",
+      "keyPerspectiveTitle": "Xaqiijinta Joogtada ah ee Kalsoonida Indho la'aanta",
+      "keyPerspectiveLead": "Qaab dhismeedka Zero Trust, aaminaadda daahsoon ee ku salaysan goobta shabakada gabi ahaanba waa la baabi'iyay. Wax kala iibsi kasta, xog xog-waraysi, iyo galitaanka isticmaaluhu waa inay si joogto ah u caddeeyaan sharcinimadeeda:",
+      "cloudSecurityCards": [
+        {
+          "title": "Masuuliyadda La Wadaago",
+          "desc": "Maamul cad oo kala saaraya badbaadada kaabayaasha jidheed ee bixiyaha daruuraha iyo masuuliyada shirkada ee sirta xogta, siyaasadaha IAM, iyo koodka codsiga."
+        },
+        {
+          "title": "Kaabayaasha sida Xeer (IaC)",
+          "desc": "Ma beddeli karo, habaynta daruuraha la hubin karo ee lagu maareeyo koodka. Scanners-ka-code-ku-salaysan ee tooska ah ayaa xannibaya qaabaynta khaldan iyo baaldiyada bannaanka ka hor inta aan la dirin."
+        },
+        {
+          "title": "Konteenarada & Ammaanka Kubernetes",
+          "desc": "Wakhtiyada runtimes ee weelka adag, diiwaanka sawirada saxeexan, qaybinta yar ee shabakada, iyo maaraynta sirta tooska ah ee ka ilaalinaysa aqoonsiga meel ka baxsan meelaha kaydka ah."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "DARUUR & Casriyeyn",
+      "title": "Casriyeynta Codsiyada Dhaxalka ah ee Daruuraha",
+      "subtitle": "Sahaminta hab wax ku ool ah oo lagu qiimeeyo, casriyaynta iyo dhaqaajinta codsiyada dhaxalka ah ee loo maro la cabbiri karo, naqshadaha daruuriga ah ee sugan.",
+      "date": "Sebtembar 2026",
+      "readTime": "6 daqiiqo akhri",
+      "imageCaption": "Aragtida Tignoolajiyada Ganacsiga - Dib-u-habaynta iyo Kaydka Daruur- Dhalashada",
+      "modernizationApproaches": [
+        {
+          "title": "Dib u habayn (Sawir iyo Shift)",
+          "desc": "Culayska shaqada ee u wareejinta mashiinnada farsamada gacanta si degdeg ah oo leh wax ka beddelka koodka ugu yar."
+        },
+        {
+          "title": "Dib-u-habaynta (Sawir iyo Dib-u-qaabayn)",
+          "desc": "Kor u qaadida qaab-dhismeedka runtime, qaadashada xog ururinta daruuraha la maareeyay, oo haga hawlaha."
+        },
+        {
+          "title": "Dib u dhis",
+          "desc": "Burburinta monoliths-ka oo laga dhigo adeeg-yaraha weel ku jira iyo API-yada server-la'aanta ay wadaan."
+        },
+        {
+          "title": "Beddel ( Casriyeynta SaaS )",
+          "desc": "Ka fariista nidaamyada dhaxalka ah ee joogtada ah si ay u door bidaan ujeedo loo dhisay software Cloud Cloud."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Qiimaynta Dhaxalka",
+          "desc": "Maabaynta ku-tiirsanaanta tooska ah, xisaabinta deynta farsamada, iyo dhibcaha u-diyaargarowga daruuraha."
+        },
+        {
+          "title": "Dhismaha Bartilmaameedka",
+          "desc": "Nashqadaynta adeeg-yaraha ee modul-ka ah, weelasha dusha sare ee weel, iyo qaab-habboon oo toos ah IaC."
+        },
+        {
+          "title": "Socdaalka Wajiga ah",
+          "desc": "Siidaynta Canary, isku-dubarid xogta laba-qoraal ah, iyo mowjadaha goynta eber-waqtiga."
+        },
+        {
+          "title": "Kor u qaadida daruuraha",
+          "desc": "Maamul kharash joogto ah, telemetry autoscaling, iyo FinOps dib u eegista hawleed."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Dayactirka kaabeyaasha dhaqaalaha oo aad u hooseeya iyo kharashyada dib-u-cusboonaysiinta qalabka",
+        "Xisaabinta barti aan dhammaadka lahayn ee u dhow ee maaraynta taraafikada ganacsiga ugu sarreeya oo eber ah",
+        "Xawaaraha sii daynta la dedejiyey oo leh CI/CD si toos ah dhuumaha geeya",
+        "Ciribtirka dhibcooyinka kaliya ee dhaxalka ah ee fashilka iyadoo la heli karo multi-AZ sare",
+        "Nashqadaha API-ga casriga ah ee awood u siinaya is-dhexgalka lammaanaha ee isku-tallaabta ah",
+        "fiirsashada sare ee waqtiga-dhabta ah ee waxqabadka codsiga iyo kharashka daruuraha"
+      ],
+      "landscapeAssessmentPoints": [
+        "Khariidaynta ku-tiirsanaanta arjiyada isku-dhafan ee isku-xidhan ee isku-xidhnaanta ah iyo xog-is-weydaarsiga",
+        "Aqoonsiga qaab-dhismeedyada deegaanka ee adag iyo qorshayaasha xogta lahaanshaha",
+        "Qiimaynta u hoggaansanaanta sharciyeynta iyo xogta caqabadaha madax-banaanida xukun kasta",
+        "Xisaabinta Wadarta Qiimaha Lahaanshaha ee waaqiciga ah (TCO) guud ahaan dib-u-hawlgalayaasha iyo dariiqyada dib-u-kicinta",
+        "Samaynta mowjado wareeg ah oo cad si loo ilaaliyo hawl-maalmeedka ganacsi ee firfircoon"
+      ],
+      "sec1Eyebrow": "Xaqiiqda NIDAAMKA Dhaxalka ah",
+      "sec1Heading": "Loolanka Dhaxalka ah",
+      "sec1Subtext": "monoliths gabowga ayaa xannibaya xawaaraha hal-abuurka, kordhinta dayacanka shaqada, iyo kordhinta kharashka dayactirka kaabayaasha.",
+      "sec2Eyebrow": "QIIMEYNTA & GARABKA",
+      "sec2Heading": "Fahamka Muuqaalka Muuqaalka Codsiga",
+      "sec2Subtext": "Casriyeynta daruuraha ee guusha leh waxay ku bilaabataa qiimayn adag. Si toos ah ugu boodista socdaalka iyada oo aan la hubin ku-tiirsanaanta arjiga ayaa ah sababta koowaad ee daahista jarista.",
+      "sec3Eyebrow": "4ta WADOod ee Casriga ah",
+      "sec3Heading": "Hababka Casriyeynta",
+      "sec3Subtext": "Ma jiro hal-cabbir-ku habboon-dhammaan xeeladaha socdaalka. Shirkadaha hormuudka ah waxay la jaanqaadaan qaabka saxda ah ee casriyeynta culeys kasta oo shaqo oo gaar ah oo ku saleysan qiimaha ganacsiga, degdegga, iyo deynta farsamada.",
+      "sec4Eyebrow": "MUUQAALKA BEDELKA HIDDANKA",
+      "sec4Heading": "Dhismaha daruuraha casriga ah",
+      "sec4Subtext": "Qorshe habaysan oo u beddela monoliths dhaxalgal ah oo u beddela adeegyo daruur ah oo laastik ah, ammaan ah, oo la ilaalin karo.",
+      "sec5Eyebrow": "NATIIJADA ISBEDDELKA",
+      "sec5Heading": "Faa'iidooyinka Casriyeynta Muhiimka ah",
+      "sec5Subtext": "U rarida nidaamyada dhaxalka ah ee dhismooyinka daruuriga casriga ah waxay keenaysaa karti hawleed la taaban karo iyo saadaalinta qiimaha.",
+      "ctaHeading": "Casriyeyn codsiyadaada Dhaxalka ah",
+      "ctaDescription": "Sahami hab wax ku ool ah oo qiimaynta, casriyaynta iyo dhaqaajinta codsiyada dhaxalka ah ee loo maro la cabbiri karo, naqshadaha daruuriga ah ee sugan.",
+      "ctaButton": "La hadal khubaradayada",
+      "sec1P1": "Codsiyada muhimka ah ee la dhisay toban sano ka hor ayaa weli ballaayiin ka keena dakhliga ganacsiga, haddana adkaanshahooda qaabdhismeedku waxay abuuraan khatar hawleed oo sii kordheysa.",
+      "sec1P2": "Shirkad kastaa waxay wajahdaa xiisadda u dhaxaysa xasilloonida iyo casriyaynta. Nidaamyada dhaxalka ah waxaa loo naqshadeeyay waarta, waxayna u shaqeynayeen si la isku halleyn karo sanado. Si kastaba ha ahaatee, maadaama shuruudaha ganacsigu ay dardargeliyaan, naqshadahan gabowgu waxay la kulmaan xaddidaadyo qaabdhismeed:",
+      "sec1List": [
+        {
+          "bold": "Qalabka software ee gabowga:",
+          "text": "Saldhigyada koodka monolithic ee lagu dhisay qaab-dhismeedyo burburay oo leh barkado tayo-yar oo la heli karo si loo dayactiro."
+        },
+        {
+          "bold": "Wareegyada dayactirka ee adag:",
+          "text": "Qaybaha si adag loo lammaaniyay halka beddelka hal sifo ay halis ugu jirto inay jebiyaan qaybaha hawlgalka ee aan xidhiidhsanayn."
+        },
+        {
+          "bold": "Miisaanka xaddidan:",
+          "text": "Xadka miisaamidda toosan ee u baahan iibsashada qalab qaali ah oo lahaanshaha si loo xakameeyo xawliga gaadiidka xilliyeed."
+        },
+        {
+          "bold": "Caqabadaha is-dhexgalka:",
+          "text": "Awood la'aanta in si habsami leh ula xidhiidho abka mobilada casriga ah, xadhkaha macaamiisha, ama API-yada lammaanaha iyada oo aan lahayn qoraallo jilicsan."
+        },
+        {
+          "bold": "Caqabadaha kaabayaasha dhaqaalaha:",
+          "text": "Wareegyada nolosha qolka server-ka jirka, dayacan nuglaanshiyaha, iyo kharashyada hawlgalka ee awooda sare/qaboojinta."
+        }
+      ],
+      "sec2P1": "Safarka casriyaynta dhabta ah wuxuu ku bilaabmayaa in la wada caddeeyo guud ahaan hantida jirta:",
+      "sec2List": [
+        {
+          "bold": "Codsiyada:",
+          "text": "Tirinta dhammaan culaysyada shaqada ee firfircoon, cutubyada gaarka ah, qoraallada soo jireenka ah, iyo xidhmooyinka qolo saddexaad oo taariikhi ah."
+        },
+        {
+          "bold": "Ku-tiirsanaanta:",
+          "text": "Khariidaynta isku xidhka runtime adag, miisaska xogta la wadaago, wicitaanada nidaamka faylka tooska ah, iyo qandaraasyada adeega dibadda."
+        },
+        {
+          "bold": "Xogta:",
+          "text": "Qiimaynta qaab-dhismeedka xogta, shuruudaha daacadnimada wax kala iibsiga, caddaynta kaydinta, iyo xeerarka madax-banaanida sharciyaynta."
+        },
+        {
+          "bold": "Kaabayaasha dhaqaalaha:",
+          "text": "Xisaabinta CPU, xusuusta, ka faa'iidaysiga kaydinta, iyo soo saarista shabakada ee cabbirka saxda ah ee qeexitaanka daruuraha."
+        },
+        {
+          "bold": "Muhiimadda ganacsiga:",
+          "text": "U kala soocida codsiyada heerar si loo qaabeeyo mawjadaha socdaalka badbaado leh, oo habaysan oo leh habab dib-u-dhac cad."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Faa'iidada:",
+      "cloudArchitectureBadge": "Casriyeynta Meertada Nololeed",
+      "cloudArchitectureTitle": "Dhamaadka-ilaa-Dhamaadka Socodka Casriyeynta daruuraha",
+      "sec4P1": "Qaab dhismeedka goobta ayaa kala saara codsiyada aasaasiga ah ee qaabaysan, adeegyo weel lagu kaydiyay oo lagu marti galiyay aaladaha daruuriga ah ee laastikada ah (sida Kubernetes ama runtimes server-la'aan la maareeyay).",
+      "sec4P2": "Iyada oo la samaynayo dhuumaha geynta CI/CD otomaatig ah, gooyn toosan oo buluug-cagaaran ah, iyo kaabayaasha koodhka, hawlgelinta ayaa isu beddesha dhacdooyinka usbuuca dhammaadka neerfaha isu beddela hawl maalmeed aan toos ahayn.",
+      "sec4P3": "Xisaabinta laastikada ayaa si toos ah kor ugu kacaysa inta lagu jiro baahida kor u kaca waxayna hoos u dhigtaa inta lagu jiro daah-furnaanta, baabi'inta kharashaadka kheyraadka ee aan shaqayn iyada oo dammaanad qaadaysa waqtiyada jawaabta labaad ee isticmaalayaasha caalamiga ah.",
+      "keyPerspectiveEyebrow": "CASRIYAYNTA UGU FIICAN",
+      "keyPerspectiveTitle": "Afarta Tiir ee Hijrada Liibaanay",
+      "keyPerspectiveLead": "Waayo-aragnimadu waxay muujinaysaa in mashaariicda casriyaynta ay guulaystaan marka lagu aasaaso diyaargarow dhammaystiran, isku xigxiga mawjada cad, iyo imtixaan adag:"
+    }
+  }
+}

@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "소개",
+    "services": "서비스",
+    "products": "제품",
+    "perspectives": "관점",
+    "technologies": "기술",
+    "contact": "연락처",
+    "signIn": "로그인",
+    "signUp": "가입",
+    "signOut": "로그아웃",
+    "chooseLanguage": "언어를 선택하세요",
+    "searchLanguage": "언어 검색",
+    "resetEnglish": "영어로 재설정",
+    "noResults": "언어를 찾을 수 없습니다",
+    "englishDefault": "영어(기본)",
+    "english": "영어"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — 하이데라바드",
+    "title": "<em>귀하의 비즈니스</em> 운영 방식에 맞게 설계된 소프트웨어입니다.",
+    "description": "Rezonants는 IT 서비스 및 디지털 제품 회사입니다. 우리는 실행을 놓고 경쟁하는 기업을 위해 맞춤형 소프트웨어, 웹 및 모바일 제품, 클라우드 인프라 및 AI를 설계, 구축 및 확장합니다.",
+    "bookConsultation": "무료 상담 예약하기",
+    "exploreServices": "서비스 살펴보기",
+    "years": "년",
+    "projects": "프로젝트",
+    "retention": "보존",
+    "location": "마다푸르, 하이데라바드",
+    "since": "Rezonants — 2012년부터",
+    "metaStudio": "디지털 제품 스튜디오",
+    "metaTech": "웹·모바일·클라우드·AI"
+  },
+  "about": {
+    "eyebrow": "회사 소개",
+    "title": "<em>비즈니스를 발전시키는</em> 디지털 솔루션 구축",
+    "description": "Rezonants는 기업이 아이디어를 의미 있는 디지털 경험으로 전환할 수 있도록 돕는 데 주력하는 기술 솔루션 회사입니다. 우리는 기술, 창의성, 비즈니스 이해를 결합하여 실제 요구 사항에 맞게 설계된 솔루션을 제공합니다.<br /><br />디지털 혁신과 맞춤형 소프트웨어 개발부터 클라우드, AI, 자동화, 관리형 기술 서비스에 이르기까지 조직이 복잡성을 단순화하고 효율성을 개선하며 지속적인 디지털 가치를 창출하도록 돕습니다.<br /><br /><strong>우리의 접근 방식은 간단합니다. 비즈니스를 이해하고 올바른 문제를 해결하며 제공하는 기술을 구축하는 것입니다.</strong>",
+    "awardWinning": "수상",
+    "awardText": "웹 및 모바일 제품 엔지니어링 전반에 걸쳐 탁월한 전달 능력을 인정받았습니다.",
+    "professionalStaff": "전문 직원",
+    "staffText": "첫 번째 통화부터 실행까지 작업을 담당하는 선임 책임 엔지니어입니다.",
+    "support247": "연중무휴 지원",
+    "supportText": "필요할 때 응답하는 관리형 서비스 및 지원 라인입니다.",
+    "fairPrices": "공정한 가격",
+    "pricesText": "모든 참여에 대해 정직한 견적과 투명한 청구가 이루어집니다.",
+    "yearsExcellence": "수년간의 기업 우수성"
+  },
+  "stats": {
+    "happyClients": "행복한 고객",
+    "projectsDone": "완료된 프로젝트",
+    "winAwards": "상을 받으세요"
+  },
+  "insights": {
+    "eyebrow": "관점",
+    "title": "관점",
+    "sub": "미래를 형성하는 아이디어, 트렌드, 기술을 탐구합니다.",
+    "filters": {
+      "all": "모두",
+      "digital-transformation": "디지털 혁신",
+      "ai": "AI 및 자동화",
+      "cloud": "클라우드",
+      "data": "데이터 및 분석",
+      "software": "소프트웨어",
+      "business": "비즈니스 및 기술"
+    },
+    "readMore": "더 읽기",
+    "close": "닫기",
+    "keyTakeaways": "주요 아키텍처 시사점",
+    "relatedServices": "관련 기능 및 서비스",
+    "minRead": "분 읽음",
+    "item1Date": "2026년 7월",
+    "item1Tag": "제품 및 ERP",
+    "item1Title": "성장하는 기업을 위한 모듈식 ERP 접근 방식",
+    "item1Text": "재무, 재고, HR 및 조달이 다년간의 중단 없이 원활하게 통합되도록 ERP 참여를 구성하는 방법입니다.",
+    "item2Date": "2026년 6월",
+    "item2Tag": "인공 지능",
+    "item2Title": "에이전트 AI 시스템: 챗봇에서 자율 실행으로 전환",
+    "item2Text": "인간 참여 감독을 통해 복잡한 비즈니스 워크플로를 계획, 검증 및 실행하는 조정된 다중 에이전트 LLM 시스템을 설계합니다.",
+    "item3Date": "2026년 5월",
+    "item3Tag": "회사 연혁",
+    "item3Title": "하이데라바드의 선도적인 IT 혁신 스튜디오로 인정",
+    "item3Text": "우리의 엔지니어링 스튜디오는 글로벌 제품 엔지니어링 전반에 걸쳐 우수한 납품, 심층적인 기술 역량 및 고객 만족도를 인정받았습니다.",
+    "desc": "디지털 혁신, AI, 자동화, 클라우드, 데이터, 소프트웨어 및 비즈니스 기술의 미래에 대한 Rezonants의 아이디어와 관점을 살펴보세요.",
+    "categories": {
+      "digitalTransformation": "디지털 혁신",
+      "ai": "AI 및 자동화",
+      "cloud": "클라우드",
+      "data": "데이터 및 분석",
+      "software": "소프트웨어",
+      "business": "비즈니스 및 기술"
+    }
+  },
+  "technologies": {
+    "title": "기술 및 아키텍처",
+    "headline": "엔터프라이즈 기술 솔루션",
+    "sub": "지능형 기술. 자동화된 운영. 더 스마트한 비즈니스.",
+    "selectTechnology": "기술 솔루션을 선택하세요...",
+    "options": {
+      "aiRobotics": "AI 및 로봇공학 솔루션",
+      "businessAutomation": "비즈니스 자동화 솔루션",
+      "cloudMigrations": "클라우드 마이그레이션 솔루션",
+      "dataCenters": "데이터 센터 솔루션",
+      "cognitiveAnalytics": "인지 분석 및 AI",
+      "informationReporting": "정보 및 보고 시스템",
+      "managedServices": "관리형 서비스",
+      "oneStopSolutions": "원스톱 기술 솔루션"
+    },
+    "explore": "기술 탐색",
+    "bookDiscovery": "도서 기술 발견",
+    "exploreAll": "모든 기술 살펴보기",
+    "coreCapabilities": "핵심 기술 역량",
+    "bookConsultation": "상담 예약"
+  },
+  "contact": {
+    "eyebrow": "연락처",
+    "title": "영업 스크립트가 아닌 수석 엔지니어와 대화하세요",
+    "sub": "귀하의 프로젝트에 대해 조금 공유해 주시면 영업일 기준 1일 이내에 답변해 드리겠습니다.",
+    "reachUs": "우리에게 직접 연락하세요",
+    "preferConversation": "대화를 선호하시나요? 전화 한 통이면 됩니다.",
+    "contactLede": "앞으로 나아가는 가장 빠른 방법은 짧은 대화입니다. 아래 채널을 통해 연락하시거나 자리를 예약하시면 준비하여 방문하겠습니다.",
+    "phone": "전화",
+    "email": "이메일",
+    "office": "사무실",
+    "hours": "시간",
+    "hoursValue": "월~토, 9:30~18:30 IST",
+    "bookSlot": "상담 시간 예약",
+    "sendMessage": "메시지를 보내주세요",
+    "fieldsRequired": "* 표시가 있는 항목은 필수입니다.",
+    "fullName": "성명 *",
+    "emailLabel": "이메일 *",
+    "company": "회사",
+    "subject": "제목",
+    "messageLabel": "메시지 *",
+    "sending": "보내는 중...",
+    "sendBtn": "메시지 보내기",
+    "successMsg": "메시지가 전송되었습니다! 사본이 이메일로 전송되었습니다.",
+    "errorMsg": "메시지를 저장할 수 없습니다. contact_messages 테이블이 있는지 확인한 후 다시 시도하세요.",
+    "offices": {
+      "vijayawada": "비자야와다 사무실",
+      "southAfrica": "남아프리카 사무소"
+    },
+    "placeholders": {
+      "fullName": "당신의 이름",
+      "email": "you@company.com",
+      "company": "귀하의 회사 또는 조직",
+      "subject": "어떻게 도와드릴까요?",
+      "message": "귀하의 프로젝트, 타임라인, 목표에 대해 알려주십시오..."
+    },
+    "validation": {
+      "fullNameRequired": "성명을 입력해 주세요.",
+      "emailRequired": "이메일 주소를 입력해주세요.",
+      "emailInvalid": "유효한 이메일 주소를 입력하세요.",
+      "messageRequired": "메시지를 입력해주세요."
+    }
+  },
+  "services": {
+    "eyebrow": "서비스",
+    "title": "우리가 하는 일",
+    "sub": "전략부터 운영 관리까지, 우리는 실행을 놓고 경쟁하는 기업을 위한 엔드투엔드 기술 파트너십을 제공합니다.",
+    "items": {
+      "buildFromScratch": {
+        "label": "배포 시작",
+        "description": "개발, 통합, 테스트, 배포 및 지속적인 지원을 통해 비즈니스 요구 사항 및 솔루션 아키텍처부터 새로운 디지털 솔루션의 엔드투엔드 개발입니다."
+      },
+      "businessProcessAutomation": {
+        "label": "비즈니스 프로세스 자동화",
+        "description": "비즈니스 프로세스를 간소화하고, 반복적인 수동 활동을 제거하고, 운영 효율성을 개선하고, 비즈니스 성과를 가속화하는 지능형 자동화 솔루션을 설계 및 구현합니다."
+      },
+      "centerOfExcellence": {
+        "label": "우수성 센터",
+        "description": "조직 전반에 걸쳐 거버넌스, 표준, 전문 지식, 프레임워크, 재사용 가능한 자산 및 지속적인 개선을 제공하는 전문 기술 및 비즈니스 역량 센터를 구축합니다."
+      },
+      "customDevelopmentCustomization": {
+        "label": "맞춤형 개발 및 맞춤화",
+        "description": "고유한 비즈니스 요구 사항을 해결하고 맞춤형 기능을 제공하기 위한 애플리케이션, 플랫폼, 워크플로 및 엔터프라이즈 솔루션의 개발 및 향상입니다."
+      },
+      "digitalTransformation": {
+        "label": "디지털 혁신",
+        "description": "클라우드, AI, 자동화, 데이터 및 최신 애플리케이션 기술을 통해 비즈니스 운영, 기술 생태계, 고객 경험을 현대화합니다."
+      },
+      "endToEndSolutionFramework": {
+        "label": "엔드투엔드 솔루션 프레임워크",
+        "description": "전략, 요구 사항, 아키텍처부터 개발, 통합, 배포, 거버넌스, 모니터링 및 지원에 이르기까지 전체 기술 수명주기를 포괄하는 포괄적인 제공 접근 방식입니다."
+      },
+      "migrationModernization": {
+        "label": "마이그레이션 및 현대화",
+        "description": "레거시 또는 기존 환경의 애플리케이션, 데이터, 플랫폼, 인프라 및 워크로드를 현대적이고 확장 가능하며 최적화된 기술 플랫폼으로 안전하고 체계적으로 마이그레이션합니다."
+      },
+      "pocPilotImplementation": {
+        "label": "개념 증명(PoC) 및 파일럿 구현",
+        "description": "본격적인 구현에 앞서 기술 타당성, 비즈니스 가치, 통합 요구 사항, 성능 및 확장성을 평가하기 위한 기술 솔루션의 신속한 개발 및 검증."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "공유 서비스 및 관리 운영",
+        "description": "표준화된 프로세스, 숙련된 리소스, 거버넌스 프레임워크, 서비스 관리 및 측정 가능한 서비스 수준을 통해 사업부 전반에 걸쳐 기술 및 운영 기능을 중앙 집중식으로 제공합니다."
+      },
+      "customDevelopment": {
+        "label": "배포 시작",
+        "description": "개발, 통합, 테스트, 배포 및 지속적인 지원을 통해 비즈니스 요구 사항 및 솔루션 아키텍처부터 새로운 디지털 솔루션의 엔드투엔드 개발입니다."
+      },
+      "processAutomation": {
+        "label": "비즈니스 프로세스 자동화",
+        "description": "비즈니스 프로세스를 간소화하고, 반복적인 수동 활동을 제거하고, 운영 효율성을 개선하고, 비즈니스 성과를 가속화하는 지능형 자동화 솔루션을 설계 및 구현합니다."
+      },
+      "solutionEngineering": {
+        "label": "맞춤형 개발 및 맞춤화",
+        "description": "고유한 비즈니스 요구 사항을 해결하고 맞춤형 기능을 제공하기 위한 애플리케이션, 플랫폼, 워크플로 및 엔터프라이즈 솔루션의 개발 및 향상입니다."
+      },
+      "endToEndSolutions": {
+        "label": "엔드투엔드 솔루션 프레임워크",
+        "description": "전략, 요구 사항, 아키텍처부터 개발, 통합, 배포, 거버넌스, 모니터링 및 지원에 이르기까지 전체 기술 수명주기를 포괄하는 포괄적인 제공 접근 방식입니다."
+      },
+      "migrationServices": {
+        "label": "마이그레이션 및 현대화",
+        "description": "레거시 또는 기존 환경의 애플리케이션, 데이터, 플랫폼, 인프라 및 워크로드를 현대적이고 확장 가능하며 최적화된 기술 플랫폼으로 안전하고 체계적으로 마이그레이션합니다."
+      },
+      "pilotPrototyping": {
+        "label": "개념 증명(PoC) 및 파일럿 구현",
+        "description": "본격적인 구현에 앞서 기술 타당성, 비즈니스 가치, 통합 요구 사항, 성능 및 확장성을 평가하기 위한 기술 솔루션의 신속한 개발 및 검증."
+      },
+      "sharedServices": {
+        "label": "공유 서비스 및 관리 운영",
+        "description": "표준화된 프로세스, 숙련된 리소스, 거버넌스 프레임워크, 서비스 관리 및 측정 가능한 서비스 수준을 통해 사업부 전반에 걸쳐 기술 및 운영 기능을 중앙 집중식으로 제공합니다."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "상담 예약",
+      "exploreFramework": "솔루션 프레임워크 살펴보기",
+      "talkSeniorEngineer": "수석 엔지니어와 상담하세요",
+      "exploreTechStack": "기술 스택 살펴보기",
+      "bookPocSession": "PoC 발견 세션 예약",
+      "seeAllServices": "모든 서비스 보기",
+      "requestAssessment": "마이그레이션 평가 요청",
+      "exploreCloudSolutions": "클라우드 솔루션 살펴보기"
+    },
+    "sharedServices": {
+      "heroBadge": "공유 서비스 및 관리 운영",
+      "heroTitle": "엔터프라이즈 공유 서비스 및 관리 운영",
+      "heroDesc": "표준화되고 안전하며 비용 효과적인 공유 서비스 모델을 통해 비즈니스 역량을 확장하고 부서 간 워크플로를 간소화하며 운영 우수성을 달성하세요.",
+      "bookDiscovery": "관리 운영 검색 예약",
+      "exploreFramework": "솔루션 프레임워크 살펴보기",
+      "coreCapabilities": "핵심 기능:",
+      "managedServices": "관리형 서비스",
+      "itOperations": "IT 운영",
+      "appSupport": "애플리케이션 지원",
+      "serviceManagement": "서비스 관리",
+      "resourceOptimization": "자원 최적화",
+      "slaManagement": "SLA 관리",
+      "governance": "거버넌스",
+      "continuousImprovement": "지속적인 개선",
+      "costOptimization": "비용 최적화",
+      "readyTitle": "운영을 최적화할 준비가 되셨나요?",
+      "readyDesc": "당사의 공유 서비스 및 관리 운영 프레임워크가 어떻게 서비스 품질을 향상시키고 운영 연속성을 보장하며 기업의 지속 가능한 비용 효율성을 촉진할 수 있는지 알아보세요.",
+      "scheduleSession": "탐색 세션 예약"
+    },
+    "solutionEngineering": {
+      "heroBadge": "솔루션 엔지니어링 및 아키텍처",
+      "heroTitle": "맞춤형 개발 및 맞춤화",
+      "heroDesc": "운영 워크플로, 데이터 파이프라인 및 규모 요구 사항에 맞게 특별히 설계된 고성능 소프트웨어 시스템을 설계, 엔지니어링 및 배포합니다."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "신속한 혁신 및 실험",
+      "heroTitle": "개념 증명(PoC) 및 파일럿 구현",
+      "heroDesc": "분기가 아닌 몇 주 만에 프로덕션급 프로토타입을 통해 새로운 기술을 검증하고 복잡한 아키텍처의 위험을 제거하며 비즈니스 가치를 입증할 수 있습니다."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "라이프사이클 아키텍처 및 제공",
+      "heroTitle": "엔드투엔드 솔루션 프레임워크",
+      "heroDesc": "제품 검색, 솔루션 아키텍처, 엔지니어링, 클라우드 인프라 및 연중무휴 안정성 운영을 연결하는 통합 제공 모델입니다."
+    },
+    "migrationServices": {
+      "heroBadge": "인프라 및 기존 현대화",
+      "heroTitle": "마이그레이션 및 현대화",
+      "heroDesc": "레거시 워크로드, 모놀리식 아키텍처, 온프레미스 인프라를 현대적이고 안전하며 확장 가능한 클라우드 플랫폼으로 원활하게 전환하세요."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "엔터프라이즈 현대화",
+        "titlePart1": "디지털",
+        "titlePart2": "변환",
+        "description": "클라우드, AI, 자동화, 데이터 및 최신 애플리케이션 기술을 통해 비즈니스 운영, 기술 생태계 및 고객 경험을 현대화합니다.",
+        "bookWorkshop": "책 변신 워크숍",
+        "exploreFramework": "솔루션 프레임워크 살펴보기",
+        "startTransformation": "변환 시작",
+        "exploreStrategy": "전략 탐색",
+        "coreCapabilitiesTitle": "핵심 역량",
+        "coreCapabilities": [
+          "디지털 전략",
+          "클라우드 전환",
+          "AI 및 자동화",
+          "애플리케이션 현대화",
+          "기존 현대화",
+          "데이터 및 분석",
+          "고객 경험",
+          "기술 현대화"
+        ],
+        "row1Eyebrow": "전략 및 로드맵",
+        "row1Title": "비전에서 실행 가능한 로드맵까지",
+        "row1P1": "우리는 기업 리더들과 협력하여 빠른 성공과 위험 없는 실행을 통해 디지털 전략, 비즈니스 사례 및 단계별 로드맵을 정의합니다.",
+        "row1P2": "우선순위가 지정된 이니셔티브, TCO 모델 및 KPI는 모든 기술 현대화 노력이 수익, 효율성 및 고객 만족 결과와 직접적으로 연결되도록 보장합니다.",
+        "row2Eyebrow": "기존 현대화",
+        "row2Title": "비즈니스 중단 없이 현대화",
+        "row2P1": "다운타임 없는 컷오버 및 자동화된 회귀 검증을 통해 모놀리스를 마이크로서비스, API 및 클라우드 네이티브 패턴으로 플랫폼을 변경합니다.",
+        "row2P2": "규정 준수 및 보안 상태를 유지하면서 애플리케이션, 데이터베이스 및 통합 계층을 현대화합니다.",
+        "row3Eyebrow": "클라우드, AI 및 데이터",
+        "row3Title": "클라우드 도입 및 데이터 기반 인텔리전스",
+        "row3P1": "AWS, Azure 및 GCP를 채택하고, 최신 데이터 파이프라인을 구축하고, 기계 학습 에이전트를 내장하여 자율적인 결정을 내리세요.",
+        "row3P2": "실시간 이벤트 스트리밍부터 통합 대시보드까지, 혁신은 측정 가능하고 지속 가능해집니다.",
+        "row4Eyebrow": "고객 경험",
+        "row4Title": "최신 옴니채널 경험",
+        "row4P1": "개인화된 인터페이스를 통해 반응형 웹, iOS, Android 및 셀프 서비스 포털 전반에서 고객 여정을 재설계합니다.",
+        "row4P2": "플랫폼 엔지니어링, 원격 측정 및 자동화된 피드백 루프는 디지털 혁신을 지속적으로 만듭니다.",
+        "pillarsTitle": "변환 기둥",
+        "pillarsSub": "지속 가능한 디지털 리더십을 보장하는 결과 중심의 수단입니다.",
+        "pillar1Title": "디지털 전략 및 거버넌스",
+        "pillar1Desc": "비즈니스 사례 모델링, 아키텍처 거버넌스 및 중요 시점 위험 추적을 포함한 단계별 혁신 청사진입니다.",
+        "pillar2Title": "클라우드 & 데이터 플랫폼",
+        "pillar2Desc": "AWS/Azure/GCP 멀티 클라우드 기반, 자동화된 파이프라인 및 엔터프라이즈 데이터 분석 지원.",
+        "pillar3Title": "AI 및 자동화",
+        "pillar3Desc": "일상적인 운영을 최적화하기 위한 지능형 프로세스 자동화, 인지 AI 에이전트 및 예측 원격 측정.",
+        "pillar4Title": "고객 경험",
+        "pillar4Desc": "전환율이 높은 옴니채널 디지털 포털과 개인화된 인터페이스는 사용자 유지율을 극대화하도록 구축되었습니다.",
+        "ctaTitle": "기업을 변화시킬 준비가 되셨습니까?",
+        "ctaSub": "측정 가능한 비즈니스 결과와 연계된 단계적이고 위험이 없는 디지털 혁신을 위해 Rezonants와 파트너십을 맺으세요.",
+        "ctaButton": "디지털 혁신 전화 예약"
+      },
+      "customDevelopment": {
+        "eyebrow": "엔드투엔드 디지털 엔지니어링",
+        "titlePart1": "시작",
+        "titlePart2": "배포",
+        "bookConsultation": "상담 예약",
+        "exploreEngineering": "솔루션 엔지니어링 살펴보기"
+      },
+      "processAutomation": {
+        "eyebrow": "지능형 프로세스 운영",
+        "titlePart1": "비즈니스 프로세스",
+        "titlePart2": "자동화",
+        "bookDiscovery": "도서 자동화 검색",
+        "exploreCoE": "Center of Excellence 살펴보기"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "중심",
+        "titlePart2": "의 중심 우수함",
+        "bookConsultation": "CoE 상담 예약",
+        "exploreCapabilities": "기능 살펴보기"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "완전한 기술 수명주기",
+        "titlePart1": "엔드투엔드",
+        "titlePart2": "솔루션 프레임워크",
+        "startJourney": "라이프사이클 여정을 시작하세요",
+        "exploreTransformation": "혁신 살펴보기"
+      },
+      "migrationServices": {
+        "eyebrow": "클라우드 및 인프라 혁신",
+        "titlePart1": "마이그레이션 &",
+        "titlePart2": "현대화",
+        "planMigration": "마이그레이션 계획",
+        "exploreTransformation": "변환 살펴보기"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "신속한 검증 및 타당성",
+        "titlePart1": "개념 증명(PoC) &",
+        "titlePart2": "파일럿 구현",
+        "initiateDiscovery": "PoC 검색 시작",
+        "exploreDevelopment": "맞춤형 개발 살펴보기"
+      },
+      "solutionEngineering": {
+        "badge": "맞춤형 디지털 엔지니어링",
+        "bookConsultation": "상담 예약",
+        "exploreCapabilities": "기능 살펴보기"
+      },
+      "sharedServices": {
+        "eyebrow": "중앙 집중식 운영 허브",
+        "titlePart1": "공유 서비스 &",
+        "titlePart2": "관리 운영",
+        "bookDiscovery": "관리 운영 검색 예약",
+        "exploreFramework": "솔루션 프레임워크 살펴보기"
+      }
+    },
+    "coreCapabilities": "핵심 역량"
+  },
+  "products": {
+    "featured": "주요 제품",
+    "featuredSub": "운영을 단순화하고, 팀을 연결하고, 프로세스를 자동화하고, 보다 스마트한 비즈니스 성장을 촉진하세요.",
+    "seeAll": "모든 제품 보기",
+    "featuredProducts": "주요 제품",
+    "meetAutonomous": "자율적인 인력을 만나보세요",
+    "meetAutonomousText": "팀과 함께 작동하여 복잡하고 반복적인 작업을 처리하는 AI 에이전트로 운영을 혁신하세요.",
+    "learnMore": "자세히 알아보기",
+    "erp": {
+      "title": "모든 것에 준비된 하나의 플랫폼",
+      "sub": "연결되고 지능적이며 확장 가능한 엔터프라이즈 관리 솔루션으로 비즈니스 역량을 강화합니다.",
+      "explore": "ERP 솔루션 살펴보기",
+      "gridTitle": "ERP 솔루션",
+      "promoTitle": "성장을 위한 모듈형 ERP",
+      "promoText": "기존의 다년 시스템의 복잡성 없이 모듈식 ERP 기능을 신속하게 배포합니다.",
+      "scheduleDemo": "데모 예약"
+    },
+    "it": {
+      "title": "IT 솔루션",
+      "sub": "비즈니스 운영을 유지하기 위한 엔터프라이즈급 인프라, 보안, DevOps 솔루션입니다.",
+      "explore": "IT 솔루션 살펴보기",
+      "gridTitle": "IT 솔루션",
+      "promoTitle": "안정적인 IT 인프라",
+      "promoText": "관리형 클라우드, 보안, DevOps 서비스를 통해 탄력적인 기술 기반을 구축하세요.",
+      "getStarted": "시작하기"
+    },
+    "crm": {
+      "title": "CRM 솔루션",
+      "sub": "영업, 지원, 마케팅 워크플로를 간소화하는 고객 관계 관리.",
+      "explore": "CRM 솔루션 살펴보기",
+      "gridTitle": "CRM 솔루션",
+      "promoTitle": "추가 거래 종료",
+      "promoText": "통합된 고객 데이터와 지능형 자동화를 통해 영업 및 지원 팀의 역량을 강화하세요.",
+      "startTrial": "무료 평가판 시작"
+    },
+    "hrms": {
+      "title": "HRMS 솔루션",
+      "sub": "급여, 채용, 성과 및 직원 참여를 포괄하는 인적 자원 관리입니다.",
+      "explore": "HRMS 솔루션 살펴보기",
+      "gridTitle": "HRMS 솔루션",
+      "promoTitle": "HR 운영 단순화",
+      "promoText": "현대적인 직원 우선 플랫폼을 통해 채용부터 퇴직까지 HR 워크플로우를 자동화하세요.",
+      "requestDemo": "데모 요청"
+    },
+    "sidebar": {
+      "featuredProducts": "주요 제품",
+      "erpSolutions": "ERP 솔루션",
+      "solutions": "솔루션"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI 스위트",
+        "description": "복잡한 워크플로와 고객 운영을 자동화하는 지능형 자율 에이전트 및 도구입니다."
+      },
+      "cloudNexus": {
+        "title": "클라우드넥서스",
+        "description": "성능, 보안, 규정 준수 및 비용을 최적화하는 멀티 클라우드 관리 플랫폼입니다."
+      },
+      "workSync": {
+        "title": "워크싱크",
+        "description": "작업, 채팅, 문서 관리가 통합된 하이브리드 협업 및 생산성 허브입니다."
+      },
+      "dataStream": {
+        "title": "데이터스트림",
+        "description": "비즈니스 이벤트 스트림을 실행 가능한 통찰력으로 변환하는 실시간 분석 엔진입니다."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP 코어",
+        "description": "재무, 자산, HR, 조달, 재고를 연결하는 통합 엔터프라이즈 아키텍처입니다."
+      },
+      "hrmsPro": {
+        "title": "HRMS 프로",
+        "description": "급여, 복리후생, 성과 검토, 셀프 서비스를 다루는 직원 경험 플랫폼입니다."
+      },
+      "supplyChainIq": {
+        "title": "공급망 IQ",
+        "description": "실시간 물류추적, 자동화된 창고운영, 수요예측."
+      },
+      "financeHub": {
+        "title": "금융 허브",
+        "description": "고급 원장 관리, 청구 워크플로, 자동화된 규정 준수 및 실시간 현금 흐름 보고서."
+      },
+      "cloudInfrastructure": {
+        "title": "클라우드 인프라",
+        "description": "AWS, Azure, GCP 전반에 걸쳐 확장 가능한 클라우드 아키텍처, 마이그레이션 및 관리."
+      },
+      "cybersecuritySuite": {
+        "title": "사이버 보안 제품군",
+        "description": "엔드투엔드 보안 모니터링, 위협 탐지, 규정 준수 관리."
+      },
+      "devopsPipeline": {
+        "title": "DevOps 파이프라인",
+        "description": "보다 빠른 제공을 위한 CI/CD 자동화, 컨테이너화 및 코드형 인프라입니다."
+      },
+      "managedItServices": {
+        "title": "관리형 IT 서비스",
+        "description": "연중무휴 인프라 모니터링, 사고 대응 및 사전 유지 관리."
+      },
+      "salesCrm": {
+        "title": "영업 CRM",
+        "description": "하나의 플랫폼에서 파이프라인 관리, 리드 평가, 거래 추적 및 판매 예측을 수행합니다."
+      },
+      "customerSupportHub": {
+        "title": "고객 지원 허브",
+        "description": "티켓팅, 지식 기반, 라이브 채팅, 옴니채널 지원 관리."
+      },
+      "marketingAutomation": {
+        "title": "마케팅 자동화",
+        "description": "캠페인 조정, 이메일 자동화, 리드 육성 및 분석."
+      },
+      "customer360View": {
+        "title": "고객 360도 보기",
+        "description": "판매, 지원 및 상호 작용 데이터를 결합한 통합 고객 프로필입니다."
+      },
+      "coreHr": {
+        "title": "핵심 HR",
+        "description": "직원 기록, 조직 계층 구조, 휴가 관리 및 출석 추적."
+      },
+      "payrollCompliance": {
+        "title": "급여 및 규정 준수",
+        "description": "자동화된 급여 처리, 세금 계산 및 법적 준수."
+      },
+      "performanceManagement": {
+        "title": "성과 관리",
+        "description": "OKR 추적, 360° 검토, 목표 설정 및 직원 개발 계획."
+      },
+      "recruitmentPortal": {
+        "title": "채용 포털",
+        "description": "채용 공고, 지원자 추적, 인터뷰 일정 및 온보딩 워크플로."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "주요 제품",
+        "heading": "주요 제품",
+        "sub": "운영을 단순화하고, 팀을 연결하고, 프로세스를 자동화하고, 보다 스마트한 비즈니스 성장을 촉진하세요.",
+        "promoTitle": "자율적인 인력을 만나다",
+        "promoText": "팀과 협력하여 복잡하고 반복적인 작업을 처리하는 AI 에이전트로 운영을 혁신하세요.",
+        "items": [
+          {
+            "title": "AI 자동화 및 지능형 에이전트",
+            "description": "반복적인 작업을 자동화하고 생산성, 의사 결정 및 비즈니스 성과를 향상시키는 지능형 AI 에이전트를 배포합니다."
+          },
+          {
+            "title": "IT 서비스 및 디지털 지원",
+            "description": "간소화된 서비스 관리, 자동화 및 디지털 워크플로우를 통해 더욱 빠르고 스마트한 IT 지원을 제공하세요."
+          },
+          {
+            "title": "엔터프라이즈 AI 거버넌스",
+            "description": "강력한 거버넌스, 보안, 규정 준수, 투명성 및 위험 제어를 통해 책임감 있는 AI 채택을 구축하세요."
+          },
+          {
+            "title": "지능형 IT 운영",
+            "description": "AI 기반 모니터링, 자동화, 예측 통찰력 및 사전 예방적 문제 해결을 통해 IT 운영을 혁신하세요."
+          },
+          {
+            "title": "고객경험관리",
+            "description": "지능형 참여, 자동화, 분석 및 원활한 디지털 경험을 통해 개인화된 고객 여정을 만드세요."
+          },
+          {
+            "title": "사업 전략 및 포트폴리오 최적화",
+            "description": "기술 투자를 비즈니스 목표에 맞춰 포트폴리오를 최적화하고 효율성을 개선하며 지속 가능한 성장을 촉진합니다."
+          },
+          {
+            "title": "IT 자산 및 기술 수명주기",
+            "description": "향상된 가시성, 자동화, 비용 제어 및 기술 계획을 통해 수명주기 전반에 걸쳐 IT 자산을 관리합니다."
+          },
+          {
+            "title": "기업 위험 및 규정 준수",
+            "description": "규정 준수, 제어 및 조직 탄력성을 강화하는 동시에 기업 위험을 식별, 평가 및 관리합니다."
+          },
+          {
+            "title": "사이버보안 및 위협 작전",
+            "description": "사전 위협 탐지, 보안 운영, 사고 대응, 지속적인 모니터링을 통해 디지털 환경을 보호하세요."
+          },
+          {
+            "title": "현장 인력 자동화",
+            "description": "지능형 일정 관리, 모바일 워크플로, 자동화 및 실시간 운영 가시성을 통해 현장 팀의 역량을 강화합니다."
+          },
+          {
+            "title": "직원 경험 및 HR 서비스",
+            "description": "디지털 워크플로, 셀프 서비스 솔루션, 자동화, 개인화된 직원 경험을 통해 직원 서비스를 단순화하세요."
+          },
+          {
+            "title": "통합 디지털 업무 공간",
+            "description": "안전하고 지능적이며 원활한 디지털 작업 공간을 통해 사람, 프로세스, 애플리케이션 및 협업 도구를 연결합니다."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP 솔루션",
+        "heading": "모든 것에 준비된 하나의 플랫폼",
+        "sub": "연결되고 지능적이며 확장 가능한 기업 관리 솔루션으로 기업의 역량을 강화합니다.",
+        "promoTitle": "성장을 위한 모듈형 ERP",
+        "promoText": "기존의 다년 시스템의 복잡성 없이 모듈식 ERP 기능을 신속하게 배포합니다.",
+        "items": [
+          {
+            "title": "비즈니스 프로세스 자동화",
+            "description": "재무, HR, 판매, 조달 및 일상 운영을 간소화합니다."
+          },
+          {
+            "title": "통합사업관리",
+            "description": "통합 플랫폼에서 부서, 데이터, 워크플로우를 연결하세요."
+          },
+          {
+            "title": "재무 및 회계",
+            "description": "재무 가시성, 보고, 예산 책정 및 규정 준수를 개선합니다."
+          },
+          {
+            "title": "인사 및 급여",
+            "description": "직원 관리, 출석, 급여 및 HR 프로세스를 단순화합니다."
+          },
+          {
+            "title": "공급망 관리",
+            "description": "조달, 재고, 공급업체 및 물류를 최적화합니다."
+          },
+          {
+            "title": "영업 및 고객관리",
+            "description": "리드, 고객, 주문, 판매 실적을 효율적으로 관리하세요."
+          },
+          {
+            "title": "실시간 분석 및 보고",
+            "description": "더 빠른 의사결정을 위해 비즈니스 데이터를 실행 가능한 통찰력으로 전환합니다."
+          },
+          {
+            "title": "클라우드 ERP 솔루션",
+            "description": "어디서나 안전하고 확장 가능하며 액세스 가능한 기업 관리를 지원합니다."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT 솔루션",
+        "heading": "당사의 IT 솔루션",
+        "sub": "성능, 생산성 및 비즈니스 연속성을 향상시키는 지능적이고 사전 대응적이며 확장 가능한 디지털 솔루션으로 IT 운영을 혁신하십시오.",
+        "promoTitle": "안정적인 IT 인프라",
+        "promoText": "관리형 클라우드, 보안, DevOps 서비스를 통해 탄력적인 기술 기반을 구축하세요.",
+        "items": [
+          {
+            "title": "IT 서비스 관리",
+            "description": "더 빠른 해결을 위해 IT 서비스, 사고, 요청 및 워크플로우를 간소화합니다."
+          },
+          {
+            "title": "IT 운영 관리",
+            "description": "사전 예방적인 데이터 기반 IT 운영으로 인프라와 애플리케이션을 모니터링합니다."
+          },
+          {
+            "title": "IT자산관리",
+            "description": "기술 자산을 효율적으로 관리하는 동시에 비용, 위험 및 수명주기 복잡성을 줄입니다."
+          },
+          {
+            "title": "엔터프라이즈 아키텍처",
+            "description": "올바른 기술 아키텍처 및 투자에 맞춰 비즈니스 전략을 조정하세요."
+          },
+          {
+            "title": "클라우드 거버넌스",
+            "description": "클라우드 보안, 규정 준수, 성능 및 비용 관리를 개선합니다."
+          },
+          {
+            "title": "디지털 운영",
+            "description": "IT 프로세스를 자동화하고 기술 환경 전체에 대한 실시간 가시성을 확보하십시오."
+          },
+          {
+            "title": "관찰 가능성 및 모니터링",
+            "description": "성능 문제를 조기에 감지하고 안정적인 디지털 경험을 유지하세요."
+          },
+          {
+            "title": "전략적 포트폴리오 관리",
+            "description": "IT 투자를 비즈니스 우선순위 및 측정 가능한 결과와 연결합니다."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM 솔루션",
+        "heading": "CRM 솔루션",
+        "sub": "전체 고객 여정에 걸쳐 연결되고 개인화된 지능형 고객 경험을 제공합니다.",
+        "promoTitle": "추가 거래 마감",
+        "promoText": "통합된 고객 데이터와 지능형 자동화를 통해 영업 및 지원 팀의 역량을 강화하십시오.",
+        "items": [
+          {
+            "title": "고객 서비스 관리",
+            "description": "더 빠른 해결, 셀프 서비스 및 지능적인 워크플로를 통해 고객 지원을 개선합니다."
+          },
+          {
+            "title": "영업 자동화",
+            "description": "영업 활동을 자동화하고 리드를 관리하며 팀이 기회를 더 빨리 마감하도록 돕습니다."
+          },
+          {
+            "title": "판매 및 주문 관리",
+            "description": "리드에서 주문까지의 과정을 간소화하고 수익 가시성을 높입니다."
+          },
+          {
+            "title": "현장 서비스 관리",
+            "description": "현장 운영, 일정 관리, 파견 및 기술자 생산성을 최적화합니다."
+          },
+          {
+            "title": "고객 경험 관리",
+            "description": "모든 고객 접점에서 원활하고 개인화된 경험을 창출하십시오."
+          },
+          {
+            "title": "CRM 분석 및 통찰력",
+            "description": "보다 스마트한 비즈니스 결정을 위해 고객 데이터를 실행 가능한 통찰력으로 전환합니다."
+          },
+          {
+            "title": "마케팅 자동화",
+            "description": "캠페인, 고객 참여 및 리드 육성을 자동화합니다."
+          },
+          {
+            "title": "AI 기반 CRM",
+            "description": "지능형 자동화와 AI 통찰력을 사용하여 생산성과 고객 참여를 개선하세요."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS 솔루션",
+        "heading": "HRMS 솔루션",
+        "sub": "직원 관리를 단순화하고 업무 환경을 개선하는 지능적이고 자동화된 통합 HR 솔루션으로 직원의 역량을 강화하십시오.",
+        "promoTitle": "HR 운영 단순화",
+        "promoText": "현대적인 직원 우선 플랫폼을 통해 채용부터 퇴직까지 HR 워크플로우를 자동화합니다.",
+        "items": [
+          {
+            "title": "핵심인재 관리",
+            "description": "직원 정보, 조직 구조, 인사 프로세스를 효율적으로 관리합니다."
+          },
+          {
+            "title": "급여관리",
+            "description": "급여, 급여 처리, 공제 및 규정 준수를 자동화합니다."
+          },
+          {
+            "title": "직원 셀프 서비스",
+            "description": "직원들이 HR 서비스, 요청, 문서 및 정보에 쉽게 액세스할 수 있도록 하십시오."
+          },
+          {
+            "title": "출석 및 휴가 관리",
+            "description": "출석 추적, 휴가 요청, 교대 근무 및 근무 시간을 단순화합니다."
+          },
+          {
+            "title": "채용 및 온보딩",
+            "description": "채용, 후보자 관리, 온보딩 및 직원 통합을 간소화합니다."
+          },
+          {
+            "title": "성과관리",
+            "description": "목표를 설정하고 성과를 추적하며 지속적인 직원 개발을 지원합니다."
+          },
+          {
+            "title": "학습 및 개발",
+            "description": "교육 프로그램, 기술 개발 및 직원 성장을 관리합니다."
+          },
+          {
+            "title": "HR 분석 및 보고",
+            "description": "더 나은 HR 결정을 위해 인력 데이터를 실행 가능한 통찰력으로 전환합니다."
+          },
+          {
+            "title": "AI 기반 HR 자동화",
+            "description": "반복적인 HR 작업을 자동화하고 더 빠르고 개인화된 직원 경험을 제공하세요."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "앱 개발",
+        "heading": "앱 개발 서비스",
+        "sub": "비즈니스 성장을 가속화하고 복잡한 프로세스를 단순화하는 안전하고 확장 가능한 고성능 애플리케이션을 구축하십시오.",
+        "promoTitle": "사용자가 좋아하는 앱 구축",
+        "promoText": "아이디어부터 출시까지 우리 팀은 확장 가능한 고품질 모바일 및 웹 애플리케이션을 설계하고 개발합니다.",
+        "items": [
+          {
+            "title": "맞춤형 애플리케이션 개발",
+            "description": "귀하의 고유한 비즈니스 요구 사항에 맞게 설계된 맞춤형 애플리케이션을 구축하십시오."
+          },
+          {
+            "title": "웹 및 모바일 앱 개발",
+            "description": "웹, 모바일, 다양한 기기에서 원활한 디지털 경험을 제공하세요."
+          },
+          {
+            "title": "엔터프라이즈 애플리케이션 개발",
+            "description": "기존 비즈니스 시스템과 통합되는 확장 가능한 솔루션을 개발하십시오."
+          },
+          {
+            "title": "로우코드 & 노코드 개발",
+            "description": "유연한 로우 코드 개발 플랫폼으로 애플리케이션 제공을 가속화합니다."
+          },
+          {
+            "title": "API 및 시스템 통합",
+            "description": "원활한 데이터 흐름을 위해 애플리케이션, 플랫폼 및 타사 시스템을 연결합니다."
+          },
+          {
+            "title": "애플리케이션 현대화",
+            "description": "레거시 애플리케이션을 현대적이고 확장 가능하며 효율적인 솔루션으로 전환합니다."
+          },
+          {
+            "title": "AI 기반 애플리케이션",
+            "description": "AI, 자동화 및 지능형 기능을 비즈니스 애플리케이션에 통합합니다."
+          },
+          {
+            "title": "애플리케이션 지원 및 유지보수",
+            "description": "지속적인 성능, 보안, 업데이트 및 안정성을 보장합니다."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI 및 로봇공학",
+    "businessAutomation": "비즈니스 자동화",
+    "cloudMigrations": "클라우드 마이그레이션",
+    "dataCenters": "데이터 센터",
+    "cognitiveAnalyticsAi": "인지 분석 및 AI",
+    "informationReportingSystems": "정보 및 보고 시스템",
+    "managedServices": "관리형 서비스",
+    "oneStopSolutions": "원스톱 솔루션"
+  },
+  "servicePage": {
+    "serviceOverview": "서비스 개요",
+    "whatWeOffer": "우리가 제공하는 것",
+    "whyChooseRezonants": "Rezonants를 선택하는 이유",
+    "benefitsOfWorking": "우리와 협력하면 얻을 수 있는 이점",
+    "techStack": "기술 스택",
+    "technologiesWeUse": "우리가 사용하는 기술",
+    "ourWork": "우리의 일",
+    "relatedProjects": "관련 프로젝트",
+    "viewCaseStudy": "사례 연구 보기",
+    "readyToDiscuss": "귀하의 {{title}} 프로젝트에 대해 논의할 준비가 되셨나요?",
+    "seniorEngineersReady": "당사의 수석 엔지니어들은 귀하의 솔루션을 계획, 설계 및 구축하는 데 도움을 드릴 준비가 되어 있습니다.",
+    "startProject": "프로젝트를 시작하세요",
+    "howItWorks": "작동 방식"
+  },
+  "consultation": {
+    "badge": "무료 상담 예약",
+    "title": "<span class='hero-accent'>함께</span> 프로젝트를 계획해 보세요",
+    "description": "컨설턴트와 의무사항 없는 통화를 예약하세요. 요구 사항에 대해 논의하고, 올바른 기술 접근 ​​방식을 탐색하고, 명확한 견적을 받아보세요. 이 모든 작업이 30분 이내에 완료됩니다.",
+    "bookSlot": "슬롯 예약",
+    "howItWorks": "작동 방식",
+    "accountRequired": "계정 필요",
+    "signInToBook": "상담을 예약하려면 로그인하세요",
+    "accountRequiredText": "상담을 요청하려면 Rezonants 계정이 필요합니다. 로그인하거나 새로 만드세요. 1분도 채 걸리지 않습니다.",
+    "signInToContinue": "계속하려면 로그인하세요",
+    "newToRezonants": "Rezonants를 처음 사용하시나요?",
+    "createAccount": "계정 만들기",
+    "requestMeeting": "회의 요청",
+    "tellUsAboutProject": "귀하의 프로젝트에 대해 알려주십시오",
+    "fillDetails": "세부사항을 입력하시면 이메일로 상담시간을 확정해 드립니다.",
+    "fullName": "성명 *",
+    "email": "이메일 *",
+    "phone": "전화 *",
+    "company": "회사",
+    "serviceOfInterest": "관심 있는 서비스 *",
+    "selectService": "서비스를 선택하세요...",
+    "preferredDate": "선호하는 날짜 *",
+    "preferredTime": "선호하는 시간 *",
+    "selectTimeSlot": "시간대를 선택하세요…",
+    "estimatedBudget": "예상 예산",
+    "selectRange": "범위를 선택하세요...",
+    "projectRequirements": "프로젝트 요구 사항",
+    "booking": "예약 중…",
+    "bookFreeConsultation": "내 무료 상담 예약",
+    "freeNote": "100% 무료이며 어떠한 의무도 없습니다. 우리는 일반적으로 24시간 이내에 응답합니다.",
+    "whatToExpect": "무엇을 기대해야 할까요",
+    "preferToReachUs": "직접 문의하고 싶으신가요?",
+    "callUs": "전화주세요",
+    "emailUs": "이메일을 보내주세요",
+    "visitUs": "우리를 방문하세요",
+    "whyBookWithUs": "우리에게 예약해야 하는 이유",
+    "freeCallTitle": "실제로 도움이 되는 무료 통화",
+    "freeCallNoPressure": "무료 통화, 부담감 없음",
+    "freeCallNoPressureText": "모든 첫 상담은 무료입니다. 구매 의무는 없습니다. 단지 솔직한 조언만 있으면 됩니다.",
+    "seniorConsultants": "수석 컨설턴트 전용",
+    "seniorConsultantsText": "귀하의 회의는 생계를 유지하는 수석 엔지니어와 컨설턴트가 주도합니다.",
+    "clearTimelines": "명확한 일정 및 인용문",
+    "clearTimelinesText": "프로젝트에 대해 정의된 다음 단계, 현실적인 일정 및 투명한 가격을 설정하세요.",
+    "services": {
+      "customSoftware": "맞춤형 소프트웨어 개발",
+      "webMobile": "웹 및 모바일 앱 개발",
+      "cloudDevops": "클라우드 및 DevOps 솔루션",
+      "aiMl": "AI 및 머신러닝",
+      "itConsulting": "IT 컨설팅",
+      "digitalMarketing": "디지털 마케팅 및 SEO",
+      "erpSolutions": "ERP 솔루션",
+      "other": "기타 / 아직 확실하지 않음"
+    },
+    "budgets": {
+      "under1L": "₹1L 미만",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "아직 결정되지 않았습니다"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "당신의 목표를 이해하세요",
+        "text": "우리는 먼저 듣습니다. 비즈니스 요구 사항, 대상 및 원하는 결과를 파악하기 위한 30분 통화입니다."
+      },
+      "technicalDirection": {
+        "title": "기술 방향 얻기",
+        "text": "우리 엔지니어들은 귀하의 프로젝트에 적합한 아키텍처, 스택 및 접근 방식을 공유합니다."
+      },
+      "clearQuote": {
+        "title": "명확한 견적을 받아보세요",
+        "text": "투명한 견적, 타임라인, 다음 단계를 제시하세요. 의무 사항은 없습니다."
+      }
+    },
+    "validation": {
+      "nameRequired": "전체 이름이 필요합니다.",
+      "emailRequired": "이메일이 필요합니다.",
+      "emailInvalid": "유효한 이메일을 입력하세요.",
+      "phoneRequired": "전화번호가 필요합니다.",
+      "phoneInvalid": "유효한 전화번호를 입력하세요.",
+      "serviceRequired": "서비스를 선택해주세요.",
+      "dateRequired": "원하는 날짜를 선택하세요.",
+      "timeRequired": "선호하는 시간대를 선택하세요.",
+      "messageTooShort": "좀 더 자세한 내용을 추가하세요(최소 10자).",
+      "signInRequired": "상담을 예약하려면 로그인하세요.",
+      "couldNotBook": "상담을 예약할 수 없습니다. 상담 테이블이 있는지 확인한 후 다시 시도하세요.",
+      "bookedSuccess": "상담 예약 완료! 우리 팀은 곧 이메일을 통해 귀하의 시간대를 확인해 드릴 것입니다."
+    }
+  },
+  "auth": {
+    "welcomeBack": "돌아온 것을 환영합니다",
+    "createAccount": "계정 만들기",
+    "forgotPassword": "비밀번호를 잊으셨나요",
+    "createNewPassword": "새 비밀번호 만들기",
+    "welcomeBackDesc": "Rezonants 계정에 로그인하세요.",
+    "createAccountDesc": "지금 Rezonants에 가입하세요.",
+    "forgotDesc": "이메일을 입력하시면 비밀번호를 재설정할 수 있는 링크를 보내드립니다.",
+    "recoveryDesc": "귀하의 계정에 대해 강력한 새 비밀번호를 선택하십시오.",
+    "fullName": "성명",
+    "email": "이메일",
+    "password": "비밀번호",
+    "newPassword": "새 비밀번호",
+    "confirmPassword": "비밀번호 확인",
+    "confirmNewPassword": "새 비밀번호 확인",
+    "forgotPasswordLink": "비밀번호를 잊으셨나요?",
+    "privacyPolicy": "나는 Rezonants <1>개인정보 보호 및 보안</1> 정책에 동의합니다.",
+    "sendResetLink": "재설정 링크 보내기",
+    "signIn": "로그인",
+    "signUp": "가입",
+    "pleaseWait": "잠시만 기다려주세요...",
+    "rememberedPassword": "비밀번호를 기억하시나요?",
+    "signInLink": "로그인",
+    "noAccount": "계정이 없나요?",
+    "signUpLink": "가입",
+    "hasAccount": "이미 계정이 있나요?",
+    "changedMind": "마음이 바뀌었나요?",
+    "backToSignIn": "로그인으로 돌아가기",
+    "resetSent": "비밀번호 재설정 링크가 전송되었습니다! 이메일을 확인하여 새 비밀번호를 만드세요.",
+    "passwordUpdated": "귀하의 비밀번호가 업데이트되었습니다. 새 비밀번호로 로그인하세요.",
+    "accountCreated": "계정이 생성되었습니다! 이메일을 확인하여 가입을 확인한 다음 로그인하세요.",
+    "validation": {
+      "fullNameRequired": "전체 이름이 필요합니다.",
+      "emailRequired": "이메일이 필요합니다.",
+      "emailInvalid": "유효한 이메일을 입력하세요.",
+      "passwordRequired": "비밀번호가 필요합니다.",
+      "passwordMinLength": "비밀번호는 6자 이상이어야 합니다.",
+      "passwordsNoMatch": "비밀번호가 일치하지 않습니다.",
+      "acceptTerms": "계속하려면 Rezonants 개인정보 보호정책 및 보안 정책에 동의하세요."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Rezonants AI와 채팅",
+    "openChatLabel": "Rezonants AI 어시스턴트 채팅 열기",
+    "chatTitle": "Rezonants AI 어시스턴트",
+    "online": "온라인",
+    "expandLabel": "챗봇 확장",
+    "minimizeLabel": "챗봇을 최소화하세요",
+    "closeLabel": "챗봇을 닫으세요",
+    "expand": "확장",
+    "minimize": "최소화",
+    "close": "닫기",
+    "popularTopics": "인기 주제",
+    "askPlaceholder": "Rezonants에 대해 물어보세요...",
+    "messageLabel": "Rezonants AI 어시스턴트에게 메시지 보내기",
+    "sendLabel": "메시지 보내기",
+    "sendTitle": "메시지 보내기",
+    "enterToSend": "보내려면 Enter를 누르세요 · 새 줄을 입력하려면 Shift+Enter",
+    "newChat": "새로운 채팅",
+    "typing": "Rezonants AI가 입력 중",
+    "menuOptions": "메뉴 옵션",
+    "greetingMorning": "좋은 아침",
+    "greetingAfternoon": "안녕하세요",
+    "greetingEvening": "안녕하세요",
+    "welcomeText": "! 👋 Rezonants에 오신 것을 환영합니다.\n저는 Rezonants AI 도우미입니다. 귀하가 당사의 서비스, 기술 및 연락처 정보를 탐색하도록 도와드릴 수 있습니다."
+  },
+  "cookieConsent": {
+    "title": "우리는 귀하의 개인정보를 소중하게 생각합니다",
+    "description": "우리는 귀하의 브라우징 경험을 향상시키기 위해 쿠키를 사용합니다. 귀하는 모든 쿠키를 허용하거나, 필수적이지 않은 쿠키를 거부하거나, 기본 설정을 맞춤화할 수 있습니다. 웹사이트가 올바르게 작동하는지 확인하기 위해 필수 쿠키가 항상 활성화되어 있습니다.",
+    "acceptAll": "모두 수락",
+    "rejectNonEssential": "필수적이지 않은 거부",
+    "managePreferences": "환경설정 관리",
+    "privacyPolicy": "개인 정보 보호 정책"
+  },
+  "cookiePreferences": {
+    "title": "쿠키 기본 설정 관리",
+    "description": "허용하는 쿠키 카테고리를 선택하세요. 웹사이트 기능을 유지하기 위해 필수 쿠키는 활성화된 상태로 유지됩니다.",
+    "essential": "필수",
+    "essentialDesc": "웹사이트가 작동하는 데 필요합니다(인증, 보안, 로드 밸런싱). 이는 비활성화할 수 없습니다.",
+    "analytics": "분석",
+    "analyticsDesc": "방문자가 사이트를 어떻게 사용하는지 이해하여 사이트를 개선할 수 있도록 도와주세요. 기본적으로 비활성화되어 있습니다.",
+    "marketing": "마케팅",
+    "marketingDesc": "관련 제안 및 캠페인을 표시하는 데 사용됩니다. 기본적으로 비활성화되어 있습니다.",
+    "cancel": "취소",
+    "savePreferences": "환경설정 저장"
+  },
+  "privacy": {
+    "badge": "법적",
+    "title": "개인 정보 보호 정책",
+    "description": "Rezonants가 귀하의 개인 정보와 쿠키를 수집, 사용 및 보호하는 방법.",
+    "lastUpdated": "최종 업데이트: 2026년 8월",
+    "managingPreferences": "선호도 관리하기",
+    "managingPreferencesDesc": "쿠키 기본 설정 패널에서 언제든지 허용하는 쿠키를 검토하거나 변경할 수 있습니다.",
+    "manageCookiePreferences": "쿠키 기본 설정 관리",
+    "section1": {
+      "title": "1. 당사가 수집하는 정보",
+      "body": [
+        "당사는 귀하가 직접 제공한 정보(예: 문의 양식을 제출하거나 계정을 생성할 때 귀하의 이름 및 이메일 주소)와 쿠키 및 유사한 기술을 통해 자동으로 수집된 정보(예: 방문한 페이지, 장치 유형 및 대략적인 위치)를 수집합니다."
+      ]
+    },
+    "section2": {
+      "title": "2. 쿠키를 사용하는 방법",
+      "body": [
+        "필수 쿠키가 없으면 웹사이트가 제대로 작동할 수 없기 때문에 필수 쿠키는 항상 활성화되어 있습니다. 세션 및 인증 상태를 저장하고 쿠키 기본 설정을 기억합니다.",
+        "분석 쿠키는 방문자가 사이트를 어떻게 사용하는지 이해하여 사이트를 개선하는 데 도움이 됩니다. 마케팅 쿠키는 귀하에게 관련 제안 및 캠페인을 표시하는 데 사용됩니다. 이러한 카테고리는 귀하의 동의가 있어야만 활성화되며 쿠키 기본 설정 패널에서 언제든지 변경할 수 있습니다."
+      ]
+    },
+    "section3": {
+      "title": "3. 법적 근거(GDPR)",
+      "body": [
+        "당사는 귀하의 동의(비필수 쿠키 및 마케팅의 경우), 계약 이행(귀하가 요청한 서비스의 경우), 법적 의무, 귀하의 권리가 우선하지 않는 경우 적법한 이익 등 법적 근거에 따라 개인 데이터를 처리합니다. 귀하는 철회 전에 수행된 처리의 합법성에 영향을 주지 않고 언제든지 동의를 철회할 수 있습니다."
+      ]
+    },
+    "section4": {
+      "title": "4. 귀하의 권리",
+      "body": [
+        "귀하의 위치에 따라 귀하는 귀하의 개인 데이터 처리에 접근, 정정, 삭제 또는 제한하고, 처리를 반대하고, 데이터 이동성을 거부할 권리가 있을 수 있습니다. 또한 현지 감독 기관에 불만 사항을 제기할 수도 있습니다."
+      ]
+    },
+    "section5": {
+      "title": "5. 데이터 보존 및 보안",
+      "body": [
+        "당사는 본 정책에 설명된 목적에 필요한 기간 동안만 개인 데이터를 보관합니다. 당사는 무단 접근, 변경, 공개 또는 파기로부터 귀하의 정보를 보호하기 위해 적절한 기술 및 조직적 조치를 적용합니다."
+      ]
+    },
+    "section6": {
+      "title": "6. 제3자 서비스",
+      "body": [
+        "일부 쿠키는 당사의 웹사이트 운영을 돕는 제3자 제공업체(예: 분석 또는 광고 플랫폼)에 의해 설정될 수 있습니다. 이러한 제공업체는 자체 개인정보 보호정책에 따라 귀하가 관련 카테고리에 동의한 경우에만 데이터를 처리합니다."
+      ]
+    },
+    "contactUs": "7. 문의하기",
+    "contactUsText": "이 정책이나 귀하의 개인 데이터에 대한 질문이 있는 경우 <1>info@rezonants.com</1>으로 문의하거나 <3>18004103299</3>으로 전화하세요."
+  },
+  "ourServices": {
+    "eyebrow": "서비스",
+    "title": "우리의 서비스",
+    "sub": "기업의 혁신, 확장, 성공을 돕기 위해 설계된 엔드투엔드 기술 솔루션입니다.",
+    "learnMore": "자세히 알아보기",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "배포 시작",
+        "text": "초기 개념부터 프로덕션 배포까지 실제 비즈니스 요구 사항에 맞게 구축된 확장 가능한 솔루션을 제공합니다."
+      },
+      "businessProcessAutomation": {
+        "title": "비즈니스 프로세스 자동화",
+        "text": "지능형 비즈니스 자동화를 통해 반복적인 프로세스를 간소화하고 운영 효율성을 향상시킵니다."
+      },
+      "centerOfExcellence": {
+        "title": "우수성 센터",
+        "text": "전문적인 기술 역량과 전문성을 구축하여 혁신, 품질, 지속적인 개선을 추진합니다."
+      },
+      "customDevelopmentCustomization": {
+        "title": "맞춤형 개발 및 맞춤화",
+        "text": "귀하의 고유한 비즈니스 요구 사항 및 작업 흐름을 중심으로 설계된 맞춤형 소프트웨어 솔루션입니다."
+      },
+      "digitalTransformation": {
+        "title": "디지털 혁신",
+        "text": "측정 가능한 영향을 미치는 디지털 전략, 기술, 솔루션으로 비즈니스를 현대화하세요."
+      },
+      "endToEndSolutionFramework": {
+        "title": "엔드투엔드 솔루션 프레임워크",
+        "text": "전략, 개발, 구현 및 지속적인 운영을 연결하는 통합 기술 솔루션입니다."
+      },
+      "migrationModernization": {
+        "title": "마이그레이션 및 현대화",
+        "text": "레거시 애플리케이션을 현대화하고 시스템을 확장 가능하고 안전하며 효율적인 기술 플랫폼으로 마이그레이션합니다."
+      },
+      "pocPilotImplementation": {
+        "title": "개념 증명(PoC) 및 파일럿 구현",
+        "text": "본격적인 배포 전에 집중적인 프로토타입과 파일럿 구현을 통해 아이디어를 신속하게 검증합니다."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "공유 서비스 및 관리 운영",
+        "text": "성능, 확장성 및 비즈니스 연속성을 향상시키는 안정적인 관리형 기술 운영입니다."
+      }
+    }
+  },
+  "footer": {
+    "company": "회사",
+    "about": "소개",
+    "perspectives": "관점",
+    "technologies": "기술",
+    "contact": "연락처",
+    "services": "서비스",
+    "getInTouch": "연락해",
+    "bookConsultation": "상담 예약",
+    "copyright": "© {{year}} Rezonants. 모든 권리 보유.",
+    "cookiePreferences": "쿠키 기본 설정",
+    "privacyPolicy": "개인 정보 보호 정책",
+    "description": "Rezonants는 인도 하이데라바드에 위치한 IT 서비스 및 디지털 제품 회사입니다. 우리는 실행을 놓고 경쟁하는 회사를 위한 소프트웨어를 설계, 구축 및 확장합니다.",
+    "locations": "우리 위치",
+    "indiaHq": "인도 하이데라바드 — 인도 본사",
+    "southAfrica": "남아프리카 — REZONANTS PVT LTD",
+    "products": "제품",
+    "followUs": "팔로우",
+    "aboutUs": "회사 소개",
+    "contactUs": "문의하기",
+    "headline": "빌드하자",
+    "headlineAccent": "다음은 무엇입니까?",
+    "subheadline": "Rezonants와 협력하여 아이디어를 실제 비즈니스 영향으로 전환하세요.",
+    "credoIdeas": "아이디어",
+    "credoSolutions": "솔루션",
+    "credoPeople": "사람들",
+    "credoBrighterTomorrow": "더 밝은 내일",
+    "hyderabadLocation": "인도 하이데라바드",
+    "vijayawadaLocation": "비자야와다, 안드라프라데시",
+    "southAfricaLocation": "남아프리카 – REZONANTS PVT LTD",
+    "termsOfUse": "이용약관",
+    "accessibility": "접근성",
+    "quickLinks": "빠른 링크",
+    "explore": "탐색",
+    "vijayawadaOffice": "비자야와다 사무실",
+    "allRightsReserved": "모든 권리 보유.",
+    "hyderabadPin": "인도 하이데라바드",
+    "southAfricaPin": "남아프리카"
+  },
+  "common": {
+    "loading": "로드 중...",
+    "error": "오류",
+    "retry": "재시도",
+    "close": "닫기",
+    "backToTop": "맨 위로",
+    "skipToContent": "콘텐츠로 건너뛰기",
+    "scroll": "스크롤",
+    "whatWeOffer": "우리가 제공하는 것",
+    "howItWorks": "작동 방식"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "국가 또는 코드 검색...",
+    "noResults": "국가를 찾을 수 없습니다.",
+    "countryCodeLabel": "국가별 전화번호",
+    "required": "전화번호가 필요합니다.",
+    "incomplete": "전화번호는 정확히 {{count}}자리를 포함해야 합니다.",
+    "tooLong": "전화번호는 {{count}}자리를 초과할 수 없습니다.",
+    "invalid": "{{country}}에 유효한 전화번호를 입력하세요."
+  },
+  "perspectives": {
+    "topic": "주제:",
+    "published": "게시됨:",
+    "readingTime": "독서 시간:",
+    "author": "작성자:",
+    "authorName": "Rezonants 엔터프라이즈 아키텍처 스튜디오",
+    "techArea": "기술분야",
+    "purpose": "목적",
+    "talkToExperts": "전문가와 상담하세요",
+    "viewAll": "모든 관점 보기",
+    "exploreMore": "더 많은 관점을 살펴보세요",
+    "continueExploring": "계속해서 엔터프라이즈 기술 통찰력을 탐색하세요",
+    "readPerspective": "관점 읽기"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI 및 로봇공학 솔루션",
+      "tagline": "지능형 기술. 자동화된 운영. 더 스마트한 비즈니스.",
+      "heroBadge": "지능형 자율 시스템",
+      "overview": [
+        "인공 지능과 로봇 공학은 조직의 운영, 의사 결정 및 가치 전달 방식을 변화시키고 있습니다. 당사의 AI 및 로봇 공학 솔루션은 인공 지능, 기계 학습, 컴퓨터 비전, 지능형 프로세스 자동화 및 로봇 공학을 결합하여 실질적인 비즈니스 과제를 해결함으로써 기업이 기존 자동화를 넘어설 수 있도록 지원합니다.",
+        "우리는 측정 가능한 비즈니스 결과를 중심으로 지능형 솔루션을 설계합니다. 요구 사항이 반복 작업 자동화, 대량 정보 분석, 패턴 감지, 의사 결정 지원, 운영 환경에 로봇 공학 도입 등 무엇이든 우리의 접근 방식은 안정성, 확장성, 보안 및 장기적인 비즈니스 가치에 중점을 둡니다."
+      ],
+      "transformation": [
+        "현대 조직은 매일 엄청난 양의 데이터를 생성하고 수천 건의 반복적인 활동을 수행합니다. AI와 로봇공학은 이러한 활동을 지능적이고 자동화된 워크플로우로 전환하여 생산성을 향상시키는 동시에 직원들이 더 높은 가치의 책임에 집중할 수 있도록 해줍니다.",
+        "당사의 솔루션은 조직이 반복적인 작업을 자동화하고, 수동 개입을 줄이고, 정확성을 향상시키고, 복잡한 정보를 분석하고, 더 빠른 의사 결정을 지원하고, 리소스 활용도를 최적화하고, 고객 경험을 향상하고, 확장 가능한 지능형 시스템을 구축하는 데 도움을 줄 수 있습니다."
+      ],
+      "capabilities": [
+        {
+          "title": "인공지능",
+          "desc": "우리는 시스템이 정보를 이해하고, 패턴을 식별하고, 통찰력을 생성하고, 비즈니스 의사결정을 지원할 수 있도록 하는 AI 기반 솔루션을 개발합니다."
+        },
+        {
+          "title": "기계 학습",
+          "desc": "우리는 예측, 분류, 추천 시스템, 이상 탐지, 예측 분석 및 지능형 의사 결정 지원을 위한 기계 학습 모델을 개발합니다."
+        },
+        {
+          "title": "자연어 처리",
+          "desc": "NLP는 문서 처리, 텍스트 이해, 정보 분류, 관련 콘텐츠 추출, 대화형 애플리케이션 지원 등에 사용될 수 있습니다."
+        },
+        {
+          "title": "컴퓨터 비전",
+          "desc": "컴퓨터 비전 솔루션은 이미지 분류, 객체 감지, 품질 검사, 문서 처리, 시각적 모니터링 및 비디오 분석을 지원할 수 있습니다."
+        },
+        {
+          "title": "로봇공학",
+          "desc": "로봇 공학은 소프트웨어 지능과 물리적 시스템을 결합하여 전통적으로 수동 작업이 필요한 활동을 자동화합니다. 적용 분야에는 제조, 물류, 창고 보관, 검사, 자재 취급 및 운영 지원이 포함될 수 있습니다."
+        },
+        {
+          "title": "지능형 프로세스 자동화",
+          "desc": "AI는 워크플로 자동화와 결합되어 정보를 해석하고 비즈니스 규칙이나 모델을 적용하며 적절한 프로세스를 자동으로 시작하는 시스템을 만들 수 있습니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "사업 평가",
+        "데이터 분석",
+        "AI 전략",
+        "솔루션 아키텍처",
+        "개발",
+        "통합",
+        "테스트",
+        "배포",
+        "모니터링",
+        "최적화"
+      ],
+      "benefits": [
+        "기업 운영 생산성 향상",
+        "운영비 대폭 절감",
+        "더 빠른 처리 및 밀리초 단위의 결정 처리 시간",
+        "데이터 및 작업흐름 정확성 향상",
+        "물리 및 계산 자원 활용 최적화",
+        "운영 위험 및 인적 오류 감소",
+        "원활한 멀티 플랫폼 확장성",
+        "향상된 고객 및 직원 경험"
+      ],
+      "security": "엔터프라이즈 AI 솔루션은 적절한 보안, 액세스 제어, 데이터 보호, 모니터링, 모델 거버넌스 및 운영 보호 장치를 갖추고 설계되어야 합니다. 우리는 신뢰할 수 있는 프로덕션급 인텔리전스를 보장하기 위해 아키텍처 단계부터 배포 및 지속적인 유지 관리에 이르기까지 이러한 요구 사항을 고려합니다.",
+      "ctaHeadline": "지능형 미래 구축",
+      "ctaSub": "귀하의 운영을 더욱 스마트하게 만드십시오. 중요한 것을 자동화하세요. 미래를 위해 구축하세요."
+    },
+    "business-automation-solutions": {
+      "title": "비즈니스 자동화 솔루션",
+      "tagline": "프로세스 단순화. 반복을 제거하십시오. 성장을 가속화하세요.",
+      "heroBadge": "엔드투엔드 워크플로우 최적화",
+      "overview": [
+        "비즈니스 자동화를 통해 조직은 반복적인 수동 활동을 간소화된 디지털 워크플로우로 대체할 수 있습니다. 당사의 비즈니스 자동화 솔루션은 기업이 생산성을 향상시키고, 운영 복잡성을 줄이고, 오류를 최소화하고, 부서 전반에 걸쳐 일관된 프로세스를 생성하도록 돕습니다.",
+        "기존 워크플로우를 분석하고 병목 현상을 식별하며 사람, 애플리케이션, 데이터 및 비즈니스 프로세스를 연결하는 자동화 솔루션을 설계합니다."
+      ],
+      "transformation": [
+        "많은 조직이 여전히 스프레드시트, 이메일, 수동 승인, 반복적인 데이터 입력, 문서 처리 및 연결되지 않은 애플리케이션에 의존하고 있습니다. 이러한 프로세스는 직원의 귀중한 시간을 소모하며 지연, 불일치 및 오류를 초래할 수 있습니다.",
+        "우리의 자동화 접근 방식은 전체 프로세스를 이해하고, 불필요한 단계를 제거하고, 시스템을 통합하고, 최고의 운영 가치를 제공하는 활동을 자동화하는 데 중점을 둡니다."
+      ],
+      "capabilities": [
+        {
+          "title": "작업 흐름 자동화",
+          "desc": "우리는 서로 다른 부서 전반에 걸쳐 직원, 신청, 승인, 알림 및 데이터와 관련된 다단계 프로세스를 자동화합니다."
+        },
+        {
+          "title": "로봇 프로세스 자동화",
+          "desc": "소프트웨어 봇은 데이터 입력, 시스템 업데이트, 조정 및 정보 전송과 같은 반복적인 규칙 기반 활동을 수행할 수 있습니다."
+        },
+        {
+          "title": "문서 자동화",
+          "desc": "자동화된 문서 워크플로우는 정보 추출, 데이터 검증, 문서 분류, 요청 라우팅 및 다운스트림 프로세스 시작을 수행할 수 있습니다."
+        },
+        {
+          "title": "승인 자동화",
+          "desc": "디지털 승인 워크플로는 요청을 올바른 의사 결정자에게 자동으로 라우팅하고 보류 중인 작업에 대한 실시간 가시성을 제공합니다."
+        },
+        {
+          "title": "통합 자동화",
+          "desc": "불필요한 수동 개입 없이 플랫폼 간에 정보가 자동으로 이동할 수 있도록 비즈니스 애플리케이션을 연결합니다."
+        },
+        {
+          "title": "알림 자동화",
+          "desc": "자동화된 경고 및 알림을 통해 직원은 중요한 이벤트, 마감일, 예외 사항 및 운영 변경 사항에 즉각적으로 대응할 수 있습니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "발견",
+        "분석",
+        "디자인",
+        "자동화",
+        "통합",
+        "테스트",
+        "배포",
+        "모니터",
+        "최적화"
+      ],
+      "benefits": [
+        "팀 처리량 및 운영 속도 증가",
+        "수동 데이터 입력 오류 대폭 감소",
+        "전체 프로세스 처리 시간 단축",
+        "비즈니스 운영 전반에 걸쳐 통합된 가시성",
+        "표준화된 부서 간 규정 준수",
+        "운영비 대폭 절감",
+        "워크로드를 쉽게 확장할 수 있는 탄력적인 용량",
+        "고객 참여 및 전략적 업무에 집중하는 역량 강화된 팀"
+      ],
+      "security": "우리는 워크플로우 플랫폼과 RPA를 지능형 상황 인식 모델과 결합하여 역할 기반 액세스 제어, 포괄적인 감사 추적 및 모든 자동화된 트랜잭션에 대한 엄격한 규정 준수를 보장합니다.",
+      "ctaHeadline": "더욱 효율적인 운영 구축",
+      "ctaSub": "반복적인 작업을 자동화합니다. 직원들에게 역량을 강화하세요. 비즈니스를 가속화하세요."
+    },
+    "cloud-migration-solutions": {
+      "title": "클라우드 마이그레이션 솔루션",
+      "tagline": "자신있게 클라우드로 전환하세요.",
+      "heroBadge": "멀티 클라우드 전환",
+      "overview": [
+        "클라우드 컴퓨팅은 현대 IT 인프라의 중요한 구성 요소가 되었습니다. 조직에서는 확장성, 가용성, 유연성 및 운영 효율성을 개선하기 위해 애플리케이션, 데이터베이스, 워크로드 및 인프라를 클라우드 환경으로 이동하고 있습니다.",
+        "당사의 클라우드 마이그레이션 서비스는 조직이 현재 환경을 평가하고, 마이그레이션 전략을 정의하고, 마이그레이션을 실행하고, 클라우드로 이동한 후 워크로드를 최적화하는 데 도움을 줍니다."
+      ],
+      "transformation": [
+        "클라우드 마이그레이션은 한 환경에서 다른 환경으로 서버를 이동하는 것 이상입니다. 성공적인 마이그레이션을 위해서는 애플리케이션, 인프라, 종속성, 보안 요구 사항, 데이터, 성능, 가용성 및 비즈니스 연속성에 대한 신중한 평가가 필요합니다.",
+        "조직의 현재 환경과 미래 목표를 기반으로 각 워크로드에 적합한 마이그레이션 패턴을 선택하여 마이그레이션 전략을 수립합니다."
+      ],
+      "capabilities": [
+        {
+          "title": "인프라 마이그레이션",
+          "desc": "기존 서버, 스토리지, 가상 머신 및 워크로드를 AWS, Azure 및 GCP의 최신 클라우드 환경으로 마이그레이션합니다."
+        },
+        {
+          "title": "애플리케이션 마이그레이션",
+          "desc": "애플리케이션은 비즈니스 및 기술 요구 사항에 따라 다시 호스팅, 플랫폼 변경, 리팩터링 또는 재설계될 수 있습니다."
+        },
+        {
+          "title": "데이터베이스 마이그레이션",
+          "desc": "데이터 무결성, 성능, 호환성, 가용성, 보안 및 복구 요구 사항을 고려하여 데이터베이스를 마이그레이션합니다."
+        },
+        {
+          "title": "클라우드 현대화",
+          "desc": "마이그레이션은 컨테이너, 마이크로서비스, 관리형 데이터베이스, 서버리스 서비스 및 클라우드 네이티브 아키텍처를 사용하여 애플리케이션을 현대화할 수 있는 기회가 됩니다."
+        },
+        {
+          "title": "하이브리드 클라우드",
+          "desc": "온프레미스와 클라우드 인프라가 모두 필요한 조직은 기존 시스템과 클라우드 서비스를 원활하게 연결하는 하이브리드 아키텍처를 채택할 수 있습니다."
+        },
+        {
+          "title": "멀티 클라우드",
+          "desc": "여러 클라우드 플랫폼에서 운영되는 조직을 위해 유연성, 탄력성 및 거버넌스를 개선하는 워크로드 전략을 설계하는 데 도움을 드립니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "평가",
+        "발견",
+        "종속성 매핑",
+        "마이그레이션 전략",
+        "건축 디자인",
+        "파일럿 마이그레이션",
+        "데이터 마이그레이션",
+        "애플리케이션 마이그레이션",
+        "테스트",
+        "프로덕션 마이그레이션",
+        "최적화"
+      ],
+      "benefits": [
+        "탄력적인 확장성과 높은 리소스 가용성",
+        "인프라 유연성 및 비즈니스 민첩성 향상",
+        "물리적 데이터센터 유지관리 부담 해소",
+        "가속화된 애플리케이션 기능 배포",
+        "강력한 재해 복구 및 백업 복원력",
+        "최신 클라우드 AI 및 관리형 서비스에 즉시 액세스",
+        "최적화된 FinOps 거버넌스 및 TCO 절감",
+        "지속적인 규정 준수 및 자동화된 보안 가드레일"
+      ],
+      "security": "보안은 마이그레이션 계획의 필수적인 부분입니다. 우리는 신원 및 액세스 관리, 네트워크 보안, 전송 중 및 미사용 암호화, 데이터 보호, 애플리케이션 취약성 감사, 모니터링, 백업 및 재해 복구를 고려합니다.",
+      "ctaHeadline": "제대로 계획된 클라우드 여정",
+      "ctaSub": "인프라를 현대화하세요. 혁신을 가속화하세요. 확장 가능한 클라우드 기반을 구축하세요."
+    },
+    "data-center-solutions": {
+      "title": "데이터 센터 솔루션",
+      "tagline": "미션 크리티컬 운영을 위한 안정적인 인프라.",
+      "heroBadge": "미션 크리티컬 인프라",
+      "overview": [
+        "데이터 센터는 현대 디지털 비즈니스의 기반을 형성합니다. 애플리케이션, 데이터베이스, 엔터프라이즈 시스템, 통신 플랫폼 및 중요한 비즈니스 서비스는 안정적인 인프라에 의존합니다.",
+        "당사의 데이터 센터 솔루션은 가용성, 보안, 확장성, 성능 및 운영 효율성을 위해 구축된 인프라 환경을 설계, 현대화, 관리 및 최적화하는 데 중점을 둡니다."
+      ],
+      "transformation": [
+        "현대 데이터 센터에는 서버와 스토리지 이상의 것이 필요합니다. 컴퓨팅, 네트워킹, 보안, 전원, 냉각, 모니터링, 백업 및 재해 복구 전반에 걸쳐 신중하게 엔지니어링된 인프라가 필요합니다.",
+        "우리는 조직이 중요한 워크로드를 지원하고 미래 기술 성장을 위한 기반을 제공하는 탄력적인 인프라 환경을 구축할 수 있도록 지원합니다."
+      ],
+      "capabilities": [
+        {
+          "title": "인프라 설계",
+          "desc": "우리는 워크로드 요구 사항, 용량, 성능, 가용성, 보안 및 향후 성장을 기반으로 환경을 설계합니다."
+        },
+        {
+          "title": "서버 인프라",
+          "desc": "우리는 미션 크리티컬 엔터프라이즈 애플리케이션 및 워크로드를 위한 물리적 및 가상 서버 환경을 지원합니다."
+        },
+        {
+          "title": "스토리지 솔루션",
+          "desc": "스토리지 환경을 설계할 때 성능, 용량, 이중화, 고속 SAN/NAS, 백업 및 데이터 보호 요구 사항을 고려합니다."
+        },
+        {
+          "title": "네트워크 인프라",
+          "desc": "적절한 분할, 이중화, 낮은 지연 성능, 연결성 및 보안 제어를 갖춘 네트워크 환경을 설계합니다."
+        },
+        {
+          "title": "가상화",
+          "desc": "가상화는 리소스 활용도, 워크로드 유연성 및 중앙 집중식 인프라 관리를 향상시킵니다."
+        },
+        {
+          "title": "백업 및 재해 복구",
+          "desc": "우리는 조직이 가동 중지 시간을 최소화하고 데이터 손실을 제거하도록 설계된 백업 전략 및 복구 아키텍처를 수립하도록 돕습니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "역량 평가",
+        "워크로드 프로파일링",
+        "아키텍처 청사진",
+        "하드웨어 및 가상 크기 조정",
+        "네트워크 분할",
+        "스토리지 프로비저닝",
+        "중복성 및 DR 테스트",
+        "생산 컷오버",
+        "연중무휴 건강 모니터링",
+        "지속적인 최적화"
+      ],
+      "benefits": [
+        "99.999% 인프라 가동 시간 보장",
+        "다중 계층 이중화로 단일 장애 지점 제로",
+        "최적화된 서버 컴퓨팅 및 고밀도 가상화",
+        "밀리초 미만의 짧은 지연 시간 네트워킹 아키텍처",
+        "물리적 및 디지털 경계 보안 강화",
+        "사전 모니터링 및 자동화된 장애 복구",
+        "페타바이트 규모의 데이터를 위한 확장 가능한 모듈형 스토리지",
+        "예측 가능한 총 소유 비용 및 전력 효율성"
+      ],
+      "security": "네트워크 마이크로 분할, 하드웨어 신뢰 루트, 제로 트러스트 액세스 제어, 지속적인 취약성 감사, 엔드포인트 방어 및 엄격한 운영 정책을 포괄하는 인프라 계층 전체에 보안이 통합되어 있습니다.",
+      "ctaHeadline": "미래 지향적 인프라",
+      "ctaSub": "지금 안정적인 인프라를 구축하세요. 내일의 기술을 위한 기반을 만들어 보세요."
+    },
+    "cognitive-analytics-ai": {
+      "title": "인지 분석 및 AI",
+      "tagline": "데이터를 인텔리전스로 전환하세요.",
+      "heroBadge": "데이터-의사결정 인텔리전스",
+      "overview": [
+        "조직은 애플리케이션, 거래, 고객, 운영, 장치 및 디지털 플랫폼을 통해 엄청난 양의 정보를 생성합니다. 문제는 더 이상 단순히 데이터를 수집하는 것이 아닙니다. 그것은 데이터를 이해하고 이를 실행 가능한 인텔리전스로 바꾸는 것입니다.",
+        "당사의 인지 분석 및 AI 솔루션은 고급 분석, 기계 학습, 인공 지능, 데이터 처리 및 비즈니스 인텔리전스를 결합하여 조직이 더 나은 결정을 내릴 수 있도록 지원합니다."
+      ],
+      "transformation": [
+        "전통적인 보고는 조직에 무슨 일이 일어났는지 알려줍니다. 고급 분석은 사건이 발생한 이유를 설명하고, 다음에 일어날 일을 식별하고, 일어날 일에 대한 결정을 지원하는 데 도움이 됩니다.",
+        "우리는 조직이 정적 보고를 넘어 지능형 분석 및 의사결정 지원으로 나아가는 데이터 환경을 구축하도록 돕습니다."
+      ],
+      "capabilities": [
+        {
+          "title": "기술 분석",
+          "desc": "대화형 보고서, 다차원 대시보드, KPI 및 비즈니스 지표를 통해 과거 성과를 이해합니다."
+        },
+        {
+          "title": "진단 분석",
+          "desc": "비즈니스 결과의 기본 관계, 추세, 통계적 이상 및 근본 원인을 식별합니다."
+        },
+        {
+          "title": "예측 분석",
+          "desc": "통계 모델과 함께 과거 및 실시간 스트리밍 데이터를 사용하여 잠재적인 미래 결과 및 수요를 식별합니다."
+        },
+        {
+          "title": "처방적 분석",
+          "desc": "예상 결과와 전략적 비즈니스 목표를 기반으로 가능한 조치를 평가하고 최적의 의사결정 경로를 지원합니다."
+        },
+        {
+          "title": "머신러닝 모델",
+          "desc": "예측, 고객 분류, 추천, 부정 행위 탐지 및 예측 유지 관리를 위한 맞춤형 모델을 개발합니다."
+        },
+        {
+          "title": "AI 기반 통찰력",
+          "desc": "방대한 양의 구조화되지 않은 정보에 인지 AI를 적용하여 숨겨진 패턴, 요약 및 권장 사항을 찾아냅니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "데이터 소스",
+        "데이터 통합",
+        "데이터 처리",
+        "데이터 저장",
+        "분석",
+        "AI/ML 모델",
+        "시각화",
+        "사업 결정"
+      ],
+      "benefits": [
+        "사실 기반, 데이터 기반 경영진 의사 결정",
+        "정확한 수요, 매출, 이탈 예측",
+        "실시간 이상 및 사기 탐지",
+        "심층적인 360° 고객 행동 통찰력 및 개인화",
+        "최적화된 공급망 및 운영 효율성",
+        "운영 및 재무 리스크 완화",
+        "숨은 수익 창출 기회 발굴",
+        "사업부 전반에 걸쳐 통찰력을 얻는 시간 단축"
+      ],
+      "security": "당사의 분석 생태계는 독점 데이터를 보호하고 규정 준수(GDPR, HIPAA, SOC 2)를 유지하기 위해 엔드투엔드 암호화, 자동화된 데이터 마스킹, 엄격한 RBAC 권한 및 모델 거버넌스를 구현합니다.",
+      "ctaHeadline": "지능형 데이터 전략 구축",
+      "ctaSub": "정보를 통찰력으로 바꾸세요. 통찰력을 행동으로 전환하세요."
+    },
+    "information-reporting-systems": {
+      "title": "정보 및 보고 시스템",
+      "tagline": "올바른 정보. 적시에. 더 나은 결정을 위해.",
+      "heroBadge": "통합 엔터프라이즈 인텔리전스",
+      "overview": [
+        "비즈니스 리더와 운영팀은 효과적인 결정을 내리기 위해 정확한 정보에 의존합니다. 당사의 정보 및 보고 시스템은 조직이 구조화된 정보 시스템, 보고 플랫폼, 대시보드 및 자동화된 보고 워크플로를 통해 비즈니스 정보를 수집, 구성, 분석 및 제시하는 데 도움이 됩니다.",
+        "조직에서는 애플리케이션, 스프레드시트, 데이터베이스 및 운영 체제 전반에 걸쳐 정보가 분산되어 있는 경우가 많습니다. 이로 인해 비즈니스 성과에 대한 일관된 관점을 확립하기가 어렵습니다. 우리는 신뢰할 수 있고 접근 가능하며 일관된 비즈니스 정보를 제공하는 구조화된 보고 환경에 정보 소스를 통합하도록 돕습니다."
+      ],
+      "transformation": [
+        "보고 시스템은 단순히 숫자만 표시해서는 안 됩니다. 이는 사용자가 성능을 이해하고, 문제를 식별하고, 기회를 발견하고, 정보에 입각한 결정을 내리는 데 도움이 되어야 합니다.",
+        "우리는 귀하의 조직이 운영되는 방식에 맞춰 보고 환경을 설계하여 모든 관리 계층에 맞는 구조화된 데이터-의사결정 생태계를 제공합니다."
+      ],
+      "capabilities": [
+        {
+          "title": "경영정보시스템(MIS)",
+          "desc": "경영진에게 관련 운영 및 전략적 가시성을 제공하는 통합 정보 시스템을 개발합니다."
+        },
+        {
+          "title": "사업보고",
+          "desc": "여러 채널의 원시 비즈니스 데이터를 성과를 지속적으로 모니터링하는 구조화되고 표준화된 보고서로 변환합니다."
+        },
+        {
+          "title": "대화형 대시보드",
+          "desc": "중요한 비즈니스 지표, KPI, 추세 및 부서 활동에 대한 실시간 또는 예약된 대화형 가시성을 제공합니다."
+        },
+        {
+          "title": "KPI 관리",
+          "desc": "중요한 기업 성장 목표와 직접적으로 연계된 의미 있는 운영 KPI를 정의, 추적 및 벤치마킹합니다."
+        },
+        {
+          "title": "데이터 통합",
+          "desc": "일관된 단일 창 보고를 위해 분산된 데이터 소스를 통합 데이터 웨어하우스 및 의미 계층에 통합합니다."
+        },
+        {
+          "title": "자동보고",
+          "desc": "사전 정의된 일정, 비즈니스 규칙 및 수신자 계층 구조에 따라 개인화된 보고서를 자동으로 생성하고 배포합니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "비즈니스 시스템",
+        "데이터 수집",
+        "데이터 통합",
+        "데이터 처리",
+        "데이터 저장소",
+        "분석",
+        "보고서 및 대시보드"
+      ],
+      "benefits": [
+        "기업 전체에 걸친 단일 정보 소스",
+        "실시간 운영 지표에 더욱 빠르게 액세스",
+        "수동 스프레드시트 어셈블리 완전 제거",
+        "일관되고 조정된 부서 간 KPI",
+        "우수한 경영진의 감독 및 감사 가능성",
+        "이해관계자에게 직접 자동 배포",
+        "세분화된 행 수준 데이터 보안 및 권한",
+        "운영 이상 상황 대응 민첩성 강화"
+      ],
+      "security": "비즈니스 정보에는 민감한 운영, 재무 및 고객 데이터가 포함될 수 있습니다. 당사의 보고 솔루션에는 다단계 인증, 세분화된 역할 기반 권한 부여, 암호화 및 감사 로그가 보고 아키텍처에 포함되어 있습니다.",
+      "ctaHeadline": "성장을 지원하는 보고",
+      "ctaSub": "정보에 대한 접근성을 높입니다. 성과를 가시화하세요. 더 나은 결정을 내리세요."
+    },
+    "managed-services": {
+      "title": "관리형 서비스",
+      "tagline": "안정적인 기술 운영. 전문가 지원. 지속적인 개선.",
+      "heroBadge": "연중무휴 24시간 IT 운영 및 지원",
+      "overview": [
+        "현대 IT 환경은 복잡하고 끊임없이 변화하고 있습니다. 조직에는 비즈니스 운영을 유지하기 위해 안정적인 인프라, 애플리케이션, 네트워크, 보안, 모니터링 및 기술 지원이 필요합니다.",
+        "당사의 관리 서비스는 지속적인 기술 관리 및 운영 지원을 제공하여 내부 팀이 전략적 계획에 집중하는 동안 조직이 신뢰할 수 있는 IT 환경을 유지할 수 있도록 합니다."
+      ],
+      "transformation": [
+        "기존 IT 지원은 문제가 발생한 후 해결하는 데 중점을 두는 경우가 많습니다. 관리형 서비스는 인프라, 애플리케이션, 시스템 및 운영 환경을 지속적으로 모니터링하여 사전 예방적인 접근 방식을 취합니다.",
+        "이 접근 방식은 잠재적인 문제를 조기에 식별하고 성능을 유지하며 가용성을 향상하고 피할 수 있는 운영 중단을 줄이는 데 도움이 됩니다."
+      ],
+      "capabilities": [
+        {
+          "title": "인프라 관리",
+          "desc": "서버, 스토리지, 가상화 플랫폼 및 인프라의 지속적인 운영, 패치 및 관리를 지원합니다."
+        },
+        {
+          "title": "클라우드 관리",
+          "desc": "클라우드 워크로드, 멀티 클라우드 리소스, 구성, 모니터링, 성능 및 FinOps 최적화를 관리합니다."
+        },
+        {
+          "title": "네트워크 관리",
+          "desc": "연중무휴 24시간 모니터링, 성능 관리, 구성 지원, SD-WAN 최적화, 네트워크 문제 해결을 제공합니다."
+        },
+        {
+          "title": "애플리케이션 관리",
+          "desc": "사전 모니터링, 유지 관리, 버그 해결, 운영 업그레이드를 통해 중요한 애플리케이션 환경을 지원합니다."
+        },
+        {
+          "title": "모니터링 및 관찰 가능성",
+          "desc": "시스템 상태, 대기 시간, 가동 시간, 인프라 종속성 및 경고에 대한 포괄적인 실시간 가시성을 제공합니다."
+        },
+        {
+          "title": "백업 및 복구 관리",
+          "desc": "자동화된 백업 일정을 유지하고 정기적으로 장애 조치를 테스트하며 즉각적인 복구 기능을 보장합니다."
+        },
+        {
+          "title": "보안 운영(SecOps)",
+          "desc": "지속적인 보안 모니터링, 패치 관리, 액세스 제어 시행 및 사전 위협 완화 기능을 제공합니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "환경 온보딩",
+        "검색 및 기준선",
+        "원격 측정 통합",
+        "SLA 정의",
+        "24시간 실시간 모니터링",
+        "사건분류",
+        "신속한 해결",
+        "근본 원인 분석",
+        "예방공학",
+        "지속적인 최적화"
+      ],
+      "benefits": [
+        "내부 운영 부담 대폭 감소",
+        "사용자가 영향을 받기 전에 사전 문제 감지",
+        "99.99% 시스템 가용성 및 가동 시간 보장",
+        "예측 가능하고 투명한 IT 운영 예산",
+        "수석 엔지니어링 전문가에게 즉시 접근 가능",
+        "신속한 SLA 지원 사고 대응 시간",
+        "자동화된 재해 복구 및 비즈니스 연속성",
+        "지속적인 기술 최적화 및 현대화"
+      ],
+      "security": "당사의 관리 운영은 엄격한 ITIL 및 ISO 프레임워크를 준수하여 암호화된 액세스, 격리된 감사 로그, 최소 권한 자격 증명 보관 및 모든 관리 리소스에 대한 규정 준수 조정을 보장합니다.",
+      "ctaHeadline": "지속적인 개선",
+      "ctaSub": "당신은 사업에 집중하고 있습니다. 우리는 귀하의 기술이 계속해서 실행되도록 돕습니다."
+    },
+    "one-stop-technology-solutions": {
+      "title": "원스톱 기술 솔루션",
+      "tagline": "하나의 기술 파트너. 다양한 기능. 완벽한 비즈니스 솔루션.",
+      "heroBadge": "통합 엔터프라이즈 파트너",
+      "overview": [
+        "조직은 인프라, 클라우드, 애플리케이션, 자동화, 분석, 보안, 지원 및 디지털 혁신을 위해 여러 기술 제공업체와 협력하는 경우가 많습니다. 여러 공급업체를 관리하면 복잡성, 커뮤니케이션 격차, 노력 중복, 단편화된 기술 환경이 발생할 수 있습니다.",
+        "당사의 원스톱 기술 솔루션 접근 방식은 통합 서비스 모델에서 여러 기능을 결합하여 조직이 기술 환경을 계획, 구현, 통합, 운영 및 지속적으로 개선할 수 있도록 지원합니다."
+      ],
+      "transformation": [
+        "우리는 비즈니스 요구 사항 이해 및 기술 전략 정의부터 솔루션 설계, 플랫폼 구현, 시스템 통합, 애플리케이션 배포, 환경 모니터링 및 지속적인 지원 제공에 이르기까지 전체 기술 수명주기를 지원합니다.",
+        "고립된 솔루션이 아닌 연결된 기술 생태계를 만드는 것이 목표입니다."
+      ],
+      "capabilities": [
+        {
+          "title": "전략 및 아키텍처",
+          "desc": "비즈니스 목표를 이해하고 확장 가능하고 안전하며 유지 관리 가능한 기술 아키텍처를 설계합니다."
+        },
+        {
+          "title": "구현 및 구축",
+          "desc": "엔터프라이즈급 엄격함을 바탕으로 애플리케이션, 인프라, 통합, 자동화 및 디지털 플랫폼을 구현합니다."
+        },
+        {
+          "title": "시스템 통합",
+          "desc": "시스템과 애플리케이션을 연결하여 정보가 조직 전체에 걸쳐 원활하게 이동할 수 있도록 합니다."
+        },
+        {
+          "title": "구조화된 배포",
+          "desc": "자동화된 CI/CD 및 릴리스 프로세스를 구축하여 솔루션을 안정적이고 안전하게 생산에 적용합니다."
+        },
+        {
+          "title": "지속적인 모니터링",
+          "desc": "인프라, 애플리케이션, 성능, 가용성 및 운영 상태에 대한 엔드투엔드 가시성을 제공합니다."
+        },
+        {
+          "title": "최적화 및 지원",
+          "desc": "성능, 신뢰성, 비용 효율성 및 확장성을 개선하기 위해 환경을 지속적으로 검토합니다."
+        }
+      ],
+      "lifecycleSteps": [
+        "전략",
+        "아키텍처",
+        "구현",
+        "통합",
+        "배포",
+        "모니터링",
+        "최적화",
+        "지원"
+      ],
+      "benefits": [
+        "공급업체 관리 복잡성 및 오버헤드 감소",
+        "모든 아키텍처 계층에 걸친 원활한 조정",
+        "핸드오프 지연 없이 더 빠른 프로젝트 실행",
+        "예측 가능한 예산 배분 및 투명한 전달",
+        "0에서 규모까지 통합된 기업 책임",
+        "미래 비즈니스 성장을 위해 설계된 확장 가능한 솔루션",
+        "장기적으로 신뢰받는 기술 파트너십",
+        "포괄적인 엔드투엔드 디지털 혁신"
+      ],
+      "security": "아키텍처, 구현 및 운영을 감독하는 신뢰할 수 있는 단일 파트너를 통해 보안 거버넌스는 모든 계층에서 중단 없이 유지되어 통합 사각지대를 제거하고 지속적인 규정 준수를 보장합니다.",
+      "ctaHeadline": "완벽한 기술 파트너",
+      "ctaSub": "파트너 1명. 하나의 비전. 다양한 기술. 완벽한 솔루션."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "기업개요",
+    "overviewTitle": "측정 가능한 결과를 위한 지능형 기술",
+    "transformationEyebrow": "운영 혁신",
+    "transformationTitle": "지능형 워크플로우를 통한 비즈니스 혁신",
+    "deliveryEyebrow": "구조화된 전달 접근 방식",
+    "deliveryTitle": "엔드 투 엔드 실행 및 지속적인 최적화",
+    "deliveryIntro": "당사의 입증된 구현 접근 방식은 엄격한 제공 수명주기를 따릅니다.",
+    "deliveryOutro": "이 구조화된 순서는 모든 단계에서 비즈니스 목표, 강력한 보안 상태 및 측정 가능한 ROI 벤치마크와의 긴밀한 일치를 보장합니다.",
+    "securityEyebrow": "보안 및 거버넌스",
+    "securityTitle": "엔터프라이즈급 신뢰성 및 규정 준수 보호 장치",
+    "securityOutro": "우리는 엄격한 역할 기반 액세스 제어, 자동화된 취약성 검색, 모델 거버넌스 및 다중 계층 암호화를 내장하여 프로덕션 환경이 복원력을 유지하고 규정을 완벽하게 준수하도록 보장합니다.",
+    "capabilitiesTitle": "핵심기술 역량",
+    "capabilitiesSub": "디지털 운영 확장을 위해 설계된 포괄적인 기술 역량입니다.",
+    "bookDiscovery": "도서 기술 발견",
+    "exploreAll": "모든 기술 살펴보기",
+    "bookConsultation": "상담 예약",
+    "coreCapabilities": "핵심 역량"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "핵심역량",
+    "exploreFramework": "솔루션 프레임워크 살펴보기",
+    "bookConsultation": "상담 예약",
+    "viewCaseStudies": "사례 연구 보기",
+    "provenPillars": "입증된 원칙",
+    "operationalOutcomes": "운영 성과",
+    "learnMore": "자세히 알아보기"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "엔드투엔드 디지털 엔지니어링",
+      "titlePart1": "시작",
+      "titlePart2": "배포",
+      "description": "개발, 통합, 테스트, 배포 및 지속적인 지원을 통해 비즈니스 요구 사항 및 솔루션 아키텍처부터 새로운 디지털 솔루션의 엔드투엔드 개발입니다.",
+      "bookConsultation": "상담 예약",
+      "exploreEngineering": "솔루션 엔지니어링 살펴보기",
+      "coreCapabilities": [
+        "요구공학",
+        "솔루션 아키텍처",
+        "애플리케이션 개발",
+        "API 통합",
+        "품질보증",
+        "데브옵스",
+        "배포",
+        "지원 및 유지보수"
+      ],
+      "row1Eyebrow": "전체 수명 주기 제공",
+      "row1Title": "요구사항부터 규모까지 End-to-End 개발",
+      "row1P1": "모든 새로운 디지털 이니셔티브는 모든 경우에 적용되는 단일 소프트웨어로는 충족할 수 없는 고유한 요구 사항, 운영 워크플로 및 전략적 목표에서 시작됩니다. 우리는 처음부터 완전히 맞춤형 고성능 소프트웨어 시스템을 구축하는 것을 전문으로 합니다.",
+      "row1P2": "초기 요구사항 발견 및 기술 아키텍처 설계부터 민첩한 스프린트 개발, API 생태계 통합, 강력한 테스트 파이프라인 및 자동화된 클라우드 배포에 이르기까지 당사의 수석 엔지니어링 팀은 귀하의 제품 라이프사이클을 완전히 관리합니다.",
+      "row2Eyebrow": "솔루션 아키텍처 및 엔지니어링",
+      "row2Title": "기업 성장을 위해 구축된 확장 가능한 시스템",
+      "row2P1": "우리는 과도한 생산 부하를 견딜 수 있도록 맞춤화된 탄력적인 소프트웨어 아키텍처를 설계합니다. 모듈식 마이크로서비스 및 이벤트 기반 백엔드부터 처리량이 높은 데이터 스트림 및 GraphQL/REST API에 이르기까지 쉽게 확장되는 플랫폼을 구축합니다.",
+      "row2P2": "자동화된 테스트 및 지속적인 보안 규정 준수와 결합된 깔끔한 모듈식 코드베이스를 구축함으로써 소프트웨어 기반이 유지 관리 가능하고 감사 가능하며 장기적인 발전에 대비할 수 있도록 보장합니다.",
+      "row3Eyebrow": "품질 보증 및 DevOps",
+      "row3Title": "자동화된 파이프라인을 통한 민첩한 전달",
+      "row3P1": "우리의 제공 모델에는 컨테이너화된 CI/CD 워크플로(Docker, Kubernetes, AWS/Azure/GCP)와 함께 자동화된 단위, 통합 및 엔드투엔드 회귀 테스트가 포함되어 있습니다.",
+      "row3P2": "투명한 스프린트 데모, 실시간 관찰 가능성 및 마일스톤 기반 속도를 통해 보안, 안정성 또는 사용자 경험을 저하시키지 않고 신속한 출시 시간을 보장합니다.",
+      "row4Eyebrow": "배포 및 지원",
+      "row4Title": "안정적인 연중무휴 운영 및 장기적인 발전",
+      "row4P1": "라이브 방송은 시작에 불과합니다. 우리는 사전 모니터링, SLA 지원 유지 관리, 클라우드 인프라 최적화, 성능 조정 및 지속적인 기능 출시를 제공합니다.",
+      "row4P2": "당사의 엔지니어링 팀은 귀하 조직의 자연스러운 확장 역할을 하여 귀하의 시장에서 가동 중지 시간이 없고 지속적인 기술 우위를 보장합니다.",
+      "pillarsTitle": "핵심역량",
+      "pillarsSub": "아이디어를 무에서 생산까지 가져갈 수 있도록 설계된 완벽한 풀 스택 기능.",
+      "pillar1Title": "요구공학",
+      "pillar1Desc": "정확한 솔루션 경계를 정의하기 위한 심층적인 비즈니스 분석, 기능 사양 및 사용자 여정 매핑입니다.",
+      "pillar2Title": "솔루션 아키텍처",
+      "pillar2Desc": "확장 가능한 클라우드 기반 아키텍처, 데이터베이스 모델링, 마이크로서비스 설계 및 제로 트러스트 보안 기반.",
+      "pillar3Title": "애플리케이션 개발",
+      "pillar3Desc": "깔끔한 코드, 유형 안전성 및 반응형 UI 표준으로 설계된 최신 풀 스택 웹 및 모바일 애플리케이션입니다.",
+      "pillar4Title": "API 통합",
+      "pillar4Desc": "처리량이 높은 REST/GraphQL API, 웹훅 오케스트레이션, 결제 게이트웨이 및 원활한 타사 ERP/CRM 동기화.",
+      "ctaTitle": "시작부터 배포까지 솔루션을 구축할 준비가 되셨습니까?",
+      "ctaSub": "Rezonants와 협력하여 비즈니스 요구 사항부터 생산 현실까지 맞춤형 디지털 플랫폼을 설계, 엔지니어링 및 배포하세요.",
+      "ctaButton": "솔루션 상담 예약",
+      "pillar5Title": "품질 보증",
+      "pillar5Desc": "엄격한 테스트 자동화, 로드/스트레스 테스트, 취약성 스캔 및 회귀 테스트 제품군.",
+      "pillar6Title": "DevOps 및 배포",
+      "pillar6Desc": "자동화된 CI/CD 파이프라인, 컨테이너 오케스트레이션(Docker/K8s), 코드형 인프라 및 가동 중지 시간 없는 릴리스.",
+      "pillar7Title": "지원 및 유지보수",
+      "pillar7Desc": "연중무휴 사전 모니터링, 상태 원격 측정, 성능 감사, 보안 패치 및 지속적인 SLA 유지 관리.",
+      "pillar8Title": "지속적인 혁신",
+      "pillar8Desc": "일반 기능 속도, 데이터 분석 통합, AI 향상 및 아키텍처 현대화."
+    },
+    "processAutomation": {
+      "eyebrow": "지능형 프로세스 운영",
+      "titlePart1": "업무 프로세스",
+      "titlePart2": "자동화",
+      "description": "로봇 프로세스 자동화(RPA), 지능형 문서 처리, 비즈니스 규칙 엔진 및 시스템 통합을 결합하여 엔터프라이즈 워크플로우의 엔드투엔드 자동화입니다.",
+      "bookDiscovery": "도서자동화 발견",
+      "exploreFramework": "솔루션 프레임워크 살펴보기",
+      "coreCapabilities": [
+        "워크플로우 자동화",
+        "로봇 프로세스 자동화",
+        "문서 처리",
+        "통합공학",
+        "비즈니스 규칙 엔진",
+        "공정 분석",
+        "지속적인 최적화",
+        "레거시 통합"
+      ],
+      "row1Eyebrow": "로봇 프로세스 자동화",
+      "row1Title": "대용량 작업을 위한 지능형 봇",
+      "row1P1": "반복적인 수동 데이터 입력, 시스템 간 조정 및 문서 라우팅을 제거합니다. 우리는 오류율 없이 구조화된 작업을 연중무휴 24시간 실행하는 엔터프라이즈 RPA 봇을 배포합니다.",
+      "row1P2": "소프트웨어 봇은 레거시 데스크톱 인터페이스, SAP/ERP 백엔드 및 클라우드 데이터베이스를 연결하여 팀이 전략적 비즈니스 이니셔티브에 집중할 수 있도록 해줍니다.",
+      "row2Eyebrow": "지능형 문서 처리",
+      "row2Title": "OCR, 머신러닝, 문서 AI",
+      "row2P1": "송장, 계약서, 신분증, 청구서 등의 데이터를 자동으로 수집, 분류, 추출합니다. AI 기반 파이프라인은 내부 데이터베이스에 대해 필드를 검증하고 자동화된 승인 워크플로를 트리거합니다.",
+      "row2P2": "처리 시간을 며칠에서 몇 초로 대폭 단축하는 동시에 95%를 초과하는 직접 처리 속도를 달성합니다.",
+      "row3Eyebrow": "프로세스 조정",
+      "row3Title": "엔드 투 엔드 크로스 플랫폼 동기화",
+      "row3P1": "CRM, ERP, HRMS 및 뱅킹 API를 통합된 실시간 데이터 흐름에 연결합니다. 우리는 이벤트 기반 트리거, 메시지 대기열 및 자동화된 폴백 핸들러를 구현합니다.",
+      "row3P2": "사람의 개입 없이 부서 간에 정보가 원활하게 흐르므로 운영 사일로와 통신 지연이 제거됩니다.",
+      "row4Eyebrow": "연속 원격 측정",
+      "row4Title": "실시간 프로세스 분석 및 Kaizen Insights",
+      "row4P1": "실시간 경영진 대시보드에서 프로세스 실행 시간, 병목 히트맵, 오류 빈도 및 재무 ROI를 추적합니다.",
+      "row4P2": "지속적인 기계 학습 진단을 통해 새로운 자동화 기회를 발견하여 기업 운영을 최대 효율성으로 유지합니다.",
+      "pillarsTitle": "자동화 핵심",
+      "pillarsSub": "지능형 기업 운영을 위한 검증된 구성 요소입니다.",
+      "pillar1Title": "작업 흐름 자동화",
+      "pillar1Desc": "자동화된 라우팅 및 에스컬레이션으로 조율된 다단계 Human-In-The-Loop 및 디지털 워크플로.",
+      "pillar2Title": "로봇 프로세스 자동화",
+      "pillar2Desc": "일상적인 데이터 입력, 조정 및 애플리케이션 간 작업을 실행하는 규칙 기반 소프트웨어 봇입니다.",
+      "pillar3Title": "지능형 AI 자동화",
+      "pillar3Desc": "맥락을 해석하고 구조화되지 않은 텍스트를 요약하며 자동화된 결정을 내리는 인지 AI 에이전트입니다.",
+      "pillar4Title": "공정 최적화",
+      "pillar4Desc": "지속적으로 운영 비용을 절감하는 프로세스 마이닝, 병목 현상 감지 및 Kaizen 워크플로우.",
+      "ctaTitle": "비즈니스 워크플로우를 자동화할 준비가 되셨습니까?",
+      "ctaSub": "당사의 자동화 설계자와 연결하여 높은 ROI 기회를 식별하고 지능형 디지털 워크플로우를 배포하십시오.",
+      "ctaButton": "자동화 상담 예약"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "엔지니어링 표준 및 R&D",
+      "titlePart1": "센터",
+      "titlePart2": "우수",
+      "description": "엔지니어링 관행 표준화, 혁신 추진, 디지털 이니셔티브 가속화에 전념하는 수석 설계자 및 도메인 전문가로 구성된 중앙 집중식 조직입니다.",
+      "exploreStandards": "엔지니어링 표준 살펴보기",
+      "initiateAssessment": "CoE 평가 시작",
+      "coreCapabilities": [
+        "아키텍처 표준",
+        "재사용 가능한 프레임워크",
+        "모범 사례 거버넌스",
+        "스킬 개발",
+        "품질 벤치마킹",
+        "연구개발 및 혁신",
+        "기술평가",
+        "프로젝트 간 지침"
+      ],
+      "uptimeLabel": "기업 가동 시간",
+      "engineersLabel": "엔지니어 및 건축가",
+      "deploymentsLabel": "AI 및 클라우드 배포",
+      "satisfactionLabel": "고객만족도",
+      "row1Eyebrow": "기둥 01 - 엔지니어링 표준",
+      "row1Title": "고성능소프트웨어공학과",
+      "row1P1": "당사의 Center of Excellence는 기술적 부채를 0으로 유지하면서 출시 기간을 단축하는 표준화된 설계 패턴, 엄격한 자동화 테스트, 무결점 코드 검토 방식을 확립합니다.",
+      "row1F1": "DORA 지표 분석을 통한 자동화된 CI/CD 릴리스 파이프라인",
+      "row1F2": "엄격한 아키텍처 검토 위원회 및 마이크로서비스 거버넌스",
+      "row1F3": "지속적인 보안 린팅 및 자동화된 취약점 패치",
+      "row1Btn": "엔지니어링 표준 알아보기",
+      "row1Tag": "DevOps 및 품질 엔지니어링",
+      "row2Eyebrow": "기둥 02 — R&D 혁신",
+      "row2Title": "AI 혁신 연구소 및 신기술",
+      "row2P1": "우리는 최첨단 기계 학습 모델, 맞춤형 AI 에이전트, 지능형 워크플로우 자동화를 실험하여 차세대 엔터프라이즈 제품을 구축합니다.",
+      "row2F1": "Enterprise Generative AI & RAG 지식 통합",
+      "row2F2": "비즈니스 프로세스 자동화를 위한 자율 AI 에이전트 워크플로",
+      "row2F3": "맞춤형 머신러닝 모델 최적화 및 미세 조정",
+      "row2Btn": "AI 연구실 살펴보기",
+      "row2Tag": "인공지능 및 신경 연구개발",
+      "row3Eyebrow": "기둥 03 — 인프라",
+      "row3Title": "엔터프라이즈 클라우드 아키텍처 및 제로 트러스트 보안",
+      "row3P1": "우리는 제로 트러스트 보안 프레임워크를 기반으로 구축된 탄력적인 멀티 클라우드 환경을 설계 및 관리하여 진화하는 글로벌 사이버 위협으로부터 데이터를 계속 보호합니다.",
+      "row3F1": "AWS, Azure, GCP 멀티 클라우드 인프라 오케스트레이션",
+      "row3F2": "제로 트러스트 네트워크 액세스(ZTNA) 및 역할 기반 IAM 정책",
+      "row3F3": "자동화된 컨테이너 보안 검색 및 비밀 관리",
+      "row3Btn": "클라우드 및 보안 살펴보기",
+      "row3Tag": "클라우드 아키텍처 및 제로 트러스트",
+      "pillarsTitle": "핵심 우수성 프레임워크",
+      "pillarsSub": "미션 크리티컬 플랫폼을 지원하는 체계화된 개발 플레이북.",
+      "pillar1Title": "건축 검토 위원회(ARB)",
+      "pillar1Desc": "모든 엔터프라이즈 솔루션이 엄격한 확장성, 보안 및 규정 준수 프로토콜을 준수하도록 보장하는 포괄적인 감독입니다.",
+      "pillar2Title": "재사용 가능한 가속기 및 구성 요소 라이브러리",
+      "pillar2Desc": "독점 디자인 시스템, API 스타터 키트, 백엔드 마이크로서비스 템플릿으로 초기 개발 시간을 40% 단축합니다.",
+      "pillar3Title": "지속적인 성능 프로파일링",
+      "pillar3Desc": "애플리케이션 대기 시간, 처리량 병목 현상 및 클라우드 리소스 활용도를 모니터링하는 고급 실시간 관찰 파이프라인입니다.",
+      "pillar4Title": "재능 강화 및 길드",
+      "pillar4Desc": "클라우드, DevOps 및 응용 AI 전반에 걸쳐 심층적인 기술 숙련도를 배양하는 구조화된 내부 길드 및 인증입니다.",
+      "ctaTitle": "엔지니어링 표준 향상",
+      "ctaSub": "Rezonants의 Center of Excellence와 협력하여 탄력적인 클라우드 아키텍처를 구축하고 워크플로를 자동화하며 디지털 제품 제공을 가속화하세요.",
+      "ctaButton": "일정 임원상담",
+      "badge": "REZONANTS COE",
+      "scroll": "스크롤",
+      "p1Title": "거버넌스 및 프레임워크",
+      "p1Desc": "전사적 아키텍처 거버넌스, 정책 가드레일 및 규정 준수 표준을 확립합니다.",
+      "p1Tag": "거버넌스",
+      "p2Title": "기술 표준 및 아키텍처",
+      "p2Desc": "최신 참조 아키텍처, 검증된 기술 스택 및 마이크로서비스 패턴을 정의합니다.",
+      "p2Tag": "건축",
+      "p3Title": "재사용 가능한 자산 및 라이브러리",
+      "p3Desc": "공유 구성 요소, 템플릿, 스타터 키트 및 디자인 시스템을 통해 개발 속도를 가속화합니다.",
+      "p3Tag": "재사용성",
+      "p4Title": "역량개발",
+      "p4Desc": "팀 엔지니어링 역량을 높이기 위한 체계적인 교육, 기술 멘토링 및 기술 지원.",
+      "p4Tag": "역량",
+      "p5Title": "혁신 및 신흥 기술",
+      "p5Desc": "시장 우위 유지를 위한 AI 에이전트, 자동화 파이프라인 및 차세대 프레임워크에 대한 R&D.",
+      "p5Tag": "혁신",
+      "p6Title": "지속적인 개선",
+      "p6Desc": "데이터 기반 엔지니어링 지표(DORA), SLA 벤치마킹 및 지속적인 품질 최적화.",
+      "p6Tag": "품질"
+    },
+    "solutionEngineering": {
+      "eyebrow": "맞춤형 디지털 엔지니어링",
+      "titlePart1": "맞춤형 개발 및",
+      "titlePart2": "커스터마이징",
+      "description": "고유한 비즈니스 요구 사항을 해결하고 맞춤형 기능을 제공하기 위한 애플리케이션, 플랫폼, 워크플로 및 엔터프라이즈 솔루션의 개발 및 향상입니다.",
+      "bookConsultation": "상담 예약",
+      "exploreCapabilities": "기능 살펴보기",
+      "coreCapabilities": [
+        "맞춤형 개발",
+        "플랫폼 구성",
+        "확장",
+        "맞춤형 작업 흐름",
+        "API 개발",
+        "시스템 통합",
+        "UI/UX 개선",
+        "성능 최적화"
+      ],
+      "row1Eyebrow": "맞춤형 기능",
+      "row1Title": "귀하의 작업 흐름을 위해 구축된 맞춤형 기능",
+      "row1P1": "표준 엔터프라이즈 소프트웨어는 전문적인 비즈니스 요구 사항을 충족하지 못하는 경우가 많습니다. 당사의 맞춤형 엔지니어링 팀은 귀하의 운영에 맞는 맞춤형 애플리케이션 모듈, 맞춤형 비즈니스 규칙 및 전문 확장 기능을 개발합니다.",
+      "row1P2": "맞춤형 CRM 및 ERP 개선부터 전문 운영 포털까지, 우리는 팀의 정확한 워크플로우 패턴과 완벽하게 일치하는 기능을 구축합니다.",
+      "row2Eyebrow": "엔터프라이즈 시스템 통합",
+      "row2Title": "플랫폼 구성 및 API 개발",
+      "row2P1": "서로 다른 소프트웨어 시스템을 통합된 디지털 생태계에 연결합니다. 우리는 사용자 정의 REST 및 GraphQL API, 웹훅 핸들러 및 엔터프라이즈 메시지 대기열을 엔지니어링하여 모든 플랫폼에서 실시간 데이터 동기화를 보장합니다.",
+      "row2P2": "타사 SaaS 도구를 통합하든 독점 온프레미스 플랫폼을 확장하든 당사의 통합 아키텍처는 데이터 무결성, 처리량 및 가동 중지 시간 제로를 우선시합니다.",
+      "row3Eyebrow": "UI/UX 및 성능",
+      "row3Title": "UI/UX 개선 및 성능 최적화",
+      "row3P1": "속도와 명확성을 위해 설계된 현대적이고 반응성이 뛰어난 사용자 경험으로 레거시 인터페이스를 향상시킵니다. 우리는 직관적인 디자인 패턴, 접근성 규정 준수 및 간소화된 상호 작용 모델을 통해 프런트엔드를 재설계합니다.",
+      "row3P2": "이와 동시에 당사의 성능 엔지니어는 데이터베이스 쿼리, 캐싱 전략 및 프런트엔드 번들 크기를 최적화하여 모든 장치에 즉각적인 응답 시간을 제공합니다.",
+      "pillarsTitle": "귀하의 정확한 사양에 맞춰 설계되었습니다.",
+      "pillarsSub": "원활하게 확장되도록 구축된 엔터프라이즈급 사용자 정의 방법론입니다.",
+      "pillar1Title": "맞춤형 워크플로우 및 확장",
+      "pillar1Desc": "내부 운영 규칙을 중심으로 특별히 구성된 맞춤형 애플리케이션 로직 및 자동화된 상태 시스템입니다.",
+      "pillar2Title": "API 및 시스템 통합",
+      "pillar2Desc": "독점 백엔드, ERP 제품군, 결제 게이트웨이 및 클라우드 서비스를 연결하는 안전하고 인증된 데이터 브리지입니다.",
+      "pillar3Title": "플랫폼 구성",
+      "pillar3Desc": "업그레이드 경로나 공급업체 지원 계약을 위반하지 않고 엔터프라이즈 소프트웨어를 수정하는 심층적인 아키텍처 조정입니다.",
+      "pillar4Title": "성능 최적화",
+      "pillar4Desc": "공격적인 쿼리 프로파일링, 메모리 누수 제거 및 1초 미만의 페이지 로드를 위한 에지 CDN 배포.",
+      "ctaTitle": "엔터프라이즈 플랫폼을 맞춤화할 준비가 되셨습니까?",
+      "ctaSub": "당사의 솔루션 설계자와 연결하여 귀하의 비즈니스 요구에 맞는 맞춤형 모듈, 워크플로우 및 통합을 설계하고 배포하십시오.",
+      "ctaButton": "맞춤형 전화 예약",
+      "badge": "맞춤형 디지털 엔지니어링",
+      "viewAllServices": "모든 서비스 보기"
+    },
+    "digitalTransformation": {
+      "eyebrow": "기업 현대화",
+      "titlePart1": "디지털",
+      "titlePart2": "변신",
+      "description": "비즈니스 프로세스, 기술 아키텍처 및 운영 모델의 포괄적인 현대화를 통해 조직의 민첩성, 운영 효율성 및 지속 가능한 디지털 성장을 촉진합니다.",
+      "startTransformation": "변신 시작",
+      "exploreStrategy": "전략 탐색",
+      "coreCapabilities": [
+        "전략 및 로드맵",
+        "건축 현대화",
+        "클라우드 및 인프라",
+        "데이터 및 분석",
+        "프로세스 디지털화",
+        "고객 경험",
+        "변경 관리",
+        "민첩한 운영 모델"
+      ],
+      "row1Eyebrow": "전략 및 로드맵",
+      "row1Title": "비전에서 실행 가능한 로드맵까지",
+      "row1P1": "우리는 기업 리더들과 협력하여 빠른 성공과 위험 부담 없는 실행을 통해 디지털 전략, 비즈니스 사례 및 단계별 로드맵을 정의합니다.",
+      "row1P2": "우선순위가 지정된 이니셔티브, TCO 모델 및 KPI는 모든 기술 현대화 노력이 수익, 효율성 및 고객 만족 결과와 직접적으로 연결되도록 보장합니다.",
+      "row2Eyebrow": "기존 현대화",
+      "row2Title": "비즈니스 중단 없이 현대화",
+      "row2P1": "다운타임 없는 컷오버 및 자동화된 회귀 검증을 통해 모놀리스를 마이크로서비스, API 및 클라우드 네이티브 패턴으로 플랫폼을 변경합니다.",
+      "row2P2": "규정 준수 및 보안 상태를 유지하면서 애플리케이션, 데이터베이스 및 통합 계층을 현대화합니다.",
+      "row3Eyebrow": "클라우드, AI 및 데이터",
+      "row3Title": "클라우드 도입 및 데이터 기반 인텔리전스",
+      "row3P1": "AWS, Azure 및 GCP를 채택하고, 최신 데이터 파이프라인을 구축하고, 기계 학습 에이전트를 내장하여 자율적인 결정을 내리세요.",
+      "row3P2": "실시간 이벤트 스트리밍부터 통합 대시보드까지, 혁신은 측정 가능하고 지속 가능해집니다.",
+      "row4Eyebrow": "고객 경험",
+      "row4Title": "최신 옴니채널 경험",
+      "row4P1": "개인화된 인터페이스를 통해 반응형 웹, iOS, Android 및 셀프 서비스 포털 전반에서 고객 여정을 재설계합니다.",
+      "row4P2": "플랫폼 엔지니어링, 원격 측정 및 자동화된 피드백 루프는 디지털 혁신을 지속적으로 만듭니다.",
+      "pillarsTitle": "변환 기둥",
+      "pillarsSub": "지속 가능한 디지털 리더십을 보장하는 결과 중심의 수단입니다.",
+      "pillar1Title": "디지털 전략 및 거버넌스",
+      "pillar1Desc": "비즈니스 사례 모델링, 아키텍처 거버넌스 및 마일스톤 위험 추적을 포함한 단계별 혁신 청사진입니다.",
+      "pillar2Title": "클라우드 및 데이터 플랫폼",
+      "pillar2Desc": "AWS/Azure/GCP 멀티 클라우드 기반, 자동화된 파이프라인 및 엔터프라이즈 데이터 분석 지원.",
+      "pillar3Title": "AI 및 자동화",
+      "pillar3Desc": "일상적인 운영을 최적화하기 위한 지능형 프로세스 자동화, 인지 AI 에이전트 및 예측 원격 측정.",
+      "pillar4Title": "고객 경험",
+      "pillar4Desc": "전환율이 높은 옴니채널 디지털 포털과 개인화된 인터페이스는 사용자 유지율을 극대화하도록 구축되었습니다.",
+      "ctaTitle": "기업을 변화시킬 준비가 되셨습니까?",
+      "ctaSub": "측정 가능한 비즈니스 결과와 연계된 단계적이고 위험이 없는 디지털 혁신을 위해 Rezonants와 파트너십을 맺으세요.",
+      "ctaButton": "디지털 혁신 전화 예약",
+      "bookWorkshop": "책 변신 워크숍",
+      "exploreFramework": "솔루션 프레임워크 살펴보기",
+      "coreCapabilitiesTitle": "핵심역량"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "완전한 기술 수명주기",
+      "titlePart1": "엔드투엔드 솔루션",
+      "titlePart2": "프레임워크",
+      "description": "비즈니스 요구 사항, 아키텍처 설계, 엔지니어링, 통합, 품질 보증, 클라우드 배포 및 관리 운영을 포괄하는 구조화된 전체 수명 주기 제공 프레임워크입니다.",
+      "startJourney": "프로젝트 시작",
+      "exploreFramework": "프레임워크 살펴보기",
+      "coreCapabilities": [
+        "요구사항 분석",
+        "건축 디자인",
+        "풀스택 개발",
+        "통합공학",
+        "품질 보증",
+        "배포 및 롤아웃",
+        "진행중인 업무",
+        "지속적인 진화"
+      ],
+      "row1Eyebrow": "전략 및 아키텍처",
+      "row1Title": "요구사항 엔지니어링 및 솔루션 설계",
+      "row1P1": "코드 한 줄이 작성되기 전에 위험을 제거하도록 설계된 협업 워크샵, 비즈니스 도메인 매핑 및 클라우드 아키텍처 사양입니다.",
+      "row1P2": "우리는 장기적인 성공을 설정하는 데이터 모델, 보안 프레임워크 및 확장성 이정표를 정의합니다.",
+      "row2Eyebrow": "엔지니어링 및 품질",
+      "row2Title": "풀스택 개발 및 자동화 테스트",
+      "row2P1": "자동화된 장치, 통합 및 보안 검색과 결합된 모듈형 마이크로서비스, 유형이 안전한 API 및 반응형 프런트엔드.",
+      "row2P2": "GitHub Actions, Terraform 및 자동화된 보안 가드레일을 사용한 지속적인 통합 파이프라인입니다.",
+      "row3Eyebrow": "배포 및 운영",
+      "row3Title": "클라우드 배포 및 연중무휴 관리 모니터링",
+      "row3P1": "자동화된 롤백, 가동 중지 시간 없는 컷오버 및 실시간 관찰 기능을 갖춘 AWS/Azure/GCP의 다중 클라우드 오케스트레이션.",
+      "row3P2": "SLA 지원 유지 관리 및 지속적인 원격 측정 모니터링을 제공하여 제품을 원활하게 발전시킵니다.",
+      "row4Eyebrow": "기업 거버넌스",
+      "row4Title": "통합 거버넌스 및 지속적인 지원",
+      "row4P1": "전체 디지털 스택에 대한 단일 지점 책임 — 투명한 스프린트 속도, 예측 가능한 예산 책정 및 지속적인 혁신.",
+      "row4P2": "정기적인 기능 출시 및 현대화 주기를 통해 기업은 경쟁 우위를 확보할 수 있습니다.",
+      "pillarsTitle": "수명주기 프레임워크 핵심",
+      "pillarsSub": "모든 단계는 기업의 엄격함을 바탕으로 설계되었습니다.",
+      "pillar1Title": "전략 및 요구사항",
+      "pillar1Desc": "실행 위험을 제거하기 위한 도메인 검색, 아키텍처 로드맵 및 이해관계자 조정.",
+      "pillar2Title": "건축 및 구축",
+      "pillar2Desc": "탄력적인 클라우드 기반 마이크로서비스, API 통합 및 지속적인 QA 테스트.",
+      "pillar3Title": "보안 및 배포",
+      "pillar3Desc": "제로 트러스트 보안 규정 준수, 컨테이너화된 릴리스 및 자동화된 클라우드 배포.",
+      "pillar4Title": "거버넌스 및 지원",
+      "pillar4Desc": "연중무휴 SLA 모니터링, 상태 원격 측정 및 지속적인 진화 엔지니어링.",
+      "ctaTitle": "완전한 라이프사이클 파트너가 필요하십니까?",
+      "ctaSub": "우리는 귀하의 팀이 핵심 비즈니스 성과에 집중할 수 있도록 전체 기술 수명주기를 보유하고 있습니다.",
+      "ctaButton": "전체 수명주기의 파트너"
+    },
+    "migrationServices": {
+      "eyebrow": "클라우드 및 인프라 혁신",
+      "titlePart1": "마이그레이션 및",
+      "titlePart2": "현대화",
+      "description": "향상된 민첩성과 효율성을 위한 지속적인 현대화와 결합하여 레거시 애플리케이션, 데이터베이스 및 인프라를 최신 클라우드 아키텍처로 안전하고 체계적으로 마이그레이션합니다.",
+      "bookAssessment": "도서 마이그레이션 평가",
+      "exploreStrategy": "클라우드 전략 살펴보기",
+      "coreCapabilities": [
+        "클라우드 마이그레이션",
+        "애플리케이션 현대화",
+        "데이터베이스 마이그레이션",
+        "인프라 재호스팅",
+        "컨테이너화",
+        "마이크로서비스 전환",
+        "성능 최적화",
+        "보안 및 규정 준수"
+      ],
+      "row1Eyebrow": "클라우드 마이그레이션",
+      "row1Title": "멀티 클라우드 전략 및 리프트 앤 최적화",
+      "row1P1": "자동화된 검색, 웨이브 계획 및 비즈니스 중단 없이 AWS, Azure, Google Cloud 전반에서 원활한 워크로드 마이그레이션이 가능합니다.",
+      "row1P2": "총 소유 비용(TCO)과 민첩성을 최적화하기 위해 재호스팅, 플랫폼 변경, 리팩토링의 균형을 유지합니다.",
+      "row2Eyebrow": "데이터 및 데이터베이스 마이그레이션",
+      "row2Title": "보안 ETL 및 자동 데이터 검증",
+      "row2P1": "100% 데이터 무결성 검증을 통해 자동화된 데이터베이스 복제, 스키마 변환 및 처리량이 높은 ETL 파이프라인.",
+      "row2P2": "다운타임 없는 컷오버 리허설은 완벽한 데이터 일관성과 비즈니스 연속성을 보장합니다.",
+      "row3Eyebrow": "플랫폼 현대화",
+      "row3Title": "컨테이너화 및 Kubernetes 오케스트레이션",
+      "row3P1": "자동화된 IaC 청사진을 사용하여 기존 모놀리스를 Kubernetes(EKS, AKS, GKE)를 통해 조정되는 확장 가능한 마이크로서비스로 현대화합니다.",
+      "row3P2": "마이그레이션 후 성능 프로파일링 및 비용 최적화는 즉각적인 ROI를 보장합니다.",
+      "row4Eyebrow": "컷오버 계획",
+      "row4Title": "자동화된 테스트 및 롤백 안전망",
+      "row4P1": "완전한 마음의 평화를 위한 전투 테스트를 거친 컷오버 Runbook, 자동화된 회귀 제품군 및 즉각적인 롤백 메커니즘.",
+      "row4P2": "마이그레이션 후 건강 원격 측정 및 연중무휴 하이퍼케어는 완벽한 생산 안정성을 보장합니다.",
+      "pillarsTitle": "마이그레이션 보증",
+      "pillarsSub": "기업 SLA가 뒷받침하는 위험 제거 조치.",
+      "pillar1Title": "다운타임 없는 컷오버",
+      "pillar1Desc": "Canary 릴리스 및 데이터베이스 이중 쓰기 동기화를 통해 중단 없는 사용자 액세스를 보장합니다.",
+      "pillar2Title": "자동 데이터 검증",
+      "pillar2Desc": "체크섬 비교, 스키마 무결성 감사 및 자동화된 ETL 조정.",
+      "pillar3Title": "롤백 안전망",
+      "pillar3Desc": "모든 단계에서 위험을 억제하기 위한 엄격한 재해 복구 프로토콜 및 리허설 훈련.",
+      "pillar4Title": "성능 및 비용 최적화",
+      "pillar4Desc": "클라우드 적정 크기 조정, 자동 확장 정책 및 비용 거버넌스 대시보드가 포함되어 있습니다.",
+      "ctaTitle": "자신있게 마이그레이션할 준비가 되셨습니까?",
+      "ctaSub": "체계적이고 위험이 없는 클라우드 및 데이터 현대화를 위해 Rezonants와 파트너십을 맺으세요.",
+      "ctaButton": "마이그레이션 워크숍 계획"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "신속한 검증 및 타당성",
+      "titlePart1": "개념 증명(PoC) 및",
+      "titlePart2": "파일럿 구현",
+      "description": "본격적인 구현에 앞서 기술 타당성, 비즈니스 가치, 통합 요구 사항, 성능 및 확장성을 평가하기 위한 기술 솔루션의 신속한 개발 및 검증.",
+      "initiateDiscovery": "PoC 검색 시작",
+      "exploreDevelopment": "맞춤형 개발 살펴보기",
+      "coreCapabilities": [
+        "PoC 개발",
+        "프로토타입 엔지니어링",
+        "타당성 조사",
+        "아키텍처 검증",
+        "통합 테스트",
+        "성능 벤치마킹",
+        "파일럿 배포",
+        "가치평가"
+      ],
+      "row1Eyebrow": "신속한 검증",
+      "row1Title": "개념에서 타당성 검증까지",
+      "row1P1": "아이디어를 엔터프라이즈급 솔루션으로 전환하려면 엄격한 사전 검증이 필요합니다. 당사의 PoC 및 파일럿 서비스는 기술 실행 가능성을 평가하고 중요한 통합 후크를 스트레스 테스트하며 주요 자본 투입 전에 비즈니스 ROI를 검증합니다.",
+      "row1P2": "우리는 기술적 타당성을 입증하고 시스템 대기 시간을 측정하며 직접적인 이해관계자 검증을 조기에 수집하는 충실도가 높은 MVP와 집중적인 샌드박스 파일럿을 구성합니다.",
+      "row1Cap": "신속한 MVP 프로토타이핑 및 기술 벤치마크",
+      "row2Eyebrow": "민첩한 프로토타이핑",
+      "row2Title": "대화형 MVP 및 UX 검증",
+      "row2P1": "우리는 몇 달이 아닌 며칠 만에 대화형 와이어프레임, 클릭 가능한 사용자 흐름 및 기능적 개념 증명을 구축합니다. 실제 사용자 상호 작용을 테스트하고, UI/UX 패턴을 개선하고, 이해관계자로부터 실행 가능한 피드백을 수집하세요.",
+      "row2P2": "초기 개발 중에 피드백 루프를 단축함으로써 팀은 재작업을 최소화하고 자본 집약적인 구축 단계가 시작되기 전에 명확한 기술 사양을 설정합니다.",
+      "row2Cap": "신속한 반복 및 클릭 가능한 UX 프로토타입",
+      "row3Eyebrow": "통합 및 확장성 테스트",
+      "row3Title": "위험 제거 복합 시스템 통합",
+      "row3P1": "전체 자본을 투자하기 전에 기술적 병목 현상, API 제한 및 성능 제약을 찾아보세요. 우리의 파일럿 엔지니어링 팀은 격리된 샌드박스 환경에서 통합, 데이터 파이프라인 및 타사 API에 대한 스트레스 테스트를 수행합니다.",
+      "row3P2": "이러한 사전 예방적 위험 완화는 PoC를 엔터프라이즈 프로덕션으로 전환할 때 높은 시스템 가용성, 보안 규정 준수 및 예측 가능한 개발 일정을 보장합니다.",
+      "row3Cap": "샌드박스 통합 및 스트레스 테스트",
+      "row4Eyebrow": "통제 생산 파일럿",
+      "row4Title": "대상 파일럿 출시 및 비즈니스 사례 검증",
+      "row4P1": "특정 사용자 부문 또는 테스트 시장에 대상 파일럿 릴리스를 배포합니다. 성능 지표, 사용자 채택 분석, 운영 피드백을 추적하여 비즈니스 가치를 정량화하고 데이터 기반 비즈니스 사례를 구축합니다.",
+      "row4P2": "실제 파일럿 통찰력을 통해 임원진은 보다 광범위한 배포와 전략적 디지털 혁신 투자를 정당화할 수 있는 명확한 ROI 지표를 얻습니다.",
+      "row4Cap": "제어된 배포 및 성능 원격 측정",
+      "pillarsTitle": "파일럿 엔지니어링 원칙",
+      "pillarsSub": "기술적 불확실성을 예측 가능한 비즈니스 성공으로 바꾸는 지침 원칙입니다.",
+      "pillar1Title": "PoC 및 MVP 프로토타이핑",
+      "pillar1Desc": "기능적 프로토타입을 신속하게 제공하여 라이프사이클 초기에 가치 제안을 검증합니다.",
+      "pillar2Title": "타당성 및 검증",
+      "pillar2Desc": "샌드박스 환경에서 API 호환성, 처리량 임계값 및 규정 준수 제약 조건을 확인합니다.",
+      "pillar3Title": "확장성 평가",
+      "pillar3Desc": "생산 로드를 시뮬레이션하여 용량 제한을 설정하고 클라우드 아키텍처 크기를 결정합니다.",
+      "pillar4Title": "비즈니스 사례 검증",
+      "pillar4Desc": "전사적 출시 결정을 지원하기 위해 실질적인 ROI 및 생산성 지표를 정량화합니다.",
+      "ctaTitle": "다음 디지털 솔루션을 검증할 준비가 되셨습니까?",
+      "ctaSub": "당사의 솔루션 엔지니어링 팀과 연결하여 프로젝트 요구 사항을 탐색하고, 프로토타입을 구축하고, 위험 없이 타당성을 테스트하십시오.",
+      "ctaButton": "PoC 상담 예약"
+    },
+    "sharedServices": {
+      "eyebrow": "중앙집중 운영 허브",
+      "titlePart1": "공유 서비스 및",
+      "titlePart2": "관리 운영",
+      "description": "표준화된 프로세스, 숙련된 리소스, 거버넌스 프레임워크, 서비스 관리 및 측정 가능한 서비스 수준을 통해 사업부 전반에 걸쳐 기술 및 운영 기능을 중앙 집중식으로 제공합니다.",
+      "bookDiscovery": "도서 관리 운영 검색",
+      "exploreFramework": "솔루션 프레임워크 살펴보기",
+      "coreCapabilities": [
+        "관리형 서비스",
+        "IT 운영",
+        "애플리케이션 지원",
+        "서비스 관리",
+        "자원 최적화",
+        "SLA 관리",
+        "거버넌스",
+        "지속적인 개선",
+        "비용 최적화"
+      ],
+      "row1Eyebrow": "통합 딜리버리 허브",
+      "row1Title": "모든 사업부에 걸쳐 표준화된 서비스",
+      "row1P1": "백오피스 IT, 인프라 관리, 기술 지원을 고효율 단일 제공 센터로 통합합니다.",
+      "row1P2": "중복되는 팀 오버헤드를 제거하고 서비스 제공 모델을 표준화함으로써 조직은 일관된 품질을 확보하고 총 운영 비용을 낮춥니다.",
+      "row2Eyebrow": "연중무휴 SRE 및 애플리케이션 지원",
+      "row2Title": "사전 모니터링 및 신속한 사고 해결",
+      "row2P1": "전담 SRE(사이트 안정성 엔지니어) 및 지원 전문가가 연중무휴 원격 모니터링, 자동 경고 분류 및 신속한 L1/L2/L3 문제 해결을 제공합니다.",
+      "row2P2": "엄격한 SLA 약속을 바탕으로 미션 크리티컬 애플리케이션과 클라우드 인프라에 대해 99.99% 가용성을 보장합니다.",
+      "row3Eyebrow": "ITIL 거버넌스 및 규정 준수",
+      "row3Title": "구조화된 서비스 관리 프레임워크",
+      "row3P1": "투명한 티켓팅, 근본 원인 분석 및 변경 관리 가드레일을 통해 업계 최고의 ITSM 표준(ServiceNow, Jira Service Management)을 구현합니다.",
+      "row3P2": "포괄적인 감사 추적 및 거버넌스 정책을 통해 귀하의 운영이 국제 보안 표준을 준수하도록 보장합니다.",
+      "row4Eyebrow": "FinOps 및 지속적인 개선",
+      "row4Title": "예측 가능한 예산 책정 및 자원 최적화",
+      "row4P1": "FinOps 모범 사례를 통해 클라우드 낭비를 제거하고 컴퓨팅 규모를 최적화하며 일상적인 운영 유지 관리를 자동화하세요.",
+      "row4P2": "월간 투명성 보고서와 용량 예측을 통해 지속적인 운영 비용 최적화와 높은 자본 효율성을 보장합니다.",
+      "pillarsTitle": "운영 원칙",
+      "pillarsSub": "신뢰할 수 있는 기업 확장성을 위한 검증된 운영 수단입니다.",
+      "pillar1Title": "연중무휴 24시간 IT 운영 관리",
+      "pillar1Desc": "사전 예방적인 NOC 원격 측정, 서버 패치, 인프라 유지 관리 및 99.99% 가동 시간 보장.",
+      "pillar2Title": "ITSM 및 서비스 데스크",
+      "pillar2Desc": "Tier 1/2/3 다중 채널 헬프 데스크, 사고 라우팅 및 구조화된 티켓 해결 워크플로우.",
+      "pillar3Title": "SLA 및 성능 제어",
+      "pillar3Desc": "계약에 따라 지원되는 응답 시간, MTTR 벤치마크 및 투명한 월간 성과 감사.",
+      "pillar4Title": "FinOps 및 비용 최적화",
+      "pillar4Desc": "지속적인 리소스 적정 규모 조정, 라이선스 회수 및 자동화된 클라우드 비용 절감.",
+      "ctaTitle": "관리 운영을 확장할 준비가 되셨습니까?",
+      "ctaSub": "비용을 최적화하고 운영 중단 시간을 없애는 안정적인 연중무휴 관리 서비스를 위해 Rezonants와 협력하십시오.",
+      "ctaButton": "관리 운영 상담 예약",
+      "howItWorksHeading": "공유 서비스 성공을 위한 검증된 경로"
+    },
+    "aiRobotics": {
+      "brand": "AI 및 로봇공학",
+      "eyebrow": "지능형 시스템",
+      "heroHeading": "AI와 로봇공학이 함께 일하다",
+      "intro": "인공 지능(AI)과 로봇 공학은 지능형 의사 결정과 고급 자동화를 결합하여 비즈니스 운영 방식을 변화시키고 있습니다. AI를 통해 기계는 데이터를 분석하고, 패턴을 학습하고, 현명한 결정을 내릴 수 있으며, 로봇공학은 이러한 기능을 물리적 세계에 도입하여 속도, 정확성, 일관성을 가지고 작업을 수행합니다.",
+      "section1Heading": "모든 작업을 간소화하도록 제작됨",
+      "section1Text": "당사의 AI 및 로봇공학 솔루션은 조직이 운영을 간소화하고, 수작업을 줄이고, 다양한 산업 분야에서 생산성을 향상시키는 데 도움이 됩니다. 프로세스 자동화 및 예측 분석부터 스마트 로봇공학 및 지능형 시스템에 이르기까지 효율성을 향상하고 성장을 촉진하며 디지털 혁신을 지원하는 혁신적인 기술을 제공합니다.",
+      "section2Heading": "지능이 행동을 만나는 곳",
+      "section2Text": "모든 상호 작용, 결정 및 움직임은 연결된 단일 시스템을 통해 이루어지며 데이터를 실시간으로 결과로 전환합니다.",
+      "footerTag": "디지털 전환을 위한 혁신적인 기술"
+    },
+    "informationReporting": {
+      "brand": "엔터프라이즈 데이터 플랫폼",
+      "heroTitle": "정보 및 보고 시스템",
+      "heroSubtitle": "모든 부서를 위한 단일 정보 소스 - 원시 운영 데이터를 현재 비즈니스에서 실행할 수 있는 의사 결정으로 전환하도록 구축되었습니다.",
+      "statusLive": "라이브",
+      "statusAnalyzed": "분석됨",
+      "statusArchived": "보관됨",
+      "statusPending": "보류 중",
+      "metricUptime": "시스템 가동 시간",
+      "metricSessions": "활성 세션",
+      "metricReportsPerDay": "보고서/일",
+      "metricEvents": "일일 수집 이벤트",
+      "metricReports": "예약된 보고서",
+      "metricLatency": "API 지연 시간",
+      "unifiedPlatform": "통합 플랫폼",
+      "analyticsSuite": "분석 제품군",
+      "reportingConsole": "보고 콘솔",
+      "businessOutcome": "사업성과",
+      "section1Heading": "중요한 모든 지표에 대한 하나의 중앙 집중식 시스템",
+      "section1P1": "정보 및 보고 시스템은 조직이 데이터를 수집, 관리하고 의미 있는 통찰력으로 변환할 수 있도록 지원하는 필수 비즈니스 솔루션입니다. 이러한 시스템은 여러 부서의 정보를 통합하여 중요한 비즈니스 데이터에 대한 정확하고 일관적인 실시간 액세스를 보장합니다. 정보 관리를 위한 중앙 집중식 플랫폼을 제공함으로써 조직은 운영 가시성을 향상하고 워크플로를 간소화하며 기업의 모든 수준에서 전략적 의사 결정을 지원할 수 있습니다.",
+      "section1P2": "이러한 시스템은 자동화된 보고, 분석 및 대시보드를 사용하여 성능을 추적하고 주요 지표를 모니터링하며 실시간 보고서를 생성합니다. 수작업을 줄이고 데이터 정확성을 향상함으로써 기업은 더 빠르고 효과적인 결정을 내릴 수 있습니다.",
+      "section2Heading": "가시성, 규정 준수 및 확장성을 위해 구축됨",
+      "section2Text": "향상된 가시성, 규정 준수 및 협업을 통해 정보 및 보고 시스템은 조직이 프로세스를 최적화하고 생산성을 향상시키며 경쟁적인 환경에서 지속 가능한 비즈니스 성장을 촉진할 수 있도록 지원합니다.",
+      "ctaHeading": "모든 팀에게 비즈니스에 대한 동일한 실시간 그림을 제공하세요.",
+      "ctaText": "Nexus Data Systems가 어떻게 보고를 하나의 지능형 플랫폼으로 통합할 수 있는지 알아보세요.",
+      "footerCopyright": "© 2026 넥서스 데이터 시스템. 모든 권리 보유.",
+      "navOverview": "개요",
+      "navCapabilities": "기능",
+      "navImpact": "영향",
+      "navContact": "연락처"
+    },
+    "managedServices": {
+      "subtitle": "귀하의 비즈니스를 위한 포괄적인 관리 서비스"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "데이터 기반 기업을 위한 비즈니스 애플리케이션 현대화",
+      "excerpt": "최신 애플리케이션 아키텍처와 연결된 데이터가 어떻게 운영 효율성, 확장성 및 비즈니스 가시성을 향상시킬 수 있는지 알아보세요.",
+      "tag": "비즈니스 혁신",
+      "category": "비즈니스 혁신",
+      "summary": "최신 애플리케이션과 데이터 기반은 기업이 운영 효율성을 개선하고 비즈니스 시스템을 연결하며 운영 전반에 걸쳐 더 나은 가시성을 확보하는 데 도움이 될 수 있습니다."
+    },
+    "artificial-intelligence": {
+      "title": "AI가 엔터프라이즈 애플리케이션을 재구성하는 방법",
+      "excerpt": "지능형 자동화, AI 부조종사 및 예측 인텔리전스가 어떻게 기업이 매일 의존하는 엔터프라이즈 애플리케이션의 일부가 되고 있는지 알아보세요.",
+      "tag": "인공지능",
+      "category": "인공지능",
+      "summary": "지능형 자동화, AI 부조종사 및 예측 인텔리전스가 어떻게 일상적인 기업 소프트웨어를 적응형 사전 예방적 플랫폼으로 변화시키고 있는지 알아보세요."
+    },
+    "modern-erp": {
+      "title": "최신 ERP를 통한 비즈니스 혁신 가속화",
+      "excerpt": "최신 ERP 플랫폼이 통합 디지털 기반을 통해 재무, 조달, 공급망 및 비즈니스 운영을 어떻게 연결하는지 알아보세요.",
+      "tag": "최신 ERP",
+      "category": "현대 ERP",
+      "summary": "최신 ERP 플랫폼은 재무, 조달, 공급망 및 비즈니스 운영을 통합된 실시간 운영 모델로 연결합니다."
+    },
+    "cybersecurity": {
+      "title": "연결된 기업에서 사이버 탄력성 구축",
+      "excerpt": "조직이 보안을 강화하고 중요 시스템을 보호하며 점점 더 연결되는 환경에서 위협에 대비할 수 있는 방법을 알아보세요.",
+      "tag": "사이버보안",
+      "category": "사이버보안",
+      "summary": "기업이 더 많은 클라우드 시스템, API 및 파트너 생태계를 통합함에 따라 사이버 탄력성은 미션 크리티컬 운영이 최신 위협을 견딜 수 있도록 보장합니다."
+    },
+    "cloud-modernization": {
+      "title": "클라우드용 레거시 애플리케이션 현대화",
+      "excerpt": "레거시 애플리케이션을 평가, 현대화하고 확장 가능하고 안전한 클라우드 아키텍처로 전환하기 위한 실용적인 접근 방식을 살펴보세요.",
+      "tag": "클라우드 및 현대화",
+      "category": "클라우드 및 현대화",
+      "summary": "모놀리식 엔터프라이즈 시스템을 평가, 리팩터링 및 탄력적이고 유지 관리가 가능한 클라우드 아키텍처로 마이그레이션하기 위한 체계적이고 실용적인 로드맵입니다."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "비즈니스 혁신",
+      "title": "데이터 기반 기업을 위한 비즈니스 애플리케이션 현대화",
+      "subtitle": "최신 애플리케이션과 데이터 기반은 기업이 운영 효율성을 개선하고 비즈니스 시스템을 연결하며 운영 전반에 걸쳐 더 나은 가시성을 확보하는 데 도움이 될 수 있습니다.",
+      "date": "2026년 9월",
+      "readTime": "7분 읽기",
+      "imageCaption": "엔터프라이즈 기술 관점 - 애플리케이션 아키텍처 및 연결된 데이터",
+      "legacyLandscapeFlow": [
+        {
+          "title": "비즈니스 애플리케이션",
+          "desc": "서로 다른 레거시 CRM, ERP 및 부서별 도구가 사일로에서 실행됩니다."
+        },
+        {
+          "title": "다중 데이터 소스",
+          "desc": "단편화된 운영 테이블, CSV 추출 및 임시 스키마."
+        },
+        {
+          "title": "연결이 끊긴 데이터베이스",
+          "desc": "고립된 온프레미스 및 조정되지 않은 클라우드 데이터 저장소."
+        },
+        {
+          "title": "보고서 및 비즈니스 사용자",
+          "desc": "수동 조정, 스프레드시트 충돌 및 보고 지연."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "비즈니스 애플리케이션",
+          "desc": "핵심 운영 플랫폼과 최신 반응형 인터페이스."
+        },
+        {
+          "title": "API / 통합 레이어",
+          "desc": "엔터프라이즈 워크플로우를 연결하는 안전한 이벤트 중심 API 게이트웨이입니다."
+        },
+        {
+          "title": "데이터 서비스",
+          "desc": "통합된 마스터 데이터 모델, 파이프라인 및 최적화된 스토리지 엔진."
+        },
+        {
+          "title": "분석 및 보고",
+          "desc": "실시간 원격 측정, 의미 모델 및 자동화된 보고."
+        },
+        {
+          "title": "비즈니스 의사결정자",
+          "desc": "통합된 경영진 가시성을 제공하는 실시간 운영 대시보드."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "엔터프라이즈 애플리케이션",
+          "purpose": "비즈니스 프로세스 관리"
+        },
+        {
+          "area": "API",
+          "purpose": "시스템 통합"
+        },
+        {
+          "area": "데이터베이스",
+          "purpose": "구조화된 비즈니스 데이터"
+        },
+        {
+          "area": "데이터 통합",
+          "purpose": "여러 소스 연결하기"
+        },
+        {
+          "area": "분석",
+          "purpose": "비즈니스 통찰력"
+        },
+        {
+          "area": "클라우드 인프라",
+          "purpose": "확장성과 유연성"
+        },
+        {
+          "area": "모니터링",
+          "purpose": "신뢰성과 성능"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "여러 부서의 운영 가시성 향상",
+        "향상된 데이터 일관성 및 기업 정보의 단일 소스",
+        "수동 보고 작업 감소 및 자동화된 데이터 편집",
+        "애플리케이션 성능 향상 및 트랜잭션 대기 시간 감소",
+        "표준화된 보안 API를 통한 손쉬운 시스템 통합",
+        "유기적 성장과 인수를 지원하는 확장성 향상",
+        "미래 혁신 및 인텔리전스 채택을 위한 더 나은 기반"
+      ],
+      "keyPerspectivePoints": [
+        "비즈니스 프로세스 및 실제 운영 워크플로우 이해",
+        "신뢰할 수 있는 통합 표준을 통한 시스템 연결",
+        "데이터 품질, 거버넌스 및 마스터 데이터 모델 개선",
+        "일상적인 운영을 불안정하게 하지 않으면서 애플리케이션 현대화",
+        "탄력적 성장에 적합한 확장 가능한 아키텍처 구축",
+        "적극적인 의사결정을 위한 비즈니스 가시성 향상"
+      ],
+      "sec1Eyebrow": "비즈니스 과제",
+      "sec1Heading": "성장하는 기업의 복잡성 탐색",
+      "sec1Subtext": "비즈니스가 확장됨에 따라 기술 생태계는 필연적으로 확장됩니다. 개별 부서를 위한 집중 솔루션으로 시작된 것이 서로 다른 시스템의 얽힌 웹으로 발전할 수 있습니다.",
+      "sec2Eyebrow": "시스템 진화",
+      "sec2Heading": "복잡한 기술 환경",
+      "sec2Subtext": "레거시 애플리케이션 공간으로 인해 데이터 저장소, 사용자 경험 및 운영 가시성 전반에 걸쳐 단편화가 발생합니다.",
+      "sec3Eyebrow": "연결된 모델",
+      "sec3Heading": "최신 애플리케이션 아키텍처",
+      "sec3Subtext": "모놀리식 사일로에서 보안 API 및 이벤트 기반 데이터 스트리밍으로 상호 연결된 분리된 서비스로 전환합니다.",
+      "sec4Eyebrow": "지능 및 가시성",
+      "sec4Heading": "연결된 데이터 및 분석",
+      "sec4Subtext": "데이터 사일로를 열어 자동화된 보고, 통합 대시보드 및 사전 비즈니스 의사결정을 지원합니다.",
+      "sec5Eyebrow": "아키텍처 청사진",
+      "sec5Heading": "기술 기반",
+      "sec5Subtext": "전사적 연결과 확장성을 지원하는 주요 아키텍처 계층의 구조화된 보기입니다.",
+      "sec6Eyebrow": "질적 가치",
+      "sec6Heading": "비즈니스 영향",
+      "sec6Subtext": "애플리케이션 현대화 및 연결된 데이터 기반을 통해 측정 가능한 운영상의 이점을 얻을 수 있습니다.",
+      "ctaHeading": "엔터프라이즈 애플리케이션 환경을 현대화할 준비가 되셨습니까?",
+      "ctaDescription": "Rezonants가 귀하의 리더십과 협력하여 통합 애플리케이션 플랫폼과 최신 데이터 파이프라인을 설계, 구축 및 배포할 수 있는 방법을 알아보세요.",
+      "ctaButton": "엔터프라이즈 설계자와 상담하세요",
+      "sec1P1": "일반적인 기업 환경에서는 성장으로 인해 여러 세대의 소프트웨어가 도입되는 경우가 많습니다. 재무, 공급망, 고객 서비스 및 현장 운영은 서로 다른 시기에 구입하거나 구축한 별도의 소프트웨어 스택에서 운영되는 경우가 많습니다. 수년간의 운영 발전을 통해 이러한 시스템은 자체 데이터 형식, 업데이트 흐름 및 통합 문제를 개발합니다.",
+      "sec1P2": "마찰은 일반적인 운영 병목 현상을 통해 기업 전반에 걸쳐 나타납니다.",
+      "sec1List": [
+        {
+          "bold": "연결이 끊긴 여러 비즈니스 애플리케이션",
+          "text": "중복된 데이터 입력과 수동 상호 참조가 필요합니다."
+        },
+        {
+          "bold": "연결이 끊긴 데이터베이스",
+          "text": "중앙 집중식 거버넌스나 통합 마스터 기록 없이 운영됩니다."
+        },
+        {
+          "bold": "수동 보고 오버헤드",
+          "text": "분석 팀은 통찰력을 발견하기보다는 내보내기를 하나로 묶는 데 며칠을 소비합니다."
+        },
+        {
+          "bold": "데이터 불일치",
+          "text": "부서 전반에 걸쳐 근본적인 운영 문제에 대해 상충되는 답변이 생성됩니다."
+        },
+        {
+          "bold": "애플리케이션 유지 관리 오버헤드 및 확장성 제한",
+          "text": "취약한 레거시 지점 간 연결은 증가하는 트랜잭션 볼륨을 지원하는 데 어려움을 겪고 있습니다."
+        }
+      ],
+      "sec1P3": "이러한 과제를 해결하려면 기술 환경을 고립된 소프트웨어 구매 모음이 아니라 전략적 민첩성을 지원하도록 설계된 상호 연결된 비즈니스 플랫폼으로 볼 필요가 있습니다.",
+      "legacyLandscapeBadge": "레거시 기준선",
+      "legacyLandscapeTitle": "단편화된 정보 흐름",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "데이터 사일로",
+          "desc": "중요한 고객, 재무 및 재고 데이터가 부서별 플랫폼에 갇혀 있어 비즈니스 운영에 대한 단일 통합 보기가 불가능합니다."
+        },
+        {
+          "num": "02",
+          "title": "통합 격차",
+          "desc": "지점 간 연결과 야간 일괄 추출로 인해 운영 팀 전체에 지연 시간, 높은 실패율, 비용이 많이 드는 유지 관리 오버헤드가 발생합니다."
+        },
+        {
+          "num": "03",
+          "title": "지연된 정보",
+          "desc": "경영진이 성과를 이해하기 위해 월말 조정을 기다려야 하는 경우 의사 결정은 예측이 아닌 반응에 따라 이루어집니다."
+        }
+      ],
+      "modernArchitectureBadge": "대상 아키텍처",
+      "modernArchitectureTitle": "연결된 엔터프라이즈 애플리케이션 모델",
+      "sec3P1": "최신 애플리케이션 아키텍처는 취약한 지점 간 연결을 민첩하고 분리된 기반으로 대체합니다. 강력한 API 및 통합 계층을 구축함으로써 시스템은 개별 사업부의 자율성을 유지하면서 통제되고 안전한 엔드포인트를 통해 상호 작용합니다.",
+      "sec3P2": "이 아키텍처 변화의 주요 기술 기능은 다음과 같습니다.",
+      "sec3List": [
+        {
+          "bold": "애플리케이션 현대화:",
+          "text": "핵심 비즈니스 로직을 확장 가능한 모듈형 서비스로 분리합니다."
+        },
+        {
+          "bold": "API 통합:",
+          "text": "내부 및 파트너 상호 운용성을 위해 표준화되고 문서화된 인터페이스를 구축합니다."
+        },
+        {
+          "bold": "데이터 통합 및 데이터베이스 최적화:",
+          "text": "처리량이 높은 쿼리 최적화로 운영 데이터 파이프라인을 통합합니다."
+        },
+        {
+          "bold": "관찰 가능성 및 보안:",
+          "text": "모든 서비스에 걸쳐 중앙 집중식 원격 측정, 감사 추적 및 역할 기반 액세스 제어를 구현합니다."
+        }
+      ],
+      "sec4P1": "통합 데이터 기반은 리더십 및 운영 팀이 정보와 상호 작용하는 방식을 변화시킵니다. 조직은 몇 주 전에 발생한 일을 보여주는 회고적 보고서에 의존하는 대신 사업부 전반에 걸쳐 실시간 운영 원격 측정을 얻습니다.",
+      "sec4P2": "연결된 데이터와 분석은 다음을 통해 지속 가능한 비즈니스 성과를 지원합니다.",
+      "sec4List": [
+        {
+          "bold": "운영 가시성:",
+          "text": "판매, 재고, 이행 및 재무 성과 전반에 걸쳐 지속적인 투명성을 제공합니다."
+        },
+        {
+          "bold": "더 빠른 보고 주기:",
+          "text": "반복적인 수동 스프레드시트를 제거하는 주문형 데이터 집계입니다."
+        },
+        {
+          "bold": "일관된 정보:",
+          "text": "마진, 고객 생애 가치, 리드 속도와 같은 지표에 대한 단일 정의."
+        },
+        {
+          "bold": "더 나은 비즈니스 통찰력:",
+          "text": "위험과 기회를 미리 드러내는 예측 패턴 감지입니다."
+        },
+        {
+          "bold": "향상된 의사결정:",
+          "text": "검증된 데이터 계보 및 투명성을 통해 자신감 있는 실행 조치를 지원합니다."
+        }
+      ],
+      "keyPerspectiveEyebrow": "전략적 관점",
+      "keyPerspectiveTitle": "현대화는 소프트웨어 교체 그 이상입니다",
+      "keyPerspectiveLead": "비즈니스 애플리케이션 현대화는 단순히 오래된 소프트웨어를 새로운 도구로 교체하는 것이 아닙니다. 이는 비즈니스 운영, 확장 및 가치 제공 방식에 맞춰 기술을 의도적으로 조정하는 것입니다."
+    },
+    "artificialIntelligence": {
+      "category": "인공지능",
+      "title": "AI가 엔터프라이즈 애플리케이션을 재구성하는 방법",
+      "subtitle": "지능형 자동화, AI 부조종사 및 예측 인텔리전스가 어떻게 기업이 매일 의존하는 엔터프라이즈 애플리케이션의 일부가 되고 있는지 알아보세요.",
+      "date": "2026년 9월",
+      "readTime": "6분 읽기",
+      "imageCaption": "엔터프라이즈 기술 관점 — 기본 인텔리전스 및 자동화된 워크플로",
+      "aiUseCases": [
+        {
+          "title": "공급망 예측",
+          "desc": "과거 공급업체 원격 측정을 통해 수요 급증 및 물류 지연을 예측합니다."
+        },
+        {
+          "title": "자동 송장 감사",
+          "desc": "품목을 추출하고 사람이 입력하지 않는 구매 주문과 매칭합니다."
+        },
+        {
+          "title": "지능형 서비스 데스크",
+          "desc": "Tier 1 직원 IT 및 HR 요청을 분류하고 자동으로 해결합니다."
+        },
+        {
+          "title": "고객 이탈 방지",
+          "desc": "적극적인 지원을 위한 초기 마찰 신호를 식별하는 행동 클러스터링."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "실시간 예측 모델을 통해 더 빠른 운영 결정을 내립니다.",
+        "반복적인 데이터 처리 및 수동 조정 감소",
+        "상황별 부조종사 지원으로 직원 처리량 증가",
+        "초개인화 경험을 통한 고객 만족도 향상",
+        "실제 원격 측정을 기반으로 한 지속적인 프로세스 자체 최적화",
+        "자동화된 감사 로그 검사를 통해 위험 제거된 규정 준수 추적"
+      ],
+      "governancePoints": [
+        "AI 모델이 민감한 데이터를 유출하지 않도록 보장하는 엄격한 역할 기반 액세스",
+        "투명한 추론 추적으로 고부가가치 작업에 대한 인적 검토 가능",
+        "환각과 편견을 방지하기 위한 지속적인 모델 평가",
+        "GDPR, SOC 2, HIPAA에 부합하는 엄격한 데이터 출처 표준",
+        "불확실한 엣지 조건에 대한 인간 참여형 에스컬레이션 경로"
+      ],
+      "sec1Eyebrow": "네이티브 인텔리전스로의 전환",
+      "sec1Heading": "엔터프라이즈 애플리케이션의 AI",
+      "sec1Subtext": "인공지능은 독립형 실험을 넘어 일상적인 기업 시스템의 핵심 구조로 나아가고 있습니다.",
+      "sec2Eyebrow": "대규모 자동화",
+      "sec2Heading": "지능형 자동화",
+      "sec2Subtext": "깨지기 쉬운 규칙 기반 루틴을 문서를 해석하고, 예외를 라우팅하고, 조정하는 인지 워크플로로 대체합니다.",
+      "sec3Eyebrow": "내장형 지원",
+      "sec3Heading": "엔터프라이즈 AI 부조종사",
+      "sec3Subtext": "데이터 분석, 문서화 및 운영 쿼리 전반에 걸쳐 지식 근로자를 지원하기 위해 비즈니스 애플리케이션 내에 내장된 상황 인식 도우미입니다.",
+      "sec4Eyebrow": "미래 지향적 추론",
+      "sec4Heading": "예측 지능",
+      "sec4Subtext": "과거 지향적 회고적 보고서에서 운영 중단을 예측하는 사전 의사 결정 엔진으로 전환합니다.",
+      "sec5Eyebrow": "실제 응용 프로그램",
+      "sec5Heading": "엔터프라이즈 AI 사용 사례",
+      "sec5Subtext": "운영 중인 기업 도메인 전반에 걸쳐 측정 가능한 효율성 향상을 제공하는 입증된 애플리케이션입니다.",
+      "sec6Eyebrow": "전략적 가치",
+      "sec6Heading": "비즈니스 이점",
+      "sec6Subtext": "엔터프라이즈 AI 도입을 통해 실질적인 생산성 향상과 운영 민첩성이 실현됩니다.",
+      "ctaHeading": "네이티브 AI를 비즈니스 애플리케이션에 통합할 준비가 되셨나요?",
+      "ctaDescription": "Rezonants AI 사례와 연결하여 엔터프라이즈 AI 부조종사 및 지능형 자동화 엔진을 설계, 평가 및 배포하세요.",
+      "ctaButton": "AI 전문가와 상담하세요",
+      "sec1P1": "수년 동안 기업 인공 지능은 외부 기능, 즉 격리된 모델, 샌드박스 데모 또는 별도의 포털을 통해 액세스할 수 있는 격리된 챗봇으로 간주되었습니다. 오늘날 패러다임은 근본적으로 바뀌었습니다. 영향력이 큰 엔터프라이즈 AI는 ERP, CRM, 인적 자본 플랫폼, 실제 비즈니스가 발생하는 공급망 엔진 등 기록 시스템 내부에 직접 내장되어 있습니다.",
+      "sec1P2": "인텔리전스는 기록 시스템 내에서 작동할 때 조직에 설정된 보안 경계, 데이터 모델 및 비즈니스 로직을 상속합니다. 단순히 일반적인 응답을 생성하는 것이 아닙니다. 실시간 주문을 처리하고, 공개 지원 티켓을 해석하고, 공급업체 송장을 조정하고, 매일 탐색하는 정확한 인터페이스 내에서 직원을 지원합니다.",
+      "sec1P3": "이러한 변화를 통해 엔터프라이즈 소프트웨어는 사람의 키 입력을 기다리는 수동적 데이터베이스에서 요구 사항을 예측하고 단계를 자동화하며 적시에 권장 사항을 제시하는 사전 예방적 플랫폼으로 이동합니다.",
+      "sec2P1": "전통적인 로봇 프로세스 자동화(RPA)는 결정적이고 반복적인 화면 스크래핑에 뛰어났습니다. 그러나 엄격한 규칙 세트는 양식이 변경되거나 예상치 못한 문서 레이아웃이 도착하거나 예외가 발생할 때마다 중단됩니다. 지능형 자동화는 인지적 추론과 트랜잭션 실행을 결합하여 이러한 격차를 해소합니다.",
+      "sec2List": [
+        {
+          "bold": "작업 흐름 자동화:",
+          "text": "복잡한 부서 간 운영을 조율하고 긴급성과 과거 해결 경로에 따라 작업을 라우팅합니다."
+        },
+        {
+          "bold": "지능형 문서 처리:",
+          "text": "구조화되지 않은 PDF, 이메일, 배송 목록 및 계약서를 수집하여 구조화된 데이터베이스 트랜잭션으로 변환합니다."
+        },
+        {
+          "bold": "지능형 작업 자동화:",
+          "text": "구매 주문서를 영수증 및 은행 명세서와 일치시키는 등 다단계 운영 검증을 자동화합니다."
+        },
+        {
+          "bold": "프로세스 최적화:",
+          "text": "프로세스 로그를 지속적으로 분석하여 주기 병목 현상을 식별하고 목표 워크플로 개선을 권장합니다."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "정보검색",
+          "desc": "키워드 추측 없이 분산된 지식 기반, 인트라넷 정책, 제품 사양 및 과거 티켓 해결 전반에 걸쳐 의미론적 검색을 수행합니다."
+        },
+        {
+          "icon": "📝",
+          "title": "문서 요약",
+          "desc": "긴 RFP, 공급업체 계약, 기술 사양 및 법적 개정 사항을 실행 가능한 경영진 브리핑 및 위험 체크리스트로 즉시 추출합니다."
+        },
+        {
+          "icon": "✨",
+          "title": "콘텐츠 생성",
+          "desc": "브랜드 표준에 부합하는 고객 제안서, 운영 문서, 표준 운영 절차(SOP) 및 표준화된 고객 업데이트 초안 작성을 지원했습니다."
+        },
+        {
+          "icon": "📈",
+          "title": "데이터 분석",
+          "desc": "대화식 질문을 복잡한 분석 쿼리로 변환하고 실시간 차트 요약을 생성하며 리더십에 대한 중요한 이상값을 강조합니다."
+        },
+        {
+          "icon": "🔄",
+          "title": "비즈니스 워크플로우",
+          "desc": "자원 예약, 티켓 생성, 기록 업데이트, 구매 요청 제출 등 채팅 프롬프트에서 직접 거래 시작."
+        },
+        {
+          "icon": "🛡️",
+          "title": "역할 기반 액세스",
+          "desc": "부조종사 응답이 사용자 권한 수준을 엄격하게 존중하고 기밀 재무, HR 파일 및 지적 재산을 보호하도록 보장합니다."
+        }
+      ],
+      "sec4P1": "생성 모델이 언어를 이해하고 합성하는 데 탁월한 반면, 예측 지능은 구조화된 기업 데이터 세트 내에 숨겨진 수학적 패턴에 중점을 둡니다. 내장된 예측 모델을 통해 조직은 운영을 방해하기 전에 운영상의 장애물을 예측할 수 있습니다.",
+      "sec4List": [
+        {
+          "bold": "운영 예측:",
+          "text": "실시간 파이프라인 속도와 계절 지표를 합성하여 수익 추세, 재고 속도 및 리소스 수요를 예측합니다."
+        },
+        {
+          "bold": "예측 분석:",
+          "text": "아직 개입할 시간이 있는 동안 고객 이탈 위험, 유지 관리 성능 저하 주기, 공급망 지연을 정확히 파악합니다."
+        },
+        {
+          "bold": "위험 식별:",
+          "text": "금융 거래, 규정 준수 로그, 공급업체 조달 패턴의 이상 징후가 확대되기 전에 이를 표시합니다."
+        },
+        {
+          "bold": "수요 예측:",
+          "text": "운전 자본을 보호하기 위해 판매 예측과 제조 능력 및 창고 재고 수준을 조화시킵니다."
+        }
+      ],
+      "keyPerspectiveEyebrow": "기업 거버넌스",
+      "keyPerspectiveTitle": "신뢰, 감독 및 가드레일",
+      "keyPerspectiveLead": "AI는 그 밑에 있는 데이터 기반과 이를 둘러싼 거버넌스만큼만 신뢰할 수 있습니다. 지속 가능한 기업 채택에는 신중한 아키텍처 규율이 필요합니다."
+    },
+    "modernErp": {
+      "category": "현대 ERP",
+      "title": "최신 ERP를 통한 비즈니스 혁신 가속화",
+      "subtitle": "최신 ERP 플랫폼이 통합 디지털 기반을 통해 재무, 조달, 공급망 및 비즈니스 운영을 어떻게 연결하는지 알아보세요.",
+      "date": "2026년 9월",
+      "readTime": "7분 읽기",
+      "imageCaption": "엔터프라이즈 기술 관점 — 연결된 ERP 및 운영 민첩성",
+      "connectedFunctions": [
+        {
+          "title": "재무관리",
+          "desc": "실시간 원장 업데이트, 자동화된 수익 인식 및 즉각적인 다중 통화 조정."
+        },
+        {
+          "title": "공급망 및 물류",
+          "desc": "엔드투엔드 재고 가시성, 창고 최적화 및 공급업체 성과 원격 측정."
+        },
+        {
+          "title": "인적 자본 및 인력",
+          "desc": "셀프 서비스 직원 포털, 자동화된 급여 실행 및 통합 인재 수명주기 계획."
+        },
+        {
+          "title": "조달 및 소싱",
+          "desc": "자동화된 구매 승인, 공급업체 계약 준수 및 동적 지출 분석."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "클라우드 네이티브 아키텍처",
+          "desc": "온프레미스 인프라 오버헤드나 중단적인 버전 잠금 없이 탄력적인 컴퓨팅 확장이 가능합니다."
+        },
+        {
+          "title": "개방형 API 생태계",
+          "desc": "맞춤형 마이크로서비스 및 CRM 제품군과 원활한 양방향 데이터 동기화를 가능하게 하는 사전 구축된 커넥터입니다."
+        },
+        {
+          "title": "임베디드 분석",
+          "desc": "상위 수준의 대차대조표에서 개별 거래 로그까지 대시보드를 직접 드릴다운합니다."
+        },
+        {
+          "title": "자동화된 작업 흐름 트리거",
+          "desc": "이벤트 기반 이벤트는 표준 부서 간 작업을 자율적으로 실행하도록 트리거합니다."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "상충되는 부서 보고서를 제거하는 단일 정보 소스",
+        "월말, 분기말 마감주기 대폭 단축",
+        "실시간 재고 및 물류 가시성으로 품절 최소화",
+        "모듈식 클라우드 네이티브 업데이트를 통해 IT 유지 관리 오버헤드 감소",
+        "여러 지역의 조세 관할권에 대한 통합 규정 준수 추적",
+        "인수한 기업을 공유 운영 백본에 더 빠르게 온보딩"
+      ],
+      "erpStrategyPoints": [
+        "구성 전 ERP 아키텍처를 핵심 운영 워크플로우에 맞춰 조정",
+        "빠른 성과 달성을 위한 모듈식 배포 모델 선택",
+        "고품질 마스터 데이터 마이그레이션 및 조정 우선순위",
+        "자동화된 변경 관리 및 역할 맞춤형 교육 프로그램 내장",
+        "원활한 미래 통합 확장을 위한 API 게이트웨이 설계"
+      ],
+      "sec1Eyebrow": "운영 백본",
+      "sec1Heading": "최신 ERP가 중요한 이유",
+      "sec1Subtext": "기업의 효율성은 재무, 조달, 운영 및 인적 자본 전반에 걸쳐 데이터를 원활하게 동기화하는 데 달려 있습니다.",
+      "sec2Eyebrow": "통합 생태계",
+      "sec2Heading": "연계된 업무 기능",
+      "sec2Subtext": "기존 부서별 사일로를 무너뜨려 트랜잭션 데이터가 여러 사업부 간에 즉시 흐르도록 합니다.",
+      "sec3Eyebrow": "기능 간 조화",
+      "sec3Heading": "통합 운영 및 정보 흐름",
+      "sec3Subtext": "판매 계약이 공급망 주문 및 재무 원장을 즉시 업데이트하도록 보장하는 연결된 디지털 척추.",
+      "sec4Eyebrow": "엔터프라이즈 원격 측정",
+      "sec4Heading": "실시간 비즈니스 가시성",
+      "sec4Subtext": "지연된 회고적 스프레드시트를 즉각적인 성과 지표로 대체하는 실시간 운영 인텔리전스입니다.",
+      "sec5Eyebrow": "핵심 플랫폼 아키텍처",
+      "sec5Heading": "최신 ERP 기능",
+      "sec5Subtext": "민첩한 클라우드 플랫폼을 레거시 모놀리식 시스템과 차별화하는 아키텍처 기반입니다.",
+      "sec6Eyebrow": "질적 영향",
+      "sec6Heading": "비즈니스 이점",
+      "sec6Subtext": "최신 ERP 플랫폼을 통해 실현되는 실질적인 조직 속도, 투명성 및 비용 효율성.",
+      "ctaHeading": "기업 ERP 척추를 현대화할 준비가 되셨습니까?",
+      "ctaDescription": "Rezonants가 귀하의 비즈니스 운영에 맞는 모듈형 ERP 플랫폼을 범위 지정, 구성 및 통합하는 데 어떻게 도움이 되는지 알아보세요.",
+      "ctaButton": "ERP 설계자와 상담하세요",
+      "sec1P1": "빠르게 변화하는 기업 환경에서는 기존 ERP(Enterprise Resource Planning) 시스템이 어려움을 겪는 경우가 많습니다. 일괄 처리 및 격리된 로컬 서버 시대에 구축된 레거시 ERP는 과도하게 맞춤화되었으며 업그레이드가 어려웠으며 극도로 불투명했습니다. 중요한 비즈니스 운영은 취약한 익일 수출에 의존하여 원장을 창고와 동기화하는 병렬 사일로에서 작동했습니다.",
+      "sec1P2": "최신 클라우드 기반 ERP는 이러한 역동성을 근본적으로 재정의합니다. 이는 기업의 통합 디지털 백본, 즉 재무, 조달, 공급망, 재고 및 인적 자원이 공유 데이터 모델을 기반으로 거래하는 살아있는 기반으로 작동합니다.",
+      "sec1P3": "현대 ERP는 핵심 운영을 조화로운 단일 환경으로 통합함으로써 성장을 늦추는 운영 사각지대를 제거하고 리더가 진부한 과거 요약이 아닌 실시간 신호를 사용하여 비즈니스를 이끌 수 있도록 해줍니다.",
+      "sec3P1": "운영 사일로가 사람 문제인 경우는 거의 없습니다. 그것은 건축적인 문제입니다. 고객 서비스, 조달 및 창고 팀이 연결되지 않은 애플리케이션에서 작업하는 경우 모든 핸드오프에는 수동 이메일, 스프레드시트 및 전화 통화가 필요합니다. 오류가 늘어나고 송장이 보류되며 고객 약속이 늦어집니다.",
+      "sec3P2": "최신 ERP는 통합 데이터 계보와 이벤트 중심 프로세스 조정을 통해 이 문제를 해결합니다.",
+      "sec3List": [
+        {
+          "bold": "동기화된 주문-현금:",
+          "text": "고객 주문이 접수되면 재고가 자동으로 예약되고 배송 라벨이 생성되며 청구 원장이 즉시 업데이트됩니다."
+        },
+        {
+          "bold": "조달 투명성:",
+          "text": "구매 주문서, 입고 및 공급업체 송장은 3자 조정을 통해 자동으로 일치하며 사람이 검토할 수 있는 예외 사항만 표시합니다."
+        },
+        {
+          "bold": "통합 인건비 및 운영 비용:",
+          "text": "프로젝트 작업표, 급여 할당 및 직접 운영 지출은 비용 센터에 실시간으로 직접 매핑됩니다."
+        }
+      ],
+      "sec4P1": "통일된 가시성 없이 기업을 운영하는 것은 지연된 계기로 인해 짙은 안개 속을 비행하는 것과 같습니다. 최신 ERP는 모든 비즈니스 차원에 걸쳐 실시간 원격 측정을 제공합니다.",
+      "sec4List": [
+        {
+          "bold": "실시간 경영진 대시보드:",
+          "text": "기말 마감을 기다리지 않고 총 마진, 운영 현금 흐름, 미결 부채 및 주문 잔고를 즉시 확인할 수 있습니다."
+        },
+        {
+          "bold": "셀프 서비스 운영 보고:",
+          "text": "부서장은 맞춤형 쿼리를 작성하고 기업 수준 요약에서 개별 거래 항목까지 드릴다운할 수 있습니다."
+        },
+        {
+          "bold": "중앙 집중식 마스터 정보:",
+          "text": "고객, 공급업체 및 제품 카탈로그에 대해 관리되는 단일 마스터 데이터를 설정하여 모순되는 숫자를 제거합니다."
+        },
+        {
+          "bold": "사전 이상 경고:",
+          "text": "마진이 임계값 이하로 떨어지거나 재고가 부족하거나 공급업체 배송이 늦어지면 자동 경고가 관리자에게 즉시 알립니다."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP 혁신 철학",
+      "keyPerspectiveTitle": "모놀리식 점검을 통한 실용적인 현대화",
+      "keyPerspectiveLead": "최신 ERP 혁신은 조직이 IT 중단을 전부 아니면 전무하는 것이 아니라 혁신적인 운영 업그레이드로 간주할 때 성공합니다."
+    },
+    "cybersecurity": {
+      "category": "사이버보안",
+      "title": "연결된 기업에서 사이버 탄력성 구축",
+      "subtitle": "조직이 보안을 강화하고 중요 시스템을 보호하며 점점 더 연결되는 환경에서 위협에 대비할 수 있는 방법을 알아보세요.",
+      "date": "2026년 9월",
+      "readTime": "8분 읽기",
+      "imageCaption": "엔터프라이즈 기술 관점 — 위협 방어 및 제로 트러스트 아키텍처",
+      "incidentReadinessPhases": [
+        {
+          "title": "원격 측정 및 탐지",
+          "desc": "모든 클라우드 엔드포인트 및 워크로드 전반에 걸친 실시간 로그 수집 및 SIEM 이상 상관관계."
+        },
+        {
+          "title": "봉쇄 및 격리",
+          "desc": "손상된 컨테이너 또는 자격 증명을 즉시 격리하는 자동화된 네트워크 격리 규칙입니다."
+        },
+        {
+          "title": "해결 및 근본 원인",
+          "desc": "정확한 침해 벡터를 식별하는 신속한 패치 출시 및 디지털 포렌식."
+        },
+        {
+          "title": "탄력성 및 경화성",
+          "desc": "불변 백업, 정책 가드레일, 자동화된 레드팀 시뮬레이션에 대한 지속적인 피드백."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "클라우드 자산 전반에 걸쳐 취약성 공격 표면이 크게 감소합니다.",
+        "최소한의 RTO/RPO로 운영 연속성 및 재해 복구 보장",
+        "ISO 27001, SOC 2, HIPAA 및 GDPR 감사 전반에 걸쳐 완전한 규정 준수 확신",
+        "핵심 기업 지적 재산 및 기밀 고객 기록 보호",
+        "통합 액세스 제어를 통해 공급업체 및 타사 위험 거버넌스 간소화",
+        "검증된 제로 트러스트 보안으로 고객 및 투자자의 신뢰 강화"
+      ],
+      "zeroTrustPrinciples": [
+        "절대 신뢰하지 않고 항상 확인: 모든 거래에 명시적인 인증이 필요합니다.",
+        "최소 권한 액세스: 측면 위협 이동을 제한하는 세분화된 역할 경계",
+        "위반 가정: 지속적인 위협 모니터링, 전송 중 및 저장 중인 암호화",
+        "마이크로 세분화: 개별 애플리케이션 워크로드를 격리하는 네트워크 방화벽",
+        "지속적인 원격 측정: 비정상적인 세션 요청을 표시하는 자동 행동 분석"
+      ],
+      "sec1Eyebrow": "확장되는 경계",
+      "sec1Heading": "커넥티드 엔터프라이즈 보안 환경",
+      "sec1Subtext": "기업이 클라우드 서비스, 분산된 원격 팀 및 IoT 장치를 채택함에 따라 기존 보안 경계가 무너집니다.",
+      "sec2Eyebrow": "종합방어",
+      "sec2Heading": "다계층 위협 방어",
+      "sec2Subtext": "전체 기술 스택에 걸쳐 위협 인텔리전스, 취약성 검색 및 자동화된 사고 대응을 조정합니다.",
+      "sec3Eyebrow": "새로운 보안 경계",
+      "sec3Heading": "ID 및 액세스 관리(IAM)",
+      "sec3Subtext": "ID는 기본 제어 평면입니다. 세분화된 액세스, MFA 및 SSO는 승인된 주체만 비즈니스 시스템에 액세스하도록 보장합니다.",
+      "sec4Eyebrow": "건축 패러다임",
+      "sec4Heading": "제로 트러스트 아키텍처 이해하기",
+      "sec4Subtext": "지속적인 검증, 명시적인 승인 및 타협 가정을 전제로 하는 기본 보안 사고방식입니다.",
+      "sec5Eyebrow": "인프라 거버넌스",
+      "sec5Heading": "클라우드 보안 고려 사항",
+      "sec5Subtext": "공동 책임 모델, 코드형 인프라 가드레일 및 Kubernetes 런타임 보호를 해결합니다.",
+      "sec6Eyebrow": "운영 탄력성",
+      "sec6Heading": "사고 대비: 예방 그 이상",
+      "sec6Subtext": "전체 운영 탄력성을 위해 구조화된 실행서, 자동화된 봉쇄 훈련 및 불변 재해 복구 백업을 준비합니다.",
+      "sec7Eyebrow": "전략적 가치",
+      "sec7Heading": "비즈니스 이점",
+      "sec7Subtext": "현대적인 사이버 방어를 통해 기업 탄력성, 규정 준수 확인 및 브랜드 평판 보호 기능을 제공합니다.",
+      "ctaHeading": "기업의 사이버 탄력성을 강화할 준비가 되셨습니까?",
+      "ctaDescription": "Rezonants 보안 실무와 협력하여 아키텍처를 감사하고, 제로 트러스트 프레임워크를 구현하고, 미션 크리티컬 시스템을 보호합니다.",
+      "ctaButton": "사이버 설계자에게 문의",
+      "sec1P1": "레거시 엔터프라이즈 IT 시대에는 성과 해자 원칙에 따라 보안이 운영되었습니다. 즉, 회사 네트워크 내부의 모든 것은 신뢰할 수 있는 것으로 추정되고 외부의 모든 것은 신뢰할 수 없는 것으로 간주되었습니다. 단일 회사 방화벽이 내부 서버, 데이터베이스 및 데스크톱 컴퓨터를 보호했습니다.",
+      "sec1P2": "오늘날의 기업은 물리적인 벽을 넘어섰습니다. 워크로드는 멀티 클라우드 환경(AWS, Azure, GCP)에 상주하고 직원은 다양한 위치에서 비즈니스 애플리케이션에 액세스하며 API는 외부 물류 제공업체, 금융 기관 및 SaaS 공급업체와 민감한 운영 데이터를 지속적으로 교환합니다.",
+      "sec1P3": "이러한 초연결성은 엄청난 비즈니스 민첩성을 촉진하는 동시에 기업의 공격 표면을 크게 확장합니다. 모든 API 엔드포인트, ID 토큰, 연결된 모바일 장치 및 SaaS 통합은 잠재적인 노출 벡터를 나타냅니다. 진정한 기업 보호를 위해서는 경계 기반 방어에서 사전 예방적이고 엔드투엔드 사이버 탄력성으로 전환해야 합니다.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "위협 감지",
+          "desc": "비정상적인 네트워크 패턴, 자격 증명 도용, 제로데이 취약점을 실시간으로 모니터링하는 머신러닝 기반 위협 인텔리전스입니다."
+        },
+        {
+          "icon": "📡",
+          "title": "보안 모니터링",
+          "desc": "중앙 집중식 SOC(보안 운영 센터) 원격 측정으로 서버, 컨테이너 클러스터, ID 공급자 및 엔드포인트 전체에서 이벤트의 상관 관계를 분석합니다."
+        },
+        {
+          "icon": "🔍",
+          "title": "취약점 관리",
+          "desc": "인프라, 소스 코드 저장소 및 컨테이너 레지스트리 전반에 걸쳐 지속적으로 자동화된 취약점을 스캔하여 취약점을 사전에 해결합니다."
+        },
+        {
+          "icon": "🔒",
+          "title": "데이터 보호",
+          "desc": "지적 재산 유출을 방지하기 위한 세분화된 데이터 손실 방지(DLP) 거버넌스와 함께 전송 중(TLS 1.3) 및 저장 중(AES-256)의 강력한 암호화."
+        }
+      ],
+      "sec3P1": "기업 자산을 보호하려면 임원, 외부 계약자, 자율 소프트웨어 서비스 계정 등 모든 신원이 액세스하는 정확한 리소스에 대한 승인을 검증했는지 확인해야 합니다.",
+      "sec3List": [
+        {
+          "bold": "중앙 집중식 ID 관리:",
+          "text": "애플리케이션 전체에 분산된 비밀번호 저장소를 제거하는 SSO(Single Sign-On) 및 통합 ID 표준입니다."
+        },
+        {
+          "bold": "적응형 다중 요소 인증(MFA):",
+          "text": "민감한 관리 기능을 위한 피싱 방지 FIDO2 하드웨어 키 및 위험 기반 상황별 문제."
+        },
+        {
+          "bold": "세분화된 액세스 제어:",
+          "text": "세분화된 역할 기반(RBAC) 및 속성 기반(ABAC) 액세스 제어가 API 및 데이터베이스 수준에서 시행됩니다."
+        },
+        {
+          "bold": "최소 권한 원칙:",
+          "text": "관리 작업이 끝나면 자동으로 만료되는 임시 JIT(Just-In-Time) 액세스 권한을 부여합니다."
+        }
+      ],
+      "keyPerspectiveEyebrow": "제로 트러스트 핵심 원칙",
+      "keyPerspectiveTitle": "맹목적인 신뢰에 대한 지속적인 검증",
+      "keyPerspectiveLead": "제로 트러스트 아키텍처에서는 네트워크 위치에 따른 암묵적 신뢰가 완전히 해체됩니다. 모든 트랜잭션, 데이터베이스 쿼리 및 사용자 로그인은 적법성을 지속적으로 입증해야 합니다.",
+      "cloudSecurityCards": [
+        {
+          "title": "책임 공유",
+          "desc": "데이터 암호화, IAM 정책 및 애플리케이션 코드에 대한 기업의 책임과 클라우드 제공업체의 물리적 인프라 보안을 구분하는 명확한 거버넌스."
+        },
+        {
+          "title": "코드형 인프라(IaC)",
+          "desc": "코드를 통해 관리되는 변경 불가능하고 감사 가능한 클라우드 구성입니다. 자동화된 코드형 정책 스캐너는 배포 전에 잘못된 구성과 노출된 버킷을 차단합니다."
+        },
+        {
+          "title": "컨테이너 및 Kubernetes 보안",
+          "desc": "강화된 컨테이너 런타임, 서명된 이미지 레지스트리, 네트워크 마이크로 세분화, 소스 저장소 외부에 자격 증명을 유지하는 자동화된 비밀 관리."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "클라우드 및 현대화",
+      "title": "클라우드용 레거시 애플리케이션 현대화",
+      "subtitle": "레거시 애플리케이션을 평가, 현대화하고 확장 가능하고 안전한 클라우드 아키텍처로 전환하기 위한 실용적인 접근 방식을 살펴보세요.",
+      "date": "2026년 9월",
+      "readTime": "6분 읽기",
+      "imageCaption": "엔터프라이즈 기술 관점 — 클라우드 네이티브 재플랫폼 및 컨테이너화",
+      "modernizationApproaches": [
+        {
+          "title": "재호스트(리프트 앤 시프트)",
+          "desc": "최소한의 코드 수정으로 워크로드를 클라우드 가상 머신으로 신속하게 전환합니다."
+        },
+        {
+          "title": "플랫폼 변경(리프트 및 모양 변경)",
+          "desc": "런타임 프레임워크를 업그레이드하고 관리형 클라우드 데이터베이스를 채택하며 운영을 간소화합니다."
+        },
+        {
+          "title": "리팩터링(클라우드 네이티브 재구축)",
+          "desc": "모놀리스를 컨테이너화된 마이크로서비스와 이벤트 기반 서버리스 API로 분해합니다."
+        },
+        {
+          "title": "교체(SaaS 현대화)",
+          "desc": "특별히 구축된 엔터프라이즈 클라우드 소프트웨어를 위해 중복 레거시 시스템을 폐기합니다."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "레거시 평가",
+          "desc": "자동화된 종속성 매핑, 기술 부채 목록 작성 및 클라우드 준비 점수 매기기."
+        },
+        {
+          "title": "대상 아키텍처",
+          "desc": "모듈식 마이크로서비스 청사진, 컨테이너 토폴로지 및 자동화된 IaC 템플릿."
+        },
+        {
+          "title": "단계별 마이그레이션",
+          "desc": "Canary 릴리스, 이중 쓰기 데이터 동기화 및 가동 중지 시간 없는 컷오버 웨이브."
+        },
+        {
+          "title": "클라우드 최적화",
+          "desc": "지속적인 비용 거버넌스, 원격 측정 자동 확장 및 FinOps 운영 검토."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "인프라 유지 관리 및 하드웨어 교체 비용 대폭 절감",
+        "대기 시간 없이 최대 기업 트래픽을 처리하는 무한에 가까운 컴퓨팅 탄력성",
+        "완전 자동화된 CI/CD 배포 파이프라인으로 출시 속도 가속화",
+        "다중 AZ 고가용성으로 기존 단일 장애 지점 제거",
+        "신속한 크로스 플랫폼 파트너 통합을 가능하게 하는 최신 API 아키텍처",
+        "애플리케이션 성능 및 클라우드 지출에 대한 고급 실시간 관찰 기능"
+      ],
+      "landscapeAssessmentPoints": [
+        "복잡한 애플리케이션 간 종속성 및 데이터 동기화 흐름 매핑",
+        "하드코딩된 환경 구성 및 독점 데이터베이스 스키마 식별",
+        "관할권별 규제 준수 및 데이터 주권 제약 평가",
+        "리팩터링 경로와 재호스트 경로 전반에 걸쳐 현실적인 총 소유 비용(TCO) 계산",
+        "활발한 일상 비즈니스 운영을 보호하기 위해 명확한 롤아웃 웨이브 설정"
+      ],
+      "sec1Eyebrow": "레거시 시스템의 현실",
+      "sec1Heading": "레거시 챌린지",
+      "sec1Subtext": "노후화된 모놀리스는 혁신 속도를 제한하고, 운영 취약점을 증가시키며, 인프라 유지 관리 비용을 증가시킵니다.",
+      "sec2Eyebrow": "평가 및 발견",
+      "sec2Heading": "애플리케이션 환경 이해",
+      "sec2Subtext": "마이그레이션 전에 데이터 종속성, 소프트웨어 버전 및 현대화 ROI를 매핑하기 위한 엄격한 아키텍처 검색입니다.",
+      "sec3Eyebrow": "4가지 현대화 경로",
+      "sec3Heading": "현대화 접근 방식",
+      "sec3Subtext": "각 워크로드에 적합한 마이그레이션 패턴 선택: 재호스팅, 플랫폼 변경, 리팩터링 또는 교체.",
+      "sec4Eyebrow": "대상 변환 모델",
+      "sec4Heading": "최신 클라우드 아키텍처",
+      "sec4Subtext": "높은 확장성에 적합한 탄력적인 마이크로서비스, 관리형 데이터베이스 및 자동화된 배포 파이프라인을 설계합니다.",
+      "sec5Eyebrow": "변화의 결과",
+      "sec5Heading": "현대화의 주요 이점",
+      "sec5Subtext": "클라우드 네이티브 혁신을 통해 상당한 민첩성, 비용 절감, 안정성 혜택을 누릴 수 있습니다.",
+      "ctaHeading": "기존 애플리케이션을 클라우드용으로 현대화할 준비가 되셨습니까?",
+      "ctaDescription": "Rezonants 클라우드 설계자와 협력하여 종속성을 평가하고, 마이그레이션 로드맵을 구축하고, 시스템을 안전하게 전환하세요.",
+      "ctaButton": "클라우드 전문가와 상담하세요",
+      "sec1P1": "10년 전에 구축된 미션 크리티컬 애플리케이션은 여전히 ​​수십억 달러의 기업 수익을 창출하고 있지만 아키텍처의 경직성으로 인해 운영 위험이 커지고 있습니다.",
+      "sec1P2": "모든 기업은 안정성과 현대화 사이의 긴장에 직면해 있습니다. 레거시 시스템은 내구성을 고려하여 설계되었으며 수년 동안 안정적으로 작동했습니다. 그러나 비즈니스 요구 사항이 가속화됨에 따라 이러한 노후화된 아키텍처는 구조적 한계에 직면하게 됩니다.",
+      "sec1List": [
+        {
+          "bold": "노후화된 소프트웨어 스택:",
+          "text": "유지 관리에 사용할 수 있는 인재 풀이 줄어들고 더 이상 사용되지 않는 프레임워크를 기반으로 구축된 모놀리식 코드베이스입니다."
+        },
+        {
+          "bold": "어려운 유지 관리 주기:",
+          "text": "단일 기능을 변경하면 관련 없는 작동 모듈이 손상될 위험이 있는 긴밀하게 결합된 구성 요소입니다."
+        },
+        {
+          "bold": "제한된 확장성:",
+          "text": "계절별 트래픽 급증을 처리하기 위해 고가의 독점 하드웨어를 구입해야 하는 수직 확장 제한."
+        },
+        {
+          "bold": "통합 과제:",
+          "text": "취약한 배치 스크립트 없이는 최신 모바일 앱, 고객 포털 또는 파트너 API와 원활하게 인터페이스할 수 없습니다."
+        },
+        {
+          "bold": "인프라 제약:",
+          "text": "물리적 서버룸 수명주기, 백업 취약성 및 높은 전력/냉각 운영 비용."
+        }
+      ],
+      "sec2P1": "실용적인 현대화 여정은 기존 자산 전체에 대한 완전한 명확성을 확립하는 것에서 시작됩니다.",
+      "sec2List": [
+        {
+          "bold": "응용 프로그램:",
+          "text": "모든 활성 워크로드, 사용자 정의 모듈, 백그라운드 스크립트 및 기록 타사 패키지를 카탈로그화합니다."
+        },
+        {
+          "bold": "종속성:",
+          "text": "복잡한 런타임 결합, 공유 데이터베이스 테이블, 직접 파일 시스템 호출 및 외부 서비스 계약을 매핑합니다."
+        },
+        {
+          "bold": "데이터:",
+          "text": "데이터 구조, 트랜잭션 무결성 요구 사항, 백업 주기 및 규제 주권 규칙을 평가합니다."
+        },
+        {
+          "bold": "인프라:",
+          "text": "적절한 규모의 대상 클라우드 사양에 맞게 CPU, 메모리, 스토리지 활용도 및 네트워크 처리량을 감사합니다."
+        },
+        {
+          "bold": "비즈니스 중요성:",
+          "text": "애플리케이션을 계층으로 분류하여 명확한 대체 절차를 통해 안전하고 단계별로 마이그레이션을 설계합니다."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "장점:",
+      "cloudArchitectureBadge": "현대화 수명주기",
+      "cloudArchitectureTitle": "엔드 투 엔드 클라우드 현대화 흐름",
+      "sec4P1": "대상 아키텍처는 핵심 애플리케이션을 탄력적인 클라우드 플랫폼(예: Kubernetes 또는 관리형 서버리스 런타임)에서 호스팅되는 모듈식 컨테이너형 서비스로 분리합니다.",
+      "sec4P2": "자동화된 CI/CD 배포 파이프라인, 자동화된 블루-그린 컷오버, 코드형 인프라를 구축함으로써 배포가 긴장되는 주말 이벤트에서 원활한 일상으로 전환됩니다.",
+      "sec4P3": "탄력적 컴퓨팅은 수요가 급증하는 동안 자동으로 확장되고 소강 상태에서는 축소되어 유휴 리소스 비용을 제거하는 동시에 글로벌 사용자에게 1초 미만의 응답 시간을 보장합니다.",
+      "keyPerspectiveEyebrow": "현대화 모범 사례",
+      "keyPerspectiveTitle": "성공적인 마이그레이션의 네 가지 요소",
+      "keyPerspectiveLead": "경험에 따르면 현대화 프로젝트는 포괄적인 준비, 명확한 웨이브 시퀀싱 및 엄격한 테스트를 바탕으로 성공할 수 있습니다."
+    }
+  }
+}

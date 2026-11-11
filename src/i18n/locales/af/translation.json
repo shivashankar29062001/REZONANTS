@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Oor",
+    "services": "Dienste",
+    "products": "Produkte",
+    "perspectives": "Perspektiewe",
+    "technologies": "Tegnologieë",
+    "contact": "Kontak",
+    "signIn": "Teken in",
+    "signUp": "Teken in",
+    "signOut": "Teken uit",
+    "chooseLanguage": "Kies jou taal",
+    "searchLanguage": "Soek taal",
+    "resetEnglish": "Stel terug na Engels",
+    "noResults": "Geen tale gevind nie",
+    "englishDefault": "Engels (verstek)",
+    "english": "Engels"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Sagteware, ontwerp vir die manier waarop <em>jou besigheid</em> bedryf word.",
+    "description": "Rezonants is 'n maatskappy vir IT-dienste en digitale produkte. Ons ontwerp, bou en skaal pasgemaakte sagteware, web- en mobiele produkte, wolkinfrastruktuur en KI – vir maatskappye wat op uitvoering meeding.",
+    "bookConsultation": "Bespreek 'n gratis konsultasie",
+    "exploreServices": "Verken dienste",
+    "years": "jaar",
+    "projects": "projekte",
+    "retention": "retensie",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — sedert 2012",
+    "metaStudio": "Digitale produkateljee",
+    "metaTech": "Web · Selfoon · Wolk · KI"
+  },
+  "about": {
+    "eyebrow": "Oor ons",
+    "title": "Die bou van digitale oplossings <em>wat besighede vorentoe beweeg</em>",
+    "description": "Rezonants is 'n tegnologie-oplossingsmaatskappy wat daarop gefokus is om besighede te help om idees in betekenisvolle digitale ervarings te omskep. Ons kombineer tegnologie, kreatiwiteit en besigheidsbegrip om oplossings te lewer wat ontwerp is rondom werklike behoeftes.<br /><br />Van digitale transformasie en pasgemaakte sagteware-ontwikkeling tot wolk, KI, outomatisering en bestuurde tegnologiedienste, ons help organisasies om kompleksiteit te vereenvoudig, doeltreffendheid te verbeter en blywende digitale waarde te skep.<br /><br /><strong>Ons benadering is eenvoudig – om die besigheid te verstaan, te bou en die regte tegnologie op te los.",
+    "awardWinning": "Bekroonde",
+    "awardText": "Erken vir afleweringsuitnemendheid oor web- en mobiele produkingenieurswese.",
+    "professionalStaff": "Professionele personeel",
+    "staffText": "Senior, aanspreeklike ingenieurs wat die werk besit van die eerste oproep tot die ingebruikneming.",
+    "support247": "24/7 Ondersteuning",
+    "supportText": "Bestuurde dienste en 'n ondersteuningslyn wat antwoord wanneer jy dit nodig het.",
+    "fairPrices": "Billike pryse",
+    "pricesText": "Eerlike skattings en deursigtige fakturering op elke enkele betrokkenheid.",
+    "yearsExcellence": "Jare van ondernemingsuitnemendheid"
+  },
+  "stats": {
+    "happyClients": "Gelukkige kliënte",
+    "projectsDone": "Projekte gedoen",
+    "winAwards": "Wen toekennings"
+  },
+  "insights": {
+    "eyebrow": "Perspektiewe",
+    "title": "Perspektiewe",
+    "sub": "Verken idees, neigings en tegnologie wat die toekoms vorm.",
+    "filters": {
+      "all": "Almal",
+      "digital-transformation": "Digitale transformasie",
+      "ai": "KI en outomatisering",
+      "cloud": "Wolk",
+      "data": "Data en analise",
+      "software": "Sagteware",
+      "business": "Besigheid en Tegnologie"
+    },
+    "readMore": "Lees meer",
+    "close": "Maak toe",
+    "keyTakeaways": "Sleutel argitektoniese wegneemetes",
+    "relatedServices": "Verwante vermoëns en dienste",
+    "minRead": "min gelees",
+    "item1Date": "Julie 2026",
+    "item1Tag": "Produk en ERP",
+    "item1Title": "'n Modulêre ERP-benadering vir groeiende ondernemings",
+    "item1Text": "Hoe ons ERP-verbintenisse struktureer sodat finansies, voorraad, HR en verkryging naatloos kan integreer sonder meerjarige ontwrigting.",
+    "item2Date": "Junie 2026",
+    "item2Tag": "Kunsmatige Intelligensie",
+    "item2Title": "Agentiese KI-stelsels: beweeg van kletsbotte na outonome uitvoering",
+    "item2Text": "Argitektering van gekoördineerde multi-agent LLM-stelsels wat komplekse besigheidswerkvloeie beplan, valideer en uitvoer met mens-in-die-lus toesig.",
+    "item3Date": "Mei 2026",
+    "item3Tag": "Maatskappymylpaal",
+    "item3Title": "Word erken onder toonaangewende IT-innovasie-ateljees in Hyderabad",
+    "item3Text": "Ons ingenieursateljee is erken vir leweringsuitnemendheid, diepgaande tegnologiese vermoëns en kliëntetevredenheid oor wêreldwye produkingenieurswese.",
+    "desc": "Verken idees en perspektiewe van Rezonants oor digitale transformasie, KI, outomatisering, wolk, data, sagteware en die toekoms van besigheidstegnologie.",
+    "categories": {
+      "digitalTransformation": "Digitale transformasie",
+      "ai": "KI en outomatisering",
+      "cloud": "Wolk",
+      "data": "Data en analise",
+      "software": "Sagteware",
+      "business": "Besigheid en Tegnologie"
+    }
+  },
+  "technologies": {
+    "title": "Tegnologie en argitektuur",
+    "headline": "Ondernemingstegnologie-oplossings",
+    "sub": "Intelligente Tegnologie. Outomatiese bedrywighede. Slimmer besigheid.",
+    "selectTechnology": "Kies 'n tegnologie-oplossing...",
+    "options": {
+      "aiRobotics": "KI en robotika-oplossings",
+      "businessAutomation": "Besigheidsoutomatiseringsoplossings",
+      "cloudMigrations": "Wolk-migrasie-oplossings",
+      "dataCenters": "Datasentrumoplossings",
+      "cognitiveAnalytics": "Kognitiewe analise en KI",
+      "informationReporting": "Inligting- en Verslagdoeningstelsels",
+      "managedServices": "Bestuurde Dienste",
+      "oneStopSolutions": "Eenstop-tegnologie-oplossings"
+    },
+    "explore": "Verken Tegnologie",
+    "bookDiscovery": "Boek Tegnologie Ontdekking",
+    "exploreAll": "Verken alle tegnologieë",
+    "coreCapabilities": "Kerntegnologie-vermoëns",
+    "bookConsultation": "Bespreek 'n konsultasie"
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Praat met 'n senior ingenieur, nie 'n verkoopsskrif nie",
+    "sub": "Deel 'n bietjie oor jou projek en ons sal binne een werksdag reageer.",
+    "reachUs": "Bereik ons direk",
+    "preferConversation": "Verkies jy 'n gesprek? Ons is een oproep ver.",
+    "contactLede": "Die vinnigste manier om vorentoe te beweeg is 'n kort gesprek. Bereik ons ​​op enige kanaal hieronder, of bespreek 'n gleuf en ons kom voorbereid na jou toe.",
+    "phone": "Telefoon",
+    "email": "E-pos",
+    "office": "Kantoor",
+    "hours": "Ure",
+    "hoursValue": "Ma – Sa, 9:30 – 18:30 IST",
+    "bookSlot": "Bespreek 'n konsultasiegleuf",
+    "sendMessage": "Stuur vir ons 'n boodskap",
+    "fieldsRequired": "Velde gemerk met * word vereis.",
+    "fullName": "Volle Naam *",
+    "emailLabel": "E-pos *",
+    "company": "Maatskappy",
+    "subject": "Onderwerp",
+    "messageLabel": "Boodskap *",
+    "sending": "Stuur tans …",
+    "sendBtn": "Stuur boodskap",
+    "successMsg": "Boodskap gestuur! 'n Afskrif is per e-pos aan jou gestuur.",
+    "errorMsg": "Kon nie jou boodskap stoor nie. Kontroleer dat die contact_messages-tabel bestaan ​​en probeer dan weer.",
+    "offices": {
+      "vijayawada": "Vijayawada-kantoor",
+      "southAfrica": "Suid-Afrika Kantoor"
+    },
+    "placeholders": {
+      "fullName": "Jou volle naam",
+      "email": "jy@maatskappy.com",
+      "company": "Jou maatskappy of organisasie",
+      "subject": "Hoe kan ons help?",
+      "message": "Vertel ons van jou projek, tydlyn en doelwitte..."
+    },
+    "validation": {
+      "fullNameRequired": "Voer asseblief jou volle naam in.",
+      "emailRequired": "Voer asseblief jou e-posadres in.",
+      "emailInvalid": "Voer asseblief 'n geldige e-posadres in.",
+      "messageRequired": "Voer asseblief 'n boodskap in."
+    }
+  },
+  "services": {
+    "eyebrow": "Dienste",
+    "title": "Wat ons doen",
+    "sub": "Van strategie tot bestuurde bedrywighede, ons lewer end-tot-end tegnologie vennootskappe vir maatskappye wat meeding op uitvoering.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Begin tot ontplooiing",
+        "description": "End-tot-end ontwikkeling van nuwe digitale oplossings vanaf besigheidsvereistes en oplossingsargitektuur deur ontwikkeling, integrasie, toetsing, ontplooiing en deurlopende ondersteuning."
+      },
+      "businessProcessAutomation": {
+        "label": "Besigheidsproses-outomatisering",
+        "description": "Ontwerp en implementering van intelligente outomatiseringsoplossings wat besigheidsprosesse stroomlyn, herhalende handaktiwiteite uitskakel, bedryfsdoeltreffendheid verbeter en besigheidsuitkomste versnel."
+      },
+      "centerOfExcellence": {
+        "label": "Sentrum van Uitnemendheid",
+        "description": "Vestiging van gespesialiseerde tegnologie- en besigheidsvermoësentrums wat bestuur, standaarde, kundigheid, raamwerke, herbruikbare bates en voortdurende verbetering regoor die organisasie verskaf."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Pasgemaakte ontwikkeling en pasmaak",
+        "description": "Ontwikkeling en verbetering van toepassings, platforms, werkvloeie en ondernemingsoplossings om unieke besigheidsvereistes aan te spreek en pasgemaakte funksionaliteit te lewer."
+      },
+      "digitalTransformation": {
+        "label": "Digitale transformasie",
+        "description": "Modernisering van sakebedrywighede, tegnologie-ekosisteme en klante-ervarings deur wolk, KI, outomatisering, data en moderne toepassingstegnologieë."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Einde-tot-einde oplossingsraamwerk",
+        "description": "'n Omvattende afleweringsbenadering wat die volledige tegnologielewensiklus dek—van strategie, vereistes en argitektuur tot ontwikkeling, integrasie, ontplooiing, bestuur, monitering en ondersteuning."
+      },
+      "migrationModernization": {
+        "label": "Migrasie en modernisering",
+        "description": "Veilige en gestruktureerde migrasie van toepassings, data, platforms, infrastruktuur en werkladings van verouderde of bestaande omgewings na moderne, skaalbare en geoptimaliseerde tegnologieplatforms."
+      },
+      "pocPilotImplementation": {
+        "label": "Bewys van konsep (PoC) en loodsimplementering",
+        "description": "Vinnige ontwikkeling en validering van tegnologie-oplossings om tegniese uitvoerbaarheid, besigheidswaarde, integrasievereistes, werkverrigting en skaalbaarheid voor volskaalse implementering te assesseer."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Gedeelde dienste en bestuurde bedrywighede",
+        "description": "Gesentraliseerde lewering van tegnologie en operasionele vermoëns oor sake-eenhede heen deur gestandaardiseerde prosesse, vaardige hulpbronne, bestuursraamwerke, diensbestuur en meetbare diensvlakke."
+      },
+      "customDevelopment": {
+        "label": "Begin tot ontplooiing",
+        "description": "End-tot-end ontwikkeling van nuwe digitale oplossings vanaf besigheidsvereistes en oplossingsargitektuur deur ontwikkeling, integrasie, toetsing, ontplooiing en deurlopende ondersteuning."
+      },
+      "processAutomation": {
+        "label": "Besigheidsproses-outomatisering",
+        "description": "Ontwerp en implementering van intelligente outomatiseringsoplossings wat besigheidsprosesse stroomlyn, herhalende handaktiwiteite uitskakel, bedryfsdoeltreffendheid verbeter en besigheidsuitkomste versnel."
+      },
+      "solutionEngineering": {
+        "label": "Pasgemaakte ontwikkeling en pasmaak",
+        "description": "Ontwikkeling en verbetering van toepassings, platforms, werkvloeie en ondernemingsoplossings om unieke besigheidsvereistes aan te spreek en pasgemaakte funksionaliteit te lewer."
+      },
+      "endToEndSolutions": {
+        "label": "Einde-tot-einde oplossingsraamwerk",
+        "description": "'n Omvattende afleweringsbenadering wat die volledige tegnologielewensiklus dek—van strategie, vereistes en argitektuur tot ontwikkeling, integrasie, ontplooiing, bestuur, monitering en ondersteuning."
+      },
+      "migrationServices": {
+        "label": "Migrasie en modernisering",
+        "description": "Veilige en gestruktureerde migrasie van toepassings, data, platforms, infrastruktuur en werkladings van verouderde of bestaande omgewings na moderne, skaalbare en geoptimaliseerde tegnologieplatforms."
+      },
+      "pilotPrototyping": {
+        "label": "Bewys van konsep (PoC) en loodsimplementering",
+        "description": "Vinnige ontwikkeling en validering van tegnologie-oplossings om tegniese uitvoerbaarheid, besigheidswaarde, integrasievereistes, werkverrigting en skaalbaarheid voor volskaalse implementering te assesseer."
+      },
+      "sharedServices": {
+        "label": "Gedeelde dienste en bestuurde bedrywighede",
+        "description": "Gesentraliseerde lewering van tegnologie en operasionele vermoëns oor sake-eenhede heen deur gestandaardiseerde prosesse, vaardige hulpbronne, bestuursraamwerke, diensbestuur en meetbare diensvlakke."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Skeduleer 'n konsultasie",
+      "exploreFramework": "Verken oplossingsraamwerk",
+      "talkSeniorEngineer": "Praat met 'n Senior Ingenieur",
+      "exploreTechStack": "Verken Tegnologiestapel",
+      "bookPocSession": "Bespreek 'n PoC-ontdekkingsessie",
+      "seeAllServices": "Sien alle dienste",
+      "requestAssessment": "Versoek 'n migrasie-evaluering",
+      "exploreCloudSolutions": "Verken Wolk-oplossings"
+    },
+    "sharedServices": {
+      "heroBadge": "GEDEELDE DIENSTE EN BESTUURDE BEDRYWIGHEDE",
+      "heroTitle": "Ondernemings gedeelde dienste en bestuurde bedrywighede",
+      "heroDesc": "Skaal besigheidsvermoëns, stroomlyn kruisfunksionele werkvloeie, en bereik bedryfsuitnemendheid deur gestandaardiseerde, veilige en koste-effektiewe gedeelde diensmodelle.",
+      "bookDiscovery": "Boek Bestuurde Bedryf Discovery",
+      "exploreFramework": "Verken oplossingsraamwerk",
+      "coreCapabilities": "Kernvermoëns:",
+      "managedServices": "Bestuurde Dienste",
+      "itOperations": "IT-bedrywighede",
+      "appSupport": "Toepassingsondersteuning",
+      "serviceManagement": "Diensbestuur",
+      "resourceOptimization": "Hulpbronoptimalisering",
+      "slaManagement": "SLA Bestuur",
+      "governance": "Bestuur",
+      "continuousImprovement": "Deurlopende verbetering",
+      "costOptimization": "Koste-optimalisering",
+      "readyTitle": "Gereed om jou bedrywighede te optimaliseer?",
+      "readyDesc": "Ontdek hoe ons raamwerke vir gedeelde dienste en bestuurde bedrywighede diensgehalte kan verbeter, bedryfskontinuïteit kan verseker en volhoubare kostedoeltreffendheid vir jou onderneming kan aandryf.",
+      "scheduleSession": "Skeduleer 'n Ontdekkingsessie"
+    },
+    "solutionEngineering": {
+      "heroBadge": "OPLOSSING INGENIEURSWESE EN ARGITEKTUUR",
+      "heroTitle": "Pasgemaakte ontwikkeling en pasmaak",
+      "heroDesc": "Argitek, ingenieur en ontplooi hoëprestasie-sagtewarestelsels wat spesifiek ontwerp is vir jou operasionele werkvloeie, datapyplyne en skaalvereistes."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "VINNIGE INNOVASIE EN EKSPERIMENTASIE",
+      "heroTitle": "Bewys van konsep (PoC) en loodsimplementering",
+      "heroDesc": "Bekragtig ontluikende tegnologieë, verminder die risiko van komplekse argitekture, en bewys besigheidswaarde met produksiegraad-prototipes in weke, nie kwartale nie."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "LEWENSSIklusARGITEKTUUR & AFLEWERING",
+      "heroTitle": "End-tot-End-oplossingsraamwerk",
+      "heroDesc": "'n Eenvormige afleweringsmodel wat produkontdekking, oplossingargitektuur, ingenieurswese, wolkinfrastruktuur en 24/7-betroubaarheidsbedrywighede verbind."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTUUR EN LEGACY MODERNISASIE",
+      "heroTitle": "Migrasie en modernisering",
+      "heroDesc": "Skakel verouderde werkladings, monolitiese argitekture en infrastruktuur op die perseel naatloos oor na moderne, veilige en skaalbare wolkplatforms."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Ondernemingsmodernisering",
+        "titlePart1": "Digitaal",
+        "titlePart2": "Transformasie",
+        "description": "Modernisering van sakebedrywighede, tegnologie-ekosisteme en klante-ervarings deur wolk, KI, outomatisering, data en moderne toepassingstegnologieë.",
+        "bookWorkshop": "Boektransformasiewerkswinkel",
+        "exploreFramework": "Verken oplossingsraamwerk",
+        "startTransformation": "Begin transformasie",
+        "exploreStrategy": "Verken Strategie",
+        "coreCapabilitiesTitle": "Kernvermoëns",
+        "coreCapabilities": [
+          "Digitale Strategie",
+          "Wolktransformasie",
+          "KI en outomatisering",
+          "Toepassingsmodernisering",
+          "Erfenismodernisering",
+          "Data en analise",
+          "Kliënte-ervaring",
+          "Tegnologie-modernisering"
+        ],
+        "row1Eyebrow": "Strategie & Padkaart",
+        "row1Title": "Van visie tot uitvoerbare padkaart",
+        "row1P1": "Ons werk saam met ondernemingsleiers om digitale strategie, sakegevalle en gefaseerde padkaarte te definieer met vinnige oorwinnings en die risiko van uitvoering.",
+        "row1P2": "Geprioritiseerde inisiatiewe, TCO-modelle en KPI's verseker dat elke tegnologie-moderniseringspoging direk verband hou met inkomste, doeltreffendheid en kliëntetevredenheid-uitkomste.",
+        "row2Eyebrow": "Erfenismodernisering",
+        "row2Title": "Moderniseer sonder om die besigheid te breek",
+        "row2P1": "Her-platform monoliete na mikrodienste, API's en wolk-inheemse patrone met nul-stilstand-afsnypunte en outomatiese regressie-bekragtiging.",
+        "row2P2": "Ons moderniseer toepassings, databasisse en integrasielae terwyl ons voldoening en sekuriteitsposisie behou.",
+        "row3Eyebrow": "Wolk, KI en data",
+        "row3Title": "Wolk-aanneming en datagedrewe intelligensie",
+        "row3P1": "Neem AWS, Azure en GCP aan, bou moderne datapyplyne en sluit masjienleeragente in om outonome besluite te dryf.",
+        "row3P2": "Van intydse gebeurtenisstroming tot verenigde kontroleskerms, transformasie word meetbaar en volhoubaar.",
+        "row4Eyebrow": "Kliënte-ervaring",
+        "row4Title": "Moderne Omnichannel-ervarings",
+        "row4P1": "Herontwerp klantreise oor responsiewe web-, iOS-, Android- en selfdiensportale met gepersonaliseerde koppelvlakke.",
+        "row4P2": "Platformingenieurswese, telemetrie en outomatiese terugvoerlusse maak digitale innovasie deurlopend.",
+        "pillarsTitle": "Transformasiepilare",
+        "pillarsSub": "Uitkoms-gefokusde hefbome wat volhoubare digitale leierskap verseker.",
+        "pillar1Title": "Digitale Strategie en Bestuur",
+        "pillar1Desc": "Gefaseerde transformasie-bloudrukke met besigheidsgevalle-modellering, argitektuurbestuur en mylpaalrisiko-nasporing.",
+        "pillar2Title": "Wolk- en dataplatform",
+        "pillar2Desc": "AWS/Azure/GCP-multiwolk-fondamente, geoutomatiseerde pyplyne en ondernemingsdata-analise-aktivering.",
+        "pillar3Title": "KI en outomatisering",
+        "pillar3Desc": "Intelligente proses-outomatisering, kognitiewe KI-agente en voorspellende telemetrie om daaglikse bedrywighede te optimaliseer.",
+        "pillar4Title": "Kliënte-ervaring",
+        "pillar4Desc": "Hoë-omskakeling omnichannel digitale portale en persoonlike koppelvlakke gebou vir maksimum gebruiker retensie.",
+        "ctaTitle": "Gereed om jou onderneming te transformeer?",
+        "ctaSub": "Vennoot met Rezonants vir gefaseerde digitale transformasie sonder risiko gekoppel aan meetbare besigheidsuitkomste.",
+        "ctaButton": "Bespreek 'n digitale transformasie-oproep"
+      },
+      "customDevelopment": {
+        "eyebrow": "Einde-tot-einde Digitale Ingenieurswese",
+        "titlePart1": "Begin tot",
+        "titlePart2": "Ontplooiing",
+        "bookConsultation": "Bespreek 'n konsultasie",
+        "exploreEngineering": "Verken Solution Engineering"
+      },
+      "processAutomation": {
+        "eyebrow": "Intelligente prosesbewerkings",
+        "titlePart1": "Besigheidsproses",
+        "titlePart2": "Outomatisering",
+        "bookDiscovery": "Boekoutomatisering-ontdekking",
+        "exploreCoE": "Verken Sentrum van Uitnemendheid"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Sentrum van",
+        "titlePart2": "Uitnemendheid",
+        "bookConsultation": "Bespreek CoE-konsultasie",
+        "exploreCapabilities": "Verken vermoëns"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Voltooi Tegnologie-lewensiklus",
+        "titlePart1": "Einde-tot-Einde",
+        "titlePart2": "Oplossingsraamwerk",
+        "startJourney": "Begin jou lewensiklusreis",
+        "exploreTransformation": "Verken transformasie"
+      },
+      "migrationServices": {
+        "eyebrow": "Wolk- en infrastruktuurtransformasie",
+        "titlePart1": "Migrasie &",
+        "titlePart2": "Modernisering",
+        "planMigration": "Beplan jou migrasie",
+        "exploreTransformation": "Verken transformasie"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Vinnige validering en uitvoerbaarheid",
+        "titlePart1": "Bewys van konsep (PoC) &",
+        "titlePart2": "Loodsimplementering",
+        "initiateDiscovery": "Begin PoC Discovery",
+        "exploreDevelopment": "Verken pasgemaakte ontwikkeling"
+      },
+      "solutionEngineering": {
+        "badge": "Pasgemaakte digitale ingenieurswese",
+        "bookConsultation": "Bespreek 'n konsultasie",
+        "exploreCapabilities": "Verken vermoëns"
+      },
+      "sharedServices": {
+        "eyebrow": "Gesentraliseerde Bedryfsentrum",
+        "titlePart1": "Gedeelde Dienste &",
+        "titlePart2": "Bestuurde bedrywighede",
+        "bookDiscovery": "Boek Bestuurde Bedryf Discovery",
+        "exploreFramework": "Verken oplossingsraamwerk"
+      }
+    },
+    "coreCapabilities": "Kernvermoëns"
+  },
+  "products": {
+    "featured": "Uitstalprodukte",
+    "featuredSub": "Vereenvoudig bedrywighede, verbind spanne, outomatiseer prosesse en dryf slimmer besigheidsgroei aan.",
+    "seeAll": "Sien alle produkte",
+    "featuredProducts": "GESIEN PRODUKTE",
+    "meetAutonomous": "Ontmoet die outonome werksmag",
+    "meetAutonomousText": "Transformeer jou bedrywighede met KI-agente wat saam met jou span werk om komplekse, herhalende take te hanteer.",
+    "learnMore": "Kom meer te wete",
+    "erp": {
+      "title": "Een platform gereed vir enigiets",
+      "sub": "Bemagtiging van besighede met gekoppelde, intelligente en skaalbare ondernemingsbestuursoplossings.",
+      "explore": "Verken ERP-oplossings",
+      "gridTitle": "ERP-OPLOSSINGS",
+      "promoTitle": "Modulêre ERP vir groei",
+      "promoText": "Ontplooi modulêre ERP-kenmerke vinnig sonder die kompleksiteit van tradisionele meerjarige stelsels.",
+      "scheduleDemo": "Skedule Demo"
+    },
+    "it": {
+      "title": "IT-oplossings",
+      "sub": "Ondernemingsgraad-infrastruktuur, sekuriteit en DevOps-oplossings om jou besigheid aan die gang te hou.",
+      "explore": "Verken IT-oplossings",
+      "gridTitle": "IT-OPLOSSINGS",
+      "promoTitle": "Betroubare IT-infrastruktuur",
+      "promoText": "Bou 'n veerkragtige tegnologie-grondslag met bestuurde wolk-, sekuriteit- en DevOps-dienste.",
+      "getStarted": "Begin"
+    },
+    "crm": {
+      "title": "CRM-oplossings",
+      "sub": "Kliënteverhoudingsbestuur om verkoops-, ondersteunings- en bemarkingswerkvloeie te stroomlyn.",
+      "explore": "Verken CRM-oplossings",
+      "gridTitle": "CRM-OPLOSSINGS",
+      "promoTitle": "Sluit nog aanbiedings",
+      "promoText": "Bemagtig jou verkoops- en ondersteuningspanne met verenigde klantdata en intelligente outomatisering.",
+      "startTrial": "Begin gratis proeflopie"
+    },
+    "hrms": {
+      "title": "HRMS-oplossings",
+      "sub": "Menslikehulpbronbestuur wat betaalstaat, werwing, prestasie en werknemerbetrokkenheid dek.",
+      "explore": "Verken HRMS-oplossings",
+      "gridTitle": "HRMS-OPLOSSINGS",
+      "promoTitle": "Vereenvoudig HR-bedrywighede",
+      "promoText": "Outomatiseer HR-werkvloeie van werwing tot aftrede met 'n moderne, werknemer-eerste platform.",
+      "requestDemo": "Versoek demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Uitstalprodukte",
+      "erpSolutions": "ERP-oplossings",
+      "solutions": "OPLOSSINGS"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Intelligente outonome agente en gereedskap wat komplekse werkvloeie en kliëntbedrywighede outomatiseer."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Multi-wolk bestuursplatform wat werkverrigting, sekuriteit, voldoening en koste optimaliseer."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hibriede samewerking- en produktiwiteitsentrum met geïntegreerde taak-, klets- en dokumentbestuur."
+      },
+      "dataStream": {
+        "title": "Datastroom",
+        "description": "Intydse analise-enjin wat strome besigheidsgebeurtenisse omskep in bruikbare insigte."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Eenvormige ondernemingsargitektuur wat finansies, bates, HR, verkryging en voorraad verbind."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Werknemerervaringsplatform wat betaalstaat, voordele, prestasiebeoordelings en selfdiens dek."
+      },
+      "supplyChainIq": {
+        "title": "Voorsieningsketting-IK",
+        "description": "Intydse logistieke dop, outomatiese pakhuisbedrywighede en vraagvoorspelling."
+      },
+      "financeHub": {
+        "title": "Finansiële Hub",
+        "description": "Gevorderde grootboekbestuur, faktuurwerkvloei, outomatiese voldoening en intydse kontantvloeiverslae."
+      },
+      "cloudInfrastructure": {
+        "title": "Wolkinfrastruktuur",
+        "description": "Skaalbare wolkargitektuur, migrasie en bestuur oor AWS, Azure en GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Kuberveiligheidssuite",
+        "description": "Einde-tot-einde sekuriteitsmonitering, bedreigingopsporing en voldoeningsbestuur."
+      },
+      "devopsPipeline": {
+        "title": "DevOps-pyplyn",
+        "description": "CI/CD-outomatisering, containerisering en infrastruktuur-as-kode vir vinniger aflewering."
+      },
+      "managedItServices": {
+        "title": "Bestuurde IT-dienste",
+        "description": "24/7 infrastruktuurmonitering, insidentreaksie en proaktiewe instandhouding."
+      },
+      "salesCrm": {
+        "title": "Verkope CRM",
+        "description": "Pyplynbestuur, loodpunte, transaksienasporing en verkoopsvoorspelling in een platform."
+      },
+      "customerSupportHub": {
+        "title": "Kliëntedienssentrum",
+        "description": "Kaartjies, kennisbasis, regstreekse klets en omnichannel-ondersteuningsbestuur."
+      },
+      "marketingAutomation": {
+        "title": "Bemarkingsoutomatisering",
+        "description": "Veldtog-orkestrasie, e-pos-outomatisering, loodversorging en ontleding."
+      },
+      "customer360View": {
+        "title": "Kliënt 360 View",
+        "description": "Verenigde klantprofiele wat verkoops-, ondersteunings- en interaksiedata kombineer."
+      },
+      "coreHr": {
+        "title": "Kern HR",
+        "description": "Werknemerrekords, organisasiehiërargie, verlofbestuur en bywoningsnasporing."
+      },
+      "payrollCompliance": {
+        "title": "Betaalstaat en nakoming",
+        "description": "Outomatiese betaalstaatverwerking, belastingberekeninge en statutêre nakoming."
+      },
+      "performanceManagement": {
+        "title": "Prestasiebestuur",
+        "description": "OKR-nasporing, 360°-resensies, doelwitstelling en werknemerontwikkelingsplanne."
+      },
+      "recruitmentPortal": {
+        "title": "Werwingsportaal",
+        "description": "Werkplasings, aansoekeropsporing, onderhoudskedulering en aanboordwerkvloei."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Uitstalprodukte",
+        "heading": "Uitstalprodukte",
+        "sub": "Vereenvoudig bedrywighede, verbind spanne, outomatiseer prosesse en dryf slimmer besigheidsgroei aan.",
+        "promoTitle": "Ontmoet die outonome werksmag",
+        "promoText": "Transformeer jou bedrywighede met KI-agente wat saam met jou span werk om komplekse, herhalende take te hanteer.",
+        "items": [
+          {
+            "title": "KI-outomatisering en intelligente agente",
+            "description": "Outomatiseer herhalende take en ontplooi intelligente KI-agente wat produktiwiteit, besluitneming en besigheidsuitkomste verbeter."
+          },
+          {
+            "title": "IT-diens en digitale ondersteuning",
+            "description": "Lewer vinniger, slimmer IT-ondersteuning met vaartbelynde diensbestuur, outomatisering en digitale werkvloeie."
+          },
+          {
+            "title": "Onderneming KI Bestuur",
+            "description": "Bou verantwoordelike KI-aanneming met sterk bestuur, sekuriteit, nakoming, deursigtigheid en risikobeheer."
+          },
+          {
+            "title": "Intelligente IT-bedrywighede",
+            "description": "Transformeer IT-bedrywighede met KI-gedrewe monitering, outomatisering, voorspellende insigte en proaktiewe probleemoplossing."
+          },
+          {
+            "title": "Kliëntervaringbestuur",
+            "description": "Skep persoonlike klantreise met intelligente betrokkenheid, outomatisering, analise en naatlose digitale ervarings."
+          },
+          {
+            "title": "Besigheidstrategie en Portefeulje-optimalisering",
+            "description": "Belyn tegnologiebeleggings met besigheidsdoelwitte om portefeuljes te optimaliseer, doeltreffendheid te verbeter en volhoubare groei te dryf."
+          },
+          {
+            "title": "IT Bate & Tegnologie Lewensiklus",
+            "description": "Bestuur IT-bates regdeur hul lewensiklus met beter sigbaarheid, outomatisering, kostebeheer en tegnologiebeplanning."
+          },
+          {
+            "title": "Ondernemingsrisiko en -nakoming",
+            "description": "Identifiseer, assesseer en bestuur ondernemingsrisiko's terwyl voldoening, beheermaatreëls en organisatoriese veerkragtigheid versterk word."
+          },
+          {
+            "title": "Kuberveiligheid en bedreigingsbedrywighede",
+            "description": "Beskerm digitale omgewings met proaktiewe bedreigingsopsporing, sekuriteitsbedrywighede, insidentreaksie en deurlopende monitering."
+          },
+          {
+            "title": "Veldwerkmagoutomatisering",
+            "description": "Bemagtig veldspanne met intelligente skedulering, mobiele werkvloeie, outomatisering en intydse operasionele sigbaarheid."
+          },
+          {
+            "title": "Werknemerservaring en HR-dienste",
+            "description": "Vereenvoudig werknemerdienste met digitale werkvloeie, selfdiensoplossings, outomatisering en persoonlike werknemerervarings."
+          },
+          {
+            "title": "Eenvormige digitale werkplek",
+            "description": "Koppel mense, prosesse, toepassings en samewerkingsinstrumente deur 'n veilige, intelligente en naatlose digitale werkplek."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP-oplossings",
+        "heading": "Een platform, gereed vir enigiets",
+        "sub": "Bemagtiging van besighede met gekoppelde, intelligente en skaalbare ondernemingsbestuursoplossings.",
+        "promoTitle": "Modulêre ERP vir groei",
+        "promoText": "Ontplooi modulêre ERP-kenmerke vinnig sonder die kompleksiteit van tradisionele meerjarige stelsels.",
+        "items": [
+          {
+            "title": "Besigheidsproses-outomatisering",
+            "description": "Stroomlyn finansies, HR, verkope, verkryging en daaglikse bedrywighede."
+          },
+          {
+            "title": "Geïntegreerde Ondernemingsbestuur",
+            "description": "Koppel departemente, data en werkvloeie op 'n verenigde platform."
+          },
+          {
+            "title": "Finansies & Rekeningkunde",
+            "description": "Verbeter finansiële sigbaarheid, verslagdoening, begroting en voldoening."
+          },
+          {
+            "title": "HR & Payroll",
+            "description": "Vereenvoudig werknemerbestuur, bywoning, betaalstaat en HR-prosesse."
+          },
+          {
+            "title": "Voorsieningskettingbestuur",
+            "description": "Optimaliseer verkryging, voorraad, verskaffers en logistiek."
+          },
+          {
+            "title": "Verkope en kliëntebestuur",
+            "description": "Bestuur leidrade, kliënte, bestellings en verkoopsprestasie doeltreffend."
+          },
+          {
+            "title": "Intydse analise en verslagdoening",
+            "description": "Verander besigheidsdata in uitvoerbare insigte vir vinniger besluite."
+          },
+          {
+            "title": "Wolk ERP-oplossings",
+            "description": "Aktiveer veilige, skaalbare en toeganklike ondernemingsbestuur vanaf enige plek."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT-oplossings",
+        "heading": "Ons IT-oplossings",
+        "sub": "Transformeer IT-bedrywighede met intelligente, proaktiewe en skaalbare digitale oplossings wat werkverrigting, produktiwiteit en besigheidskontinuïteit verbeter.",
+        "promoTitle": "Betroubare IT-infrastruktuur",
+        "promoText": "Bou 'n veerkragtige tegnologie-grondslag met bestuurde wolk-, sekuriteit- en DevOps-dienste.",
+        "items": [
+          {
+            "title": "IT-diensbestuur",
+            "description": "Stroomlyn IT-dienste, voorvalle, versoeke en werkvloeie vir vinniger oplossing."
+          },
+          {
+            "title": "IT Bedryfsbestuur",
+            "description": "Monitor infrastruktuur en toepassings met proaktiewe, data-gedrewe IT-bedrywighede."
+          },
+          {
+            "title": "IT Batebestuur",
+            "description": "Bestuur tegnologiebates doeltreffend terwyl koste, risiko's en lewensikluskompleksiteit verminder word."
+          },
+          {
+            "title": "Ondernemingsargitektuur",
+            "description": "Belyn besigheidstrategie met die regte tegnologie-argitektuur en beleggings."
+          },
+          {
+            "title": "Wolkbestuur",
+            "description": "Verbeter wolksekuriteit, voldoening, werkverrigting en kostebestuur."
+          },
+          {
+            "title": "Digitale bedrywighede",
+            "description": "Outomatiseer IT-prosesse en kry intydse sigbaarheid oor jou tegnologie-omgewing."
+          },
+          {
+            "title": "Waarneembaarheid en monitering",
+            "description": "Bespeur prestasieprobleme vroegtydig en handhaaf betroubare digitale ervarings."
+          },
+          {
+            "title": "Strategiese Portefeuljebestuur",
+            "description": "Koppel IT-beleggings met besigheidsprioriteite en meetbare uitkomste."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM-oplossings",
+        "heading": "Ons CRM-oplossings",
+        "sub": "Lewer gekoppelde, persoonlike en intelligente klante-ervarings oor die hele klantreis.",
+        "promoTitle": "Sluit nog aanbiedings",
+        "promoText": "Bemagtig jou verkoops- en ondersteuningspanne met verenigde klantdata en intelligente outomatisering.",
+        "items": [
+          {
+            "title": "Kliëntediensbestuur",
+            "description": "Verbeter kliëntediens met vinniger resolusie, selfdiens en intelligente werkvloeie."
+          },
+          {
+            "title": "Verkoopsoutomatisering",
+            "description": "Outomatiseer verkoopsaktiwiteite, bestuur leidrade en help spanne om geleenthede vinniger te sluit."
+          },
+          {
+            "title": "Verkope en bestellingsbestuur",
+            "description": "Stroomlyn die reis van lood tot bestelling en verbeter inkomstesigbaarheid."
+          },
+          {
+            "title": "Velddiensbestuur",
+            "description": "Optimaliseer veldbedrywighede, skedulering, versending en tegnikusproduktiwiteit."
+          },
+          {
+            "title": "Bestuur van klante-ervaring",
+            "description": "Skep naatlose en persoonlike ervarings oor elke kliënt raakpunt."
+          },
+          {
+            "title": "CRM Analytics en insigte",
+            "description": "Verander klantdata in uitvoerbare insigte vir slimmer besigheidsbesluite."
+          },
+          {
+            "title": "Bemarkingsoutomatisering",
+            "description": "Outomatiseer veldtogte, klantbetrokkenheid en loodversorging."
+          },
+          {
+            "title": "KI-aangedrewe CRM",
+            "description": "Gebruik intelligente outomatisering en KI-insigte om produktiwiteit en klantbetrokkenheid te verbeter."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS-oplossings",
+        "heading": "Ons HRMS-oplossings",
+        "sub": "Bemagtig jou arbeidsmag met intelligente, geïntegreerde en outomatiese HR-oplossings wat werknemerbestuur vereenvoudig en die werkplekervaring verbeter.",
+        "promoTitle": "Vereenvoudig HR-bedrywighede",
+        "promoText": "Outomatiseer HR-werkvloeie van werwing tot aftrede met 'n moderne, werknemer-eerste platform.",
+        "items": [
+          {
+            "title": "Kern HR Bestuur",
+            "description": "Bestuur werknemerinligting, organisasiestrukture en HR-prosesse doeltreffend."
+          },
+          {
+            "title": "Betaalstaatbestuur",
+            "description": "Outomatiseer betaalstaat, salarisverwerking, aftrekkings en nakoming."
+          },
+          {
+            "title": "Werknemer Selfdiens",
+            "description": "Gee werknemers maklike toegang tot HR-dienste, versoeke, dokumente en inligting."
+          },
+          {
+            "title": "Bywonings- en verlofbestuur",
+            "description": "Vereenvoudig bywoningsnasporing, verlofversoeke, skofte en werksure."
+          },
+          {
+            "title": "Werwing en aanboord",
+            "description": "Stroomlyn aanstelling, kandidaatbestuur, aanboord en werknemerintegrasie."
+          },
+          {
+            "title": "Prestasiebestuur",
+            "description": "Stel doelwitte, volg prestasie, en ondersteun deurlopende werknemerontwikkeling."
+          },
+          {
+            "title": "Leer en Ontwikkeling",
+            "description": "Bestuur opleidingsprogramme, vaardigheidsontwikkeling en werknemersgroei."
+          },
+          {
+            "title": "HR-analise en -verslagdoening",
+            "description": "Verander werksmagdata in uitvoerbare insigte vir beter HR-besluite."
+          },
+          {
+            "title": "KI-aangedrewe HR-outomatisering",
+            "description": "Outomatiseer herhalende HR-take en lewer vinniger, persoonlike werknemerervarings."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Toepassingsontwikkeling",
+        "heading": "Ons App Ontwikkelingsdienste",
+        "sub": "Bou veilige, skaalbare en hoëprestasie-toepassings wat besigheidsgroei versnel en komplekse prosesse vereenvoudig.",
+        "promoTitle": "Bou toepassings wat gebruikers liefhet",
+        "promoText": "Van idee tot bekendstelling, ons span ontwerp en ontwikkel hoëgehalte mobiele en webtoepassings wat skaal.",
+        "items": [
+          {
+            "title": "Pasgemaakte toepassingsontwikkeling",
+            "description": "Bou pasgemaakte toepassings wat ontwerp is rondom jou unieke besigheidsvereistes."
+          },
+          {
+            "title": "Ontwikkeling van web en mobiele toepassings",
+            "description": "Lewer naatlose digitale ervarings oor web, selfoon en verskeie toestelle."
+          },
+          {
+            "title": "Ondernemingstoepassingsontwikkeling",
+            "description": "Ontwikkel skaalbare oplossings wat met jou bestaande besigheidstelsels integreer."
+          },
+          {
+            "title": "Lae-kode en geen-kode ontwikkeling",
+            "description": "Versnel toepassingslewering met buigsame laekode-ontwikkelingsplatforms."
+          },
+          {
+            "title": "API en stelselintegrasie",
+            "description": "Koppel toepassings, platforms en derdepartystelsels vir naatlose datavloei."
+          },
+          {
+            "title": "Toepassingsmodernisering",
+            "description": "Transformeer verouderde toepassings in moderne, skaalbare en doeltreffende oplossings."
+          },
+          {
+            "title": "KI-aangedrewe toepassings",
+            "description": "Integreer KI, outomatisering en intelligente vermoëns in besigheidstoepassings."
+          },
+          {
+            "title": "Toepassingsondersteuning en -instandhouding",
+            "description": "Verseker deurlopende werkverrigting, sekuriteit, opdaterings en betroubaarheid."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "KI en robotika",
+    "businessAutomation": "Besigheidsoutomatisering",
+    "cloudMigrations": "Wolkmigrasies",
+    "dataCenters": "Datasentrums",
+    "cognitiveAnalyticsAi": "Kognitiewe analise en KI",
+    "informationReportingSystems": "Inligting- en Verslagdoeningstelsels",
+    "managedServices": "Bestuurde Dienste",
+    "oneStopSolutions": "Eenstopoplossings"
+  },
+  "servicePage": {
+    "serviceOverview": "Diensoorsig",
+    "whatWeOffer": "Wat ons bied",
+    "whyChooseRezonants": "Waarom Rezonants kies",
+    "benefitsOfWorking": "Voordele om saam met ons te werk",
+    "techStack": "Tegniese stapel",
+    "technologiesWeUse": "Tegnologieë wat ons gebruik",
+    "ourWork": "Ons Werk",
+    "relatedProjects": "Verwante projekte",
+    "viewCaseStudy": "Bekyk gevallestudie",
+    "readyToDiscuss": "Gereed om jou {{title}}-projek te bespreek?",
+    "seniorEngineersReady": "Ons senior ingenieurs is gereed om jou te help om jou oplossing te beplan, ontwerp en bou.",
+    "startProject": "Begin jou projek",
+    "howItWorks": "Hoe dit werk"
+  },
+  "consultation": {
+    "badge": "Bespreek 'n gratis konsultasie",
+    "title": "Kom ons beplan jou projek <span class='hero-accent'>Saam</span>",
+    "description": "Beplan 'n geen-verpligtinge oproep met ons konsultante. Bespreek jou vereistes, verken die regte tegniese benadering en kry 'n duidelike kwotasie - alles binne minder as 30 minute.",
+    "bookSlot": "Bespreek jou slot",
+    "howItWorks": "Hoe dit werk",
+    "accountRequired": "Rekening vereis",
+    "signInToBook": "Meld aan om jou konsultasie te bespreek",
+    "accountRequiredText": "Jy het 'n Rezonants-rekening nodig om 'n konsultasie te versoek. Meld aan of skep een - dit neem minder as 'n minuut.",
+    "signInToContinue": "Meld aan om voort te gaan",
+    "newToRezonants": "Nuut by Rezonants?",
+    "createAccount": "Skep 'n rekening",
+    "requestMeeting": "Versoek 'n vergadering",
+    "tellUsAboutProject": "Vertel ons van jou projek",
+    "fillDetails": "Vul jou besonderhede in en ons sal jou konsultasiegleuf per e-pos bevestig.",
+    "fullName": "Volle Naam *",
+    "email": "E-pos *",
+    "phone": "Telefoon *",
+    "company": "Maatskappy",
+    "serviceOfInterest": "Diens van belang *",
+    "selectService": "Kies 'n diens...",
+    "preferredDate": "Voorkeurdatum *",
+    "preferredTime": "Voorkeurtyd *",
+    "selectTimeSlot": "Kies 'n tydgleuf...",
+    "estimatedBudget": "Geskatte begroting",
+    "selectRange": "Kies 'n reeks...",
+    "projectRequirements": "Projekvereistes",
+    "booking": "Bespreking...",
+    "bookFreeConsultation": "Bespreek my gratis konsultasie",
+    "freeNote": "100% gratis en geen verpligting nie. Ons reageer gewoonlik binne 24 uur.",
+    "whatToExpect": "Wat om te verwag",
+    "preferToReachUs": "Verkies om ons direk te bereik?",
+    "callUs": "Bel ons",
+    "emailUs": "E-pos ons",
+    "visitUs": "Besoek ons",
+    "whyBookWithUs": "Waarom by ons bespreek",
+    "freeCallTitle": "'n Gratis oproep wat eintlik help",
+    "freeCallNoPressure": "Gratis oproep, geen druk nie",
+    "freeCallNoPressureText": "Elke eerste konsultasie is gratis. Daar is geen verpligting om te koop nie - net eerlike advies.",
+    "seniorConsultants": "Slegs Senior Konsultante",
+    "seniorConsultantsText": "Jou vergadering word gelei deur senior ingenieurs en konsultante wat bou vir 'n lewe.",
+    "clearTimelines": "Maak tydlyne en aanhalings duidelik",
+    "clearTimelinesText": "Gaan weg met 'n gedefinieerde volgende stap, realistiese tydlyn en deursigtige pryse vir jou projek.",
+    "services": {
+      "customSoftware": "Pasgemaakte sagteware-ontwikkeling",
+      "webMobile": "Web- en mobiele toepassingontwikkeling",
+      "cloudDevops": "Wolk- en DevOps-oplossings",
+      "aiMl": "KI en masjienleer",
+      "itConsulting": "IT-konsultasie",
+      "digitalMarketing": "Digitale Bemarking en SEO",
+      "erpSolutions": "ERP-oplossings",
+      "other": "Ander / Nog nie seker nie"
+    },
+    "budgets": {
+      "under1L": "Onder ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Nog nie besluit nie"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Verstaan jou doelwitte",
+        "text": "Ons luister eerste. 'n Oproep van 30 minute om jou besigheidsbehoeftes, gehoor en gewenste uitkomste te karteer."
+      },
+      "technicalDirection": {
+        "title": "Kry tegniese rigting",
+        "text": "Ons ingenieurs deel die regte argitektuur, stapel en benadering vir jou projek."
+      },
+      "clearQuote": {
+        "title": "Ontvang 'n duidelike kwotasie",
+        "text": "Stap weg met 'n deursigtige skatting, tydlyn en volgende stappe — geen verpligting nie."
+      }
+    },
+    "validation": {
+      "nameRequired": "Volle naam word vereis.",
+      "emailRequired": "E-pos word vereis.",
+      "emailInvalid": "Voer 'n geldige e-posadres in.",
+      "phoneRequired": "Telefoonnommer word vereis.",
+      "phoneInvalid": "Voer 'n geldige telefoonnommer in.",
+      "serviceRequired": "Kies asseblief 'n diens.",
+      "dateRequired": "Kies 'n voorkeurdatum.",
+      "timeRequired": "Kies 'n voorkeurtydgleuf.",
+      "messageTooShort": "Voeg 'n bietjie meer detail by (ten minste 10 karakters).",
+      "signInRequired": "Meld asseblief aan om jou konsultasie te bespreek.",
+      "couldNotBook": "Kon nie jou konsultasie bespreek nie. Maak seker dat die konsultasietabel bestaan ​​en probeer dan weer.",
+      "bookedSuccess": "Konsultasie bespreek! Ons span sal binnekort jou tydgleuf per e-pos bevestig."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Welkom terug",
+    "createAccount": "Skep rekening",
+    "forgotPassword": "Wagwoord vergeet",
+    "createNewPassword": "Skep nuwe wagwoord",
+    "welcomeBackDesc": "Meld aan by jou Rezonants-rekening.",
+    "createAccountDesc": "Sluit vandag by Rezonants aan.",
+    "forgotDesc": "Voer jou e-posadres in en ons sal vir jou 'n skakel stuur om jou wagwoord terug te stel.",
+    "recoveryDesc": "Kies 'n sterk nuwe wagwoord vir jou rekening.",
+    "fullName": "Volle Naam",
+    "email": "E-pos",
+    "password": "Wagwoord",
+    "newPassword": "Nuwe wagwoord",
+    "confirmPassword": "Bevestig wagwoord",
+    "confirmNewPassword": "Bevestig nuwe wagwoord",
+    "forgotPasswordLink": "Wagwoord vergeet?",
+    "privacyPolicy": "Ek aanvaar die Rezonants <1>Privaatheid en Sekuriteit</1> beleid.",
+    "sendResetLink": "Stuur terugstelskakel",
+    "signIn": "Teken in",
+    "signUp": "Registreer",
+    "pleaseWait": "Wag asseblief...",
+    "rememberedPassword": "Het jy jou wagwoord onthou?",
+    "signInLink": "Meld aan",
+    "noAccount": "Het jy nie 'n rekening nie?",
+    "signUpLink": "Teken in",
+    "hasAccount": "Het jy reeds 'n rekening?",
+    "changedMind": "Het jy van plan verander?",
+    "backToSignIn": "Terug om aan te meld",
+    "resetSent": "Wagwoord-terugstel skakel gestuur! Gaan jou e-pos na om 'n nuwe wagwoord te skep.",
+    "passwordUpdated": "Jou wagwoord is opgedateer. Meld aan met jou nuwe wagwoord.",
+    "accountCreated": "Rekening geskep! Gaan jou e-pos na om jou aansluiting te bevestig en meld dan aan.",
+    "validation": {
+      "fullNameRequired": "Volle naam word vereis.",
+      "emailRequired": "E-pos word vereis.",
+      "emailInvalid": "Voer 'n geldige e-posadres in.",
+      "passwordRequired": "Wagwoord word vereis.",
+      "passwordMinLength": "Wagwoord moet ten minste 6 karakters wees.",
+      "passwordsNoMatch": "Wagwoorde stem nie ooreen nie.",
+      "acceptTerms": "Aanvaar asseblief die Rezonants Privaatheidsbeleid en Sekuriteitsbeleid om voort te gaan."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Gesels met Rezonants AI",
+    "openChatLabel": "Maak die Rezonants AI Assistant-klets oop",
+    "chatTitle": "Rezonants AI Assistent",
+    "online": "Aanlyn",
+    "expandLabel": "Brei die kletsbot uit",
+    "minimizeLabel": "Minimaliseer die kletsbot",
+    "closeLabel": "Maak die kletsbot toe",
+    "expand": "Brei uit",
+    "minimize": "Minimaliseer",
+    "close": "Maak toe",
+    "popularTopics": "Gewilde onderwerpe",
+    "askPlaceholder": "Vra my oor Rezonants...",
+    "messageLabel": "Stuur 'n boodskap aan die Rezonants AI-assistent",
+    "sendLabel": "Stuur boodskap",
+    "sendTitle": "Stuur boodskap",
+    "enterToSend": "Enter om te stuur · Shift+Enter vir 'n nuwe reël",
+    "newChat": "Nuwe klets",
+    "typing": "Rezonants KI tik",
+    "menuOptions": "Kieslys opsies",
+    "greetingMorning": "Goeiemôre",
+    "greetingAfternoon": "Goeie middag",
+    "greetingEvening": "Goeienaand",
+    "welcomeText": "! 👋 Welkom by Rezonants.\nEk is die Rezonants AI Assistant. Ek kan jou help om ons dienste, tegnologieë en kontakinligting te verken."
+  },
+  "cookieConsent": {
+    "title": "Ons waardeer jou privaatheid",
+    "description": "Ons gebruik koekies om jou blaai-ervaring te verbeter. Jy kan alle koekies aanvaar, nie-noodsaaklike koekies verwerp, of jou voorkeure pasmaak. Noodsaaklike koekies word altyd geaktiveer om te verseker dat die webwerf korrek funksioneer.",
+    "acceptAll": "Aanvaar alles",
+    "rejectNonEssential": "Verwerp Nie-noodsaaklik",
+    "managePreferences": "Bestuur voorkeure",
+    "privacyPolicy": "Privaatheidsbeleid"
+  },
+  "cookiePreferences": {
+    "title": "Bestuur koekievoorkeure",
+    "description": "Kies watter kategorieë koekies jy toelaat. Noodsaaklike webkoekies bly geaktiveer om die webwerf te laat funksioneer.",
+    "essential": "Noodsaaklik",
+    "essentialDesc": "Vereis vir die webwerf om te funksioneer (verifikasie, sekuriteit, vragbalansering). Hierdie kan nie gedeaktiveer word nie.",
+    "analytics": "Ontleding",
+    "analyticsDesc": "Help ons om te verstaan hoe besoekers die webwerf gebruik sodat ons dit kan verbeter. By verstek gedeaktiveer.",
+    "marketing": "Bemarking",
+    "marketingDesc": "Word gebruik om vir jou relevante aanbiedinge en veldtogte te wys. By verstek gedeaktiveer.",
+    "cancel": "Kanselleer",
+    "savePreferences": "Stoor voorkeure"
+  },
+  "privacy": {
+    "badge": "Wettig",
+    "title": "Privaatheidsbeleid",
+    "description": "Hoe Rezonants jou persoonlike inligting en koekies insamel, gebruik en beskerm.",
+    "lastUpdated": "Laas opgedateer: Augustus 2026",
+    "managingPreferences": "Bestuur jou voorkeure",
+    "managingPreferencesDesc": "Jy kan enige tyd van die koekievoorkeurpaneel nagaan of verander watter koekies jy toelaat.",
+    "manageCookiePreferences": "Bestuur koekievoorkeure",
+    "section1": {
+      "title": "1. Inligting wat ons versamel",
+      "body": [
+        "Ons samel inligting in wat jy direk verskaf (soos jou naam en e-posadres wanneer jy die kontakvorm indien of 'n rekening skep) en inligting wat outomaties ingesamel word deur koekies en soortgelyke tegnologieë, soos bladsye wat besoek is, toesteltipe en benaderde ligging."
+      ]
+    },
+    "section2": {
+      "title": "2. Hoe ons koekies gebruik",
+      "body": [
+        "Noodsaaklike webkoekies is altyd geaktiveer omdat die webwerf nie korrek kan funksioneer daarsonder nie. Hulle stoor sessie- en stawingstatus en onthou jou koekievoorkeure.",
+        "Analytics-koekies help ons om te verstaan ​​hoe besoekers die webwerf gebruik sodat ons dit kan verbeter. Bemarkingskoekies word gebruik om vir jou relevante aanbiedinge en veldtogte te wys. Hierdie kategorieë word slegs geaktiveer met jou toestemming en kan enige tyd vanaf die koekievoorkeurpaneel verander word."
+      ]
+    },
+    "section3": {
+      "title": "3. Regsgrondslag (GDPR)",
+      "body": [
+        "Ons verwerk persoonlike data op die volgende regsbasisse: jou toestemming (vir nie-noodsaaklike koekies en bemarking), uitvoering van 'n kontrak (vir dienste wat jy versoek), wetlike verpligting en wettige belange waar jou regte dit nie ignoreer nie. U kan toestemming te eniger tyd terugtrek sonder om die wettigheid van verwerking wat voor onttrekking uitgevoer is, te beïnvloed."
+      ]
+    },
+    "section4": {
+      "title": "4. Jou regte",
+      "body": [
+        "Afhangende van jou ligging, het jy dalk die reg om toegang te verkry, reg te stel, uit te vee of die verwerking van jou persoonlike data te beperk, om beswaar te maak teen verwerking en om data-oordraagbaarheid. Jy kan ook 'n klag by jou plaaslike toesighoudende owerheid indien."
+      ]
+    },
+    "section5": {
+      "title": "5. Databewaring en sekuriteit",
+      "body": [
+        "Ons behou persoonlike data net so lank as wat nodig is vir die doeleindes wat in hierdie beleid beskryf word. Ons pas toepaslike tegniese en organisatoriese maatreëls toe om jou inligting teen ongemagtigde toegang, verandering, openbaarmaking of vernietiging te beskerm."
+      ]
+    },
+    "section6": {
+      "title": "6. Derdepartydienste",
+      "body": [
+        "Sommige koekies kan deur derdeparty-verskaffers (soos ontledings- of advertensieplatforms) gestel word wat ons help om die webwerf te bedryf. Hierdie verskaffers verwerk data onder hul eie privaatheidsbeleide en slegs wanneer jy tot die betrokke kategorie ingestem het."
+      ]
+    },
+    "contactUs": "7. Kontak ons",
+    "contactUsText": "Vir vrae oor hierdie beleid of jou persoonlike data, kontak ons by <1>info@rezonants.com</1> of bel <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Dienste",
+    "title": "Ons dienste",
+    "sub": "End-tot-end tegnologie-oplossings wat ontwerp is om besighede te help om te innoveer, skaal en suksesvol te wees.",
+    "learnMore": "Kom meer te wete",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Begin tot ontplooiing",
+        "text": "Van aanvanklike konsep tot produksie-ontplooiing, lewer ons skaalbare oplossings wat gebou is vir werklike besigheidsbehoeftes."
+      },
+      "businessProcessAutomation": {
+        "title": "Besigheidsproses-outomatisering",
+        "text": "Stroomlyn herhalende prosesse en verbeter bedryfsdoeltreffendheid deur intelligente besigheidsoutomatisering."
+      },
+      "centerOfExcellence": {
+        "title": "Sentrum van Uitnemendheid",
+        "text": "Bou gespesialiseerde tegnologiese vermoëns en kundigheid om innovasie, kwaliteit en voortdurende verbetering aan te dryf."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Pasgemaakte ontwikkeling en pasmaak",
+        "text": "Gepasmaakte sagteware-oplossings wat ontwerp is rondom jou unieke besigheidsvereistes en werkvloeie."
+      },
+      "digitalTransformation": {
+        "title": "Digitale transformasie",
+        "text": "Moderniseer jou besigheid met digitale strategieë, tegnologieë en oplossings wat meetbare impak skep."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Einde-tot-einde oplossingsraamwerk",
+        "text": "Geïntegreerde tegnologie-oplossings wat strategie, ontwikkeling, implementering en deurlopende bedrywighede verbind."
+      },
+      "migrationModernization": {
+        "title": "Migrasie en modernisering",
+        "text": "Moderniseer verouderde toepassings en migreer stelsels na skaalbare, veilige en doeltreffende tegnologieplatforms."
+      },
+      "pocPilotImplementation": {
+        "title": "Bewys van konsep (PoC) en loodsimplementering",
+        "text": "Bekragtig idees vinnig deur gefokusde prototipes en loodsimplementerings voor volskaalse ontplooiing."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Gedeelde dienste en bestuurde bedrywighede",
+        "text": "Betroubare bestuurde tegnologie-bedrywighede wat werkverrigting, skaalbaarheid en besigheidskontinuïteit verbeter."
+      }
+    }
+  },
+  "footer": {
+    "company": "Maatskappy",
+    "about": "Oor",
+    "perspectives": "Perspektiewe",
+    "technologies": "Tegnologieë",
+    "contact": "Kontak",
+    "services": "Dienste",
+    "getInTouch": "Kontak",
+    "bookConsultation": "Bespreek 'n konsultasie",
+    "copyright": "© {{year}} Rezonants. Alle regte voorbehou.",
+    "cookiePreferences": "Koekievoorkeure",
+    "privacyPolicy": "Privaatheidsbeleid",
+    "description": "Rezonants is 'n maatskappy vir IT-dienste en digitale produkte in Hyderabad, Indië. Ons ontwerp, bou en skaal sagteware vir maatskappye wat op uitvoering meeding.",
+    "locations": "Ons liggings",
+    "indiaHq": "Hyderabad, Indië — Indië Hoofkwartier",
+    "southAfrica": "Suid-Afrika — REZONANTS (EDMS) BPK",
+    "products": "Produkte",
+    "followUs": "Volg ons",
+    "aboutUs": "Oor ons",
+    "contactUs": "Kontak ons",
+    "headline": "Kom ons bou",
+    "headlineAccent": "wat is volgende.",
+    "subheadline": "Vennoot met Rezonants om idees in werklike besigheidsimpak te omskep.",
+    "credoIdeas": "IDEES",
+    "credoSolutions": "OPLOSSINGS",
+    "credoPeople": "MENSE",
+    "credoBrighterTomorrow": "'N HELDER MORE",
+    "hyderabadLocation": "Hyderabad, Indië",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Suid-Afrika – REZONANTS (EDMS) BPK",
+    "termsOfUse": "Gebruiksvoorwaardes",
+    "accessibility": "Toeganklikheid",
+    "quickLinks": "Vinnige skakels",
+    "explore": "Verken",
+    "vijayawadaOffice": "Vijayawada-kantoor",
+    "allRightsReserved": "Alle regte voorbehou.",
+    "hyderabadPin": "Hyderabad, Indië",
+    "southAfricaPin": "Suid-Afrika"
+  },
+  "common": {
+    "loading": "Laai tans...",
+    "error": "Fout",
+    "retry": "Probeer weer",
+    "close": "Sluit",
+    "backToTop": "Terug na bo",
+    "skipToContent": "Slaan oor na inhoud",
+    "scroll": "Blaai",
+    "whatWeOffer": "Wat ons bied",
+    "howItWorks": "Hoe dit werk"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Soek land of kode …",
+    "noResults": "Geen lande gevind nie.",
+    "countryCodeLabel": "Landoproepkode",
+    "required": "Telefoonnommer word vereis.",
+    "incomplete": "Telefoonnommer moet presies {{count}} syfers bevat.",
+    "tooLong": "Telefoonnommer kan nie meer as {{count}} syfers bevat nie.",
+    "invalid": "Voer 'n geldige telefoonnommer vir {{country}} in."
+  },
+  "perspectives": {
+    "topic": "Onderwerp:",
+    "published": "Gepubliseer:",
+    "readingTime": "Leestyd:",
+    "author": "Skrywer:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Tegnologie-area",
+    "purpose": "Doel",
+    "talkToExperts": "Praat met ons kundiges",
+    "viewAll": "Bekyk alle perspektiewe",
+    "exploreMore": "VERKEN MEER PERSPEKTIEWE",
+    "continueExploring": "Gaan voort om ondernemingstegnologie-insigte te verken",
+    "readPerspective": "Lees Perspektief"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "KI en robotika-oplossings",
+      "tagline": "Intelligente Tegnologie. Outomatiese bedrywighede. Slimmer besigheid.",
+      "heroBadge": "Intelligente outonome stelsels",
+      "overview": [
+        "Kunsmatige intelligensie en robotika verander die manier waarop organisasies funksioneer, besluite neem en waarde lewer. Ons KI- en robotika-oplossings help besighede om verder as tradisionele outomatisering te beweeg deur kunsmatige intelligensie, masjienleer, rekenaarvisie, intelligente proses-outomatisering en robotika te kombineer om praktiese besigheidsuitdagings op te los.",
+        "Ons ontwerp intelligente oplossings rondom meetbare besigheidsuitkomste. Of die vereiste is om herhalende werk te outomatiseer, groot volumes inligting te ontleed, patrone op te spoor, besluite te ondersteun, of robotika in bedryfsomgewings in te voer, ons benadering fokus op betroubaarheid, skaalbaarheid, sekuriteit en langtermyn besigheidswaarde."
+      ],
+      "transformation": [
+        "Moderne organisasies genereer enorme hoeveelhede data en voer elke dag duisende herhalende aktiwiteite uit. KI en robotika kan hierdie aktiwiteite omskep in intelligente, geoutomatiseerde werkvloeie wat produktiwiteit verbeter terwyl werknemers in staat stel om op hoërwaarde-verantwoordelikhede te fokus.",
+        "Ons oplossings kan organisasies help om herhalende bedrywighede te outomatiseer, handmatige ingryping te verminder, akkuraatheid te verbeter, komplekse inligting te ontleed, vinniger besluite te ondersteun, hulpbronbenutting te optimaliseer, kliëntervarings te verbeter en skaalbare intelligente stelsels te bou."
+      ],
+      "capabilities": [
+        {
+          "title": "Kunsmatige Intelligensie",
+          "desc": "Ons ontwikkel KI-gedrewe oplossings wat stelsels in staat stel om inligting te verstaan, patrone te identifiseer, insigte te genereer en besigheidsbesluite te ondersteun."
+        },
+        {
+          "title": "Masjienleer",
+          "desc": "Ons ontwikkel masjienleermodelle vir voorspelling, klassifikasie, aanbevelingstelsels, anomalie-opsporing, voorspellende analise en intelligente besluitondersteuning."
+        },
+        {
+          "title": "Natuurlike Taalverwerking",
+          "desc": "NLP kan gebruik word om dokumente te verwerk, teks te verstaan, inligting te klassifiseer, relevante inhoud te onttrek en gesprekstoepassings te ondersteun."
+        },
+        {
+          "title": "Rekenaarvisie",
+          "desc": "Rekenaarvisie-oplossings kan beeldklassifikasie, objekbespeuring, kwaliteit-inspeksie, dokumentverwerking, visuele monitering en video-analise ondersteun."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotika kombineer sagteware-intelligensie met fisiese stelsels om aktiwiteite te outomatiseer wat tradisioneel handmatige inspanning vereis. Aansoeke kan vervaardiging, logistiek, pakhuise, inspeksie, materiaalhantering en operasionele ondersteuning insluit."
+        },
+        {
+          "title": "Intelligente proses-outomatisering",
+          "desc": "KI kan gekombineer word met werkvloei-outomatisering om stelsels te skep wat inligting interpreteer, besigheidsreëls of modelle toepas, en die toepaslike proses outomaties begin."
+        }
+      ],
+      "lifecycleSteps": [
+        "Besigheidsevaluering",
+        "Data-analise",
+        "KI-strategie",
+        "Oplossingsargitektuur",
+        "Ontwikkeling",
+        "Integrasie",
+        "Toets",
+        "Ontplooiing",
+        "Monitering",
+        "Optimalisering"
+      ],
+      "benefits": [
+        "Hoër onderneming se bedryfsproduktiwiteit",
+        "Aansienlike vermindering in bedryfskoste",
+        "Vinniger verwerking en millisekonde besluit omkeer",
+        "Verbeterde data en werkvloei akkuraatheid",
+        "Geoptimaliseerde fisiese en rekenaarhulpbronbenutting",
+        "Verminderde operasionele risiko's en menslike foute",
+        "Naatlose multi-platform skaalbaarheid",
+        "Verbeterde kliënt- en werknemerervarings"
+      ],
+      "security": "Ondernemings-KI-oplossings moet ontwerp word met toepaslike sekuriteit, toegangskontroles, databeskerming, monitering, modelbestuur en operasionele voorsorgmaatreëls. Ons oorweeg hierdie vereistes vanaf die argitektuurstadium deur ontplooiing en deurlopende instandhouding om betroubare, produksiegraad-intelligensie te verseker.",
+      "ctaHeadline": "Bou 'n intelligente toekoms",
+      "ctaSub": "Maak jou bedrywighede slimmer. Outomatiseer wat saak maak. Bou vir die toekoms."
+    },
+    "business-automation-solutions": {
+      "title": "Besigheidsoutomatiseringsoplossings",
+      "tagline": "Vereenvoudig prosesse. Elimineer herhaling. Versnel groei.",
+      "heroBadge": "Einde-tot-einde werkvloeioptimalisering",
+      "overview": [
+        "Besigheidsoutomatisering stel organisasies in staat om herhalende handaktiwiteite te vervang met vaartbelynde digitale werkvloeie. Ons besigheidsoutomatiseringsoplossings help maatskappye om produktiwiteit te verbeter, bedryfskompleksiteit te verminder, foute te minimaliseer en konsekwente prosesse oor departemente heen te skep.",
+        "Ons ontleed bestaande werkvloeie, identifiseer knelpunte en ontwerp outomatiseringsoplossings wat mense, toepassings, data en besigheidsprosesse verbind."
+      ],
+      "transformation": [
+        "Baie organisasies is steeds afhanklik van sigblaaie, e-posse, handmatige goedkeurings, herhalende data-invoer, dokumenthantering en ontkoppelde toepassings. Hierdie prosesse verbruik waardevolle werknemertyd en kan vertragings, teenstrydighede en foute veroorsaak.",
+        "Ons outomatiseringsbenadering fokus op die begrip van die volledige proses, die verwydering van onnodige stappe, die integrasie van stelsels en die outomatisering van die aktiwiteite wat die grootste operasionele waarde bied."
+      ],
+      "capabilities": [
+        {
+          "title": "Werkvloei-outomatisering",
+          "desc": "Ons outomatiseer multi-stap prosesse wat werknemers, toepassings, goedkeurings, kennisgewings en data oor uiteenlopende departemente betrek."
+        },
+        {
+          "title": "Robotiese proses-outomatisering",
+          "desc": "Sagteware-bots kan herhalende, reëlgebaseerde aktiwiteite uitvoer soos data-invoer, stelselopdaterings, rekonsiliasie en inligtingoordrag."
+        },
+        {
+          "title": "Dokumentoutomatisering",
+          "desc": "Geoutomatiseerde dokumentwerkvloeie kan inligting onttrek, data bekragtig, dokumente klassifiseer, versoeke roeteer en stroomaf-prosesse inisieer."
+        },
+        {
+          "title": "Goedkeuringsoutomatisering",
+          "desc": "Digitale goedkeuringswerkvloeie stuur versoeke outomaties na die korrekte besluitnemers en verskaf intydse sigbaarheid in hangende aksies."
+        },
+        {
+          "title": "Integrasie-outomatisering",
+          "desc": "Ons verbind besigheidstoepassings sodat inligting outomaties tussen platforms kan beweeg sonder onnodige handmatige ingryping."
+        },
+        {
+          "title": "Kennisgewingoutomatisering",
+          "desc": "Outomatiese waarskuwings en kennisgewings help werknemers om onmiddellik op belangrike gebeurtenisse, spertye, uitsonderings en bedryfsveranderinge te reageer."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ontdek",
+        "Ontleed",
+        "Ontwerp",
+        "Outomatiseer",
+        "Integreer",
+        "Toets",
+        "Ontplooi",
+        "Monitor",
+        "Optimaliseer"
+      ],
+      "benefits": [
+        "Verhoogde spandeurset en operasionele snelheid",
+        "Dramatiese vermindering in handmatige data-invoerfoute",
+        "Verkorte eind-tot-einde proses omkeertye",
+        "Eenvormige sigbaarheid oor sakebedrywighede heen",
+        "Gestandaardiseerde kruis-departementele nakoming",
+        "Aansienlik verminderde bedryfsuitgawes",
+        "Elastiese kapasiteit om werkladings moeiteloos te skaal",
+        "Bemagtigde spanne gefokus op kliëntebetrokkenheid en strategiese werk"
+      ],
+      "security": "Ons kombineer werkvloeiplatforms en RPA met intelligente konteksbewuste modelle om rolgebaseerde toegangsbeheer, omvattende ouditroetes en streng nakoming oor elke outomatiese transaksie te verseker.",
+      "ctaHeadline": "Bou meer doeltreffende bedrywighede",
+      "ctaSub": "Outomatiseer herhalende werk. Bemagtig jou mense. Versnel jou besigheid."
+    },
+    "cloud-migration-solutions": {
+      "title": "Wolk-migrasie-oplossings",
+      "tagline": "Beweeg met selfvertroue na die wolk.",
+      "heroBadge": "Multi-wolk-transformasie",
+      "overview": [
+        "Wolkberekening het 'n kritieke komponent van moderne IT-infrastruktuur geword. Organisasies skuif toepassings, databasisse, werkladings en infrastruktuur na wolkomgewings om skaalbaarheid, beskikbaarheid, buigsaamheid en bedryfsdoeltreffendheid te verbeter.",
+        "Ons wolkmigrasiedienste help organisasies om hul huidige omgewings te evalueer, migrasiestrategieë te definieer, migrasies uit te voer en werkladings te optimaliseer nadat hulle na die wolk beweeg het."
+      ],
+      "transformation": [
+        "Wolkmigrasie is meer as om bedieners van een omgewing na 'n ander te verskuif. 'n Suksesvolle migrasie vereis noukeurige assessering van toepassings, infrastruktuur, afhanklikhede, sekuriteitsvereistes, data, werkverrigting, beskikbaarheid en besigheidskontinuïteit.",
+        "Ons skep migrasiestrategieë gebaseer op die organisasie se huidige omgewing en toekomstige doelwitte, en kies die toepaslike migrasiepatroon vir elke werklading."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuurmigrasie",
+          "desc": "Ons migreer tradisionele bedieners, berging, virtuele masjiene en werkladings na moderne wolkomgewings op AWS, Azure en GCP."
+        },
+        {
+          "title": "Toepassingmigrasie",
+          "desc": "Toepassings kan herhuisves, herplatform, herbou of herontwerp word, afhangende van besigheid en tegniese vereistes."
+        },
+        {
+          "title": "Databasismigrasie",
+          "desc": "Ons migreer databasisse terwyl ons data-integriteit, werkverrigting, verenigbaarheid, beskikbaarheid, sekuriteit en herstelvereistes oorweeg."
+        },
+        {
+          "title": "Wolkmodernisering",
+          "desc": "Migrasie word 'n geleentheid om toepassings te moderniseer deur gebruik te maak van houers, mikrodienste, bestuurde databasisse, bedienerlose dienste en wolk-inheemse argitekture."
+        },
+        {
+          "title": "Hibriedwolk",
+          "desc": "Organisasies wat beide op die perseel en wolkinfrastruktuur benodig, kan hibriede argitekture aanneem wat bestaande stelsels naatloos met wolkdienste verbind."
+        },
+        {
+          "title": "Multi-wolk",
+          "desc": "Vir organisasies wat oor verskeie wolkplatforms werk, help ons om werkladingstrategieë te ontwerp wat buigsaamheid, veerkragtigheid en bestuur verbeter."
+        }
+      ],
+      "lifecycleSteps": [
+        "Assessering",
+        "Ontdekking",
+        "Afhanklikheidskartering",
+        "Migrasiestrategie",
+        "Argitektuurontwerp",
+        "Loodsmigrasie",
+        "Datamigrasie",
+        "Toepassingmigrasie",
+        "Toets",
+        "Produksie-migrasie",
+        "Optimalisering"
+      ],
+      "benefits": [
+        "Elastiese skaalbaarheid en hoë hulpbronbeskikbaarheid",
+        "Groter infrastruktuurbuigsaamheid en besigheidsbehendigheid",
+        "Uitgeskakel fisiese datasentrum instandhouding las",
+        "Versnelde toepassingsfunksie-ontplooiing",
+        "Robuuste rampherwinning en rugsteunveerkragtigheid",
+        "Onmiddellike toegang tot moderne wolk-KI en bestuurde dienste",
+        "Geoptimaliseerde FinOps-bestuur en TCO-vermindering",
+        "Deurlopende voldoening en geoutomatiseerde veiligheidsrelings"
+      ],
+      "security": "Sekuriteit is 'n integrale deel van migrasiebeplanning. Ons oorweeg identiteits- en toegangsbestuur, netwerksekuriteit, enkripsie tydens vervoer en rus, databeskerming, toepassingskwesbaarheidoudits, monitering, rugsteun en rampherstel.",
+      "ctaHeadline": "Jou wolkreis, behoorlik beplan",
+      "ctaSub": "Moderniseer jou infrastruktuur. Versnel innovasie. Bou 'n skaalbare wolkgrondslag."
+    },
+    "data-center-solutions": {
+      "title": "Datasentrumoplossings",
+      "tagline": "Betroubare infrastruktuur vir missie-kritiese bedrywighede.",
+      "heroBadge": "Missie-kritiese infrastruktuur",
+      "overview": [
+        "Datasentrums vorm die grondslag van moderne digitale besighede. Toepassings, databasisse, ondernemingstelsels, kommunikasieplatforms en kritieke besigheidsdienste is afhanklik van betroubare infrastruktuur.",
+        "Ons datasentrumoplossings fokus op die ontwerp, modernisering, bestuur en optimalisering van infrastruktuuromgewings wat gebou is vir beskikbaarheid, sekuriteit, skaalbaarheid, werkverrigting en bedryfsdoeltreffendheid."
+      ],
+      "transformation": [
+        "'n Moderne datasentrum vereis meer as bedieners en berging. Dit vereis noukeurig ontwerpte infrastruktuur oor rekenaars, netwerke, sekuriteit, krag, verkoeling, monitering, rugsteun en rampherstel.",
+        "Ons help organisasies om veerkragtige infrastruktuuromgewings te skep wat kritieke werkladings ondersteun en 'n grondslag bied vir toekomstige tegnologiegroei."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuurontwerp",
+          "desc": "Ons ontwerp omgewings gebaseer op werkladingsvereistes, kapasiteit, werkverrigting, beskikbaarheid, sekuriteit en toekomstige groei."
+        },
+        {
+          "title": "Bedienerinfrastruktuur",
+          "desc": "Ons ondersteun fisiese en virtuele bedieneromgewings vir missiekritieke ondernemingstoepassings en werkladings."
+        },
+        {
+          "title": "Bergingsoplossings",
+          "desc": "Ons neem werkverrigting, kapasiteit, oortolligheid, hoëspoed SAN/NAS, rugsteun- en databeskermingsvereistes in ag wanneer ons bergingomgewings ontwerp."
+        },
+        {
+          "title": "Netwerkinfrastruktuur",
+          "desc": "Ons ontwerp netwerkomgewings met toepaslike segmentering, oortolligheid, werkverrigting met lae vertraging, konnektiwiteit en sekuriteitskontroles."
+        },
+        {
+          "title": "Virtualisering",
+          "desc": "Virtualisering verbeter hulpbronbenutting, werkladingbuigsaamheid en gesentraliseerde infrastruktuurbestuur."
+        },
+        {
+          "title": "Rugsteun en rampherstel",
+          "desc": "Ons help organisasies om rugsteunstrategieë en herstelargitekture te vestig wat ontwerp is om stilstand te verminder en dataverlies uit te skakel."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kapasiteitsbepaling",
+        "Werkladingsprofilering",
+        "Argitektuur Bloudruk",
+        "Hardeware en virtuele grootte",
+        "Netwerksegmentering",
+        "Bergingvoorsiening",
+        "Oortolligheid en DR-toetsing",
+        "Produksie Sny",
+        "24/7 Gesondheidsmonitering",
+        "Deurlopende optimalisering"
+      ],
+      "benefits": [
+        "Gewaarborgde 99,999% infrastruktuur uptyd",
+        "Geen enkelpunte van mislukking met meerlaagse oortolligheid",
+        "Geoptimaliseerde bedienerberekening en hoëdigtheid-virtualisering",
+        "Sub-millisekondes lae latensie netwerkargitekture",
+        "Verharde fisiese en digitale omtreksekuriteit",
+        "Proaktiewe monitering en outomatiese mislukkings",
+        "Skaalbare modulêre berging vir petagrepe-skaal data",
+        "Voorspelbare totale koste van eienaarskap en kragdoeltreffendheid"
+      ],
+      "security": "Sekuriteit is oor die infrastruktuurlaag geïntegreer, wat netwerkmikro-segmentering, hardeware-wortel-van-trust, nul-trust toegangskontroles, deurlopende kwesbaarheidsoudits, eindpuntverdediging en streng operasionele beleide dek.",
+      "ctaHeadline": "Toekomsgereed Infrastruktuur",
+      "ctaSub": "Bou vandag betroubare infrastruktuur. Skep die grondslag vir môre se tegnologie."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognitiewe analise en KI",
+      "tagline": "Verander data in intelligensie.",
+      "heroBadge": "Data-tot-Besluit Intelligensie",
+      "overview": [
+        "Organisasies genereer enorme hoeveelhede inligting deur toepassings, transaksies, kliënte, bedrywighede, toestelle en digitale platforms. Die uitdaging is nie meer bloot om data in te samel nie; dit is om daardie data te verstaan ​​en dit in aksiebare intelligensie te verander.",
+        "Ons kognitiewe analise en KI-oplossings kombineer gevorderde analise, masjienleer, kunsmatige intelligensie, dataverwerking en besigheidsintelligensie om organisasies te help om beter besluite te neem."
+      ],
+      "transformation": [
+        "Tradisionele verslaggewing vertel organisasies wat gebeur het. Gevorderde analise kan help om te verduidelik hoekom dit gebeur het, te identifiseer wat volgende kan gebeur en besluite te ondersteun oor wat moet gebeur.",
+        "Ons help organisasies om data-omgewings te vestig wat verby statiese verslagdoening beweeg na intelligente analise en besluitsteun."
+      ],
+      "capabilities": [
+        {
+          "title": "Beskrywende analise",
+          "desc": "Verstaan historiese prestasie deur interaktiewe verslae, multidimensionele kontroleskerms, KPI's en besigheidsstatistieke."
+        },
+        {
+          "title": "Diagnostiese analise",
+          "desc": "Identifiseer onderliggende verwantskappe, neigings, statistiese afwykings en grondoorsake agter besigheidsuitkomste."
+        },
+        {
+          "title": "Voorspellende analise",
+          "desc": "Gebruik historiese en intydse stroomdata met statistiese modelle om potensiële toekomstige uitkomste en eise te identifiseer."
+        },
+        {
+          "title": "Voorskriftelike analise",
+          "desc": "Evalueer moontlike aksies en ondersteun optimale besluite wat gebaseer is op voorspelde uitkomste en strategiese besigheidsdoelwitte."
+        },
+        {
+          "title": "Masjienleermodelle",
+          "desc": "Ontwikkel pasgemaakte modelle vir vooruitskatting, klantklassifikasie, aanbevelings, opsporing van bedrogafwykings en voorspellende instandhouding."
+        },
+        {
+          "title": "KI-aangedrewe insigte",
+          "desc": "Pas kognitiewe KI toe op massiewe volumes ongestruktureerde inligting om verborge patrone, uitvoerende opsommings en aanbevelings na vore te bring."
+        }
+      ],
+      "lifecycleSteps": [
+        "Databronne",
+        "Data-integrasie",
+        "Dataverwerking",
+        "Databerging",
+        "Ontleding",
+        "KI/ML-modelle",
+        "Visualisering",
+        "Besigheidsbesluite"
+      ],
+      "benefits": [
+        "Feitgebaseerde, data-gedrewe uitvoerende besluitneming",
+        "Akkurate vraag-, inkomste- en opbrengsvoorspelling",
+        "Intydse anomalie en bedrogopsporing",
+        "Diep 360°-kliëntgedrag-insigte en verpersoonliking",
+        "Geoptimaliseerde voorsieningsketting en bedryfsdoeltreffendheid",
+        "Verminder operasionele en finansiële risiko",
+        "Ontdekking van verborge inkomstegeleenthede",
+        "Versnelde tyd-tot-insig oor sake-eenhede"
+      ],
+      "security": "Ons analitiese ekosisteme implementeer end-tot-end-enkripsie, outomatiese datamaskering, streng RBAC-toestemmings en modelbestuur om eie data te beskerm en regulatoriese voldoening te handhaaf (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Bou 'n intelligente datastrategie",
+      "ctaSub": "Verander inligting in insig. Verander insig in aksie."
+    },
+    "information-reporting-systems": {
+      "title": "Inligting- en Verslagdoeningstelsels",
+      "tagline": "Die regte inligting. Op die regte tyd. Vir beter besluite.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Sakeleiers en operasionele spanne is afhanklik van akkurate inligting om effektiewe besluite te neem. Ons inligting- en verslagdoeningstelsels help organisasies om besigheidsinligting in te samel, te organiseer, te ontleed en aan te bied deur gestruktureerde inligtingstelsels, verslagdoeningsplatforms, kontroleskerms en outomatiese verslagdoeningswerkvloei.",
+        "Organisasies het dikwels inligting versprei oor toepassings, sigblaaie, databasisse en bedryfstelsels. Dit maak dit moeilik om 'n konsekwente siening van besigheidsprestasie te vestig. Ons help om inligtingsbronne te integreer in gestruktureerde verslagdoeningsomgewings wat betroubare, toeganklike en konsekwente besigheidsinligting verskaf."
+      ],
+      "transformation": [
+        "'n Rapporteringstelsel moet nie bloot nommers vertoon nie. Dit moet gebruikers help om prestasie te verstaan, probleme te identifiseer, geleenthede te ontdek en ingeligte besluite te neem.",
+        "Ons ontwerp verslagdoeningsomgewings rondom die manier waarop jou organisasie funksioneer, en lewer gestruktureerde data-tot-besluit-ekosisteme wat aangepas is vir alle bestuursvlakke."
+      ],
+      "capabilities": [
+        {
+          "title": "Bestuursinligtingstelsels (MIS)",
+          "desc": "Ontwikkel verenigde inligtingstelsels wat uitvoerende bestuur van relevante operasionele en strategiese sigbaarheid voorsien."
+        },
+        {
+          "title": "Besigheidsverslaggewing",
+          "desc": "Transformeer rou besigheidsdata vanaf verskeie kanale in gestruktureerde, gestandaardiseerde verslae wat prestasie deurlopend monitor."
+        },
+        {
+          "title": "Interaktiewe Dashboards",
+          "desc": "Verskaf intydse of geskeduleerde interaktiewe sigbaarheid in kritieke besigheidsmaatstawwe, KPI's, neigings en departementele aktiwiteite."
+        },
+        {
+          "title": "KPI Bestuur",
+          "desc": "Definieer, volg en meet betekenisvolle operasionele KPI's wat direk in lyn is met oorkoepelende ondernemingsgroeiteikens."
+        },
+        {
+          "title": "Data-integrasie",
+          "desc": "Integreer verspreide databronne in verenigde datapakhuise en semantiese lae vir konsekwente enkelpaneel-van-glas-verslagdoening."
+        },
+        {
+          "title": "Outomatiese verslagdoening",
+          "desc": "Genereer en versprei outomaties gepersonaliseerde verslae volgens voorafbepaalde skedules, besigheidsreëls en ontvangerhiërargieë."
+        }
+      ],
+      "lifecycleSteps": [
+        "Besigheidstelsels",
+        "Data-insameling",
+        "Data-integrasie",
+        "Dataverwerking",
+        "Databewaarplek",
+        "Ontleding",
+        "Verslae en Dashboards"
+      ],
+      "benefits": [
+        "Enkele bron van waarheid oor die hele onderneming",
+        "Vinniger toegang tot intydse operasionele statistieke",
+        "Volledige uitskakeling van handmatige sigbladsamestelling",
+        "Konsekwente, versoende kruis-departementele KPI's",
+        "Hoë uitvoerende toesig en ouditbaarheid",
+        "Outomatiese verspreiding direk aan belanghebbendes",
+        "Granulêre ry-vlak data sekuriteit en toestemmings",
+        "Verbeterde behendigheid om op bedryfsafwykings te reageer"
+      ],
+      "security": "Besigheidsinligting kan sensitiewe operasionele, finansiële en kliëntedata bevat. Ons verslagdoeningsoplossings sluit multifaktor-verifikasie, granulêre rolgebaseerde magtiging, enkripsie en ouditlogboeke in die verslagdoeningsargitektuur in.",
+      "ctaHeadline": "Verslaggewing wat groei ondersteun",
+      "ctaSub": "Maak inligting toeganklik. Maak prestasie sigbaar. Neem beter besluite."
+    },
+    "managed-services": {
+      "title": "Bestuurde Dienste",
+      "tagline": "Betroubare Tegnologie-bedrywighede. Kundige ondersteuning. Deurlopende verbetering.",
+      "heroBadge": "24/7 IT-bedrywighede en -ondersteuning",
+      "overview": [
+        "Moderne IT-omgewings is kompleks en verander voortdurend. Organisasies benodig betroubare infrastruktuur, toepassings, netwerke, sekuriteit, monitering en tegniese ondersteuning om sakebedrywighede aan die gang te hou.",
+        "Ons Bestuurde Dienste bied deurlopende tegnologiebestuur en operasionele ondersteuning, wat organisasies in staat stel om betroubare IT-omgewings te handhaaf terwyl interne spanne op strategiese inisiatiewe fokus."
+      ],
+      "transformation": [
+        "Tradisionele IT-ondersteuning fokus dikwels op die oplossing van probleme nadat dit voorkom. Bestuurde dienste volg 'n proaktiewe benadering deur voortdurend infrastruktuur, toepassings, stelsels en bedryfsomgewings te monitor.",
+        "Hierdie benadering help om potensiële probleme vroeg te identifiseer, werkverrigting te handhaaf, beskikbaarheid te verbeter en vermybare operasionele ontwrigting te verminder."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuurbestuur",
+          "desc": "Ondersteun die deurlopende werking, herstel en bestuur van bedieners, berging, virtualisasieplatforms en infrastruktuur."
+        },
+        {
+          "title": "Wolkbestuur",
+          "desc": "Bestuur wolkwerkladings, multiwolkhulpbronne, konfigurasies, monitering, werkverrigting en FinOps-optimering."
+        },
+        {
+          "title": "Netwerkbestuur",
+          "desc": "Verskaf 24/7 monitering, prestasiebestuur, konfigurasieondersteuning, SD-WAN-optimalisering en netwerkkwessieoplossing."
+        },
+        {
+          "title": "Toepassingsbestuur",
+          "desc": "Ondersteun kritieke toepassingsomgewings deur proaktiewe monitering, instandhouding, foutoplossing en operasionele opgraderings."
+        },
+        {
+          "title": "Monitering en waarneembaarheid",
+          "desc": "Verskaf omvattende intydse sigbaarheid in stelselgesondheid, latensie, uptyd, infrastruktuurafhanklikhede en waarskuwings."
+        },
+        {
+          "title": "Rugsteun- en herstelbestuur",
+          "desc": "Handhaaf outomatiese rugsteunskedules, toets mislukkings gereeld en verseker onmiddellike herstelvermoë."
+        },
+        {
+          "title": "Sekuriteitsbedrywighede (SecOps)",
+          "desc": "Verskaf deurlopende sekuriteitsmonitering, pleisterbestuur, toegangsbeheerafdwinging en proaktiewe bedreigingsversagting."
+        }
+      ],
+      "lifecycleSteps": [
+        "Omgewing aanboord",
+        "Ontdekking en basislyn",
+        "Telemetrie-integrasie",
+        "SLA-definisie",
+        "24/7 Aktiewe Monitering",
+        "Insident Klassifikasie",
+        "Vinnige resolusie",
+        "Worteloorsaak-analise",
+        "Voorkomende Ingenieurswese",
+        "Deurlopende optimalisering"
+      ],
+      "benefits": [
+        "Aansienlik verminderde interne operasionele las",
+        "Proaktiewe probleemopsporing voordat gebruikers geraak word",
+        "Gewaarborgde 99,99% stelsel beskikbaarheid en uptyd",
+        "Voorspelbare, deursigtige IT-bedryfsbegroting",
+        "Onmiddellike toegang tot senior ingenieurspesialiste",
+        "Vinnige SLA-gesteunde voorvalreaksietye",
+        "Outomatiese rampherstel en besigheidskontinuïteit",
+        "Deurlopende tegnologie-optimalisering en modernisering"
+      ],
+      "security": "Ons bestuurde bedrywighede voldoen aan streng ITIL- en ISO-raamwerke, wat geënkripteerde toegang, geïsoleerde ouditlogboeke, minste-voorreg geloofsbriewe, en voldoeningsbelyning oor elke bestuurde hulpbron verseker.",
+      "ctaHeadline": "Deurlopende verbetering",
+      "ctaSub": "Jy fokus op jou besigheid. Ons help om jou tegnologie aan die gang te hou."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Eenstop-tegnologie-oplossings",
+      "tagline": "Een tegnologievennoot. Veelvuldige vermoëns. Volledige besigheidsoplossings.",
+      "heroBadge": "verenigde ondernemingsvennoot",
+      "overview": [
+        "Organisasies werk dikwels met veelvuldige tegnologieverskaffers vir infrastruktuur, wolk, toepassings, outomatisering, analise, sekuriteit, ondersteuning en digitale transformasie. Die bestuur van veelvuldige verskaffers kan kompleksiteit, kommunikasiegapings, gedupliseerde pogings en gefragmenteerde tegnologie-omgewings skep.",
+        "Ons eenstop-tegnologie-oplossingsbenadering bring veelvuldige vermoëns saam onder 'n verenigde diensmodel, wat organisasies help om hul tegnologie-omgewing te beplan, implementeer, integreer, bedryf en voortdurend te verbeter."
+      ],
+      "transformation": [
+        "Ons ondersteun die volledige tegnologie-lewensiklus—van die begrip van besigheidsvereistes en die definisie van 'n tegnologiestrategie tot die ontwerp van oplossings, die implementering van platforms, die integrasie van stelsels, die ontplooiing van toepassings, die monitering van omgewings en die verskaffing van deurlopende ondersteuning.",
+        "Die doelwit is om 'n gekoppelde tegnologie-ekosisteem eerder as geïsoleerde oplossings te skep."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategie en argitektuur",
+          "desc": "Besigheidsdoelwitte verstaan en skaalbare, veilige en onderhoubare tegnologie-argitekture ontwerp."
+        },
+        {
+          "title": "Implementering en bou",
+          "desc": "Implementeer toepassings, infrastruktuur, integrasies, outomatisering en digitale platforms met ondernemingsstrengheid."
+        },
+        {
+          "title": "Stelselintegrasie",
+          "desc": "Koppel stelsels en toepassings sodat inligting naatloos oor die hele organisasie beweeg."
+        },
+        {
+          "title": "Gestruktureerde Ontplooiing",
+          "desc": "Vestig outomatiese CI/CD en vrystellingsprosesse om oplossings betroubaar en veilig in produksie te plaas."
+        },
+        {
+          "title": "Deurlopende monitering",
+          "desc": "Verskaf end-tot-end sigbaarheid in infrastruktuur, toepassings, werkverrigting, beskikbaarheid en operasionele gesondheid."
+        },
+        {
+          "title": "Optimalisering en ondersteuning",
+          "desc": "Hersien voortdurend omgewings om werkverrigting, betroubaarheid, kostedoeltreffendheid en skaalbaarheid te verbeter."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategie",
+        "Argitektuur",
+        "Implementering",
+        "Integrasie",
+        "Ontplooiing",
+        "Monitering",
+        "Optimalisering",
+        "Ondersteuning"
+      ],
+      "benefits": [
+        "Verminder verskafferbestuurskompleksiteit en bokoste",
+        "Naatlose koördinasie oor alle argitektoniese lae",
+        "Vinniger projekuitvoering met geen oorhandigingsvertragings nie",
+        "Voorspelbare begrotingstoewysing en deursigtige lewering",
+        "Eenvormige ondernemingsaanspreeklikheid van nul tot skaal",
+        "Skaalbare oplossings ontwerp vir toekomstige besigheidsgroei",
+        "Langtermyn vertroude tegnologie vennootskap",
+        "Omvattende end-tot-end digitale transformasie"
+      ],
+      "security": "Met 'n enkele betroubare vennoot wat toesig hou oor argitektuur, implementering en bedrywighede, bly sekuriteitsbestuur ononderbroke oor alle vlakke - wat integrasie blindekolle uitskakel en deurlopende voldoening verseker.",
+      "ctaHeadline": "Jou volledige tegnologievennoot",
+      "ctaSub": "Een maat. Een visie. Veelvuldige tegnologieë. Volledige oplossings."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Ondernemingsoorsig",
+    "overviewTitle": "Intelligente Tegnologie vir Meetbare Uitkomste",
+    "transformationEyebrow": "Operasionele Transformasie",
+    "transformationTitle": "Transformasie van besigheid deur intelligente werkvloeie",
+    "deliveryEyebrow": "Gestruktureerde afleweringsbenadering",
+    "deliveryTitle": "Einde-tot-einde uitvoering en deurlopende optimalisering",
+    "deliveryIntro": "Ons bewese implementeringsbenadering volg 'n streng afleweringslewensiklus:",
+    "deliveryOutro": "Hierdie gestruktureerde volgorde verseker noukeurige belyning met besigheidsdoelwitte, robuuste sekuriteitsposisie en meetbare ROI-maatstawwe in elke fase.",
+    "securityEyebrow": "Sekuriteit en Bestuur",
+    "securityTitle": "Ondernemingsgraad-betroubaarheid en nakomingvoorsorgmaatreëls",
+    "securityOutro": "Ons sluit streng rolgebaseerde toegangsbeheer, outomatiese kwesbaarheidskandering, modelbestuur en veelvlakkige enkripsie in om te verseker dat jou produksie-omgewing veerkragtig bly en ten volle voldoen.",
+    "capabilitiesTitle": "Kerntegnologie-vermoëns",
+    "capabilitiesSub": "Omvattende tegniese vaardighede wat ontwerp is om jou digitale bedrywighede te skaal.",
+    "bookDiscovery": "Boek Tegnologie Ontdekking",
+    "exploreAll": "Verken alle tegnologieë",
+    "bookConsultation": "Bespreek 'n konsultasie",
+    "coreCapabilities": "Kernvermoëns"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Kernvermoëns",
+    "exploreFramework": "Verken oplossingsraamwerk",
+    "bookConsultation": "Bespreek 'n konsultasie",
+    "viewCaseStudies": "Bekyk gevallestudies",
+    "provenPillars": "Bewese pilare",
+    "operationalOutcomes": "Bedryfsuitkomste",
+    "learnMore": "Kom meer te wete"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Einde-tot-einde Digitale Ingenieurswese",
+      "titlePart1": "Begin tot",
+      "titlePart2": "Ontplooiing",
+      "description": "End-tot-end ontwikkeling van nuwe digitale oplossings vanaf besigheidsvereistes en oplossingsargitektuur deur ontwikkeling, integrasie, toetsing, ontplooiing en deurlopende ondersteuning.",
+      "bookConsultation": "Bespreek 'n konsultasie",
+      "exploreEngineering": "Verken Solution Engineering",
+      "coreCapabilities": [
+        "Vereistes Ingenieurswese",
+        "Oplossingsargitektuur",
+        "Toepassingsontwikkeling",
+        "API-integrasie",
+        "Gehalteversekering",
+        "DevOps",
+        "Ontplooiing",
+        "Ondersteuning en instandhouding"
+      ],
+      "row1Eyebrow": "Volle lewensiklus aflewering",
+      "row1Title": "End-to-End-ontwikkeling van vereistes tot skaal",
+      "row1P1": "Elke nuwe digitale inisiatief begin met unieke vereistes, operasionele werkvloeie en strategiese doelwitte wat nie deur een-grootte-pas-almal-sagteware bereik kan word nie. Ons spesialiseer in die bou van pasgemaakte, hoëprestasie sagteware stelsels heeltemal van nuuts af.",
+      "row1P2": "Van aanvanklike vereistes-ontdekking en tegniese argitektuurontwerp tot ratse naelloop-ontwikkeling, API-ekosisteem-integrasie, robuuste toetspyplyne en outomatiese wolk-ontplooiings, ons senior ingenieurspanne neem volle eienaarskap van jou produklewensiklus.",
+      "row2Eyebrow": "Oplossingsargitektuur en Ingenieurswese",
+      "row2Title": "Skaalbare stelsels gebou vir ondernemingsgroei",
+      "row2P1": "Ons ontwerp veerkragtige sagteware-argitekture wat aangepas is om swaar produksieladings te weerstaan. Van modulêre mikrodienste en gebeurtenisgedrewe backends tot hoë-deurset datastrome en GraphQL/REST API's, ons bou platforms wat moeiteloos skaal.",
+      "row2P2": "Deur skoon, modulêre kodebasisse te vestig wat gepaard gaan met outomatiese toetsing en deurlopende sekuriteitsnakoming, verseker ons dat jou sagteware-grondslag onderhoubaar, ouditeerbaar is en gereed is vir langtermyn-evolusie.",
+      "row3Eyebrow": "Gehalteversekering en DevOps",
+      "row3Title": "Behendige aflewering met outomatiese pyplyne",
+      "row3P1": "Ons afleweringsmodel sluit geoutomatiseerde eenheid-, integrasie- en end-tot-end-regressietoetsing in saam met houergebaseerde CI/CD-werkvloeie (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Met deursigtige sprint-demo's, intydse waarneembaarheid en mylpaalgedrewe snelheid verseker ons vinnige tyd-tot-mark sonder om sekuriteit, stabiliteit of gebruikerservaring in te boet.",
+      "row4Eyebrow": "Ontplooiing en ondersteuning",
+      "row4Title": "Betroubare 24/7-bedrywighede en langtermyn-evolusie",
+      "row4P1": "Om regstreeks te gaan is net die begin. Ons bied proaktiewe monitering, SLA-gesteunde instandhouding, wolkinfrastruktuuroptimering, prestasie-instelling en deurlopende kenmerk-ontplooiing.",
+      "row4P2": "Ons ingenieurspan dien as 'n natuurlike uitbreiding van jou organisasie, wat geen stilstandtyd en deurlopende tegnologiese superioriteit in jou mark verseker.",
+      "pillarsTitle": "Kernvermoëns",
+      "pillarsSub": "Volledige volstapel-vermoëns wat ontwerp is om jou idees van nul tot produksie te neem.",
+      "pillar1Title": "Vereistes Ingenieurswese",
+      "pillar1Desc": "Diep-duik besigheid analise, funksionele spesifikasies, en gebruiker reis kartering om presiese oplossing grense te definieer.",
+      "pillar2Title": "Oplossingsargitektuur",
+      "pillar2Desc": "Skaalbare wolk-inheemse argitekture, databasismodellering, mikrodienste-ontwerp en nul-trust-sekuriteitgrondslae.",
+      "pillar3Title": "Toepassingsontwikkeling",
+      "pillar3Desc": "Moderne volstapel web- en mobiele toepassings ontwerp met skoon kode, tipe-veiligheid en reaktiewe UI-standaarde.",
+      "pillar4Title": "API-integrasie",
+      "pillar4Desc": "Hoë-deurset REST/GraphQL API's, webhook-orkestrasies, betalingspoorte en naatlose derdeparty-ERP/CRM-sinkronisering.",
+      "ctaTitle": "Gereed om jou oplossing van begin tot ontplooiing te bou?",
+      "ctaSub": "Vennoot met Rezonants om jou persoonlike digitale platform van besigheidsvereistes tot produksiewerklikheid te argitek, te ontwerp en te ontplooi.",
+      "ctaButton": "Bespreek 'n Oplossingskonsultasie",
+      "pillar5Title": "Gehalteversekering",
+      "pillar5Desc": "Streng toetsoutomatisering, las-/strestoetsing, kwesbaarheidskanderings en regressietoetssuites.",
+      "pillar6Title": "DevOps en ontplooiing",
+      "pillar6Desc": "Geoutomatiseerde CI/CD-pyplyne, houerorkestrasie (Docker/K8s), infrastruktuur as kode, en nul-stilstandvrystellings.",
+      "pillar7Title": "Ondersteuning en instandhouding",
+      "pillar7Desc": "24/7 proaktiewe monitering, gesondheidstelemetrie, prestasie-oudits, sekuriteitsherstelling en deurlopende SLA-instandhouding.",
+      "pillar8Title": "Deurlopende innovasie",
+      "pillar8Desc": "Gereelde kenmerksnelheid, data-analise-integrasie, KI-verbetering en argitektoniese modernisering."
+    },
+    "processAutomation": {
+      "eyebrow": "Intelligente prosesbewerkings",
+      "titlePart1": "Besigheidsproses",
+      "titlePart2": "Outomatisering",
+      "description": "Einde-tot-einde-outomatisering van ondernemingswerkvloeie, wat robotiese proses-outomatisering (RPA), intelligente dokumentverwerking, besigheidsreëls-enjins en stelselintegrasie kombineer.",
+      "bookDiscovery": "Boekoutomatisering-ontdekking",
+      "exploreFramework": "Verken oplossingsraamwerk",
+      "coreCapabilities": [
+        "Werkvloei-outomatisering",
+        "Robotiese proses-outomatisering",
+        "Dokumentverwerking",
+        "Integrasie-ingenieurswese",
+        "Besigheidsreëls-enjins",
+        "Prosesanalise",
+        "Deurlopende optimalisering",
+        "Legacy-integrasie"
+      ],
+      "row1Eyebrow": "Robotiese proses-outomatisering",
+      "row1Title": "Intelligente bots vir hoëvolume-operasies",
+      "row1P1": "Elimineer herhalende handmatige data-invoer, kruisstelselrekonsiliasies en dokumentroetering. Ons ontplooi ondernemings RPA-bots wat gestruktureerde take 24/7 uitvoer met geen foutkoers nie.",
+      "row1P2": "Deur verouderde rekenaarkoppelvlakke, SAP/ERP-agtergronde en wolkdatabasisse te koppel, maak sagteware-bots jou span vry om op strategiese besigheidsinisiatiewe te fokus.",
+      "row2Eyebrow": "Intelligente dokumentverwerking",
+      "row2Title": "OCR, Masjienleer en dokument-KI",
+      "row2P1": "Neem outomaties data in, klassifiseer en onttrek data uit fakture, kontrakte, identiteitsdokumente en eise. Ons KI-gedrewe pyplyne bekragtig velde teen interne databasisse en aktiveer outomatiese goedkeuringswerkvloei.",
+      "row2P2": "Bereik reguit-deur-verwerkingskoerse van meer as 95% terwyl omkeertye drasties van dae tot sekondes verminder word.",
+      "row3Eyebrow": "Prosesorkestrasie",
+      "row3Title": "Einde-tot-einde kruis-platform-sinchronisasie",
+      "row3P1": "Koppel CRM-, ERP-, HRMS- en bank-API's in verenigde intydse datavloei. Ons implementeer gebeurtenisgedrewe snellers, boodskaprye en outomatiese terugvalhanteerders.",
+      "row3P2": "Inligting vloei naatloos oor departemente heen sonder menslike ingryping, wat operasionele silo's en kommunikasievertragings uitskakel.",
+      "row4Eyebrow": "Deurlopende telemetrie",
+      "row4Title": "Intydse prosesanalise en Kaizen Insights",
+      "row4P1": "Volg proses-uitvoeringstye, bottelnek-hittekaarte, foutfrekwensies en finansiële ROI in intydse uitvoerende dashboards.",
+      "row4P2": "Deurlopende masjienleerdiagnostiek ontdek nuwe outomatiseringsgeleenthede, wat jou onderneming met maksimum doeltreffendheid laat funksioneer.",
+      "pillarsTitle": "Outomatiseringspilare",
+      "pillarsSub": "Bewese boustene vir intelligente ondernemingsbedrywighede.",
+      "pillar1Title": "Werkvloei-outomatisering",
+      "pillar1Desc": "Multi-stap mens-in-die-lus en digitale werkvloei georkestreer met outomatiese roetering en eskalasies.",
+      "pillar2Title": "Robotiese proses-outomatisering",
+      "pillar2Desc": "Reëlgebaseerde sagteware-bots wat roetine-data-invoer, rekonsiliasie en kruistoepassingstake uitvoer.",
+      "pillar3Title": "Intelligente KI-outomatisering",
+      "pillar3Desc": "Kognitiewe KI-agente wat konteks interpreteer, ongestruktureerde teks opsom en outomatiese besluite neem.",
+      "pillar4Title": "Prosesoptimalisering",
+      "pillar4Desc": "Prosesmynbou, bottelnekbespeuring en Kaizen-werkvloei wat deurlopend bedryfskoste verminder.",
+      "ctaTitle": "Gereed om jou besigheidswerkvloei te outomatiseer?",
+      "ctaSub": "Maak kontak met ons outomatiseringsargitekte om hoë-ROI-geleenthede te identifiseer en intelligente digitale werkvloeie te ontplooi.",
+      "ctaButton": "Bespreek 'n outomatiseringskonsultasie"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Ingenieursstandaard & R&D",
+      "titlePart1": "Sentrum van",
+      "titlePart2": "Uitnemendheid",
+      "description": "'n Gesentraliseerde organisasie van senior argitekte en domeinspesialiste wat daaraan toegewy is om ingenieurspraktyke te standaardiseer, innovasie aan te dryf en digitale inisiatiewe te versnel.",
+      "exploreStandards": "Verken Ingenieurstandaarde",
+      "initiateAssessment": "Inisieer SvE-assessering",
+      "coreCapabilities": [
+        "Argitektuurstandaarde",
+        "Herbruikbare raamwerke",
+        "Beste Praktykbestuur",
+        "Vaardigheidsontwikkeling",
+        "Kwaliteit maatstaf",
+        "R&D & Innovasie",
+        "Tegnologie-evaluering",
+        "Kruisprojekleiding"
+      ],
+      "uptimeLabel": "Ondernemingstyd",
+      "engineersLabel": "Ingenieurs en Argitekte",
+      "deploymentsLabel": "KI en Wolk-ontplooiings",
+      "satisfactionLabel": "Kliëntetevredenheid",
+      "row1Eyebrow": "Pilaar 01 — Ingenieurstandaard",
+      "row1Title": "Hoëprestasie sagteware-ingenieurswese",
+      "row1P1": "Ons Sentrum van Uitnemendheid vestig gestandaardiseerde ontwerppatrone, streng geoutomatiseerde toetsing, en nul-defekte kode hersiening praktyke wat tyd-tot-mark versnel terwyl tegniese skuld op nul gehou word.",
+      "row1F1": "Outomatiese CI/CD-vrystellingpyplyne met DORA-statistieke",
+      "row1F2": "Streng argitektoniese hersieningsrade en mikrodienstebestuur",
+      "row1F3": "Deurlopende sekuriteit pluis en outomatiese kwesbaarheid regstelling",
+      "row1Btn": "Leer Ingenieurstandaarde",
+      "row1Tag": "DevOps & Kwaliteit Ingenieurswese",
+      "row2Eyebrow": "Pilaar 02 — R&D-innovasie",
+      "row2Title": "KI-innovasielaboratorium en opkomende tegnologie",
+      "row2P1": "Ons eksperimenteer met die nuutste masjienleermodelle, pasgemaakte KI-agente en intelligente werkvloei-outomatisering om die volgende generasie ondernemingsprodukte te bou.",
+      "row2F1": "Enterprise Generative KI & JOOL kennisintegrasie",
+      "row2F2": "Outonome KI-agent-werkstrome vir outomatisering van sakeproses",
+      "row2F3": "Gepasmaakte masjienleermodeloptimalisering en fyninstelling",
+      "row2Btn": "Verken KI Lab",
+      "row2Tag": "Kunsmatige Intelligensie & Neurale R&D",
+      "row3Eyebrow": "Pilaar 03 — Infrastruktuur",
+      "row3Title": "Enterprise Wolk Argitektuur & Zero-Trust Sekuriteit",
+      "row3P1": "Ons ontwerp en bestuur veerkragtige multi-wolk omgewings gebou op nul-trust sekuriteit raamwerke, om te verseker jou data bly beskerm teen ontwikkelende globale kuber bedreigings.",
+      "row3F1": "AWS, Azure en GCP multi-wolk infrastruktuur orkestrasie",
+      "row3F2": "Zero-trust netwerktoegang (ZTNA) en rolgebaseerde IAM-beleide",
+      "row3F3": "Outomatiese houersekuriteitskandering en geheime bestuur",
+      "row3Btn": "Verken Wolk en Sekuriteit",
+      "row3Tag": "Wolk argitektuur & Zero-Trust",
+      "pillarsTitle": "Ons kern-uitnemendheidsraamwerke",
+      "pillarsSub": "Gesistematiseerde ontwikkelingsspeelboeke wat missiekritieke platforms aandryf.",
+      "pillar1Title": "Argitektuurbeoordelingsraad (ARB)",
+      "pillar1Desc": "Omvattende toesig wat verseker dat alle ondernemingsoplossings ooreenstem met streng skaalbaarheid, sekuriteit en voldoeningsprotokolle.",
+      "pillar2Title": "Herbruikbare versnellers en komponentbiblioteek",
+      "pillar2Desc": "Eie ontwerpstelsels, API-beginstelle en backend-mikrodienssjablone wat aanvanklike ontwikkelingstyd met 40% verminder.",
+      "pillar3Title": "Deurlopende prestasieprofilering",
+      "pillar3Desc": "Gevorderde intydse waarneembaarheidspyplyne wat toepassingslatetyd, deurvloei-knelpunte en wolkhulpbrongebruik monitor.",
+      "pillar4Title": "Talent-opgradering en gildes",
+      "pillar4Desc": "Gestruktureerde interne gildes en sertifiserings wat diep tegniese vaardighede oor wolk, DevOps en toegepaste KI kweek.",
+      "ctaTitle": "Verhoog jou ingenieurstandaard",
+      "ctaSub": "Vennoot met Rezonants se Sentrum van Uitnemendheid om veerkragtige wolkargitekture te bou, werkvloei te outomatiseer en digitale produklewering te versnel.",
+      "ctaButton": "Skedule Uitvoerende Konsultasie",
+      "badge": "REZONANTS COE",
+      "scroll": "Blaai",
+      "p1Title": "Bestuur en raamwerke",
+      "p1Desc": "Vestig ondernemingwye argitektoniese bestuur, beleidsrelings en voldoeningstandaarde.",
+      "p1Tag": "Bestuur",
+      "p2Title": "Tegnologiestandaarde en argitektuur",
+      "p2Desc": "Definieer moderne verwysingsargitekture, gekeurde tegnologiestapels en mikrodienstepatrone.",
+      "p2Tag": "Argitektuur",
+      "p3Title": "Herbruikbare bates en biblioteke",
+      "p3Desc": "Versnel ontwikkelingsnelheid met gedeelde komponente, sjablone, beginpakkette en ontwerpstelsels.",
+      "p3Tag": "Herbruikbaarheid",
+      "p4Title": "Bevoegdheidsontwikkeling",
+      "p4Desc": "Gestruktureerde opleiding, tegniese mentorskap en vaardigheidsvermoë om spaningenieursvernuf te verhoog.",
+      "p4Tag": "Bevoegdheid",
+      "p5Title": "Innovasie en opkomende tegnologie",
+      "p5Desc": "R&D oor KI-agente, outomatiseringspyplyne en volgende generasie raamwerke om markvoordeel te handhaaf.",
+      "p5Tag": "Innovasie",
+      "p6Title": "Deurlopende verbetering",
+      "p6Desc": "Datagedrewe ingenieursmetrieke (DORA), SLA-benchmarking en deurlopende kwaliteitoptimalisering.",
+      "p6Tag": "Kwaliteit"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Pasgemaakte digitale ingenieurswese",
+      "titlePart1": "Pasgemaakte Ontwikkeling &",
+      "titlePart2": "Aanpassing",
+      "description": "Ontwikkeling en verbetering van toepassings, platforms, werkvloeie en ondernemingsoplossings om unieke besigheidsvereistes aan te spreek en pasgemaakte funksionaliteit te lewer.",
+      "bookConsultation": "Bespreek 'n konsultasie",
+      "exploreCapabilities": "Verken vermoëns",
+      "coreCapabilities": [
+        "Pasgemaakte Ontwikkeling",
+        "Platformkonfigurasie",
+        "Uitbreidings",
+        "Pasgemaakte werkstrome",
+        "API-ontwikkeling",
+        "Stelselintegrasie",
+        "UI/UX-verbetering",
+        "Prestasie-optimalisering"
+      ],
+      "row1Eyebrow": "GEMAAKTE FUNKSIONALITEIT",
+      "row1Title": "Spesiale kenmerke wat vir jou werkvloei gebou is",
+      "row1P1": "Standaard ondernemingsagteware voldoen dikwels nie aan gespesialiseerde besigheidsbehoeftes nie. Ons pasgemaakte ingenieurspan ontwikkel pasgemaakte toepassingsmodules, pasgemaakte besigheidsreëls en gespesialiseerde uitbreidings wat aangepas is vir u bedrywighede.",
+      "row1P2": "Van pasgemaakte CRM- en ERP-verbeterings tot gespesialiseerde operasionele portale, ons bou kenmerke wat naatloos ooreenstem met jou span se presiese werkvloeipatrone.",
+      "row2Eyebrow": "ONDERNEMINGSSTELSEL INTEGRASIE",
+      "row2Title": "Platformkonfigurasie en API-ontwikkeling",
+      "row2P1": "Koppel uiteenlopende sagtewarestelsels in 'n verenigde digitale ekosisteem. Ons ontwerp pasgemaakte REST- en GraphQL-API's, webhook-hanteerders en ondernemingsboodskaprye om intydse datasinkronisering oor al jou platforms te verseker.",
+      "row2P2": "Of dit nou SaaS-nutsmiddels van derdepartye integreer of eie platforms op die perseel uitgebrei word, ons integrasie-argitekture prioritiseer data-integriteit, deurvloei en geen stilstandtyd nie.",
+      "row3Eyebrow": "UI/UX & PRESTASIE",
+      "row3Title": "UI/UX-verbeterings en prestasieoptimalisering",
+      "row3P1": "Verhoog verouderde koppelvlakke met moderne, responsiewe gebruikerservarings wat ontwerp is vir spoed en duidelikheid. Ons herontwerp frontends met intuïtiewe ontwerppatrone, toeganklikheidsnakoming en vaartbelynde interaksiemodelle.",
+      "row3P2": "Terselfdertyd optimaliseer ons prestasie-ingenieurs databasisnavrae, kasstrategieë en frontend-bundelgroottes om onmiddellike reaksietye oor alle toestelle te lewer.",
+      "pillarsTitle": "Ontwerp volgens jou presiese spesifikasies",
+      "pillarsSub": "Ondernemingsgraad-aanpassingsmetodologieë gebou om naatloos te skaal.",
+      "pillar1Title": "Pasgemaakte werkvloeie en uitbreidings",
+      "pillar1Desc": "Pasgemaakte toepassingslogika en outomatiese toestandmasjiene wat spesifiek gekonfigureer is rondom jou interne operasionele reëls.",
+      "pillar2Title": "API en stelselintegrasie",
+      "pillar2Desc": "Veilige, geverifieerde databrûe wat eie backends, ERP-suites, betalingspoorte en wolkdienste verbind.",
+      "pillar3Title": "Platformkonfigurasie",
+      "pillar3Desc": "Diep argitektoniese aanpassings wat ondernemingsagteware wysig sonder om opgraderingspaaie of verskafferondersteuningsooreenkomste te breek.",
+      "pillar4Title": "Prestasie-optimalisering",
+      "pillar4Desc": "Aggressiewe navraagprofilering, geheuelek-uitskakeling en rand-CDN-verspreiding vir sub-sekonde bladsyvragte.",
+      "ctaTitle": "Gereed om jou ondernemingsplatform aan te pas?",
+      "ctaSub": "Maak kontak met ons oplossingsargitekte om pasgemaakte modules, werkvloeie en integrasies te ontwerp en te ontplooi wat pasgemaak is vir jou besigheidsbehoeftes.",
+      "ctaButton": "Bespreek 'n pasmaakoproep",
+      "badge": "Pasgemaakte Digitale Ingenieurswese",
+      "viewAllServices": "Bekyk alle dienste"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Ondernemingsmodernisering",
+      "titlePart1": "Digitaal",
+      "titlePart2": "Transformasie",
+      "description": "Omvattende modernisering van besigheidsprosesse, tegnologie-argitekture en bedryfsmodelle om organisatoriese behendigheid, bedryfsdoeltreffendheid en volhoubare digitale groei aan te dryf.",
+      "startTransformation": "Begin transformasie",
+      "exploreStrategy": "Verken strategie",
+      "coreCapabilities": [
+        "Strategie en padkaart",
+        "Argitektuur Modernisering",
+        "Wolk en infrastruktuur",
+        "Data en analise",
+        "Prosesdigitalisering",
+        "Kliënte-ervaring",
+        "Veranderbestuur",
+        "Behendige bedryfsmodelle"
+      ],
+      "row1Eyebrow": "Strategie & Padkaart",
+      "row1Title": "Van Visie tot Uitvoerbare Padkaart",
+      "row1P1": "Ons werk saam met ondernemingsleiers om digitale strategie, sakegevalle en gefaseerde padkaarte te definieer met vinnige oorwinnings en die risiko van uitvoering.",
+      "row1P2": "Geprioritiseerde inisiatiewe, TCO-modelle en KPI's verseker dat elke tegnologie-moderniseringspoging direk verband hou met inkomste, doeltreffendheid en kliëntetevredenheid-uitkomste.",
+      "row2Eyebrow": "Erfenismodernisering",
+      "row2Title": "Moderniseer sonder om die besigheid te breek",
+      "row2P1": "Her-platform monoliete na mikrodienste, API's en wolk-inheemse patrone met nul-stilstand-afsnypunte en outomatiese regressie-bekragtiging.",
+      "row2P2": "Ons moderniseer toepassings, databasisse en integrasielae terwyl ons voldoening en sekuriteitsposisie behou.",
+      "row3Eyebrow": "Wolk, KI en data",
+      "row3Title": "Wolk-aanneming en data-gedrewe intelligensie",
+      "row3P1": "Neem AWS, Azure en GCP aan, bou moderne datapyplyne en sluit masjienleeragente in om outonome besluite te dryf.",
+      "row3P2": "Van intydse gebeurtenisstroming tot verenigde kontroleskerms, transformasie word meetbaar en volhoubaar.",
+      "row4Eyebrow": "Kliënte-ervaring",
+      "row4Title": "Moderne Omnichannel-ervarings",
+      "row4P1": "Herontwerp klantreise oor responsiewe web-, iOS-, Android- en selfdiensportale met gepersonaliseerde koppelvlakke.",
+      "row4P2": "Platformingenieurswese, telemetrie en geoutomatiseerde terugvoerlusse maak digitale innovasie deurlopend.",
+      "pillarsTitle": "Transformasiepilare",
+      "pillarsSub": "Uitkoms-gefokusde hefbome wat volhoubare digitale leierskap verseker.",
+      "pillar1Title": "Digitale Strategie en Bestuur",
+      "pillar1Desc": "Gefaseerde transformasie-bloudrukke met besigheidsgevallemodellering, argitektuurbestuur en mylpaalrisiko-nasporing.",
+      "pillar2Title": "Wolk- en dataplatform",
+      "pillar2Desc": "AWS/Azure/GCP multi-wolk fondamente, outomatiese pyplyne, en onderneming data analise aktivering.",
+      "pillar3Title": "KI en outomatisering",
+      "pillar3Desc": "Intelligente proses-outomatisering, kognitiewe KI-agente en voorspellende telemetrie om daaglikse bedrywighede te optimaliseer.",
+      "pillar4Title": "Kliënte-ervaring",
+      "pillar4Desc": "Hoë-omskakeling omnichannel digitale portale en persoonlike koppelvlakke gebou vir maksimum gebruiker retensie.",
+      "ctaTitle": "Gereed om jou onderneming te transformeer?",
+      "ctaSub": "Vennoot met Rezonants vir gefaseerde digitale transformasie sonder risiko gekoppel aan meetbare besigheidsuitkomste.",
+      "ctaButton": "Bespreek 'n digitale transformasie-oproep",
+      "bookWorkshop": "Boektransformasiewerkswinkel",
+      "exploreFramework": "Verken oplossingsraamwerk",
+      "coreCapabilitiesTitle": "Kernvermoëns"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Voltooi Tegnologie-lewensiklus",
+      "titlePart1": "Einde-tot-einde Oplossing",
+      "titlePart2": "Raamwerk",
+      "description": "'n Gestruktureerde, volledige lewensiklus afleweringsraamwerk wat oor besigheidsvereistes, argitektuurontwerp, ingenieurswese, integrasie, gehalteversekering, wolkontplooiing en bestuurde bedrywighede strek.",
+      "startJourney": "Begin jou projek",
+      "exploreFramework": "Verken raamwerk",
+      "coreCapabilities": [
+        "Vereiste-analise",
+        "Argitektuurontwerp",
+        "Volstapelontwikkeling",
+        "Integrasie-ingenieurswese",
+        "Gehalteversekering",
+        "Ontplooiing en ontplooiing",
+        "Deurlopende bedrywighede",
+        "Deurlopende Evolusie"
+      ],
+      "row1Eyebrow": "Strategie en argitektuur",
+      "row1Title": "Vereistes Ingenieurswese en Oplossingsontwerp",
+      "row1P1": "Samewerkende werkswinkels, besigheidsdomeinkartering en wolkargitektuurspesifikasies wat ontwerp is om risiko uit te skakel voordat 'n reël kode geskryf word.",
+      "row1P2": "Ons definieer datamodelle, sekuriteitsraamwerke en skaalbaarheidsmylpale wat langtermynsukses opstel.",
+      "row2Eyebrow": "Ingenieurswese en kwaliteit",
+      "row2Title": "Volstapelontwikkeling en outomatiese toetsing",
+      "row2P1": "Modulêre mikrodienste, tipe-veilige API's en responsiewe frontends gekombineer met outomatiese eenheid, integrasie en sekuriteitskanderings.",
+      "row2P2": "Deurlopende integrasiepyplyne met GitHub Actions, Terraform en outomatiese sekuriteitsrelings.",
+      "row3Eyebrow": "Ontplooiing en bedrywighede",
+      "row3Title": "Wolk-ontplooiing en 24/7 bestuurde monitering",
+      "row3P1": "Multi-wolk-orkestrasie op AWS/Azure/GCP met geoutomatiseerde terugrol, nul-stilstandtyduitsny en intydse waarneembaarheid.",
+      "row3P2": "Ons verskaf SLA-gesteunde instandhouding en deurlopende telemetriemonitering om jou produk naatloos te ontwikkel.",
+      "row4Eyebrow": "Ondernemingsbestuur",
+      "row4Title": "Eenvormige bestuur en deurlopende ondersteuning",
+      "row4P1": "Enkelpunt-aanspreeklikheid oor jou hele digitale stapel – deursigtige sprintsnelheid, voorspelbare begroting en deurlopende innovasie.",
+      "row4P2": "Gereelde kenmerk-ontplooiing en moderniseringsiklusse hou jou onderneming voor die kompetisie.",
+      "pillarsTitle": "Lewensiklusraamwerkpilare",
+      "pillarsSub": "Elke fase is met ondernemingsstrengheid ontwerp.",
+      "pillar1Title": "Strategie en vereistes",
+      "pillar1Desc": "Domeinontdekking, argitektoniese padkaarte en belanghebbendebelyning om uitvoeringsrisiko's uit te skakel.",
+      "pillar2Title": "Argitektuur en bou",
+      "pillar2Desc": "Veerkragtige wolk-inheemse mikrodienste, API-integrasies en deurlopende QA-toetsing.",
+      "pillar3Title": "Sekuriteit en ontplooiing",
+      "pillar3Desc": "Geen vertroue-sekuriteitnakoming, houervrystellings en outomatiese wolkontplooiings.",
+      "pillar4Title": "Bestuur en Ondersteuning",
+      "pillar4Desc": "24/7 SLA-monitering, gesondheidstelemetrie en deurlopende evolusionêre ingenieurswese.",
+      "ctaTitle": "Benodig jy 'n volledige lewensiklusvennoot?",
+      "ctaSub": "Ons besit die volle tegnologie-lewensiklus sodat jou span op kernbesigheidsuitkomste kan fokus.",
+      "ctaButton": "Vennoot vir die volle lewensiklus"
+    },
+    "migrationServices": {
+      "eyebrow": "Wolk- en infrastruktuurtransformasie",
+      "titlePart1": "Migrasie &",
+      "titlePart2": "Modernisering",
+      "description": "Veilige, gestruktureerde migrasie van verouderde toepassings, databasisse en infrastruktuur na moderne wolkargitekture, gepaard met deurlopende modernisering vir verbeterde behendigheid en doeltreffendheid.",
+      "bookAssessment": "Boek Migrasie Assessering",
+      "exploreStrategy": "Verken Wolk-strategie",
+      "coreCapabilities": [
+        "Wolkmigrasie",
+        "Toepassingsmodernisering",
+        "Databasismigrasie",
+        "Herhosting van infrastruktuur",
+        "Houerisering",
+        "Mikrodienste-oorgang",
+        "Prestasie-optimalisering",
+        "Sekuriteit en nakoming"
+      ],
+      "row1Eyebrow": "Wolkmigrasie",
+      "row1Title": "Multi-wolk-strategie en lig-en-optimaliseer",
+      "row1P1": "Naatlose werkladingsmigrasie oor AWS, Azure en Google Cloud met outomatiese ontdekking, golfbeplanning en geen besigheidsonderbreking nie.",
+      "row1P2": "Ons balanseer herhuisvesting, herplatformering en herfaktorering om totale koste van eienaarskap (TCO) en behendigheid te optimaliseer.",
+      "row2Eyebrow": "Data- en databasismigrasie",
+      "row2Title": "Veilige ETL & Outomatiese Data Validasie",
+      "row2P1": "Outomatiese databasisreplikasie, skemavertaling en hoë-deurset ETL-pyplyne met 100% data-integriteitverifikasie.",
+      "row2P2": "Geen-stilstandtyd-afsny-oefening verseker volledige datakonsekwentheid en besigheidskontinuïteit.",
+      "row3Eyebrow": "Platformmodernisering",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Moderniseer verouderde monoliete in skaalbare mikrodienste georkestreer via Kubernetes (EKS, AKS, GKE) met outomatiese IaC-bloudrukke.",
+      "row3P2": "Prestasieprofiel na migrasie en kosteoptimalisering verseker onmiddellike ROI.",
+      "row4Eyebrow": "Afsnybeplanning",
+      "row4Title": "Outomatiese toets- en terugrolveiligheidsnette",
+      "row4P1": "Slag-getoetste uitsny-runboeke, outomatiese regressie-suites en onmiddellike terugrolmeganismes vir volledige gemoedsrus.",
+      "row4P2": "Na-migrasie gesondheidstelemetrie en 24/7 hipersorg waarborg foutlose produksiestabiliteit.",
+      "pillarsTitle": "Migrasieversekering",
+      "pillarsSub": "Beweegde skuiwe gerugsteun deur onderneming SLA's.",
+      "pillar1Title": "Nul-aftyd-afsny",
+      "pillar1Desc": "Kanarievrystellings en databasis-dubbelskryfsinkronisering om ononderbroke gebruikerstoegang te verseker.",
+      "pillar2Title": "Outomatiese datavalidering",
+      "pillar2Desc": "Kontrolesom-vergelykings, skema-integriteit-oudits en outomatiese ETL-versoening.",
+      "pillar3Title": "Terugrol veiligheidsnette",
+      "pillar3Desc": "Streng rampherstelprotokolle en repetisieoefeninge om risiko in elke fase te beperk.",
+      "pillar4Title": "Prestasie- en kosteoptimalisering",
+      "pillar4Desc": "Wolk-regtegrootte, outoskaalbeleide en kostebeheerkontroleskerms ingesluit.",
+      "ctaTitle": "Gereed om met volle vertroue te migreer?",
+      "ctaSub": "Vennoot met Rezonants vir gestruktureerde, risikovrye wolk- en datamodernisering.",
+      "ctaButton": "Beplan jou migrasiewerkswinkel"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Vinnige validering en uitvoerbaarheid",
+      "titlePart1": "Bewys van konsep (PoC) &",
+      "titlePart2": "Loodsimplementering",
+      "description": "Vinnige ontwikkeling en validering van tegnologie-oplossings om tegniese uitvoerbaarheid, besigheidswaarde, integrasievereistes, werkverrigting en skaalbaarheid voor volskaalse implementering te assesseer.",
+      "initiateDiscovery": "Begin PoC Discovery",
+      "exploreDevelopment": "Verken pasgemaakte ontwikkeling",
+      "coreCapabilities": [
+        "PoC-ontwikkeling",
+        "Prototipe-ingenieurswese",
+        "Uitvoerbaarheidstudies",
+        "Argitektuurbekragtiging",
+        "Integrasietoetsing",
+        "Prestasiemaatstaf",
+        "Loodontplooiing",
+        "Waarde-assessering"
+      ],
+      "row1Eyebrow": "Vinnige validering",
+      "row1Title": "Van konsep tot gevalideerde uitvoerbaarheid",
+      "row1P1": "Om 'n idee in 'n ondernemingskaal oplossing te omskep, vereis streng voorafbekragtiging. Ons PoC & Pilot diens evalueer tegnologie lewensvatbaarheid, stres-toets kritiese integrasie hake, en bekragtig besigheid ROI voor groot kapitaal verpligtinge.",
+      "row1P2": "Ons bou hoëtrou-MVP's en gefokusde sandbox-vlieëniers wat tegniese uitvoerbaarheid bewys, stelselvertraging meet en direkte belanghebbende-bekragtiging vroeg insamel.",
+      "row1Cap": "Vinnige MVP-prototipering en tegniese maatstawwe",
+      "row2Eyebrow": "Agile Prototipering",
+      "row2Title": "Interaktiewe MVP's en UX-bekragtiging",
+      "row2P1": "Ons bou interaktiewe draadrame, klikbare gebruikersvloei en funksionele bewys-van-konsepte in dae, nie maande nie. Toets werklike gebruikerinteraksies, verfyn UI/UX-patrone, en versamel uitvoerbare terugvoer van belanghebbendes.",
+      "row2P2": "Deur terugvoerlusse tydens vroeë ontwikkeling te verkort, verminder jou span herwerk en stel duidelike tegniese spesifikasies vas voordat kapitaalintensiewe boufases begin.",
+      "row2Cap": "Vinnige iterasie en klikbare UX-prototipes",
+      "row3Eyebrow": "Integrasie- en skaalbaarheidstoetsing",
+      "row3Title": "De-Risk Komplekse Stelsel Integrasies",
+      "row3P1": "Ontbloot tegniese knelpunte, API-beperkings en prestasiebeperkings voor volle kapitaalverbintenis. Ons loodsingenieurspan strestoets integrasies, datapyplyne en derdeparty-API's in geïsoleerde sandbox-omgewings.",
+      "row3P2": "Hierdie proaktiewe risikobeperking verseker hoë stelselbeskikbaarheid, sekuriteitsnakoming en voorspelbare ontwikkelingtydlyne wanneer jou PoC na ondernemingproduksie oorgeskakel word.",
+      "row3Cap": "Sandbox-integrasie en strestoetsing",
+      "row4Eyebrow": "Beheerde Produksievlieënier",
+      "row4Title": "Geteikende loodsbekendstelling en Besigheidsgevalvalidering",
+      "row4P1": "Ontplooi geteikende loodvrystellings na 'n uitgesoekte gebruikerssegment of toetsmark. Volg prestasiemaatstawwe, ontleding van gebruikersaanneming en operasionele terugvoer om besigheidswaarde te kwantifiseer en 'n data-gesteunde besigheidsgeval te vestig.",
+      "row4P2": "Met werklike proefinsigte kry uitvoerende borge duidelike ROI-maatstawwe om breër ontplooiing en strategiese digitale transformasie-beleggings te regverdig.",
+      "row4Cap": "Beheerde ontplooiing en prestasie-telemetrie",
+      "pillarsTitle": "Ons loodsingenieursbeginsels",
+      "pillarsSub": "Leidende beginsels wat tegniese onsekerheid in voorspelbare besigheidsukses verander.",
+      "pillar1Title": "PoC- en MVP-prototipering",
+      "pillar1Desc": "Lewer funksionele prototipes vinnig om waardevoorstelle vroeg in die lewensiklus te bekragtig.",
+      "pillar2Title": "Uitvoerbaarheid en validering",
+      "pillar2Desc": "Verifieer API-versoenbaarheid, deurvoerdrempels en voldoeningsbeperkings in sandbox-omgewings.",
+      "pillar3Title": "Skaalbaarheidsevaluering",
+      "pillar3Desc": "Simuleer produksielading om kapasiteitslimiete vas te stel en wolkargitektuurgrootte te bepaal.",
+      "pillar4Title": "Besigheidsgeval validering",
+      "pillar4Desc": "Kwantifiseer tasbare ROI en produktiwiteitsmaatstawwe om ondernemingwye ontplooiingsbesluite te ondersteun.",
+      "ctaTitle": "Gereed om jou volgende digitale oplossing te bekragtig?",
+      "ctaSub": "Maak kontak met ons oplossing-ingenieurspan om jou projekvereistes te verken, 'n prototipe te bou en haalbaarheid te toets met geen risiko nie.",
+      "ctaButton": "Bespreek 'n PoC-konsultasie"
+    },
+    "sharedServices": {
+      "eyebrow": "Gesentraliseerde Bedryfsentrum",
+      "titlePart1": "Gedeelde Dienste &",
+      "titlePart2": "Bestuurde bedrywighede",
+      "description": "Gesentraliseerde lewering van tegnologie en operasionele vermoëns oor sake-eenhede heen deur gestandaardiseerde prosesse, vaardige hulpbronne, bestuursraamwerke, diensbestuur en meetbare diensvlakke.",
+      "bookDiscovery": "Boek Bestuurde Bedryf Discovery",
+      "exploreFramework": "Verken oplossingsraamwerk",
+      "coreCapabilities": [
+        "Bestuurde Dienste",
+        "IT-bedrywighede",
+        "Toepassingsondersteuning",
+        "Diensbestuur",
+        "Hulpbronoptimalisering",
+        "SLA Bestuur",
+        "Bestuur",
+        "Deurlopende verbetering",
+        "Koste-optimalisering"
+      ],
+      "row1Eyebrow": "Eenvormige afleweringsentrum",
+      "row1Title": "Gestandaardiseerde dienste oor alle besigheidseenhede",
+      "row1P1": "Konsolideer agterkantoor-IT, infrastruktuurbestuur en tegniese ondersteuning in 'n enkele hoë-doeltreffendheid afleweringsentrum.",
+      "row1P2": "Deur duplisering van spanbokoste uit te skakel en diensleweringsmodelle te standaardiseer, verseker jou organisasie konsekwente kwaliteit en verlaag die totale bedryfsuitgawes.",
+      "row2Eyebrow": "24/7 SRE & Toepassingsondersteuning",
+      "row2Title": "Proaktiewe Monitering & Vinnige Voorvalresolusie",
+      "row2P1": "Ons toegewyde werfbetroubaarheidsingenieurs (SRE) en ondersteuningspesialiste bied 24/7/365 telemetriemonitering, outomatiese waarskuwingstoetsing en vinnige L1/L2/L3-kwessieoplossing.",
+      "row2P2": "Gerugsteun deur streng SLA-verpligtinge, waarborg ons 99.99% beskikbaarheid vir jou missie-kritieke toepassings en wolkinfrastruktuur.",
+      "row3Eyebrow": "ITIL Bestuur en Nakoming",
+      "row3Title": "Gestruktureerde Diensbestuursraamwerke",
+      "row3P1": "Implementeer toonaangewende ITSM-standaarde (ServiceNow, Jira Service Management) met deursigtige kaartjies, worteloorsake-ontledings en veranderingsbestuurskerms.",
+      "row3P2": "Omvattende ouditroetes en bestuursbeleide verseker dat jou bedrywighede aan internasionale sekuriteitstandaarde voldoen.",
+      "row4Eyebrow": "FinOps en deurlopende verbetering",
+      "row4Title": "Voorspelbare begroting en hulpbronoptimalisering",
+      "row4P1": "Elimineer wolkvermorsing, optimaliseer rekenaargrootte, en outomatiseer roetine-operasionele instandhouding met FinOps se beste praktyke.",
+      "row4P2": "Maandelikse deursigtigheidsverslae en kapasiteitsvoorspellings verseker deurlopende operasionele kosteoptimalisering en hoë kapitaaldoeltreffendheid.",
+      "pillarsTitle": "Bedryfspilare",
+      "pillarsSub": "Bewese operasionele hefbome vir betroubare ondernemingskaalbaarheid.",
+      "pillar1Title": "24/7 Bestuurde IT-bedrywighede",
+      "pillar1Desc": "Proaktiewe NOC-telemetrie, bediener-patching, infrastruktuuronderhoud en 99.99% uptydwaarborge.",
+      "pillar2Title": "ITSM & Dienstoonbank",
+      "pillar2Desc": "Vlak 1/2/3 multi-kanaal hulptoonbank, insident roetering, en gestruktureerde kaartjie resolusie werkvloei.",
+      "pillar3Title": "SLA & Prestasiebeheer",
+      "pillar3Desc": "Kontraktueel gesteunde reaksietye, MTTR-maatstawwe en deursigtige maandelikse prestasie-oudits.",
+      "pillar4Title": "FinOps & Koste-optimalisering",
+      "pillar4Desc": "Deurlopende hulpbron regte grootte, lisensie herwinning, en outomatiese wolk koste vermindering.",
+      "ctaTitle": "Gereed om jou bestuurde bedrywighede te skaal?",
+      "ctaSub": "Vennoot met Rezonants vir betroubare, 24/7 bestuurde dienste wat koste optimeer en operasionele stilstand uitskakel.",
+      "ctaButton": "Bespreek 'n Bestuurde Bedryfskonsultasie",
+      "howItWorksHeading": "'n Bewese pad na sukses met gedeelde dienste"
+    },
+    "aiRobotics": {
+      "brand": "KI en robotika",
+      "eyebrow": "Intelligente stelsels",
+      "heroHeading": "KI en robotika werk saam",
+      "intro": "Kunsmatige intelligensie (KI) en robotika verander die manier waarop besighede funksioneer deur intelligente besluitneming met gevorderde outomatisering te kombineer. KI stel masjiene in staat om data te ontleed, patrone te leer en slim besluite te neem, terwyl robotika hierdie vermoëns in die fisiese wêreld inbring om take met spoed, akkuraatheid en konsekwentheid uit te voer.",
+      "section1Heading": "Gebou om elke operasie te stroomlyn",
+      "section1Text": "Ons KI- en Robotika-oplossings help organisasies om bedrywighede te stroomlyn, handwerk te verminder en produktiwiteit oor verskeie industrieë te verbeter. Van prosesoutomatisering en voorspellende analise tot slim robotika en intelligente stelsels, ons lewer innoverende tegnologieë wat doeltreffendheid verbeter, groei aandryf en digitale transformasie ondersteun.",
+      "section2Heading": "Waar intelligensie aksie ontmoet",
+      "section2Text": "Elke interaksie, besluit en beweging word aangedryf deur 'n enkele gekoppelde stelsel - wat data intyds in uitkomste verander.",
+      "footerTag": "Innoverende tegnologie vir digitale transformasie"
+    },
+    "informationReporting": {
+      "brand": "Ondernemingsdataplatform",
+      "heroTitle": "Inligting- en verslagdoeningstelsels",
+      "heroSubtitle": "'n Enkele bron van waarheid vir elke departement – gebou om rou bedryfsdata te omskep in besluite waarvolgens u besigheid vandag kan reageer.",
+      "statusLive": "LEEF",
+      "statusAnalyzed": "ANALISEER",
+      "statusArchived": "ARGIEF",
+      "statusPending": "HANGTENDE",
+      "metricUptime": "Stelsel Uptime",
+      "metricSessions": "Aktiewe sessies",
+      "metricReportsPerDay": "Verslae / Dag",
+      "metricEvents": "Daaglikse ingeneemde gebeurtenisse",
+      "metricReports": "Geskeduleerde verslae",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Verenigde platform",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Rapporteringkonsole",
+      "businessOutcome": "Besigheidsuitkoms",
+      "section1Heading": "Een gesentraliseerde stelsel vir elke maatstaf wat saak maak",
+      "section1P1": "Inligting- en verslagdoeningstelsels is noodsaaklike besigheidsoplossings wat organisasies in staat stel om data in te samel, te bestuur en te transformeer in betekenisvolle insigte. Hierdie stelsels integreer inligting van verskeie departemente, wat akkurate, konsekwente en intydse toegang tot kritieke besigheidsdata verseker. Deur 'n gesentraliseerde platform vir inligtingbestuur te verskaf, kan organisasies operasionele sigbaarheid verbeter, werkvloeie stroomlyn en strategiese besluitneming oor alle vlakke van die onderneming ondersteun.",
+      "section1P2": "Hierdie stelsels gebruik outomatiese verslagdoening, ontledings en kontroleskerms om prestasie na te spoor, sleutelstatistieke te monitor en intydse verslae te genereer. Deur handmatige inspanning te verminder en data-akkuraatheid te verbeter, kan besighede vinniger en doeltreffender besluite neem.",
+      "section2Heading": "Gebou vir sigbaarheid, voldoening en skaal",
+      "section2Text": "Met verbeterde sigbaarheid, voldoening en samewerking stel Inligting- en Verslagdoeningstelsels organisasies in staat om prosesse te optimaliseer, produktiwiteit te verbeter en volhoubare besigheidsgroei in 'n mededingende omgewing te dryf.",
+      "ctaHeading": "Gee elke span dieselfde intydse prentjie van die besigheid.",
+      "ctaText": "Kyk hoe Nexus Data Systems jou verslagdoening in een intelligente platform kan konsolideer.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Alle regte voorbehou.",
+      "navOverview": "Oorsig",
+      "navCapabilities": "Vermoë",
+      "navImpact": "Impak",
+      "navContact": "Kontak"
+    },
+    "managedServices": {
+      "subtitle": "Omvattende bestuurde dienste vir jou besigheid"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernisering van besigheidstoepassings vir 'n datagedrewe onderneming",
+      "excerpt": "Hoe moderne toepassingsargitektuur en gekoppelde data operasionele doeltreffendheid, skaalbaarheid en besigheidsigbaarheid kan verbeter.",
+      "tag": "Besigheidstransformasie",
+      "category": "BESIGHEIDSTRANSFORMASIE",
+      "summary": "'n Moderne toepassing en databasis kan ondernemings help om operasionele doeltreffendheid te verbeter, besigheidstelsels te verbind en beter sigbaarheid oor hul bedrywighede te skep."
+    },
+    "artificial-intelligence": {
+      "title": "Hoe KI ondernemingstoepassings hervorm",
+      "excerpt": "Verken hoe intelligente outomatisering, KI-copilots en voorspellende intelligensie deel word van die ondernemingstoepassings waarop ondernemings elke dag staatmaak.",
+      "tag": "Kunsmatige Intelligensie",
+      "category": "KUNSMATIGE INTELLIGENSIE",
+      "summary": "Verken hoe intelligente outomatisering, KI-copilots en voorspellende intelligensie alledaagse ondernemingsagteware in aanpasbare, proaktiewe platforms omskep."
+    },
+    "modern-erp": {
+      "title": "Versnel besigheidstransformasie met moderne ERP",
+      "excerpt": "Verken hoe moderne ERP-platforms finansies, verkryging, voorsieningsketting en sakebedrywighede verbind deur 'n verenigde digitale grondslag.",
+      "tag": "Moderne ERP",
+      "category": "MODERNE ERP",
+      "summary": "'n Moderne ERP-platform verbind finansies, verkryging, voorsieningsketting en sakebedrywighede in 'n verenigde, intydse bedryfsmodel."
+    },
+    "cybersecurity": {
+      "title": "Bou kuberveerkragtigheid in 'n gekoppelde onderneming",
+      "excerpt": "Verken hoe organisasies sekuriteit kan versterk, kritieke stelsels kan beskerm en voorberei vir bedreigings oor toenemend gekoppelde omgewings.",
+      "tag": "Kuberveiligheid",
+      "category": "KUBERSEKERHEID",
+      "summary": "Namate ondernemings meer wolkstelsels, API's en vennoot-ekosisteme integreer, verseker kuberveerkragtigheid dat missiekritieke bedrywighede moderne bedreigings weerstaan."
+    },
+    "cloud-modernization": {
+      "title": "Modernisering van verouderde toepassings vir die wolk",
+      "excerpt": "Verken 'n praktiese benadering tot die assessering, modernisering en verskuiwing van verouderde toepassings na skaalbare, veilige wolkargitekture.",
+      "tag": "Wolk en modernisering",
+      "category": "WOLK EN MODERNISASIE",
+      "summary": "'n Gestruktureerde, pragmatiese padkaart om monolitiese ondernemingstelsels na elastiese, onderhoubare wolkargitekture te assesseer, te herfaktoreer en te migreer."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "BESIGHEIDSTRANSFORMASIE",
+      "title": "Modernisering van besigheidstoepassings vir 'n datagedrewe onderneming",
+      "subtitle": "'n Moderne toepassing en databasis kan ondernemings help om operasionele doeltreffendheid te verbeter, besigheidstelsels te verbind en beter sigbaarheid oor hul bedrywighede te skep.",
+      "date": "September 2026",
+      "readTime": "7 min gelees",
+      "imageCaption": "Ondernemingstegnologieperspektief — Toepassingsargitektuur en gekoppelde data",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Besigheidstoepassings",
+          "desc": "Verskillende erfenis-CRM-, ERP- en departementele gereedskap wat in silo's loop."
+        },
+        {
+          "title": "Veelvuldige databronne",
+          "desc": "Gefragmenteerde operasionele tabelle, CSV-uittreksels en ad-hoc-skemas."
+        },
+        {
+          "title": "Ontkoppelde databasisse",
+          "desc": "Geïsoleerde op die perseel en ongekoördineerde wolkdatabewaarplekke."
+        },
+        {
+          "title": "Verslae en besigheidsgebruikers",
+          "desc": "Handmatige rekonsiliasies, botsende sigblaaie en vertraagde rapportering."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Besigheidstoepassings",
+          "desc": "Kern operasionele platforms en moderne responsiewe koppelvlakke."
+        },
+        {
+          "title": "API / Integrasielaag",
+          "desc": "Veilige, gebeurtenisgedrewe API-poort wat ondernemingswerkvloei verbind."
+        },
+        {
+          "title": "Datadienste",
+          "desc": "Verenigde meesterdatamodelle, pyplyne en geoptimaliseerde bergingsenjins."
+        },
+        {
+          "title": "Ontleding en verslagdoening",
+          "desc": "Intydse telemetrie, semantiese modelle en outomatiese verslagdoening."
+        },
+        {
+          "title": "Besigheidsbesluitnemers",
+          "desc": "Regstreekse operasionele dashboards wat verenigde uitvoerende sigbaarheid bied."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Ondernemingstoepassings",
+          "purpose": "Besigheidsprosesbestuur"
+        },
+        {
+          "area": "API's",
+          "purpose": "Stelselintegrasie"
+        },
+        {
+          "area": "Databasisse",
+          "purpose": "Gestruktureerde besigheidsdata"
+        },
+        {
+          "area": "Data-integrasie",
+          "purpose": "Verbind verskeie bronne"
+        },
+        {
+          "area": "Ontleding",
+          "purpose": "Besigheidsinsigte"
+        },
+        {
+          "area": "Wolkinfrastruktuur",
+          "purpose": "Skaalbaarheid en buigsaamheid"
+        },
+        {
+          "area": "Monitering",
+          "purpose": "Betroubaarheid en werkverrigting"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Verbeterde operasionele sigbaarheid oor kruisfunksionele eenhede",
+        "Beter datakonsekwentheid en enkele bron van ondernemingswaarheid",
+        "Verminderde handmatige verslagdoening en outomatiese datasamestelling",
+        "Verbeterde toepassingsprestasie en verminderde transaksievertraging",
+        "Makliker stelselintegrasie deur gestandaardiseerde, veilige API's",
+        "Groter skaalbaarheid om organiese groei en verkryging te ondersteun",
+        "Beter grondslag vir toekomstige innovasie en intelligensie-aanneming"
+      ],
+      "keyPerspectivePoints": [
+        "Begrip van besigheidsprosesse en werklike operasionele werkvloeie",
+        "Verbind stelsels deur betroubare integrasiestandaarde",
+        "Verbetering van datakwaliteit, bestuur en meesterdatamodelle",
+        "Modernisering van toepassings sonder om daaglikse bedrywighede te destabiliseer",
+        "Skep skaalbare argitektuur wat geskik is vir elastiese groei",
+        "Maak beter besigheidsigbaarheid vir proaktiewe besluitneming moontlik"
+      ],
+      "sec1Eyebrow": "DIE BESIGHEIDSUITDAGING",
+      "sec1Heading": "Navigeer kompleksiteit in 'n groeiende onderneming",
+      "sec1Subtext": "Soos besighede skaal, brei tegnologie-ekosisteme onvermydelik uit. Wat begin as gefokusde oplossings vir individuele departemente, kan in 'n deurmekaar web van uiteenlopende stelsels ontwikkel.",
+      "sec2Eyebrow": "STELSEL EVOLUSIE",
+      "sec2Heading": "'n Komplekse Tegnologielandskap",
+      "sec2Subtext": "Wanneer besigheidstoepassings, databasisse en bedryfstelsels onafhanklik ontwikkel, word inligtingvloei gefragmenteer. Om hierdie fragmentasie te verstaan ​​is die kritieke eerste stap.",
+      "sec3Eyebrow": "DIE GEKOPPELDE MODEL",
+      "sec3Heading": "Moderne toepassingsargitektuur",
+      "sec3Subtext": "Ondernemings beweeg na 'n gebeurtenisgedrewe, API-eerste argitektuur waar data betroubaar oor kernplatforms vloei en besluitnemers intyds bereik.",
+      "sec4Eyebrow": "INTELLIGENSIE EN SIGBAARHEID",
+      "sec4Heading": "Gekoppelde data en analise",
+      "sec4Subtext": "Wanneer besigheidstoepassings naatloos kommunikeer, hou data op om 'n rapporteringsbyproduk te wees en word dit 'n primêre drywer van operasionele behendigheid.",
+      "sec5Eyebrow": "ARGITEKTUUR BLOUDRUK",
+      "sec5Heading": "Tegnologiestigting",
+      "sec5Subtext": "'n Omvattende oorsig van die kerntegnologie-areas wat 'n moderne, skaalbare ondernemingsgrondslag saamstel.",
+      "sec6Eyebrow": "KWALITATIEWE WAARDE",
+      "sec6Heading": "Besigheidsimpak",
+      "sec6Subtext": "Modernisering van toepassingsargitektuur en koppeling van gefragmenteerde data lewer tasbare operasionele verbeterings regoor die organisasie.",
+      "ctaHeading": "Gereed om jou tegnologie-omgewing te moderniseer?",
+      "ctaDescription": "Verken hoe moderne toepassingsargitektuur, gekoppelde data en skaalbare tegnologie organisasies kan help om doeltreffendheid te verbeter en voor te berei vir toekomstige groei.",
+      "ctaButton": "Praat met ons kundiges",
+      "sec1P1": "In 'n tipiese ondernemingsomgewing bring groei dikwels verskeie generasies sagteware bekend. Finansies, voorsieningsketting, kliëntediens en veldbedrywighede werk dikwels op aparte sagtewarestapels wat op verskillende tye verkry of gebou word. Oor jare van operasionele evolusie ontwikkel hierdie stelsels hul eie dataformate, werk kadense op en integrasie-eienskappe.",
+      "sec1P2": "Die wrywing manifesteer oor die onderneming deur algemene operasionele knelpunte:",
+      "sec1List": [
+        {
+          "bold": "Veelvuldige ontkoppelde besigheidstoepassings",
+          "text": "wat duplikaatdata-invoer en handmatige kruisverwysing vereis."
+        },
+        {
+          "bold": "Ontkoppelde databasisse",
+          "text": "werk sonder gesentraliseerde bestuur of verenigde meesterrekords."
+        },
+        {
+          "bold": "Handmatige rapportering bokoste",
+          "text": ", waar analitiese spanne dae spandeer om uitvoere saam te voeg eerder as om insigte te ontbloot."
+        },
+        {
+          "bold": "Data inkonsekwenthede",
+          "text": "oor departemente heen, wat botsende antwoorde op fundamentele operasionele vrae skep."
+        },
+        {
+          "bold": "Toepassinginstandhoudingsbokoste en skaalbaarheidsperke",
+          "text": ", aangesien bros erfenis punt-tot-punt-verbindings sukkel om groeiende transaksievolumes te ondersteun."
+        }
+      ],
+      "sec1P3": "Om hierdie uitdagings die hoof te bied, vereis dat die tegnologielandskap nie as 'n versameling van geïsoleerde sagteware-aankope beskou word nie, maar as 'n onderling gekoppelde besigheidsplatform wat ontwerp is om strategiese behendigheid te ondersteun.",
+      "legacyLandscapeBadge": "Legacy Basislyn",
+      "legacyLandscapeTitle": "Gefragmenteerde inligtingsvloei",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Datasilo's",
+          "desc": "Belangrike kliënte-, finansiële- en voorraaddata bly vasgevang in departementele platforms, wat 'n enkele verenigde siening van sakebedrywighede voorkom."
+        },
+        {
+          "num": "02",
+          "title": "Integrasiegapings",
+          "desc": "Punt-tot-punt verbindings en nagtelike bondeluittreksels skep latensie, hoë mislukkingskoerse en duur instandhoudingsbokoste oor operasionele spanne heen."
+        },
+        {
+          "num": "03",
+          "title": "Vertraagde inligting",
+          "desc": "Wanneer bestuurders dae moet wag vir maandeinde rekonsiliasie om prestasie te verstaan, is besluitneming reaktief eerder as voorspellend."
+        }
+      ],
+      "modernArchitectureBadge": "Teikenargitektuur",
+      "modernArchitectureTitle": "Gekoppelde onderneming-toepassingsmodel",
+      "sec3P1": "'n Moderne toepassingsargitektuur vervang bros punt-tot-punt verbindings met 'n ratse, ontkoppelde fondament. Deur 'n robuuste API- en integrasielaag daar te stel, werk stelsels in wisselwerking deur gereguleerde, veilige eindpunte terwyl die outonomie van individuele besigheidseenhede behou word.",
+      "sec3P2": "Sleutel tegniese vermoëns van hierdie argitektoniese verskuiwing sluit in:",
+      "sec3List": [
+        {
+          "bold": "Toepassingsmodernisering:",
+          "text": "Ontkoppeling van kernbesigheidslogika in skaalbare modulêre dienste."
+        },
+        {
+          "bold": "API-integrasie:",
+          "text": "Vestiging van gestandaardiseerde, gedokumenteerde koppelvlakke vir interne en vennoot interoperabiliteit."
+        },
+        {
+          "bold": "Data-integrasie en databasisoptimalisering:",
+          "text": "Verenigende operasionele datapyplyne met hoë-deurset-navraagoptimering."
+        },
+        {
+          "bold": "Waarneembaarheid en sekuriteit:",
+          "text": "Implementering van gesentraliseerde telemetrie, ouditroetes en rolgebaseerde toegangsbeheer oor alle dienste."
+        }
+      ],
+      "sec4P1": "Geïntegreerde databasisse transformeer hoe leierskap- en operasionele spanne met inligting omgaan. Eerder as om op terugwerkende verslae staat te maak wat wys wat weke gelede gebeur het, kry organisasies regstreekse operasionele telemetrie oor sake-eenhede heen.",
+      "sec4P2": "Gekoppelde data en analise ondersteun volhoubare besigheidsuitkomste deur:",
+      "sec4List": [
+        {
+          "bold": "Operasionele sigbaarheid:",
+          "text": "Deurlopende deursigtigheid oor verkope, voorraad, vervulling en finansiële prestasie."
+        },
+        {
+          "bold": "Vinniger rapportering van kadense:",
+          "text": "Data-aggregasie op aanvraag wat herhalende manuele sigblaaie uitskakel."
+        },
+        {
+          "bold": "Konsekwente inligting:",
+          "text": "Enkelvoudige definisies vir maatstawwe soos marge, klantleeftydwaarde en loodsnelheid."
+        },
+        {
+          "bold": "Beter besigheidsinsigte:",
+          "text": "Voorspellende patroonbespeuring wat risiko's en geleenthede voor die tyd na vore bring."
+        },
+        {
+          "bold": "Verbeterde besluitneming:",
+          "text": "Selfversekerde uitvoerende optrede ondersteun deur bekragtigde datalyn en deursigtigheid."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGIESE PERSPEKTIEF",
+      "keyPerspectiveTitle": "Modernisering is meer as die vervanging van sagteware",
+      "keyPerspectiveLead": "Modernisering van besigheidstoepassings is nie bloot om ou sagteware met nuwe gereedskap te vervang nie. Dit is 'n doelbewuste belyning van tegnologie met hoe die besigheid funksioneer, skaal en waarde lewer."
+    },
+    "artificialIntelligence": {
+      "category": "KUNSMATIGE INTELLIGENSIE",
+      "title": "Hoe KI ondernemingstoepassings hervorm",
+      "subtitle": "Verken hoe intelligente outomatisering, KI-copilots en voorspellende intelligensie deel word van die ondernemingstoepassings waarop ondernemings elke dag staatmaak.",
+      "date": "September 2026",
+      "readTime": "6 min gelees",
+      "imageCaption": "Ondernemingstegnologieperspektief — Kunsmatige Intelligensie en Ondernemingstelsels",
+      "aiUseCases": [
+        {
+          "title": "Voorsieningskettingvoorspelling",
+          "desc": "Voorspelling van vraagstygings en logistieke vertragings van historiese verskaffer-telemetrie."
+        },
+        {
+          "title": "Outomatiese faktuurouditering",
+          "desc": "Onttrek lynitems en pas teen aankoopbestellings met geen menslike inskrywing."
+        },
+        {
+          "title": "Intelligente Diensbanke",
+          "desc": "Triage en outomatiese oplossing van Tier-1 werknemer IT en HR versoeke."
+        },
+        {
+          "title": "Voorkoming van klanteverlies",
+          "desc": "Gedragsgroepering wat vroeë wrywingseine identifiseer vir proaktiewe uitreik."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Vinniger operasionele besluite gedryf deur intydse voorspellende modelle",
+        "Vermindering in herhalende dataverwerking en handrekonsiliasies",
+        "Hoër werknemer-deurset met kontekstuele medevlieënierbystand",
+        "Verbeterde klanttevredenheid deur hipergepersonaliseerde ervarings",
+        "Deurlopende proses self-optimering gebaseer op werklike telemetrie",
+        "Gevaarlike nakomingopsporing deur outomatiese oudit-log-inspeksie"
+      ],
+      "governancePoints": [
+        "Streng rolgebaseerde toegang wat verseker dat KI-modelle nooit sensitiewe data uitlek nie",
+        "Deursigtige redenasiespore wat menslike hersiening oor hoëwaarde-aksies moontlik maak",
+        "Deurlopende model-evaluering om teen hallusinasie en vooroordeel te waak",
+        "Streng dataherkomsstandaarde wat ooreenstem met GDPR, SOC 2 en HIPAA",
+        "Mens-in-die-lus-eskalasiepaaie vir onsekere randtoestande"
+      ],
+      "sec1Eyebrow": "DIE VERSKUIF NA INheemse INTELLIGENSIE",
+      "sec1Heading": "KI in ondernemingstoepassings",
+      "sec1Subtext": "Kunsmatige intelligensie is besig om oor te skakel van eksperimentele newe-projekte na die kern operasionele toepassings waarop ondernemings elke dag staatmaak.",
+      "sec2Eyebrow": "OUTOMASIE OP SKAAL",
+      "sec2Heading": "Intelligente outomatisering",
+      "sec2Subtext": "Beweeg verder as tradisionele reël-gebaseerde skrifte na kognitiewe werkvloeie wat ongestruktureerde inhoud verstaan, aanpas by variasies en prosesse dinamies optimaliseer.",
+      "sec3Eyebrow": "INGEBEDDE HULP",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Gegrond op organisatoriese kennis en ondernemingsekuriteit, tree KI-assistente op as gespesialiseerde vennote oor daaglikse besigheidswerkvloeie.",
+      "sec4Eyebrow": "VOORUITSIENENDE REDENERING",
+      "sec4Heading": "Voorspellende intelligensie",
+      "sec4Subtext": "Die transformasie van historiese onderneminglogboeke en intydse operasionele feeds in uitvoerbare vooruitskouing.",
+      "sec5Eyebrow": "REGTE WÊRELD TOEPASSINGS",
+      "sec5Heading": "Enterprise KI Gebruiksgevalle",
+      "sec5Subtext": "Praktiese maniere waarop toonaangewende organisasies kunsmatige intelligensie toepas oor kernbesigheidsfunksies heen.",
+      "sec6Eyebrow": "STRATEGIESE WAARDE",
+      "sec6Heading": "Besigheidsvoordele",
+      "sec6Subtext": "Wanneer deurdagte geïmplementeer met beheerde ondernemingsdata, ontsluit KI aansienlike kwalitatiewe voordele.",
+      "ctaHeading": "Verken KI-geleenthede vir jou besigheid",
+      "ctaDescription": "Ontdek hoe intelligente outomatisering, onderneming-copilots en voorspellende modelle operasionele doeltreffendheid oor jou kernstelsels kan ontsluit.",
+      "ctaButton": "Praat met ons kundiges",
+      "sec1P1": "Vir jare is kunsmatige intelligensie van ondernemings as 'n eksterne vermoë behandel: 'n model wat in isolasie opgelei is, 'n sandbox-demonstrasie, of 'n geïsoleerde kletsbot wat toeganklik is deur 'n aparte portaal. Vandag het die paradigma fundamenteel verskuif. Hoë-impak onderneming KI is direk ingebed in die rekordstelsels - die ERP's, CRM's, mensekapitaalplatforms en voorsieningskettingenjins waar werklike besigheid plaasvind.",
+      "sec1P2": "Wanneer intelligensie binne die rekordstelsel werk, erf dit die organisasie se gevestigde sekuriteitsgrense, datamodelle en besigheidslogika. Dit genereer nie bloot generiese response nie; dit tree op regstreekse bestellings op, interpreteer oop ondersteuningskaartjies, rekonsilieer verskaffersfakture en help werknemers binne die presiese koppelvlakke wat hulle elke dag navigeer.",
+      "sec1P3": "Hierdie transformasie skuif ondernemingsagteware van passiewe databasisse wat wag vir menslike toetsaanslagen na proaktiewe platforms wat behoeftes verwag, stappe outomatiseer en tydige aanbevelings na vore bring.",
+      "sec2P1": "Tradisionele Robotiese Prosesoutomatisering (RPA) het uitgeblink in deterministiese, herhalende skermskraap. Rigiede reëlstelle breek egter wanneer 'n vorm verander, 'n onverwagte dokumentuitleg opdaag of 'n uitsondering voorkom. Intelligente outomatisering oorbrug hierdie skeiding deur kognitiewe redenasie met transaksionele uitvoering te kombineer:",
+      "sec2List": [
+        {
+          "bold": "Werkvloei-outomatisering:",
+          "text": "Orkestreer komplekse kruis-departementele bedrywighede, roetering van take gebaseer op dringendheid en historiese oplossingspaaie."
+        },
+        {
+          "bold": "Intelligente dokumentverwerking:",
+          "text": "Die inname van ongestruktureerde PDF's, e-posse, versendingsmanifeste en kontrakte, en omskep dit in gestruktureerde databasistransaksies."
+        },
+        {
+          "bold": "Intelligente taakoutomatisering:",
+          "text": "Outomatisering van multi-stap operasionele validasies—soos om aankoopbestellings te pas teen kwitansies en bankstate."
+        },
+        {
+          "bold": "Prosesoptimering:",
+          "text": "Deurlopende ontleding van proseslogboeke om siklus-tyd-bottelnekke te identifiseer en om geteikende werkvloeiverfynings aan te beveel."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Inligtingsoektog",
+          "desc": "Semantiese herwinning oor verspreide kennisbasisse, intranetbeleide, produkspesifikasies en historiese kaartjie-resolusies sonder om sleutelwoorde te raai."
+        },
+        {
+          "icon": "📝",
+          "title": "Dokumentopsomming",
+          "desc": "Onmiddellike distillasie van lang RFP's, verskaffersooreenkomste, tegniese spesifikasies en wetlike wysigings in uitvoerbare uitvoerende opdragte en risikokontrolelyste."
+        },
+        {
+          "icon": "✨",
+          "title": "Inhoudgenerering",
+          "desc": "Ondersteunde opstel van kliëntvoorstelle, operasionele dokumentasie, standaard bedryfsprosedures (SOP's), en gestandaardiseerde kliëntbywerkings in lyn met handelsmerkstandaarde."
+        },
+        {
+          "icon": "📈",
+          "title": "Data-analise",
+          "desc": "Vertaal gespreksnavrae in komplekse analitiese navrae, genereer op-die-vlieg grafiekopsommings en beklemtoon kritieke uitskieters vir leierskap."
+        },
+        {
+          "icon": "🔄",
+          "title": "Besigheidswerkstrome",
+          "desc": "Inisieer transaksies direk vanaf kletsaanbod—soos om hulpbronne te skeduleer, kaartjies te skep, rekords op te dateer of aankooprekwisisies in te dien."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Rolgegronde toegang",
+          "desc": "Om te verseker dat ander vlieënier-reaksies gebruikerstoestemmingsvlakke streng respekteer, hou vertroulike finansies, HR-lêers en intellektuele eiendom beskerm."
+        }
+      ],
+      "sec4P1": "Terwyl generatiewe modelle uitblink in die verstaan ​​en sintetisering van taal, fokus voorspellende intelligensie op wiskundige patrone versteek binne gestruktureerde ondernemingsdatastelle. Ingebedde voorspellende modelle bemagtig organisasies om operasionele struikelblokke te antisipeer voordat hulle bedrywighede ontwrig:",
+      "sec4List": [
+        {
+          "bold": "Bedryfsvoorspelling:",
+          "text": "Voorspelling van inkomste-tendense, voorraadsnelheid en hulpbronbehoeftes deur seisoenale aanwysers te sintetiseer met intydse pyplynsnelheid."
+        },
+        {
+          "bold": "Voorspellende analise:",
+          "text": "Bepaling van klanteverliesrisiko's, instandhouding-agteruitgangsiklusse en voorsieningskettingvertragings terwyl daar nog tyd is om in te gryp."
+        },
+        {
+          "bold": "Risiko-identifikasie:",
+          "text": "Vlag van onreëlmatighede in finansiële transaksies, voldoeningslogboeke en verskafferverkrygingspatrone voordat dit eskaleer."
+        },
+        {
+          "bold": "Vraagvoorspelling:",
+          "text": "Harmonisering van verkoopsvoorspellings met vervaardigingskapasiteit en pakhuisvoorraadvlakke om bedryfskapitaal te beskerm."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ONDERNEMINGSBEHEER",
+      "keyPerspectiveTitle": "Trust, Toesig & Guardrails",
+      "keyPerspectiveLead": "KI is net so betroubaar soos die databasis daaronder en die bestuur rondom dit. Volhoubare ondernemingsaanneming vereis doelbewuste argitektoniese dissipline:"
+    },
+    "modernErp": {
+      "category": "MODERNE ERP",
+      "title": "Versnel besigheidstransformasie met moderne ERP",
+      "subtitle": "Verken hoe moderne ERP-platforms finansies, verkryging, voorsieningsketting en sakebedrywighede verbind deur 'n verenigde digitale grondslag.",
+      "date": "Augustus 2026",
+      "readTime": "6 min gelees",
+      "imageCaption": "Ondernemingstegnologie-perspektief — ERP en gekoppelde sakebedrywighede",
+      "connectedFunctions": [
+        {
+          "title": "Finansiële Bestuur",
+          "desc": "Intydse grootboekopdaterings, outomatiese inkomste-erkenning en onmiddellike multi-geldeenheid rekonsiliasie."
+        },
+        {
+          "title": "Voorsieningsketting en logistiek",
+          "desc": "End-tot-end-voorraadsigbaarheid, pakhuisoptimalisering en verskafferprestasie-telemetrie."
+        },
+        {
+          "title": "Menslike kapitaal en werksmag",
+          "desc": "Selfdienswerknemerportale, geoutomatiseerde betaalstaatlopies en geïntegreerde talentlewensiklusbeplanning."
+        },
+        {
+          "title": "Verkryging en verkryging",
+          "desc": "Outomatiese aankoopgoedkeurings, voldoening aan verkoperkontrak en dinamiese bestedingsanalise."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Wolk-inheemse argitektuur",
+          "desc": "Elastiese berekeningskaal sonder infrastruktuur op die perseel of ontwrigtende weergawe-insluiting."
+        },
+        {
+          "title": "Maak API-ekosisteem oop",
+          "desc": "Voorafgeboude verbindings wat naatlose tweerigting-datasinkronisering met pasgemaakte mikrodienste en CRM-suites moontlik maak."
+        },
+        {
+          "title": "Ingebedde analise",
+          "desc": "Direkte dashboard-afbeeldings van hoëvlakbalansstate na individuele transaksielogboeke."
+        },
+        {
+          "title": "Outomatiese werkvloei-snellers",
+          "desc": "Gebeurtenisgedrewe gebeurtenis snellers wat standaard kruis-departementele bedrywighede outonoom uitvoer."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Enkele bron van waarheid wat botsende departementele verslae uitskakel",
+        "Drastiese vermindering in maand- en kwartaaleinde sluitingsiklusse",
+        "Intydse voorraad en logistieke sigbaarheid wat voorraaduitslae tot die minimum beperk",
+        "Verminderde IT-instandhoudingsbokoste deur modulêre wolk-inheemse opdaterings",
+        "Eenvormige nakoming nasporing oor multi-streek belasting jurisdiksies",
+        "Vinniger inskakeling van verkrygde entiteite in gedeelde operasionele ruggraat"
+      ],
+      "erpStrategyPoints": [
+        "Belyn ERP argitektuur met kern operasionele werkvloeie voor konfigurasie",
+        "Kies modulêre ontplooiingsmodelle om vinnige mylpaaloorwinnings te verwesenlik",
+        "Prioritisering van hoë-gehalte meesterdatamigrasie en rekonsiliasie",
+        "Inbedding van outomatiese veranderingsbestuur en rol-aangepaste opleidingsprogramme",
+        "Ontwerp API-poorte vir wrywinglose toekomstige integrasie-uitbreiding"
+      ],
+      "sec1Eyebrow": "DIE OPERASIONELE RUGGREEN",
+      "sec1Heading": "Waarom moderne ERP saak maak",
+      "sec1Subtext": "ERP is nie meer net back-office rekeningkunde nie. Dit is die bedryfsmodel van die moderne onderneming wat in sagteware uitgedruk word.",
+      "sec2Eyebrow": "GEÏNTEGREERDE EKOSISTEEM",
+      "sec2Heading": "Gekoppelde besigheidsfunksies",
+      "sec2Subtext": "Werklike organisatoriese waarde kom na vore wanneer kernbesigheidsfunksies saam op 'n gedeelde digitale grondslag handel.",
+      "sec3Eyebrow": "KRUISFUNKSIONELE HARMONIE",
+      "sec3Heading": "verenigde bedrywighede en inligtingsvloei",
+      "sec3Subtext": "Die afbreek van kommunikasiemure tussen departemente om vloeiende, gesinchroniseerde ondernemingswerkvloeie moontlik te maak.",
+      "sec4Eyebrow": "ONDERNEMINGSTELEMETRIE",
+      "sec4Heading": "Intydse besigheidsigbaarheid",
+      "sec4Subtext": "Konsolidering van operasionele maatstawwe in deursigtige uitvoerende dashboards wat huidige besigheidsrealiteite weerspieël.",
+      "sec5Eyebrow": "KERNPLATFORMARGITEKTUUR",
+      "sec5Heading": "Moderne ERP-vermoëns",
+      "sec5Subtext": "Die argitektoniese kenmerke wat kontemporêre ERP-platforms van rigiede erfenisinstallasies skei.",
+      "sec6Eyebrow": "KWALITATIEWE IMPAK",
+      "sec6Heading": "Besigheidsvoordele",
+      "sec6Subtext": "Deur kernbesigheidsbedrywighede in 'n verenigde digitale grondslag te verbind, lewer meetbare organisatoriese veerkragtigheid.",
+      "ctaHeading": "Moderniseer jou ondernemingsbedrywighede",
+      "ctaDescription": "Verken hoe moderne ERP-platforms finansies, verkryging, voorsieningsketting en sakebedrywighede verbind deur 'n verenigde digitale grondslag.",
+      "ctaButton": "Praat met ons kundiges",
+      "sec1P1": "In vinnigbewegende ondernemingslandskappe sukkel tradisionele Ondernemingshulpbronbeplanningstelsels dikwels. Gebou in 'n era van bondelverwerking en geïsoleerde plaaslike bedieners, was erfenis ERP's sterk aangepas, moeilik om op te gradeer en pynlik ondeursigtig. Belangrike sakebedrywighede het in parallelle silo's gefunksioneer, wat staatgemaak het op brose oornaguitvoere om grootboeke met pakhuise te sinchroniseer.",
+      "sec1P2": "Moderne, wolk-inheemse ERP herdefinieer hierdie dinamiek fundamenteel. Dit funksioneer as die verenigde digitale ruggraat van die onderneming - 'n lewende grondslag waar finansies, verkryging, voorsieningsketting, voorraad en menslike hulpbronne op 'n gedeelde datamodel handel.",
+      "sec1P3": "Deur kernbedrywighede in 'n enkele geharmoniseerde omgewing te bring, elimineer moderne ERP die operasionele blindekolle wat groei vertraag, wat leiers in staat stel om die besigheid te stuur deur intydse seine eerder as verouderde historiese opsommings te gebruik.",
+      "sec3P1": "Operasionele silo's is selde menseprobleme; hulle is argitektoniese probleme. Wanneer kliëntediens-, verkrygings- en pakhuisspanne in ontkoppelde toepassings werk, vereis elke oorhandiging handmatige e-posse, sigblaaie en telefoonoproepe. Foute vermenigvuldig, fakture word opgehou en kliëntverpligtinge verval.",
+      "sec3P2": "Moderne ERP spreek dit aan deur verenigde datalyn en gebeurtenisgedrewe prosesorkestrasie:",
+      "sec3List": [
+        {
+          "bold": "Gesinchroniseerde bestelling-tot-kontant:",
+          "text": "Wanneer 'n klantbestelling geplaas word, behou voorraad outomaties, versendingetikette genereer en faktureringsgrootboeke word onmiddellik opgedateer."
+        },
+        {
+          "bold": "Verkry-om-te-betaal deursigtigheid:",
+          "text": "Aankoopbestellings, goedere-kwitansies en verkoperfakture pas outomaties by 3-rigting rekonsiliasie, en merk slegs uitsonderings vir menslike hersiening."
+        },
+        {
+          "bold": "Eenvormige arbeid en bedryfskoste:",
+          "text": "Projektydstate, betaalstaattoekennings en direkte bedryfsuitgawes word intyds direk na kostepunte gekarteer."
+        }
+      ],
+      "sec4P1": "Om 'n onderneming sonder verenigde sigbaarheid te bedryf, is soos om in digte mis met vertraagde instrumente te vlieg. Moderne ERP bied intydse telemetrie oor elke besigheidsdimensie:",
+      "sec4List": [
+        {
+          "bold": "Regstreekse uitvoerende dashboards:",
+          "text": "Oombliklike aansigte van bruto marges, bedryfskontantvloei, oop laste en bestellingsagterstande sonder om te wag vir periode-eindsluiting."
+        },
+        {
+          "bold": "Selfdiens bedryfsverslaggewing:",
+          "text": "Departementshoofde kan pasgemaakte navrae bou en van ondernemingsvlak-opsommings na individuele transaksielynitems deurdring."
+        },
+        {
+          "bold": "Gesentraliseerde meesterinligting:",
+          "text": "Die uitskakeling van teenstrydige getalle deur die daarstelling van enkele beheerde meesterdata vir kliënte, verskaffers en produkkatalogusse."
+        },
+        {
+          "bold": "Proaktiewe anomalie-waarskuwings:",
+          "text": "Outomatiese waarskuwings stel bestuurders onmiddellik in kennis wanneer marges onder die drempel daal, voorraad min raak of verskaffers se aflewerings glip."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMASIE FILOSOFIE",
+      "keyPerspectiveTitle": "Pragmatiese modernisering oor monolitiese opknapping",
+      "keyPerspectiveLead": "Moderne ERP-transformasie slaag wanneer organisasies dit as 'n evolusionêre bedryfsopgradering behandel eerder as 'n alles-of-niks IT-ontwrigting:"
+    },
+    "cybersecurity": {
+      "category": "KUBERSEKERHEID",
+      "title": "Bou kuberveerkragtigheid in 'n gekoppelde onderneming",
+      "subtitle": "Verken hoe organisasies sekuriteit kan versterk, kritieke stelsels kan beskerm en voorberei vir bedreigings oor toenemend gekoppelde omgewings.",
+      "date": "September 2026",
+      "readTime": "8 min gelees",
+      "imageCaption": "Ondernemingstegnologie-perspektief — Bedreigingsverdediging en Zero-Trust-argitektuur",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrie en opsporing",
+          "desc": "Intydse loginname en SIEM-anomalie-korrelasie oor alle wolkeindpunte en werkladings."
+        },
+        {
+          "title": "Insluiting en isolasie",
+          "desc": "Outomatiese netwerkkwarantynreëls wat gekompromitteerde houers of geloofsbriewe onmiddellik isoleer."
+        },
+        {
+          "title": "Remediëring en worteloorsake",
+          "desc": "Vinnige pleister-ontplooiing en digitale forensiese ondersoek wat die presiese oortredingsvektor identifiseer."
+        },
+        {
+          "title": "Veerkragtigheid & Verharding",
+          "desc": "Deurlopende terugvoer na onveranderlike rugsteun, beleidsrelings en outomatiese rooispan-simulasies."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Aansienlike vermindering in kwesbaarheidsaanvaloppervlaktes oor wolkbates heen",
+        "Gewaarborgde operasionele kontinuïteit en rampherstel met minimale RTO/RPO",
+        "Totale voldoeningsvertroue oor ISO 27001, SOC 2, HIPAA en GDPR oudits",
+        "Beskerming van kernonderneming intellektuele eiendom en vertroulike kliënterekords",
+        "Gestroomlynde verskaffer- en derdeparty-risikobestuur deur verenigde toegangskontroles",
+        "Verbeterde kliënt- en beleggersvertroue gerugsteun deur geverifieerde nul-trust sekuriteitsposisies"
+      ],
+      "zeroTrustPrinciples": [
+        "Moet nooit vertrou nie, verifieer altyd: Eksplisiete verifikasie word vir elke transaksie vereis",
+        "Toegang met die minste voorreg: Granulêre rolgrense wat laterale bedreigingsbeweging beperk",
+        "Aanvaar oortreding: Deurlopende bedreigingsmonitering, enkripsie tydens vervoer en in rus",
+        "Mikro-segmentering: Netwerkbrandmure wat individuele toepassingswerkladings isoleer",
+        "Deurlopende telemetrie: Outomatiese gedragsanalise wat anomale sessieversoeke vlag"
+      ],
+      "sec1Eyebrow": "DIE UITBREIDENDE OMTREK",
+      "sec1Heading": "Die Gekoppelde Ondernemingsekuriteitslandskap",
+      "sec1Subtext": "Soos moderne organisasies meer toepassings, wolkomgewings, afgeleë werknemers, mobiele toestelle en derdeparty-vennote verbind, hou die tradisionele sekuriteitsomtrek op om te bestaan.",
+      "sec2Eyebrow": "OMVATTENDE VERDEDIGING",
+      "sec2Heading": "Meerlaagse bedreigingsbeskerming",
+      "sec2Subtext": "Proaktiewe verdediging wat kritieke infrastruktuur, sensitiewe korporatiewe data en operasionele stelsels beskerm.",
+      "sec3Eyebrow": "DIE NUWE VEILIGHEIDSGRENS",
+      "sec3Heading": "Identiteits- en toegangsbestuur (IAM)",
+      "sec3Subtext": "Identiteit is die grondliggende beheervlak van moderne sekuriteit. Byna alle ernstige sekuriteitsoortredings begin met gekompromitteerde geloofsbriewe eerder as sagteware-uitbuiting.",
+      "sec4Eyebrow": "ARGITEKTUURLIKE PARADIGM",
+      "sec4Heading": "Demystifying Zero Trust-argitektuur",
+      "sec4Subtext": "Zero Trust is nie 'n enkele produk of instrument nie. Dit is 'n argitektoniese strategie gebaseer op 'n eenvoudige beginsel: vertrou geen entiteit binne of buite die netwerk by verstek nie.",
+      "sec5Eyebrow": "INFRASTRUKTUURBEHEER",
+      "sec5Heading": "Wolk-sekuriteitsoorwegings",
+      "sec5Subtext": "Beskerming van werkladings oor publieke wolk, hibriede argitekture en verspreide houeromgewings.",
+      "sec6Eyebrow": "OPERASIONELE VEERKRAG",
+      "sec6Heading": "Voorvalgereedheid: verder as voorkoming",
+      "sec6Subtext": "Ware kuberveerkragtigheid aanvaar dat voorvalle kan voorkom. Paraatheid fokus op vinnige inperking, minimale besigheidsontwrigting en geverifieerde herstel.",
+      "sec7Eyebrow": "STRATEGIESE WAARDE",
+      "sec7Heading": "Besigheidsvoordele",
+      "sec7Subtext": "Die bou van 'n kuberveerkragtige onderneming beskerm organisatoriese waarde, regulatoriese aansien en markreputasie.",
+      "ctaHeading": "Versterk jou ondernemingsekuriteit",
+      "ctaDescription": "Verken hoe organisasies sekuriteit kan versterk, kritieke stelsels kan beskerm en voorberei vir bedreigings oor toenemend gekoppelde omgewings.",
+      "ctaButton": "Praat met ons kundiges",
+      "sec1P1": "In die nalatenskap van ondernemings-IT het sekuriteit op 'n kasteel-en-skut-doktrine gewerk: alles binne die korporatiewe kantoornetwerk is vermoedelik vertroud, terwyl alles buite as onbetroubaar beskou is. 'n Enkele korporatiewe firewall het interne bedieners, databasisse en tafelrekenaars beskerm.",
+      "sec1P2": "Vandag se onderneming het fisiese mure ontgroei. Werkladings woon oor multi-wolk-omgewings (AWS, Azure, GCP), werknemers kry toegang tot besigheidstoepassings vanaf verskillende liggings, en API's ruil voortdurend sensitiewe operasionele data uit met eksterne logistieke verskaffers, finansiële instellings en SaaS-verskaffers.",
+      "sec1P3": "Alhoewel hierdie hiperkonnektiwiteit geweldige besigheidsratsheid aandryf, brei dit die onderneming se aanvaloppervlak aansienlik uit. Elke API-eindpunt, identiteitsteken, gekoppelde mobiele toestel en SaaS-integrasie verteenwoordig 'n potensiële vektor van blootstelling. Ware ondernemingsbeskerming vereis die verskuiwing van omtrekgebaseerde verdediging na proaktiewe, end-tot-end kuberveerkragtigheid.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Bedreigingsopsporing",
+          "desc": "Masjienleer-gesteunde bedreigingsintelligensie wat afwykende netwerkpatrone, geloofwaardigheidsmisbruik en nul-dag-kwesbaarhede intyds monitor."
+        },
+        {
+          "icon": "📡",
+          "title": "Sekuriteitsmonitering",
+          "desc": "Centralized Security Operations Centre (SOC) telemetrie wat gebeure oor bedieners, houergroepe, identiteitsverskaffers en eindpunte korreleer."
+        },
+        {
+          "icon": "🔍",
+          "title": "Kwesbaarheidsbestuur",
+          "desc": "Deurlopende outomatiese skandering van kwesbaarheid oor infrastruktuur, bronkodebewaarplekke en houerregisters om swakhede proaktief reg te stel."
+        },
+        {
+          "icon": "🔒",
+          "title": "Databeskerming",
+          "desc": "Robuuste enkripsie in transito (TLS 1.3) en in rus (AES-256), saam met granulêre dataverliesvoorkoming (DLP) bestuur om intellektuele eiendom lekkasies te voorkom."
+        }
+      ],
+      "sec3P1": "Die beskerming van ondernemingsbates vereis om te verseker dat elke identiteit – of dit nou 'n menslike bestuurder, 'n eksterne kontrakteur of 'n outonome sagtewarediensrekening is – gevalideerde magtiging het vir die presiese hulpbronne waartoe dit toegang kry.",
+      "sec3List": [
+        {
+          "bold": "Gesentraliseerde identiteitsbestuur:",
+          "text": "Enkelaanmelding (SSO) en gefedereerde identiteitstandaarde wat gefragmenteerde wagwoordwinkels oor toepassings uitskakel."
+        },
+        {
+          "bold": "Aanpasbare multifaktor-verifikasie (MFA):",
+          "text": "Uitvissingbestande FIDO2 hardeware sleutels en risiko-gebaseerde kontekstuele uitdagings vir sensitiewe administratiewe funksies."
+        },
+        {
+          "bold": "Granulêre toegangsbeheer:",
+          "text": "Fynkorrelige Rolgebaseerde (RBAC) en Attribuut-Gebaseerde (ABAC) toegangskontroles wat op die API- en databasisvlakke afgedwing word."
+        },
+        {
+          "bold": "Minste-voorreg beginsels:",
+          "text": "Verlening van tydelike, net-betydse (JIT) toegang wat outomaties verval wanneer administratiewe take afhandel."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NUL VERTROUE KERNLEER",
+      "keyPerspectiveTitle": "Deurlopende verifikasie oor blinde vertroue",
+      "keyPerspectiveLead": "In 'n Zero Trust-argitektuur word implisiete vertroue gebaseer op netwerkligging heeltemal afgetakel. Elke transaksie, databasisnavraag en gebruikersaanmelding moet voortdurend die legitimiteit daarvan bewys:",
+      "cloudSecurityCards": [
+        {
+          "title": "Gedeelde Verantwoordelikheid",
+          "desc": "Duidelike bestuur wat die wolkverskaffer se fisiese infrastruktuursekuriteit onderskei van die onderneming se verantwoordelikheid vir data-enkripsie, IAM-beleide en toepassingskode."
+        },
+        {
+          "title": "Infrastruktuur as kode (IAC)",
+          "desc": "Onveranderlike, ouditeerbare wolkkonfigurasies wat deur kode bestuur word. Outomatiese beleid-as-kode skandeerders blokkeer wanopstellings en ontblote emmers voor ontplooiing."
+        },
+        {
+          "title": "Houer- en Kubernetes-sekuriteit",
+          "desc": "Verharde houerlooptye, ondertekende beeldregisters, netwerkmikrosegmentering en outomatiese geheime bestuur wat geloofsbriewe uit bronbewaarplekke hou."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "WOLK EN MODERNISASIE",
+      "title": "Modernisering van verouderde toepassings vir die wolk",
+      "subtitle": "Verken 'n praktiese benadering tot die assessering, modernisering en skuif van verouderde toepassings na skaalbare, veilige wolkargitekture.",
+      "date": "September 2026",
+      "readTime": "6 min gelees",
+      "imageCaption": "Ondernemingstegnologieperspektief — Wolk-inheemse herplatformering en houerisering",
+      "modernizationApproaches": [
+        {
+          "title": "Hergasheer (lig en skuif)",
+          "desc": "Verander werkladings vinnig na wolk virtuele masjiene met minimale kodewysigings."
+        },
+        {
+          "title": "Herplatform (lig en hervorm)",
+          "desc": "Gradeer looptydraamwerke op, neem bestuurde wolkdatabasisse aan en stroomlyn bedrywighede."
+        },
+        {
+          "title": "Refactor (Cloud-Native Rebuild)",
+          "desc": "Dekonstrueer monoliete in houer-mikrodienste en gebeurtenis-gedrewe bedienerlose API's."
+        },
+        {
+          "title": "Vervang (SaaS-modernisering)",
+          "desc": "Onttrek oortollige nalatenskapstelsels ten gunste van doelgeboude ondernemingswolksagteware."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Legacy Assessering",
+          "desc": "Outomatiese afhanklikheidskartering, tegniese skuldkatalogisering en wolkgereedheidtelling."
+        },
+        {
+          "title": "Teikenargitektuur",
+          "desc": "Modulêre mikrodiens-bloudrukke, houertopologieë en outomatiese IaC-sjablone."
+        },
+        {
+          "title": "Gefaseerde migrasie",
+          "desc": "Kanarievrystellings, dubbelskryf-datasinchronisasie en nul-stilstandtyd-afsnygolwe."
+        },
+        {
+          "title": "Wolk-optimering",
+          "desc": "Deurlopende kostebestuur, outoskaal-telemetrie en FinOps-operasionele hersiening."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponensieel laer infrastruktuuronderhoud- en hardeware-verfrissingsuitgawes",
+        "Byna oneindige rekenelastisiteit hantering van piek ondernemingsverkeer met geen latensie",
+        "Versnelde vrystellingsnelheid met ten volle outomatiese CI/CD-ontplooiingspyplyne",
+        "Uitskakeling van verouderde enkelpunte van mislukking met hoë beskikbaarheid van multi-AZ",
+        "Moderne API-argitekture wat vinnige kruis-platform vennoot-integrasies moontlik maak",
+        "Gevorderde intydse waarneembaarheid in toepassingsprestasie en wolkbesteding"
+      ],
+      "landscapeAssessmentPoints": [
+        "Kartering van komplekse inter-toepassing afhanklikhede en data sinchronisasie kadense",
+        "Identifisering van hardgekodeerde omgewingskonfigurasies en eie databasisskemas",
+        "Evaluering van regulatoriese voldoening en data-soewereiniteitsbeperkings per jurisdiksie",
+        "Bereken realistiese Totale Koste van Eienaarskap (TCO) oor herfaktor- versus hergasheerpaaie",
+        "Vestiging van duidelike uitrolgolwe om aktiewe daaglikse sakebedrywighede te beskerm"
+      ],
+      "sec1Eyebrow": "DIE WERKLIKHEID VAN LEGACY STELSELS",
+      "sec1Heading": "Die Legacy Challenge",
+      "sec1Subtext": "Verouderende monoliete beperk innovasiesnelheid, verhoog operasionele kwesbaarhede en verhoog infrastruktuuronderhoudskoste.",
+      "sec2Eyebrow": "ASSESSERING EN ONTDEKKING",
+      "sec2Heading": "Verstaan die toepassingslandskap",
+      "sec2Subtext": "Suksesvolle wolkmodernisering begin met streng assessering. Om direk na migrasie te spring sonder om toepassingsafhanklikhede te oudit, is die primêre oorsaak van vertraagde afsny.",
+      "sec3Eyebrow": "DIE 4 MODERNISASIEPAAIE",
+      "sec3Heading": "Moderniseringsbenaderings",
+      "sec3Subtext": "Daar is geen een-grootte-pas-almal migrasie strategie. Toonaangewende ondernemings pas die regte moderniseringspatroon by elke spesifieke werklading op grond van besigheidswaarde, dringendheid en tegniese skuld.",
+      "sec4Eyebrow": "TEKEN TRANSFORMASIE MODEL",
+      "sec4Heading": "Moderne wolkargitektuur",
+      "sec4Subtext": "'n Gestruktureerde padkaart wat verouderde monoliete in elastiese, veilige en onderhoubare wolkdienste omskep.",
+      "sec5Eyebrow": "TRANSFORMASIE-UITKOMSTE",
+      "sec5Heading": "Sleutel moderniseringsvoordele",
+      "sec5Subtext": "Deur verouderde stelsels na moderne wolkargitekture te skuif, lewer tasbare operasionele behendigheid en kostevoorspelbaarheid.",
+      "ctaHeading": "Moderniseer jou ou toepassings",
+      "ctaDescription": "Verken 'n praktiese benadering tot die assessering, modernisering en verskuiwing van verouderde toepassings na skaalbare, veilige wolkargitekture.",
+      "ctaButton": "Praat met ons kundiges",
+      "sec1P1": "Missiekritieke toepassings wat 'n dekade gelede gebou is, dryf steeds miljarde aan ondernemingsinkomste, maar tog skep hul argitektoniese rigiditeit groeiende operasionele risiko.",
+      "sec1P2": "Elke onderneming staar die spanning tussen stabiliteit en modernisering in die gesig. Legacy-stelsels is ontwerp vir duursaamheid, en hulle presteer al jare lank betroubaar. Soos besigheidsvereistes egter versnel, ondervind hierdie verouderende argitekture strukturele beperkings:",
+      "sec1List": [
+        {
+          "bold": "Veroudering sagteware stapels:",
+          "text": "Monolitiese kodebasisse gebou op verouderde raamwerke met dalende talentpoele beskikbaar vir instandhouding."
+        },
+        {
+          "bold": "Moeilike onderhoudsiklusse:",
+          "text": "Styf gekoppelde komponente waar die verandering van 'n enkele kenmerk die risiko loop om onverwante operasionele modules te breek."
+        },
+        {
+          "bold": "Beperkte skaalbaarheid:",
+          "text": "Vertikale skaallimiete wat die aankoop van duur eie hardeware vereis om seisoenale verkeerspieke te hanteer."
+        },
+        {
+          "bold": "Integrasie-uitdagings:",
+          "text": "Onvermoë om glad met moderne mobiele toepassings, kliëntportale of vennoot-API's te koppel sonder brose bondelskrifte."
+        },
+        {
+          "bold": "Infrastruktuurbeperkings:",
+          "text": "Fisiese bedienerkamerlewensiklusse, rugsteunkwesbaarhede en hoë krag-/verkoelingsuitgawes."
+        }
+      ],
+      "sec2P1": "'n Pragmatiese moderniseringsreis begin deur totale duidelikheid oor die bestaande landgoed te vestig:",
+      "sec2List": [
+        {
+          "bold": "Aansoeke:",
+          "text": "Katalisering van alle aktiewe werkladings, pasgemaakte modules, agtergrondskrifte en historiese derdeparty-pakkette."
+        },
+        {
+          "bold": "Afhanklikhede:",
+          "text": "Kartering van komplekse looptydkoppeling, gedeelde databasistabelle, direkte lêerstelseloproepe en eksterne dienskontrakte."
+        },
+        {
+          "bold": "Data:",
+          "text": "Evaluering van datastrukture, transaksionele integriteitvereistes, rugsteunkadens en regulatoriese soewereiniteitsreëls."
+        },
+        {
+          "bold": "Infrastruktuur:",
+          "text": "Oudit van SVE, geheue, berginggebruik en netwerkdeurset volgens regte-grootte teikenwolkspesifikasies."
+        },
+        {
+          "bold": "Besigheidskrititeit:",
+          "text": "Kategoriseer toepassings in vlakke om veilige, opgevoerde migrasiegolwe met duidelike terugvalprosedures te ontwerp."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Voordeel:",
+      "cloudArchitectureBadge": "Modernisering Lewensiklus",
+      "cloudArchitectureTitle": "Einde-tot-einde Wolk-moderniseringsvloei",
+      "sec4P1": "Die bestemmingsargitektuur ontkoppel kerntoepassings in modulêre, houerdienste wat op elastiese wolkplatforms (soos Kubernetes of bestuurde bedienerlose looptye) aangebied word.",
+      "sec4P2": "Deur geoutomatiseerde CI/CD-ontplooiingspyplyne, geoutomatiseerde blougroen-afsnypunte en infrastruktuur as kode te vestig, verander ontplooiings van senutergende naweekgebeure in naatlose daaglikse roetines.",
+      "sec4P3": "Elastiese berekening skaal outomaties op tydens vraagstygings en skaal af tydens rustyd, wat ledige hulpbronkoste uitskakel, terwyl sub-sekonde reaksietye vir globale gebruikers gewaarborg word.",
+      "keyPerspectiveEyebrow": "MODERNISASIE BESTE PRAKTYKE",
+      "keyPerspectiveTitle": "Vier pilare van 'n suksesvolle migrasie",
+      "keyPerspectiveLead": "Ervaring toon dat moderniseringsprojekte slaag wanneer dit gegrond is op omvattende voorbereiding, duidelike golfvolgorde en streng toetsing:"
+    }
+  }
+}

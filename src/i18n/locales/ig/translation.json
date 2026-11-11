@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Ihe gbasara anyị",
+    "services": "Ọrụ",
+    "products": "Ngwaahịa",
+    "perspectives": "Echiche",
+    "technologies": "Teknụzụ",
+    "contact": "Kpọtụrụ",
+    "signIn": "Banye",
+    "signUp": "Debanye aha",
+    "signOut": "Pụta",
+    "chooseLanguage": "Họrọ asụsụ gị",
+    "searchLanguage": "Chọọ asụsụ",
+    "resetEnglish": "Tọgharia ka ọ bụrụ Bekee",
+    "noResults": "Enweghị asụsụ ahụrụ",
+    "englishDefault": "Bekee (nke ndabara)",
+    "english": "Bekee"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Ngwanrọ, emebere maka ụzọ <em>azụmahịa gị</em> si arụ ọrụ.",
+    "description": "Rezonants bụ ọrụ IT yana ụlọ ọrụ ngwaahịa dijitalụ. Anyị na-echepụta, wuo ma tụọ sọftụwia omenala, ngwaahịa weebụ na mkpanaka, akụrụngwa igwe ojii na AI - maka ụlọ ọrụ ndị na-asọ mpi na ogbugbu.",
+    "bookConsultation": "Detuo ndụmọdụ n'efu",
+    "exploreServices": "Chọpụta ọrụ",
+    "years": "Afọ",
+    "projects": "Ọrụ",
+    "retention": "njide",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants - kemgbe 2012",
+    "metaStudio": "Digital ngwaahịa studio",
+    "metaTech": "Weebụ · Mobile · igwe ojii · AI"
+  },
+  "about": {
+    "eyebrow": "Banyere Anyị",
+    "title": "Iwuli Ngwọta Dijitalụ <em>Nke Na-ebuga Azụmahịa Na-aga n'ihu</em>",
+    "description": "Rezonants bụ ụlọ ọrụ ngwọta teknụzụ lekwasịrị anya n'inyere azụmaahịa aka ịgbanwe echiche ka ọ bụrụ ahụmịhe dijitalụ bara uru. Anyị na-ejikọta nkà na ụzụ, imepụta ihe, na nghọta azụmahịa iji nyefee ngwọta ndị e mere na gburugburu mkpa ụwa.<br /><br />Site na mgbanwe dijitalụ na mmepe ngwanrọ omenala na igwe ojii, AI, automation, na ọrụ nkà na ụzụ jisiri ike, anyị na-enyere òtù dị iche iche aka ime ka mgbagwoju anya dị mfe, melite arụmọrụ, na ịmepụta uru dijitalụ na-adịgide adịgide.",
+    "awardWinning": "Mmeri nturu ugo",
+    "awardText": "Aghọtara maka nzipu kacha mma n'ofe webụ na injinịa ngwaahịa mkpanaka.",
+    "professionalStaff": "Ndị ọrụ ọkachamara",
+    "staffText": "Senior, ndị injinia na-aza ajụjụ bụ ndị nwe ọrụ ahụ site na oku izizi gaa na-ebi ndụ.",
+    "support247": "24/7 Nkwado",
+    "supportText": "Ọrụ jikwaa yana ahịrị nkwado na-aza mgbe ịchọrọ ya.",
+    "fairPrices": "Ọnụ ahịa ziri ezi",
+    "pricesText": "Atụmatụ ịkwụwa aka ọtọ na ịgba ụgwọ doro anya na ntinye aka ọ bụla.",
+    "yearsExcellence": "Afọ nke Enterprise Ọkachamara"
+  },
+  "stats": {
+    "happyClients": "Ndị ahịa nwere obi ụtọ",
+    "projectsDone": "Emere oru ngo",
+    "winAwards": "Nweta ihe nrite"
+  },
+  "insights": {
+    "eyebrow": "Echiche",
+    "title": "Echiche",
+    "sub": "Ịchọgharị echiche, usoro, na teknụzụ na-akpụzi ọdịnihu.",
+    "filters": {
+      "all": "Ha niile",
+      "digital-transformation": "Mgbanwe dijitalụ",
+      "ai": "AI & akpaaka",
+      "cloud": "Igwe ojii",
+      "data": "Data & Nyocha",
+      "software": "Ngwa ngwa",
+      "business": "Azụmahịa & Teknụzụ"
+    },
+    "readMore": "Gụkwuo",
+    "close": "Mechie",
+    "keyTakeaways": "Ụzọ ihe owuwu dị mkpa",
+    "relatedServices": "Ike & Ọrụ emetụtara",
+    "minRead": "nkeji ọgụgụ",
+    "item1Date": "Julaị 2026",
+    "item1Tag": "Ngwaahịa & ERP",
+    "item1Title": "Usoro ERP modular maka ụlọ ọrụ na-eto eto",
+    "item1Text": "Otu anyị si ahazi njikọ aka ERP ka ego, ngwa ahịa, HR na ịzụ ahịa na-ejikọta n'enweghị nsogbu na-enweghị ọgba aghara ọtụtụ afọ.",
+    "item2Date": "Junị 2026",
+    "item2Tag": "ọgụgụ isi arụrụ arụ",
+    "item2Title": "Sistemụ AI nke AI: na-esi na nkata nkata gaa na ogbugbu kwụụrụ onwe ya",
+    "item2Text": "Na-ahazi sistemu LLM ọtụtụ ndị nnọchi anya na-ahazi, na-akwado ma na-eme usoro azụmahịa siri ike yana nleba anya nke mmadụ.",
+    "item3Date": "Mee 2026",
+    "item3Tag": "Ụlọ ọrụ Milestone",
+    "item3Title": "Aghọtara n'etiti ụlọ ọrụ mmepụta ihe ọhụrụ IT na Hyderabad",
+    "item3Text": "A nabatara ụlọ ọrụ injinịa anyị maka izipu kacha mma, ikike teknụzụ miri emi, yana afọ ojuju ndị ahịa n'ofe injinịa ngwaahịa zuru ụwa ọnụ.",
+    "desc": "Chọpụta echiche na echiche sitere na Rezonants na mgbanwe dijitalụ, AI, akpaaka, igwe ojii, data, ngwanrọ, na ọdịnihu nke teknụzụ azụmahịa.",
+    "categories": {
+      "digitalTransformation": "Mgbanwe dijitalụ",
+      "ai": "AI & akpaaka",
+      "cloud": "Igwe ojii",
+      "data": "Data & Nyocha",
+      "software": "Ngwa ngwa",
+      "business": "Azụmahịa & Teknụzụ"
+    }
+  },
+  "technologies": {
+    "title": "Teknụzụ & Nhazi",
+    "headline": "Ngwọta teknụzụ Enterprise",
+    "sub": "Teknụzụ ọgụgụ isi. Ọrụ akpaaka. Azụmahịa Smarter.",
+    "selectTechnology": "Họrọ ngwọta teknụzụ…",
+    "options": {
+      "aiRobotics": "AI & Robotics Solutions",
+      "businessAutomation": "Ngwọta akpaaka azụmahịa",
+      "cloudMigrations": "Ngwọta Mbugharị igwe ojii",
+      "dataCenters": "Ngwọta Ebe Data",
+      "cognitiveAnalytics": "Nleba anya ihe & AI",
+      "informationReporting": "Ozi & Usoro mkpesa",
+      "managedServices": "Ọrụ ejirila",
+      "oneStopSolutions": "Ngwọta teknụzụ otu nkwụsị"
+    },
+    "explore": "Nyochaa teknụzụ",
+    "bookDiscovery": "Nchọpụta teknụzụ akwụkwọ",
+    "exploreAll": "Nyochaa teknụzụ niile",
+    "coreCapabilities": "Ikike teknụzụ isi",
+    "bookConsultation": "Depụta ndụmọdụ"
+  },
+  "contact": {
+    "eyebrow": "Kọntaktị",
+    "title": "Gwa onye injinia agadi okwu, ọ bụghị edemede ahịa",
+    "sub": "Kekọrịta ntakịrị gbasara ọrụ gị ma anyị ga-aza n'ime otu ụbọchị azụmahịa.",
+    "reachUs": "Nweta anyị ozugbo",
+    "preferConversation": "Ọ masịrị mkparịta ụka? Anyị bụ otu oku pụọ.",
+    "contactLede": "Ụzọ kacha ọsọ isi gaa n'ihu bụ mkparịta ụka dị mkpirikpi. Nweta anyị na ọwa ọ bụla dị n'okpuru, ma ọ bụ depụta oghere na anyị ga-abịakwute gị kwadebere.",
+    "phone": "Ekwentị",
+    "email": "Email",
+    "office": "Ụlọ ọrụ",
+    "hours": "Awa",
+    "hoursValue": "Mon – Satọde, 9:30 – 18:30 IST",
+    "bookSlot": "Detuo oghere ndụmọdụ",
+    "sendMessage": "Zitere anyị ozi",
+    "fieldsRequired": "Ubi nke akara * ka achọrọ.",
+    "fullName": "Aha zuru oke *",
+    "emailLabel": "Email *",
+    "company": "Ụlọ ọrụ",
+    "subject": "Isiokwu",
+    "messageLabel": "Ozi *",
+    "sending": "Na-eziga…",
+    "sendBtn": "Ziga ozi",
+    "successMsg": "Ozi ezitere! E zigara gị otu oyiri.",
+    "errorMsg": "Enweghị ike ịchekwa ozi gị. Lelee na tebụl kọntaktị_messages dị, wee gbalịa ọzọ.",
+    "offices": {
+      "vijayawada": "Ụlọ ọrụ Vijayawada",
+      "southAfrica": "Ụlọ ọrụ South Africa"
+    },
+    "placeholders": {
+      "fullName": "Aha gị zuru oke",
+      "email": "ị @company.com",
+      "company": "Ụlọ ọrụ gị ma ọ bụ nzukọ gị",
+      "subject": "Olee otú anyị ga-esi nyere aka?",
+      "message": "Gwa anyị gbasara ọrụ gị, usoro iheomume na ebumnuche gị..."
+    },
+    "validation": {
+      "fullNameRequired": "Biko tinye aha gị n'uju.",
+      "emailRequired": "Biko tinye adreesị email gị.",
+      "emailInvalid": "Biko tinye adreesị ozi-e bara uru.",
+      "messageRequired": "Biko tinye ozi."
+    }
+  },
+  "services": {
+    "eyebrow": "Ọrụ",
+    "title": "Ihe anyị na-eme",
+    "sub": "Site na atụmatụ iji rụọ ọrụ a na-achịkwa, anyị na-ebuga mmekorita teknụzụ njedebe na njedebe maka ụlọ ọrụ ndị na-asọ mpi na ogbugbu.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Mmalite Iji Nkwanye",
+        "description": "Mmepe ngwụcha ngwụcha nke ihe ngwọta dijitalụ ọhụrụ sitere na chọrọ azụmahịa na ụkpụrụ ụkpụrụ ụlọ site na mmepe, ntinye, nnwale, ntinye, na nkwado na-aga n'ihu."
+      },
+      "businessProcessAutomation": {
+        "label": "Usoro Azụmahịa akpaaka",
+        "description": "Nhazi na mmejuputa ihe ngwọta akpaaka nwere ọgụgụ isi nke na-eme ka usoro azụmahịa dị mma, wepụ ihe omume akwụkwọ ntuziaka ugboro ugboro, melite arụmọrụ arụmọrụ, ma mee ka ahịa ahịa dịkwuo elu."
+      },
+      "centerOfExcellence": {
+        "label": "Center of Excellence",
+        "description": "Ịmepụta nkà na ụzụ pụrụ iche na ụlọ ọrụ ikike azụmahịa nke na-enye ọchịchị, ụkpụrụ, ọkachamara, usoro, ihe ndị a na-eji eme ihe, na ọganihu na-aga n'ihu n'ofe nzukọ ahụ."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Omenala Mmepe & Nhazi",
+        "description": "Mmepe na nkwalite nke ngwa, nyiwe, workflows, na enterprise ngwọta iji lebara pụrụ iche azụmahịa chọrọ na-ebuga ahaziri ọrụ."
+      },
+      "digitalTransformation": {
+        "label": "Mgbanwe dijitalụ",
+        "description": "Imeziwanye arụmọrụ azụmaahịa, teknụzụ teknụzụ, na ahụmịhe ndị ahịa site na igwe ojii, AI, akpaaka, data, na teknụzụ ngwa ọgbara ọhụrụ."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Usoro Ngwọta Ọgwụgwụ na Ọgwụgwụ",
+        "description": "Usoro nnyefe zuru oke na-ekpuchi usoro ndụ teknụzụ zuru oke-site na atụmatụ, ihe ndị a chọrọ, na ụkpụrụ ụlọ ruo mmepe, ntinye, ntinye, nchịkwa, nlekota na nkwado."
+      },
+      "migrationModernization": {
+        "label": "Migration & Modernization",
+        "description": "Mbugharị echekwabara na ahaziri nke ngwa, data, nyiwe, akụrụngwa na ibu ọrụ sitere na ihe nketa ma ọ bụ gburugburu dị adị gaa na nyiwe teknụzụ ọgbara ọhụrụ, nke nwere ike ịgbatị, yana kachasị mma."
+      },
+      "pocPilotImplementation": {
+        "label": "Ihe akaebe nke echiche (PoC) & mmejuputa pilot",
+        "description": "Mmepe ngwa ngwa na nkwenye nke ngwọta nkà na ụzụ iji chọpụta ihe gbasara nkà na ụzụ, uru azụmahịa, ihe ntinye chọrọ, arụmọrụ, na scalability tupu mmejuputa zuru oke."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Ọrụ Ekekọrịtara & Ọrụ Jisiri ike",
+        "description": "Nnyefe teknụzụ na ikike ịrụ ọrụ n'ofe ngalaba azụmaahịa site na usoro ahaziri ahazi, akụrụngwa nwere nka, usoro ọchịchị, njikwa ọrụ, yana ọkwa ọrụ enwere ike ịlele."
+      },
+      "customDevelopment": {
+        "label": "Mmalite Iji Nkwanye",
+        "description": "Mmepe ngwụcha ngwụcha nke ihe ngwọta dijitalụ ọhụrụ sitere na chọrọ azụmahịa na ụkpụrụ ụkpụrụ ụlọ site na mmepe, ntinye, nnwale, ntinye, na nkwado na-aga n'ihu."
+      },
+      "processAutomation": {
+        "label": "Usoro Azụmahịa akpaaka",
+        "description": "Nhazi na mmejuputa ihe ngwọta akpaaka nwere ọgụgụ isi nke na-eme ka usoro azụmahịa dị mma, wepụ ihe omume akwụkwọ ntuziaka ugboro ugboro, melite arụmọrụ arụmọrụ, ma mee ka ahịa ahịa dịkwuo elu."
+      },
+      "solutionEngineering": {
+        "label": "Omenala Mmepe & Nhazi",
+        "description": "Mmepe na nkwalite nke ngwa, nyiwe, workflows, na enterprise ngwọta iji lebara pụrụ iche azụmahịa chọrọ na-ebuga ahaziri ọrụ."
+      },
+      "endToEndSolutions": {
+        "label": "Usoro Ngwọta Ọgwụgwụ na Ọgwụgwụ",
+        "description": "Usoro nnyefe zuru oke na-ekpuchi usoro ndụ teknụzụ zuru oke-site na atụmatụ, ihe ndị a chọrọ, na ụkpụrụ ụlọ ruo mmepe, ntinye, ntinye, nchịkwa, nlekota oru na nkwado."
+      },
+      "migrationServices": {
+        "label": "Migration & Modernization",
+        "description": "Mbugharị echekwabara na ahaziri nke ngwa, data, nyiwe, akụrụngwa na ibu ọrụ sitere na ihe nketa ma ọ bụ gburugburu dị adị gaa na nyiwe teknụzụ ọgbara ọhụrụ, scalable na kachasị mma."
+      },
+      "pilotPrototyping": {
+        "label": "Ihe akaebe nke echiche (PoC) & mmejuputa pilot",
+        "description": "Mmepe ngwa ngwa na nkwenye nke ngwọta teknụzụ iji chọpụta ohere ọrụ teknụzụ, uru azụmahịa, ihe ntinye chọrọ, arụmọrụ, na scalability tupu mmejuputa zuru oke."
+      },
+      "sharedServices": {
+        "label": "Ọrụ Ekekọrịtara & Ọrụ Jisiri ike",
+        "description": "Nnyefe teknụzụ na ikike ịrụ ọrụ n'ofe ngalaba azụmaahịa site na usoro ahaziri ahazi, akụrụngwa ndị nwere nka, usoro ọchịchị, njikwa ọrụ na ọkwa ọrụ enwere ike ịlele."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Hazie ndụmọdụ",
+      "exploreFramework": "Nyochaa Usoro Ngwọta",
+      "talkSeniorEngineer": "Gwa onye injinia ukwu okwu",
+      "exploreTechStack": "Chọpụta Teknụzụ Stack",
+      "bookPocSession": "Detuo Oge Nchọpụta PoC",
+      "seeAllServices": "Hụ ọrụ niile",
+      "requestAssessment": "Rịọ maka Ntụle Mbugharị",
+      "exploreCloudSolutions": "Nyochaa Ngwọta igwe ojii"
+    },
+    "sharedServices": {
+      "heroBadge": "Ọrụ EKsara & Ọrụ ejikwa",
+      "heroTitle": "Ọrụ Ekekọrịtara Enterprise & Ọrụ jisiri ike",
+      "heroDesc": "Ikike azụmahịa nke ọnụ ọgụgụ, na-eme ka usoro ọrụ na-arụ ọrụ na-agafe agafe, wee nweta ọmarịcha arụmọrụ site n'ụdị ọrụ ahaziri ahazi, nchekwa na ọnụ ahịa dị oke ọnụ.",
+      "bookDiscovery": "Nchọpụta Ọrụ Ejikwa Akwụkwọ",
+      "exploreFramework": "Chọpụta Usoro Ngwọta",
+      "coreCapabilities": "Ikike isi:",
+      "managedServices": "Ọrụ Ejikwa",
+      "itOperations": "Ọrụ IT",
+      "appSupport": "Nkwado ngwa",
+      "serviceManagement": "Njikwa ọrụ",
+      "resourceOptimization": "Nbulite akụrụngwa",
+      "slaManagement": "njikwa SLA",
+      "governance": "Ọchịchị",
+      "continuousImprovement": "Mmelite na-aga n'ihu",
+      "costOptimization": "Nkwalite ọnụ ahịa",
+      "readyTitle": "Ị dịla njikere ịkwalite ọrụ gị?",
+      "readyDesc": "Chọpụta ka usoro ọrụ anyị na-ekekọrịta na njikwa ọrụ nwere ike isi welie ogo ọrụ, hụ na ọ na-aga n'ihu, ma kwalite arụmọrụ ọnụ ahịa na-adigide maka ụlọ ọrụ gị.",
+      "scheduleSession": "Hazie nnọkọ nchọta"
+    },
+    "solutionEngineering": {
+      "heroBadge": "Ngwọta injinia & ịrụpụta ihe",
+      "heroTitle": "Mmepe omenala na nhazi",
+      "heroDesc": "Onye na-ese ụkpụrụ ụlọ, injinia, na ibuga sistemu sọftụwia na-arụ ọrụ dị elu emebere maka usoro arụmọrụ gị, pipeline data, yana ihe achọrọ."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "ỌHỤMỤ ỌHỤRỤ & Nnwale",
+      "heroTitle": "Ihe akaebe nke echiche (PoC) & mmejuputa pilot",
+      "heroDesc": "Kwado teknụzụ na-apụta, mebie ụkpụrụ ụlọ dị mgbagwoju anya, wee gosipụta uru azụmaahịa na ụdị mmepụta ọkwa n'ime izu, ọ bụghị nkeji iri."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "Ihe owuwu ụlọ na ibuga",
+      "heroTitle": "Usoro Ngwọta Ọgwụgwụ na Ọgwụgwụ",
+      "heroDesc": "Ụdị nnyefe dị n'otu na-ejikọta nchọpụta ngwaahịa, nhazi ihe ngwọta, injinia, akụrụngwa igwe ojii, na ọrụ 24/7 ntụkwasị obi."
+    },
+    "migrationServices": {
+      "heroBadge": "OKWU MMADỤ NA EKWU NDỊ ỌRỊA",
+      "heroTitle": "Migration & Modernization",
+      "heroDesc": "Ngbanwe ọrụ nketa n'enweghị nsogbu, ụlọ ọrụ monolithic, na akụrụngwa dị n'ime ụlọ gaa na nyiwe igwe ojii nke ọgbara ọhụrụ, echedoro na nke nwere ike ịgbatị."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Mmezi ụlọ ọrụ",
+        "titlePart1": "Dijitalụ",
+        "titlePart2": "Mgbanwe",
+        "description": "Imeziwanye arụmọrụ azụmaahịa, teknụzụ teknụzụ, na ahụmịhe ndị ahịa site na igwe ojii, AI, akpaaka, data, na teknụzụ ngwa ọgbara ọhụrụ.",
+        "bookWorkshop": "Ụlọ ọrụ mgbanwe akwụkwọ",
+        "exploreFramework": "Chọpụta Usoro Ngwọta",
+        "startTransformation": "Malite mgbanwe",
+        "exploreStrategy": "Nyochaa Strategy",
+        "coreCapabilitiesTitle": "Isi Ike",
+        "coreCapabilities": [
+          "Usoro dijitalụ",
+          "Mgbanwe igwe ojii",
+          "AI & akpaaka",
+          "Imezi ngwa ngwa",
+          "Nwelite Nhazi",
+          "Data & Nyocha",
+          "Ahụmahụ ndị ahịa",
+          "Nkà na ụzụ ọgbara ọhụrụ"
+        ],
+        "row1Eyebrow": "Strategy & Roadmap",
+        "row1Title": "Site n'ọhụụ ruo n'ụzọ a pụrụ imezu",
+        "row1P1": "Anyị na ndị isi ụlọ ọrụ na-arụkọ ọrụ iji kọwapụta atụmatụ dijitalụ, ikpe azụmaahịa, na maapụ ụzọ nwere mmeri ngwa ngwa yana igbubi ihe egwu.",
+        "row1P2": "Atụmatụ ebute ụzọ, ụdị TCO, na KPI na-ahụ na mbọ ọ bụla imeziwanye teknụzụ na-ejikọ ozugbo na ego ha nwetara, arụmọrụ na nsonaazụ afọ ojuju ndị ahịa.",
+        "row2Eyebrow": "Nwelite Nhazi",
+        "row2Title": "Mee ka ọ dị ọhụrụ na-enweghị imebi azụmahịa",
+        "row2P1": "Megharịa monoliths monoliths gaa na microservices, APIs, na ụkpụrụ igwe ojii nwere mbelata oge efu na nkwado nkwụghachi akpaaka.",
+        "row2P2": "Anyị na-emezi ngwa, ọdụ data, yana ọkwa njikọta ka anyị na-echekwa nnabata na ọnọdụ nchekwa.",
+        "row3Eyebrow": "Igwe ojii, AI & Data",
+        "row3Title": "Nkuchi igwe ojii & ọgụgụ isi na-ebute data",
+        "row3P1": "Nabata AWS, Azure, na GCP, wuo pipeline data ọgbara ọhụrụ, wee tinye ndị ọrụ mmụta igwe iji chụpụ mkpebi ndị kwụụrụ onwe ha.",
+        "row3P2": "Site na nkwanye mmemme ozugbo gaa na dashboard dị n'otu, mgbanwe na-abụ nke a na-atụtute ma na-adigide.",
+        "row4Eyebrow": "Ahụmahụ ndị ahịa",
+        "row4Title": "Ahụmahụ Omnichannel ọgbara ọhụrụ",
+        "row4P1": "Hagharịa njem ndị ahịa n'ofe webụ, iOS, Android, na ọnụ ụzọ ọrụ onwe onye nwere oghere ahaziri iche.",
+        "row4P2": "Injinia Platform, telemetry, na loops nzaghachi akpaaka na-eme ka ihe ọhụrụ dijitalụ na-aga n'ihu.",
+        "pillarsTitle": "Ogidi mgbanwe",
+        "pillarsSub": "Levers lekwasịrị anya nsonaazụ nke na-eme ka onye ndu dijitalụ na-adigide.",
+        "pillar1Title": "Digital Strategy & Ọchịchị",
+        "pillar1Desc": "Usoro ngbanwe agbagoro agbagoro nwere ụdị ihe nlegharị anya azụmaahịa, njikwa ụlọ, na nsochi ihe egwu dị egwu.",
+        "pillar2Title": "Igwe ojii & Data Platform",
+        "pillar2Desc": "AWS/Azure/GCP ntọala igwe ojii, pipeline akpaaka, yana ikike nyocha data ụlọ ọrụ.",
+        "pillar3Title": "AI & akpaaka",
+        "pillar3Desc": "Nhazi usoro ọgụgụ isi, ndị nnọchi anya AI na-ebu amụma, na telemetry amụma iji bulie ọrụ kwa ụbọchị.",
+        "pillar4Title": "Ahụmahụ ndị ahịa",
+        "pillar4Desc": "Ọnụ ụzọ dijitalụ omnichannel na-agbanwe dị elu yana oghere ahaziri iche wuru maka njide onye ọrụ kacha.",
+        "ctaTitle": "Ị dịla njikere ịgbanwe ụlọ ọrụ gị?",
+        "ctaSub": "Onye mmekọ ya na Rezonants maka ngbanwe dijitalụ na-emebi emebi, jikọtara ya na nsonaazụ azụmaahịa enwere ike ịlele.",
+        "ctaButton": "Detuo oku mgbanwe dijitalụ"
+      },
+      "customDevelopment": {
+        "eyebrow": "Injinia dijitalụ ngwụcha ruo ngwụcha",
+        "titlePart1": "mmalite Iji",
+        "titlePart2": "Nkwanye",
+        "bookConsultation": "Depụta ndụmọdụ",
+        "exploreEngineering": "Chọpụta Ngwọta Injinia"
+      },
+      "processAutomation": {
+        "eyebrow": "Ọrụ Usoro ọgụgụ isi",
+        "titlePart1": "Usoro azụmahịa",
+        "titlePart2": "Akpaaka",
+        "bookDiscovery": "Nchọpụta akpaaka akwụkwọ",
+        "exploreCoE": "Nyochaa Center of Excellence"
+      },
+      "centreOfExcellence": {
+        "badge": "Ụlọ ọrụ REZONANTS COE",
+        "titlePart1": "Ebe etiti",
+        "titlePart2": "Ọkachamma",
+        "bookConsultation": "Ndụmọdụ Akwụkwọ CoE",
+        "exploreCapabilities": "Nyochaa Ike"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Usoro ndụ teknụzụ zuru oke",
+        "titlePart1": "Ọgwụgwụ-ruo-ọgwụgwụ",
+        "titlePart2": "Usoro Ngwọta",
+        "startJourney": "Malite Njem Ntugharị Ndụ Gị",
+        "exploreTransformation": "Chọpụta mgbanwe"
+      },
+      "migrationServices": {
+        "eyebrow": "Igwe ojii & Ngbanwe akụrụngwa",
+        "titlePart1": "Mbugharị &",
+        "titlePart2": "Imeziwanye ihe",
+        "planMigration": "Hazie Mbugharị Gị",
+        "exploreTransformation": "Chọpụta mgbanwe"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Nkwado ngwa ngwa & ike",
+        "titlePart1": "Ihe akaebe nke echiche (PoC) &",
+        "titlePart2": "Mmejuputa pilot",
+        "initiateDiscovery": "Malite nchọpụta PoC",
+        "exploreDevelopment": "Chọpụta mmepe omenala"
+      },
+      "solutionEngineering": {
+        "badge": "Injinia dijitalụ ahaziri",
+        "bookConsultation": "Depụta ndụmọdụ",
+        "exploreCapabilities": "Nyochaa Ike"
+      },
+      "sharedServices": {
+        "eyebrow": "Ebe Ọrụ Centralized",
+        "titlePart1": "Ọrụ Ekekọrịtara &",
+        "titlePart2": "Ejikwa arụ ọrụ",
+        "bookDiscovery": "Nchọpụta Ọrụ Ejikwa Akwụkwọ",
+        "exploreFramework": "Nyochaa Usoro Ngwọta"
+      }
+    },
+    "coreCapabilities": "Ikike isi"
+  },
+  "products": {
+    "featured": "Ngwaahịa egosipụtara",
+    "featuredSub": "Mee ka ọrụ dị mfe, jikọọ ndị otu, megharịa usoro, ma kwalite uto azụmaahịa ka mma.",
+    "seeAll": "Hụ Ngwaahịa niile",
+    "featuredProducts": "AKWỤKWỌ NDỊ NA-ECHICHE",
+    "meetAutonomous": "Zute ndị ọrụ kwụụrụ onwe",
+    "meetAutonomousText": "Gbanwee ọrụ gị na ndị ọrụ AI na-arụkọ ọrụ na ndị otu gị iji rụọ ọrụ siri ike, ugboro ugboro.",
+    "learnMore": "Mụtakwuo",
+    "erp": {
+      "title": "Otu Platform dị njikere maka ihe ọ bụla",
+      "sub": "Na-eme ka azụmaahịa dị ike na ụzọ njikwa ụlọ ọrụ ejikọrọ, ọgụgụ isi na scalable.",
+      "explore": "Chọpụta Ngwọta ERP",
+      "gridTitle": "Ngwọta ERP",
+      "promoTitle": "ERP modular maka uto",
+      "promoText": "Nyefee atụmatụ ERP modular ngwa ngwa na-enweghị mgbagwoju anya nke usoro ọtụtụ afọ ọdịnala.",
+      "scheduleDemo": "Usoro ihe ngosi"
+    },
+    "it": {
+      "title": "Ngwọta IT",
+      "sub": "Akụrụngwa ọkwa ụlọ ọrụ, nchekwa, yana ngwọta DevOps iji mee ka azụmahịa gị na-aga n'ihu.",
+      "explore": "Chọpụta Ngwọta IT",
+      "gridTitle": "OKWU YA",
+      "promoTitle": "Ihe akụrụngwa IT a pụrụ ịdabere na ya",
+      "promoText": "Jiri igwe ojii, nchekwa, na ọrụ DevOps wulite ntọala teknụzụ na-agbanwe agbanwe.",
+      "getStarted": "Malite"
+    },
+    "crm": {
+      "title": "Ngwọta CRM",
+      "sub": "Njikwa mmekọrịta ndị ahịa iji mee ka ahịa, nkwado, na ahịa ahịa na-arụ ọrụ.",
+      "explore": "Chọpụta Ngwọta CRM",
+      "gridTitle": "Ngwọta CRM",
+      "promoTitle": "Mechie azụmahịa ndị ọzọ",
+      "promoText": "Kwado ndị ahịa gị na ndị otu nkwado na data ndị ahịa jikọtara ọnụ yana akpaaka nwere ọgụgụ isi.",
+      "startTrial": "Malite Ọnwụnwa efu"
+    },
+    "hrms": {
+      "title": "Ngwọta HRMS",
+      "sub": "Njikwa akụrụngwa mmadụ na-ekpuchi ụgwọ ọrụ, nnabata, arụmọrụ, na ntinye aka ndị ọrụ.",
+      "explore": "Chọpụta Ngwọta HRMS",
+      "gridTitle": "HRMS Solutions",
+      "promoTitle": "Mee ka ọrụ HR dị mfe",
+      "promoText": "Automate HR workflows site na mbanye na ezumike nka na oge a, ọrụ-mbụ ikpo okwu.",
+      "requestDemo": "Rịọ ngosi"
+    },
+    "sidebar": {
+      "featuredProducts": "Ngwaahịa egosipụtara",
+      "erpSolutions": "Ngwọta ERP",
+      "solutions": "OKWU"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Ndị ọrụ nwere ọgụgụ isi kwụụrụ onwe na ngwaọrụ ndị na-eme ka usoro ọrụ dị mgbagwoju anya na arụmọrụ ndị ahịa."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Usoro njikwa igwe ojii na-ebuli arụmọrụ, nchekwa, nnabata na ọnụ ahịa."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Ngwakọ imekọ ihe ọnụ na ebe nrụpụta ọrụ nwere ọrụ agbakwunyere, nkata na njikwa akwụkwọ."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Igwe nyocha nke oge na-agbanwe iyi nke ihe omume azụmahịa ka ọ bụrụ nghọta nwere ike ime."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Ihe owuwu ụlọ ọrụ jikọtara ọnụ na-ejikọ ego, akụ, HR, ịzụ ahịa na ngwa ahịa."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Ahụmahụ onye ọrụ na-ekpuchi ụgwọ ọrụ, elele, nyocha ọrụ na ọrụ onwe ya."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Nleba ngwa ngwa ngwa ngwa, arụ ọrụ ụlọ nkwakọba ihe na akpaghị aka, yana ịkọ amụma ihe."
+      },
+      "financeHub": {
+        "title": "Ebe ego",
+        "description": "Njikwa akwụkwọ ọgụgụ dị elu, usoro ịgba ụgwọ ịgba ụgwọ, nnabata akpaaka, yana akụkọ ego n'ezie."
+      },
+      "cloudInfrastructure": {
+        "title": "Ihe akụrụngwa igwe ojii",
+        "description": "Ihe owuwu ígwé ojii nwere ike ịgbanwe, mbugharị na njikwa n'ofe AWS, Azure, na GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Nlebanya nchekwa ngwụcha ruo ọgwụgwụ, nchọpụta iyi egwu, yana njikwa nnabata."
+      },
+      "devopsPipeline": {
+        "title": "Pipeline nke DevOps",
+        "description": "CI/CD automation, containerization, na akụrụngwa-dị ka koodu maka nnyefe ngwa ngwa."
+      },
+      "managedItServices": {
+        "title": "Ọrụ IT jisiri ike",
+        "description": "24/7 ihe nleba anya akụrụngwa, nzaghachi ihe omume, na nleba anya nke ọma."
+      },
+      "salesCrm": {
+        "title": "Ahịa CRM",
+        "description": "Njikwa pipeline, akara ụzọ, nleba anya ahịa, na ịkọ amụma ahịa n'otu ikpo okwu."
+      },
+      "customerSupportHub": {
+        "title": "Ebe Nkwado Ndị Ahịa",
+        "description": "Tiketi, ntọala ihe ọmụma, nkata ndụ, yana njikwa nkwado omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Automation ahịa",
+        "description": "Mgbasa ozi, akpaaka email, nzụlite ndu, na nyocha."
+      },
+      "customer360View": {
+        "title": "Onye ahịa 360 View",
+        "description": "Profaịlụ ndị ahịa jikọtara ọnụ na-ejikọta ahịa, nkwado na data mmekọrịta."
+      },
+      "coreHr": {
+        "title": "Isi HR",
+        "description": "Ndekọ ndị ọrụ, ndị isi org, njikwa hapụ, na nleba anya ọbịbịa."
+      },
+      "payrollCompliance": {
+        "title": "Ịkwụ ụgwọ na nnabata",
+        "description": "Nhazi nkwụnye ụgwọ na-akpaghị aka, ngụkọ ụtụ isi, na nrube isi n'iwu."
+      },
+      "performanceManagement": {
+        "title": "Njikwa arụmọrụ",
+        "description": "OKR nsochi, nyocha 360°, ntọala ebumnuche, yana atụmatụ mmepe ndị ọrụ."
+      },
+      "recruitmentPortal": {
+        "title": "Portal nbanye",
+        "description": "Mbipute ọrụ, nleba anya onye na-achọ ọrụ, nhazi oge ajụjụ ọnụ, yana usoro ọrụ n'ime ụgbọ mmiri."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Ngwaahịa egosipụtara",
+        "heading": "Ngwaahịa egosipụtara",
+        "sub": "Mee ka ọrụ dị mfe, jikọọ ndị otu, megharịa usoro, ma kwalite uto azụmahịa ka mma.",
+        "promoTitle": "Zute ndị ọrụ kwụụrụ onwe",
+        "promoText": "Gbanwee ọrụ gị na ndị ọrụ AI na-arụkọ ọrụ n'akụkụ otu gị iji rụọ ọrụ siri ike, na-emegharị ugboro ugboro.",
+        "items": [
+          {
+            "title": "AI Automation & Ndị ọrụ ọgụgụ isi",
+            "description": "Megharịa ọrụ ugboro ugboro ma wepụta ndị ọrụ AI nwere ọgụgụ isi nke na-eme ka nrụpụta, mkpebi, na nsonaazụ azụmaahịa."
+          },
+          {
+            "title": "Ọrụ IT & Nkwado dijitalụ",
+            "description": "Nyefee ngwa ngwa, nkwado IT ka mma yana njikwa ọrụ streamlined, akpaaka, na usoro ọrụ dijitalụ."
+          },
+          {
+            "title": "Enterprise AI Ọchịchị",
+            "description": "Wulite nkuchi AI nwere ọrụ na ọchịchị siri ike, nchekwa, nnabata, nghọta na njikwa ihe egwu."
+          },
+          {
+            "title": "Ọrụ IT nwere ọgụgụ isi",
+            "description": "Gbanwee ọrụ IT site na nleba anya nke AI na-eduzi, akpaaka, nghọta amụma, na mkpebi okwu na-arụ ọrụ nke ọma."
+          },
+          {
+            "title": "Njikwa Ahụmịhe ndị ahịa",
+            "description": "Mepụta njem ndị ahịa ahaziri onwe ya na itinye aka nwere ọgụgụ isi, akpaaka, nyocha na ahụmịhe dijitalụ enweghị nkebi."
+          },
+          {
+            "title": "Atụmatụ azụmahịa & nkwalite Pọtụfoliyo",
+            "description": "Kwado itinye ego na teknụzụ na ebumnuche azụmahịa iji bulie pọtụfoliyo, melite arụmọrụ, na ịkwalite uto na-adigide."
+          },
+          {
+            "title": "IT Asset & Technology Lifecycle",
+            "description": "Jikwaa akụ IT n'oge ndụ ha niile site na iji visibiliti ka mma, akpaaka, njikwa ọnụ ahịa, yana atụmatụ teknụzụ."
+          },
+          {
+            "title": "Ihe ize ndụ ụlọ ọrụ & nnabata",
+            "description": "Chọpụta, nyochaa, na jikwaa ihe egwu ụlọ ọrụ ka ị na-ewusi nnabata, njikwa, na nkwụsi ike nhazi."
+          },
+          {
+            "title": "Cybersecurity & Ọrụ egwu",
+            "description": "Chebe gburugburu dijitalụ site na nchọta ihe iyi egwu, ọrụ nchekwa, nzaghachi ihe omume, yana nleba anya na-aga n'ihu."
+          },
+          {
+            "title": "Ubi arụ ọrụ akpaaka",
+            "description": "Kwanye ndị otu egwuregwu ume na nhazi oge nwere ọgụgụ isi, usoro ọrụ mkpanaka, akpaaka, na visibiliti arụmọrụ nke oge."
+          },
+          {
+            "title": "Ahụmahụ onye ọrụ & Ọrụ HR",
+            "description": "Mee ka ọrụ ndị ọrụ dị mfe site na iji usoro ọrụ dijitalụ, ngwọta ọrụ onwe, akpaaka, na ahụmịhe onye ọrụ ahaziri iche."
+          },
+          {
+            "title": "Ebe ọrụ dijitalụ jikọtara ọnụ",
+            "description": "Jikọọ ndị mmadụ, usoro, ngwa, na ngwa mmekọ ọnụ site na ebe ọrụ dijitalụ echedoro, ọgụgụ isi na enweghị nkebi."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Ngwọta ERP",
+        "heading": "Otu Platform, dị njikere maka ihe ọ bụla",
+        "sub": "Na-eme ka azụmaahịa dị ike na ngwọta njikwa ụlọ ọrụ ejikọrọ, ọgụgụ isi na scalable.",
+        "promoTitle": "ERP Modular maka Uto",
+        "promoText": "Nyefee atụmatụ ERP modular ngwa ngwa na-enweghị mgbagwoju anya nke usoro ọtụtụ afọ ọdịnala.",
+        "items": [
+          {
+            "title": "Usoro Azụmahịa akpaaka",
+            "description": "Streamline ego, HR, ahịa, ịzụ ahịa, na ọrụ kwa ụbọchị."
+          },
+          {
+            "title": "Njikwa Azụmaahịa Integrated",
+            "description": "Jikọọ ngalaba, data na usoro ọrụ n'elu ikpo okwu jikọtara ọnụ."
+          },
+          {
+            "title": "Ego & Akaụntụ",
+            "description": "Melite visibiliti ego, mkpesa, mmefu ego na nnabata."
+          },
+          {
+            "title": "HR & akwụ ụgwọ",
+            "description": "Mee ka njikwa ndị ọrụ dị mfe, ọbịbịa, ụgwọ ọrụ na usoro HR."
+          },
+          {
+            "title": "Njikwa Chain Ọsọ",
+            "description": "Nweta nkwalite ịzụ ahịa, ngwa ahịa, ndị na-ere ahịa na ngwa agha."
+          },
+          {
+            "title": "Ahịa & njikwa ndị ahịa",
+            "description": "Jikwaa ụzọ, ndị ahịa, iwu na arụmọrụ ahịa nke ọma."
+          },
+          {
+            "title": "Ntụle oge na mkpesa",
+            "description": "Tụgharịa data azụmahịa ka ọ bụrụ nghọta nwere ike ime maka mkpebi ngwa ngwa."
+          },
+          {
+            "title": "Cloud ERP Solution",
+            "description": "Kwado njikwa ụlọ ọrụ echekwara echekwabara, nke enwere ike ị nweta ya na ebe ọ bụla."
+          }
+        ]
+      },
+      "it": {
+        "title": "Ngwọta IT",
+        "heading": "Ngwọta IT anyị",
+        "sub": "Gbanwee ọrụ IT na ngwọta dijitalụ nwere ọgụgụ isi, na-arụsi ọrụ ike, na scalable nke na-eme ka arụmọrụ, nrụpụta, na ịga n'ihu azụmahịa.",
+        "promoTitle": "Ihe akụrụngwa IT a pụrụ ịdabere na ya",
+        "promoText": "Wụlite ntọala teknụzụ na-agbanwe agbanwe na igwe ojii, nchekwa, na ọrụ DevOps jisiri ike.",
+        "items": [
+          {
+            "title": "Njikwa Ọrụ IT",
+            "description": "Gbanwee ọrụ IT, ihe omume, arịrịọ, na usoro ọrụ maka mkpebi ngwa ngwa."
+          },
+          {
+            "title": "Njikwa Ọrụ IT",
+            "description": "Nyochaa akụrụngwa na ngwa na arụ ọrụ IT na-arụsi ọrụ ike, data na-eduzi."
+          },
+          {
+            "title": "Njikwa Akụrụngwa IT",
+            "description": "Jikwaa akụ teknụzụ nke ọma ma na-ebelata ọnụ ahịa, ihe egwu, na mgbagwoju anya okirikiri ndụ."
+          },
+          {
+            "title": "Architecture ụlọ ọrụ",
+            "description": "Kwado atụmatụ azụmaahịa na nhazi teknụzụ ziri ezi na itinye ego."
+          },
+          {
+            "title": "Ọchịchị igwe ojii",
+            "description": "Melite nchekwa igwe ojii, nnabata, arụmọrụ, yana njikwa ọnụ ahịa."
+          },
+          {
+            "title": "Ọrụ dijitalụ",
+            "description": "Megharịa usoro IT wee nweta visibiliti oge n'ofe gburugburu teknụzụ gị."
+          },
+          {
+            "title": "Nleba anya na nlekota oru",
+            "description": "Chọpụta nsogbu arụmọrụ n'oge ma jikwaa ahụmịhe dijitalụ a pụrụ ịdabere na ya."
+          },
+          {
+            "title": "Njikwa Pọtụfoliyo Strategic",
+            "description": "Jikọọ itinye ego IT na ihe ndị kacha mkpa azụmahịa na nsonaazụ a na-atụle."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Ngwọta CRM",
+        "heading": "Ngwọta CRM anyị",
+        "sub": "Napụta ahụmịhe ndị ahịa ejikọrọ, ahaziri onwe yana nwere ọgụgụ isi n'ofe njem ndị ahịa niile.",
+        "promoTitle": "Mechie azụmahịa ndị ọzọ",
+        "promoText": "Kwado ndị ahịa gị na ndị otu nkwado na data ndị ahịa jikọtara ọnụ yana akpaaka nwere ọgụgụ isi.",
+        "items": [
+          {
+            "title": "Njikwa ọrụ ndị ahịa",
+            "description": "Melite nkwado ndị ahịa site na iji mkpebi ngwa ngwa, ọrụ onwe onye na usoro ọgụgụ isi."
+          },
+          {
+            "title": "Ahịa akpaaka",
+            "description": "Mee ka mmemme ire ere, jikwaa ụzọ, ma nyere ndị otu aka imechi ohere ngwa ngwa."
+          },
+          {
+            "title": "Ịre ahịa & njikwa iwu",
+            "description": "Mee ka njem ahụ dị mfe site na ndu gaa n'usoro wee kwalite visibiliti ego."
+          },
+          {
+            "title": "Njikwa Ọrụ Ubi",
+            "description": "Na-ebuli ọrụ ubi, nhazi oge, izipu, na nrụpụta teknụzụ."
+          },
+          {
+            "title": "Njikwa Ahụmịhe Ndị Ahịa",
+            "description": "Mepụta ahụmịhe enweghị nkebi na ahaziri onwe n'ofe ebe mmetụ ndị ahịa ọ bụla."
+          },
+          {
+            "title": "Nyocha CRM & Nghọta",
+            "description": "Tụgharịa data ndị ahịa ka ọ bụrụ nghọta nwere ike ime maka mkpebi azụmaahịa ka mma."
+          },
+          {
+            "title": "Automation ahịa",
+            "description": "Mgbasa ozi akpaaka, ntinye aka ndị ahịa, na nzụlite ndu."
+          },
+          {
+            "title": "AI-Kwadoro CRM",
+            "description": "Jiri akpaaka nwere ọgụgụ isi na nghọta AI iji kwalite nrụpụta na ntinye aka ndị ahịa."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Ngwọta HRMS",
+        "heading": "Ngwọta HRMS anyị",
+        "sub": "Mee ka ndị ọrụ gị nwee ọgụgụ isi, agbakwunyere, na akpaghị aka ngwọta nke na-eme ka njikwa ndị ọrụ dị mfe ma melite ahụmịhe ọrụ.",
+        "promoTitle": "Mee ka ọrụ HR dị mfe",
+        "promoText": "Automate HR workflows site na mbanye ruo ezumike nka na oge a, ọrụ-mbụ ikpo okwu.",
+        "items": [
+          {
+            "title": "Isi njikwa HR",
+            "description": "Jikwaa ozi ndị ọrụ, nhazi nhazi, na usoro HR nke ọma."
+          },
+          {
+            "title": "Njikwa ụgwọ ọrụ",
+            "description": "Na-akwụ ụgwọ akpaaka, nhazi ụgwọ ọnwa, mwepu, na nnabata."
+          },
+          {
+            "title": "Ọrụ Onwe Onye Ọrụ",
+            "description": "Nye ndị ọrụ ohere ịnweta ọrụ HR, arịrịọ, akwụkwọ na ozi dị mfe."
+          },
+          {
+            "title": "Ọbịbịa & Hapụ Njikwa",
+            "description": "Mee ka ọ dị mfe nsochi ndị bịaranụ, hapụ arịrịọ, mgbanwe, na oge ọrụ."
+          },
+          {
+            "title": "Mbanye na nbanye",
+            "description": "Streamline nwunye, njikwa ndị ndoro-ndoro ochichi, nbanye, na njikọta ndị ọrụ."
+          },
+          {
+            "title": "Njikwa arụmọrụ",
+            "description": "Tọọ ihe mgbaru ọsọ, soro arụmọrụ, ma kwado mmepe ndị ọrụ na-aga n'ihu."
+          },
+          {
+            "title": "Mmụta & Mmepe",
+            "description": "Jikwaa mmemme ọzụzụ, mmepe nka na uto ndị ọrụ."
+          },
+          {
+            "title": "Nchịkọta HR & Mkpesa",
+            "description": "Tụgharịa data ndị ọrụ ka ọ bụrụ nghọta nwere ike ime maka mkpebi HR ka mma."
+          },
+          {
+            "title": "Automation HR na-akwado AI",
+            "description": "Megharịa ọrụ HR ugboro ugboro wee wepụta ahụmịhe onye ọrụ ahaziri onwe ya ngwa ngwa."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Mmepe ngwa",
+        "heading": "Ọrụ mmepe ngwa anyị",
+        "sub": "wulite ngwa nchekwa, scalable, na arụmọrụ dị elu nke na-eme ka uto azụmahịa dịkwuo mfe ma mee ka usoro mgbagwoju anya dị mfe.",
+        "promoTitle": "wulite ndị ọrụ ngwa n'anya",
+        "promoText": "Site n'echiche ruo mmalite, otu anyị na-echepụta ma na-emepụta ngwa mkpanaaka na ngwa weebụ dị elu nke na-abawanye.",
+        "items": [
+          {
+            "title": "Mmepe ngwa ngwa",
+            "description": "Wụpụta ngwa ahaziri ahazi gburugburu chọrọ azụmahịa gị pụrụ iche."
+          },
+          {
+            "title": "Weebụ & Mwube Ngwa mkpanaaka",
+            "description": "Nyefee ahụmịhe dijitalụ na-enweghị nkebi n'ofe webụ, mkpanaka, na ọtụtụ ngwaọrụ."
+          },
+          {
+            "title": "Mmepe ngwa ụlọ ọrụ",
+            "description": "Zụlite scalable ngwọta na iwekota na gị dị azụmahịa usoro."
+          },
+          {
+            "title": "Koodu dị ala & Mmepe enweghị koodu",
+            "description": "Mee ngwa ngwa nnyefe ngwa na nyiwe mmepe obere koodu na-agbanwe agbanwe."
+          },
+          {
+            "title": "API & Njikọ Sistemụ",
+            "description": "Jikọọ ngwa, nyiwe, na sistemụ ndị ọzọ maka mgbaba data enweghị nkebi."
+          },
+          {
+            "title": "Imezi ngwa ngwa",
+            "description": "Gbanwee ngwa nketa ka ọ bụrụ ihe ngwọta ọgbara ọhụrụ, nke nwere ike ịgbatị, na nke ọma."
+          },
+          {
+            "title": "Ngwa nwere ike AI",
+            "description": "Tinye AI, akpaaka, na ikike ọgụgụ isi n'ime ngwa azụmahịa."
+          },
+          {
+            "title": "Nkwado & Nlekọta Ngwa",
+            "description": "Gbaa mbọ hụ na arụmọrụ na-aga n'ihu, nchekwa, mmelite na ntụkwasị obi."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Automation azụmahịa",
+    "cloudMigrations": "Mbugharị igwe ojii",
+    "dataCenters": "Ụlọ ọrụ data",
+    "cognitiveAnalyticsAi": "Nyocha ọgụgụ isi & AI",
+    "informationReportingSystems": "Ozi & Usoro mkpesa",
+    "managedServices": "Ọrụ ejirila",
+    "oneStopSolutions": "Otu Ngwọta Nkwụsị"
+  },
+  "servicePage": {
+    "serviceOverview": "Nchịkọta ọrụ",
+    "whatWeOffer": "Ihe Anyị Na-enye",
+    "whyChooseRezonants": "Gịnị mere Họrọ Rezonants",
+    "benefitsOfWorking": "Uru nke iso anyị na-arụkọ ọrụ",
+    "techStack": "Teknụzụ Stack",
+    "technologiesWeUse": "Teknụzụ anyị na-eji",
+    "ourWork": "Ọrụ anyị",
+    "relatedProjects": "Ọrụ ndị metụtara ya",
+    "viewCaseStudy": "Lelee ọmụmụ ihe",
+    "readyToDiscuss": "Ị dịla njikere ikwurịta ọrụ {{title}} gị?",
+    "seniorEngineersReady": "Ndị injinia ochie anyị dị njikere inyere gị aka ịhazi, chepụta ma wuo ihe ngwọta gị.",
+    "startProject": "Malite ọrụ gị",
+    "howItWorks": "Ka o si arụ ọrụ"
+  },
+  "consultation": {
+    "badge": "Detuo ndụmọdụ n'efu",
+    "title": "Ka anyị hazie ọrụ gị <span class='hero-accent'>ọnụ</span>",
+    "description": "Hazie oku enweghị ọrụ gị na ndị ndụmọdụ anyị. Kwurịta ihe ndị ị chọrọ, nyochaa usoro teknụzụ ziri ezi wee nweta nkọwa doro anya - niile n'okpuru nkeji 30.",
+    "bookSlot": "Debe oghere gị",
+    "howItWorks": "Ka o si arụ ọrụ",
+    "accountRequired": "Akaụntụ achọrọ",
+    "signInToBook": "Banye ka idebe ndụmọdụ gị",
+    "accountRequiredText": "Ị ga-achọ akaụntụ Rezonants iji rịọ maka ndụmọdụ. Banye ma ọ bụ mepụta otu - ọ na-ewe ihe na-erughị otu nkeji.",
+    "signInToContinue": "Banye ka ịga n'ihu",
+    "newToRezonants": "Ọhụrụ ka Ọklut?",
+    "createAccount": "Mepụta akaụntụ",
+    "requestMeeting": "Rịọ nzukọ",
+    "tellUsAboutProject": "Gwa anyị gbasara ọrụ gị",
+    "fillDetails": "Dejupụta nkọwa gị, anyị ga-akwado oghere ndụmọdụ gị site na email.",
+    "fullName": "Aha zuru oke *",
+    "email": "Email *",
+    "phone": "Ekwentị *",
+    "company": "Ụlọ ọrụ",
+    "serviceOfInterest": "Ọrụ Mmasị *",
+    "selectService": "Họrọ ọrụ…",
+    "preferredDate": "Ụbọchị ahọpụtara *",
+    "preferredTime": "Oge ahọpụtara *",
+    "selectTimeSlot": "Họrọ oghere oge…",
+    "estimatedBudget": "Atụmatụ mmefu ego",
+    "selectRange": "Họrọ oke…",
+    "projectRequirements": "Ihe achọrọ oru ngo",
+    "booking": "Ntinye akwụkwọ…",
+    "bookFreeConsultation": "Akwụkwọ ndụmọdụ m n'efu",
+    "freeNote": "100% n'efu na enweghị ọrụ. Anyị na-anabatakarị n'ime awa 24.",
+    "whatToExpect": "Ihe ị ga-atụ anya ya",
+    "preferToReachUs": "Ọ ga-amasị gị ịbịarute anyị ozugbo?",
+    "callUs": "Kpọọ anyị",
+    "emailUs": "Email anyị",
+    "visitUs": "Gaa leta anyị",
+    "whyBookWithUs": "Gịnị Mere Anyị Ji Dekọọ Akwụkwọ",
+    "freeCallTitle": "Oku efu nke na-enyere aka n'ezie",
+    "freeCallNoPressure": "Oku efu, enweghị nrụgide",
+    "freeCallNoPressureText": "Ndụmọdụ mbụ ọ bụla bụ n'efu. Enweghị ọrụ ịzụta - naanị ndụmọdụ n'eziokwu.",
+    "seniorConsultants": "Naanị ndị ndụmọdụ ndị okenye",
+    "seniorConsultantsText": "Ndị injinia ukwu na ndị na-ahụ maka ndụmọdụ na-eduzi nzukọ gị bụ ndị na-arụ ọrụ maka ndụ.",
+    "clearTimelines": "Kpochapụ usoro iheomume & okwu",
+    "clearTimelinesText": "Hapụ na usoro ọzọ akọwapụtara nke ọma, usoro iheomume ziri ezi na ọnụahịa doro anya maka ọrụ gị.",
+    "services": {
+      "customSoftware": "Mmepe ngwanrọ omenala",
+      "webMobile": "Weebụ & Mwube Ngwa mkpanaaka",
+      "cloudDevops": "Cloud & DevOps Solution",
+      "aiMl": "AI & igwe mmụta",
+      "itConsulting": "IT ndụmọdụ",
+      "digitalMarketing": "Digital Marketing & SEO",
+      "erpSolutions": "Ngwọta ERP",
+      "other": "Ndị ọzọ / Amabeghị"
+    },
+    "budgets": {
+      "under1L": "N'okpuru ₹1L",
+      "1to5L": "₹1L - ₹ 5L",
+      "5to10L": "₹5L - ₹ 10L",
+      "above10L": "₹ 10L+",
+      "notDecided": "Emebeghị mkpebi"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Ghọta ihe mgbaru ọsọ gị",
+        "text": "Anyị na-ebu ụzọ ege ntị. Oku nkeji iri atọ iji mapụta mkpa azụmahịa gị, ndị na-ege ntị na nsonaazụ achọrọ."
+      },
+      "technicalDirection": {
+        "title": "Nweta ntụzịaka teknụzụ",
+        "text": "Ndị injinia anyị na-ekerịta ihe owuwu, mkpokọ na ụzọ maka ọrụ gị."
+      },
+      "clearQuote": {
+        "title": "Anata ngụkọ doro anya",
+        "text": "Gaa n'ihu na atụmatụ nghọta, usoro iheomume na usoro ndị ọzọ - enweghị ọrụ."
+      }
+    },
+    "validation": {
+      "nameRequired": "Aha zuru ezu ka achọrọ.",
+      "emailRequired": "Email achọrọ.",
+      "emailInvalid": "Tinye ozi-e ziri ezi.",
+      "phoneRequired": "Nọmba ekwentị achọrọ.",
+      "phoneInvalid": "Tinye nọmba ekwentị bara uru.",
+      "serviceRequired": "Biko họrọ ọrụ.",
+      "dateRequired": "Họrọ ụbọchị masịrị.",
+      "timeRequired": "Họrọ oghere oge masịrị.",
+      "messageTooShort": "Tinye ntakịrị nkowa (opekata mpe mkpụrụedemede 10).",
+      "signInRequired": "Biko banye ka idebe ndụmọdụ gị.",
+      "couldNotBook": "Enweghị ike idebe ndụmọdụ gị. Lelee na tebụl ndụmọdụ dị, wee gbalịa ọzọ.",
+      "bookedSuccess": "Agbabanyere ndụmọdụ! Ndị otu anyị ga-akwado ohere gị site na email n'oge na-adịghị anya."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Nabata azụ",
+    "createAccount": "Mepụta Akaụntụ",
+    "forgotPassword": "Echefuru Paswọdu",
+    "createNewPassword": "Mepụta paswọọdụ ọhụrụ",
+    "welcomeBackDesc": "Banye na akaụntụ Rezonants gị.",
+    "createAccountDesc": "Jikọọ Rezonants taa.",
+    "forgotDesc": "Tinye email gị, anyị ga-ezitere gị njikọ iji tọgharịa paswọọdụ gị.",
+    "recoveryDesc": "Họrọ paswọọdụ ọhụrụ siri ike maka akaụntụ gị.",
+    "fullName": "Aha zuru oke",
+    "email": "Email",
+    "password": "Okwuntughe",
+    "newPassword": "Okwuntughe ọhụrụ",
+    "confirmPassword": "Kwenye okwuntughe",
+    "confirmNewPassword": "Kwenye paswọọdụ ọhụrụ",
+    "forgotPasswordLink": "Echefuru paswọọdụ?",
+    "privacyPolicy": "Ana m anabata iwu Rezonants <1>Nzuzo na nchekwa</1>.",
+    "sendResetLink": "Ziga njikọ nrụpụta nrụpụta",
+    "signIn": "Banye",
+    "signUp": "Debanye aha",
+    "pleaseWait": "Biko chere…",
+    "rememberedPassword": "Ichetara paswọọdụ gị?",
+    "signInLink": "Banye",
+    "noAccount": "Ịnweghị akaụntụ?",
+    "signUpLink": "Debanye aha",
+    "hasAccount": "Ị nweela akaụntụ?",
+    "changedMind": "Gbanwee obi gị?",
+    "backToSignIn": "Laghachi ịbanye",
+    "resetSent": "njikọ nrụpụta okwuntughe ezigara! Lelee email gị ka ịmepụta paswọọdụ ọhụrụ.",
+    "passwordUpdated": "Emelitela paswọọdụ gị. Jiri paswọọdụ ọhụrụ gị wee banye.",
+    "accountCreated": "Akaụntụ emepụtara! Lelee email gị iji kwado ndebanye aha gị, wee banye.",
+    "validation": {
+      "fullNameRequired": "Aha zuru ezu ka achọrọ.",
+      "emailRequired": "Email achọrọ.",
+      "emailInvalid": "Tinye ozi-e ziri ezi.",
+      "passwordRequired": "Okwuntughe chọrọ.",
+      "passwordMinLength": "Okwuntughe ga-abụrịrị mkpụrụedemede 6 opekata mpe.",
+      "passwordsNoMatch": "Okwuntughe adabaghị.",
+      "acceptTerms": "Biko nabata amụma nzuzo Rezonants na amụma nchekwa ka ị gaa n'ihu."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Kpaa nkata na rezonants AI",
+    "openChatLabel": "Mepee nkata Rezonants AI Assistant",
+    "chatTitle": "Rezonants AI onye enyemaka",
+    "online": "Online",
+    "expandLabel": "Gbasaa chatbot",
+    "minimizeLabel": "Wedata nkata ahụ",
+    "closeLabel": "Mechie nkata",
+    "expand": "gbasaa",
+    "minimize": "Wedata",
+    "close": "Mechie",
+    "popularTopics": "Isiokwu ndị ama ama",
+    "askPlaceholder": "Jụọ m gbasara Rezonants...",
+    "messageLabel": "Ozi onye enyemaka Rezonants AI",
+    "sendLabel": "Ziga ozi",
+    "sendTitle": "Ziga ozi",
+    "enterToSend": "Tinye ka izipu · Shift+Tinye maka ahịrị ọhụrụ",
+    "newChat": "Mkparịta ụka ọhụrụ",
+    "typing": "Rezonants AI na-ede",
+    "menuOptions": "Nhọrọ nhọrọ",
+    "greetingMorning": "Ututu oma",
+    "greetingAfternoon": "ehihie ọma",
+    "greetingEvening": "Ụtụtụ ọma",
+    "welcomeText": "! 👋 Nnọọ na Rezonants.\nAbụ m onye enyemaka Rezonants AI. Enwere m ike inyere gị aka inyocha ọrụ anyị, teknụzụ na ozi kọntaktị."
+  },
+  "cookieConsent": {
+    "title": "Anyị ji nzuzo gị kpọrọ ihe",
+    "description": "Anyị na-eji kuki iji kwalite ahụmịhe nchọgharị gị. Ị nwere ike ịnakwere kuki niile, jụ kuki ndị na-adịghị mkpa, ma ọ bụ hazie mmasị gị. A na-enyere kuki ndị dị mkpa aka mgbe niile iji hụ na ebe nrụọrụ weebụ na-arụ ọrụ nke ọma.",
+    "acceptAll": "Nabata Niile",
+    "rejectNonEssential": "Jụ na-adịghị mkpa",
+    "managePreferences": "Jikwaa Mmasị",
+    "privacyPolicy": "Amụma nzuzo"
+  },
+  "cookiePreferences": {
+    "title": "Jikwaa Mmasị kuki",
+    "description": "Họrọ ụdị kuki ị na-anabata. A ka na-akwado kuki ndị dị mkpa ka webụsaịtị ahụ na-arụ ọrụ.",
+    "essential": "Dị Mkpa",
+    "essentialDesc": "Achọrọ ka webụsaịtị rụọ ọrụ (nnwale, nchekwa, nguzozi ibu). Enweghị ike gbanyụọ ndị a.",
+    "analytics": "Nyocha",
+    "analyticsDesc": "Nyere anyị aka ịghọta ka ndị ọbịa si eji saịtị ahụ ka anyị nwee ike melite ya. Agbanyụrụ na ndabara.",
+    "marketing": "Ịzụ ahịa",
+    "marketingDesc": "A na-eji egosi gị onyinye na mkpọsa dị mkpa. Agbanyụrụ na ndabara.",
+    "cancel": "Kagbuo",
+    "savePreferences": "Chekwa Mmasị"
+  },
+  "privacy": {
+    "badge": "Iwu",
+    "title": "Amụma nzuzo",
+    "description": "Otu Rezonants si anakọta, jiri ma chekwaa ozi gbasara gị na kuki gị.",
+    "lastUpdated": "Emelitere ikpeazụ: Ọgọst 2026",
+    "managingPreferences": "Ijikwa mmasị gị",
+    "managingPreferencesDesc": "Ị nwere ike nyochaa ma ọ bụ gbanwee kuki ndị ị na-ahapụ n'oge ọ bụla site na kọmiti mmasị kuki.",
+    "manageCookiePreferences": "Jikwaa Mmasị kuki",
+    "section1": {
+      "title": "1. Ozi Anyị Na-anakọta",
+      "body": [
+        "Anyị na-anakọta ozi ị na-enye ozugbo (dị ka aha gị na adreesị ozi-e gị mgbe ị nyefere fọm kọntaktị ma ọ bụ mepụta akaụntụ) yana ozi anakọtara na-akpaghị aka site na kuki na teknụzụ ndị yiri ya, dị ka ibe ndị gara, ụdị ngwaọrụ na ọnọdụ dị nso."
+      ]
+    },
+    "section2": {
+      "title": "2. Otu esi eji kuki",
+      "body": [
+        "Kuki ndị dị mkpa na-enyere aka mgbe niile n'ihi na weebụsaịtị enweghị ike ịrụ ọrụ nke ọma na-enweghị ha. Ha na-echekwa oge na ọnọdụ nyocha wee cheta mmasị kuki gị.",
+        "Kuki nyocha na-enyere anyị aka ịghọta ka ndị ọbịa si eji saịtị ahụ ka anyị nwee ike melite ya. A na-eji kuki ịre ahịa gosi gị onyinye na mkpọsa dị mkpa. A na-akwado edemede ndị a naanị site na nkwenye gị, enwere ike ịgbanwe ya n'oge ọ bụla site na kọmiti mmasị kuki."
+      ]
+    },
+    "section3": {
+      "title": "3. Ndabere nke Iwu (GDPR)",
+      "body": [
+        "Anyị na-ahazi data nkeonwe na ntọala iwu ndị a: nkwenye gị (maka kuki na ịzụ ahịa na-adịghị mkpa), arụmọrụ nke nkwekọrịta (maka ọrụ ị rịọrọ), ọrụ iwu kwadoro, na mmasị ziri ezi ebe ikike gị anaghị emebi ha. Ị nwere ike ịwepụ nkwenye n'oge ọ bụla na-emetụtaghị iwu nke nhazi nke emere tupu ịwepụ."
+      ]
+    },
+    "section4": {
+      "title": "4. Ikike gị",
+      "body": [
+        "Dabere na ọnọdụ gị, ị nwere ike ịnwe ikike ịnweta, mezie, ihichapụ, ma ọ bụ machibido nhazi nke data nkeonwe gị, ịjụ nhazi, yana ibugharị data. Ị nwekwara ike ịnye akwụkwọ mkpesa n'aka ndị ọrụ nlekọta mpaghara gị."
+      ]
+    },
+    "section5": {
+      "title": "5. Njide data & Nchekwa",
+      "body": [
+        "Anyị na-ejigide data nkeonwe naanị ma ọ bụrụhaala na ọ dị mkpa maka ebumnuche akọwara na iwu a. Anyị na-etinye usoro nka na nhazi kwesịrị ekwesị iji kpuchido ozi gị pụọ na ịnweta, mgbanwe, mkpughe ma ọ bụ mbibi na-enweghị ikike."
+      ]
+    },
+    "section6": {
+      "title": "6. Ọrụ Ndị Ọzọ",
+      "body": [
+        "Enwere ike ịtọ ụfọdụ kuki site n'aka ndị na-eweta ndị ọzọ (dịka nyocha ma ọ bụ nyiwe mgbasa ozi) nke na-enyere anyị aka iji webụsaịtị ahụ. Ndị na-eweta ndị a na-ahazi data n'okpuru atumatu nzuzo nke ha yana naanị mgbe ị kwadoro na otu dị mkpa."
+      ]
+    },
+    "contactUs": "7. Kpọtụrụ anyị",
+    "contactUsText": "Maka ajụjụ gbasara amụma a ma ọ bụ data nkeonwe gị, kpọtụrụ anyị na <1>info@rezonants.com</1> ma ọ bụ kpọọ <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Ọrụ",
+    "title": "Ọrụ anyị",
+    "sub": "Ngwọta teknụzụ ngwụcha ruo ngwụcha emebere iji nyere azụmaahịa aka imeputa, nha, na ịga nke ọma.",
+    "learnMore": "Mụtakwuo",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Mmalite Iji Nkwanye",
+        "text": "Site na echiche mbụ ruo n'iwepụta mmepụta, anyị na-ebuga ngwọta scalable wuru maka mkpa azụmahịa ụwa n'ezie."
+      },
+      "businessProcessAutomation": {
+        "title": "Usoro Azụmahịa akpaaka",
+        "text": "Gbanwee usoro ugboro ugboro ma melite arụmọrụ arụmọrụ site na akpaaka azụmahịa nwere ọgụgụ isi."
+      },
+      "centerOfExcellence": {
+        "title": "Center of Excellence",
+        "text": "Wụlite ikike teknụzụ pụrụ iche na nka iji kwalite ihe ọhụrụ, ịdị mma na nkwalite na-aga n'ihu."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Omenala Mmepe & Nhazi",
+        "text": "Ngwọta sọftụwia ahaziri ahazi gburugburu chọrọ azụmaahịa gị pụrụ iche yana usoro ọrụ gị."
+      },
+      "digitalTransformation": {
+        "title": "Mgbanwe dijitalụ",
+        "text": "Mee ka azụmahịa gị dị ọhụrụ site na iji atụmatụ dijitalụ, teknụzụ na ihe ngwọta na-emepụta mmetụta enwere ike ịtụnye."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Usoro Ngwọta Ọgwụgwụ na Ọgwụgwụ",
+        "text": "Ngwọta teknụzụ jikọtara ọnụ nke jikọtara atụmatụ, mmepe, mmejuputa na arụmọrụ na-aga n'ihu."
+      },
+      "migrationModernization": {
+        "title": "Migration & Modernization",
+        "text": "Meziwanye ngwa ihe nketa ma bugharịa sistemu gaa na nyiwe teknụzụ nwere ike ịgbatị, nchekwa yana nke ọma."
+      },
+      "pocPilotImplementation": {
+        "title": "Ihe akaebe nke echiche (PoC) & mmejuputa pilot",
+        "text": "Kwado echiche ngwa ngwa site na nleba anya n'ụdị na mmejuputa pilot tupu ebuga n'uju."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Ọrụ Ekekọrịtara & Ọrụ Jisiri ike",
+        "text": "Arụmọrụ teknụzụ ejirikwa ntụkwasị obi na-eme ka arụmọrụ, scalability, na ọga n'ihu azụmaahịa."
+      }
+    }
+  },
+  "footer": {
+    "company": "Ụlọ ọrụ",
+    "about": "Ihe gbasara",
+    "perspectives": "Echiche",
+    "technologies": "Teknụzụ",
+    "contact": "Kọntaktị",
+    "services": "Ọrụ",
+    "getInTouch": "Kpọtụrụ",
+    "bookConsultation": "Depụta ndụmọdụ",
+    "copyright": "© {{year}} Rezonants. Ikike niile echekwabara.",
+    "cookiePreferences": "Mmasị kuki",
+    "privacyPolicy": "Amụma nzuzo",
+    "description": "Rezonants bụ ọrụ IT na ụlọ ọrụ ngwaahịa dijitalụ na Hyderabad, India. Anyị na-echepụta, wuo ma tụọ sọftụwia maka ụlọ ọrụ ndị na-asọ mpi na ogbugbu.",
+    "locations": "Ebe anyị",
+    "indiaHq": "Hyderabad, India - Isi ụlọ ọrụ India",
+    "southAfrica": "South Africa - REZONANTS PVT LTD",
+    "products": "Ngwaahịa",
+    "followUs": "Soro anyị",
+    "aboutUs": "Banyere Anyị",
+    "contactUs": "Kpọtụrụ Anyị",
+    "headline": "Ka anyị wuo",
+    "headlineAccent": "ihe na-esote.",
+    "subheadline": "Mmekọ na Rezonants iji tụgharịa echiche ka ọ bụrụ mmetụta azụmaahịa n'ezie.",
+    "credoIdeas": "ECHICHE",
+    "credoSolutions": "OKWU",
+    "credoPeople": "NDỊ",
+    "credoBrighterTomorrow": "AKWỤKWỌ ECHI",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "South Africa - REZONANTS PVT LTD",
+    "termsOfUse": "Usoro ojiji",
+    "accessibility": "Ịnweta",
+    "quickLinks": "Njikọ ngwa ngwa",
+    "explore": "Chọpụta",
+    "vijayawadaOffice": "Ụlọ ọrụ Vijayawada",
+    "allRightsReserved": "Ikike niile echekwabara.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "South Africa"
+  },
+  "common": {
+    "loading": "Na-ebu...",
+    "error": "Njehie",
+    "retry": "Gbalịagharịa",
+    "close": "Mechie",
+    "backToTop": "Laghachi n'elu",
+    "skipToContent": "Gaa na ọdịnaya",
+    "scroll": "Pịgharịa",
+    "whatWeOffer": "Ihe Anyị Na-enye",
+    "howItWorks": "Ka o si arụ ọrụ"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Chọọ obodo ma ọ bụ koodu…",
+    "noResults": "Enweghị obodo ahụrụ.",
+    "countryCodeLabel": "Koodu ọkpụkpọ obodo",
+    "required": "Nọmba ekwentị achọrọ.",
+    "incomplete": "Nọmba ekwentị ga-enwerịrị nkeji {{count}}.",
+    "tooLong": "Nọmba ekwentị enweghị ike ịnwe karịa ọnụọgụ {{count}}.",
+    "invalid": "Tinye nọmba ekwentị bara uru maka {{country}}."
+  },
+  "perspectives": {
+    "topic": "Isiokwu:",
+    "published": "Ebipụtara:",
+    "readingTime": "Oge Ọgụgụ:",
+    "author": "Onye edemede:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Mpaghara teknụzụ",
+    "purpose": "Ebumnuche",
+    "talkToExperts": "Gwa ndị ọkachamara anyị okwu",
+    "viewAll": "Lelee Echiche niile",
+    "exploreMore": "GỤKWUO GBASARA YA EKWU NDỊ ỌZỌ",
+    "continueExploring": "Gaa n'ihu na-enyocha Ntụle Nkà na ụzụ Enterprise",
+    "readPerspective": "Gụọ Echiche"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Ngwọta Robotics",
+      "tagline": "Teknụzụ ọgụgụ isi. Ọrụ akpaaka. Azụmahịa Smarter.",
+      "heroBadge": "Sistemụ ikike nwere ọgụgụ isi",
+      "overview": [
+        "Ọgụgụ isi Artificial na Robotics na-agbanwe ka otu ụlọ ọrụ si arụ ọrụ, na-eme mkpebi, na wepụta uru. Ngwọta AI & Robotics anyị na-enyere azụmaahịa aka ịgafe akpaaka ọdịnala site na ijikọta ọgụgụ isi, mmụta igwe, ọhụụ kọmputa, akpaaka usoro ọgụgụ isi, na robotics iji dozie ihe ịma aka azụmaahịa bara uru.",
+        "Anyị na-echepụta ihe ngwọta nwere ọgụgụ isi gburugburu nsonaazụ azụmahịa enwere ike ịlele. Ma ihe a chọrọ bụ ịmegharị ọrụ ugboro ugboro, nyochaa nnukwu ozi, ịchọpụta usoro, mkpebi na-akwado, ma ọ bụ iwebata robotik n'ime gburugburu ebe arụ ọrụ, ụzọ anyị na-elekwasị anya na ntụkwasị obi, scalability, nchekwa, na uru azụmahịa ogologo oge."
+      ],
+      "transformation": [
+        "Òtù dị ugbu a na-emepụta data buru ibu ma na-eme ọtụtụ puku ihe omume ugboro ugboro kwa ụbọchị. AI na robotics nwere ike gbanwee ihe omume ndị a ka ọ bụrụ ọgụgụ isi, usoro ọrụ akpaaka nke na-eme ka arụpụta ọrụ dịkwuo mma ma na-enye ndị ọrụ ohere ilekwasị anya na ibu ọrụ dị elu.",
+        "Ihe ngwọta anyị nwere ike inyere òtù dị iche iche aka ịrụ ọrụ ugboro ugboro, belata ntinye aka, melite izi ezi, nyochaa ozi dị mgbagwoju anya, kwado mkpebi ngwa ngwa, ebuli akụrụngwa akụrụngwa, kwalite ahụmahụ ndị ahịa, na ịmepụta usoro ọgụgụ isi."
+      ],
+      "capabilities": [
+        {
+          "title": "ọgụgụ isi arụrụ arụ",
+          "desc": "Anyị na-emepụta ihe ngwọta nke AI na-eme ka usoro ahụ nwee ike ịghọta ozi, chọpụta usoro, ịmepụta nghọta, na ịkwado mkpebi azụmahịa."
+        },
+        {
+          "title": "Ịmụ igwe",
+          "desc": "Anyị na-emepụta ụdị mmụta igwe maka ịkọ amụma, nhazi ọkwa, usoro nkwanye, nchọpụta anomaly, nyocha amụma, na nkwado mkpebi nwere ọgụgụ isi."
+        },
+        {
+          "title": "Nhazi asụsụ eke",
+          "desc": "NLP nwere ike iji hazie akwụkwọ, ghọta ederede, kewaa ozi, wepụ ọdịnaya dị mkpa, na ịkwado ngwa mkparịta ụka."
+        },
+        {
+          "title": "Ọhụụ Kọmputa",
+          "desc": "Ngwọta ọhụụ nke kọmpụta nwere ike ịkwado nhazi ihe oyiyi, nchọpụta ihe, nyocha nke ọma, nhazi akwụkwọ, nlele anya, na nchịkọta vidiyo."
+        },
+        {
+          "title": "Robotics",
+          "desc": "Robotics na-ejikọta ọgụgụ isi sọftụwia na sistemu anụ ahụ iji mee ka ihe omume ndị na-achọkarị mbọ aka. Ngwa nwere ike ịgụnye nrụpụta, lọjistik, nkwakọba ihe, nyocha, njikwa ihe, na nkwado arụmọrụ."
+        },
+        {
+          "title": "Usoro akpaaka nwere ọgụgụ isi",
+          "desc": "AI nwere ike jikọta ya na automation workflow iji mepụta usoro na-akọwa ozi, tinye iwu azụmahịa ma ọ bụ ụdị, ma malite usoro kwesịrị ekwesị na-akpaghị aka."
+        }
+      ],
+      "lifecycleSteps": [
+        "Nyocha azụmahịa",
+        "Nyocha data",
+        "Atụmatụ AI",
+        "Ngwọta Ngwọta",
+        "Mmepe",
+        "Mmekọrịta",
+        "Nnwale",
+        "Nkwanye",
+        "nlekota oru",
+        "nkwalite"
+      ],
+      "benefits": [
+        "Higher enterprise arụmọrụ arụpụtaghị ihe",
+        "Mbelata dị ukwuu na ụgwọ ọrụ",
+        "Nhazi ngwa ngwa na ntụgharị mkpebi millisecond",
+        "Data emelitere yana izi ezi na-arụ ọrụ",
+        "Ejikwa akụrụngwa anụ ahụ na mgbakọ na mwepụ kachasị mma",
+        "Mbelata ihe egwu arụ ọrụ na njehie mmadụ",
+        "scalability multi-platform enweghị nkebi",
+        "Nwelite ahụmịhe ndị ahịa na ndị ọrụ"
+      ],
+      "security": "Enterprise AI ngwọta ga-abụrịrị iji nchekwa kwesịrị ekwesị, njikwa ohere, nchekwa data, nlekota oru, njikwa ihe nlereanya, na nchekwa ọrụ. Anyị na-atụle ihe ndị a chọrọ site na nhazi ihe owuwu site na ntinye na mmezi na-aga n'ihu iji hụ na a pụrụ ịdabere na ya na ọgụgụ isi mmepụta.",
+      "ctaHeadline": "Mee Ọdịnihu ọgụgụ isi",
+      "ctaSub": "Mee ka ọrụ gị dịkwuo mma. Megharịa ihe dị mkpa. Mee maka ọdịnihu."
+    },
+    "business-automation-solutions": {
+      "title": "Ngwọta akpaaka azụmahịa",
+      "tagline": "Mee ka usoro dị mfe. Wepụ ikwugharị. Mee ka ọganihu dịkwuo ngwa.",
+      "heroBadge": "Nkwalite usoro ọrụ ngwụcha ruo na ngwụcha",
+      "overview": [
+        "Automation azụmahịa na-enyere òtù dị iche iche aka iji dochie ọrụ ntuziaka ugboro ugboro na usoro ọrụ dijitalụ streamlined. Ngwọta akpaaka azụmaahịa anyị na-enyere ụlọ ọrụ aka ịkwalite nrụpụta, belata mgbagwoju anya ọrụ, belata mperi, ma mepụta usoro na-agbanwe agbanwe n'ofe ngalaba.",
+        "Anyị na-enyocha usoro ọrụ ndị dị ugbu a, chọpụta nkwụsịtụ, na ịmepụta ngwọta akpaaka nke jikọtara ndị mmadụ, ngwa, data, na usoro azụmahịa."
+      ],
+      "transformation": [
+        "Ọtụtụ ụlọ ọrụ ka na-adabere na mpempe akwụkwọ, ozi-e, nkwado akwụkwọ ntuziaka, ntinye data ugboro ugboro, njikwa akwụkwọ, na ngwa akwụsịla. Usoro ndị a na-eri oge ndị ọrụ bara uru ma nwee ike iwebata igbu oge, enweghị nkwekọrịta, na njehie.",
+        "Usoro akpaaka anyị na-elekwasị anya n'ịghọta usoro zuru oke, wepụ usoro ndị na-adịghị mkpa, ijikọ usoro, na imezi ihe omume ndị na-enye uru ọrụ kachasị mma."
+      ],
+      "capabilities": [
+        {
+          "title": "Automation na-arụ ọrụ",
+          "desc": "Anyị na-arụ ọrụ ọtụtụ usoro usoro metụtara ndị ọrụ, ngwa, nkwenye, ọkwa, na data n'ofe ngalaba dị iche iche."
+        },
+        {
+          "title": "Automation Usoro Robotic",
+          "desc": "Bots sọftụwia nwere ike ịrụ ọrụ ugboro ugboro, dabere na usoro iwu dị ka ntinye data, mmelite sistemu, imekọrịta, na ịnyefe ozi."
+        },
+        {
+          "title": "Automation akwụkwọ",
+          "desc": "Akwụkwọ arụ ọrụ akpaaka nwere ike wepụta ozi, kwado data, hazie akwụkwọ, arịrịọ ụzọ, wee malite usoro mgbada ala."
+        },
+        {
+          "title": "Nkwado akpaaka",
+          "desc": "Digital ihunanya workflows na-akpaghị aka ụzọ arịrịọ na ezi mkpebi na-enye ezigbo oge visibiliti n'ime jide omume."
+        },
+        {
+          "title": "Ngwakọta akpaaka",
+          "desc": "Anyị na-ejikọta ngwa azụmahịa ka ozi wee nwee ike ịgafe na-akpaghị aka n'etiti nyiwe na-enweghị enyemaka aka na-enweghị isi."
+        },
+        {
+          "title": "Automation ngosi",
+          "desc": "Ngosipụta akpaghị aka na ọkwa na-enyere ndị ọrụ aka ịzaghachi ozugbo maka mmemme dị mkpa, oge imecha, ihe ndị ọzọ na mgbanwe ọrụ."
+        }
+      ],
+      "lifecycleSteps": [
+        "Chọpụta",
+        "Nyochaa",
+        "Imebe",
+        "Mechie",
+        "Jikota",
+        "Nwale",
+        "Nyefee",
+        "Nyochaa",
+        "Kwalite"
+      ],
+      "benefits": [
+        "Mmụba otu mmepụta na ọsọ ọsọ ọrụ",
+        "Mbelata dị egwu na mperi ntinye data akwụkwọ ntuziaka",
+        "Oge ntụgharị usoro ngwụcha ruo ọgwụgwụ dị mkpụmkpụ",
+        "Nhụta dị n'otu n'ofe ọrụ azụmahịa",
+        "Nrube isi n'ofe ngalaba",
+        "Ego eji arụ ọrụ belatara nke ukwuu",
+        "Ikike ngbanwe iji tụọ oke ọrụ n'enweghị ike",
+        "Ndị otu ike na-elekwasị anya na ntinye aka ndị ahịa na ọrụ atụmatụ"
+      ],
+      "security": "Anyị na-ejikọta nyiwe ọrụ na-arụ ọrụ na RPA na ụdị nwere ọgụgụ isi nke maara ihe iji hụ na njikwa ohere dabere na ọrụ, ụzọ nyocha zuru oke, yana nnabata siri ike gafee azụmahịa ọ bụla akpaghị aka.",
+      "ctaHeadline": "Mee ka arụ ọrụ dị mma karịa",
+      "ctaSub": "Megharịa ọrụ ugboro ugboro. Nye ndị gị ike. Mee ka azụmahịa gị mee ngwa ngwa."
+    },
+    "cloud-migration-solutions": {
+      "title": "Ngwọta Mbugharị igwe ojii",
+      "tagline": "Jiri ntụkwasị obi gaa na igwe ojii.",
+      "heroBadge": "Mgbanwe igwe ojii",
+      "overview": [
+        "Mgbakọ igwe ojii aghọwo akụkụ dị oke mkpa nke akụrụngwa IT ọgbara ọhụrụ. Ndị otu na-ebugharị ngwa, ọdụ data, ibu ọrụ, na akụrụngwa gaa na gburugburu igwe ojii iji melite scalability, nnweta, mgbanwe, na arụmọrụ arụmọrụ.",
+        "Ọrụ mbugharị igwe ojii anyị na-enyere ndị otu aka inyocha gburugburu ebe ha dị ugbu a, kọwapụta atumatu mbugharị, megharia mbugharị, ma kwalite ibu ọrụ mgbe ha gafechara na igwe ojii."
+      ],
+      "transformation": [
+        "Mbugharị igwe ojii karịrị ibugharị sava site n'otu gburugburu gaa na nke ọzọ. Mbugharị na-aga nke ọma chọrọ nleba anya nke ọma nke ngwa, akụrụngwa, ndabere, ihe nchekwa chọrọ, data, arụmọrụ, nnweta, na ịga n'ihu azụmahịa.",
+        "Anyị na-emepụta atụmatụ mbata na-adabere na gburugburu ebe obibi nke nzukọ ugbu a na ebumnuche n'ọdịnihu, na-ahọrọ usoro mbugharị kwesịrị ekwesị maka ọrụ ọ bụla."
+      ],
+      "capabilities": [
+        {
+          "title": "Mbugharị akụrụngwa",
+          "desc": "Anyị na-akwaga sava ọdịnala, nchekwa, igwe mebere, na ibu ọrụ na gburugburu igwe ojii ọgbara ọhụrụ na AWS, Azure, na GCP."
+        },
+        {
+          "title": "Mbugharị ngwa",
+          "desc": "Enwere ike ịmegharị ngwa, megharịa, megharịa, ma ọ bụ megharịa dabere na azụmahịa na teknụzụ chọrọ."
+        },
+        {
+          "title": "Mbugharị nchekwa data",
+          "desc": "Anyị na-akwaga ọdụ data mgbe anyị na-atụle iguzosi ike n'ezi ihe data, arụmọrụ, ndakọrịta, nnweta, nchekwa, na mgbake chọrọ."
+        },
+        {
+          "title": "Imezi igwe ojii",
+          "desc": "Mbugharị na-aghọ ohere iji mee ka ngwa dị ọhụrụ site na iji arịa, microservices, ọdụ data a na-achịkwa, ọrụ enweghị ihe nkesa, na ụlọ ọrụ igwe ojii."
+        },
+        {
+          "title": "Ngwakọta igwe ojii",
+          "desc": "Ụlọ ọrụ ndị chọrọ ma ụlọ na akụrụngwa igwe ojii nwere ike ịnwe ihe nrụpụta ngwakọ nke na-ejikọ sistemu dị ugbu a na ọrụ igwe ojii."
+        },
+        {
+          "title": "Multi-igwe ojii",
+          "desc": "Maka otu ndị na-arụ ọrụ n'ofe igwe ojii dị iche iche, anyị na-enyere aka chepụta atụmatụ ibu ọrụ na-eme ka mgbanwe, nkwụghachi, na ọchịchị dị mma."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ntụle",
+        "Nchọpụta",
+        "Nkewa ndabere",
+        "Usoro Mbugharị",
+        "Ihe owuwu ihe owuwu",
+        "Mbugharị pilot",
+        "Mbugharị data",
+        "Mbugharị ngwa",
+        "Nnwale",
+        "Mmepụta Migration",
+        "nkwalite"
+      ],
+      "benefits": [
+        "Ngbanwe scalability na nnweta akụrụngwa dị elu",
+        "Mgbanwe akụrụngwa ka ukwuu na ike azụmaahịa",
+        "Ewepụrụ ibu nlekọta datacenter anụ ahụ",
+        "Nbunye njirimara ngwa ngwa ngwa",
+        "Mgbake ọdachi siri ike na nkwado ndabere",
+        "Nweta ngwa ngwa igwe ojii AI na ọrụ jisiri ike",
+        "Ọchịchị FinOps kachasị mma yana mbelata TCO",
+        "Nrube isi na-aga n'ihu na okporo ụzọ nchekwa akpaaka"
+      ],
+      "security": "Nchekwa bụ akụkụ dị mkpa nke atụmatụ mbata. Anyị na-atụle njirimara na njikwa ohere, nchekwa netwọkụ, izo ya ezo na-ebugharị na izu ike, nchekwa data, nyocha ngwa ngwa ngwa, nlekota oru, nkwado ndabere na mpaghara mgbake ọdachi.",
+      "ctaHeadline": "Njem igwe ojii gị, ahaziri nke ọma",
+      "ctaSub": "Hazie akụrụngwa gị nke ọma. Mee ngwa ngwa ọhụrụ. Wulite ntọala igwe ojii nwere ike ịbelata."
+    },
+    "data-center-solutions": {
+      "title": "Ngwọta Center Data",
+      "tagline": "akụrụngwa ntụkwasị obi maka ọrụ ozi-dị oke mkpa.",
+      "heroBadge": "Ọrụ-Ihe akụrụngwa dị mkpa",
+      "overview": [
+        "Ebe data na-etolite ntọala nke azụmaahịa dijitalụ ọgbara ọhụrụ. Ngwa, ọdụ data, sistemu ụlọ ọrụ, nyiwe nkwukọrịta, yana ọrụ azụmaahịa dị oke mkpa dabere na akụrụngwa ntụkwasị obi.",
+        "Ngwọta ụlọ ọrụ data anyị na-elekwasị anya n'ichepụta, imeziwanye, ijikwa, na ịkwalite gburugburu akụrụngwa wuru maka nnweta, nchekwa, scalability, arụmọrụ, na arụmọrụ arụmọrụ."
+      ],
+      "transformation": [
+        "Ebe data ọgbara ọhụrụ chọrọ karịa sava na nchekwa. Ọ na-achọ akụrụngwa ejiri nlezianya rụọ ọrụ n'ofe kọmpụta, ịkparịta ụka n'Ịntanet, nchekwa, ike, jụrụ oyi, nleba anya, nkwado ndabere na mpaghara, na mgbake ọdachi.",
+        "Anyị na-enyere òtù dị iche iche aka ịmepụta gburugburu akụrụngwa na-agbanwe agbanwe na-akwado ọrụ dị oke mkpa ma na-enye ntọala maka ọganihu nkà na ụzụ n'ọdịnihu."
+      ],
+      "capabilities": [
+        {
+          "title": "Ihe eji eme ihe",
+          "desc": "Anyị na-emepụta gburugburu dabere na mkpa ọrụ, ikike, arụmọrụ, nnweta, nchekwa, na uto n'ọdịnihu."
+        },
+        {
+          "title": "Ihe nrụpụta ihe nkesa",
+          "desc": "Anyị na-akwado gburugburu ihe nkesa anụ ahụ na mebere maka ngwa ụlọ ọrụ dị oke mkpa na ibu ọrụ."
+        },
+        {
+          "title": "Ngwọta Nchekwa",
+          "desc": "Anyị na-atụle arụmọrụ, ikike, redundancy, SAN / NAS dị elu, nkwado ndabere na mpaghara nchekwa data mgbe ị na-emepụta ebe nchekwa."
+        },
+        {
+          "title": "Netwọk akụrụngwa",
+          "desc": "Anyị na-echepụta gburugburu netwọkụ na nkewa kwesịrị ekwesị, redundancy, arụmọrụ dị ala, njikọta, na njikwa nchekwa."
+        },
+        {
+          "title": "Ịmepụta ihe",
+          "desc": "Ikike ime ihe na-eme ka ojiji akụrụngwa na-arụ ọrụ, ngbanwe oke ọrụ, yana njikwa akụrụngwa etiti."
+        },
+        {
+          "title": "Ndabere & Iweghachite Ọdachi",
+          "desc": "Anyị na-enyere òtù dị iche iche aka guzobe atumatu ndabere na mgbake architectures e mere iji belata downtime na iwepụ data ọnwụ."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ntụle ikike",
+        "Nkọwapụta ibu ọrụ",
+        "Ihe owuwu ihe owuwu",
+        "Ngwaike & Virtual Sising",
+        "Nkebi netwọkụ",
+        "Nkwadebe nchekwa",
+        "Nlegharị anya & Nnwale DR",
+        "Mmepụta Cutover",
+        "Nlekọta ahụike 24/7",
+        "nkwalite na-aga n'ihu"
+      ],
+      "benefits": [
+        "Ekwenyere 99.999% oge akụrụngwa",
+        "Efu otu isi ihe ọdịda na nrụgharị nwere ọtụtụ",
+        "Mgbakọ ihe nkesa kachasị mma yana ezigbo njupụta dị elu",
+        "Ihe owuwu ịkparịta ụka n'obere obere nkeji nkeji",
+        "Nchekwa gburugburu anụ ahụ na dijitalụ siri ike",
+        "Nleba anya nke ọma na ọdịda ọdịda akpaghị aka",
+        "Nchekwa modular nwere ike ịgbatị maka data-ọ̀tụ̀tụ̀ petabyte",
+        "Mkpokọta ọnụ ahịa nke nwe na nrụpụta ike a na-atụ anya"
+      ],
+      "security": "A na-ejikọta nchekwa n'ofe akụrụngwa akụrụngwa, na-ekpuchi micro-segmentation network, mgbọrọgwụ-nke ntụkwasị obi ngwaike, njikwa ohere ntụkwasị obi efu, nyocha adịghị ike na-aga n'ihu, nchebe njedebe, yana atumatu arụ ọrụ siri ike.",
+      "ctaHeadline": "Akụrụngwa dị njikere n'ọdịnihu",
+      "ctaSub": "Wulite akụrụngwa a pụrụ ịdabere na ya taa. Mepụta ntọala maka teknụzụ echi."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Nyocha ọgụgụ isi & AI",
+      "tagline": "Tụgharịa data ka ọ bụrụ ọgụgụ isi.",
+      "heroBadge": "Data-na-Mkpebi ọgụgụ isi",
+      "overview": [
+        "Otu dị iche iche na-ewepụta ozi dị ukwuu site na ngwa, azụmahịa, ndị ahịa, arụmọrụ, ngwaọrụ na nyiwe dijitalụ. Ihe ịma aka abụghịzi ịnakọta data; ọ na-aghọta na data na-atụgharị ya na-eme ihe ọgụgụ isi.",
+        "Ntụle nghọta anyị & ngwọta AI na-ejikọta nyocha dị elu, mmụta igwe, ọgụgụ isi, nhazi data, na ọgụgụ isi azụmaahịa iji nyere ndị otu aka ịme mkpebi ka mma."
+      ],
+      "transformation": [
+        "Akụkọ ọdịnala na-agwa otu ihe merenụ. Ntụle dị elu nwere ike inye aka kọwaa ihe kpatara o ji mee, chọpụta ihe nwere ike ime na-esote, na kwado mkpebi gbasara ihe kwesịrị ime.",
+        "Anyị na-enyere òtù dị iche iche aka guzobe data gburugburu ebe obibi na-agafe na static akuko n'ebe nwere ọgụgụ isi analysis na mkpebi nkwado."
+      ],
+      "capabilities": [
+        {
+          "title": "Nyocha nkọwa",
+          "desc": "Ghọta arụmọrụ akụkọ ihe mere eme site na mkpesa mmekọrịta, bọọdụ multidimensional, KPI, na metrik azụmahịa."
+        },
+        {
+          "title": "Nyocha nyocha",
+          "desc": "Chọpụta mmekọrịta dị n'okpuru, ọnọdụ, anomalies statistical, na mgbọrọgwụ na-akpata nsonaazụ azụmahịa."
+        },
+        {
+          "title": "Nyocha amụma",
+          "desc": "Jiri data gụgharia akụkọ ihe mere eme na ezigbo oge nwere ụdị ndekọ iji chọpụta nsonaazụ na ihe ndị nwere ike ime n'ọdịnihu."
+        },
+        {
+          "title": "Nchịkọta ndenye",
+          "desc": "Nyochaa omume nwere ike ma kwado ụzọ mkpebi kacha mma dabere na nsonaazụ amụma na ebumnuche azụmaahịa dị mkpa."
+        },
+        {
+          "title": "Ụdị mmụta igwe",
+          "desc": "Zụlite ụdị omenala maka ịkọ amụma, nhazi ndị ahịa, ndụmọdụ, nchọpụta anomaly wayo, na mmezi amụma."
+        },
+        {
+          "title": "Nghọta nwere ike AI",
+          "desc": "Tinye cognitive AI n'ọtụtụ ozi na-edochaghị anya n'elu usoro zoro ezo, nchịkọta ndị isi na ndụmọdụ."
+        }
+      ],
+      "lifecycleSteps": [
+        "Isi mmalite data",
+        "Ngwakọta data",
+        "Nhazi data",
+        "Nchekwa data",
+        "Nyocha",
+        "Ụdị AI/ML",
+        "Ịhụ anya",
+        "Mkpebi azụmahịa"
+      ],
+      "benefits": [
+        "Nkpebi ikpe dabere na eziokwu, data na-ebute",
+        "Ọchịchọ ziri ezi, ego ha ga enweta na ibu amụma",
+        "Achọpụta ihe adịghị mma na aghụghọ",
+        "Nleba anya omume ndị ahịa na nhazi nke 360 dị omimi",
+        "Anya ọkọnọ kachasị mma yana arụmọrụ arụ ọrụ",
+        "Mbelata arụmọrụ na ihe egwu ego",
+        "Nchọpụta ohere ịnweta ego zoro ezo",
+        "Ọganihu oge-nghọta gafee ngalaba azụmahịa"
+      ],
+      "security": "Usoro ihe nleba anya anyị na-emejuputa izo ya ezo na ngwụcha ruo ngwụcha, nkpuchi data akpaaka, ikike RBAC siri ike, yana ọchịchị ụdị iji chekwaa data nwe ya ma nọgide na-akwado usoro iwu (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "wulite atụmatụ data ọgụgụ isi",
+      "ctaSub": "Tụgharịa ozi ka ọ bụrụ nghọta. Tụgharịa nghọta ka ọ bụrụ omume."
+    },
+    "information-reporting-systems": {
+      "title": "Ozi & Usoro mkpesa",
+      "tagline": "Ozi ziri ezi. N'oge Kwesịrị Ekwesị. Maka Mkpebi Ka Mma.",
+      "heroBadge": "Ọgụgụ isi ụlọ ọrụ jikọtara ọnụ",
+      "overview": [
+        "Ndị isi azụmahịa na ndị otu na-arụ ọrụ na-adabere na ozi ziri ezi iji mee mkpebi dị irè. Ozi anyị & Sistemụ mkpesa anyị na-enyere ndị otu aka ịnakọta, hazie, nyochaa na weta ozi azụmaahịa site na sistemụ ozi ahaziri ahazi, nyiwe mkpesa, bọọdụ dashboard, yana usoro mkpesa na-akpaghị aka.",
+        "Ndị otu na-enwekarị ozi ekesara n'ofe ngwa, akwụkwọ mgbasa ozi, ọdụ data na sistemụ arụmọrụ. Nke a na-eme ka o sie ike ịmepụta echiche na-agbanwe agbanwe nke arụmọrụ azụmahịa. Anyị na-enyere aka iwebata isi mmalite ozi n'ime mpaghara mkpesa ahaziri ahazi nke na-enye ozi azụmaahịa a pụrụ ịdabere na ya, ịnwetanwu yana na-agbanwe agbanwe."
+      ],
+      "transformation": [
+        "Usoro mkpesa ekwesịghị igosipụta ọnụọgụgụ naanị. Ọ kwesịrị inyere ndị ọrụ aka ịghọta arụmọrụ, chọpụta nsogbu, chọpụta ohere, ma mee mkpebi ndị mara mma.",
+        "Anyị na-echepụta gburugburu mkpesa gburugburu ka nzukọ gị si arụ ọrụ, na-ebuga gburugburu data-na-mkpebi ahaziziri ahaziri maka ọkwa njikwa niile."
+      ],
+      "capabilities": [
+        {
+          "title": "Sistemụ Ozi Njikwa (MIS)",
+          "desc": "Zụlite sistemu ozi jikọtara ọnụ nke na-enye njikwa njikwa ọrụ dị mkpa na nhụta atụmatụ."
+        },
+        {
+          "title": "Akụkọ gbasara azụmahịa",
+          "desc": "Gbanwee data azụmaahịa siri ike site na ọtụtụ ọwa ka ọ bụrụ akụkọ ahaziri ahazi, nke na-enyocha arụmọrụ na-aga n'ihu."
+        },
+        {
+          "title": "Dashboards mmekọrịta",
+          "desc": "Na-enye visibiliti mmekọrịta oge ma ọ bụ ahaziri n'ime metrik azụmahịa dị oke mkpa, KPI, usoro na mmemme ngalaba."
+        },
+        {
+          "title": "Njikwa KPI",
+          "desc": "Kọwapụta, egwu, na benchmark KPI arụ ọrụ bara uru dabara na ebumnuche uto ụlọ ọrụ karịrị akarị."
+        },
+        {
+          "title": "Ngwakọta data",
+          "desc": "Gwakọta isi mmalite data kesara n'ime ụlọ nkwakọba ihe data jikọtara ọnụ yana ọkwa ọmụmụ maka mkpesa otu pane-of-glass na-agbanwe agbanwe."
+        },
+        {
+          "title": "Mkpesa akpaaka",
+          "desc": "Wepụta na akpaghị aka na-ekesa akụkọ ahaziri ahazi dịka usoro akọwapụtagoro, iwu azụmaahịa na ọkwa nnata."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sistemụ azụmahịa",
+        "Nchịkọta data",
+        "Ngwakọta data",
+        "Nhazi data",
+        "Ebe nchekwa data",
+        "Nyocha",
+        "Akụkọ & Dashboards"
+      ],
+      "benefits": [
+        "Otu isi iyi nke eziokwu n'ofe ụlọ ọrụ niile",
+        "Nweta ngwa ngwa metrik arụ ọrụ ozugbo",
+        "Mwepụ zuru oke nke mgbakọ akwụkwọ mpịakọta akwụkwọ ntuziaka",
+        "KPI dị n'ofe gafere, emekọrịtara ọnụ",
+        "Nleba anya nke onye isi na nyocha",
+        "Nkesa akpaaka ozugbo nye ndị nwere oke",
+        "Nchekwa na ikike data ọkwa ọkwa granular",
+        "Ike emelitere iji meghachi omume na anomalies arụ ọrụ"
+      ],
+      "security": "Ozi azụmahịa nwere ike ịnwe data arụmọrụ, ego na ndị ahịa nwere mmetụta. Ngwọta mkpesa anyị gụnyere nyocha ọtụtụ ihe, ikike dabere na ọrụ granular, izo ya ezo, na ndekọ nyocha n'ime nhazi nhazi akụkọ.",
+      "ctaHeadline": "Akụkọ Na-akwado Uto",
+      "ctaSub": "Mee ka ozi nweta ozi. Mee ka arụmọrụ hụ ya. Mee mkpebi ka mma."
+    },
+    "managed-services": {
+      "title": "Ọrụ Ejikwa",
+      "tagline": "Ọrụ teknụzụ a pụrụ ịdabere na ya. Nkwado ọkachamara. Mmelite na-aga n'ihu.",
+      "heroBadge": "Ọrụ IT & Nkwado 24/7",
+      "overview": [
+        "Mpaghara IT ọgbara ọhụrụ dị mgbagwoju anya ma na-agbanwe agbanwe mgbe niile. Ndị otu chọrọ akụrụngwa ntụkwasị obi, ngwa, netwọkụ, nchekwa, nleba anya na nkwado teknụzụ iji mee ka ọrụ azụmaahịa na-aga n'ihu.",
+        "Ọrụ anyị jisiri ike na-enye njikwa teknụzụ na-aga n'ihu na nkwado arụmọrụ, na-enye ndị otu aka idobe gburugburu IT a pụrụ ịdabere na ya ebe ndị otu ime na-elekwasị anya na atụmatụ atụmatụ."
+      ],
+      "transformation": [
+        "Nkwado IT ọdịnala na-elekwasịkarị anya na idozi nsogbu mgbe ha mechara. Ọrụ ndị a na-achịkwa na-ewere ụzọ dị ike site na nyochaa akụrụngwa, ngwa, sistemu na gburugburu ebe arụ ọrụ.",
+        "Ụzọ a na-enyere aka ịchọpụta ihe ndị nwere ike ime n'oge, nọgide na-arụ ọrụ, melite nnweta, ma belata nkwụsị ọrụ a na-ezere."
+      ],
+      "capabilities": [
+        {
+          "title": "Njikwa akụrụngwa",
+          "desc": "Kwado ọrụ na-aga n'ihu, patching, na njikwa nke sava, nchekwa, nyiwe nke ọma, na akụrụngwa."
+        },
+        {
+          "title": "Njikwa igwe ojii",
+          "desc": "Jikwaa ibu ọrụ igwe ojii, akụrụngwa igwe ojii dị iche iche, nhazi, nleba anya, arụmọrụ, yana nkwalite FinOps."
+        },
+        {
+          "title": "Njikwa netwọkụ",
+          "desc": "Nye nlekota 24/7, njikwa arụmọrụ, nkwado nhazi, njikarịcha SD-WAN, na mkpebi nsogbu netwọk."
+        },
+        {
+          "title": "Njikwa Ngwa",
+          "desc": "Kwado gburugburu ngwa ngwa dị egwu site na nleba anya nke ọma, mmezi, mkpebi ahụhụ, na nkwalite arụmọrụ."
+        },
+        {
+          "title": "Nleba anya na nleba anya",
+          "desc": "Na-enye visibiliti ozugbo n'ime ahụike sistemu, ịla n'iyi, oge ọrụ, ndabere akụrụngwa, na ọkwa."
+        },
+        {
+          "title": "Ndabere & Iweghachite Njikwa",
+          "desc": "Na-edobe usoro nkwado ndabere na mpaghara akpaghị aka, nwalee ndị na-emezughị mgbe niile, wee hụ na ike mgbake ozugbo."
+        },
+        {
+          "title": "Ọrụ nchekwa (SecOps)",
+          "desc": "Nye nlebanya nchekwa na-aga n'ihu, njikwa patch, nnabata njikwa mmanye, na mbelata ihe iyi egwu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Environment Onboarding",
+        "Nchọpụta & Ntọala",
+        "Njikọta Telemetry",
+        "Nkọwa SLA",
+        "24/7 nlekota oru",
+        "Nhazi ihe omume",
+        "Mkpebi ngwa ngwa",
+        "Ntụle ihe kpatara akpata",
+        "Injinia mgbochi",
+        "Nwelite na-aga n'ihu"
+      ],
+      "benefits": [
+        "Mbelata arụ ọrụ dị n'ime ya nke ukwuu",
+        "Nchọpụta nsogbu na-arụ ọrụ tupu emetụta ndị ọrụ",
+        "Ekwenyere 99.99% nnweta sistemu na oge ọrụ",
+        "Enwere ike ịkọ amụma, mmefu ego arụmọrụ IT na-enweghị atụ",
+        "Nweta ozugbo nweta ndị ọkachamara injinia dị elu",
+        "Oge nzaghachi ihe omume na-akwado SLA ngwa ngwa",
+        "Mgbake ọdachi na-akpaghị aka na ịga n'ihu na azụmaahịa",
+        "Nkwalite teknụzụ na-aga n'ihu na imeziwanye ihe"
+      ],
+      "security": "Ọrụ anyị jisiri ike na-agbaso ụkpụrụ ITIL na ISO siri ike, na-eme ka ohere ezoro ezo, ndekọ ndekọ nyocha dịpụrụ adịpụ, nchekwa nzere kacha nta, yana nnabata nnabata n'ofe akụrụngwa ejirila.",
+      "ctaHeadline": "Mmelite na-aga n'ihu",
+      "ctaSub": "Ị na-elekwasị anya na azụmahịa gị. Anyị na-enyere aka mee ka teknụzụ gị na-aga n'ihu."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Ngwọta teknụzụ otu nkwụsị",
+      "tagline": "Otu Onye Mmekọ Teknụzụ. Ike otutu. Ngwọta azụmahịa zuru oke.",
+      "heroBadge": "Onye mmekọ ụlọ ọrụ jikọtara ọnụ",
+      "overview": [
+        "Ndị otu na-arụkọ ọrụ na ọtụtụ ndị na-enye teknụzụ maka akụrụngwa, igwe ojii, ngwa, akpaaka, nyocha, nchekwa, nkwado, na mgbanwe dijitalụ. Ijikwa ọtụtụ ndị na-ere ahịa nwere ike ịmepụta mgbagwoju anya, oghere nzikọrịta ozi, mbọ agbakọgharịrị, na gburugburu teknụzụ kewara ekewa.",
+        "Usoro Ngwọta Teknụzụ Nkwụsị Nkwụsị anyị na-eweta ọtụtụ ikike ọnụ n'okpuru usoro ọrụ ejikọtara ọnụ, na-enyere ndị otu aka ịhazi, mejuputa, jikọta, rụọ ọrụ, ma na-aga n'ihu na-emeziwanye gburugburu teknụzụ ha."
+      ],
+      "transformation": [
+        "Anyị na-akwado usoro ndụ teknụzụ zuru oke-site n'ịghọta ihe azụmahịa chọrọ na ịkọwapụta usoro nkà na ụzụ iji mepụta ngwọta, imejuputa nyiwe, ijikọta usoro, itinye ngwa ngwa, nlekota gburugburu, na inye nkwado na-aga n'ihu.",
+        "Ebumnobi ya bụ imepụta gburugburu teknụzụ jikọtara ọnụ karịa ihe ngwọta dịpụrụ adịpụ."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategy & Architecture",
+          "desc": "Ghọta ebumnobi azụmaahịa wee chepụta ụlọ nka teknụzụ nwere ike ịgbatị, nchekwa yana na-echekwa."
+        },
+        {
+          "title": "Mmejuputa & wuo",
+          "desc": "Mejuputa ngwa, akụrụngwa, njikọta, akpaaka, na nyiwe dijitalụ nwere nsogbu ụlọ ọrụ."
+        },
+        {
+          "title": "Ngwakọta sistemu",
+          "desc": "Jikọọ sistemụ na ngwa ka ozi na-aga n'enweghị nsogbu n'ofe nzukọ niile."
+        },
+        {
+          "title": "Nkwanye ahaziri",
+          "desc": "Mepụta CI/CD na-akpaghị aka na usoro ntọhapụ iji mee ka ngwọta n'ime mmepụta na ntụkwasị obi na n'enweghị nsogbu."
+        },
+        {
+          "title": "Nlebanya na-aga n'ihu",
+          "desc": "Na-enye ọhụụ njedebe na njedebe n'ime akụrụngwa, ngwa, arụmọrụ, nnweta, na ahụike arụmọrụ."
+        },
+        {
+          "title": "nkwalite & Nkwado",
+          "desc": "Na-aga n'ihu nyochaa gburugburu ebe obibi iji melite arụmọrụ, ntụkwasị obi, arụmọrụ ọnụ ahịa, na scalability."
+        }
+      ],
+      "lifecycleSteps": [
+        "Atụmatụ",
+        "Ihe owuwu",
+        "Mmejuputa",
+        "Njikọta",
+        "Nkwanye",
+        "nlekota oru",
+        "nkwalite",
+        "Nkwado"
+      ],
+      "benefits": [
+        "Mbelata mgbagwoju anya njikwa ndị na-ere ahịa na ihe karịrị",
+        "Nchikota enweghị nkebi n'ofe ụlọ ọrụ niile",
+        "Mmezu oru ngo na-aga ngwa ngwa yana igbu oge efu efu",
+        "Oke mmefu ego amụma amụma na nnyefe doro anya",
+        "Ndekọ ụlọ ọrụ dị n'otu site na efu ruo n'oke",
+        "Ngwọta nwere ike ịhazi maka uto azụmahịa n'ọdịnihu",
+        "Mmekọrịta teknụzụ tụkwasịrị obi ogologo oge",
+        "Mgbanwe dijitalụ zuru oke na ngwụcha ngwụcha"
+      ],
+      "security": "Site na otu onye ọlụlụ tụkwasịrị obi na-ahụ maka ụkpụrụ ụlọ, mmejuputa iwu na arụmọrụ, ọchịchị nchekwa na-adịghị agbaji n'ọkwa niile — na-ewepụ ntụpọ kpuru isi na-ejikọta ọnụ yana hụ na nnabata na-aga n'ihu.",
+      "ctaHeadline": "Onye mmekọ teknụzụ zuru oke",
+      "ctaSub": "Otu onye mmekọ. Otu ọhụụ. Teknụzụ dị iche iche. Ngwọta zuru oke."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Nyocha ụlọ ọrụ",
+    "overviewTitle": "Teknụzụ ọgụgụ isi maka nsonaazụ a na-atụnye atụ",
+    "transformationEyebrow": "Ngbanwe arụmọrụ",
+    "transformationTitle": "Na-agbanwe Azụmahịa Site n'usoro ọrụ ọgụgụ isi",
+    "deliveryEyebrow": "Ụzọ nnyefe ahaziri ahazi",
+    "deliveryTitle": "Mmebi ngwụcha ruo ngwụcha & nkwalite na-aga n'ihu",
+    "deliveryIntro": "Usoro mmejuputa iwu anyị gosipụtara na-eso usoro ndụ nnyefe siri ike:",
+    "deliveryOutro": "Usoro a haziri ahazi na-eme ka nkwekọ siri ike na ebumnuche azụmahịa, ọnọdụ nchekwa siri ike, yana akara ROI nwere ike ịlele n'oge ọ bụla.",
+    "securityEyebrow": "Nchekwa & Ọchịchị",
+    "securityTitle": "Ntụkwasị obi nke ụlọ ọrụ-ọkwa yana nchekwa nchekwa",
+    "securityOutro": "Anyị agbakwunyere njikwa nnweta siri ike dabere na ọrụ, nyocha ihe ọghọm akpaaka, njikwa ihe nlere anya, yana izo ya ezo nke ọtụtụ ọkwa iji hụ na gburugburu mmepụta gị ka na-agbanwe agbanwe yana nkwekọ zuru oke.",
+    "capabilitiesTitle": "Ikike teknụzụ isi",
+    "capabilitiesSub": "Ikike teknụzụ zuru oke arụpụtara iji tụọ arụmọrụ dijitalụ gị.",
+    "bookDiscovery": "Nchọpụta teknụzụ akwụkwọ",
+    "exploreAll": "Nyochaa teknụzụ niile",
+    "bookConsultation": "Depụta ndụmọdụ",
+    "coreCapabilities": "Ikike isi"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Ikike isi",
+    "exploreFramework": "Chọpụta Usoro Ngwọta",
+    "bookConsultation": "Depụta ndụmọdụ",
+    "viewCaseStudies": "Lelee Ọmụmụ Okwu",
+    "provenPillars": "Ogidi ndị a nwapụtara",
+    "operationalOutcomes": "Nsonaazụ arụmọrụ",
+    "learnMore": "Mụtakwuo"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Injinia dijitalụ ngwụcha ruo ngwụcha",
+      "titlePart1": "mmalite Iji",
+      "titlePart2": "Nkwanye",
+      "description": "Mmepe ngwụcha ngwụcha nke ihe ngwọta dijitalụ ọhụrụ sitere na chọrọ azụmaahịa na ụkpụrụ ihe eji eme ihe site na mmepe, ntinye, nnwale, ntinye, na nkwado na-aga n'ihu.",
+      "bookConsultation": "Depụta ndụmọdụ",
+      "exploreEngineering": "Chọpụta Ngwọta Injinia",
+      "coreCapabilities": [
+        "Injinia chọrọ",
+        "Ngwọta Ngwọta",
+        "Mmepe ngwa",
+        "API Njikọta",
+        "Nkwenye mma",
+        "DevOps",
+        "Nkwanye",
+        "Nkwado & Nlekọta"
+      ],
+      "row1Eyebrow": "Nnyefe okirikiri ndụ zuru oke",
+      "row1Title": "Mmepe ngwụcha ruo ngwụcha site na ihe achọrọ ruo n'ọkwa",
+      "row1P1": "Atumatu dijitalụ ọhụrụ ọ bụla na-amalite site na ihe ndị pụrụ iche chọrọ, usoro ọrụ na-arụ ọrụ, na ebumnuche atụmatụ nke enweghị ike imezu site na otu nha dabara-niile sọftụwia. Anyị bụ ọkachamara n'ịrụ usoro sọftụwia na-arụ ọrụ nke ọma kpamkpam site na ọkọ.",
+      "row1P2": "Site na nchọta mbụ chọrọ na nhazi ihe owuwu teknụzụ gaa na mmepe sprint agile, njikọta gburugburu ebe obibi API, pipeline nnwale siri ike, na ntinye igwe ojii na-akpaghị aka, ndị otu injinia anyị siri were nweta usoro ndụ ngwaahịa gị zuru oke.",
+      "row2Eyebrow": "Ngwọta Architecture & Injinia",
+      "row2Title": "Sistemụ Scalable Ewuru maka Uto Enterprise",
+      "row2P1": "Anyị na-emepụta ihe nrụpụta sọftụwia resilient ahaziri iji nagide ibu mmepụta dị arọ. Site na microservices modular na ihe omume na-akwalite azụ azụ ruo na iyi data na-ebupụta dị elu yana GraphQL/REST API, anyị na-ewulite nyiwe na-agbakọ ọsọ ọsọ.",
+      "row2P2": "Site n'ịmepụta codebases dị ọcha, modular jikọtara ya na nnwale akpaaka yana nnabata nchekwa na-aga n'ihu, anyị na-ahụ na ntọala ngwanrọ gị bụ nke a na-edobe, na-enyocha ma dị njikere maka evolushọn ogologo oge.",
+      "row3Eyebrow": "Mmesi obi ike & DevOps",
+      "row3Title": "Nbufe Agile na pipeline akpaaka",
+      "row3P1": "Ihe nfefe anyị na-agbakwunye otu akpaaka akpaghị aka, ntinye, na nnwale nkwụghachi azụ n'akụkụ CI / CD workflows (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Site na ngosi sprint transperent, nleba anya n'ezie, na ngwa ngwa na-ebute ụzọ, anyị na-ahụ na oge na-aga ngwa ngwa n'ahịa na-emebighị nchekwa, nkwụsi ike, ma ọ bụ ahụmịhe onye ọrụ.",
+      "row4Eyebrow": "Nkwanye & Nkwado",
+      "row4Title": "Ọrụ 24/7 a pụrụ ịdabere na ya na mgbanwe ogologo oge",
+      "row4P1": "Ịga ndụ bụ naanị mmalite. Anyị na-enye nleba anya nke ọma, nleba anya na-akwado SLA, njikarịcha akụrụngwa igwe ojii, nlegharị anya arụmọrụ, yana mwepu atụmatụ na-aga n'ihu.",
+      "row4P2": "Ndị otu injinia anyị na-arụ ọrụ dị ka mgbakwunye eke nke nzukọ gị, na-eme ka oge ọdịda efu na ịdị elu teknụzụ na-aga n'ihu n'ahịa gị.",
+      "pillarsTitle": "Isi Ike",
+      "pillarsSub": "Ike zuru oke zuru ezu mebere iji were echiche gị site na efu gaa na mmepụta.",
+      "pillar1Title": "Injinia chọrọ",
+      "pillar1Desc": "Nyocha azụmahịa miri emi-mikpu, nkọwa ọrụ, na nkewa njem onye ọrụ iji kọwapụta oke ngwọta.",
+      "pillar2Title": "Ngwọta Ngwọta",
+      "pillar2Desc": "Ihe owuwu igwe ojii nwere ike ịgbakọ, ụdị nchekwa data, imepụta microservices, yana ntọala nchekwa efu.",
+      "pillar3Title": "Mmepe ngwa",
+      "pillar3Desc": "Ngwa weebụ zuru oke na ngwa mkpanaaka ejiri koodu dị ọcha, ụdị nchekwa, yana ụkpụrụ UI na-arụ ọrụ.",
+      "pillar4Title": "API Njikọta",
+      "pillar4Desc": "API dị elu REST/GraphQL, ihe egwu webhook, ọnụ ụzọ ịkwụ ụgwọ, yana mmekọrịta ERP/CRM nke ndị ọzọ enweghị nkebi.",
+      "ctaTitle": "Ị dịla njikere wulite Ngwọta gị site na mmalite ruo n'ebunye?",
+      "ctaSub": "Onye mmekọ na Rezonants na-atụpụta ụkpụrụ ụlọ, injinia, ma wepụta ikpo okwu dijitalụ ọdịnala gị site na ihe achọrọ azụmaahịa ruo na imepụta eziokwu.",
+      "ctaButton": "Akwụkwọ ndụmọdụ ndụmọdụ",
+      "pillar5Title": "Nkwenye mma",
+      "pillar5Desc": "Automation ule siri ike, nnwale ibu/nrụgide, nyocha adịghị ike, na ụlọ nyocha nlọghachi.",
+      "pillar6Title": "DevOps & ntinye",
+      "pillar6Desc": "pipeline CI/CD akpaghị aka, ihe egwu akpa (Docker/K8s), akụrụngwa dịka koodu, na mwepụta efu efu.",
+      "pillar7Title": "Nkwado & Nlekọta",
+      "pillar7Desc": "24/7 nleba anya nke ọma, telemetry ahụike, nyocha arụmọrụ, patching nchekwa, yana mmezi SLA na-aga n'ihu.",
+      "pillar8Title": "Ihe ọhụrụ na-aga n'ihu",
+      "pillar8Desc": "Ngwa ngwa njirimara oge niile, ntinye nyocha data, nkwalite AI, na imeziwanye ihe owuwu."
+    },
+    "processAutomation": {
+      "eyebrow": "Ọrụ Usoro ọgụgụ isi",
+      "titlePart1": "Usoro azụmahịa",
+      "titlePart2": "Akpaaka",
+      "description": "Ọgwụgwụ-na-ọgwụgwụ akpaaka nke Enterprise workflows, ijikọta robotic usoro automation (RPA), nwere ọgụgụ isi akwụkwọ nhazi, azụmahịa iwu engines, na usoro mwekota.",
+      "bookDiscovery": "Nchọpụta akpaaka akwụkwọ",
+      "exploreFramework": "Chọpụta Usoro Ngwọta",
+      "coreCapabilities": [
+        "Automation na-arụ ọrụ",
+        "Automation Usoro Robotic",
+        "Nhazi akwụkwọ",
+        "Injinia njikọta",
+        "Azụmahịa Iwu Engines",
+        "Usoro nyocha",
+        "Nwelite na-aga n'ihu",
+        "Njikọ aka nke"
+      ],
+      "row1Eyebrow": "Automation Usoro Robotic",
+      "row1Title": "Bots nwere ọgụgụ isi maka arụ ọrụ dị elu",
+      "row1P1": "Wepụ ntinye data akwụkwọ ntuziaka ugboro ugboro, nkwekọrịta n'etiti usoro, na ụzọ akwụkwọ. Anyị na-ebuga bots RPA ụlọ ọrụ na-arụ ọrụ ahaziri ahazi 24/7 na ọnụego mperi efu.",
+      "row1P2": "Site na ijikọ oghere desktọpụ nwere nketa, SAP/ERP backends na ọdụ data igwe ojii, bots sọftụwia na-ahapụ ndị otu gị ka ha lekwasị anya na atụmatụ azụmaahịa dị mkpa.",
+      "row2Eyebrow": "Nhazi akwụkwọ ọgụgụ isi",
+      "row2Title": "OCR, Ịmụ Igwe & Akwụkwọ AI",
+      "row2P1": "Webata na akpaghị aka, kewaa, ma wepụta data sitere na akwụkwọ ọnụahịa, nkwekọrịta, akwụkwọ njirimara na nkwupụta. Pipeline anyị na-anya AI na-akwado mpaghara megide ọdụ data dị n'ime ma kpalite usoro nnabata akpaghị aka.",
+      "row2P2": "Nweta ogologo-site na nhazi ọnụego gafere 95% ebe ị na-ebelata oge ntụgharị site na ụbọchị ruo sekọnd.",
+      "row3Eyebrow": "Usoro nhazi nhazi",
+      "row3Title": "Mmekọrịta Cross-Platform Ọgwụgwụ ruo na ngwụcha",
+      "row3P1": "Jikọọ CRM, ERP, HRMS, na API ụlọ akụ n'ime data na-aga ozugbo. Anyị na-emejuputa ihe na-akpalite mmemme, kwụ n'ahịrị ozi, yana ndị na-ahụ maka ndaghachi azụ akpaghị aka.",
+      "row3P2": "Ozi na-aga n'ụzọ zuru oke na ngalaba na-enweghị enyemaka mmadụ, na-ewepụ silos arụ ọrụ na nkwukọrịta ozi.",
+      "row4Eyebrow": "Telemetry na-aga n'ihu",
+      "row4Title": "Nleba anya usoro n'ezie na Kaizen nghọta",
+      "row4P1": "Sochie oge mmebe nke usoro, okpomoku okpomoku, ugboro ugboro, yana ROI ego n'ime dashboards ndị isi oge.",
+      "row4P2": "Nchọpụta igwe na-aga n'ihu na-achọpụta ohere akpaaka ọhụrụ, na-eme ka ụlọ ọrụ gị na-arụ ọrụ kacha arụ ọrụ.",
+      "pillarsTitle": "Ogidi akpaaka",
+      "pillarsSub": "Ihe mkpuchi ụlọ egosipụtara maka arụmọrụ ụlọ ọrụ nwere ọgụgụ isi.",
+      "pillar1Title": "Automation na-arụ ọrụ",
+      "pillar1Desc": "Multi-nzọụkwụ mmadụ-na-na-loop na dijitalụ workflows orchestrated na akpaghị aka routing na escalations.",
+      "pillar2Title": "Automation Usoro Robotic",
+      "pillar2Desc": "Bots sọftụwia dabere na iwu na-arụ ntinye data oge niile, mezie, yana ọrụ ntinye akwụkwọ.",
+      "pillar3Title": "AI Automation nwere ọgụgụ isi",
+      "pillar3Desc": "Ndị ọrụ ọgụgụ isi AI na-akọwa ihe gbara ya gburugburu, na-achịkọta ederede na-ahazibeghị, ma na-eme mkpebi na-akpaghị aka.",
+      "pillar4Title": "Nkwalite usoro",
+      "pillar4Desc": "Usoro Ngwuputa Ngwuputa, nchọpụta ọkpọ, na usoro Kaizen na-ebelata ọnụ ahịa ọrụ.",
+      "ctaTitle": "Ị dịla njikere ịrụ ọrụ ọrụ azụmahịa gị?",
+      "ctaSub": "Jikọọ na ndị na-ese ụkpụrụ akpaaka anyị iji chọpụta ohere ROI dị elu ma wepụta usoro ọrụ dijitalụ nwere ọgụgụ isi.",
+      "ctaButton": "Detuo ndụmọdụ gbasara akpaaka"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Injinia Standard & R&D",
+      "titlePart1": "Center of",
+      "titlePart2": "Ọkachamma",
+      "description": "A centralized nzukọ nke agadi architects na ngalaba ọkachamara raara nye standardizing engineering omume, ịkwọ ụgbọala ọhụrụ, na accelerating dijitalụ atumatu.",
+      "exploreStandards": "Chọpụta ụkpụrụ injinia",
+      "initiateAssessment": "Bido Ntụle CoE",
+      "coreCapabilities": [
+        "Ụkpụrụ Nhazi",
+        "Frameworks enwere ike ijikwa ya",
+        "Ọchịchị kacha mma",
+        "Mmepe nka",
+        "Nleba anya nke ọma",
+        "R&D & Innovation",
+        "Ntụle teknụzụ",
+        "Nduzi nrube isi"
+      ],
+      "uptimeLabel": "Oge ụlọ ọrụ",
+      "engineersLabel": "Ndị injinia na ndị na-ese ihe",
+      "deploymentsLabel": "AI & Cloud Deployments",
+      "satisfactionLabel": "Afọ ojuju ndị ahịa",
+      "row1Eyebrow": "Ogidi 01 - Ụkpụrụ Injinia",
+      "row1Title": "Injinia sọftụwia dị elu",
+      "row1P1": "Ụlọ Ọrụ Ọkachamara anyị na-ewepụta ụkpụrụ nhazi ahaziri ahazi, nnwale akpaaka siri ike, yana omume nyocha koodu efu na-eme ka oge na-aga ahịa dịkwuo elu ma na-edobe ụgwọ ọrụ nka ka efu.",
+      "row1F1": "pipeline mwepụta CI/CD akpaaka nwere nyocha metrik DORA",
+      "row1F2": "bọọdụ ntụle ụkpụrụ ụlọ siri ike na ọchịchị obere ọrụ",
+      "row1F3": "Nchekwa na-aga n'ihu na nchichi adịghị ike na akpaaka",
+      "row1Btn": "Mụta ụkpụrụ injinia",
+      "row1Tag": "DevOps & Ogo Injinia",
+      "row2Eyebrow": "Ogidi 02 - R&D Innovation",
+      "row2Title": "AI Innovation Lab & Technology Emerging",
+      "row2P1": "Anyị na-anwale ụdị mmụta igwe ọgbara ọhụrụ, ndị nnọchi anya AI omenala, yana ngwa ọrụ nwere ọgụgụ isi iji wuo ngwaahịa azụmaahịa nke ọgbọ ọzọ.",
+      "row2F1": "Enterprise Generative AI & RAG ihe ọmụma mwekota",
+      "row2F2": "Ndị nnọchi anya AI kwụụrụ onwe ya na-arụ ọrụ maka akpaaka usoro azụmaahịa",
+      "row2F3": "Omenala igwe mmụta ụdị njikarịcha & nzigharị",
+      "row2Btn": "Nyochaa AI Lab",
+      "row2Tag": "Ọgụgụ isi Artificial & Neural R&D",
+      "row3Eyebrow": "Ogidi 03 - Akụrụngwa",
+      "row3Title": "Architecture Cloud Enterprise & Zero-Trust Security",
+      "row3P1": "Anyị na-echepụta ma jikwaa gburugburu gburugburu igwe ojii na-agbanwe agbanwe nke e wuru na usoro nchekwa enweghị ntụkwasị obi, na-ahụ na echekwara data gị pụọ na iyi egwu cyber zuru ụwa ọnụ.",
+      "row3F1": "AWS, Azure, & GCP otutu akụrụngwa akụrụngwa",
+      "row3F2": "Nweta netwọkụ efu-Trust (ZTNA) & amụma IAM dabere na ọrụ",
+      "row3F3": "Nyocha nchekwa akpa akpaaka & njikwa nzuzo",
+      "row3Btn": "Nyochaa igwe ojii na nchekwa",
+      "row3Tag": "Architecture Cloud & Zero-Trust",
+      "pillarsTitle": "Usoro Ọkachamma anyị bụ isi",
+      "pillarsSub": "Akwụkwọ egwuregwu mmepe ahaziri ahazi na-eme ka ikpo okwu dị egwu na-arụ ọrụ.",
+      "pillar1Title": "Board Review Architectural (ARB)",
+      "pillar1Desc": "Nleba anya zuru oke na-ahụ na ngwọta ụlọ ọrụ niile dabara na oke scalability, nchekwa na usoro nnabata.",
+      "pillar2Title": "Accelerators na-emegharịgharị na ọbá akwụkwọ akụrụngwa",
+      "pillar2Desc": "Sistemụ imepụta ụlọ, ngwa mmalite API, yana ndebiri microservice na-ebelata oge mmepe mbụ site na 40%.",
+      "pillar3Title": "Profaịlụ arụmọrụ na-aga n'ihu",
+      "pillar3Desc": "Advanced real-time observability pipelines nlekota ngwa ngwa, mkpọ mkpọ, na ojiji akụ igwe ojii.",
+      "pillar4Title": "Ịkwalite nkà mmụta nkà & Guilds",
+      "pillar4Desc": "Guilds ime ụlọ a haziri ahazi na asambodo na-azụlite ikike nka miri emi n'ofe igwe ojii, DevOps, wee tinye AI.",
+      "ctaTitle": "Welie ọkọlọtọ injinia gị elu",
+      "ctaSub": "Onye mmekọ na Rezonants's Center of Excellence iji wuo ụlọ ọrụ igwe ojii na-agbanwe agbanwe, rụọ ọrụ arụmọrụ, yana kwalite nnyefe ngwaahịa dijitalụ.",
+      "ctaButton": "Ndụmọdụ ndị isi nhazi oge",
+      "badge": "Ụlọ ọrụ REZONANTS COE",
+      "scroll": "Pịgharịa",
+      "p1Title": "Ọchịchị & Usoro",
+      "p1Desc": "Wụlite ọchịchị ụkpụrụ ụlọ, nchekwa iwu, na ụkpụrụ nnabata.",
+      "p1Tag": "Ọchịchị",
+      "p2Title": "Ụkpụrụ Teknụzụ & Nhazi",
+      "p2Desc": "Kọwapụta ụlọ nrụtụ aka ọgbara ọhụrụ, nchịkọta teknụzụ vetted, na ụkpụrụ microservices.",
+      "p2Tag": "Ihe owuwu",
+      "p3Title": "Akụrụngwa & ọba akwụkwọ nwere ike ịmegharị",
+      "p3Desc": "Mee ngwa ngwa mmepe site na iji akụrụngwa kekọrịtara, ndebiri, ngwa mmalite, na sistemu imewe.",
+      "p3Tag": "Reusability",
+      "p4Title": "Mmepe ikike",
+      "p4Desc": "Ọzụzụ ahaziri ahazi, nkuzi teknụzụ, na inye aka nka iji bulie ike injinia otu.",
+      "p4Tag": "Ikike",
+      "p5Title": "Innovation & Emerging Tech",
+      "p5Desc": "R&D na ndị nnọchi anya AI, pipeline akpaaka, na usoro ọgbọ na-abịa iji nọgide na-enwe ọnụ ahịa ahịa.",
+      "p5Tag": "Ihe ọhụrụ",
+      "p6Title": "Mmelite na-aga n'ihu",
+      "p6Desc": "Data-driven engineering metrics (DORA), SLA benchmarking, na njikarịcha mma na-aga n'ihu.",
+      "p6Tag": "Ogo"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Injinia dijitalụ ahaziri",
+      "titlePart1": "Mmepe omenala &",
+      "titlePart2": "Nhazi",
+      "description": "Mmepe na nkwalite nke ngwa, nyiwe, workflows, na enterprise ngwọta iji lebara pụrụ iche azụmahịa chọrọ na-ebuga ahaziri ọrụ.",
+      "bookConsultation": "Depụta ndụmọdụ",
+      "exploreCapabilities": "Nyochaa Ike",
+      "coreCapabilities": [
+        "Mmepe omenala",
+        "Nhazi Platform",
+        "Mgbakwunye",
+        "Usoro ọrụ omenala",
+        "Mmepe API",
+        "Ngwakọta sistemu",
+        "UI/UX nkwalite",
+        "Nrụpụta arụmọrụ"
+      ],
+      "row1Eyebrow": "OKWU OKWU IKE",
+      "row1Title": "Akụkụ nkwuwa okwu ewuru maka usoro ọrụ gị",
+      "row1P1": "Akụrụngwa ụlọ ọrụ ọkọlọtọ na-adakarị obere igbo mkpa azụmahịa pụrụ iche. Ndị otu injinia omenala anyị na-emepụta modul ngwa bespoke, iwu azụmaahịa omenala, yana mgbakwunye pụrụ iche ahaziri maka ọrụ gị.",
+      "row1P2": "Site na nkwalite CRM omenala na ERP gaa na ọnụ ụzọ ọrụ pụrụ iche, anyị na-ewu atụmatụ ndị na-adakọ n'ụzọ zuru oke na usoro ọrụ otu gị.",
+      "row2Eyebrow": "Mgbakwunye sistemu eji achụ nta ego",
+      "row2Title": "Nhazi Platform & API Mmepe",
+      "row2P1": "Jikọọ sọftụwia dị iche iche n'ime gburugburu ebe obibi dijitalụ jikọtara ọnụ. Anyị na-arụ ọrụ REST omenala na GraphQL API, ndị na-ahụ maka webhook, yana ahịrị ozi ụlọ ọrụ iji hụ na mmekọrịta data na-eme n'oge n'ofe nyiwe gị niile.",
+      "row2P2": "Ma ijikọ ngwaọrụ SaaS nke atọ ma ọ bụ ịgbatị nyiwe nke ụlọ, ụlọ ọrụ njikọta anyị na-ebute iguzosi ike n'ezi data, ntinye, na oge efu efu.",
+      "row3Eyebrow": "UI/UX & Arụmọrụ",
+      "row3Title": "UI/UX nkwalite & nkwalite arụmọrụ",
+      "row3P1": "Welite ihunanya ihe nketa nwere ahụmịhe onye ọrụ ọgbara ọhụrụ, na-anabata nke emebere maka ọsọ na idoanya. Anyị na-eji ụkpụrụ imewe kenyocha, nnabata nnweta, yana ụdị mmekọrịta dị n'ihu rụgharịa ọzọ.",
+      "row3P2": "N'otu aka ahụ, ndị injinia anyị na-arụ ọrụ na-ebuli ajụjụ data nchekwa data, atụmatụ caching, na nha ngwugwu frontend iji wepụta oge nzaghachi ozugbo n'ofe ngwaọrụ niile.",
+      "pillarsTitle": "Emepụtara ya na nkọwapụta gị",
+      "pillarsSub": "Usoro nhazi ọkwa ụlọ ọrụ arụpụtara ka ọ dị elu n'enweghị nsogbu.",
+      "pillar1Title": "Omenala Workflows & Extensions",
+      "pillar1Desc": "Ezi uche ngwa na akpaghị aka steeti ahazi kpọmkwem gburugburu gị esịtidem arụmọrụ iwu.",
+      "pillar2Title": "API & Mmekọrịta Sistemu",
+      "pillar2Desc": "echekwabara, ezigbo àkwà mmiri data na-ejikọ azụ azụ azụ, ụlọ ERP, ọnụ ụzọ ịkwụ ụgwọ, na ọrụ igwe ojii.",
+      "pillar3Title": "Nhazi Platform",
+      "pillar3Desc": "Mgbanwe ụkpụrụ ụlọ dị omimi nke na-agbanwe ngwanrọ ụlọ ọrụ na-emebighị ụzọ nkwalite ma ọ bụ nkwekọrịta nkwado ndị na-ere ahịa.",
+      "pillar4Title": "Nkwalite arụmọrụ",
+      "pillar4Desc": "Profaịlụ ajụjụ ike ike, mkpochapụ ebe nchekwa, yana nkesa CDN ọnụ maka ibu ibe nke abụọ nke abụọ.",
+      "ctaTitle": "Njikere hazie gị Enterprise Platform?",
+      "ctaSub": "Jikọọ na ndị na-emepụta ihe ngwọta anyị ka ha chepụta ma tinye modul omenala, usoro ọrụ, na njikọta nke ahaziri maka mkpa azụmahịa gị.",
+      "ctaButton": "Detuo oku ahaziri",
+      "badge": "Injinia dijitalụ ahaziri",
+      "viewAllServices": "Lelee ọrụ niile"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Mmezi ụlọ ọrụ",
+      "titlePart1": "Dijitalụ",
+      "titlePart2": "Mgbanwe",
+      "description": "Mmeziwanye usoro azụmaahịa, teknụzụ teknụzụ, na ụdị arụ ọrụ iji kwalite ike nhazi, arụmọrụ arụmọrụ, yana uto dijitalụ na-adigide.",
+      "startTransformation": "Malite mgbanwe",
+      "exploreStrategy": "Nyochaa Strategy",
+      "coreCapabilities": [
+        "Usoro & Nhazi ụzọ",
+        "Nhazi ọgbara ọhụrụ",
+        "Igwe ojii na akụrụngwa",
+        "Data & Nyocha",
+        "Usoro digitization",
+        "Ahụmahụ ndị ahịa",
+        "Njikwa mgbanwe",
+        "Ụdị Na-arụ Ọrụ Agile"
+      ],
+      "row1Eyebrow": "Strategy & Roadmap",
+      "row1Title": "Site n'ọhụụ ruo n'ụzọ a pụrụ imezu",
+      "row1P1": "Anyị na ndị isi ụlọ ọrụ na-arụkọ ọrụ iji kọwapụta atụmatụ dijitalụ, ikpe azụmaahịa, na maapụ ụzọ nwere mmeri ngwa ngwa yana igbubi ihe egwu.",
+      "row1P2": "Atụmatụ ebute ụzọ, ụdị TCO, na KPI na-ahụ na mbọ ọ bụla imeziwanye teknụzụ na-ejikọ ozugbo na ego ha nwetara, arụmọrụ na nsonaazụ afọ ojuju ndị ahịa.",
+      "row2Eyebrow": "Nwelite Nhazi",
+      "row2Title": "Mee ka ọ dị ọhụrụ na-enweghị imebi azụmahịa",
+      "row2P1": "Megharia monoliths monoliths gaa na microservices, APIs, na ụkpụrụ igwe ojii nwere mbelata oge efu na nkwado nkwụghachi akpaaka.",
+      "row2P2": "Anyị na-emezi ngwa, ọdụ data, na ọkwa njikọta ka anyị na-echekwa nnabata na ọnọdụ nchekwa.",
+      "row3Eyebrow": "Igwe ojii, AI & Data",
+      "row3Title": "Nkuchi igwe ojii & ọgụgụ isi na-ebute data",
+      "row3P1": "Nabata AWS, Azure, na GCP, wuo pipeline data ọgbara ọhụrụ, wee tinye ndị ọrụ mmụta igwe iji chụpụ mkpebi ndị kwụụrụ onwe ha.",
+      "row3P2": "Site na nkwanye mmemme ozugbo gaa na dashboard dị n'otu, mgbanwe na-abụ nke a na-atụtute ma na-adigide.",
+      "row4Eyebrow": "Ahụmahụ ndị ahịa",
+      "row4Title": "Ahụmahụ Omnichannel ọgbara ọhụrụ",
+      "row4P1": "Hagharịa njem ndị ahịa n'ofe webụ, iOS, gam akporo, na ọnụ ụzọ ọrụ onwe onye nwere oghere ahaziri iche.",
+      "row4P2": "Injinia Platform, telemetry, na loops nzaghachi akpaaka na-eme ka ihe ọhụrụ dijitalụ na-aga n'ihu.",
+      "pillarsTitle": "Ogidi mgbanwe",
+      "pillarsSub": "Levers lekwasịrị anya nsonaazụ nke na-eme ka onye ndu dijitalụ na-adigide.",
+      "pillar1Title": "Digital Strategy & Ọchịchị",
+      "pillar1Desc": "Usoro mgbanwe n'usoro nwere usoro ihe nlegharị anya azụmaahịa, ọchịchị ụkpụrụ ụlọ, na nsochi ihe egwu dị egwu.",
+      "pillar2Title": "Igwe ojii & Data Platform",
+      "pillar2Desc": "AWS/Azure/GCP ntọala igwe ojii, pipeline akpaaka, yana ikike nyocha data ụlọ ọrụ.",
+      "pillar3Title": "AI & akpaaka",
+      "pillar3Desc": "Nhazi usoro ọgụgụ isi, ndị nnọchi anya AI na-ebu amụma, na telemetry amụma iji bulie ọrụ kwa ụbọchị.",
+      "pillar4Title": "Ahụmahụ ndị ahịa",
+      "pillar4Desc": "Ọnụ ụzọ dijitalụ omnichannel na-agbanwe dị elu yana oghere ahaziri iche wuru maka njide onye ọrụ kacha.",
+      "ctaTitle": "Ị dịla njikere ịgbanwe ụlọ ọrụ gị?",
+      "ctaSub": "Onye mmekọ ya na Rezonants maka ngbanwe dijitalụ na-emebi emebi, jikọtara ya na nsonaazụ azụmaahịa enwere ike ịlele.",
+      "ctaButton": "Detuo oku mgbanwe dijitalụ",
+      "bookWorkshop": "Ụlọ ọrụ mgbanwe akwụkwọ",
+      "exploreFramework": "Chọpụta Usoro Ngwọta",
+      "coreCapabilitiesTitle": "Isi Ike"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Usoro ndụ teknụzụ zuru oke",
+      "titlePart1": "Ngwọta Ọgwụgwụ na Ọgwụgwụ",
+      "titlePart2": "Framework",
+      "description": "Usoro nnyefe ahaziri ahazi, nke zuru oke nke gbasara azụmahịa chọrọ, imewe ihe owuwu, injinia, njikọta, mmesi obi ike, ntinye igwe ojii, na arụ ọrụ jisiri ike.",
+      "startJourney": "Malite ọrụ gị",
+      "exploreFramework": "Chọpụta Framework",
+      "coreCapabilities": [
+        "Nyocha achọrọ",
+        "Ihe owuwu ihe owuwu",
+        "Mmepe zuru oke",
+        "Injinia njikọta",
+        "Mmesi obi ike",
+        "Nbugharị & Mbugharị",
+        "Ọrụ na-aga n'ihu",
+        "Evolushọn na-aga n'ihu"
+      ],
+      "row1Eyebrow": "Strategy & Architecture",
+      "row1Title": "chọrọ Injinia & Ngwọta Ngwọta",
+      "row1P1": "Ụlọ ọrụ nrụkọba ọnụ, eserese ngalaba azụmahịa, na nkọwapụta igwe ojii emere iji kpochapụ ihe egwu tupu edee ahịrị koodu.",
+      "row1P2": "Anyị na-akọwapụta ụdị data, usoro nchekwa, na scalability milestones na-edozi ihe ịga nke ọma ogologo oge.",
+      "row2Eyebrow": "Injinia & Ogo",
+      "row2Title": "Mmepe zuru oke & Nnwale akpaaka",
+      "row2P1": "Ọrụ microservices modular, ụdị API dị mma, yana ihu ihu na-anabata nke jikọtara ya na nkeji akpaaka, ntinye, na nyocha nchekwa.",
+      "row2P2": "pipeline njikọta na-aga n'ihu na GitHub Actions, Terraform, na nchekwa nchekwa akpaaka.",
+      "row3Eyebrow": "Nkwanye & Ọrụ",
+      "row3Title": "Mgbasa igwe ojii & Nlebanya 24/7 jisiri ike",
+      "row3P1": "Otu egwu igwe ojii na AWS/Azure/GCP nwere ntughari akpaghị aka, mbelata oge efu, yana nleba anya oge.",
+      "row3P2": "Anyị na-enye nkwado SLA na nleba anya telemetry na-aga n'ihu iji mepụta ngwaahịa gị n'enweghị nsogbu.",
+      "row4Eyebrow": "Ọchịchị ụlọ ọrụ",
+      "row4Title": "Ọchịchị dị n'otu na nkwado na-aga n'ihu",
+      "row4P1": "Ịza ajụjụ n'otu ntabi anya n'ofe mkpokọta dijitalụ gị niile - ngwa ngwa sprint transperent, mmefu ego a na-ebu amụma, yana ihe ọhụrụ na-aga n'ihu.",
+      "row4P2": "Ngosipụta atụmatụ oge niile na usoro ọgbara ọhụrụ na-eme ka ụlọ ọrụ gị na-aga n'ihu asọmpi.",
+      "pillarsTitle": "Ogidi Framework Lifecycle",
+      "pillarsSub": "Usoro ọ bụla ejiri arụ ọrụ ụlọ ọrụ mebere ya.",
+      "pillar1Title": "Strategy & Chọrọ",
+      "pillar1Desc": "Nchọpụta ngalaba, maapụ ụkpụrụ ụlọ, na nhazi ndị otu iji kpochapụ ihe egwu igbu.",
+      "pillar2Title": "Ihe owuwu & Mee",
+      "pillar2Desc": "Microservices nke igwe ojii na-agbanwe agbanwe, ntinye API, yana nnwale QA na-aga n'ihu.",
+      "pillar3Title": "Nchekwa & Nbunye",
+      "pillar3Desc": "Nrube isi nchekwa efu, mwepụta echekwabara, yana ntinye igwe ojii na-akpaghị aka.",
+      "pillar4Title": "Ọchịchị & Nkwado",
+      "pillar4Desc": "24/7 SLA nlekota, telemetry ahụike, na injinịa evolushọn na-aga n'ihu.",
+      "ctaTitle": "Achọrọ onye mmekọ ndụ okirikiri zuru oke?",
+      "ctaSub": "Anyị nwere usoro ndụ teknụzụ zuru oke ka ndị otu gị nwee ike ilekwasị anya na nsonaazụ azụmaahịa bụ isi.",
+      "ctaButton": "Onye mmekọ maka okirikiri ndụ zuru oke"
+    },
+    "migrationServices": {
+      "eyebrow": "Igwe ojii & Mgbanwe akụrụngwa",
+      "titlePart1": "Mbugharị &",
+      "titlePart2": "Imeziwanye ihe",
+      "description": "Mbugharị echekwabara, ahaziri ahazi nke ngwa ihe nketa, ọdụ data na akụrụngwa gaa na ụlọ igwe ojii ọgbara ọhụrụ, jikọtara ya na nkwalite na-aga n'ihu maka nkwalite ike na arụmọrụ.",
+      "bookAssessment": "Ntụle Mbugharị akwụkwọ",
+      "exploreStrategy": "Nyochaa Strategy Cloud",
+      "coreCapabilities": [
+        "Mbugharị igwe ojii",
+        "Imezi ngwa ngwa",
+        "Mbugharị ọdụ data",
+        "Nbugharị akụrụngwa",
+        "Ebube",
+        "Ngbanwe Microservices",
+        "Nkwalite arụmọrụ",
+        "Nchekwa & nnabata"
+      ],
+      "row1Eyebrow": "Mbugharị igwe ojii",
+      "row1Title": "Strategy Multi-Cloud & Ebuli-na-ebuli",
+      "row1P1": "Mbugharị ibu ọrụ na-enweghị nkebi gafefe AWS, Azure, na Google Cloud nwere nchọpụta akpaaka, nhazi ebili mmiri, yana nkwụsị azụmahịa efu.",
+      "row1P2": "Anyị na-edozi nhazigharị, nhazigharị na nhazigharị iji kwalite mkpokọta ọnụ ahịa nke nwe (TCO) na ike.",
+      "row2Eyebrow": "Data & Database Migration",
+      "row2Title": "ETL echekwara na nkwado data akpaaka",
+      "row2P1": "Ntugharị nchekwa data akpaghị aka, ntụgharị schema, yana ọkpọkọ ETL dị elu nwere nkwenye 100% data.",
+      "row2P2": "Mmụgharị igbutu oge efu na-eme ka nkwụsi ike data zuru oke yana ịga n'ihu azụmahịa.",
+      "row3Eyebrow": "Nhazi ọgbara ọhụrụ",
+      "row3Title": "Ngwakọta & Kubernetes Orchestration",
+      "row3P1": "Meziwanye monoliths nketa ka ọ bụrụ microservices nwere ike ịhazi site na Kubernetes (EKS, AKS, GKE) nwere ụkpụrụ IaC na-akpaghị aka.",
+      "row3P2": "Ngosipụta arụmọrụ mbata gachara na njikarịcha ọnụ ahịa hụ na ROI ozugbo.",
+      "row4Eyebrow": "Atụmatụ Cutover",
+      "row4Title": "Nnwale akpaghị aka & Nets Safety Rollback",
+      "row4P1": "Akwụkwọ ịgba ọsọ anwalela ọgụ, suites regression na-akpaghị aka, yana usoro ntụgharị ozugbo maka udo nke uche zuru oke.",
+      "row4P2": "telemetry ahụike mgbe ọpụpụ na 24/7 hypercare na-ekwe nkwa nkwụsi ike mmepụta enweghị ntụpọ.",
+      "pillarsTitle": "Nkwenye nke Mbugharị",
+      "pillarsSub": "Mmegharị ndị nwere ihe ize ndụ nke SLA ụlọ ọrụ kwadoro.",
+      "pillar1Title": "Ihe na-egbu oge efu",
+      "pillar1Desc": "Mwepụta Canary na nchekwa data dual-dee mmekọrịta iji hụ na ohere onye ọrụ anaghị akwụsị akwụsị.",
+      "pillar2Title": "Nkwado data akpaaka",
+      "pillar2Desc": "Ntụle Checksum, nyocha nke iguzosi ike n'ezi ihe, yana mkwado ETL na-akpaghị aka.",
+      "pillar3Title": "Ụgbụ Safety Rollback",
+      "pillar3Desc": "Usoro mgbake ọdachi siri ike yana mmemme mmeghari iji nwee ihe egwu n'oge ọ bụla.",
+      "pillar4Title": "Arụmọrụ & Nkwalite ọnụ ahịa",
+      "pillar4Desc": "Ikike igwe ojii, atumatu akpaaka, yana bọọdụ ọchịchị ọnụ ahịa gụnyere.",
+      "ctaTitle": "Ị dịla njikere ịkwaga na ntụkwasị obi zuru oke?",
+      "ctaSub": "Onye mmekọ na Rezonants maka ahaziri ahazi, igwe ojii na-enweghị ihe egwu na imelite data.",
+      "ctaButton": "Hazie ihe omumu ihe omumu nke mbughari gi"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Nkwado ngwa ngwa & ike",
+      "titlePart1": "Ihe akaebe nke echiche (PoC) &",
+      "titlePart2": "Mmejuputa pilot",
+      "description": "Mmepe ngwa ngwa na nkwenye nke ngwọta nkà na ụzụ iji chọpụta ihe gbasara nkà na ụzụ, uru azụmahịa, ihe ntinye chọrọ, arụmọrụ, na scalability tupu mmejuputa zuru oke.",
+      "initiateDiscovery": "Malite nchọpụta PoC",
+      "exploreDevelopment": "Chọpụta mmepe omenala",
+      "coreCapabilities": [
+        "Mmepe PoC",
+        "Injinia Prototype",
+        "Ọmụmụ ihe gbasara ike",
+        "Nkwenye ihe owuwu",
+        "Nnwale njikọta",
+        "Ịrụ ọrụ Benchmarking",
+        "Mbugharị ụgbọ elu",
+        "Ntụle bara uru"
+      ],
+      "row1Eyebrow": "Nkwado ngwa ngwa",
+      "row1Title": "Site na echiche ruo na ekwe omume",
+      "row1P1": "Ịtụgharị echiche ka ọ bụrụ ihe ngwọta nke ụlọ ọrụ chọrọ nkwado siri ike n'ihu. Ọrụ PoC & Pilot anyị na-enyocha ike teknụzụ, nrụgide-nnwale nko njikọ njikọ dị oke mkpa, ma kwado azụmahịa ROI tupu nkwa isi obodo.",
+      "row1P2": "Anyị na-ewu MVPs nwere ntụkwasị obi dị elu yana ndị na-anya ụgbọ elu sandbox lekwasịrị anya nke na-egosi na ọ ga-ekwe omume teknuzu, tụọ latency sistemụ, ma na-anakọta nkwado ndị otu aka ozugbo.",
+      "row1Cap": "MVP ngwa ngwa Prototyping & Nka na ụzụ Benchmark",
+      "row2Eyebrow": "Agile Prototyping",
+      "row2Title": "MVPs mmekọrịta & nkwado UX",
+      "row2P1": "Anyị na-ewulite wireframes na-emekọrịta ihe, ihe ndị ọrụ nwere ike ime, yana ihe akaebe na-arụ ọrụ n'ime ụbọchị, ọ bụghị ọnwa. Nwalee ezigbo mmekọrịta nke onye ọrụ, mezie ụkpụrụ UI/UX, wee kpokọta nzaghachi nwere ike ime site n'aka ndị nwere oke.",
+      "row2P2": "Site na mbelata nzaghachi nzaghachi n'oge mmepe mmalite, ndị otu gị na-ebelata nrụpụta ọrụ ma guzobe nkọwa ọrụ nka doro anya tupu usoro nrụpụta nnukwu ego amalite.",
+      "row2Cap": "Nrụgharị ngwa ngwa & ụdị UX nwere ike pịa ya",
+      "row3Eyebrow": "Nnwale njikọta & Scalability",
+      "row3Title": "Mmekọrịta Sistemu Mgbagwoju Anya Mwepu",
+      "row3P1": "kpughee mkpọchi teknụzụ, oke API, yana mgbochi arụmọrụ tupu ntinye ego zuru oke. Ndị otu injinia na-anya ụgbọ elu na-agbasi mbọ ike maka njikọta, pipeline data, na API ndị ọzọ na gburugburu igbe ájá dịpụrụ adịpụ.",
+      "row3P2": "Mbelata ihe egwu a na-arụ ọrụ na-eme ka enwere sistemụ dị elu, nrube isi nchekwa, yana usoro mmepe enwere ike ịkọ mgbe ị na-atụgharị PoC gị n'ime mmepụta ụlọ ọrụ.",
+      "row3Cap": "Ngwakọta Sandbox & Nnwale nrụgide",
+      "row4Eyebrow": "Onye na-anya mmepụta ihe na-achịkwa",
+      "row4Title": "Mwepụta pilot ezubere iche na nkwado ikpe azụmaahịa",
+      "row4P1": "Wepụta mwepụta pilot ezubere iche na mpaghara onye ọrụ ma ọ bụ ahịa nnwale. Sochie metrik arụmọrụ, nyocha nkuchi onye ọrụ, yana nzaghachi arụmọrụ iji wepụta uru azụmaahịa wee guzobe ikpe azụmaahịa na-akwado data.",
+      "row4P2": "Site na nghọta pilot nke ụwa n'ezie, ndị na-akwado ndị isi na-enweta metrik ROI doro anya iji kwado ntinye mbugharị sara mbara yana itinye ego mgbanwe dijitalụ.",
+      "row4Cap": "Achịkwa na-ebunye & Arụmọrụ Telemetry",
+      "pillarsTitle": "Ụkpụrụ Injinia Pilot anyị",
+      "pillarsSub": "Ụkpụrụ nduzi na-atụgharị ejighị n'aka nka ka ọ bụrụ ihe ịga nke ọma azụmahịa.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Na-ebuga prototypes na-arụ ọrụ ngwa ngwa iji kwado atụmatụ uru n'isi mmalite nke ndụ.",
+      "pillar2Title": "Nkwenye & Nkwenye",
+      "pillar2Desc": "Nyochaa ndakọrịta API, ọnụ ụzọ ntinye, na mmachi nnabata na gburugburu igbe igbe.",
+      "pillar3Title": "Nyocha Scalability",
+      "pillar3Desc": "Simulate ibu mmepụta iji guzobe oke ikike ma chọpụta nha igwe ojii.",
+      "pillar4Title": "Nkwado ikpe azụmaahịa",
+      "pillar4Desc": "Chọpụta ROI a na-ahụ anya na metrik arụpụtaghị ihe iji kwado mkpebi mbugharị ụlọ ọrụ.",
+      "ctaTitle": "Ị dịla njikere ịkwado ngwọta dijitalụ gị ọzọ?",
+      "ctaSub": "Jikọọ na ndị otu injinia ihe ngwọta anyị iji chọpụta ihe ị chọrọ, wuo prototype, wee nwalee ike n'enweghị ihe egwu efu.",
+      "ctaButton": "Detuo ndụmọdụ PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Ebe Ọrụ Centralized",
+      "titlePart1": "Ọrụ Ekekọrịtara &",
+      "titlePart2": "Ejikwa arụ ọrụ",
+      "description": "nnyefe teknụzụ na ikike ịrụ ọrụ n'ofe ngalaba azụmaahịa site na usoro ahaziri ahazi, akụrụngwa ndị nwere nka, usoro ọchịchị, njikwa ọrụ, yana ọkwa ọrụ enwere ike ịlele.",
+      "bookDiscovery": "Nchọpụta Ọrụ Ejikwa Akwụkwọ",
+      "exploreFramework": "Chọpụta Usoro Ngwọta",
+      "coreCapabilities": [
+        "Ọrụ ejirila",
+        "Ọrụ IT",
+        "Nkwado ngwa",
+        "Njikwa ọrụ",
+        "Nwelite akụrụngwa",
+        "njikwa SLA",
+        "Ọchịchị",
+        "Mmelite na-aga n'ihu",
+        "Nkwalite ọnụ ahịa"
+      ],
+      "row1Eyebrow": "Ebe nnyefe ejikọtara ọnụ",
+      "row1Title": "Ọrụ Haziri ahazi n'ofe ngalaba azụmahịa niile",
+      "row1P1": "Jikọta ụlọ ọrụ IT, njikwa akụrụngwa, na nkwado teknụzụ n'ime otu ụlọ ọrụ nnyefe dị elu.",
+      "row1P2": "Site n'iwepụ ego karịrị otu abụọ na ịhazi ụdị nnyefe ọrụ, nzukọ gị na-echekwa ogo na-agbanwe agbanwe ma na-ebelata mkpokọta mmefu ọrụ.",
+      "row2Eyebrow": "24/7 SRE & Ngwa Nkwado",
+      "row2Title": "Nleba anya nke ọma na mkpebi ihe mberede ngwa ngwa",
+      "row2P1": "Ndị injinia ntụkwasị obi na saịtị anyị raara onwe ya nye (SRE) yana ndị ọkachamara nkwado na-enye 24/7/365 nlekota telemetry, nleba anya na-akpaghị aka, na mkpebi okwu L1/L2/L3 ngwa ngwa.",
+      "row2P2": "Nkwado site na nkwa SLA siri ike, anyị na-ekwe nkwa na 99.99% dị maka ngwa ozi dị mkpa na akụrụngwa igwe ojii.",
+      "row3Eyebrow": "Ọchịchị ITIL & nnabata",
+      "row3Title": "Usoro njikwa ọrụ ahaziri ahazi",
+      "row3P1": "Mejuputa ụkpụrụ ITSM nke ụlọ ọrụ na-eduga (ServiceNow, Njikwa Ọrụ Jira) na ntinye akwụkwọ n'ụzọ doro anya, nyocha ihe kpatara mgbọrọgwụ, yana nchekwa nchekwa mgbanwe.",
+      "row3P2": "Ụzọ nyocha zuru oke na atumatu ọchịchị hụ na ọrụ gị na-agbaso ụkpụrụ nchekwa mba ụwa.",
+      "row4Eyebrow": "FinOps & Mmelite na-aga n'ihu",
+      "row4Title": "Mwepụta mmefu ego na nkwalite akụrụngwa",
+      "row4P1": "Wepụ ihe mkpofu igwe ojii, kwalite nha nha, wee jiri usoro FinOps rụọ ọrụ kacha mma.",
+      "row4P2": "Akụkọ nghọta kwa ọnwa na amụma ikike na-eme ka njikarịcha ọnụ ahịa na-arụ ọrụ na-aga n'ihu yana nrụpụta ego dị elu.",
+      "pillarsTitle": "Ogidi ndị na-arụ ọrụ",
+      "pillarsSub": "Ngosipụta arụmọrụ arụ ọrụ maka scalability ụlọ ọrụ a pụrụ ịdabere na ya.",
+      "pillar1Title": "24/7 jisiri ọrụ IT",
+      "pillar1Desc": "telemetry NOC na-arụ ọrụ, ihe nkesa nkesa, mmezi akụrụngwa, yana nkwa oge 99.99%.",
+      "pillar2Title": "ITSM & Ọrụ Ọrụ",
+      "pillar2Desc": "Tier 1/2/3 multi-channel helpdesk, mbugharị ihe merenụ, yana usoro mkpebi tiketi ahaziri ahazi.",
+      "pillar3Title": "SLA & njikwa arụmọrụ",
+      "pillar3Desc": "Oge nzaghachi nkwado nkwekọrịta, akara akara MTTR, yana nyocha arụmọrụ kwa ọnwa doro anya.",
+      "pillar4Title": "FinOps & Nkwalite ọnụ ahịa",
+      "pillar4Desc": "Nhazi akụrụngwa na-aga n'ihu, iweghachi ikike, yana mbelata ọnụ ahịa igwe ojii na-akpaghị aka.",
+      "ctaTitle": "Ị dịla njikere ịhazi ọrụ gị jisiri ike?",
+      "ctaSub": "Onye mmekọ na Rezonants maka ntụkwasị obi, ọrụ 24/7 jikwaa na-ebuli ọnụ ahịa ma wepụ oge arụ ọrụ.",
+      "ctaButton": "Detuo ndụmọdụ gbasara ọrụ jisiri ike",
+      "howItWorksHeading": "Ụzọ egosipụtara maka ịga nke ọma ọrụ òkè"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Sistemụ ọgụgụ isi",
+      "heroHeading": "AI & Robotics na-arụkọ ọrụ ọnụ",
+      "intro": "Artificial Intelligence (AI) na Robotics na-agbanwe ụzọ azụmaahịa si arụ ọrụ site na ijikọta mkpebi nwere ọgụgụ isi na akpaaka dị elu. AI na-enyere igwe aka inyocha data, mụta ụkpụrụ, ma mee mkpebi amamihe dị na ya, ebe robotics na-eweta ike ndị a n'ụwa anụ ahụ iji rụọ ọrụ na ọsọ ọsọ, izi ezi na nkwụsi ike.",
+      "section1Heading": "Ewubere iji mezie ọrụ ọ bụla",
+      "section1Text": "Ngwọta AI na Robotics anyị na-enyere ndị otu aka ịhazigharị arụmọrụ, belata mbọ aka, ma kwalite nrụpụta n'ofe ụlọ ọrụ dị iche iche. Site na akpaaka usoro na nyocha amụma ruo na robotics smart na sistemụ nwere ọgụgụ isi, anyị na-ebuga teknụzụ ọhụrụ na-akwalite arụmọrụ, na-akwalite uto na nkwado mgbanwe dijitalụ.",
+      "section2Heading": "Ebe ọgụgụ isi na-ezute omume",
+      "section2Text": "Mkpakọrịta, mkpebi na mmegharị ọ bụla na-akwado site na otu sistemụ ejikọrọ - na-atụgharị data ka ọ bụrụ nsonaazụ ozugbo.",
+      "footerTag": "Teknụzụ ọhụrụ maka mgbanwe dijitalụ"
+    },
+    "informationReporting": {
+      "brand": "Platform Data Enterprise",
+      "heroTitle": "Sistemụ Ozi & Akụkọ",
+      "heroSubtitle": "Otu isi iyi nke eziokwu maka ngalaba ọ bụla - arụpụtara iji tụgharịa data arụ ọrụ ka ọ bụrụ mkpebi azụmahịa gị nwere ike ime na taa.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "Nyochaa",
+      "statusArchived": "Edebere",
+      "statusPending": "NA-eche",
+      "metricUptime": "Ogologo oge sistemụ",
+      "metricSessions": "Oge na-arụ ọrụ",
+      "metricReportsPerDay": "Akụkọ / ụbọchị",
+      "metricEvents": "Ihe omume na-eri kwa ụbọchị",
+      "metricReports": "Akụkọ akwadoro",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Platform jikọtara ọnụ",
+      "analyticsSuite": "Suite Analytics",
+      "reportingConsole": "Console mkpesa",
+      "businessOutcome": "Nsonaazụ azụmaahịa",
+      "section1Heading": "Otu usoro nke etiti maka metric ọ bụla dị mkpa",
+      "section1P1": "Sistemụ ozi na mkpesa bụ ụzọ azụmaahịa dị mkpa na-enyere ndị otu aka ịnakọta, jikwaa ma gbanwee data ka ọ bụrụ nghọta bara uru. Sistemụ ndị a na-ejikọta ozi sitere na ngalaba dị iche iche, na-eme ka ọ dị mma, na-agbanwe agbanwe, na ịnweta data azụmaahịa dị mkpa ozugbo. Site n'inye usoro nhazi nke etiti maka njikwa ozi, otu nwere ike imeziwanye visibiliti arụmọrụ, mezie usoro ọrụ, na ịkwado mkpebi atụmatụ n'ofe ọkwa niile nke ụlọ ọrụ.",
+      "section1P2": "Sistemu ndị a na-eji mkpesa akpaghị aka, nyocha na dashboard iji soro arụmọrụ, nyochaa metrik isi, wee wepụta akụkọ dị adị. Site na ibelata mbọ aka na imeziwanye izi ezi data, azụmaahịa nwere ike mee mkpebi ngwa ngwa yana dịkwa irè karị.",
+      "section2Heading": "Ewuru maka visibiliti, nnabata, na ọnụ ọgụgụ",
+      "section2Text": "Site na nkwalite, nnabata, na imekọ ihe ọnụ, Ozi & Sistemụ Akuko na-enyere ndị otu aka ịkwalite usoro, kwalite nrụpụta, na ịkwalite uto azụmahịa na-adigide na gburugburu asọmpi.",
+      "ctaHeading": "Nye otu ọ bụla otu foto nke azụmahịa ahụ n'ezie.",
+      "ctaText": "Hụ ka Nexus Data Systems nwere ike isi mee ka mkpesa gị bụrụ otu ikpo okwu nwere ọgụgụ isi.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Ikike niile echekwabara.",
+      "navOverview": "Nchịkọta",
+      "navCapabilities": "Ike",
+      "navImpact": "Mmetụta",
+      "navContact": "Kpọtụrụ"
+    },
+    "managedServices": {
+      "subtitle": "Ọrụ jisiri ike maka azụmahịa gị"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Ngwa Azụmahịa imeziwanye maka ụlọ ọrụ na-ebute data",
+      "excerpt": "Kedu ka nhazi ngwa ọgbara ọhụrụ na data ejikọtara nwere ike melite arụmọrụ arụmọrụ, scalability na visibiliti azụmahịa.",
+      "tag": "Mgbanwe azụmahịa",
+      "category": "Mgbanwe Azụmahịa",
+      "summary": "Ngwa ọgbara ọhụrụ na ntọala data nwere ike inyere ụlọ ọrụ aka melite arụmọrụ arụmọrụ, jikọọ sistemu azụmaahịa ma mepụta visibiliti n'ofe ọrụ ha."
+    },
+    "artificial-intelligence": {
+      "title": "Kedu ka AI si emegharị ngwa ụlọ ọrụ",
+      "excerpt": "Nyochaa ka akpaaka nwere ọgụgụ isi, ndị na-anya AI na ọgụgụ isi amụma si aghọ akụkụ nke azụmaahịa ngwa ụlọ ọrụ na-adabere kwa ụbọchị.",
+      "tag": "ọgụgụ isi arụrụ arụ",
+      "category": "AMAOKWU OKWU",
+      "summary": "Nyochaa ka akpaaka nwere ọgụgụ isi, ndị na-anya ụgbọ elu AI na ọgụgụ isi amụma si agbanwe ngwanrọ ụlọ ọrụ kwa ụbọchị ka ọ bụrụ nyiwe na-agbanwe agbanwe, na-arụ ọrụ."
+    },
+    "modern-erp": {
+      "title": "Na-eme mgbanwe mgbanwe azụmahịa na ERP ọgbara ọhụrụ",
+      "excerpt": "Nyochaa ka nyiwe ERP ọgbara ọhụrụ si ejikọta ego, ịzụ ahịa, usoro ọkọnọ na ọrụ azụmaahịa site na ntọala dijitalụ jikọtara ọnụ.",
+      "tag": "ERP nke oge a",
+      "category": "ERP ọgbara ọhụrụ",
+      "summary": "Igwe okwu ERP ọgbara ọhụrụ na-ejikọ ego, ịzụ ahịa, ụdọ ọkọnọ, na arụmọrụ azụmaahịa ka ọ bụrụ usoro ejikọtara ọnụ, ezigbo oge."
+    },
+    "cybersecurity": {
+      "title": "Iwuli Nkwụghachi Cyber ​​na ụlọ ọrụ ejikọrọ",
+      "excerpt": "Nyochaa ka otu dị iche iche nwere ike isi mee ka nchekwa sie ike, chedo sistemu dị oke egwu ma kwado maka ihe egwu n'ofe gburugburu ebe jikọtara ọnụ.",
+      "tag": "nchekwa ịntanetị",
+      "category": "CYBERSECURITY",
+      "summary": "Ka ụlọ ọrụ na-ejikọta sistemụ igwe ojii, API, na gburugburu ebe obibi ndị mmekọ, nkwụsi ike nke cyber na-eme ka ọrụ dị mkpa dị mkpa na-eguzogide ihe egwu ọgbara ọhụrụ."
+    },
+    "cloud-modernization": {
+      "title": "Ngwa ihicha nke emezigharị maka igwe ojii",
+      "excerpt": "Chọpụta ụzọ dị irè iji nyochaa, imeziwanye na ịkwaga ngwa ihe nketa n'ebe scalable, Cloud architectures.",
+      "tag": "Igwe ojii na imeziwanye ihe",
+      "category": "Igwe ojii na ọgbara ọhụrụ",
+      "summary": "Map ahaziri ahazi, nke bara uru iji nyochaa, megharia, na ịkwaga sistemu ụlọ ọrụ monolithic gaa na njiri igwe ojii na-agbanwe agbanwe."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "Mgbanwe Azụmahịa",
+      "title": "Ngwa Azụmahịa imeziwanye maka ụlọ ọrụ na-ebute data",
+      "subtitle": "Ngwa ọgbara ọhụrụ na ntọala data nwere ike inyere ụlọ ọrụ aka melite arụmọrụ arụmọrụ, jikọọ sistemu azụmaahịa ma mepụta visibiliti n'ofe ọrụ ha.",
+      "date": "Septemba 2026",
+      "readTime": "Nkeji 7 gụọ",
+      "imageCaption": "Echiche Teknụzụ Enterprise — Nhazi Ngwa & Data ejikọrọ",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Ngwa azụmahịa",
+          "desc": "Ihe nketa dị iche iche CRM, ERP, na ngwaọrụ ngalaba na-agba ọsọ na silos."
+        },
+        {
+          "title": "Ọtụtụ Ebe Data",
+          "desc": "Tebụl arụ ọrụ gbajiri agbaji, ihe CSV, na atụmatụ ad-hoc."
+        },
+        {
+          "title": "Databases anaghị ejikọrọ",
+          "desc": "Ebe dịpụrụ adịpụ na ebe nchekwa data igwe ojii anaghị ahazi."
+        },
+        {
+          "title": "Akụkọ & Ndị ọrụ azụmahịa",
+          "desc": "Nkwekọrịta akwụkwọ ntuziaka, akwụkwọ mgbasa ozi na-emegiderịta onwe ya, na mkpesa na-egbu oge."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Ngwa azụmahịa",
+          "desc": "Isi arụ ọrụ nyiwe na ọgbara ọhụrụ na-anabata ihu."
+        },
+        {
+          "title": "API / Njikọ Njikọ",
+          "desc": "echekwabara, ọnụ ụzọ ámá API na-ebute mmemme na-ejikọta usoro ọrụ ụlọ ọrụ."
+        },
+        {
+          "title": "Ọrụ data",
+          "desc": "Ụdị data nna ukwu jikọtara ọnụ, pipeline na igwe nchekwa kachasị mma."
+        },
+        {
+          "title": "Nleba anya na mkpesa",
+          "desc": "telemetry ezigbo oge, ụdị ọmụmụ, na mkpesa akpaaka."
+        },
+        {
+          "title": "Ndị na-eme mkpebi azụmahịa",
+          "desc": "Dashboards arụ ọrụ dị ndụ na-enye ọhụhụ onye isi otu."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Ngwa ụlọ ọrụ",
+          "purpose": "Njikwa usoro azụmahịa"
+        },
+        {
+          "area": "API",
+          "purpose": "Ngwakọta sistemu"
+        },
+        {
+          "area": "Ebe nchekwa data",
+          "purpose": "Data azụmahịa ahaziri ahazi"
+        },
+        {
+          "area": "Ngwakọta data",
+          "purpose": "Jikọọ ọtụtụ isi mmalite"
+        },
+        {
+          "area": "Nyocha",
+          "purpose": "Nghọta azụmahịa"
+        },
+        {
+          "area": "Ihe akụrụngwa igwe ojii",
+          "purpose": "scalability na mgbanwe"
+        },
+        {
+          "area": "Nlebanya",
+          "purpose": "Ntụkwasị obi na arụmọrụ"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Ọhụụ arụmọrụ emelitere n'ofe nkeji arụ ọrụ gafere",
+        "Mma data anọgidesi na otu isi iyi nke Enterprise eziokwu",
+        "Mbelata mbọ mkpesa akwụkwọ ntuziaka yana nchịkọta data akpaaka",
+        "Imelite ngwa ngwa yana mbelata nkwụsị azụmahịa",
+        "Ngwakọta sistemu dị mfe site na API ahaziri ahazi, echekwara echekwabara",
+        "Nnukwu scalability iji kwado uto organic na nnweta",
+        "Ntọala ka mma maka imepụta ihe ọhụrụ na ọgụgụ isi n'ọdịnihu"
+      ],
+      "keyPerspectivePoints": [
+        "Ịghọta usoro azụmahịa na ezigbo arụmọrụ workflows",
+        "Ijikọ sistemu site na ụkpụrụ njikọta ntụkwasị obi",
+        "Imelite ogo data, ọchịchị, na ụdị data ukwu",
+        "Ngwa imeziwanye ngwa na-emebighị ọrụ ụbọchị ọ bụla",
+        "Ịmepụta ụkpụrụ ụlọ nwere ike ịgbatị nke dabara maka uto na-agbanwe",
+        "Na-enyere visibiliti azụmahịa ka mma maka ime mkpebi siri ike"
+      ],
+      "sec1Eyebrow": "NKWA ANYA Azụmahịa",
+      "sec1Heading": "Ịnyagharị mgbagwoju anya na ụlọ ọrụ na-eto eto",
+      "sec1Subtext": "Dị ka azụmaahịa azụmahịa, usoro gburugburu ebe obibi teknụzụ na-agbasawanye. Ihe na-amalite dị ka ihe ngwọta lekwasịrị anya maka ngalaba nke ọ bụla nwere ike ịmalite n'ime webụsaịtị nke sistemu dị iche iche.",
+      "sec2Eyebrow": "NKWUO usoro",
+      "sec2Heading": "Okirikiri Nkà na ụzụ Mgbagwoju anya",
+      "sec2Subtext": "Mgbe ngwa azụmahịa, ọdụ data, na sistemu arụ ọrụ na-etolite n'onwe ha, usoro ozi na-ekewa. Ịghọta nkewa a bụ nzọụkwụ mbụ dị oke egwu.",
+      "sec3Eyebrow": "Nlereanya ejikọrọ",
+      "sec3Heading": "Nhazi ngwa nke oge a",
+      "sec3Subtext": "Ụlọ ọrụ na-aga n'ihu ihe omume na-ebute, API-ụlọ mbụ ebe data na-erute n'ụzọ ziri ezi n'ofe nyiwe isi wee ruo ndị na-eme mkpebi ozugbo.",
+      "sec4Eyebrow": "AMAOKWU & Ọhụụ",
+      "sec4Heading": "Data ejikọtara na nyocha",
+      "sec4Subtext": "Mgbe ngwa azụmahịa na-ekwurịta okwu n'enweghị nsogbu, data na-akwụsị ịbụ ngwaahịa sitere na mkpesa wee bụrụ onye isi ọkwọ ụgbọ ala nke ike ịrụ ọrụ.",
+      "sec5Eyebrow": "ARCHITECTURE BLUEPRINT",
+      "sec5Heading": "Teknụzụ Foundation",
+      "sec5Subtext": "Echiche zuru oke nke mpaghara teknụzụ bụ isi nke na-edepụta ntọala ụlọ ọrụ ọgbara ọhụrụ, nke nwere ike ịgbatị.",
+      "sec6Eyebrow": "URU OKWU",
+      "sec6Heading": "Mmetụta azụmahịa",
+      "sec6Subtext": "Imezi usoro ihe owuwu ngwa na ijikọ data kewara ekewa na-ebuga nkwalite arụmọrụ a na-ahụ anya n'ofe nzukọ a.",
+      "ctaHeading": "Ị dịla njikere ime ka gburugburu teknụzụ gị dị ọhụrụ?",
+      "ctaDescription": "Nyochaa ka nhazi ngwa ngwa ọgbara ọhụrụ, data ejikọtara na teknụzụ nwere ike ime ka ụlọ ọrụ dịwanye mma ma kwado maka uto n'ọdịnihu.",
+      "ctaButton": "Gwa ndị ọkachamara anyị okwu",
+      "sec1P1": "N'ime ụlọ ọrụ a na-ahụkarị, uto na-ewebata ọtụtụ ọgbọ nke ngwanrọ. Ego, ụdọ ọkọnọ, ọrụ ndị ahịa na ọrụ ubi na-arụkarị ọrụ na sọftụwia dị iche iche enwetara ma ọ bụ wuru n'oge dị iche iche. N'ime afọ evolushọn na-arụ ọrụ, sistemụ ndị a na-emepụta usoro data nke ha, na-emelite cadences, na mwekota quirks.",
+      "sec1P2": "Esemokwu ahụ na-egosipụta n'ofe ụlọ ọrụ ahụ site na mkpirisi ọrụ nkịtị:",
+      "sec1List": [
+        {
+          "bold": "Ngwa azụmahịa akwụsịla ọtụtụ",
+          "text": "nke chọrọ ntinye data oyiri na ntinye aka na ntugharị aka."
+        },
+        {
+          "bold": "ọdụ data akwụsịla",
+          "text": "na-arụ ọrụ na-enweghị ọchịchị etiti ma ọ bụ ndekọ nna ukwu jikọtara ọnụ."
+        },
+        {
+          "bold": "Mkpesa akwụkwọ ntuziaka n'elu",
+          "text": ", ebe ndị otu nyocha na-eji ụbọchị ejikọta ọnụ mbupụ kama ikpughe nghọta."
+        },
+        {
+          "bold": "Data ekwekọghị ekwekọ",
+          "text": "n'ofe ngalaba, na-eke azịza ndị na-emegiderịta onwe ha nye ajụjụ arụ ọrụ bụ isi."
+        },
+        {
+          "bold": "Ndozi ngwa na oke oke",
+          "text": ", dị ka na-emebi emebi ihe nketa n'ókè-aka njikọ na-agbasi mbọ ike ịkwado mpịakọta azụmahịa na-eto eto."
+        }
+      ],
+      "sec1P3": "Ịkwado ihe ịma aka ndị a chọrọ ilele mpaghara teknụzụ ọ bụghị dị ka nchịkọta ịzụrụ ngwanrọ dịpụrụ adịpụ, kama dị ka usoro azụmahịa jikọtara ọnụ nke e mere iji kwado ike ike.",
+      "legacyLandscapeBadge": "Usoro ntọala",
+      "legacyLandscapeTitle": "Mgbasa ozi ewepụrụ",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silos data",
+          "desc": "Ndị ahịa dị oke mkpa, ego, na data ngwa ahịa na-anọgide na-atọgbọ na nyiwe ngalaba, na-egbochi otu echiche jikọtara ọnụ nke ọrụ azụmahịa."
+        },
+        {
+          "num": "02",
+          "title": "Ọpụpụ njikọta",
+          "desc": "Njikọ aka ruo n'isi na mpụta ogbe abalị na-emepụta latency, ọnụego ọdịda dị elu, yana mmezi dị oke ọnụ n'ofe otu ndị na-arụ ọrụ."
+        },
+        {
+          "num": "03",
+          "title": "Ozi egbuola oge",
+          "desc": "Mgbe ndị isi ụlọ ọrụ ga-echere ụbọchị maka nkwekọrịta njedebe nke ọnwa iji ghọta arụmọrụ, ime mkpebi na-emeghachi omume kama ibu amụma."
+        }
+      ],
+      "modernArchitectureBadge": "Ihe owuwu ebumnuche",
+      "modernArchitectureTitle": "Ụdị Ngwa Enterprise ejikọrọ",
+      "sec3P1": "Ihe owuwu nke ngwa ọgbara ọhụrụ na-eji ntọala agile na-emebi emebi dochie njikọ na-emebi emebi. Site na iguzobe API siri ike na oyi akwa njikọta, sistemu na-emekọrịta ihe site na akara njedebe, echekwara ma na-echekwa ikike nke ngalaba azụmaahịa n'otu n'otu.",
+      "sec3P2": "Ikike teknụzụ bụ isi nke ngbanwe ụlọ a gụnyere:",
+      "sec3List": [
+        {
+          "bold": "Imezi ngwa ngwa:",
+          "text": "Na-emezi mgbagha mgbagha azụmaahịa ka ọ bụrụ ọrụ modular nwere ike itolite."
+        },
+        {
+          "bold": "API mbanye:",
+          "text": "Ịmepụta nhazi ahaziri ahazi, ederede ederede maka mmekọrịta nke ime na onye mmekọ."
+        },
+        {
+          "bold": "Ntinye data na njikarịcha nchekwa data:",
+          "text": "Ijikọ pipeline data arụ ọrụ yana njikarịcha ajụjụ dị elu."
+        },
+        {
+          "bold": "Nleba anya na nchekwa:",
+          "text": "Na-emejuputa telemetry etiti, ụzọ nyocha, yana njikwa ohere dabere na ọrụ n'ofe ọrụ niile."
+        }
+      ],
+      "sec4P1": "Ntọala data jikọtara ọnụ na-agbanwe ka ndị ndu na ndị otu na-arụ ọrụ si emekọrịta ozi. Kama ịdabere na akụkọ nlegharị anya na-egosi ihe mere izu ole na ole gara aga, otu dị iche iche na-enweta telemetry na-arụ ọrụ ndụ n'ofe ngalaba azụmahịa.",
+      "sec4P2": "Data ejikọtara na nyocha na-akwado nsonaazụ azụmaahịa na-adigide site na:",
+      "sec4List": [
+        {
+          "bold": "Ọhụụ ọrụ:",
+          "text": "Nghọta na-aga n'ihu n'ofe ahịa, ngwa ahịa, mmezu, na arụmọrụ ego."
+        },
+        {
+          "bold": "Mpempe akwụkwọ mkpesa ngwa ngwa:",
+          "text": "Nchịkọta data na-achọrọ nke na-ewepụ akwụkwọ mgbasa ozi akwụkwọ ntuziaka ugboro ugboro."
+        },
+        {
+          "bold": "Ozi na-agbanwe agbanwe:",
+          "text": "Nkọwa otu maka metrik dị ka oke, uru ndụ ndị ahịa na ọsọ ọsọ."
+        },
+        {
+          "bold": "Nghọta azụmaahịa ka mma:",
+          "text": "Nchọpụta ụkpụrụ amụma nke na-ebute ihe egwu na ohere tupu oge eruo."
+        },
+        {
+          "bold": "Ime mkpebi emelitere:",
+          "text": "Ọrụ njikwa ntụkwasị obi na-akwado site na ahịrị data akwadoro na nghọta."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ATỤMATỊ ATỤMATỊ",
+      "keyPerspectiveTitle": "Imeziwanye Karia Ndochi Software",
+      "keyPerspectiveLead": "Ịmezi ngwa azụmaahịa abụghị naanị iji ngwaọrụ ọhụrụ dochie ngwa ochie ochie. Ọ bụ ntinye aka nke teknụzụ na otu azụmahịa si arụ ọrụ, nha, na wepụta uru."
+    },
+    "artificialIntelligence": {
+      "category": "AMAOKWU OKWU",
+      "title": "Kedu ka AI si emegharị ngwa ụlọ ọrụ",
+      "subtitle": "Nyochaa ka akpaaka nwere ọgụgụ isi, ndị na-anya AI na amụma amụma na-aghọ akụkụ nke azụmaahịa ngwa ụlọ ọrụ na-adabere kwa ụbọchị.",
+      "date": "Septemba 2026",
+      "readTime": "Nkeji 6 gụọ",
+      "imageCaption": "Echiche Technology Enterprise — Artificial Intelligence & Enterprise Systems",
+      "aiUseCases": [
+        {
+          "title": "Ịma amụma nrịbanye",
+          "desc": "Na-ebu amụma spikes na ngwa ngwa ngwa ngwa site na telemetry ndị na-ebubata akụkọ ihe mere eme."
+        },
+        {
+          "title": "Nyocha akwụkwọ ọnụahịa akpaaka",
+          "desc": "Na-ewepụta ihe ahịrị na dabara megide iwu ịzụrụ na ntinye mmadụ efu."
+        },
+        {
+          "title": "Ụlọ ọrụ ọgụgụ isi",
+          "desc": "Nhazi na mkpebi akpaghị aka nke Tier-1 onye ọrụ IT na arịrịọ HR."
+        },
+        {
+          "title": "Mgbochi ndị ahịa",
+          "desc": "Nchịkọta omume na-achọpụta mgbama mgbagha n'oge maka mgbasa ozi nke ọma."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Mkpebi arụmọrụ ngwa ngwa na-ebute site na ụdị amụma oge dị adị",
+        "Mbelata na nhazi data ugboro ugboro na nkwekọrịta akwụkwọ ntuziaka",
+        "Mgbakwunye ndị ọrụ dị elu na enyemaka onye nnochite anya",
+        "emelitere afọ ojuju ndị ahịa site na ahụmịhe nkeonwe nke onwe",
+        "Na-aga n'ihu usoro njikarịcha onwe ya dabere na ezigbo telemetry",
+        "Nleba anya nnabata nke enweghị ihe egwu site na nyocha ndekọ ndekọ akpaaka"
+      ],
+      "governancePoints": [
+        "Nweta siri ike dabere na ọrụ na-eme ka ụdị AI ghara ịwụpụ data nwere mmetụta",
+        "Usoro ntụgharị uche pụtara ìhè na-enye ohere nyocha mmadụ na omume dị oke ọnụ ahịa",
+        "Nlele ihe nlere anya na-aga n'ihu iji chebe onwe gị pụọ n'ile anya na enweghị isi",
+        "Ụkpụrụ nyocha data siri ike dabara na GDPR, SOC 2, na HIPAA",
+        "Ụzọ ịrị elu mmadụ na-aga n'ihu maka ọnọdụ ihu na-ejighị n'aka"
+      ],
+      "sec1Eyebrow": "NKWAGHỊ NKE NDỊ OBI ỤMỤ NKE ALA",
+      "sec1Heading": "AI na ngwa ụlọ ọrụ",
+      "sec1Subtext": "Artificial ọgụgụ isi na-agbanwe site na nnwale akụkụ-projects n'ime isi arụmọrụ ngwa na ụlọ ọrụ na-adabere kwa ụbọchị.",
+      "sec2Eyebrow": "AKWỤKWỌ NA SCALE",
+      "sec2Heading": "Automation ọgụgụ isi",
+      "sec2Subtext": "Ịgafe n'ofe ederede dabere na iwu ọdịnala n'ebe usoro ọrụ cognitive na-aghọta ọdịnaya anaghị ahazi, na-emegharị na mgbanwe dị iche iche, na-ebuli usoro siri ike.",
+      "sec3Eyebrow": "Enyemaka agbakwunyere",
+      "sec3Heading": "Enterprise AI Copilot",
+      "sec3Subtext": "N'ịbụ ndị dabere na ihe ọmụma nhazi na nchekwa ụlọ ọrụ, ndị na-enyere AI na-arụ ọrụ dị ka ndị mmekọ pụrụ iche n'ofe ọrụ azụmahịa kwa ụbọchị.",
+      "sec4Eyebrow": "IHE EKWU NDỊ NA-ECHICHE",
+      "sec4Heading": "ọgụgụ isi amụma",
+      "sec4Subtext": "Ịgbanwe ndekọ ụlọ ọrụ akụkọ ihe mere eme na ihe na-arụ ọrụ ozugbo ka ọ bụrụ nhụsianya nwere ike ime.",
+      "sec5Eyebrow": "Ngwa-Ezigbo ụwa",
+      "sec5Heading": "Enterprise AI Jiri Okwu",
+      "sec5Subtext": "Ụzọ bara uru na-eduga òtù dị iche iche na-etinye ọgụgụ isi arụ ọrụ n'ofe ọrụ azụmahịa.",
+      "sec6Eyebrow": "Uru Uru",
+      "sec6Heading": "Uru azụmahịa",
+      "sec6Subtext": "Mgbe ejiri data ụlọ ọrụ na-achị achị ejiri nlezianya tinye ya, AI na-emepe uru bara uru dị ukwuu.",
+      "ctaHeading": "Chọpụta ohere AI maka azụmahịa gị",
+      "ctaDescription": "Chọpụta ka akpaaka nwere ọgụgụ isi, ndị na-anya ụgbọ elu na ụdị amụma nwere ike isi kpọghee arụmọrụ arụmọrụ n'ofe sistemụ gị.",
+      "ctaButton": "Gwa ndị ọkachamara anyị okwu",
+      "sec1P1": "Ruo ọtụtụ afọ, a na-emeso ọgụgụ isi ụlọ ọrụ dị ka ikike dị na mpụga: ụdị a zụrụ azụ na iche, ihe ngosi igbe ájá, ma ọ bụ nkata nkata dịpụrụ adịpụ nke a na-enweta site na ọnụ ụzọ dị iche. Taa, ụkpụrụ ahụ agbanweela n'ụzọ bụ isi. A na-etinye AI ụlọ ọrụ nwere mmetụta dị elu ozugbo n'ime sistemu ndekọ - ERPs, CRM, nyiwe isi obodo mmadụ, yana igwe nrụnye ihe ebe ezigbo azụmaahịa na-eme.",
+      "sec1P2": "Mgbe ọgụgụ isi na-arụ ọrụ n'ime usoro ihe ndekọ, ọ na-eketa oke nchebe nke nzukọ, ụdị data, na mgbagha azụmahịa. Ọ bụghị nanị na ọ na-eme ka a zaa ajụjụ ọnụ; ọ na-eme iwu dị ndụ, na-akọwa tiketi nkwado mepere emepe, na-emekọrịta akwụkwọ ọnụahịa ndị na-ebubata ya, ma na-enyere ndị ọrụ aka n'ime oghere ndị ha na-agagharị kwa ụbọchị.",
+      "sec1P3": "Mgbanwe a na-akpali sọftụwia ụlọ ọrụ site na ọdụ data na-eche mkpịsị ugodi mmadụ ka ọ bụrụ nyiwe na-arụ ọrụ nke na-atụ anya mkpa, na-emegharị usoro, na ntunye elu n'oge.",
+      "sec2P1": "Omenala Robotic Process Automation (RPA) nwere oke n'ichepụta ihe, nchacha ihuenyo ugboro ugboro. Agbanyeghị, iwu siri ike na-edobe nbibi mgbe ọ bụla ụdị gbanwere, nhazi akwụkwọ a na-atụghị anya ya bịarutere, ma ọ bụ ihe ewepụrụ. Automation nwere ọgụgụ isi na-ejikọta nkewa a site na ijikọta echiche nghọta na mmezu azụmahịa:",
+      "sec2List": [
+        {
+          "bold": "Akpaaka usoro ọrụ:",
+          "text": "Orchestrating mgbagwoju cross-Departmental arụmọrụ, routing ọrụ dabere na ngwa ngwa na akụkọ ihe mere eme mkpebi ụzọ."
+        },
+        {
+          "bold": "Nhazi akwụkwọ ọgụgụ isi:",
+          "text": "Inweta PDFs, ozi-e, ngosipụta mbupu, na nkwekọrịta, na-agbanwe ha ka ha bụrụ azụmahịa nchekwa data ahaziri ahazi."
+        },
+        {
+          "bold": "Ngwa ọrụ ọgụgụ isi:",
+          "text": "Na-arụ ọrụ nkwado ọtụtụ nzọụkwụ-dị ka iwu ịzụta ihe megidere nnata na nkwupụta ụlọ akụ."
+        },
+        {
+          "bold": "Nkwalite usoro:",
+          "text": "Na-aga n'ihu na-enyocha ndekọ usoro iji chọpụta mkpọmkpọ oge okirikiri yana ịkwado ndozigharị usoro ọrụ ezubere iche."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Ọchụchọ ozi",
+          "desc": "Mweghachi nke Semantic n'ofe ntọala ihe ọmụma ekesa, atumatu intranet, nkọwapụta ngwaahịa, na mkpebi tiketi akụkọ ihe mere eme na-enweghị ịkọ nkọ."
+        },
+        {
+          "icon": "📝",
+          "title": "Nchịkọta akwụkwọ",
+          "desc": "Mgbasa ngwa ngwa nke RFPs dị ogologo, nkwekọrịta ndị na-ere ahịa, nkọwa nka, na mmezi iwu n'ime mkpirisi ndị isi na-arụ ọrụ na ndepụta nyocha ihe egwu."
+        },
+        {
+          "icon": "✨",
+          "title": "Ọgbọ ọdịnaya",
+          "desc": "Enyemaka idepụta atụmatụ ndị ahịa, akwụkwọ arụ ọrụ, usoro arụ ọrụ ọkọlọtọ (SOPs), yana mmelite ndị ahịa ahaziri ahazi dabara na ụkpụrụ ika."
+        },
+        {
+          "icon": "📈",
+          "title": "Nyocha data",
+          "desc": "Ịsụgharị ajụjụ mkparịta ụka n'ime ajụjụ nyocha dị mgbagwoju anya, na-ewepụta mkpokọta eserese na-efe efe ma na-akọwapụta ihe dị mkpa maka onye ndu."
+        },
+        {
+          "icon": "🔄",
+          "title": "Usoro ọrụ azụmahịa",
+          "desc": "Ịmalite azụmahịa ozugbo site na mkpali nkata - dị ka ịhazi akụrụngwa, ịmepụta tiketi, imelite ndekọ, ma ọ bụ ịnyefe ihe ịzụrụ."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Ịnweta Ọdụdọ",
+          "desc": "Ịhụ na nzaghachi onye nnochite anya na-asọpụrụ ọkwa ikike onye ọrụ, idobe ego nzuzo, faịlụ HR, na ikike ọgụgụ isi."
+        }
+      ],
+      "sec4P1": "Ọ bụ ezie na ụdị ndị na-emepụta ihe na-eme nke ọma n'ịghọta na ijikọ asụsụ, ọgụgụ isi amụma na-elekwasị anya na usoro mgbakọ na mwepụ zoro ezo n'ime ụlọ ọrụ ahaziri ahazi. Ụdị amụma agbakwunyere agbakwunyere na-enye ndị otu ụlọ ọrụ ike ịtụ anya ihe mgbochi arụ ọrụ tupu ha akpaghasị ọrụ:",
+      "sec4List": [
+        {
+          "bold": "amụma amụma ọrụ:",
+          "text": "Na-ebu amụma usoro ego a ga-enweta, ngwa ngwa ngwa ahịa, na ihe akụrụngwa chọrọ site na iji ngwa ngwa ọkpọkọ na-emekọ ihe n'oge."
+        },
+        {
+          "bold": "Nchịkọta amụma:",
+          "text": "Na-akọwapụta ihe egwu ndị ahịa na-akpaghasị, usoro mmebi nrụzi, yana igbu oge n'usoro ọkọnọ ka enwere oge itinye aka."
+        },
+        {
+          "bold": "Nchọpụta ihe egwu:",
+          "text": "Ịkọwapụta anomalies na azụmahịa ego, ndekọ nnabata, na usoro ịzụrụ ndị na-ere ahịa tupu ha arị elu."
+        },
+        {
+          "bold": "Amụma chọrọ:",
+          "text": "Ịmekọrịta amụma ahịa na ikike nrụpụta yana ọkwa ụlọ nkwakọba ihe iji chebe isi obodo na-arụ ọrụ."
+        }
+      ],
+      "keyPerspectiveEyebrow": "Gọọmenti achụmnta ego",
+      "keyPerspectiveTitle": "Ntụkwasị obi, Nlebaanya & Nchekwa okporo ụzọ",
+      "keyPerspectiveLead": "AI bụ naanị ntụkwasị obi dịka ntọala data dị n'okpuru ya na ọchịchị gbara ya gburugburu. Nkuchi ụlọ ọrụ na-adịgide adịgide chọrọ ịdọ aka ná ntị ụkpụrụ ụlọ:"
+    },
+    "modernErp": {
+      "category": "ERP ọgbara ọhụrụ",
+      "title": "Na-eme mgbanwe mgbanwe azụmahịa na ERP ọgbara ọhụrụ",
+      "subtitle": "Nyochaa ka nyiwe ERP ọgbara ọhụrụ si ejikọta ego, ịzụ ahịa, usoro ọkọnọ na ọrụ azụmaahịa site na ntọala dijitalụ jikọtara ọnụ.",
+      "date": "Ọgọst 2026",
+      "readTime": "Nkeji 6 gụọ",
+      "imageCaption": "Nleba anya teknụzụ ụlọ ọrụ - ERP & Ọrụ Azụmahịa ejikọtara",
+      "connectedFunctions": [
+        {
+          "title": "Njikwa ego",
+          "desc": "Nwelite akwụkwọ akụkọ n'ezie, njirimara ego ha nwetara na akpaaka, yana nzikọrịta ọtụtụ ego ozugbo."
+        },
+        {
+          "title": "Akpọnye na ngwa ngwa",
+          "desc": "Ọhụụ ngwa ahịa nke ngwụcha ruo na ngwụcha, njikarịcha ụlọ nkwakọba ihe, yana telemetry arụmọrụ ndị na-ebubata ya."
+        },
+        {
+          "title": "Ego mmadụ na ndị ọrụ",
+          "desc": "Ọnụ ụzọ ndị ọrụ na-ahụ maka onwe, usoro ịkwụ ụgwọ na-akpaghị aka, yana nhazi atụmatụ ndụ okirikiri talent."
+        },
+        {
+          "title": "Ịzụta & Isi mmalite",
+          "desc": "Nkwenye nzụta akpaaka, nnabata nkwekọrịta ndị na-ere ahịa, yana nyocha mmefu ike."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Ihe owuwu nke igwe ojii",
+          "desc": "Mgbakọ mgbako na-agbanwe agbanwe na-enweghị akụrụngwa n'elu ụlọ ma ọ bụ mkpọchi ụdị na-akpaghasị."
+        },
+        {
+          "title": "Mepee Ecosystem API",
+          "desc": "Njikọ ndị eburu ụzọ wuo na-enye ohere ịmekọrịta data ụzọ abụọ na-enweghị nkebi yana microservices omenala na ụlọ CRM."
+        },
+        {
+          "title": "Nchịkọta agbakwunyere",
+          "desc": "Mwepu dashboard ozugbo sitere na akwụkwọ nguzozi dị elu n'ime ndekọ azụmahịa ọ bụla."
+        },
+        {
+          "title": "Ihe na-akpalite usoro ọrụ akpaaka",
+          "desc": "Omume na-ebute emume na-akpalite ịrụ ọrụ nke ngalaba ngalaba n'onwe ya."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Otu isi iyi nke eziokwu na-ewepụ akụkọ ngalaba na-emegiderịta onwe ya",
+        "Mbelata dị egwu na ngwụcha ọnwa na ngwụcha nkeji nkeji nso nso",
+        "Ndepụta ngwa ahịa na ngwa ngwa na-ebelata ngwaahịa ngwaahịa",
+        "Mbelata mmezi IT n'elu site na mmelite igwe ojii-mkpụrụedemede",
+        "Nsochi nnabata ọnụ n'ofe mpaghara ụtụ isi mpaghara",
+        "Ngwa ngwa onboarding nke enwetara ụlọ ọrụ n'ime òkè arụmọrụ backbones"
+      ],
+      "erpStrategyPoints": [
+        "Nhazi ERP ije na isi arụmọrụ workflows tupu nhazi",
+        "Ịhọrọ ụdị mbugharị modular iji nweta mmeri dị egwu ngwa ngwa",
+        "Na-ebute mbugharị data nna ukwu dị elu ụzọ na mgbaghara",
+        "Ịtinye njikwa mgbanwe akpaaka yana mmemme ọzụzụ ahaziri ọrụ",
+        "Ịmepụta ọnụ ụzọ API maka mgbasawanye njikọta enweghị esemokwu n'ọdịnihu"
+      ],
+      "sec1Eyebrow": "Ọkpụkpụ azụ na-arụ ọrụ",
+      "sec1Heading": "Gịnị kpatara ERP ọgbara ọhụrụ ji dị mkpa",
+      "sec1Subtext": "ERP abụghịzị ndekọ ndekọ ego n'azụ ụlọ ọrụ. Ọ bụ ụdị arụ ọrụ nke ụlọ ọrụ ọgbara ọhụrụ egosipụtara na ngwanrọ.",
+      "sec2Eyebrow": "ECOSYSTEM agbakwunyere",
+      "sec2Heading": "Ọrụ Azụmahịa Ejikọtara",
+      "sec2Subtext": "Ezigbo uru nhazi na-apụta mgbe ọrụ azụmahịa isi na-emekọ ọnụ na ntọala dijitalụ nkekọrịta.",
+      "sec3Eyebrow": "NKWUKWU OKWU OKWU",
+      "sec3Heading": "Ọrụ ejikọtara ọnụ & Usoro ozi",
+      "sec3Subtext": "Na-agbaji mgbidi nkwurịta okwu n'etiti ngalaba iji mee ka mmiri na-arụ ọrụ na-arụkọ ọrụ ọnụ.",
+      "sec4Eyebrow": "ENTERPRISE TELEMETRY",
+      "sec4Heading": "Nhụta azụmahịa nke oge",
+      "sec4Subtext": "Ịmekọba metrik arụmọrụ ka ọ bụrụ dashboards ndị isi na-akọwapụta eziokwu azụmahịa dị ugbu a.",
+      "sec5Eyebrow": "IHE NKE NKWUKWU NKWUKWU",
+      "sec5Heading": "Ike ERP nke oge a",
+      "sec5Subtext": "Njirimara ụkpụrụ ụlọ na-ekewa nyiwe ERP nke oge a na nrụnye ihe nketa siri ike.",
+      "sec6Eyebrow": "MMETỤTA MMADỤ",
+      "sec6Heading": "Uru azụmahịa",
+      "sec6Subtext": "Ijikọ ọrụ azụmaahịa bụ isi ka ọ bụrụ ntọala dijitalụ jikọtara ọnụ na-arụpụta nkwụghachi nhazi nhazi.",
+      "ctaHeading": "Mee ka ọrụ ụlọ ọrụ gị dị ọhụrụ",
+      "ctaDescription": "Nyochaa ka nyiwe ERP ọgbara ọhụrụ si ejikọta ego, ịzụ ahịa, usoro ọkọnọ na ọrụ azụmaahịa site na ntọala dijitalụ jikọtara ọnụ.",
+      "ctaButton": "Gwa ndị ọkachamara anyị okwu",
+      "sec1P1": "N'ime ala ụlọ ọrụ na-agba ọsọ ọsọ, usoro atụmatụ atụmatụ akụrụngwa ọdịnala na-agbakarị mgba. Ewubere n'oge nhazi ogbe yana sava mpaghara dịpụrụ adịpụ, ERPs nketa bụ ahaziri nke ukwuu, siri ike ịkwalite, yana ihe na-egbu mgbu. Arụmọrụ azụmahịa dị mkpa na-arụ ọrụ na siloes, na-adabere na mbupụ na-esighị ike n'abali iji mekọrịta akwụkwọ akụkọ na ụlọ nkwakọba ihe.",
+      "sec1P2": "Oge a, igwe ojii-ala ERP na-akọwapụta nke ọma nke a ike. Ọ na-arụ ọrụ dị ka ọkpụkpụ dijitalụ jikọtara ọnụ nke ụlọ ọrụ - ntọala dị ndụ ebe ego, ịzụ ahịa, ụdọ ọkọnọ, ngwa ahịa na akụrụngwa mmadụ na-emekọrịta ihe na ụdị data ekekọrịtara.",
+      "sec1P3": "Site n'iwebata ọrụ bụ isi n'ime otu ọnọdụ jikọtara ọnụ, ERP ọgbara ọhụrụ na-ewepụ ntụpọ ndị na-arụ ọrụ nke na-ebelata uto, na-enyere ndị isi aka iji akara ngosi oge na-eduzi azụmahịa ahụ kama ịchịkọta akụkọ ihe mere eme.",
+      "sec3P1": "Silos arụ ọrụ abụghị nsogbu ndị mmadụ; ha bụ nsogbu ụkpụrụ ụlọ. Mgbe ndị ọrụ ahịa, ịzụ ahịa, na ndị otu ụlọ nkwakọba ihe na-arụ ọrụ na ngwa akwụsịghị akwụsị, akwụkwọ aka ọ bụla chọrọ ozi-e aka, mpempe akwụkwọ, na oku ekwentị. Njehie na-abawanye, akwụkwọ ọnụahịa na-ebuli elu, na nkwa ndị ahịa na-adaba.",
+      "sec3P2": "ERP ọgbara ọhụrụ na-elebara nke a anya site n'usoro usoro data jikọtara ọnụ yana nhazi usoro mmemme na-akwalite:",
+      "sec3List": [
+        {
+          "bold": "Usoro-na-ego mekọrịtara ọnụ:",
+          "text": "Mgbe a na-enye ndị ahịa ahịa, a na-edobe ngwa ahịa na-akpaghị aka, akara mbupu na-emepụta, na akwụkwọ ndekọ ego na-emelite ozugbo."
+        },
+        {
+          "bold": "Nghọta n'ịzụta-ịkwụ ụgwọ:",
+          "text": "Iwu nzụta, nnata ngwa ahịa, na akwụkwọ ọnụahịa ndị na-ere ahịa dakọtara na akpaghị aka na nhazi ụzọ atọ, na-egosipụta naanị ihe wezuga maka nyocha mmadụ."
+        },
+        {
+          "bold": "Ọrụ ejikọtara ọnụ na ọnụ ahịa arụmọrụ:",
+          "text": "Mpempe akwụkwọ oge ọrụ, oke ụgwọ ịkwụ ụgwọ, yana maapụ arụmọrụ kpọmkwem na ụlọ ọrụ ọnụ ahịa ozugbo."
+        }
+      ],
+      "sec4P1": "Ịrụ ọrụ ụlọ ọrụ na-enweghị ihe ọhụhụ dị n'otu dị ka iji ngwa na-egbu oge efe n'oké ọhịa. ERP ọgbara ọhụrụ na-enye telemetry oge n'ofe azụmahịa ọ bụla:",
+      "sec4List": [
+        {
+          "bold": "Mpempe akwụkwọ ndị isi dị ndụ:",
+          "text": "Echiche ozugbo nke oke oke, usoro ego na-arụ ọrụ, ụgwọ emeghe, na ịtụkwa ndekọ azụ na-echeghị mmechi njedebe oge."
+        },
+        {
+          "bold": "Akụkọ gbasara ọrụ onwe onye:",
+          "text": "Ndị isi ngalaba nwere ike wuo ajụjụ ọdịnala wee gbadaa site na nchịkọta ọkwa ụlọ ọrụ na ihe ahịrị azụmahịa nke ọ bụla."
+        },
+        {
+          "bold": "Ozi nna ukwu nke etiti:",
+          "text": "Wepụ ọnụọgụ ndị na-emegiderịta onwe ha site n'ịmepụta data nna ukwu na-achị otu maka ndị ahịa, ndị na-ere ahịa na katalọgụ ngwaahịa."
+        },
+        {
+          "bold": "Ngosipụta anomaly na-arụ ọrụ:",
+          "text": "Ngosipụta akpaghị aka na-eme ka ndị njikwa mara ozugbo mgbe oke ala dara n'okpuru ọnụ ụzọ, ngwa ahịa agbadala obere, ma ọ bụ mwepu ndị na-ebubata ya."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NKWUKWU ERP HILOSOPHY",
+      "keyPerspectiveTitle": "Imeziwanye ihe n'emezigharị karịa Monolithic",
+      "keyPerspectiveLead": "Mgbanwe ERP ọgbara ọhụrụ na-aga nke ọma mgbe òtù dị iche iche na-ewere ya dị ka nkwalite na-arụ ọrụ evolushọn kama ọ bụghị ihe ọ bụla na-emebi IT:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Iwuli Nkwụghachi Cyber ​​na ụlọ ọrụ ejikọrọ",
+      "subtitle": "Nyochaa ka otu dị iche iche nwere ike isi mee ka nchekwa sie ike, chedo sistemu dị oke egwu ma kwado maka ihe egwu n'ofe gburugburu ebe jikọtara ọnụ.",
+      "date": "Septemba 2026",
+      "readTime": "Nkeji 8 gụọ",
+      "imageCaption": "Echiche Teknụzụ ụlọ ọrụ - Nchekwa egwu & Ntụkwasị Obi efu",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Nchọpụta",
+          "desc": "Ndenye ndekọ oge na njikọ SIEM anomaly gafee ebe njedebe igwe ojii na ibu ọrụ niile."
+        },
+        {
+          "title": "Nwepu & Kewapụrụ",
+          "desc": "Iwu mgbochi iche netwọkụ akpaaka na-ekewapụ arịa ma ọ bụ nzere emebi emebi ozugbo."
+        },
+        {
+          "title": "Ngwọta & Mgbọrọgwụ-akpata",
+          "desc": "Mwepụta mkpọchi ngwa ngwa yana nyocha nyocha dijitalụ na-achọpụta kpọmkwem vector mebiri."
+        },
+        {
+          "title": "Nkwụsi ike & Nkwụsi ike",
+          "desc": "Nzaghachi na-aga n'ihu n'ime nkwado ndabere na mpaghara enweghị ike ịgbanwe, ụzọ nchekwa amụma, yana ịme anwansị otu egwuregwu uhie akpaaka."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Mbelata dị ukwuu na mwakpo adịghị ike na-ebupụta n'ofe akụ igwe ojii",
+        "Ekwenyere na ọ ga n'ihu ịrụ ọrụ yana mgbake ọdachi na obere RTO/RPO",
+        "Nkwenye ntụkwasị obi zuru oke n'ofe ISO 27001, SOC 2, HIPAA na nyocha GDPR",
+        "Nchedo nke isi ụlọ ọrụ ọgụgụ isi na ndekọ ndị ahịa nzuzo",
+        "Onye na-ere ahịa na njikwa ihe egwu nke ndị ọzọ site na njikwa ohere jikọtara ọnụ.",
+        "Ntụkwasị obi nke ndị ahịa na ndị na-etinye ego na-akwado site na ọnọdụ nchekwa nchekwa efu ekwenyeghị ekwenye."
+      ],
+      "zeroTrustPrinciples": [
+        "Ekwela ntụkwasị obi, Na-enyocha mgbe niile: Nnwapụta doro anya achọrọ maka azụmahịa ọ bụla",
+        "Nweta ohere kacha nta: oke ọrụ oke na-amachi mmegharị ihe iyi egwu mpụta.",
+        "Chee echiche: Nleba anya iyi egwu na-aga n'ihu, izo ya ezo na njem na izu ike",
+        "Micro-Segmentation: Firewalls netwọk na-ekewapụta ibu ọrụ ngwa n'otu n'otu",
+        "Telemetry na-aga n'ihu: nyocha omume akpaaka na-egosipụta arịrịọ nnọkọ na-adịghị mma"
+      ],
+      "sec1Eyebrow": "OGE na-agbasawanye",
+      "sec1Heading": "Ebe nchekwa ala ụlọ ọrụ ejikọrọ",
+      "sec1Subtext": "Ka ụlọ ọrụ ọgbara ọhụrụ na-ejikọ ngwa ndị ọzọ, gburugburu igwe ojii, ndị ọrụ dịpụrụ adịpụ, ngwaọrụ mkpanaka, na ndị mmekọ ndị ọzọ, mpaghara nchekwa ọdịnala na-akwụsị ịdị adị.",
+      "sec2Eyebrow": "Nchekwa zuru oke",
+      "sec2Heading": "Nchekwa iyi egwu ọtụtụ",
+      "sec2Subtext": "Nchekwa na-arụ ọrụ nke na-echekwa akụrụngwa dị oke egwu, data ụlọ ọrụ nwere mmetụta na sistemụ arụmọrụ.",
+      "sec3Eyebrow": "ỌHỤRỤ Nchekwa Ọhụrụ",
+      "sec3Heading": "Njikwa njirimara & nnweta (IAM)",
+      "sec3Subtext": "Identity bụ ntọala njikwa ụgbọ elu nke nchekwa ọgbara ọhụrụ. Ihe fọrọ nke nta ka ọ bụrụ nnukwu mmebi nchekwa niile na-amalite site na nzere emebighị emebi kama iji ngwanro eme ihe.",
+      "sec4Eyebrow": "ARCHITECTURAL PARADIGM",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust abụghị otu ngwaahịa ma ọ bụ ngwaọrụ. Ọ bụ atụmatụ ụkpụrụ ụlọ dabere n'ụkpụrụ kwụ ọtọ: atụkwasịla ihe ọ bụla n'ime ma ọ bụ n'èzí netwọk ahụ na ndabara.",
+      "sec5Eyebrow": "Ọchịchọ akụrụngwa",
+      "sec5Heading": "Nchekwa igwe ojii",
+      "sec5Subtext": "Nchekwa ibu ọrụ n'ofe igwe ojii, ihe owuwu ngwakọ, na gburugburu akpa ekesara.",
+      "sec6Eyebrow": "NKWUKWU OKWU MMADỤ",
+      "sec6Heading": "Njikere ihe omume: Ewezuga mgbochi",
+      "sec6Subtext": "Ezi nnabata cyber na-anabata na ihe omume nwere ike ime. Njikere na-elekwasị anya na njide ngwa ngwa, ndakpọ azụmahịa pere mpe, yana mgbake enwetara.",
+      "sec7Eyebrow": "Uru Uru",
+      "sec7Heading": "Uru azụmahịa",
+      "sec7Subtext": "Ịwulite ụlọ ọrụ cyber-resilient na-echebe uru nhazi, nhazi usoro, na aha ahịa.",
+      "ctaHeading": "Mee ka nchekwa ụlọ ọrụ gị dị ike",
+      "ctaDescription": "Nyochaa ka otu dị iche iche nwere ike isi mee ka nchekwa sie ike, chebe sistemu dị oke egwu ma kwado maka ihe egwu n'ofe gburugburu ebe jikọtara ọnụ.",
+      "ctaButton": "Gwa ndị ọkachamara anyị okwu",
+      "sec1P1": "N'oge ihe nketa nke IT Enterprise, nchekwa na-arụ ọrụ na ozizi nnukwu ụlọ-na-moat: ihe niile dị n'ime netwọk ụlọ ọrụ ụlọ ọrụ na-eche na a tụkwasịrị obi, ebe ihe niile dị n'èzí na-ewere enweghị ntụkwasị obi. Otu firewall ụlọọrụ chekwara sava ime, ọdụ data na kọmputa desktọpụ.",
+      "sec1P2": "Ụlọ ọrụ nke taa apụtala mgbidi nkịtị. Ọrụ na-arụ ọrụ na-ebi n'ofe gburugburu igwe ojii (AWS, Azure, GCP), ndị ọrụ na-enweta ngwa azụmahịa site na ebe dị iche iche, yana API na-eji ndị na-eweta ngwa agha mpụga, ụlọ ọrụ ego na ndị na-ere SaaS na-agbanwe agbanwe data arụmọrụ.",
+      "sec1P3": "Ọ bụ ezie na njikọ njikọ a na-eme ka ike azụmaahịa dị egwu, ọ na-agbasawanye elu ụlọ ọrụ ahụ. Ebe njedebe API ọ bụla, akara njirimara, ngwaọrụ mkpanaaka ejikọrọ, yana njikọta SaaS na-anọchite anya vector nke ikpughe. Ezi nchekwa ụlọ ọrụ chọrọ ngbanwe site na nchekwa dabere na gburugburu gaa n'ọrụ ike, nkwụsi ike cyber na njedebe na njedebe.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Nchọpụta egwu",
+          "desc": "Ọgụgụ isi ihe egwu na-enyere aka mmụta igwe na-enyocha usoro netwọkụ na-adịghị mma, mmetọ nzere, na adịghị ike ụbọchị efu na ozugbo."
+        },
+        {
+          "icon": "📡",
+          "title": "Nlebaanya nchekwa",
+          "desc": "Centralized Security Operations Center (SOC) telemetry na-ejikọta mmemme n'ofe sava, ụyọkọ akpa, ndị na-enye njirimara, na ebe njedebe."
+        },
+        {
+          "icon": "🔍",
+          "title": "Njikwa adịghị ike",
+          "desc": "Na-aga n'ihu na nyocha adịghị ike akpaaka na-aga n'ihu n'ofe akụrụngwa, ebe nchekwa koodu isi, na ndekọ akpa iji dozie adịghị ike nke ọma."
+        },
+        {
+          "icon": "🔒",
+          "title": "Nchekwa data",
+          "desc": "Izo ya ezo siri ike na ngafe (TLS 1.3) na izu ike (AES-256), n'akụkụ granular data ọnwụ mgbochi (DLP) ọchịchị iji gbochie ikike ọgụgụ isi."
+        }
+      ],
+      "sec3P1": "Ichekwa akụ ụlọ ọrụ chọrọ ịhụ na njirimara ọ bụla—ma ọ bụ onye isi mmadụ, onye na-arụ ọrụ n'èzí, ma ọ bụ akaụntụ ọrụ sọftụwia kwụụrụ onwe — akwadola ikike maka akụrụngwa ọ na-enweta.",
+      "sec3List": [
+        {
+          "bold": "Njikwa njirimara etiti:",
+          "text": "Otu nbanye (SSO) yana ụkpụrụ njirimara jikọtara ọnụ nke na-ewepụ ụlọ ahịa okwuntughe gbawara agbawa n'ofe ngwa."
+        },
+        {
+          "bold": "Nyocha ọtụtụ ihe ngbanwe (MFA):",
+          "text": "Igodo ngwaike FIDO2 na-eguzogide phishing yana ihe ịma aka gbara gburugburu maka ọrụ nchịkwa nwere mmetụta."
+        },
+        {
+          "bold": "Njikwa nnweta granular:",
+          "text": "Ọrụ-Dabere nke ọma (RBAC) na njikwa-Dabere (ABAC) na-amanye na ọkwa API na nchekwa data."
+        },
+        {
+          "bold": "Ụkpụrụ ihe ùgwù kacha nta:",
+          "text": "Inye ohere nwa oge, naanị oge (JIT) ga-agwụ na-akpaghị aka mgbe ọrụ nchịkwa kwubiri."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ZERO TRUST CORE DOCTRINE",
+      "keyPerspectiveTitle": "Nyocha na-aga n'ihu maka ntụkwasị obi kpuru ìsì",
+      "keyPerspectiveLead": "N'ime ihe owuwu Zero Trust, ntụkwasị obi zuru oke dabere na ọnọdụ netwọkụ ka emebiela kpamkpam. Azụmahịa ọ bụla, ajụjụ nchekwa data, na nbanye onye ọrụ ga-egosipụtarịrị izi ezi ya:",
+      "cloudSecurityCards": [
+        {
+          "title": "Ọrụ Ekekọrịtara",
+          "desc": "Ọchịchị doro anya na-amata ọdịiche nchekwa akụrụngwa anụ ahụ nke onye na-eweta igwe ojii site na ọrụ ụlọ ọrụ maka izo ya ezo data, amụma IAM na koodu ngwa."
+        },
+        {
+          "title": "Akụrụngwa dị ka Koodu (IaC)",
+          "desc": "Nhazi igwe ojii anaghị agbanwe agbanwe, a na-enyocha ya bụ nke ejiri koodu. Ihe nyocha amụma dị ka koodu akpaaka na-egbochi nhazi ezighi ezi na bọket ekpughere tupu ebunye ya."
+        },
+        {
+          "title": "Akpa & Nchekwa Kubernetes",
+          "desc": "Oge ịgba ọsọ akpa siri ike, ndebanye aha onyonyo, obere ngalaba netwọkụ, yana njikwa nzuzo akpaghị aka nke na-egbochi nzere site na ebe nchekwa isi mmalite."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "Igwe ojii na ọgbara ọhụrụ",
+      "title": "Ngwa ihicha nke ime ka igwe ojii na-emeziwanye",
+      "subtitle": "Nyochaa ụzọ bara uru maka nleba anya, imeziwanye na imegharị ngwa ihe nketa n'ebe scalable, Cloud architectures.",
+      "date": "Septemba 2026",
+      "readTime": "Nkeji 6 gụọ",
+      "imageCaption": "Nleba anya teknụzụ ụlọ ọrụ - Nrụgharị igwe ojii-Native & njikwa",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (Ebuli & Mgbanwe)",
+          "desc": "Ibu ọrụ ntụgharị gaa na igwe mebere igwe ojii ngwa ngwa yana mgbanwe koodu pere mpe."
+        },
+        {
+          "title": "Nhazigharị (ebuli & megharịa)",
+          "desc": "Kwalite usoro oge ịgba ọsọ, nabata ọdụ data igwe ojii a na-achịkwa, wee hazie ọrụ."
+        },
+        {
+          "title": "Onye na-eme mgbanwe (Urukpuru-Native Mwughachi)",
+          "desc": "Wepu monoliths n'ime obere ọrụ microservices na API enweghị ihe nkesa na-ebute emume."
+        },
+        {
+          "title": "Dochie (SaaS Modernization)",
+          "desc": "Sistemụ ihe nketa na-adịghị akwụ ụgwọ ezumike nka iji kwado ngwanrọ igwe ojii ejiri rụọ ọrụ."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Ntụle Ọkpụkpọ",
+          "desc": "Maapụ ndabere akpaghị aka, nleba anya ụgwọ ọrụ nka, yana akara njikere igwe ojii."
+        },
+        {
+          "title": "Ihe owuwu ebumnuche",
+          "desc": "Mpempe akwụkwọ microservice modular, topologies akpa, na ndebiri IaC akpaaka."
+        },
+        {
+          "title": "Mbugharị n'usoro",
+          "desc": "Mwepụta Canary, mmekọrịta data nke abụọ-dere, yana ebili mmiri na-ebelata oge efu."
+        },
+        {
+          "title": "Njicha igwe ojii",
+          "desc": "Ọchịchị ọnụ ahịa na-aga n'ihu, telemetry autoscaling, na nyocha arụmọrụ FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Ndokwa akụrụngwa dị ala na mmefu ume ọhụrụ ngwaike",
+        "Na-agbakọ ngbanwe na-enweghị ngwụcha na-ejizi okporo ụzọ ụlọ ọrụ kacha elu na-enweghị nkwụsị efu.",
+        "Ọsọ ọsọ ntọhapụ nwere pipeline CI/CD akpaghị aka zuru oke.",
+        "Mwepụ nke otu ihe nketa nke ọdịda na nnweta dị elu nke multi-AZ",
+        "Ihe owuwu API ọgbara ọhụrụ na-eme ka njikọta ndị mmekọ na-agafe ngwa ngwa",
+        "Nwelite anya oge dị elu n'ime arụmọrụ ngwa yana mmefu igwe ojii"
+      ],
+      "landscapeAssessmentPoints": [
+        "Ịdepụta ihe ndabere ngwa n'etiti ngwa yana akara mmekọrịta data",
+        "Ịmata nhazi gburugburu ebe obibi siri ike yana schemas nchekwa data nwe",
+        "Nyochaa nrube isi n'usoro iwu yana mmachi data ọbụbụeze n'otu ikike.",
+        "Na-agbakọ ọnụ ahịa nke onye nwe ezi (TCO) n'ofe refactor megide ụzọ nnabata.",
+        "Ịmepụta ebili mmiri na-ebugharị doro anya iji chebe ọrụ azụmaahịa na-arụ ọrụ kwa ụbọchị"
+      ],
+      "sec1Eyebrow": "EZIOKWU OKWU NDỊ NA-ECHICHE",
+      "sec1Heading": "Ihe ịma aka nke nketa",
+      "sec1Subtext": "Monoliths ịka nká na-egbochi ọsọ ọhụrụ, na-abawanye adịghị ike arụ ọrụ, yana ịbawanye ọnụ ahịa mmezi akụrụngwa.",
+      "sec2Eyebrow": "Ntụle & Nchọpụta",
+      "sec2Heading": "Ịghọta Ọdịdị Ala Ngwa",
+      "sec2Subtext": "Imelite igwe ojii na-aga nke ọma na-amalite site na ntule siri ike. Ịbanye ozugbo banye na mbugharị na-enweghị nyocha ndabere ngwa bụ isi ihe na-akpata igbu oge.",
+      "sec3Eyebrow": "Ụzọ 4 ọgbara ọhụrụ",
+      "sec3Heading": "Ụzọ ọgbara ọhụrụ",
+      "sec3Subtext": "Ọ nweghị otu-nha-dabara-niile atụmatụ mbugharị. Ụlọ ọrụ ndị na-eduga na-adakọbara ụkpụrụ ọgbara ọhụrụ kwesịrị ekwesị na ọrụ ọ bụla akọwapụtara dabere na uru azụmaahịa, ngwa ngwa na ụgwọ ọrụ aka.",
+      "sec4Eyebrow": "Nlereanya mgbanwe TARGET",
+      "sec4Heading": "Ihe owuwu igwe ojii nke oge a",
+      "sec4Subtext": "Ụzọ ụzọ ahaziri ahazi nke na-agbanwe monoliths nketa ka ọ bụrụ ọrụ na-agbanwe, nchekwa, yana ọrụ ígwé ojii a na-echekwa ya.",
+      "sec5Eyebrow": "Mgbanwe Mgbanwe",
+      "sec5Heading": "Uru Uru Ọgbara ọhụrụ",
+      "sec5Subtext": "Ịkwaga sistemu ihe nketa na ụlọ ọrụ igwe ojii nke ọgbara ọhụrụ na-enye ike ịrụ ọrụ nke ọma yana amụma ọnụ ahịa.",
+      "ctaHeading": "Mee ka ngwa nketa gị dị ọhụrụ",
+      "ctaDescription": "Nyochaa usoro bara uru maka ntule, imeziwanye na imegharị ngwa ihe nketa n'ebe scalable, Cloud architectures.",
+      "ctaButton": "Gwa ndị ọkachamara anyị okwu",
+      "sec1P1": "Ngwa ndị dị mkpa nke e wuru afọ iri gara aga ka na-ebute ọtụtụ ijeri na ego ụlọ ọrụ, mana njiri arụ ụlọ ha na-emepụta ihe egwu na-eto eto.",
+      "sec1P2": "Ụlọ ọrụ ọ bụla na-eche esemokwu dị n'etiti nkwụsi ike na nhazi oge. Emebere usoro ihe nketa maka ịdịte aka, ha arụkwara ọrụ nke ọma kemgbe ọtụtụ afọ. Otú ọ dị, ka azụmahịa chọrọ ngwa ngwa, ụlọ ọrụ ndị a merela agadi na-ezute oke nhazi:",
+      "sec1List": [
+        {
+          "bold": "Akụrụngwa sọftụwia ịka nká:",
+          "text": "Monolithic codebases wuru n'elu arịa ndị a na-emebi emebi na ọdọ mmiri talent na-ebelata maka mmezi."
+        },
+        {
+          "bold": "Usoro nlekọta siri ike:",
+          "text": "Ngwakọta jikọtara nke ọma ebe ịgbanwe otu njirimara nwere ike imebi modul arụ ọrụ na-enweghị njikọ."
+        },
+        {
+          "bold": "Enwere oke scalability:",
+          "text": "Oke nchacha kwụ ọtọ nke chọrọ ịzụrụ ngwaike dị oke ọnụ iji jikwaa mkpọmkpọ okporo ụzọ oge."
+        },
+        {
+          "bold": "Ihe ịma aka njikọta:",
+          "text": "Enweghị ike iji ngwa mkpanaka ọgbara ọhụrụ, ọnụ ụzọ ndị ahịa, ma ọ bụ API ndị mmekọ na-emekọrịta nke ọma na-enweghị script batch na-emebi emebi."
+        },
+        {
+          "bold": "Ihe mgbochi akụrụngwa:",
+          "text": "Ndụ okirikiri ime ụlọ nke ihe nkesa anụ ahụ, adịghị ike ndabere, yana nnukwu ike/ịkwado arụmọrụ arụmọrụ."
+        }
+      ],
+      "sec2P1": "Njem mmeghari ohuru na-amalite site n'imepụta nkọwa zuru oke n'ofe ala dị adị:\nNgwa:",
+      "sec2List": [
+        {
+          "bold": "Ngwa:",
+          "text": "Na-edepụta oke ọrụ niile na-arụ ọrụ, modul omenala, edemede ndabere, na nchịkọta akụkọ ihe mere eme nke atọ."
+        },
+        {
+          "bold": "Ndabere:",
+          "text": "Maping mgbagwoju oge ịgba ọsọ, tebụl nchekwa data ekekọrịtara, oku sistemụ faịlụ kpọmkwem, na nkwekọrịta ọrụ mpụga."
+        },
+        {
+          "bold": "Data:",
+          "text": "Na-enyocha usoro data, chọrọ iguzosi ike n'ezi ihe azụmahịa, nkwado ndabere, na iwu ọbụbụeze na-achịkwa."
+        },
+        {
+          "bold": "Akụrụngwa:",
+          "text": "Auditing CPU, ebe nchekwa, nchekwa itinye n'ọrụ, na netwọk mmepụta ka nri-nha lekwasịrị igwe nkọwa nkọwa."
+        },
+        {
+          "bold": "Mkpa azụmahịa:",
+          "text": "Na-ekewa ngwa n'ime ọkwa dị iche iche iji chepụta ebili mmiri na-enweghị nchebe, nwere usoro ọdịda doro anya."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Uru:",
+      "cloudArchitectureBadge": "Usoro ndụ ọgbara ọhụrụ",
+      "cloudArchitectureTitle": "Ọgwụgwụ-na-ọgwụgwụ ihie igwe ọgbara ọhụrụ",
+      "sec4P1": "The ebe architecture decouples isi ngwa n'ime modular, containerized ọrụ kwadoro na na-agbanwe igwe nyiwe (dị ka Kubernetes ma ọ bụ jisiri ike nkesa na-adịghị runtimes).",
+      "sec4P2": "Site n'ịmepụta pipeline CI/CD na-akpaghị aka, ihe mgbochi na-acha anụnụ anụnụ na-acha akwụkwọ ndụ akwụkwọ ndụ, na akụrụngwa dị ka koodu, ntinye aka na-agbanwe site na ihe omume izu ụka na-eme mkpọtụ ka ọ bụrụ ihe na-adịghị mma kwa ụbọchị.",
+      "sec4P3": "Mgbakọ na-agbanwe agbanwe na-akpaghị aka n'oge ọchọrọ na-arị elu ma na-agbadata n'oge ezumike, na-ewepụ ọnụ ahịa akụrụngwa na-abaghị uru ma na-ekwe nkwa oge nzaghachi nke abụọ nke abụọ maka ndị ọrụ ụwa niile.",
+      "keyPerspectiveEyebrow": "Omume kacha mma nke ọgbara ọhụrụ",
+      "keyPerspectiveTitle": "Ogidi anọ nke Mbugharị Na-aga nke Ọma",
+      "keyPerspectiveLead": "Ahụmahụ na-egosi na ọrụ ọgbara ọhụrụ na-aga nke ọma mgbe etinyere ya na nkwadebe zuru oke, usoro ebili mmiri doro anya, na nnwale siri ike:"
+    }
+  }
+}

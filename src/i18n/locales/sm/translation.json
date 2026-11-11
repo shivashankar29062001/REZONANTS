@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "E uiga i",
+    "services": "Auaunaga",
+    "products": "Oloa",
+    "perspectives": "Vaaiga",
+    "technologies": "Tekinolosi",
+    "contact": "Fa'afeso'ota'i",
+    "signIn": "Saini i totonu",
+    "signUp": "Saini",
+    "signOut": "Saini i fafo",
+    "chooseLanguage": "Filifili lau gagana",
+    "searchLanguage": "Su'e gagana",
+    "resetEnglish": "Toe seti i le Igilisi",
+    "noResults": "Leai gagana na maua",
+    "englishDefault": "Igilisi (Default)",
+    "english": "Igilisi"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Polokalama, fa'ainisinia mo le auala <em>lau pisinisi</em>fa'agaoioi.",
+    "description": "Rezonants o se kamupani IT auaunaga ma oloa numera. Matou te mamanuina, fausia ma fuaina polokalama faʻapitoa, upega tafaʻilagi ma telefoni feaveaʻi, atinaʻe ao ma AI - mo kamupani e tauva i le faʻataunuʻuina.",
+    "bookConsultation": "Tusi se fa'atalanoaga fua",
+    "exploreServices": "Saili auaunaga",
+    "years": "tausaga",
+    "projects": "galuega faatino",
+    "retention": "taofi",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — talu mai le 2012",
+    "metaStudio": "Studio oloa numera",
+    "metaTech": "Upega Tafaʻilagi · Feʻaveaʻi · Ao · AI"
+  },
+  "about": {
+    "eyebrow": "E uiga ia i matou",
+    "title": "Fausia Fofo Fa'atekinolosi <em>E Fa'agaioi Atu Pisinisi i Luma</em>",
+    "description": "Rezonants ose kamupani fa'atekonolosi fofo o lo'o taula'i ile fesoasoani i pisinisi e fa'aliliu manatu ile poto fa'atekinolosi anoa. Matou te tuʻufaʻatasia tekinolosi, fatufatuaʻi, ma le malamalama faʻapisinisi e tuʻuina atu fofo ua mamanuina i manaʻoga moni o le lalolagi.<br /><br />Mai le suiga numera ma le atinaʻeina o polokalama faʻapitoa i le ao, AI, faʻaautomatika, ma pulega faʻatekonolosi auaunaga, matou te fesoasoani i faʻalapotopotoga e faʻafaigofie le lavelave, faʻaleleia le lelei, ma fatuina le tau numera tumau.<br /><br /><strong>E faigofie la matou auala - malamalama i le faʻafitauli, faʻaleleia le tekinolosi.</strong>",
+    "awardWinning": "Manumalo Fa'ailoga",
+    "awardText": "Fa'ailoaina mo le fa'ao'o lelei i luga o upegatafa'ilagi ma masini feavea'i oloa.",
+    "professionalStaff": "Aufaigaluega Tomai",
+    "staffText": "Enisinia sinia, e mafai ona tali atu e ana le galuega mai le valaau muamua e alu-live.",
+    "support247": "24/7 Lagolago",
+    "supportText": "Au'aunaga fa'afoe ma se laina lagolago e tali mai pe a e mana'omia.",
+    "fairPrices": "Tau Talafeagai",
+    "pricesText": "Fa'atatau fa'amaoni ma fa'amatalaga manino i fa'atasiga ta'itasi.",
+    "yearsExcellence": "Tausaga o Atina'e Lelei"
+  },
+  "stats": {
+    "happyClients": "Fiafia tagata fa'atau",
+    "projectsDone": "Poloketi ua mae'a",
+    "winAwards": "Manumalo fa'ailoga"
+  },
+  "insights": {
+    "eyebrow": "Vaaiga",
+    "title": "Vaaiga",
+    "sub": "Su'esu'e manatu, aga masani, ma tekinolosi e fa'atulagaina ai le lumana'i.",
+    "filters": {
+      "all": "O mea uma",
+      "digital-transformation": "Suiga Numera",
+      "ai": "AI & Otometi",
+      "cloud": "Ao",
+      "data": "Fa'amaumauga & Iloiloga",
+      "software": "Polokalama",
+      "business": "Pisinisi & Tekonolosi"
+    },
+    "readMore": "Faitau atili",
+    "close": "Tapuni",
+    "keyTakeaways": "Fa'ata'ita'iga Autu Fa'ata'ita'iga",
+    "relatedServices": "Agava'a ma Au'aunaga",
+    "minRead": "min faitau",
+    "item1Date": "Iul 2026",
+    "item1Tag": "Oloa & ERP",
+    "item1Title": "O se faiga fa'avae ERP mo atina'e fa'atupulaia",
+    "item1Text": "E fa'afefea ona matou fa'atulagaina galuega fa'atino a le ERP ina ia fa'apipi'i lelei mea tau tupe, su'esu'ega, HR ma fa'atauga e aunoa ma le fa'alavelaveina o tausaga e tele.",
+    "item2Date": "Iun 2026",
+    "item2Tag": "Fa'ata Fa'ata",
+    "item2Title": "Agentic AI faiga: alu ese mai chatbots i le faʻatinoina tutoʻatasi",
+    "item2Text": "Fa'ata'ita'iga fa'amaopoopo fa'aputuga LLM e fa'atonu, fa'amaonia, ma fa'atino galuega lavelave fa'apisinisi fa'atasi ai ma le va'aiga a tagata-i-le-loop.",
+    "item3Date": "Me 2026",
+    "item3Tag": "Manu'a a le Kamupani",
+    "item3Title": "Iloaina i totonu o le taʻitaʻia o fale faʻafouina IT i Hyderabad",
+    "item3Text": "Ua fa'ailoaina le matou fale fa'ainisinia mo le lelei o le tu'uina atu, tomai fa'atekinolosi loloto, ma le fa'amalieina o tagata o tausia i le fa'ainisinia o oloa i le lalolagi atoa.",
+    "desc": "Saili manatu ma manatu mai Rezonants i suiga numera, AI, masini, ao, faʻamaumauga, polokalama, ma le lumanaʻi o tekinolosi pisinisi.",
+    "categories": {
+      "digitalTransformation": "Suiga Numera",
+      "ai": "AI & Otometi",
+      "cloud": "Ao",
+      "data": "Fa'amatalaga & Iloiloga",
+      "software": "Polokalama",
+      "business": "Pisinisi & Tekinolosi"
+    }
+  },
+  "technologies": {
+    "title": "Tekonolosi & Fausia",
+    "headline": "Fofo Fa'atekonolosi Pisinisi",
+    "sub": "Tekinolosi Atamai. Fa'agaio'iga Fa'autometi. Pisinisi Matagofie.",
+    "selectTechnology": "Filifili se fofo faatekinolosi...",
+    "options": {
+      "aiRobotics": "AI & Robotics Fofo",
+      "businessAutomation": "Pisinisi Fa'atosina Fofo",
+      "cloudMigrations": "Fofo o Femalagaiga i Ao",
+      "dataCenters": "Fa'amatalaga Nofoaga Autu",
+      "cognitiveAnalytics": "Su'esu'ega Fa'amatalaga & AI",
+      "informationReporting": "Fa'amatalaga & Lipoti Faiga",
+      "managedServices": "Auaunaga Pulea",
+      "oneStopSolutions": "Fofo Tekonolosi Tasi-Stop"
+    },
+    "explore": "Saili Tekinolosi",
+    "bookDiscovery": "Tusi Su'esu'ega Tekonolosi",
+    "exploreAll": "Su'esu'e uma tekinolosi",
+    "coreCapabilities": "Avanoa Tekinolosi Autu",
+    "bookConsultation": "Tusia se Faatalatalanoaga"
+  },
+  "contact": {
+    "eyebrow": "Fa'afeso'ota'i",
+    "title": "Talanoa i se inisinia sinia, ae le o se tusi fa'atau",
+    "sub": "Fa'asoa sina mea e uiga i lau poloketi ma o le a matou tali atu i totonu o le tasi aso pisinisi.",
+    "reachUs": "Aapa sa'o mai ia i matou",
+    "preferConversation": "Mana'o i se talanoaga? E tasi lava le tatou valaau.",
+    "contactLede": "O le auala sili ona vave e agai ai i luma o se talanoaga puupuu. Aapa mai ia i matou i luga o soʻo se alalaupapa i lalo, pe tusi se avanoa ma o le a matou o atu ia te oe saunia.",
+    "phone": "Telefoni",
+    "email": "imeli",
+    "office": "Ofisa",
+    "hours": "Itula",
+    "hoursValue": "Mon – Aso Sa, 9:30 – 18:30 IST",
+    "bookSlot": "Tusi se avanoa fa'atalanoaga",
+    "sendMessage": "Auina mai se feau",
+    "fieldsRequired": "O fanua fa'ailoga i le * e mana'omia.",
+    "fullName": "Igoa Atoa *",
+    "emailLabel": "Email *",
+    "company": "Kamupani",
+    "subject": "Mataupu",
+    "messageLabel": "Fe'au *",
+    "sending": "Auina atu...",
+    "sendBtn": "Auina atu le fe'au",
+    "successMsg": "Ua lafo le fe'au! Ua uma ona imeli atu ia te oe se kopi.",
+    "errorMsg": "Le mafai ona fa'asaoina lau fe'au. Siaki pe o iai le laulau contact_messages, ona toe taumafai lea.",
+    "offices": {
+      "vijayawada": "Ofisa Vijayawada",
+      "southAfrica": "Ofisa o Aferika i Saute"
+    },
+    "placeholders": {
+      "fullName": "Lou igoa atoa",
+      "email": "oe@company.com",
+      "company": "Lau kamupani po'o fa'alapotopotoga",
+      "subject": "E mafai faapefea ona tatou fesoasoani?",
+      "message": "Ta'u mai ia i matou lau galuega, fa'asologa o taimi, ma sini..."
+    },
+    "validation": {
+      "fullNameRequired": "Fa'amolemole tu'u lou igoa atoa.",
+      "emailRequired": "Fa'amolemole tu'u lau tuatusi imeli.",
+      "emailInvalid": "Fa'amolemole tu'u se tuatusi imeli aoga.",
+      "messageRequired": "Fa'amolemole tu'u mai se fe'au."
+    }
+  },
+  "services": {
+    "eyebrow": "Auaunaga",
+    "title": "O mea tatou te faia",
+    "sub": "Mai ta'iala i fa'agaioiga fa'afoe, matou te tu'uina atu faiga fa'apaaga fa'atekonolosi pito i luga mo kamupani o lo'o tauva i le fa'atinoina.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Amataina i le Fa'asoa",
+        "description": "Fa'ai'uga fa'ai'uga o fofo fa'atekinolosi fou mai mana'oga fa'apisinisi ma fofo fa'ata'ita'iga e ala i le atina'e, tu'ufa'atasia, su'ega, fa'apipi'iina, ma le lagolago faifaipea."
+      },
+      "businessProcessAutomation": {
+        "label": "Pisinisi Fa'agasologa Otometi",
+        "description": "Fuafuaga ma le fa'atinoina o fofo fa'aautomatika atamai e fa'afaigofie ai fa'agaioiga pisinisi, fa'ate'aina galuega fa'aauau a le tusi lesona, fa'aleleia atili le fa'atinoina o galuega, ma fa'atelevave ai taunu'uga o pisinisi."
+      },
+      "centerOfExcellence": {
+        "label": "Nofoaga Tutotonu",
+        "description": "Fa'atuina o fa'atekonolosi fa'apitoa ma nofoaga fa'afaipisinisi e tu'uina atu pulega, fa'ata'ita'iga, tomai, fa'avae, aseta toe fa'aaogaina, ma fa'aauau le fa'aleleia atili i le fa'alapotopotoga."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Atina'e Fa'aleaganu'u & Fa'asinomaga",
+        "description": "Atinae ma le faʻaleleia atili o talosaga, faʻavae, faʻasologa o galuega, ma faʻafitauli tau atinaʻe e faʻafetaui manaoga faʻapitoa pisinisi ma tuʻuina atu galuega faʻapitoa."
+      },
+      "digitalTransformation": {
+        "label": "Suiga Numera",
+        "description": "Fa'aonaponei o fa'agaioiga pisinisi, fa'atekonolosi fa'anatura, ma fa'amatalaga a tagata fa'atau e ala i ao, AI, masini, fa'amaumauga, ma fa'aonaponei fa'aoga tekonolosi."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Ta'iala Fa'ai'uga Fa'ai'uga",
+        "description": "O se fa'ata'ita'iga tu'ufa'atasiga e aofia ai le fa'asologa o le olaga fa'atekonolosi atoa-mai ta'iala, mana'oga, ma fa'ata'ita'iga i le atina'e, tu'ufa'atasia, fa'atinoina, pulega, mata'ituina, ma le lagolago."
+      },
+      "migrationModernization": {
+        "label": "Femalaga'iga & Fa'aonaponei",
+        "description": "Saogalemu ma fa'atulagaina femalagaiga o talosaga, fa'amaumauga, fa'avae, atina'e, ma galuega mamafa mai talatuu po'o si'osi'omaga o lo'o i ai nei i fa'aonaponei, fa'ateleina, ma fa'atumauina tulaga fa'atekonolosi."
+      },
+      "pocPilotImplementation": {
+        "label": "Fa'amaoniga o Manatu (PoC) & Fa'atinoga Fa'ata'ita'i",
+        "description": "Fa'atosina vave ma fa'amaonia fofo fa'atekonolosi e iloilo ai le fa'aogaina fa'atekinisi, tau pisinisi, tu'ufa'atasiga mana'omia, fa'atinoga, ma le fa'alauteleina a'o le'i fa'atinoina atoa."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Au'aunaga Fetufa'i & Puleaina Fa'agaioiga",
+        "description": "Fa'atotonugalemu le tu'uina atu o tekinolosi ma agava'a fa'agaioiga i iunite fa'apisinisi e ala i faiga fa'ata'atitia, puna'oa fa'apitoa, ta'iala tau pulega, pulega o auaunaga, ma le fuaina o auaunaga."
+      },
+      "customDevelopment": {
+        "label": "Amataina i le Fa'a'uma",
+        "description": "Fa'ata'ita'iga fa'ai'uga o fofo fa'atekinolosi fou mai mana'oga fa'apisinisi ma fa'ata'ita'iga fofo e ala i le atina'e, tu'ufa'atasia, su'ega, fa'apipi'i, ma le lagolago faifaipea."
+      },
+      "processAutomation": {
+        "label": "Pisinisi Fa'agasologa Otometi",
+        "description": "Fuafuaga ma le fa'atinoina o fofo fa'aautomatika atamai e fa'afaigofie ai faiga fa'apisinisi, fa'ate'aina galuega fai fa'ata'ita'i, fa'aleleia lelei le fa'agaioiga, ma fa'avaveina taunu'uga o pisinisi."
+      },
+      "solutionEngineering": {
+        "label": "Atina'e ma Fa'asinomaga",
+        "description": "Atinae ma le faʻaleleia atili o talosaga, faʻavae, faʻasologa o galuega, ma faʻafitauli tau atinaʻe e faʻafetaui manaoga faʻapitoa pisinisi ma tuʻuina atu galuega faʻapitoa."
+      },
+      "endToEndSolutions": {
+        "label": "Ta'iala Fa'ai'uga Fa'ai'uga",
+        "description": "O se fa'ata'ita'iga tu'ufa'atasiga e aofia ai le olaga fa'atekonolosi atoa—mai ta'iala, mana'oga, ma faufale i le atina'e, tu'ufa'atasia, fa'atinoina, pulega, mata'ituina, ma le lagolago."
+      },
+      "migrationServices": {
+        "label": "Femalaga'iga & Fa'aonaponei",
+        "description": "Saogalemu ma fa'atulagaina femalagaiga o talosaga, fa'amaumauga, fa'avae, atina'e, ma galuega mamafa mai talatuu po'o si'osi'omaga o lo'o i ai nei i fa'aonaponei, fa'ateleina, ma fa'atumauina tulaga fa'atekonolosi."
+      },
+      "pilotPrototyping": {
+        "label": "Fa'amaoniga o Manatu (PoC) & Fa'atinoga Fa'ata'ita'i",
+        "description": "Fa'atosina vave ma le fa'amaoniaina o fofo fa'atekonolosi e iloilo ai le agava'a fa'apitoa, tau pisinisi, tu'ufa'atasiga mana'omia, fa'atinoga, ma le fa'atuputeleina a'o le'i fa'atinoina atoa."
+      },
+      "sharedServices": {
+        "label": "Au'aunaga Fetufa'i & Puleaina Fa'agaioiga",
+        "description": "Fa'atotonugalemu le tu'uina atu o tekonolosi ma agava'a fa'agaioiga i totonu o iunite fa'apisinisi e ala i faiga fa'ata'atia, puna'oa fa'apitoa, ta'iala tau pulega, pulega o auaunaga, ma le fuaina o le auaunaga."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Fa'atulaga se Fa'atalanoaga",
+      "exploreFramework": "Su'esu'e Fofo Fa'avae",
+      "talkSeniorEngineer": "Talanoa i se Inisinia Sinia",
+      "exploreTechStack": "Su'esu'e Fa'aputuga Tekinolosi",
+      "bookPocSession": "Tusi se Sauniga Su'esu'e PoC",
+      "seeAllServices": "Va'ai Au'aunaga Uma",
+      "requestAssessment": "Talosaga se Su'esu'ega o Femalaga'iga",
+      "exploreCloudSolutions": "Su'esu'e Fofo o Ao"
+    },
+    "sharedServices": {
+      "heroBadge": "'AU'UNIGA FA'AFEFA'I & FA'ATA'IGA",
+      "heroTitle": "Au'aunaga Fetufa'i Atina'e ma Fa'agaioiga Pulea",
+      "heroDesc": "Fa'ateleina le gafatia o pisinisi, fa'amālosia fegasoloa'iga felagolagoma'i, ma ausia le fa'atinoina o galuega lelei e ala i fa'ata'ita'iga fa'ata'ita'iga fa'asoa, malupuipuia, ma taugofie.",
+      "bookDiscovery": "Su'esu'eina o Gaoioiga Pulea Tusi",
+      "exploreFramework": "Su'esu'e Fofo Fa'avae",
+      "coreCapabilities": "Avanoa Autu:",
+      "managedServices": "Auaunaga Pulea",
+      "itOperations": "Galuega IT",
+      "appSupport": "Fesoasoani Lagolago",
+      "serviceManagement": "Puleaina o Auaunaga",
+      "resourceOptimization": "Fa'aleleia o Punaoa",
+      "slaManagement": "Pulega SLA",
+      "governance": "Pule",
+      "continuousImprovement": "Fa'aleleia Fa'aauau",
+      "costOptimization": "Fa'atonuga o tau",
+      "readyTitle": "Sauni e Fa'alelei Au Fa'atinoga?",
+      "readyDesc": "Su'esu'e pe fa'afefea ona fa'aleleia atili le tulaga lelei o auaunaga, fa'amautinoa le fa'aauauina o le fa'agaioiga, ma fa'atupu le fa'atauva'a fa'atatau mo lau atina'e.",
+      "scheduleSession": "Fa'atulaga se Sauniga Su'esu'e"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SOLUTION ENGINEERING & ARCHITECTURE",
+      "heroTitle": "Atina'e Fa'asinomaga & Fa'asinomaga",
+      "heroDesc": "Fa'ata'ita'i, inisinia, ma fa'apipi'i faiga fa'akomepiuta maualuga fa'atino ua fa'atulagaina fa'apitoa mo au galuega fa'atino, laina paipa fa'amaumauga, ma fua fa'atatau."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "FA'AVAE FA'AVAE FA'AVAE MA FA'ATA'ITA'I",
+      "heroTitle": "Fa'amaoniga o Manatu (PoC) & Fa'atinoga Fa'ata'ita'i",
+      "heroDesc": "Fa'amaonia tekonolosi fa'atupu, fa'ate'a fa'aletonu fausaga lavelave, ma fa'amaonia le taulia o pisinisi i fa'ata'ita'iga fa'ata'ita'iga o gaosiga i vaiaso, ae le o le kuata."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "FA'ATA'U OLA MA FA'ATA'UINA",
+      "heroTitle": "Ta'iala Fa'ai'uga Fa'ai'uga",
+      "heroDesc": "O se fa'ata'ita'iga tu'ufa'atasi e feso'ota'i ai le su'esu'eina o oloa, fa'ata'ita'iga fofo, inisinia, atina'e o ao, ma fa'agaioiga fa'atuatuaina 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "FA'ATAULA'I MA FA'ATA'IGA",
+      "heroTitle": "Femalaga'iga & Fa'aonaponei",
+      "heroDesc": "Fa'asolo lelei le fa'aliliuina o galuega fa'aleaganu'u, fa'ata'ita'iga monolithic, ma atina'e i totonu o le fale i fa'aonaponei, malupuipuia, ma fa'atupuina le ao."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Atina'e Fa'aonaponei",
+        "titlePart1": "Numera",
+        "titlePart2": "Liua",
+        "description": "Fa'aonaponei o fa'agaioiga pisinisi, fa'atekonolosi fa'anatura, ma fa'amatalaga a tagata fa'atau e ala i ao, AI, masini, fa'amaumauga, ma fa'aonaponei fa'aoga tekonolosi.",
+        "bookWorkshop": "A'oga Suiga Tusi",
+        "exploreFramework": "Su'esu'e Fofo Fa'avae",
+        "startTransformation": "Amata Suiga",
+        "exploreStrategy": "Su'esu'e Fuafuaga",
+        "coreCapabilitiesTitle": "Avanoa Autu",
+        "coreCapabilities": [
+          "Fuafuaga Fa'atekinolosi",
+          "Liua o Ao",
+          "AI & Otometi",
+          "Fa'aoga Fa'aonaponei",
+          "Legacy Modernization",
+          "Fa'amaumauga & Iloiloga",
+          "Aafiaga Tagata Fa'atau",
+          "Fa'aonaponei Tekonolosi"
+        ],
+        "row1Eyebrow": "Taiala & Faafanua",
+        "row1Title": "Mai le Va'aiga i le Fa'ata'atiaga o le Auala",
+        "row1P1": "Matou te fa'apa'aga ma ta'ita'i atina'e e fa'amalamalama fuafuaga fa'atekinolosi, mataupu fa'apisinisi, ma fa'asologa fa'asolosolo auala fa'atasi ai ma le vave manumalo ma le fa'alavelave fa'ataunu'u.",
+        "row1P2": "Fa'amuamua fuafuaga, TCO fa'ata'ita'iga, ma KPI fa'amautinoaina so'o se taumafaiga fa'aonaponei fa'atekonolosi e feso'ota'i sa'o i tupe maua, lelei, ma taunu'uga fa'amalieina o tagata fa'atau.",
+        "row2Eyebrow": "Legacy Modernization",
+        "row2Title": "Fa'aonaponei e aunoa ma le motusia o le Pisinisi",
+        "row2P1": "Toe fa'atūina monoliths i microservices, APIs, ma fa'asologa o le ao fa'atasi ai ma le fa'ato'a fa'ato'ilalo taimi ma le fa'amaonia otometi toe fa'aleleia.",
+        "row2P2": "Matou te fa'aonaponei talosaga, fa'amaumauga tu'ufa'atasiga, ma fa'apipi'i tu'ufa'atasia a'o fa'atumauina le tausisia ma le tulaga saogalemu.",
+        "row3Eyebrow": "Ao, AI & Faamatalaga",
+        "row3Title": "Fa'aopoga o Ao & Fa'amatalaga Fa'amatalaga",
+        "row3P1": "Fa'aaoga le AWS, Azure, ma le GCP, fausia fa'aonaponei fa'amaumauga o paipa, ma fa'apipi'i masini a'oa'oga e fa'atonu ai filifiliga tuto'atasi.",
+        "row3P2": "Mai le taimi moni o mea tutupu e tafe atu i dashboards tu'ufa'atasi, suiga e mafai ona fuaina ma tumau.",
+        "row4Eyebrow": "Aafiaga Tagata Fa'atau",
+        "row4Title": "Omnicchannel Aafiaga Fa'aonaponei",
+        "row4P1": "Toe fa'avasega malaga a tagata fa'atau i luga o upegatafa'ilagi talileleia, iOS, Android, ma faitoto'a tautua a le tagata lava ia ma feso'ota'iga fa'apitoa.",
+        "row4P2": "Fa'ainisinia fa'apolokalame, telemetry, ma fa'agasolo fa'amatalaga fa'aautometi e fa'aauauina ai le fa'afuainumera fou.",
+        "pillarsTitle": "Poutu Liua",
+        "pillarsSub": "Lever e taula'i i taunu'uga e fa'amautinoa ai le gafataulimaina o ta'ita'iga fa'atekinolosi.",
+        "pillar1Title": "Fuafuaga Fa'atekinolosi & Pulega",
+        "pillar1Desc": "Fa'ata'ita'iga suiga fa'asolosolo fa'atasi ma le fa'ata'ita'iina o mataupu fa'apisinisi, fa'atonuga fa'ata'ita'iga, ma le mata'ituina o tulaga lamatia.",
+        "pillar2Title": "Ao & Fa'amaumauga",
+        "pillar2Desc": "AWS/Azure/GCP multi-cloud faavae, paipa otometi, ma fa'atumauina fa'amaumauga o fa'amatalaga tau pisinisi.",
+        "pillar3Title": "AI & Otometi",
+        "pillar3Desc": "Otometi fa'agasologa atamai, su'esu'ega fa'apitoa a le AI, ma le telemetry fa'apitoa e fa'amalieina ai galuega i aso ta'itasi.",
+        "pillar4Title": "Aafiaga Tagata Fa'atau",
+        "pillar4Desc": "Omnicchannel numera tele fa'aliliuga ma feso'ota'iga fa'apitoa e fausia mo le fa'amauina o tagata fa'aoga maualuga.",
+        "ctaTitle": "Sauni e Suia Lau Pisinisi?",
+        "ctaSub": "Fa'apaaga ma Rezonants mo suiga fa'atekinolosi fa'ate'a fa'ate'a fa'aletonu e feso'ota'i i taunu'uga tau pisinisi.",
+        "ctaButton": "Tusia se Valaau Fa'aliliuga Fa'atekinolosi"
+      },
+      "customDevelopment": {
+        "eyebrow": "Inisinia Fa'atekinolosi Fa'ai'u-i-Muli",
+        "titlePart1": "Amataina I",
+        "titlePart2": "Fa'ata'oto",
+        "bookConsultation": "Tusia se Faatalatalanoaga",
+        "exploreEngineering": "Su'esu'e Fofo Inisinia"
+      },
+      "processAutomation": {
+        "eyebrow": "Fa'agaioiga Fa'apotopotoga",
+        "titlePart1": "Fa'agasologa Pisinisi",
+        "titlePart2": "Otometi",
+        "bookDiscovery": "Su'esu'ega Fa'autometi Tusi",
+        "exploreCoE": "Saili le Nofoaga Tutotonu"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Tutotonu o",
+        "titlePart2": "Silisili",
+        "bookConsultation": "Tusi CoE Faatalanoaga",
+        "exploreCapabilities": "Su'esu'e Avanoa"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Fa'atekonolosi Fa'ata'amilosaga Ola",
+        "titlePart1": "I'uga-i-I'uga",
+        "titlePart2": "Fofo Fa'avae",
+        "startJourney": "Amata Lau Malaga Si'osi'omaga",
+        "exploreTransformation": "Saili Suiga"
+      },
+      "migrationServices": {
+        "eyebrow": "Ao & Atina'e Suiga",
+        "titlePart1": "Femalaga'iga &",
+        "titlePart2": "Fa'aonaponei",
+        "planMigration": "Fuafua Lou Malaga",
+        "exploreTransformation": "Saili Suiga"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Fa'amaonia vave & Fa'atino",
+        "titlePart1": "Fa'amaoniga o Manatu (PoC) &",
+        "titlePart2": "Fa'atinoina o Pailate",
+        "initiateDiscovery": "Amata le PoC Discovery",
+        "exploreDevelopment": "Saili Atina'e Fa'asinomaga"
+      },
+      "solutionEngineering": {
+        "badge": "Fa'atonu Fa'ainisinia Fa'atekinolosi",
+        "bookConsultation": "Tusia se Faatalatalanoaga",
+        "exploreCapabilities": "Su'esu'e Avanoa"
+      },
+      "sharedServices": {
+        "eyebrow": "Nofoaga Tutotonu o Galuega",
+        "titlePart1": "Au'aunaga Fa'asoa &",
+        "titlePart2": "Puleaina Galuega",
+        "bookDiscovery": "Su'esu'eina o Galuega Fa'afoe Tusi",
+        "exploreFramework": "Su'esu'e Fofo Fa'avae"
+      }
+    },
+    "coreCapabilities": "Gafatia Autu"
+  },
+  "products": {
+    "featured": "Oloa Fa'apitoa",
+    "featuredSub": "Fa'afaigofie galuega, fa'afeso'ota'i 'au, fa'autometi fa'agaioiga, ma fa'atupuina le fa'atupulaia o pisinisi.",
+    "seeAll": "Va'ai Oloa Uma",
+    "featuredProducts": "O'OGA FA'AVAE",
+    "meetAutonomous": "Feiloai i le Aufaigaluega Tutoatasi",
+    "meetAutonomousText": "Suia au gaioiga ma sui AI o loʻo galulue faʻatasi ma lau 'au e faʻatautaia galuega lavelave, fai soo.",
+    "learnMore": "A'oa'o atili",
+    "erp": {
+      "title": "Tasi Polokalama Sauni mo So'o se Mea",
+      "sub": "Fa'amalosia pisinisi fa'atasi ai, atamai, ma fa'alauteleina fofo tau pulega o atina'e.",
+      "explore": "Saili ERP Fofo",
+      "gridTitle": "FOFOGA ERP",
+      "promoTitle": "Modular ERP mo le Tuputupu ae",
+      "promoText": "Fa'apipi'i fa'ata'ita'iga fa'apitoa a le ERP e aunoa ma le lavelave o faiga masani e tele tausaga.",
+      "scheduleDemo": "Fa'asologa Fa'aaliga"
+    },
+    "it": {
+      "title": "Fofo IT",
+      "sub": "Atina'e tulaga tau pisinisi, saogalemu, ma fofo DevOps e fa'aauau pea lau pisinisi.",
+      "explore": "Su'esu'e Fofo IT",
+      "gridTitle": "IA FOFO",
+      "promoTitle": "Fa'atuatuaina Atina'e IT",
+      "promoText": "Fausia se fa'avae fa'atekonolosi fa'amautu fa'atasi ai ma le fa'atonutonuina o ao, saogalemu, ma auaunaga a le DevOps.",
+      "getStarted": "Amata"
+    },
+    "crm": {
+      "title": "Fofo CRM",
+      "sub": "Pulea so'otaga fa'atau e fa'afaigofie fa'atau, lagolago, ma fa'atauga galuega.",
+      "explore": "Saili CRM Fofo",
+      "gridTitle": "FOFOGA CRM",
+      "promoTitle": "Tapuni Fa'aopoopo Fa'atau",
+      "promoText": "Fa'amalosi au 'au fa'atau ma 'au lagolago fa'atasi ai ma fa'amaumauga tu'ufa'atasi o tagata fa'atau ma fa'aautomatika atamai.",
+      "startTrial": "Amata Tofotofoga Sa'oloto"
+    },
+    "hrms": {
+      "title": "Fofo HRMS",
+      "sub": "Puleaina o tagata faigaluega e aofia ai totogi, fa'afaigaluegaina, fa'atinoga, ma fa'auiga tagata faigaluega.",
+      "explore": "Su'esu'e Fofo HRMS",
+      "gridTitle": "HRMS SOLUTION",
+      "promoTitle": "Fa'afaigofie Galuega a le HR",
+      "promoText": "Fa'autometi galuega a le HR mai le fa'afaigaluegaina e o'o i le litaea fa'atasi ai ma se fa'aonaponei, fa'amuamua tagata faigaluega.",
+      "requestDemo": "Talosaga Fa'aaliga"
+    },
+    "sidebar": {
+      "featuredProducts": "Oloa Fa'apitoa",
+      "erpSolutions": "Fofo ERP",
+      "solutions": "FOFO"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "O so'o fa'apitoa ma mea faigaluega e fa'autometi fa'agasolo galuega lavelave ma galuega fa'atau."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Tele-cloud management platform e sili ona lelei le faatinoga, saogalemu, tausisia, ma tau."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Felagolagoma'i tu'ufa'atasiga ma fa'aolaola fa'atasi ma galuega tu'ufa'atasi, talatalanoaga, ma le fa'atonutonuina o pepa."
+      },
+      "dataStream": {
+        "title": "Fa'amatalaga",
+        "description": "Fa'ainitaneti su'esu'e taimi moni e fa'aliliu ai fa'alavelave fa'apisinisi i fa'amatalaga fa'atino."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Tu'ufa'atasi atina'e fausaga fa'afeso'ota'i tupe, aseta, HR, fa'atau, ma fa'amaumauga."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Fa'ailoga fa'apitoa mo tagata faigaluega e aofia ai totogi, fa'amanuiaga, iloiloga fa'atinoga, ma le tautua a le tagata lava ia."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Su'esu'ega fa'atatau i le taimi moni, fa'agaioiina faleteuoloa, ma le va'aiga o mana'oga."
+      },
+      "financeHub": {
+        "title": "Nofoaga o Tupe",
+        "description": "Fa'atonuga o tusi fa'asili, fa'asologa o pili, otometi le tausisia, ma lipoti o tinoitupe i taimi moni."
+      },
+      "cloudInfrastructure": {
+        "title": "Ao Atina'e",
+        "description": "Fa'ata'ita'iga ao fa'asalaina, femalaga'iga, ma pulega i le AWS, Azure, ma le GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Mata'ituina le saogalemu o le fa'ai'uga, fa'amata'u, ma le fa'atonutonuina o le tausisia."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Paipa",
+        "description": "Otometi CI/CD, containerization, ma infrastructure-as-code mo le vave tu'uina atu."
+      },
+      "managedItServices": {
+        "title": "Puleaina IT Auaunaga",
+        "description": "24/7 mata'ituina o aseta, tali atu i fa'alavelave, ma le fa'aleleia lelei."
+      },
+      "salesCrm": {
+        "title": "Fa'atau CRM",
+        "description": "Puleaina o paipa, fa'ailoga ta'ita'i, su'esu'eina o fefa'ataua'iga, ma va'aiga fa'atau i le tulaga e tasi."
+      },
+      "customerSupportHub": {
+        "title": "Nofoaga Fesoasoani Fesoasoani",
+        "description": "Ticketing, malamalama faavae, talatalanoaga ola, ma omnicchannel lagolago lagolago."
+      },
+      "marketingAutomation": {
+        "title": "Maketi Otometi",
+        "description": "Fa'aupuga fa'asalalauga, fa'auiga imeli, fa'afailele fa'afailele, ma au'ili'ili."
+      },
+      "customer360View": {
+        "title": "Tagata fa'atau 360 Va'aiga",
+        "description": "Fa'amatalaga tu'ufa'atasi a tagata fa'atau e tu'ufa'atasia ai fa'atauga, lagolago, ma fa'amatalaga fegalegaleai."
+      },
+      "coreHr": {
+        "title": "Autu HR",
+        "description": "Fa'amaumauga a le aufaigaluega, org hierarchy, pulega o aso malolo, ma le siakiina o le auai."
+      },
+      "payrollCompliance": {
+        "title": "Totogi & Tausi",
+        "description": "Otometi le fa'agaioiina o totogi, fa'atatauga o lafoga, ma le tausisia o tulafono."
+      },
+      "performanceManagement": {
+        "title": "Pulega o Galuega",
+        "description": "OKR su'esu'e, 360° iloiloga, fa'atulagaina o sini, ma fuafuaga o le atina'eina o tagata faigaluega."
+      },
+      "recruitmentPortal": {
+        "title": "Fa'ailoga Fa'afaigaluega",
+        "description": "Fa'asalalau galuega, tulituliloaina o tagata talosaga, fa'atulagaina o fa'atalanoaga, ma fa'asologa o galuega."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Oloa Fa'apitoa",
+        "heading": "Oloa Fa'apitoa",
+        "sub": "Fa'afaigofie galuega, fa'afeso'ota'i 'au, fa'autometi faiga, ma fa'atupu le fa'atuputeleina o pisinisi.",
+        "promoTitle": "Feiloai i le Aufaigaluega Tutoatasi",
+        "promoText": "Suia au gaioiga ma sui AI o loʻo galulue faʻatasi ma lau 'au e faʻatautaia galuega lavelave, fai soo.",
+        "items": [
+          {
+            "title": "AI Automation & Agents Popoto",
+            "description": "Fa'autometi galuega toe fai ma fa'anofo ai sui atamai AI e fa'aleleia ai le gaosiga, faia o fa'ai'uga, ma taunu'uga tau pisinisi."
+          },
+          {
+            "title": "Au'aunaga IT & Fesoasoani Fa'atekinolosi",
+            "description": "Tuuina atu vave, atamai IT lagolago fa'atasi ai ma le fa'afaigofieina o le pulega o auaunaga, fa'aautomatika, ma fa'asologa o galuega fa'akomepiuta."
+          },
+          {
+            "title": "Pulega AI Pisinisi",
+            "description": "Fausia le fa'ata'ita'iina o AI fa'atasi ma pulega malosi, saogalemu, fa'amalieina, manino, ma fa'atonuga fa'aletonu."
+          },
+          {
+            "title": "Gaoioiga IT Atamai",
+            "description": "Suia fa'agaioiga IT ma le mata'ituina o le AI, fa'aautomatika, fa'amatalaga va'ai, ma le fa'atinoina o fa'afitauli."
+          },
+          {
+            "title": "Pulega o Aafiaga Tagata Fa'atau",
+            "description": "Fausia femalagaiga fa'apitoa mo tagata fa'atau fa'atasi ma le fa'aogaina atamai, fa'autometi, au'ili'ili, ma fa'amatalaga fa'atekinolosi fa'apitoa."
+          },
+          {
+            "title": "Fuafuaga Pisinisi & Fa'atonuga o le Portfolio",
+            "description": "Fa'aoga tupe fa'atekonolosi ma sini fa'apisinisi e fa'asilisili ai fa'amaumauga, fa'aleleia lelei, ma fa'aola le tuputupu a'e gafataulimaina."
+          },
+          {
+            "title": "IT Asset & Technology Lifecycle",
+            "description": "Puleaina aseta IT i lo latou olaga atoa ma sili atu le va'aia, fa'aautomatika, fa'atonutonu tau, ma fuafuaga fa'atekonolosi."
+          },
+          {
+            "title": "Tulaga lamatia ma le tausisia o pisinisi",
+            "description": "Fa'ailoa, iloilo, ma pulea tulaga lamatia o atina'e a'o fa'amalosia le tausisia, fa'atonuga, ma le maufetuuna'i fa'alapotopotoga."
+          },
+          {
+            "title": "Puipuiga i luga ole Initaneti & Fa'amata'u",
+            "description": "Puipui siosiomaga faakomepiuta ma le faʻaalia o le faʻamataʻu faʻamataʻu, faʻagaioiga saogalemu, tali faʻalavelave, ma le mataʻituina pea."
+          },
+          {
+            "title": "Fa'autometi Tagata Faigaluega",
+            "description": "Fa'amanaia 'au fa'ato'aga i fa'atonuga atamai, fe'avea'i fe'avea'i, masini, ma va'aiga fa'atino i taimi moni."
+          },
+          {
+            "title": "Aafiaga o Tagata Faigaluega & Auaunaga a le HR",
+            "description": "Fa'afaigofie 'au'aunaga a tagata faigaluega fa'atasi ai ma faiga fa'akomepiuta, fofo o auaunaga a le tagata lava ia, otometi, ma poto masani a tagata faigaluega."
+          },
+          {
+            "title": "Nofoaga Fa'atekinolosi Fa'atasi",
+            "description": "Fa'afeso'ota'i tagata, fa'agaioiga, talosaga, ma mea faigaluega galulue fa'atasi e ala i se fale faigaluega fa'akomepiuta saogalemu, atamai, ma le fa'aogaina."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Fofo ERP",
+        "heading": "Tasi Fa'avae, Sauni mo So'o se Mea",
+        "sub": "Fa'amalosia pisinisi e feso'ota'i, atamai, ma fa'alauteleina fofo tau pulega.",
+        "promoTitle": "Modular ERP mo le Tuputupu ae",
+        "promoText": "Fa'apipi'i fa'apitoa ERP fa'apitoa e aunoa ma le lavelave o faiga masani e tele tausaga.",
+        "items": [
+          {
+            "title": "Pisinisi Fa'agasologa Otometi",
+            "description": "Fa'afaigofie tupe, HR, fa'atau, fa'atau, ma fa'agaioiga i aso uma."
+          },
+          {
+            "title": "Pulea Pisinisi Tu'ufa'atasi",
+            "description": "Fa'afeso'ota'i matagaluega, fa'amaumauga, ma galuega i luga o se fa'avae tu'ufa'atasi."
+          },
+          {
+            "title": "Tupe & Tausitusi",
+            "description": "Fa'aleleia le va'aia tau tupe, lipoti, paketi, ma le tausisia."
+          },
+          {
+            "title": "HR & Totogi",
+            "description": "Fa'afaigofie le pulega o tagata faigaluega, auai, totogi, ma faiga HR."
+          },
+          {
+            "title": "Puleaina o Sapalai",
+            "description": "Fa'alelei le fa'atauga, fa'atauga, fa'atau, ma mea fa'atau."
+          },
+          {
+            "title": "Fa'atauga & Pulega Fa'atau",
+            "description": "Pulea lelei ta'ita'i, tagata fa'atau, fa'atonuga, ma fa'atauga."
+          },
+          {
+            "title": "Su'esu'ega Taimi Moni & Lipoti",
+            "description": "Su'e fa'amatalaga pisinisi i fa'amatalaga fa'atino mo fa'ai'uga vave."
+          },
+          {
+            "title": "Fofo ERP ao",
+            "description": "Fa'aagaoioi le fa'amanino, fa'alautele, ma mafai ona maua le pulega o atina'e mai so'o se mea."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT Fofo",
+        "heading": "O matou Fofo IT",
+        "sub": "Suia fa'agaioiga IT fa'atasi ai ma fofo fa'atekinolosi atamai, fa'agaoioia, ma fa'alautele e fa'aleleia ai le fa'atinoga, fa'aolaola, ma le fa'aauauina o pisinisi.",
+        "promoTitle": "Fa'atuatuaina Atina'e IT",
+        "promoText": "Fausia se fa'avae fa'atekonolosi fa'amalosi ma fa'atautaia le ao, saogalemu, ma auaunaga DevOps.",
+        "items": [
+          {
+            "title": "Pulega o Auaunaga IT",
+            "description": "Fa'afaigofie auaunaga IT, fa'alavelave, talosaga, ma fa'agasolo galuega mo le vave fa'ai'uga."
+          },
+          {
+            "title": "Fa'afoega o Galuega IT",
+            "description": "Mata'ituina atina'e ma fa'aoga fa'atasi ma fa'agaioiga fa'agaioiga, fa'atautaia fa'amaumauga a le IT."
+          },
+          {
+            "title": "IT Pulea o Aseta",
+            "description": "Pulea lelei aseta fa'atekonolosi a'o fa'aitiitia tau, tulaga lamatia, ma le lavelave o le olaga."
+          },
+          {
+            "title": "Atina'e Atina'e",
+            "description": "Fa'aoga fuafuaga fa'apisinisi ma le fausaga fa'atekonolosi sa'o ma tupe fa'afaigaluega."
+          },
+          {
+            "title": "Pulea Ao",
+            "description": "Fa'aleleia le puipuiga o le ao, tausisia, fa'atinoga, ma le puleaina o tau."
+          },
+          {
+            "title": "Fa'agaioiga Fa'atekinolosi",
+            "description": "Fa'autometi faiga IT ma maua le va'aiga i le taimi tonu i lau si'osi'omaga tekonolosi."
+          },
+          {
+            "title": "Mata'ituina & Mata'ituina",
+            "description": "Su'esu'e vave fa'afitauli fa'atinoga ma fa'atumauina fa'amatalaga fa'atekinolosi fa'atuatuaina."
+          },
+          {
+            "title": "Puleaina o Portfolio Fuafuaga",
+            "description": "Fa'afeso'ota'i tupe fa'afaigaluega IT ma fa'amuamua pisinisi ma taunu'uga fa'atatau."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Fofo CRM",
+        "heading": "O matou Fofo CRM",
+        "sub": "Tuuina atu fa'amatalaga feso'ota'i, fa'apitoa, ma atamai tagata fa'atau i le malaga atoa a tagata fa'atau.",
+        "promoTitle": "Tapuni nisi tau",
+        "promoText": "Fa'amalosia au 'au fa'atau ma au lagolago fa'atasi ai ma fa'amaumauga tu'ufa'atasi o tagata fa'atau ma fa'aautomatika atamai.",
+        "items": [
+          {
+            "title": "Pulega o Auaunaga Fa'atau",
+            "description": "Fa'aleleia le lagolago a tagata fa'atau i fa'ai'uga vave, tautua a le tagata lava ia, ma fa'ata'ita'iga atamai."
+          },
+          {
+            "title": "Fa'atauga Autometi",
+            "description": "Fa'autometi gaioiga fa'atau, pulea ta'ita'i, ma fesoasoani i 'au e tapunia vave avanoa."
+          },
+          {
+            "title": "Fa'atauga ma Fa'atonuga",
+            "description": "Fa'afaigofie le faigamalaga mai le ta'ita'i i le fa'atonu ma fa'aleleia le va'aia o tupe maua."
+          },
+          {
+            "title": "Puleaina o le Auaunaga i le Fanua",
+            "description": "Fa'alelei galuega fa'ato'aga, fa'atulagaina, felauaiga, ma fa'ainisinia gaosiga."
+          },
+          {
+            "title": "Pulega o Aafiaga Tagata Fa'atau",
+            "description": "Fausia ni fa'amatalaga fa'apitoa ma fa'apitoa i so'o se mea fa'atau."
+          },
+          {
+            "title": "CRM Iloiloga & Malamalamaga",
+            "description": "Su'e fa'amaumauga a tagata fa'atau i ni fa'amatalaga fa'atino mo fa'ai'uga fa'atau pisinisi."
+          },
+          {
+            "title": "Maketi Otometi",
+            "description": "Fa'autometi fa'asalalauga, fa'auiga tagata fa'atau, ma ta'ita'i fa'afailele."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Fa'aoga masini atamai ma fa'amatalaga AI e fa'aleleia atili ai le gaosiga ma le fa'aogaina o tagata fa'atau."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Fofo HRMS",
+        "heading": "O matou HRMS Fofo",
+        "sub": "Fa'amalosia lau aufaigaluega i le atamai, tu'ufa'atasia, ma fa'atometi fofo HR e faafaigofie ai le pulega o tagata faigaluega ma faaleleia le poto masani i fale faigaluega.",
+        "promoTitle": "Fa'afaigofie Galuega a le HR",
+        "promoText": "Fa'autometi galuega a le HR mai le fa'afaigaluegaina se'ia o'o i le litaea fa'atasi ai ma se fa'aonaponei, fa'amuamua tagata faigaluega.",
+        "items": [
+          {
+            "title": "Pulea Autu HR",
+            "description": "Pulea lelei fa'amatalaga a tagata faigaluega, fa'atulagaga fa'alāpotopotoga, ma fa'agaioiga a le HR HR."
+          },
+          {
+            "title": "Pulea Totogi",
+            "description": "Fa'autometi totogi, fa'agaioiga o totogi, toesega, ma le tausisia."
+          },
+          {
+            "title": "Auaunaga a le Tagata Faigaluega",
+            "description": "Tuuina atu i tagata faigaluega avanoa faigofie i auaunaga HR, talosaga, pepa, ma faʻamatalaga."
+          },
+          {
+            "title": "Auai & Fa'amavaega",
+            "description": "Fa'afaigofie le su'eina o le 'auai, talosaga mo livi, sifi, ma itula faigaluega."
+          },
+          {
+            "title": "Fa'afaigaluegaina & Fa'aulufaleina",
+            "description": "Fa'afaigofie le fa'afaigaluegaina, pulega o sui, fa'aulufaleina, ma le tu'ufa'atasia o tagata faigaluega."
+          },
+          {
+            "title": "Pulega o Galuega",
+            "description": "Seti sini, siaki le fa'atinoga, ma lagolago le fa'aauauina o tagata faigaluega."
+          },
+          {
+            "title": "A'oa'o & Atina'e",
+            "description": "Puleaina polokalame a'oa'oga, atina'e tomai, ma le fa'atupulaia o tagata faigaluega."
+          },
+          {
+            "title": "HR Iloiloga & Lipoti",
+            "description": "Su'e fa'amaumauga a le aufaigaluega i ni fa'amatalaga fa'atino mo fa'ai'uga lelei a le HR HR."
+          },
+          {
+            "title": "AI-Powered HR Automation",
+            "description": "Fa'autometi galuega fai fai a le HR ma fa'aola vave, fa'apitoa tagata faigaluega."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Atinae o App",
+        "heading": "O matou Au'aunaga Atina'e App",
+        "sub": "Fausia ni fa'aoga mautu, fa'asili, ma maualuga fa'atinoga e fa'avavevave ai le tuputupu a'e o pisinisi ma fa'afaigofie faiga lavelave.",
+        "promoTitle": "Fausia Apps Tagata Fa'aoga Alofa",
+        "promoText": "Mai le manatu i le fa'alauiloa, o la matou 'au e fa'atulagaina ma atia'e tulaga maualuga telefoni feavea'i ma upegatafa'ilagi e fua.",
+        "items": [
+          {
+            "title": "Atinae o Talosaga Fa'apitoa",
+            "description": "Fausia tusi fa'atatau e fa'atatau i au mana'oga fa'apitoa tau pisinisi."
+          },
+          {
+            "title": "Atinae o le Upega Tafa'ilagi & Fe'avea'i",
+            "description": "Tu'u atu fa'amatalaga fa'atekinolosi fa'apitoa i luga o le upega tafa'ilagi, telefoni feavea'i, ma le tele o masini."
+          },
+          {
+            "title": "Atinae o Talosaga Atina'e",
+            "description": "Atia'e fofo fa'alautele e fa'atasi ma au faiga pisinisi o iai."
+          },
+          {
+            "title": "Atina'e Fa'asinomaga Maualalo & Leai se Fa'ailoga",
+            "description": "Fa'avavevave le tu'uina atu o talosaga fa'atasi ai ma fa'atonuga fa'atupuina fa'aletonu maualalo."
+          },
+          {
+            "title": "API & System Integration",
+            "description": "Fa'afeso'ota'i talosaga, fa'avae, ma faiga fa'a-tolu mo le fa'agasolo lelei o fa'amaumauga."
+          },
+          {
+            "title": "Fa'aoga Fa'aonaponei",
+            "description": "Suia fa'aoga talatuu i ni fofo fa'aonaponei, fa'alautele, ma lelei."
+          },
+          {
+            "title": "AI-Powered Applications",
+            "description": "Fa'atasi AI, fa'autometi, ma agava'a atamai i fa'aoga pisinisi."
+          },
+          {
+            "title": "Talosaga Lagolago & Tausiga",
+            "description": "Ia mautinoa le fa'aauau pea o le fa'atinoga, saogalemu, fa'afouga, ma le fa'amaoni."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Otometi Pisinisi\n<",
+    "cloudMigrations": "Ao Femalagaai",
+    "dataCenters": "Nofoaga Autu o Fa'amaumauga",
+    "cognitiveAnalyticsAi": "Su'esu'ega Fa'amatalaga & AI",
+    "informationReportingSystems": "Fa'amatalaga & Lipoti Faiga",
+    "managedServices": "Auaunaga Pulea",
+    "oneStopSolutions": "Fofo e Tasi"
+  },
+  "servicePage": {
+    "serviceOverview": "Au'aunaga Aotelega",
+    "whatWeOffer": "O Le Mea Matou te ofoina atu",
+    "whyChooseRezonants": "Aisea Filifilia Rezonants",
+    "benefitsOfWorking": "Faamanuiaga o le galulue faatasi ma i matou",
+    "techStack": "Tekinolosi Fa'aputuga",
+    "technologiesWeUse": "Tekinolosi matou te fa'aogaina",
+    "ourWork": "O La Tatou Galuega",
+    "relatedProjects": "Galuega fa'atatau",
+    "viewCaseStudy": "Va'ai tulaga su'esu'e",
+    "readyToDiscuss": "Ua sauni e talanoaina lau galuega {{title}}?",
+    "seniorEngineersReady": "Ua sauni a matou inisinia sinia e fesoasoani ia te oe e fuafua, mamanuina, ma fausia lau fofo.",
+    "startProject": "Amata lau poloketi",
+    "howItWorks": "Pe faapefea ona galue"
+  },
+  "consultation": {
+    "badge": "Tusia se Fa'atalanoaga E leai se totogi",
+    "title": "Tatou Fuafua Lau Poloketi <span class='hero-accent'>Fa'atasi</span>",
+    "description": "Fa'atulaga se telefoni e leai se noataga ma matou faufautua. Talanoa i ou manaʻoga, suʻesuʻe le auala faʻapitoa faʻapitoa ma maua se faʻamatalaga manino - uma i lalo ole 30 minute.",
+    "bookSlot": "Tusi lau Slot",
+    "howItWorks": "Fa'afefea ona Gaioiina",
+    "accountRequired": "Teugatupe Manaomia",
+    "signInToBook": "Saini e tusi lau fa'atalanoaga",
+    "accountRequiredText": "E te mana'omia se Rezonants account e talosagaina ai se fa'atalanoaga. Saini i totonu pe fai se tasi - e itiiti ifo ma le minute.",
+    "signInToContinue": "Saini e Fa'aauau",
+    "newToRezonants": "Fou ia Rezonants?",
+    "createAccount": "Fausia se tala",
+    "requestMeeting": "Talosaga mo se Fonotaga",
+    "tellUsAboutProject": "Ta'u mai e uiga i lau Poloketi",
+    "fillDetails": "Faatumu au auiliiliga ma o le a matou faʻamaonia lau avanoa faʻatalanoaga ile imeli.",
+    "fullName": "Igoa Atoa *",
+    "email": "Email *",
+    "phone": "Telefoni *",
+    "company": "Kamupani",
+    "serviceOfInterest": "Auaunaga o Tului *",
+    "selectService": "Filifili se auaunaga…",
+    "preferredDate": "Aso Finagalo *",
+    "preferredTime": "Taimi Fiafia *",
+    "selectTimeSlot": "Filifili se taimi avanoa...",
+    "estimatedBudget": "Tala Faatatau",
+    "selectRange": "Filifili se vaega...",
+    "projectRequirements": "Manaoga Poloketi",
+    "booking": "Fa'atonu...",
+    "bookFreeConsultation": "Tusi La'u Fa'atalanoaga Sa'oloto",
+    "freeNote": "100% leai se totogi ma leai se noataga. E masani ona matou tali atu i totonu ole 24 itula.",
+    "whatToExpect": "O le a le mea e Faamoemoeina",
+    "preferToReachUs": "Mana'o e A'apa Sa'o Mai?",
+    "callUs": "Valaau mai ia i matou",
+    "emailUs": "Email matou",
+    "visitUs": "Asiasi mai ia i matou",
+    "whyBookWithUs": "Aiseā e Tusia Mai Ai",
+    "freeCallTitle": "Ose Valaauga E Saoloto e Fesoasoani Moni",
+    "freeCallNoPressure": "Valaau Sa'oloto, Leai Fa'amalosi",
+    "freeCallNoPressureText": "O fa'atalanoaga muamua uma e leai se totogi. E leai se noataga e faʻatau - naʻo fautuaga faʻamaoni.",
+    "seniorConsultants": "Na'o Faufautua Sinia",
+    "seniorConsultantsText": "O lau fonotaga e ta'ita'ia e inisinia sinia ma faufautua o lo'o fau fale mo se tupe.",
+    "clearTimelines": "Fa'amanino Taimi & Upusii",
+    "clearTimelinesText": "Tu'u ma se la'asaga fa'amatu'u e soso'o mai, fa'asologa o taimi ma tau manino mo lau poloketi.",
+    "services": {
+      "customSoftware": "Atina'e Polokalama Fa'apitoa",
+      "webMobile": "Atinae o le Upega Tafa'ilagi & Fe'avea'i",
+      "cloudDevops": "Ao & DevOps Fofo",
+      "aiMl": "AI & Masini Aoao",
+      "itConsulting": "IT Consulting",
+      "digitalMarketing": "Fa'atauga Fa'atekinolosi & SEO",
+      "erpSolutions": "Fofo ERP",
+      "other": "Isi / E le o mautinoa"
+    },
+    "budgets": {
+      "under1L": "I lalo ole ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "E le'i tonu lava"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Malamalama i au sini",
+        "text": "Tatou faalogo muamua. Se valaau 30-minute e fa'afanua ai au pisinisi mana'oga, au maimoa ma taunu'uga mana'omia."
+      },
+      "technicalDirection": {
+        "title": "Maua fa'atonuga fa'apitoa",
+        "text": "O matou inisinia e fa'asoa le fausaga sa'o, fa'aputu ma auala mo lau poloketi."
+      },
+      "clearQuote": {
+        "title": "Maua se upusii manino",
+        "text": "Savali ese ma se fa'atatau manino, fa'asologa o taimi ma isi la'asaga - e leai se tiute."
+      }
+    },
+    "validation": {
+      "nameRequired": "E mana'omia le igoa atoa.",
+      "emailRequired": "E mana'omia le imeli.",
+      "emailInvalid": "Ulufale se imeli aoga.",
+      "phoneRequired": "E mana'omia le numera telefoni.",
+      "phoneInvalid": "Ulufale se numera telefoni aoga.",
+      "serviceRequired": "Fa'amolemole filifili se tautua.",
+      "dateRequired": "Filifili se aso e fiafia i ai.",
+      "timeRequired": "Filifili se taimi avanoa.",
+      "messageTooShort": "Fa'aopoopo sina fa'amatalaga (a itiiti ifo ma le 10 mataitusi).",
+      "signInRequired": "Fa'amolemole saini e tusi lau fa'atalanoaga.",
+      "couldNotBook": "Le mafai ona tusi lau fa'atalanoaga. Siaki pe o iai le laulau fa'atalanoaga, ona toe taumafai lea.",
+      "bookedSuccess": "Fa'atalanoaga tusi! O le a fa'amaonia e le matou 'au lou taimi avanoa e ala ile imeli i se taimi lata mai."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Afio Mai",
+    "createAccount": "Fausia Tala",
+    "forgotPassword": "Ua galo le upu faataga",
+    "createNewPassword": "Fausia upu fou",
+    "welcomeBackDesc": "Saini i lau Rezonants account.",
+    "createAccountDesc": "Auai Rezonants i aso nei.",
+    "forgotDesc": "Ulufale lau imeli ma o le a matou tuʻuina atu ia te oe se fesoʻotaʻiga e toe setiina ai lau faʻaupuga.",
+    "recoveryDesc": "Filifili se upu fou malosi mo lau teugatupe.",
+    "fullName": "Igoa atoa",
+    "email": "imeli",
+    "password": "Upu upu",
+    "newPassword": "Upu Fou",
+    "confirmPassword": "Fa'amautu upu fa'aoga",
+    "confirmNewPassword": "Fa'amautu upu fou",
+    "forgotPasswordLink": "Ua galo le upu faataga?",
+    "privacyPolicy": "Ou te talia le Rezonants <1>Privacy & Security</1> policy.",
+    "sendResetLink": "Auina Toe Seti So'oga",
+    "signIn": "Saini i totonu",
+    "signUp": "Saini",
+    "pleaseWait": "Fa'atalitali...",
+    "rememberedPassword": "Manatua lau fa'aupuga?",
+    "signInLink": "Saini i totonu",
+    "noAccount": "E leai sau tala?",
+    "signUpLink": "Saini",
+    "hasAccount": "Ua uma ona iai sau tala?",
+    "changedMind": "Suia lou mafaufau?",
+    "backToSignIn": "Toe fo'i e saini i totonu",
+    "resetSent": "Ua auina atu le sootaga toe setiina o upu! Siaki lau imeli e fai ai sau uputatala fou.",
+    "passwordUpdated": "Ua toe faafou lau upu faataga. Saini i totonu ma lau upu faataga fou.",
+    "accountCreated": "Fausia tala! Siaki lau imeli e faʻamaonia ai lau saini, ona saini lea.",
+    "validation": {
+      "fullNameRequired": "E mana'omia le igoa atoa.",
+      "emailRequired": "E mana'omia le imeli.",
+      "emailInvalid": "Ulufale se imeli aoga.",
+      "passwordRequired": "E mana'omia le upu fa'aoga.",
+      "passwordMinLength": "O le upu faataga e tatau ona le itiiti ifo ma le 6 mataitusi.",
+      "passwordsNoMatch": "O upu e le fetaui.",
+      "acceptTerms": "Fa'amolemole talia le Rezonants Privacy Policy ma le Saogalemu Fa'avae e fa'aauau."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Talanoa ma Rezonants AI",
+    "openChatLabel": "Tatala le talanoaga Rezonants AI Fesoasoani",
+    "chatTitle": "Rezonants AI Fesoasoani",
+    "online": "Initaneti",
+    "expandLabel": "Fa'alautele le chatbot",
+    "minimizeLabel": "Fa'aititia le chatbot",
+    "closeLabel": "Tapuni le chatbot",
+    "expand": "Faalautele",
+    "minimize": "Fa'aitiiti",
+    "close": "Tapuni",
+    "popularTopics": "Autu lauiloa",
+    "askPlaceholder": "Fesili mai e uiga ia Rezonants...",
+    "messageLabel": "Feau le Rezonants AI Fesoasoani",
+    "sendLabel": "Auina atu le fe'au",
+    "sendTitle": "Auina atu le fe'au",
+    "enterToSend": "Ulufale e lafo · Shift+Enter mo se laina fou",
+    "newChat": "Talatala fou",
+    "typing": "Rezonants AI o lo'o taina",
+    "menuOptions": "Filifiliga lisi",
+    "greetingMorning": "Taeao manuia",
+    "greetingAfternoon": "Manuia le aoauli",
+    "greetingEvening": "Manuia le afiafi",
+    "welcomeText": "! 👋 Fa'afeiloa'i ile Rezonants.\nO aʻu o le Rezonants AI Fesoasoani. E mafai ona ou fesoasoani ia te oe e su'esu'e a matou au'aunaga, tekinolosi, ma fa'amatalaga fa'afeso'ota'i."
+  },
+  "cookieConsent": {
+    "title": "Matou te fa'atauaina lou fa'alilolilo",
+    "description": "Matou te fa'aogaina kuki e fa'aleleia atili ai lau su'esu'ega. E mafai ona e talia kuki uma, teena kuki e le taua, pe fa'avasega au mea e te mana'o iai. O kuki taua e fa'aagaaga pea e fa'amautinoa ai o lo'o fa'agaoioi lelei le upega tafa'ilagi.",
+    "acceptAll": "Talia Uma",
+    "rejectNonEssential": "Tete'e le Taua",
+    "managePreferences": "Puleaina Manatu",
+    "privacyPolicy": "Faiga Fa'alilolilo"
+  },
+  "cookiePreferences": {
+    "title": "Pulea Faiga Kuki",
+    "description": "Filifili po o fea vaega o kuki e te faatagaina. O lo'o tumau pea le fa'aogaina o kuki taua e fa'aauau ai le fa'aogaina o le upega tafa'ilagi.",
+    "essential": "Taua",
+    "essentialDesc": "Manaomia mo le 'upega tafaʻilagi e faʻatino (faʻamaoni, saogalemu, paleni uta). E le mafai ona fa'agata.",
+    "analytics": "Iloiloga",
+    "analyticsDesc": "Fesoasoani mai ia matou malamalama pe fa'afefea ona fa'aogaina e tagata asiasi le saite ina ia mafai ai ona matou fa'aleleia. Ua le atoatoa ona o le faaletonu.",
+    "marketing": "Maketi",
+    "marketingDesc": "Fa'aaoga e fa'aali atu ia te oe ofo talafeagai ma fa'asalalauga. Ua le atoatoa ona o le faaletonu.",
+    "cancel": "Fa'aleaogaina",
+    "savePreferences": "Faasaoina Manatu"
+  },
+  "privacy": {
+    "badge": "Tulafono",
+    "title": "Faiga Fa'alilolilo",
+    "description": "Fa'afefea ona aoina, fa'aoga, ma puipuia e Rezonants au fa'amatalaga patino ma kuki.",
+    "lastUpdated": "Fa'afouga mulimuli: Aukuso 2026",
+    "managingPreferences": "Puleaina o ou mana'oga",
+    "managingPreferencesDesc": "E mafai ona e toe iloilo pe sui po'o fea kuki e te fa'atagaina i so'o se taimi mai le fa'aputuga o le kuki.",
+    "manageCookiePreferences": "Pulea Faiga Kuki",
+    "section1": {
+      "title": "1. Faamatalaga Matou te Aoina",
+      "body": [
+        "Matou te aoina faʻamatalaga e te tuʻuina saʻo (e pei o lou igoa ma lou tuatusi imeli pe a e tuʻuina atu le fomu faʻafesoʻotaʻi poʻo le fatuina o se teugatupe) ma faʻamatalaga e otometi lava ona aoina e ala i kuki ma tekinolosi tutusa, e pei o itulau na asia, ituaiga masini ma nofoaga faʻatatau."
+      ]
+    },
+    "section2": {
+      "title": "2. Fa'afefea ona Tatou Fa'aaoga Kuki",
+      "body": [
+        "E fa'aaga pea kuki taua ona e le mafai ona fa'aoga sa'o le upegatafa'ilagi e aunoa ma ia. Latou te teuina le sauniga ma le tulaga faʻamaonia ma manatua au kuki e fiafia i ai.",
+        "Analytics kuki e fesoasoani ia i matou e malamalama i le auala e faʻaogaina ai e tagata asiasi le saite ina ia mafai ona matou faʻaleleia. E fa'aogaina kuki fa'atauga e fa'aali atu ai ia te oe ofo talafeagai ma fa'asalalauga. O nei vaega e na'o lau fa'atagaga e mafai ai ma e mafai ona suia i so'o se taimi mai le laulau e fiafia i ai kuki."
+      ]
+    },
+    "section3": {
+      "title": "3. Fa'avae Tulafono (GDPR)",
+      "body": [
+        "Matou te fa'agasolo fa'amatalaga patino i luga o fa'avae fa'aletulafono nei: o lau fa'atagaga (mo kuki e le taua ma le maketiina), fa'atinoga o se konekarate (mo au'aunaga e te mana'o ai), noataga fa'aletulafono, ma aia tatau pe a le fa'amalo e au aia tatau. E mafai ona e faaui i tua le maliega i soo se taimi e aunoa ma le aafia ai o le tulafono o le faagasologa e faia a o lei faaui i tua."
+      ]
+    },
+    "section4": {
+      "title": "4. O Au Aia Tatau",
+      "body": [
+        "Fa'alagolago i lou nofoaga, atonu e iai sau aia tatau e maua ai, fa'asa'o, tape, pe fa'atapula'aina le fa'agaioiina o au fa'amatalaga patino, e tete'e ai i le fa'agaioiina, ma le feavea'iina o fa'amaumauga. E mafai fo'i ona e tu'uina atu sau fa'aseā i lau pulega fa'apitonu'u."
+      ]
+    },
+    "section5": {
+      "title": "5. Fa'amauina ma Puipuiga",
+      "body": [
+        "Matou te taofia fa'amatalaga patino i le umi e mana'omia mo fa'amoemoega o lo'o fa'amatalaina i lenei faiga fa'avae. Matou te fa'aogaina faiga fa'atekinisi ma fa'alāpotopotoga talafeagai e puipuia ai au fa'amatalaga mai le fa'atagaina e le fa'atagaina, suiga, fa'aalia po'o le fa'aleagaina."
+      ]
+    },
+    "section6": {
+      "title": "6. Auaunaga Vaega Tolu",
+      "body": [
+        "O nisi kuki e mafai ona fa'atulaga e isi vaega e tu'uina atu (e pei o au'ili'ili po'o fa'asalalauga fa'asalalauga) e fesoasoani ia i matou i le fa'agaioia o le upega tafa'ilagi. O lo'o tu'uina atu fa'amatalaga fa'amatalaga i lalo oa latou lava faiga fa'alilolilo fa'alilolilo ma na'o le taimi na e fa'atagaina ai le vaega talafeagai."
+      ]
+    },
+    "contactUs": "7. Fa'afeso'ota'i matou",
+    "contactUsText": "Mo fesili e uiga i lenei faiga fa'avae po'o au fa'amatalaga patino, fa'afeso'ota'i i matou ile <1>info@rezonants.com</1> pe telefoni <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Auaunaga",
+    "title": "O La matou Auaunaga",
+    "sub": "Fofo fa'atekonolosi fa'ai'u i le pito ua fuafuaina e fesoasoani i pisinisi e fa'afou, fua, ma manuia.",
+    "learnMore": "Aoao atili",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Amataina i le Fa'asoa",
+        "text": "Mai le manatu muamua i le fa'atinoina o le gaosiga, matou te tu'uina atu fofo fa'alautele ua fausia mo mana'oga fa'apisinisi i le lalolagi moni."
+      },
+      "businessProcessAutomation": {
+        "title": "Pisinisi Fa'agasologa Otometi",
+        "text": "Fa'afaigofie faiga faifaipea ma fa'aleleia atili le fa'atinoina o galuega e ala i le poto fa'ainisinia pisinisi."
+      },
+      "centerOfExcellence": {
+        "title": "Nofoaga Tutotonu",
+        "text": "Fausia tomai fa'atekonolosi fa'apitoa ma tomai e fa'aosoina ai le fa'afouga, lelei, ma le fa'aleleia atili."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Atina'e Fa'asinomaga & Fa'asinomaga",
+        "text": "Fofo fa'akomepiuta fa'atulagaina e fa'atatau i au mana'oga fa'apitoa fa'apisinisi ma galuega."
+      },
+      "digitalTransformation": {
+        "title": "Suiga Numera",
+        "text": "Fa'aonaponei lau pisinisi i fuafuaga fa'atekinolosi, tekonolosi, ma fofo e fa'atupuina ai le a'afiaga."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Ta'iala Fa'ai'uga Fa'ai'uga",
+        "text": "Fofo fa'atekonolosi tu'ufa'atasi e feso'ota'i ai fuafuaga, atina'e, fa'atinoga, ma fa'agaioiga fa'aauau."
+      },
+      "migrationModernization": {
+        "title": "Femalaga'iga & Fa'aonaponei",
+        "text": "Fa'aonaponei fa'aoga tu'ufa'atasi ma femalaga'i faiga i tulaga fa'alautele, malupuipuia, ma lelei fa'atekonolosi."
+      },
+      "pocPilotImplementation": {
+        "title": "Fa'amaoniga o Manatu (PoC) & Fa'atinoga Fa'ata'ita'i",
+        "text": "Fa'amaonia vave manatu e ala i fa'ata'ita'iga taula'i ma fa'ata'ita'iga pailate a'o le'i fa'atinoina atoa."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Au'aunaga Fetufa'i & Puleaina Fa'agaioiga",
+        "text": "Fa'atuatuaina fa'atautaia fa'atekonolosi fa'agaioiga e fa'aleleia ai le fa'atinoga, fa'alautele, ma le fa'aauauina o pisinisi."
+      }
+    }
+  },
+  "footer": {
+    "company": "Kamupani",
+    "about": "E uiga i",
+    "perspectives": "Vaaiga",
+    "technologies": "Tekinolosi",
+    "contact": "Fa'afeso'ota'i",
+    "services": "Auaunaga",
+    "getInTouch": "Fa'afeso'ota'i",
+    "bookConsultation": "Tusi se fa'atalanoaga",
+    "copyright": "© {{year}} Rezonants. Ua taofia aia tatau uma.",
+    "cookiePreferences": "Filifiliga Kuki",
+    "privacyPolicy": "Faiga Fa'alilolilo",
+    "description": "Rezonants o se kamupani IT auaunaga ma oloa numera i Hyderabad, Initia. Matou te mamanuina, fausia ma fua polokalame mo kamupani o loʻo tauva i le faʻataunuʻuina.",
+    "locations": "O Tatou Nofoaga",
+    "indiaHq": "Hyderabad, Initia — Initia Ulufale",
+    "southAfrica": "Aferika i Saute — REZONANTS PVT LTD",
+    "products": "Oloa",
+    "followUs": "Mulimuli mai ia i matou",
+    "aboutUs": "E uiga ia i matou",
+    "contactUs": "Fa'afeso'ota'i matou",
+    "headline": "Tatou fausia",
+    "headlineAccent": "o le ā le isi mea.",
+    "subheadline": "Fa'apaaga ma Rezonants e fa'aliliu manatu i ni aafiaga moni fa'apisinisi.",
+    "credoIdeas": "MANATU",
+    "credoSolutions": "FOFO",
+    "credoPeople": "TAGATA",
+    "credoBrighterTomorrow": "O TAEAE LELEI LELEI",
+    "hyderabadLocation": "Hyderabad, Initia",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Aferika i Saute – REZONANTS PVT LTD",
+    "termsOfUse": "Tuutuuga o le Fa'aaogaina",
+    "accessibility": "Avanoa",
+    "quickLinks": "So'oga vave",
+    "explore": "Su'esu'e",
+    "vijayawadaOffice": "Ofisa Vijayawada",
+    "allRightsReserved": "Ua taofia aia tatau uma.",
+    "hyderabadPin": "Hyderabad, Initia",
+    "southAfricaPin": "Aferika i Saute"
+  },
+  "common": {
+    "loading": "Uuna...",
+    "error": "Sese",
+    "retry": "Toe taumafai",
+    "close": "Tapuni",
+    "backToTop": "Toe fo'i i luga",
+    "skipToContent": "Fa'ase'e i mataupu",
+    "scroll": "Tusitala",
+    "whatWeOffer": "O Mea Matou te ofoina atu",
+    "howItWorks": "Auala e Galulue ai"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Su'e le atunu'u po'o le code...",
+    "noResults": "Leai se atunuu na maua.",
+    "countryCodeLabel": "Fa'ailoga telefoni",
+    "required": "E mana'omia le numera telefoni.",
+    "incomplete": "Ole numera ole telefoni e tatau ona iai tonu lava {{count}} numera.",
+    "tooLong": "Ole numera ole telefoni e le mafai ona sili atu ile {{count}} numera.",
+    "invalid": "Ulufale se numera telefoni aoga mo {{country}}."
+  },
+  "perspectives": {
+    "topic": "Autu:",
+    "published": "Lolomiina:",
+    "readingTime": "Taimi Faitau:",
+    "author": "Tusitala:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Vaega Tekonolosi",
+    "purpose": "Faamoemoega",
+    "talkToExperts": "Talanoa i o Tatou Tagata Popoto",
+    "viewAll": "Va'ai Va'aiga Uma",
+    "exploreMore": "SA'ILI'E ATILI VAA'IGA",
+    "continueExploring": "Fa'aauau Su'esu'ega Fa'atekonolosi Fa'amatalaga",
+    "readPerspective": "Faitau Vaaiga"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotics Fofo",
+      "tagline": "Tekinolosi Atamai. Fa'agaio'iga Fa'autometi. Pisinisi Matagofie.",
+      "heroBadge": "Faiga Tutoatasi Atamai",
+      "overview": [
+        "Artificial Intelligence ma Robotics o loʻo suia le auala e faʻagaioi ai faʻalapotopotoga, fai filifiliga, ma tuʻuina atu le tau. O a matou AI & Robotics fofo e fesoasoani i pisinisi e agai i tua atu o masini masani e ala i le tuʻufaʻatasia o le atamai faʻapitoa, aʻoaʻoga masini, vaʻaiga komepiuta, faʻagasologa atamai faʻagasologa, ma robotics e foia ai luitau faʻatino pisinisi.",
+        "Matou te mamanuina ni fofo atamai e uiga i taunuuga tau pisinisi. Pe o le manaʻoga o le faʻaaogaina o galuega faifaipea, suʻesuʻeina le tele o voluma o faʻamatalaga, suʻesuʻeina o mamanu, lagolago filifiliga, poʻo le faʻaofiina o robotics i totonu o siosiomaga faʻaogaina, o la matou auala e taulaʻi i le faʻatuatuaina, faʻalauteleina, saogalemu, ma le umi o tau pisinisi."
+      ],
+      "transformation": [
+        "O fa'alāpotopotoga fa'aonaponei latou te fa'atupuina le tele o fa'amaumauga ma fa'atino le afe ma afe o gaioiga fai soo i aso uma. AI ma robotics e mafai ona suia nei gaioiga i le atamai, otometi galuega faʻaleleia e faʻaleleia ai le gaosiga aʻo faʻatagaina tagata faigaluega e taulaʻi atu i tiute maualuga-taua.",
+        "O a matou fofo e mafai ona fesoasoani i faʻalapotopotoga e faʻatometi le faʻaogaina o gaioiga, faʻaitiitia le faʻaogaina o le tusi, faʻaleleia le saʻo, iloilo faʻamatalaga lavelave, lagolago vave faʻaiʻuga, faʻaogaina le faʻaogaina o punaoa, faʻaleleia le poto masani a tagata faatau, ma fausia faiga faʻapitoa."
+      ],
+      "capabilities": [
+        {
+          "title": "Fa'ata'ita'i",
+          "desc": "Matou te atia'e ni fofo fa'avae AI e mafai ai e faiga ona malamalama i fa'amatalaga, fa'ailoa fa'ata'ita'iga, fa'atupuina fa'amatalaga, ma lagolagoina fa'ai'uga pisinisi."
+        },
+        {
+          "title": "Aoaoga masini",
+          "desc": "Matou te atia'e ni fa'ata'ita'iga a'oa'oga masini mo le va'aiga, fa'avasegaina, faiga fa'atonu, su'esu'ega fa'aletonu, su'esu'ega va'ai, ma le lagolago atamai."
+        },
+        {
+          "title": "Gagana Faanatura",
+          "desc": "E mafai ona fa'aoga le NLP e fa'agasolo ai pepa, malamalama i tusitusiga, fa'avasega fa'amatalaga, fa'asolo mai mea talafeagai, ma lagolago ai fa'atalanoaga."
+        },
+        {
+          "title": "Vaaiga Faakomepiuta",
+          "desc": "O fofo faʻamatalaga komepiuta e mafai ona lagolagoina le faʻavasegaina o ata, suʻesuʻeina o mea faitino, suʻesuʻega lelei, faʻasologa o pepa, mataʻituina vaʻaia, ma auiliiliga vitio."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotics e tu'ufa'atasia le atamai fa'akomepiuta ma faiga fa'aletino e fa'autometi ai gaioiga e masani ona mana'omia ai taumafaiga fa'ata'ita'i. O talosaga e mafai ona aofia ai le gaosiga, logistics, fale teu oloa, asiasiga, fa'aogaina o meafaitino, ma le lagolago fa'atino."
+        },
+        {
+          "title": "Otometi Fa'agasologa Atamai",
+          "desc": "AI e mafai ona tuʻufaʻatasia ma le faʻaogaina o masini e fai ai faiga e faʻamatalaina ai faʻamatalaga, faʻaoga tulafono faʻapisinisi poʻo faʻataʻitaʻiga, ma amata otometi le faagasologa talafeagai."
+        }
+      ],
+      "lifecycleSteps": [
+        "Iloiloga Pisinisi",
+        "Su'esu'ega Fa'amatalaga",
+        "AI Fuafuaga",
+        "Fofo Fausia",
+        "Atinae",
+        "Tuufaatasi",
+        "Tofotofoga",
+        "Fa'ata'oto",
+        "Mataitu",
+        "Fa'atonuga"
+      ],
+      "benefits": [
+        "Maua maualuga le gaosiga o galuega tau atina'e",
+        "Fa'aitiitiga tele o tau o galuega",
+        "Fa'agaioiga vave ma fa'ai'uga fa'ai'uga millisecond",
+        "Fa'aleleia fa'amaumauga ma le sa'o lelei o galuega",
+        "Fa'atonuina le fa'aogaina o puna'oa fa'aletino ma fa'akomepiuta",
+        "Fa'aiti'itia tulaga lamatia o galuega ma mea sese a tagata",
+        "Le fa'aogaina tele-tulaga fa'alautele",
+        "Fa'aleleia le poto masani o tagata fa'atau ma tagata faigaluega"
+      ],
+      "security": "E tatau ona mamanuina fofo AI pisinisi ma le puipuiga talafeagai, faʻatonutonu avanoa, puipuiga o faʻamatalaga, mataʻituina, faʻataʻitaʻiga pulega, ma puipuiga o galuega. Matou te mafaufau i nei manaʻoga mai le fausaga fausaga e ala i le faʻapipiʻiina ma le faʻaauau pea o le tausiga ina ia mautinoa le faʻatuatuaina, faʻataʻitaʻiga-grade atamai.",
+      "ctaHeadline": "Fausia se Lumana'i Atamai",
+      "ctaSub": "Fa'apoto au gaioiga. Otometi mea e taua. Fausia mo le lumanaʻi."
+    },
+    "business-automation-solutions": {
+      "title": "Pisinisi Fa'atosina Fofo",
+      "tagline": "Fa'afaigofie Fa'agasologa. Aveese le Tautu. Faavave le Tuputupu ae.",
+      "heroBadge": "Fa'ai'u i le Fa'ai'uga Fa'atonuga o Galuega",
+      "overview": [
+        "Otometi Pisinisi e mafai ai e fa'alapotopotoga ona sui galuega fa'aauau tusi lesona ma fa'amanino fa'akomepiuta workflows. O a matou pisinisi fa'atosina fofo e fesoasoani i kamupani e fa'aleleia le gaosiga, fa'aitiitia le lavelave o galuega, fa'aitiitia mea sese, ma fa'atupu fa'agasologa faifai pea i matagaluega.",
+        "Matou te au'ili'ili galuega o lo'o i ai, fa'ailoa fagufagu, ma fa'ata'ita'i fofo fa'aautomatika e feso'ota'i ai tagata, talosaga, fa'amaumauga, ma faiga fa'apisinisi."
+      ],
+      "transformation": [
+        "O le tele o fa'alapotopotoga o lo'o fa'alagolago pea i ripoti, imeli, fa'atagaga tusi, fa'asologa o fa'amaumauga, fa'afoeina o pepa, ma tusi talosaga ua motusia. O nei faiga e fa'aalu ai taimi taua o tagata faigaluega ma e mafai ona fa'ailoa mai le tuai, le fetaui, ma mea sese.",
+        "O la matou faiga fa'autometi e taula'i i le malamalama i le fa'agasologa atoa, fa'ate'aina o la'asaga e le mana'omia, tu'ufa'atasia faiga, ma fa'autometi gaioiga e maua ai le tau sili ona lelei."
+      ],
+      "capabilities": [
+        {
+          "title": "Otometi o Galuega",
+          "desc": "Matou te fa'autometi fa'agasolo la'asaga e tele e aofia ai tagata faigaluega, talosaga, fa'atagaga, fa'amatalaga, ma fa'amaumauga i matagaluega eseese."
+        },
+        {
+          "title": "Otometi Fa'agasologa o Robotic",
+          "desc": "Software bots e mafai ona faʻatinoina faʻaauau, faʻavae tulafono faʻavae e pei o faʻamaumauga o faʻamaumauga, faʻafouina faiga, faʻaleleia, ma faʻamatalaga faʻamatalaga."
+        },
+        {
+          "title": "Otometi Pepa",
+          "desc": "E mafai ona maua mai fa'amatalaga fa'amatalaga, fa'amaonia fa'amaumauga, fa'avasega pepa, talosaga i auala, ma amata fa'agasolo i lalo."
+        },
+        {
+          "title": "Fa'atagaina otometi",
+          "desc": "Fa'afuainumera fa'atagaga o galuega e otometi ona fa'asolo atu talosaga i le au fai fa'ai'uga sa'o ma maua ai le va'aiga moni i taimi o lo'o fa'atali."
+        },
+        {
+          "title": "Tu'ufa'atasi Otometi",
+          "desc": "Matou te fa'afeso'ota'i talosaga fa'apisinisi ina ia mafai ai ona fa'asolo fa'amatalaga fa'amatalaga i le va o fa'avae e aunoa ma le fa'aogaina o le tusi lesona."
+        },
+        {
+          "title": "Fa'asilasilaga Fa'asilasilaga",
+          "desc": "O fa'aliga fa'autometi ma fa'amatalaga e fesoasoani i tagata faigaluega e tali vave atu i mea taua, taimi fa'agata, tuusaunoaga, ma suiga o galuega."
+        }
+      ],
+      "lifecycleSteps": [
+        "Iloa",
+        "Iloilo",
+        "Fuafuaga",
+        "Otometi",
+        "Fa'atasi",
+        "Su'ega",
+        "Fa'ata'atia",
+        "Mataitu",
+        "Fa'alelei"
+      ],
+      "benefits": [
+        "Fa'ateleina le fa'aogaina o le 'au ma le saoasaoa o galuega",
+        "Fa'aiti'itia fa'aitiitiga sese fa'amaumauga tusi lesona",
+        "Fa'apu'upu'u taimi fa'a'au'au fa'asolosolo",
+        "Va'aia fa'atasi i galuega fa'apisinisi",
+        "Fa'ata'ita'i fa'atulafonoina a le matagaluega",
+        "Fa'aitiitia tele tupe fa'aalu",
+        "E mafai ona fa'asa'o e fa'afua ai le mamafa o galuega",
+        "O 'au fa'amalosia e taula'i atu i le fa'aogaina o tagata fa'atau ma galuega fa'ata'atia"
+      ],
+      "security": "Matou te tu'ufa'atasia fa'asologa o galuega ma le RPA fa'atasi ai ma fa'ata'ita'iga fa'ata'ita'i fa'ata'ita'i e fa'amautinoa ai le fa'atonutonuina o avanoa e fa'atatau i matafaioi, ala su'e su'e atoatoa, ma le tausisia atoatoa i fefa'atauaiga fa'aautomatika uma.",
+      "ctaHeadline": "Fausia Faagaoioiga Sili atu",
+      "ctaSub": "Otometi galuega fai soo. Fa'amalosia ou tagata. Faatelevave lau pisinisi."
+    },
+    "cloud-migration-solutions": {
+      "title": "Fofo o Femalaga'iga i Ao",
+      "tagline": "Alu i le Ao ma le Fa'atuatuaina.",
+      "heroBadge": "Suiga Ao Tele",
+      "overview": [
+        "Ua avea le Cloud computing ma vaega taua o atina'e IT fa'aonaponei. O loʻo faʻanofoina e faʻalapotopotoga talosaga, faʻamaumauga, galuega, ma atinaʻe i siosiomaga ao e faʻaleleia ai le faʻalauteleina, avanoa, fetuutuunai, ma le faʻaogaina lelei.",
+        "O a matou 'au'aunaga femalaga'iga ao fesoasoani i fa'alapotopotoga e iloilo a latou si'osi'omaga o lo'o i ai nei, fa'amatala fuafuaga o femalagaiga, fa'atino femalagaiga, ma fa'amalieina le mamafa o galuega pe a uma ona latou si'itia i le ao."
+      ],
+      "transformation": [
+        "O le femalagaiga o ao e sili atu nai lo le faʻanofoina o sapalai mai le tasi siosiomaga i le isi. O se femalagaiga manuia e manaʻomia ai le suʻesuʻeina ma le totoa o talosaga, atinaʻe, faʻalagolago, manaʻoga saogalemu, faʻamaumauga, faʻatinoga, avanoa, ma faʻaauau pisinisi.",
+        "Matou te faia ni fuafuaga mo femalagaiga e faʻavae i luga o le siʻosiʻomaga o loʻo i ai nei ma faʻamoemoega o le lumanaʻi a le faʻalapotopotoga, filifili le mamanu talafeagai o femalagaiga mo galuega taʻitasi."
+      ],
+      "capabilities": [
+        {
+          "title": "Aseta Femalaga'iga",
+          "desc": "Matou te femalaga'i 'au'aunaga fa'aleaganu'u, teuina, masini fa'apitoa, ma galuega mamafa i si'osi'omaga ao fa'aonaponei i luga o le AWS, Azure, ma le GCP."
+        },
+        {
+          "title": "Talosaga Femalagaiga",
+          "desc": "O talosaga e mafai ona toe fa'afeiloa'i, toe fa'afouina, toe fa'afo'i, pe toe fa'atulagaina e fa'atatau i pisinisi ma mana'oga fa'apitoa."
+        },
+        {
+          "title": "Fa'amatalaga Fa'amatalaga",
+          "desc": "Matou te femalaga'i fa'amaumauga a'o iloiloina le fa'amaoni o fa'amaumauga, fa'atinoga, fetaui, avanoa, saogalemu, ma mana'oga toe fa'aleleia."
+        },
+        {
+          "title": "Fa'aonaponei Ao",
+          "desc": "Ua avea le femalaga'iga ma avanoa e fa'aonaponei ai talosaga e fa'aoga ai koneteina, microservices, fa'atautaia fa'amaumauga, 'au'aunaga e leai ni 'au'aunaga, ma fa'atūlaga fa'a-ao."
+        },
+        {
+          "title": "Ao fa'asoesa",
+          "desc": "O fa'alāpotopotoga e mana'omia uma i luga ole fale ma atina'e ao e mafai ona fa'aogaina fausaga fa'atosina e fa'afeso'ota'i lelei faiga o iai ma auaunaga ao."
+        },
+        {
+          "title": "Ao tele",
+          "desc": "Mo fa'alāpotopotoga o lo'o fa'agaoioia i luga o le tele o ao fa'avae, matou te fesoasoani i le fa'atulagaina o ta'iala tau galuega e fa'aleleia atili ai le fetuutuuna'i, maufetuuna'i, ma pulega."
+        }
+      ],
+      "lifecycleSteps": [
+        "Iloiloga",
+        "Maua",
+        "Fa'atatauga Fa'atatau",
+        "Fuafuaga o Femalagaaiga",
+        "Fuafuaga Fa'ata",
+        "Va'aiga pailate",
+        "Fa'amatalaga Fa'amatalaga",
+        "Talosaga Femalagaiga",
+        "Su'ega",
+        "Oloa Femalaga'iga",
+        "Fa'atonuga"
+      ],
+      "benefits": [
+        "Fa'asa'o fa'alelei ma maualuga le maua o punaoa",
+        "Sili atu atina'e fetu'utu'una'i ma fa'atauva'a pisinisi",
+        "Ave'esea le avega o le tausiga o nofoaga autu o fa'amaumauga",
+        "Fa'atosinaina le fa'atinoina o le fa'atinoga",
+        "Malosi o fa'alavelave fa'afuase'i ma fa'asao fa'asao",
+        "Avanoa vave ile ao fa'aonaponei AI ma auaunaga fa'afoe",
+        "Fa'ata'ita'iina pulega a le FinOps ma fa'aitiitiga TCO",
+        "Fa'aauauina le tausisia ma fa'aautomatisa puipui puipui"
+      ],
+      "security": "O le saogalemu o se vaega taua o fuafuaga mo femalagaiga. Matou te mafaufau i le faʻasinomaga ma le faʻaogaina o le pulega, puipuiga o fesoʻotaʻiga, faʻailoga i totonu o femalagaiga ma le malolo, puipuiga o faʻamatalaga, suʻega faʻaletonu o talosaga, mataʻituina, faʻamaumauga, ma le toe faʻaleleia o faʻalavelave.",
+      "ctaHeadline": "Lau Malaga i Ao, Fuafua Lelei",
+      "ctaSub": "Fa'aonaponei au atina'e. Faatelevaveina mea fou. Fausia se fa'avae ao fa'alautele."
+    },
+    "data-center-solutions": {
+      "title": "Fa'amatalaga Nofoaga Autu",
+      "tagline": "Atina'e Fa'atuatuaina mo Fa'agaio'iga Fa'atauva'a.",
+      "heroBadge": "Fa'atonu-Tula'au Atina'e",
+      "overview": [
+        "O nofoaga autu o fa'amaumauga e fausia ai le fa'avae o pisinisi fa'aonaponei fa'akomepiuta. Talosaga, fa'amaumauga, faiga tau atina'e, fa'asalalauga feso'ota'iga, ma auaunaga fa'atauva'a fa'apisinisi e fa'alagolago i atina'e fa'alagolago.",
+        "O a matou fa'amatalaga nofoaga autu e taula'i i le fa'atulagaina, fa'aonaponei, fa'afoe, ma le fa'asilisiliina o si'osi'omaga tetele ua fausia mo avanoa, saogalemu, fa'alautele, fa'atinoga, ma le fa'atinoina lelei."
+      ],
+      "transformation": [
+        "O se nofoaga autu o faʻamatalaga faʻaonaponei e manaʻomia le sili atu nai lo sapalai ma le teuina. E mana'omia ai atina'e fa'atekonolosi ma le fa'aeteete i komipiuta, feso'otaiga, saogalemu, malosi, malulu, mata'ituina, fa'asao, ma fa'alavelave fa'afuase'i.",
+        "Matou te fesoasoani i fa'alāpotopotoga e fausia ni si'osi'omaga fa'aolaola e lagolago ai le mamafa o galuega ma maua ai se fa'avae mo le fa'atupulaia o tekonolosi i le lumana'i."
+      ],
+      "capabilities": [
+        {
+          "title": "Fuafuaga o Atina'e",
+          "desc": "Matou te mamanuina siosiomaga e faʻavae i luga o manaʻoga o galuega, gafatia, faʻatinoga, avanoa, saogalemu, ma le tuputupu aʻe i le lumanaʻi."
+        },
+        {
+          "title": "Fa'atonuga a le 'au'aunaga",
+          "desc": "Matou te lagolagoina si'osi'omaga fa'aumau fa'aletino ma si'osi'omaga mo fa'atonuga fa'atauva'a fa'atino ma galuega."
+        },
+        {
+          "title": "Fofo Teuina",
+          "desc": "Matou te mafaufau i le faʻatinoga, gafatia, toe faʻafoʻisia, maualuga-saosaoa SAN / NAS, faʻamaumauga, ma faʻamaumauga mo puipuiga pe a mamanuina siosiomaga teu oloa."
+        },
+        {
+          "title": "Feso'ota'iga Atina'e",
+          "desc": "Matou te mamanuina si'osi'omaga feso'ota'iga fa'atasi ai ma vaevaega talafeagai, toe fa'afo'isia, fa'agaioiga maualalo, feso'ota'iga, ma fa'atonuga saogalemu."
+        },
+        {
+          "title": "Fa'ata'otoga",
+          "desc": "Fa'atekonolosi fa'aleleia le fa'aogaina o puna'oa, fetuutuuna'i avega o galuega, ma le fa'atonuina o fa'atonuga tetele."
+        },
+        {
+          "title": "Lagolago & Fa'alavelave Fa'alavelave",
+          "desc": "Matou te fesoasoani i fa'alāpotopotoga e fa'atūina ni ta'iala fa'apolopolo ma fa'ata'ita'iga toe fa'aleleia ua fuafuaina e fa'aitiitia ai le taimi fa'aletonu ma fa'aumatia fa'amaumauga."
+        }
+      ],
+      "lifecycleSteps": [
+        "Iloiloga Avanoa",
+        "Fa'avasegaga o Galuega",
+        "Fa'ata'otoga Atamai",
+        "Meafaigaluega & Fa'ailoga Fa'apitoa",
+        "Vaega o Fesootaiga",
+        "Tuuina atu o le teuina",
+        "Su'ega & Su'ega DR",
+        "Fa'aputuga o Galuega",
+        "24/7 Mataituina o le Soifua Maloloina",
+        "Fa'aauauina le Fa'aleleia"
+      ],
+      "benefits": [
+        "Fa'amautinoa 99.999% taimi fa'aola",
+        "Se'i tasi itu o le toilalo fa'atasi ma le tele o fa'a'esega fa'aletupe",
+        "Fa'atonu le fa'avasegaina o le 'au'aunaga ma le fa'avasegaina maualuga",
+        "Fa'ata'ita'iga feso'ota'iga feso'ota'iga i lalo-milisekona maualalo",
+        "Fa'ama'a'a fa'aletino ma fa'afuainumera nofoaga saogalemu",
+        "Mata'itū vave ma fa'atotonu fa'aletonu",
+        "Fa'asaoina fa'anofoaga fa'apitoa mo fa'amaumauga petabyte",
+        "Fuafuaina le tau atoa o le umiaina ma le malosi o le eletise"
+      ],
+      "security": "Saogalemu o lo'o tu'ufa'atasia i luga ole laiga o atina'e, e aofia ai feso'ota'iga micro-segmentation, hardware root-of-trust, leai se fa'atuatuaina avanoa fa'atonu, fa'aauau su'esu'ega fa'aletonu, puipuiga fa'ai'uga, ma faiga fa'avae fa'atino.",
+      "ctaHeadline": "Atina'e Sauni i le Lumana'i",
+      "ctaSub": "Fau mea tetele fa'atuatuaina i aso nei. Fausia le faavae mo tekinolosi a taeao."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Su'esu'ega Fa'amatalaga & AI",
+      "tagline": "Liu Faamatalaga i le Atamai.",
+      "heroBadge": "Fa'amatalaga-i-Fa'ai'uga Atamai",
+      "overview": [
+        "O fa'alapotopotoga e fa'atupuina le tele o fa'amatalaga e ala i talosaga, fefa'ataua'iga, tagata fa'atau, fa'agaioiga, masini, ma fa'afuainumera numera. O le luʻitau e le o toe na o le aoina o faʻamaumauga; o le malamalama i lena faʻamatalaga ma faʻaliliuina i le atamai faʻatino.",
+        "O a matou Cognitive Analytics & AI solutions e tu'ufa'atasia au'ili'iliga fa'apitoa, a'oa'oga masini, atamai fa'akomepiuta, fa'asologa o fa'amaumauga, ma atamai fa'apisinisi e fesoasoani ai i fa'alapotopotoga e faia fa'ai'uga lelei."
+      ],
+      "transformation": [
+        "O lipoti masani e ta'u atu ai i faalapotopotoga le mea na tupu. E mafai ona fesoasoani au'ili'iliga fa'apitoa e fa'amatala pe aisea na tupu ai, fa'ailoa mea e ono tupu e soso'o, ma lagolago fa'ai'uga e uiga i mea e tatau ona tupu.",
+        "Matou te fesoasoani i fa'alāpotopotoga e fa'atūina ni si'osi'omaga o fa'amaumauga e aga'i atu i tua atu o lipoti fa'amaumau aga'i i au'ili'iliga atamai ma le lagolago i filifiliga."
+      ],
+      "capabilities": [
+        {
+          "title": "Fa'amatalaga Fa'amatalaga",
+          "desc": "Malamalama i fa'atinoga fa'asolopito e ala i lipoti fefa'asoaa'i, fa'ailoga fa'avasegaga, KPI, ma fua fa'apisinisi."
+        },
+        {
+          "title": "Su'esu'ega Su'esu'ega",
+          "desc": "Su'esu'e sootaga fa'avae, aga masani, fa'aletonu fa'amaumauga, ma a'a mafua'aga i tua atu o taunu'uga tau pisinisi."
+        },
+        {
+          "title": "Iloiloga Va'ai",
+          "desc": "Fa'aaogā fa'amaumauga fa'asolopito ma taimi moni fa'asalalau fa'atasi ma fa'ata'ita'iga fa'afuainumera e iloa ai taunu'uga ma mana'oga i le lumana'i."
+        },
+        {
+          "title": "Fa'amatalaga Fa'atonu",
+          "desc": "Iloilo fa'atinoga e mafai ma lagolago ala fa'ai'uga sili ona lelei e fa'atatau i taunu'uga va'ai ma fa'amoemoega tau pisinisi."
+        },
+        {
+          "title": "Fa'ata'ita'iga a'oa'oga i masini",
+          "desc": "Atia'e ni fa'ata'ita'iga fa'aaganu'u mo fa'ata'ita'iga, fa'avasegaina o tagata fa'atau, fa'atonuga, fa'ailoga fa'aletonu o mea tau fa'asese, ma le tausiga fa'apitoa."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Fa'aoga le mafaufau AI i le tele o voluma o fa'amatalaga e le'i fa'atulagaina i luga o mamanu natia, aotelega fa'atonu, ma fautuaga."
+        }
+      ],
+      "lifecycleSteps": [
+        "Punaoa Fa'amaumauga",
+        "Fa'atasiga Fa'amaumauga",
+        "Fa'atonuga o Fa'amaumauga",
+        "Teuina o Faamatalaga",
+        "Iloiloga",
+        "AI/ML Fa'ata'ita'iga",
+        "Va'aiga",
+        "Filifiliga Pisinisi"
+      ],
+      "benefits": [
+        "Fa'atatau i le mea moni, fa'atatau i fa'amaumauga a le pulega fai filifiliga",
+        "Sa'o mana'oga, tupe maua, ma fa'ata'ita'iga fa'aletonu",
+        "Fa'aletonu taimi moni ma su'esu'ega taufaasese",
+        "Deep 360° fa'amatalaga amio a tagata fa'atau ma fa'asinomaga",
+        "Fa'ata'ita'iina le filifili sapalai ma le fa'atinoina o galuega",
+        "Fa'aititia le fa'agaioiga ma tulaga tau tupe",
+        "Su'esu'eina o avanoa natia tupe maua",
+        "Fa'avavevave le taimi-i-malamalama i vaega o pisinisi"
+      ],
+      "security": "O a matou su'esu'ega fa'anatura e fa'atino ai fa'ailoga pito i tua, fa'amaufa'ailoga fa'amatalaga, fa'atagaga RBAC fa'ata'ita'i, ma fa'ata'ita'iga fa'ata'ita'iga e puipui ai fa'amaumauga fa'apitoa ma tausisia le tausisia o tulafono faatonutonu (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Fausia se Fuafuaga Fa'amatalaga Atamai",
+      "ctaSub": "Liliu fa'amatalaga i le malamalama. Liliu le malamalama i le faatinoga."
+    },
+    "information-reporting-systems": {
+      "title": "Fa'amatalaga & Lipoti Faiga",
+      "tagline": "O Faamatalaga Sa'o. I le Taimi Sa'o. Mo Filifiliga Sili.",
+      "heroBadge": "Tu'ufa'atasia le Atina'eina o Atina'e",
+      "overview": [
+        "O ta'ita'i pisinisi ma vaega fa'atino e fa'alagolago i fa'amatalaga sa'o e fai ai fa'ai'uga lelei. O matou Fa'amatalaga & Lipoti Faiga e fesoasoani i fa'alapotopotoga e aoina, fa'atulaga, au'ili'ili, ma tu'uina atu fa'amatalaga fa'apisinisi e ala i faiga fa'amatalaga fa'atulagaina, fa'asologa o lipoti, dashboards, ma fa'asologa o lipoti o galuega.",
+        "O fa'alapotopotoga e masani ona i ai fa'amatalaga e tufatufa atu i talosaga, fa'asalalauga, fa'amaumauga, ma faiga fa'atino. O lenei mea e faigata ai ona faʻavae se vaʻaiga faifaipea o le faʻatinoga o pisinisi. Matou te fesoasoani i le tuʻufaʻatasia o faʻamatalaga faʻamatalaga i totonu o siosiomaga faʻatulagaina lipoti e maua ai faʻamatalaga faʻatuatuaina, mafai ona maua, ma faifai pea."
+      ],
+      "transformation": [
+        "O le faiga o lipoti e le tatau ona fa'aalia na'o numera. E tatau ona fesoasoani i tagata fa'aoga ia malamalama i le fa'atinoga, fa'ailoa fa'afitauli, maua avanoa, ma faia fa'ai'uga malamalama.",
+        "Matou te mamanuina si'osi'omaga lipoti i le auala o lo'o fa'agaioi ai lau fa'alapotopotoga, tu'uina atu fa'amaumauga fa'atulagaina-i-fa'ai'uga fa'anatura e fa'atatau mo vaega uma o le pulega."
+      ],
+      "capabilities": [
+        {
+          "title": "Pulega o Fa'amatalaga Fa'amatalaga (MIS)",
+          "desc": "Atia'e faiga fa'amatalaga tu'ufa'atasi e tu'uina atu ai le pulega fa'atonu ma le fa'atinoga talafeagai ma le va'aiga fa'ata'atia."
+        },
+        {
+          "title": "Lipoti Pisinisi",
+          "desc": "Suia fa'amatalaga pisinisi mata'utia mai le tele o alalaupapa i ni lipoti fa'atulagaina, fa'asalalau e mata'ituina ai le fa'atinoina o galuega."
+        },
+        {
+          "title": "Fa'asalalauga Fa'asalalauga",
+          "desc": "Tuuina atu taimi moni po'o fa'atulagaina va'aiga feso'ota'iga i fua fa'atau pisinisi, KPI, aga, ma galuega a le matagaluega."
+        },
+        {
+          "title": "Pulega KPI",
+          "desc": "Fa'amatala, fa'ata'ita'i, ma fa'ailoga KPI 'anoa fa'agaioiga e fetaui tonu ma fa'amoemoega o le fa'atupulaia o atina'e."
+        },
+        {
+          "title": "Fa'atasiga Fa'amaumauga",
+          "desc": "Fa'atasi fa'asoa fa'amaumauga i totonu o faleteuoloa fa'amaumauga tu'ufa'atasi ma semantic layers mo le fa'aauauina o lipoti e tasi-pane-of-glass."
+        },
+        {
+          "title": "Lipoti Fa'aautomatisa",
+          "desc": "Otometi ona fa'atupu ma tufatufa fa'amatalaga fa'apitoa e tusa ai ma fa'atonuga fa'atulaga, tulafono fa'apisinisi, ma fa'atonuga o tagata e mauaina."
+        }
+      ],
+      "lifecycleSteps": [
+        "Faiga Pisinisi",
+        "Aoina o Faamatalaga",
+        "Fa'atasiga Fa'amaumauga",
+        "Fa'asologa o Fa'amaumauga",
+        "Fa'amaumauga Fa'amaumauga",
+        "Iloiloga",
+        "Lipoti & Laupapa"
+      ],
+      "benefits": [
+        "Punavai e tasi o le upumoni i le pisinisi atoa",
+        "Saosaoa le avanoa i fua fa'atino taimi tonu",
+        "Ave'esea atoa le fa'apotopotoga fa'asalalau tusi",
+        "Fa'atutusa, fa'alelei KPI felagolagomai",
+        "Va'aiga fa'atonu sili ma le mafai ona su'eina",
+        "Tufa sa'o sa'o i paaga",
+        "Saogalemu ma fa'atagaga o fa'amaumauga o laina fa'ata'oto",
+        "Fa'aleleia le mataalia e tali atu i fa'alavelave fa'atino"
+      ],
+      "security": "O fa'amatalaga tau pisinisi e mafai ona aofia ai fa'amatalaga ma'ale'ale fa'agaioiga, tupe, ma tagata fa'atau. O a matou fofo lipoti e faʻapipiʻi ai faʻamaoniga faʻapitoa, faʻatagaga faʻavae faʻapitoa, faʻailoga, ma ogalaau suʻega i totonu o le fausaga o lipoti.",
+      "ctaHeadline": "Lipoti e Lagolagoina le Tuputupu Ae",
+      "ctaSub": "Fa'afaigofie ona maua fa'amatalaga. Fa'aalia le faatinoga. Fai ni filifiliga lelei."
+    },
+    "managed-services": {
+      "title": "Auaunaga Pulea",
+      "tagline": "Fa'atuatuaina Galuega Fa'atekonolosi. Lagolago Tomai Faapitoa. Fa'aleleia Fa'aauau.",
+      "heroBadge": "24/7 IT Galuega & Lagolago",
+      "overview": [
+        "O si'osi'omaga IT fa'aonaponei e lavelave ma fesuisuia'i pea. E manaʻomia e faʻalapotopotoga atinaʻe faʻalagolago, talosaga, fesoʻotaʻiga, saogalemu, mataʻituina, ma lagolago faʻapitoa e faʻaauau ai pisinisi.",
+        "O a matou Au'aunaga Fa'afoe e tu'uina atu le pulega fa'atekonolosi faifaipea ma le lagolago fa'agaioiga, e fa'ataga ai fa'alapotopotoga e fa'atumauina si'osi'omaga fa'alagolago i IT a'o taula'i atu 'au i totonu i fuafuaga fa'ata'atia."
+      ],
+      "transformation": [
+        "Lagolago IT masani e masani ona taulaʻi i le foia o faʻafitauli pe a uma ona tupu. Au'aunaga fa'afoe e fa'atino se faiga fa'atino e ala i le mata'ituina pea o atina'e, fa'aoga, faiga, ma si'osi'omaga fa'atino.",
+        "O lenei faiga e fesoasoani e vave iloa fa'afitauli e ono tula'i mai, fa'atumauina le fa'atinoga, fa'aleleia avanoa, ma fa'aitiitia ai fa'alavelave fa'agaioiga."
+      ],
+      "capabilities": [
+        {
+          "title": "Puleaina o Aseta",
+          "desc": "Lagolago le fa'aauauina o le fa'agaioiga, fa'apipi'i, ma le fa'atonutonuina o 'au'aunaga, fa'aputuga, fa'asalalauga fa'atekonolosi, ma atina'e tetele."
+        },
+        {
+          "title": "Pulea o Ao",
+          "desc": "Puleaina galuega ao, tele-cloud resources, configurations, mataituina, faatinoga, ma FinOps optimization."
+        },
+        {
+          "title": "Pulega o Fesootaiga",
+          "desc": "Tuuina atu 24/7 mataʻituina, pulega faʻatinoga, lagolago faʻatulagaina, SD-WAN optimization, ma faʻafitauli o fesoʻotaʻiga."
+        },
+        {
+          "title": "Puleaina o Talosaga",
+          "desc": "Lagolago si'osi'omaga fa'aoga taua e ala i le mata'ituina lelei, tausiga, fofo o le bug, ma fa'aleleia galuega."
+        },
+        {
+          "title": "Mata'ituina & Mata'ituina",
+          "desc": "Tuuina atu fa'amatalaga fa'apitoa i le taimi tonu i le soifua maloloina o le tino, le tumau, taimi fa'aoga, fa'alagolago i mea tetele, ma fa'aaliga."
+        },
+        {
+          "title": "Pulea Fa'asao & Toe Fa'aleleia",
+          "desc": "Fa'amaumau fa'asologa otometi fa'asao, fa'ata'ita'i fa'aletonu i taimi uma, ma fa'amautinoa le vave fa'aleleia."
+        },
+        {
+          "title": "Fa'agaioiga Puipuiga (SecOps)",
+          "desc": "Tuuina atu le mataituina o le saogalemu faifai pea, pulega o patch, faʻamalosia le faʻaogaina o avanoa, ma faʻafefe faʻafefe."
+        }
+      ],
+      "lifecycleSteps": [
+        "Si'osi'omaga Onboarding",
+        "Saili & Fa'avae",
+        "Telemetry Integration",
+        "SLA Uiga",
+        "24/7 Mata'ituina Fa'amalosi",
+        "Fa'avasegaga o Fa'alavelave",
+        "I'uga vave",
+        "Su'esu'ega o Mafua'aga",
+        "Inisinia Puipuia",
+        "Fa'aauauina Fa'atonu"
+      ],
+      "benefits": [
+        "Fa'aiti'itia le mamafa o galuega i totonu",
+        "Su'esu'e fa'afitauli a'o le'i a'afia tagata fa'aoga",
+        "Faʻamautinoa 99.99% avanoa faʻaoga ma taimi faʻaoga",
+        "Tala fa'atatauga fa'atino a le IT",
+        "Avanoa vave i tagata tomai faapitoa inisinia sinia",
+        "Taimi tali fa'alavelave fa'afuase'i e lagolagoina e SLA",
+        "Toe faʻaleleia faʻalavelave faʻafuaseʻi ma faʻaauau pisinisi",
+        "Fa'aauauina fa'atekinolosi optimization ma fa'aonaponei"
+      ],
+      "security": "O a matou fa'agaioiga fa'atautaia o lo'o mulimulita'i i fa'atonuga ITIL ma ISO, fa'amautinoa le avanoa fa'ailoga, ogalaau su'etusi tu'ufua, fa'ailoga fa'apitoa fa'amaonia, ma le fa'aogaina o le tausisia i so'o se puna'oa pulea.",
+      "ctaHeadline": "Fa'aleleia pea",
+      "ctaSub": "E te taula'i atu i lau pisinisi. Matou te fesoasoani e fa'aauau lau tekinolosi."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Fofo Tekonolosi Tasi-Stop",
+      "tagline": "Tasi Paaga Tekonolosi. Gafatia Tele. Fa'ato'a Fofo Pisinisi.",
+      "heroBadge": "Paaga Tu'ufa'atasi Atina'e",
+      "overview": [
+        "O faʻalapotopotoga e masani ona galulue faʻatasi ma le tele o kamupani tekonolosi mo atinaʻe, ao, talosaga, masini, auʻiliʻili, saogalemu, lagolago, ma suiga numera. O le puleaina o le tele o tagata fa'atau e mafai ona fa'atupuina le lavelave, va o feso'ota'iga, taumafaiga fa'alua, ma si'osi'omaga fa'atekonolosi vaevae.",
+        "O la matou One-Stop Technology Solutions auala e aumaia ai le tele o gafatia faʻatasi i lalo o se faʻataʻitaʻiga auʻaunaga tuʻufaʻatasia, fesoasoani i faʻalapotopotoga e fuafua, faʻatino, tuʻufaʻatasia, faʻaogaina, ma faʻaauau pea le faʻaleleia o latou siosiomaga tekonolosi."
+      ],
+      "transformation": [
+        "Matou te lagolagoina le taamilosaga atoa o tekinolosi-mai le malamalama i manaoga o pisinisi ma le faʻamalamalamaina o se fuafuaga faʻatekonolosi i le fuafuaina o fofo, faʻatinoina o faʻavae, tuʻufaʻatasia faiga, faʻapipiʻiina o talosaga, mataʻituina siosiomaga, ma tuʻuina atu le lagolago faifaipea.",
+        "O le fa'amoemoe o le fa'atupuina o feso'ota'iga fa'atekonolosi fa'anatura nai lo fofo tu'ufua."
+      ],
+      "capabilities": [
+        {
+          "title": "Fuafuaga & Fausia",
+          "desc": "Malamalama i fa'amoemoega o pisinisi ma fa'ata'ita'iina fausaga fa'atekonolosi e mafai ona fa'alautele, malupuipuia, ma tausia."
+        },
+        {
+          "title": "Fa'atinoga & Fausia",
+          "desc": "Fa'atino talosaga, atina'e, tu'ufa'atasiga, masini, ma fa'afuainumera fa'akomepiuta fa'atasi ma atina'e malosi."
+        },
+        {
+          "title": "Fa'apipi'i Fa'atonu",
+          "desc": "Fa'afeso'ota'i faiga ma talosaga ina ia fealua'i solo fa'amatalaga i le fa'alapotopotoga atoa."
+        },
+        {
+          "title": "Fa'atulagaina Fa'atonu",
+          "desc": "Fa'atuina le CI/CD fa'autometi ma fa'agasolo fa'agaioiga e fa'agasolo ai fofo ile gaosiga ma le fa'atuatuaina ma le saogalemu."
+        },
+        {
+          "title": "Mata'ituina Fa'aauau",
+          "desc": "Tuuina atu le va'aiga pito i'u i luga i atina'e, fa'aoga, fa'atinoga, avanoa, ma le soifua maloloina."
+        },
+        {
+          "title": "Fa'alelei & Lagolago",
+          "desc": "Fa'aauau le iloiloina o si'osi'omaga e fa'aleleia ai le fa'atinoga, fa'atuatuaina, fa'alelei tau, ma fa'ateleina."
+        }
+      ],
+      "lifecycleSteps": [
+        "Fuafuaga",
+        "Faufale",
+        "Fa'atinoga",
+        "Tuufaatasi",
+        "Fa'ata'oto",
+        "Mataituina",
+        "Fa'atonuga",
+        "Lagolago"
+      ],
+      "benefits": [
+        "Fa'aitiitia le lavelave o le pulega fa'atau ma le fa'asili",
+        "Fa'amaopoopo lelei i luga o fa'afale fausaga uma",
+        "Fa'anatinati le fa'atinoina o galuega fa'atasi ma le tuai ona tu'uina atu",
+        "Fuafuaina o le tala fa'atatau o tupe ma fa'ailoa manino",
+        "Tu'ufa'atasi le tali atu o atina'e mai le zero i le fua",
+        "Fofo fa'atatau ua fuafuaina mo le fa'atupulaia o pisinisi i le lumana'i",
+        "Fa'apaaga fa'atekonolosi fa'alagolago umi umi",
+        "Suiga faakomepiuta mae'a fa'ai'u"
+      ],
+      "security": "Faatasi ai ma se paaga faatuatuaina e tasi na te vaaia le fausaga, faatinoga, ma le faagaoioiga, e tumau pea le le motusia o le pulega o le puipuiga i vaega uma—e aveesea ai le tuufaatasia o itu tauaso ma faamautinoa le tausisia pea.",
+      "ctaHeadline": "Lau Paaga Fa'atekonolosi Atoa",
+      "ctaSub": "E tasi le paaga. Tasi le faaaliga. Tele tekinolosi. Fofo atoatoa."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Va'aiga lautele o Atina'e",
+    "overviewTitle": "Tekonolosi Atamai mo I'uga Fa'atatau",
+    "transformationEyebrow": "Suiga o Galuega",
+    "transformationTitle": "Suia Pisinisi E ala i Faiga Fa'apoto",
+    "deliveryEyebrow": "Fa'atonu Fa'atonu Fa'atonu",
+    "deliveryTitle": "Fa'ai'u i le Fa'ai'uga Fa'ataunu'u & Fa'aauauina Fa'atonu",
+    "deliveryIntro": "O la matou faiga fa'atino fa'amaonia e mulimulita'i i se fa'ata'ita'iga faigata o le fa'asologa o le olaga:",
+    "deliveryOutro": "O lenei fa'asologa fa'atulagaina e fa'amautinoaina le fetaui lelei ma sini fa'apisinisi, fa'amautu le saogalemu, ma fua fa'atatau ROI i vaega uma.",
+    "securityEyebrow": "Saogalemu & Pulega",
+    "securityTitle": "Atina'e-Vaega Fa'alagolago & Tausi Puipuia Puipuiga",
+    "securityOutro": "Matou te fa'apipi'iina le fa'atonutonuina o avanoa fa'apitoa, su'esu'ega fa'aletonu fa'aautomatika, fa'ata'ita'iga fa'ata'ita'iga, ma fa'ailoga fa'ailoga e tele ina ia mautinoa o lo'o tumau pea lou si'osi'omaga o gaosiga ma fa'amalieina atoatoa.",
+    "capabilitiesTitle": "Avanoa Tekinolosi Autu",
+    "capabilitiesSub": "Matā'upu fa'apitoa fa'atekinisi ua fa'ainisinia e fa'afua ai au gaioiga fa'atekinolosi.",
+    "bookDiscovery": "Tusi Su'esu'ega Tekonolosi",
+    "exploreAll": "Su'esu'e uma tekinolosi",
+    "bookConsultation": "Tusia se Faatalatalanoaga",
+    "coreCapabilities": "Avanoa Autu"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Avanoa Autu",
+    "exploreFramework": "Su'esu'e Fofo Fa'avae",
+    "bookConsultation": "Tusia se Faatalatalanoaga",
+    "viewCaseStudies": "Va'ai Tulaga Su'esu'ega",
+    "provenPillars": "Poutu Fa'amaonia",
+    "operationalOutcomes": "Taunuuga Fa'atino",
+    "learnMore": "A'oa'o atili"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Inisinia Fa'atekinolosi Fa'ai'u-i-I'u",
+      "titlePart1": "Amataina I",
+      "titlePart2": "Fa'atonu",
+      "description": "Fa'ata'ita'iga fa'ai'uga o fofo fa'atekinolosi fou mai mana'oga pisinisi ma fofo fa'ata'ita'iga e ala i le atina'e, tu'ufa'atasia, su'ega, fa'apipi'i, ma le lagolago faifaipea.",
+      "bookConsultation": "Tusia se Faatalatalanoaga",
+      "exploreEngineering": "Su'esu'e Fofo Inisinia",
+      "coreCapabilities": [
+        "Manaoga Inisinia",
+        "Fofo Fa'ata'ita'iga",
+        "Atinae o Talosaga",
+        "API Fa'atasi",
+        "Fa'amautinoaga Tulaga",
+        "DevOps",
+        "Fa'ata'oto",
+        "Lagolago & Tausiga"
+      ],
+      "row1Eyebrow": "Tu'uina atu o le ola atoa",
+      "row1Title": "Atina'e Fa'ai'u i le Fa'ai'uga mai Tulaga Mana'oga i le Fua",
+      "row1P1": "So'o se taumafaiga fa'atekinolosi fou e amata i mana'oga tulaga ese, fa'agaioiga fa'agaioiga, ma fa'amoemoega fa'ata'atia e le mafai ona fa'ataunu'uina e le polokalama e tasi-tutusa-uma. Matou te fa'apitoa i le fauina o faiga fa'aleaganu'u, maualuga fa'atinoga polokalama faakomepiuta atoatoa mai le sasa.",
+      "row1P2": "Mai le su'esu'eina muamua o mana'oga ma le fa'ata'ita'iga fa'atekinisi i le atina'eina o le ta'avale ta'avale, fa'atasiga fa'anatura o le API, paipa fa'ata'ita'iga malosi, ma fa'apolokalame fa'apipi'iina o ao, o matou 'au fa'ainisinia sinia o lo'o pulea atoatoa lau fa'asologa o mea.",
+      "row2Eyebrow": "Fofo Fa'ata'ita'iga & Inisinia",
+      "row2Title": "Fuafuaga Fausia Fausia mo Atina'e Atina'e",
+      "row2P1": "Matou te mamanuina fausaga faakomepiuta maufetuuna'i e fa'afetaui i uta mamafa o gaosiga. Mai auaunaga laiti fa'apitoa ma pito i tua e fa'atupu mea e o'o atu i fa'amaumauga o fa'amaumauga maualuga ma GraphQL/REST API, matou te fausia ni fa'avae e fua fua.",
+      "row2P2": "E ala i le fa'atuina mama, fa'avae codebase fa'apipi'i fa'atasi ma su'ega otometi ma fa'aauau le tausisia o le puipuiga, matou te fa'amautinoaina o lau fa'avae polokalama e mafai ona tausia, su'eina, ma sauni mo se taimi umi.",
+      "row3Eyebrow": "Fa'amautinoaga Tulaga Lelei & DevOps",
+      "row3Title": "Tiliva Agile ma Pipelines Automated",
+      "row3P1": "O la matou fa'ata'ita'iga fa'ata'ita'iga o lo'o fa'apipi'iina ai le iunite fa'aautomatika, tu'ufa'atasia, ma fa'ata'ita'iga toe fa'afo'i fa'ai'uga fa'atasi ma va'aiga CI/CD fa'apipi'iina (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Faatasi ai ma faʻataʻitaʻiga faʻataʻavalevale manino, vaʻavaʻai taimi moni, ma le saosaoa faʻatautaia, matou te mautinoa vave taimi-i-maketi e aunoa ma le faʻafefeina o le saogalemu, mautu, poʻo le poto masani o tagata faʻaoga.",
+      "row4Eyebrow": "Fa'atonu & Lagolago",
+      "row4Title": "Fa'atuatuaina 24/7 Fa'agaioiga ma Ta'amilosaga Umi",
+      "row4P1": "O le alu ola o le amataga lea. Matou te tuʻuina atu le mataʻituina lelei, SLA-backed maintenance, cloud infrastructure optimization, faʻalogoina o faʻatinoga, ma faʻasalalauga faʻaauau.",
+      "row4P2": "O la matou 'au fa'ainisinia e galue o se fa'aopoopoga fa'anatura o lau fa'alapotopotoga, fa'amautinoa le leai o se taimi fa'aletonu ma fa'aauauina le maualuga o tekonolosi i lau maketi.",
+      "pillarsTitle": "Gafatia Autu",
+      "pillarsSub": "Fa'ato'a atoatoa le fa'aputuga gafatia fa'ainisinia e ave ai ou manatu mai le leai i le gaosiga.",
+      "pillar1Title": "Inisinia Manaoga",
+      "pillar1Desc": "Su'esu'ega fa'apisinisi loloto, fa'amatalaga fa'atino, ma fa'afanua o femalaga'iga a tagata e fa'ailoa tonu tuaoi o fofo.",
+      "pillar2Title": "Fofo Fa'ata'ita'iga",
+      "pillar2Desc": "Fa'ata'ita'iga fa'apitoa fa'a ao, fa'ata'ita'iga o fa'amaumauga, mamanu microservices, ma fa'avae saogalemu e leai se fa'alagolago.",
+      "pillar3Title": "Atinae o Talosaga",
+      "pillar3Desc": "Fa'aonaponei fa'aputuga atoa upegatafa'ilagi ma telefoni fe'avea'i fa'ainisinia i fa'ailoga mama, ituaiga-saogalemu, ma fa'ata'ita'iga UI fa'ata'ita'iga.",
+      "pillar4Title": "API Fa'atasi",
+      "pillar4Desc": "APIs REST/GraphQL maualuga, fa'asalalauga webhook, faitoto'a totogi, ma le fa'amaopoopoina o le ERP/CRM a le isi vaega lona tolu.",
+      "ctaTitle": "Sauni e Fausia Lau Fofo mai le amataga e o'o atu i le fa'afaigaluega?",
+      "ctaSub": "Paaga ma Rezonants e tufuga, inisinia, ma fa'apipi'i lau fa'ailoga fa'akomepiuta masani mai mana'oga fa'apisinisi i mea moni o le gaosiga.",
+      "ctaButton": "Tusia se Faatalatalanoaga mo Fofo",
+      "pillar5Title": "Fa'amautinoaga Tulaga",
+      "pillar5Desc": "Otometi su'ega malosi, su'ega uta/fa'amamafa, su'ega fa'aletonu, ma su'ega fa'afo'i.",
+      "pillar6Title": "DevOps & Fa'atonu",
+      "pillar6Desc": "Pipa CI/CD otometi, fa'apipi'i pusa (Docker/K8s), atina'e e fai ma fa'ailoga, ma fa'amalo e leai se taimi.",
+      "pillar7Title": "Lagolago & Tausiga",
+      "pillar7Desc": "24/7 mata'itūina fa'amalosi, fa'anofonofo fa'alesoifua maloloina, su'esu'ega fa'atinoga, fa'apipi'i saogalemu, ma fa'aauau pea le tausiga o le SLA.",
+      "pillar8Title": "Fa'aauauina Fa'afouina",
+      "pillar8Desc": "Saosaoa fa'atusa masani, tu'ufa'atasiga o fa'amaumauga, fa'aleleia AI, ma fa'afouga faufale."
+    },
+    "processAutomation": {
+      "eyebrow": "Fa'agaioiga Fa'apotopotoga",
+      "titlePart1": "Fa'agasologa Pisinisi",
+      "titlePart2": "Otometi",
+      "description": "Otometi fa'ai'u i le fa'ai'uga o galuega tau atina'e, tu'ufa'atasia o masini fa'apolokalame fa'agasologa (RPA), fa'agaioiina fa'amatalaga atamai, masini tulafono fa'apisinisi, ma le tu'ufa'atasia o faiga.",
+      "bookDiscovery": "Su'esu'ega Fa'aautometi Tusi",
+      "exploreFramework": "Su'esu'e Fofo Fa'avae",
+      "coreCapabilities": [
+        "Fa'a'oto'otoga o Galuega",
+        "Otometi Fa'agasologa Robotic",
+        "Fa'agaioiina o Pepa",
+        "Tu'ufa'atasi Inisinia",
+        "Pisinisi Tulafono Masini",
+        "Fa'asologa o Fa'asologa",
+        "Fa'aauauina Fa'atonu",
+        "Tuufaatasiga Tuufaasolo"
+      ],
+      "row1Eyebrow": "Otometi Fa'agasologa o Robotic",
+      "row1Title": "Bots Atamai mo Galuega Maualuga",
+      "row1P1": "Ave'ese le toe fa'aofiina o fa'amaumauga a le tusi lesona, toe fa'aleleia o faiga fa'akomepiuta, ma fa'asologa o pepa. Matou te faʻapipiʻiina le RPA bots e faʻatino galuega faʻatulagaina 24/7 ma leai se mea sese.",
+      "row1P2": "I le fa'afeso'ota'iina o feso'ota'iga fa'akomepiuta fa'aleaganu'u, SAP/ERP backends, ma fa'amaumauga o ao, e fa'asa'oloto e bots software lau 'au e taula'i atu i fuafuaga fa'apisinisi.",
+      "row2Eyebrow": "Fa'ata'ita'iina o Fa'amaumauga",
+      "row2Title": "OCR, Masini A'oa'oga & Pepa AI",
+      "row2P1": "Otometi ona fa'aoga, fa'avasega, ma aveese fa'amaumauga mai pili, konekarate, pepa fa'asinomaga, ma tagi. O a matou laina paipa fa'ata'ita'i AI e fa'amaonia fanua e fa'atatau i fa'amaumauga i totonu ma fa'aosoina fa'autometi galuega fa'atagaina.",
+      "row2P2": "Ausia fua fa'atatau sa'o e ova atu i le 95% ae fa'aitiitia taimi fa'aliliu mai aso i sekone.",
+      "row3Eyebrow": "Fa'asologa o Fa'asologa",
+      "row3Title": "Fa'ai'u i le Fa'ai'uga Fa'a'au'au Fa'a'au'au Fa'a'au'au",
+      "row3P1": "Fa'afeso'ota'i CRM, ERP, HRMS, ma faletupe APIs i fa'amaumauga tu'ufa'atasia o taimi moni. Matou te fa'atinoina mea e fa'aosoina mea tutupu, fa'asologa o fe'au, ma fa'aautometi fa'afo'i tua.",
+      "row3P2": "O fa'amatalaga e sosolo solo i matagaluega e aunoa ma se fa'alavelave a tagata, fa'ate'a ai silo fa'agaioiga ma fa'atuai feso'ota'iga.",
+      "row4Eyebrow": "Telemetry Fa'aauau",
+      "row4Title": "Fa'ata'ita'iga Fa'asologa o Taimi Moni & Fa'amatalaga Kaizen",
+      "row4P1": "Su'esu'e taimi fa'atino, fa'afanua vevela, fa'alavelave fa'afuase'i, ma ROI tau tupe i laupapa fa'atonu fa'atonu.",
+      "row4P2": "Fa'aauau su'esu'ega a'oa'oga masini e maua ai avanoa fou fa'aautomatika, fa'atumauina le fa'agaioiga o lau atina'e i le maualuga maualuga.",
+      "pillarsTitle": "Poutū otometi",
+      "pillarsSub": "Fa'amaonia poloka faufale mo fa'agaioiga atina'e atamai.",
+      "pillar1Title": "Otometi o Galuega",
+      "pillar1Desc": "Ole tele-laasaga a tagata-i-le-loop ma fa'afuainumera galuega fa'akomepiuta fa'atasi ma ala fa'autometi ma fa'ateleina.",
+      "pillar2Title": "Otometi Fa'agasologa o Robotic",
+      "pillar2Desc": "Polokalama polokalama fa'avae tulafono fa'atinoina galuega masani o fa'amaumauga, fa'alelei, ma galuega fa'asagatau.",
+      "pillar3Title": "Atamai AI Automation",
+      "pillar3Desc": "Cognitive AI agents e fa'amatalaina le fa'amatalaga, aoteleina tusitusiga e le'i fa'atulagaina, ma faia fa'ai'uga otometi.",
+      "pillar4Title": "Fa'asologa o Fa'agasologa",
+      "pillar4Desc": "Fa'agasologa o le la'uina, su'esu'eina o fagu, ma le fa'agaoioiga a Kaizen e fa'aitiitia ai tau o galuega.",
+      "ctaTitle": "Sauni e fa'autometi Au Pisinisi Galulue?",
+      "ctaSub": "Fa'afeso'ota'i ma matou tufuga faufale e fa'ailoa ai avanoa maualuga ROI ma fa'agaioi ai le fa'aogaina o galuega fa'akomepiuta atamai.",
+      "ctaButton": "Tusi se Fa'atalanoaga Fa'autometi"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Fa'ainisinia Tulaga ma R&D",
+      "titlePart1": "Nofoaga o",
+      "titlePart2": "Silisili",
+      "description": "Ose fa'alapotopotoga tu'ufa'atasi o tufuga sinia ma tagata tomai fa'apitoa e tu'ufa'atasia i le fa'avasegaina o faiga fa'ainisinia, fa'aola fa'afouga, ma le fa'atelevaveina o fuafuaga fa'atekinolosi.",
+      "exploreStandards": "Saili Tulaga Fa'ainisinia",
+      "initiateAssessment": "Amata Su'esu'ega CoE",
+      "coreCapabilities": [
+        "Tulaga Fausia",
+        "Fa'afaigaluega Toe Fa'aaogaina",
+        "Pulea Fa'ata'ita'i Sili",
+        "Atinae o Tomai",
+        "Fa'ailoga Tulaga Lelei",
+        "R&D & Fa'afouga",
+        "Iloiloga Tekinolosi",
+        "Ta'iala Poloketi Kolosi\n<"
+      ],
+      "uptimeLabel": "Taimi o le Atinae",
+      "engineersLabel": "Inisinia & Tufuga",
+      "deploymentsLabel": "AI & Fa'asoaina o Ao",
+      "satisfactionLabel": "Fa'amalieina Tagata Fa'atau",
+      "row1Eyebrow": "Poutū 01 — Fa'ainisinia Tulaga",
+      "row1Title": "Fa'ainisinia Polokalama Fa'atino Maualuga",
+      "row1P1": "O le matou Nofoaga Autu o le Lelei o lo'o fa'avaeina mamanu fa'ata'atia, su'ega fa'aautomatisa, ma fa'ata'ita'iga e leai se fa'aletonu e fa'avavevave ai le taimi-i-maketi a'o fa'atumauina aitalafu fa'apitoa i le zero.",
+      "row1F1": "Otometi CI/CD tu'u paipa fa'atasi ma DORA metrics analytics",
+      "row1F2": "Fa'atonu iloiloga fa'afale ma pulega fa'apitoa",
+      "row1F3": "Fa'aauau le puipuiga malu ma le otometi le fa'apipi'iina o tulaga vaivai",
+      "row1Btn": "A'oa'o Tulaga Fa'ainisinia",
+      "row1Tag": "DevOps & Quality Engineering",
+      "row2Eyebrow": "Poutū 02 — F&F Fou",
+      "row2Title": "AI Innovation Lab & Tekonolosi Fa'afou",
+      "row2P1": "Matou te fa'ata'ita'i i fa'ata'ita'iga a'oa'oga masini fa'aonaponei, sui fa'apitoa a AI, ma fa'aautometi fa'asolo galuega atamai e fau ai oloa o atina'e e sosoo ai.",
+      "row2F1": "Enterprise Generative AI & RAG malamalama tu'ufa'atasi",
+      "row2F2": "Autonomous AI sui sooupu galue mo pisinisi faʻagasologa otometi",
+      "row2F3": "Fa'ata'ita'iga fa'ata'ita'iga fa'ata'ita'iga fa'aa'oa'oga ma fa'amanino",
+      "row2Btn": "Su'esu'e AI Lab",
+      "row2Tag": "Fa'ata'ita'i Fa'ata'ita'i & Fa'amatalaga Neural",
+      "row3Eyebrow": "Poutū 03 — Aseta",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Matou te mamanuina ma fa'atautaia si'osi'omaga maufetu'u fau fau i luga o fa'atonuga saogalemu e leai se fa'atuatuaga, fa'amautinoaina o lo'o puipuia pea au fa'amatalaga mai fa'alavelave fa'amata'u i luga o le initaneti.",
+      "row3F1": "AWS, Azure, & GCP fa'aputuga tetele ao fa'aputuga",
+      "row3F2": "Zero-trust network access (ZTNA) & faiga fa'avae IAM",
+      "row3F3": "Su'esu'ega saogalemu o pusa fa'aautomate & pulega faalilolilo",
+      "row3Btn": "Su'esu'e Ao & Saogalemu",
+      "row3Tag": "Fausiaina o Ao & Zero-Fa'alagolago",
+      "pillarsTitle": "O matou Auivi Autu Sili",
+      "pillarsSub": "Fa'atonu tusi ta'aloga e fa'amalosia ai tulaga fa'a-misiona.",
+      "pillar1Title": "Komiti Fa'atino Iloiloga (ARB)",
+      "pillar1Desc": "Va'aiga mae'ae'a e fa'amautinoaina o lo'o fetaui lelei fofo uma o atina'e ma fa'atonuga fa'alautele, saogalemu, ma le usita'i.",
+      "pillar2Title": "Toe fa'aaogaina Accelerators & Component Library",
+      "pillar2Desc": "Faiga fa'avae fa'apitoa, pusa amata API, ma fa'ata'ita'iga microservice pito i tua e fa'aitiitia ai le taimi muamua o le atina'e i le 40%.",
+      "pillar3Title": "Fa'aauau Fa'amatalaga Fa'atino",
+      "pillar3Desc": "O laina paipa e mata'ituina i le taimi tonu e mata'ituina ai le fa'agaoioiga o le fa'aogaina, fa'aogaina o fagu, ma le fa'aogaina o puna'oa i ao.",
+      "pillar4Title": "Taleni Upskilling & Guilds",
+      "pillar4Desc": "Fausia guilds i totonu ma tusipasi e fa'atupuina tomai fa'atekinisi loloto i ao, DevOps, ma fa'aoga AI.",
+      "ctaTitle": "Siitia lou Tulaga Inisinia",
+      "ctaSub": "Paaga ma le Rezonants's Center of Excellence e fausia ai ata fa'apolofesa o ao, fa'autometi galuega, ma fa'avavevave le tu'uina atu o oloa fa'akomepiuta.",
+      "ctaButton": "Fa'atonu Fa'atalanoaga Fa'atonu",
+      "badge": "REZONANTS COE",
+      "scroll": "Tusitala",
+      "p1Title": "Pule & Fa'avae",
+      "p1Desc": "Fa'atuina pulega faufale i le lautele o atina'e, pa puipui o faiga fa'avae, ma tulaga fa'amalieina.",
+      "p1Tag": "Pule",
+      "p2Title": "Tulaga Fa'atekonolosi & Fa'ata",
+      "p2Desc": "Fa'amatala fausaga fa'aonaponei fa'asinomaga, fa'aputuga fa'atekonolosi fa'ata'ita'iina, ma fa'ata'ita'iga microservices.",
+      "p2Tag": "Faufale",
+      "p3Title": "Toe Fa'aaogaina Aseta & Faletusi",
+      "p3Desc": "Fa'avavevave le saosaoa o atina'e ma vaega fa'asoa, fa'ata'ita'iga, pusa amata, ma faiga fa'atulagaina.",
+      "p3Tag": "Toe fa'aaogaina",
+      "p4Title": "Atinae o Agavaa",
+      "p4Desc": "A'oa'oga fa'atulagaina, a'oa'oga fa'atekinolosi, ma tomai fa'apitoa e si'itia ai le tomai fa'ainisinia a le 'au.",
+      "p4Tag": "Agava'a",
+      "p5Title": "Fa'afouga & Fa'atekonolosi Fa'afou",
+      "p5Desc": "R&D i sui ole AI, paipa fa'aautomatika, ma fa'asologa o isi augatupulaga e fa'amautu ai le pito i luga ole maketi.",
+      "p5Tag": "Fa'afouga",
+      "p6Title": "Fa'aleleia pea",
+      "p6Desc": "Fa'ata'ita'iga fa'ainisinia (DORA), SLA fa'ata'ita'iga, ma fa'aauau pea le fa'aleleia atili.",
+      "p6Tag": "Tulaga lelei"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Fa'atonu Fa'ainisinia Fa'atekinolosi",
+      "titlePart1": "Atina'e aganu'u &",
+      "titlePart2": "Fa'asinomaga",
+      "description": "Atinae ma le faʻaleleia o talosaga, faʻavae, faʻasologa o galuega, ma faʻafitauli tau atinaʻe e faʻafetaui manaoga faʻapitoa pisinisi ma tuʻuina atu galuega faʻapitoa.",
+      "bookConsultation": "Tusia se Faatalatalanoaga",
+      "exploreCapabilities": "Saili Gafatia",
+      "coreCapabilities": [
+        "Atina'e Fa'asinomaga",
+        "Fa'atonu Fa'avae",
+        "Fa'aopoopoga",
+        "Fa'asinomaga Galuega",
+        "Atinae API",
+        "Tuufaatasiga Faiga",
+        "UI/UX Fa'aleleia",
+        "Fa'atonuga Fa'atinoga"
+      ],
+      "row1Eyebrow": "FA'ASA'OGA FA'ASA'I",
+      "row1Title": "Fa'ailoga Fa'apitoa na Fausia mo Lau Fa'asologa o Galuega",
+      "row1P1": "Polokalama fa'apitoa tau atina'e e masani ona le mafai ona ausia mana'oga fa'apitoa tau pisinisi. O la matou 'au fa'ainisinia fa'aleaganu'u e atia'e fa'atonuga fa'aoga, tulafono fa'apisinisi masani, ma fa'aopoopoga fa'apitoa e fa'atatau i au galuega.",
+      "row1P2": "Mai fa'alelei CRM ma le ERP fa'apitoa i faitoto'a fa'apitoa fa'atino, matou te fausia fa'ailoga e fetaui lelei ma fa'asologa sa'o a lau 'au.",
+      "row2Eyebrow": "FA'AIGA FA'AIGA FA'AVAE",
+      "row2Title": "Fa'atonu Fa'avae & Atina'e API",
+      "row2P1": "Fa'afeso'ota'i faiga fa'akomepiuta 'ese'ese i totonu ole fa'anatura fa'akomepiuta tu'ufa'atasi. Matou te inisinia masani REST ma GraphQL APIs, webhook fa'atau, ma fa'asologa o fe'au atina'e e fa'amautinoa ai le fa'amaopoopoina o fa'amaumauga i taimi uma i au fa'avae uma.",
+      "row2P2": "Pe tu'ufa'atasia meafaigaluega SaaS lona tolu po'o le fa'alauteleina o tulaga fa'apitoa i luga o le fale, o matou tu'ufa'atasiga tu'ufa'atasiga e fa'amuamua le fa'amaoni o fa'amaumauga, fa'aogaina, ma le leai o se taimi.",
+      "row3Eyebrow": "UI/UX & GALUEGA",
+      "row3Title": "UI/UX Fa'aleleia & Fa'aleleia o Fa'atinoga",
+      "row3P1": "Si'itia feso'ota'iga fa'aleaganu'u fa'atasi ai ma fa'aonaponei, fa'afoliga fa'aoga fa'aoga ua fuafuaina mo le saoasaoa ma le manino. Matou te toe fa'ainisinia pito pito i luma ma fa'ata'ita'iga fa'ata'ita'i, fa'aogaina fa'ataga, ma fa'ata'ita'iga fa'aa'oa'oga fa'afaigofie.",
+      "row3P2": "I se tulaga tutusa, o matou enisinia fa'atinoga e fa'amanino fa'amatalaga o fa'amaumauga, ta'iala fa'apipi'i, ma lapo'a pito pito i luma e tu'uina atu ai taimi vave tali i masini uma.",
+      "pillarsTitle": "Fa'ainisinia i au fa'amatalaga sa'o",
+      "pillarsSub": "Fa'ata'ita'iga fa'apitoa fa'apitoa fa'apitoa e fausia e fua fa'atatau.",
+      "pillar1Title": "Fa'asinomaga Galuega & Fa'aopoopoga",
+      "pillar1Desc": "Fa'atatau i le fa'aogaina o le fa'aoga ma masini otometi fa'atulagaina fa'atatau i au tulafono fa'atino i totonu.",
+      "pillar2Title": "API & System Integration",
+      "pillar2Desc": "Saogalemu, fa'amaonia alalaupapa fa'amaumauga e feso'ota'i ai tua'oi fa'apitoa, su'ega ERP, faitoto'a totogi, ma auaunaga ao.",
+      "pillar3Title": "Faiga Fa'avae",
+      "pillar3Desc": "Fa'ata'ita'iga loloto fa'ata'ita'iga e fa'aleleia ai polokalame tau atina'e e aunoa ma le solia o auala fa'aleleia po'o maliega lagolago a tagata fa'atau.",
+      "pillar4Title": "Fa'atonuga Fa'atinoga",
+      "pillar4Desc": "Fa'aliga fa'amatalaga fa'amalosi, fa'ate'aina le galo, ma le tufaina o le CDN pito mo uta i lalo-lua itulau.",
+      "ctaTitle": "Sauni e Fa'avasega lau Atina'e Atina'e?",
+      "ctaSub": "Fa'afeso'ota'i ma a matou fofo fa'ata'ita'i e fa'ata'atia ma fa'apipi'i fa'ata'ita'iga fa'apitoa, fa'agasolo galuega, ma tu'ufa'atasiga e fa'atatau i ou mana'oga fa'apisinisi.",
+      "ctaButton": "Tusi se Valaau Fa'apitoa",
+      "badge": "Fa'atonu Fa'ainisinia Fa'atekinolosi",
+      "viewAllServices": "Va'ai Au'aunaga Uma"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Atina'e Fa'aonaponei",
+      "titlePart1": "Numera",
+      "titlePart2": "Liua",
+      "description": "Fa'aonaponei fa'aonaponei fa'aonaponei fa'aonaponei fa'aonaponei, fa'atekonolosi fausaga, ma fa'ata'ita'iga fa'agaioiga e fa'aosoina ai le fa'atupuina o fa'alapotopotoga, lelei fa'agaioiga, ma fa'atupuina fa'atekinolosi gafataulimaina.",
+      "startTransformation": "Amata Suiga",
+      "exploreStrategy": "Su'esu'e Fuafuaga",
+      "coreCapabilities": [
+        "Fuafuaga & Fa'afanua Ala",
+        "Faiga Fa'aonaponei",
+        "Ao & Atina'e",
+        "Fa'amaumauga & Iloiloga",
+        "Fa'agasologa o le numera",
+        "Aafiaga Tagata Fa'atau",
+        "Pulea Suiga",
+        "Fa'ata'ita'iga Fa'atino Agile"
+      ],
+      "row1Eyebrow": "Fuafuaga & Faafanua",
+      "row1Title": "Mai le Va'aiga i le Fa'atinoina o le Fa'afanua",
+      "row1P1": "Matou te fa'apa'aga ma ta'ita'i atina'e e fa'auiga fuafuaga fa'atekinolosi, mataupu fa'apisinisi, ma fa'asologa fa'asolosolo auala fa'atasi ai ma manumalo vave ma le fa'ataunu'uina.",
+      "row1P2": "Fa'amuamua fuafuaga, TCO fa'ata'ita'iga, ma KPI fa'amautinoaina so'o se taumafaiga fa'aonaponei fa'atekonolosi e feso'ota'i sa'o i tupe maua, lelei, ma taunu'uga fa'amalieina tagata fa'atau.",
+      "row2Eyebrow": "Legacy Modernization",
+      "row2Title": "Fa'aonaponei e aunoa ma le motusia o le Pisinisi",
+      "row2P1": "Toe fa'atūina monoliths i microservices, APIs, ma fa'asologa o le ao fa'atasi ai ma le fa'ato'a fa'ato'ilalo taimi ma fa'amaonia le fa'aogaina otometi.",
+      "row2P2": "Matou te fa'aonaponei talosaga, fa'amaumauga tu'ufa'atasiga, ma tu'ufa'atasiga tu'ufa'atasia a'o fa'atumauina le tausisia ma le tulaga saogalemu.",
+      "row3Eyebrow": "Ao, AI & Faamatalaga",
+      "row3Title": "Fa'aopoga o Ao & Fa'amatalaga Fa'amatalaga",
+      "row3P1": "Fa'aaoga le AWS, Azure, ma le GCP, fausia fa'aonaponei fa'amaumauga o paipa, ma fa'apipi'i masini a'oa'oga e fa'atupu fa'ai'uga tuto'atasi.",
+      "row3P2": "Mai le taimi moni o mea tutupu e tafe atu i dashboards tu'ufa'atasi, suiga e mafai ona fuaina ma tumau.",
+      "row4Eyebrow": "Aafiaga Tagata Fa'atau",
+      "row4Title": "Omnicchannel Aafiaga Fa'aonaponei",
+      "row4P1": "Toe fa'avasega malaga a tagata fa'atau i luga o upegatafa'ilagi talileleia, iOS, Android, ma faitoto'a o auaunaga a le tagata lava ia ma feso'ota'iga fa'apitoa.",
+      "row4P2": "Fa'ainisinia fa'apolokalame, telemetry, ma fa'agasolo fa'amatalaga fa'aautomatika e fa'aauau pea le fa'afouga fa'atekinolosi.",
+      "pillarsTitle": "Poutu Liua",
+      "pillarsSub": "Lever e taula'i i taunu'uga e fa'amautinoa ai le gafataulimaina o ta'ita'iga numera.",
+      "pillar1Title": "Fuafuaga Fa'atekinolosi & Pulega",
+      "pillar1Desc": "Fa'ata'ita'iga suiga fa'asolosolo fa'atasi ma le fa'ata'ita'iina o mataupu fa'apisinisi, fa'atonuga fa'ata'ita'iga, ma le mata'ituina o tulaga lamatia.",
+      "pillar2Title": "Ao & Fa'amaumauga",
+      "pillar2Desc": "AWS/Azure/GCP fa'avae ao tele, paipa fa'aautomatika, ma fa'amalosia fa'amaumauga o fa'amatalaga tau pisinisi.",
+      "pillar3Title": "AI & Otometi",
+      "pillar3Desc": "Otometi fa'agasologa atamai, su'esu'ega fa'apitoa o le AI, ma le telemetry fa'apitoa e fa'amalieina ai galuega i aso ta'itasi.",
+      "pillar4Title": "Aafiaga Tagata Fa'atau",
+      "pillar4Desc": "Omnicchannel numera tele fa'aliliuga ma feso'ota'iga fa'apitoa e fausia mo le fa'amauina o tagata fa'aoga maualuga.",
+      "ctaTitle": "Sauni e Suia Lau Pisinisi?",
+      "ctaSub": "Fa'apaaga ma Rezonants mo suiga fa'afuainumera fa'ate'a, fa'ate'ia fa'aletonu e feso'ota'i i taunu'uga tau pisinisi.",
+      "ctaButton": "Tusi se Valaau Fa'aliliuga Fa'atekinolosi",
+      "bookWorkshop": "A'oa'oga Suiga Tusi",
+      "exploreFramework": "Su'esu'e Fofo Fa'avae",
+      "coreCapabilitiesTitle": "Avanoa Autu"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Fa'agata Tekinolosi Lifecycle",
+      "titlePart1": "Fofo Fa'ai'uga",
+      "titlePart2": "Fa'avae",
+      "description": "Ose fa'atulagaina, fa'ata'ita'iga fa'ata'ita'iga fa'ata'amilosaga atoa e fa'atatau i mana'oga tau pisinisi, fa'ata'ita'iga ata, inisinia, tu'ufa'atasiga, fa'amautinoaga lelei, fa'apipi'iina o ao, ma fa'atonuga fa'atino.",
+      "startJourney": "Amata Lau Poloketi",
+      "exploreFramework": "Su'esu'e Fa'avae",
+      "coreCapabilities": [
+        "Iloiloga o Manaoga",
+        "Fuafuaga Fa'ata",
+        "Atina'e Atina'e atoa",
+        "Tu'ufa'atasi Inisinia",
+        "Fa'amautinoaga Tulaga",
+        "Fa'ata'atia & Fa'asolo",
+        "Galuega Fa'aauau",
+        "Evolution Fa'aauau"
+      ],
+      "row1Eyebrow": "Fuafuaga & Fausia",
+      "row1Title": "Manaoga Inisinia & Fofo Design",
+      "row1P1": "A'oa'oga felagolagoma'i, fa'afanua fa'afanua pisinisi, ma fa'ata'ita'iga fa'ata'otoga o ao e fa'amanino e fa'ate'a ai fa'alavelave a'o le'i tusia se laina fa'ailoga.",
+      "row1P2": "Matou te fa'auigaina fa'ata'ita'iga fa'amaumauga, fa'atulagaga o le puipuiga, ma fa'ailoga fa'alautele e fa'atūina ai le manuia mo se taimi umi.",
+      "row2Eyebrow": "Inisinia & Lelei",
+      "row2Title": "Atina'e Atina'e atoa & Su'ega Fa'atometi",
+      "row2P1": "Au'aunaga laiti fa'akomepiuta, API fa'aoga-saogalemu, ma pito i luma tali fa'atasi fa'atasi ma le iunite fa'autometi, tu'ufa'atasia, ma su'esu'ega saogalemu.",
+      "row2P2": "Fa'aauau paipa fa'atasi ma GitHub Actions, Terraform, ma fa'aautometi puipui puipui.",
+      "row3Eyebrow": "Fa'atino ma Galuega",
+      "row3Title": "Fa'asoaina o Ao & 24/7 Puleaina le Mata'ituina",
+      "row3P1": "Fa'asologa o ao tele i luga o le AWS/Azure/GCP fa'atasi ai ma le toe fa'afo'i otometi, fa'ato'a fa'ato'atoa taimi, ma le mata'ituina o taimi moni.",
+      "row3P2": "Matou te tu'uina atu le tausiga o le SLA ma fa'aauau pea le mata'ituina o le telemetry e fa'aleleia atili ai lau oloa.",
+      "row4Eyebrow": "Pulega o Atina'e",
+      "row4Title": "Pulega Tuufaatasi & Lagolago Fa'aauau",
+      "row4P1": "Ta'u tasi-ituaiga tali atu i lau fa'aputuga fa'akomepiuta atoa - manino le saoasaoa o le saoasaoa, tala fa'atatau o tupe, ma le fa'aauauina o mea fou.",
+      "row4P2": "O fa'asalalauga fa'apitoa ma ta'amilosaga fa'aonaponei e fa'atumauina ai lau atina'e i luma o le tauvaga.",
+      "pillarsTitle": "Poutu o le Ta'amilosaga o le Ola",
+      "pillarsSub": "O vaega ta'itasi uma e fa'ainisinia i le fa'apolokalameina o atina'e.",
+      "pillar1Title": "Taiala & Manaoga",
+      "pillar1Desc": "Su'esu'ega o le fanua, fa'afanua auala fa'ata'atia, ma le fa'aogaina o paaga e fa'aitiitia ai fa'alavelave.",
+      "pillar2Title": "Faufale & Faufale",
+      "pillar2Desc": "'au'aunaga laiti fa'aao-native, tu'ufa'atasia API, ma su'ega QA faifaipea.",
+      "pillar3Title": "Saogalemu & Fa'asoa",
+      "pillar3Desc": "Le tausisia o le saogalemu e leai se fa'atuatuaga, fa'asalalauga fa'apipi'i, ma fa'apipi'i otometi ao.",
+      "pillar4Title": "Pule & Lagolago",
+      "pillar4Desc": "24/7 SLA mata'ituina, telefoni fa'alesoifua maloloina, ma fa'ainisinia fa'asolosolo fa'asolosolo.",
+      "ctaTitle": "Manaomia se Paaga Atoa o le Lifecycle?",
+      "ctaSub": "Matou te umia le fa'atekonolosi fa'aolaola atoa ina ia mafai e lau 'au ona taula'i i taunu'uga autu o pisinisi.",
+      "ctaButton": "Paaga mo le Taamilosaga Atoa o le Ola"
+    },
+    "migrationServices": {
+      "eyebrow": "Ao & Atina'e Suiga",
+      "titlePart1": "Femalaga'iga &",
+      "titlePart2": "Fa'aonaponei",
+      "description": "Saogalemu, fa'atulagaina femalagaiga o tala fa'asolopito, fa'amaumauga, ma atina'e i ata fa'aonaponei ao, fa'atasi ma fa'aonaponei fa'aauau mo le fa'aleleia atili ma le fa'alelei.",
+      "bookAssessment": "Su'esu'ega o Femalaga'iga Tusi",
+      "exploreStrategy": "Su'esu'e Fuafuaga Ao",
+      "coreCapabilities": [
+        "Ao Malaga",
+        "Fa'aoga Fa'aonaponei",
+        "Fa'amatalaga Fa'amatalaga",
+        "Toe fa'aleleia o Atina'e",
+        "Fa'aputu",
+        "Suiga Microservices",
+        "Fa'atonuga Fa'atinoga",
+        "Saogalemu & Tausi"
+      ],
+      "row1Eyebrow": "Ao Malaga",
+      "row1Title": "Tele-Cloud Strategy & Si'itia-ma-Fa'alelei",
+      "row1P1": "Femalagaa'i sologa lelei o galuega i le AWS, Azure, ma le Google Cloud fa'atasi ai ma su'esu'ega otometi, fuafuaga o galu, ma leai se fa'alavelave fa'apisinisi.",
+      "row1P2": "Matou te faapaleni le toe fa'aleleia, toe fa'aleleia, ma le toe fa'aleleia e fa'amalieina le tau atoa o le umiaina (TCO) ma le fa'amalosi.",
+      "row2Eyebrow": "Fa'amatalaga & Fa'amatalaga Fa'amatalaga",
+      "row2Title": "Saogalemu ETL & Automated Data Validation",
+      "row2P1": "Otometi fa'amaumauga tu'ufa'atasiga, fa'aliliuga fa'asologa, ma laina eletise ETL maualuga fa'atasi ma le 100% fa'amaonia le fa'amaoni o fa'amaumauga.",
+      "row2P2": "Ole fa'ata'ita'iga fa'ato'a fa'ato'atoa taimi e fa'amautinoa ai le fa'atumauina o fa'amaumauga ma le fa'aauauina o pisinisi.",
+      "row3Eyebrow": "Faiga Fa'aonaponei",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Fa'aonaponei monoliths tu'ufa'atasi i totonu o auaunaga fa'apitoa e mafai ona fa'avasegaina e ala i Kubernetes (EKS, AKS, GKE) fa'atasi ai ma ata otometi IaC.",
+      "row3P2": "Fa'ata'ita'i fa'atinoga o fa'atinoga pe a mae'a femalaga'iga ma le fa'asilisiliina o tau fa'amautinoaina vave le ROI.",
+      "row4Eyebrow": "Fuafuaga Fa'amau",
+      "row4Title": "Otometi Su'ega & Toe Fa'afo'i Upega Saogalemu",
+      "row4P1": "Fa'ata'ita'i fa'ata'ita'i fa'ata'ita'iina i taua, su'ega otometi fa'asolosolo, ma faiga fa'afo'i vave mo le filemu atoatoa o le mafaufau.",
+      "row4P2": "Telemetry soifua maloloina pe a mae'a femalaga'iga ma 24/7 hypercare fa'amautinoa le mautu lelei o le gaosiga.",
+      "pillarsTitle": "Fa'amautinoaga o Femalaga'iga",
+      "pillarsSub": "Fa'ate'a fa'aletonu o lo'o lagolagoina e atina'e SLAs.",
+      "pillar1Title": "Fa'ato'ilalo Taimi e leai se taimi",
+      "pillar1Desc": "Tu'u Canary ma fa'amaumauga e lua-tusi fa'atasi ina ia mautinoa e le fa'alavelaveina le fa'aogaina o tagata.",
+      "pillar2Title": "Fa'amaonia Fa'amaumauga otometi",
+      "pillar2Desc": "Fa'atusatusaga siaki, su'esu'ega fa'amaoni o fuafuaga, ma fa'alelei ETL otometi.",
+      "pillar3Title": "Toe Fa'afo'i Upega Saogalemu",
+      "pillar3Desc": "Fa'ata'ita'iga fa'apitoa mo le toe fa'aleleia o fa'alavelave fa'afuase'i ma fa'ata'ita'iga fa'ata'ita'iga ina ia taofiofia tulaga lamatia i vaega uma.",
+      "pillar4Title": "Fa'atinoga & Fa'atonuga o Tau",
+      "pillar4Desc": "Fa'asa'oina o le ao, faiga fa'avae autoscaling, ma dashboards tau pulega e aofia ai.",
+      "ctaTitle": "Sauni e Malaga ma le Fa'atuatuaina Atoa?",
+      "ctaSub": "Fa'apaaga ma Rezonants mo le fa'atulagaina, leai se lamatiaga o ao ma fa'aonaponei fa'amaumauga.",
+      "ctaButton": "Fuafua Lau A'oa'oga Femalaga'iga"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Fa'amaonia vave & Fa'atino",
+      "titlePart1": "Fa'amaoniga o Manatu (PoC) &",
+      "titlePart2": "Fa'atinoina o Pailate",
+      "description": "Fa'avavevave le atina'eina ma le fa'amaoniaina o fofo fa'atekonolosi e iloilo ai le agava'a fa'apitoa, tau pisinisi, tu'ufa'atasiga mana'omia, fa'atinoga, ma le fa'atuputeleina a'o le'i fa'atinoina atoa.",
+      "initiateDiscovery": "Amata le PoC Discovery",
+      "exploreDevelopment": "Saili Atina'e Fa'asinomaga",
+      "coreCapabilities": [
+        "Atinae PoC",
+        "Fa'ata'ita'iga Inisinia",
+        "Su'esu'ega Fa'atino",
+        "Fa'amaoniaga Fa'ata",
+        "Su'ega Fa'atasi",
+        "Fa'ailoga Fa'atino",
+        "Fa'ata'otoga pailate",
+        "Iloiloga o Tau"
+      ],
+      "row1Eyebrow": "Fa'amaonia vave",
+      "row1Title": "Mai le Manatu i le Fa'amaonia Fa'atonu",
+      "row1P1": "O le fa'aliliuina o se manatu i se fofo fa'atauva'a e mana'omia ai le fa'amaoniaina i luma. O la matou PoC & Pilot auaunaga e iloilo ai le gafatia o tekinolosi, faʻamamafa-faʻataʻitaʻiina matau tuʻufaʻatasia taua, ma faʻamaonia le ROI pisinisi aʻo leʻi faia ni faʻavae tetele.",
+      "row1P2": "Matou te fauina MVP fa'amaoni maualuga ma pailate pusa oneone e fa'amaonia ai le mafai fa'apitoa, fuaina le fa'agaoioiga o faiga, ma fa'aputu vave fa'amaoniga a paaga.",
+      "row1Cap": "Fa'ata'ita'iga MVP vave & Fa'ailoga Fa'atekinisi",
+      "row2Eyebrow": "Agile Prototyping",
+      "row2Title": "Feso'ota'i MVPs & UX Validation",
+      "row2P1": "Matou te fauina ni uaea feso'ota'i, fa'aoga fa'aoga e mafai ona kiliki, ma fa'amaoniga fa'atino i aso, ae le o masina. Fa'ata'ita'i fegalegaleaiga moni a tagata fa'aoga, fa'alelei mamanu UI/UX, ma fa'aputu fa'amatalaga fa'atino mai paaga.",
+      "row2P2": "I le fa'apu'upu'u o fa'amatalaga fa'aalia i le amataga o le atina'e, e fa'aitiitia ai e lau 'au le toe galue ma fa'atūina fa'amatalaga fa'apitoa fa'apitoa a'o le'i amata vaega faufale tetele.",
+      "row2Cap": "Fa'ata'ita'i Vave & Fa'ata'ita'iga UX e mafai ona kiliki",
+      "row3Eyebrow": "Tu'ufa'atasiga & Su'ega Fa'ateleina",
+      "row3Title": "Fa'ate'aina Faiga Fa'alavelave Fa'alavelave Fa'atasi",
+      "row3P1": "Fa'ailoa fa'agata fa'atekinisi, tapula'a API, ma tapula'a fa'atinoga a'o le'i fa'atumauina fa'atupe atoa. O la matou 'au fa'ainisinia pailate e su'esu'e fa'atasi, laina paipa o fa'amaumauga, ma API isi vaega i totonu o si'osi'omaga o pusa oneone.",
+      "row3P2": "O lenei fa'aiti'itia fa'alavelave fa'aletonu e fa'amautinoa ai le maualuga o le avanoa, le tausisia o le puipuiga, ma le va'aia o taimi fa'atupuina pe a suia lau PoC i le gaosiga o atina'e.",
+      "row3Cap": "Sandbox Integration & Su'ega Fa'atiga",
+      "row4Eyebrow": "Fa'ata'ita'i Gaosia Pulea",
+      "row4Title": "Fa'ata'ita'iga Fa'ata'ita'iga Fa'ata'ita'iga & Fa'amaonia mataupu tau Pisinisi",
+      "row4P1": "Fa'ata'atia fa'asalalauga pailate fa'atatau i se vaega filifilia po'o se maketi su'ega. Su'esu'e fua fa'atinoga, au'ili'iliga o le fa'aaogaina o tagata, ma tali fa'atino e fa'atatauina le tau o pisinisi ma fa'atuina se mataupu fa'apisinisi e lagolagoina fa'amaumauga.",
+      "row4P2": "Fa'atasi ai ma fa'amatalaga pailate fa'alelalolagi, e maua ai e le au lagolago fa'apitoa ni fua fa'atatau ROI e fa'amanino ai le fa'atinoina lautele ma le fa'aogaina o suiga fa'atekinolosi.",
+      "row4Cap": "Fa'atonu Fa'atino & Fa'atinoga Telemetry",
+      "pillarsTitle": "O matou Fa'avae Fa'ainisinia Pailate",
+      "pillarsSub": "Ta'iala ta'iala e fa'aliliuina ai le le mautonu fa'atekinisi i le manuia fa'apisinisi.",
+      "pillar1Title": "PoC & MVP Fa'ata'ita'iga",
+      "pillar1Desc": "Tuuina atu fa'ata'ita'iga fa'atino fa'atino vave e fa'amaonia ai tau fa'atatau i le amataga o le fa'asologa o le olaga.",
+      "pillar2Title": "Fa'atino & Fa'amaonia",
+      "pillar2Desc": "Fa'amaonia le feso'ota'iga API, fa'alava fa'aulu, ma tapula'a le usita'ia i si'osi'omaga o pusa oneone.",
+      "pillar3Title": "Su'esu'ega Fa'ateleina",
+      "pillar3Desc": "Fa'ata'ita'i le uta o le gaosiga e fa'amautu tapula'a gafatia ma fa'amautu le fa'avasegaina o ao.",
+      "pillar4Title": "Fa'amaonia mataupu tau Pisinisi",
+      "pillar4Desc": "Fa'atatau le ROI ma'oti ma fua fa'atatau e lagolago ai fa'ai'uga fa'aulufale a le atina'e.",
+      "ctaTitle": "Ua sauni e fa'amaonia lau isi fa'amatalaga numera?",
+      "ctaSub": "Fa'afeso'ota'i ma le matou 'au fa'ainisinia fofo e su'esu'e au mana'oga o le poloketi, fausia se fa'ata'ita'iga, ma fa'ata'ita'i le fa'atinoina e aunoa ma se lamatiaga.",
+      "ctaButton": "Tusi se Fa'atalanoaga PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Nofoaga Tutotonu o Galuega",
+      "titlePart1": "Au'aunaga Fa'asoa &",
+      "titlePart2": "Puleaina Galuega",
+      "description": "Fa'atotonugalemu le tu'uina atu o tekonolosi ma agava'a fa'agaioiga i iunite fa'apisinisi e ala i faiga fa'ata'atia, puna'oa fa'apitoa, ta'iala tau pulega, pulega o auaunaga, ma fuaina o auaunaga.",
+      "bookDiscovery": "Su'esu'eina o Galuega Fa'afoe Tusi",
+      "exploreFramework": "Su'esu'e Fofo Fa'avae",
+      "coreCapabilities": [
+        "Auaunaga Pulea",
+        "Galuega IT",
+        "Fesoasoani Lagolago",
+        "Puleaina o Auaunaga",
+        "Fa'aleleia o Punaoa",
+        "Pulega SLA",
+        "Pule",
+        "Fa'aleleia pea",
+        "Fa'atonuga o tau"
+      ],
+      "row1Eyebrow": "Tu'ufa'atasi Tu'u Atu Nofoaga",
+      "row1Title": "Au'aunaga Fa'ata'atia i Vaega Fa'apisinisi Uma",
+      "row1P1": "Fa'atasia le IT i tua, pulega fa'apitoa, ma lagolago fa'atekinisi i totonu o se nofoaga autu e tu'uina atu ai le maualuga.",
+      "row1P2": "E ala i le fa'ate'aina o le 'au fa'alua i luga ma fa'ata'ita'iina fa'ata'ita'iga tu'uina atu o auaunaga, e fa'amautu ai e lau fa'alapotopotoga le lelei faifaipea ma fa'aititia le aofa'i o tupe fa'aalu.",
+      "row2Eyebrow": "24/7 SRE & Talosaga Lagolago",
+      "row2Title": "Mata'itū Fa'atino & Fa'ai'uga Fa'afuase'i Fa'alavelave",
+      "row2P1": "O a matou Site Reliability Engineers (SRE) ma lagolago fa'apitoa e tu'uina atu le 24/7/365 mata'ituina o le telemetry, fa'ata'ita'iga fa'aautometi, ma le vave L1/L2/L3 fa'afitauli.",
+      "row2P2": "Fa'alagolago i ta'utinoga a le SLA, matou te fa'amautinoa 99.99% avanoa mo au fa'atonuga fa'a-misiona ma atina'e ao.",
+      "row3Eyebrow": "ITIL Pulea & Tausi",
+      "row3Title": "Fa'atulagaina o Au'aunaga Fa'atonu",
+      "row3P1": "Fa'atino tulaga fa'ata'ita'i a le ITSM (ServiceNow, Jira Service Management) fa'atasi ai ma fa'ailoga manino, su'esu'ega o a'a, ma suiga o le pulega o puipui.",
+      "row3P2": "O auala su'etusi atoa ma faiga fa'avae e fa'amautinoa ai le tausisia o au fa'agaioiga ma tulaga fa'ava-o-malo.",
+      "row4Eyebrow": "FinOps & Fa'aleleia Fa'aauau",
+      "row4Title": "Tala fa'atatau o Tupe & Fa'atonuga Punaoa",
+      "row4P1": "Ave'ese le fa'aleaga o ao, fa'asili le fa'avasegaina o fa'atusatusaga, ma fa'autometi le tausiga fa'agaioiga fa'atasi ma faiga sili a FinOps.",
+      "row4P2": "Lipoti manino faalemasina ma va'aiga gafatia e fa'amautinoa ai le fa'aauauina o tau fa'agaioiga ma le maualuga o tupe fa'avae.",
+      "pillarsTitle": "Galuega Poutu",
+      "pillarsSub": "Lever fa'atino fa'amaonia mo le fa'alagolagoina o atina'e.",
+      "pillar1Title": "24/7 Puleaina IT Faagaioiga",
+      "pillar1Desc": "Proactive NOC telemetry, patching server, tausiga o mea tetele, ma le 99.99% uptime guarantees.",
+      "pillar2Title": "ITSM & Laulau Auaunaga",
+      "pillar2Desc": "Tier 1/2/3 multi-channel helpdesk, fa'alavelave fa'afuase'i, ma fa'atulagaina fa'asologa o fa'aiuga o pepa malaga.",
+      "pillar3Title": "SLA & Puleaina o Galuega",
+      "pillar3Desc": "Taimi tali fa'akonekarate, fa'ailoga MTTR, ma su'etusi manino fa'atino fa'alemasina.",
+      "pillar4Title": "FinOps & Fa'alelei Tau",
+      "pillar4Desc": "Fa'aauau alagaoa fa'atatau-sa'o, toe fa'aleleia o laisene, ma fa'aitiitiga otometi tau o ao.",
+      "ctaTitle": "Sauni e Fa'ateleina au Fa'agaioiga Pulea?",
+      "ctaSub": "Fa'apaaga ma Rezonants mo le fa'atuatuaina, 24/7 fa'afoe auaunaga e fa'amalieina tau ma fa'aitiitia taimi fa'agaioiga.",
+      "ctaButton": "Tusia se Fa'atalanoaga Fa'atonu",
+      "howItWorksHeading": "O se auala fa'amaonia i le manuia o auaunaga fa'asoa"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Faiga atamai",
+      "heroHeading": "AI & Robotics e galulue faatasi",
+      "intro": "Artificial Intelligence (AI) ma Robotics o loʻo suia le auala e faʻagaioi ai pisinisi e ala i le tuʻufaʻatasia o filifiliga atamai ma le masini faʻapitoa. AI e mafai ai e masini ona au'ili'ili fa'amaumauga, a'oa'o fa'ata'ita'iga, ma fai fa'ai'uga atamai, a'o fa'apolopolo e aumaia nei agava'a i le lalolagi fa'aletino e fa'atino ai galuega ma le saoasaoa, sa'o, ma le tumau.",
+      "section1Heading": "Fausia e faʻafaigofie gaioiga uma",
+      "section1Text": "O a matou AI ma Robotics fofo e fesoasoani i faʻalapotopotoga e faʻafaigofie galuega, faʻaitiitia taumafaiga tusilima, ma faʻaleleia le gaosiga i totonu o pisinisi eseese. Mai le fa'agasologa o masini ma su'esu'ega fa'apitoa i robotics atamai ma faiga fa'apoto, matou te tu'uina atu tekonolosi fou e fa'aleleia ai le lelei, fa'ateleina le tuputupu a'e, ma lagolagoina suiga fa'atekinolosi.",
+      "section2Heading": "Le mea e fetaui ai le atamai ma faatinoga",
+      "section2Text": "So'o se fegalegaleai, fa'ai'uga, ma gaioiga e fa'amalosia e se faiga feso'ota'i e tasi - liliu fa'amaumauga i taunu'uga i le taimi moni.",
+      "footerTag": "Tekinolosi fou mo suiga numera"
+    },
+    "informationReporting": {
+      "brand": "Atina'e Fa'amatalaga Fa'amatalaga",
+      "heroTitle": "Fa'amatalaga & Lipoti Faiga",
+      "heroSubtitle": "Se puna e tasi o le mea moni mo matagaluega uma - fausia e liliu faʻamatalaga faʻagaioiga mataʻutia i filifiliga e mafai e lau pisinisi ona faʻatino i aso nei.",
+      "statusLive": "OLA",
+      "statusAnalyzed": "ILOILOGA",
+      "statusArchived": "FAALAUINA",
+      "statusPending": "FA'ATAALI",
+      "metricUptime": "System Uptime",
+      "metricSessions": "Sauniga Toaga",
+      "metricReportsPerDay": "Lipoti / Aso",
+      "metricEvents": "Mea Fa'ailo i Aso Ta'itasi",
+      "metricReports": "Lipoti Fa'atulagaina",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Tu'ufa'atasi",
+      "analyticsSuite": "Iloiloga Suega",
+      "reportingConsole": "Lipoti Console",
+      "businessOutcome": "Taunuuga Pisinisi",
+      "section1Heading": "Tasi fa'atonuga fa'apitoa mo metric uma e taua",
+      "section1P1": "Fa'amatalaga & Lipoti Faiga o ni fofo fa'apisinisi taua e mafai ai e fa'alapotopotoga ona aoina, pulea, ma suia fa'amaumauga i ni fa'amatalaga anoa. O nei faiga e tuʻufaʻatasia faʻamatalaga mai le tele o matagaluega, faʻamautinoa le saʻo, tumau, ma le taimi moni avanoa i faʻamatalaga pisinisi taua. E ala i le tu'uina atu o se fa'avae fa'atotonugalemu mo le fa'afoega o fa'amatalaga, e mafai ai e fa'alapotopotoga ona fa'aleleia le va'aia o galuega, fa'agasolo galuega, ma lagolagoina faiga fa'ai'uga fa'atatau i la'asaga uma o le atina'e.",
+      "section1P2": "O nei faiga e fa'aogaina ai lipoti otometi, au'ili'ili, ma dashboards e siaki ai le fa'atinoga, mata'itūina fa'ata'ita'iga autu, ma fa'atupuina lipoti moni. E ala i le faʻaitiitia o taumafaiga faʻataʻitaʻi ma le faʻaleleia o le saʻo o faʻamaumauga, e mafai e pisinisi ona faia faʻaiuga vave ma sili atu ona lelei.",
+      "section2Heading": "Fausia mo le va'aia, tausisia, ma le fua",
+      "section2Text": "Faatasi ai ma le faʻaleleia atili o le vaʻaia, tausisia, ma le galulue faʻatasi, Faʻamatalaga & Lipoti Faiga e mafai ai e faʻalapotopotoga ona faʻamalieina faiga, faʻaleleia le gaosiga, ma faʻamalosia le tuputupu aʻe o pisinisi i se siosiomaga tauvaga.",
+      "ctaHeading": "Tu'u atu i 'au uma le ata tutusa o le pisinisi.",
+      "ctaText": "Va'ai pe fa'afefea e Nexus Data Systems ona tu'ufa'atasia lau lipoti i totonu o se tulaga atamai e tasi.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Ua taofia aia tatau uma.",
+      "navOverview": "Vaaiga lautele",
+      "navCapabilities": "Avanoa",
+      "navImpact": "A'afiaga",
+      "navContact": "Fa'afeso'ota'i"
+    },
+    "managedServices": {
+      "subtitle": "Au'aunaga fa'afoe atoatoa mo lau pisinisi"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Fa'aonaponei Talosaga Pisinisi mo se Atina'e Fa'atonu Fa'amaumauga",
+      "excerpt": "Fa'afefea ona fa'aleleia atili le fa'atinoina o galuega, fa'alautele ma le va'aia pisinisi.",
+      "tag": "Suiga Pisinisi",
+      "category": "FUAFUAGA PISINISI",
+      "summary": "O se fa'aoga fa'aonaponei ma fa'amaumauga fa'amaumauga e mafai ona fesoasoani i atina'e e fa'aleleia atili le fa'atinoina o galuega, fa'afeso'ota'i faiga fa'apisinisi ma fa'atupuina atili le va'aiga i a latou galuega."
+    },
+    "artificial-intelligence": {
+      "title": "Fa'afefea ona toe fa'afouina e AI ia Talosaga Atina'e",
+      "excerpt": "Su'esu'e pe fa'afefea ona avea le fa'aautomatika atamai, kopi kopi o le AI ma le atamai fa'ata'ita'i o se vaega o fa'atauga tau atina'e e fa'alagolago iai pisinisi i aso uma.",
+      "tag": "Fa'ata Fa'ata",
+      "category": "MAFAUFAGA FA'AO",
+      "summary": "Su'esu'e pe fa'afefea ona fa'aliliuina e le atamai fa'aautomatika, kopi kopi o le AI ma le atamai fa'ata'ita'i le fa'aliliuina o polokalama fa'akomepiuta i aso uma i ni fa'ata'ita'iga, fa'agasolo fa'atonu."
+    },
+    "modern-erp": {
+      "title": "Fa'avaveina le Suiga Pisinisi ma le ERP fa'aonaponei",
+      "excerpt": "Su'esu'e pe fa'afefea ona fa'afeso'ota'i e fa'aonaponei fa'aonaponei tulaga tau tupe, fa'atauga, sapalai filifili ma fa'agaioiga pisinisi e ala i se fa'avae numera tasi.",
+      "tag": "ERP fa'aonaponei",
+      "category": "ERP FAAPOPO",
+      "summary": "O se fa'aonaponei ERP fa'aonaponei e feso'ota'i ai tupe, fa'atauga, sapalai sapalai, ma fa'agaioiga pisinisi i se fa'ata'ita'iga tu'ufa'atasi, fa'atino taimi moni."
+    },
+    "cybersecurity": {
+      "title": "Fausiaina o le Cyber Resilience i se Atina'e Feso'ota'i",
+      "excerpt": "Su'esu'e pe fa'apefea ona fa'amalosia e fa'alapotopotoga le puipuiga, puipuia faiga fa'apitoa ma saunia mo fa'amata'u i totonu o si'osi'omaga ua fa'ateleina feso'ota'i.",
+      "tag": "Cybersecurity",
+      "category": "CYBERSECURITY",
+      "summary": "A'o tu'ufa'atasia e atina'e le tele o faiga o ao, API, ma fa'alapotopotoga fa'anatura, o le maufetuuna'i i luga ole laiga e fa'amautinoa ai fa'agaioiga fa'a-misiona e tetee atu i fa'amata'u fa'aonaponei."
+    },
+    "cloud-modernization": {
+      "title": "Fa'aonaponei Talosaga Talatuu mo le Ao",
+      "excerpt": "Su'esu'e se faiga fa'atino e su'esu'e ai, fa'aonaponei ma fa'agasolo atu tusi fa'agasolo aga'i atu i ata fa'akomepiuta ma fa'amautu.",
+      "tag": "Ao & Fa'aonaponei",
+      "category": "AO & FA'ATA'IGA",
+      "summary": "O se fa'afanua fa'atulagaina, fa'ata'ita'i fa'ata'ita'iga e iloilo ai, toe fa'afo'i, ma femalaga'i faiga fa'atamaoaiga fa'apitoa i le fa'amama, fa'atumauina o ata fa'apipi'i ao."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "FUAFUAGA PISINISI",
+      "title": "Fa'aonaponei Talosaga Pisinisi mo se Atina'e Fa'atonu Fa'amaumauga",
+      "subtitle": "O se fa'aoga fa'aonaponei ma fa'amaumauga fa'avae e mafai ona fesoasoani i atina'e e fa'aleleia atili le fa'atinoina o galuega, fa'afeso'ota'i faiga fa'apisinisi ma fa'atupuina atili le va'aiga i a latou galuega.",
+      "date": "Setema 2026",
+      "readTime": "7 min faitau",
+      "imageCaption": "Atina'e Tekonolosi Va'aiga - Fa'ata'ita'iga Fa'atonu & Fa'amatalaga Feso'ota'i",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Talosaga Pisinisi",
+          "desc": "Tu'ufa'atasi CRM, ERP, ma meafaigaluega a le matagaluega o lo'o ta'avale i silos."
+        },
+        {
+          "title": "Fa'amatalaga Fa'amatalaga Tele",
+          "desc": "Vaevae laulau fa'agaioiga, CSV si'osi'omaga, ma fa'ata'ita'iga fa'apitoa."
+        },
+        {
+          "title": "Fa'amaumauga ua motusia",
+          "desc": "Tu'u'esea i luga ole nofoaga ma le fa'amaopoopoina fa'amaumauga o fa'amaumauga ao."
+        },
+        {
+          "title": "Lipoti & Tagata Fa'aaogā Pisinisi",
+          "desc": "Fa'alelei tusilima, ripoti fete'ena'i, ma le tuai ona lipotia."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Talosaga Pisinisi",
+          "desc": "Fa'atonuga fa'atino ma feso'ota'iga fa'aonapo nei."
+        },
+        {
+          "title": "API / Tu'ufa'atasi Layer",
+          "desc": "Saogalemu, fa'aoso fa'alavelave API faitoto'a fa'afeso'ota'i fa'aulufalega galuega."
+        },
+        {
+          "title": "Auaunaga Fa'amatalaga",
+          "desc": "Fa'ata'ita'iga fa'amatalaga matai tu'ufa'atasi, paipa, ma masini fa'apipi'i lelei."
+        },
+        {
+          "title": "Iloiloga & Lipoti",
+          "desc": "Telemetry taimi moni, faʻataʻitaʻiga faʻataʻitaʻiga, ma lipoti otometi."
+        },
+        {
+          "title": "Fai Pisinisi",
+          "desc": "Live dashboards fa'agaioiga e maua ai le va'aia fa'apitoa."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Talosaga Pisinisi",
+          "purpose": "Pulea fa'agasologa o pisinisi"
+        },
+        {
+          "area": "API",
+          "purpose": "Tu'ufa'atasiga faiga"
+        },
+        {
+          "area": "Fa'amaumauga",
+          "purpose": "Fa'amaumauga tau pisinisi"
+        },
+        {
+          "area": "Fa'atasiga Fa'amaumauga",
+          "purpose": "Fa'afeso'ota'i fa'apogai se tele"
+        },
+        {
+          "area": "Iloiloga",
+          "purpose": "Fa'amatalaga tau pisinisi"
+        },
+        {
+          "area": "Ao Atina'e",
+          "purpose": "Fa'asalaina ma fetuutuuna'i"
+        },
+        {
+          "area": "Mataituina",
+          "purpose": "Fa'atuatuaina ma le fa'atinoga"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Fa'aleleia atili le va'aiga fa'atino i vaega felagolagoma'i",
+        "Sili atu fa'amaumauga fa'atasi ma fa'apogai tasi o fa'amatalaga moni o atina'e",
+        "Fa'aiti'itia le fa'asalalauina o tusi lesona ma le tu'ufa'atasia o fa'amaumauga otometi",
+        "Faʻaleleia le faʻatinoga o talosaga ma faʻaitiitia le faʻaogaina o fefaʻatauaiga",
+        "Fa'afaigofieina le tu'ufa'atasia o faiga e ala i API fa'asao ma malupuipuia",
+        "Sili atu le fa'alauteleina e lagolago ai le tuputupu a'e ma le mauaina",
+        "Fa'avae sili atu mo le lumana'i fou ma le fa'aaogaina o le atamai"
+      ],
+      "keyPerspectivePoints": [
+        "Malamalama i faiga fa'apisinisi ma fa'agaioiga fa'atinoga moni",
+        "Fa'afeso'ota'i faiga e ala i tulaga fa'alagolago fa'atasi",
+        "Fa'aleleia le lelei o fa'amaumauga, pulega, ma fa'ata'ita'iga fa'amatalaga matai",
+        "Fa'aonaponei talosaga e aunoa ma le fa'alavelaveina o galuega i lea aso ma lea aso",
+        "Fausia le fausaga fa'akomepiuta e fetaui mo le tuputupu a'e fa'alelei",
+        "Fa'ataga le fa'aalia lelei o pisinisi mo faiga fa'ai'uga"
+      ],
+      "sec1Eyebrow": "O LE LU'ITAU FAIGALUEGA",
+      "sec1Heading": "Fa'asagaga Fa'alavelave i se Atina'e Fa'atupulaia",
+      "sec1Subtext": "A'o fa'alautele pisinisi, e mautinoa lava le fa'alauteleina o fa'alapotopotoga fa'atekonolosi. O le mea e amata i fofo taula'i mo matagaluega ta'itasi e mafai ona tupu a'e i se upega lavelave o faiga eseese.",
+      "sec2Eyebrow": "FA'AIGA FA'AIGA",
+      "sec2Heading": "Ose Fa'afanua Fa'atekonolosi Lavelave",
+      "sec2Subtext": "Pe a fa'atuto'atasi talosaga fa'apisinisi, fa'amaumauga, ma faiga fa'agaioiga, o lo'o fa'asolo atu fa'amatalaga. O le malamalama i lenei vaevaega o le laasaga muamua taua.",
+      "sec3Eyebrow": "LE FA'ATA'ITA'I SO'O'I",
+      "sec3Heading": "Fa'ata'ita'iga Fa'aonaponei",
+      "sec3Subtext": "O pisinisi e aga'i atu i se fa'ata'ita'iga fa'atupu, fa'amuamua API lea e tafe fa'atuatuaina ai fa'amaumauga i luga o fa'avae autu ma o'o atu i le au fai filifiliga i le taimi tonu.",
+      "sec4Eyebrow": "ATILI & VAAI",
+      "sec4Heading": "Fa'amatalaga Feso'ota'i & Fa'amatalaga",
+      "sec4Subtext": "Pe a fa'afeso'ota'i fa'akomepiuta pisinisi, e le toe avea fa'amaumauga ma fa'amatalaga fa'atasi ma avea ma fa'auluuluga autu o le fa'agaioiga fa'agaioiga.",
+      "sec5Eyebrow": "TUSI FA'ATASI",
+      "sec5Heading": "Faavae Fa'atekonolosi",
+      "sec5Subtext": "O se va'aiga fa'apitoa o vaega fa'atekonolosi autu o lo'o fausia ai se fa'avae atina'e fa'aonaponei.",
+      "sec6Eyebrow": "TAUA FAI",
+      "sec6Heading": "Aafiaga Pisinisi",
+      "sec6Subtext": "O le fa'aonaponei o fa'ata'ita'iga ma fa'afeso'ota'i fa'amaumauga tu'ufa'atasi e maua ai le fa'aleleia atili o galuega i totonu o le fa'alapotopotoga.",
+      "ctaHeading": "Sauni e Fa'aonaponei Lau Si'osi'omaga Tekonolosi?",
+      "ctaDescription": "Su'esu'e pe fa'apefea ona fesoasoani le fausaga fa'aonaponei fa'aoga, fa'amatalaga feso'ota'i ma fa'atekonolosi fa'alautele le fa'aleleia atili o fa'alapotopotoga ma saunia mo le tuputupu a'e i le lumana'i.",
+      "ctaButton": "Talanoa i o matou Tagata Popoto",
+      "sec1P1": "I totonu o se siosiomaga masani o atinaʻe, o le tuputupu aʻe e masani ona faʻaalia ai le tele o augatupulaga o polokalama. O mea tau tupe, sapalai sapalai, auaunaga a tagata faatau, ma fa'agaioiga fanua e masani ona fa'agaoioia i luga o fa'aputuga faakomepiuta eseese na maua pe fausia i taimi eseese. I le tele o tausaga o le faʻaleleia o galuega, o nei faiga e atiaʻe a latou lava faʻamaumauga faʻamaumauga, faʻafouina cadences, ma tuʻufaʻatasiga tuʻufaʻatasia.",
+      "sec1P2": "Ole fete'ena'iga e fa'aalia ile atina'e e ala ile fa'aogaina masani ole fa'agaioiga:",
+      "sec1List": [
+        {
+          "bold": "Talosaga pisinisi motumotu se tele",
+          "text": "e mana'omia fa'alua fa'amaumauga ma tusi fa'asino fa'asino."
+        },
+        {
+          "bold": "Ta'oto'oto fa'amaumauga",
+          "text": "fa'agaioiina e aunoa ma se pulega fa'atotonugalemu po'o fa'amaumauga tu'ufa'atasi."
+        },
+        {
+          "bold": "Lipoti tusi lesona i luga",
+          "text": ", lea e fa'aalu ai e 'au su'esu'e aso e su'i fa'atasi ai oloa e auina atu i fafo nai lo le fa'ailoaina o fa'amatalaga."
+        },
+        {
+          "bold": "Fa'amatalaga e le tutusa",
+          "text": "i matagaluega uma, fatuina o tali fete'ena'i i fesili fa'avae fa'atino."
+        },
+        {
+          "bold": "Fa'atonuga fa'atatau i luga ole ulu ma tapula'a fa'alautele",
+          "text": ", a'o tauivi feso'ota'iga tu'ufa'asolo ma'imau e lagolago ai le fa'atupulaia o le aofa'i o fefa'atauaiga."
+        }
+      ],
+      "sec1P3": "O le fa'atalanoaina o nei lu'itau e mana'omia ai le va'ava'ai i le laufanua fa'atekonolosi e le o se fa'aputuga o fa'atauga tu'ufua fa'akomepiuta, ae o se fa'alapotopotoga fa'apisinisi feso'ota'i ua fuafuaina e lagolago ai le fa'ata'ita'iga fa'ata'atia.",
+      "legacyLandscapeBadge": "Talatuu Faavae",
+      "legacyLandscapeTitle": "Fa'asalalau Fa'amatalaga Vaevae",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Fa'amatalaga Silos",
+          "desc": "O fa'amaumauga taua o tagata fa'atau, tupe, ma su'esu'ega o lo'o tumau pea ona pu'eina i fa'avae a le matagaluega, e taofia ai se va'aiga tasi e tasi o fa'agaioiga pisinisi."
+        },
+        {
+          "num": "02",
+          "title": "Tuufaatasiga Va",
+          "desc": "O feso'ota'iga fa'asino-i-itu ma fa'aputuga fa'apo'a e fa'atupu ai le leo, maualuga le fa'aletonu, ma le taugata o le tausiga i luga o 'au fa'atino."
+        },
+        {
+          "num": "03",
+          "title": "Fa'amatalaga Fa'atuai",
+          "desc": "Pe a tatau i le au pulega ona faatali ni aso mo le toe faaleleiga i le faaiuga o le masina e malamalama ai i le faatinoga, o le faia o faaiuga e gaoioi nai lo le vavalo."
+        }
+      ],
+      "modernArchitectureBadge": "Fa'ata'ita'iga Fa'atatau",
+      "modernArchitectureTitle": "Fa'ata'ita'iga Talosaga Feso'ota'i Atina'e",
+      "sec3P1": "O se fausaga fa'aonaponei fa'aoga e sui ai feso'ota'iga ma'ale'ale mata'itusi ma se fa'avae agile, malepelepe. E ala i le fa'atuina o se API malosi ma le tu'ufa'atasiga, faiga e fegalegaleai e ala i fa'atonuga, fa'amautu fa'ai'uga a'o fa'asaoina le tuto'atasi o iunite pisinisi ta'itasi.",
+      "sec3P2": "O agava'a fa'atekinisi autu o lenei suiga faufale e aofia ai:",
+      "sec3List": [
+        {
+          "bold": "Fa'aoga fa'aonaponei:",
+          "text": "Tu'u'ese'ese manatu fa'apisinisi autu i 'au'aunaga fa'aopoopo fa'aopoopo."
+        },
+        {
+          "bold": "API fa'atasi:",
+          "text": "Fa'atuina o feso'ota'iga fa'asalalau, fa'amaumauina mo feso'ota'iga i totonu ma paaga."
+        },
+        {
+          "bold": "Tu'ufa'atasia fa'amaumauga ma fa'amautu fa'amaumauga:",
+          "text": "Tu'ufa'atasiga o fa'amaumauga o fa'amaumauga fa'atasi ma le fa'asilisiliina o su'esu'ega maualuga."
+        },
+        {
+          "bold": "Mata'ituina ma le saogalemu:",
+          "text": "Fa'atinoina le telemetry fa'atotonugalemu, ala su'etusi, ma fa'atonuga fa'atatau o avanoa i auaunaga uma."
+        }
+      ],
+      "sec4P1": "Fa'avae fa'amaumauga tu'ufa'atasi e suia le auala e fegalegaleai ai ta'ita'i ma 'au fa'atino ma fa'amatalaga. Nai lo le faʻalagolago i lipoti lata mai o loʻo faʻaalia ai mea na tutupu i vaiaso talu ai, e maua ai e faʻalapotopotoga le telemetry faʻatautaia i totonu o iunite pisinisi.",
+      "sec4P2": "O fa'amaumauga feso'ota'i ma au'ili'ili e lagolago ai taunu'uga tau pisinisi e ala i:",
+      "sec4List": [
+        {
+          "bold": "Va'aia fa'atinoga:",
+          "text": "Fa'aauau le manino i fa'atauga, su'esu'ega, fa'amalieina, ma fa'atinoga tau tupe."
+        },
+        {
+          "bold": "Saosaoa fa'asologa o lipoti:",
+          "text": "Fa'aputuga fa'amaumauga i luga ole mana'oga e fa'ate'aina ai fa'asalalauga tusi ta'ita'i."
+        },
+        {
+          "bold": "Fa'amatalaga tumau:",
+          "text": "Fa'amatalaga ta'itasi mo fua fa'atatau e pei o fa'atauga, tau o tagata fa'atau, ma le saoasaoa o le ta'ita'i."
+        },
+        {
+          "bold": "Malamalama lelei pisinisi:",
+          "text": "Su'esu'ega fa'ata'ita'iga e fa'aalia ai tulaga lamatia ma avanoa i luma atu o le taimi."
+        },
+        {
+          "bold": "Fa'aleleia faiga fa'ai'uga:",
+          "text": "Fa'atonu fa'atonuga e lagolagoina e fa'amaumauga fa'amaonia ma le manino."
+        }
+      ],
+      "keyPerspectiveEyebrow": "VAAIGA LELEI",
+      "keyPerspectiveTitle": "O le fa'aonaponei e sili atu nai lo le suia o polokalama faakomepiuta",
+      "keyPerspectiveLead": "O le fa'aonaponei o talosaga tau pisinisi e le na'o le suia o polokalama tuai i meafaigaluega fou. O se fa'aogaina fa'atekonolosi ma le fa'aogaina o le pisinisi, fua, ma tu'uina atu le tau."
+    },
+    "artificialIntelligence": {
+      "category": "MAFAUFAU FAI",
+      "title": "Fa'afefea ona toe fa'afo'isia e AI ni Talosaga Atina'e",
+      "subtitle": "Su'esu'e pe fa'afefea ona avea le fa'aautomatika atamai, kopi kopi o le AI ma le atamai fa'ata'ita'i ona avea ma vaega o fa'atauga tau atina'e e fa'alagolago iai pisinisi i aso uma.",
+      "date": "Setema 2026",
+      "readTime": "6 min faitau",
+      "imageCaption": "Atina'e Tekonolosi Va'aiga — Fa'amatalaga Fa'atamai & Faiga Fa'alapotopotoga",
+      "aiUseCases": [
+        {
+          "title": "Va'aiga Fa'asoa",
+          "desc": "Va'ai le fa'atuputeleina o mana'oga ma fa'atuai mai fa'amaumauga mai tala fa'asolopito."
+        },
+        {
+          "title": "Otometi Su'etusi o Tupe",
+          "desc": "Ave'ese mea laina ma fa'afetaui i fa'atauga fa'atau ma leai se ulufale mai tagata."
+        },
+        {
+          "title": "Kesi Auaunaga Atamai",
+          "desc": "Fa'ata'ita'iga ma fa'atonu fa'atonu o talosaga a tagata faigaluega Tier-1 IT ma HR."
+        },
+        {
+          "title": "Puipuiga o Tagata Fa'atau",
+          "desc": "Fa'apipi'i amio e fa'ailoa ai fa'ailoga vave fe'ese'esea'i mo le fa'agaoioiga a'apa."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Fa'ai'uga fa'agaioiga vave e fa'ata'ita'iina e fa'ata'ita'iga vavalo taimi moni",
+        "Fa'aiti'itia i le fa'agasolo fa'asologa o fa'amaumauga ma le toe fa'aleleia o tusi lesona",
+        "Fa'ateleina le fa'atinoina o tagata faigaluega fa'atasi ai ma feso'ota'iga kopiloti fa'atatau",
+        "Fa'aleleia le fa'amalieina o tagata fa'atau e ala i fa'amatalaga fa'apitoa",
+        "Fa'aauau le fa'agasologa o le tagata lava ia fa'atatau ile telemetry moni",
+        "Fa'ate'aina le tulituliloaina o le tausisia e ala ile su'ega otometi su'etusi"
+      ],
+      "governancePoints": [
+        "Fa'asa'o fa'avae avanoa e fa'amautinoa ai e le mafai e fa'ata'ita'iga AI ona lia'i fa'amatalaga ma'ale'ale",
+        "Fa'asinomaga manino e mafai ai ona toe iloilo e tagata ni gaioiga maualuga",
+        "Fa'aauau su'esu'ega fa'ata'ita'iga e puipuia ai mai le fa'afoliga ma le fa'aituau",
+        "Fa'amautu fa'amaumauga fa'amaonia tulaga fa'atatau ma GDPR, SOC 2, ma HIPAA",
+        "Ala fa'atuputeleina a tagata-i-le-loop mo tulaga le mautinoa pito"
+      ],
+      "sec1Eyebrow": "O LE SIGA I LE POTO ANATINO",
+      "sec1Heading": "AI i Talosaga Atina'e",
+      "sec1Subtext": "O le atamai fa'apitoa o lo'o suia mai fa'ata'ita'iga fa'ata'ita'iga-poloketi i totonu o fa'atinoga fa'atino autu e fa'amoemoe iai pisinisi i aso uma.",
+      "sec2Eyebrow": "AUTOMIA I LE FUA",
+      "sec2Heading": "Otometi Atamai",
+      "sec2Subtext": "Le aga'i atu i tua atu o tusitusiga fa'avae fa'aleaganu'u e aga'i atu i galuega fa'amafaufau e malamalama i mea e le'i fa'atulagaina, fa'afetaui i suiga, ma fa'amalieina faiga fa'agasolo.",
+      "sec3Eyebrow": "FESOASOANI FA'ATOTO",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Fa'avae i le malamalama fa'alapotopotoga ma le saogalemu o atina'e, fesoasoani AI e galulue o ni paaga fa'apitoa i galuega fa'apisinisi i aso ta'itasi.\n<",
+      "sec4Eyebrow": "FEAGAI I MUA",
+      "sec4Heading": "Fa'amatalaga Fa'amatalaga",
+      "sec4Subtext": "Su'ia ogalaau o pisinisi fa'asolopito ma fafaga fa'agaioiga i taimi tonu i le va'aiga fa'atino.",
+      "sec5Eyebrow": "FA'AIGA MO LE LALOLAGI",
+      "sec5Heading": "Atina'e AI Fa'aoga Tulaga",
+      "sec5Subtext": "O auala fa'atino e ta'ita'ia ai fa'alapotopotoga o lo'o fa'aogaina ai le atamai fa'apitoa i galuega autu tau pisinisi.",
+      "sec6Eyebrow": "TULAGA FAATASI",
+      "sec6Heading": "Fa'amanuiaga Pisinisi",
+      "sec6Subtext": "Pe a fa'atinoina ma le mafaufau fa'atasi ma fa'amaumauga tau pisinisi, e tatalaina e AI le tele o tulaga lelei.",
+      "ctaHeading": "Su'esu'e Avanoa AI mo lau Pisinisi",
+      "ctaDescription": "Su'esu'e pe fa'afefea ona fa'aogaina e le atamai masini, kopi o atina'e ma fa'ata'ita'iga fa'ata'ita'i ona tatala le fa'atinoga lelei i au faiga autu.",
+      "ctaButton": "Talanoa i o Tatou Tagata Popoto",
+      "sec1P1": "Mo le tele o tausaga, sa fa'aogaina le atamai fa'apitoa tau atina'e e pei o se agava'a i fafo: o se fa'ata'ita'iga na a'oa'oina fa'atasi, se fa'ata'ita'iga o le sandbox, po'o se chatbot tu'ufua e mafai ona maua i se isi faitoto'a. I aso nei, o le paradigm ua matua suia. Atina'e maualuga AI o lo'o fa'apipi'i sa'o i totonu o faiga fa'amaumauga-le ERPs, CRMs, fa'avae tupe a tagata, ma sapalai afi afi lea e tupu ai pisinisi moni.",
+      "sec1P2": "A fa'agaoioi le atamai i totonu o le faiga o fa'amaumauga, e fa'atosinaina tuaoi fa'amautu o le puipuiga a le fa'alapotopotoga, fa'ata'ita'iga fa'amaumauga, ma fa'atatau pisinisi. E le na'o le fa'atupuina o tali lautele; e fa'atino i luga o fa'atonuga ola, fa'aliliuina pepa lagolago tatala, fa'alelei pepa fa'atau oloa, ma fesoasoani i tagata faigaluega i totonu o feso'ota'iga tonu latou te fa'atautaia i aso uma.",
+      "sec1P3": "O lenei suiga e fa'ate'aina ai polokalame fa'akomepiuta mai fa'amaumauga tu'usa'o e fa'atali mo tu'i ki tagata i ni fa'atonuga fa'atino e fa'atalitali ai mana'oga, fa'aautomati la'asaga, ma fa'alauiloa taimi talafeagai.",
+      "sec2P1": "Otometi Fa'agasologa Fa'apolokalame Fa'aleaganu'u (RPA) fa'apitoa i le va'aiga fa'amautu, fa'asolosolo solo. Ae ui i lea, o tulafono faʻapolopolo e faʻamavaeina i soʻo se taimi e sui ai se fomu, oʻo mai se faʻasologa o pepa faʻafuaseʻi, pe tupu se faʻalavelave. O masini atamai e faʻafesoʻotaʻi lenei vaeluaga e ala i le tuʻufaʻatasia o mafaufauga faʻapitoa ma le faʻatinoina o fefaʻatauaiga:",
+      "sec2List": [
+        {
+          "bold": "Otometi o galuega:",
+          "text": "Fa'atulagaina galuega lavelave a matagaluega, fa'atonu galuega e fa'atatau i ala fa'anatinati ma fa'amatalaga fa'asolopito."
+        },
+        {
+          "bold": "Fa'agaioiina pepa fa'apitoa:",
+          "text": "O le fa'aogaina o PDF e le'i fa'atulagaina, imeli, fa'aaliga o fela'ua'iga, ma konekarate, fa'aliliuina i fefa'atauaiga fa'amaumauga fa'atulagaina."
+        },
+        {
+          "bold": "Otometi galuega atamai:",
+          "text": "Fa'autometi fa'amaoniaga fa'agaioiga e tele-laasaga—e pei o le fa'afetauia o fa'atauga fa'atau i lisiti ma fa'amatalaga faletupe."
+        },
+        {
+          "bold": "Fa'atonuga fa'agasologa:",
+          "text": "Fa'aauau le su'esu'eina o ogalaau fa'agasolo e fa'ailoa ai fa'alavelave fa'ata'amilosaga-taimi ma fautuaina le fa'aleleia atili o galuega."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Saili Faamatalaga",
+          "desc": "Su'e fa'aupuga i luga o fa'avae malamalama fa'asoa, faiga fa'avae intranet, fa'amatalaga o oloa, ma fa'ai'uga o pepa fa'asolopito e aunoa ma le mateina o upu autu."
+        },
+        {
+          "icon": "📝",
+          "title": "Aotelega o Pepa",
+          "desc": "Fa'amama vave o RFP uumi, fa'atauga fa'atau, fa'amatalaga fa'apitoa, ma teuteuga fa'aletulafono i fa'atonuga fa'atino ma lisi fa'aletonu."
+        },
+        {
+          "icon": "✨",
+          "title": "Fausiaina o Mataupu",
+          "desc": "Fesoasoani i le tusiaina o talosaga a tagata o tausia, fa'amaumauga fa'agaioiga, faiga fa'atino masani (SOPs), ma fa'afouga fa'afouga fa'atagata fa'atauva'a fa'atasi ma tulaga fa'ailoga."
+        },
+        {
+          "icon": "📈",
+          "title": "Su'esu'ega Fa'amatalaga",
+          "desc": "Fa'aliliuina fa'atalanoaga fa'atalanoaga i fa'amatalaga au'ili'ili lavelave, fa'atupuina o aotelega siata i luga o le lele ma fa'amanino mea taua mo le ta'ita'iga."
+        },
+        {
+          "icon": "🔄",
+          "title": "Pisinisi Galulue",
+          "desc": "Amataina o fefaʻatauaiga saʻo mai faʻasalalauga faʻasalalauga—e pei o le faʻatulagaina o punaoa, fatuina o tiketi, faʻafouina faamaumauga, poʻo le tuʻuina atu o faʻatauga."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Avanoa Fa'avae",
+          "desc": "Fa'amautinoa o tali kopiloti e matua fa'aaloalo lava i tulaga fa'atagaga a tagata fa'aoga, tausia fa'alilolilo tau tupe, faila a tagata faigaluega, ma mea tau le atamai e puipuia."
+        }
+      ],
+      "sec4P1": "A'o lelei fa'ata'ita'iga fa'atupu fa'ata'ita'iga i le malamalama ma le tu'ufa'atasia o le gagana, o lo'o taula'i atu le atamai vavalo i mamanu fa'a-matematika o lo'o natia i totonu o fa'amaumauga o atina'e. O fa'ata'ita'iga vavalo fa'apipi'i e fa'amalosia ai fa'alapotopotoga e va'ai fa'alavelave fa'agaioiga a'o le'i fa'alavelaveina galuega:",
+      "sec4List": [
+        {
+          "bold": "Va'aiga fa'atino:",
+          "text": "Va'ai fa'asologa o tupe maua, saoasaoa o su'esu'ega, ma mea e mana'omia e ala i le tu'ufa'atasia o fa'ailoga fa'avaitaimi ma le saosaoa o paipa i le taimi moni."
+        },
+        {
+          "bold": "Iloiloga fa'anatinati:",
+          "text": "Fa'ailogaina o a'afiaga fa'alavelave fa'atau, ta'amilosaga fa'aleagaina o le tausiga, ma fa'atuai le sapalai a'o iai pea le taimi e fa'alavelave ai."
+        },
+        {
+          "bold": "Fa'ailoaina tulaga lamatia:",
+          "text": "Fa'ailoga fa'aletonu i fefa'ataua'iga tau tupe, fa'amaumauga o le tausisia, ma faiga fa'atau a le au fa'atau a'o le'i fa'ateleina."
+        },
+        {
+          "bold": "Mana'oga vavalo:",
+          "text": "Fa'atasi fa'atauga fa'atau ma le gaosiga o gaosiga ma faleteuoloa tulaga fa'asoa e puipuia ai tupe fa'afaigaluega."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PULEGA FA'USAGA",
+      "keyPerspectiveTitle": "Fa'atuatuaina, Va'aiga & Fa'amau",
+      "keyPerspectiveLead": "AI e na'o le fa'atuatuaina e pei o fa'amaumauga o lo'o i lalo ma le pulega o lo'o siomia ai. O le vaetamaina o atina'e gafataulimaina e mana'omia ai le fa'atonuga faufale:"
+    },
+    "modernErp": {
+      "category": "ERP FAAPOPO",
+      "title": "Faatelevaveina Suiga Pisinisi ma ERP faʻaonaponei",
+      "subtitle": "Su'esu'e pe fa'afefea ona fa'afeso'ota'i e fa'aonaponei fa'aonaponei tulaga tau tupe, fa'atauga, sapalai sapalai ma fa'agaioiga pisinisi e ala i se fa'avae numera tasi.",
+      "date": "Aokuso 2026",
+      "readTime": "6 min faitau",
+      "imageCaption": "Va'aiga Tekonolosi Atina'e — ERP & Feso'ota'i Pisinisi Galuega",
+      "connectedFunctions": [
+        {
+          "title": "Pulega o Tupe",
+          "desc": "Fa'afouga fa'afouga o le tusi fa'a-taimi moni, fa'ailoa otometi o tupe maua, ma toe fa'aleleia vave le tele o tupe."
+        },
+        {
+          "title": "Sapalai Filifiliga & Logistics",
+          "desc": "Va'aiga fa'ai'u i le fa'ai'uga, fa'ata'ita'iga o faleteuoloa, ma fa'atauga fa'atino a le aufaioloa."
+        },
+        {
+          "title": "Tagata Faigaluega & Malosiaga",
+          "desc": "Faitoto'a mo tagata faigaluega mo le tagata lava ia, fa'aototometi totogi totogi, ma fa'atasia fuafuaga fa'ata'amilosaga o le olaga o taleni."
+        },
+        {
+          "title": "Fa'atauga & Fa'atauga",
+          "desc": "Fa'atagaga fa'atau otometi, fa'amalieina konekarate fa'atau, ma su'esu'ega fa'aalu malosi."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Ata-Native Architecture",
+          "desc": "Fa'ase'e fa'afuafua fa'atatau e aunoa ma ni atina'e fa'apitoa i luga ole ulu po'o fa'alavelave fa'alavelave loka-i totonu."
+        },
+        {
+          "title": "Tatala API Ecosystem",
+          "desc": "O feso'ota'iga na mua'i fausia e mafai ai ona feso'ota'i fa'amaumauga e lua-auala ma tu'ufa'atasiga microservices ma su'ega CRM."
+        },
+        {
+          "title": "Iloiloga fa'apipi'i",
+          "desc": "Tu'u sa'o fa'ata'ita'iga mai fa'amaumauga o paleni maualuga i totonu o fa'amaumauga o fefa'atauaiga ta'itasi."
+        },
+        {
+          "title": "Otometi Galulue Fa'aoso",
+          "desc": "Fa'alavelave fa'atupu fa'alavelave e fa'aoso ai le fa'atinoina o galuega fa'akomepiuta fa'a-matāgaluega tuto'atasi."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Punavai e tasi o le mea moni e aveesea ai lipoti feteenai a matagaluega",
+        "Fa'aitiitiga fa'aitiitiga o ta'amilosaga tapuni fa'ai'uga masina ma fa'ai'uga kuata",
+        "Su'esu'e i taimi moni ma va'aia fa'atauga e fa'aitiitia ai fa'aputu",
+        "Fa'aititia le tausiga o le IT i luga ole laiga e ala i fa'afouga fa'aola fa'asolo",
+        "Tu'ufa'atasi le tulituliloaina o le tausisia i pulega fa'afa'afa'afa'afa'i fa'aitumalo",
+        "Fa'ato'a vave le fa'aulufaleina o fa'alapotopotoga na maua i ivi fa'atasi o galuega fa'atino"
+      ],
+      "erpStrategyPoints": [
+        "Fa'aogaina le fausaga o le ERP fa'atasi ai ma le fa'atinoina o galuega a'o le'i fa'atulagaina",
+        "Filifilia fa'ata'ita'iga fa'ata'otoga fa'ata'ita'i e iloa ai le manumalo vave",
+        "Fa'amuamua le tulaga maualuga o fa'amaumauga matai femalagaiga ma le fa'aleleiga",
+        "Fa'apipi'i otometi pulega suiga ma polokalame fa'aa'oa'oga fa'atulagaina",
+        "Fuafuaina o faitoto'a API mo le fa'alauteleina o feso'ota'iga i le lumana'i"
+      ],
+      "sec1Eyebrow": "O LE IWI TU'ATU",
+      "sec1Heading": "Aisea e Taua ai le ERP i ona po nei",
+      "sec1Subtext": "O le ERP ua le na'o le tausitusi i tua. O le faʻataʻitaʻiga faʻaogaina o le atinaʻe faʻaonaponei o loʻo faʻaalia i polokalama faakomepiuta.",
+      "sec2Eyebrow": "FA'ASA'O'OGA FA'AVAEINA",
+      "sec2Heading": "Feso'ota'i Galuega Pisinisi",
+      "sec2Subtext": "E alia'e le tau fa'alāpotopotoga moni pe a fegalegaleai fa'atasi galuega fa'apisinisi autu i luga o se fa'avae numera fa'asoa.\n<",
+      "sec3Eyebrow": "FEAGAIGA FEAGAIGA",
+      "sec3Heading": "Tu'ufa'atasi Gaioiga & Fa'amatalaga Fa'amatalaga",
+      "sec3Subtext": "Ta'e i lalo pa puipui o feso'ota'iga i le va o matagaluega ina ia mafai ai ona fa'amalieina le fa'aogaina o galuega tau atina'e.",
+      "sec4Eyebrow": "ELEMETRI FA'USAGA",
+      "sec4Heading": "Va'aiga Pisinisi Taimi Moni",
+      "sec4Subtext": "Fa'amaopoopo fua fa'atino i totonu o fa'ata'ita'i fa'atonu fa'apitoa e atagia ai mea moni o pisinisi i le taimi nei.",
+      "sec5Eyebrow": "TUSI FA'AVAE AUTU",
+      "sec5Heading": "Avanoa ERP fa'aonaponei",
+      "sec5Subtext": "O uiga faufale e tu'u'ese'ese ai fa'aonaponei ERP fa'aonaponei mai fa'apipi'i mautu.",
+      "sec6Eyebrow": "A'afiaga LELEI",
+      "sec6Heading": "Fa'amanuiaga Pisinisi",
+      "sec6Subtext": "Fa'afeso'ota'i fa'agaioiga fa'apisinisi autu i totonu o se fa'avae fa'afuainumera tu'ufa'atasi e maua mai ai le maufetuuna'i fa'alapotopotoga.",
+      "ctaHeading": "Fa'aonaponei Au Galuega Fa'atino",
+      "ctaDescription": "Su'esu'e pe fa'afefea ona fa'afeso'ota'i e fa'aonaponei fa'aonaponei tulaga tau tupe, fa'atauga, sapalai filifili ma fa'agaioiga pisinisi e ala i se fa'avae numera tasi.",
+      "ctaButton": "Talanoa i o Tatou Tagata Popoto",
+      "sec1P1": "I fanua fa'anatinati o atina'e, o faiga masani o Atina'e Punaoa Fuafuaga e masani ona tauivi. Fausia i se vaitau o fa'agaioiga fa'aputuga ma fa'amama fa'apitonu'u, ERPs talatuu sa matua fa'amaninoina, faigata ona fa'aleleia, ma tigaina le mata. O fa'agaioiga fa'apisinisi taua na fa'agaoioi i siloes tutusa, fa'alagolago i fa'atauga ma'ale'ale i le po e auina atu i fafo e fa'afetaui tusi tusi ma faleteuoloa.",
+      "sec1P2": "Ole ERP fa'aonaponei fa'aonaponei o lo'o fa'amaninoina lenei fa'amalosi. O lo'o fa'agaoioia e pei o le tu'ufa'atasi numera numera o le atina'e-o se fa'avae ola lea e fa'atautaia ai mea tau tupe, fa'atauga, sapalai sapalai, su'esu'ega, ma tagata faigaluega i luga o se fa'ata'ita'iga fa'asoa fa'amaumauga.",
+      "sec1P3": "E ala i le fa'auluina o galuega autu i totonu o se si'osi'omaga tutusa, ua fa'amutaina e le ERP fa'aonaponei vaega tauaso e fa'agesegese ai le tuputupu a'e, e mafai ai e ta'ita'i ona ta'ita'ia le pisinisi e fa'aaoga fa'ailoga fa'a-taimi nai lo tala fa'asolopito.",
+      "sec3P1": "O fa'agaioiga silo e seasea ona fa'afitauli mo tagata; o faafitauli tau fausaga. A galulue tagata faatau, fa'atau, ma faleteuoloa 'au i talosaga motumotu, o tu'uina atu uma e mana'omia imeli tusi lesona, ripoti, ma telefoni. Faateleina mea sese, taofi pili, ma fa'ase'e tautinoga a tagata faatau.",
+      "sec3P2": "O le ERP fa'aonaponei o lo'o fa'aalia lenei mea e ala i fa'amaumauga tu'ufa'atasi ma fa'asologa fa'asologa o mea e tutupu:",
+      "sec3List": [
+        {
+          "bold": "Fa'atonu fa'atasi i tupe:",
+          "text": "A tu'u se oka a tagata faatau, e otometi lava le fa'aagaga o su'esu'ega, fa'atupu igoa o fela'ua'iga, ma fa'afou fa'afou le lisi o pili."
+        },
+        {
+          "bold": "Fa'atau-to-totogi manino manino:",
+          "text": "Fa'atauga fa'atau, lisiti o oloa, ma fa'atau piliki e otometi lava ona fetaui ma le fa'aleleiga 3-auala, fa'ailoga na'o tuusaunoaga mo le toe iloiloga a tagata."
+        },
+        {
+          "bold": "Tu'ufa'atasi tau o galuega ma galuega:",
+          "text": "Pepa taimi o le poloketi, vaevaega o totogi, ma tupe alu fa'atino sa'o sa'o i nofoaga autu o tau i le taimi tonu."
+        }
+      ],
+      "sec4P1": "O le fa'agaioia o se atina'e e aunoa ma le va'aia fa'atasi e pei o le lele i le puao mafiafia ma meafaigāluega tuai. O le ERP fa'aonaponei o lo'o tu'uina atu le telemetry taimi moni i itu tau pisinisi uma:",
+      "sec4List": [
+        {
+          "bold": "Ola fa'atonu fa'atonu:",
+          "text": "Va'aiga fa'afuase'i o tupe fa'asili, tupe fa'agaoioi, noataga tatala, ma fa'atonuga fa'ate'a e aunoa ma le fa'atali mo le tapuni fa'ai'uga."
+        },
+        {
+          "bold": "Lipoti fa'atinoga o galuega a le tagata lava ia:",
+          "text": "E mafai e fa'auluuluga o matagaluega ona fausia ni fesili fa'ale-aganu'u ma fa'ata'ita'i i lalo mai fa'asalalauga tulaga tau atina'e i mea tau fefa'ataua'iga ta'itasi."
+        },
+        {
+          "bold": "Fa'amatalaga mata'i tutotonu:",
+          "text": "Fa'ate'aina numera fete'ena'i e ala i le fa'atuina o fa'amaumauga mata'i pulea ta'itasi mo tagata fa'atau, fa'atau, ma fa'amaumauga o oloa."
+        },
+        {
+          "bold": "Fa'aliga fa'aletonu fa'aletonu:",
+          "text": "O fa'asalalauga fa'aautometi e logo vave ai pule pe a pa'u i lalo tupe fa'asili i lalo o le fa'ailoga, fa'aitiitia mea fa'atau, po'o fa'ase'e fo'i fa'atau oloa."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOSOFIA O LE FUAFUAGA ERP",
+      "keyPerspectiveTitle": "Fa'ata'ita'iga Fa'aonaponei I luga o le Monolithic Overhaul",
+      "keyPerspectiveLead": "E manuia le suiga o le ERP fa'aonaponei pe a fa'aogaina e fa'alapotopotoga e pei o se fa'aleleia atili o le fa'agasologa nai lo se fa'alavelave fa'aletonu IT:"
+    },
+    "cybersecurity": {
+      "category": "SA'O LE CYBERSECURITY",
+      "title": "Fausiaina o le Cyber Resilience i se Atina'e Feso'ota'i",
+      "subtitle": "Su'esu'e pe fa'afefea ona fa'amalosia e fa'alapotopotoga le puipuiga, puipuia faiga fa'apitoa ma saunia mo fa'amata'u i si'osi'omaga ua fa'ateleina feso'ota'i.",
+      "date": "Setema 2026",
+      "readTime": "8 min faitau",
+      "imageCaption": "Va'aiga Fa'atekonolosi Atina'e — Puipui Fa'amata'u & Fa'ata'ita'iga Fa'atauva'a Zero",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Su'esu'ega",
+          "desc": "Fa'ailo fa'ato'a taimi moni ma fa'amaopoopo fa'aletonu SIEM i fa'ai'uga uma o ao ma galuega."
+        },
+        {
+          "title": "Taofi & Tuufua",
+          "desc": "Tulafono fa'agata feso'ota'iga fa'aautometi e tu'u'ese'ese ai atigipusa fa'aletonu po'o fa'amaoniga i le taimi lava lena."
+        },
+        {
+          "title": "Fa'afouga & A'a-Mafuaga",
+          "desc": "Fa'asalalauina fa'avavevave ma fa'amatalaga fa'akomepiuta fa'apitoa e iloa ai le ve'a sa'o ua soli."
+        },
+        {
+          "title": "Maufetu ma Fa'ama'a'a",
+          "desc": "Fa'aauau le tali atu i fa'amaumauga e le mafai ona suia, pa puipui o faiga fa'avae, ma fa'ata'ita'iga otometi a le 'au."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Fa'aitiitiga tele i luga o osofa'iga fa'aletonu i luga o aseta ao",
+        "Fa'amautinoa le fa'aauauina o galuega ma le toe fa'aleleia o fa'alavelave fa'afuase'i ma sina RTO/RPO la'ititi",
+        "Aofa'i le tausisia o le talitonuga i le ISO 27001, SOC 2, HIPAA, ma le GDPR su'etusi",
+        "Puipuiga o meatotino tau le atamai ma fa'amaumauga agatapuia a tagata fa'atau",
+        "Fa'afaigofie le fa'atau ma le isi vaega fa'aletonu pulega e ala i fa'atonuga tu'ufa'atasi",
+        "Fa'aleleia le fa'atuatuaga o tagata fa'atau ma tagata teu fa'afaigaluega e lagolagoina e le fa'amaonia o le leai o se fa'atuatuaga saogalemu"
+      ],
+      "zeroTrustPrinciples": [
+        "Aua le Fa'atuatuaina, Fa'amaonia I taimi uma: Fa'amaonia manino e mana'omia mo fefa'atauaiga uma",
+        "Avanoa Fa'atauva'a Fa'atauva'a: Fa'atapula'aina o tu'oi fa'agata fa'amata'u.",
+        "Fa'apea Soliga: Fa'aauau le mata'ituina o le fa'amata'u, fa'ailoga i le felauaiga ma le malolo",
+        "Vaevaega Itiiti: Pa puipui o feso'ota'iga e fa'aesea ai galuega fa'aoga ta'itasi",
+        "Telemetry Fa'aauau: Au'ili'iliga fa'aautometi e fa'ailoa ai talosaga fa'aletonu ole vasega"
+      ],
+      "sec1Eyebrow": "O LE TALA FA'ALUA",
+      "sec1Heading": "Le Feso'ota'i Atina'e Puipuiga Fa'afanua",
+      "sec1Subtext": "A'o fa'afeso'ota'i e fa'alāpotopotoga fa'aonaponei le tele o talosaga, si'osi'omaga o ao, tagata faigaluega mamao, masini feavea'i, ma pa'aga lona tolu, ua le toe i ai le nofoaga o le saogalemu masani.",
+      "sec2Eyebrow": "PUIPUIA LOTO",
+      "sec2Heading": "Puipuiga Fa'amata'u Fa'amata'u Fa'atele",
+      "sec2Subtext": "Puipuiga fa'agaoioia e puipuia ai atina'e taua, fa'amatalaga ma'ale'ale a le kamupani, ma faiga fa'atino.",
+      "sec3Eyebrow": "O LE TUA'O SA'O LE FOU",
+      "sec3Heading": "Fa'asinomaga & Pulega Avanoa (IAM)",
+      "sec3Subtext": "O le fa'asinomaga o le fa'avae fa'atonu o le puipuiga fa'aonaponei. Toeitiiti lava o soliga ogaoga uma e amata i fa'ailoga fa'aletonu nai lo le fa'aogaina o polokalame.",
+      "sec4Eyebrow": "FA'ATAU FA'ATAU",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust e le o se oloa e tasi po'o se meafaigaluega. Ose fuafuaga faufale e fa'avae i luga o se ta'iala tuusa'o: aua le fa'atuatuaina se fa'alapotopotoga i totonu po'o fafo atu o le feso'ota'iga ona o le faaletonu.",
+      "sec5Eyebrow": "PULEGA FAATINO",
+      "sec5Heading": "Manatuga Puipuiga o Ao",
+      "sec5Subtext": "Puipuiga o galuega i luga o ao lautele, fausaga faʻapipiʻi, ma siosiomaga faʻasalalau pusa.",
+      "sec6Eyebrow": "MAFELEI FA'AGA",
+      "sec6Heading": "Sauniuni mo Faalavelave: I tua atu o le Puipuiga",
+      "sec6Subtext": "E talia e le maufetuuna'i moni i luga o le initaneti e ono tutupu ni fa'alavelave. Sauniuniga e taulaʻi i le vave taofiofia, faʻaititia pisinisi faʻalavelave, ma faʻamaonia le toe faʻaleleia.",
+      "sec7Eyebrow": "TULAGA FAATASI",
+      "sec7Heading": "Fa'amanuiaga Pisinisi",
+      "sec7Subtext": "Fausiaina ose atina'e fa'atekonolosi e puipuia ai le tau fa'alapotopotoga, tulaga fa'atulafonoina, ma le tauleleia o maketi.",
+      "ctaHeading": "Fa'amalosia Lau Saogalemu Atina'e",
+      "ctaDescription": "Su'esu'e pe fa'afefea ona fa'amalosia e fa'alapotopotoga le puipuiga, puipuia faiga taua ma saunia mo fa'amata'u i si'osi'omaga ua fa'ateleina feso'ota'i.",
+      "ctaButton": "Talanoa i o Tatou Tagata Popoto",
+      "sec1P1": "I le talatuu o le vaitau o pisinisi IT, o le puipuiga na fa'agaoioia i luga o se a'oa'oga fa'a-castle-ma-moat: o mea uma i totonu o le feso'ota'iga o le ofisa fa'apisinisi na fa'atuatuaina, ae o mea uma i fafo e manatu e le talitonuina. E tasi le pa puipui fa'apitoa e puipuia ai 'au'aunaga i totonu, fa'amaumauga, ma komepiuta komepiuta.",
+      "sec1P2": "O le atina'e o aso nei ua sili atu ona pa puipui. O galuega e nonofo i luga o le tele-cloud environments (AWS, Azure, GCP), tagata faigaluega avanoa pisinisi talosaga mai nofoaga eseese, ma API faʻaauau fefaʻatauaʻiga faʻamatalaga maaleale faʻagaioiga faʻatasi ma kamupani mai fafo logistics, faʻalapotopotoga tau tupe, ma faʻatau SaaS.",
+      "sec1P3": "E ui o lenei feso'ota'iga i luga ole laiga e fa'aosoina ai le mataalia o pisinisi, e matua fa'alauteleina ai le osofa'iga o atina'e. O fa'ai'uga API uma, fa'ailoga fa'asinomaga, masini feavea'i feso'ota'i, ma le tu'ufa'atasiga o le SaaS e fa'atusalia ai se ve'a fa'aalia. O le puipuiga moni o atina'e e mana'omia ai le suiga mai le puipuiga e fa'atatau ile perimeter i le fa'agaioiga, fa'auma i luga ole laiga fa'ainitaneti.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Su'esu'ega Fa'amata'u",
+          "desc": "Masini a'oa'oga-fesoasoani fa'amata'u atamai e mata'ituina fa'asologa o feso'ota'iga fa'aletonu, fa'atautala fa'amaonia, ma fa'aletonu e leai se aso i le taimi moni."
+        },
+        {
+          "icon": "📡",
+          "title": "Mataituina o le Saogalemu",
+          "desc": "Centralized Security Operations Center (SOC) telemetry fa'amaopoopo mea tutupu i luga o 'au'aunaga, fa'aputu pusa, fa'amatalaga e tu'uina atu, ma fa'ai'uga."
+        },
+        {
+          "icon": "🔍",
+          "title": "Pulea Fa'aletonu",
+          "desc": "Fa'aauau su'esu'ega fa'aletonu otometi i totonu o atina'e tetele, fa'amaumauga o fa'ailoga puna'oa, ma fa'amaumauga o koneteina e toe fa'afo'i fa'amalosi ai vaivaiga."
+        },
+        {
+          "icon": "🔒",
+          "title": "Puipuiga o Fa'amaumauga",
+          "desc": "Fa'ailoga malosi i femalagaiga (TLS 1.3) ma le malologa (AES-256), fa'atasi ai ma le fa'atonuga o le puipuiga o le leiloa o fa'amaumauga (DLP) e puipuia ai le tafe mai o meatotino tau le atamai."
+        }
+      ],
+      "sec3P1": "O le puipuia o aseta tau atina'e e mana'omia ai le fa'amautinoaina o fa'asinomaga uma—pe o se tagata fa'atonu, se konekarate mai fafo, po'o se fa'amatalaga tuto'atasi o auaunaga faakomepiuta-ua fa'amaonia le fa'atagaga mo punaoa tonu na te mauaina.",
+      "sec3List": [
+        {
+          "bold": "Pulea fa'asinomaga:",
+          "text": "Single Sign-On (SSO) ma federated identity standards e faʻaumatia ai faʻaputu upu faʻapolopolo i luga o talosaga."
+        },
+        {
+          "bold": "Adaptive multi-factor authentication (MFA):",
+          "text": "Ki meafaigaluega FIDO2 e tete'e i le phishing ma lu'itau fa'atatau i tulaga lamatia mo galuega tau pulega ma'ale'ale."
+        },
+        {
+          "bold": "Pulea avanoa fa'apitoa:",
+          "text": "Fa'atonuga fa'avae (RBAC) ma Attribute-Based (ABAC) fa'atonutonu avanoa fa'amalosi i le API ma fa'amaumauga fa'amaumauga."
+        },
+        {
+          "bold": "Mataupu silisili aupito itiiti:",
+          "text": "Tuuina atu le avanoa le tumau, sa'o i le taimi (JIT) e otometi ona muta pe a mae'a galuega tau pulega."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FA'A'OA'OGA AUTAU FA'ATUATUA SALE",
+      "keyPerspectiveTitle": "Fa'aauauina Fa'amaoniga I luga o Fa'atuatuaga Tauaso",
+      "keyPerspectiveLead": "I totonu o le fausaga o le Zero Trust, o le fa'atuatuaga fa'avae e fa'atatau i le nofoaga o feso'ota'iga ua fa'amavae atoa. So'o se fefa'ataua'iga, fa'amatalaga fa'amaumauga, ma fa'aoga tagata e fa'aoga e tatau ona fa'amaonia pea lona fa'amaoni:",
+      "cloudSecurityCards": [
+        {
+          "title": "Tiutetauave Felagolagomai",
+          "desc": "Fa'amanino pulega fa'avasegaina le puipuiga fa'aletino a le kamupani tu'uina atu ao mai le matafaioi a le atina'e mo fa'amatalaga fa'amatalaga, faiga fa'avae IAM, ma le fa'ailoga o talosaga."
+        },
+        {
+          "title": "Atina'e e pei ole Code (IaC)",
+          "desc": "O fetuutuunaiga o ao e le mafai ona suia, e mafai ona su'eina e ala ile code. O su'esu'e faiga fa'avae fa'a-code e poloka ai fa'aoga sese ma pakete fa'aalia a'o le'i tu'uina atu."
+        },
+        {
+          "title": "Container & Kubernetes Security",
+          "desc": "Taimi fa'ama'a'a koneteina, resitara ata saini, vaeluaga o feso'ota'iga, ma pulega fa'alilolilo otometi e taofia ai fa'amatalaga mai fale teu oloa."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "AO & FA'ATA'IGA",
+      "title": "Fa'aonaponei Talosaga Talatuu mo le Ao",
+      "subtitle": "Su'esu'e se faiga fa'atino e su'esu'e ai, fa'aonaponei ma fa'agaioi atu fa'aagaaga tu'uaga aga'i i ata fa'akomepiuta ma fa'amautu.",
+      "date": "Setema 2026",
+      "readTime": "6 min faitau",
+      "imageCaption": "Atina'e Tekonolosi Va'aiga — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Toe fa'afeiloa'i (Si'i ma Si'i)",
+          "desc": "Fa'aliliuina le mamafa o galuega i masini fa'akomepiuta fa'avavevave fa'atasi ai ma ni suiga laiti."
+        },
+        {
+          "title": "Toe Fuafua (Siitia ma Toe Fa'apena)",
+          "desc": "Fa'aleleia fa'asologa o taimi, fa'aoga fa'amaumauga o ao fa'atautaia, ma fa'afaigofie galuega."
+        },
+        {
+          "title": "Toe Fa'afo'i (Cloud-Native Rebuild)",
+          "desc": "Fa'ate'a monoliths i totonu o koneteina microservices ma mea e fa'aosoina serverless APIs."
+        },
+        {
+          "title": "Sui (SaaS Modernization)",
+          "desc": "Fa'amuta faiga fa'aleaganu'u fa'agae'etia e fa'atatau i polokalama fa'akomepiuta a le atina'e."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Iloiloga o Talatuu",
+          "desc": "Fa'afanua fa'alagolago fa'aautometi, fa'avasegaina o aitalafu fa'apitoa, ma le fa'ailoga o le ao-sauni."
+        },
+        {
+          "title": "Fa'ata'ita'iga Fa'atatau",
+          "desc": "Fa'ata'ita'iga fa'ata'ita'i fa'ata'ita'i, fa'asologa o koneteina, ma fa'ata'ita'iga otometi IaC."
+        },
+        {
+          "title": "Femalaga'iga Fa'asolosolo",
+          "desc": "Fa'asalalauina Canary, fa'amaopoopo fa'amaumauga e lua-tusi, ma galu fa'ato'a e leai se taimi."
+        },
+        {
+          "title": "Fa'atonuga o Ao",
+          "desc": "Fa'aauau le fa'afoega o tau, fa'asologa o le telemetry, ma iloiloga fa'atino a le FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Fa'aitiitia tupe fa'aalu mo le tausiga o aseta ma meafaigaluega",
+        "Laititi-le i'u fa'atusatusaga fa'akomepiuta e fa'atautaia ai le tumutumuga o fefa'ataua'iga o pisinisi ma leai se taofi",
+        "Saosaoa fa'asa'o vave fa'atasi ma paipa fa'apipi'iina CI/CD fa'atotonu atoatoa.",
+        "Aveesea o talatuu tulaga tasi o le toilalo ma le tele-AZ avanoa maualuga",
+        "O fausaga API fa'aonaponei e mafai ai ona fa'afeso'ota'i fa'atasi fa'alavalava fa'alava",
+        "Mata'ituina taimi moni i le faatinoga o talosaga ma le fa'aaluina o ao"
+      ],
+      "landscapeAssessmentPoints": [
+        "Fa'afanua lavelave feso'ota'iga fa'alagolago ma fa'asologa o fa'amaumauga",
+        "Fa'ailoaina o fa'atonuga o le si'osi'omaga ma fa'ata'atiaga fa'amaumauga",
+        "Iloiloina o le tausisia o tulafono faatonutonu ma le pule silisili ese o faʻamaumauga faʻatapulaʻaina i pulega faʻafaamasinoga.",
+        "Fuafuaina moni o le tau atoa o le umiaina (TCO) i luga o le toefaafoliga fa'asaga i auala toe fa'afo'isia.",
+        "Fa'atuina o galu ta'avale manino e puipuia ai fa'agaioiga o pisinisi i aso ta'itasi"
+      ],
+      "sec1Eyebrow": "O LE TOTONU O FAIGA TULAFONO",
+      "sec1Heading": "Le Lu'i Tu'u",
+      "sec1Subtext": "O monolith tuai e fa'alavelaveina le saoasaoa o mea fou, fa'atuputeleina fa'aletonu fa'agaioiga, ma fa'ateleina le tau o le tausiga o mea tetele.",
+      "sec2Eyebrow": "ILOILOGA & SA'ILI'IGA",
+      "sec2Heading": "Malamalama i le Fa'afanua Fa'atatau",
+      "sec2Subtext": "O le fa'afouina o ao manuia e amata ile su'esu'ega malosi. Ole oso sa'o ile femalaga'iga e aunoa ma le su'eina o fa'alagolago ile talosaga ole mafua'aga autu ole tuai o tipi.",
+      "sec3Eyebrow": "O LE 4 O ALA FAATATAUINA",
+      "sec3Heading": "Faiga Fa'aonaponei",
+      "sec3Subtext": "E leai se ta'iala mo femalaga'iga e tasi. O atina'e ta'ita'i e fa'afetaui le mamanu fa'aonaponei sa'o i galuega fa'apitoa ta'itasi e fa'atatau i tau pisinisi, fa'anatinati, ma aitalafu fa'apitoa.",
+      "sec4Eyebrow": "FA'ATA'ITA'IGA O FESIGA FA'AMATALAGA",
+      "sec4Heading": "Faiga Fa'aonaponei Ao",
+      "sec4Subtext": "Ose fa'afanua auala fa'atulagaina e fa'aliliuina monoliths tala'aga i 'au'aunaga fa'alava, malupuipuia, ma fa'atumauina.",
+      "sec5Eyebrow": "FUAFUAGA",
+      "sec5Heading": "Fa'amanuiaga Autu Fa'aonaponei",
+      "sec5Subtext": "O le fa'asolo atu o faiga fa'aleaganu'u i ata fa'aonaponei ao fa'aonaponei e maua ai le mataalia o le fa'agaioiga ma le va'aiga tau.",
+      "ctaHeading": "Fa'aonaponei Au Talosaga Tu'u",
+      "ctaDescription": "Su'esu'e se faiga fa'atino e su'esu'e ai, fa'aonaponei ma fa'agaioi fa'amatalaga tu'ufa'asolo aga'i i ata fa'akomepiuta ma fa'amautu.",
+      "ctaButton": "Talanoa i o Tatou Tagata Popoto",
+      "sec1P1": "O talosaga fa'atauva'a na fausia i le sefulu tausaga talu ai o lo'o fa'aola pea le faitau piliona o tupe maua mai atina'e, peita'i o lo latou fa'amaualuga faufale e fa'atupu ai le fa'atupula'ia o tulaga lamatia.",
+      "sec1P2": "O pisinisi uma e feagai ma le vevesi i le va o le mautu ma le faʻafouina. O faiga fa'aleaganu'u na fa'ainisinia mo le tumau, ma sa fa'atino fa'atuatuaina mo le tele o tausaga. Ae ui i lea, a o faʻavavevave manaoga pisinisi, o nei fausaga tuai e feagai ma tapulaʻa faʻavae:",
+      "sec1List": [
+        {
+          "bold": "Fa'aputuina polokalame tuai:",
+          "text": "Monolithic codebases fausia i luga o fa'ava'a fa'aletonu ma fa'aitiitiga avanoa taleni avanoa mo le tausiga."
+        },
+        {
+          "bold": "Taamilosaga faigata o le tausiga:",
+          "text": "O vaega fa'apipi'i mau pe a suia se vaega e tasi e ono malepe ai vaega fa'atino e le feso'ota'i."
+        },
+        {
+          "bold": "Fa'atapula'aina le fa'ateleina:",
+          "text": "Fa'atapula'a fa'atutu sa'o e mana'omia ai le fa'atauina o masini fa'atauga taugata e fa'atautaia ai le fa'atuputeleina o fe'avea'i."
+        },
+        {
+          "bold": "Lu'i tu'ufa'atasi:",
+          "text": "Le mafai ona fa'afeso'ota'i sologa lelei ma fa'aoga feavea'i fa'aonaponei, faitoto'a o tagata fa'atau, po'o API pa'aga e aunoa ma ni fa'amaumauga ma'ale'ale."
+        },
+        {
+          "bold": "Fa'atapula'aina galuega tetele:",
+          "text": "Si'osi'omaga o le potu fa'aletino fa'aletino, fa'aletonu fa'asao, ma tupe alu fa'agaioia maualuga/malulu."
+        }
+      ],
+      "sec2P1": "O se malaga fa'aonaponei fa'apitoa e amata i le fa'amautuina o le manino atoatoa i le esetete o lo'o iai nei:",
+      "sec2List": [
+        {
+          "bold": "Talosaga:",
+          "text": "Fa'avasegaga uma o galuega fa'atino, fa'asologa fa'aaganu'u, fa'amaumauga tua'oi, ma fa'amaumauga fa'asolopito lona tolu."
+        },
+        {
+          "bold": "Fa'alagolago:",
+          "text": "Fa'afanua feso'ota'iga lavelave taimi ta'avale, laulau fa'asoa fa'amaumauga, telefoni fa'atonu faila faila, ma konekarate tautua fafo."
+        },
+        {
+          "bold": "Fa'amaumauga:",
+          "text": "Su'esu'eina fa'amaumauga o fa'amaumauga, tulaga fa'amaoni tau fefa'ataua'iga, fa'asologa fa'aola, ma tulafono fa'aletulafono fa'aletulafono."
+        },
+        {
+          "bold": "Aseta:",
+          "text": "Su'e le PPU, manatua, fa'aogaina o mea e teu ai, ma le fa'aogaina o feso'ota'iga i fa'amatalaga fa'atatau o le ao."
+        },
+        {
+          "bold": "Fa'atauaina pisinisi:",
+          "text": "Fa'avasegaina o talosaga i ni vaega e fa'ata'atia saogalemu, fa'asolosolo galu femalaga'i fa'atasi ai ma fa'agasolo manino o tua."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Fa'amanuiaga:",
+      "cloudArchitectureBadge": "Fa'aonaponei Olaga Olaga",
+      "cloudArchitectureTitle": "Fa'ai'u-i-I'uga Ao Fa'aonaponei Fa'asolo",
+      "sec4P1": "O le fa'ata'ita'iga o lo'o taunu'u i ai e fa'a'ese'ese fa'atasi ai fa'aoga autu i 'au'aunaga fa'apitoa, fa'apipi'iina o lo'o fa'afeiloa'i i luga o fa'aputuga o ao (e pei o Kubernetes po'o taimi fa'atautaia e leai se server).",
+      "sec4P2": "E ala i le fa'atuina o paipa fa'apipi'i CI/CD, tipi otometi lanumoana-lanumeamata, ma atina'e e fai ma fa'ailoga, e suia ai mea mai fa'ai'uga fa'ai'uga fa'ai'uga fa'ai'uga i faiga masani i aso uma.",
+      "sec4P3": "E otometi lava ona fua i luga le fa'aogaina o mea e mana'omia ma fa'aitiitia i le taimi o le fa'agasolo, fa'aitiitia ai le tau fa'aletonu a'o fa'amautinoa taimi e tali atu ai i lalo-lua mo tagata fa'aoga i le lalolagi.",
+      "keyPerspectiveEyebrow": "FA'ATA'IGA LELEI",
+      "keyPerspectiveTitle": "Fa Poutu o le Malaga Manuia",
+      "keyPerspectiveLead": "O le poto masani ua fa'aalia ai e manuia galuega fa'aonaponei pe a fa'avae i luga o tapenaga atoatoa, fa'asologa manino o galu, ma su'ega faigata:"
+    }
+  }
+}

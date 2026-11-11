@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Nipa",
+    "services": "Awọn iṣẹ",
+    "products": "Awọn ọja",
+    "perspectives": "Awọn Iwoye",
+    "technologies": "Awọn imọ-ẹrọ",
+    "contact": "Olubasọrọ",
+    "signIn": "Wọle",
+    "signUp": "Wọlé Up",
+    "signOut": "Jade",
+    "chooseLanguage": "Yan ede rẹ",
+    "searchLanguage": "Ṣewadii ede",
+    "resetEnglish": "Tun to English",
+    "noResults": "Ko si ede kankan",
+    "englishDefault": "English (Aiyipada)",
+    "english": "English"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Haiderabadi",
+    "title": "Software, ti a ṣe fun ọna ti<em>owo rẹ</em> nṣiṣẹ.",
+    "description": "Rezonants jẹ awọn iṣẹ IT ati ile-iṣẹ awọn ọja oni-nọmba. A ṣe apẹrẹ, kọ ati iwọn sọfitiwia aṣa, wẹẹbu ati awọn ọja alagbeka, awọn amayederun awọsanma ati AI - fun awọn ile-iṣẹ ti o dije lori ipaniyan.",
+    "bookConsultation": "Iwe ijumọsọrọ ọfẹ",
+    "exploreServices": "Ṣawari awọn iṣẹ",
+    "years": "ọdun",
+    "projects": "ise agbese",
+    "retention": "idaduro",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants - lati ọdun 2012",
+    "metaStudio": "Ile isise ọja oni-nọmba",
+    "metaTech": "Oju opo wẹẹbu · Alagbeka · Awọsanma · AI"
+  },
+  "about": {
+    "eyebrow": "Nipa tiwa",
+    "title": "Ṣiṣe Awọn Solusan Oni-nọmba <em>Ti o Gbe Awọn iṣowo siwaju</em>",
+    "description": "Rezonants jẹ ile-iṣẹ awọn solusan imọ-ẹrọ ti o dojukọ lori iranlọwọ awọn iṣowo ṣe iyipada awọn imọran sinu awọn iriri oni-nọmba ti o nilari. A darapọ imọ-ẹrọ, ẹda, ati oye iṣowo lati fi awọn iṣeduro ti a ṣe ni ayika awọn aini gidi-aye.<br /><br />Lati iyipada oni-nọmba ati idagbasoke software aṣa si awọsanma, AI, automation, ati awọn iṣẹ imọ-ẹrọ ti iṣakoso, a ṣe iranlọwọ fun awọn ajo ti o rọrun, mu ilọsiwaju ṣiṣẹ, ati ṣẹda iye oni-nọmba ti o duro pẹ.",
+    "awardWinning": "Gbigba Aami-eye",
+    "awardText": "Ti idanimọ fun iperegede ifijiṣẹ kọja oju opo wẹẹbu ati imọ-ẹrọ ọja alagbeka.",
+    "professionalStaff": "Oṣiṣẹ Ọjọgbọn",
+    "staffText": "Agba, awọn onimọ-ẹrọ iṣiro ti o ni iṣẹ lati ipe akọkọ lati lọ-ifiweranṣẹ.",
+    "support247": "24/7 Atilẹyin",
+    "supportText": "Awọn iṣẹ iṣakoso ati laini atilẹyin ti o dahun nigbati o nilo rẹ.",
+    "fairPrices": "Awọn idiyele deede",
+    "pricesText": "Awọn iṣiro otitọ ati isanwo sihin lori gbogbo adehun igbeyawo kan.",
+    "yearsExcellence": "Awọn ọdun ti Ilọsiwaju Idawọlẹ"
+  },
+  "stats": {
+    "happyClients": "Awọn onibara ayọ",
+    "projectsDone": "Awọn iṣẹ akanṣe",
+    "winAwards": "Gba awọn ẹbun"
+  },
+  "insights": {
+    "eyebrow": "Awọn Iwoye",
+    "title": "Awọn Iwoye",
+    "sub": "Ṣiṣawari awọn imọran, awọn aṣa, ati imọ-ẹrọ ti n ṣatunṣe ọjọ iwaju.",
+    "filters": {
+      "all": "Gbogbo",
+      "digital-transformation": "Iyipada oni-nọmba",
+      "ai": "AI & Adaṣiṣẹ",
+      "cloud": "Awọsanma",
+      "data": "Data & Atupale",
+      "software": "Software",
+      "business": "Iṣowo & Imọ-ẹrọ"
+    },
+    "readMore": "Ka siwaju",
+    "close": "Sunmọ",
+    "keyTakeaways": "Awọn ọna gbigbe Awọn ọna ayaworan bọtini",
+    "relatedServices": "Awọn agbara ti o jọmọ & Awọn iṣẹ",
+    "minRead": "min ka",
+    "item1Date": "Oṣu Keje Ọdun 2026",
+    "item1Tag": "Ọja & ERP",
+    "item1Title": "Ọna ERP apọjuwọn kan fun awọn ile-iṣẹ idagbasoke",
+    "item1Text": "Bii a ṣe ṣe agbekalẹ awọn adehun ERP ki iṣuna, akojo oja, HR ati rira ṣepọpọ laisi idalọwọduro ọdun pupọ.",
+    "item2Date": "Oṣu Kẹjọ ọdun 2026",
+    "item2Tag": "Imọye Oríkĕ",
+    "item2Title": "Awọn ọna ṣiṣe AI Agent: gbigbe lati awọn chatbots si ipaniyan adase",
+    "item2Text": "Ṣiṣeto iṣakojọpọ awọn ọna ṣiṣe aṣoju-ọpọlọpọ LLM ti o gbero, fọwọsi, ati ṣiṣe awọn iṣan-iṣẹ iṣowo eka pẹlu abojuto eniyan-ni-loop.",
+    "item3Date": "Oṣu Karun ọdun 2026",
+    "item3Tag": "Ile-iṣẹ pataki",
+    "item3Title": "Ti idanimọ laarin awọn ile-iṣere isọdọtun IT ti o yori si ni Hyderabad",
+    "item3Text": "Ile-iṣe ẹrọ imọ-ẹrọ wa ti jẹwọ fun didara julọ ifijiṣẹ, awọn agbara imọ-ẹrọ jinlẹ, ati itẹlọrun alabara kọja imọ-ẹrọ ọja agbaye.",
+    "desc": "Ṣawari awọn imọran ati awọn iwoye lati Rezonants lori iyipada oni-nọmba, AI, adaṣe, awọsanma, data, sọfitiwia, ati ọjọ iwaju ti imọ-ẹrọ iṣowo.",
+    "categories": {
+      "digitalTransformation": "Iyipada oni-nọmba",
+      "ai": "AI & Adaṣiṣẹ",
+      "cloud": "Awọsanma",
+      "data": "Data & Atupale",
+      "software": "Software",
+      "business": "Iṣowo & Imọ-ẹrọ"
+    }
+  },
+  "technologies": {
+    "title": "Awọn imọ-ẹrọ & Iṣẹ-ọnà",
+    "headline": "Awọn solusan Imọ-ẹrọ Idawọlẹ",
+    "sub": "Imọ-ẹrọ ti oye. Awọn iṣẹ adaṣe adaṣe. Iṣowo ijafafa.",
+    "selectTechnology": "Yan ojutu imọ-ẹrọ kan…",
+    "options": {
+      "aiRobotics": "AI & Awọn solusan Robotik",
+      "businessAutomation": "Awọn solusan Automation Iṣowo",
+      "cloudMigrations": "Awọn solusan Iṣilọ Awọsanma",
+      "dataCenters": "Awọn solusan ile-iṣẹ data",
+      "cognitiveAnalytics": "Awọn Itupalẹ Imọye & AI",
+      "informationReporting": "Alaye & Awọn ọna ṣiṣe ijabọ",
+      "managedServices": "Awọn iṣẹ iṣakoso",
+      "oneStopSolutions": "Ọkan-Duro Technology Solutions"
+    },
+    "explore": "Ṣawari Imọ-ẹrọ",
+    "bookDiscovery": "Awari Imọ-ẹrọ Iwe",
+    "exploreAll": "Ṣawari Gbogbo Awọn Imọ-ẹrọ",
+    "coreCapabilities": "Awọn agbara Imọ-ẹrọ Core",
+    "bookConsultation": "Iwe ijumọsọrọ kan"
+  },
+  "contact": {
+    "eyebrow": "Olubasọrọ",
+    "title": "Sọrọ si ẹlẹrọ agba, kii ṣe iwe afọwọkọ tita",
+    "sub": "Pin diẹ nipa iṣẹ akanṣe rẹ ati pe a yoo dahun laarin ọjọ iṣowo kan.",
+    "reachUs": "De ọdọ wa taara",
+    "preferConversation": "Ṣe o fẹ ibaraẹnisọrọ bi? A jẹ ipe kan kuro.",
+    "contactLede": "Ọna ti o yara ju lati lọ siwaju ni ibaraẹnisọrọ kukuru. De ọdọ wa lori eyikeyi ikanni ni isalẹ, tabi iwe kan Iho ati awọn ti a yoo wa si o pese sile.",
+    "phone": "Foonu",
+    "email": "Imeeli",
+    "office": "Ọfiisi",
+    "hours": "Awọn wakati",
+    "hoursValue": "Aarọ – Ọjọbọ, 9:30 – 18:30 IST",
+    "bookSlot": "Iwe Iho ijumọsọrọ",
+    "sendMessage": "Firanṣẹ ranṣẹ si wa",
+    "fieldsRequired": "Awọn aaye ti a samisi pẹlu * ni a nilo.",
+    "fullName": "Orukọ kikun *",
+    "emailLabel": "Imeeli *",
+    "company": "Ile-iṣẹ",
+    "subject": "Koko-ọrọ",
+    "messageLabel": "Ifiranṣẹ *",
+    "sending": "Fifiranṣẹ…",
+    "sendBtn": "Firanṣẹ",
+    "successMsg": "Ifiranṣẹ ranṣẹ! Ẹda kan ti fi imeeli ranṣẹ si ọ.",
+    "errorMsg": "Ko le fi ifiranṣẹ rẹ pamọ. Ṣayẹwo pe tabili olubasọrọ_messages wa, lẹhinna gbiyanju lẹẹkansi.",
+    "offices": {
+      "vijayawada": "Ọfiisi Vijayawada",
+      "southAfrica": "Ile-iṣẹ South Africa"
+    },
+    "placeholders": {
+      "fullName": "Orukọ rẹ ni kikun",
+      "email": "iwọ@company.com",
+      "company": "Ile-iṣẹ tabi agbari rẹ",
+      "subject": "Báwo la ṣe lè ṣèrànwọ́?",
+      "message": "Sọ fun wa nipa iṣẹ akanṣe rẹ, aago akoko, ati awọn ibi-afẹde..."
+    },
+    "validation": {
+      "fullNameRequired": "Jọwọ tẹ orukọ rẹ ni kikun sii.",
+      "emailRequired": "Jọwọ tẹ adirẹsi imeeli rẹ sii.",
+      "emailInvalid": "Jọwọ tẹ adirẹsi imeeli to wulo.",
+      "messageRequired": "Jọwọ tẹ ifiranṣẹ sii."
+    }
+  },
+  "services": {
+    "eyebrow": "Awọn iṣẹ",
+    "title": "Ohun ti a nse",
+    "sub": "Lati ilana si awọn iṣẹ iṣakoso, a fi awọn ajọṣepọ imọ-ẹrọ ipari-si-opin fun awọn ile-iṣẹ ti o dije lori ipaniyan.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Ibẹrẹ Lati Ifiranṣẹ",
+        "description": "Ipari ipari-si-opin ti awọn solusan oni-nọmba tuntun lati awọn ibeere iṣowo ati faaji ojutu nipasẹ idagbasoke, iṣọpọ, idanwo, imuṣiṣẹ, ati atilẹyin ti nlọ lọwọ."
+      },
+      "businessProcessAutomation": {
+        "label": "Automation Ilana Iṣowo",
+        "description": "Apẹrẹ ati imuse awọn solusan adaṣe adaṣe ti oye ti o mu awọn ilana iṣowo ṣiṣẹ, imukuro awọn iṣẹ afọwọṣe atunwi, mu iṣẹ ṣiṣe ṣiṣẹ, ati mu awọn abajade iṣowo pọ si."
+      },
+      "centerOfExcellence": {
+        "label": "Ile-iṣẹ ti Ọla",
+        "description": "Idasile ti imọ-ẹrọ amọja ati awọn ile-iṣẹ agbara iṣowo ti o pese iṣakoso ijọba, awọn iṣedede, imọ-jinlẹ, awọn ilana, awọn ohun-ini atunlo, ati ilọsiwaju ilọsiwaju kọja ajo naa."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Idagbasoke Aṣa & Isọdọtun",
+        "description": "Idagbasoke ati imudara awọn ohun elo, awọn iru ẹrọ, ṣiṣan iṣẹ, ati awọn solusan ile-iṣẹ lati koju awọn ibeere iṣowo alailẹgbẹ ati jiṣẹ iṣẹ ṣiṣe ti a ṣe."
+      },
+      "digitalTransformation": {
+        "label": "Iyipada oni-nọmba",
+        "description": "Isọdọtun ti awọn iṣẹ iṣowo, awọn ilolupo eda abemi ọna ẹrọ, ati awọn iriri alabara nipasẹ awọsanma, AI, adaṣe, data, ati awọn imọ-ẹrọ ohun elo ode oni."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Ilana Solusan Ipari-si-Ipari",
+        "description": "Ọna ifijiṣẹ pipe ti o bo igbesi aye imọ-ẹrọ pipe-lati ilana, awọn ibeere, ati faaji si idagbasoke, isọpọ, imuṣiṣẹ, iṣakoso, ibojuwo, ati atilẹyin."
+      },
+      "migrationModernization": {
+        "label": "Iṣilọ & Igbalaju",
+        "description": "Iṣilọ ti o ni aabo ati iṣeto ti awọn ohun elo, data, awọn iru ẹrọ, awọn amayederun, ati awọn iṣẹ ṣiṣe lati ohun-ini tabi awọn agbegbe ti o wa si igbalode, iwọn, ati awọn iru ẹrọ imọ-ẹrọ iṣapeye."
+      },
+      "pocPilotImplementation": {
+        "label": "Ẹri ti Agbekale (PoC) & Iṣaṣe Pilot",
+        "description": "Idagbasoke kiakia ati idaniloju awọn iṣeduro imọ-ẹrọ lati ṣe ayẹwo imọ-ẹrọ imọ-ẹrọ, iye owo iṣowo, awọn ibeere iṣọpọ, iṣẹ-ṣiṣe, ati scalability ṣaaju imuse kikun."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Awọn iṣẹ Pipin & Awọn iṣẹ iṣakoso",
+        "description": "Ifijiṣẹ ti aarin ti imọ-ẹrọ ati awọn agbara iṣiṣẹ kọja awọn ẹka iṣowo nipasẹ awọn ilana ti o ni idiwọn, awọn orisun oye, awọn ilana ijọba, iṣakoso iṣẹ, ati awọn ipele iṣẹ iwọnwọn."
+      },
+      "customDevelopment": {
+        "label": "Ibẹrẹ Lati Ifiranṣẹ",
+        "description": "Ipari ipari-si-opin ti awọn iṣeduro oni-nọmba titun lati awọn ibeere iṣowo ati iṣeduro ojutu nipasẹ idagbasoke, iṣọkan, idanwo, imuṣiṣẹ, ati atilẹyin ti nlọ lọwọ."
+      },
+      "processAutomation": {
+        "label": "Automation Ilana Iṣowo",
+        "description": "Apẹrẹ ati imuse awọn solusan adaṣe adaṣe ti o ni oye ti o mu awọn ilana iṣowo ṣiṣẹ, imukuro awọn iṣẹ afọwọṣe atunwi, mu iṣẹ ṣiṣe ṣiṣẹ, ati mu awọn abajade iṣowo pọ si."
+      },
+      "solutionEngineering": {
+        "label": "Idagbasoke Aṣa & Isọdi",
+        "description": "Idagbasoke ati imudara awọn ohun elo, awọn iru ẹrọ, ṣiṣan iṣẹ, ati awọn solusan ile-iṣẹ lati koju awọn ibeere iṣowo alailẹgbẹ ati jiṣẹ iṣẹ ṣiṣe ti a ṣe."
+      },
+      "endToEndSolutions": {
+        "label": "Ilana Solusan Ipari-si-Ipari",
+        "description": "Ọna ifijiṣẹ pipe ti o bo igbesi aye imọ-ẹrọ pipe-lati ilana, awọn ibeere, ati faaji si idagbasoke, isọpọ, imuṣiṣẹ, iṣakoso, ibojuwo, ati atilẹyin."
+      },
+      "migrationServices": {
+        "label": "Iṣilọ & Igbalaju",
+        "description": "Iṣilọ ti o ni aabo ati iṣeto ti awọn ohun elo, data, awọn iru ẹrọ, awọn amayederun, ati awọn iṣẹ ṣiṣe lati ohun-ini tabi awọn agbegbe ti o wa si igbalode, iwọn, ati awọn iru ẹrọ imọ-ẹrọ iṣapeye."
+      },
+      "pilotPrototyping": {
+        "label": "Ẹri ti Agbekale (PoC) & Iṣaṣe Pilot",
+        "description": "Idagbasoke kiakia ati idaniloju awọn iṣeduro imọ-ẹrọ lati ṣe ayẹwo imọ-ẹrọ imọ-ẹrọ, iye owo iṣowo, awọn ibeere iṣọpọ, iṣẹ-ṣiṣe, ati scalability ṣaaju imuse kikun."
+      },
+      "sharedServices": {
+        "label": "Awọn iṣẹ Pipin & Awọn iṣẹ iṣakoso",
+        "description": "Ifijiṣẹ ti aarin ti imọ-ẹrọ ati awọn agbara iṣiṣẹ kọja awọn ẹka iṣowo nipasẹ awọn ilana ti a ṣe iwọn, awọn orisun oye, awọn ilana ijọba, iṣakoso iṣẹ, ati awọn ipele iṣẹ iwọnwọn."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Ṣeto Ijumọsọrọ kan",
+      "exploreFramework": "Ṣawari Ilana Solusan",
+      "talkSeniorEngineer": "Sọrọ si Onimọ-ẹrọ Agba",
+      "exploreTechStack": "Ye Technology Stack",
+      "bookPocSession": "Iwe Ikoni Awari PoC kan",
+      "seeAllServices": "Wo Gbogbo Awọn iṣẹ",
+      "requestAssessment": "Beere Igbelewọn Iṣilọ",
+      "exploreCloudSolutions": "Ṣawari Awọn solusan Awọsanma"
+    },
+    "sharedServices": {
+      "heroBadge": "Awọn iṣẹ Pipin & Awọn iṣẹ iṣakoso",
+      "heroTitle": "Awọn iṣẹ Pipin Idawọlẹ & Awọn iṣẹ iṣakoso",
+      "heroDesc": "Awọn agbara iṣowo iwọn, mu awọn iṣan-iṣẹ iṣẹ-agbelebu ṣiṣẹ, ati ṣaṣeyọri ilọsiwaju iṣẹ ṣiṣe nipasẹ iwọnwọn, aabo, ati awọn awoṣe iṣẹ pinpin iye owo-doko.",
+      "bookDiscovery": "Awari Awọn iṣẹ ṣiṣe iṣakoso Iwe",
+      "exploreFramework": "Ṣawari Ilana Solusan",
+      "coreCapabilities": "Awọn Agbara Pataki:",
+      "managedServices": "Awọn iṣẹ iṣakoso",
+      "itOperations": "Awọn iṣẹ IT",
+      "appSupport": "Atilẹyin ohun elo",
+      "serviceManagement": "Isakoso Iṣẹ",
+      "resourceOptimization": "Imudara Awọn orisun",
+      "slaManagement": "Iṣakoso SLA",
+      "governance": "Ijọba",
+      "continuousImprovement": "Imudara Tesiwaju",
+      "costOptimization": "Imudara iye owo",
+      "readyTitle": "Ṣetan lati Mu Awọn iṣẹ Rẹ dara si?",
+      "readyDesc": "Ṣe afẹri bii Awọn iṣẹ Pipin wa & awọn ilana Awọn iṣẹ ṣiṣe iṣakoso le mu didara iṣẹ pọ si, rii daju ilọsiwaju iṣẹ, ati mu awọn ṣiṣe idiyele idiyele alagbero fun ile-iṣẹ rẹ.",
+      "scheduleSession": "Ṣeto Ikoni Awari kan"
+    },
+    "solutionEngineering": {
+      "heroBadge": "OJUTU IṢẸRỌ ATI ARCHITECTURE",
+      "heroTitle": "Idagbasoke Aṣa & Isọdọtun",
+      "heroDesc": "Onimọ-ẹrọ, ẹlẹrọ, ati mu awọn eto sọfitiwia iṣẹ ṣiṣe giga ti a ṣe apẹrẹ pataki fun ṣiṣan iṣẹ ṣiṣe rẹ, awọn opo gigun ti data, ati awọn ibeere iwọn."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "IKỌRỌ RAPID & EXPERIMENTATION",
+      "heroTitle": "Ẹri ti Agbekale (PoC) & Iṣaṣe Pilot",
+      "heroDesc": "Fifọwọsi awọn imọ-ẹrọ ti n yọ jade, de-ewu awọn faaji eka, ki o jẹri iye iṣowo pẹlu awọn apẹrẹ-ipe iṣelọpọ ni awọn ọsẹ, kii ṣe awọn idamẹrin."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ARCHITECTURE LIFEECYCLE & Ifijiṣẹ",
+      "heroTitle": "Ilana Solusan Ipari-si-Ipari",
+      "heroDesc": "Awoṣe ifijiṣẹ iṣọkan ti o so wiwa ọja pọ, faaji ojutu, imọ-ẹrọ, awọn amayederun awọsanma, ati awọn iṣẹ igbẹkẹle 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "ALAYE & OJUMO OJUMO",
+      "heroTitle": "Iṣilọ & Igbalaju",
+      "heroDesc": "Iyipada awọn ẹru iṣẹ-ijogunba lainidii, awọn ile ayaworan monolithic, ati awọn amayederun inu ile si igbalode, aabo, ati awọn iru ẹrọ awọsanma ti iwọn."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Isọdọtun Idawọlẹ",
+        "titlePart1": "Oni-nọmba",
+        "titlePart2": "Iyipada",
+        "description": "Isọdọtun ti awọn iṣẹ iṣowo, awọn ilolupo eda abemi ọna ẹrọ, ati awọn iriri alabara nipasẹ awọsanma, AI, adaṣe, data, ati awọn imọ-ẹrọ ohun elo ode oni.",
+        "bookWorkshop": "Idanileko Iyipada Iwe",
+        "exploreFramework": "Ṣawari Ilana Solusan",
+        "startTransformation": "Bẹrẹ Iyipada",
+        "exploreStrategy": "Ṣawari Ilana",
+        "coreCapabilitiesTitle": "Awọn agbara Koko",
+        "coreCapabilities": [
+          "Digital nwon.Mirza",
+          "Iyipada Awọsanma",
+          "AI & Adaṣiṣẹ",
+          "Ohun elo Igbalaju",
+          "Igbalaju Ogún",
+          "Data & Atupale",
+          "Iriri Onibara",
+          "Igbalaju Imọ-ẹrọ"
+        ],
+        "row1Eyebrow": "Ilana & Ipa ọna",
+        "row1Title": "Lati Iran si Ipa-ọna ipasẹ",
+        "row1P1": "A ṣe alabaṣepọ pẹlu awọn oludari ile-iṣẹ lati ṣalaye ilana oni-nọmba, awọn ọran iṣowo, ati awọn maapu ọna-ọna pẹlu awọn aṣeyọri iyara ati ipaniyan ti o ni eewu.",
+        "row1P2": "Awọn ipilẹṣẹ akọkọ, awọn awoṣe TCO, ati awọn KPI ṣe idaniloju gbogbo igbiyanju imudara imọ-ẹrọ ni asopọ taara si owo-wiwọle, ṣiṣe, ati awọn abajade itẹlọrun alabara.",
+        "row2Eyebrow": "Igbalaju Ogún",
+        "row2Title": "Ṣe Odojuiwọn Laisi Biba Iṣowo naa",
+        "row2P1": "Tun-platform monoliths si awọn microservices, APIs, ati awọn ilana abinibi-awọsanma pẹlu awọn gige akoko-isalẹ odo ati afọwọsi adaṣe adaṣe.",
+        "row2P2": "A ṣe imudojuiwọn awọn ohun elo, awọn apoti isura data, ati awọn ipele isọpọ lakoko ti o tọju ibamu ati iduro aabo.",
+        "row3Eyebrow": "Awọsanma, AI & Data",
+        "row3Title": "Awọsanma Olomo & Data-Iwakọ oye",
+        "row3P1": "Gba AWS, Azure, ati GCP, kọ awọn opo gigun ti data ode oni, ati fi sii awọn aṣoju ikẹkọ ẹrọ lati wakọ awọn ipinnu adase.",
+        "row3P2": "Lati ṣiṣan iṣẹlẹ gidi-akoko si awọn dasibodu ti iṣọkan, iyipada di iwọnwọn ati alagbero.",
+        "row4Eyebrow": "Iriri Onibara",
+        "row4Title": "Awọn iriri Omnichannel ode oni",
+        "row4P1": "Tunṣe awọn irin-ajo alabara kọja oju opo wẹẹbu ti o ṣe idahun, iOS, Android, ati awọn ọna abawọle iṣẹ-ara ẹni pẹlu awọn atọkun ara ẹni.",
+        "row4P2": "Imọ-ẹrọ Platform, telemetry, ati awọn losiwajulosehin esi adaṣe jẹ ki isọdọtun oni nọmba tẹsiwaju.",
+        "pillarsTitle": "Awọn Origun Iyipada",
+        "pillarsSub": "Awọn lefa idojukọ Abajade ti o rii daju adari oni-nọmba alagbero.",
+        "pillar1Title": "Digital Strategy & Isejoba",
+        "pillar1Desc": "Awọn awoṣe iyipada alakoso pẹlu iṣapẹẹrẹ ọran iṣowo, iṣakoso faaji, ati titọpa eewu pataki pataki.",
+        "pillar2Title": "Awọsanma & Data Platform",
+        "pillar2Desc": "AWS/Azure/GCP awọn ipilẹ-awọsanma-ọpọlọpọ, awọn opo gigun ti a ṣe adaṣe, ati ṣiṣe ṣiṣe itupalẹ data ile-iṣẹ.",
+        "pillar3Title": "AI & Adaṣiṣẹ",
+        "pillar3Desc": "Adaṣiṣẹ ilana oye, awọn aṣoju AI oye, ati telemetry asọtẹlẹ lati mu awọn iṣẹ ṣiṣe lojoojumọ ṣiṣẹ.",
+        "pillar4Title": "Iriri Onibara",
+        "pillar4Desc": "Awọn ọna abawọle oni-nọmba omnichannel ti o ga julọ ati awọn atọkun ara ẹni ti a ṣe fun idaduro olumulo ti o pọju.",
+        "ctaTitle": "Ṣetan lati Yi Ile-iṣẹ Rẹ pada?",
+        "ctaSub": "Alabaṣepọ pẹlu Rezonants fun tito-pipade, iyipada oni-nọmba ti o ni eewu ti a so mọ awọn abajade iṣowo ti o ṣe iwọnwọn.",
+        "ctaButton": "Iwe ipe Iyipada oni-nọmba kan"
+      },
+      "customDevelopment": {
+        "eyebrow": "Igbẹhin-si-Ipari Imọ-ẹrọ oni-nọmba",
+        "titlePart1": "Ibẹrẹ Lati",
+        "titlePart2": "Gbigbe",
+        "bookConsultation": "Iwe ijumọsọrọ kan",
+        "exploreEngineering": "Ṣawari Imọ-ẹrọ Solusan"
+      },
+      "processAutomation": {
+        "eyebrow": "Awọn iṣẹ ṣiṣe ti oye",
+        "titlePart1": "Ilana Iṣowo",
+        "titlePart2": "Adaṣiṣẹ",
+        "bookDiscovery": "Awari Automation Iwe",
+        "exploreCoE": "Ṣawari Ile-iṣẹ Ilọsiwaju"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Aarin ti",
+        "titlePart2": "Ope",
+        "bookConsultation": "Ijumọsọrọ CoE Book",
+        "exploreCapabilities": "Ṣawari Awọn Agbara"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Igbesi aye imọ-ẹrọ pipe",
+        "titlePart1": "Ipari-si-Opin",
+        "titlePart2": "Ilana Solusan",
+        "startJourney": "Bẹrẹ Irin-ajo Igbesi aye Rẹ",
+        "exploreTransformation": "Ye Iyipada"
+      },
+      "migrationServices": {
+        "eyebrow": "Awọsanma & Iyipada Amayederun",
+        "titlePart1": "Iṣilọ &",
+        "titlePart2": "Igbalaju",
+        "planMigration": "Gbero Iṣilọ Rẹ",
+        "exploreTransformation": "Ye Iyipada"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Ifọwọsi iyara & Iṣeṣe",
+        "titlePart1": "Ẹri ti Erongba (PoC) &",
+        "titlePart2": "Ilana Pilot",
+        "initiateDiscovery": "Bibẹrẹ Awari PoC",
+        "exploreDevelopment": "Ṣawari Idagbasoke Aṣa"
+      },
+      "solutionEngineering": {
+        "badge": "Imọ-ẹrọ oni-nọmba Ti a Tii",
+        "bookConsultation": "Iwe ijumọsọrọ kan",
+        "exploreCapabilities": "Ṣawari Awọn Agbara"
+      },
+      "sharedServices": {
+        "eyebrow": "Ibudo Awọn isẹ Aarin",
+        "titlePart1": "Awọn iṣẹ Pipin &",
+        "titlePart2": "Awọn iṣẹ iṣakoso",
+        "bookDiscovery": "Awari Awọn iṣẹ ṣiṣe iṣakoso Iwe",
+        "exploreFramework": "Ṣawari Ilana Solusan"
+      }
+    },
+    "coreCapabilities": "Awọn agbara Koko"
+  },
+  "products": {
+    "featured": "Awọn ọja Ifihan",
+    "featuredSub": "Awọn iṣẹ ṣiṣe dirọ, so awọn ẹgbẹ pọ, ṣe adaṣe awọn ilana, ati ṣe idagbasoke idagbasoke iṣowo ijafafa.",
+    "seeAll": "Wo Gbogbo Awọn ọja",
+    "featuredProducts": "Awọn ọja Afihan",
+    "meetAutonomous": "Pade Ẹgbẹ-iṣẹ Aladani",
+    "meetAutonomousText": "Ṣe iyipada awọn iṣẹ rẹ pẹlu awọn aṣoju AI ti o ṣiṣẹ lẹgbẹẹ ẹgbẹ rẹ lati mu awọn iṣẹ ṣiṣe ti o nipọn, ti atunwi.",
+    "learnMore": "Kọ ẹkọ diẹ sii",
+    "erp": {
+      "title": "Platform Kan Ṣetan fun Ohunkohun",
+      "sub": "Awọn iṣowo ni agbara pẹlu asopọ, oye, ati awọn solusan iṣakoso ile-iṣẹ iwọn.",
+      "explore": "Ye ERP Solutions",
+      "gridTitle": "OJUTU ERP",
+      "promoTitle": "ERP apọjuwọn fun Idagbasoke",
+      "promoText": "Mu awọn ẹya ERP modular ṣiṣẹ ni iyara laisi idiju ti awọn ọna ṣiṣe olona-ọdun ibile.",
+      "scheduleDemo": "Ririnkiri Iṣeto"
+    },
+    "it": {
+      "title": "IT solusan",
+      "sub": "Awọn amayederun ipele ile-iṣẹ, aabo, ati awọn solusan DevOps lati jẹ ki iṣowo rẹ ṣiṣẹ.",
+      "explore": "Ye IT Solutions",
+      "gridTitle": "OJUTU RE",
+      "promoTitle": "Awọn amayederun IT ti o gbẹkẹle",
+      "promoText": "Kọ ipilẹ imọ-ẹrọ resilient pẹlu awọsanma iṣakoso, aabo, ati awọn iṣẹ DevOps.",
+      "getStarted": "Bẹrẹ"
+    },
+    "crm": {
+      "title": "Awọn solusan CRM",
+      "sub": "Isakoso ibatan alabara lati ṣe iṣeduro awọn tita, atilẹyin, ati awọn iṣan-iṣẹ iṣowo.",
+      "explore": "Ye CRM Solutions",
+      "gridTitle": "CRM OJUTU",
+      "promoTitle": "Pade Awọn iṣowo diẹ sii",
+      "promoText": "Fi agbara fun tita rẹ ati awọn ẹgbẹ atilẹyin pẹlu data alabara ti iṣọkan ati adaṣe oye.",
+      "startTrial": "Bẹrẹ Idanwo Ọfẹ"
+    },
+    "hrms": {
+      "title": "Awọn solusan HRMS",
+      "sub": "Isakoso awọn oluşewadi eniyan ti o bo owo-osu, igbanisiṣẹ, iṣẹ ṣiṣe, ati ilowosi oṣiṣẹ.",
+      "explore": "Ṣawari Awọn Solusan HRMS",
+      "gridTitle": "OJUTU HRMS",
+      "promoTitle": "Ṣe irọrun Awọn iṣẹ HR",
+      "promoText": "Ṣe adaṣe awọn ṣiṣan iṣẹ HR lati igbanisiṣẹ si ifẹhinti lẹnu iṣẹ pẹlu igbalode, pẹpẹ ti oṣiṣẹ-akọkọ.",
+      "requestDemo": "Beere Ririnkiri"
+    },
+    "sidebar": {
+      "featuredProducts": "Awọn ọja Ifihan",
+      "erpSolutions": "Awọn solusan ERP",
+      "solutions": "OJUTU"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "rezonants AI Suite",
+        "description": "Awọn aṣoju adase oloye ati awọn irinṣẹ ti o ṣe adaṣe awọn iṣan-iṣẹ eka ati awọn iṣẹ alabara."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Syeed iṣakoso awọsanma pupọ ti n ṣatunṣe iṣẹ ṣiṣe, aabo, ibamu, ati awọn idiyele."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Ifowosowopo arabara ati ibudo iṣelọpọ pẹlu iṣẹ iṣọpọ, iwiregbe, ati iṣakoso iwe."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Ẹrọ atupale akoko gidi ti n yi awọn ṣiṣan ti awọn iṣẹlẹ iṣowo pada si awọn oye ṣiṣe."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP mojuto",
+        "description": "Iṣaṣepọ ile-iṣẹ iṣọpọ ti n sopọ iṣuna, awọn ohun-ini, HR, rira, ati akojo oja."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Syeed iriri oṣiṣẹ ti o ni wiwa isanwo-sanwo, awọn anfani, awọn atunwo iṣẹ, ati iṣẹ ti ara ẹni."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Ipasẹ awọn eekaderi akoko gidi, awọn iṣẹ ile-ipamọ adaṣe adaṣe, ati asọtẹlẹ eletan."
+      },
+      "financeHub": {
+        "title": "Isuna Ipele",
+        "description": "Ilọsiwaju iṣakoso iwe afọwọkọ, awọn ṣiṣan iṣẹ ṣiṣe ìdíyelé, ibamu adaṣe, ati awọn ijabọ sisanwo akoko gidi."
+      },
+      "cloudInfrastructure": {
+        "title": "Awọsanma Infrastructure",
+        "description": "Iṣatunṣe awọsanma ti iwọn, ijira, ati iṣakoso kọja AWS, Azure, ati GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Abojuto aabo opin-si-opin, iṣawari irokeke, ati iṣakoso ibamu."
+      },
+      "devopsPipeline": {
+        "title": "Pipeline DevOps",
+        "description": "CI/CD adaṣiṣẹ, apoti, ati awọn amayederun-bi-koodu fun ifijiṣẹ yiyara."
+      },
+      "managedItServices": {
+        "title": "Awọn iṣẹ IT ti iṣakoso",
+        "description": "Abojuto amayederun 24/7, esi isẹlẹ, ati itọju to ṣiṣẹ."
+      },
+      "salesCrm": {
+        "title": "Tita CRM",
+        "description": "Isakoso pipeline, igbelewọn asiwaju, ipasẹ iṣowo, ati asọtẹlẹ tita ni pẹpẹ kan."
+      },
+      "customerSupportHub": {
+        "title": "Ibudo Atilẹyin Onibara",
+        "description": "Tikẹti, ipilẹ imọ, iwiregbe laaye, ati iṣakoso atilẹyin omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Tita Automation",
+        "description": "Ipolongo ipolongo, adaṣiṣẹ imeeli, titọjú asiwaju, ati atupale."
+      },
+      "customer360View": {
+        "title": "Onibara 360 Wo",
+        "description": "Awọn profaili alabara ti iṣọkan apapọ awọn tita, atilẹyin, ati data ibaraenisepo."
+      },
+      "coreHr": {
+        "title": "Pataki HR",
+        "description": "Awọn igbasilẹ oṣiṣẹ, awọn ilana org, iṣakoso kuro, ati wiwa wiwa."
+      },
+      "payrollCompliance": {
+        "title": "Owo isanwo & Ibamu",
+        "description": "Ṣiṣẹda isanwo adaṣe adaṣe, awọn iṣiro owo-ori, ati ibamu ofin."
+      },
+      "performanceManagement": {
+        "title": "Isakoso iṣẹ",
+        "description": "Ipasẹ OKR, awọn atunyẹwo 360°, eto ibi-afẹde, ati awọn ero idagbasoke oṣiṣẹ."
+      },
+      "recruitmentPortal": {
+        "title": "Portal Rikurumenti",
+        "description": "Awọn ifiweranṣẹ iṣẹ, ipasẹ olubẹwẹ, ṣiṣe eto ifọrọwanilẹnuwo, ati ṣiṣan iṣẹ inu ọkọ."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Awọn ọja Ifihan",
+        "heading": "Awọn ọja Ifihan",
+        "sub": "Awọn iṣẹ ṣiṣe dirọ, so awọn ẹgbẹ pọ, ṣe adaṣe awọn ilana, ati ṣe idagbasoke idagbasoke iṣowo ijafafa.",
+        "promoTitle": "Pade Ẹgbẹ Iṣẹ Aladani",
+        "promoText": "Ṣe iyipada awọn iṣẹ rẹ pẹlu awọn aṣoju AI ti o ṣiṣẹ lẹgbẹẹ ẹgbẹ rẹ lati mu awọn iṣẹ ṣiṣe ti o nipọn, ti atunwi.",
+        "items": [
+          {
+            "title": "AI Automation & Awọn aṣoju oye",
+            "description": "Ṣe adaṣe awọn iṣẹ-ṣiṣe atunwi ati fi awọn aṣoju AI ti o ni oye ti o mu ilọsiwaju ṣiṣẹ, ṣiṣe ipinnu, ati awọn abajade iṣowo."
+          },
+          {
+            "title": "IT Service & Digital Support",
+            "description": "Firanṣẹ yiyara, atilẹyin IT ijafafa pẹlu iṣakoso iṣẹ ṣiṣanwọle, adaṣe, ati ṣiṣan iṣẹ oni-nọmba."
+          },
+          {
+            "title": "Idawọlẹ AI Ijọba",
+            "description": "Kọ isọdọmọ AI lodidi pẹlu iṣakoso to lagbara, aabo, ibamu, akoyawo, ati awọn iṣakoso eewu."
+          },
+          {
+            "title": "Awọn iṣẹ IT ti oye",
+            "description": "Yipada awọn iṣẹ IT pẹlu ibojuwo-iwakọ AI, adaṣe, awọn oye asọtẹlẹ, ati ipinnu ọran ti nṣiṣe lọwọ."
+          },
+          {
+            "title": "Isakoso Iriri Onibara",
+            "description": "Ṣẹda awọn irin-ajo alabara ti ara ẹni pẹlu ilowosi oye, adaṣe, awọn itupalẹ, ati awọn iriri oni-nọmba alailabawọn."
+          },
+          {
+            "title": "Ilana Iṣowo & Iṣapejuwe Portfolio",
+            "description": "Ṣe afiwe awọn idoko-owo imọ-ẹrọ pẹlu awọn ibi-afẹde iṣowo lati mu awọn iwe-ipamọ pọ si, mu iṣẹ ṣiṣe dara si, ati ṣe idagbasoke idagbasoke alagbero."
+          },
+          {
+            "title": "IT Dukia & Igbesi aye Imọ-ẹrọ",
+            "description": "Ṣakoso awọn ohun-ini IT jakejado igbesi aye wọn pẹlu hihan to dara julọ, adaṣe, iṣakoso idiyele, ati igbero imọ-ẹrọ."
+          },
+          {
+            "title": "Ewu Idawọlẹ & Ibamu",
+            "description": "Ṣe idanimọ, ṣe ayẹwo, ati ṣakoso awọn ewu ile-iṣẹ lakoko ti o nfi agbara mu ibamu, awọn iṣakoso, ati isọdọtun iṣeto."
+          },
+          {
+            "title": "Cybersecurity & Awọn iṣẹ Irokeke",
+            "description": "Daabobo awọn agbegbe oni-nọmba pẹlu iṣawari irokeke ti nṣiṣe lọwọ, awọn iṣẹ aabo, esi iṣẹlẹ, ati ibojuwo lemọlemọfún."
+          },
+          {
+            "title": "Aṣeṣe adaṣe aaye",
+            "description": "Fi agbara fun awọn ẹgbẹ aaye pẹlu ṣiṣe eto oye, ṣiṣan iṣẹ alagbeka, adaṣe, ati hihan iṣẹ ṣiṣe ni akoko gidi."
+          },
+          {
+            "title": "Iriri Abáni & Awọn iṣẹ HR",
+            "description": "Ṣe irọrun awọn iṣẹ oṣiṣẹ pẹlu awọn ṣiṣan iṣẹ oni-nọmba, awọn solusan iṣẹ ti ara ẹni, adaṣe, ati awọn iriri oṣiṣẹ ti ara ẹni."
+          },
+          {
+            "title": "Isokan Digital Workplace",
+            "description": "So awọn eniyan pọ, awọn ilana, awọn ohun elo, ati awọn irinṣẹ ifowosowopo nipasẹ aaye iṣẹ oni-nọmba ti o ni aabo, oye, ati ailopin."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Awọn solusan ERP",
+        "heading": "Platform Kan, Ṣetan fun Ohunkohun",
+        "sub": "Awọn iṣowo ni agbara pẹlu asopọ, oye, ati awọn solusan iṣakoso ile-iṣẹ iwọn.",
+        "promoTitle": "ERP apọjuwọn fun Idagbasoke",
+        "promoText": "Mu awọn ẹya ERP modular ṣiṣẹ ni iyara laisi idiju ti awọn ọna ṣiṣe olona-ọdun ibile.",
+        "items": [
+          {
+            "title": "Automation Ilana Iṣowo",
+            "description": "Isuna ṣiṣanwọle, HR, tita, rira, ati awọn iṣẹ ojoojumọ."
+          },
+          {
+            "title": "Isakoso Iṣowo Iṣọkan",
+            "description": "So awọn ẹka pọ, data, ati ṣiṣan iṣẹ lori pẹpẹ ti iṣọkan."
+          },
+          {
+            "title": "Isuna & Iṣiro",
+            "description": "Ṣe ilọsiwaju hihan inawo, ijabọ, ṣiṣe isunawo, ati ibamu."
+          },
+          {
+            "title": "HR & Owo sisan",
+            "description": "Ṣe iṣakoso awọn oṣiṣẹ rọrun, wiwa, isanwo-owo, ati awọn ilana HR."
+          },
+          {
+            "title": "Iṣakoso Pq Ipese",
+            "description": "Ṣe ilọsiwaju rira, akojo oja, awọn olutaja, ati awọn eekaderi."
+          },
+          {
+            "title": "Tita & Iṣakoso Onibara",
+            "description": "Ṣakoso awọn itọsọna, awọn alabara, awọn aṣẹ, ati iṣẹ ṣiṣe tita daradara."
+          },
+          {
+            "title": "Awọn Itupalẹ Akoko-gidi & Ijabọ",
+            "description": "Yipada data iṣowo sinu awọn oye ṣiṣe fun awọn ipinnu yiyara."
+          },
+          {
+            "title": "Awọn solusan ERP awọsanma",
+            "description": "Mu aabo ṣiṣẹ, iwọn, ati iṣakoso ile-iṣẹ wiwọle lati ibikibi."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT solusan",
+        "heading": "Awọn solusan IT wa",
+        "sub": "Yipada awọn iṣẹ IT pẹlu oye, ti nṣiṣe lọwọ, ati awọn solusan oni-nọmba iwọn ti o mu iṣẹ ṣiṣe, iṣelọpọ, ati ilosiwaju iṣowo.",
+        "promoTitle": "Awọn amayederun IT ti o gbẹkẹle",
+        "promoText": "Kọ ipilẹ imọ-ẹrọ resilient pẹlu awọsanma iṣakoso, aabo, ati awọn iṣẹ DevOps.",
+        "items": [
+          {
+            "title": "IT Service Management",
+            "description": "Mu awọn iṣẹ IT ṣiṣẹ, awọn iṣẹlẹ, awọn ibeere, ati ṣiṣan iṣẹ fun ipinnu yiyara."
+          },
+          {
+            "title": "IT Mosi Management",
+            "description": "Atẹle awọn amayederun ati awọn ohun elo pẹlu amuṣiṣẹ, awọn iṣẹ IT ti o da lori data."
+          },
+          {
+            "title": "IT Dukia Management",
+            "description": "Ṣakoso awọn ohun-ini imọ-ẹrọ daradara lakoko ti o dinku awọn idiyele, awọn ewu, ati idiju igbesi aye."
+          },
+          {
+            "title": "Idawọle Idawọle",
+            "description": "Ṣe deede ilana iṣowo pẹlu faaji imọ-ẹrọ ti o tọ ati awọn idoko-owo."
+          },
+          {
+            "title": "Isejoba awọsanma",
+            "description": "Ṣe ilọsiwaju aabo awọsanma, ibamu, iṣẹ ṣiṣe, ati iṣakoso idiyele."
+          },
+          {
+            "title": "Awọn iṣẹ oni-nọmba",
+            "description": "Ṣe adaṣe awọn ilana IT ati jèrè hihan akoko gidi kọja agbegbe imọ-ẹrọ rẹ."
+          },
+          {
+            "title": "Ifojusi & Abojuto",
+            "description": "Wa awọn ọran iṣẹ ni kutukutu ati ṣetọju awọn iriri oni-nọmba ti o gbẹkẹle."
+          },
+          {
+            "title": "Isakoso Portfolio Ilana",
+            "description": "So awọn idoko-owo IT pọ pẹlu awọn pataki iṣowo ati awọn abajade wiwọn."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Awọn solusan CRM",
+        "heading": "Awọn solusan CRM wa",
+        "sub": "Pese asopọ, ti ara ẹni, ati awọn iriri alabara ti oye ni gbogbo irin-ajo alabara.",
+        "promoTitle": "Pade Awọn iṣowo diẹ sii",
+        "promoText": "Fi agbara fun tita rẹ ati awọn ẹgbẹ atilẹyin pẹlu data alabara ti iṣọkan ati adaṣe oye.",
+        "items": [
+          {
+            "title": "Isakoso Iṣẹ Onibara",
+            "description": "Ṣe ilọsiwaju atilẹyin alabara pẹlu ipinnu yiyara, iṣẹ ti ara ẹni, ati ṣiṣan iṣẹ oye."
+          },
+          {
+            "title": "Tita Automation",
+            "description": "Ṣe adaṣe awọn iṣẹ tita, ṣakoso awọn itọsọna, ati iranlọwọ awọn ẹgbẹ lati sunmọ awọn aye ni iyara."
+          },
+          {
+            "title": "Titaja & Iṣakoso Bere fun",
+            "description": "Ṣatunṣe irin-ajo naa lati itọsọna si aṣẹ ati ilọsiwaju hihan wiwọle."
+          },
+          {
+            "title": "Isakoso Iṣẹ aaye",
+            "description": "Ṣe ilọsiwaju awọn iṣẹ aaye, ṣiṣe eto, fifiranṣẹ, ati iṣelọpọ imọ-ẹrọ."
+          },
+          {
+            "title": "Isakoso Iriri Onibara",
+            "description": "Ṣẹda ailoju ati awọn iriri ti ara ẹni kọja gbogbo aaye ifọwọkan alabara."
+          },
+          {
+            "title": "Awọn atupale CRM & Awọn oye",
+            "description": "Yipada data alabara sinu awọn oye ṣiṣe fun awọn ipinnu iṣowo ijafafa."
+          },
+          {
+            "title": "Tita Automation",
+            "description": "Awọn ipolongo adaṣe adaṣe, ifaramọ alabara, ati abojuto abojuto."
+          },
+          {
+            "title": "AI-Agbara CRM",
+            "description": "Lo adaṣe ti oye ati awọn oye AI lati mu ilọsiwaju iṣẹ-ṣiṣe ati ṣiṣe alabara."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Awọn solusan HRMS",
+        "heading": "Awọn solusan HRMS wa",
+        "sub": "Fi agbara fun oṣiṣẹ rẹ pẹlu oye, iṣọpọ, ati awọn ojutu HR adaṣe ti o jẹ ki iṣakoso oṣiṣẹ rọrun ati ilọsiwaju iriri iṣẹ.",
+        "promoTitle": "Ṣe irọrun Awọn iṣẹ HR",
+        "promoText": "Ṣe adaṣe awọn ṣiṣan iṣẹ HR lati igbanisiṣẹ si ifẹhinti lẹnu iṣẹ pẹlu igbalode, pẹpẹ ti oṣiṣẹ-akọkọ.",
+        "items": [
+          {
+            "title": "Iṣakoso HR mojuto",
+            "description": "Ṣakoso alaye oṣiṣẹ, awọn ẹya eleto, ati awọn ilana HR daradara."
+          },
+          {
+            "title": "Isakoso owo sisan",
+            "description": "Owo isanwo adaṣe adaṣe, sisẹ owo osu, awọn iyokuro, ati ibamu."
+          },
+          {
+            "title": "Iṣẹ-ara-ẹni ti Oṣiṣẹ",
+            "description": "Fun awọn oṣiṣẹ ni iraye si irọrun si awọn iṣẹ HR, awọn ibeere, awọn iwe aṣẹ, ati alaye."
+          },
+          {
+            "title": "Wiwa & Fi Isakoso silẹ",
+            "description": "Ṣe itọpa wiwa wiwa ni irọrun, fi awọn ibeere silẹ, awọn iṣipopada, ati awọn wakati iṣẹ."
+          },
+          {
+            "title": "Rikurumenti & Onboarding",
+            "description": "igbanisise ṣiṣanwọle, iṣakoso oludije, lori ọkọ, ati iṣọpọ oṣiṣẹ."
+          },
+          {
+            "title": "Isakoso iṣẹ",
+            "description": "Ṣeto awọn ibi-afẹde, iṣẹ ṣiṣe, ati atilẹyin idagbasoke oṣiṣẹ ti nlọsiwaju."
+          },
+          {
+            "title": "Ẹkọ & Idagbasoke",
+            "description": "Ṣakoso awọn eto ikẹkọ, idagbasoke awọn ọgbọn, ati idagbasoke oṣiṣẹ."
+          },
+          {
+            "title": "Awọn atupale HR & Iroyin",
+            "description": "Yipada data agbara iṣẹ sinu awọn oye ṣiṣe fun awọn ipinnu HR to dara julọ."
+          },
+          {
+            "title": "Automation HR Alagbara AI",
+            "description": "Ṣe adaṣe awọn iṣẹ ṣiṣe HR atunwi ki o jiṣẹ yiyara, awọn iriri oṣiṣẹ ti ara ẹni."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Ohun elo Idagbasoke",
+        "heading": "Awọn iṣẹ Idagbasoke App wa",
+        "sub": "Kọ aabo, iwọn, ati awọn ohun elo ti o ga julọ ti o mu idagbasoke iṣowo pọ si ati rọrun awọn ilana eka.",
+        "promoTitle": "Kọ Awọn olumulo Awọn ohun elo Ifẹ",
+        "promoText": "Lati imọran lati ṣe ifilọlẹ, ẹgbẹ wa ṣe apẹrẹ ati ṣe agbekalẹ alagbeka to gaju ati awọn ohun elo wẹẹbu ti iwọn.",
+        "items": [
+          {
+            "title": "Idagbasoke Ohun elo Aṣa",
+            "description": "Kọ awọn ohun elo ti a ṣe apẹrẹ ni ayika awọn ibeere iṣowo alailẹgbẹ rẹ."
+          },
+          {
+            "title": "Wẹẹbu & Idagbasoke Ohun elo Alagbeka",
+            "description": "Pese awọn iriri oni-nọmba alailabawọn kọja wẹẹbu, alagbeka, ati awọn ẹrọ lọpọlọpọ."
+          },
+          {
+            "title": "Idagbasoke Ohun elo Idawọlẹ",
+            "description": "Dagbasoke awọn ojutu ti iwọn ti o ṣepọ pẹlu awọn eto iṣowo ti o wa tẹlẹ."
+          },
+          {
+            "title": "Koodu Kekere & Idagbasoke Ko si koodu",
+            "description": "Mu ifijiṣẹ ohun elo pọ si pẹlu awọn iru ẹrọ idagbasoke koodu kekere to rọ."
+          },
+          {
+            "title": "API & Eto Iṣọkan",
+            "description": "So awọn ohun elo pọ, awọn iru ẹrọ, ati awọn eto ẹnikẹta fun ṣiṣan data ailopin."
+          },
+          {
+            "title": "Ohun elo Igbalaju",
+            "description": "Yipada awọn ohun elo ti ogún sinu igbalode, iwọn, ati awọn ojutu to munadoko."
+          },
+          {
+            "title": "Awọn ohun elo Agbara AI",
+            "description": "Ṣepọ AI, adaṣe, ati awọn agbara oye sinu awọn ohun elo iṣowo."
+          },
+          {
+            "title": "Atilẹyin Ohun elo & Itọju",
+            "description": "Rii daju iṣẹ ṣiṣe nigbagbogbo, aabo, awọn imudojuiwọn, ati igbẹkẹle."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotik",
+    "businessAutomation": "Automation Iṣowo",
+    "cloudMigrations": "Awọn Iṣikiri Awọsanma",
+    "dataCenters": "Awọn ile-iṣẹ data",
+    "cognitiveAnalyticsAi": "Itupalẹ Imọye & AI",
+    "informationReportingSystems": "Alaye & Awọn ọna ṣiṣe ijabọ",
+    "managedServices": "Awọn iṣẹ iṣakoso",
+    "oneStopSolutions": "Awọn ojutu Ọkan-Duro"
+  },
+  "servicePage": {
+    "serviceOverview": "Akopọ Iṣẹ",
+    "whatWeOffer": "Ohun ti A nse",
+    "whyChooseRezonants": "Kini idi ti Yan Rezonants",
+    "benefitsOfWorking": "Awọn anfani ti ṣiṣẹ pẹlu wa",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Awọn imọ-ẹrọ ti a lo",
+    "ourWork": "Ise wa",
+    "relatedProjects": "Awọn iṣẹ akanṣe",
+    "viewCaseStudy": "Wo iwadi ọran",
+    "readyToDiscuss": "Ṣetan lati jiroro lori iṣẹ akanṣe {{title}} rẹ?",
+    "seniorEngineersReady": "Awọn onimọ-ẹrọ agba wa ti ṣetan lati ṣe iranlọwọ fun ọ lati gbero, ṣe apẹrẹ, ati kọ ojutu rẹ.",
+    "startProject": "Bẹrẹ iṣẹ akanṣe rẹ",
+    "howItWorks": "Bawo ni O Ṣiṣẹ"
+  },
+  "consultation": {
+    "badge": "Iwe Ijumọsọrọ Ọfẹ",
+    "title": "Jẹ ki a Gbero Ise agbese Rẹ <span class='hero-accent'>Papọ</span>",
+    "description": "Ṣeto ipe ti ko si ọranyan pẹlu awọn alamọran wa. Ṣe ijiroro lori awọn ibeere rẹ, ṣawari ọna imọ-ẹrọ ti o tọ ati gba agbasọ asọye - gbogbo rẹ labẹ awọn iṣẹju 30.",
+    "bookSlot": "Iwe Iho rẹ",
+    "howItWorks": "Bawo ni O Ṣiṣẹ",
+    "accountRequired": "Akọọlẹ ti a beere",
+    "signInToBook": "Wọle lati ṣe iwe ijumọsọrọ rẹ",
+    "accountRequiredText": "Iwọ yoo nilo akọọlẹ Rezonants kan lati beere ijumọsọrọ kan. Wọle tabi ṣẹda ọkan - o gba to kere ju iṣẹju kan.",
+    "signInToContinue": "Wọle lati Tẹsiwaju",
+    "newToRezonants": "Tuntun si Rezonants?",
+    "createAccount": "Ṣẹda akọọlẹ kan",
+    "requestMeeting": "Beere Ipade kan",
+    "tellUsAboutProject": "Sọ fun Wa Nipa Ise agbese Rẹ",
+    "fillDetails": "Fọwọsi awọn alaye rẹ ati pe a yoo jẹrisi aaye ijumọsọrọ rẹ nipasẹ imeeli.",
+    "fullName": "Orukọ kikun *",
+    "email": "Imeeli *",
+    "phone": "Foonu *",
+    "company": "Ile-iṣẹ",
+    "serviceOfInterest": "Iṣẹ Ifẹ *",
+    "selectService": "Yan iṣẹ kan…",
+    "preferredDate": "Ọjọ ti o fẹ *",
+    "preferredTime": "Aago Ti o fẹ *",
+    "selectTimeSlot": "Yan aaye akoko kan…",
+    "estimatedBudget": "Isuna ifoju",
+    "selectRange": "Yan sakani kan…",
+    "projectRequirements": "Awọn ibeere Ise agbese",
+    "booking": "Ifiweranṣẹ…",
+    "bookFreeConsultation": "Iwe Ijumọsọrọ Ọfẹ Mi",
+    "freeNote": "100% ọfẹ ati pe ko si ọranyan. A deede fesi laarin 24 wakati.",
+    "whatToExpect": "Kini Lati Rere",
+    "preferToReachUs": "Ṣe o fẹ lati de ọdọ wa taara?",
+    "callUs": "Pe wa",
+    "emailUs": "Imeeli wa",
+    "visitUs": "Be wa",
+    "whyBookWithUs": "Kini idi ti Iwe Pẹlu Wa",
+    "freeCallTitle": "Ipe Ọfẹ Ti o ṣe Iranlọwọ Nitootọ",
+    "freeCallNoPressure": "Ipe ọfẹ, Ko si Ipa",
+    "freeCallNoPressureText": "Gbogbo ijumọsọrọ akọkọ jẹ ọfẹ. Ko si ọranyan lati ra - o kan imọran otitọ.",
+    "seniorConsultants": "Awọn alamọran agba Nikan",
+    "seniorConsultantsText": "Ipade rẹ jẹ itọsọna nipasẹ awọn onimọ-ẹrọ agba ati awọn alamọran ti o kọ fun igbesi aye.",
+    "clearTimelines": "Ko awọn akoko & Awọn asọye kuro",
+    "clearTimelinesText": "Fi silẹ pẹlu igbesẹ ti o tẹle ti asọye, aago ojulowo ati idiyele ṣiṣafihan fun iṣẹ akanṣe rẹ.",
+    "services": {
+      "customSoftware": "Idagbasoke Software Aṣa",
+      "webMobile": "Wẹẹbu & Idagbasoke Ohun elo Alagbeka",
+      "cloudDevops": "Awọsanma & Awọn solusan DevOps",
+      "aiMl": "AI & Ẹkọ ẹrọ",
+      "itConsulting": "IT Consulting",
+      "digitalMarketing": "Titaja oni-nọmba & SEO",
+      "erpSolutions": "Awọn solusan ERP",
+      "other": "Omiiran / Ko daju sibẹsibẹ"
+    },
+    "budgets": {
+      "under1L": "Labẹ ₹1L",
+      "1to5L": "₹1L – ₹ 5L",
+      "5to10L": "₹5L – ₹ 10L",
+      "above10L": "₹10L+",
+      "notDecided": "Ko ṣe ipinnu sibẹsibẹ"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Loye awọn ibi-afẹde rẹ",
+        "text": "A koko gbo. Ipe 30-iṣẹju kan lati ṣe map awọn iwulo iṣowo rẹ, awọn olugbo ati awọn abajade ti o fẹ."
+      },
+      "technicalDirection": {
+        "title": "Gba itọnisọna imọ-ẹrọ",
+        "text": "Awọn onimọ-ẹrọ wa pin faaji ti o tọ, akopọ ati isunmọ fun iṣẹ akanṣe rẹ."
+      },
+      "clearQuote": {
+        "title": "Gba agbasọ ti o han gbangba",
+        "text": "Rin kuro pẹlu iṣiro sihin, aago ati awọn igbesẹ atẹle — ko si ọranyan."
+      }
+    },
+    "validation": {
+      "nameRequired": "Orukọ kikun ni a nilo.",
+      "emailRequired": "Imeeli ni a nilo.",
+      "emailInvalid": "Tẹ imeeli to wulo.",
+      "phoneRequired": "Nọmba foonu ti nilo.",
+      "phoneInvalid": "Tẹ nọmba foonu to wulo.",
+      "serviceRequired": "Jọwọ yan iṣẹ kan.",
+      "dateRequired": "Yan ọjọ ti o fẹ.",
+      "timeRequired": "Yan aaye akoko ti o fẹ.",
+      "messageTooShort": "Ṣafikun awọn alaye diẹ diẹ sii (o kere ju awọn kikọ 10).",
+      "signInRequired": "Jọwọ wọle lati ṣe iwe ijumọsọrọ rẹ.",
+      "couldNotBook": "Ko le ṣe iwe ijumọsọrọ rẹ. Ṣayẹwo pe tabili ijumọsọrọ wa, lẹhinna gbiyanju lẹẹkansi.",
+      "bookedSuccess": "Ijumọsọrọ fowo si! Ẹgbẹ wa yoo jẹrisi aaye akoko rẹ nipasẹ imeeli laipẹ."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Kaabo Pada",
+    "createAccount": "Ṣẹda Account",
+    "forgotPassword": "Gbagbe Ọrọigbaniwọle",
+    "createNewPassword": "Ṣẹda Ọrọigbaniwọle Tuntun",
+    "welcomeBackDesc": "Wọle si akọọlẹ Rezonants rẹ.",
+    "createAccountDesc": "Darapọ mọ Rezonants loni.",
+    "forgotDesc": "Tẹ imeeli rẹ sii a yoo fi ọna asopọ ranṣẹ si ọ lati tun ọrọ igbaniwọle rẹ tunto.",
+    "recoveryDesc": "Yan ọrọ igbaniwọle tuntun to lagbara fun akọọlẹ rẹ.",
+    "fullName": "Oruko Kikun",
+    "email": "Imeeli",
+    "password": "Ọrọigbaniwọle",
+    "newPassword": "Ọrọigbaniwọle Tuntun",
+    "confirmPassword": "Jẹrisi Ọrọigbaniwọle",
+    "confirmNewPassword": "Jẹrisi Ọrọigbaniwọle Tuntun",
+    "forgotPasswordLink": "Ṣe o gbagbe ọrọ igbaniwọle?",
+    "privacyPolicy": "Mo gba Rezonants <1>Asiri & Aabo</1> ilana.",
+    "sendResetLink": "Firanṣẹ Ọna asopọ Tunto",
+    "signIn": "Wọle",
+    "signUp": "Wọlé Up",
+    "pleaseWait": "Jọwọ duro…",
+    "rememberedPassword": "Ṣe o ranti ọrọ igbaniwọle rẹ?",
+    "signInLink": "Wọle",
+    "noAccount": "Ko ni iroyin bi?",
+    "signUpLink": "Wọlé",
+    "hasAccount": "Njẹ o ti ni akọọlẹ kan bi?",
+    "changedMind": "Yi ọkàn rẹ pada bi?",
+    "backToSignIn": "Pada lati wọle",
+    "resetSent": "Ọna asopọ atunto ọrọ igbaniwọle ti firanṣẹ! Ṣayẹwo imeeli rẹ lati ṣẹda ọrọ igbaniwọle titun kan.",
+    "passwordUpdated": "Ọrọigbaniwọle rẹ ti ni imudojuiwọn. Wọle pẹlu ọrọ igbaniwọle tuntun rẹ.",
+    "accountCreated": "Ṣẹda akọọlẹ! Ṣayẹwo imeeli rẹ lati jẹrisi iforukọsilẹ rẹ, lẹhinna wọle.",
+    "validation": {
+      "fullNameRequired": "Orukọ kikun ni a nilo.",
+      "emailRequired": "Imeeli ni a nilo.",
+      "emailInvalid": "Tẹ imeeli to wulo.",
+      "passwordRequired": "Ọrọigbaniwọle nilo.",
+      "passwordMinLength": "Ọrọigbaniwọle gbọdọ jẹ o kere ju awọn ohun kikọ 6.",
+      "passwordsNoMatch": "Awọn ọrọ igbaniwọle ko baramu.",
+      "acceptTerms": "Jọwọ gba Ilana Aṣiri Rezonants ati Ilana Aabo lati tẹsiwaju."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Wiregbe pẹlu Rezonants AI",
+    "openChatLabel": "Ṣii iwiregbe Iranlọwọ Rezonants AI",
+    "chatTitle": "Rezonants AI Iranlọwọ",
+    "online": "Online",
+    "expandLabel": "Faagun chatbot",
+    "minimizeLabel": "Gbe chatbot din ku",
+    "closeLabel": "Pa chatbot",
+    "expand": "Faagun",
+    "minimize": "Gbe sẹgbẹ",
+    "close": "Sunmọ",
+    "popularTopics": "Awọn koko-ọrọ olokiki",
+    "askPlaceholder": "Beere lọwọ mi nipa Rezonants...",
+    "messageLabel": "Firanṣẹ Oluranlọwọ Rezonants AI",
+    "sendLabel": "Firanṣẹ",
+    "sendTitle": "Firanṣẹ",
+    "enterToSend": "Tẹ sii lati firanṣẹ · Shift+Tẹ sii fun laini titun kan",
+    "newChat": "Iwiregbe tuntun",
+    "typing": "Rezonants AI n tẹ",
+    "menuOptions": "Awọn aṣayan Akojọ aṣyn",
+    "greetingMorning": "E ku ojumo",
+    "greetingAfternoon": "E ku osan",
+    "greetingEvening": "E ku irole",
+    "welcomeText": "! 👋 Kaabọ si Rezonants.\nEmi ni Oluranlọwọ Rezonants AI. Mo le ṣe iranlọwọ fun ọ lati ṣawari awọn iṣẹ wa, awọn imọ-ẹrọ, ati alaye olubasọrọ."
+  },
+  "cookieConsent": {
+    "title": "A ni iye asiri rẹ",
+    "description": "A lo kukisi lati mu iriri lilọ kiri rẹ dara si. O le gba gbogbo awọn kuki, kọ awọn kuki ti ko ṣe pataki, tabi ṣe akanṣe awọn ayanfẹ rẹ. Awọn kuki pataki nigbagbogbo ṣiṣẹ lati rii daju awọn iṣẹ oju opo wẹẹbu ni deede.",
+    "acceptAll": "Gba Gbogbo",
+    "rejectNonEssential": "Kọ Ko ṣe pataki",
+    "managePreferences": "Ṣakoso Awọn ayanfẹ",
+    "privacyPolicy": "Ilana Aṣiri"
+  },
+  "cookiePreferences": {
+    "title": "Ṣakoso Awọn ayanfẹ Kuki",
+    "description": "Yan iru awọn ẹka ti awọn kuki ti o gba laaye. Awọn kuki pataki wa ni agbara lati jẹ ki oju opo wẹẹbu naa ṣiṣẹ.",
+    "essential": "Pataki",
+    "essentialDesc": "Ti a beere fun oju opo wẹẹbu lati ṣiṣẹ (ifọwọsi, aabo, iwọntunwọnsi fifuye). Awọn wọnyi ko le ṣe alaabo.",
+    "analytics": "Atupale",
+    "analyticsDesc": "Ran wa lọwọ lati loye bi awọn olubẹwo ṣe nlo aaye naa ki a le ṣe ilọsiwaju. Alaabo nipasẹ aiyipada.",
+    "marketing": "Titaja",
+    "marketingDesc": "Ti a lo lati ṣafihan awọn ipese ti o yẹ ati awọn ipolongo. Alaabo nipasẹ aiyipada.",
+    "cancel": "Fagilee",
+    "savePreferences": "Fi Awọn ayanfẹ pamọ"
+  },
+  "privacy": {
+    "badge": "Ofin",
+    "title": "Ilana Aṣiri",
+    "description": "Bawo ni Rezonants ṣe n gba, nlo, ati aabo alaye ti ara ẹni ati awọn kuki.",
+    "lastUpdated": "Imudojuiwọn to kẹhin: Oṣu Kẹjọ ọdun 2026",
+    "managingPreferences": "Ṣiṣakoso awọn ayanfẹ rẹ",
+    "managingPreferencesDesc": "O le ṣe atunwo tabi yi iru awọn kuki ti o gba laaye nigbakugba lati inu ẹgbẹ yiyan kuki.",
+    "manageCookiePreferences": "Ṣakoso Awọn ayanfẹ Kuki",
+    "section1": {
+      "title": "1. Alaye ti A Gba",
+      "body": [
+        "A gba alaye ti o pese taara (gẹgẹbi orukọ rẹ ati adirẹsi imeeli nigbati o ba fi fọọmu olubasọrọ silẹ tabi ṣẹda akọọlẹ kan) ati alaye ti a gba ni adaṣe nipasẹ awọn kuki ati awọn imọ-ẹrọ ti o jọra, gẹgẹbi awọn oju-iwe ti o ṣabẹwo, iru ẹrọ ati ipo isunmọ."
+      ]
+    },
+    "section2": {
+      "title": "2. Bawo ni A Ṣe Lo Awọn Kuki",
+      "body": [
+        "Awọn kuki pataki nigbagbogbo ṣiṣẹ nitori oju opo wẹẹbu ko le ṣiṣẹ ni deede laisi wọn. Wọn tọju igba ati ipo ijẹrisi ati ranti awọn ayanfẹ kuki rẹ.",
+        "Awọn kuki atupale ṣe iranlọwọ fun wa ni oye bi awọn alejo ṣe nlo aaye naa ki a le mu ilọsiwaju sii. Awọn kuki titaja ni a lo lati ṣafihan awọn ipese ti o yẹ ati awọn ipolongo. Awọn ẹka wọnyi nikan ni a mu ṣiṣẹ pẹlu igbanilaaye rẹ ati pe o le yipada nigbakugba lati inu igbimọ ayanfẹ kuki."
+      ]
+    },
+    "section3": {
+      "title": "3. Ipilẹ Ofin (GDPR)",
+      "body": [
+        "A ṣe ilana data ti ara ẹni lori awọn ipilẹ ofin wọnyi: aṣẹ rẹ (fun awọn kuki ti ko ṣe pataki ati titaja), iṣẹ ṣiṣe ti iwe adehun (fun awọn iṣẹ ti o beere), ọranyan labẹ ofin, ati awọn iwulo ti o tọ nibiti awọn ẹtọ rẹ ko bori wọn. O le yọkuro igbanilaaye nigbakugba laisi ni ipa lori ofin sisẹ ti a ṣe ṣaaju yiyọkuro."
+      ]
+    },
+    "section4": {
+      "title": "4. Eto Re",
+      "body": [
+        "Da lori ipo rẹ, o le ni ẹtọ lati wọle si, ṣe atunṣe, nu, tabi ni ihamọ sisẹ data ti ara ẹni, lati tako sisẹ, ati si gbigbe data. O tun le gbe ẹdun kan si alaṣẹ alabojuto agbegbe rẹ."
+      ]
+    },
+    "section5": {
+      "title": "5. Idaduro data & Aabo",
+      "body": [
+        "A ni idaduro data ti ara ẹni nikan niwọn igba ti o ṣe pataki fun awọn idi ti a ṣalaye ninu eto imulo yii. A lo awọn igbese imọ-ẹrọ ati eto ti o yẹ lati daabobo alaye rẹ lodi si iraye si laigba aṣẹ, iyipada, ifihan tabi iparun."
+      ]
+    },
+    "section6": {
+      "title": "6. Awọn iṣẹ ẹni-kẹta",
+      "body": [
+        "Diẹ ninu awọn kuki le jẹ ṣeto nipasẹ awọn olupese ẹnikẹta (gẹgẹbi awọn atupale tabi awọn iru ẹrọ ipolowo) ti o ṣe iranlọwọ fun wa lati ṣiṣẹ oju opo wẹẹbu naa. Awọn olupese wọnyi ṣe ilana data labẹ awọn ilana ikọkọ tiwọn ati pe nikan nigbati o ba ti gba si ẹka ti o yẹ."
+      ]
+    },
+    "contactUs": "7. Kan si Wa",
+    "contactUsText": "Fun ibeere nipa eto imulo yii tabi data ti ara ẹni, kan si wa ni <1>info@rezonants.com</1> tabi pe <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Awọn iṣẹ",
+    "title": "Awọn iṣẹ wa",
+    "sub": "Awọn solusan imọ-ẹrọ ipari-si-opin ti a ṣe apẹrẹ lati ṣe iranlọwọ fun awọn iṣowo tuntun, iwọn, ati aṣeyọri.",
+    "learnMore": "Kọ ẹkọ diẹ sii",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Ibẹrẹ Lati Ifiranṣẹ",
+        "text": "Lati imọran akọkọ si imuṣiṣẹ iṣelọpọ, a pese awọn solusan iwọn ti a ṣe fun awọn iwulo iṣowo-aye gidi."
+      },
+      "businessProcessAutomation": {
+        "title": "Automation Ilana Iṣowo",
+        "text": "Ṣiṣatunṣe awọn ilana atunwi ati mu iṣẹ ṣiṣe ṣiṣẹ nipasẹ adaṣe iṣowo ti oye."
+      },
+      "centerOfExcellence": {
+        "title": "Ile-išẹ Ile-iṣẹ giga",
+        "text": "Kọ awọn agbara imọ-ẹrọ pataki ati oye lati wakọ ĭdàsĭlẹ, didara, ati ilọsiwaju ilọsiwaju."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Idagbasoke Aṣa & Isọdọtun",
+        "text": "Awọn solusan sọfitiwia ti a ṣe apẹrẹ ni ayika awọn ibeere iṣowo alailẹgbẹ rẹ ati ṣiṣan iṣẹ."
+      },
+      "digitalTransformation": {
+        "title": "Iyipada oni-nọmba",
+        "text": "Ṣe iṣowo rẹ ṣe imudojuiwọn pẹlu awọn ọgbọn oni-nọmba, awọn imọ-ẹrọ, ati awọn ojutu ti o ṣẹda ipa iwọnwọn."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Ilana Solusan Ipari-si-Ipari",
+        "text": "Awọn ọna ẹrọ imọ-ẹrọ ti a ṣepọ ti o sopọ mọ ilana, idagbasoke, imuse, ati awọn iṣẹ ti nlọ lọwọ."
+      },
+      "migrationModernization": {
+        "title": "Iṣilọ & Igbalaju",
+        "text": "Ṣe imudojuiwọn awọn ohun elo ti ogún ati awọn ọna ṣiṣe ṣilọ si iwọn, aabo, ati awọn iru ẹrọ imọ-ẹrọ to munadoko."
+      },
+      "pocPilotImplementation": {
+        "title": "Ẹri ti Agbekale (PoC) & Ilana Pilot",
+        "text": "Ṣe idaniloju awọn imọran ni kiakia nipasẹ awọn apẹrẹ ti o ni idojukọ ati awọn imuse awaoko ṣaaju imuṣiṣẹ ni kikun."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Awọn iṣẹ Pipin & Awọn iṣẹ iṣakoso",
+        "text": "Awọn iṣẹ imọ-ẹrọ iṣakoso ti o gbẹkẹle ti o mu iṣẹ ṣiṣe, iwọn-ara, ati ilosiwaju iṣowo."
+      }
+    }
+  },
+  "footer": {
+    "company": "Ile-iṣẹ",
+    "about": "Nipa",
+    "perspectives": "Awọn Iwoye",
+    "technologies": "Awọn imọ-ẹrọ",
+    "contact": "Olubasọrọ",
+    "services": "Awọn iṣẹ",
+    "getInTouch": "Kan si",
+    "bookConsultation": "Iwe ijumọsọrọ kan",
+    "copyright": "© {{year}} Rezonants. Gbogbo awọn ẹtọ wa ni ipamọ.",
+    "cookiePreferences": "Awọn ayanfẹ Kuki",
+    "privacyPolicy": "Ilana Aṣiri",
+    "description": "Rezonants jẹ awọn iṣẹ IT ati ile-iṣẹ awọn ọja oni-nọmba ni Hyderabad, India. A ṣe apẹrẹ, kọ ati iwọn sọfitiwia fun awọn ile-iṣẹ ti o dije lori ipaniyan.",
+    "locations": "Awọn aaye wa",
+    "indiaHq": "Hyderabad, India - Ile-iṣẹ India",
+    "southAfrica": "South Africa - REZONANTS PVT LTD",
+    "products": "Awọn ọja",
+    "followUs": "Tẹle wa",
+    "aboutUs": "Nipa tiwa",
+    "contactUs": "Kan si Wa",
+    "headline": "Jẹ ki a kọ",
+    "headlineAccent": "kini o tẹle.",
+    "subheadline": "Alabaṣepọ pẹlu Rezonants lati yi awọn imọran pada si ipa iṣowo gidi.",
+    "credoIdeas": "ORO",
+    "credoSolutions": "OJUTU",
+    "credoPeople": "ENIYAN",
+    "credoBrighterTomorrow": "Ola Ola",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "South Africa – REZONANTS PVT LTD",
+    "termsOfUse": "Awọn ofin lilo",
+    "accessibility": "Wiwọle",
+    "quickLinks": "Awọn ọna asopọ kiakia",
+    "explore": "Ye",
+    "vijayawadaOffice": "Vijayawada Office",
+    "allRightsReserved": "Gbogbo ẹtọ wa ni ipamọ.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "South Africa"
+  },
+  "common": {
+    "loading": "Ikojọpọ...",
+    "error": "Aṣiṣe",
+    "retry": "Tun gbiyanju",
+    "close": "Sunmọ",
+    "backToTop": "Pada si oke",
+    "skipToContent": "Rekọja si akoonu",
+    "scroll": "Yi lọ",
+    "whatWeOffer": "Ohun ti A Pese",
+    "howItWorks": "Bawo ni O Nṣiṣẹ"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Wa orilẹ-ede tabi koodu…",
+    "noResults": "Ko si awọn orilẹ-ede ti a rii.",
+    "countryCodeLabel": "Koodu ipe orilẹ-ede",
+    "required": "Nọmba foonu ti nilo.",
+    "incomplete": "Nọmba foonu gbọdọ ni awọn nọmba gangan {{count}} ninu.",
+    "tooLong": "Nọmba foonu ko le ni diẹ ẹ sii ju awọn nọmba {{count}} ninu.",
+    "invalid": "Tẹ nọmba foonu to wulo fun {{country}}."
+  },
+  "perspectives": {
+    "topic": "Koko-ọrọ:",
+    "published": "Atejade:",
+    "readingTime": "Akoko kika:",
+    "author": "Onkọwe:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Agbegbe Imọ-ẹrọ",
+    "purpose": "Idi",
+    "talkToExperts": "Soro si Awon Amoye Wa",
+    "viewAll": "Wo Gbogbo Iwoye",
+    "exploreMore": "Ṣalaye awọn Irisi diẹ sii",
+    "continueExploring": "Tẹsiwaju Ṣiṣawari Awọn Imọ-ẹrọ Imọ-ẹrọ Idawọle",
+    "readPerspective": "Ka Irisi"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Awọn solusan Robotik",
+      "tagline": "Imọ-ẹrọ oye. Awọn iṣẹ adaṣe adaṣe. Iṣowo ijafafa.",
+      "heroBadge": "Awọn ọna ṣiṣe adase oye",
+      "overview": [
+        "Imọye Oríkĕ ati Awọn Robotik n ṣe iyipada ọna ti awọn ajọ ṣiṣẹ, ṣe awọn ipinnu, ati jiṣẹ iye. Awọn solusan AI & Robotics wa ṣe iranlọwọ fun awọn iṣowo lati lọ kọja adaṣe ibile nipasẹ apapọ oye atọwọda, ẹkọ ẹrọ, iran kọnputa, adaṣe ilana oye, ati awọn roboti lati yanju awọn italaya iṣowo to wulo.",
+        "A ṣe apẹrẹ awọn solusan oye ni ayika awọn abajade iṣowo ti o ṣe iwọnwọn. Boya ibeere naa jẹ adaṣe adaṣe iṣẹ atunwi, itupalẹ awọn iwọn nla ti alaye, wiwa awọn ilana, awọn ipinnu atilẹyin, tabi ṣafihan awọn roboti sinu awọn agbegbe iṣẹ, ọna wa dojukọ igbẹkẹle, iwọn, aabo, ati iye iṣowo igba pipẹ."
+      ],
+      "transformation": [
+        "Awọn ajo ode oni ṣe agbejade data lọpọlọpọ ati ṣe ẹgbẹẹgbẹrun awọn iṣẹ atunwi lojoojumọ. AI ati awọn ẹrọ roboti le yi awọn iṣẹ wọnyi pada si oye, awọn iṣan-iṣẹ adaṣe adaṣe ti o mu ilọsiwaju ṣiṣẹ lakoko gbigba awọn oṣiṣẹ laaye lati dojukọ awọn ojuse ti o ga julọ.",
+        "Awọn solusan wa le ṣe iranlọwọ fun awọn ẹgbẹ adaṣe adaṣe awọn iṣẹ atunwi, dinku kikọlu afọwọṣe, ilọsiwaju deede, itupalẹ alaye eka, ṣe atilẹyin awọn ipinnu yiyara, iṣamulo awọn orisun, mu awọn iriri alabara pọ si, ati kọ awọn eto oye ti iwọn."
+      ],
+      "capabilities": [
+        {
+          "title": "Imọye Oríkĕ",
+          "desc": "A ṣe agbekalẹ awọn iṣeduro ti AI-iwakọ ti o jẹ ki awọn ọna ṣiṣe ni oye alaye, ṣe idanimọ awọn ilana, ṣe ipilẹṣẹ awọn oye, ati atilẹyin awọn ipinnu iṣowo."
+        },
+        {
+          "title": "Ẹkọ ẹrọ",
+          "desc": "A ṣe agbekalẹ awọn awoṣe ikẹkọ ẹrọ fun asọtẹlẹ, ipinya, awọn eto iṣeduro, iṣawari anomaly, itupalẹ asọtẹlẹ, ati atilẹyin ipinnu oye."
+        },
+        {
+          "title": "Ṣiṣẹda Ede Adayeba",
+          "desc": "NLP le ṣee lo lati ṣe ilana awọn iwe aṣẹ, ni oye ọrọ, ṣe iyasọtọ alaye, jade akoonu ti o yẹ, ati atilẹyin awọn ohun elo ibaraẹnisọrọ."
+        },
+        {
+          "title": "Iranran Kọmputa",
+          "desc": "Awọn solusan iran kọnputa le ṣe atilẹyin ipinya aworan, wiwa ohun, ayewo didara, ṣiṣe iwe, ibojuwo wiwo, ati awọn itupalẹ fidio."
+        },
+        {
+          "title": "Robotik",
+          "desc": "Robotics ṣopọ oye sọfitiwia pẹlu awọn ọna ṣiṣe ti ara lati ṣe adaṣe awọn iṣẹ ṣiṣe ti aṣa nilo igbiyanju afọwọṣe. Awọn ohun elo le pẹlu iṣelọpọ, eekaderi, ibi ipamọ, ayewo, mimu ohun elo, ati atilẹyin iṣẹ ṣiṣe."
+        },
+        {
+          "title": "Automation Ilana oye",
+          "desc": "AI le ni idapo pelu adaṣe adaṣe lati ṣẹda awọn ọna ṣiṣe ti o tumọ alaye, lo awọn ofin iṣowo tabi awọn awoṣe, ati bẹrẹ ilana ti o yẹ laifọwọyi."
+        }
+      ],
+      "lifecycleSteps": [
+        "Iṣayẹwo Iṣowo",
+        "Data Onínọmbà",
+        "AI nwon.Mirza",
+        "Itumọ Solusan",
+        "Idagbasoke",
+        "Ijọpọ",
+        "Idanwo",
+        "Gbigbe",
+        "Abojuto",
+        "Imudara"
+      ],
+      "benefits": [
+        "Iṣẹ iṣelọpọ iṣẹ ṣiṣe ti o ga julọ",
+        "Idinku pataki ninu awọn idiyele iṣẹ",
+        "Ṣiṣe yiyara ati iyipada ipinnu millisecond",
+        "Imudara data ati išedede ṣiṣan iṣẹ",
+        "Imudara ti ara ati iṣamulo awọn orisun iširo",
+        "Dinku awọn eewu iṣẹ ṣiṣe ati aṣiṣe eniyan",
+        "Ailokun olona-Syeed scalability",
+        "Imudara alabara ati awọn iriri oṣiṣẹ"
+      ],
+      "security": "Awọn solusan AI ti ile-iṣẹ gbọdọ jẹ apẹrẹ pẹlu aabo ti o yẹ, awọn iṣakoso iwọle, aabo data, ibojuwo, iṣakoso awoṣe, ati awọn aabo iṣẹ. A ṣe akiyesi awọn ibeere wọnyi lati ipele faaji nipasẹ imuṣiṣẹ ati itọju ti nlọ lọwọ lati rii daju pe o gbẹkẹle, oye oye-iṣelọpọ.",
+      "ctaHeadline": "Kọ Ọjọ iwaju Oloye",
+      "ctaSub": "Jẹ ki awọn iṣẹ ṣiṣe rẹ ni ijafafa. Ṣe adaṣe ohun ti o ṣe pataki. Kọ fun ojo iwaju."
+    },
+    "business-automation-solutions": {
+      "title": "Awọn solusan Automation Iṣowo",
+      "tagline": "Awọn ilana Irọrun. Yọ Atunwi. Mu Ilọsiwaju.",
+      "heroBadge": "Ipari-si-Ipari Iṣapeye Iṣatunṣe",
+      "overview": [
+        "Adaaṣe iṣowo n fun awọn ajo laaye lati rọpo awọn iṣẹ afọwọṣe ti atunwi pẹlu ṣiṣan ṣiṣiṣẹ oni nọmba. Awọn solusan adaṣe adaṣe iṣowo wa ṣe iranlọwọ fun awọn ile-iṣẹ lati mu ilọsiwaju ṣiṣẹ, dinku idiju iṣiṣẹ, dinku awọn aṣiṣe, ati ṣẹda awọn ilana deede kọja awọn apa.",
+        "A ṣe itupalẹ awọn iṣan-iṣẹ ti o wa tẹlẹ, ṣe idanimọ awọn igo, ati awọn solusan adaṣe adaṣe ti o sopọ mọ eniyan, awọn ohun elo, data, ati awọn ilana iṣowo."
+      ],
+      "transformation": [
+        "Ọpọlọpọ awọn ajo ṣi dale lori awọn iwe kaunti, awọn imeeli, awọn ifọwọsi afọwọṣe, titẹ data atunwi, mimu iwe, ati awọn ohun elo ti ge asopọ. Awọn ilana wọnyi n gba akoko oṣiṣẹ ti o niyelori ati pe o le ṣafihan awọn idaduro, awọn aiṣedeede, ati awọn aṣiṣe.",
+        "Ilana adaṣe wa da lori agbọye ilana pipe, yiyọ awọn igbesẹ ti ko wulo, awọn ọna ṣiṣe pọ, ati adaṣe awọn iṣẹ ṣiṣe ti o pese iye iṣẹ ṣiṣe ti o tobi julọ."
+      ],
+      "capabilities": [
+        {
+          "title": "Automation Workflow",
+          "desc": "A ṣe adaṣe awọn ilana igbesẹ-pupọ ti o kan awọn oṣiṣẹ, awọn ohun elo, awọn ifọwọsi, awọn iwifunni, ati data kọja awọn ẹka ti o yatọ."
+        },
+        {
+          "title": "Automation Ilana Robotik",
+          "desc": "Awọn botilẹti sọfitiwia le ṣe atunwi, awọn iṣe ti o da lori ofin gẹgẹbi titẹsi data, awọn imudojuiwọn eto, ilaja, ati gbigbe alaye."
+        },
+        {
+          "title": "Automation Iwe",
+          "desc": "Awọn iṣan-iṣẹ iwe adaṣe adaṣe le jade alaye jade, fọwọsi data, ṣe iyasọtọ awọn iwe aṣẹ, awọn ibeere ipa ọna, ati bẹrẹ awọn ilana isale."
+        },
+        {
+          "title": "Adaaṣe Ifọwọsi",
+          "desc": "Awọn iṣan-iṣẹ ifọwọsi oni nọmba laifọwọyi da awọn ibeere lọ si awọn oluṣe ipinnu to pe ati pese hihan akoko gidi sinu awọn iṣe isunmọ."
+        },
+        {
+          "title": "Imudarapọ Adaṣiṣẹ",
+          "desc": "A so awọn ohun elo iṣowo pọ ki alaye le gbe laifọwọyi laarin awọn iru ẹrọ laisi idasi afọwọṣe ti ko wulo."
+        },
+        {
+          "title": "Automation iwifunni",
+          "desc": "Awọn itaniji adaṣe ati awọn iwifunni ṣe iranlọwọ fun awọn oṣiṣẹ lati dahun lẹsẹkẹsẹ si awọn iṣẹlẹ pataki, awọn akoko ipari, awọn imukuro, ati awọn iyipada iṣẹ."
+        }
+      ],
+      "lifecycleSteps": [
+        "Iwari",
+        "Ṣe itupalẹ",
+        "Apẹrẹ",
+        "Ṣe adaṣe",
+        "Ṣepọ",
+        "Idanwo",
+        "Ranse",
+        "Atẹle",
+        "Mu dara ju"
+      ],
+      "benefits": [
+        "Ilọsiwaju ti ẹgbẹ ati iyara iṣẹ",
+        "Idinku iyalẹnu ninu awọn aṣiṣe titẹ data afọwọṣe",
+        "Kukuru ilana ipari-si-opin awọn akoko iyipada",
+        "Hihan iṣọkan kọja awọn iṣẹ iṣowo",
+        "Ibamu ni ibamu si agbekọja-ẹka",
+        "Awọn inawo iṣẹ ti o dinku ni pataki",
+        "Agbara rirọ lati ṣe iwọn awọn ẹru iṣẹ lainidi",
+        "Awọn ẹgbẹ ti o ni agbara ti dojukọ iṣeduro alabara ati iṣẹ ilana"
+      ],
+      "security": "A darapọ awọn iru ẹrọ ṣiṣan iṣẹ ati RPA pẹlu awọn awoṣe ti o ni oye agbegbe lati rii daju iṣakoso iraye si ipa-ipa, awọn itọpa iṣayẹwo okeerẹ, ati ibamu to muna kọja gbogbo iṣowo adaṣe.",
+      "ctaHeadline": "Kọ Awọn iṣẹ ṣiṣe ti o munadoko diẹ sii",
+      "ctaSub": "Ṣe adaṣe iṣẹ atunwi. Fi agbara fun awọn eniyan rẹ. Mu iṣowo rẹ pọ si."
+    },
+    "cloud-migration-solutions": {
+      "title": "Awọn solusan Iṣilọ Awọsanma",
+      "tagline": "Gbe lọ si Awọsanma pẹlu Igbekele.",
+      "heroBadge": "Olona-awọsanma Iyipada",
+      "overview": [
+        "Iṣiro awọsanma ti di paati pataki ti awọn amayederun IT ode oni. Awọn ile-iṣẹ n gbe awọn ohun elo, awọn apoti isura infomesonu, awọn iṣẹ ṣiṣe, ati awọn amayederun si awọn agbegbe awọsanma lati mu iwọn iwọn, wiwa, irọrun, ati ṣiṣe ṣiṣe ṣiṣẹ.",
+        "Awọn iṣẹ ijira awọsanma wa ṣe iranlọwọ fun awọn ẹgbẹ lati ṣe ayẹwo awọn agbegbe wọn lọwọlọwọ, ṣalaye awọn ilana ijira, ṣiṣẹ awọn iṣiwa, ati mu awọn ẹru iṣẹ ṣiṣẹ lẹhin ti wọn gbe lọ si awọsanma."
+      ],
+      "transformation": [
+        "Iṣilọ awọsanma jẹ diẹ sii ju gbigbe awọn olupin lọ lati agbegbe kan si ekeji. Iṣilọ aṣeyọri nilo iṣayẹwo iṣọra ti awọn ohun elo, awọn amayederun, awọn igbẹkẹle, awọn ibeere aabo, data, iṣẹ ṣiṣe, wiwa, ati ilosiwaju iṣowo.",
+        "A ṣẹda awọn ilana iṣiwa ti o da lori agbegbe ti o wa lọwọlọwọ ati awọn ibi-afẹde iwaju, yiyan ilana ijira ti o yẹ fun iṣẹ ṣiṣe kọọkan."
+      ],
+      "capabilities": [
+        {
+          "title": "Iṣilọ Amayederun",
+          "desc": "A gbe awọn olupin ibile, ibi ipamọ, awọn ẹrọ foju, ati awọn ẹru iṣẹ sinu awọn agbegbe awọsanma ode oni lori AWS, Azure, ati GCP."
+        },
+        {
+          "title": "Iṣilọ ohun elo",
+          "desc": "Awọn ohun elo le tun gbalejo, tun ṣe, tun ṣe, tabi tun ṣe da lori iṣowo ati awọn ibeere imọ-ẹrọ."
+        },
+        {
+          "title": "Iṣilọ aaye data",
+          "desc": "A ṣe iṣikiri awọn apoti isura infomesonu lakoko ti o gbero iduroṣinṣin data, iṣẹ ṣiṣe, ibaramu, wiwa, aabo, ati awọn ibeere imularada."
+        },
+        {
+          "title": "Olaju Awọsanma",
+          "desc": "Iṣilọ di aye lati ṣe imudojuiwọn awọn ohun elo nipa lilo awọn apoti, awọn iṣẹ microservices, awọn apoti isura data ti iṣakoso, awọn iṣẹ aisi olupin, ati awọn ile-iṣọ abinibi-awọsanma."
+        },
+        {
+          "title": "Awọsanma Arabara",
+          "desc": "Awọn ile-iṣẹ ti o nilo awọn ile-ile mejeeji ati awọn amayederun awọsanma le gba awọn ile-iṣọ arabara ti o so awọn ọna ṣiṣe ti o wa tẹlẹ pọ pẹlu awọn iṣẹ awọsanma."
+        },
+        {
+          "title": "Olona-awọsanma",
+          "desc": "Fun awọn ẹgbẹ ti n ṣiṣẹ kọja awọn iru ẹrọ awọsanma pupọ, a ṣe iranlọwọ lati ṣe apẹrẹ awọn ilana iṣẹ ṣiṣe ti o mu irọrun, resilience, ati iṣakoso ṣiṣẹ."
+        }
+      ],
+      "lifecycleSteps": [
+        "Agbeyewo",
+        "Awari",
+        "Aworan Igbẹkẹle",
+        "Ilana Iṣilọ",
+        "Apẹrẹ Architecture",
+        "Pilot Migration",
+        "Iṣilọ Data",
+        "Iṣilọ elo",
+        "Idanwo",
+        "Iṣilọ iṣelọpọ",
+        "Imudara"
+      ],
+      "benefits": [
+        "Rirọ scalability ati wiwa awọn oluşewadi giga",
+        "Irọrun amayederun ti o tobi ju ati agility iṣowo",
+        "Imukuro ẹru itọju datacenter ti ara",
+        "Imuṣiṣẹ ohun elo imuṣiṣẹ",
+        "Imularada ajalu ti o lagbara ati isọdọtun afẹyinti",
+        "Wiwọle lẹsẹkẹsẹ si awọsanma igbalode AI ati awọn iṣẹ iṣakoso",
+        "Iṣapejuwe iṣakoso FinOps ati idinku TCO",
+        "Ibamu tẹsiwaju ati awọn ọna aabo adaṣe"
+      ],
+      "security": "Aabo jẹ apakan pataki ti igbero ijira. A ṣe akiyesi idanimọ ati iṣakoso wiwọle, aabo nẹtiwọọki, fifi ẹnọ kọ nkan gbigbe ati ni isinmi, aabo data, awọn iṣayẹwo ailagbara ohun elo, ibojuwo, afẹyinti, ati imularada ajalu.",
+      "ctaHeadline": "Irin-ajo Awọsanma Rẹ, Ti gbero Ni deede",
+      "ctaSub": "Ṣe awọn ohun elo rẹ di igbalode. Imudara ĭdàsĭlẹ. Kọ ipilẹ awọsanma ti iwọn."
+    },
+    "data-center-solutions": {
+      "title": "Awọn solusan ile-iṣẹ data",
+      "tagline": "Awọn ohun elo ti o gbẹkẹle fun Awọn iṣẹ-ṣiṣe-Iṣẹ-pataki.",
+      "heroBadge": "Awọn ohun elo Awujọ-Iṣẹ-pataki",
+      "overview": [
+        "Awọn ile-iṣẹ data ṣe ipilẹ ti awọn iṣowo oni-nọmba ode oni. Awọn ohun elo, awọn apoti isura infomesonu, awọn eto ile-iṣẹ, awọn iru ẹrọ ibaraẹnisọrọ, ati awọn iṣẹ iṣowo to ṣe pataki da lori awọn amayederun igbẹkẹle.",
+        "Awọn ipinnu ile-iṣẹ data wa ni idojukọ lori sisọ, isọdọtun, iṣakoso, ati mimujuto awọn agbegbe amayederun ti a ṣe fun wiwa, aabo, iwọn, iṣẹ ṣiṣe, ati ṣiṣe ṣiṣe."
+      ],
+      "transformation": [
+        "Ile-iṣẹ data ode oni nilo diẹ sii ju olupin ati ibi ipamọ lọ. O nilo awọn amayederun ti iṣelọpọ ni iṣọra kọja iširo, Nẹtiwọki, aabo, agbara, itutu agbaiye, ibojuwo, afẹyinti, ati imularada ajalu.",
+        "A ṣe iranlọwọ fun awọn ẹgbẹ lati ṣẹda awọn agbegbe amayederun resilient ti o ṣe atilẹyin awọn iṣẹ ṣiṣe to ṣe pataki ati pese ipilẹ fun idagbasoke imọ-ẹrọ iwaju."
+      ],
+      "capabilities": [
+        {
+          "title": "Apẹrẹ Amayederun",
+          "desc": "A ṣe apẹrẹ awọn agbegbe ti o da lori awọn ibeere fifuye iṣẹ, agbara, iṣẹ ṣiṣe, wiwa, aabo, ati idagbasoke iwaju."
+        },
+        {
+          "title": "Awọn amayederun olupin",
+          "desc": "A ṣe atilẹyin awọn agbegbe olupin ti ara ati foju fun awọn ohun elo ile-iṣẹ pataki-pataki ati awọn ẹru iṣẹ."
+        },
+        {
+          "title": "Awọn solusan ipamọ",
+          "desc": "A ṣe akiyesi iṣẹ ṣiṣe, agbara, apọju, SAN / NAS iyara giga, afẹyinti, ati awọn ibeere aabo data nigbati o n ṣe apẹrẹ awọn agbegbe ibi ipamọ."
+        },
+        {
+          "title": "Awọn amayederun Nẹtiwọọki",
+          "desc": "A ṣe apẹrẹ awọn agbegbe nẹtiwọọki pẹlu ipin ti o yẹ, apọju, iṣẹ ṣiṣe lairi kekere, isopọmọ, ati awọn iṣakoso aabo."
+        },
+        {
+          "title": "Ifojusi",
+          "desc": "Imudaniloju ṣe imudara lilo awọn orisun, irọrun fifuye iṣẹ, ati iṣakoso awọn amayederun aarin."
+        },
+        {
+          "title": "Afẹyinti & Imularada Ajalu",
+          "desc": "A ṣe iranlọwọ fun awọn ajo lati ṣe agbekalẹ awọn ilana afẹyinti ati awọn ayaworan imularada ti a ṣe apẹrẹ lati dinku akoko idinku ati imukuro pipadanu data."
+        }
+      ],
+      "lifecycleSteps": [
+        "Igbelewọn Agbara",
+        "Iṣafihan Iṣe-iṣẹ",
+        "Apẹrẹ Apẹrẹ",
+        "Hardware & Foju Iwon",
+        "Ipinpin Nẹtiwọọki",
+        "Ipese Ibi ipamọ",
+        "Apọju & Idanwo DR",
+        "Igbẹjade iṣelọpọ",
+        "24/7 Abojuto Ilera",
+        "Imudara Ilọsiwaju"
+      ],
+      "benefits": [
+        "Ṣe iṣeduro 99.999% akoko amayederun",
+        "Awọn aaye kanṣoṣo ti ikuna pẹlu apọju olopolopo",
+        "Iṣiro olupin ti o dara julọ ati agbara agbara iwuwo giga",
+        "Iha-millise-aaya kekere-lairi nẹtiwọki faaji",
+        "Aabo agbegbe ti ara ati oni-nọmba lile",
+        "Abojuto iṣakoso ati awọn ikuna adaṣe adaṣe",
+        "Ibi ipamọ apọjuwọn iwọn fun data iwọn-petabyte",
+        "Asọtẹlẹ lapapọ idiyele ti nini ati ṣiṣe agbara"
+      ],
+      "security": "Aabo ti wa ni iṣọpọ kọja Layer amayederun, ibora ti ipin micro-nẹtiwọọki, gbongbo-ti-igbekele ohun elo, awọn iṣakoso iwọle-igbẹkẹle odo, awọn iṣayẹwo ailagbara lemọlemọfún, aabo ipari ipari, ati awọn eto imulo iṣẹ ṣiṣe to muna.",
+      "ctaHeadline": "Amayederun-Ṣetan Ọjọ iwaju",
+      "ctaSub": "Kọ awọn amayederun igbẹkẹle loni. Ṣẹda ipile fun imọ-ẹrọ ọla."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Awọn Itupalẹ Imọye & AI",
+      "tagline": "Yi data pada si oye.",
+      "heroBadge": "Data-si-Ipinnu oye",
+      "overview": [
+        "Awọn ajo ṣe agbejade alaye lọpọlọpọ nipasẹ awọn ohun elo, awọn iṣowo, awọn alabara, awọn iṣẹ ṣiṣe, awọn ẹrọ, ati awọn iru ẹrọ oni-nọmba. Ipenija naa kii ṣe gbigba data lasan mọ; o jẹ oye data yẹn ati yiyi pada si oye ti o ṣiṣẹ.",
+        "Awọn Itupalẹ Imọye wa & Awọn solusan AI darapọ awọn atupale ilọsiwaju, ẹkọ ẹrọ, oye atọwọda, ṣiṣe data, ati oye iṣowo lati ṣe iranlọwọ fun awọn ẹgbẹ lati ṣe awọn ipinnu to dara julọ."
+      ],
+      "transformation": [
+        "Ijabọ aṣa sọ fun awọn ajo ohun ti o ṣẹlẹ. Awọn atupale ilọsiwaju le ṣe iranlọwọ lati ṣalaye idi ti o fi ṣẹlẹ, ṣe idanimọ ohun ti o le ṣẹlẹ nigbamii, ati atilẹyin awọn ipinnu nipa ohun ti o yẹ ki o ṣẹlẹ.",
+        "A ṣe iranlọwọ fun awọn ẹgbẹ lati ṣeto awọn agbegbe data ti o lọ kọja ijabọ aimi si itupalẹ oye ati atilẹyin ipinnu."
+      ],
+      "capabilities": [
+        {
+          "title": "Awọn atupale Apejuwe",
+          "desc": "Loye iṣẹ ṣiṣe itan nipasẹ awọn ijabọ ibaraenisepo, dashboards multidimensional, KPIs, ati awọn metiriki iṣowo."
+        },
+        {
+          "title": "Awọn atupale Aṣayẹwo",
+          "desc": "Ṣe idanimọ awọn ibatan ti o wa labe, awọn aṣa, awọn aiṣedeede iṣiro, ati awọn idi gbongbo lẹhin awọn abajade iṣowo."
+        },
+        {
+          "title": "Awọn atupale asọtẹlẹ",
+          "desc": "Lo itan-akọọlẹ ati data ṣiṣanwọle akoko gidi pẹlu awọn awoṣe iṣiro lati ṣe idanimọ awọn abajade ati awọn ibeere iwaju ti o pọju."
+        },
+        {
+          "title": "Awọn atupale Ilana",
+          "desc": "Ṣe ayẹwo awọn iṣe ti o ṣeeṣe ati atilẹyin awọn ipa ọna ipinnu ti o dara julọ ti o da lori awọn abajade asọtẹlẹ ati awọn ibi-afẹde iṣowo ilana."
+        },
+        {
+          "title": "Awọn awoṣe Ẹkọ Ẹrọ",
+          "desc": "Dagbasoke awọn awoṣe aṣa fun asọtẹlẹ, iyasọtọ alabara, awọn iṣeduro, wiwa anomaly jegudujera, ati itọju asọtẹlẹ."
+        },
+        {
+          "title": "Awọn Imọye Agbara AI",
+          "desc": "Waye AI oye si awọn iwọn nla ti alaye ti a ko ṣeto si dada awọn ilana ti o farapamọ, awọn akojọpọ adari, ati awọn iṣeduro."
+        }
+      ],
+      "lifecycleSteps": [
+        "Awọn orisun data",
+        "Data Integration",
+        "Ṣiṣẹda data",
+        "Ibi ipamọ data",
+        "Atupale",
+        "AI/ML Awọn awoṣe",
+        "Iworan",
+        "Awọn ipinnu Iṣowo"
+      ],
+      "benefits": [
+        "Ipilẹ-otitọ, ṣiṣe ipinnu adari ti data",
+        "Ibeere ti o pe, owo-wiwọle, ati asọtẹlẹ churn",
+        "Anomaly gidi-akoko ati wiwa ẹtan",
+        "Jin 360° awọn oye ihuwasi alabara ati isọdi-ara ẹni",
+        "Iṣapeye pq ipese ati ṣiṣe ṣiṣe",
+        "Iṣe-ṣiṣe ti o dinku ati eewu inawo",
+        "Awari ti awọn anfani wiwọle pamọ",
+        "Imuyara akoko-si-imọran kọja awọn ẹka iṣowo"
+      ],
+      "security": "Awọn eto ilolupo atupale wa ṣe imuse fifi ẹnọ kọ nkan ipari-si-opin, boju-boju data adaṣe, awọn igbanilaaye RBAC ti o muna, ati iṣakoso awoṣe lati daabobo data ohun-ini ati ṣetọju ibamu ilana (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Kọ Ilana Data Oye",
+      "ctaSub": "Yi alaye pada si oye. Yipada oye sinu iṣe."
+    },
+    "information-reporting-systems": {
+      "title": "Alaye & Awọn ọna ṣiṣe ijabọ",
+      "tagline": "Alaye ti o tọ. Ni Akoko Ti o tọ. Fun Dara Awọn ipinnu.",
+      "heroBadge": "Imọye Iṣowo Iṣọkan",
+      "overview": [
+        "Awọn oludari iṣowo ati awọn ẹgbẹ iṣiṣẹ da lori alaye deede lati ṣe awọn ipinnu to munadoko. Alaye wa & Awọn ọna ṣiṣe ijabọ ṣe iranlọwọ fun awọn ẹgbẹ lati gba, ṣeto, ṣe itupalẹ, ati ṣafihan alaye iṣowo nipasẹ awọn eto alaye eleto, awọn iru ẹrọ ijabọ, awọn dasibodu, ati awọn iṣan-iṣẹ ijabọ adaṣe.",
+        "Awọn ajo nigbagbogbo ni alaye ti a pin kaakiri awọn ohun elo, awọn iwe kaunti, awọn data data, ati awọn eto ṣiṣe. Eyi jẹ ki o ṣoro lati fi idi wiwo deede ti iṣẹ ṣiṣe iṣowo mulẹ. A ṣe iranlọwọ lati ṣepọ awọn orisun alaye sinu awọn agbegbe ijabọ iṣeto ti o pese igbẹkẹle, wiwọle, ati alaye iṣowo deede."
+      ],
+      "transformation": [
+        "Eto ijabọ ko yẹ ki o ṣafihan awọn nọmba lasan. O yẹ ki o ṣe iranlọwọ fun awọn olumulo ni oye iṣẹ ṣiṣe, ṣe idanimọ awọn iṣoro, ṣawari awọn aye, ati ṣe awọn ipinnu alaye.",
+        "A ṣe apẹrẹ awọn agbegbe ijabọ ni ayika ọna ti ajo rẹ n ṣiṣẹ, jiṣẹ data-si-ipinnu awọn eto ilolupo eda ti a ṣe deede fun gbogbo awọn ipele iṣakoso."
+      ],
+      "capabilities": [
+        {
+          "title": "Awọn ọna Alaye Isakoso (MIS)",
+          "desc": "Dagbasoke awọn ọna ṣiṣe alaye ti iṣọkan ti o pese iṣakoso adari pẹlu iṣẹ ṣiṣe ti o yẹ ati hihan ilana."
+        },
+        {
+          "title": "Iroyin Iṣowo",
+          "desc": "Yi data iṣowo aise pada lati awọn ikanni pupọ sinu iṣeto, awọn ijabọ idiwọn ti o ṣe atẹle iṣẹ ṣiṣe nigbagbogbo."
+        },
+        {
+          "title": "Awọn Dashboards Ibanisọrọ",
+          "desc": "Pese akoko gidi tabi hihan ibaraenisepo ti a ṣeto sinu awọn metiriki iṣowo to ṣe pataki, awọn KPI, awọn aṣa, ati awọn iṣẹ ẹka."
+        },
+        {
+          "title": "Iṣakoso KPI",
+          "desc": "Ṣetumo, orin, ati ala-ilẹ ti o nilari awọn KPI iṣẹ ṣiṣe ti o ni ibamu taara pẹlu awọn ibi-afẹde idagbasoke ile-iṣẹ apọju."
+        },
+        {
+          "title": "Data Integration",
+          "desc": "Ṣepọ awọn orisun data pinpin sinu awọn ile itaja data ti iṣọkan ati awọn ipele itumọ-ọrọ fun ijabọ agbedemeji-pane-glass deede."
+        },
+        {
+          "title": "Ijabọ adaṣe",
+          "desc": "Ṣe ipilẹṣẹ laifọwọyi ati pinpin awọn ijabọ ti ara ẹni ni ibamu si awọn iṣeto ti a ti pinnu tẹlẹ, awọn ofin iṣowo, ati awọn ilana igbimọ olugba."
+        }
+      ],
+      "lifecycleSteps": [
+        "Awọn ọna iṣowo",
+        "Gbigba data",
+        "Data Integration",
+        "Ṣiṣẹda data",
+        "Ibi ipamọ data",
+        "Atupale",
+        "Iroyin & Dashboards"
+      ],
+      "benefits": [
+        "Orisun otitọ kan kọja gbogbo ile-iṣẹ",
+        "Wiwọle yiyara si awọn metiriki iṣẹ ṣiṣe akoko gidi",
+        "Imukuro pipe ti apejọ iwe kaunti afọwọṣe",
+        "Iduroṣinṣin, awọn KPI ti ẹka-agbelebu ti a ti laja",
+        "Abojuto alaṣẹ ti o ga julọ ati iṣayẹwo",
+        "Pinpin aladaaṣe taara si awọn ti o nii ṣe",
+        "Aabo data ipele ila-ila ati awọn igbanilaaye",
+        "Agbara imudara lati dahun si awọn aiṣedeede iṣẹ"
+      ],
+      "security": "Alaye iṣowo le ni iṣẹ ṣiṣe ifura, inawo, ati data alabara ninu. Awọn ipinnu ijabọ wa ṣe ifitonileti ọpọlọpọ-ifosiwewe, aṣẹ-orisun ipa granular, fifi ẹnọ kọ nkan, ati awọn iforukọsilẹ iṣayẹwo sinu faaji ijabọ.",
+      "ctaHeadline": "Ijabọ ti o ṣe atilẹyin Idagbasoke",
+      "ctaSub": "Jẹ ki alaye wa. Jẹ ki iṣẹ han. Ṣe awọn ipinnu to dara julọ."
+    },
+    "managed-services": {
+      "title": "Awọn iṣẹ iṣakoso",
+      "tagline": "Awọn iṣẹ Imọ-ẹrọ Gbẹkẹle. Amoye Support. Ilọsiwaju Ilọsiwaju.",
+      "heroBadge": "24/7 IT Awọn iṣẹ & Atilẹyin",
+      "overview": [
+        "Awọn agbegbe IT ode oni jẹ eka ati iyipada nigbagbogbo. Awọn ajo nilo awọn amayederun igbẹkẹle, awọn ohun elo, awọn nẹtiwọọki, aabo, ibojuwo, ati atilẹyin imọ-ẹrọ lati jẹ ki awọn iṣẹ iṣowo ṣiṣẹ.",
+        "Awọn iṣẹ iṣakoso wa pese iṣakoso imọ-ẹrọ ti nlọ lọwọ ati atilẹyin iṣẹ, gbigba awọn ajo laaye lati ṣetọju awọn agbegbe IT ti o gbẹkẹle lakoko ti awọn ẹgbẹ inu ṣe idojukọ lori awọn ipilẹṣẹ ilana."
+      ],
+      "transformation": [
+        "Atilẹyin IT ti aṣa nigbagbogbo n dojukọ lori yanju awọn iṣoro lẹhin ti wọn waye. Awọn iṣẹ iṣakoso n gba ọna isakoṣo nipasẹ ṣiṣe abojuto awọn amayederun nigbagbogbo, awọn ohun elo, awọn ọna ṣiṣe, ati awọn agbegbe iṣẹ.",
+        "Ọna yii ṣe iranlọwọ idanimọ awọn ọran ti o pọju ni kutukutu, ṣetọju iṣẹ ṣiṣe, mu wiwa wa dara, ati dinku idalọwọduro iṣẹ ṣiṣe ti o yago fun."
+      ],
+      "capabilities": [
+        {
+          "title": "Isakoso ohun elo",
+          "desc": "Ṣe atilẹyin iṣẹ ti nlọ lọwọ, patching, ati iṣakoso ti awọn olupin, ibi ipamọ, awọn iru ẹrọ agbara, ati awọn amayederun."
+        },
+        {
+          "title": "Awọsanma Management",
+          "desc": "Ṣakoso awọn iṣẹ ṣiṣe awọsanma, awọn orisun awọsanma pupọ, awọn atunto, ibojuwo, iṣẹ ṣiṣe, ati iṣapeye FinOps."
+        },
+        {
+          "title": "Isakoso nẹtiwọki",
+          "desc": "Pese ibojuwo 24/7, iṣakoso iṣẹ, atilẹyin atunto, SD-WAN ti o dara ju, ati ipinnu ọrọ nẹtiwọọki."
+        },
+        {
+          "title": "Isakoso Ohun elo",
+          "desc": "Ṣe atilẹyin awọn agbegbe ohun elo to ṣe pataki nipasẹ ibojuwo amuṣiṣẹ, itọju, ipinnu kokoro, ati awọn iṣagbega iṣẹ."
+        },
+        {
+          "title": "Abojuto & Ifojusi",
+          "desc": "Pese hihan akoko gidi ni kikun sinu ilera eto, aiduro, akoko akoko, awọn igbẹkẹle amayederun, ati awọn titaniji."
+        },
+        {
+          "title": "Afẹyinti & Isakoso Imularada",
+          "desc": "Ṣetọju awọn iṣeto afẹyinti adaṣe, ṣe idanwo awọn ikuna nigbagbogbo, ati rii daju awọn agbara imularada lẹsẹkẹsẹ."
+        },
+        {
+          "title": "Awọn iṣẹ aabo (SecOps)",
+          "desc": "Pese abojuto aabo lemọlemọfún, iṣakoso alemo, imuṣiṣẹ iṣakoso iwọle, ati idinku ihalẹ ti nṣiṣe lọwọ."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ayika Onboarding",
+        "Awari & Ipilẹ",
+        "Isopọpọ Telemetry",
+        "SLA Itumọ",
+        "24/7 Abojuto ti nṣiṣe lọwọ",
+        "Iyasọtọ Iṣẹlẹ",
+        "Ipinnu Iyara",
+        "Itupalẹ Idi Gbongbo",
+        "Imọ-ẹrọ Idena",
+        "Imudara Ilọsiwaju"
+      ],
+      "benefits": [
+        "Ti dinku ẹru iṣẹ ṣiṣe ti inu",
+        "Ṣiṣawari ọrọ ti n ṣakoso ṣaaju ki awọn olumulo to ni ipa",
+        "Ni idaniloju wiwa eto 99.99% ati akoko ipari",
+        "Asọtẹlẹ, ṣiṣe isuna ṣiṣe IT ti o han gbangba",
+        "Wiwọle lẹsẹkẹsẹ si awọn alamọja imọ-ẹrọ agba",
+        "Awọn akoko idahun iṣẹlẹ ti o ṣe atilẹyin SLA iyara",
+        "Imularada ajalu adaṣe adaṣe ati ilosiwaju iṣowo",
+        "Ilọsiwaju imọ-ẹrọ ati isọdọtun"
+      ],
+      "security": "Awọn iṣẹ iṣakoso wa ni ifaramọ ITIL ti o muna ati awọn ilana ISO, ni idaniloju iraye si fifi ẹnọ kọ nkan, awọn iwe iṣayẹwo ti o ya sọtọ, fifipamọ iwe-ẹri ti o kere ju, ati ibamu ibamu ni gbogbo awọn orisun iṣakoso.",
+      "ctaHeadline": "Ilọsiwaju Ilọsiwaju",
+      "ctaSub": "O dojukọ iṣowo rẹ. A ṣe iranlọwọ lati jẹ ki imọ-ẹrọ rẹ ṣiṣẹ."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Ọkan-Duro Technology Solutions",
+      "tagline": "Alabaṣepọ Imọ-ẹrọ Kan. Awọn Agbara pupọ. Pari Business Solutions.",
+      "heroBadge": "Alabaṣepọ Idawọlẹ Iṣọkan",
+      "overview": [
+        "Awọn ajo nigbagbogbo n ṣiṣẹ pẹlu awọn olupese imọ-ẹrọ pupọ fun awọn amayederun, awọsanma, awọn ohun elo, adaṣe, itupalẹ, aabo, atilẹyin, ati iyipada oni-nọmba. Ṣiṣakoso awọn olutaja pupọ le ṣẹda idiju, awọn ela ibaraẹnisọrọ, igbiyanju ẹda-ẹda, ati awọn agbegbe imọ-ẹrọ pipin.",
+        "Ọna Awọn Solusan Imọ-ẹrọ Ọkan-Iduro wa n mu awọn agbara lọpọlọpọ papọ labẹ awoṣe iṣẹ iṣọkan kan, iranlọwọ awọn ajo gbero, ṣe imuse, ṣepọ, ṣiṣẹ, ati mu ilọsiwaju agbegbe imọ-ẹrọ wọn nigbagbogbo."
+      ],
+      "transformation": [
+        "A ṣe atilẹyin igbesi aye imọ-ẹrọ pipe-lati agbọye awọn ibeere iṣowo ati asọye imọ-ẹrọ imọ-ẹrọ lati ṣe apẹrẹ awọn solusan, imuse awọn iru ẹrọ, sisọpọ awọn ọna ṣiṣe, gbigbe awọn ohun elo, awọn agbegbe ibojuwo, ati pese atilẹyin ti nlọ lọwọ.",
+        "Ibi-afẹde ni lati ṣẹda ilolupo imọ-ẹrọ ti o sopọ ju awọn ojutu ti o ya sọtọ."
+      ],
+      "capabilities": [
+        {
+          "title": "Ilana & Faaji",
+          "desc": "Loye awọn ibi-afẹde iṣowo ati ṣe apẹrẹ iwọn, aabo, ati awọn ile-iṣẹ imọ-ẹrọ ti o ṣetọju."
+        },
+        {
+          "title": "imuse & Kọ",
+          "desc": "Ṣiṣe awọn ohun elo, awọn amayederun, awọn iṣọpọ, adaṣe, ati awọn iru ẹrọ oni-nọmba pẹlu lile ile-iṣẹ."
+        },
+        {
+          "title": "Isopọpọ Eto",
+          "desc": "So awọn ọna ṣiṣe ati awọn ohun elo jẹ ki alaye gbe laisiyonu kọja gbogbo agbari."
+        },
+        {
+          "title": "Ifilọlẹ Iṣeto",
+          "desc": "Ṣeto adaṣe adaṣe CI/CD ati awọn ilana idasilẹ lati gbe awọn ojutu sinu iṣelọpọ ni igbẹkẹle ati lailewu."
+        },
+        {
+          "title": "Abojuto Ilọsiwaju",
+          "desc": "Pese hihan opin-si-opin sinu awọn amayederun, awọn ohun elo, iṣẹ ṣiṣe, wiwa, ati ilera iṣiṣẹ."
+        },
+        {
+          "title": "Imudara & Atilẹyin",
+          "desc": "Ṣe atunwo awọn agbegbe nigbagbogbo lati mu iṣẹ ṣiṣe dara, igbẹkẹle, ṣiṣe idiyele, ati iwọn."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ilana",
+        "Iṣẹ ọna",
+        "imuse",
+        "Ijọpọ",
+        "Gbigbe",
+        "Abojuto",
+        "Imudara",
+        "Atilẹyin"
+      ],
+      "benefits": [
+        "Idinku iṣakoso ataja ti o dinku ati lori oke",
+        "Isọdọkan lainidi kọja gbogbo awọn fẹlẹfẹlẹ ayaworan",
+        "Iṣe ṣiṣe iṣẹ ṣiṣe yiyara pẹlu awọn idaduro afọwọṣe odo",
+        "Ipinpin isuna isọtẹlẹ ati ifijiṣẹ sihin",
+        "Iṣiro ile-iṣẹ iṣọkan lati odo si iwọn",
+        "Awọn solusan iwọntunwọnsi ti a ṣe apẹrẹ fun idagbasoke iṣowo iwaju",
+        "Ibaṣepọ imọ-ẹrọ igbẹkẹle igba pipẹ",
+        "Iyipada oni-nọmba ipari-si-opin"
+      ],
+      "security": "Pẹlu alabaṣepọ kan ti o ni igbẹkẹle ti nṣe abojuto faaji, imuse, ati awọn iṣẹ ṣiṣe, iṣakoso aabo jẹ aibikita kọja gbogbo awọn ipele — imukuro awọn aaye afọju isọpọ ati idaniloju ifaramọ lemọlemọfún.",
+      "ctaHeadline": "Alabaṣepọ Imọ-ẹrọ pipe rẹ",
+      "ctaSub": "Alabaṣepọ kan. Ọkan iran. Awọn imọ-ẹrọ pupọ. Awọn ojutu pipe."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Idawọlẹ Akopọ",
+    "overviewTitle": "Imọ-ẹrọ ti oye fun Awọn abajade Diwọn",
+    "transformationEyebrow": "Iyipada Iṣiṣẹ",
+    "transformationTitle": "Yiyipada Iṣowo Nipasẹ Awọn iṣan-iṣẹ Imọye",
+    "deliveryEyebrow": "Ona Ifijiṣẹ Iṣeto",
+    "deliveryTitle": "Ipari-si-Ipari Ipari & Imudara Itẹsiwaju",
+    "deliveryIntro": "Ọna imuse ti a fihan wa tẹle ilana igbesi aye ifijiṣẹ lile kan:",
+    "deliveryOutro": "Ilana ti a ṣeto yii ṣe idaniloju titete mimu pẹlu awọn ibi-afẹde iṣowo, iduro aabo to lagbara, ati awọn aṣepari ROI iwọnwọn ni gbogbo ipele.",
+    "securityEyebrow": "Aabo & Isakoso",
+    "securityTitle": "Igbẹkẹle Ipe Idawọle & Awọn aabo Ibamu",
+    "securityOutro": "A ṣe ifibọ iṣakoso iraye si orisun ipa ti o muna, ọlọjẹ ailagbara adaṣe, iṣakoso awoṣe, ati fifi ẹnọ kọ nkan ipele-pupọ lati rii daju pe agbegbe iṣelọpọ rẹ jẹ resilient ati ifaramọ ni kikun.",
+    "capabilitiesTitle": "Awọn agbara Imọ-ẹrọ Core",
+    "capabilitiesSub": "Awọn agbara imọ-ẹrọ pipe ti a ṣe lati ṣe iwọn awọn iṣẹ oni-nọmba rẹ.",
+    "bookDiscovery": "Awari Imọ-ẹrọ Iwe",
+    "exploreAll": "Ṣawari Gbogbo Awọn Imọ-ẹrọ",
+    "bookConsultation": "Iwe ijumọsọrọ kan",
+    "coreCapabilities": "Awọn agbara Koko"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Awọn agbara Koko",
+    "exploreFramework": "Ṣawari Ilana Solusan",
+    "bookConsultation": "Iwe ijumọsọrọ kan",
+    "viewCaseStudies": "Wo Awọn Ikẹkọ Ọran",
+    "provenPillars": "Awọn Origun ti a fihan",
+    "operationalOutcomes": "Awọn abajade iṣẹ",
+    "learnMore": "Kọ ẹkọ diẹ sii"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Opin-si-Ipari Imọ-ẹrọ oni-nọmba",
+      "titlePart1": "Ibẹrẹ Lati",
+      "titlePart2": "Gbigbe",
+      "description": "Ipari ipari-si-opin ti awọn iṣeduro oni-nọmba titun lati awọn ibeere iṣowo ati iṣeduro ojutu nipasẹ idagbasoke, iṣọpọ, idanwo, imuṣiṣẹ, ati atilẹyin ti nlọ lọwọ.",
+      "bookConsultation": "Iwe ijumọsọrọ kan",
+      "exploreEngineering": "Ṣawari Imọ-ẹrọ Solusan",
+      "coreCapabilities": [
+        "Awọn ibeere Imọ-ẹrọ",
+        "Itumọ ojutu",
+        "Idagbasoke Ohun elo",
+        "API Integration",
+        "Imudaniloju Didara",
+        "DevOps",
+        "Gbigbe",
+        "Atilẹyin & Itọju"
+      ],
+      "row1Eyebrow": "Ifijiṣẹ Igbesi aye ni kikun",
+      "row1Title": "Ipari-si-Ipari Idagbasoke lati Awọn ibeere si Iwọn",
+      "row1P1": "Gbogbo ipilẹṣẹ oni-nọmba tuntun bẹrẹ pẹlu awọn ibeere alailẹgbẹ, ṣiṣan iṣẹ ṣiṣe, ati awọn ibi-afẹde ilana ti ko le pade nipasẹ sọfitiwia-iwọn-gbogbo-gbogbo. A ṣe amọja ni kikọ aṣa, awọn eto sọfitiwia iṣẹ ṣiṣe giga patapata lati ibere.",
+      "row1P2": "Lati iṣawari awọn ibeere akọkọ ati apẹrẹ imọ-ẹrọ imọ-ẹrọ si idagbasoke iyara agile, isọpọ ilolupo ilolupo API, awọn opo gigun ti idanwo, ati awọn imuṣiṣẹ awọsanma adaṣe, awọn ẹgbẹ imọ-ẹrọ giga wa gba nini ni kikun ti igbesi aye ọja rẹ.",
+      "row2Eyebrow": "Solusan Architecture & Engineering",
+      "row2Title": "Awọn ọna ṣiṣe iwọn ti a ṣe fun Idagbasoke Idawọle",
+      "row2P1": "A ṣe apẹrẹ awọn faaji sọfitiwia resilient ti a ṣe deede lati koju awọn ẹru iṣelọpọ wuwo. Lati awọn iṣẹ microservices modular ati awọn ẹhin-iwakọ iṣẹlẹ si awọn ṣiṣan data ti o ga julọ ati awọn API GraphQL/REST, a kọ awọn iru ẹrọ ti o ṣe iwọn lainidi.",
+      "row2P2": "Nipa didasilẹ mimọ, awọn koodu koodu modular ti a so pọ pẹlu idanwo adaṣe ati ibamu aabo lemọlemọfún, a rii daju pe ipilẹ sọfitiwia rẹ jẹ itọju, ṣiṣayẹwo, ati ṣetan fun itankalẹ igba pipẹ.",
+      "row3Eyebrow": "Idaniloju Didara & DevOps",
+      "row3Title": "Ifijiṣẹ Agile pẹlu Awọn paipu Aifọwọyi",
+      "row3P1": "Awoṣe ifijiṣẹ wa ṣe ifibọ ẹyọkan adaṣe, isọpọ, ati idanwo ipadasẹhin ipari-si-opin lẹgbẹẹ ṣiṣan ṣiṣiṣẹ CI/CD ti a fi sinu apoti (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Pẹlu awọn demos sprint ti o han gbangba, akiyesi akoko gidi, ati iyara ti a ti ṣakoso-pataki, a rii daju akoko iyara-si-ọja laisi ibajẹ aabo, iduroṣinṣin, tabi iriri olumulo.",
+      "row4Eyebrow": "Gbigbe & Atilẹyin",
+      "row4Title": "Awọn iṣẹ 24/7 Gbẹkẹle ati Itankalẹ Igba pipẹ",
+      "row4P1": "Lilọ laaye jẹ ibẹrẹ nikan. A n pese abojuto abojuto, itọju atilẹyin SLA, iṣapeye awọn amayederun awọsanma, yiyi iṣẹ ṣiṣe, ati awọn iyipo ẹya ti nlọ lọwọ.",
+      "row4P2": "Ẹgbẹ imọ-ẹrọ wa n ṣiṣẹ bi itẹsiwaju adayeba ti agbari rẹ, ni idaniloju akoko idinku odo ati ilọsiwaju imọ-ẹrọ ti nlọ lọwọ ni ọja rẹ.",
+      "pillarsTitle": "Awọn agbara Koko",
+      "pillarsSub": "Awọn agbara akopọ kikun ti a ṣe adaṣe lati mu awọn imọran rẹ lati odo si iṣelọpọ.",
+      "pillar1Title": "Awọn ibeere Imọ-ẹrọ",
+      "pillar1Desc": "Itupalẹ iṣowo ti o jinlẹ, awọn pato iṣẹ ṣiṣe, ati aworan aworan irin-ajo olumulo lati ṣalaye awọn aala ojutu gangan.",
+      "pillar2Title": "Itumọ Solusan",
+      "pillar2Desc": "Awọsanma-ti ara ile faaji, awoṣe database, microservices oniru, ati odo-igbekele awọn ipilẹ aabo.",
+      "pillar3Title": "Idagbasoke Ohun elo",
+      "pillar3Desc": "Oju opo wẹẹbu kikun-kikun ode oni ati awọn ohun elo alagbeka ti a ṣe pẹlu koodu mimọ, iru-aabo, ati awọn iṣedede UI ti n ṣe ifaseyin.",
+      "pillar4Title": "API Integration",
+      "pillar4Desc": "Awọn API REST-GraphQL ti o ga julọ, awọn orchestrations webi, awọn ẹnu-ọna sisanwo, ati imuṣiṣẹpọ ERP/CRM ẹni-kẹta ti ko ni ojulowo.",
+      "ctaTitle": "Ṣetan lati Kọ Solusan Rẹ lati Ibẹrẹ si Ifiranṣẹ?",
+      "ctaSub": "Alabaṣepọ pẹlu Rezonants si ayaworan, ẹlẹrọ, ati ran ẹrọ pẹpẹ oni-nọmba aṣa rẹ lati awọn ibeere iṣowo si otitọ iṣelọpọ.",
+      "ctaButton": "Iwe Ijumọsọrọ Solusan kan",
+      "pillar5Title": "Idaniloju Didara",
+      "pillar5Desc": "Adaṣiṣẹ idanwo lile, fifuye/idanwo wahala, awọn ọlọjẹ ailagbara, ati awọn suites idanwo ipadasẹhin.",
+      "pillar6Title": "DevOps & Gbigbe",
+      "pillar6Desc": "Awọn opo gigun ti CI/CD adaṣe adaṣe, orchestration eiyan (Docker/K8s), awọn amayederun bii koodu, ati awọn idasilẹ akoko isale odo.",
+      "pillar7Title": "Atilẹyin & Itọju",
+      "pillar7Desc": "24/7 ibojuwo amuṣiṣẹ, telemetry ilera, awọn iṣayẹwo iṣẹ ṣiṣe, patching aabo, ati itọju SLA ti nlọ lọwọ.",
+      "pillar8Title": "Atunse ti o tẹsiwaju",
+      "pillar8Desc": "Iyara ẹya ara ẹrọ deede, isọpọ awọn atupale data, imudara AI, ati awọn isọdọtun ti ayaworan."
+    },
+    "processAutomation": {
+      "eyebrow": "Awọn iṣẹ ṣiṣe ti oye",
+      "titlePart1": "Ilana Iṣowo",
+      "titlePart2": "Adaṣiṣẹ",
+      "description": "Ipari-si-opin adaṣiṣẹ ti awọn ṣiṣan iṣẹ ile-iṣẹ, apapọ adaṣe ilana ilana roboti (RPA), sisẹ iwe-aṣẹ oye, awọn ẹrọ awọn ilana iṣowo, ati isọpọ eto.",
+      "bookDiscovery": "Awari Automation Iwe",
+      "exploreFramework": "Ṣawari Ilana Solusan",
+      "coreCapabilities": [
+        "Automation Workflow",
+        "Automation Ilana Robotik",
+        "Ṣiṣe iwe-ipamọ",
+        "Integration Engineering",
+        "Awọn ẹrọ Awọn Ofin Iṣowo",
+        "Awọn atupale ilana",
+        "Imudara Ilọsiwaju",
+        "Ibaṣepọ Legacy"
+      ],
+      "row1Eyebrow": "Automation Ilana Robotik",
+      "row1Title": "Awọn bot oye fun Awọn iṣẹ ṣiṣe Iwọn-giga",
+      "row1P1": "Imukuro titẹ data afọwọṣe ti atunwi, awọn ilaja eto-agbelebu, ati ipa ọna iwe. A ran awọn bot RPA ile-iṣẹ ṣiṣẹ ti o ṣe awọn iṣẹ ṣiṣe ti eleto 24/7 pẹlu oṣuwọn aṣiṣe odo.",
+      "row1P2": "Nipa sisopọ awọn atọkun tabili ti ogún, awọn ẹhin SAP/ERP, ati awọn apoti isura infomesonu, sọfitiwia sọfitiwia gba ẹgbẹ rẹ laaye lati dojukọ awọn ipilẹṣẹ iṣowo ilana.",
+      "row2Eyebrow": "Sisẹ iwe-aṣẹ ti oye",
+      "row2Title": "OCR, Ẹkọ ẹrọ & Iwe AI",
+      "row2P1": "Ni adaṣe ni adaṣe, ṣe iyatọ, ati jade data lati awọn iwe-owo, awọn iwe adehun, awọn iwe idanimọ, ati awọn ẹtọ. Awọn opo gigun ti AI-iwakọ ṣe fọwọsi awọn aaye lodi si awọn apoti isura infomesonu inu ati nfa awọn ṣiṣan iṣẹ alafọwọsi adaṣe.",
+      "row2P2": "Ṣe aṣeyọri taara-nipasẹ awọn oṣuwọn ṣiṣiṣẹsẹhin ju 95% lakoko ti o dinku awọn akoko iyipada ni pataki lati awọn ọjọ si iṣẹju-aaya.",
+      "row3Eyebrow": "Ilana Orchestration",
+      "row3Title": "Amuṣiṣẹpọ Agbelebu-Platform Ipari-si-opin",
+      "row3P1": "So CRM, ERP, HRMS, ati APIs ile-ifowopamọ pọ si awọn ṣiṣan data gidi-akoko. A ṣe imuse awọn okunfa ti o nfa iṣẹlẹ, awọn laini ifiranṣẹ, ati awọn alabojuto idapada adaṣe adaṣe.",
+      "row3P2": "Alaye n ṣàn lainidi kọja awọn apa laisi idasi eniyan, imukuro awọn silos iṣẹ ati awọn idaduro ibaraẹnisọrọ.",
+      "row4Eyebrow": "Telemetry Tesiwaju",
+      "row4Title": "Awọn Itupalẹ Ilana Akoko-gidi & Awọn Imọye Kaizen",
+      "row4P1": "Tọpinpin awọn akoko ipaniyan ilana, awọn maapu igbona igo, awọn igbohunsafẹfẹ aṣiṣe, ati ROI inawo ni awọn dasibodu adari akoko gidi.",
+      "row4P2": "Awọn iwadii iwadii ẹrọ lilọsiwaju ṣe awari awọn aye adaṣe tuntun, jẹ ki ile-iṣẹ rẹ ṣiṣẹ ni ṣiṣe ti o pọju.",
+      "pillarsTitle": "Awọn ọwọn adaṣe",
+      "pillarsSub": "Awọn bulọọki ile ti a fihan fun awọn iṣẹ iṣowo ti oye.",
+      "pillar1Title": "Automation Workflow",
+      "pillar1Desc": "Eniyan-igbesẹ lọpọlọpọ-ni-lupu ati ṣiṣan iṣẹ oni-nọmba ti a ṣeto pẹlu ipa ọna adaṣe ati awọn escalations.",
+      "pillar2Title": "Automation Ilana Robotik",
+      "pillar2Desc": "Awọn botilẹti sọfitiwia ti o da lori ofin ti n ṣiṣẹ titẹ data igbagbogbo, ilaja, ati awọn iṣẹ ṣiṣe ohun elo agbelebu.",
+      "pillar3Title": "Automation AI ti oye",
+      "pillar3Desc": "Awọn aṣoju AI ti oye ti o tumọ ọrọ-ọrọ, ṣe akopọ ọrọ ti ko ṣeto, ati ṣe awọn ipinnu adaṣe.",
+      "pillar4Title": "Imudara ilana",
+      "pillar4Desc": "Iwakusa ilana, wiwa igo, ati ṣiṣan iṣẹ Kaizen ti o dinku awọn idiyele iṣẹ nigbagbogbo.",
+      "ctaTitle": "Ṣetan lati Ṣe adaṣe Awọn iṣan-iṣẹ Iṣowo Rẹ?",
+      "ctaSub": "Sopọ pẹlu awọn ayaworan adaṣe adaṣe wa lati ṣe idanimọ awọn aye ROI giga ati mu awọn ṣiṣan iṣẹ oni-nọmba ti oye.",
+      "ctaButton": "Iwe Ijumọsọrọ Automation kan"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Imọ-ẹrọ Standard & R&D",
+      "titlePart1": "Aarin ti",
+      "titlePart2": "Ope",
+      "description": "Ajo ti aarin ti awọn ayaworan ile giga ati awọn alamọja agbegbe ti a ṣe igbẹhin si isọdọtun awọn iṣe ṣiṣe ẹrọ, imudara awakọ, ati isare awọn ipilẹṣẹ oni-nọmba.",
+      "exploreStandards": "Ṣawari Awọn Ilana Imọ-ẹrọ",
+      "initiateAssessment": "Bibẹrẹ Iṣayẹwo CoE",
+      "coreCapabilities": [
+        "Awọn Ilana faaji",
+        "Awọn ilana atunlo",
+        "Isakoso Iwa Ti o dara julọ",
+        "Idagbasoke Ogbon",
+        "Iṣatunṣe Didara",
+        "R&D & Innovation",
+        "Imọ-ẹrọ Igbelewọn",
+        "Agbelebu-Project Itọsọna"
+      ],
+      "uptimeLabel": "Akoko Idawọlẹ",
+      "engineersLabel": "Awọn onimọ-ẹrọ & Awọn ayaworan ile",
+      "deploymentsLabel": "AI & Awọn ifilọlẹ Awọsanma",
+      "satisfactionLabel": "Itelorun Onibara",
+      "row1Eyebrow": "Origun 01 - Standard Engineering",
+      "row1Title": "Imọ-ẹrọ sọfitiwia Iṣe-giga",
+      "row1P1": "Ile-iṣẹ Ilọsiwaju wa n ṣe agbekalẹ awọn ilana apẹrẹ ti o ni idiwọn, idanwo adaṣe adaṣe, ati awọn iṣe atunyẹwo koodu odo-aifọwọyi ti o yara si akoko-si-ọja lakoko titọju gbese imọ-ẹrọ si odo.",
+      "row1F1": "Awọn opo gigun ti idasilẹ CI/CD adaṣe pẹlu awọn atupale metiriki DORA",
+      "row1F2": "Awọn igbimọ atunyẹwo ayaworan to muna & iṣakoso awọn iṣẹ microservices",
+      "row1F3": "Aabo aabo tẹsiwaju ati patching ailagbara adaṣe",
+      "row1Btn": "Kọ ẹkọ Awọn Ilana Imọ-ẹrọ",
+      "row1Tag": "DevOps & Imọ-ẹrọ Didara",
+      "row2Eyebrow": "Origun 02 - R&D Innovation",
+      "row2Title": "AI Innovation Lab & Nyoju Technology",
+      "row2P1": "A ṣe idanwo pẹlu awọn awoṣe ikẹkọ ẹrọ-ti-ti-aworan, awọn aṣoju AI aṣa, ati adaṣe adaṣe adaṣe ti oye lati kọ awọn ọja ile-iṣẹ atẹle-iran.",
+      "row2F1": "Enterprise Generative AI & RAG imo Integration",
+      "row2F2": "Awọn iṣan-iṣẹ aṣoju AI adase fun adaṣe ilana iṣowo",
+      "row2F3": "Ti o dara ju awoṣe ẹrọ ikẹkọ ẹrọ aṣa & iṣatunṣe didara",
+      "row2Btn": "Ye AI Lab",
+      "row2Tag": "Imọye Oríkĕ & R&D Neural",
+      "row3Eyebrow": "Origun 03 - Awọn amayederun",
+      "row3Title": "Idawọlẹ awọsanma Architecture & Aabo-Trust Aabo",
+      "row3P1": "A ṣe apẹrẹ ati ṣakoso awọn agbegbe ti o ni agbara pupọ-awọsanma ti a ṣe lori awọn ilana aabo-igbẹkẹle, ni idaniloju pe data rẹ wa ni idaabobo lodi si idagbasoke awọn irokeke cyber agbaye.",
+      "row3F1": "AWS, Azure, & GCP olona-awọsanma amayederun orchestration",
+      "row3F2": "Wiwọle nẹtiwọọki igbẹkẹle odo (ZTNA) & awọn ilana IAM ti o da lori ipa",
+      "row3F3": "Ṣiṣayẹwo aabo eiyan adaṣe & iṣakoso aṣiri",
+      "row3Btn": "Ye Awọsanma & Aabo",
+      "row3Tag": "Awọsanma Architecture & Zero-Trust",
+      "pillarsTitle": "Awọn Ilana Didara Ipilẹ Wa",
+      "pillarsSub": "Awọn iwe-iṣere idagbasoke ti a ṣe eto ti n ṣe agbara awọn iru ẹrọ iṣẹ apinfunni pataki.",
+      "pillar1Title": "Igbimọ Atunwo Iṣẹ-iṣe (ARB)",
+      "pillar1Desc": "Abojuto okeerẹ ni idaniloju gbogbo awọn ojutu ile-iṣẹ ni ibamu pẹlu iwọn ti o muna, aabo, ati awọn ilana ibamu.",
+      "pillar2Title": "Accelerators atunlo & Ibi ikawe paati",
+      "pillar2Desc": "Awọn eto apẹrẹ ti ohun-ini, awọn ohun elo ibẹrẹ API, ati awọn awoṣe microservice ti ẹhin ti o dinku akoko idagbasoke akọkọ nipasẹ 40%.",
+      "pillar3Title": "Ifitonileti Iṣe Ilọsiwaju",
+      "pillar3Desc": "To ti ni ilọsiwaju gidi-akoko observability pipelines mimojuto ohun elo lairi, igbejade bottlenecks, ati awọsanma awọn oluşewadi iṣamulo.",
+      "pillar4Title": "Talent Upskilling & Guilds",
+      "pillar4Desc": "Awọn guilds inu ti a ṣe igbekale ati awọn iwe-ẹri ti n dagba awọn pipe imọ-ẹrọ jinlẹ kọja awọsanma, DevOps, ati AI ti a lo.",
+      "ctaTitle": "Gbe Iwọn Imọ-ẹrọ Rẹ ga",
+      "ctaSub": "Alabaṣepọ pẹlu Rezonants's Centre of Excellence lati kọ awọn ayaworan awọsanma resilient, adaṣe adaṣe adaṣe, ati mu ifijiṣẹ ọja oni-nọmba pọ si.",
+      "ctaButton": "Ijumọsọrọ Alakoso Iṣeto",
+      "badge": "REZONANTS COE",
+      "scroll": "Yi lọ",
+      "p1Title": "Ijọba & Awọn ilana",
+      "p1Desc": "Ṣe agbekalẹ iṣakoso ile-iṣẹ jakejado ile-iṣẹ, awọn ẹṣọ eto imulo, ati awọn iṣedede ibamu.",
+      "p1Tag": "Ijọba",
+      "p2Title": "Awọn Ilana Imọ-ẹrọ & Iṣẹ-ọnà",
+      "p2Desc": "Ṣetumo awọn ile-itọkasi ode oni, awọn akopọ imọ-ẹrọ ti a ti rii, ati awọn ilana iṣẹ microservices.",
+      "p2Tag": "Iṣẹ ọna",
+      "p3Title": "Awọn ohun-ini atunlo & Awọn ile-ikawe",
+      "p3Desc": "Mu iyara idagbasoke pọ si pẹlu awọn paati pinpin, awọn awoṣe, awọn ohun elo ibẹrẹ, ati awọn eto apẹrẹ.",
+      "p3Tag": "Atunlo",
+      "p4Title": "Idagbasoke Agbara",
+      "p4Desc": "Ikẹkọ iṣeto, idamọran imọ-ẹrọ, ati imudara ọgbọn lati gbe agbara imọ-ẹrọ ẹgbẹ ga.",
+      "p4Tag": "Agbara",
+      "p5Title": "Innovation & Nyoju Tech",
+      "p5Desc": "R&D lori awọn aṣoju AI, awọn opo gigun ti adaṣe, ati awọn ilana iran ti nbọ lati ṣetọju eti ọja.",
+      "p5Tag": "Atunse",
+      "p6Title": "Imudara Tesiwaju",
+      "p6Desc": "Awọn metiriki imọ-ẹrọ ti n ṣakoso data (DORA), isamisi SLA, ati iṣapeye didara ti nlọ lọwọ.",
+      "p6Tag": "Didara"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Imọ-ẹrọ oni-nọmba Ti a Tii",
+      "titlePart1": "Idagbasoke Aṣa &",
+      "titlePart2": "Isọdọtun",
+      "description": "Idagbasoke ati imudara awọn ohun elo, awọn iru ẹrọ, ṣiṣan iṣẹ, ati awọn solusan ile-iṣẹ lati koju awọn ibeere iṣowo alailẹgbẹ ati jiṣẹ iṣẹ ṣiṣe ti a ṣe.",
+      "bookConsultation": "Iwe Ijumọsọrọ kan",
+      "exploreCapabilities": "Ṣawari Awọn Agbara",
+      "coreCapabilities": [
+        "Idagbasoke Aṣa",
+        "Iṣeto ni Platform",
+        "Awọn amugbooro",
+        "Awọn iṣan-iṣẹ Aṣa",
+        "API Idagbasoke",
+        "Isopọpọ Eto",
+        "Imudara UI/UX",
+        "Imudara Iṣe"
+      ],
+      "row1Eyebrow": "IṢẸ TI AWỌN NIPA",
+      "row1Title": "Awọn ẹya Bespoke ti a ṣe fun Sisẹ-iṣẹ Rẹ",
+      "row1P1": "Sọfitiwia ile-iṣẹ boṣewa nigbagbogbo kuna lati pade awọn iwulo iṣowo amọja. Ẹgbẹ imọ-ẹrọ aṣa wa ṣe agbekalẹ awọn modulu ohun elo bespoke, awọn ofin iṣowo aṣa, ati awọn amugbooro amọja ti a ṣe deede si awọn iṣẹ ṣiṣe rẹ.",
+      "row1P2": "Lati CRM aṣa ati awọn imudara ERP si awọn ọna abawọle iṣẹ ṣiṣe amọja, a kọ awọn ẹya ti o ni ibamu lainidi pẹlu awọn ilana iṣan-iṣẹ deede ti ẹgbẹ rẹ.",
+      "row2Eyebrow": "IṢẸRỌ ỌRỌ IṢẸRẸ",
+      "row2Title": "Iṣeto ni Platform & API Idagbasoke",
+      "row2P1": "So awọn ọna ṣiṣe sọfitiwia aibikita sinu ilolupo oni-nọmba kan ti iṣọkan. A ṣe ẹlẹrọ aṣa REST ati awọn API GraphQL, awọn olutọju webhook, ati awọn laini ifiranṣẹ ile-iṣẹ lati rii daju imuṣiṣẹpọ data akoko gidi ni gbogbo awọn iru ẹrọ rẹ.",
+      "row2P2": "Boya iṣakojọpọ awọn irinṣẹ SaaS ẹni-kẹta tabi faagun awọn iru ẹrọ ohun-ini lori-ile, awọn ile-iṣọpọ iṣọpọ wa ṣe pataki iduroṣinṣin data, iṣelọpọ, ati akoko idinku odo.",
+      "row3Eyebrow": "UI/UX & Iṣe",
+      "row3Title": "Awọn ilọsiwaju UI/UX & Imudara Iṣe",
+      "row3P1": "Awọn atọkun iní ga pẹlu igbalode, awọn iriri olumulo idahun ti a ṣe apẹrẹ fun iyara ati mimọ. A tun-ẹrọ awọn iwaju iwaju pẹlu awọn ilana apẹrẹ ogbon inu, ibamu iraye si, ati awọn awoṣe ibaraenisepo ṣiṣan.",
+      "row3P2": "Ni afiwe, awọn onimọ-ẹrọ iṣẹ wa ṣe imudara awọn ibeere data data, awọn ilana caching, ati awọn iwọn lapapo iwaju lati fi awọn akoko esi lẹsẹkẹsẹ kọja gbogbo awọn ẹrọ.",
+      "pillarsTitle": "Ti ṣe Ẹrọ si Awọn pato pato Rẹ",
+      "pillarsSub": "Awọn ilana isọdi ti ile-iṣẹ ti a ṣe lati ṣe iwọn lainidi.",
+      "pillar1Title": "Awọn iṣan-iṣẹ Aṣa & Awọn amugbooro",
+      "pillar1Desc": "Imọye ohun elo ti a ṣe deede ati awọn ẹrọ ipinlẹ adaṣe ti a tunto ni pataki ni ayika awọn ofin iṣẹ ṣiṣe inu rẹ.",
+      "pillar2Title": "API & Eto Iṣọkan",
+      "pillar2Desc": "Ni aabo, awọn afara data ti o jẹri sisopọ awọn ẹhin ohun-ini, awọn suites ERP, awọn ẹnu-ọna isanwo, ati awọn iṣẹ awọsanma.",
+      "pillar3Title": "Iṣeto ni Platform",
+      "pillar3Desc": "Awọn aṣamubadọgba ti ayaworan ti o jinlẹ ti o ṣe atunṣe sọfitiwia ile-iṣẹ laisi fifọ awọn ọna iṣagbega tabi awọn adehun atilẹyin ataja.",
+      "pillar4Title": "Imudara Iṣe",
+      "pillar4Desc": "Isọjade ibeere ibinu, imukuro jijo iranti, ati pinpin eti CDN fun awọn ẹru oju-iwe iha keji.",
+      "ctaTitle": "Ṣetan lati Ṣe akanṣe Platform Idawọlẹ Rẹ bi?",
+      "ctaSub": "Sopọ pẹlu awọn ayaworan ojutu wa lati ṣe apẹrẹ ati ran awọn modulu aṣa, ṣiṣan iṣẹ, ati awọn iṣọpọ ti a ṣe deede si awọn iwulo iṣowo rẹ.",
+      "ctaButton": "Kọ iwe ipe isọdi-ara kan",
+      "badge": "Imọ-ẹrọ oni-nọmba Ti a Tii",
+      "viewAllServices": "Wo Gbogbo Awọn iṣẹ"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Isọdọtun Idawọlẹ",
+      "titlePart1": "Oni-nọmba",
+      "titlePart2": "Iyipada",
+      "description": "Olaju okeerẹ ti awọn ilana iṣowo, awọn ayaworan imọ-ẹrọ, ati awọn awoṣe iṣiṣẹ lati wakọ agility ti iṣeto, ṣiṣe ṣiṣe, ati idagbasoke oni-nọmba alagbero.",
+      "startTransformation": "Iyipada Iyipada",
+      "exploreStrategy": "Ṣawari Ilana",
+      "coreCapabilities": [
+        "Ilana & Ipa ọna",
+        "Isọdọtun Architecture",
+        "Awọsanma & Amayederun",
+        "Data & Atupale",
+        "Ilana Digitization",
+        "Iriri Onibara",
+        "Isakoso Iyipada",
+        "Awọn awoṣe Ṣiṣẹ Agile"
+      ],
+      "row1Eyebrow": "Ilana & Ipa ọna",
+      "row1Title": "Lati Iran si Ipa-ọna ipasẹ",
+      "row1P1": "A ṣe ajọṣepọ pẹlu awọn oludari ile-iṣẹ lati ṣalaye ilana oni-nọmba, awọn ọran iṣowo, ati awọn maapu opopona pẹlu awọn aṣeyọri iyara ati ipaniyan ti o ni eewu.",
+      "row1P2": "Awọn ipilẹṣẹ akọkọ, awọn awoṣe TCO, ati awọn KPI ṣe idaniloju gbogbo igbiyanju imudara imọ-ẹrọ ni asopọ taara si owo-wiwọle, ṣiṣe, ati awọn abajade itẹlọrun alabara.",
+      "row2Eyebrow": "Igbalaju Ogún",
+      "row2Title": "Ṣe Odojuiwọn Laisi Biba Iṣowo naa",
+      "row2P1": "Tun-platform monoliths si awọn microservices, APIs, ati awọn ilana abinibi-awọsanma pẹlu awọn gige akoko-isalẹ odo ati afọwọsi adaṣe adaṣe.",
+      "row2P2": "A ṣe imudojuiwọn awọn ohun elo, awọn apoti isura data, ati awọn ipele isọpọ lakoko ti o tọju ibamu ati iduro aabo.",
+      "row3Eyebrow": "Awọsanma, AI & Data",
+      "row3Title": "Awọsanma Olomo & Data-Driv oye",
+      "row3P1": "Gba AWS, Azure, ati GCP, kọ awọn opo gigun ti data ode oni, ati fi sii awọn aṣoju ikẹkọ ẹrọ lati wakọ awọn ipinnu adase.",
+      "row3P2": "Lati ṣiṣan iṣẹlẹ gidi-akoko si awọn dasibodu ti iṣọkan, iyipada di iwọnwọn ati alagbero.",
+      "row4Eyebrow": "Iriri Onibara",
+      "row4Title": "Awọn iriri Omnichannel ode oni",
+      "row4P1": "Tunṣe awọn irin ajo alabara kọja oju opo wẹẹbu ti o ṣe idahun, iOS, Android, ati awọn ọna abawọle iṣẹ-ara ẹni pẹlu awọn atọkun ara ẹni.",
+      "row4P2": "Imọ-ẹrọ Platform, telemetry, ati awọn losiwajulosehin esi adaṣe jẹ ki isọdọtun oni nọmba tẹsiwaju.",
+      "pillarsTitle": "Awọn Origun Iyipada",
+      "pillarsSub": "Awọn lefa idojukọ Abajade ti o rii daju adari oni-nọmba alagbero.",
+      "pillar1Title": "Digital Strategy & Isejoba",
+      "pillar1Desc": "Awọn awoṣe iyipada alakoso pẹlu iṣapẹẹrẹ ọran iṣowo, iṣakoso faaji, ati titọpa eewu pataki.",
+      "pillar2Title": "Awọsanma & Data Platform",
+      "pillar2Desc": "AWS/Azure/GCP awọn ipilẹ-awọsanma-ọpọlọpọ, awọn opo gigun ti a ṣe adaṣe, ati ṣiṣe ṣiṣe itupalẹ data ile-iṣẹ.",
+      "pillar3Title": "AI & Adaṣiṣẹ",
+      "pillar3Desc": "Adaṣiṣẹ ilana oye, awọn aṣoju AI oye, ati telemetry asọtẹlẹ lati mu awọn iṣẹ ṣiṣe lojoojumọ ṣiṣẹ.",
+      "pillar4Title": "Iriri Onibara",
+      "pillar4Desc": "Awọn ọna abawọle oni-nọmba omnichannel ti o ga julọ ati awọn atọkun ara ẹni ti a ṣe fun idaduro olumulo ti o pọju.",
+      "ctaTitle": "Ṣetan lati Yi Ile-iṣẹ Rẹ pada?",
+      "ctaSub": "Alabaṣepọ pẹlu Rezonants fun ti akoko, iyipada oni-nọmba ti o ni eewu ti a so mọ awọn abajade iṣowo ti o ṣe iwọnwọn.",
+      "ctaButton": "Iwe ipe Iyipada oni-nọmba kan",
+      "bookWorkshop": "Idanileko Iyipada Iwe",
+      "exploreFramework": "Ṣawari Ilana Solusan",
+      "coreCapabilitiesTitle": "Awọn agbara Koko"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Igbesi aye imọ-ẹrọ pipe",
+      "titlePart1": "Solusan Ipari-si-Ipari",
+      "titlePart2": "Ilana",
+      "description": "Eto eto, ilana ifijiṣẹ igbesi aye kikun ti o ni awọn ibeere iṣowo, apẹrẹ faaji, imọ-ẹrọ, isọpọ, idaniloju didara, imuṣiṣẹ awọsanma, ati awọn iṣẹ iṣakoso.",
+      "startJourney": "Bẹrẹ Ise agbese Rẹ",
+      "exploreFramework": "Ye Framework",
+      "coreCapabilities": [
+        "Awọn ibeere Analysis",
+        "Apẹrẹ Architecture",
+        "Idagbasoke Ikopọ ni kikun",
+        "Integration Engineering",
+        "Imudaniloju Didara",
+        "Gbigbe & Yipada",
+        "Awọn iṣẹ ṣiṣe ti nlọ lọwọ",
+        "Itankalẹ Ilọsiwaju"
+      ],
+      "row1Eyebrow": "Ilana & Faaji",
+      "row1Title": "Awọn ibeere Imọ-ẹrọ & Apẹrẹ Solusan",
+      "row1P1": "Awọn idanileko ifowosowopo, aworan agbaye agbegbe iṣowo, ati awọn alaye faaji awọsanma ti a ṣe apẹrẹ lati mu eewu kuro ṣaaju ki o to kọ laini koodu kan.",
+      "row1P2": "A ṣe alaye awọn awoṣe data, awọn ilana aabo, ati awọn ami-iṣedede scalability ti o ṣeto aṣeyọri igba pipẹ.",
+      "row2Eyebrow": "Imọ-ẹrọ & Didara",
+      "row2Title": "Idagbasoke Ikopọ kikun & Idanwo Aifọwọyi",
+      "row2P1": "Awọn iṣẹ microservices modular, iru-ailewu APIs, ati awọn iwaju iwaju idahun ni idapo pẹlu ẹyọkan adaṣe, iṣọpọ, ati awọn iwoye aabo.",
+      "row2P2": "Awọn opo gigun ti iṣọpọ tẹsiwaju pẹlu Awọn iṣe GitHub, Terraform, ati awọn ẹṣọ aabo adaṣe.",
+      "row3Eyebrow": "Gbigbe & Awọn isẹ",
+      "row3Title": "Gbigbe Awọsanma & Abojuto Ṣakoso 24/7",
+      "row3P1": "Orchestration olona-awọsanma lori AWS/Azure/GCP pẹlu adaṣe adaṣe, awọn gige akoko-idẹ, ati akiyesi akoko gidi.",
+      "row3P2": "A pese itọju atilẹyin SLA ati ibojuwo telemetry lemọlemọ lati ṣe idagbasoke ọja rẹ lainidi.",
+      "row4Eyebrow": "Isakoso ile-iṣẹ",
+      "row4Title": "Iṣakoso Iṣọkan & Atilẹyin Ti nlọ lọwọ",
+      "row4P1": "Ijẹrisi-ojuami-ọkan kọja gbogbo akopọ oni-nọmba rẹ - iyara iyara ti o han gbangba, ṣiṣe isuna asọtẹlẹ, ati isọdọtun ti nlọsiwaju.",
+      "row4P2": "Awọn iyipo ẹya deede ati awọn iyipo isọdọtun jẹ ki ile-iṣẹ rẹ wa niwaju idije naa.",
+      "pillarsTitle": "Lifecycle Framework Pillars",
+      "pillarsSub": "Gbogbo ipele ti a ṣe atunṣe pẹlu lile ile-iṣẹ.",
+      "pillar1Title": "Ilana & Awọn ibeere",
+      "pillar1Desc": "Awari agbegbe, awọn maapu ọna ayaworan, ati titete awọn onipindoje lati yọkuro awọn ewu ipaniyan.",
+      "pillar2Title": "Faaji & Kọ",
+      "pillar2Desc": "Awọn iṣẹ microservices abinibi-awọsanma Resilient, awọn iṣọpọ API, ati idanwo QA ti nlọsiwaju.",
+      "pillar3Title": "Aabo & Gbigbe",
+      "pillar3Desc": "Ibamu aabo-igbẹkẹle odo, awọn idasilẹ ti a fi sinu apoti, ati awọn imuṣiṣẹ awọsanma adaṣe.",
+      "pillar4Title": "Ijọba & Atilẹyin",
+      "pillar4Desc": "24/7 SLA ibojuwo, telemetry ilera, ati imọ-ẹrọ itankalẹ ti nlọ lọwọ.",
+      "ctaTitle": "Ṣe o nilo Alabaṣepọ Igbesi aye pipe bi?",
+      "ctaSub": "A ni igbesi aye imọ-ẹrọ ni kikun ki ẹgbẹ rẹ le dojukọ awọn abajade iṣowo akọkọ.",
+      "ctaButton": "Alabaṣepọ fun Igbesi aye Kikun"
+    },
+    "migrationServices": {
+      "eyebrow": "Awọsanma & Iyipada Amayederun",
+      "titlePart1": "Iṣilọ &",
+      "titlePart2": "Igbalaju",
+      "description": "Ailewu, iṣilọ ti eleto ti awọn ohun elo ohun-ini, awọn apoti isura infomesonu, ati awọn amayederun si awọn faaji awọsanma ode oni, ti a so pọ pẹlu isọdọtun lemọlemọfún fun imudara agility ati ṣiṣe.",
+      "bookAssessment": "Iṣayẹwo Iṣilọ Iwe",
+      "exploreStrategy": "Ṣawari Ilana Awọsanma",
+      "coreCapabilities": [
+        "Iṣilọ Awọsanma",
+        "Ohun elo Igbalaju",
+        "Iṣilọ aaye data",
+        "Atunse Amayederun",
+        "Apoti",
+        "Microservices Iyipada",
+        "Imudara Iṣe",
+        "Aabo & Ibamu"
+      ],
+      "row1Eyebrow": "Iṣilọ Awọsanma",
+      "row1Title": "Ilana Awọsanma Pupọ & Gbe-ati-Imudara",
+      "row1P1": "Iṣilọ fifuye iṣẹ lainidi kọja AWS, Azure, ati Google Cloud pẹlu iṣawari adaṣe, igbero igbi, ati idilọwọ iṣowo odo.",
+      "row1P2": "A ṣe iwọntunwọnsi atunlo, atunto, ati isọdọtun lati jẹ ki iye owo lapapọ ti nini (TCO) ati agility jẹ.",
+      "row2Eyebrow": "Data & Iṣilọ aaye data",
+      "row2Title": "ETL to ni aabo & Afọwọsi Data Aifọwọyi",
+      "row2P1": "Atunṣe ibi ipamọ data aladaaṣe, itumọ ero, ati awọn opo gigun ti ETL ti o ga pẹlu ijẹrisi iduroṣinṣin data 100%.",
+      "row2P2": "Atunyẹwo gige idinku akoko odo-idaniloju ṣe idaniloju aitasera data pipe ati ilosiwaju iṣowo.",
+      "row3Eyebrow": "Olaju Platform",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Ṣe imudojuiwọn awọn monoliths julọ sinu awọn iṣẹ microservices ti iwọn ti a ṣeto nipasẹ Kubernetes (EKS, AKS, GKE) pẹlu awọn awoṣe IaC adaṣe adaṣe.",
+      "row3P2": "Ifilọlẹ iṣẹ iṣiwa lẹhin-iṣiwa ati iṣapeye idiyele rii daju ROI lẹsẹkẹsẹ.",
+      "row4Eyebrow": "Eto Cutover",
+      "row4Title": "Idanwo Aifọwọyi & Awọn Nẹtiwọọki Abo Yipada",
+      "row4P1": "Awọn iwe afọwọṣe gige ti a ti ni idanwo ogun, awọn suites ifasilẹ adaṣe, ati awọn ọna ṣiṣe yiyi lẹsẹkẹsẹ fun ifọkanbalẹ pipe ti ọkan.",
+      "row4P2": "telemetry ilera ilera lẹhin-iṣiwa ati 24/7 hypercare ṣe iṣeduro iduroṣinṣin iṣelọpọ aibuku.",
+      "pillarsTitle": "Awọn idaniloju Iṣilọ",
+      "pillarsSub": "Awọn gbigbe ti o ni eewu ṣe atilẹyin nipasẹ awọn SLA ile-iṣẹ.",
+      "pillar1Title": "Odo-isalẹ Cutover",
+      "pillar1Desc": "Awọn idasilẹ Canary ati ìsiṣẹpọ-kọ data meji lati rii daju iraye olumulo ti ko ni idilọwọ.",
+      "pillar2Title": "Afọwọsi Data Aifọwọyi",
+      "pillar2Desc": "Awọn afiwe Checksum, awọn iṣayẹwo iṣotitọ ero, ati ilaja ETL adaṣe.",
+      "pillar3Title": "Awọn nẹtiwọki Abo Yipada",
+      "pillar3Desc": "Awọn ilana imularada ajalu ti o muna ati awọn adaṣe adaṣe lati ni eewu ni gbogbo ipele.",
+      "pillar4Title": "Iṣe & Imudara iye owo",
+      "pillar4Desc": "Itọtọ awọsanma, awọn ilana imuṣeto, ati awọn dasibodu iṣakoso idiyele idiyele pẹlu.",
+      "ctaTitle": "Ṣetan lati jade pẹlu Igbẹkẹle pipe?",
+      "ctaSub": "Alabaṣepọ pẹlu Rezonants fun iṣeto, awọsanma ti ko ni eewu ati isọdọtun data.",
+      "ctaButton": "Gbero Idanileko Iṣiwa Rẹ"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Ifọwọsi iyara & Iṣeṣe",
+      "titlePart1": "Ẹri ti Erongba (PoC) &",
+      "titlePart2": "Ilana Pilot",
+      "description": "Idagbasoke kiakia ati idaniloju awọn iṣeduro imọ-ẹrọ lati ṣe ayẹwo imọ-ẹrọ imọ-ẹrọ, iye owo iṣowo, awọn ibeere iṣọkan, iṣẹ-ṣiṣe, ati scalability ṣaaju imuse kikun.",
+      "initiateDiscovery": "Bibẹrẹ Awari PoC",
+      "exploreDevelopment": "Ṣawari Idagbasoke Aṣa",
+      "coreCapabilities": [
+        "Idagbasoke PoC",
+        "Imọ-ẹrọ Afọwọkọ",
+        "Awọn Iwadi Iṣeṣe",
+        "Ifọwọsi faaji",
+        "Idanwo Iṣọkan",
+        "Iṣeduro iṣẹ ṣiṣe",
+        "Gbigbe Pilot",
+        "Igbelewọn Iye"
+      ],
+      "row1Eyebrow": "Ifọwọsi iyara",
+      "row1Title": "Lati Agbekale si Iṣeṣe Afọwọsi",
+      "row1P1": "Yipada imọran sinu ojuutu iwọn-iṣẹ kan nilo ijẹrisi iwaju ti o muna. Iṣẹ PoC & Pilot wa ṣe iṣiro ṣiṣeeṣe imọ-ẹrọ, wahala-idanwo awọn ìkọ iṣọpọ to ṣe pataki, ati pe o fọwọsi ROI iṣowo ṣaaju awọn adehun olu pataki.",
+      "row1P2": "A ṣe agbero awọn MVP-iṣotitọ giga ati awọn awakọ apoti iyanrin ti o dojukọ ti o jẹri iṣeeṣe imọ-ẹrọ, wiwọn aiiri eto, ati ṣajọ afọwọsi oniduro taara ni kutukutu.",
+      "row1Cap": "Imudaniloju MVP iyara & Awọn ipilẹ imọ-ẹrọ",
+      "row2Eyebrow": "Agile Prototyping",
+      "row2Title": "Awọn MVP Ibanisọrọ & Ifọwọsi UX",
+      "row2P1": "A kọ awọn fireemu onirin ibaraenisepo, ṣiṣan olumulo ti o le tẹ, ati ẹri-ti-ero ni awọn ọjọ, kii ṣe awọn oṣu. Ṣe idanwo awọn ibaraenisepo olumulo gidi, sọtunto awọn ilana UI/UX, ati kojọ awọn esi ti o ṣee ṣe lati ọdọ awọn ti o kan.",
+      "row2P2": "Nipa kikuru awọn iyipo esi lakoko idagbasoke kutukutu, ẹgbẹ rẹ dinku iṣẹ-ṣiṣe ati ṣeto awọn alaye imọ-ẹrọ ti o han gbangba ṣaaju awọn ipele ikọle aladanla nla.",
+      "row2Cap": "Iyara aṣetunṣe & Awọn Afọwọṣe UX Titẹ",
+      "row3Eyebrow": "Iṣajọpọ & Idanwo Scalability",
+      "row3Title": "Awọn Integration System Complex De-Ewu",
+      "row3P1": "Ṣii silẹ awọn igo imọ-ẹrọ, awọn idiwọn API, ati awọn idiwọ iṣẹ ṣiṣe ṣaaju ifaramo olu ni kikun. Ẹgbẹ imọ-ẹrọ awaoko wa wahala-ṣe idanwo awọn iṣọpọ, awọn opo gigun ti data, ati awọn API ẹni-kẹta ni awọn agbegbe apoti iyanrin ti o ya sọtọ.",
+      "row3P2": "Ilọkuro eewu ti o ni idaniloju ṣe idaniloju wiwa eto giga, ibamu aabo, ati awọn akoko idagbasoke asọtẹlẹ nigbati o ba yipada PoC rẹ sinu iṣelọpọ ile-iṣẹ.",
+      "row3Cap": "Ijọpọ Sandbox & Idanwo Wahala",
+      "row4Eyebrow": "Pilot iṣelọpọ ti iṣakoso",
+      "row4Title": "Ifilọlẹ Pilot Ifojusi & Ifọwọsi ọran Iṣowo",
+      "row4P1": "Ran awọn idasilẹ awakọ ìfọkànsí si apakan olumulo ti o yan tabi ọja idanwo. Tọpinpin awọn metiriki iṣẹ ṣiṣe, awọn atupale isọdọmọ olumulo, ati awọn esi iṣiṣẹ lati ṣe iwọn iye iṣowo ati fi idi ọran iṣowo ti o ṣe atilẹyin data kan.",
+      "row4P2": "Pẹlu awọn oye awaoko gidi-aye, awọn onigbọwọ alaṣẹ jèrè awọn metiriki ROI ti o han gbangba lati ṣe idalare imuṣiṣẹ gbooro ati awọn idoko-owo iyipada oni-nọmba ilana.",
+      "row4Cap": "Iṣakoso Iṣakoso & Telemetry Iṣẹ",
+      "pillarsTitle": "Awọn Ilana Imọ-ẹrọ Pilot wa",
+      "pillarsSub": "Awọn ilana itọsọna ti o tan aidaniloju imọ-ẹrọ sinu aṣeyọri iṣowo asọtẹlẹ.",
+      "pillar1Title": "PoC & Aṣafihan MVP",
+      "pillar1Desc": "Firanṣẹ awọn apẹrẹ iṣẹ ṣiṣe ni iyara lati fidi awọn igbero iye ni kutukutu ni igbesi-aye.",
+      "pillar2Title": "O ṣeeṣe & Afọwọsi",
+      "pillar2Desc": "Jẹrisi ibamu API, awọn ọna abawọle, ati awọn idiwọ ibamu ni awọn agbegbe apoti iyanrin.",
+      "pillar3Title": "Igbelewọn Scalability",
+      "pillar3Desc": "Ṣe afiwe fifuye iṣelọpọ lati fi idi awọn opin agbara mulẹ ati pinnu iwọn iwọn faaji awọsanma.",
+      "pillar4Title": "Ifọwọsi ọran Iṣowo",
+      "pillar4Desc": "Ṣe iwọn ROI ojulowo ati awọn metiriki iṣelọpọ lati ṣe atilẹyin awọn ipinnu ifilọlẹ jakejado ile-iṣẹ.",
+      "ctaTitle": "Ṣetan lati fọwọsi ojutu oni-nọmba rẹ atẹle?",
+      "ctaSub": "Sopọ pẹlu ẹgbẹ imọ-ẹrọ ojutu wa lati ṣawari awọn ibeere iṣẹ akanṣe rẹ, kọ apẹrẹ kan, ati idanwo iṣeeṣe pẹlu eewu odo.",
+      "ctaButton": "Iwe Ijumọsọrọ PoC kan"
+    },
+    "sharedServices": {
+      "eyebrow": "Ibudo Awọn isẹ Aarin",
+      "titlePart1": "Awọn iṣẹ Pipin &",
+      "titlePart2": "Awọn iṣẹ iṣakoso",
+      "description": "Ifijiṣẹ ti aarin ti imọ-ẹrọ ati awọn agbara iṣiṣẹ kọja awọn ẹka iṣowo nipasẹ awọn ilana ti o ni idiwọn, awọn orisun oye, awọn ilana ijọba, iṣakoso iṣẹ, ati awọn ipele iṣẹ iwọnwọn.",
+      "bookDiscovery": "Awari Awọn iṣẹ ṣiṣe iṣakoso Iwe",
+      "exploreFramework": "Ṣawari Ilana Solusan",
+      "coreCapabilities": [
+        "Awọn iṣẹ iṣakoso",
+        "Awọn iṣẹ IT",
+        "Atilẹyin ohun elo",
+        "Isakoso Iṣẹ",
+        "Imudara Awọn orisun",
+        "SLA Management",
+        "Ijọba",
+        "Ilọsiwaju Ilọsiwaju",
+        "Imudara iye owo"
+      ],
+      "row1Eyebrow": "Ibudo Ifijiṣẹ Iṣọkan",
+      "row1Title": "Awọn iṣẹ Iṣeduro Kọja Gbogbo Awọn Ẹka Iṣowo",
+      "row1P1": "Ṣajọpọ IT ọfiisi ẹhin, iṣakoso amayederun, ati atilẹyin imọ-ẹrọ sinu ile-iṣẹ ifijiṣẹ iṣẹ ṣiṣe giga kan kan.",
+      "row1P2": "Nipa yiyọkuro ẹgbẹ ẹda-ẹda lori ati iwọn awọn awoṣe ifijiṣẹ iṣẹ, agbari rẹ ṣe aabo didara deede ati dinku inawo iṣẹ ṣiṣe lapapọ.",
+      "row2Eyebrow": "24/7 SRE & Atilẹyin Ohun elo",
+      "row2Title": "Abojuto Iṣeduro & Ipinnu Iṣẹlẹ Yara",
+      "row2P1": "Awọn Onimọ-ẹrọ Igbẹkẹle Aye ti a ṣe iyasọtọ (SRE) ati awọn alamọja atilẹyin pese ibojuwo telemetry 24/7/365, iwọn gbigbọn adaṣe adaṣe, ati ipinnu ọran L1/L2/L3 ni iyara.",
+      "row2P2": "Ni atilẹyin nipasẹ awọn adehun SLA ti o muna, a ṣe iṣeduro 99.99% wiwa fun awọn ohun elo pataki-ipinfunni rẹ ati awọn amayederun awọsanma.",
+      "row3Eyebrow": "ITIL Isakoso & Ibamu",
+      "row3Title": "Awọn ilana Isakoso Iṣẹ Iṣeto",
+      "row3P1": "Ṣe imuse awọn iṣedede ITSM ti ile-iṣẹ ti o darí (ServiceNow, Isakoso Iṣẹ Jira) pẹlu tikẹti titọ, awọn itupalẹ idi-ipin, ati awọn ẹṣọ iṣakoso iyipada.",
+      "row3P2": "Awọn itọpa iṣayẹwo pipe ati awọn ilana ijọba ṣe idaniloju awọn iṣẹ rẹ duro ni ibamu pẹlu awọn iṣedede aabo agbaye.",
+      "row4Eyebrow": "FinOps & Ilọsiwaju Ilọsiwaju",
+      "row4Title": "Isuna asọtẹlẹ & Imudara Awọn orisun",
+      "row4P1": "Imukuro idoti awọsanma, mu iwọn iṣiro pọ si, ati adaṣe itọju iṣẹ ṣiṣe deede pẹlu awọn iṣe ti o dara julọ FinOps.",
+      "row4P2": "Awọn ijabọ akoyawo oṣooṣu ati awọn asọtẹlẹ agbara ṣe idaniloju iṣapeye idiyele iṣẹ ṣiṣe lemọlemọ ati ṣiṣe ṣiṣe olu giga.",
+      "pillarsTitle": "Awọn ọwọn iṣẹ",
+      "pillarsSub": "Awọn lefa iṣẹ ṣiṣe ti a fihan fun iwọn iwọn ile-iṣẹ ti o gbẹkẹle.",
+      "pillar1Title": "24/7 Ṣakoso awọn iṣẹ IT",
+      "pillar1Desc": "telemetry NOC ti nṣiṣe lọwọ, patching olupin, itọju amayederun, ati awọn iṣeduro akoko 99.99%.",
+      "pillar2Title": "ITSM & Iduro Iṣẹ",
+      "pillar2Desc": "Ipele 1/2/3 iwe iranlọwọ ikanni pupọ, ipa-ọna isẹlẹ, ati awọn ṣiṣan iṣẹ ipinnu tikẹti ti iṣeto.",
+      "pillar3Title": "SLA & Iṣakoso iṣẹ",
+      "pillar3Desc": "Awọn akoko idahun ti a ṣe atilẹyin pẹlu adehun, awọn ipilẹ MTTR, ati awọn iṣayẹwo iṣẹ ṣiṣe oṣooṣu ti o han gbangba.",
+      "pillar4Title": "FinOps & Iṣapeye idiyele",
+      "pillar4Desc": "Ilọsiwaju awọn oluşewadi ẹtọ ẹtọ, atunṣe iwe-aṣẹ, ati idinku iye owo awọsanma adaṣe.",
+      "ctaTitle": "Ṣetan lati Ṣe iwọn Awọn iṣẹ iṣakoso Rẹ bi?",
+      "ctaSub": "Alabaṣepọ pẹlu Rezonants fun igbẹkẹle, awọn iṣẹ iṣakoso 24/7 ti o mu awọn idiyele pọ si ati imukuro akoko iṣẹ ṣiṣe.",
+      "ctaButton": "Iwe Ijumọsọrọ Awọn iṣẹ iṣakoso kan",
+      "howItWorksHeading": "Ọna ti a fihan si aṣeyọri awọn iṣẹ pinpin"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotik",
+      "eyebrow": "Awọn ọna ṣiṣe oye",
+      "heroHeading": "AI & Robotics ṣiṣẹ papọ",
+      "intro": "Imọye Artificial (AI) ati Robotics n yi ọna ti awọn iṣowo ṣiṣẹ nipa apapọ ṣiṣe ipinnu oye pẹlu adaṣe ilọsiwaju. AI ngbanilaaye awọn ẹrọ lati ṣe itupalẹ data, kọ ẹkọ awọn ilana, ati ṣe awọn ipinnu ọlọgbọn, lakoko ti awọn roboti mu awọn agbara wọnyi wa si agbaye ti ara lati ṣe awọn iṣẹ ṣiṣe pẹlu iyara, deede, ati aitasera.",
+      "section1Heading": "Itumọ ti lati streamline gbogbo isẹ",
+      "section1Text": "Awọn solusan AI ati Robotics wa ṣe iranlọwọ fun awọn ẹgbẹ lati mu awọn iṣẹ ṣiṣẹ, dinku akitiyan afọwọṣe, ati ilọsiwaju iṣelọpọ kọja awọn ile-iṣẹ lọpọlọpọ. Lati adaṣe ilana ati awọn atupale asọtẹlẹ si awọn roboti ọlọgbọn ati awọn eto oye, a fi awọn imọ-ẹrọ imotuntun ti o mu imudara ṣiṣẹ, ṣe idagbasoke idagbasoke, ati atilẹyin iyipada oni-nọmba.",
+      "section2Heading": "Ibi ti oye pade igbese",
+      "section2Text": "Gbogbo ibaraenisepo, ipinnu, ati gbigbe ni agbara nipasẹ eto asopọ kan ṣoṣo - titan data sinu awọn abajade ni akoko gidi.",
+      "footerTag": "Imọ-ẹrọ imotuntun fun iyipada oni-nọmba"
+    },
+    "informationReporting": {
+      "brand": "Idawọlẹ Data Platform",
+      "heroTitle": "Alaye & Awọn ọna ṣiṣe ijabọ",
+      "heroSubtitle": "Orisun otitọ kan fun gbogbo ẹka - ti a ṣe lati yi data iṣẹ ṣiṣe aise sinu awọn ipinnu iṣowo rẹ le ṣiṣẹ lori loni.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "TẸTẸ",
+      "statusArchived": "AGBEGBE",
+      "statusPending": "NI isunmọtosi",
+      "metricUptime": "Akoko Eto",
+      "metricSessions": "Awọn akoko ti nṣiṣe lọwọ",
+      "metricReportsPerDay": "Iroyin / Day",
+      "metricEvents": "Daily Ingested Events",
+      "metricReports": "Iṣeto Iroyin",
+      "metricLatency": "API Lairi",
+      "unifiedPlatform": "Platform isokan",
+      "analyticsSuite": "Suite atupale",
+      "reportingConsole": "Console Iroyin",
+      "businessOutcome": "Abajade Iṣowo",
+      "section1Heading": "Eto aarin kan fun gbogbo metric ti o ṣe pataki",
+      "section1P1": "Alaye & Awọn ọna Ijabọ jẹ awọn solusan iṣowo pataki ti o fun awọn ajo laaye lati gba, ṣakoso, ati yi data pada si awọn oye ti o nilari. Awọn ọna ṣiṣe wọnyi ṣepọ alaye lati awọn ẹka lọpọlọpọ, ni idaniloju deede, deede, ati iraye si akoko gidi si data iṣowo to ṣe pataki. Nipa pipese pẹpẹ ti aarin fun iṣakoso alaye, awọn ajo le mu ilọsiwaju hihan ṣiṣẹ, mu ṣiṣan ṣiṣan ṣiṣẹ, ati ṣiṣe ipinnu ilana atilẹyin kọja gbogbo awọn ipele ti ile-iṣẹ.",
+      "section1P2": "Awọn ọna ṣiṣe wọnyi lo ijabọ adaṣe adaṣe, awọn atupale, ati dasibodu lati tọpa iṣẹ ṣiṣe, ṣe atẹle awọn metiriki bọtini, ati ṣe awọn ijabọ akoko gidi. Nipa idinku igbiyanju afọwọṣe ati ilọsiwaju deede data, awọn iṣowo le ṣe yiyara ati awọn ipinnu imunadoko diẹ sii.",
+      "section2Heading": "Ti a ṣe fun hihan, ibamu, ati iwọn",
+      "section2Text": "Pẹlu imudara hihan, ibamu, ati ifowosowopo, Alaye & Awọn ọna ṣiṣe ijabọ jẹ ki awọn ajo ṣe ilọsiwaju awọn ilana, mu iṣelọpọ pọ si, ati mu idagbasoke iṣowo alagbero ni agbegbe ifigagbaga.",
+      "ctaHeading": "Fun gbogbo ẹgbẹ kanna aworan akoko gidi ti iṣowo naa.",
+      "ctaText": "Wo bii Awọn ọna ṣiṣe Data Nesusi ṣe le ṣe isọdọkan ijabọ rẹ sinu iru ẹrọ oloye kan.",
+      "footerCopyright": "© 2026 Nesusi Data Systems. Gbogbo awọn ẹtọ wa ni ipamọ.",
+      "navOverview": "Akopọ",
+      "navCapabilities": "Awọn agbara",
+      "navImpact": "Ipa",
+      "navContact": "Olubasọrọ"
+    },
+    "managedServices": {
+      "subtitle": "Awọn iṣẹ iṣakoso ni kikun fun iṣowo rẹ"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Awọn ohun elo Iṣowo Imudaju fun Idawọlẹ-Iwakọ Data",
+      "excerpt": "Bawo ni faaji ohun elo ode oni ati data ti o sopọ le ṣe ilọsiwaju ṣiṣe ṣiṣe, iwọn ati hihan iṣowo.",
+      "tag": "Iyipada Iṣowo",
+      "category": "Iyipada OwO",
+      "summary": "Ohun elo ode oni ati ipilẹ data le ṣe iranlọwọ fun awọn ile-iṣẹ lati mu ilọsiwaju ṣiṣe ṣiṣẹ, so awọn eto iṣowo pọ ati ṣẹda hihan to dara julọ kọja awọn iṣẹ ṣiṣe wọn."
+    },
+    "artificial-intelligence": {
+      "title": "Bawo ni AI Ṣe Tunṣe Awọn ohun elo Idawọlẹ",
+      "excerpt": "Ṣewadii bii adaṣe ti oye, awọn atukọ AI ati oye asọtẹlẹ ti n di apakan ti awọn iṣowo ohun elo ile-iṣẹ gbarale lojoojumọ.",
+      "tag": "Imọye Oríkĕ",
+      "category": "OTO OLOGBON",
+      "summary": "Ṣawari bii adaṣe ti oye, awọn atukọ AI ati oye asọtẹlẹ ti n yi sọfitiwia ile-iṣẹ lojoojumọ pada si adaṣe, awọn iru ẹrọ amuṣiṣẹ."
+    },
+    "modern-erp": {
+      "title": "Imudara Iyipada Iṣowo pẹlu ERP Modern",
+      "excerpt": "Ṣawari bi awọn iru ẹrọ ERP ode oni ṣe so iṣuna, rira, pq ipese ati awọn iṣẹ iṣowo nipasẹ ipilẹ oni-nọmba kan ti iṣọkan.",
+      "tag": "ERP ode oni",
+      "category": "ERP ode oni",
+      "summary": "Syeed ERP ode oni so iṣuna, rira, pq ipese, ati awọn iṣẹ iṣowo sinu iṣọkan kan, awoṣe iṣẹ ṣiṣe akoko gidi."
+    },
+    "cybersecurity": {
+      "title": "Ilé Resilience Cyber ni Ile-iṣẹ ti o Sopọ",
+      "excerpt": "Ṣawari bi awọn ajo ṣe le fun aabo ni okun, daabobo awọn eto to ṣe pataki ati murasilẹ fun awọn irokeke kọja awọn agbegbe ti o ni asopọ pọ si.",
+      "tag": "Cybersecurity",
+      "category": "CYBERSECURITY",
+      "summary": "Bi awọn ile-iṣẹ ṣepọpọ awọn ọna ṣiṣe awọsanma diẹ sii, APIs, ati awọn ilolupo ẹlẹgbẹ ẹlẹgbẹ, imuduro cyber ṣe idaniloju awọn iṣẹ ṣiṣe pataki-pataki duro de awọn irokeke ode oni."
+    },
+    "cloud-modernization": {
+      "title": "Awọn ohun elo Imudaniloju Legacy fun Awọsanma naa",
+      "excerpt": "Ṣewadii ọna ti o wulo lati ṣe iṣiro, isọdọtun ati gbigbe awọn ohun elo ingan si ọna iwọn, awọn faaji awọsanma to ni aabo.",
+      "tag": "Awọsanma & Igbalaju",
+      "category": "AWURE & OJUMO",
+      "summary": "Ilana ọna-ọna iṣe adaṣe lati ṣe ayẹwo, atunṣe, ati ṣikiri awọn ọna ṣiṣe ile-iṣẹ monolithic si rirọ, awọn faaji awọsanma ti o ṣetọju."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "Iyipada OwO",
+      "title": "Awọn ohun elo Iṣowo Imudaju fun Idawọlẹ-Iwakọ Data",
+      "subtitle": "Ohun elo ode oni ati ipilẹ data le ṣe iranlọwọ fun awọn ile-iṣẹ lati mu ilọsiwaju ṣiṣe ṣiṣẹ, sopọ awọn eto iṣowo ati ṣẹda hihan to dara julọ kọja awọn iṣẹ wọn.",
+      "date": "Oṣu Kẹsan 2026",
+      "readTime": "Iṣẹju 7 ka",
+      "imageCaption": "Irisi Imọ-ẹrọ Idawọlẹ — Ohun elo faaji & Data ti a sopọ",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Awọn ohun elo Iṣowo",
+          "desc": "Ipilẹ ti o yatọ CRM, ERP, ati awọn irinṣẹ ẹka ti nṣiṣẹ ni silos."
+        },
+        {
+          "title": "Awọn orisun data lọpọlọpọ",
+          "desc": "Awọn tabili iṣẹ ṣiṣe Pipin, awọn iyọkuro CSV, ati awọn eto ad-hoc."
+        },
+        {
+          "title": "Awọn aaye data ti a ge asopọ",
+          "desc": "Iyasọtọ lori ile-aye ati awọn ibi ipamọ data awọsanma aiṣiṣẹpọ."
+        },
+        {
+          "title": "Awọn ijabọ & Awọn olumulo Iṣowo",
+          "desc": "Awọn ilaja afọwọṣe, awọn iwe kaunti ikọlura, ati ijabọ idaduro."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Awọn ohun elo Iṣowo",
+          "desc": "Awọn iru ẹrọ iṣiṣẹ Core ati awọn atọkun idahun ode oni."
+        },
+        {
+          "title": "API / Layer Integration",
+          "desc": "Ni aabo, ẹnu-ọna API ti o da lori iṣẹlẹ ti n sopọ awọn ṣiṣan iṣẹ ile-iṣẹ."
+        },
+        {
+          "title": "Awọn iṣẹ data",
+          "desc": "Awọn awoṣe data titunto si iṣọkan, awọn opo gigun ti epo, ati awọn ẹrọ ibi ipamọ iṣapeye."
+        },
+        {
+          "title": "Atupale & Iroyin",
+          "desc": "telemetry akoko gidi, awọn awoṣe atunmọ, ati ijabọ adaṣe."
+        },
+        {
+          "title": "Awọn oluṣe ipinnu Iṣowo",
+          "desc": "Awọn dasibodu iṣẹ ṣiṣe Live ti n pese hihan alaṣẹ iṣọkan."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Awọn ohun elo Idawọlẹ",
+          "purpose": "Isakoso ilana iṣowo"
+        },
+        {
+          "area": "APIs",
+          "purpose": "Isopọpọ eto"
+        },
+        {
+          "area": "Awọn aaye data",
+          "purpose": "Awọn data iṣowo iṣeto"
+        },
+        {
+          "area": "Data Integration",
+          "purpose": "Nsopọ awọn orisun pupọ"
+        },
+        {
+          "area": "Atupale",
+          "purpose": "Awọn imọran iṣowo"
+        },
+        {
+          "area": "Awọsanma Infrastructure",
+          "purpose": "Scalability ati irọrun"
+        },
+        {
+          "area": "Abojuto",
+          "purpose": "Igbẹkẹle ati iṣẹ"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Imudara hihan iṣiṣẹ kọja awọn ẹya iṣẹ-agbelebu",
+        "Aitasera data to dara julọ ati orisun kan ti otitọ ile-iṣẹ",
+        "Igbiyanju ijabọ afọwọṣe idinku ati akojọpọ data adaṣe",
+        "Imudara iṣẹ-ṣiṣe ohun elo ati idinku idinku",
+        "Isopọpọ eto ti o rọrun nipasẹ idiwon, awọn API to ni aabo",
+        "Agbara iwọn nla lati ṣe atilẹyin idagbasoke Organic ati ohun-ini",
+        "Ipilẹ to dara julọ fun isọdọtun ọjọ iwaju ati isọdọmọ oye"
+      ],
+      "keyPerspectivePoints": [
+        "Loye awọn ilana iṣowo ati awọn ṣiṣan iṣẹ ṣiṣe gidi",
+        "Awọn ọna asopọ asopọ nipasẹ awọn iṣedede isọpọ ti o gbẹkẹle",
+        "Imudara didara data, iṣakoso, ati awọn awoṣe data titunto si",
+        "Awọn ohun elo imudara lai ṣe aibalẹ awọn iṣẹ ṣiṣe lojoojumọ",
+        "Ṣiṣẹda faaji iwọn ti o baamu fun idagbasoke rirọ",
+        "Ṣiṣe hihan iṣowo to dara julọ fun ṣiṣe ipinnu ṣiṣe"
+      ],
+      "sec1Eyebrow": "IPENIJA OWO",
+      "sec1Heading": "Lilọ kiri Idiju ni Ile-iṣẹ Idagbasoke kan",
+      "sec1Subtext": "Gẹgẹbi iwọn awọn iṣowo, awọn ilolupo imọ-ẹrọ laiseaniani faagun. Ohun ti o bẹrẹ bi awọn ipinnu idojukọ fun awọn apa kọọkan le yipada si oju opo wẹẹbu ti o ni ibatan ti awọn eto aibikita.",
+      "sec2Eyebrow": "IDAGBASOKE ETO",
+      "sec2Heading": "Ilẹ-ilẹ Imọ-ẹrọ Idiju",
+      "sec2Subtext": "Nigbati awọn ohun elo iṣowo, awọn apoti isura data data, ati awọn ọna ṣiṣe ṣiṣẹ ni ominira, ṣiṣan alaye di pipin. Loye pipin yii jẹ igbesẹ akọkọ to ṣe pataki.",
+      "sec3Eyebrow": "Awoṣe ti a ti sopọ",
+      "sec3Heading": "Ohun elo Modern Architecture",
+      "sec3Subtext": "Awọn ile-iṣẹ n lọ si idawọle-iṣẹlẹ, faaji akọkọ API-akọkọ nibiti data nṣan ni igbẹkẹle kọja awọn iru ẹrọ ipilẹ ati de ọdọ awọn oluṣe ipinnu ni akoko gidi.",
+      "sec4Eyebrow": "Oye & VISIBILITY",
+      "sec4Heading": "Data ti a ti sopọ & Awọn atupale",
+      "sec4Subtext": "Nigbati awọn ohun elo iṣowo ba sọrọ lainidi, data dẹkun lati jẹ nipasẹ ọja ijabọ ati di awakọ akọkọ ti agility iṣẹ.",
+      "sec5Eyebrow": "faaji BLUEPRINT",
+      "sec5Heading": "Technology Foundation",
+      "sec5Subtext": "Wiwo okeerẹ ti awọn agbegbe imọ-ẹrọ pataki ti o ṣajọ igbalode, ipilẹ ile-iṣẹ ti iwọn.",
+      "sec6Eyebrow": "IYE DIYE",
+      "sec6Heading": "Ipa iṣowo",
+      "sec6Subtext": "Imudaniloju ohun elo faaji ati sisopọ data pipin n pese awọn ilọsiwaju iṣẹ ṣiṣe ojulowo kọja ajo naa.",
+      "ctaHeading": "Ṣetan lati Mu Ayika Imọ-ẹrọ Rẹ di olaju?",
+      "ctaDescription": "Ṣewadii bii faaji ohun elo ode oni, data ti o sopọ ati imọ-ẹrọ iwọn le ṣe iranlọwọ fun awọn ajo lati mu ilọsiwaju ṣiṣẹ ati murasilẹ fun idagbasoke iwaju.",
+      "ctaButton": "Soro si Awọn amoye Wa",
+      "sec1P1": "Ni agbegbe ile-iṣẹ aṣoju kan, idagbasoke nigbagbogbo n ṣafihan ọpọlọpọ awọn iran ti sọfitiwia. Isuna, pq ipese, iṣẹ alabara, ati awọn iṣẹ aaye nigbagbogbo ṣiṣẹ lori awọn akopọ sọfitiwia lọtọ ti o gba tabi ti a ṣe ni awọn akoko oriṣiriṣi. Ni awọn ọdun ti itankalẹ iṣiṣẹ, awọn ọna ṣiṣe wọnyi dagbasoke awọn ọna kika data tiwọn, awọn iwọn imudojuiwọn, ati awọn isọpọ quirks.",
+      "sec1P2": "Ijakadi naa farahan kọja ile-iṣẹ nipasẹ awọn igo iṣiṣẹ ti o wọpọ:",
+      "sec1List": [
+        {
+          "bold": "Awọn ohun elo iṣowo ti ge asopọ lọpọlọpọ",
+          "text": "ti o nilo titẹsi data ẹda-iwe ati itọkasi-agbelebu afọwọṣe."
+        },
+        {
+          "bold": "Awọn apoti isura data ti a ti ge asopọ",
+          "text": "nṣiṣẹ laisi iṣakoso aarin tabi awọn igbasilẹ titunto si iṣọkan."
+        },
+        {
+          "bold": "Ijabọ pẹlu ọwọ",
+          "text": ", nibiti awọn ẹgbẹ atupale ti lo awọn ọjọ titọ papọ awọn ọja okeere ju ṣiṣafihan awọn oye."
+        },
+        {
+          "bold": "Awọn aiṣedeede data",
+          "text": "kọja awọn ẹka, ṣiṣẹda awọn idahun ti o fi ori gbarawọn si awọn ibeere iṣẹ ṣiṣe ipilẹ."
+        },
+        {
+          "bold": "Itọju ohun elo lori oke ati awọn opin iwọn",
+          "text": ", bi brittle julọ ojuami-si-ojuami awọn isopọ Ijakadi lati se atileyin dagba idunadura iwọn didun."
+        }
+      ],
+      "sec1P3": "Ṣiṣakoṣo awọn italaya wọnyi nilo wiwo ala-ilẹ imọ-ẹrọ kii ṣe bi akojọpọ awọn rira sọfitiwia ti o ya sọtọ, ṣugbọn bi ipilẹ-iṣẹ iṣowo ti o ni ibatan ti a ṣe apẹrẹ lati ṣe atilẹyin imudara ilana.",
+      "legacyLandscapeBadge": "Ipilẹ Ipilẹ Legacy",
+      "legacyLandscapeTitle": "Sisan Alaye Pipin",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Data Silos",
+          "desc": "Onibara to ṣe pataki, owo, ati data akojo oja wa ni idẹkùn ni awọn iru ẹrọ ẹka, idilọwọ wiwo iṣọkan kan ti awọn iṣẹ iṣowo."
+        },
+        {
+          "num": "02",
+          "title": "Awọn ela Iṣọkan",
+          "desc": "Awọn isopọ-ojuami-si-ojuami ati awọn iyọkuro ipele alẹ ṣẹda lairi, awọn oṣuwọn ikuna giga, ati itọju idiyele idiyele kọja awọn ẹgbẹ iṣiṣẹ."
+        },
+        {
+          "num": "03",
+          "title": "Alaye Idaduro",
+          "desc": "Nigbati awọn alaṣẹ gbọdọ duro awọn ọjọ fun ilaja opin oṣu lati ni oye iṣẹ ṣiṣe, ṣiṣe ipinnu jẹ ifaseyin dipo asọtẹlẹ."
+        }
+      ],
+      "modernArchitectureBadge": "Ifojusi Architecture",
+      "modernArchitectureTitle": "Awoṣe Ohun elo Idawọlẹ ti Asopọmọra",
+      "sec3P1": "Itumọ ohun elo ode oni rọpo awọn asopọ-si-ojuami brittle pẹlu ohun agile, ipilẹ ti a ti pin. Nipa didasilẹ API ti o lagbara ati Layer Integration, awọn ọna ṣiṣe ṣe ajọṣepọ nipasẹ iṣakoso, awọn aaye ipari to ni aabo lakoko titọju idaṣe ti awọn ẹka iṣowo kọọkan.",
+      "sec3P2": "Awọn agbara imọ-ẹrọ bọtini ti iyipada ayaworan yii pẹlu:",
+      "sec3List": [
+        {
+          "bold": "Ohun elo imulaju:",
+          "text": "Itupalẹ ọgbọn iṣowo mojuto sinu awọn iṣẹ apọju iwọn."
+        },
+        {
+          "bold": "Isopọpọ API:",
+          "text": "Ṣiṣeto idiwon, awọn atọkun iwe aṣẹ fun inu ati ibaraenisepo alabaṣepọ."
+        },
+        {
+          "bold": "Iṣọkan data & iṣapeye data:",
+          "text": "Isokan awọn opo gigun ti data iṣiṣẹ pẹlu iṣapeye ibeere ṣiṣe-giga."
+        },
+        {
+          "bold": "Wiwa & aabo:",
+          "text": "Ṣiṣe imuse telemetry aarin, awọn itọpa iṣayẹwo, ati awọn iṣakoso iraye si orisun ipa lori gbogbo awọn iṣẹ."
+        }
+      ],
+      "sec4P1": "Awọn ipilẹ data idapọmọra ṣe iyipada bi adari ati awọn ẹgbẹ iṣiṣẹ ṣe nlo pẹlu alaye. Dipo ki o gbẹkẹle awọn ijabọ ifẹhinti ti o fihan ohun ti o ṣẹlẹ ni awọn ọsẹ sẹyin, awọn ajọ n gba telemetry iṣiṣẹ laaye kọja awọn ẹka iṣowo.",
+      "sec4P2": "Data ti o sopọ ati awọn atupale ṣe atilẹyin awọn abajade iṣowo alagbero nipasẹ:",
+      "sec4List": [
+        {
+          "bold": "Hihan isẹ:",
+          "text": "Itumọ ti o tẹsiwaju kọja awọn tita, akojo oja, imuse, ati iṣẹ ṣiṣe inawo."
+        },
+        {
+          "bold": "Awọn iṣiro ijabọ yiyara:",
+          "text": "Ikojọpọ data eletan ti o yọkuro awọn iwe kaunti afọwọṣe atunwi."
+        },
+        {
+          "bold": "Alaye ti o ni ibamu:",
+          "text": "Awọn itumọ ẹyọkan fun awọn metiriki bii ala, iye igbesi aye alabara, ati iyara asiwaju."
+        },
+        {
+          "bold": "Awọn oye iṣowo to dara julọ:",
+          "text": "Wiwa ilana asọtẹlẹ ti o da awọn eewu ati awọn aye silẹ siwaju akoko."
+        },
+        {
+          "bold": "Ilọsiwaju ṣiṣe ipinnu:",
+          "text": "Iṣe adari igbẹkẹle ti o ni atilẹyin nipasẹ laini data ti a fọwọsi ati akoyawo."
+        }
+      ],
+      "keyPerspectiveEyebrow": "IRISI ITOJU",
+      "keyPerspectiveTitle": "Isọdọtun Ju Iyipada Software lọ",
+      "keyPerspectiveLead": "Awọn ohun elo iṣowo dilaju kii ṣe rọpo sọfitiwia atijọ pẹlu awọn irinṣẹ tuntun. O jẹ titete imomose ti imọ-ẹrọ pẹlu bii iṣowo naa ṣe n ṣiṣẹ, awọn iwọn, ati fifun iye."
+    },
+    "artificialIntelligence": {
+      "category": "OTO OLOGBON",
+      "title": "Bawo ni AI Ṣe Tunṣe Awọn ohun elo Idawọlẹ",
+      "subtitle": "Ṣewadii bii adaṣe ti oye, awọn atukọ AI ati oye asọtẹlẹ ti di apakan ti awọn iṣowo ohun elo ile-iṣẹ gbarale lojoojumọ.",
+      "date": "Oṣu Kẹsan 2026",
+      "readTime": "6 min ka",
+      "imageCaption": "Irisi Imọ-ẹrọ Idawọlẹ — Imọye Oríkĕ & Awọn eto Idawọlẹ",
+      "aiUseCases": [
+        {
+          "title": "Asọtẹlẹ pq Ipese",
+          "desc": "Asọtẹlẹ awọn spikes ibeere ati awọn idaduro eekaderi lati telemetry olupese olupese itan."
+        },
+        {
+          "title": "Ṣiṣayẹwo risiti adaṣe",
+          "desc": "Yiyọ awọn nkan laini jade ati ibaramu lodi si awọn aṣẹ rira pẹlu titẹsi eniyan odo."
+        },
+        {
+          "title": "Awọn tabili iṣẹ oye",
+          "desc": "Iyatọ ati ipinnu adaṣe ti Tier-1 oṣiṣẹ IT ati awọn ibeere HR."
+        },
+        {
+          "title": "Idena Onibara Churn",
+          "desc": "Iṣjọpọ ihuwasi ti n ṣe idanimọ awọn ifihan agbara edekoyede ni kutukutu fun ijade ti nṣiṣe lọwọ."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Awọn ipinnu iṣiṣẹ yiyara ti o ni idari nipasẹ awọn awoṣe asọtẹlẹ akoko gidi",
+        "Idinku ni sisẹ data atunwi ati awọn ilaja afọwọṣe",
+        "Imudaniloju oṣiṣẹ ti o ga julọ pẹlu iranlọwọ onitumọ ọrọ-ọrọ",
+        "Imudara itẹlọrun alabara nipasẹ awọn iriri ti ara ẹni-gidi",
+        "Ilana ilọsiwaju ti ara ẹni ti o da lori telemetry gidi",
+        "Titọpa ifaramọ ti o ni eewu nipasẹ iṣayẹwo-iwọle adaṣe adaṣe"
+      ],
+      "governancePoints": [
+        "Wiwọle ti o da lori ipa to muna ni idaniloju pe awọn awoṣe AI ko jo data ifura",
+        "Awọn itọpa ironu ti o han gbangba ti n gba atunyẹwo eniyan laaye lori awọn iṣe ti o ni idiyele giga",
+        "Agbeyewo awoṣe ti o tẹsiwaju lati ṣọra lodisi ihalucination ati abosi",
+        "Awọn iṣedede iṣedede data to muna ni ibamu pẹlu GDPR, SOC 2, ati HIPAA",
+        "Awọn ọna igbega eniyan-ni-ni-lupu fun awọn ipo eti aidaniloju"
+      ],
+      "sec1Eyebrow": "Iyipada si oye ONIlU",
+      "sec1Heading": "AI ninu Awọn ohun elo Idawọlẹ",
+      "sec1Subtext": "Oye itetisi atọwọdọwọ n yipada lati awọn iṣẹ akanṣe ẹgbẹ idanwo sinu awọn ohun elo iṣiṣẹ pataki ti awọn ile-iṣẹ gbarale lojoojumọ.",
+      "sec2Eyebrow": "Automation AT SALE",
+      "sec2Heading": "Automation oye",
+      "sec2Subtext": "Gbigbe kọja awọn iwe afọwọkọ ti o da lori ofin aṣa si awọn ṣiṣan iṣẹ oye ti o loye akoonu ti a ko ṣeto, ni ibamu si awọn iyatọ, ati mu awọn ilana ṣiṣẹ ni agbara.",
+      "sec3Eyebrow": "IRANLỌWỌ NIPA",
+      "sec3Heading": "Idawọlẹ AI Copilots",
+      "sec3Subtext": "Ti o ni ipilẹ ni imọ eto ati aabo ile-iṣẹ, awọn oluranlọwọ AI ṣe bi awọn alabaṣiṣẹpọ amọja kọja awọn iṣan-iṣẹ iṣowo ojoojumọ.",
+      "sec4Eyebrow": "IDI-IWAJU",
+      "sec4Heading": "Oye Asọtẹlẹ",
+      "sec4Subtext": "Yiyipada awọn akọọlẹ ile-iṣẹ itan-akọọlẹ ati awọn kikọ sii iṣẹ ṣiṣe gidi-akoko sinu oju-iwoye iṣẹ.",
+      "sec5Eyebrow": "Awọn ohun elo AYE GIDI",
+      "sec5Heading": "Idawọlẹ AI Awọn ọran Lilo",
+      "sec5Subtext": "Awọn ọna iṣe adaṣe ti n ṣakoso awọn ẹgbẹ n lo oye atọwọda kọja awọn iṣẹ iṣowo pataki.",
+      "sec6Eyebrow": "IYE ITOJU",
+      "sec6Heading": "Awọn anfani Iṣowo",
+      "sec6Subtext": "Nigbati a ba ṣe imuse ni ironu pẹlu data ile-iṣẹ ijọba ti iṣakoso, AI ṣii awọn anfani agbara idaran.",
+      "ctaHeading": "Ṣawari Awọn aye AI fun Iṣowo Rẹ",
+      "ctaDescription": "Ṣe afẹri bii adaṣe ti oye, awọn atukọ ile-iṣẹ ati awọn awoṣe asọtẹlẹ le ṣii ṣiṣe ṣiṣe ṣiṣe kọja awọn eto ipilẹ rẹ.",
+      "ctaButton": "Sọrọ si Awọn amoye Wa",
+      "sec1P1": "Fun awọn ọdun, oye itetisi atọwọda ile-iṣẹ ni a tọju bi agbara ita: awoṣe ti ikẹkọ ni ipinya, iṣafihan apoti iyanrin, tabi iwiregbe ti o ya sọtọ ti o wa nipasẹ ọna abawọle lọtọ. Loni, ilana ti yipada ni ipilẹṣẹ. Ile-iṣẹ ti o ni ipa giga AI ti wa ni ifibọ taara inu awọn eto igbasilẹ — awọn ERPs, CRMs, awọn iru ẹrọ olu-eniyan, ati awọn ẹrọ pq ipese nibiti iṣowo gidi ba waye.",
+      "sec1P2": "Nigbati oye ba ṣiṣẹ ninu eto igbasilẹ, o jogun awọn aala aabo ti iṣeto ti ajo, awọn awoṣe data, ati ọgbọn iṣowo. Ko ṣe ipilẹṣẹ awọn idahun jeneriki nikan; o ṣiṣẹ lori awọn aṣẹ ifiwe, ṣe itumọ awọn tikẹti atilẹyin ṣiṣi, ṣe atunṣe awọn risiti olupese, ati ṣe iranlọwọ fun awọn oṣiṣẹ laarin awọn atọkun gangan ti wọn lọ kiri lojoojumọ.",
+      "sec1P3": "Iyipada yii n gbe sọfitiwia ile-iṣẹ lati awọn apoti isura infomesonu palolo ti o duro de awọn bọtini bọtini eniyan sinu awọn iru ẹrọ amuṣiṣẹ ti o nireti awọn iwulo, ṣe adaṣe awọn igbesẹ, ati awọn iṣeduro oju akoko.",
+      "sec2P1": "Automation Robotic Process Automation Traditional (RPA) tayọ ni ipinnu ipinnu, iboju ti atunwi. Bibẹẹkọ, ofin lile ṣeto fifọ nigbakugba ti fọọmu kan ba yipada, iṣeto iwe airotẹlẹ de, tabi imukuro kan waye. Adaaṣe adaṣe ni oye ṣe afara pipin yii nipa apapọ ero inu oye pẹlu ipaniyan iṣowo:",
+      "sec2List": [
+        {
+          "bold": "Adaaṣiṣẹ ṣiṣiṣẹsẹhin:",
+          "text": "Orchestrating eka agbelebu-eka mosi, afisona awọn iṣẹ-ṣiṣe da lori amojuto ati itan ipinnu ona."
+        },
+        {
+          "bold": "Sisẹ iwe-aṣẹ oye:",
+          "text": "Gbigba awọn PDFs ti ko ni eto, awọn imeeli, awọn ifihan gbigbe, ati awọn adehun, yi pada wọn sinu awọn iṣowo data ti a ṣeto."
+        },
+        {
+          "bold": "Adaaṣe iṣẹ-ṣiṣe oye:",
+          "text": "Ṣiṣẹda awọn afọwọsi iṣẹ-igbesẹ lọpọlọpọ-gẹgẹbi awọn aṣẹ rira ibaramu lodi si awọn owo-owo ati awọn alaye banki."
+        },
+        {
+          "bold": "Imudara ilana:",
+          "text": "Ṣiṣayẹwo nigbagbogbo awọn ilana ilana lati ṣe idanimọ awọn igo akoko-ipin ati iṣeduro awọn isọdọtun iṣan-iṣẹ ifọkansi."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Iwadi Alaye",
+          "desc": "Igbapada Semantic kọja awọn ipilẹ imọ pinpin, awọn ilana intranet, awọn alaye ọja, ati awọn ipinnu tikẹti itan laisi ṣiro ọrọ-ọrọ."
+        },
+        {
+          "icon": "📝",
+          "title": "Akopọ iwe",
+          "desc": "Distillation lesekese ti awọn RFP gigun, awọn adehun ataja, awọn alaye imọ-ẹrọ, ati awọn atunṣe ofin sinu awọn kukuru alaṣẹ ti o ṣiṣẹ ati awọn atokọ eewu."
+        },
+        {
+          "icon": "✨",
+          "title": "Iran Akoonu",
+          "desc": "Ṣiṣe iranlọwọ ti awọn igbero alabara, iwe iṣiṣẹ, awọn ilana ṣiṣe boṣewa (SOPs), ati awọn imudojuiwọn alabara ti o ni idiwọn ni ibamu pẹlu awọn iṣedede ami iyasọtọ."
+        },
+        {
+          "icon": "📈",
+          "title": "Itupalẹ data",
+          "desc": "Titumọ awọn ibeere ibaraẹnisọrọ sinu awọn ibeere itupalẹ ti o nipọn, ti ipilẹṣẹ lori-fifly awọn akopọ ati ṣe afihan awọn itusilẹ to ṣe pataki fun adari."
+        },
+        {
+          "icon": "🔄",
+          "title": "Awọn iṣan-iṣẹ iṣowo",
+          "desc": "Bibẹrẹ awọn iṣowo taara lati awọn itọsi iwiregbe—gẹgẹbi ṣiṣe eto awọn orisun, ṣiṣẹda awọn tikẹti, awọn igbasilẹ imudojuiwọn, tabi fifisilẹ awọn ibeere rira."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Wiwọle-Ilẹ-ipa",
+          "desc": "Aridaju pe awọn idahun olupilẹṣẹ bọwọ muna awọn ipele igbanilaaye olumulo, titọju awọn inawo aṣiri, awọn faili HR, ati aabo ohun-ini ọgbọn."
+        }
+      ],
+      "sec4P1": "Lakoko ti awọn awoṣe ipilẹṣẹ ti tayọ ni oye ati sisọpọ ede, oye asọtẹlẹ dojukọ awọn ilana mathematiki ti o farapamọ laarin awọn ipilẹ data ile-iṣẹ iṣeto. Awọn awoṣe asọtẹlẹ ti a fi sinu agbara fun awọn ajo lati nireti awọn idiwọ iṣiṣẹ ṣaaju ki wọn ba awọn iṣẹ ṣiṣẹ:",
+      "sec4List": [
+        {
+          "bold": "Asọtẹlẹ iṣiṣẹ:",
+          "text": "Iṣasọtẹlẹ awọn aṣa owo-wiwọle, iyara akojo oja, ati awọn ibeere awọn orisun nipa ṣiṣiṣẹpọ awọn afihan akoko pẹlu iyara opo gigun ti epo-akoko gidi."
+        },
+        {
+          "bold": "Awọn atupale asọtẹlẹ:",
+          "text": "Pinpointing awọn ewu churn onibara, awọn akoko ibajẹ itọju, ati awọn idaduro pq ipese lakoko ti akoko tun wa lati laja."
+        },
+        {
+          "bold": "Idanimọ ewu:",
+          "text": "Ifilọlẹ awọn asemase ninu awọn iṣowo owo, awọn iwe aṣẹ ibamu, ati awọn ilana rira ataja ṣaaju ki wọn to pọ si."
+        },
+        {
+          "bold": "Asọtẹlẹ ibeere:",
+          "text": "Isọpọ awọn asọtẹlẹ tita pẹlu agbara iṣelọpọ ati awọn ipele iṣura ile itaja lati daabobo olu-iṣẹ."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ÌJỌBA ÌṢỌ́WỌ́",
+      "keyPerspectiveTitle": "Igbẹkẹle, Abojuto & Awọn iṣọṣọ",
+      "keyPerspectiveLead": "AI nikan ni igbẹkẹle bi ipilẹ data ti o wa labẹ rẹ ati iṣakoso ti o yika. Isọdọmọ ile-iṣẹ alagbero nilo ibawi ayaworan ti o mọọmọ:"
+    },
+    "modernErp": {
+      "category": "ERP ode oni",
+      "title": "Imudara Iyipada Iṣowo pẹlu ERP Modern",
+      "subtitle": "Ṣawari bi awọn iru ẹrọ ERP ode oni ṣe so iṣuna, rira, pq ipese ati awọn iṣẹ iṣowo nipasẹ ipilẹ oni-nọmba kan ti iṣọkan.",
+      "date": "Oṣu Kẹjọ ọdun 2026",
+      "readTime": "Iṣẹju 6 ka",
+      "imageCaption": "Irisi Imọ-ẹrọ Idawọlẹ — ERP & Awọn iṣẹ Iṣowo ti a ti sopọ",
+      "connectedFunctions": [
+        {
+          "title": "Isakoso owo",
+          "desc": "Awọn imudojuiwọn aṣiwaju akoko gidi, idamọ owo-wiwọle adaṣe adaṣe, ati ilaja owo-pupọ ni kiakia."
+        },
+        {
+          "title": "Pq Ipese & Awọn eekaderi",
+          "desc": "Irisi akojo oja ipari-si-opin, iṣapeye ile-itaja, ati telemetry iṣẹ olupese."
+        },
+        {
+          "title": "Olu-eniyan & Agbara Iṣẹ",
+          "desc": "Awọn ọna abawọle oṣiṣẹ ti ara ẹni, awọn ṣiṣiṣẹ isanwo adaṣe adaṣe, ati igbero igbesi aye talenti iṣọpọ."
+        },
+        {
+          "title": "Igbankan & Orisun",
+          "desc": "Awọn ifọwọsi rira adaṣe, ibamu adehun ataja, ati awọn itupalẹ inawo agbara."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Awọsanma-Ibilẹ Architecture",
+          "desc": "Iṣiro iṣiro rirọ laisi awọn amayederun ori-ile tabi titiipa ẹya idalọwọduro."
+        },
+        {
+          "title": "Ṣiṣayẹwo ilolupo API",
+          "desc": "Awọn asopọ ti a ti kọ tẹlẹ ti n muuṣiṣẹpọ data ọna-ọna meji alailabo pẹlu awọn microservices aṣa ati awọn suites CRM."
+        },
+        {
+          "title": "Awọn Itupalẹ ti a fi sinu",
+          "desc": "Dasibodu dasibodu taara lati awọn iwe iwọntunwọnsi ipele giga sinu awọn akọọlẹ idunadura kọọkan."
+        },
+        {
+          "title": "Awọn okunfa Sisẹ Ṣiṣẹ Aifọwọyi",
+          "desc": "Iṣẹlẹ-iwakọ iṣẹlẹ nfa ṣiṣe awọn iṣẹ ṣiṣe agbekọja boṣewa ni adase."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Orisun kan ṣoṣo ti otitọ imukuro awọn ijabọ ẹka ti o tako",
+        "Idinku nla ni opin oṣu-oṣu ati awọn iyipo isunmọ-ipari mẹẹdogun",
+        "Iṣakojọpọ akoko gidi ati hihan eekaderi idinku awọn ọja iṣura",
+        "Itọju IT ti o dinku nipasẹ awọn imudojuiwọn abinibi-awọsanma modular",
+        "Titọpa ifaramọ iṣọkan kọja awọn sakani owo-ori agbegbe pupọ",
+        "Yiyara lori wiwọ ti awọn nkan ti o ni ipasẹ sinu awọn ẹhin iṣẹ ṣiṣe pinpin"
+      ],
+      "erpStrategyPoints": [
+        "Iṣatunṣe faaji ERP pẹlu ṣiṣan iṣẹ ṣiṣe pataki ṣaaju iṣeto",
+        "Yiyan awọn awoṣe imuṣiṣẹ modular lati rii daju awọn aṣeyọri maili iyara",
+        "Ni iṣaju iṣaju ijira data titunto si didara ati ilaja",
+        "Iṣabọ iṣakoso iyipada adaṣe ati awọn eto ikẹkọ ti o ṣe deede",
+        "Ṣiṣeto awọn ẹnu-ọna API fun imugboroja iṣọpọ ọjọ iwaju"
+      ],
+      "sec1Eyebrow": "EGUNGUN ISE",
+      "sec1Heading": "Kini idi ti ERP ode oni ṣe pataki",
+      "sec1Subtext": "ERP kii ṣe ṣiṣe iṣiro-pada-ọfiisi mọ. O jẹ awoṣe iṣẹ ti ile-iṣẹ igbalode ti a fihan ni sọfitiwia.",
+      "sec2Eyebrow": "APAPO ECOSYSTEM",
+      "sec2Heading": "Awọn iṣẹ Iṣowo ti a ti sopọ",
+      "sec2Subtext": "Iye igbekalẹ gidi farahan nigbati awọn iṣẹ iṣowo mojuto ṣe iṣowo papọ lori ipilẹ oni-nọmba ti o pin.",
+      "sec3Eyebrow": "AGBELEBU-IṢẸ IṢẸ",
+      "sec3Heading": "Awọn iṣẹ Iṣọkan & Sisan Alaye",
+      "sec3Subtext": "Pipa awọn odi ibaraẹnisọrọ lulẹ laarin awọn ẹka lati jẹ ki omi ito ṣiṣẹ, ṣiṣan iṣẹ ile-iṣẹ amuṣiṣẹpọ.",
+      "sec4Eyebrow": "TELEMETRY IṢẸ",
+      "sec4Heading": "Hihan Iṣowo Akoko-gidi",
+      "sec4Subtext": "Iṣọkan awọn metiriki iṣiṣẹ sinu awọn dasibodu adari ti o han gbangba ti o ṣe afihan awọn otitọ iṣowo lọwọlọwọ.",
+      "sec5Eyebrow": "ORIKI ORIKI ORIKI mojuto",
+      "sec5Heading": "Awọn agbara ERP ode oni",
+      "sec5Subtext": "Awọn abuda ayaworan ti o ya awọn iru ẹrọ ERP ti ode oni kuro lati awọn fifi sori ẹrọ ti o lewu.",
+      "sec6Eyebrow": "IPA DIYE",
+      "sec6Heading": "Awọn anfani Iṣowo",
+      "sec6Subtext": "Sisopọ awọn iṣẹ iṣowo mojuto sinu ipilẹ oni-nọmba kan ti a ti iṣọkan ti n mu ifọkanbalẹ ti iṣeto ni wiwọn.",
+      "ctaHeading": "Ṣe imudojuiwọn Awọn iṣẹ Idawọlẹ Rẹ",
+      "ctaDescription": "Ṣawari bi awọn iru ẹrọ ERP ode oni ṣe so iṣuna, rira, pq ipese ati awọn iṣẹ iṣowo nipasẹ ipilẹ oni-nọmba kan ti iṣọkan.",
+      "ctaButton": "Soro si Awọn amoye Wa",
+      "sec1P1": "Ni awọn ala-ilẹ ile-iṣẹ ti n lọ ni iyara, awọn ọna ṣiṣe Eto Awọn orisun Idawọlẹ ibile nigbagbogbo n tiraka. Ti a ṣe ni akoko ti sisẹ ipele ati awọn olupin agbegbe ti o ya sọtọ, awọn ERPs julọ jẹ adani ti o wuyi, o nira lati ṣe igbesoke, ati airotẹlẹ irora. Awọn iṣẹ iṣowo to ṣe pataki ṣiṣẹ ni awọn siloes ti o jọra, gbigbekele awọn ọja okeere alẹ ẹlẹgẹ lati muṣiṣẹpọ awọn iwe-ipamọ pẹlu awọn ile itaja.",
+      "sec1P2": "Igbalode, ERP abinibi-awọsanma ṣe atuntu ipilẹ agbara yii. O n ṣiṣẹ bi ẹhin oni-nọmba ti iṣọkan ti ile-iṣẹ — ipilẹ gbigbe nibiti iṣuna, rira, pq ipese, akojo oja, ati iṣowo awọn orisun eniyan lori awoṣe data pinpin.",
+      "sec1P3": "Nipa kiko awọn iṣẹ mojuto sinu agbegbe ibaramu kan, ERP ode oni n yọkuro awọn aaye afọju iṣẹ ṣiṣe ti o fa fifalẹ idagbasoke, ṣiṣe awọn oludari laaye lati ṣakoso iṣowo naa nipa lilo awọn ifihan agbara akoko gidi dipo awọn akopọ itan ti o duro.",
+      "sec3P1": "Awọn silos isẹ jẹ awọn iṣoro eniyan ṣọwọn; wọn jẹ awọn iṣoro ayaworan. Nigbati iṣẹ alabara, rira, ati awọn ẹgbẹ ile-ipamọ ṣiṣẹ ni awọn ohun elo ti a ti ge asopọ, gbogbo imudani nilo awọn imeeli afọwọṣe, awọn iwe kaakiri, ati awọn ipe foonu. Awọn aṣiṣe n pọ si i, awọn risiti gba soke, ati awọn adehun alabara isokuso.",
+      "sec3P2": "ERP ode oni n koju eyi nipasẹ laini data isokan ati ilana ṣiṣe-iṣẹlẹ-iṣẹlẹ:",
+      "sec3List": [
+        {
+          "bold": "Ilana amuṣiṣẹpọ-si-owo:",
+          "text": "Nigbati o ba gbe aṣẹ alabara kan, akojo oja ni ifipamọ laifọwọyi, awọn akole gbigbe n gbejade, ati awọn iwe-iṣiro ìdíyelé ṣe imudojuiwọn lẹsẹkẹsẹ."
+        },
+        {
+          "bold": "Imudaniloju-lati-sanwo:",
+          "text": "Awọn ibere rira, awọn owo ọja, ati awọn risiti olutaja baramu laifọwọyi pẹlu ilaja-ọna mẹta, ti n ṣe afihan awọn imukuro nikan fun atunyẹwo eniyan."
+        },
+        {
+          "bold": "Iṣẹ iṣọkan ati idiyele iṣẹ:",
+          "text": "Awọn iwe akoko iṣẹ akanṣe, awọn ipin isanwo isanwo, ati awọn inawo iṣẹ ṣiṣe taara maapu taara si awọn ile-iṣẹ idiyele ni akoko gidi."
+        }
+      ],
+      "sec4P1": "Ṣiṣẹda ile-iṣẹ kan laisi iwoye iṣọkan dabi gbigbe ni kurukuru ipon pẹlu awọn ohun elo idaduro. ERP ode oni n pese telemetry akoko gidi ni gbogbo iwọn iṣowo:",
+      "sec4List": [
+        {
+          "bold": "Awọn dasibodu adari Live:",
+          "text": "Awọn iwo lojukanna ti awọn ala nla, awọn ṣiṣan owo ṣiṣiṣẹ, awọn gbese ṣiṣi, ati paṣẹ awọn iwe ẹhin laisi iduro fun pipade ipari-akoko."
+        },
+        {
+          "bold": "Ijabọ iṣẹ ṣiṣe ti ara ẹni:",
+          "text": "Awọn olori Ẹka le kọ awọn ibeere aṣa ati lulẹ lati awọn akopọ ipele ile-iṣẹ si awọn ohun laini idunadura kọọkan."
+        },
+        {
+          "bold": "Alaye titunto si aarin:",
+          "text": "Imukuro awọn nọmba ilodisi nipa didasilẹ data titunto si iṣakoso ẹyọkan fun awọn alabara, awọn olutaja, ati awọn katalogi ọja."
+        },
+        {
+          "bold": "Awọn titaniji anomaly ti nṣiṣẹ:",
+          "text": "Awọn titaniji adaṣe ṣe ifitonileti awọn alakoso lẹsẹkẹsẹ nigbati awọn ala ba lọ silẹ ni isalẹ iloro, akojo oja nṣiṣẹ kekere, tabi isokuso awọn ifijiṣẹ olupese."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMATION PHLOSOPHY",
+      "keyPerspectiveTitle": "Imudaniloju Pragmatic Lori Atunṣe Monolithic",
+      "keyPerspectiveLead": "Iyipada ERP ode oni ṣaṣeyọri nigbati awọn ẹgbẹ ba tọju rẹ bi igbesoke iṣẹ ti itiranya dipo idalọwọduro IT gbogbo-tabi-ohunkohun:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Ṣiṣe Iduroṣinṣin Cyber ni Ile-iṣẹ ti o Sopọ",
+      "subtitle": "Ṣawari bi awọn ajo ṣe le fun aabo lagbara, daabobo awọn eto to ṣe pataki ati murasilẹ fun awọn irokeke kọja awọn agbegbe ti o ni asopọ pọ si.",
+      "date": "Oṣu Kẹsan 2026",
+      "readTime": "Iṣẹju 8 ka",
+      "imageCaption": "Iwoye Imọ-ẹrọ Idawọlẹ — Irokeke Aabo & Igbẹkẹle Odo",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Wiwa",
+          "desc": "Gbigbawọle log-akoko gidi ati ibamu anomaly SIEM kọja gbogbo awọn aaye ipari awọsanma ati awọn ẹru iṣẹ."
+        },
+        {
+          "title": "Imudani & Iyasọtọ",
+          "desc": "Awọn ofin iyasọtọ ti nẹtiwọọki adaṣe ti o ya sọtọ awọn apoti tabi awọn iwe-ẹri ti o gbogun lesekese."
+        },
+        {
+          "title": "Atunse & Gbongbo-Fa",
+          "desc": "Yipada alemo iyara ati awọn oniwadi oni-nọmba ti n ṣe idanimọ fekito irufin gangan."
+        },
+        {
+          "title": "Resilience & Hardening",
+          "desc": "Awọn esi ti o tẹsiwaju si awọn afẹyinti ti ko le yipada, awọn ẹṣọ eto imulo, ati awọn iṣeṣiro ẹgbẹ-pupa adaṣe adaṣe."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Idinku nla ni awọn ibi ikọlu ailagbara kọja awọn ohun-ini awọsanma",
+        "Ilọsiwaju iṣẹ ṣiṣe iṣeduro ati imularada ajalu pẹlu RTO/RPO to kere",
+        "Igbẹkẹle ibamu lapapọ kọja ISO 27001, SOC 2, HIPAA, ati awọn iṣayẹwo GDPR",
+        "Idaabobo ti ohun-ini imọ-ọrọ ile-iṣẹ mojuto ati awọn igbasilẹ alabara asiri",
+        "Olutaja ṣiṣan ati iṣakoso eewu ẹnikẹta nipasẹ awọn iṣakoso iraye si iṣọkan",
+        "Onibara ti ilọsiwaju ati igbẹkẹle oludokoowo ṣe atilẹyin nipasẹ awọn iduro aabo-igbẹkẹle odo"
+      ],
+      "zeroTrustPrinciples": [
+        "Maṣe Gbẹkẹle, Nigbagbogbo Jẹri: Ijeri ti o fojuhan nilo fun iṣowo kọọkan",
+        "Wiwọle-Anfaani ti o kere julọ: Awọn aala ipa granular ti o diwọn gbigbe irokeke ita",
+        "Ronu irufin: Abojuto irokeke tẹsiwaju, fifi ẹnọ kọ nkan ni irekọja ati ni isinmi",
+        "Ipin-Mikro-Ipin: Awọn ogiri nẹtiwọki nẹtiwọọki ti o ya sọtọ awọn ẹru iṣẹ ohun elo kọọkan",
+        "Telemetry Ilọsiwaju: Atujade ihuwasi adaṣe adaṣe ti n ṣe afihan awọn ibeere igba ailorukọ"
+      ],
+      "sec1Eyebrow": "AGBAYE NGBORO",
+      "sec1Heading": "Ilẹ-ilẹ Aabo Idawọlẹ ti Sopọ",
+      "sec1Subtext": "Bi awọn ajo ode oni ṣe sopọ awọn ohun elo diẹ sii, awọn agbegbe awọsanma, awọn oṣiṣẹ latọna jijin, awọn ẹrọ alagbeka, ati awọn alabaṣiṣẹpọ ẹni-kẹta, agbegbe aabo ibile ti dẹkun lati wa.",
+      "sec2Eyebrow": "IDAABOBO TO PELU",
+      "sec2Heading": "Irokeke Irokeke Olona-Layer",
+      "sec2Subtext": "Awọn aabo aabo ti o ṣe aabo awọn amayederun to ṣe pataki, data ile-iṣẹ ifarabalẹ, ati awọn eto ṣiṣe.",
+      "sec3Eyebrow": "Aala Aabo TITUN",
+      "sec3Heading": "Idanimọ & Isakoso Wiwọle (IAM)",
+      "sec3Subtext": "Idanimọ jẹ ọkọ ofurufu iṣakoso ipilẹ ti aabo ode oni. O fẹrẹ to gbogbo awọn irufin aabo to ṣe pataki bẹrẹ pẹlu awọn iwe-ẹri gbogun kuku ju awọn ilo sọfitiwia lọ.",
+      "sec4Eyebrow": "ARCHITECTURAL PARADIGM",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust kii ṣe ọja tabi ohun elo kan. O jẹ ilana ayaworan ti o da lori ipilẹ taara: gbekele ko si nkankan inu tabi ita nẹtiwọọki nipasẹ aiyipada.",
+      "sec5Eyebrow": "ÌJỌBA ALÁYÉ",
+      "sec5Heading": "Awọn imọran Aabo Awọsanma",
+      "sec5Subtext": "Idabobo awọn ẹru iṣẹ kọja awọsanma gbogbo eniyan, awọn ile ayaworan arabara, ati awọn agbegbe ibi-ipamọ pinpin.",
+      "sec6Eyebrow": "IPARA ISE",
+      "sec6Heading": "Imurasilẹ Iṣẹlẹ: Ni ikọja Idena",
+      "sec6Subtext": "Resilience cyber otitọ gba pe awọn iṣẹlẹ le waye. Imurasilẹ dojukọ imudani iyara, idalọwọduro iṣowo ti o kere, ati imudara imularada.",
+      "sec7Eyebrow": "IYE ITOJU",
+      "sec7Heading": "Awọn anfani Iṣowo",
+      "sec7Subtext": "Kikọ ile-iṣẹ ti o ni agbara cyber-resilient ṣe aabo iye eto, iduro ilana, ati olokiki ọja.",
+      "ctaHeading": "Mu Aabo Idawọlẹ Rẹ Dara",
+      "ctaDescription": "Ṣawari bi awọn ajo ṣe le fun aabo lokun, daabobo awọn eto to ṣe pataki ati murasilẹ fun awọn irokeke kọja awọn agbegbe ti o ni asopọ pọ si.",
+      "ctaButton": "Sọrọ si Awọn amoye Wa",
+      "sec1P1": "Ni akoko ogún ti IT ile-iṣẹ, aabo ṣiṣẹ lori ẹkọ ile-odi-ati-moat: ohun gbogbo ti o wa ninu nẹtiwọọki ile-iṣẹ ile-iṣẹ ni a ro pe o ni igbẹkẹle, lakoko ti ohun gbogbo ti ita ni a gba pe ko ni igbẹkẹle. Ogiriina ajọ kan ni aabo awọn olupin inu, awọn apoti isura data, ati awọn kọnputa tabili.",
+      "sec1P2": "Ile-iṣẹ ode oni ti dagba awọn odi ti ara. Awọn ẹru iṣẹ n gbe kọja awọn agbegbe awọsanma pupọ (AWS, Azure, GCP), awọn oṣiṣẹ wọle si awọn ohun elo iṣowo lati awọn ipo oriṣiriṣi, ati awọn API nigbagbogbo ṣe paṣipaarọ data iṣiṣẹ ifura pẹlu awọn olupese eekaderi ita, awọn ile-iṣẹ inawo, ati awọn olutaja SaaS.",
+      "sec1P3": "Lakoko ti asopọmọra-gidi yii n ṣe agbara agbara iṣowo nla, o gbooro si dada ikọlu ile-iṣẹ lọpọlọpọ. Gbogbo aaye ipari API, ami idanimọ, ẹrọ alagbeka ti a ti sopọ, ati iṣọpọ SaaS ṣe aṣoju fekito ti o pọju ti ifihan. Idabobo ile-iṣẹ otitọ nilo iyipada lati aabo-orisun agbegbe si imuṣiṣẹ, resilience cyber-si-opin.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Iwaridii Ihalẹ",
+          "desc": "Imọye itetisi iranlọwọ ikẹkọ ẹrọ ti n ṣakiyesi awọn ilana nẹtiwọọki ailorukọ, ilokulo ẹrí, ati awọn ailagbara ọjọ-odo ni akoko gidi."
+        },
+        {
+          "icon": "📡",
+          "title": "Abojuto Aabo",
+          "desc": "Ile-iṣẹ Awọn iṣẹ Aabo Aarin Aarin (SOC) telemetry ti n ṣe atunṣe awọn iṣẹlẹ kọja awọn olupin, awọn iṣupọ apoti, awọn olupese idanimọ, ati awọn aaye ipari."
+        },
+        {
+          "icon": "🔍",
+          "title": "Iṣakoso Ipalara",
+          "desc": "Ṣiṣayẹwo ailagbara adaṣe adaṣe nigbagbogbo kọja awọn amayederun, awọn ibi ipamọ koodu orisun, ati awọn iforukọsilẹ apoti lati ṣe atunṣe awọn ailagbara ni imurasilẹ."
+        },
+        {
+          "icon": "🔒",
+          "title": "Idaabobo Data",
+          "desc": "fifi ẹnọ kọ nkan ti o lagbara ni gbigbe (TLS 1.3) ati ni isinmi (AES-256), lẹgbẹẹ idena ipadanu data granular (DLP) lati ṣe idiwọ jijo ohun-ini ọgbọn."
+        }
+      ],
+      "sec3P1": "Idabobo awọn ohun-ini ile-iṣẹ nilo idaniloju pe gbogbo idanimọ—boya alaṣẹ eniyan, agbaagbaṣẹ ita, tabi akọọlẹ iṣẹ sọfitiwia adase kan—ti fọwọsi aṣẹ fun awọn orisun gangan ti o wọle.",
+      "sec3List": [
+        {
+          "bold": "Isakoso idanimọ aarin:",
+          "text": "Wọle Wọle Nikan (SSO) ati awọn iṣedede idanimọ ti o ṣe imukuro awọn ile itaja ọrọ igbaniwọle ti a pin kaakiri awọn ohun elo."
+        },
+        {
+          "bold": "Ijeri-ifosiwewe-pupọ Adaptive (MFA):",
+          "text": "Awọn bọtini ohun elo FIDO2 ti o lodi si ararẹ ati awọn italaya ọrọ-ọrọ ti o da lori eewu fun awọn iṣẹ iṣakoso ifura."
+        },
+        {
+          "bold": "Iṣakoso wiwọle granular:",
+          "text": "Ipilẹ ipa-dara-dara-dara (RBAC) ati Ipilẹ-Idari (ABAC) awọn iṣakoso wiwọle ti a fi agbara mu ni API ati awọn ipele data data."
+        },
+        {
+          "bold": "Awọn ilana ti o ni anfani ti o kere julọ:",
+          "text": "Gbigbe ni iwọle fun igba diẹ, ni akoko kan (JIT) ti o pari ni aifọwọyi nigbati awọn iṣẹ iṣakoso ba pari."
+        }
+      ],
+      "keyPerspectiveEyebrow": "EKO TRUST CORE ZERO",
+      "keyPerspectiveTitle": "Ijerisi Ilọsiwaju Lori Igbekele Afọju",
+      "keyPerspectiveLead": "Ninu faaji Igbẹkẹle Zero, igbẹkẹle ti ko tọ ti o da lori ipo nẹtiwọọki ti tuka patapata. Gbogbo idunadura, ibeere data data, ati iwọle olumulo gbọdọ jẹrisi igbagbogbo rẹ:",
+      "cloudSecurityCards": [
+        {
+          "title": "Ojuse Pipin",
+          "desc": "Isakoso iṣakoso ti n ṣe iyatọ si aabo amayederun ti ara ti olupese awọsanma lati ojuṣe ile-iṣẹ fun fifi ẹnọ kọ nkan data, awọn ilana IAM, ati koodu ohun elo."
+        },
+        {
+          "title": "Awọn amayederun bii koodu (IaC)",
+          "desc": "Aileyipada, awọn atunto awọsanma ti a ṣe ayẹwo ti iṣakoso nipasẹ koodu. Awọn aṣayẹwo eto imulo-bi-koodu ṣe idiwọ awọn atunto aiṣedeede ati awọn buckets ti o farahan ṣaaju imuṣiṣẹ."
+        },
+        {
+          "title": "Apoti & Aabo Kubernetes",
+          "desc": "Awọn akoko asiko ti apoti lile, awọn iforukọsilẹ aworan ti o fowo si, ipin micro-nẹtiwọọki, ati iṣakoso aṣiri adaṣe adaṣe ti o tọju awọn iwe-ẹri kuro ni awọn ibi ipamọ orisun."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "AWURE & OJUMO",
+      "title": "Awọn ohun elo Imudaniloju Legacy fun Awọsanma naa",
+      "subtitle": "Ṣewadii ọna ti o wulo lati ṣe iṣiro, isọdọtun ati gbigbe awọn ohun elo ti ogún lọ si iwọn, awọn faaji awọsanma to ni aabo.",
+      "date": "Oṣu Kẹsan 2026",
+      "readTime": "6 min ka",
+      "imageCaption": "Iwoye Imọ-ẹrọ Idawọlẹ — Atun-Syeed Tun-Ibilẹ-Awọsanma & Apoti",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (Gbe & Yipada)",
+          "desc": "Awọn ẹru iṣẹ iyipada si awọn ẹrọ foju awọsanma ni iyara pẹlu awọn iyipada koodu kekere."
+        },
+        {
+          "title": "Atunṣe (Gbe & Tunṣe)",
+          "desc": "Igbesoke awọn ilana asiko asiko, gba awọn apoti isura infomesonu ti iṣakoso, ati awọn iṣẹ ṣiṣe."
+        },
+        {
+          "title": "Atunse (Awọsanma-Ibilẹ Atunṣe)",
+          "desc": "Deconstruct monoliths sinu awọn ohun elo microservices ati awọn API ti ko ni olupin ti iṣẹlẹ."
+        },
+        {
+          "title": "Rọpo (SaaS Modernization)",
+          "desc": "Awọn ọna ṣiṣe isọdọmọ laiṣe ifẹhinti ni ojurere ti sọfitiwia awọsanma ti ile-iṣẹ ti a ṣe."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Igbelewọn Legacy",
+          "desc": "Iṣaworan agbaye ti o gbẹkẹle adaṣe, iwe kika gbese imọ-ẹrọ, ati igbelewọn imurasilẹ-awọsanma."
+        },
+        {
+          "title": "Ifojusi Architecture",
+          "desc": "Awọn awoṣe microservice Modular, topologies eiyan, ati awọn awoṣe IaC aladaaṣe."
+        },
+        {
+          "title": "Iṣilọ Alakoso",
+          "desc": "Awọn idasilẹ Canary, mimuuṣiṣẹpọ data-kikọ meji, ati awọn igbi gige akoko-isalẹ odo."
+        },
+        {
+          "title": "Imudara Awọsanma",
+          "desc": "Isakoso idiyele ilọsiwaju, telemetry autoscaling, ati awọn atunyẹwo iṣẹ ṣiṣe FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Itọju amayederun ti o dinku ati awọn inawo isọdọtun ohun elo",
+        "Isunmọ-isunmọ rirọ mimu mimu ijabọ ile-iṣẹ tente oke pẹlu airi odo",
+        "Iyara itusilẹ iyara pẹlu awọn opo gigun ti imuṣiṣẹ CI/CD adaṣe ni kikun",
+        "Imukuro ti awọn aaye ẹyọkan ti ikuna pẹlu wiwa giga pupọ-AZ",
+        "Awọn ile-iṣọ API ti ode oni ti n mu ki awọn iṣọpọ alabaṣepọ agbekọja ni iyara",
+        "To ti ni ilọsiwaju akiyesi akoko gidi sinu iṣẹ ohun elo ati inawo awọsanma"
+      ],
+      "landscapeAssessmentPoints": [
+        "Awọn igbẹkẹle ti o ni ibatan laarin ohun elo ati awọn cadence imuṣiṣẹpọ data",
+        "Idanimọ awọn atunto ayika ti o ni koodu lile ati awọn ero data data ohun-ini",
+        "Ṣiṣayẹwo ibamu ilana ati awọn ihamọ data ọba-alaṣẹ fun aṣẹ",
+        "Iṣiro Lapapọ Iye owo Ohun-ini gidi gidi (TCO) kọja olutumọ si awọn ọna atunlo",
+        "Ṣiṣeto awọn igbi yiyi jade lati daabobo awọn iṣẹ iṣowo ojoojumọ ti nṣiṣe lọwọ"
+      ],
+      "sec1Eyebrow": "OTITO NIPA awọn ọna ṣiṣe ti ogún",
+      "sec1Heading": "Ipenija Legacy",
+      "sec1Subtext": "Awọn monoliths ti ogbo ṣe idiwọ iyara imotuntun, pọ si awọn ailagbara iṣẹ, ati jijẹ awọn idiyele itọju amayederun.",
+      "sec2Eyebrow": "IṣẸ & Awari",
+      "sec2Heading": "Ni oye Oju-ilẹ Ohun elo naa",
+      "sec2Subtext": "Aṣeyọri isọdọtun awọsanma bẹrẹ pẹlu iṣiro to le. Lilọ taara sinu ijira laisi awọn igbẹkẹle ohun elo iṣatunṣe jẹ idi akọkọ ti awọn gige idaduro.",
+      "sec3Eyebrow": "AWON ONA ODODO 4",
+      "sec3Heading": "Awọn ọna Imudaniloju",
+      "sec3Subtext": "Ko si iwọn-iwọn-gbogbo-ilana ijira. Awọn ile-iṣẹ oludari ni ibamu pẹlu ilana isọdọtun ti o tọ si iṣẹ ṣiṣe pato kọọkan ti o da lori iye iṣowo, iyara, ati gbese imọ-ẹrọ.",
+      "sec4Eyebrow": "Awoṣe Iyipada afojusun",
+      "sec4Heading": "Awọsanma Architecture Modern",
+      "sec4Subtext": "Ilana ọna-ọna ti a ṣeto ti o ṣe iyipada awọn monoliths julọ sinu rirọ, aabo, ati awọn iṣẹ awọsanma ti o le ṣetọju.",
+      "sec5Eyebrow": "Awọn abajade Iyipada",
+      "sec5Heading": "Awọn anfani Isọdọtun bọtini",
+      "sec5Subtext": "Gbigbe awọn eto iní si awọn faaji awọsanma ode oni n pese agbara iṣẹ ṣiṣe ojulowo ati asọtẹlẹ idiyele.",
+      "ctaHeading": "Ṣe imudojuiwọn Awọn ohun elo Legacy Rẹ",
+      "ctaDescription": "Ṣewadii ọna ti o wulo lati ṣe ayẹwo, isọdọtun ati gbigbe awọn ohun elo ti ogún lọ si iwọn, awọn faaji awọsanma to ni aabo.",
+      "ctaButton": "Sọrọ si Awọn amoye Wa",
+      "sec1P1": "Awọn ohun elo to ṣe pataki ti apinfunni ti a ṣe ni ọdun mẹwa sẹhin tun n ṣafẹri awọn ọkẹ àìmọye ni owo-wiwọle ile-iṣẹ, sibẹ awọn rigiditi ayaworan wọn ṣẹda eewu iṣẹ ṣiṣe ti ndagba.",
+      "sec1P2": "Gbogbo ile-iṣẹ dojukọ ẹdọfu laarin iduroṣinṣin ati isọdọtun. Awọn eto Legacy ni a ṣe atunṣe fun agbara, ati pe wọn ti ṣe ni igbẹkẹle fun awọn ọdun. Bibẹẹkọ, bi awọn ibeere iṣowo ti yara, awọn faaji ti ogbo wọnyi pade awọn opin igbekalẹ:",
+      "sec1List": [
+        {
+          "bold": "Awọn akopọ sọfitiwia ti ogbo:",
+          "text": "Awọn ipilẹ koodu monolithic ti a ṣe lori awọn ilana ti a ti sọ silẹ pẹlu awọn adagun talenti idinku ti o wa fun itọju."
+        },
+        {
+          "bold": "Awọn iyipo itọju ti o nira:",
+          "text": "Awọn paati ti o somọ ni wiwọ nibiti iyipada ẹya kan ṣe eewu fifọ awọn modulu iṣẹ ṣiṣe ti ko ni ibatan."
+        },
+        {
+          "bold": "Iwọn iwọn to lopin:",
+          "text": "Awọn opin igbewọn inaro ti o nilo rira ohun elo ohun elo ti o gbowolori lati mu awọn iyipo ijabọ akoko."
+        },
+        {
+          "bold": "Awọn italaya Iṣajọpọ:",
+          "text": "Ailagbara lati ni wiwo laisiyonu pẹlu awọn ohun elo alagbeka ode oni, awọn ọna abawọle alabara, tabi awọn API alabaṣepọ laisi awọn iwe afọwọkọ ipele ẹlẹgẹ."
+        },
+        {
+          "bold": "Awọn idiwọ amayederun:",
+          "text": "Awọn igbesi aye yara olupin ti ara, awọn ailagbara afẹyinti, ati awọn inawo iṣiṣẹ giga / itutu agbaiye."
+        }
+      ],
+      "sec2P1": "Irin-ajo isọdọtun adaṣe kan bẹrẹ nipa didasilẹ asọye lapapọ kọja ohun-ini ti o wa tẹlẹ:",
+      "sec2List": [
+        {
+          "bold": "Awọn ohun elo:",
+          "text": "Katalogi gbogbo awọn iṣẹ ṣiṣe ti nṣiṣe lọwọ, awọn modulu aṣa, awọn iwe afọwọkọ abẹlẹ, ati awọn idii ẹni-kẹta itan."
+        },
+        {
+          "bold": "Awọn igbẹkẹle:",
+          "text": "Iṣajọpọ akoko asiko ṣiṣe aworan aworan, awọn tabili data pinpin, awọn ipe eto faili taara, ati awọn adehun iṣẹ ita."
+        },
+        {
+          "bold": "Data:",
+          "text": "Ṣiṣayẹwo awọn ẹya data, awọn ibeere iṣotitọ iṣowo, cadence afẹyinti, ati awọn ofin ijọba ọba-alaṣẹ."
+        },
+        {
+          "bold": "Amayederun:",
+          "text": "Sipiyu iṣatunṣe, iranti, iṣamulo ibi ipamọ, ati ṣiṣe nẹtiwọọki si awọn pato awọsanma ibi-afẹde ti o tọ."
+        },
+        {
+          "bold": "Kokoro iṣowo:",
+          "text": "Pipin awọn ohun elo sinu awọn ipele lati ṣe apẹrẹ ailewu, awọn igbi ijira ti a ṣeto pẹlu awọn ilana imupadabọ ti o han gbangba."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Anfani:",
+      "cloudArchitectureBadge": "Igbesi aye Olaju",
+      "cloudArchitectureTitle": "Ilọsiwaju Isọlaju Awọsanma Ipari-si-Ipari",
+      "sec4P1": "Ibi faaji ibi-afẹde decouples awọn ohun elo pataki sinu apọjuwọn, awọn iṣẹ apoti ti a gbalejo lori awọn iru ẹrọ awọsanma rirọ (gẹgẹbi Kubernetes tabi awọn akoko asiko aisi olupin ti iṣakoso).",
+      "sec4P2": "Nipa didasilẹ awọn pipelines imuṣiṣẹ CI/CD adaṣe adaṣe, awọn gige alawọ-alawọ ewe adaṣe adaṣe, ati awọn amayederun bi koodu, awọn imuṣiṣẹ n yipada lati awọn iṣẹlẹ ipari-ọsẹ-ara-ara sinu awọn iṣẹ ṣiṣe ojoojumọ lainidi.",
+      "sec4P3": "Iṣiro rirọ ṣe iwọn laifọwọyi lakoko awọn ibeere ibeere ati awọn iwọn ni isalẹ lakoko awọn irẹwẹsi, imukuro awọn idiyele awọn orisun alaiṣe lakoko ti o ṣe iṣeduro awọn akoko idahun iha keji fun awọn olumulo agbaye.",
+      "keyPerspectiveEyebrow": "IṢẸ TI O DARA JULO ODODO",
+      "keyPerspectiveTitle": "Awọn Origun Mẹrin ti Iṣilọ Aṣeyọri",
+      "keyPerspectiveLead": "Iriri fihan pe awọn iṣẹ akanṣe olaju ṣaṣeyọri nigba ti a da lori igbaradi pipe, ilana igbi ti o han gbangba, ati idanwo lile:"
+    }
+  }
+}

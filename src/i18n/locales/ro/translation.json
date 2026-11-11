@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Despre",
+    "services": "Servicii",
+    "products": "Produse",
+    "perspectives": "Perspective",
+    "technologies": "Tehnologii",
+    "contact": "Contact",
+    "signIn": "Conectare",
+    "signUp": "Înscrieți-vă",
+    "signOut": "Sign out",
+    "chooseLanguage": "Alegeți limba dvs",
+    "searchLanguage": "Căutați limba",
+    "resetEnglish": "Resetați la engleză",
+    "noResults": "Nu s-au găsit limbi",
+    "englishDefault": "engleză (implicit)",
+    "english": "engleză"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Software, conceput pentru modul în care funcționează <em>afacerea dvs.</em>.",
+    "description": "Rezonants este o companie de servicii IT și produse digitale. Proiectăm, construim și scalam software personalizat, produse web și mobile, infrastructură cloud și AI - pentru companii care concurează la execuție.",
+    "bookConsultation": "Rezervați o consultație gratuită",
+    "exploreServices": "Explorați serviciile",
+    "years": "ani",
+    "projects": "proiecte",
+    "retention": "retenţie",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — din 2012",
+    "metaStudio": "Studio de produse digitale",
+    "metaTech": "Web · Mobil · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Despre noi",
+    "title": "Construirea de soluții digitale <em>care mută afacerile înainte</em>",
+    "description": "Rezonants este o companie de soluții tehnologice axată pe a ajuta companiile să transforme ideile în experiențe digitale semnificative. Combinăm tehnologia, creativitatea și înțelegerea afacerilor pentru a oferi soluții care sunt concepute în funcție de nevoile lumii reale.<br /><br />De la transformarea digitală și dezvoltarea de software personalizat până la servicii cloud, AI, automatizare și tehnologie gestionată, ajutăm organizațiile să simplifice complexitatea, să îmbunătățească eficiența și să creeze valoare digitală durabilă.<br /><br /><strong>Abordarea noastră este simplă: înțelegeți afacerea, rezolvați tehnologia potrivită, oferind probleme.</strong>",
+    "awardWinning": "Câștigător de premii",
+    "awardText": "Recunoscut pentru excelența în livrarea în ingineria de produse web și mobile.",
+    "professionalStaff": "Personal profesionist",
+    "staffText": "Ingineri seniori, responsabili, care dețin lucrarea de la primul apel până la lansare.",
+    "support247": "Asistență 24/7",
+    "supportText": "Servicii gestionate și o linie de asistență care răspunde atunci când aveți nevoie.",
+    "fairPrices": "Preturi corecte",
+    "pricesText": "Estimări oneste și facturare transparentă pentru fiecare angajament.",
+    "yearsExcellence": "Ani de excelență în întreprinderi"
+  },
+  "stats": {
+    "happyClients": "Clienți fericiți",
+    "projectsDone": "Proiecte realizate",
+    "winAwards": "Câștigă premii"
+  },
+  "insights": {
+    "eyebrow": "Perspective",
+    "title": "Perspective",
+    "sub": "Explorarea ideilor, tendințelor și tehnologiei care modelează viitorul.",
+    "filters": {
+      "all": "Toate",
+      "digital-transformation": "Transformare digitală",
+      "ai": "AI și automatizare",
+      "cloud": "Nor",
+      "data": "Date și analize",
+      "software": "Software",
+      "business": "Afaceri și tehnologie"
+    },
+    "readMore": "Citește mai mult",
+    "close": "Închide",
+    "keyTakeaways": "Recomandări arhitecturale cheie",
+    "relatedServices": "Capacități și servicii conexe",
+    "minRead": "min citi",
+    "item1Date": "Iul 2026",
+    "item1Tag": "Produs și ERP",
+    "item1Title": "O abordare ERP modulară pentru întreprinderile în creștere",
+    "item1Text": "Cum structurem angajamentele ERP, astfel încât finanțele, inventarul, resursele umane și achizițiile să se integreze perfect, fără întreruperi pe mai mulți ani.",
+    "item2Date": "iunie 2026",
+    "item2Tag": "Inteligența artificială",
+    "item2Title": "Sisteme AI agentice: trecerea de la chatbot la execuție autonomă",
+    "item2Text": "Arhitectarea sistemelor LLM multi-agenți coordonate care planifică, validează și execută fluxuri de lucru complexe de afaceri cu supraveghere umană în buclă.",
+    "item3Date": "mai 2026",
+    "item3Tag": "Compania Milestone",
+    "item3Title": "Recunoscut printre cele mai importante studiouri de inovare IT din Hyderabad",
+    "item3Text": "Studioul nostru de inginerie a fost recunoscut pentru excelența în livrare, capacitățile tehnologice profunde și satisfacția clienților în ingineria globală a produselor.",
+    "desc": "Explorați idei și perspective de la Rezonants despre transformarea digitală, AI, automatizare, cloud, date, software și viitorul tehnologiei de afaceri.",
+    "categories": {
+      "digitalTransformation": "Transformare digitală",
+      "ai": "AI și automatizare",
+      "cloud": "Nor",
+      "data": "Date și analize",
+      "software": "Software",
+      "business": "Afaceri și tehnologie"
+    }
+  },
+  "technologies": {
+    "title": "Tehnologii și arhitectură",
+    "headline": "Soluții tehnologice pentru întreprinderi",
+    "sub": "Tehnologie inteligentă. Operații automate. Afaceri mai inteligente.",
+    "selectTechnology": "Selectați o soluție tehnologică…",
+    "options": {
+      "aiRobotics": "Soluții AI și Robotică",
+      "businessAutomation": "Soluții de automatizare a afacerilor",
+      "cloudMigrations": "Soluții de migrare în cloud",
+      "dataCenters": "Soluții pentru centre de date",
+      "cognitiveAnalytics": "Analiză cognitivă și inteligență artificială",
+      "informationReporting": "Sisteme de informare și raportare",
+      "managedServices": "Servicii gestionate",
+      "oneStopSolutions": "Soluții tehnologice unice"
+    },
+    "explore": "Explorați tehnologia",
+    "bookDiscovery": "Descoperirea tehnologiei cărții",
+    "exploreAll": "Explorați toate tehnologiile",
+    "coreCapabilities": "Capabilități tehnologice de bază",
+    "bookConsultation": "Rezervați o consultație"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Vorbește cu un inginer senior, nu cu un script de vânzări",
+    "sub": "Împărtășiți puțin despre proiectul dvs. și vă vom răspunde în termen de o zi lucrătoare.",
+    "reachUs": "Contactați-ne direct",
+    "preferConversation": "Preferi o conversație? Suntem la un apel distanță.",
+    "contactLede": "Cel mai rapid mod de a merge mai departe este o scurtă conversație. Contactați-ne pe orice canal de mai jos sau rezervați un slot și venim pregătiți la dvs.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "office": "Birou",
+    "hours": "Orele",
+    "hoursValue": "Luni – Sâmbătă, 9:30 – 18:30 IST",
+    "bookSlot": "Rezervă un loc de consultație",
+    "sendMessage": "Trimite-ne un mesaj",
+    "fieldsRequired": "Câmpurile marcate cu * sunt obligatorii.",
+    "fullName": "Nume complet *",
+    "emailLabel": "E-mail *",
+    "company": "Compania",
+    "subject": "Subiect",
+    "messageLabel": "Mesaj *",
+    "sending": "Se trimite…",
+    "sendBtn": "Trimite mesaj",
+    "successMsg": "Mesaj trimis! O copie a fost trimisă prin e-mail.",
+    "errorMsg": "Nu s-a putut salva mesajul dvs. Verificați dacă tabelul contact_messages există, apoi încercați din nou.",
+    "offices": {
+      "vijayawada": "Biroul Vijayawada",
+      "southAfrica": "Biroul Africa de Sud"
+    },
+    "placeholders": {
+      "fullName": "Numele tău complet",
+      "email": "tu@company.com",
+      "company": "Compania sau organizația dvs.",
+      "subject": "Cum putem ajuta?",
+      "message": "Spuneți-ne despre proiectul dvs., calendarul și obiectivele dvs...."
+    },
+    "validation": {
+      "fullNameRequired": "Vă rugăm să introduceți numele dvs. complet.",
+      "emailRequired": "Vă rugăm să introduceți adresa dvs. de e-mail.",
+      "emailInvalid": "Vă rugăm să introduceți o adresă de email validă.",
+      "messageRequired": "Vă rugăm să introduceți un mesaj."
+    }
+  },
+  "services": {
+    "eyebrow": "Servicii",
+    "title": "Ce facem",
+    "sub": "De la strategie la operațiuni gestionate, oferim parteneriate tehnologice end-to-end pentru companiile care concurează la execuție.",
+    "items": {
+      "buildFromScratch": {
+        "label": "De la început până la implementare",
+        "description": "Dezvoltare end-to-end de noi soluții digitale de la cerințele de afaceri și arhitectura soluției prin dezvoltare, integrare, testare, implementare și asistență continuă."
+      },
+      "businessProcessAutomation": {
+        "label": "Automatizarea proceselor de afaceri",
+        "description": "Proiectarea și implementarea de soluții inteligente de automatizare care eficientizează procesele de afaceri, elimină activitățile manuale repetitive, îmbunătățesc eficiența operațională și accelerează rezultatele afacerii."
+      },
+      "centerOfExcellence": {
+        "label": "Centrul de Excelență",
+        "description": "Înființarea de centre specializate de tehnologie și capacități de afaceri care oferă guvernanță, standarde, expertiză, cadre, active reutilizabile și îmbunătățire continuă în întreaga organizație."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Dezvoltare personalizată și personalizare",
+        "description": "Dezvoltarea și îmbunătățirea aplicațiilor, platformelor, fluxurilor de lucru și soluțiilor de întreprindere pentru a răspunde cerințelor unice de afaceri și pentru a oferi funcționalități personalizate."
+      },
+      "digitalTransformation": {
+        "label": "Transformare digitală",
+        "description": "Modernizarea operațiunilor de afaceri, a ecosistemelor tehnologice și a experiențelor clienților prin cloud, AI, automatizare, date și tehnologii de aplicații moderne."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Cadrul de soluții end-to-end",
+        "description": "O abordare cuprinzătoare de livrare care acoperă întregul ciclu de viață al tehnologiei – de la strategie, cerințe și arhitectură până la dezvoltare, integrare, implementare, guvernare, monitorizare și asistență."
+      },
+      "migrationModernization": {
+        "label": "Migrație și modernizare",
+        "description": "Migrarea securizată și structurată a aplicațiilor, datelor, platformelor, infrastructurii și încărcăturilor de lucru din medii vechi sau existente la platforme tehnologice moderne, scalabile și optimizate."
+      },
+      "pocPilotImplementation": {
+        "label": "Dovada conceptului (PoC) și implementarea pilot",
+        "description": "Dezvoltarea și validarea rapidă a soluțiilor tehnologice pentru a evalua fezabilitatea tehnică, valoarea afacerii, cerințele de integrare, performanța și scalabilitatea înainte de implementarea la scară completă."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Servicii partajate și operațiuni gestionate",
+        "description": "Livrarea centralizată a tehnologiei și a capacităților operaționale în cadrul unităților de afaceri prin procese standardizate, resurse calificate, cadre de guvernare, management al serviciilor și niveluri măsurabile de servicii."
+      },
+      "customDevelopment": {
+        "label": "De la început până la implementare",
+        "description": "Dezvoltare end-to-end de noi soluții digitale de la cerințele de afaceri și arhitectura soluției prin dezvoltare, integrare, testare, implementare și asistență continuă."
+      },
+      "processAutomation": {
+        "label": "Automatizarea proceselor de afaceri",
+        "description": "Proiectarea și implementarea de soluții inteligente de automatizare care eficientizează procesele de afaceri, elimină activitățile manuale repetitive, îmbunătățesc eficiența operațională și accelerează rezultatele afacerii."
+      },
+      "solutionEngineering": {
+        "label": "Dezvoltare personalizată și personalizare",
+        "description": "Dezvoltarea și îmbunătățirea aplicațiilor, platformelor, fluxurilor de lucru și soluțiilor de întreprindere pentru a răspunde cerințelor unice de afaceri și pentru a oferi funcționalități personalizate."
+      },
+      "endToEndSolutions": {
+        "label": "Cadrul de soluții end-to-end",
+        "description": "O abordare cuprinzătoare de livrare care acoperă întregul ciclu de viață al tehnologiei – de la strategie, cerințe și arhitectură până la dezvoltare, integrare, implementare, guvernare, monitorizare și asistență."
+      },
+      "migrationServices": {
+        "label": "Migrație și modernizare",
+        "description": "Migrarea securizată și structurată a aplicațiilor, datelor, platformelor, infrastructurii și încărcăturilor de lucru din medii vechi sau existente la platforme tehnologice moderne, scalabile și optimizate."
+      },
+      "pilotPrototyping": {
+        "label": "Dovada conceptului (PoC) și implementarea pilot",
+        "description": "Dezvoltarea și validarea rapidă a soluțiilor tehnologice pentru a evalua fezabilitatea tehnică, valoarea afacerii, cerințele de integrare, performanța și scalabilitatea înainte de implementarea la scară completă."
+      },
+      "sharedServices": {
+        "label": "Servicii partajate și operațiuni gestionate",
+        "description": "Livrarea centralizată a tehnologiei și a capacităților operaționale în cadrul unităților de afaceri prin procese standardizate, resurse calificate, cadre de guvernare, management al serviciilor și niveluri măsurabile de servicii."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Programați o consultație",
+      "exploreFramework": "Explorați cadrul de soluții",
+      "talkSeniorEngineer": "Discutați cu un inginer superior",
+      "exploreTechStack": "Explorați stiva de tehnologie",
+      "bookPocSession": "Rezervați o sesiune de descoperire PoC",
+      "seeAllServices": "Vezi toate serviciile",
+      "requestAssessment": "Solicitați o evaluare a migrației",
+      "exploreCloudSolutions": "Explorați soluțiile cloud"
+    },
+    "sharedServices": {
+      "heroBadge": "SERVICII PARȚIUNE ȘI OPERAȚIUNI GESTIONATE",
+      "heroTitle": "Servicii partajate pentru întreprinderi și operațiuni gestionate",
+      "heroDesc": "Scalați capabilitățile de afaceri, eficientizați fluxurile de lucru interfuncționale și atingeți excelența operațională prin modele de servicii partajate standardizate, sigure și rentabile.",
+      "bookDiscovery": "Descoperirea operațiunilor gestionate de carte",
+      "exploreFramework": "Explorați cadrul de soluții",
+      "coreCapabilities": "Capabilități de bază:",
+      "managedServices": "Servicii gestionate",
+      "itOperations": "Operațiuni IT",
+      "appSupport": "Suport pentru aplicații",
+      "serviceManagement": "Managementul serviciilor",
+      "resourceOptimization": "Optimizarea resurselor",
+      "slaManagement": "Management SLA",
+      "governance": "Guvernare",
+      "continuousImprovement": "Îmbunătățirea continuă",
+      "costOptimization": "Optimizarea costurilor",
+      "readyTitle": "Sunteți gata să vă optimizați operațiunile?",
+      "readyDesc": "Descoperiți modul în care cadrele noastre de servicii partajate și operațiuni gestionate pot îmbunătăți calitatea serviciilor, pot asigura continuitatea operațională și pot genera eficiență durabilă a costurilor pentru întreprinderea dvs.",
+      "scheduleSession": "Programați o sesiune de descoperire"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SOLUȚIE INGINERIE & ARHITECTURA",
+      "heroTitle": "Dezvoltare personalizată și personalizare",
+      "heroDesc": "Arhitectează, proiectează și implementează sisteme software de înaltă performanță concepute special pentru fluxurile de lucru operaționale, conductele de date și cerințele de scară."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "INOVAȚIE RAPIDA & EXPERIMENTARE",
+      "heroTitle": "Dovada conceptului (PoC) și implementarea pilot",
+      "heroDesc": "Validați tehnologiile emergente, reduceți riscul arhitecturilor complexe și dovediți valoarea afacerii cu prototipuri de nivel de producție în săptămâni, nu în trimestre."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ARHITECTURA CICLU DE VIAȚĂ ȘI LIVRARE",
+      "heroTitle": "Cadrul de soluții end-to-end",
+      "heroDesc": "Un model de livrare unificat care conectează descoperirea produselor, arhitectura soluției, inginerie, infrastructura cloud și operațiuni de fiabilitate 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "MODERNIZARE INFRASTRUCTURĂ ȘI MOȘTENIRE",
+      "heroTitle": "Migrație și modernizare",
+      "heroDesc": "Treceți fără probleme încărcăturile de lucru vechi, arhitecturile monolitice și infrastructura locală la platforme cloud moderne, sigure și scalabile."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Modernizarea întreprinderii",
+        "titlePart1": "Digital",
+        "titlePart2": "Transformare",
+        "description": "Modernizarea operațiunilor de afaceri, a ecosistemelor tehnologice și a experiențelor clienților prin cloud, AI, automatizare, date și tehnologii de aplicații moderne.",
+        "bookWorkshop": "Atelier de transformare a cărților",
+        "exploreFramework": "Explorați cadrul de soluții",
+        "startTransformation": "Începeți transformarea",
+        "exploreStrategy": "Explorați strategia",
+        "coreCapabilitiesTitle": "Capabilități de bază",
+        "coreCapabilities": [
+          "Strategie digitală",
+          "Transformare în cloud",
+          "AI și automatizare",
+          "Modernizare aplicație",
+          "Modernizare moștenire",
+          "Date și analize",
+          "Experiența clienților",
+          "Modernizarea tehnologiei"
+        ],
+        "row1Eyebrow": "Strategie și foaie de parcurs",
+        "row1Title": "De la viziune la foaia de parcurs executabilă",
+        "row1P1": "Colaborăm cu liderii întreprinderilor pentru a defini strategia digitală, cazurile de afaceri și foile de parcurs în faze cu câștiguri rapide și execuție fără riscuri.",
+        "row1P2": "Inițiativele prioritare, modelele TCO și KPI-urile asigură că fiecare efort de modernizare a tehnologiei este legat direct de veniturile, eficiența și rezultatele satisfacției clienților.",
+        "row2Eyebrow": "Modernizare moștenire",
+        "row2Title": "Modernizați fără a rupe afacerea",
+        "row2P1": "Re-platformați monoliții la microservicii, API-uri și modele native din cloud, cu reduceri de timp de nefuncționare zero și validare automată a regresiei.",
+        "row2P2": "Modernizăm aplicațiile, bazele de date și straturile de integrare, păstrând în același timp conformitatea și postura de securitate.",
+        "row3Eyebrow": "Cloud, AI și date",
+        "row3Title": "Adopție în cloud și inteligență bazată pe date",
+        "row3P1": "Adoptați AWS, Azure și GCP, construiți conducte moderne de date și încorporați agenți de învățare automată pentru a conduce decizii autonome.",
+        "row3P2": "De la streaming de evenimente în timp real la tablouri de bord unificate, transformarea devine măsurabilă și durabilă.",
+        "row4Eyebrow": "Experiența clienților",
+        "row4Title": "Experiențe moderne omnicanal",
+        "row4P1": "Reproiectați călătoriile clienților prin portaluri web receptive, iOS, Android și autoservire cu interfețe personalizate.",
+        "row4P2": "Ingineria platformei, telemetria și buclele de feedback automatizate fac inovația digitală continuă.",
+        "pillarsTitle": "Pilonii de transformare",
+        "pillarsSub": "Pârghii axate pe rezultate care asigură un leadership digital durabil.",
+        "pillar1Title": "Strategie și guvernanță digitală",
+        "pillar1Desc": "Planuri de transformare în etape cu modelare de business case, guvernanță arhitecturii și urmărire a riscurilor de reper.",
+        "pillar2Title": "Cloud și platformă de date",
+        "pillar2Desc": "Fundații multi-cloud AWS/Azure/GCP, conducte automate și activare a analizei datelor întreprinderii.",
+        "pillar3Title": "AI și automatizare",
+        "pillar3Desc": "Automatizare inteligentă a proceselor, agenți cognitivi AI și telemetrie predictivă pentru a optimiza operațiunile zilnice.",
+        "pillar4Title": "Experiența clienților",
+        "pillar4Desc": "Portaluri digitale omnicanal de mare conversie și interfețe personalizate create pentru reținerea maximă a utilizatorilor.",
+        "ctaTitle": "Sunteți gata să vă transformați întreprinderea?",
+        "ctaSub": "Partenerați cu Rezonants pentru o transformare digitală treptată, fără riscuri, legată de rezultate de afaceri măsurabile.",
+        "ctaButton": "Rezervați un apel de transformare digitală"
+      },
+      "customDevelopment": {
+        "eyebrow": "Inginerie digitală end-to-end",
+        "titlePart1": "Inceput Pentru",
+        "titlePart2": "Desfăşurare",
+        "bookConsultation": "Rezervați o consultație",
+        "exploreEngineering": "Explorați ingineria soluțiilor"
+      },
+      "processAutomation": {
+        "eyebrow": "Operații inteligente de proces",
+        "titlePart1": "Procesul de afaceri",
+        "titlePart2": "Automatizare",
+        "bookDiscovery": "Descoperirea automatizării cărților",
+        "exploreCoE": "Explorați Centrul de Excelență"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centrul de",
+        "titlePart2": "Excelență",
+        "bookConsultation": "Consultare CoE de carte",
+        "exploreCapabilities": "Explorați capacitățile"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Ciclul de viață complet al tehnologiei",
+        "titlePart1": "De la capăt la capăt",
+        "titlePart2": "Cadrul de soluții",
+        "startJourney": "Începeți călătoria ciclului de viață",
+        "exploreTransformation": "Explorați Transformarea"
+      },
+      "migrationServices": {
+        "eyebrow": "Transformare cloud și infrastructură",
+        "titlePart1": "Migrație &",
+        "titlePart2": "Modernizare",
+        "planMigration": "Planificați-vă migrația",
+        "exploreTransformation": "Explorați Transformarea"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Validare rapidă și fezabilitate",
+        "titlePart1": "Dovada conceptului (PoC) &",
+        "titlePart2": "Implementare pilot",
+        "initiateDiscovery": "Inițiază PoC Discovery",
+        "exploreDevelopment": "Explorați dezvoltarea personalizată"
+      },
+      "solutionEngineering": {
+        "badge": "Inginerie digitală personalizată",
+        "bookConsultation": "Rezervați o consultație",
+        "exploreCapabilities": "Explorați capacitățile"
+      },
+      "sharedServices": {
+        "eyebrow": "Centru de operațiuni centralizate",
+        "titlePart1": "Servicii partajate și",
+        "titlePart2": "Operațiuni gestionate",
+        "bookDiscovery": "Descoperirea operațiunilor gestionate de carte",
+        "exploreFramework": "Explorați cadrul de soluții"
+      }
+    },
+    "coreCapabilities": "Capabilități de bază"
+  },
+  "products": {
+    "featured": "Produse recomandate",
+    "featuredSub": "Simplificați operațiunile, conectați echipele, automatizați procesele și stimulați o creștere mai inteligentă a afacerii.",
+    "seeAll": "Vezi toate produsele",
+    "featuredProducts": "PRODUSE PROPRIE",
+    "meetAutonomous": "Faceți cunoștință cu forța de muncă autonomă",
+    "meetAutonomousText": "Transformă-ți operațiunile cu agenți AI care lucrează alături de echipa ta pentru a gestiona sarcini complexe și repetitive.",
+    "learnMore": "Aflați mai multe",
+    "erp": {
+      "title": "O singură platformă gata pentru orice",
+      "sub": "Împuternicirea afacerilor cu soluții de management al întreprinderilor conectate, inteligente și scalabile.",
+      "explore": "Explorați soluțiile ERP",
+      "gridTitle": "SOLUȚII ERP",
+      "promoTitle": "ERP modular pentru creștere",
+      "promoText": "Implementați rapid funcții ERP modulare, fără complexitatea sistemelor tradiționale multianuale.",
+      "scheduleDemo": "Programează Demo"
+    },
+    "it": {
+      "title": "Soluții IT",
+      "sub": "Infrastructură de nivel enterprise, securitate și soluții DevOps pentru a vă menține afacerea în funcțiune.",
+      "explore": "Explorați soluțiile IT",
+      "gridTitle": "SOLUȚII IT",
+      "promoTitle": "Infrastructură IT de încredere",
+      "promoText": "Construiți o bază tehnologică rezistentă cu servicii cloud gestionate, securitate și DevOps.",
+      "getStarted": "Începeți"
+    },
+    "crm": {
+      "title": "Soluții CRM",
+      "sub": "Gestionarea relațiilor cu clienții pentru a eficientiza vânzările, asistența și fluxurile de lucru de marketing.",
+      "explore": "Explorați soluțiile CRM",
+      "gridTitle": "SOLUȚII CRM",
+      "promoTitle": "Închideți mai multe oferte",
+      "promoText": "Împuterniciți-vă echipele de vânzări și asistență cu date unificate despre clienți și automatizare inteligentă.",
+      "startTrial": "Începeți încercarea gratuită"
+    },
+    "hrms": {
+      "title": "Soluții HRMS",
+      "sub": "Managementul resurselor umane care acoperă salarizarea, recrutarea, performanța și implicarea angajaților.",
+      "explore": "Explorați soluțiile HRMS",
+      "gridTitle": "SOLUȚII HRMS",
+      "promoTitle": "Simplificați operațiunile de resurse umane",
+      "promoText": "Automatizați fluxurile de lucru de HR, de la recrutare până la pensionare, cu o platformă modernă, dedicată angajaților.",
+      "requestDemo": "Solicitați o demonstrație"
+    },
+    "sidebar": {
+      "featuredProducts": "Produse recomandate",
+      "erpSolutions": "Soluții ERP",
+      "solutions": "SOLUȚII"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Agenți și instrumente autonome inteligente care automatizează fluxurile de lucru complexe și operațiunile clienților."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Platformă de management multi-cloud care optimizează performanța, securitatea, conformitatea și costurile."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hub hibrid de colaborare și productivitate cu management integrat de sarcini, chat și documente."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Motor de analiză în timp real care transformă fluxurile de evenimente de afaceri în informații utile."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Arhitectură unificată a întreprinderii care conectează finanțele, activele, resursele umane, achizițiile și inventarul."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platformă de experiență a angajaților care acoperă salarizare, beneficii, evaluări ale performanței și autoservire."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Urmărirea în timp real a logisticii, operațiunile automate ale depozitelor și prognoza cererii."
+      },
+      "financeHub": {
+        "title": "Centrul financiar",
+        "description": "Gestionare avansată a registrului, fluxuri de lucru de facturare, conformitate automată și rapoarte în timp real ale fluxului de numerar."
+      },
+      "cloudInfrastructure": {
+        "title": "Infrastructura cloud",
+        "description": "Arhitectură cloud scalabilă, migrare și management prin AWS, Azure și GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Suite de securitate cibernetică",
+        "description": "Monitorizarea securității de la capăt la capăt, detectarea amenințărilor și gestionarea conformității."
+      },
+      "devopsPipeline": {
+        "title": "Conducta DevOps",
+        "description": "Automatizare CI/CD, containerizare și infrastructură ca cod pentru livrare mai rapidă."
+      },
+      "managedItServices": {
+        "title": "Servicii IT gestionate",
+        "description": "Monitorizarea infrastructurii 24/7, răspuns la incident și întreținere proactivă."
+      },
+      "salesCrm": {
+        "title": "CRM de vânzări",
+        "description": "Managementul conductei, scorul de clienți potențiali, urmărirea tranzacțiilor și prognoza vânzărilor într-o singură platformă."
+      },
+      "customerSupportHub": {
+        "title": "Centru de asistență pentru clienți",
+        "description": "Bilete, bază de cunoștințe, chat live și gestionarea suportului omnicanal."
+      },
+      "marketingAutomation": {
+        "title": "Automatizare de marketing",
+        "description": "Orchestrarea campaniei, automatizarea e-mailurilor, creșterea clienților potențiali și analiză."
+      },
+      "customer360View": {
+        "title": "Client Vizualizare 360 ​​",
+        "description": "Profiluri de clienți unificate care combină vânzări, asistență și date de interacțiune."
+      },
+      "coreHr": {
+        "title": "Core HR",
+        "description": "Înregistrările angajaților, ierarhia organizației, gestionarea concediilor și urmărirea prezenței."
+      },
+      "payrollCompliance": {
+        "title": "Salarizare și conformitate",
+        "description": "Procesare automată a salariilor, calcule fiscale și conformitate cu statutul."
+      },
+      "performanceManagement": {
+        "title": "Managementul performanței",
+        "description": "Urmărirea OKR, recenzii la 360°, stabilirea obiectivelor și planurile de dezvoltare a angajaților."
+      },
+      "recruitmentPortal": {
+        "title": "Portal de recrutare",
+        "description": "Afișări de locuri de muncă, urmărirea candidaților, programarea interviurilor și fluxurile de lucru de integrare."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Produse recomandate",
+        "heading": "Produse recomandate",
+        "sub": "Simplificați operațiunile, conectați echipele, automatizați procesele și stimulați o creștere mai inteligentă a afacerii.",
+        "promoTitle": "Faceți cunoștință cu forța de muncă autonomă",
+        "promoText": "Transformă-ți operațiunile cu agenți AI care lucrează alături de echipa ta pentru a gestiona sarcini complexe și repetitive.",
+        "items": [
+          {
+            "title": "Automatizare AI și agenți inteligenți",
+            "description": "Automatizați sarcinile repetitive și implementați agenți inteligenți AI care îmbunătățesc productivitatea, luarea deciziilor și rezultatele afacerii."
+          },
+          {
+            "title": "Serviciu IT și suport digital",
+            "description": "Oferiți asistență IT mai rapidă și mai inteligentă, cu gestionarea eficientă a serviciilor, automatizare și fluxuri de lucru digitale."
+          },
+          {
+            "title": "Guvernarea AI al întreprinderii",
+            "description": "Creați o adoptare responsabilă a inteligenței artificiale cu o guvernanță puternică, securitate, conformitate, transparență și controale de risc."
+          },
+          {
+            "title": "Operații IT inteligente",
+            "description": "Transformați operațiunile IT cu monitorizare bazată pe inteligență artificială, automatizare, perspective predictive și rezolvare proactivă a problemelor."
+          },
+          {
+            "title": "Managementul experienței clienților",
+            "description": "Creați călătorii personalizate ale clienților cu implicare inteligentă, automatizare, analiză și experiențe digitale perfecte."
+          },
+          {
+            "title": "Strategia de afaceri și optimizarea portofoliului",
+            "description": "Aliniați investițiile în tehnologie cu obiectivele de afaceri pentru a optimiza portofoliile, a îmbunătăți eficiența și a stimula creșterea durabilă."
+          },
+          {
+            "title": "Ciclul de viață al activelor și tehnologiei IT",
+            "description": "Gestionați activele IT pe parcursul ciclului lor de viață cu o mai bună vizibilitate, automatizare, control al costurilor și planificare a tehnologiei."
+          },
+          {
+            "title": "Risc de întreprindere și conformitate",
+            "description": "Identificați, evaluați și gestionați riscurile întreprinderii, consolidând în același timp conformitatea, controalele și rezistența organizațională."
+          },
+          {
+            "title": "Operațiuni de securitate cibernetică și amenințări",
+            "description": "Protejați mediile digitale cu detectarea proactivă a amenințărilor, operațiuni de securitate, răspuns la incident și monitorizare continuă."
+          },
+          {
+            "title": "Automatizarea forței de muncă pe teren",
+            "description": "Dă putere echipelor de teren cu programare inteligentă, fluxuri de lucru mobile, automatizare și vizibilitate operațională în timp real."
+          },
+          {
+            "title": "Experiența angajaților și serviciile de resurse umane",
+            "description": "Simplificați serviciile angajaților cu fluxuri de lucru digitale, soluții de autoservire, automatizare și experiențe personalizate ale angajaților."
+          },
+          {
+            "title": "Loc de muncă digital unificat",
+            "description": "Conectați oameni, procese, aplicații și instrumente de colaborare printr-un loc de muncă digital sigur, inteligent și perfect."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Soluții ERP",
+        "heading": "O singură platformă, gata pentru orice",
+        "sub": "Împuternicirea afacerilor cu soluții de management al întreprinderilor conectate, inteligente și scalabile.",
+        "promoTitle": "ERP modular pentru creștere",
+        "promoText": "Implementați rapid funcții ERP modulare, fără complexitatea sistemelor tradiționale multianuale.",
+        "items": [
+          {
+            "title": "Automatizarea proceselor de afaceri",
+            "description": "Eficientizați finanțele, resursele umane, vânzările, achizițiile și operațiunile zilnice."
+          },
+          {
+            "title": "Management integrat de afaceri",
+            "description": "Conectați departamente, date și fluxuri de lucru pe o platformă unificată."
+          },
+          {
+            "title": "Finanțe și Contabilitate",
+            "description": "Îmbunătățiți vizibilitatea financiară, raportarea, bugetarea și conformitatea."
+          },
+          {
+            "title": "HR & Salarizare",
+            "description": "Simplificați gestionarea angajaților, prezența, salarizarea și procesele de resurse umane."
+          },
+          {
+            "title": "Managementul lanțului de aprovizionare",
+            "description": "Optimizați achizițiile, inventarul, furnizorii și logistica."
+          },
+          {
+            "title": "Vânzări și managementul clienților",
+            "description": "Gestionați eficient clienții potențiali, clienții, comenzile și performanța vânzărilor."
+          },
+          {
+            "title": "Analiză și raportare în timp real",
+            "description": "Transformați datele de afaceri în informații utile pentru a lua decizii mai rapide."
+          },
+          {
+            "title": "Soluții ERP în cloud",
+            "description": "Activați managementul întreprinderii securizat, scalabil și accesibil de oriunde."
+          }
+        ]
+      },
+      "it": {
+        "title": "Soluții IT",
+        "heading": "Soluțiile noastre IT",
+        "sub": "Transformați operațiunile IT cu soluții digitale inteligente, proactive și scalabile care îmbunătățesc performanța, productivitatea și continuitatea afacerii.",
+        "promoTitle": "Infrastructură IT de încredere",
+        "promoText": "Construiți o bază tehnologică rezistentă cu servicii cloud gestionate, securitate și DevOps.",
+        "items": [
+          {
+            "title": "Management Service IT",
+            "description": "Eficientizați serviciile IT, incidentele, solicitările și fluxurile de lucru pentru o rezolvare mai rapidă."
+          },
+          {
+            "title": "Managementul operațiunilor IT",
+            "description": "Monitorizați infrastructura și aplicațiile cu operațiuni IT proactive, bazate pe date."
+          },
+          {
+            "title": "Managementul activelor IT",
+            "description": "Gestionați eficient activele tehnologice, reducând în același timp costurile, riscurile și complexitatea ciclului de viață."
+          },
+          {
+            "title": "Arhitectura întreprinderii",
+            "description": "Aliniați strategia de afaceri cu arhitectura tehnologică și investițiile potrivite."
+          },
+          {
+            "title": "Guvernarea cloud",
+            "description": "Îmbunătățiți securitatea cloud, conformitatea, performanța și gestionarea costurilor."
+          },
+          {
+            "title": "Operații digitale",
+            "description": "Automatizați procesele IT și obțineți vizibilitate în timp real în mediul dvs. tehnologic."
+          },
+          {
+            "title": "Observabilitate și monitorizare",
+            "description": "Detectați din timp problemele de performanță și mențineți experiențe digitale de încredere."
+          },
+          {
+            "title": "Management strategic de portofoliu",
+            "description": "Conectați investițiile IT cu prioritățile de afaceri și cu rezultate măsurabile."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Soluții CRM",
+        "heading": "Soluțiile noastre CRM",
+        "sub": "Oferiți experiențe clienților conectate, personalizate și inteligente de-a lungul întregii călătorii a clienților.",
+        "promoTitle": "Închide Mai multe Oferte",
+        "promoText": "Împuterniciți-vă echipele de vânzări și asistență cu date unificate pentru clienți și automatizare inteligentă.",
+        "items": [
+          {
+            "title": "Managementul Serviciului Clienți",
+            "description": "Îmbunătățiți asistența pentru clienți cu o rezoluție mai rapidă, autoservire și fluxuri de lucru inteligente."
+          },
+          {
+            "title": "Automatizarea vânzărilor",
+            "description": "Automatizați activitățile de vânzări, gestionați clienții potențiali și ajutați echipele să închidă oportunități mai rapid."
+          },
+          {
+            "title": "Managementul vânzărilor și comenzilor",
+            "description": "Eficientizați călătoria de la lead la comandă și îmbunătățiți vizibilitatea veniturilor."
+          },
+          {
+            "title": "Managementul Field Service",
+            "description": "Optimizați operațiunile de teren, programarea, expedierea și productivitatea tehnicienilor."
+          },
+          {
+            "title": "Managementul experienței clienților",
+            "description": "Creați experiențe perfecte și personalizate în fiecare punct de contact al clienților."
+          },
+          {
+            "title": "CRM Analytics și perspective",
+            "description": "Transformați datele clienților în informații utile pentru decizii de afaceri mai inteligente."
+          },
+          {
+            "title": "Automatizare de marketing",
+            "description": "Automatizați campaniile, implicarea clienților și creșterea clienților potențiali."
+          },
+          {
+            "title": "CRM alimentat de AI",
+            "description": "Utilizați automatizarea inteligentă și informațiile AI pentru a îmbunătăți productivitatea și implicarea clienților."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Soluții HRMS",
+        "heading": "Soluțiile noastre HRMS",
+        "sub": "Împuternicește-ți forța de muncă cu soluții de HR inteligente, integrate și automatizate care simplifică managementul angajaților și îmbunătățesc experiența la locul de muncă.",
+        "promoTitle": "Simplificați operațiunile HR",
+        "promoText": "Automatizați fluxurile de lucru de HR, de la recrutare până la pensionare, cu o platformă modernă, dedicată angajaților.",
+        "items": [
+          {
+            "title": "Managementul resurselor umane de bază",
+            "description": "Gestionați eficient informațiile angajaților, structurile organizaționale și procesele de resurse umane."
+          },
+          {
+            "title": "Gestionarea salariilor",
+            "description": "Automatizați salarizarea, procesarea salariilor, deducerile și conformitatea."
+          },
+          {
+            "title": "Self-Service pentru angajați",
+            "description": "Oferiți angajaților acces ușor la serviciile de resurse umane, solicitări, documente și informații."
+          },
+          {
+            "title": "Managementul prezenței și concediilor",
+            "description": "Simplificați urmărirea prezenței, cererile de concediu, turele și programul de lucru."
+          },
+          {
+            "title": "Recrutare și integrare",
+            "description": "Simplificați angajarea, gestionarea candidaților, integrarea și integrarea angajaților."
+          },
+          {
+            "title": "Managementul performanței",
+            "description": "Stabiliți obiective, urmăriți performanța și sprijiniți dezvoltarea continuă a angajaților."
+          },
+          {
+            "title": "Învățare și dezvoltare",
+            "description": "Gestionați programele de formare, dezvoltarea competențelor și creșterea angajaților."
+          },
+          {
+            "title": "HR Analytics și raportare",
+            "description": "Transformați datele forței de muncă în informații utile pentru a lua decizii mai bune în domeniul resurselor umane."
+          },
+          {
+            "title": "Automatizare HR alimentată de AI",
+            "description": "Automatizați sarcinile repetitive de resurse umane și oferiți experiențe mai rapide și personalizate angajaților."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Dezvoltare aplicație",
+        "heading": "Serviciile noastre de dezvoltare a aplicațiilor",
+        "sub": "Creați aplicații sigure, scalabile și de înaltă performanță care accelerează creșterea afacerii și simplifică procesele complexe.",
+        "promoTitle": "Creați aplicații pe care utilizatorii le plac",
+        "promoText": "De la idee până la lansare, echipa noastră proiectează și dezvoltă aplicații mobile și web de înaltă calitate, care se extind.",
+        "items": [
+          {
+            "title": "Dezvoltare de aplicații personalizate",
+            "description": "Creați aplicații personalizate concepute în funcție de cerințele dvs. unice de afaceri."
+          },
+          {
+            "title": "Dezvoltare de aplicații web și mobile",
+            "description": "Oferiți experiențe digitale perfecte pe web, pe dispozitive mobile și pe mai multe dispozitive."
+          },
+          {
+            "title": "Dezvoltare de aplicații pentru întreprinderi",
+            "description": "Dezvoltați soluții scalabile care se integrează cu sistemele dvs. de afaceri existente."
+          },
+          {
+            "title": "Dezvoltare Low-Code & No-Code",
+            "description": "Accelerați livrarea aplicațiilor cu platforme flexibile de dezvoltare low-code."
+          },
+          {
+            "title": "Integrare API și sistem",
+            "description": "Conectați aplicații, platforme și sisteme terțe pentru un flux de date fără întreruperi."
+          },
+          {
+            "title": "Modernizare aplicație",
+            "description": "Transformați aplicațiile vechi în soluții moderne, scalabile și eficiente."
+          },
+          {
+            "title": "Aplicații AI",
+            "description": "Integrați AI, automatizare și capabilități inteligente în aplicațiile de afaceri."
+          },
+          {
+            "title": "Suport și întreținere pentru aplicații",
+            "description": "Asigurați performanță continuă, securitate, actualizări și fiabilitate."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI și robotică",
+    "businessAutomation": "Automatizarea afacerilor",
+    "cloudMigrations": "Migrații în cloud",
+    "dataCenters": "Centre de date",
+    "cognitiveAnalyticsAi": "Analiză cognitivă și inteligență artificială",
+    "informationReportingSystems": "Sisteme de informare și raportare",
+    "managedServices": "Servicii gestionate",
+    "oneStopSolutions": "Soluții unice"
+  },
+  "servicePage": {
+    "serviceOverview": "Prezentare generală a serviciilor",
+    "whatWeOffer": "Ce oferim",
+    "whyChooseRezonants": "De ce să alegeți Rezonants",
+    "benefitsOfWorking": "Beneficiile lucrului cu noi",
+    "techStack": "Stack tehnologic",
+    "technologiesWeUse": "Tehnologii pe care le folosim",
+    "ourWork": "Munca noastră",
+    "relatedProjects": "Proiecte conexe",
+    "viewCaseStudy": "Vezi studiul de caz",
+    "readyToDiscuss": "Sunteți gata să discutați despre proiectul dvs. {{title}}?",
+    "seniorEngineersReady": "Inginerii noștri seniori sunt gata să vă ajute să vă planificați, să proiectați și să vă construiți soluția.",
+    "startProject": "Începeți-vă proiectul",
+    "howItWorks": "Cum funcționează"
+  },
+  "consultation": {
+    "badge": "Rezervați o consultație gratuită",
+    "title": "Să vă planificăm proiectul <span class='hero-accent'>Împreună</span>",
+    "description": "Programează un apel fără obligații cu consultanții noștri. Discutați cerințele dvs., explorați abordarea tehnică potrivită și obțineți o ofertă clară - totul în mai puțin de 30 de minute.",
+    "bookSlot": "Rezervă-ți locul",
+    "howItWorks": "Cum funcționează",
+    "accountRequired": "Cont necesar",
+    "signInToBook": "Conectați-vă pentru a rezerva consultația",
+    "accountRequiredText": "Veți avea nevoie de un cont Rezonants pentru a solicita o consultație. Conectați-vă sau creați unul — durează mai puțin de un minut.",
+    "signInToContinue": "Conectați-vă pentru a continua",
+    "newToRezonants": "Nou în Rezonants?",
+    "createAccount": "Creează un cont",
+    "requestMeeting": "Solicitați o întâlnire",
+    "tellUsAboutProject": "Spune-ne despre proiectul tău",
+    "fillDetails": "Completați datele dvs. și vă vom confirma prin e-mail slotul pentru consultație.",
+    "fullName": "Nume complet *",
+    "email": "E-mail *",
+    "phone": "Telefon *",
+    "company": "Compania",
+    "serviceOfInterest": "Serviciul de interes *",
+    "selectService": "Selectați un serviciu…",
+    "preferredDate": "Data preferată *",
+    "preferredTime": "Ora preferată *",
+    "selectTimeSlot": "Selectați un interval orar…",
+    "estimatedBudget": "Buget estimat",
+    "selectRange": "Selectați un interval...",
+    "projectRequirements": "Cerințe ale proiectului",
+    "booking": "Rezervare…",
+    "bookFreeConsultation": "Rezervați-mi consultația gratuită",
+    "freeNote": "100% gratuit și fără obligații. În mod normal, răspundem în 24 de ore.",
+    "whatToExpect": "La ce să vă așteptați",
+    "preferToReachUs": "Preferiți să ne contactați direct?",
+    "callUs": "Sună-ne",
+    "emailUs": "Trimite-ne un e-mail",
+    "visitUs": "Vizitează-ne",
+    "whyBookWithUs": "De ce rezervați cu noi",
+    "freeCallTitle": "Un apel gratuit care chiar ajută",
+    "freeCallNoPressure": "Apel gratuit, fără presiune",
+    "freeCallNoPressureText": "Fiecare primă consultație este gratuită. Nu există nicio obligație de a cumpăra - doar sfaturi sincere.",
+    "seniorConsultants": "Numai consultanți seniori",
+    "seniorConsultantsText": "Întâlnirea dumneavoastră este condusă de ingineri și consultanți seniori care își construiesc pentru a trăi.",
+    "clearTimelines": "Ștergeți cronologia și citatele",
+    "clearTimelinesText": "Pleacă cu un următor pas definit, cronologie realistă și prețuri transparente pentru proiectul tău.",
+    "services": {
+      "customSoftware": "Dezvoltare software personalizat",
+      "webMobile": "Dezvoltare de aplicații web și mobile",
+      "cloudDevops": "Soluții Cloud și DevOps",
+      "aiMl": "AI și învățare automată",
+      "itConsulting": "Consultanta IT",
+      "digitalMarketing": "Marketing digital și SEO",
+      "erpSolutions": "Soluții ERP",
+      "other": "Altele / Încă nu sunt sigur"
+    },
+    "budgets": {
+      "under1L": "Sub 1 I INR",
+      "1to5L": "1 L – 5 L",
+      "5to10L": "5 L – 10 L",
+      "above10L": "10 L+",
+      "notDecided": "Nu s-a decis încă"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Înțelege-ți obiectivele",
+        "text": "Ascultăm mai întâi. Un apel de 30 de minute pentru a vă mapa nevoile afacerii, publicul și rezultatele dorite."
+      },
+      "technicalDirection": {
+        "title": "Obțineți direcția tehnică",
+        "text": "Inginerii noștri împărtășesc arhitectura, stiva și abordarea potrivite pentru proiectul dvs."
+      },
+      "clearQuote": {
+        "title": "Primiți o ofertă clară",
+        "text": "Plecați cu o estimare transparentă, cronologie și pașii următori - fără obligație."
+      }
+    },
+    "validation": {
+      "nameRequired": "Numele complet este necesar.",
+      "emailRequired": "E-mailul este obligatoriu.",
+      "emailInvalid": "Introduceți un e-mail valid.",
+      "phoneRequired": "Numărul de telefon este obligatoriu.",
+      "phoneInvalid": "Introduceți un număr de telefon valid.",
+      "serviceRequired": "Vă rugăm să alegeți un serviciu.",
+      "dateRequired": "Alegeți o dată preferată.",
+      "timeRequired": "Alegeți un interval orar preferat.",
+      "messageTooShort": "Adăugați puțin mai multe detalii (cel puțin 10 caractere).",
+      "signInRequired": "Vă rugăm să vă conectați pentru a rezerva consultația.",
+      "couldNotBook": "Nu am putut rezerva consultația. Verificați dacă tabelul de consultări există, apoi încercați din nou.",
+      "bookedSuccess": "Consultație rezervată! Echipa noastră vă va confirma intervalul de timp prin e-mail în curând."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Bine ai revenit",
+    "createAccount": "Creează cont",
+    "forgotPassword": "Am uitat parola",
+    "createNewPassword": "Creați o parolă nouă",
+    "welcomeBackDesc": "Conectați-vă la contul dvs. Rezonants.",
+    "createAccountDesc": "Alăturați-vă Rezonants astăzi.",
+    "forgotDesc": "Introduceți adresa de e-mail și vă vom trimite un link pentru a vă reseta parola.",
+    "recoveryDesc": "Alegeți o nouă parolă puternică pentru contul dvs.",
+    "fullName": "Nume complet",
+    "email": "E-mail",
+    "password": "Parolă",
+    "newPassword": "Parolă nouă",
+    "confirmPassword": "Confirmați parola",
+    "confirmNewPassword": "Confirmați parola nouă",
+    "forgotPasswordLink": "Aţi uitat parola?",
+    "privacyPolicy": "Accept politica Rezonants <1>Confidențialitate și securitate</1>.",
+    "sendResetLink": "Trimite linkul de resetare",
+    "signIn": "Conectare",
+    "signUp": "Înscrie-te",
+    "pleaseWait": "Vă rugăm să așteptați…",
+    "rememberedPassword": "Ți-ai amintit parola?",
+    "signInLink": "Conectați-vă",
+    "noAccount": "Nu ai un cont?",
+    "signUpLink": "Înscrie-te",
+    "hasAccount": "Aveți deja un cont?",
+    "changedMind": "Te-ai răzgândit?",
+    "backToSignIn": "Înapoi pentru a vă conecta",
+    "resetSent": "Link pentru resetarea parolei a fost trimis! Verificați e-mailul pentru a crea o nouă parolă.",
+    "passwordUpdated": "Parola dvs. a fost actualizată. Conectați-vă cu noua parolă.",
+    "accountCreated": "Cont creat! Verificați-vă e-mailul pentru a vă confirma înregistrarea, apoi conectați-vă.",
+    "validation": {
+      "fullNameRequired": "Numele complet este necesar.",
+      "emailRequired": "E-mailul este obligatoriu.",
+      "emailInvalid": "Introduceți un e-mail valid.",
+      "passwordRequired": "Parola este necesară.",
+      "passwordMinLength": "Parola trebuie să aibă cel puțin 6 caractere.",
+      "passwordsNoMatch": "Parolele nu se potrivesc.",
+      "acceptTerms": "Vă rugăm să acceptați Politica de confidențialitate și Politica de securitate Rezonants pentru a continua."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chat cu Rezonants AI",
+    "openChatLabel": "Deschideți chatul Rezonants AI Assistant",
+    "chatTitle": "Asistent AI Rezonants",
+    "online": "Online",
+    "expandLabel": "Extindeți chatbotul",
+    "minimizeLabel": "Minimizați chatbotul",
+    "closeLabel": "Închideți chatbotul",
+    "expand": "Extinde",
+    "minimize": "Minimizează",
+    "close": "Închide",
+    "popularTopics": "Subiecte populare",
+    "askPlaceholder": "Întrebați-mă despre Rezonants...",
+    "messageLabel": "Trimite un mesaj Asistentului AI Rezonants",
+    "sendLabel": "Trimite mesaj",
+    "sendTitle": "Trimite mesaj",
+    "enterToSend": "Enter pentru a trimite · Shift+Enter pentru o nouă linie",
+    "newChat": "Chat nou",
+    "typing": "Rezonants AI tastează",
+    "menuOptions": "Opțiuni de meniu",
+    "greetingMorning": "Bună dimineața",
+    "greetingAfternoon": "Bună ziua",
+    "greetingEvening": "Bună seara",
+    "welcomeText": "! 👋 Bun venit la Rezonants.\nSunt asistentul Rezonants AI. Vă pot ajuta să explorați serviciile noastre, tehnologiile și informațiile de contact."
+  },
+  "cookieConsent": {
+    "title": "Apreciem confidențialitatea ta",
+    "description": "Folosim cookie-uri pentru a vă îmbunătăți experiența de navigare. Puteți accepta toate cookie-urile, respinge cookie-urile neesențiale sau vă puteți personaliza preferințele. Cookie-urile esențiale sunt întotdeauna activate pentru a asigura funcționarea corectă a site-ului web.",
+    "acceptAll": "Acceptați toate",
+    "rejectNonEssential": "Respinge elementele neesențiale",
+    "managePreferences": "Gestionați preferințele",
+    "privacyPolicy": "Politica de confidențialitate"
+  },
+  "cookiePreferences": {
+    "title": "Gestionați preferințele cookie",
+    "description": "Alegeți ce categorii de cookie-uri permiteți. Cookie-urile esențiale rămân activate pentru a menține funcționarea site-ului web.",
+    "essential": "Esențial",
+    "essentialDesc": "Necesar pentru funcționarea site-ului (autentificare, securitate, echilibrare a încărcăturii). Acestea nu pot fi dezactivate.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Ajutați-ne să înțelegem cum folosesc vizitatorii site-ul pentru a-l îmbunătăți. Dezactivat implicit.",
+    "marketing": "Marketing",
+    "marketingDesc": "Folosit pentru a vă afișa oferte și campanii relevante. Dezactivat implicit.",
+    "cancel": "Anulează",
+    "savePreferences": "Salvați preferințe"
+  },
+  "privacy": {
+    "badge": "Legal",
+    "title": "Politica de confidențialitate",
+    "description": "Cum Rezonants colectează, utilizează și vă protejează informațiile personale și modulele cookie.",
+    "lastUpdated": "Ultima actualizare: august 2026",
+    "managingPreferences": "Gestionarea preferințelor dvs.",
+    "managingPreferencesDesc": "Puteți revizui sau modifica cookie-urile pe care le permiteți în orice moment din panoul de preferințe cookie.",
+    "manageCookiePreferences": "Gestionați preferințele cookie",
+    "section1": {
+      "title": "1. Informații pe care le colectăm",
+      "body": [
+        "Colectăm informațiile pe care le furnizați în mod direct (cum ar fi numele și adresa dvs. de e-mail când trimiteți formularul de contact sau creați un cont) și informații colectate automat prin cookie-uri și tehnologii similare, cum ar fi paginile vizitate, tipul dispozitivului și locația aproximativă."
+      ]
+    },
+    "section2": {
+      "title": "2. Cum folosim cookie-urile",
+      "body": [
+        "Cookie-urile esențiale sunt întotdeauna activate, deoarece site-ul web nu poate funcționa corect fără ele. Acestea stochează sesiunea și starea de autentificare și își amintesc preferințele cookie-urilor.",
+        "Cookie-urile de analiză ne ajută să înțelegem cum folosesc vizitatorii site-ul, astfel încât să îl putem îmbunătăți. Cookie-urile de marketing sunt folosite pentru a vă afișa oferte și campanii relevante. Aceste categorii sunt activate numai cu acordul dumneavoastră și pot fi modificate oricând din panoul de preferințe cookie."
+      ]
+    },
+    "section3": {
+      "title": "3. Temei juridic (GDPR)",
+      "body": [
+        "Prelucrăm date cu caracter personal pe următoarele baze legale: consimțământul dumneavoastră (pentru cookie-uri neesențiale și marketing), executarea unui contract (pentru serviciile pe care le solicitați), obligația legală și interesele legitime în cazul în care drepturile dumneavoastră nu le prevalează. Vă puteți retrage consimțământul în orice moment, fără a afecta legalitatea prelucrării efectuate înainte de retragere."
+      ]
+    },
+    "section4": {
+      "title": "4. Drepturile tale",
+      "body": [
+        "În funcție de locația dvs., este posibil să aveți dreptul de a accesa, rectifica, șterge sau restricționa prelucrarea datelor dumneavoastră cu caracter personal, de a vă opune prelucrării și portabilității datelor. De asemenea, puteți depune o plângere la autoritatea locală de supraveghere."
+      ]
+    },
+    "section5": {
+      "title": "5. Reținerea și securitatea datelor",
+      "body": [
+        "Reținem datele cu caracter personal doar atât timp cât este necesar pentru scopurile descrise în această politică. Aplicăm măsuri tehnice și organizatorice adecvate pentru a vă proteja informațiile împotriva accesului, modificării, dezvăluirii sau distrugerii neautorizate."
+      ]
+    },
+    "section6": {
+      "title": "6. Servicii de la terți",
+      "body": [
+        "Unele cookie-uri pot fi setate de furnizori terți (cum ar fi platformele de analiză sau de publicitate) care ne ajută să operăm site-ul. Acești furnizori prelucrează datele în conformitate cu propriile politici de confidențialitate și numai atunci când ați fost de acord cu categoria relevantă."
+      ]
+    },
+    "contactUs": "7. Contactați-ne",
+    "contactUsText": "Pentru întrebări despre această politică sau despre datele dvs. personale, contactați-ne la <1>info@rezonants.com</1> sau sunați la <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Servicii",
+    "title": "Serviciile noastre",
+    "sub": "Soluții tehnologice end-to-end concepute pentru a ajuta companiile să inoveze, să se extindă și să aibă succes.",
+    "learnMore": "Aflați mai multe",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "De la început până la implementare",
+        "text": "De la conceptul inițial până la implementarea în producție, oferim soluții scalabile create pentru nevoile de afaceri din lumea reală."
+      },
+      "businessProcessAutomation": {
+        "title": "Automatizarea proceselor de afaceri",
+        "text": "Eficientizați procesele repetitive și îmbunătățiți eficiența operațională prin automatizarea inteligentă a afacerii."
+      },
+      "centerOfExcellence": {
+        "title": "Centrul de Excelență",
+        "text": "Construiți capacități și expertiză tehnologică specializată pentru a stimula inovația, calitatea și îmbunătățirea continuă."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Dezvoltare personalizată și personalizare",
+        "text": "Soluții software personalizate concepute în funcție de cerințele și fluxurile de lucru unice ale dvs. de afaceri."
+      },
+      "digitalTransformation": {
+        "title": "Transformare digitală",
+        "text": "Modernizează-ți afacerea cu strategii, tehnologii și soluții digitale care creează un impact măsurabil."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Cadrul de soluții end-to-end",
+        "text": "Soluții tehnologice integrate care conectează strategia, dezvoltarea, implementarea și operațiunile în curs."
+      },
+      "migrationModernization": {
+        "title": "Migrație și modernizare",
+        "text": "Modernizați aplicațiile vechi și migrați sistemele către platforme tehnologice scalabile, sigure și eficiente."
+      },
+      "pocPilotImplementation": {
+        "title": "Dovada conceptului (PoC) și implementarea pilot",
+        "text": "Validați rapid ideile prin prototipuri concentrate și implementări pilot înainte de implementarea la scară completă."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Servicii partajate și operațiuni gestionate",
+        "text": "Operațiuni tehnologice gestionate de încredere care îmbunătățesc performanța, scalabilitatea și continuitatea afacerii."
+      }
+    }
+  },
+  "footer": {
+    "company": "Compania",
+    "about": "Despre",
+    "perspectives": "Perspective",
+    "technologies": "Tehnologii",
+    "contact": "Contact",
+    "services": "Servicii",
+    "getInTouch": "Luați legătura",
+    "bookConsultation": "Rezervă o consultație",
+    "copyright": "© {{year}} Rezonants. Toate drepturile rezervate.",
+    "cookiePreferences": "Preferințe cookie",
+    "privacyPolicy": "Politica de confidențialitate",
+    "description": "Rezonants este o companie de servicii IT și produse digitale din Hyderabad, India. Proiectăm, construim și scalam software pentru companii care concurează la execuție.",
+    "locations": "Locațiile noastre",
+    "indiaHq": "Hyderabad, India — Sediul central din India",
+    "southAfrica": "Africa de Sud — REZONANTS PVT LTD",
+    "products": "Produse",
+    "followUs": "Urmărește-ne",
+    "aboutUs": "Despre noi",
+    "contactUs": "Contactaţi-ne",
+    "headline": "Să construim",
+    "headlineAccent": "ce urmează.",
+    "subheadline": "Colaborați cu Rezonants pentru a transforma ideile în impact real asupra afacerii.",
+    "credoIdeas": "IDEI",
+    "credoSolutions": "SOLUȚII",
+    "credoPeople": "OAMENI",
+    "credoBrighterTomorrow": "O MÂINE MAI LUMINĂ",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Africa de Sud – REZONANTS PVT LTD",
+    "termsOfUse": "Condiții de utilizare",
+    "accessibility": "Accesibilitate",
+    "quickLinks": "Link-uri rapide",
+    "explore": "Explorează",
+    "vijayawadaOffice": "Biroul Vijayawada",
+    "allRightsReserved": "Toate drepturile rezervate.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Africa de Sud"
+  },
+  "common": {
+    "loading": "Se încarcă...",
+    "error": "Eroare",
+    "retry": "Reîncercați",
+    "close": "Închide",
+    "backToTop": "Înapoi sus",
+    "skipToContent": "Sari la continut",
+    "scroll": "Derulați",
+    "whatWeOffer": "Ce Oferim",
+    "howItWorks": "Cum funcționează"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Căutați țara sau codul...",
+    "noResults": "Nu au fost găsite țări.",
+    "countryCodeLabel": "Prefix de țară",
+    "required": "Numărul de telefon este obligatoriu.",
+    "incomplete": "Numărul de telefon trebuie să conțină exact {{count}} cifre.",
+    "tooLong": "Numărul de telefon nu poate conține mai mult de {{count}} cifre.",
+    "invalid": "Introduceți un număr de telefon valid pentru {{country}}."
+  },
+  "perspectives": {
+    "topic": "Subiect:",
+    "published": "Publicat:",
+    "readingTime": "Timp de citire:",
+    "author": "Autor:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Zona Tehnologică",
+    "purpose": "Scop",
+    "talkToExperts": "Discutați cu experții noștri",
+    "viewAll": "Vezi toate perspectivele",
+    "exploreMore": "EXPLORA MAI MULTE PERSPECTIVE",
+    "continueExploring": "Continuați să explorați informații despre tehnologia întreprinderii",
+    "readPerspective": "Citiți Perspectivă"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Soluții AI și Robotică",
+      "tagline": "Tehnologie inteligentă. Operații automate. Afaceri mai inteligente.",
+      "heroBadge": "Sisteme autonome inteligente",
+      "overview": [
+        "Inteligența artificială și robotica transformă modul în care organizațiile funcționează, iau decizii și oferă valoare. Soluțiile noastre AI și Robotică ajută companiile să treacă dincolo de automatizarea tradițională, combinând inteligența artificială, învățarea automată, viziunea computerizată, automatizarea inteligentă a proceselor și robotica pentru a rezolva provocările practice de afaceri.",
+        "Proiectăm soluții inteligente în jurul rezultatelor de afaceri măsurabile. Indiferent dacă cerința este automatizarea muncii repetitive, analiza unor volume mari de informații, detectarea tiparelor, sprijinirea deciziilor sau introducerea roboticii în mediile operaționale, abordarea noastră se concentrează pe fiabilitate, scalabilitate, securitate și valoarea afacerii pe termen lung."
+      ],
+      "transformation": [
+        "Organizațiile moderne generează cantități enorme de date și efectuează mii de activități repetitive în fiecare zi. Inteligența artificială și robotica pot transforma aceste activități în fluxuri de lucru inteligente și automatizate care îmbunătățesc productivitatea, permițând în același timp angajaților să se concentreze pe responsabilități cu valoare mai mare.",
+        "Soluțiile noastre pot ajuta organizațiile să automatizeze operațiunile repetitive, să reducă intervenția manuală, să îmbunătățească acuratețea, să analizeze informații complexe, să sprijine decizii mai rapide, să optimizeze utilizarea resurselor, să îmbunătățească experiența clienților și să construiască sisteme inteligente scalabile."
+      ],
+      "capabilities": [
+        {
+          "title": "Inteligența artificială",
+          "desc": "Dezvoltăm soluții bazate pe inteligență artificială care permit sistemelor să înțeleagă informații, să identifice tipare, să genereze informații și să sprijine deciziile de afaceri."
+        },
+        {
+          "title": "Învățare automată",
+          "desc": "Dezvoltăm modele de învățare automată pentru prognoză, clasificare, sisteme de recomandare, detectarea anomaliilor, analiză predictivă și suport inteligent pentru decizii."
+        },
+        {
+          "title": "Procesarea limbajului natural",
+          "desc": "NLP poate fi folosit pentru a procesa documente, a înțelege text, a clasifica informații, a extrage conținut relevant și a susține aplicații conversaționale."
+        },
+        {
+          "title": "Viziune pe computer",
+          "desc": "Soluțiile de viziune computerizată pot suporta clasificarea imaginilor, detectarea obiectelor, inspecția calității, procesarea documentelor, monitorizarea vizuală și analiza video."
+        },
+        {
+          "title": "Robotică",
+          "desc": "Robotica combină inteligența software cu sistemele fizice pentru a automatiza activități care în mod tradițional necesită efort manual. Aplicațiile pot include producția, logistica, depozitarea, inspecția, manipularea materialelor și suportul operațional."
+        },
+        {
+          "title": "Automatizare inteligentă a proceselor",
+          "desc": "AI poate fi combinată cu automatizarea fluxului de lucru pentru a crea sisteme care interpretează informațiile, aplică reguli sau modele de afaceri și inițiază automat procesul corespunzător."
+        }
+      ],
+      "lifecycleSteps": [
+        "Evaluarea afacerii",
+        "Analiza datelor",
+        "Strategia AI",
+        "Arhitectura soluției",
+        "Dezvoltare",
+        "Integrare",
+        "Testare",
+        "Implementare",
+        "Monitorizare",
+        "Optimizare"
+      ],
+      "benefits": [
+        "Productivitate operațională mai mare a întreprinderii",
+        "Reducerea substanțială a costurilor operaționale",
+        "Procesare mai rapidă și procesare de decizie în milisecunde",
+        "Precizie îmbunătățită a datelor și a fluxului de lucru",
+        "Utilizarea optimizată a resurselor fizice și de calcul",
+        "Riscuri operaționale reduse și erori umane",
+        "Scalabilitate fără întreruperi multiplatformă",
+        "Experiențe îmbunătățite ale clienților și angajaților"
+      ],
+      "security": "Soluțiile AI pentru întreprinderi trebuie să fie proiectate cu securitate adecvată, controale de acces, protecție a datelor, monitorizare, guvernanță a modelului și garanții operaționale. Luăm în considerare aceste cerințe de la etapa de arhitectură până la implementare și întreținere continuă pentru a asigura o inteligență de încredere, de nivel de producție.",
+      "ctaHeadline": "Construiește un viitor inteligent",
+      "ctaSub": "Faceți-vă operațiunile mai inteligente. Automatizează ceea ce contează. Construiește pentru viitor."
+    },
+    "business-automation-solutions": {
+      "title": "Soluții de automatizare a afacerilor",
+      "tagline": "Simplificați procesele. Eliminați repetiția. Accelerează creșterea.",
+      "heroBadge": "Optimizarea fluxului de lucru de la capăt la capăt",
+      "overview": [
+        "Automatizarea afacerilor permite organizațiilor să înlocuiască activitățile manuale repetitive cu fluxuri de lucru digitale simplificate. Soluțiile noastre de automatizare a afacerilor ajută companiile să îmbunătățească productivitatea, să reducă complexitatea operațională, să minimizeze erorile și să creeze procese coerente între departamente.",
+        "Analizăm fluxurile de lucru existente, identificăm blocajele și proiectăm soluții de automatizare care conectează oamenii, aplicațiile, datele și procesele de afaceri."
+      ],
+      "transformation": [
+        "Multe organizații încă depind de foi de calcul, e-mailuri, aprobări manuale, introducerea repetitivă a datelor, gestionarea documentelor și aplicațiile deconectate. Aceste procese consumă timp valoros angajaților și pot introduce întârzieri, inconsecvențe și erori.",
+        "Abordarea noastră de automatizare se concentrează pe înțelegerea întregului proces, eliminarea pașilor inutile, integrarea sistemelor și automatizarea activităților care oferă cea mai mare valoare operațională."
+      ],
+      "capabilities": [
+        {
+          "title": "Automatizarea fluxului de lucru",
+          "desc": "Automatizăm procesele în mai mulți pași care implică angajați, aplicații, aprobări, notificări și date în departamente disparate."
+        },
+        {
+          "title": "Automatizarea proceselor robotizate",
+          "desc": "Boții software pot efectua activități repetitive, bazate pe reguli, cum ar fi introducerea de date, actualizări de sistem, reconciliere și transfer de informații."
+        },
+        {
+          "title": "Automatizarea documentelor",
+          "desc": "Fluxurile de lucru automate ale documentelor pot extrage informații, valida date, clasifica documente, pot ruta cereri și pot iniția procese în aval."
+        },
+        {
+          "title": "Aprobare Automatizare",
+          "desc": "Fluxurile de lucru de aprobare digitală direcționează automat cererile către factorii de decizie corecti și oferă vizibilitate în timp real asupra acțiunilor în așteptare."
+        },
+        {
+          "title": "Integrare Automatizare",
+          "desc": "Conectăm aplicațiile de afaceri astfel încât informațiile să se poată muta automat între platforme fără intervenții manuale inutile."
+        },
+        {
+          "title": "Notificare Automatizare",
+          "desc": "Alertele și notificările automate îi ajută pe angajați să răspundă instantaneu la evenimente importante, termene limită, excepții și modificări operaționale."
+        }
+      ],
+      "lifecycleSteps": [
+        "Descoperă",
+        "Analizează",
+        "Proiecta",
+        "Automatizare",
+        "Integrare",
+        "Testează",
+        "Implementează",
+        "Monitorizați",
+        "Optimizează"
+      ],
+      "benefits": [
+        "Creșterea debitului echipei și a vitezei operaționale",
+        "Reducerea dramatică a erorilor de introducere manuală a datelor",
+        "Scurtarea timpilor de procesare de la un capăt la altul",
+        "Vizibilitate unificată asupra operațiunilor de afaceri",
+        "Conformitate standardizată între departamente",
+        "Cheltuieli de operare reduse semnificativ",
+        "Capacitate elastică de a scala sarcinile de lucru fără efort",
+        "Echipe împuternicite concentrate pe implicarea clienților și pe munca strategică"
+      ],
+      "security": "Combinăm platformele de flux de lucru și RPA cu modele inteligente care țin cont de context pentru a asigura controlul accesului bazat pe roluri, piste de audit cuprinzătoare și conformitatea strictă în fiecare tranzacție automată.",
+      "ctaHeadline": "Creați operațiuni mai eficiente",
+      "ctaSub": "Automatizați munca repetitivă. Împuterniciți-vă oamenii. Accelerează-ți afacerea."
+    },
+    "cloud-migration-solutions": {
+      "title": "Soluții de migrare în cloud",
+      "tagline": "Treceți cu încredere în cloud.",
+      "heroBadge": "Transformare Multi-Cloud",
+      "overview": [
+        "Cloud computing a devenit o componentă critică a infrastructurii IT moderne. Organizațiile mută aplicațiile, bazele de date, sarcinile de lucru și infrastructura în medii cloud pentru a îmbunătăți scalabilitatea, disponibilitatea, flexibilitatea și eficiența operațională.",
+        "Serviciile noastre de migrare în cloud ajută organizațiile să-și evalueze mediile actuale, să definească strategii de migrare, să execute migrări și să optimizeze sarcinile de lucru după ce se deplasează în cloud."
+      ],
+      "transformation": [
+        "Migrarea în cloud înseamnă mai mult decât mutarea serverelor dintr-un mediu în altul. O migrare de succes necesită o evaluare atentă a aplicațiilor, infrastructurii, dependențelor, cerințelor de securitate, datelor, performanței, disponibilității și continuității afacerii.",
+        "Creăm strategii de migrare pe baza mediului actual al organizației și a obiectivelor viitoare, selectând modelul de migrare adecvat pentru fiecare sarcină de lucru."
+      ],
+      "capabilities": [
+        {
+          "title": "Migrarea infrastructurii",
+          "desc": "Migrem servere tradiționale, stocare, mașini virtuale și încărcături de lucru în medii cloud moderne pe AWS, Azure și GCP."
+        },
+        {
+          "title": "Migrarea aplicației",
+          "desc": "Aplicațiile pot fi regazduite, replatformate, refactorizate sau reproiectate în funcție de cerințele tehnice și de afaceri."
+        },
+        {
+          "title": "Migrarea bazei de date",
+          "desc": "Migrem bazele de date, luând în considerare integritatea datelor, performanța, compatibilitatea, disponibilitatea, securitatea și cerințele de recuperare."
+        },
+        {
+          "title": "Modernizare cloud",
+          "desc": "Migrația devine o oportunitate de modernizare a aplicațiilor folosind containere, microservicii, baze de date gestionate, servicii fără server și arhitecturi native din cloud."
+        },
+        {
+          "title": "Cloud hibrid",
+          "desc": "Organizațiile care au nevoie atât de infrastructură locală, cât și de infrastructură cloud pot adopta arhitecturi hibride care conectează fără probleme sistemele existente cu serviciile cloud."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Pentru organizațiile care operează pe mai multe platforme cloud, ajutăm la proiectarea strategiilor de volum de lucru care îmbunătățesc flexibilitatea, reziliența și guvernanța."
+        }
+      ],
+      "lifecycleSteps": [
+        "Evaluare",
+        "Descoperire",
+        "Maparea dependențelor",
+        "Strategia de migrație",
+        "Design de arhitectură",
+        "Migrație pilot",
+        "Migrarea datelor",
+        "Migrarea aplicației",
+        "Testare",
+        "Migrarea producției",
+        "Optimizare"
+      ],
+      "benefits": [
+        "Scalabilitate elastică și disponibilitate ridicată a resurselor",
+        "O mai mare flexibilitate a infrastructurii și agilitate în afaceri",
+        "A fost eliminată sarcina de întreținere a centrului de date fizic",
+        "Implementarea accelerată a caracteristicilor aplicației",
+        "Recuperare robustă în caz de dezastru și rezistență la backup",
+        "Acces imediat la cloud AI modern și la servicii gestionate",
+        "Guvernanța FinOps optimizată și reducerea TCO",
+        "Conformitate continuă și balustrade de securitate automatizate"
+      ],
+      "security": "Securitatea este o parte integrantă a planificării migrației. Luăm în considerare gestionarea identității și accesului, securitatea rețelei, criptarea în tranzit și în repaus, protecția datelor, auditarea vulnerabilității aplicațiilor, monitorizarea, backup-ul și recuperarea în caz de dezastru.",
+      "ctaHeadline": "Călătoria dvs. în cloud, planificată corect",
+      "ctaSub": "Modernizați-vă infrastructura. Accelerează inovația. Construiți o bază de cloud scalabilă."
+    },
+    "data-center-solutions": {
+      "title": "Soluții pentru centre de date",
+      "tagline": "Infrastructură de încredere pentru operațiuni critice pentru misiune.",
+      "heroBadge": "Infrastructură critică pentru misiune",
+      "overview": [
+        "Centrele de date formează baza afacerilor digitale moderne. Aplicațiile, bazele de date, sistemele de întreprindere, platformele de comunicații și serviciile de afaceri critice depind de o infrastructură fiabilă.",
+        "Soluțiile noastre pentru centrele de date se concentrează pe proiectarea, modernizarea, gestionarea și optimizarea mediilor de infrastructură construite pentru disponibilitate, securitate, scalabilitate, performanță și eficiență operațională."
+      ],
+      "transformation": [
+        "Un centru de date modern necesită mai mult decât servere și stocare. Necesită o infrastructură atent proiectată pentru calcul, rețea, securitate, alimentare, răcire, monitorizare, backup și recuperare în caz de dezastru.",
+        "Ajutăm organizațiile să creeze medii de infrastructură rezistente care suportă sarcini critice de lucru și oferă o bază pentru creșterea viitoare a tehnologiei."
+      ],
+      "capabilities": [
+        {
+          "title": "Proiectarea infrastructurii",
+          "desc": "Proiectăm medii bazate pe cerințele de volum de muncă, capacitate, performanță, disponibilitate, securitate și creșterea viitoare."
+        },
+        {
+          "title": "Infrastructura serverului",
+          "desc": "Suportăm medii de server fizice și virtuale pentru aplicații și sarcini de lucru critice pentru misiune."
+        },
+        {
+          "title": "Soluții de stocare",
+          "desc": "Luăm în considerare cerințele de performanță, capacitate, redundanță, SAN/NAS de mare viteză, backup și protecție a datelor atunci când proiectăm medii de stocare."
+        },
+        {
+          "title": "Infrastructura de rețea",
+          "desc": "Proiectăm medii de rețea cu segmentare adecvată, redundanță, performanță cu latență scăzută, conectivitate și controale de securitate."
+        },
+        {
+          "title": "Virtualizare",
+          "desc": "Virtualizarea îmbunătățește utilizarea resurselor, flexibilitatea sarcinii de lucru și gestionarea centralizată a infrastructurii."
+        },
+        {
+          "title": "Backup și recuperare în caz de dezastru",
+          "desc": "Ajutăm organizațiile să stabilească strategii de backup și arhitecturi de recuperare concepute pentru a minimiza timpul de nefuncționare și a elimina pierderile de date."
+        }
+      ],
+      "lifecycleSteps": [
+        "Evaluarea capacității",
+        "Profilarea sarcinii de lucru",
+        "Plan de arhitectură",
+        "Hardware & Virtual Dimensionare",
+        "Segmentarea rețelei",
+        "Aprovizionarea stocării",
+        "Redundanță și testare DR",
+        "Reducerea producției",
+        "Monitorizarea sănătății 24/7",
+        "Optimizare continuă"
+      ],
+      "benefits": [
+        "Durată de funcționare a infrastructurii garantată la 99,999%.",
+        "Zero puncte unice de defecțiune cu redundanță pe mai multe straturi",
+        "Calcul server optimizat și virtualizare de înaltă densitate",
+        "Arhitecturi de rețea cu latență scăzută sub milisecunde",
+        "Securitate perimetrală fizică și digitală consolidată",
+        "Monitorizare proactivă și failovere automate ale erorilor",
+        "Stocare modulară scalabilă pentru date la scară petabyte",
+        "Costul total previzibil de proprietate și eficiența energetică"
+      ],
+      "security": "Securitatea este integrată în nivelul de infrastructură, acoperind micro-segmentarea rețelei, rădăcina de încredere hardware, controalele de acces fără încredere, auditurile continue de vulnerabilitate, apărarea punctelor terminale și politici operaționale stricte.",
+      "ctaHeadline": "Infrastructură pregătită pentru viitor",
+      "ctaSub": "Construiți o infrastructură de încredere astăzi. Creați fundația pentru tehnologia de mâine."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Analiză cognitivă și inteligență artificială",
+      "tagline": "Transformă datele în inteligență.",
+      "heroBadge": "Informații date-la-decizie",
+      "overview": [
+        "Organizațiile generează cantități enorme de informații prin aplicații, tranzacții, clienți, operațiuni, dispozitive și platforme digitale. Provocarea nu mai este doar colectarea de date; este înțelegerea acestor date și transformarea lor în inteligență acționabilă.",
+        "Soluțiile noastre de analiză cognitivă și inteligență artificială combină analiza avansată, învățarea automată, inteligența artificială, procesarea datelor și inteligența de afaceri pentru a ajuta organizațiile să ia decizii mai bune."
+      ],
+      "transformation": [
+        "Raportarea tradițională spune organizațiilor ce sa întâmplat. Analiza avansată poate ajuta să explice de ce s-a întâmplat, să identifice ce se poate întâmpla în continuare și să sprijine deciziile cu privire la ceea ce ar trebui să se întâmple.",
+        "Ajutăm organizațiile să stabilească medii de date care trec dincolo de raportarea statică către analiză inteligentă și suport pentru decizii."
+      ],
+      "capabilities": [
+        {
+          "title": "Analize descriptive",
+          "desc": "Înțelegeți performanța istorică prin rapoarte interactive, tablouri de bord multidimensionale, KPI și metrici de afaceri."
+        },
+        {
+          "title": "Analize de diagnosticare",
+          "desc": "Identificați relațiile de bază, tendințele, anomaliile statistice și cauzele principale din spatele rezultatelor afacerii."
+        },
+        {
+          "title": "Analiza predictivă",
+          "desc": "Utilizați date istorice și în timp real în flux cu modele statistice pentru a identifica potențialele rezultate și cerințe viitoare."
+        },
+        {
+          "title": "Analiza prescriptivă",
+          "desc": "Evaluați acțiunile posibile și sprijiniți căile de decizie optime pe baza rezultatelor prognozate și a obiectivelor strategice de afaceri."
+        },
+        {
+          "title": "Modele de învățare automată",
+          "desc": "Dezvoltați modele personalizate pentru prognoză, clasificarea clienților, recomandări, detectarea anomaliilor de fraudă și întreținerea predictivă."
+        },
+        {
+          "title": "Informații bazate pe inteligență artificială",
+          "desc": "Aplicați inteligența artificială cognitivă unor volume masive de informații nestructurate pentru a scoate la suprafață modele ascunse, rezumate executive și recomandări."
+        }
+      ],
+      "lifecycleSteps": [
+        "Surse de date",
+        "Integrarea datelor",
+        "Prelucrarea datelor",
+        "Stocarea datelor",
+        "Analytics",
+        "Modele AI/ML",
+        "Vizualizare",
+        "Decizii de afaceri"
+      ],
+      "benefits": [
+        "Luare decizii executive bazate pe fapte, bazate pe date",
+        "Previziunea exactă a cererii, a veniturilor și a pierderii",
+        "Detectarea anomaliilor și fraudelor în timp real",
+        "Informații profunde la 360° despre comportamentul clienților și personalizare",
+        "Lanț de aprovizionare optimizat și eficiență operațională",
+        "Risc operațional și financiar atenuat",
+        "Descoperirea oportunităților de venituri ascunse",
+        "Timp accelerat până la perspectivă între unitățile de afaceri"
+      ],
+      "security": "Ecosistemele noastre de analiză implementează criptare end-to-end, mascare automată a datelor, permisiuni stricte RBAC și guvernare model pentru a proteja datele proprietare și pentru a menține conformitatea cu reglementările (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Construiește o strategie de date inteligentă",
+      "ctaSub": "Transformă informațiile în perspectivă. Transformă percepția în acțiune."
+    },
+    "information-reporting-systems": {
+      "title": "Sisteme de informare și raportare",
+      "tagline": "Informația corectă. La momentul potrivit. Pentru decizii mai bune.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Liderii de afaceri și echipele operaționale depind de informații corecte pentru a lua decizii eficiente. Sistemele noastre de informații și raportare ajută organizațiile să colecteze, să organizeze, să analizeze și să prezinte informații de afaceri prin sisteme de informații structurate, platforme de raportare, tablouri de bord și fluxuri de lucru automatizate de raportare.",
+        "Organizațiile au adesea informații distribuite în aplicații, foi de calcul, baze de date și sisteme operaționale. Acest lucru face dificilă stabilirea unei viziuni consecvente asupra performanței afacerii. Ajutăm la integrarea surselor de informații în medii structurate de raportare care oferă informații de afaceri fiabile, accesibile și consecvente."
+      ],
+      "transformation": [
+        "Un sistem de raportare nu ar trebui să afișeze pur și simplu numere. Ar trebui să ajute utilizatorii să înțeleagă performanța, să identifice problemele, să descopere oportunități și să ia decizii informate.",
+        "Proiectăm medii de raportare în funcție de modul în care funcționează organizația dvs., oferind ecosisteme structurate de date la decizie, adaptate pentru toate nivelurile de management."
+      ],
+      "capabilities": [
+        {
+          "title": "Sisteme informatice de management (MIS)",
+          "desc": "Dezvoltați sisteme informatice unificate care oferă managementului executiv vizibilitate operațională și strategică relevantă."
+        },
+        {
+          "title": "Raportare de afaceri",
+          "desc": "Transformați datele brute de afaceri de pe mai multe canale în rapoarte structurate, standardizate, care monitorizează continuu performanța."
+        },
+        {
+          "title": "Tablouri de bord interactive",
+          "desc": "Oferiți vizibilitate interactivă în timp real sau programată asupra valorilor critice de afaceri, KPI-urilor, tendințelor și activităților departamentale."
+        },
+        {
+          "title": "Managementul KPI",
+          "desc": "Definiți, urmăriți și evaluați KPI-uri operaționale semnificative aliniate direct cu obiectivele globale de creștere a întreprinderii."
+        },
+        {
+          "title": "Integrarea datelor",
+          "desc": "Integrați sursele de date distribuite în depozite de date unificate și straturi semantice pentru o raportare coerentă dintr-un singur panou de sticlă."
+        },
+        {
+          "title": "Raportare automată",
+          "desc": "Generați și distribuiți automat rapoarte personalizate în conformitate cu programe predefinite, reguli de afaceri și ierarhii de destinatari."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sisteme de afaceri",
+        "Colectarea datelor",
+        "Integrarea datelor",
+        "Prelucrarea datelor",
+        "Depozitul de date",
+        "Analytics",
+        "Rapoarte și tablouri de bord"
+      ],
+      "benefits": [
+        "Sursă unică de adevăr în întreaga întreprindere",
+        "Acces mai rapid la valorile operaționale în timp real",
+        "Eliminarea completă a asamblarii manuale a foilor de calcul",
+        "KPI-uri interdepartamentale consecvente, reconciliate",
+        "Supraveghere executivă superioară și auditabilitate",
+        "Distribuție automată direct către părțile interesate",
+        "Securitate granulară a datelor la nivel de rând și permisiuni",
+        "Agilitate sporită pentru a răspunde la anomalii operaționale"
+      ],
+      "security": "Informațiile comerciale pot conține date sensibile operaționale, financiare și despre clienți. Soluțiile noastre de raportare încorporează autentificarea cu mai mulți factori, autorizarea granulară bazată pe roluri, criptarea și jurnalele de audit în arhitectura de raportare.",
+      "ctaHeadline": "Raportare care susține creșterea",
+      "ctaSub": "Faceți informațiile accesibile. Faceți vizibil performanța. Luați decizii mai bune."
+    },
+    "managed-services": {
+      "title": "Servicii gestionate",
+      "tagline": "Operațiuni tehnologice de încredere. Suport expert. Îmbunătățirea continuă.",
+      "heroBadge": "Operațiuni și asistență IT 24/7",
+      "overview": [
+        "Mediile IT moderne sunt complexe și în continuă schimbare. Organizațiile au nevoie de infrastructură fiabilă, aplicații, rețele, securitate, monitorizare și suport tehnic pentru a menține operațiunile de afaceri în funcțiune.",
+        "Serviciile noastre gestionate oferă management continuu al tehnologiei și suport operațional, permițând organizațiilor să mențină medii IT de încredere, în timp ce echipele interne se concentrează pe inițiative strategice."
+      ],
+      "transformation": [
+        "Asistența IT tradițională se concentrează adesea pe rezolvarea problemelor după ce apar. Serviciile gestionate adoptă o abordare proactivă prin monitorizarea continuă a infrastructurii, aplicațiilor, sistemelor și mediilor operaționale.",
+        "Această abordare ajută la identificarea din timp a potențialelor probleme, la menținerea performanței, la îmbunătățirea disponibilității și la reducerea întreruperilor operaționale care pot fi evitate."
+      ],
+      "capabilities": [
+        {
+          "title": "Managementul infrastructurii",
+          "desc": "Sprijină operarea continuă, corecția și gestionarea serverelor, stocării, platformelor de virtualizare și infrastructurii."
+        },
+        {
+          "title": "Managementul cloud",
+          "desc": "Gestionați încărcăturile de lucru în cloud, resursele multi-cloud, configurațiile, monitorizarea, performanța și optimizarea FinOps."
+        },
+        {
+          "title": "Managementul rețelei",
+          "desc": "Oferă monitorizare 24/7, management al performanței, suport pentru configurare, optimizare SD-WAN și rezolvare a problemelor de rețea."
+        },
+        {
+          "title": "Gestionarea aplicațiilor",
+          "desc": "Sprijină medii critice de aplicații prin monitorizare proactivă, întreținere, rezolvare a erorilor și upgrade-uri operaționale."
+        },
+        {
+          "title": "Monitorizare și observabilitate",
+          "desc": "Oferiți vizibilitate cuprinzătoare în timp real asupra sănătății sistemului, latenței, timpului de funcționare, dependențelor de infrastructură și alertelor."
+        },
+        {
+          "title": "Managementul backupului și recuperării",
+          "desc": "Mențineți programele automate de backup, testați în mod regulat reluările și asigurați capabilități de recuperare instantanee."
+        },
+        {
+          "title": "Operațiuni de securitate (SecOps)",
+          "desc": "Oferiți monitorizare continuă a securității, gestionarea corecțiilor, aplicarea controlului accesului și reducerea proactivă a amenințărilor."
+        }
+      ],
+      "lifecycleSteps": [
+        "Integrarea mediului",
+        "Descoperire și referință",
+        "Integrarea telemetriei",
+        "Definiție SLA",
+        "Monitorizare activă 24/7",
+        "Clasificarea incidentelor",
+        "Rezoluție rapidă",
+        "Analiza cauzei fundamentale",
+        "Inginerie preventivă",
+        "Optimizare continuă"
+      ],
+      "benefits": [
+        "Sarcina operațională internă redusă semnificativ",
+        "Detectarea proactivă a problemelor înainte ca utilizatorii să fie afectați",
+        "Disponibilitate și timp de funcționare a sistemului garantat la 99,99%.",
+        "Bugetare operațională IT previzibilă, transparentă",
+        "Acces imediat la specialiști superiori în inginerie",
+        "Timpi rapidi de răspuns la incident susținut de SLA",
+        "Recuperare automată în caz de dezastru și continuitate a afacerii",
+        "Optimizarea și modernizarea continuă a tehnologiei"
+      ],
+      "security": "Operațiunile noastre gestionate aderă la cadre stricte ITIL și ISO, asigurând acces criptat, jurnalele de audit izolate, seiful de acreditări cu cel mai mic privilegiu și alinierea conformității în fiecare resursă gestionată.",
+      "ctaHeadline": "Îmbunătățirea continuă",
+      "ctaSub": "Te concentrezi pe afacerea ta. Vă ajutăm să vă mențineți tehnologia în funcțiune."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Soluții tehnologice unice",
+      "tagline": "Un partener tehnologic. Capabilitati multiple. Soluții complete de afaceri.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Organizațiile lucrează adesea cu mai mulți furnizori de tehnologie pentru infrastructură, cloud, aplicații, automatizare, analiză, securitate, asistență și transformare digitală. Gestionarea mai multor furnizori poate crea complexitate, lacune de comunicare, efort duplicat și medii tehnologice fragmentate.",
+        "Abordarea noastră de soluții tehnologice unice reunește mai multe capabilități sub un model de servicii unificat, ajutând organizațiile să planifice, să implementeze, să integreze, să opereze și să își îmbunătățească continuu mediul tehnologic."
+      ],
+      "transformation": [
+        "Suportăm întregul ciclu de viață al tehnologiei — de la înțelegerea cerințelor de afaceri și definirea unei strategii tehnologice până la proiectarea de soluții, implementarea platformelor, integrarea sistemelor, implementarea aplicațiilor, monitorizarea mediilor și furnizarea de asistență continuă.",
+        "Obiectivul este crearea unui ecosistem tehnologic conectat mai degrabă decât soluții izolate."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategie & Arhitectură",
+          "desc": "Înțelegeți obiectivele de afaceri și proiectați arhitecturi tehnologice scalabile, sigure și care pot fi întreținute."
+        },
+        {
+          "title": "Implementare & Construire",
+          "desc": "Implementați aplicații, infrastructură, integrări, automatizări și platforme digitale cu rigoare de întreprindere."
+        },
+        {
+          "title": "Integrarea sistemului",
+          "desc": "Conectați sistemele și aplicațiile, astfel încât informațiile să se deplaseze fără probleme în întreaga organizație."
+        },
+        {
+          "title": "Implementare structurată",
+          "desc": "Stabiliți CI/CD automatizate și procese de lansare pentru a trece soluțiile în producție în mod fiabil și sigur."
+        },
+        {
+          "title": "Monitorizare continuă",
+          "desc": "Oferă vizibilitate de la capăt la capăt asupra infrastructurii, aplicațiilor, performanței, disponibilității și sănătății operaționale."
+        },
+        {
+          "title": "Optimizare și asistență",
+          "desc": "Examinați continuu mediile pentru a îmbunătăți performanța, fiabilitatea, eficiența costurilor și scalabilitatea."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategie",
+        "Arhitectură",
+        "Implementare",
+        "Integrare",
+        "Implementare",
+        "Monitorizare",
+        "Optimizare",
+        "Suport"
+      ],
+      "benefits": [
+        "Complexitatea și cheltuielile generale reduse de gestionare a furnizorilor",
+        "Coordonare perfectă între toate straturile arhitecturale",
+        "Execuție mai rapidă a proiectului cu zero întârzieri de transfer",
+        "Alocare bugetară previzibilă și livrare transparentă",
+        "Responsabilitate unificată a întreprinderii de la zero la scară",
+        "Soluții scalabile concepute pentru creșterea viitoare a afacerii",
+        "Parteneriat tehnologic de încredere pe termen lung",
+        "Transformare digitală completă end-to-end"
+      ],
+      "security": "Cu un singur partener de încredere care supraveghează arhitectura, implementarea și operațiunile, guvernanța securității rămâne neîntreruptă la toate nivelurile – eliminând punctele moarte ale integrării și asigurând conformitatea continuă.",
+      "ctaHeadline": "Partenerul dvs. tehnologic complet",
+      "ctaSub": "Un partener. O singură viziune. Tehnologii multiple. Soluții complete."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Prezentare generală a întreprinderii",
+    "overviewTitle": "Tehnologie inteligentă pentru rezultate măsurabile",
+    "transformationEyebrow": "Transformare Operațională",
+    "transformationTitle": "Transformarea afacerii prin fluxuri de lucru inteligente",
+    "deliveryEyebrow": "Abordarea de livrare structurată",
+    "deliveryTitle": "Execuție end-to-end și optimizare continuă",
+    "deliveryIntro": "Abordarea noastră de implementare dovedită urmează un ciclu de viață riguros de livrare:",
+    "deliveryOutro": "Această secvență structurată asigură o aliniere strânsă cu obiectivele de afaceri, o poziție robustă de securitate și valori de referință măsurabile ale rentabilității investiției în fiecare fază.",
+    "securityEyebrow": "Securitate și guvernare",
+    "securityTitle": "Măsuri de siguranță și de conformitate de nivel Enterprise",
+    "securityOutro": "Înglobăm controlul strict al accesului bazat pe roluri, scanarea automată a vulnerabilităților, guvernarea modelului și criptarea pe mai multe niveluri pentru a ne asigura că mediul dumneavoastră de producție rămâne rezistent și pe deplin conform.",
+    "capabilitiesTitle": "Capabilități tehnologice de bază",
+    "capabilitiesSub": "Competențe tehnice cuprinzătoare concepute pentru a vă scala operațiunile digitale.",
+    "bookDiscovery": "Descoperirea tehnologiei de carte",
+    "exploreAll": "Explorați toate tehnologiile",
+    "bookConsultation": "Rezervați o consultație",
+    "coreCapabilities": "Capabilități de bază"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Capabilități de bază",
+    "exploreFramework": "Explorați cadrul de soluții",
+    "bookConsultation": "Rezervați o consultație",
+    "viewCaseStudies": "Vezi studii de caz",
+    "provenPillars": "Stâlpi dovediți",
+    "operationalOutcomes": "Rezultate operaționale",
+    "learnMore": "Aflați mai multe"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Inginerie digitală end-to-end",
+      "titlePart1": "Inceput Pentru",
+      "titlePart2": "Implementare",
+      "description": "Dezvoltare end-to-end de noi soluții digitale de la cerințele de afaceri și arhitectura soluțiilor prin dezvoltare, integrare, testare, implementare și suport continuu.",
+      "bookConsultation": "Rezervați o Consultație",
+      "exploreEngineering": "Explorați ingineria soluțiilor",
+      "coreCapabilities": [
+        "Ingineria cerințelor",
+        "Arhitectura soluției",
+        "Dezvoltarea aplicațiilor",
+        "Integrare API",
+        "Asigurarea calității",
+        "DevOps",
+        "Implementare",
+        "Asistență și întreținere"
+      ],
+      "row1Eyebrow": "Livrare ciclului de viață complet",
+      "row1Title": "Dezvoltare end-to-end de la cerințe la scară",
+      "row1P1": "Fiecare nouă inițiativă digitală începe cu cerințe unice, fluxuri de lucru operaționale și obiective strategice care nu pot fi îndeplinite de un software universal. Suntem specializați în construirea de sisteme software personalizate, de înaltă performanță, complet de la zero.",
+      "row1P2": "De la descoperirea cerințelor inițiale și proiectarea arhitecturii tehnice până la dezvoltarea agilă de sprint, integrarea ecosistemului API, pipeline robuste de testare și implementări automate în cloud, echipele noastre senior de inginerie preiau deplin proprietatea asupra ciclului de viață al produsului.",
+      "row2Eyebrow": "Arhitectură și inginerie soluții",
+      "row2Title": "Sisteme scalabile create pentru creșterea întreprinderilor",
+      "row2P1": "Proiectăm arhitecturi software rezistente, adaptate pentru a rezista la sarcini grele de producție. De la microservicii modulare și backend-uri bazate pe evenimente până la fluxuri de date cu debit mare și API-uri GraphQL/REST, construim platforme care se scalează fără efort.",
+      "row2P2": "Prin stabilirea unor baze de cod curate, modulare, asociate cu testarea automată și conformitatea continuă cu securitatea, ne asigurăm că baza dumneavoastră de software este menținută, auditabilă și pregătită pentru evoluție pe termen lung.",
+      "row3Eyebrow": "Asigurarea calității și DevOps",
+      "row3Title": "Livrare agilă cu conducte automate",
+      "row3P1": "Modelul nostru de livrare încorporează teste automate de unitate, integrare și regresie end-to-end alături de fluxuri de lucru CI/CD containerizate (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Cu demonstrații transparente de sprint, observabilitate în timp real și viteză determinată de etape, asigurăm un timp de lansare rapid pe piață fără a compromite securitatea, stabilitatea sau experiența utilizatorului.",
+      "row4Eyebrow": "Implementare și asistență",
+      "row4Title": "Operațiuni fiabile 24/7 și evoluție pe termen lung",
+      "row4P1": "Lansarea live este doar începutul. Oferim monitorizare proactivă, întreținere susținută de SLA, optimizare a infrastructurii cloud, reglare a performanței și lansări în curs de desfășurare a funcțiilor.",
+      "row4P2": "Echipa noastră de ingineri acționează ca o extensie naturală a organizației dumneavoastră, asigurând timpi de nefuncționare zero și superioritate tehnologică continuă pe piața dumneavoastră.",
+      "pillarsTitle": "Capabilități de bază",
+      "pillarsSub": "Capacități complete complete concepute pentru a vă duce ideile de la zero la producție.",
+      "pillar1Title": "Ingineria cerințelor",
+      "pillar1Desc": "Analiză profundă a afacerii, specificații funcționale și maparea călătoriei utilizatorului pentru a defini limitele exacte ale soluției.",
+      "pillar2Title": "Arhitectura soluției",
+      "pillar2Desc": "Arhitecturi scalabile native din cloud, modelare baze de date, design de microservicii și baze de securitate zero-trust.",
+      "pillar3Title": "Dezvoltarea aplicațiilor",
+      "pillar3Desc": "Aplicații web și mobile moderne de tip full-stack proiectate cu standarde de cod curat, siguranță tip și UI reactiv.",
+      "pillar4Title": "Integrare API",
+      "pillar4Desc": "API-uri REST/GraphQL de mare performanță, orchestrații webhook, gateway-uri de plată și sincronizare ERP/CRM de la terți.",
+      "ctaTitle": "Sunteți gata să vă construiți soluția de la început până la implementare?",
+      "ctaSub": "Parteneriți cu Rezonants pentru a arhitecți, proiectați și implementați platforma dvs. digitală personalizată, de la cerințele de afaceri până la realitatea producției.",
+      "ctaButton": "Rezervați o consultație pentru soluții",
+      "pillar5Title": "Asigurarea calității",
+      "pillar5Desc": "Automatizare riguroasă a testelor, teste de încărcare/stres, scanări de vulnerabilități și suite de teste de regresie.",
+      "pillar6Title": "DevOps și implementare",
+      "pillar6Desc": "Conducte automate CI/CD, orchestrare container (Docker/K8s), infrastructură ca cod și lansări fără timpi de nefuncționare.",
+      "pillar7Title": "Asistență și întreținere",
+      "pillar7Desc": "Monitorizare proactivă 24/7, telemetrie de sănătate, audituri de performanță, corecție de securitate și întreținere SLA continuă.",
+      "pillar8Title": "Inovare continuă",
+      "pillar8Desc": "Viteza regulată a caracteristicilor, integrarea analizei datelor, îmbunătățirea AI și modernizările arhitecturale."
+    },
+    "processAutomation": {
+      "eyebrow": "Operații inteligente de proces",
+      "titlePart1": "Procesul de afaceri",
+      "titlePart2": "Automatizare",
+      "description": "Automatizarea end-to-end a fluxurilor de lucru ale întreprinderii, combinând automatizarea proceselor robotizate (RPA), procesarea inteligentă a documentelor, motoarele de reguli de afaceri și integrarea sistemului.",
+      "bookDiscovery": "Descoperirea automatizării cărților",
+      "exploreFramework": "Explorați cadrul de soluții",
+      "coreCapabilities": [
+        "Automatizarea fluxului de lucru",
+        "Automatizarea proceselor robotizate",
+        "Procesarea documentelor",
+        "Ingineria integrării",
+        "Motoare de reguli de afaceri",
+        "Analiza procesului",
+        "Optimizare continuă",
+        "Integrare moștenită"
+      ],
+      "row1Eyebrow": "Automatizarea proceselor robotizate",
+      "row1Title": "Boți inteligenți pentru operațiuni cu volum mare",
+      "row1P1": "Eliminați introducerea manuală repetitivă a datelor, reconciliările între sisteme și rutarea documentelor. Implementăm roboți RPA de întreprindere care execută sarcini structurate 24/7 cu rata de eroare zero.",
+      "row1P2": "Prin conectarea interfețelor desktop vechi, a backend-urilor SAP/ERP și a bazelor de date în cloud, roboții software vă eliberează echipa să se concentreze asupra inițiativelor strategice de afaceri.",
+      "row2Eyebrow": "Procesarea inteligentă a documentelor",
+      "row2Title": "OCR, Machine Learning și Document AI",
+      "row2P1": "Ingerați, clasificați și extrageți automat date din facturi, contracte, documente de identitate și revendicări. Conductele noastre bazate pe inteligență artificială validează câmpurile cu bazele de date interne și declanșează fluxuri de lucru automate de aprobare.",
+      "row2P2": "Obțineți rate de procesare directe care depășesc 95%, reducând în același timp drastic timpii de procesare de la zile la secunde.",
+      "row3Eyebrow": "Orchestrarea proceselor",
+      "row3Title": "Sincronizare între platforme de la capăt la capăt",
+      "row3P1": "Conectați CRM, ERP, HRMS și API-uri bancare în fluxuri de date unificate în timp real. Implementăm declanșatoare bazate pe evenimente, cozi de mesaje și handlere automate de rezervă.",
+      "row3P2": "Informațiile circulă fără probleme între departamente, fără intervenție umană, eliminând silozurile operaționale și întârzierile de comunicare.",
+      "row4Eyebrow": "Telemetrie continuă",
+      "row4Title": "Analiza proceselor în timp real și statistici Kaizen",
+      "row4P1": "Urmăriți timpii de execuție a procesului, hărțile termice de blocaj, frecvențele de eroare și rentabilitatea investiției financiare în tablourile de bord executive în timp real.",
+      "row4P2": "Diagnosticarea continuă a învățării automate descoperă noi oportunități de automatizare, menținând întreprinderea dumneavoastră să funcționeze la eficiență maximă.",
+      "pillarsTitle": "Piloni de automatizare",
+      "pillarsSub": "Elemente de bază dovedite pentru operațiunile inteligente ale întreprinderilor.",
+      "pillar1Title": "Automatizarea fluxului de lucru",
+      "pillar1Desc": "Fluxuri de lucru digitale în mai mulți pași orchestrate cu rutare automată și escaladare.",
+      "pillar2Title": "Automatizarea proceselor robotizate",
+      "pillar2Desc": "Boți software bazați pe reguli care execută sarcini de rutină de introducere a datelor, reconciliere și aplicații încrucișate.",
+      "pillar3Title": "Automatizare inteligentă AI",
+      "pillar3Desc": "Agenți cognitivi AI care interpretează contextul, rezumă text nestructurat și iau decizii automate.",
+      "pillar4Title": "Optimizarea procesului",
+      "pillar4Desc": "Exploatarea proceselor, detectarea blocajelor și fluxurile de lucru Kaizen care reduc continuu costurile operaționale.",
+      "ctaTitle": "Sunteți gata să vă automatizați fluxurile de lucru ale afacerii?",
+      "ctaSub": "Conectați-vă cu arhitecții noștri de automatizare pentru a identifica oportunitățile de rentabilitate ridicată a investiției și pentru a implementa fluxuri de lucru digitale inteligente.",
+      "ctaButton": "Rezervați o consultație de automatizare"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Standard de inginerie și cercetare și dezvoltare",
+      "titlePart1": "Centrul de",
+      "titlePart2": "Excelență",
+      "description": "O organizație centralizată de arhitecți seniori și specialiști în domeniu dedicată standardizării practicilor de inginerie, impulsionării inovației și accelerării inițiativelor digitale.",
+      "exploreStandards": "Explorați standardele de inginerie",
+      "initiateAssessment": "Inițierea evaluării CoE",
+      "coreCapabilities": [
+        "Standarde de arhitectură",
+        "Cadre reutilizabile",
+        "Cele mai bune practici de guvernare",
+        "Dezvoltarea aptitudinilor",
+        "Benchmarkingul calității",
+        "C&D & Inovare",
+        "Evaluarea tehnologiei",
+        "Îndrumare între proiecte"
+      ],
+      "uptimeLabel": "Perioada de funcționare a întreprinderii",
+      "engineersLabel": "Ingineri și arhitecți",
+      "deploymentsLabel": "Implementări AI și Cloud",
+      "satisfactionLabel": "Satisfacția clientului",
+      "row1Eyebrow": "Pilonul 01 — Standard de inginerie",
+      "row1Title": "Inginerie software de înaltă performanță",
+      "row1P1": "Centrul nostru de excelență stabilește modele de proiectare standardizate, teste automate riguroase și practici de revizuire a codului fără defecte care accelerează timpul de lansare pe piață, menținând în același timp datoria tehnică la zero.",
+      "row1F1": "Conducte automate de lansare CI/CD cu analize de metrici DORA",
+      "row1F2": "Comitete stricte de evaluare a arhitecturii și guvernare a microserviciilor",
+      "row1F3": "Securitate continuă și corecție automată a vulnerabilităților",
+      "row1Btn": "Aflați standardele de inginerie",
+      "row1Tag": "DevOps și inginerie de calitate",
+      "row2Eyebrow": "Pilonul 02 — Inovare în cercetare și dezvoltare",
+      "row2Title": "Laborator de inovare AI și tehnologie emergentă",
+      "row2P1": "Experimentăm modele de învățare automată de ultimă generație, agenți AI personalizați și automatizare inteligentă a fluxului de lucru pentru a construi produse de întreprindere de ultimă generație.",
+      "row2F1": "Integrarea cunoștințelor Enterprise Generative AI și RAG",
+      "row2F2": "Fluxuri de lucru autonome ale agenților AI pentru automatizarea proceselor de afaceri",
+      "row2F3": "Optimizare și reglare fină a modelului de învățare automată personalizată",
+      "row2Btn": "Explorați AI Lab",
+      "row2Tag": "Inteligență artificială și cercetare și dezvoltare neuronală",
+      "row3Eyebrow": "Pilonul 03 — Infrastructură",
+      "row3Title": "Arhitectură cloud pentru întreprinderi și securitate zero-trust",
+      "row3P1": "Proiectăm și gestionăm medii multi-cloud rezistente, construite pe cadre de securitate zero-trust, asigurându-ne că datele dumneavoastră rămân protejate împotriva amenințărilor cibernetice globale în evoluție.",
+      "row3F1": "Orchestrarea infrastructurii multi-cloud AWS, Azure și GCP",
+      "row3F2": "Acces la rețea cu încredere zero (ZTNA) și politici IAM bazate pe roluri",
+      "row3F3": "Scanare automată a securității containerelor și management secret",
+      "row3Btn": "Explorați cloud și securitate",
+      "row3Tag": "Arhitectură în cloud și încredere zero",
+      "pillarsTitle": "Cadrele noastre de bază de excelență",
+      "pillarsSub": "Manuale de dezvoltare sistematizate care alimentează platformele critice pentru misiune.",
+      "pillar1Title": "Arhitectural Review Board (ARB)",
+      "pillar1Desc": "Supraveghere cuprinzătoare care asigură că toate soluțiile de întreprindere sunt aliniate cu protocoale stricte de scalabilitate, securitate și conformitate.",
+      "pillar2Title": "Acceleratoare reutilizabile și bibliotecă de componente",
+      "pillar2Desc": "Sisteme de proiectare proprietare, kituri de pornire API și șabloane de microservicii de backend reducând timpul inițial de dezvoltare cu 40%.",
+      "pillar3Title": "Profilare continuă a performanței",
+      "pillar3Desc": "Conducte avansate de observabilitate în timp real care monitorizează latența aplicației, blocajele de debit și utilizarea resurselor cloud.",
+      "pillar4Title": "Perfecţionarea talentelor şi bresle",
+      "pillar4Desc": "Bresle interne structurate și certificări care cultivă competențe tehnice profunde în cloud, DevOps și IA aplicată.",
+      "ctaTitle": "Creșteți-vă standardul de inginerie",
+      "ctaSub": "Colaborați cu Centrul de excelență al Rezonants pentru a construi arhitecturi cloud rezistente, a automatiza fluxurile de lucru și a accelera livrarea produselor digitale.",
+      "ctaButton": "Programează consultarea executivă",
+      "badge": "REZONANTS COE",
+      "scroll": "Derulați",
+      "p1Title": "Guvernare și cadre",
+      "p1Desc": "Stabiliți guvernanță arhitecturală la nivel de întreprindere, bare de protecție și standarde de conformitate.",
+      "p1Tag": "Guvernare",
+      "p2Title": "Standarde tehnologice și arhitectură",
+      "p2Desc": "Definiți arhitecturi de referință moderne, stive de tehnologie verificate și modele de microservicii.",
+      "p2Tag": "Arhitectură",
+      "p3Title": "Active reutilizabile și biblioteci",
+      "p3Desc": "Accelerați viteza de dezvoltare cu componente, șabloane, kituri de pornire și sisteme de proiectare partajate.",
+      "p3Tag": "Reutilizabilitate",
+      "p4Title": "Dezvoltarea competențelor",
+      "p4Desc": "Instruire structurată, mentorat tehnologic și abilitare a abilităților pentru a crește priceperea de inginerie a echipei.",
+      "p4Tag": "Competență",
+      "p5Title": "Inovație și tehnologie emergentă",
+      "p5Desc": "Cercetare și dezvoltare privind agenții AI, conductele de automatizare și cadrele de ultimă generație pentru a menține avantajul pieței.",
+      "p5Tag": "Inovație",
+      "p6Title": "Îmbunătățire continuă",
+      "p6Desc": "Măsuri de inginerie bazată pe date (DORA), evaluare comparativă SLA și optimizare continuă a calității.",
+      "p6Tag": "Calitate"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Inginerie digitală personalizată",
+      "titlePart1": "Dezvoltare personalizată &",
+      "titlePart2": "Personalizare",
+      "description": "Dezvoltarea și îmbunătățirea aplicațiilor, platformelor, fluxurilor de lucru și soluțiilor de întreprindere pentru a răspunde cerințelor unice de afaceri și pentru a oferi funcționalități personalizate.",
+      "bookConsultation": "Rezervați o consultație",
+      "exploreCapabilities": "Explorați capacitățile",
+      "coreCapabilities": [
+        "Dezvoltare personalizată",
+        "Configurare platformă",
+        "Extensii",
+        "Fluxuri de lucru personalizate",
+        "Dezvoltare API",
+        "Integrarea sistemului",
+        "Îmbunătățirea UI/UX",
+        "Optimizarea performanței"
+      ],
+      "row1Eyebrow": "FUNCȚIONALITATE PERSONALIZĂ",
+      "row1Title": "Funcții personalizate create pentru fluxul dvs. de lucru",
+      "row1P1": "Software-ul standard pentru întreprinderi deseori nu satisface nevoile specializate de afaceri. Echipa noastră de inginerie personalizată dezvoltă module de aplicații personalizate, reguli de afaceri personalizate și extensii specializate adaptate operațiunilor dumneavoastră.",
+      "row1P2": "De la îmbunătățiri personalizate CRM și ERP la portaluri operaționale specializate, construim funcții care se aliniază perfect cu modelele exacte de flux de lucru ale echipei tale.",
+      "row2Eyebrow": "INTEGRARE A SISTEMULUI ÎNTREPRINDERII",
+      "row2Title": "Configurare platformă și dezvoltare API",
+      "row2P1": "Conectați sisteme software disparate într-un ecosistem digital unificat. Concepem API-uri REST și GraphQL personalizate, handlere webhook și cozi de mesaje de companie pentru a asigura sincronizarea datelor în timp real pe toate platformele dumneavoastră.",
+      "row2P2": "Indiferent dacă integrăm instrumente SaaS de la terțe părți sau extindeți platforme proprietare on-premise, arhitecturile noastre de integrare acordă prioritate integrității datelor, debitului și zero timpi de nefuncționare.",
+      "row3Eyebrow": "UI/UX & PERFORMANȚĂ",
+      "row3Title": "Îmbunătățiri UI/UX și optimizare a performanței",
+      "row3P1": "Creșteți interfețele vechi cu experiențe de utilizator moderne, receptive, concepute pentru viteză și claritate. Reproiectăm front-end-uri cu modele de design intuitive, conformitate cu accesibilitatea și modele de interacțiune simplificate.",
+      "row3P2": "În paralel, inginerii noștri de performanță optimizează interogările bazei de date, strategiile de stocare în cache și dimensiunile pachetelor de front-end pentru a oferi timpi de răspuns instantaneu pe toate dispozitivele.",
+      "pillarsTitle": "Proiectat conform specificațiilor dvs. exacte",
+      "pillarsSub": "Metodologii de personalizare la nivel de întreprindere, concepute pentru a scala fără probleme.",
+      "pillar1Title": "Fluxuri de lucru și extensii personalizate",
+      "pillar1Desc": "Logica de aplicație personalizată și mașini automate de stare configurate special în funcție de regulile dumneavoastră operaționale interne.",
+      "pillar2Title": "Integrare API și sistem",
+      "pillar2Desc": "Punți de date sigure și autentificate care conectează backend-uri proprietare, suite ERP, gateway-uri de plată și servicii cloud.",
+      "pillar3Title": "Configurare platformă",
+      "pillar3Desc": "Adaptări arhitecturale profunde care modifică software-ul întreprinderii fără a întrerupe căile de actualizare sau acordurile de asistență ale furnizorilor.",
+      "pillar4Title": "Optimizarea performanței",
+      "pillar4Desc": "Profilare agresivă a interogărilor, eliminarea scurgerilor de memorie și distribuție CDN de margine pentru încărcări de pagini sub secunde.",
+      "ctaTitle": "Sunteți gata să vă personalizați platforma Enterprise?",
+      "ctaSub": "Conectați-vă cu arhitecții noștri de soluții pentru a proiecta și implementa module personalizate, fluxuri de lucru și integrări adaptate nevoilor dvs. de afaceri.",
+      "ctaButton": "Rezervați un apel de personalizare",
+      "badge": "Inginerie digitală personalizată",
+      "viewAllServices": "Vezi toate serviciile"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Modernizarea întreprinderii",
+      "titlePart1": "Digital",
+      "titlePart2": "Transformare",
+      "description": "Modernizarea cuprinzătoare a proceselor de afaceri, a arhitecturilor tehnologice și a modelelor operaționale pentru a stimula agilitatea organizațională, eficiența operațională și creșterea digitală durabilă.",
+      "startTransformation": "Începeți transformarea",
+      "exploreStrategy": "Explorați strategia",
+      "coreCapabilities": [
+        "Strategie & Roadmapping",
+        "Modernizarea arhitecturii",
+        "Cloud și infrastructură",
+        "Date și analize",
+        "Digitalizare proces",
+        "Experiența clienților",
+        "Managementul schimbării",
+        "Modele de operare agile"
+      ],
+      "row1Eyebrow": "Strategie și foaie de parcurs",
+      "row1Title": "De la viziune la foaia de parcurs executabilă",
+      "row1P1": "Colaborăm cu liderii întreprinderilor pentru a defini strategia digitală, cazurile de afaceri și foile de parcurs în faze cu câștiguri rapide și execuție fără riscuri.",
+      "row1P2": "Inițiativele prioritare, modelele TCO și KPI-urile asigură că fiecare efort de modernizare a tehnologiei este legat direct de veniturile, eficiența și rezultatele satisfacției clienților.",
+      "row2Eyebrow": "Modernizare moștenire",
+      "row2Title": "Modernizează fără a rupe afacerea",
+      "row2P1": "Reformați monoliții la microservicii, API-uri și modele native din cloud, cu reduceri de timpi de nefuncționare zero și validare automată a regresiei.",
+      "row2P2": "Modernizăm aplicațiile, bazele de date și straturile de integrare, păstrând în același timp conformitatea și postura de securitate.",
+      "row3Eyebrow": "Cloud, AI și date",
+      "row3Title": "Adopție în cloud și inteligență bazată pe date",
+      "row3P1": "Adopți AWS, Azure și GCP, construiți conducte moderne de date și încorporați agenți de învățare automată pentru a conduce decizii autonome.",
+      "row3P2": "De la streaming de evenimente în timp real la tablouri de bord unificate, transformarea devine măsurabilă și durabilă.",
+      "row4Eyebrow": "Experiența clienților",
+      "row4Title": "Experiențe moderne omnicanal",
+      "row4P1": "Reproiectați călătoriile clienților prin portaluri web receptive, iOS, Android și autoservire cu interfețe personalizate.",
+      "row4P2": "Ingineria platformei, telemetria și buclele de feedback automatizate fac inovația digitală continuă.",
+      "pillarsTitle": "Pilonii de transformare",
+      "pillarsSub": "Pârghii axate pe rezultate care asigură un leadership digital durabil.",
+      "pillar1Title": "Strategie și guvernanță digitală",
+      "pillar1Desc": "Planuri de transformare în etape cu modelare de caz de afaceri, guvernare arhitecturii și urmărire a riscurilor de reper.",
+      "pillar2Title": "Cloud și platformă de date",
+      "pillar2Desc": "Fundații multi-cloud AWS/Azure/GCP, conducte automate și activare a analizei datelor companiei.",
+      "pillar3Title": "AI și automatizare",
+      "pillar3Desc": "Automatizare inteligentă a proceselor, agenți AI cognitivi și telemetrie predictivă pentru a optimiza operațiunile zilnice.",
+      "pillar4Title": "Experiența clienților",
+      "pillar4Desc": "Portaluri digitale omnicanal de mare conversie și interfețe personalizate construite pentru reținerea maximă a utilizatorilor.",
+      "ctaTitle": "Sunteți gata să vă transformați întreprinderea?",
+      "ctaSub": "Partenerați cu Rezonants pentru o transformare digitală treptată, fără riscuri, legată de rezultate de afaceri măsurabile.",
+      "ctaButton": "Rezervați un apel pentru transformare digitală",
+      "bookWorkshop": "Atelier de transformare a cărților",
+      "exploreFramework": "Explorați cadrul de soluții",
+      "coreCapabilitiesTitle": "Capabilități de bază"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Ciclul de viață complet al tehnologiei",
+      "titlePart1": "Soluție end-to-end",
+      "titlePart2": "Cadrul",
+      "description": "Un cadru de livrare structurat, pe ciclu de viață complet, care acoperă cerințele afacerii, proiectarea arhitecturii, inginerie, integrare, asigurare a calității, implementare în cloud și operațiuni gestionate.",
+      "startJourney": "Începeți-vă proiectul",
+      "exploreFramework": "Explorați cadrul",
+      "coreCapabilities": [
+        "Analiza cerințelor",
+        "Design de arhitectură",
+        "Dezvoltare Full-Stack",
+        "Ingineria integrării",
+        "Asigurarea calității",
+        "Implementare și lansare",
+        "Operațiuni în curs",
+        "Evoluție continuă"
+      ],
+      "row1Eyebrow": "Strategie & Arhitectură",
+      "row1Title": "Ingineria cerințelor și proiectarea soluțiilor",
+      "row1P1": "Ateliere de lucru de colaborare, mapare a domeniilor de afaceri și specificații pentru arhitectura cloud concepute pentru a elimina riscul înainte de a scrie o linie de cod.",
+      "row1P2": "Definim modele de date, cadre de securitate și etape de scalabilitate care stabilesc succesul pe termen lung.",
+      "row2Eyebrow": "Inginerie & Calitate",
+      "row2Title": "Dezvoltare completă și testare automată",
+      "row2P1": "Microservicii modulare, API-uri sigure de tip și front-end-uri receptive combinate cu unități automate, integrare și scanări de securitate.",
+      "row2P2": "Conducte de integrare continuă cu GitHub Actions, Terraform și balustrade de securitate automatizate.",
+      "row3Eyebrow": "Implementare și operațiuni",
+      "row3Title": "Implementare în cloud și monitorizare gestionată 24/7",
+      "row3P1": "Orchestrare multi-cloud pe AWS/Azure/GCP cu rollback automat, reduceri fără timp de nefuncționare și observabilitate în timp real.",
+      "row3P2": "Oferim întreținere susținută de SLA și monitorizare telemetrică continuă pentru a vă dezvolta produsul fără probleme.",
+      "row4Eyebrow": "Guvernanța întreprinderii",
+      "row4Title": "Guvernare unificată și asistență continuă",
+      "row4P1": "Responsabilitate într-un singur punct în întreaga stivă digitală — viteza de sprint transparentă, bugetare previzibilă și inovație continuă.",
+      "row4P2": "Lansările regulate de funcții și ciclurile de modernizare vă mențin întreprinderea în fața concurenței.",
+      "pillarsTitle": "Pilonii cadrului ciclului de viață",
+      "pillarsSub": "Fiecare fază proiectată cu rigoarea întreprinderii.",
+      "pillar1Title": "Strategie și cerințe",
+      "pillar1Desc": "Descoperirea domeniului, foile de parcurs arhitecturale și alinierea părților interesate pentru a elimina riscurile de execuție.",
+      "pillar2Title": "Arhitectură & Construire",
+      "pillar2Desc": "Microservicii native din cloud rezistente, integrări API și testare continuă a QA.",
+      "pillar3Title": "Securitate și implementare",
+      "pillar3Desc": "Conformitate cu securitatea fără încredere, lansări containerizate și implementări automate în cloud.",
+      "pillar4Title": "Guvernare și asistență",
+      "pillar4Desc": "Monitorizare SLA 24/7, telemetrie de sănătate și inginerie evolutivă continuă.",
+      "ctaTitle": "Aveți nevoie de un partener complet pentru ciclul de viață?",
+      "ctaSub": "Deținem întregul ciclu de viață al tehnologiei, astfel încât echipa dumneavoastră să se poată concentra asupra rezultatelor principale ale afacerii.",
+      "ctaButton": "Partener pentru ciclul de viață complet"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformare în cloud și infrastructură",
+      "titlePart1": "Migrație și",
+      "titlePart2": "Modernizare",
+      "description": "Migrare securizată și structurată a aplicațiilor, bazelor de date și infrastructurii moștenite către arhitecturi cloud moderne, asociată cu modernizarea continuă pentru agilitate și eficiență sporite.",
+      "bookAssessment": "Evaluarea migrației cărților",
+      "exploreStrategy": "Explorați strategia cloud",
+      "coreCapabilities": [
+        "Migrare în cloud",
+        "Modernizare aplicație",
+        "Migrarea bazei de date",
+        "Regazduirea infrastructurii",
+        "Containerizare",
+        "Tranziția microserviciilor",
+        "Optimizarea performanței",
+        "Securitate și conformitate"
+      ],
+      "row1Eyebrow": "Migrare în cloud",
+      "row1Title": "Strategie Multi-Cloud & Lift-and-Optimize",
+      "row1P1": "Migrare fără întreruperi a încărcăturii de lucru în AWS, Azure și Google Cloud cu descoperire automată, planificare de val și zero întrerupere a afacerii.",
+      "row1P2": "Echilibrăm regazduirea, replatformarea și refactorizarea pentru a optimiza costul total de proprietate (TCO) și agilitatea.",
+      "row2Eyebrow": "Migrarea datelor și bazelor de date",
+      "row2Title": "ETL securizat și validare automată a datelor",
+      "row2P1": "Replicare automată a bazei de date, traducere a schemei și conducte ETL de mare debit cu verificarea 100% a integrității datelor.",
+      "row2P2": "Repetiția de întrerupere fără timpi de nefuncționare asigură coerența completă a datelor și continuitatea afacerii.",
+      "row3Eyebrow": "Modernizarea platformei",
+      "row3Title": "Containerizare și orchestrare Kubernetes",
+      "row3P1": "Modernizați monoliții vechi în microservicii scalabile orchestrate prin Kubernetes (EKS, AKS, GKE) cu planuri IaC automatizate.",
+      "row3P2": "Profilarea performanței după migrare și optimizarea costurilor asigură rentabilitatea investiției imediată.",
+      "row4Eyebrow": "Planificarea trecerii",
+      "row4Title": "Testare automată și plase de siguranță",
+      "row4P1": "Runbook-uri de trecere testate în luptă, suite de regresie automate și mecanisme de derulare instantanee pentru o liniște completă.",
+      "row4P2": "Telemetria de sănătate post-migrare și hypercare 24/7 garantează o stabilitate impecabilă a producției.",
+      "pillarsTitle": "Asigurări de migrație",
+      "pillarsSub": "Mișcări fără risc, susținute de SLA-uri ale întreprinderii.",
+      "pillar1Title": "Reducere a timpului de oprire zero",
+      "pillar1Desc": "Lansări Canary și sincronizare cu dublă scriere a bazei de date pentru a asigura accesul neîntrerupt al utilizatorilor.",
+      "pillar2Title": "Validare automată a datelor",
+      "pillar2Desc": "Comparații de sume de control, audituri de integritate a schemei și reconciliere automată ETL.",
+      "pillar3Title": "Plase de siguranță pentru derularea înapoi",
+      "pillar3Desc": "Protocoale stricte de recuperare în caz de dezastru și exerciții de repetiție pentru a limita riscul în fiecare fază.",
+      "pillar4Title": "Optimizarea performanței și costurilor",
+      "pillar4Desc": "Sunt incluse politici de adaptare a dreptului în cloud, autoscaling și tablouri de bord pentru guvernarea costurilor.",
+      "ctaTitle": "Sunteți gata să migrați cu încredere deplină?",
+      "ctaSub": "Partener cu Rezonants pentru cloud structurat, fără riscuri și modernizarea datelor.",
+      "ctaButton": "Planificați-vă atelierul de migrare"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Validare rapidă și fezabilitate",
+      "titlePart1": "Dovada conceptului (PoC) &",
+      "titlePart2": "Implementarea pilot",
+      "description": "Dezvoltarea și validarea rapidă a soluțiilor tehnologice pentru a evalua fezabilitatea tehnică, valoarea afacerii, cerințele de integrare, performanța și scalabilitatea înainte de implementarea la scară completă.",
+      "initiateDiscovery": "Inițiază PoC Discovery",
+      "exploreDevelopment": "Explorați dezvoltarea personalizată",
+      "coreCapabilities": [
+        "Dezvoltare PoC",
+        "Inginerie prototip",
+        "Studii de fezabilitate",
+        "Validarea arhitecturii",
+        "Testarea integrării",
+        "Analiza comparativă a performanței",
+        "Desfăşurare pilot",
+        "Evaluarea valorii"
+      ],
+      "row1Eyebrow": "Validare rapidă",
+      "row1Title": "De la concept la fezabilitate validată",
+      "row1P1": "Transformarea unei idei într-o soluție la scară întreprindere necesită o validare riguroasă în avans. Serviciul nostru PoC & Pilot evaluează viabilitatea tehnologiei, testează elementele critice de integrare și validează rentabilitatea investiției înainte de angajamentele majore de capital.",
+      "row1P2": "Construim MVP-uri de înaltă fidelitate și piloți sandbox concentrați care dovedesc fezabilitatea tehnică, măsoară latența sistemului și colectează din timp validarea directă a părților interesate.",
+      "row1Cap": "Rapid MVP Prototyping & Benchmarks tehnice",
+      "row2Eyebrow": "Prototipare agilă",
+      "row2Title": "MVP interactiv și validare UX",
+      "row2P1": "Construim wireframes interactive, fluxuri de utilizatori pe care se poate face clic și dovezi de concept funcționale în zile, nu în luni. Testați interacțiunile reale ale utilizatorilor, perfecționați tiparele UI/UX și adunați feedback de la părțile interesate.",
+      "row2P2": "Scurtând buclele de feedback în timpul dezvoltării timpurii, echipa dvs. minimizează relucrarea și stabilește specificații tehnice clare înainte de a începe fazele de construcție care necesită capital intens.",
+      "row2Cap": "Iterație rapidă și prototipuri UX pe care se poate face clic",
+      "row3Eyebrow": "Testare de integrare și scalabilitate",
+      "row3Title": "Reducerea riscurilor integrărilor de sisteme complexe",
+      "row3P1": "Descoperiți blocajele tehnice, limitările API și constrângerile de performanță înainte de angajarea totală a capitalului. Echipa noastră pilot de inginerie testează integrările, conductele de date și API-urile terță parte în medii izolate de tip sandbox.",
+      "row3P2": "Această reducere proactivă a riscurilor asigură disponibilitatea ridicată a sistemului, conformitatea cu securitatea și termenele de dezvoltare previzibile atunci când treceți PoC în producția de întreprindere.",
+      "row3Cap": "Integrare Sandbox și Testare de stres",
+      "row4Eyebrow": "Pilot de producție controlată",
+      "row4Title": "Lansarea pilot vizată și validarea cazului de afaceri",
+      "row4P1": "Implementați versiuni pilot țintite pe un segment de utilizatori selectat sau pe o piață de testare. Urmăriți valorile de performanță, analizele de adoptare a utilizatorilor și feedback-ul operațional pentru a cuantifica valoarea afacerii și a stabili un caz de afaceri susținut de date.",
+      "row4P2": "Cu informații pilot din lumea reală, sponsorii executivi obțin valori clare ale rentabilității investiției pentru a justifica implementarea mai amplă și investițiile strategice în transformarea digitală.",
+      "row4Cap": "Implementare controlată și telemetrie de performanță",
+      "pillarsTitle": "Principiile noastre de inginerie pilot",
+      "pillarsSub": "Principii directoare care transformă incertitudinea tehnică în succes previzibil de afaceri.",
+      "pillar1Title": "Prototipări PoC și MVP",
+      "pillar1Desc": "Livrați rapid prototipuri funcționale pentru a valida propunerile de valoare la începutul ciclului de viață.",
+      "pillar2Title": "Fezabilitate și validare",
+      "pillar2Desc": "Verificați compatibilitatea API-urilor, pragurile de debit și constrângerile de conformitate în mediile sandbox.",
+      "pillar3Title": "Evaluarea scalabilității",
+      "pillar3Desc": "Simulați sarcina de producție pentru a stabili limitele de capacitate și pentru a determina dimensionarea arhitecturii cloud.",
+      "pillar4Title": "Validarea cazului de afaceri",
+      "pillar4Desc": "Cuantificați rentabilitatea investiției și valorile de productivitate tangibile pentru a sprijini deciziile de lansare la nivelul întregii întreprinderi.",
+      "ctaTitle": "Sunteți gata să vă validați următoarea soluție digitală?",
+      "ctaSub": "Conectați-vă cu echipa noastră de inginerie a soluțiilor pentru a explora cerințele proiectului dvs., pentru a construi un prototip și a testa fezabilitatea cu risc zero.",
+      "ctaButton": "Rezervați o consultație PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Centru de operațiuni centralizate",
+      "titlePart1": "Servicii comune &",
+      "titlePart2": "Operațiuni gestionate",
+      "description": "Livrarea centralizată a tehnologiei și a capabilităților operaționale în cadrul unităților de afaceri prin procese standardizate, resurse calificate, cadre de guvernanță, management al serviciilor și niveluri măsurabile de servicii.",
+      "bookDiscovery": "Rezervați Descoperirea operațiunilor gestionate",
+      "exploreFramework": "Explorați cadrul de soluții",
+      "coreCapabilities": [
+        "Servicii gestionate",
+        "Operațiuni IT",
+        "Suport pentru aplicații",
+        "Management service",
+        "Optimizarea resurselor",
+        "Management SLA",
+        "Guvernare",
+        "Îmbunătățirea continuă",
+        "Optimizarea costurilor"
+      ],
+      "row1Eyebrow": "Hub unificat de livrare",
+      "row1Title": "Servicii standardizate în toate unitățile de afaceri",
+      "row1P1": "Consolidați back-office IT, managementul infrastructurii și suportul tehnic într-un singur centru de livrare de înaltă eficiență.",
+      "row1P2": "Prin eliminarea dublării sarcinilor de echipă și standardizarea modelelor de livrare a serviciilor, organizația dumneavoastră asigură o calitate constantă și reduce cheltuielile totale de operare.",
+      "row2Eyebrow": "SRE și asistență pentru aplicații 24/7",
+      "row2Title": "Monitorizare proactivă și rezolvare rapidă a incidentelor",
+      "row2P1": "Inginerii noștri dedicati fiabilității site-ului (SRE) și specialiștii noștri de asistență oferă monitorizare telemetrică 24/7/365, triaj automat al alertelor și rezolvare rapidă a problemelor L1/L2/L3.",
+      "row2P2": "Susținuți de angajamente SLA stricte, garantăm o disponibilitate de 99,99% pentru aplicațiile dumneavoastră critice și infrastructura cloud.",
+      "row3Eyebrow": "Guvernare și conformitate ITIL",
+      "row3Title": "Cadre de management al serviciilor structurate",
+      "row3P1": "Implementați standardele ITSM de vârf din industrie (ServiceNow, Jira Service Management) cu bilete transparente, analize de cauze rădăcină și balustrade de gestionare a schimbărilor.",
+      "row3P2": "Traseele de audit cuprinzătoare și politicile de guvernanță asigură că operațiunile dumneavoastră rămân în conformitate cu standardele internaționale de securitate.",
+      "row4Eyebrow": "FinOps și îmbunătățire continuă",
+      "row4Title": "Bugetare previzibilă și optimizare a resurselor",
+      "row4P1": "Eliminați risipa din cloud, optimizați dimensionarea calculului și automatizați întreținerea operațională de rutină cu cele mai bune practici FinOps.",
+      "row4P2": "Rapoartele lunare de transparență și previziunile de capacitate asigură optimizarea continuă a costurilor operaționale și eficiența capitalului ridicată.",
+      "pillarsTitle": "Pilonii de operațiuni",
+      "pillarsSub": "Pârghii operaționale dovedite pentru scalabilitate de încredere a întreprinderii.",
+      "pillar1Title": "Operațiuni IT gestionate 24/7",
+      "pillar1Desc": "Telemetrie NOC proactivă, corecție pe server, întreținere a infrastructurii și garanții de funcționare de 99,99%.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Serviciu de asistență multicanal de nivel 1/2/3, rutare a incidentelor și fluxuri de lucru structurate pentru rezolvarea biletelor.",
+      "pillar3Title": "SLA și controlul performanței",
+      "pillar3Desc": "Timpi de răspuns susținute prin contract, benchmark-uri MTTR și audituri lunare transparente de performanță.",
+      "pillar4Title": "FinOps și optimizarea costurilor",
+      "pillar4Desc": "Mărirea continuă a resurselor, recuperarea licențelor și reducerea automată a costurilor în cloud.",
+      "ctaTitle": "Sunteți gata să vă scalați operațiunile gestionate?",
+      "ctaSub": "Partenerați cu Rezonants pentru servicii fiabile, gestionate 24/7, care optimizează costurile și elimină timpul de nefuncționare operațional.",
+      "ctaButton": "Rezervați o consultație pentru operațiuni gestionate",
+      "howItWorksHeading": "O cale dovedită către succesul serviciilor partajate"
+    },
+    "aiRobotics": {
+      "brand": "AI și robotică",
+      "eyebrow": "Sisteme inteligente",
+      "heroHeading": "AI și robotica lucrează împreună",
+      "intro": "Inteligența artificială (AI) și robotica transformă modul în care operează întreprinderile, combinând luarea deciziilor inteligente cu automatizarea avansată. AI permite mașinilor să analizeze date, să învețe tipare și să ia decizii inteligente, în timp ce robotica aduce aceste capacități în lumea fizică pentru a îndeplini sarcini cu viteză, acuratețe și consecvență.",
+      "section1Heading": "Construit pentru a eficientiza fiecare operațiune",
+      "section1Text": "Soluțiile noastre AI și Robotică ajută organizațiile să eficientizeze operațiunile, să reducă efortul manual și să îmbunătățească productivitatea în diverse industrii. De la automatizarea proceselor și analiza predictivă până la robotică inteligentă și sisteme inteligente, oferim tehnologii inovatoare care sporesc eficiența, stimulează creșterea și susțin transformarea digitală.",
+      "section2Heading": "Acolo unde inteligența întâlnește acțiunea",
+      "section2Text": "Fiecare interacțiune, decizie și mișcare este alimentată de un singur sistem conectat - transformând datele în rezultate în timp real.",
+      "footerTag": "Tehnologie inovatoare pentru transformarea digitală"
+    },
+    "informationReporting": {
+      "brand": "Platforma de date pentru întreprinderi",
+      "heroTitle": "Sisteme de informare și raportare",
+      "heroSubtitle": "O sursă unică de adevăr pentru fiecare departament — construită pentru a transforma datele operaționale brute în decizii asupra cărora afacerea dvs. poate acționa astăzi.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALIZAT",
+      "statusArchived": "ARHIVAT",
+      "statusPending": "ÎN AȘTEPTARE",
+      "metricUptime": "Timp de funcționare a sistemului",
+      "metricSessions": "Sesiuni active",
+      "metricReportsPerDay": "Rapoarte / Zi",
+      "metricEvents": "Evenimente ingerate zilnic",
+      "metricReports": "Rapoarte programate",
+      "metricLatency": "Latența API",
+      "unifiedPlatform": "Platformă unificată",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Consola de raportare",
+      "businessOutcome": "Rezultatul afacerii",
+      "section1Heading": "Un sistem centralizat pentru fiecare metrică care contează",
+      "section1P1": "Sistemele de informare și raportare sunt soluții de afaceri esențiale care permit organizațiilor să colecteze, să gestioneze și să transforme datele în informații semnificative. Aceste sisteme integrează informații de la mai multe departamente, asigurând acces precis, consecvent și în timp real la datele de afaceri critice. Prin furnizarea unei platforme centralizate pentru managementul informațiilor, organizațiile pot îmbunătăți vizibilitatea operațională, pot eficientiza fluxurile de lucru și pot sprijini luarea deciziilor strategice la toate nivelurile întreprinderii.",
+      "section1P2": "Aceste sisteme folosesc rapoarte automate, analize și tablouri de bord pentru a urmări performanța, a monitoriza valorile cheie și a genera rapoarte în timp real. Prin reducerea efortului manual și îmbunătățirea acurateței datelor, companiile pot lua decizii mai rapide și mai eficiente.",
+      "section2Heading": "Creat pentru vizibilitate, conformitate și scară",
+      "section2Text": "Cu vizibilitate, conformitate și colaborare îmbunătățite, sistemele de informare și raportare permit organizațiilor să optimizeze procesele, să îmbunătățească productivitatea și să stimuleze creșterea sustenabilă a afacerii într-un mediu competitiv.",
+      "ctaHeading": "Oferiți fiecărei echipe aceeași imagine în timp real a afacerii.",
+      "ctaText": "Vedeți cum Nexus Data Systems vă poate consolida rapoartele într-o singură platformă inteligentă.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Toate drepturile rezervate.",
+      "navOverview": "Prezentare generală",
+      "navCapabilities": "Capabilități",
+      "navImpact": "Impact",
+      "navContact": "Contact"
+    },
+    "managedServices": {
+      "subtitle": "Servicii complete gestionate pentru afacerea dvs"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernizarea aplicațiilor de afaceri pentru o întreprindere bazată pe date",
+      "excerpt": "Cum arhitectura aplicațiilor moderne și datele conectate pot îmbunătăți eficiența operațională, scalabilitatea și vizibilitatea afacerii.",
+      "tag": "Transformarea afacerii",
+      "category": "TRANSFORMAREA AFACERILOR",
+      "summary": "O aplicație modernă și o bază de date poate ajuta întreprinderile să îmbunătățească eficiența operațională, să conecteze sistemele de afaceri și să creeze o vizibilitate mai bună asupra operațiunilor lor."
+    },
+    "artificial-intelligence": {
+      "title": "Cum AI remodelează aplicațiile de întreprindere",
+      "excerpt": "Explorați modul în care automatizarea inteligentă, copiloții AI și inteligența predictivă devin parte din aplicațiile de întreprindere pe care se bazează afacerile în fiecare zi.",
+      "tag": "Inteligența artificială",
+      "category": "INTELIGENTA ARTIFICIALA",
+      "summary": "Explorați modul în care automatizarea inteligentă, copiloții AI și inteligența predictivă transformă software-ul de întreprindere de zi cu zi în platforme adaptive și proactive."
+    },
+    "modern-erp": {
+      "title": "Accelerarea transformării afacerii cu ERP modern",
+      "excerpt": "Explorați modul în care platformele ERP moderne conectează finanțele, achizițiile, lanțul de aprovizionare și operațiunile de afaceri printr-o fundație digitală unificată.",
+      "tag": "ERP modern",
+      "category": "ERP MODERN",
+      "summary": "O platformă ERP modernă conectează finanțele, achizițiile, lanțul de aprovizionare și operațiunile de afaceri într-un model de operare unificat, în timp real."
+    },
+    "cybersecurity": {
+      "title": "Construirea rezilienței cibernetice într-o întreprindere conectată",
+      "excerpt": "Explorați modul în care organizațiile pot consolida securitatea, proteja sistemele critice și se pot pregăti pentru amenințări în medii din ce în ce mai conectate.",
+      "tag": "Securitate cibernetică",
+      "category": "SECURITATE CIBERNICĂ",
+      "summary": "Pe măsură ce întreprinderile integrează mai multe sisteme cloud, API-uri și ecosisteme partenere, reziliența cibernetică asigură că operațiunile esențiale sunt rezistente la amenințările moderne."
+    },
+    "cloud-modernization": {
+      "title": "Modernizarea aplicațiilor vechi pentru cloud",
+      "excerpt": "Explorați o abordare practică pentru evaluarea, modernizarea și mutarea aplicațiilor moștenite către arhitecturi cloud scalabile și sigure.",
+      "tag": "Cloud & Modernizare",
+      "category": "CLOUD & MODERNIZARE",
+      "summary": "O foaie de parcurs structurată, pragmatică pentru evaluarea, refactorizarea și migrarea sistemelor monolitice de întreprindere către arhitecturi cloud elastice și care pot fi întreținute."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "TRANSFORMAREA AFACERILOR",
+      "title": "Modernizarea aplicațiilor de afaceri pentru o întreprindere bazată pe date",
+      "subtitle": "O aplicație modernă și o bază de date poate ajuta întreprinderile să îmbunătățească eficiența operațională, să conecteze sistemele de afaceri și să creeze o vizibilitate mai bună asupra operațiunilor lor.",
+      "date": "septembrie 2026",
+      "readTime": "7 minute de citit",
+      "imageCaption": "Perspectiva tehnologiei întreprinderii — Arhitectura aplicațiilor și date conectate",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Aplicații de afaceri",
+          "desc": "Instrumente vechi CRM, ERP și departamentale diferite care rulează în siloz."
+        },
+        {
+          "title": "Surse de date multiple",
+          "desc": "Tabele operaționale fragmentate, extrase CSV și scheme ad-hoc."
+        },
+        {
+          "title": "Baze de date deconectate",
+          "desc": "Arhivele de date în cloud izolate și necoordonate."
+        },
+        {
+          "title": "Rapoarte și utilizatori de afaceri",
+          "desc": "Reconcilieri manuale, foi de calcul conflictuale și raportare întârziată."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Aplicații de afaceri",
+          "desc": "Platforme operaționale de bază și interfețe receptive moderne."
+        },
+        {
+          "title": "API / Strat de integrare",
+          "desc": "Gateway API securizat, bazat pe evenimente, care conectează fluxurile de lucru ale întreprinderii."
+        },
+        {
+          "title": "Servicii de date",
+          "desc": "Modele de date principale unificate, conducte și motoare de stocare optimizate."
+        },
+        {
+          "title": "Analiză și raportare",
+          "desc": "Telemetrie în timp real, modele semantice și raportare automată."
+        },
+        {
+          "title": "Factori de decizie în afaceri",
+          "desc": "Tablouri de bord operaționale live care oferă vizibilitate executivă unificată."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Aplicații Enterprise",
+          "purpose": "Managementul proceselor de afaceri"
+        },
+        {
+          "area": "API-uri",
+          "purpose": "Integrarea sistemului"
+        },
+        {
+          "area": "Baze de date",
+          "purpose": "Date de afaceri structurate"
+        },
+        {
+          "area": "Integrarea datelor",
+          "purpose": "Conectarea mai multor surse"
+        },
+        {
+          "area": "Analytics",
+          "purpose": "Informații despre afaceri"
+        },
+        {
+          "area": "Infrastructura cloud",
+          "purpose": "Scalabilitate și flexibilitate"
+        },
+        {
+          "area": "Monitorizare",
+          "purpose": "Fiabilitate și performanță"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Vizibilitate operațională îmbunătățită între unitățile interfuncționale",
+        "Consecvență mai bună a datelor și sursă unică de adevăr al întreprinderii",
+        "Efort redus de raportare manuală și compilare automată a datelor",
+        "Performanță îmbunătățită a aplicației și latență redusă a tranzacțiilor",
+        "Integrare mai ușoară a sistemului prin API-uri standardizate și sigure",
+        "Scalabilitate mai mare pentru a susține creșterea organică și achizițiile",
+        "O bază mai bună pentru adoptarea viitoare a inovației și a inteligenței"
+      ],
+      "keyPerspectivePoints": [
+        "Înțelegerea proceselor de afaceri și a fluxurilor de lucru operaționale reale",
+        "Conectarea sistemelor prin standarde de integrare de încredere",
+        "Îmbunătățirea calității datelor, a guvernanței și a modelelor de date principale",
+        "Modernizarea aplicațiilor fără a destabiliza operațiunile de zi cu zi",
+        "Crearea unei arhitecturi scalabile potrivite pentru creștere elastică",
+        "Permite o mai bună vizibilitate a afacerii pentru luarea proactivă a deciziilor"
+      ],
+      "sec1Eyebrow": "PROVOCAREA AFACERILOR",
+      "sec1Heading": "Navigarea complexității într-o întreprindere în creștere",
+      "sec1Subtext": "Pe măsură ce întreprinderile se extind, ecosistemele tehnologice se extind inevitabil. Ceea ce începe ca soluții concentrate pentru departamentele individuale poate evolua într-o rețea încurcată de sisteme disparate.",
+      "sec2Eyebrow": "EVOLUȚIA SISTEMULUI",
+      "sec2Heading": "Un peisaj tehnologic complex",
+      "sec2Subtext": "Amprentele vechi ale aplicațiilor introduc fragmentare în depozitele de date, experiențele utilizatorului și vizibilitatea operațională.",
+      "sec3Eyebrow": "MODELUL CONECTAT",
+      "sec3Heading": "Arhitectură modernă de aplicații",
+      "sec3Subtext": "Tranziția de la silozuri monolitice la servicii decuplate interconectate prin API-uri securizate și streaming de date bazat pe evenimente.",
+      "sec4Eyebrow": "INTELIGENTE & VIZIBILITATE",
+      "sec4Heading": "Date conectate și analize",
+      "sec4Subtext": "Deblocarea silozurilor de date pentru a genera raportări automate, tablouri de bord unificate și decizii de afaceri proactive.",
+      "sec5Eyebrow": "PLAN DE ARHITECTURA",
+      "sec5Heading": "Fundația Tehnologică",
+      "sec5Subtext": "O vedere structurată a straturilor arhitecturale cheie care permite conectivitate și scalabilitate la nivel de întreprindere.",
+      "sec6Eyebrow": "VALOARE CALITATIVĂ",
+      "sec6Heading": "Impactul afacerii",
+      "sec6Subtext": "Câștiguri operaționale măsurabile prin modernizarea aplicațiilor și bazele de date conectate.",
+      "ctaHeading": "Sunteți gata să vă modernizați peisajul aplicațiilor pentru întreprinderi?",
+      "ctaDescription": "Explorați modul în care Rezonants poate colabora cu conducerea dumneavoastră pentru a crea, construi și implementa platforme de aplicații unificate și conducte moderne de date.",
+      "ctaButton": "Discutați cu un arhitect al întreprinderii",
+      "sec1P1": "Într-un mediu tipic de întreprindere, creșterea introduce adesea mai multe generații de software. Finanțe, lanțul de aprovizionare, serviciul pentru clienți și operațiunile de teren funcționează adesea pe stive de software separate, achiziționate sau construite în momente diferite. De-a lungul anilor de evoluție operațională, aceste sisteme își dezvoltă propriile formate de date, actualizează cadențe și diferențe de integrare.",
+      "sec1P2": "Frecarea se manifestă în întreaga întreprindere prin blocaje operaționale comune:",
+      "sec1List": [
+        {
+          "bold": "Mai multe aplicații de afaceri deconectate",
+          "text": "care necesită introducerea datelor duplicate și referințe încrucișate manual."
+        },
+        {
+          "bold": "Baze de date deconectate",
+          "text": "funcționează fără guvernanță centralizată sau înregistrări principale unificate."
+        },
+        {
+          "bold": "Raportare manuală generală",
+          "text": ", unde echipele de analiză petrec zile întregi împletind exporturile, mai degrabă decât să descopere perspective."
+        },
+        {
+          "bold": "Incoerențe de date",
+          "text": "între departamente, creând răspunsuri contradictorii la întrebările operaționale fundamentale."
+        },
+        {
+          "bold": "Limitele generale de întreținere a aplicației și scalabilitate",
+          "text": ", deoarece conexiunile moștenite punct-la-punct se luptă să susțină volume de tranzacții în creștere."
+        }
+      ],
+      "sec1P3": "Abordarea acestor provocări necesită să privim peisajul tehnologic nu ca o colecție de achiziții izolate de software, ci ca o platformă de afaceri interconectată concepută pentru a sprijini agilitatea strategică.",
+      "legacyLandscapeBadge": "Linia de bază moștenită",
+      "legacyLandscapeTitle": "Flux de informații fragmentat",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silozuri de date",
+          "desc": "Datele esențiale ale clienților, financiare și de inventar rămân blocate în platformele departamentale, împiedicând o singură vedere unificată a operațiunilor de afaceri."
+        },
+        {
+          "num": "02",
+          "title": "Lacunele de integrare",
+          "desc": "Conexiunile punct-la-punct și extrasele de lot pe noapte creează latență, rate ridicate de eșec și costuri generale de întreținere costisitoare în cadrul echipelor operaționale."
+        },
+        {
+          "num": "03",
+          "title": "Informații întârziate",
+          "desc": "Când directorii trebuie să aștepte zile pentru reconcilierea la sfârșitul lunii pentru a înțelege performanța, luarea deciziilor este mai degrabă reactivă decât predictivă."
+        }
+      ],
+      "modernArchitectureBadge": "Arhitectura țintă",
+      "modernArchitectureTitle": "Model de aplicație pentru întreprinderi conectate",
+      "sec3P1": "O arhitectură de aplicație modernă înlocuiește conexiunile fragile punct la punct cu o fundație agilă, decuplată. Prin stabilirea unui API robust și a unui strat de integrare, sistemele interacționează prin puncte finale guvernate și sigure, păstrând în același timp autonomia unităților de afaceri individuale.",
+      "sec3P2": "Capacitățile tehnice cheie ale acestei schimbări arhitecturale includ:",
+      "sec3List": [
+        {
+          "bold": "Modernizare aplicație:",
+          "text": "Decuplarea logicii de business de bază în servicii modulare scalabile."
+        },
+        {
+          "bold": "Integrare API:",
+          "text": "Stabilirea de interfețe standardizate, documentate pentru interoperabilitatea internă și a partenerilor."
+        },
+        {
+          "bold": "Integrarea datelor și optimizarea bazei de date:",
+          "text": "Unificarea conductelor de date operaționale cu optimizarea interogărilor de mare debit."
+        },
+        {
+          "bold": "Observabilitate și securitate:",
+          "text": "Implementarea telemetriei centralizate, a pistelor de audit și a controalelor de acces bazate pe roluri în toate serviciile."
+        }
+      ],
+      "sec4P1": "Fundațiile integrate de date transformă modul în care echipele de conducere și operaționale interacționează cu informațiile. În loc să se bazeze pe rapoarte retrospective care arată ceea ce s-a întâmplat cu săptămâni în urmă, organizațiile obțin telemetrie operațională live în toate unitățile de afaceri.",
+      "sec4P2": "Datele conectate și analizele susțin rezultate sustenabile de afaceri prin:",
+      "sec4List": [
+        {
+          "bold": "Vizibilitate operațională:",
+          "text": "Transparență continuă asupra vânzărilor, inventarului, îndeplinirii și performanței financiare."
+        },
+        {
+          "bold": "Cadențe de raportare mai rapide:",
+          "text": "Agregarea datelor la cerere care elimină foile de calcul manuale repetitive."
+        },
+        {
+          "bold": "Informații consistente:",
+          "text": "Definiții unice pentru valori precum marja, valoarea de viață a clientului și viteza clienților."
+        },
+        {
+          "bold": "Informații mai bune despre afaceri:",
+          "text": "Detectare predictivă a modelelor care scoate la suprafață riscurile și oportunitățile din timp."
+        },
+        {
+          "bold": "Îmbunătățirea procesului decizional:",
+          "text": "Acțiune executivă încrezătoare, susținută de descendența datelor validate și transparență."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PERSPECTIVĂ STRATEGICĂ",
+      "keyPerspectiveTitle": "Modernizarea este mai mult decât înlocuirea software-ului",
+      "keyPerspectiveLead": "Modernizarea aplicațiilor de afaceri nu înseamnă doar înlocuirea software-ului vechi cu instrumente noi. Este o aliniere intenționată a tehnologiei cu modul în care afacerea funcționează, crește și oferă valoare."
+    },
+    "artificialIntelligence": {
+      "category": "INTELIGENTA ARTIFICIALA",
+      "title": "Cum AI remodelează aplicațiile de întreprindere",
+      "subtitle": "Explorați cum automatizarea inteligentă, copiloții AI și inteligența predictivă devin parte din aplicațiile de întreprindere pe care se bazează afacerile în fiecare zi.",
+      "date": "septembrie 2026",
+      "readTime": "6 minute de citit",
+      "imageCaption": "Perspectiva tehnologiei întreprinderii — Inteligență nativă și fluxuri de lucru automatizate",
+      "aiUseCases": [
+        {
+          "title": "Prognoza lanțului de aprovizionare",
+          "desc": "Predicția creșterilor cererii și a întârzierilor logistice din telemetria istorică a furnizorilor."
+        },
+        {
+          "title": "Auditul automat al facturilor",
+          "desc": "Extragerea elementelor rând și potrivirea cu comenzile de cumpărare fără intrare umană."
+        },
+        {
+          "title": "Birouri de service inteligente",
+          "desc": "Triajul și rezolvarea automată a solicitărilor IT și HR ale angajaților de nivel 1."
+        },
+        {
+          "title": "Prevenirea abandonului clientului",
+          "desc": "Clustering comportamental care identifică semnale timpurii de frecare pentru atingerea proactivă."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Decizii operaționale mai rapide conduse de modele predictive în timp real",
+        "Reducerea procesării repetitive a datelor și a reconciliărilor manuale",
+        "Performanță mai mare a angajaților cu asistență contextuală a copilotului",
+        "Satisfacția clienților îmbunătățită prin experiențe hiperpersonalizate",
+        "Auto-optimizare continuă a procesului bazată pe telemetrie reală",
+        "Urmărirea conformității fără riscuri prin inspecția automată a jurnalului de audit"
+      ],
+      "governancePoints": [
+        "Acces strict bazat pe roluri, asigurând că modelele AI nu scurg niciodată date sensibile",
+        "Urme transparente de raționament care permit revizuirea umană a acțiunilor de mare valoare",
+        "Evaluarea continuă a modelului pentru a se proteja de halucinații și părtiniri",
+        "Standarde stricte de proveniență a datelor, aliniate cu GDPR, SOC 2 și HIPAA",
+        "Căi de escaladare uman-în-buclă pentru condiții de margine incerte"
+      ],
+      "sec1Eyebrow": "TREBUIEREA LA INTELIGENTA NATIVE",
+      "sec1Heading": "AI în aplicații Enterprise",
+      "sec1Subtext": "Inteligența artificială trece dincolo de experimentarea de sine stătătoare în structura centrală a sistemelor zilnice ale întreprinderii.",
+      "sec2Eyebrow": "AUTOMATIZAREA LA SCARĂ",
+      "sec2Heading": "Automatizare inteligentă",
+      "sec2Subtext": "Înlocuirea rutinelor fragile bazate pe reguli cu fluxuri de lucru cognitive care interpretează documentele, direcționează excepțiile și se adaptează.",
+      "sec3Eyebrow": "ASISTENTA INCORPATA",
+      "sec3Heading": "Copiloți Enterprise AI",
+      "sec3Subtext": "Asistenti conștienți de context încorporați în aplicațiile de afaceri pentru a ajuta lucrătorii din cunoștințe în analiza datelor, documentație și interogări operaționale.",
+      "sec4Eyebrow": "RAȚIONAMENT PRIVIND PERSPECTIVE",
+      "sec4Heading": "Inteligența predictivă",
+      "sec4Subtext": "Trecerea de la rapoarte retrospective retrospective la motoare de decizie proactive care anticipează întreruperile operaționale.",
+      "sec5Eyebrow": "APLICAȚII ÎN LUMEA REALĂ",
+      "sec5Heading": "Cazuri de utilizare Enterprise AI",
+      "sec5Subtext": "Aplicații demonstrate care oferă câștiguri de eficiență măsurabile în domeniile operaționale ale întreprinderii.",
+      "sec6Eyebrow": "VALOARE STRATEGICĂ",
+      "sec6Heading": "Beneficii de afaceri",
+      "sec6Subtext": "Câștiguri tangibile de productivitate și agilitate operațională realizate prin adoptarea AI al întreprinderii.",
+      "ctaHeading": "Sunteți gata să integrați AI nativ în aplicațiile dvs. de afaceri?",
+      "ctaDescription": "Conectați-vă cu practica Rezonants AI pentru a proiecta, evalua și implementa copiloți AI pentru întreprinderi și motoare de automatizare inteligente.",
+      "ctaButton": "Consultați un specialist AI",
+      "sec1P1": "De ani de zile, inteligența artificială a întreprinderii a fost tratată ca o capacitate externă: un model antrenat izolat, o demonstrație sandbox sau un chatbot izolat accesibil printr-un portal separat. Astăzi, paradigma s-a schimbat fundamental. Inteligența artificială a întreprinderilor cu impact ridicat este încorporată direct în sistemele de înregistrare - ERP-urile, CRM-urile, platformele de capital uman și motoarele lanțului de aprovizionare în care au loc afaceri reale.",
+      "sec1P2": "Când inteligența operează în cadrul sistemului de înregistrare, moștenește limitele de securitate stabilite ale organizației, modelele de date și logica de afaceri. Nu generează pur și simplu răspunsuri generice; acționează pe comenzile live, interpretează biletele de asistență deschise, reconciliază facturile furnizorilor și ajută angajații în interfețele exacte pe care le navighează în fiecare zi.",
+      "sec1P3": "Această transformare mută software-ul de întreprindere de la bazele de date pasive care așteaptă apăsarea tastelor umane în platforme proactive care anticipează nevoile, automatizează pașii și evidențiază recomandări în timp util.",
+      "sec2P1": "Automatizarea proceselor robotizate tradiționale (RPA) a excelat la răzuirea ecranului deterministă, repetitivă. Cu toate acestea, seturile de reguli rigide se întrerup de fiecare dată când un formular se schimbă, apare un aspect neașteptat al documentului sau apare o excepție. Automatizarea inteligentă combină raționamentul cognitiv cu execuția tranzacțională:",
+      "sec2List": [
+        {
+          "bold": "Automatizarea fluxului de lucru:",
+          "text": "Orchestrarea operațiunilor complexe interdepartamentale, direcționarea sarcinilor pe baza urgenței și a căilor de rezoluție istorice."
+        },
+        {
+          "bold": "Procesarea inteligentă a documentelor:",
+          "text": "Ingerarea de PDF-uri nestructurate, e-mailuri, manifeste de expediere și contracte, transformându-le în tranzacții structurate de baze de date."
+        },
+        {
+          "bold": "Automatizare inteligentă a sarcinilor:",
+          "text": "Automatizarea validărilor operaționale în mai multe etape, cum ar fi potrivirea comenzilor de achiziție cu chitanțele și extrasele bancare."
+        },
+        {
+          "bold": "Optimizarea procesului:",
+          "text": "Analizarea continuă a jurnalelor de proces pentru a identifica blocajele în timpul ciclului și recomandarea de perfecționări ale fluxului de lucru."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Căutare informații",
+          "desc": "Preluare semantică în baze de cunoștințe distribuite, politici intranet, specificații de produs și rezoluții istorice de bilete fără ghicirea cuvintelor cheie."
+        },
+        {
+          "icon": "📝",
+          "title": "Rezumat document",
+          "desc": "Distilarea instantanee a cererilor de propuneri lungi, a acordurilor cu furnizorii, a specificațiilor tehnice și a modificărilor legale în briefs executive și liste de verificare a riscurilor."
+        },
+        {
+          "icon": "✨",
+          "title": "Generare de conținut",
+          "desc": "Elaborarea asistată a propunerilor clienților, a documentației operaționale, a procedurilor standard de operare (SOP) și a actualizărilor standardizate ale clienților aliniate la standardele mărcii."
+        },
+        {
+          "icon": "📈",
+          "title": "Analiza datelor",
+          "desc": "Traducerea interogărilor conversaționale în interogări analitice complexe, generând rezumate din diagrame de la mers și evidențiind valorile aberante critice pentru conducere."
+        },
+        {
+          "icon": "🔄",
+          "title": "Fluxuri de lucru pentru afaceri",
+          "desc": "Inițierea tranzacțiilor direct din solicitările de chat, cum ar fi programarea resurselor, crearea de bilete, actualizarea înregistrărilor sau trimiterea cererilor de achiziție."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Acces bazat pe rol",
+          "desc": "Asigurarea că răspunsurile copilotului respectă strict nivelurile de permisiuni ale utilizatorului, păstrând confidențialitatea financiară, fișierele HR și proprietatea intelectuală protejate."
+        }
+      ],
+      "sec4P1": "În timp ce modelele generative excelează la înțelegerea și sintetizarea limbajului, inteligența predictivă se concentrează pe modele matematice ascunse în seturile de date structurate ale întreprinderii. Modelele de predicție încorporate permit organizațiilor să anticipeze obstacolele operaționale înainte de a întrerupe operațiunile:",
+      "sec4List": [
+        {
+          "bold": "Prognoza operațională:",
+          "text": "Prezicerea tendințelor veniturilor, a vitezei de stocare și a cererilor de resurse prin sintetizarea indicatorilor sezonieri cu viteza conductei în timp real."
+        },
+        {
+          "bold": "Analize predictive:",
+          "text": "Identificarea riscurilor de pierdere a clienților, a ciclurilor de degradare a întreținerii și a întârzierilor în lanțul de aprovizionare cât timp mai este timp să interveniți."
+        },
+        {
+          "bold": "Identificarea riscurilor:",
+          "text": "Semnalarea anomaliilor în tranzacțiile financiare, jurnalele de conformitate și modelele de achiziții ale furnizorilor înainte ca acestea să escaladeze."
+        },
+        {
+          "bold": "Predicția cererii:",
+          "text": "Armonizarea prognozelor de vânzări cu capacitatea de producție și nivelul stocurilor din depozit pentru a proteja capitalul de lucru."
+        }
+      ],
+      "keyPerspectiveEyebrow": "GUVERNANȚA ÎNTREPRINDERILOR",
+      "keyPerspectiveTitle": "Încredere, supraveghere și balustrade",
+      "keyPerspectiveLead": "AI este la fel de sigură ca baza de date de sub ea și guvernanța din jurul acesteia. Adoptarea durabilă a întreprinderilor necesită o disciplină arhitecturală deliberată:"
+    },
+    "modernErp": {
+      "category": "ERP MODERN",
+      "title": "Accelerarea transformării afacerii cu ERP modern",
+      "subtitle": "Explorați modul în care platformele ERP moderne conectează finanțele, achizițiile, lanțul de aprovizionare și operațiunile de afaceri printr-o fundație digitală unificată.",
+      "date": "septembrie 2026",
+      "readTime": "7 minute de citit",
+      "imageCaption": "Perspectiva tehnologiei întreprinderii — ERP conectat și agilitate operațională",
+      "connectedFunctions": [
+        {
+          "title": "Management financiar",
+          "desc": "Actualizări în timp real, recunoaștere automată a veniturilor și reconciliere instantanee în mai multe valute."
+        },
+        {
+          "title": "Lanț de aprovizionare și logistică",
+          "desc": "Vizibilitatea de la un capăt la altul al inventarului, optimizarea depozitului și telemetria performanței furnizorilor."
+        },
+        {
+          "title": "Capital uman și forță de muncă",
+          "desc": "Portaluri pentru angajați cu autoservire, rulări automate de salarizare și planificare integrată a ciclului de viață al talentului."
+        },
+        {
+          "title": "Achiziții și aprovizionare",
+          "desc": "Aprobari automate de achiziție, conformitate cu contractul furnizorului și analiză dinamică a cheltuielilor."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Arhitectură Cloud-Native",
+          "desc": "Scalare elastică de calcul fără supraîncărcare a infrastructurii locale sau blocare a versiunii perturbatoare."
+        },
+        {
+          "title": "Deschideți ecosistemul API",
+          "desc": "Conectori prefabricați care permit sincronizarea perfectă a datelor în două sensuri cu microservicii personalizate și suite CRM."
+        },
+        {
+          "title": "Analytics încorporat",
+          "desc": "Detaliați direct tabloul de bord din bilanţurile de nivel înalt în jurnalele individuale de tranzacţii."
+        },
+        {
+          "title": "Declanșatoare automate ale fluxului de lucru",
+          "desc": "Evenimentul determinat de evenimente declanșează executarea operațiunilor standard interdepartamentale în mod autonom."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Sursă unică de adevăr care elimină rapoartele departamentale conflictuale",
+        "Reducerea drastică a ciclurilor de închidere la sfârșitul lunii și trimestrul",
+        "Inventarul în timp real și vizibilitatea logistică reducând la minimum epuizarea stocurilor",
+        "Reducerea cheltuielilor de întreținere IT prin actualizări modulare native din cloud",
+        "Urmărirea unificată a conformității în jurisdicțiile fiscale multi-regionale",
+        "Integrarea mai rapidă a entităților achiziționate în coloana vertebrală operațională partajată"
+      ],
+      "erpStrategyPoints": [
+        "Alinierea arhitecturii ERP cu fluxurile de lucru operaționale de bază înainte de configurare",
+        "Selectarea modelelor de implementare modulare pentru a realiza victorii rapide",
+        "Prioritizarea migrării și reconcilierii datelor de bază de înaltă calitate",
+        "Încorporarea automată a managementului schimbărilor și a programelor de formare personalizate pe rol",
+        "Proiectarea gateway-urilor API pentru extinderea viitoare a integrării fără fricțiuni"
+      ],
+      "sec1Eyebrow": "BACKBONE OPERAȚIONAL",
+      "sec1Heading": "De ce contează ERP modern",
+      "sec1Subtext": "Eficiența întreprinderii depinde de sincronizarea perfectă a datelor între finanțe, achiziții, operațiuni și capital uman.",
+      "sec2Eyebrow": "ECOSISTEM INTEGRAT",
+      "sec2Heading": "Funcții de afaceri conectate",
+      "sec2Subtext": "Defalcarea silozurilor departamentale tradiționale pentru a permite datelor tranzacționale să circule instantaneu între unitățile de afaceri.",
+      "sec3Eyebrow": "ARMONIE CROS-FUNCȚIONALĂ",
+      "sec3Heading": "Operațiuni unificate și flux de informații",
+      "sec3Subtext": "O coloană digitală conectată care asigură că contractele de vânzare actualizează imediat comenzile lanțului de aprovizionare și registrele financiare.",
+      "sec4Eyebrow": "TELEMETRIA ÎNTREPRINDERII",
+      "sec4Heading": "Vizibilitatea afacerii în timp real",
+      "sec4Subtext": "Informații operaționale live care înlocuiesc foile de calcul retrospective întârziate cu indicatori de performanță imediati.",
+      "sec5Eyebrow": "ARHITECTURA CENTRALĂ A PLATFORMEI",
+      "sec5Heading": "Capabilități ERP moderne",
+      "sec5Subtext": "Fundamentele arhitecturale care diferențiază platformele cloud agile de sistemele monolitice vechi.",
+      "sec6Eyebrow": "IMPACTUL CALITATIV",
+      "sec6Heading": "Beneficii de afaceri",
+      "sec6Subtext": "Viteză organizațională tangibilă, transparență și eficiență a costurilor deblocate de platformele ERP moderne.",
+      "ctaHeading": "Sunteți gata să vă modernizați coloana vertebrală a ERP al întreprinderii?",
+      "ctaDescription": "Descoperiți cum Rezonants vă poate ajuta să definiți, să configurați și să integrați platforme ERP modulare adaptate operațiunilor dvs. de afaceri.",
+      "ctaButton": "Discutați cu un arhitect ERP",
+      "sec1P1": "În peisajele întreprinderilor aflate în mișcare rapidă, sistemele tradiționale de planificare a resurselor întreprinderii se confruntă adesea cu probleme. Construite într-o eră a procesării loturilor și a serverelor locale izolate, ERP-urile vechi au fost puternic personalizate, greu de actualizat și dureros de opace. Operațiunile esențiale de afaceri funcționau în silozuri paralele, bazându-se pe exporturi fragile peste noapte pentru a sincroniza registrele cu depozitele.",
+      "sec1P2": "ERP modern, nativ în cloud redefinește în mod fundamental această dinamică. Funcționează ca coloana vertebrală digitală unificată a întreprinderii - o fundație vie în care finanțele, achizițiile, lanțul de aprovizionare, inventarul și resursele umane fac tranzacții pe un model de date partajat.",
+      "sec1P3": "Prin aducerea operațiunilor de bază într-un singur mediu armonizat, ERP modern elimină punctele moarte operaționale care încetinesc creșterea, permițând liderilor să conducă afacerea folosind semnale în timp real, mai degrabă decât rezumate istorice învechite.",
+      "sec3P1": "Silozurile operaționale sunt rareori probleme ale oamenilor; sunt probleme de arhitectură. Când echipele de servicii pentru clienți, achiziții și depozit lucrează în aplicații deconectate, fiecare transfer necesită e-mailuri manuale, foi de calcul și apeluri telefonice. Erorile se înmulțesc, facturile sunt blocate și angajamentele clienților alunecă.",
+      "sec3P2": "ERP modern abordează acest lucru prin linia de date unificată și orchestrarea proceselor bazată pe evenimente:",
+      "sec3List": [
+        {
+          "bold": "Comandă-încasare sincronizată:",
+          "text": "Când se plasează o comandă de client, inventarul se rezervă automat, se generează etichete de expediere și registrele de facturare se actualizează instantaneu."
+        },
+        {
+          "bold": "Transparența achiziției la plată:",
+          "text": "Comenzile de achiziție, bonurile de mărfuri și facturile furnizorilor se potrivesc automat cu reconcilierea în trei direcții, semnalând doar excepțiile pentru examinarea umană."
+        },
+        {
+          "bold": "Costuri unificate ale forței de muncă și operaționale:",
+          "text": "Foile de pontaj ale proiectelor, alocările de salarii și cheltuielile operaționale directe se mapează direct la centrele de cost în timp real."
+        }
+      ],
+      "sec4P1": "Operarea unei întreprinderi fără vizibilitate unificată este ca și cum ați zbura în ceață densă cu instrumente întârziate. ERP modern oferă telemetrie în timp real în fiecare dimensiune a afacerii:",
+      "sec4List": [
+        {
+          "bold": "Tablouri de bord executive live:",
+          "text": "Vizualizări instantanee ale marjelor brute, fluxurilor de numerar operaționale, pasivelor deschise și comenzilor restante, fără a aștepta închiderea la sfârșitul perioadei."
+        },
+        {
+          "bold": "Raportare operațională cu autoservire:",
+          "text": "Șefii de departamente pot crea interogări personalizate și pot detalia de la rezumate la nivel de întreprindere la elemente rând de tranzacție individuale."
+        },
+        {
+          "bold": "Informații principale centralizate:",
+          "text": "Eliminarea numerelor contradictorii prin stabilirea de date principale guvernate unice pentru clienți, furnizori și cataloage de produse."
+        },
+        {
+          "bold": "Alerte proactive de anomalii:",
+          "text": "Alertele automate notifică imediat managerii când marjele scad sub prag, stocul scade sau livrările furnizorilor alunecă."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOZOFIA TRANSFORMĂRII ERP",
+      "keyPerspectiveTitle": "Modernizare pragmatică peste revizuirea monolitică",
+      "keyPerspectiveLead": "Transformarea ERP modernă reușește atunci când organizațiile o tratează mai degrabă ca pe o actualizare operațională evolutivă decât ca o întrerupere IT cu totul sau nimic:"
+    },
+    "cybersecurity": {
+      "category": "SECURITATE CIBERNICĂ",
+      "title": "Construirea rezilienței cibernetice într-o întreprindere conectată",
+      "subtitle": "Explorați modul în care organizațiile pot consolida securitatea, proteja sistemele critice și se pot pregăti pentru amenințări în medii din ce în ce mai conectate.",
+      "date": "septembrie 2026",
+      "readTime": "8 minute de citit",
+      "imageCaption": "Perspectiva tehnologiei întreprinderii — Apărarea împotriva amenințărilor și Arhitectura Zero-Trust",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrie și detectare",
+          "desc": "Ingerarea în timp real a jurnalelor și corelarea anomaliilor SIEM în toate punctele finale și sarcinile de lucru din cloud."
+        },
+        {
+          "title": "Izolare și izolare",
+          "desc": "Reguli automate de carantină a rețelei care izolează instantaneu containerele sau acreditările compromise."
+        },
+        {
+          "title": "Remediere și cauza principală",
+          "desc": "Lansare rapidă a patch-urilor și criminalistică digitală care identifică vectorul exact de încălcare."
+        },
+        {
+          "title": "Reziliență și întărire",
+          "desc": "Feedback continuu în backup-uri imuabile, bare de protecție și simulări automate ale echipei roșii."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Reducerea substanțială a suprafețelor de atac de vulnerabilitate la nivelul activelor din cloud",
+        "Continuitate operațională garantată și recuperare în caz de dezastru cu RTO/RPO minime",
+        "Încredere totală în conformitate cu auditurile ISO 27001, SOC 2, HIPAA și GDPR",
+        "Protecția proprietății intelectuale a întreprinderii de bază și a înregistrărilor confidențiale ale clienților",
+        "Administrare eficientă a riscurilor furnizorilor și terților prin controale unificate de acces",
+        "Încredere sporită pentru clienți și investitori, susținută de poziții de securitate verificate de zero încredere"
+      ],
+      "zeroTrustPrinciples": [
+        "Nu aveți încredere niciodată, verificați întotdeauna: este necesară autentificarea explicită pentru fiecare tranzacție",
+        "Acces cu privilegii minime: Granițele granulare ale rolurilor limitează mișcarea laterală a amenințărilor",
+        "Presupuneți încălcarea: monitorizarea continuă a amenințărilor, criptare în tranzit și în repaus",
+        "Micro-segmentare: firewall-uri de rețea care izolează sarcinile de lucru ale aplicațiilor individuale",
+        "Telemetrie continuă: analiză comportamentală automată care semnalează solicitările de sesiune anormale"
+      ],
+      "sec1Eyebrow": "PERIMETRUL ÎN EXPANSARE",
+      "sec1Heading": "Peisajul securității întreprinderilor conectate",
+      "sec1Subtext": "Pe măsură ce întreprinderile adoptă servicii cloud, echipe distribuite la distanță și dispozitive IoT, granițele tradiționale de securitate se dizolvă.",
+      "sec2Eyebrow": "APĂRARE INTEGRALĂ",
+      "sec2Heading": "Protecție cu mai multe straturi împotriva amenințărilor",
+      "sec2Subtext": "Coordonarea informațiilor despre amenințări, scanarea vulnerabilităților și răspunsul automat la incident în întreaga stivă tehnologică.",
+      "sec3Eyebrow": "NOUA FRONTIERĂ DE SECURITATE",
+      "sec3Heading": "Managementul identității și accesului (IAM)",
+      "sec3Subtext": "Identitatea este planul de control primar. Accesul granular, MFA și SSO asigură accesul numai a directorilor autorizați la sistemele de afaceri.",
+      "sec4Eyebrow": "PARADIGMA ARHITECTURAL",
+      "sec4Heading": "Demistificarea arhitecturii Zero Trust",
+      "sec4Subtext": "O mentalitate de bază în materie de securitate bazată pe verificare continuă, autorizare explicită și compromis asumat.",
+      "sec5Eyebrow": "GUVERNAREA INFRASTRUCTURII",
+      "sec5Heading": "Considerații de securitate în cloud",
+      "sec5Subtext": "Abordarea modelelor de responsabilitate comună, a infrastructurii ca balustrade de cod și a protecției Kubernetes runtime.",
+      "sec6Eyebrow": "REZILIENTĂ OPERAȚIONALĂ",
+      "sec6Heading": "Pregătirea pentru incidente: dincolo de prevenire",
+      "sec6Subtext": "Pregătirea runbook-urilor structurate, exerciții automate de izolare și backup-uri imuabile de recuperare în caz de dezastru pentru o rezistență operațională totală.",
+      "sec7Eyebrow": "VALOARE STRATEGICĂ",
+      "sec7Heading": "Beneficii de afaceri",
+      "sec7Subtext": "Reziliența întreprinderii, verificarea conformității și protecția reputației mărcii oferite de apărarea cibernetică modernă.",
+      "ctaHeading": "Sunteți gata să vă consolidați reziliența cibernetică a întreprinderii dvs.?",
+      "ctaDescription": "Colaborați cu practica de securitate Rezonants pentru a audita arhitecturile, implementarea cadrelor Zero Trust și protejarea sistemelor critice pentru misiune.",
+      "ctaButton": "Consultați un arhitect cibernetic",
+      "sec1P1": "În era moștenită a IT-ului întreprinderilor, securitatea a funcționat pe o doctrină de tip castel-and-moat: totul în interiorul rețelei de birouri corporative era considerat de încredere, în timp ce totul din exterior era considerat nede încredere. Un singur firewall corporativ a protejat serverele interne, bazele de date și computerele desktop.",
+      "sec1P2": "Întreprinderea de astăzi a depășit pereții fizici. Sarcinile de lucru se află în medii multi-cloud (AWS, Azure, GCP), angajații accesează aplicații de afaceri din diverse locații, iar API-urile fac schimb continuu de date operaționale sensibile cu furnizori externi de logistică, instituții financiare și furnizori SaaS.",
+      "sec1P3": "În timp ce această hiper-conectivitate conduce la o agilitate extraordinară a afacerii, ea extinde considerabil suprafața de atac al întreprinderii. Fiecare punct final API, token de identitate, dispozitiv mobil conectat și integrare SaaS reprezintă un potențial vector de expunere. Protecția adevărată a întreprinderii necesită trecerea de la apărarea bazată pe perimetru la reziliența cibernetică proactivă, de la capăt la capăt.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Detectarea amenințărilor",
+          "desc": "Informații privind amenințările asistate de învățare automată care monitorizează modelele anormale ale rețelei, abuzul de acreditări și vulnerabilitățile zero-day în timp real."
+        },
+        {
+          "icon": "📡",
+          "title": "Monitorizarea securității",
+          "desc": "Telemetria Centrului de operațiuni de securitate centralizat (SOC) care corelează evenimentele între servere, clustere de containere, furnizori de identitate și puncte finale."
+        },
+        {
+          "icon": "🔍",
+          "title": "Managementul vulnerabilităților",
+          "desc": "Scanare automată continuă a vulnerabilităților în infrastructură, depozite de cod sursă și registre de containere pentru a remedia deficiențele în mod proactiv."
+        },
+        {
+          "icon": "🔒",
+          "title": "Protecția datelor",
+          "desc": "Criptare robustă în tranzit (TLS 1.3) și în repaus (AES-256), alături de guvernare granulară de prevenire a pierderii datelor (DLP) pentru a preveni scurgerile de proprietate intelectuală."
+        }
+      ],
+      "sec3P1": "Protejarea activelor întreprinderii necesită asigurarea faptului că fiecare identitate – indiferent dacă este un director uman, un contractant extern sau un cont de servicii software autonom – are autorizarea validată pentru resursele exacte pe care le accesează.",
+      "sec3List": [
+        {
+          "bold": "Gestionare centralizată a identității:",
+          "text": "Single Sign-On (SSO) și standarde de identitate federate care elimină depozitele fragmentate de parole în cadrul aplicațiilor."
+        },
+        {
+          "bold": "Autentificare adaptivă multifactor (MFA):",
+          "text": "Chei hardware FIDO2 rezistente la phishing și provocări contextuale bazate pe risc pentru funcții administrative sensibile."
+        },
+        {
+          "bold": "Control de acces granular:",
+          "text": "Controale de acces detaliate bazate pe roluri (RBAC) și pe atribute (ABAC) impuse la nivelurile API și baze de date."
+        },
+        {
+          "bold": "Principiile celor mai mici privilegii:",
+          "text": "Acordarea accesului temporar, just-in-time (JIT) care expiră automat la încheierea sarcinilor administrative."
+        }
+      ],
+      "keyPerspectiveEyebrow": "DOCTRINA DE BAZ DE ÎNCREDERE ZERO",
+      "keyPerspectiveTitle": "Verificare continuă peste încredere oarbă",
+      "keyPerspectiveLead": "Într-o arhitectură Zero Trust, încrederea implicită bazată pe locația rețelei este complet demontată. Fiecare tranzacție, interogare la baza de date și autentificare a utilizatorului trebuie să-și dovedească în mod continuu legitimitatea:",
+      "cloudSecurityCards": [
+        {
+          "title": "Responsabilitate comună",
+          "desc": "Guvernare clară care deosebește securitatea infrastructurii fizice a furnizorului de cloud de responsabilitatea întreprinderii pentru criptarea datelor, politicile IAM și codul aplicației."
+        },
+        {
+          "title": "Infrastructura ca cod (IaC)",
+          "desc": "Configurații cloud imuabile, auditabile, gestionate prin cod. Scanerele automate de politică ca cod blochează configurațiile greșite și compartimentele expuse înainte de implementare."
+        },
+        {
+          "title": "Container și securitate Kubernetes",
+          "desc": "Durate de rulare a containerelor consolidate, registre de imagini semnate, micro-segmentare a rețelei și gestionare automată a secretelor care păstrează acreditările în afara depozitelor sursă."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "CLOUD & MODERNIZARE",
+      "title": "Modernizarea aplicațiilor vechi pentru cloud",
+      "subtitle": "Explorați o abordare practică pentru evaluarea, modernizarea și mutarea aplicațiilor moștenite către arhitecturi cloud scalabile și sigure.",
+      "date": "septembrie 2026",
+      "readTime": "6 minute citire",
+      "imageCaption": "Perspectivă tehnologică de întreprindere — Re-platformare și containerizare nativă în cloud",
+      "modernizationApproaches": [
+        {
+          "title": "Regăzduiește (Ridică și Schimbă)",
+          "desc": "Treceți rapid sarcinile de lucru la mașinile virtuale cloud, cu modificări minime ale codului."
+        },
+        {
+          "title": "Replatform (Ridicare și remodelare)",
+          "desc": "Actualizați cadrele de rulare, adoptați baze de date cloud gestionate și eficientizați operațiunile."
+        },
+        {
+          "title": "Refactor (reconstruire cloud-native)",
+          "desc": "Deconstruiți monoliții în microservicii containerizate și API-uri fără server bazate pe evenimente."
+        },
+        {
+          "title": "Înlocuire (modernizare SaaS)",
+          "desc": "Retrageți sistemele moștenite redundante în favoarea software-ului cloud pentru întreprinderi, conceput special."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Evaluarea moștenirii",
+          "desc": "Maparea automată a dependenței, catalogarea datoriilor tehnice și scorul de pregătire pentru cloud."
+        },
+        {
+          "title": "Arhitectura țintă",
+          "desc": "Planuri modulare de microservicii, topologii de containere și șabloane IaC automatizate."
+        },
+        {
+          "title": "Migrație în etape",
+          "desc": "Lansări Canary, sincronizare a datelor cu dublă scriere și valuri de întrerupere fără timpi de nefuncționare."
+        },
+        {
+          "title": "Optimizare cloud",
+          "desc": "Guvernare continuă a costurilor, telemetrie autoscaling și analize operaționale FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Reduceți exponențial cheltuielile de întreținere a infrastructurii și de reîmprospătare a hardware-ului",
+        "Elasticitate de calcul aproape infinită gestionând traficul de vârf al întreprinderii cu latență zero",
+        "Viteză de lansare accelerată cu conducte de implementare CI/CD complet automatizate",
+        "Eliminarea punctelor unice de eșec vechi cu disponibilitate înaltă multi-AZ",
+        "Arhitecturi moderne API care permit integrări rapide ale partenerilor multiplatforme",
+        "Observabilitate avansată în timp real a performanței aplicațiilor și a cheltuielilor în cloud"
+      ],
+      "landscapeAssessmentPoints": [
+        "Maparea dependențelor complexe între aplicații și a cadențelor de sincronizare a datelor",
+        "Identificarea configurațiilor de mediu hardcoded și a schemelor de baze de date proprietare",
+        "Evaluarea conformității reglementărilor și a constrângerilor de suveranitate a datelor pe jurisdicție",
+        "Calcularea realistă a costului total de proprietate (TCO) în toate căile de refactor versus rehost",
+        "Stabilirea unor valuri clare de lansare pentru a proteja operațiunile active de afaceri zilnice"
+      ],
+      "sec1Eyebrow": "REALITATEA SISTEMELOR LEGACY",
+      "sec1Heading": "Provocarea moștenirii",
+      "sec1Subtext": "Monoliții îmbătrâniți limitează viteza inovației, cresc vulnerabilitățile operaționale și cresc costurile de întreținere a infrastructurii.",
+      "sec2Eyebrow": "EVALUARE & DESCOPERIRE",
+      "sec2Heading": "Înțelegerea peisajului aplicației",
+      "sec2Subtext": "Descoperire arhitecturală riguroasă pentru a mapa dependențele de date, versiunile de software și rentabilitatea investiției de modernizare înainte de migrare.",
+      "sec3Eyebrow": "CELE 4 CĂI DE MODERNIZARE",
+      "sec3Heading": "Abordări de modernizare",
+      "sec3Subtext": "Alegerea modelului de migrare potrivit pentru fiecare sarcină de lucru: regazduire, replatformare, refactorizare sau înlocuire.",
+      "sec4Eyebrow": "MODEL DE TRANSFORMARE ȚINTĂ",
+      "sec4Heading": "Arhitectură modernă în cloud",
+      "sec4Subtext": "Proiectarea de microservicii rezistente, baze de date gestionate și conducte de implementare automată potrivite pentru scalabilitate ridicată.",
+      "sec5Eyebrow": "REZULTATELE TRANSFORMĂRII",
+      "sec5Heading": "Avantajele cheie ale modernizării",
+      "sec5Subtext": "Agilitate semnificativă, reducere a costurilor și dividende de fiabilitate deblocate de transformarea nativă în cloud.",
+      "ctaHeading": "Sunteți gata să vă modernizați aplicațiile vechi pentru cloud?",
+      "ctaDescription": "Colaborați cu arhitecții cloud Rezonants pentru a evalua dependențele, pentru a construi foi de parcurs de migrare și pentru a face tranziția sistemelor dumneavoastră în siguranță.",
+      "ctaButton": "Discutați cu un specialist în cloud",
+      "sec1P1": "Aplicațiile esențiale pentru misiune construite în urmă cu un deceniu generează încă miliarde de venituri ale întreprinderii, dar rigiditățile lor arhitecturale creează un risc operațional în creștere.",
+      "sec1P2": "Fiecare întreprindere se confruntă cu tensiunea dintre stabilitate și modernizare. Sistemele vechi au fost concepute pentru durabilitate și au funcționat fiabil de ani de zile. Cu toate acestea, pe măsură ce cerințele de afaceri se accelerează, aceste arhitecturi îmbătrânite se confruntă cu limite structurale:",
+      "sec1List": [
+        {
+          "bold": "Stive de software învechite:",
+          "text": "Baze de coduri monolitice construite pe cadre învechite, cu resurse de talent în scădere disponibile pentru întreținere."
+        },
+        {
+          "bold": "Cicluri de întreținere dificile:",
+          "text": "Componente strâns cuplate în care schimbarea unei singure caracteristici riscă să spargă modulele operaționale care nu au legătură."
+        },
+        {
+          "bold": "Scalabilitate limitată:",
+          "text": "Limite de scalare verticală care necesită achiziționarea de hardware proprietar scump pentru a face față creșterilor sezoniere de trafic."
+        },
+        {
+          "bold": "Provocări de integrare:",
+          "text": "Incapacitatea de a interfața fără probleme cu aplicații mobile moderne, portaluri pentru clienți sau API-uri partenere fără scripturi de lot fragile."
+        },
+        {
+          "bold": "Constrângeri de infrastructură:",
+          "text": "Ciclurile de viață ale camerei serverului fizic, vulnerabilitățile de rezervă și cheltuielile operaționale mari pentru energie/răcire."
+        }
+      ],
+      "sec2P1": "O călătorie pragmatică de modernizare începe prin stabilirea unei clarități totale asupra proprietății existente:",
+      "sec2List": [
+        {
+          "bold": "Aplicații:",
+          "text": "Catalogarea tuturor încărcăturilor de lucru active, modulelor personalizate, scripturilor de fundal și pachetelor istorice terță parte."
+        },
+        {
+          "bold": "Dependențe:",
+          "text": "Maparea cuplării complexe de rulare, a tabelelor de baze de date partajate, a apelurilor directe la sistemul de fișiere și a contractelor de servicii externe."
+        },
+        {
+          "bold": "Date:",
+          "text": "Evaluarea structurilor de date, a cerințelor de integritate tranzacțională, a cadenței de rezervă și a regulilor de suveranitate de reglementare."
+        },
+        {
+          "bold": "Infrastructură:",
+          "text": "Auditarea procesorului, a memoriei, a utilizării stocării și a debitului rețelei la specificațiile norului țintă de dimensiunea corectă."
+        },
+        {
+          "bold": "Criticitatea afacerii:",
+          "text": "Clasificarea aplicațiilor în niveluri pentru a proiecta valuri de migrare sigure, în etape, cu proceduri de rezervă clare."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Avantaj:",
+      "cloudArchitectureBadge": "Ciclul de viață al modernizării",
+      "cloudArchitectureTitle": "Flux de modernizare cloud end-to-end",
+      "sec4P1": "Arhitectura destinației decuplează aplicațiile de bază în servicii modulare, containerizate găzduite pe platforme cloud elastice (cum ar fi Kubernetes sau runtime gestionate fără server).",
+      "sec4P2": "Prin stabilirea unor conducte automate de implementare CI/CD, treceri automate de culoare albastru-verde și infrastructură ca cod, implementările se transformă de la evenimente de weekend stresante în rutine zilnice fără întreruperi.",
+      "sec4P3": "Calculul elastic crește automat în timpul creșterii cererii și scade în timpul pauzei, eliminând costurile cu resursele inactive, garantând în același timp timpi de răspuns sub secunde pentru utilizatorii globali.",
+      "keyPerspectiveEyebrow": "BUNE PRACTICI DE MODERNIZARE",
+      "keyPerspectiveTitle": "Patru piloni ai unei migrații de succes",
+      "keyPerspectiveLead": "Experiența arată că proiectele de modernizare reușesc atunci când se bazează pe o pregătire cuprinzătoare, o secvențiere clară a valurilor și testare riguroasă:"
+    }
+  }
+}

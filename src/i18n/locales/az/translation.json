@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Haqqında",
+    "services": "Xidmətlər",
+    "products": "Məhsullar",
+    "perspectives": "Perspektivlər",
+    "technologies": "Texnologiyalar",
+    "contact": "Əlaqə",
+    "signIn": "Daxil ol",
+    "signUp": "Qeydiyyatdan Keç",
+    "signOut": "Çıx",
+    "chooseLanguage": "Dilinizi seçin",
+    "searchLanguage": "Axtarış dili",
+    "resetEnglish": "İngilis dilinə sıfırla",
+    "noResults": "Heç bir dil tapılmadı",
+    "englishDefault": "İngilis (Defolt)",
+    "english": "İngilis dili"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "<em>biznesinizin</em> işləməsi üçün hazırlanmış proqram təminatı.",
+    "description": "Rezonants İT xidmətləri və rəqəmsal məhsullar şirkətidir. Biz icrada rəqabət aparan şirkətlər üçün xüsusi proqram təminatı, veb və mobil məhsullar, bulud infrastrukturu və AI layihələndirir, qurur və miqyaslandırırıq.",
+    "bookConsultation": "Pulsuz konsultasiya sifariş edin",
+    "exploreServices": "Xidmətləri araşdırın",
+    "years": "illər",
+    "projects": "layihələr",
+    "retention": "saxlama",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — 2012-ci ildən",
+    "metaStudio": "Rəqəmsal məhsul studiyası",
+    "metaTech": "Veb · Mobil · Bulud · AI"
+  },
+  "about": {
+    "eyebrow": "Haqqımızda",
+    "title": "<em>Biznesləri irəliyə aparan</em> Rəqəmsal Həllər Yaradın",
+    "description": "Rezonants, bizneslərə ideyaları mənalı rəqəmsal təcrübələrə çevirməkdə kömək etməyə yönəlmiş texnologiya həlləri şirkətidir. Biz real dünya ehtiyacları ətrafında hazırlanmış həllər təqdim etmək üçün texnologiya, yaradıcılıq və biznes anlayışını birləşdiririk.<br /><br />Rəqəmsal transformasiya və fərdi proqram təminatının hazırlanmasından bulud, süni intellekt, avtomatlaşdırma və idarə olunan texnologiya xidmətlərinə qədər biz təşkilatlara mürəkkəbliyi sadələşdirməyə, səmərəliliyi yaxşılaşdırmağa və davamlı rəqəmsal dəyər yaratmağa kömək edirik.<br /><br /><strong>Bizim yanaşmamız sadədir — problemləri düzgün başa düşür və həll edir.</strong>",
+    "awardWinning": "Mükafat qazanan",
+    "awardText": "Veb və mobil məhsul mühəndisliyi üzrə çatdırılma mükəmməlliyi ilə tanınır.",
+    "professionalStaff": "Peşəkar Heyət",
+    "staffText": "İlk zəngdən canlı yayıma qədər işin sahibi olan baş, cavabdeh mühəndislər.",
+    "support247": "24/7 dəstək",
+    "supportText": "İdarə olunan xidmətlər və ehtiyacınız olduqda cavab verən dəstək xətti.",
+    "fairPrices": "Ədalətli Qiymətlər",
+    "pricesText": "Hər bir tapşırıq üzrə dürüst təxminlər və şəffaf hesablama.",
+    "yearsExcellence": "Müəssisə Mükəmməllik İlləri"
+  },
+  "stats": {
+    "happyClients": "Xoşbəxt müştərilər",
+    "projectsDone": "Həyata keçirilən layihələr",
+    "winAwards": "Mükafatlar qazanın"
+  },
+  "insights": {
+    "eyebrow": "Perspektivlər",
+    "title": "Perspektivlər",
+    "sub": "Gələcəyi formalaşdıran ideyaları, tendensiyaları və texnologiyanı araşdırmaq.",
+    "filters": {
+      "all": "Hamısı",
+      "digital-transformation": "Rəqəmsal Transformasiya",
+      "ai": "AI & Avtomatlaşdırma",
+      "cloud": "Bulud",
+      "data": "Məlumat və Analitika",
+      "software": "Proqram təminatı",
+      "business": "Biznes və Texnologiya"
+    },
+    "readMore": "Ətraflı",
+    "close": "Bağlayın",
+    "keyTakeaways": "Əsas Memarlıq Çıxışları",
+    "relatedServices": "Əlaqədar İmkanlar və Xidmətlər",
+    "minRead": "dəq oxu",
+    "item1Date": "İyul 2026",
+    "item1Tag": "Məhsul və ERP",
+    "item1Title": "Böyüyən müəssisələr üçün modul ERP yanaşması",
+    "item1Text": "ERP tapşırıqlarını necə strukturlaşdırırıq ki, maliyyə, inventar, HR və satınalmalar çoxillik fasilələr olmadan problemsiz inteqrasiya etsin.",
+    "item2Date": "2026-cı ilin iyunu",
+    "item2Tag": "Süni intellekt",
+    "item2Title": "Agentlik AI sistemləri: chatbotlardan avtonom icraya keçid",
+    "item2Text": "İnsan dövriyyəsi nəzarəti ilə mürəkkəb biznes iş axınlarını planlaşdıran, təsdiqləyən və icra edən əlaqələndirilmiş multi-agent LLM sistemlərinin arxitekturası.",
+    "item3Date": "May 2026",
+    "item3Tag": "Şirkət Milestone",
+    "item3Title": "Hyderabadda aparıcı İT innovasiya studiyaları arasında tanınır",
+    "item3Text": "Mühəndislik studiyamız qlobal məhsul mühəndisliyi üzrə çatdırılma mükəmməlliyi, dərin texnoloji imkanlar və müştəri məmnuniyyəti ilə tanınıb.",
+    "desc": "Rəqəmsal transformasiya, süni intellekt, avtomatlaşdırma, bulud, verilənlər, proqram təminatı və biznes texnologiyalarının gələcəyi ilə bağlı Rezonants-dən ideya və perspektivləri araşdırın.",
+    "categories": {
+      "digitalTransformation": "Rəqəmsal Transformasiya",
+      "ai": "AI & Avtomatlaşdırma",
+      "cloud": "Bulud",
+      "data": "Məlumat və Analitika",
+      "software": "Proqram təminatı",
+      "business": "Biznes və Texnologiya"
+    }
+  },
+  "technologies": {
+    "title": "Texnologiyalar və Memarlıq",
+    "headline": "Enterprise Technology Solutions",
+    "sub": "Ağıllı Texnologiya. Avtomatlaşdırılmış əməliyyatlar. Daha Ağıllı Biznes.",
+    "selectTechnology": "Texnologiya həllini seçin...",
+    "options": {
+      "aiRobotics": "AI və Robototexnika Həlləri",
+      "businessAutomation": "Biznesin avtomatlaşdırılması həlləri",
+      "cloudMigrations": "Bulud Miqrasiya Həlləri",
+      "dataCenters": "Məlumat Mərkəzi Həllləri",
+      "cognitiveAnalytics": "Koqnitiv Analitika və AI",
+      "informationReporting": "İnformasiya və Hesabat Sistemləri",
+      "managedServices": "İdarə olunan Xidmətlər",
+      "oneStopSolutions": "One-Stop Technology Solutions"
+    },
+    "explore": "Texnologiyanı araşdırın",
+    "bookDiscovery": "Kitab Texnologiyasının Kəşfi",
+    "exploreAll": "Bütün Texnologiyaları Araşdırın",
+    "coreCapabilities": "Əsas Texnologiya İmkanları",
+    "bookConsultation": "Konsultasiya sifariş edin"
+  },
+  "contact": {
+    "eyebrow": "Əlaqə",
+    "title": "Satış skripti ilə deyil, böyük mühəndislə danışın",
+    "sub": "Layihəniz haqqında bir az paylaşın və biz bir iş günü ərzində cavab verəcəyik.",
+    "reachUs": "Bizə birbaşa",
+    "preferConversation": "Söhbətə üstünlük verirsiniz? Bir zəng uzaqdayıq.",
+    "contactLede": "İrəli getməyin ən sürətli yolu qısa söhbətdir. Aşağıdakı istənilən kanalda bizimlə əlaqə saxlayın və ya bir yer sifariş edin və biz sizə hazırlıqlı gələk.",
+    "phone": "Telefon",
+    "email": "E-poçt",
+    "office": "Ofis",
+    "hours": "Saat",
+    "hoursValue": "Bazar ertəsi – Şənbə, 9:30 – 18:30 IST",
+    "bookSlot": "Məsləhət yeri sifariş edin",
+    "sendMessage": "Bizə mesaj göndər",
+    "fieldsRequired": "* ilə işarələnmiş sahələr tələb olunur.",
+    "fullName": "Tam adı *",
+    "emailLabel": "E-poçt *",
+    "company": "Şirkət",
+    "subject": "Mövzu",
+    "messageLabel": "Mesaj *",
+    "sending": "Göndərilir...",
+    "sendBtn": "Mesaj göndər",
+    "successMsg": "Mesaj göndərildi! Surəti sizə e-poçt göndərilib.",
+    "errorMsg": "Mesajınızı saxlamaq mümkün olmadı. Əlaqə_mesajları cədvəlinin mövcud olduğunu yoxlayın, sonra yenidən cəhd edin.",
+    "offices": {
+      "vijayawada": "Vijayawada Ofisi",
+      "southAfrica": "Cənubi Afrika Ofisi"
+    },
+    "placeholders": {
+      "fullName": "Tam adınız",
+      "email": "you@company.com",
+      "company": "Sizin şirkət və ya təşkilat",
+      "subject": "Biz necə kömək edə bilərik?",
+      "message": "Layihəniz, vaxt qrafikiniz və məqsədləriniz haqqında bizə məlumat verin..."
+    },
+    "validation": {
+      "fullNameRequired": "Tam adınızı daxil edin.",
+      "emailRequired": "E-poçt ünvanınızı daxil edin.",
+      "emailInvalid": "Etibarlı e-poçt ünvanı daxil edin.",
+      "messageRequired": "Zəhmət olmasa mesaj daxil edin."
+    }
+  },
+  "services": {
+    "eyebrow": "Xidmətlər",
+    "title": "Nə edirik",
+    "sub": "Strategiyadan tutmuş idarə olunan əməliyyatlara qədər biz icrada rəqabət aparan şirkətlər üçün başdan-başa texnologiya tərəfdaşlığı təqdim edirik.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Başlanğıcdan Yerləşdirməyə",
+        "description": "İnkişaf, inteqrasiya, sınaq, yerləşdirmə və davamlı dəstək vasitəsilə biznes tələbləri və həll arxitekturasından yeni rəqəmsal həllərin uçdan uca inkişafı."
+      },
+      "businessProcessAutomation": {
+        "label": "Biznes Proseslərinin Avtomatlaşdırılması",
+        "description": "Biznes proseslərini asanlaşdıran, təkrarlanan əl işlərini aradan qaldıran, əməliyyat səmərəliliyini artıran və biznes nəticələrini sürətləndirən ağıllı avtomatlaşdırma həllərinin layihələndirilməsi və tətbiqi."
+      },
+      "centerOfExcellence": {
+        "label": "Mükəmməllik Mərkəzi",
+        "description": "İdarəetmə, standartlar, təcrübə, çərçivələr, təkrar istifadə edilə bilən aktivlər və təşkilat daxilində davamlı təkmilləşdirməni təmin edən ixtisaslaşdırılmış texnologiya və biznes qabiliyyət mərkəzlərinin yaradılması."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Xüsusi İnkişaf və Fərdiləşdirmə",
+        "description": "Unikal biznes tələblərinə cavab vermək və uyğunlaşdırılmış funksionallıq təqdim etmək üçün tətbiqlərin, platformaların, iş axınlarının və korporativ həllərin inkişafı və təkmilləşdirilməsi."
+      },
+      "digitalTransformation": {
+        "label": "Rəqəmsal Transformasiya",
+        "description": "Bulud, AI, avtomatlaşdırma, məlumat və müasir tətbiq texnologiyaları vasitəsilə biznes əməliyyatlarının, texnologiya ekosistemlərinin və müştəri təcrübələrinin modernləşdirilməsi."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Başdan Uca Həll Çərçivəsi",
+        "description": "Strategiya, tələblər və arxitekturadan inkişafa, inteqrasiyaya, yerləşdirməyə, idarəetməyə, monitorinqə və dəstəyə qədər bütün texnologiyanın həyat dövrünü əhatə edən hərtərəfli çatdırılma yanaşması."
+      },
+      "migrationModernization": {
+        "label": "Miqrasiya və Modernləşmə",
+        "description": "Tətbiqlərin, verilənlərin, platformaların, infrastrukturun və iş yüklərinin köhnə və ya mövcud mühitlərdən müasir, genişlənən və optimallaşdırılmış texnoloji platformalara təhlükəsiz və strukturlaşdırılmış miqrasiyası."
+      },
+      "pocPilotImplementation": {
+        "label": "Konsepsiya sübutu (PoC) və Pilot Tətbiq",
+        "description": "Tam miqyaslı həyata keçirilməzdən əvvəl texniki mümkünlüyünü, biznes dəyərini, inteqrasiya tələblərini, performansını və miqyasını qiymətləndirmək üçün texnologiya həllərinin sürətli inkişafı və təsdiqi."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Paylaşılan Xidmətlər və İdarə olunan Əməliyyatlar",
+        "description": "Standartlaşdırılmış proseslər, ixtisaslı resurslar, idarəetmə çərçivələri, xidmətin idarə edilməsi və ölçülə bilən xidmət səviyyələri vasitəsilə biznes bölmələri arasında texnologiya və əməliyyat imkanlarının mərkəzləşdirilmiş şəkildə çatdırılması."
+      },
+      "customDevelopment": {
+        "label": "Başlanğıcdan Yerləşdirməyə",
+        "description": "İnkişaf, inteqrasiya, sınaq, yerləşdirmə və davamlı dəstək vasitəsilə biznes tələbləri və həll arxitekturasından yeni rəqəmsal həllərin uçdan uca inkişafı."
+      },
+      "processAutomation": {
+        "label": "Biznes Proseslərinin Avtomatlaşdırılması",
+        "description": "Biznes proseslərini asanlaşdıran, təkrarlanan əl işlərini aradan qaldıran, əməliyyat səmərəliliyini artıran və biznes nəticələrini sürətləndirən ağıllı avtomatlaşdırma həllərinin layihələndirilməsi və tətbiqi."
+      },
+      "solutionEngineering": {
+        "label": "Xüsusi İnkişaf və Fərdiləşdirmə",
+        "description": "Unikal biznes tələblərinə cavab vermək və uyğunlaşdırılmış funksionallıq təqdim etmək üçün tətbiqlərin, platformaların, iş axınlarının və korporativ həllərin inkişafı və təkmilləşdirilməsi."
+      },
+      "endToEndSolutions": {
+        "label": "Başdan Uca Həll Çərçivəsi",
+        "description": "Strategiya, tələblər və arxitekturadan inkişafa, inteqrasiyaya, yerləşdirməyə, idarəetməyə, monitorinqə və dəstəyə qədər bütün texnologiyanın həyat dövrünü əhatə edən hərtərəfli çatdırılma yanaşması."
+      },
+      "migrationServices": {
+        "label": "Miqrasiya və Modernləşmə",
+        "description": "Tətbiqlərin, verilənlərin, platformaların, infrastrukturun və iş yüklərinin köhnə və ya mövcud mühitlərdən müasir, genişlənən və optimallaşdırılmış texnoloji platformalara təhlükəsiz və strukturlaşdırılmış miqrasiyası."
+      },
+      "pilotPrototyping": {
+        "label": "Konsepsiya sübutu (PoC) və Pilot Tətbiq",
+        "description": "Tam miqyaslı həyata keçirilməzdən əvvəl texniki mümkünlüyünü, biznes dəyərini, inteqrasiya tələblərini, performansını və miqyasını qiymətləndirmək üçün texnologiya həllərinin sürətli inkişafı və təsdiqi."
+      },
+      "sharedServices": {
+        "label": "Paylaşılan Xidmətlər və İdarə olunan Əməliyyatlar",
+        "description": "Standartlaşdırılmış proseslər, ixtisaslı resurslar, idarəetmə çərçivələri, xidmətin idarə edilməsi və ölçülə bilən xidmət səviyyələri vasitəsilə biznes bölmələri arasında texnologiya və əməliyyat imkanlarının mərkəzləşdirilmiş şəkildə çatdırılması."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Məsləhətləşməni planlaşdırın",
+      "exploreFramework": "Həll Çərçivəsini araşdırın",
+      "talkSeniorEngineer": "Baş Mühəndislə danışın",
+      "exploreTechStack": "Texnologiya yığınını kəşf edin",
+      "bookPocSession": "PoC Discovery Sessiyasını sifariş edin",
+      "seeAllServices": "Bütün Xidmətlərə Bax",
+      "requestAssessment": "Miqrasiya Qiymətləndirməsini Sorğ",
+      "exploreCloudSolutions": "Bulud Həllərini araşdırın"
+    },
+    "sharedServices": {
+      "heroBadge": "PAYLAŞILAN XİDMƏTLƏR VƏ İDARƏ EDİLƏN ƏMƏLİYYATLAR",
+      "heroTitle": "Müəssisə Paylaşılan Xidmətlər və İdarə olunan Əməliyyatlar",
+      "heroDesc": "Biznes imkanlarını miqyaslandırın, funksiyalararası iş axınlarını sadələşdirin və standartlaşdırılmış, təhlükəsiz və sərfəli ortaq xidmət modelləri vasitəsilə əməliyyat mükəmməlliyinə nail olun.",
+      "bookDiscovery": "İdarə olunan əməliyyatların kəşfi",
+      "exploreFramework": "Həll Çərçivəsini araşdırın",
+      "coreCapabilities": "Əsas imkanlar:",
+      "managedServices": "İdarə olunan Xidmətlər",
+      "itOperations": "İT Əməliyyatları",
+      "appSupport": "Tətbiq Dəstəyi",
+      "serviceManagement": "Xidmət İdarəetmə",
+      "resourceOptimization": "Resursların optimallaşdırılması",
+      "slaManagement": "SLA İdarəetmə",
+      "governance": "İdarəetmə",
+      "continuousImprovement": "Davamlı Təkmilləşdirmə",
+      "costOptimization": "Xərclərin optimallaşdırılması",
+      "readyTitle": "Əməliyyatlarınızı optimallaşdırmağa hazırsınız?",
+      "readyDesc": "Paylaşılan Xidmətlər və İdarə olunan Əməliyyatlar çərçivələrimizin xidmət keyfiyyətini necə artıra biləcəyini, əməliyyat davamlılığını təmin edə biləcəyini və müəssisəniz üçün davamlı xərc səmərəliliyini necə artıra biləcəyini kəşf edin.",
+      "scheduleSession": "Kəşf Sessiyasını planlaşdırın"
+    },
+    "solutionEngineering": {
+      "heroBadge": "HƏLL MÜHENDİSLİK VƏ MEMARLIK",
+      "heroTitle": "Xüsusi İnkişaf və Fərdiləşdirmə",
+      "heroDesc": "Operativ iş axınlarınız, məlumat boru kəmərləri və miqyas tələbləri üçün xüsusi olaraq hazırlanmış yüksək performanslı proqram sistemlərini memar, mühəndis edin və yerləşdirin."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "SÜRƏTLİ İNNOVASİYA VƏ TƏCRÜBƏ",
+      "heroTitle": "Konsepsiya sübutu (PoC) və Pilot Tətbiq",
+      "heroDesc": "İnkişaf etməkdə olan texnologiyaları yoxlayın, mürəkkəb arxitekturaları riskdən çıxarın və rüblər deyil, həftələr ərzində istehsal səviyyəli prototiplərlə biznes dəyərini sübut edin."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "HƏYAT DÖVRÜ MEMARLIĞI & ÇATDIRILMA",
+      "heroTitle": "Başdan Uca Həll Çərçivəsi",
+      "heroDesc": "Məhsul kəşfi, həll arxitekturası, mühəndislik, bulud infrastrukturu və 24/7 etibarlılıq əməliyyatlarını birləşdirən vahid çatdırılma modeli."
+    },
+    "migrationServices": {
+      "heroBadge": "İNFRASTRUKTUR VƏ MİRSİN MÜASİRLƏŞMƏSİ",
+      "heroTitle": "Miqrasiya və Modernləşmə",
+      "heroDesc": "Köhnə iş yüklərini, monolit arxitekturaları və yerli infrastrukturu müasir, təhlükəsiz və miqyaslana bilən bulud platformalarına problemsiz keçin."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Müəssisənin modernləşdirilməsi",
+        "titlePart1": "Rəqəmsal",
+        "titlePart2": "Transformasiya",
+        "description": "Bulud, AI, avtomatlaşdırma, məlumat və müasir tətbiq texnologiyaları vasitəsilə biznes əməliyyatlarının, texnologiya ekosistemlərinin və müştəri təcrübələrinin modernləşdirilməsi.",
+        "bookWorkshop": "Kitabın Çevrilməsi Seminarı",
+        "exploreFramework": "Həll Çərçivəsini araşdırın",
+        "startTransformation": "Transformasiyaya başlayın",
+        "exploreStrategy": "Strategiyanı araşdırın",
+        "coreCapabilitiesTitle": "Əsas imkanlar",
+        "coreCapabilities": [
+          "Rəqəmsal Strategiya",
+          "Bulud çevrilməsi",
+          "AI və avtomatlaşdırma",
+          "Tətbiqin modernləşdirilməsi",
+          "Legacy Modernization",
+          "Məlumat və Analitika",
+          "Müştəri Təcrübəsi",
+          "Texnologiyanın Modernləşdirilməsi"
+        ],
+        "row1Eyebrow": "Strategiya və Yol Xəritəsi",
+        "row1Title": "Vizyondan İcra edilə bilən Yol Xəritəsinə",
+        "row1P1": "Rəqəmsal strategiya, biznes hadisələri və sürətli qalibiyyət və risksiz icra ilə mərhələli yol xəritələrini müəyyən etmək üçün müəssisə rəhbərləri ilə əməkdaşlıq edirik.",
+        "row1P2": "Prioritetləşdirilmiş təşəbbüslər, TCO modelləri və KPI-lər hər bir texnologiya modernləşdirmə səyinin birbaşa gəlir, səmərəlilik və müştəri məmnuniyyəti nəticələri ilə əlaqəli olmasını təmin edir.",
+        "row2Eyebrow": "Legacy Modernization",
+        "row2Title": "Biznesi pozmadan modernləşdirin",
+        "row2P1": "Platforma monolitlərini mikroservislərə, API-lərə və bulud-doğma modellərə sıfır dayanma vaxtı kəsmələri və avtomatlaşdırılmış reqressiya doğrulaması ilə yenidən.",
+        "row2P2": "Biz uyğunluq və təhlükəsizlik vəziyyətini qoruyaraq tətbiqləri, verilənlər bazalarını və inteqrasiya səviyyələrini modernləşdiririk.",
+        "row3Eyebrow": "Bulud, AI və Məlumat",
+        "row3Title": "Bulud qəbulu və Məlumata əsaslanan kəşfiyyat",
+        "row3P1": "AWS, Azure və GCP-ni qəbul edin, müasir məlumat kəmərləri qurun və avtonom qərarlar qəbul etmək üçün maşın öyrənmə agentlərini daxil edin.",
+        "row3P2": "Hadisələrin real vaxt axınından vahid tablosuna qədər transformasiya ölçülə bilən və davamlı olur.",
+        "row4Eyebrow": "Müştəri Təcrübəsi",
+        "row4Title": "Müasir Omnikanal Təcrübələri",
+        "row4P1": "Fərdiləşdirilmiş interfeyslərlə cavab verən veb, iOS, Android və özünəxidmət portalları üzrə müştəri səyahətlərini yenidən dizayn edin.",
+        "row4P2": "Platforma mühəndisliyi, telemetriya və avtomatlaşdırılmış əks əlaqə dövrələri rəqəmsal yeniliyi davamlı edir.",
+        "pillarsTitle": "Transformasiya Sütunları",
+        "pillarsSub": "Davamlı rəqəmsal liderliyi təmin edən nəticəyə yönəlmiş rıçaqlar.",
+        "pillar1Title": "Rəqəmsal Strategiya və İdarəetmə",
+        "pillar1Desc": "Biznes nümunəsinin modelləşdirilməsi, arxitektura idarəçiliyi və mərhələ riskinin izlənməsi ilə mərhələli transformasiya planları.",
+        "pillar2Title": "Bulud və Məlumat Platforması",
+        "pillar2Desc": "AWS/Azure/GCP çoxlu bulud əsasları, avtomatlaşdırılmış boru kəmərləri və müəssisə məlumat analitikasının aktivləşdirilməsi.",
+        "pillar3Title": "AI və avtomatlaşdırma",
+        "pillar3Desc": "Gündəlik əməliyyatları optimallaşdırmaq üçün intellektual proseslərin avtomatlaşdırılması, koqnitiv AI agentləri və proqnozlaşdırıcı telemetriya.",
+        "pillar4Title": "Müştəri Təcrübəsi",
+        "pillar4Desc": "Maksimum istifadəçi saxlamaq üçün qurulmuş yüksək konvertasiya edən çox kanallı rəqəmsal portallar və fərdiləşdirilmiş interfeyslər.",
+        "ctaTitle": "Müəssisənizi transformasiya etməyə hazırsınız?",
+        "ctaSub": "Ölçülə bilən biznes nəticələrinə bağlı mərhələli, riskdən azad edilmiş rəqəmsal transformasiya üçün Rezonants ilə partnyor.",
+        "ctaButton": "Rəqəmsal Transformasiya Zəngini sifariş edin"
+      },
+      "customDevelopment": {
+        "eyebrow": "Başdan Uca Rəqəmsal Mühəndislik",
+        "titlePart1": "Başlanğıc To",
+        "titlePart2": "Yerləşdirmə",
+        "bookConsultation": "Konsultasiya sifariş edin",
+        "exploreEngineering": "Həll Mühəndisliyini araşdırın"
+      },
+      "processAutomation": {
+        "eyebrow": "Ağıllı Proses Əməliyyatları",
+        "titlePart1": "Biznes Prosesi",
+        "titlePart2": "Avtomatlaşdırma",
+        "bookDiscovery": "Kitabın avtomatlaşdırılmasının kəşfi",
+        "exploreCoE": "Mükəmməllik Mərkəzini araşdırın"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "mərkəzi",
+        "titlePart2": "mərkəzi Mükəmməllik",
+        "bookConsultation": "Kitab AŞ Məsləhətləşmələri",
+        "exploreCapabilities": "Bacarıqları Araşdırın"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Tam Texnologiya Həyat Dövrü",
+        "titlePart1": "Başdan-Uca",
+        "titlePart2": "Həll Çərçivəsi",
+        "startJourney": "Həyat Dövrü Səyahətinizə Başlayın",
+        "exploreTransformation": "Transformasiyanı kəşf edin"
+      },
+      "migrationServices": {
+        "eyebrow": "Bulud və İnfrastruktur Transformasiyası",
+        "titlePart1": "Miqrasiya və",
+        "titlePart2": "Modernləşmə",
+        "planMigration": "Miqrasiyanızı Planlayın",
+        "exploreTransformation": "Transformasiyanı kəşf edin"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Sürətli Qiymətləndirmə və Fizibilite",
+        "titlePart1": "Konsepsiya sübutu (PoC) və",
+        "titlePart2": "Pilot Tətbiq",
+        "initiateDiscovery": "PoC Discovery",
+        "exploreDevelopment": "işə salın Xüsusi İnkişafı Araşdırın"
+      },
+      "solutionEngineering": {
+        "badge": "Uyğun Rəqəmsal Mühəndislik",
+        "bookConsultation": "Konsultasiya sifariş edin",
+        "exploreCapabilities": "Bacarıqları Araşdırın"
+      },
+      "sharedServices": {
+        "eyebrow": "Mərkəzləşdirilmiş Əməliyyatlar Mərkəzi",
+        "titlePart1": "Paylaşılan Xidmətlər &",
+        "titlePart2": "İdarə olunan əməliyyatlar",
+        "bookDiscovery": "İdarə olunan əməliyyatları kəşf edin",
+        "exploreFramework": "Həll Çərçivəsini araşdırın"
+      }
+    },
+    "coreCapabilities": "Əsas imkanlar"
+  },
+  "products": {
+    "featured": "Seçilmiş Məhsullar",
+    "featuredSub": "Əməliyyatları sadələşdirin, komandaları birləşdirin, prosesləri avtomatlaşdırın və biznesin daha ağıllı böyüməsini təmin edin.",
+    "seeAll": "Bütün Məhsullara Bax",
+    "featuredProducts": "SEÇİLƏN MƏHSULLAR",
+    "meetAutonomous": "Muxtar işçi qüvvəsi ilə tanış olun",
+    "meetAutonomousText": "Mürəkkəb, təkrarlanan tapşırıqların öhdəsindən gəlmək üçün komandanızla birlikdə işləyən AI agentləri ilə əməliyyatlarınızı dəyişdirin.",
+    "learnMore": "Ətraflı məlumat",
+    "erp": {
+      "title": "Hər Şeyə Hazır Bir Platforma",
+      "sub": "Əlaqəli, ağıllı və genişlənə bilən müəssisə idarəetmə həlləri ilə biznesləri gücləndirmək.",
+      "explore": "ERP Həllərini araşdırın",
+      "gridTitle": "ERP HƏLLLERİ",
+      "promoTitle": "Böyümə üçün modul ERP",
+      "promoText": "Ənənəvi çoxillik sistemlərin mürəkkəbliyi olmadan modul ERP xüsusiyyətlərini sürətlə yerləşdirin.",
+      "scheduleDemo": "Demo cədvəli"
+    },
+    "it": {
+      "title": "İT Həllləri",
+      "sub": "Biznesinizi davam etdirmək üçün korporativ səviyyəli infrastruktur, təhlükəsizlik və DevOps həlləri.",
+      "explore": "IT Solutions",
+      "gridTitle": "ilə tanış olun İT HƏLLLERİ",
+      "promoTitle": "Etibarlı İT İnfrastruktur",
+      "promoText": "İdarə olunan bulud, təhlükəsizlik və DevOps xidmətləri ilə davamlı texnologiya təməli qurun.",
+      "getStarted": "Başlayın"
+    },
+    "crm": {
+      "title": "CRM Həlləri",
+      "sub": "Satış, dəstək və marketinq iş axınlarını asanlaşdırmaq üçün müştəri münasibətlərinin idarə edilməsi.",
+      "explore": "CRM Həllərini araşdırın",
+      "gridTitle": "CRM HƏLLLERİ",
+      "promoTitle": "Daha Sövdələşmələri Bağlayın",
+      "promoText": "Satış və dəstək qruplarınızı vahid müştəri məlumatları və ağıllı avtomatlaşdırma ilə gücləndirin.",
+      "startTrial": "Pulsuz sınağa başlayın"
+    },
+    "hrms": {
+      "title": "HRMS Həlləri",
+      "sub": "Əmək haqqı, işə qəbul, performans və işçilərin cəlb edilməsini əhatə edən insan resurslarının idarə edilməsi.",
+      "explore": "HRMS Solutions",
+      "gridTitle": "ilə tanış olun HRMS HƏLLLERİ",
+      "promoTitle": "HR əməliyyatlarını sadələşdirin",
+      "promoText": "Müasir, ilk işçi platforması ilə işə qəbuldan pensiyaya qədər HR iş axınlarını avtomatlaşdırın.",
+      "requestDemo": "Demo Sorğu"
+    },
+    "sidebar": {
+      "featuredProducts": "Seçilmiş Məhsullar",
+      "erpSolutions": "ERP Həlləri",
+      "solutions": "HƏLLLER"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Mürəkkəb iş axınlarını və müştəri əməliyyatlarını avtomatlaşdıran ağıllı avtonom agentlər və alətlər."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Performans, təhlükəsizlik, uyğunluq və xərcləri optimallaşdıran çoxlu bulud idarəetmə platforması."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "İnteqrasiya edilmiş tapşırıq, söhbət və sənəd idarəetməsi ilə hibrid əməkdaşlıq və məhsuldarlıq mərkəzi."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Biznes hadisələrinin axınlarını hərəkətə gətirilə bilən fikirlərə çevirən real vaxt analitika mühərriki."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Maliyyə, aktivlər, HR, satınalma və inventar birləşdirən vahid müəssisə arxitekturası."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Əmək haqqı, müavinətlər, performans rəyləri və özünəxidməti əhatə edən işçi təcrübəsi platforması."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Real vaxtda logistika izləmə, avtomatlaşdırılmış anbar əməliyyatları və tələbin proqnozlaşdırılması."
+      },
+      "financeHub": {
+        "title": "Maliyyə Mərkəzi",
+        "description": "Qabaqcıl mühasibat kitablarının idarə edilməsi, hesablama iş axınları, avtomatlaşdırılmış uyğunluq və real vaxtda pul vəsaitlərinin hərəkəti hesabatları."
+      },
+      "cloudInfrastructure": {
+        "title": "Bulud İnfrastruktur",
+        "description": "AWS, Azure və GCP arasında genişlənən bulud arxitekturası, miqrasiya və idarəetmə."
+      },
+      "cybersecuritySuite": {
+        "title": "Kibertəhlükəsizlik Suite",
+        "description": "Təhlükəsizlik monitorinqi, təhlükənin aşkarlanması və uyğunluğun idarə edilməsi."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Boru Kəməri",
+        "description": "Daha sürətli çatdırılma üçün CI/CD avtomatlaşdırılması, konteynerləşdirmə və kod kimi infrastruktur."
+      },
+      "managedItServices": {
+        "title": "İdarə olunan İT Xidmətləri",
+        "description": "24/7 infrastruktur monitorinqi, insidentlərə reaksiya və proaktiv texniki xidmət."
+      },
+      "salesCrm": {
+        "title": "Satış CRM",
+        "description": "Bir platformada boru kəmərinin idarə edilməsi, potensialın qiymətləndirilməsi, sövdələşmənin izlənməsi və satış proqnozu."
+      },
+      "customerSupportHub": {
+        "title": "Müştəri Dəstəyi Mərkəzi",
+        "description": "Bilet satışı, bilik bazası, canlı söhbət və hərtərəfli dəstək idarəetməsi."
+      },
+      "marketingAutomation": {
+        "title": "Marketinqin avtomatlaşdırılması",
+        "description": "Kampaniyanın təşkili, e-poçtun avtomatlaşdırılması, aparıcı yetişdirmə və analitika."
+      },
+      "customer360View": {
+        "title": "Müştəri 360 Baxış",
+        "description": "Satış, dəstək və qarşılıqlı əlaqə məlumatlarını birləşdirən vahid müştəri profilləri."
+      },
+      "coreHr": {
+        "title": "Əsas HR",
+        "description": "İşçi qeydləri, təşkilat iyerarxiyası, məzuniyyətin idarə edilməsi və davamiyyətin izlənməsi."
+      },
+      "payrollCompliance": {
+        "title": "Əmək haqqı və Uyğunluq",
+        "description": "Avtomatlaşdırılmış əmək haqqının işlənməsi, vergi hesablamaları və qanuna uyğunluq."
+      },
+      "performanceManagement": {
+        "title": "Performans İdarəetmə",
+        "description": "OKR izləmə, 360° baxışlar, məqsəd təyini və işçilərin inkişaf planları."
+      },
+      "recruitmentPortal": {
+        "title": "İşə Qəbul Portalı",
+        "description": "İş elanları, ərizəçinin izlənməsi, müsahibə planlaması və işə qəbul iş axınları."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Seçilmiş Məhsullar",
+        "heading": "Seçilmiş Məhsullar",
+        "sub": "Əməliyyatları sadələşdirin, komandaları birləşdirin, prosesləri avtomatlaşdırın və biznesin daha ağıllı böyüməsini təmin edin.",
+        "promoTitle": "Avtonom İşçi Qüvvəsi ilə tanış olun",
+        "promoText": "Mürəkkəb, təkrarlanan tapşırıqların öhdəsindən gəlmək üçün komandanızla birlikdə işləyən AI agentləri ilə əməliyyatlarınızı dəyişdirin.",
+        "items": [
+          {
+            "title": "AI Avtomatlaşdırma və Ağıllı Agentlər",
+            "description": "Təkrarlanan tapşırıqları avtomatlaşdırın və məhsuldarlığı, qərar qəbul etməyi və biznes nəticələrini təkmilləşdirən ağıllı AI agentlərini yerləşdirin."
+          },
+          {
+            "title": "İT Xidməti və Rəqəmsal Dəstək",
+            "description": "Təkmilləşdirilmiş xidmət idarəetməsi, avtomatlaşdırma və rəqəmsal iş axınları ilə daha sürətli, daha ağıllı İT dəstəyi təqdim edin."
+          },
+          {
+            "title": "Müəssisə AI İdarəçiliyi",
+            "description": "Güclü idarəetmə, təhlükəsizlik, uyğunluq, şəffaflıq və risk nəzarəti ilə məsuliyyətli AI qəbulunu qurun."
+          },
+          {
+            "title": "Ağıllı İT Əməliyyatları",
+            "description": "Süni intellektə əsaslanan monitorinq, avtomatlaşdırma, proqnozlaşdırıcı anlayışlar və proaktiv problem həlli ilə İT əməliyyatlarını dəyişdirin."
+          },
+          {
+            "title": "Müştəri Təcrübəsinin İdarə Edilməsi",
+            "description": "Ağıllı əlaqə, avtomatlaşdırma, analitika və qüsursuz rəqəmsal təcrübə ilə fərdiləşdirilmiş müştəri səyahətləri yaradın."
+          },
+          {
+            "title": "Biznes Strategiyası və Portfel Optimizasiyası",
+            "description": "Portfelləri optimallaşdırmaq, səmərəliliyi artırmaq və davamlı artımı təmin etmək üçün texnologiya investisiyalarını biznes məqsədləri ilə uyğunlaşdırın."
+          },
+          {
+            "title": "İT Aktiv və Texnologiyanın Həyat Dövrü",
+            "description": "Daha yaxşı görünmə, avtomatlaşdırma, məsrəflərə nəzarət və texnologiya planlaması ilə İT aktivlərini həyat dövrü boyunca idarə edin."
+          },
+          {
+            "title": "Müəssisə Riski və Uyğunluq",
+            "description": "Uyğunluğu, nəzarəti və təşkilati dayanıqlığı gücləndirməklə yanaşı, müəssisə risklərini müəyyən edin, qiymətləndirin və idarə edin."
+          },
+          {
+            "title": "Kibertəhlükəsizlik və Təhdid Əməliyyatları",
+            "description": "Proaktiv təhlükənin aşkarlanması, təhlükəsizlik əməliyyatları, insidentlərə reaksiya və davamlı monitorinq ilə rəqəmsal mühitləri qoruyun."
+          },
+          {
+            "title": "Sahə işçi qüvvəsinin avtomatlaşdırılması",
+            "description": "Sahə komandalarını ağıllı planlaşdırma, mobil iş axınları, avtomatlaşdırma və real vaxt əməliyyat görünürlüğü ilə gücləndirin."
+          },
+          {
+            "title": "İşçi Təcrübəsi və HR Xidmətləri",
+            "description": "Rəqəmsal iş axınları, özünəxidmət həlləri, avtomatlaşdırma və fərdiləşdirilmiş işçi təcrübələri ilə işçi xidmətlərini sadələşdirin."
+          },
+          {
+            "title": "Vahid Rəqəmsal İş Yeri",
+            "description": "Təhlükəsiz, ağıllı və qüsursuz rəqəmsal iş yeri vasitəsilə insanları, prosesləri, tətbiqləri və əməkdaşlıq alətlərini birləşdirin."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP Həlləri",
+        "heading": "Bir Platforma, Hər Şeyə Hazır",
+        "sub": "Əlaqəli, ağıllı və genişlənə bilən müəssisə idarəetmə həlləri ilə biznesləri gücləndirmək.",
+        "promoTitle": "Böyümə üçün modul ERP",
+        "promoText": "Ənənəvi çoxillik sistemlərin mürəkkəbliyi olmadan modul ERP xüsusiyyətlərini sürətlə yerləşdirin.",
+        "items": [
+          {
+            "title": "Biznes Proseslərinin Avtomatlaşdırılması",
+            "description": "Maliyyə, HR, satış, satınalma və gündəlik əməliyyatları sadələşdirin."
+          },
+          {
+            "title": "İnteqrasiya edilmiş Biznes İdarəetmə",
+            "description": "Vahid platformada şöbələri, məlumatları və iş axınlarını birləşdirin."
+          },
+          {
+            "title": "Maliyyə və Mühasibatlıq",
+            "description": "Maliyyə görünürlüğünü, hesabat verməyi, büdcə tərtibini və uyğunluğu təkmilləşdirin."
+          },
+          {
+            "title": "HR və Əmək haqqı",
+            "description": "İşçilərin idarə edilməsi, davamiyyət, əmək haqqı və HR proseslərini sadələşdirin."
+          },
+          {
+            "title": "Təchizat Zəncirinin İdarə Edilməsi",
+            "description": "Satınalma, inventar, satıcılar və logistikanı optimallaşdırın."
+          },
+          {
+            "title": "Satış və Müştəri İdarəetmə",
+            "description": "Rəhbərləri, müştəriləri, sifarişləri və satış performansını səmərəli şəkildə idarə edin."
+          },
+          {
+            "title": "Real-Time Analitika və Hesabat",
+            "description": "Daha sürətli qərarlar üçün biznes məlumatlarını hərəkətə keçə bilən anlayışlara çevirin."
+          },
+          {
+            "title": "Bulud ERP Həlləri",
+            "description": "İstənilən yerdən təhlükəsiz, genişlənən və əlçatan müəssisə idarəçiliyini aktivləşdirin."
+          }
+        ]
+      },
+      "it": {
+        "title": "İT Həllləri",
+        "heading": "İT Həlllərimiz",
+        "sub": "Performans, məhsuldarlıq və iş davamlılığını təkmilləşdirən ağıllı, proaktiv və miqyaslana bilən rəqəmsal həllər ilə İT əməliyyatlarını transformasiya edin.",
+        "promoTitle": "Etibarlı İT İnfrastruktur",
+        "promoText": "İdarə olunan bulud, təhlükəsizlik və DevOps xidmətləri ilə davamlı texnologiya təməli qurun.",
+        "items": [
+          {
+            "title": "İT Xidmətinin İdarə Edilməsi",
+            "description": "Daha sürətli həll üçün İT xidmətlərini, insidentləri, sorğuları və iş axınını sadələşdirin."
+          },
+          {
+            "title": "İT Əməliyyatlarının İdarəedilməsi",
+            "description": "Proaktiv, verilənlərə əsaslanan İT əməliyyatları ilə infrastruktur və tətbiqlərə nəzarət edin."
+          },
+          {
+            "title": "IT Asset Management",
+            "description": "Xərcləri, riskləri və həyat dövrünün mürəkkəbliyini azaldaraq texnologiya aktivlərini səmərəli şəkildə idarə edin."
+          },
+          {
+            "title": "Müəssisə Arxitekturası",
+            "description": "Biznes strategiyasını düzgün texnologiya arxitekturası və investisiyaları ilə uyğunlaşdırın."
+          },
+          {
+            "title": "Bulud İdarəetmə",
+            "description": "Bulud təhlükəsizliyini, uyğunluğu, performansı və xərclərin idarə edilməsini təkmilləşdirin."
+          },
+          {
+            "title": "Rəqəmsal Əməliyyatlar",
+            "description": "İT proseslərini avtomatlaşdırın və texnologiya mühitinizdə real vaxtda görünürlük əldə edin."
+          },
+          {
+            "title": "Müşahidə və Monitorinq",
+            "description": "Performans problemlərini erkən aşkar edin və etibarlı rəqəmsal təcrübələri qoruyun."
+          },
+          {
+            "title": "Strateji Portfelin İdarə Edilməsi",
+            "description": "İT investisiyalarını biznes prioritetləri və ölçülə bilən nəticələrlə əlaqələndirin."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM Həlləri",
+        "heading": "Bizim CRM Həllərimiz",
+        "sub": "Bütün müştəri səyahəti boyunca əlaqəli, fərdiləşdirilmiş və ağıllı müştəri təcrübəsi təqdim edin.",
+        "promoTitle": "Daha çox təklifləri bağlayın",
+        "promoText": "Satış və dəstək qruplarınızı vahid müştəri məlumatları və ağıllı avtomatlaşdırma ilə gücləndirin.",
+        "items": [
+          {
+            "title": "Müştəri Xidmətlərinin İdarə Edilməsi",
+            "description": "Daha sürətli həlletmə, özünəxidmət və ağıllı iş axınları ilə müştəri dəstəyini təkmilləşdirin."
+          },
+          {
+            "title": "Satışın avtomatlaşdırılması",
+            "description": "Satış fəaliyyətlərini avtomatlaşdırın, potensial müştəriləri idarə edin və komandalara imkanları daha tez bağlamağa kömək edin."
+          },
+          {
+            "title": "Satış və Sifarişin İdarə Edilməsi",
+            "description": "Müştəridən sifarişə səyahəti asanlaşdırın və gəlirin görünməsini yaxşılaşdırın."
+          },
+          {
+            "title": "Sahə Xidmətinin İdarə edilməsi",
+            "description": "Sahə əməliyyatlarını, planlaşdırma, göndərmə və texniki məhsuldarlığı optimallaşdırın."
+          },
+          {
+            "title": "Müştəri Təcrübəsinin İdarə Edilməsi",
+            "description": "Hər bir müştəri əlaqə nöqtəsində qüsursuz və fərdiləşdirilmiş təcrübələr yaradın."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "Daha ağıllı biznes qərarları üçün müştəri məlumatlarını hərəkətə keçə bilən anlayışlara çevirin."
+          },
+          {
+            "title": "Marketinqin avtomatlaşdırılması",
+            "description": "Kampaniyaları, müştərilərin cəlb edilməsini və lider yetişdirilməsini avtomatlaşdırın."
+          },
+          {
+            "title": "AI ilə işləyən CRM",
+            "description": "Məhsuldarlığı və müştəri cəlbini yaxşılaşdırmaq üçün ağıllı avtomatlaşdırma və süni intellekt anlayışlarından istifadə edin."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS Həlləri",
+        "heading": "HRMS Həllərimiz",
+        "sub": "İşçi idarəçiliyini sadələşdirən və iş yeri təcrübəsini təkmilləşdirən ağıllı, inteqrasiya olunmuş və avtomatlaşdırılmış HR həlləri ilə işçi qüvvənizi gücləndirin.",
+        "promoTitle": "HR əməliyyatlarını sadələşdirin",
+        "promoText": "Müasir, ilk işçi platforması ilə işə qəbuldan pensiyaya qədər HR iş axınlarını avtomatlaşdırın.",
+        "items": [
+          {
+            "title": "Əsas HR İdarəetmə",
+            "description": "İşçi məlumatlarını, təşkilati strukturları və HR proseslərini səmərəli şəkildə idarə edin."
+          },
+          {
+            "title": "Əmək haqqının idarə edilməsi",
+            "description": "Əmək haqqının hesablanmasını, əmək haqqının işlənməsini, tutulmaları və uyğunluğu avtomatlaşdırın."
+          },
+          {
+            "title": "İşçilərin özünəxidməti",
+            "description": "İşçilərə HR xidmətlərinə, sorğulara, sənədlərə və məlumatlara asan giriş imkanı verin."
+          },
+          {
+            "title": "Davamiyyət və məzuniyyətin idarə edilməsi",
+            "description": "Davamiyyətin izlənməsini, sorğuları, növbələri və iş saatlarını tərk etməyi sadələşdirin."
+          },
+          {
+            "title": "İşə qəbul və işə qəbul",
+            "description": "İşə qəbulu, namizədlərin idarə edilməsini, işə qəbulu və işçilərin inteqrasiyasını asanlaşdırın."
+          },
+          {
+            "title": "Performans İdarəetmə",
+            "description": "Məqsədlər təyin edin, performansı izləyin və işçilərin davamlı inkişafına dəstək olun."
+          },
+          {
+            "title": "Öyrənmə və İnkişaf",
+            "description": "Təlim proqramlarını, bacarıqların inkişafı və işçilərin artımını idarə edin."
+          },
+          {
+            "title": "HR Analytics & Reporting",
+            "description": "Daha yaxşı HR qərarları üçün işçi qüvvəsi məlumatlarını icra edilə bilən anlayışlara çevirin."
+          },
+          {
+            "title": "AI ilə işləyən HR avtomatlaşdırılması",
+            "description": "Təkrarlanan HR tapşırıqlarını avtomatlaşdırın və daha sürətli, fərdiləşdirilmiş işçi təcrübələri təqdim edin."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Proqram İnkişafı",
+        "heading": "Proqram İnkişafı Xidmətlərimiz",
+        "sub": "Biznesin böyüməsini sürətləndirən və mürəkkəb prosesləri sadələşdirən təhlükəsiz, genişlənə bilən və yüksək performanslı proqramlar yaradın.",
+        "promoTitle": "İstifadəçilərin Sevdiyi Proqramlar Yaradın",
+        "promoText": "İdeyadan işə salınana qədər komandamız yüksək keyfiyyətli mobil və veb proqramları dizayn edir və inkişaf etdirir.",
+        "items": [
+          {
+            "title": "Xüsusi Proqram İnkişafı",
+            "description": "Unikal biznes tələbləriniz əsasında hazırlanmış xüsusi proqramlar yaradın."
+          },
+          {
+            "title": "Veb və Mobil Tətbiqlərin İnkişafı",
+            "description": "Veb, mobil və çoxlu cihazlarda qüsursuz rəqəmsal təcrübələr təqdim edin."
+          },
+          {
+            "title": "Müəssisə Tətbiqlərinin İnkişafı",
+            "description": "Mövcud biznes sistemlərinizlə inteqrasiya edən genişlənə bilən həllər hazırlayın."
+          },
+          {
+            "title": "Aşağı Kodlu və Kodsuz İnkişaf",
+            "description": "Çevik aşağı kodlu inkişaf platformaları ilə proqramların çatdırılmasını sürətləndirin."
+          },
+          {
+            "title": "API və Sistem İnteqrasiyası",
+            "description": "Sorunsuz məlumat axını üçün proqramları, platformaları və üçüncü tərəf sistemlərini birləşdirin."
+          },
+          {
+            "title": "Tətbiqin modernləşdirilməsi",
+            "description": "Köhnə tətbiqləri müasir, genişlənən və səmərəli həllərə çevirin."
+          },
+          {
+            "title": "AI ilə dəstəklənən proqramlar",
+            "description": "AI, avtomatlaşdırma və intellektual imkanları biznes tətbiqlərinə inteqrasiya edin."
+          },
+          {
+            "title": "Tətbiq Dəstəyi və Baxımı",
+            "description": "Davamlı performansı, təhlükəsizliyi, yeniləmələri və etibarlılığı təmin edin."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI və Robototexnika",
+    "businessAutomation": "Biznesin avtomatlaşdırılması",
+    "cloudMigrations": "Bulud Köçmələri",
+    "dataCenters": "Məlumat Mərkəzləri",
+    "cognitiveAnalyticsAi": "Koqnitiv Analitika və AI",
+    "informationReportingSystems": "İnformasiya və Hesabat Sistemləri",
+    "managedServices": "İdarə olunan Xidmətlər",
+    "oneStopSolutions": "One-Stop Solutions"
+  },
+  "servicePage": {
+    "serviceOverview": "Xidmətə Baxış",
+    "whatWeOffer": "Təklif etdiyimiz",
+    "whyChooseRezonants": "Niyə Rezonants",
+    "benefitsOfWorking": "seçin Bizimlə işləməyin faydaları",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "İstifadə etdiyimiz texnologiyalar",
+    "ourWork": "İşimiz",
+    "relatedProjects": "Əlaqədar layihələr",
+    "viewCaseStudy": "Keys tədqiqatına baxın",
+    "readyToDiscuss": "{{title}} layihənizi müzakirə etməyə hazırsınız?",
+    "seniorEngineersReady": "Baş mühəndislərimiz sizə həllinizi planlaşdırmaq, dizayn etmək və qurmaqda kömək etməyə hazırdır.",
+    "startProject": "Layihənizi başlayın",
+    "howItWorks": "Necə işləyir"
+  },
+  "consultation": {
+    "badge": "Pulsuz Konsultasiya sifariş edin",
+    "title": "Gəlin Layihənizi <span class='hero-accent'>Birlikdə Planlaşdıraq</span>",
+    "description": "Məsləhətçilərimizlə öhdəliyi olmayan bir zəng planlaşdırın. Tələblərinizi müzakirə edin, düzgün texniki yanaşmanı araşdırın və aydın qiymət alın – hamısı 30 dəqiqə ərzində.",
+    "bookSlot": "Slotunuzu bron edin",
+    "howItWorks": "Necə işləyir",
+    "accountRequired": "Hesab Tələb olunur",
+    "signInToBook": "Məsləhətləşmənizi sifariş etmək üçün daxil olun",
+    "accountRequiredText": "Məsləhət almaq üçün sizə Rezonants hesabına ehtiyacınız olacaq. Daxil olun və ya birini yaradın — bir dəqiqədən az vaxt aparır.",
+    "signInToContinue": "Davam etmək üçün daxil olun",
+    "newToRezonants": "Rezonantsda yenisiniz?",
+    "createAccount": "Hesab yarat",
+    "requestMeeting": "Görüş Sorğu",
+    "tellUsAboutProject": "Layihəniz haqqında bizə məlumat verin",
+    "fillDetails": "Təfərrüatlarınızı doldurun və biz məsləhətləşmə yerinizi e-poçt vasitəsilə təsdiq edəcəyik.",
+    "fullName": "Tam adı *",
+    "email": "E-poçt *",
+    "phone": "Telefon *",
+    "company": "Şirkət",
+    "serviceOfInterest": "Maraq Xidməti *",
+    "selectService": "Xidmət seçin...",
+    "preferredDate": "Tercih Edilən Tarix *",
+    "preferredTime": "Üstünlük Verilən Vaxt *",
+    "selectTimeSlot": "Vaxt aralığını seçin...",
+    "estimatedBudget": "Təxmini Büdcə",
+    "selectRange": "Aralığı seçin...",
+    "projectRequirements": "Layihə Tələbləri",
+    "booking": "Rezervasiya...",
+    "bookFreeConsultation": "Pulsuz Konsultasiyamı bron edin",
+    "freeNote": "100% pulsuz və heç bir öhdəlik yoxdur. Biz adətən 24 saat ərzində cavab veririk.",
+    "whatToExpect": "Nə gözləmək",
+    "preferToReachUs": "Birbaşa Bizimlə Əlaqə saxlamağa üstünlük verirsiniz?",
+    "callUs": "Bizə zəng edin",
+    "emailUs": "Bizə e-poçt göndər",
+    "visitUs": "Bizi ziyarət edin",
+    "whyBookWithUs": "Niyə Bizimlə Rezervasyon",
+    "freeCallTitle": "Əslində kömək edən Pulsuz Zəng",
+    "freeCallNoPressure": "Pulsuz Zəng, Təzyiq Yox",
+    "freeCallNoPressureText": "Hər ilk konsultasiya pulsuzdur. Satın almaq məcburiyyəti yoxdur - sadəcə vicdanlı məsləhət.",
+    "seniorConsultants": "Yalnız Baş Məsləhətçilər",
+    "seniorConsultantsText": "Görüşünüzə yaşayış üçün tikinti aparan böyük mühəndislər və məsləhətçilər rəhbərlik edir.",
+    "clearTimelines": "Vaxt qrafiklərini və Sitatları Sil",
+    "clearTimelinesText": "Layihəniz üçün müəyyən edilmiş növbəti addım, real vaxt qrafiki və şəffaf qiymətlərlə ayrılın.",
+    "services": {
+      "customSoftware": "Xüsusi Proqram Təminatı",
+      "webMobile": "Veb və Mobil Proqram İnkişafı",
+      "cloudDevops": "Bulud və DevOps Həlləri",
+      "aiMl": "AI və Maşın Öyrənmə",
+      "itConsulting": "İT Məsləhətçiliyi",
+      "digitalMarketing": "Rəqəmsal Marketinq və SEO",
+      "erpSolutions": "ERP Həlləri",
+      "other": "Digər / Hələ əmin deyiləm"
+    },
+    "budgets": {
+      "under1L": "₹1L-dən aşağı",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Hələ qərar verilməyib"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Məqsədlərinizi anlayın",
+        "text": "Əvvəlcə qulaq asırıq. Biznes ehtiyaclarınızı, auditoriyanızı və istədiyiniz nəticələrinizi öyrənmək üçün 30 dəqiqəlik zəng."
+      },
+      "technicalDirection": {
+        "title": "Texniki istiqamət almaq",
+        "text": "Mühəndislərimiz layihəniz üçün düzgün arxitektura, yığın və yanaşmanı paylaşırlar."
+      },
+      "clearQuote": {
+        "title": "Aydın bir sitat alın",
+        "text": "Şəffaf qiymətləndirmə, qrafik və növbəti addımlarla uzaqlaşın – heç bir öhdəlik yoxdur."
+      }
+    },
+    "validation": {
+      "nameRequired": "Tam ad tələb olunur.",
+      "emailRequired": "E-poçt tələb olunur.",
+      "emailInvalid": "Etibarlı e-poçt ünvanını daxil edin.",
+      "phoneRequired": "Telefon nömrəsi tələb olunur.",
+      "phoneInvalid": "Etibarlı telefon nömrəsi daxil edin.",
+      "serviceRequired": "Zəhmət olmasa xidmət seçin.",
+      "dateRequired": "İstədiyiniz tarixi seçin.",
+      "timeRequired": "Tercih olunan vaxt aralığını seçin.",
+      "messageTooShort": "Bir az daha ətraflı əlavə edin (ən azı 10 simvol).",
+      "signInRequired": "Zəhmət olmasa konsultasiyanızı sifariş etmək üçün daxil olun.",
+      "couldNotBook": "Məsləhətləşmənizi sifariş etmək mümkün olmadı. Məsləhətləşmələr cədvəlinin mövcud olduğunu yoxlayın, sonra yenidən cəhd edin.",
+      "bookedSuccess": "Konsultasiya bron edildi! Komandamız qısa müddətdə vaxtınızı e-poçt vasitəsilə təsdiq edəcək."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Xoş gəlmisiniz",
+    "createAccount": "Hesab yarat",
+    "forgotPassword": "Şifrəni unutdum",
+    "createNewPassword": "Yeni Parol Yaradın",
+    "welcomeBackDesc": "Rezonants hesabınıza daxil olun.",
+    "createAccountDesc": "Bu gün Rezonants-ə qoşulun.",
+    "forgotDesc": "E-poçtunuzu daxil edin və biz sizə parolunuzu sıfırlamaq üçün link göndərəcəyik.",
+    "recoveryDesc": "Hesabınız üçün güclü yeni parol seçin.",
+    "fullName": "Tam adı",
+    "email": "E-poçt",
+    "password": "Parol",
+    "newPassword": "Yeni Parol",
+    "confirmPassword": "Şifrəni Təsdiqləyin",
+    "confirmNewPassword": "Yeni Şifrəni Təsdiqləyin",
+    "forgotPasswordLink": "Şifrəni unutmusunuz?",
+    "privacyPolicy": "Mən Rezonants <1>Məxfilik və Təhlükəsizlik</1> siyasətini qəbul edirəm.",
+    "sendResetLink": "Sıfırlama Linkini Göndər",
+    "signIn": "Daxil ol",
+    "signUp": "Qeydiyyatdan Keç",
+    "pleaseWait": "Zəhmət olmasa gözləyin...",
+    "rememberedPassword": "Parolu yadda saxlamısınız?",
+    "signInLink": "Daxil ol",
+    "noAccount": "Hesabınız yoxdur?",
+    "signUpLink": "Qeydiyyatdan keçin",
+    "hasAccount": "Artıq hesabınız var?",
+    "changedMind": "Fikrinizi dəyişdiniz?",
+    "backToSignIn": "Daxil olmaq üçün geri qayıdın",
+    "resetSent": "Parol sıfırlama linki göndərildi! Yeni parol yaratmaq üçün e-poçtunuzu yoxlayın.",
+    "passwordUpdated": "Parolunuz yeniləndi. Yeni parolunuzla daxil olun.",
+    "accountCreated": "Hesab yaradıldı! Qeydiyyatınızı təsdiqləmək üçün e-poçtunuzu yoxlayın, sonra daxil olun.",
+    "validation": {
+      "fullNameRequired": "Tam ad tələb olunur.",
+      "emailRequired": "E-poçt tələb olunur.",
+      "emailInvalid": "Etibarlı e-poçt ünvanını daxil edin.",
+      "passwordRequired": "Parol tələb olunur.",
+      "passwordMinLength": "Parol ən azı 6 simvoldan ibarət olmalıdır.",
+      "passwordsNoMatch": "Parollar uyğun gəlmir.",
+      "acceptTerms": "Davam etmək üçün Rezonants Məxfilik Siyasəti və Təhlükəsizlik Siyasətini qəbul edin."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Rezonants AI",
+    "openChatLabel": "ilə söhbət edin Rezonants AI Assistant söhbətini açın",
+    "chatTitle": "Rezonants AI köməkçisi",
+    "online": "Onlayn",
+    "expandLabel": "Çat robotunu genişləndirin",
+    "minimizeLabel": "Çat robotunu minimuma endirmək",
+    "closeLabel": "Çat robotunu bağlayın",
+    "expand": "Genişləndirin",
+    "minimize": "kiçild",
+    "close": "Bağlayın",
+    "popularTopics": "Populyar mövzular",
+    "askPlaceholder": "Məndən Rezonants haqqında soruş...",
+    "messageLabel": "Rezonants AI köməkçisinə mesaj göndərin",
+    "sendLabel": "Mesaj göndər",
+    "sendTitle": "Mesaj göndər",
+    "enterToSend": "Göndərmək üçün daxil edin · Yeni sətir üçün Shift+Enter",
+    "newChat": "Yeni söhbət",
+    "typing": "Rezonants AI",
+    "menuOptions": "yazır Menyu seçimləri",
+    "greetingMorning": "Sabahiniz xeyir",
+    "greetingAfternoon": "Axşamınız xeyir",
+    "greetingEvening": "Axşamınız xeyir",
+    "welcomeText": "! 👋 Rezonants-ə xoş gəlmisiniz.\nMən Rezonants AI köməkçisiyəm. Mən sizə xidmətlərimizi, texnologiyalarımızı və əlaqə məlumatlarımızı araşdırmaqda kömək edə bilərəm."
+  },
+  "cookieConsent": {
+    "title": "Məxfiliyinizi qiymətləndiririk",
+    "description": "Baxış təcrübənizi yaxşılaşdırmaq üçün kukilərdən istifadə edirik. Siz bütün kukiləri qəbul edə, vacib olmayan kukiləri rədd edə və ya seçimlərinizi fərdiləşdirə bilərsiniz. Veb saytın düzgün işləməsini təmin etmək üçün əsas kukilər həmişə aktivləşdirilir.",
+    "acceptAll": "Hamısını qəbul et",
+    "rejectNonEssential": "Vacib olmayanı rədd edin",
+    "managePreferences": "Tərcihləri idarə et",
+    "privacyPolicy": "Məxfilik Siyasəti"
+  },
+  "cookiePreferences": {
+    "title": "Kuki üstünlüklərini idarə et",
+    "description": "Hansı kukilərə icazə verdiyinizi seçin. Veb saytın işləməsini təmin etmək üçün əsas kukilər aktiv olaraq qalır.",
+    "essential": "Əsas",
+    "essentialDesc": "Veb saytın işləməsi üçün tələb olunur (autentifikasiya, təhlükəsizlik, yük balansı). Bunları deaktiv etmək olmaz.",
+    "analytics": "Analitika",
+    "analyticsDesc": "Ziyarətçilərin saytdan necə istifadə etdiyini anlamağa kömək edin ki, onu təkmilləşdirək. Defolt olaraq deaktivdir.",
+    "marketing": "Marketinq",
+    "marketingDesc": "Sizə müvafiq təkliflər və kampaniyalar göstərmək üçün istifadə olunur. Defolt olaraq deaktivdir.",
+    "cancel": "Ləğv et",
+    "savePreferences": "Üstünlükləri Saxla"
+  },
+  "privacy": {
+    "badge": "Hüquqi",
+    "title": "Məxfilik Siyasəti",
+    "description": "Rezonants şəxsi məlumatlarınızı və kukilərinizi necə toplayır, istifadə edir və qoruyur.",
+    "lastUpdated": "Son yenilənmə: Avqust 2026",
+    "managingPreferences": "Tercihlərinizi idarə etmək",
+    "managingPreferencesDesc": "Siz istənilən vaxt kukilərə üstünlük panelindən icazə verdiyiniz kukilərə baxa və ya dəyişə bilərsiniz.",
+    "manageCookiePreferences": "Kuki üstünlüklərini idarə et",
+    "section1": {
+      "title": "1. Topladığımız Məlumat",
+      "body": [
+        "Biz birbaşa təqdim etdiyiniz məlumatları (məsələn, əlaqə formasını təqdim edərkən və ya hesab yaratdığınız zaman adınız və e-poçt ünvanınız kimi) və ziyarət edilən səhifələr, cihaz növü və təxmini yer kimi kukilər və oxşar texnologiyalar vasitəsilə avtomatik olaraq toplanan məlumatları toplayırıq."
+      ]
+    },
+    "section2": {
+      "title": "2. Kukilərdən necə istifadə edirik",
+      "body": [
+        "Əsas kukilər həmişə aktivdir, çünki onlarsız vebsayt düzgün işləyə bilməz. Onlar sessiya və autentifikasiya vəziyyətini saxlayır və kuki seçimlərinizi yadda saxlayır.",
+        "Analitik kukilər bizə ziyarətçilərin saytdan necə istifadə etdiyini anlamağa kömək edir ki, biz onu təkmilləşdirək. Marketinq kukiləri sizə müvafiq təklif və kampaniyaları göstərmək üçün istifadə olunur. Bu kateqoriyalar yalnız sizin razılığınızla aktivləşdirilir və istənilən vaxt kuki seçim panelindən dəyişdirilə bilər."
+      ]
+    },
+    "section3": {
+      "title": "3. Hüquqi Əsas (GDPR)",
+      "body": [
+        "Biz şəxsi məlumatları aşağıdakı hüquqi əsaslarla emal edirik: razılığınız (qeyri-vacib kukilər və marketinq üçün), müqavilənin yerinə yetirilməsi (sizin tələb etdiyiniz xidmətlər üçün), qanuni öhdəlik və hüquqlarınızın onlara üstünlük vermədiyi qanuni maraqlar. Siz razılığınızı geri götürməzdən əvvəl həyata keçirilən emalın qanuniliyinə təsir etmədən istənilən vaxt geri götürə bilərsiniz."
+      ]
+    },
+    "section4": {
+      "title": "4. Hüquqlarınız",
+      "body": [
+        "Məkanınızdan asılı olaraq, sizin şəxsi məlumatlarınıza daxil olmaq, onları düzəltmək, silmək və ya işlənməsini məhdudlaşdırmaq, emalına etiraz etmək və məlumatların daşınmasına etiraz etmək hüququnuz ola bilər. Siz həmçinin yerli nəzarət orqanına şikayət edə bilərsiniz."
+      ]
+    },
+    "section5": {
+      "title": "5. Məlumatın Saxlanması və Təhlükəsizliyi",
+      "body": [
+        "Biz şəxsi məlumatları yalnız bu siyasətdə təsvir olunan məqsədlər üçün lazım olduğu müddətcə saxlayırıq. Biz sizin məlumatlarınızı icazəsiz daxil olmaq, dəyişdirmək, açıqlamaq və ya məhv etməkdən qorumaq üçün müvafiq texniki və təşkilati tədbirlər görürük."
+      ]
+    },
+    "section6": {
+      "title": "6. Üçüncü Tərəf Xidmətləri",
+      "body": [
+        "Bəzi kukilər vebsaytı idarə etməmizə kömək edən üçüncü tərəf təminatçıları (məsələn, analitik və ya reklam platformaları) tərəfindən təyin oluna bilər. Bu provayderlər məlumatları öz məxfilik siyasətləri əsasında və yalnız müvafiq kateqoriyaya razılıq verdikdə emal edirlər."
+      ]
+    },
+    "contactUs": "7. Bizimlə Əlaqə",
+    "contactUsText": "Bu siyasət və ya şəxsi məlumatlarınızla bağlı suallarınız üçün <1>info@rezonants.com</1> ünvanında bizimlə əlaqə saxlayın və ya <3>18004103299</3> nömrəsinə zəng edin."
+  },
+  "ourServices": {
+    "eyebrow": "Xidmətlər",
+    "title": "Xidmətlərimiz",
+    "sub": "Müəssisələrə innovasiya, miqyas və uğur qazanmağa kömək etmək üçün nəzərdə tutulmuş uçdan-uca texnologiya həlləri.",
+    "learnMore": "Ətraflı məlumat",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Başlanğıcdan Yerləşdirməyə",
+        "text": "İlkin konsepsiyadan istehsalın tətbiqinə qədər, biz real dünya biznes ehtiyacları üçün qurulmuş genişləndirilə bilən həllər təqdim edirik."
+      },
+      "businessProcessAutomation": {
+        "title": "Biznes Proseslərinin Avtomatlaşdırılması",
+        "text": "Ağıllı biznes avtomatlaşdırılması vasitəsilə təkrarlanan prosesləri sadələşdirin və əməliyyat səmərəliliyini artırın."
+      },
+      "centerOfExcellence": {
+        "title": "Mükəmməllik Mərkəzi",
+        "text": "Yenilik, keyfiyyət və davamlı təkmilləşdirmə üçün xüsusi texnologiya imkanları və təcrübələr yaradın."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Xüsusi İnkişaf və Fərdiləşdirmə",
+        "text": "Unikal biznes tələbləriniz və iş axınlarınız ətrafında hazırlanmış xüsusi proqram həlləri."
+      },
+      "digitalTransformation": {
+        "title": "Rəqəmsal Transformasiya",
+        "text": "Ölçülə bilən təsir yaradan rəqəmsal strategiyalar, texnologiyalar və həllər ilə biznesinizi modernləşdirin."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Başdan Uca Həll Çərçivəsi",
+        "text": "Strategiya, inkişaf, həyata keçirmə və davam edən əməliyyatları birləşdirən inteqrasiya olunmuş texnologiya həlləri."
+      },
+      "migrationModernization": {
+        "title": "Miqrasiya və Modernləşmə",
+        "text": "Köhnə tətbiqləri modernləşdirin və sistemləri genişləndirilə bilən, təhlükəsiz və səmərəli texnologiya platformalarına köçürün."
+      },
+      "pocPilotImplementation": {
+        "title": "Konsepsiya sübutu (PoC) və Pilot Tətbiq",
+        "text": "Tam miqyaslı yerləşdirmədən əvvəl fokuslanmış prototiplər və pilot tətbiqlər vasitəsilə ideyaları tez bir zamanda təsdiq edin."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Paylaşılan Xidmətlər və İdarə olunan Əməliyyatlar",
+        "text": "Performansı, genişlənmə qabiliyyətini və işin davamlılığını təkmilləşdirən etibarlı idarə olunan texnologiya əməliyyatları."
+      }
+    }
+  },
+  "footer": {
+    "company": "Şirkət",
+    "about": "Haqqında",
+    "perspectives": "Perspektivlər",
+    "technologies": "Texnologiyalar",
+    "contact": "Əlaqə",
+    "services": "Xidmətlər",
+    "getInTouch": "Əlaqə saxlayın",
+    "bookConsultation": "Konsultasiya sifariş edin",
+    "copyright": "© {{year}} Rezonants. Bütün hüquqlar qorunur.",
+    "cookiePreferences": "Kuki üstünlükləri",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "description": "Rezonants Hindistanın Haydarabad şəhərində İT xidmətləri və rəqəmsal məhsullar şirkətidir. Biz icrada rəqabət aparan şirkətlər üçün proqram təminatı layihələndirir, qurur və miqyaslandırırıq.",
+    "locations": "Məkanlarımız",
+    "indiaHq": "Hyderabad, Hindistan — Hindistan Baş Qərargahı",
+    "southAfrica": "Cənubi Afrika — REZONANTS PVT LTD",
+    "products": "Məhsullar",
+    "followUs": "Bizi izləyin",
+    "aboutUs": "Haqqımızda",
+    "contactUs": "Bizimlə əlaqə",
+    "headline": "Gəlin",
+    "headlineAccent": "quraq sonra nə var.",
+    "subheadline": "İdeyaları real biznes təsirinə çevirmək üçün Rezonants ilə tərəfdaş olun.",
+    "credoIdeas": "İDEALLAR",
+    "credoSolutions": "HƏLLLER",
+    "credoPeople": "İNSANLAR",
+    "credoBrighterTomorrow": "DAHA PARLAK SABAH",
+    "hyderabadLocation": "Hyderabad, Hindistan",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradeş",
+    "southAfricaLocation": "Cənubi Afrika – REZONANTS PVT LTD",
+    "termsOfUse": "İstifadə Şərtləri",
+    "accessibility": "Əlçatanlıq",
+    "quickLinks": "Sürətli bağlantılar",
+    "explore": "Araşdırın",
+    "vijayawadaOffice": "Vijayawada Ofisi",
+    "allRightsReserved": "Bütün hüquqlar qorunur.",
+    "hyderabadPin": "Hyderabad, Hindistan",
+    "southAfricaPin": "Cənubi Afrika"
+  },
+  "common": {
+    "loading": "Yüklənir...",
+    "error": "Səhv",
+    "retry": "Yenidən cəhd edin",
+    "close": "Bağlayın",
+    "backToTop": "Əvvələ qayıt",
+    "skipToContent": "Məzmuna keçin",
+    "scroll": "Sürüşdürün",
+    "whatWeOffer": "Təklif etdiyimiz",
+    "howItWorks": "Necə işləyir"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Ölkə və ya kodu axtarın...",
+    "noResults": "Heç bir ölkə tapılmadı.",
+    "countryCodeLabel": "Ölkə zəng kodu",
+    "required": "Telefon nömrəsi tələb olunur.",
+    "incomplete": "Telefon nömrəsi tam olaraq {{count}} rəqəmdən ibarət olmalıdır.",
+    "tooLong": "Telefon nömrəsi {{count}} rəqəmdən çox ola bilməz.",
+    "invalid": "{{country}} üçün etibarlı telefon nömrəsi daxil edin."
+  },
+  "perspectives": {
+    "topic": "Mövzu:",
+    "published": "Nəşr:",
+    "readingTime": "Oxuma vaxtı:",
+    "author": "Müəllif:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Texnologiya sahəsi",
+    "purpose": "Məqsəd",
+    "talkToExperts": "Mütəxəssislərimizlə Danışıq",
+    "viewAll": "Bütün Perspektivlərə Baxın",
+    "exploreMore": "DAHA ÇOX PERSPEKTİVLƏRİ KEŞFEDİN",
+    "continueExploring": "Enterprise Technology Insights Tədqiq etməyə Davam",
+    "readPerspective": "Perspektiv oxuyun"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI və Robototexnika Həlləri",
+      "tagline": "Ağıllı Texnologiya. Avtomatlaşdırılmış əməliyyatlar. Daha Ağıllı Biznes.",
+      "heroBadge": "Ağıllı Avtonom Sistemlər",
+      "overview": [
+        "Süni intellekt və robototexnika təşkilatların fəaliyyət göstərmə, qərar qəbul etmə və dəyər təqdim etmə üsullarını dəyişdirir. Bizim süni intellekt və robototexnika həllərimiz praktiki biznes problemlərini həll etmək üçün süni intellekt, maşın öyrənməsi, kompüter görmə, intellektual proseslərin avtomatlaşdırılması və robot texnikasını birləşdirərək bizneslərə ənənəvi avtomatlaşdırmadan kənara çıxmağa kömək edir.",
+        "Biz ölçülə bilən biznes nəticələri ətrafında ağıllı həllər dizayn edirik. Tələb təkrarlanan işlərin avtomatlaşdırılması, böyük həcmli məlumatların təhlili, nümunələrin aşkarlanması, qərarların dəstəklənməsi və ya əməliyyat mühitinə robototexnikanın tətbiqi olsun, bizim yanaşmamız əsas diqqəti etibarlılığa, genişlənməyə, təhlükəsizliyə və uzunmüddətli biznes dəyərinə yönəldir."
+      ],
+      "transformation": [
+        "Müasir təşkilatlar böyük həcmdə məlumat yaradır və hər gün minlərlə təkrarlanan fəaliyyət həyata keçirir. Süni intellekt və robototexnika bu fəaliyyətləri ağıllı, avtomatlaşdırılmış iş axınlarına çevirə bilər ki, bu da məhsuldarlığı yaxşılaşdırır, eyni zamanda işçilərə daha yüksək dəyərli vəzifələrə diqqət yetirməyə imkan verir.",
+        "Bizim həllərimiz təşkilatlara təkrarlanan əməliyyatları avtomatlaşdırmağa, əl ilə müdaxiləni azaltmağa, dəqiqliyi təkmilləşdirməyə, mürəkkəb məlumatı təhlil etməyə, daha sürətli qərarları dəstəkləməyə, resursdan istifadəni optimallaşdırmağa, müştəri təcrübələrini təkmilləşdirməyə və genişləndirilə bilən intellektual sistemlər qurmağa kömək edə bilər."
+      ],
+      "capabilities": [
+        {
+          "title": "Süni intellekt",
+          "desc": "Biz sistemlərə məlumatları anlamaq, nümunələri müəyyən etmək, anlayışlar yaratmaq və biznes qərarlarını dəstəkləmək imkanı verən süni intellektə əsaslanan həllər hazırlayırıq."
+        },
+        {
+          "title": "Maşın Öyrənməsi",
+          "desc": "Biz proqnozlaşdırma, təsnifat, tövsiyə sistemləri, anomaliyaların aşkarlanması, proqnozlaşdırıcı analiz və ağıllı qərar dəstəyi üçün maşın öyrənmə modellərini inkişaf etdiririk."
+        },
+        {
+          "title": "Təbii Dil Emalı",
+          "desc": "NLP sənədləri emal etmək, mətni başa düşmək, məlumatı təsnif etmək, müvafiq məzmunu çıxarmaq və danışıq proqramlarını dəstəkləmək üçün istifadə edilə bilər."
+        },
+        {
+          "title": "Kompüter Görmə",
+          "desc": "Kompüter görmə həlləri təsvirin təsnifatını, obyektin aşkar edilməsini, keyfiyyətin yoxlanılmasını, sənədlərin işlənməsini, vizual monitorinqi və video analitikanı dəstəkləyə bilər."
+        },
+        {
+          "title": "Robototexnika",
+          "desc": "Robot texnikası ənənəvi olaraq əl səyi tələb edən fəaliyyətləri avtomatlaşdırmaq üçün proqram intellektini fiziki sistemlərlə birləşdirir. Tətbiqlərə istehsal, logistika, anbar, yoxlama, materialların idarə edilməsi və əməliyyat dəstəyi daxil ola bilər."
+        },
+        {
+          "title": "Proseslərin Ağıllı Avtomatlaşdırılması",
+          "desc": "AI məlumatı şərh edən, biznes qaydalarını və ya modellərini tətbiq edən və müvafiq prosesi avtomatik başlatan sistemlər yaratmaq üçün iş axınının avtomatlaşdırılması ilə birləşdirilə bilər."
+        }
+      ],
+      "lifecycleSteps": [
+        "Biznesin Qiymətləndirilməsi",
+        "Məlumatların Təhlili",
+        "AI Strategiyası",
+        "Həll Memarlığı",
+        "İnkişaf",
+        "İnteqrasiya",
+        "Test",
+        "Yerləşdirmə",
+        "Monitorinq",
+        "Optimallaşdırma"
+      ],
+      "benefits": [
+        "Daha yüksək müəssisənin əməliyyat məhsuldarlığı",
+        "Əməliyyat xərclərinin əhəmiyyətli dərəcədə azalması",
+        "Daha sürətli emal və millisaniyəlik qərar qəbulu",
+        "Təkmilləşdirilmiş məlumat və iş axını dəqiqliyi",
+        "Optimallaşdırılmış fiziki və hesablama resurslarından istifadə",
+        "Azaldılmış əməliyyat riskləri və insan səhvi",
+        "Problemsiz çox platformalı genişlənmə",
+        "Təkmilləşdirilmiş müştəri və işçi təcrübəsi"
+      ],
+      "security": "Müəssisə süni intellekt həlləri müvafiq təhlükəsizlik, girişə nəzarət, məlumatların qorunması, monitorinq, model idarəetməsi və əməliyyat təminatları ilə tərtib edilməlidir. Etibarlı, istehsal səviyyəli kəşfiyyatı təmin etmək üçün bu tələbləri memarlıq mərhələsindən tətbiqetmə və davamlı texniki xidmət vasitəsilə nəzərə alırıq.",
+      "ctaHeadline": "Ağıllı Gələcək qurun",
+      "ctaSub": "Əməliyyatlarınızı daha ağıllı edin. Vacib olanı avtomatlaşdırın. Gələcək üçün qurun."
+    },
+    "business-automation-solutions": {
+      "title": "Biznesin avtomatlaşdırılması həlləri",
+      "tagline": "Prosesləri Sadələşdirin. Təkrarları aradan qaldırın. Artımı sürətləndirin.",
+      "heroBadge": "İş axınının uçdan-uca optimallaşdırılması",
+      "overview": [
+        "Biznesin avtomatlaşdırılması təşkilatlara təkrarlanan əl işlərini sadələşdirilmiş rəqəmsal iş axınları ilə əvəz etməyə imkan verir. Biznesin avtomatlaşdırılması həllərimiz şirkətlərə məhsuldarlığı artırmağa, əməliyyat mürəkkəbliyini azaltmağa, səhvləri minimuma endirməyə və departamentlər arasında ardıcıl proseslər yaratmağa kömək edir.",
+        "Biz mövcud iş axınlarını təhlil edirik, darboğazları müəyyənləşdiririk və insanları, tətbiqləri, məlumatları və biznes proseslərini birləşdirən avtomatlaşdırma həlləri dizayn edirik."
+      ],
+      "transformation": [
+        "Bir çox təşkilatlar hələ də elektron cədvəllərdən, e-poçtlardan, əl ilə təsdiqlərdən, təkrarlanan məlumatların daxil edilməsindən, sənədlərin idarə edilməsindən və əlaqəsi kəsilmiş proqramlardan asılıdır. Bu proseslər işçilərin qiymətli vaxtını sərf edir və gecikmələr, uyğunsuzluqlar və səhvlər yarada bilər.",
+        "Bizim avtomatlaşdırma yanaşmamız bütün prosesi başa düşməyə, lazımsız addımları aradan qaldırmağa, sistemləri inteqrasiya etməyə və ən böyük əməliyyat dəyərini təmin edən fəaliyyətləri avtomatlaşdırmağa yönəlib."
+      ],
+      "capabilities": [
+        {
+          "title": "İş axınının avtomatlaşdırılması",
+          "desc": "Biz ayrı-ayrı departamentlər arasında işçilər, tətbiqlər, təsdiqlər, bildirişlər və məlumatları əhatə edən çoxmərhələli prosesləri avtomatlaşdırırıq."
+        },
+        {
+          "title": "Robotik Proseslərin Avtomatlaşdırılması",
+          "desc": "Proqram botları məlumatların daxil edilməsi, sistem yeniləmələri, uzlaşma və məlumat ötürülməsi kimi təkrarlanan, qaydalara əsaslanan fəaliyyətləri yerinə yetirə bilər."
+        },
+        {
+          "title": "Sənədlərin Avtomatlaşdırılması",
+          "desc": "Avtomatlaşdırılmış sənəd iş axınları məlumatları çıxara, məlumatları təsdiq edə, sənədləri təsnif edə, sorğuları yönləndirə və aşağı axın proseslərini başlada bilər."
+        },
+        {
+          "title": "Təsdiqin avtomatlaşdırılması",
+          "desc": "Rəqəmsal təsdiqləmə iş axınları sorğuları avtomatik olaraq düzgün qərar verən şəxslərə yönləndirir və gözlənilən tədbirlərə real vaxtda görünürlük təmin edir."
+        },
+        {
+          "title": "İnteqrasiya avtomatlaşdırılması",
+          "desc": "Biz biznes proqramlarını birləşdiririk ki, informasiya platformalar arasında lazımsız əl müdaxiləsi olmadan avtomatik hərəkət edə bilsin."
+        },
+        {
+          "title": "Bildirişlərin avtomatlaşdırılması",
+          "desc": "Avtomatlaşdırılmış xəbərdarlıqlar və bildirişlər işçilərə vacib hadisələrə, son tarixlərə, istisnalara və əməliyyat dəyişikliklərinə dərhal reaksiya verməyə kömək edir."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kəşf edin",
+        "Təhlil edin",
+        "Dizayn",
+        "Avtomatlaşdırın",
+        "İnteqrasiya edin",
+        "Test",
+        "Yerləşdirin",
+        "Monitor",
+        "Optimallaşdırın"
+      ],
+      "benefits": [
+        "Artan komanda ötürmə qabiliyyəti və əməliyyat sürəti",
+        "Məlumatların əl ilə daxil edilməsi xətalarında kəskin azalma",
+        "Qısaldılmış sondan sona prosesin dönüş vaxtları",
+        "Biznes əməliyyatları üzrə vahid görünürlük",
+        "Standartlaşdırılmış idarələrarası uyğunluq",
+        "Əməliyyat xərclərinin əhəmiyyətli dərəcədə azaldılması",
+        "İş yüklərini asanlıqla ölçmək üçün elastik qabiliyyət",
+        "Müştərilərin cəlb edilməsinə və strateji işə diqqət yetirən səlahiyyətli komandalar"
+      ],
+      "security": "Biz hər bir avtomatlaşdırılmış əməliyyatda rola əsaslanan giriş nəzarətini, hərtərəfli audit yollarını və ciddi uyğunluğu təmin etmək üçün iş axını platformalarını və RPA-nı kontekstdən xəbərdar olan ağıllı modellərlə birləşdiririk.",
+      "ctaHeadline": "Daha Effektiv Əməliyyatlar Yaradın",
+      "ctaSub": "Təkrarlanan işi avtomatlaşdırın. Xalqınızı gücləndirin. Biznesinizi sürətləndirin."
+    },
+    "cloud-migration-solutions": {
+      "title": "Bulud Miqrasiya Həlləri",
+      "tagline": "İnamla Bulud üzərinə keçin.",
+      "heroBadge": "Çox Buludlu Transformasiya",
+      "overview": [
+        "Bulud hesablamaları müasir İT infrastrukturunun mühüm komponentinə çevrilib. Təşkilatlar miqyaslılığı, əlçatanlığı, çevikliyi və əməliyyat səmərəliliyini yaxşılaşdırmaq üçün proqramları, verilənlər bazalarını, iş yüklərini və infrastrukturu bulud mühitlərinə köçürür.",
+        "Bulud miqrasiya xidmətlərimiz təşkilatlara cari mühitlərini qiymətləndirməyə, miqrasiya strategiyalarını müəyyənləşdirməyə, miqrasiyaları həyata keçirməyə və buludlara keçdikdən sonra iş yüklərini optimallaşdırmağa kömək edir."
+      ],
+      "transformation": [
+        "Bulud miqrasiyası serverləri bir mühitdən digərinə köçürməkdən daha çox şeydir. Uğurlu miqrasiya tətbiqlərin, infrastrukturun, asılılıqların, təhlükəsizlik tələblərinin, məlumatların, performansın, əlçatanlığın və işin davamlılığının diqqətlə qiymətləndirilməsini tələb edir.",
+        "Biz hər bir iş yükü üçün uyğun miqrasiya modelini seçərək təşkilatın cari mühiti və gələcək məqsədləri əsasında miqrasiya strategiyaları yaradırıq."
+      ],
+      "capabilities": [
+        {
+          "title": "İnfrastruktur Miqrasiyası",
+          "desc": "Biz ənənəvi serverləri, yaddaşı, virtual maşınları və iş yüklərini AWS, Azure və GCP-də müasir bulud mühitlərinə köçürür."
+        },
+        {
+          "title": "Tətbiq miqrasiyası",
+          "desc": "Tətbiqlər biznes və texniki tələblərdən asılı olaraq yenidən yerləşdirilə, yenidən platformaya salına, refaktorlaşdırıla və ya yenidən dizayn edilə bilər."
+        },
+        {
+          "title": "Database Miqrasiyası",
+          "desc": "Biz verilənlər bazalarını məlumatların bütövlüyü, performans, uyğunluq, əlçatanlıq, təhlükəsizlik və bərpa tələblərini nəzərə alaraq köçürürük."
+        },
+        {
+          "title": "Bulud Modernləşdirilməsi",
+          "desc": "Miqrasiya konteynerlər, mikroservislər, idarə olunan verilənlər bazaları, serversiz xidmətlər və bulud-doğma arxitekturalarından istifadə edərək proqramları modernləşdirmək imkanına çevrilir."
+        },
+        {
+          "title": "Hibrid Bulud",
+          "desc": "Həm yerli, həm də bulud infrastrukturuna ehtiyacı olan təşkilatlar mövcud sistemləri bulud xidmətləri ilə problemsiz birləşdirən hibrid arxitekturaları qəbul edə bilər."
+        },
+        {
+          "title": "Çox Buludlu",
+          "desc": "Çoxlu bulud platformalarında fəaliyyət göstərən təşkilatlar üçün biz çeviklik, dayanıqlıq və idarəetməni təkmilləşdirən iş yükü strategiyalarının hazırlanmasına kömək edirik."
+        }
+      ],
+      "lifecycleSteps": [
+        "Qiymətləndirmə",
+        "Kəşf",
+        "Asılılıq Xəritəçəkmə",
+        "Miqrasiya Strategiyası",
+        "Memarlıq Dizaynı",
+        "Pilot Miqrasiya",
+        "Məlumat miqrasiyası",
+        "Tətbiq miqrasiyası",
+        "Test",
+        "İstehsal miqrasiyası",
+        "Optimallaşdırma"
+      ],
+      "benefits": [
+        "Elastik miqyaslılıq və yüksək resurs əlçatanlığı",
+        "Daha çox infrastruktur çevikliyi və biznes çevikliyi",
+        "Fiziki məlumat mərkəzinə texniki xidmət yükü aradan qaldırıldı",
+        "Sürətlənmiş proqram funksiyasının yerləşdirilməsi",
+        "Sağlam fəlakət bərpası və ehtiyat nüsxələrə davamlılıq",
+        "Müasir bulud AI və idarə olunan xidmətlərə dərhal giriş",
+        "Optimallaşdırılmış FinOps idarəetməsi və TCO-nun azaldılması",
+        "Davamlı uyğunluq və avtomatlaşdırılmış təhlükəsizlik qoruyucuları"
+      ],
+      "security": "Təhlükəsizlik miqrasiya planlaşdırmasının ayrılmaz hissəsidir. Biz şəxsiyyətin və girişin idarə edilməsini, şəbəkə təhlükəsizliyini, tranzit və istirahətdə şifrələməni, məlumatların qorunmasını, proqram zəifliyinin auditini, monitorinqi, ehtiyat nüsxəsini və fəlakətin bərpasını nəzərdən keçiririk.",
+      "ctaHeadline": "Bulud Səyahətiniz, Düzgün Planlaşdırılıb",
+      "ctaSub": "İnfrastrukturunuzu modernləşdirin. İnnovasiyaları sürətləndirin. Genişləndirilə bilən bulud təməli qurun."
+    },
+    "data-center-solutions": {
+      "title": "Məlumat Mərkəzi Həllləri",
+      "tagline": "Kritik Missiya Əməliyyatları üçün Etibarlı İnfrastruktur.",
+      "heroBadge": "Missiya Kritik İnfrastruktur",
+      "overview": [
+        "Məlumat mərkəzləri müasir rəqəmsal biznesin əsasını təşkil edir. Proqramlar, verilənlər bazası, korporativ sistemlər, kommunikasiya platformaları və kritik biznes xidmətləri etibarlı infrastrukturdan asılıdır.",
+        "Məlumat mərkəzi həllərimiz əlçatanlıq, təhlükəsizlik, genişlənmə, performans və əməliyyat səmərəliliyi üçün qurulmuş infrastruktur mühitlərinin layihələndirilməsi, modernləşdirilməsi, idarə edilməsi və optimallaşdırılmasına diqqət yetirir."
+      ],
+      "transformation": [
+        "Müasir məlumat mərkəzi server və yaddaşdan daha çox şey tələb edir. O, hesablama, şəbəkə, təhlükəsizlik, enerji, soyutma, monitorinq, ehtiyat nüsxə və fəlakətin bərpası üzrə diqqətlə hazırlanmış infrastruktur tələb edir.",
+        "Biz təşkilatlara kritik iş yüklərini dəstəkləyən və gələcək texnologiya inkişafı üçün zəmin yaradan davamlı infrastruktur mühitləri yaratmağa kömək edirik."
+      ],
+      "capabilities": [
+        {
+          "title": "İnfrastruktur Dizaynı",
+          "desc": "Biz iş yükü tələbləri, tutum, performans, əlçatanlıq, təhlükəsizlik və gələcək artım əsasında mühitlər dizayn edirik."
+        },
+        {
+          "title": "Server İnfrastruktur",
+          "desc": "Biz kritik müəssisə proqramları və iş yükləri üçün fiziki və virtual server mühitlərini dəstəkləyirik."
+        },
+        {
+          "title": "Saxlama Həlləri",
+          "desc": "Saxlama mühitlərini dizayn edərkən biz performans, tutum, ehtiyat, yüksək sürətli SAN/NAS, ehtiyat nüsxə və məlumatların qorunması tələblərini nəzərə alırıq."
+        },
+        {
+          "title": "Şəbəkə İnfrastruktur",
+          "desc": "Biz müvafiq seqmentləşdirmə, artıqlıq, aşağı gecikmə performansı, qoşulma və təhlükəsizlik nəzarətləri ilə şəbəkə mühitlərini dizayn edirik."
+        },
+        {
+          "title": "Virtuallaşdırma",
+          "desc": "Virtuallaşdırma resursdan istifadəni, iş yükünün çevikliyini və mərkəzləşdirilmiş infrastrukturun idarə edilməsini yaxşılaşdırır."
+        },
+        {
+          "title": "Yedəkləmə və Fəlakət Bərpası",
+          "desc": "Biz təşkilatlara dayanma müddətini minimuma endirmək və məlumat itkisini aradan qaldırmaq üçün nəzərdə tutulmuş ehtiyat strategiyaları və bərpa arxitekturaları yaratmağa kömək edirik."
+        }
+      ],
+      "lifecycleSteps": [
+        "Bacarıqların Qiymətləndirilməsi",
+        "İş Yükü Profilinin qurulması",
+        "Arxitektura Planı",
+        "Avadanlıq və Virtual Ölçü",
+        "Şəbəkənin Seqmentasiyası",
+        "Yaddaş Təminatı",
+        "Artıqlıq və DR Testi",
+        "İstehsalın kəsilməsi",
+        "24/7 Sağlamlığın Monitorinqi",
+        "Davamlı Optimallaşdırma"
+      ],
+      "benefits": [
+        "99,999% infrastrukturun işləmə müddətinə zəmanət verilir",
+        "Çox qatlı ehtiyatla sıfır tək uğursuzluq nöqtəsi",
+        "Optimallaşdırılmış server hesablaması və yüksək sıxlıqlı virtuallaşdırma",
+        "Sub-millisaniyəlik aşağı gecikmə şəbəkə arxitekturaları",
+        "Sərtləşdirilmiş fiziki və rəqəmsal perimetr təhlükəsizliyi",
+        "Proaktiv monitorinq və avtomatlaşdırılmış uğursuzluqlar",
+        "Petabayt miqyaslı məlumatlar üçün miqyaslana bilən modul yaddaş",
+        "Mülkiyyətin proqnozlaşdırıla bilən ümumi dəyəri və enerji səmərəliliyi"
+      ],
+      "security": "Təhlükəsizlik şəbəkə mikro-seqmentasiyası, etimad kökü, sıfır inamlı giriş nəzarəti, davamlı zəiflik auditləri, son nöqtənin müdafiəsi və ciddi əməliyyat siyasətini əhatə edən infrastruktur qatına inteqrasiya olunub.",
+      "ctaHeadline": "Gələcəyə Hazır İnfrastruktur",
+      "ctaSub": "Bu gün etibarlı infrastruktur qurun. Sabahın texnologiyası üçün təməl yaradın."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Koqnitiv Analitika və AI",
+      "tagline": "Məlumatı İntellektə çevirin.",
+      "heroBadge": "Məlumatdan Qərara Kəşfiyyat",
+      "overview": [
+        "Təşkilatlar proqramlar, əməliyyatlar, müştərilər, əməliyyatlar, cihazlar və rəqəmsal platformalar vasitəsilə böyük həcmdə məlumat yaradırlar. Problem artıq sadəcə məlumat toplamaq deyil; o, həmin məlumatları başa düşmək və onu hərəkətə keçə bilən kəşfiyyata çevirməkdir.",
+        "Koqnitiv Analitika və AI həllərimiz təşkilatlara daha yaxşı qərarlar qəbul etməyə kömək etmək üçün qabaqcıl analitika, maşın öyrənməsi, süni intellekt, məlumatların emalı və biznes intellektini birləşdirir."
+      ],
+      "transformation": [
+        "Ənənəvi hesabat təşkilatlara baş verənləri izah edir. Qabaqcıl analitika bunun nə üçün baş verdiyini izah etməyə, bundan sonra nələrin baş verə biləcəyini müəyyən etməyə və nə baş verməli olduğuna dair qərarları dəstəkləməyə kömək edə bilər.",
+        "Biz təşkilatlara statik hesabatdan kənara çıxan, ağıllı təhlil və qərar dəstəyinə doğru irəliləyən məlumat mühitləri yaratmağa kömək edirik."
+      ],
+      "capabilities": [
+        {
+          "title": "Təsviri Analitika",
+          "desc": "İnteraktiv hesabatlar, çoxölçülü idarə panelləri, KPI və biznes göstəriciləri vasitəsilə tarixi performansı anlayın."
+        },
+        {
+          "title": "Diaqnostik Analitika",
+          "desc": "Əsas əlaqələri, meylləri, statistik anomaliyaları və biznes nəticələrinin arxasında duran əsas səbəbləri müəyyən edin."
+        },
+        {
+          "title": "Proqnozlaşdırma Analitikası",
+          "desc": "Gələcək potensial nəticələri və tələbləri müəyyən etmək üçün statistik modellərlə tarixi və real vaxt axını məlumatlarından istifadə edin."
+        },
+        {
+          "title": "Prescriptive Analytics",
+          "desc": "Mümkün tədbirləri qiymətləndirin və proqnozlaşdırılan nəticələrə və strateji biznes məqsədlərinə əsaslanan optimal qərar yollarını dəstəkləyin."
+        },
+        {
+          "title": "Maşın Öyrənmə Modelləri",
+          "desc": "Proqnozlaşdırma, müştəri təsnifatı, tövsiyələr, fırıldaqçılıq anomaliyalarının aşkarlanması və proqnozlaşdırıcı texniki xidmət üçün fərdi modellər hazırlayın."
+        },
+        {
+          "title": "Süni intellektlə dəstəklənən anlayışlar",
+          "desc": "Gizli nümunələri, icraçı xülasələri və tövsiyələri üzə çıxarmaq üçün böyük həcmdə strukturlaşdırılmamış məlumatlara koqnitiv süni intellekt tətbiq edin."
+        }
+      ],
+      "lifecycleSteps": [
+        "Məlumat mənbələri",
+        "Məlumatların İnteqrasiyası",
+        "Məlumatların emalı",
+        "Məlumatların saxlanması",
+        "Analitika",
+        "AI/ML Modelləri",
+        "Vizuallaşdırma",
+        "Biznes Qərarları"
+      ],
+      "benefits": [
+        "Faktlara əsaslanan, məlumatlara əsaslanan icraedici qərarların qəbulu",
+        "Dəqiq tələb, gəlir və itkilərin proqnozlaşdırılması",
+        "Real vaxtda anomaliya və saxtakarlığın aşkarlanması",
+        "Dərin 360° müştəri davranışı anlayışları və fərdiləşdirmə",
+        "Optimallaşdırılmış təchizat zənciri və əməliyyat səmərəliliyi",
+        "Azaldılmış əməliyyat və maliyyə riski",
+        "Gizli gəlir imkanlarının aşkarlanması",
+        "Biznes bölmələri arasında məlumat əldə etmək üçün sürətləndirilmiş vaxt"
+      ],
+      "security": "Analitik ekosistemlərimiz mülkiyyət məlumatlarını qorumaq və tənzimləyicilərə uyğunluğu (GDPR, HIPAA, SOC 2) qorumaq üçün uçdan-uca şifrələmə, avtomatlaşdırılmış məlumat maskalanması, ciddi RBAC icazələri və model idarəetməni həyata keçirir.",
+      "ctaHeadline": "Ağıllı Məlumat Strategiyasını qurun",
+      "ctaSub": "Məlumatı anlayışa çevirin. Anlayışı hərəkətə çevirin."
+    },
+    "information-reporting-systems": {
+      "title": "İnformasiya və Hesabat Sistemləri",
+      "tagline": "Doğru Məlumat. Doğru Zamanda. Daha yaxşı qərarlar üçün.",
+      "heroBadge": "Vahid Müəssisə Kəşfiyyatı",
+      "overview": [
+        "Biznes rəhbərləri və əməliyyat qrupları effektiv qərarlar qəbul etmək üçün dəqiq məlumatdan asılıdır. İnformasiya və Hesabat Sistemlərimiz təşkilatlara strukturlaşdırılmış məlumat sistemləri, hesabat platformaları, idarə panelləri və avtomatlaşdırılmış hesabat iş axınları vasitəsilə biznes məlumatlarını toplamaq, təşkil etmək, təhlil etmək və təqdim etməkdə kömək edir.",
+        "Təşkilatlarda çox vaxt proqramlar, cədvəllər, verilənlər bazaları və əməliyyat sistemləri arasında paylanmış məlumat var. Bu, biznes fəaliyyətinin ardıcıl görünüşünü yaratmağı çətinləşdirir. Biz məlumat mənbələrini etibarlı, əlçatan və ardıcıl biznes məlumatı təmin edən strukturlaşdırılmış hesabat mühitlərinə inteqrasiya etməyə kömək edirik."
+      ],
+      "transformation": [
+        "Hesabat sistemi sadəcə rəqəmləri göstərməməlidir. O, istifadəçilərə performansı anlamağa, problemləri müəyyən etməyə, imkanları kəşf etməyə və əsaslandırılmış qərarlar qəbul etməyə kömək etməlidir.",
+        "Biz bütün idarəetmə səviyyələri üçün uyğunlaşdırılmış strukturlaşdırılmış məlumatdan qərara qədər ekosistemlər təqdim edərək, təşkilatınızın fəaliyyət göstərdiyi tərzdə hesabat mühitlərini dizayn edirik."
+      ],
+      "capabilities": [
+        {
+          "title": "İdarəetmə İnformasiya Sistemləri (MİS)",
+          "desc": "İcra rəhbərliyini müvafiq əməliyyat və strateji görünürlüklə təmin edən vahid informasiya sistemlərini inkişaf etdirmək."
+        },
+        {
+          "title": "Biznes Hesabatı",
+          "desc": "Çoxlu kanallardan xam biznes məlumatlarını davamlı olaraq performansa nəzarət edən strukturlaşdırılmış, standartlaşdırılmış hesabatlara çevirin."
+        },
+        {
+          "title": "İnteraktiv İdarə Panelləri",
+          "desc": "Kritik biznes ölçüləri, KPI-lar, tendensiyalar və departament fəaliyyətləri haqqında real vaxt və ya planlaşdırılmış interaktiv görünürlük təmin edin."
+        },
+        {
+          "title": "KPI İdarəetmə",
+          "desc": "Müəssisənin ümumi böyümə hədəfləri ilə birbaşa uyğunlaşdırılmış mənalı əməliyyat KPI-lərini müəyyənləşdirin, izləyin və müqayisə edin."
+        },
+        {
+          "title": "Məlumatların İnteqrasiyası",
+          "desc": "Ardıcıl tək şüşəli hesabat üçün paylanmış məlumat mənbələrini vahid məlumat anbarlarına və semantik təbəqələrə inteqrasiya edin."
+        },
+        {
+          "title": "Avtomatlaşdırılmış Hesabat",
+          "desc": "Əvvəlcədən təyin edilmiş cədvəllərə, biznes qaydalarına və alıcı iyerarxiyalarına uyğun olaraq fərdiləşdirilmiş hesabatları avtomatik yaradın və paylayın."
+        }
+      ],
+      "lifecycleSteps": [
+        "Biznes Sistemləri",
+        "Məlumatların Toplanması",
+        "Məlumatların İnteqrasiyası",
+        "Məlumatların emalı",
+        "Məlumat Anbarı",
+        "Analitika",
+        "Hesabatlar və İdarə Panelləri"
+      ],
+      "benefits": [
+        "Bütün müəssisə üzrə yeganə həqiqət mənbəyi",
+        "Real vaxt əməliyyat göstəricilərinə daha sürətli çıxış",
+        "Elektron cədvəlin əl ilə yığılmasının tamamilə aradan qaldırılması",
+        "Ardıcıl, uzlaşdırılmış idarələrarası KPI-lar",
+        "Üstün icra nəzarəti və audit qabiliyyəti",
+        "Birbaşa maraqlı tərəflərə avtomatlaşdırılmış paylama",
+        "Qranul sıra səviyyəli məlumat təhlükəsizliyi və icazələr",
+        "Əməliyyat anomaliyalarına cavab vermək üçün gücləndirilmiş çeviklik"
+      ],
+      "security": "Biznes məlumatı həssas əməliyyat, maliyyə və müştəri məlumatlarını ehtiva edə bilər. Hesabat həllərimiz çox faktorlu autentifikasiya, qranul rol əsaslı avtorizasiya, şifrələmə və audit qeydlərini hesabat arxitekturasına daxil edir.",
+      "ctaHeadline": "Artımı Dəstəkləyən Hesabat",
+      "ctaSub": "Məlumatı əlçatan edin. Performansı görünən edin. Daha yaxşı qərarlar qəbul edin."
+    },
+    "managed-services": {
+      "title": "İdarə olunan Xidmətlər",
+      "tagline": "Etibarlı Texnologiya Əməliyyatları. Ekspert Dəstəyi. Davamlı Təkmilləşdirmə.",
+      "heroBadge": "24/7 İT Əməliyyatları və Dəstəyi",
+      "overview": [
+        "Müasir İT mühitləri mürəkkəbdir və daim dəyişir. Təşkilatlar biznes əməliyyatlarını davam etdirmək üçün etibarlı infrastruktura, proqramlara, şəbəkələrə, təhlükəsizlik, monitorinq və texniki dəstəyə ehtiyac duyurlar.",
+        "İdarə olunan Xidmətlərimiz davamlı texnologiya idarəçiliyi və əməliyyat dəstəyi təmin edərək təşkilatlara etibarlı İT mühitlərini saxlamağa imkan verir, eyni zamanda daxili komandalar strateji təşəbbüslərə diqqət yetirirlər."
+      ],
+      "transformation": [
+        "Ənənəvi İT dəstəyi çox vaxt problemlərin meydana çıxmasından sonra onların həllinə diqqət yetirir. İdarə olunan xidmətlər infrastrukturu, tətbiqləri, sistemləri və əməliyyat mühitlərini davamlı olaraq izləməklə proaktiv yanaşma tətbiq edir.",
+        "Bu yanaşma potensial problemləri erkən müəyyən etməyə, performansı qorumağa, əlçatanlığı yaxşılaşdırmağa və qarşısı alına bilən əməliyyat pozuntularını azaltmağa kömək edir."
+      ],
+      "capabilities": [
+        {
+          "title": "İnfrastrukturun İdarə Edilməsi",
+          "desc": "Serverlərin, yaddaşın, virtuallaşdırma platformalarının və infrastrukturun davam edən əməliyyatını, yamaqlarını və idarə edilməsini dəstəkləyin."
+        },
+        {
+          "title": "Bulud İdarəetmə",
+          "desc": "Bulud iş yüklərini, çoxlu bulud resurslarını, konfiqurasiyaları, monitorinqi, performansı və FinOps optimallaşdırılmasını idarə edin."
+        },
+        {
+          "title": "Şəbəkə İdarəetmə",
+          "desc": "24/7 monitorinq, performansın idarə edilməsi, konfiqurasiya dəstəyi, SD-WAN optimallaşdırılması və şəbəkə probleminin həllini təmin edin."
+        },
+        {
+          "title": "Tətbiqlərin idarə edilməsi",
+          "desc": "Proaktiv monitorinq, texniki qulluq, səhvlərin həlli və əməliyyat təkmilləşdirmələri vasitəsilə kritik tətbiq mühitlərini dəstəkləyin."
+        },
+        {
+          "title": "Monitorinq və Müşahidə",
+          "desc": "Sistemin sağlamlığı, gecikmə müddəti, işləmə müddəti, infrastruktur asılılıqları və xəbərdarlıqlara dair hərtərəfli real vaxt görünürlüğünü təmin edin."
+        },
+        {
+          "title": "Yedəkləmə və Bərpa İdarəetmə",
+          "desc": "Avtomatlaşdırılmış ehtiyat nüsxə cədvəllərini qoruyun, uğursuzluqları müntəzəm olaraq sınayın və ani bərpa imkanlarını təmin edin."
+        },
+        {
+          "title": "Təhlükəsizlik Əməliyyatları (SecOps)",
+          "desc": "Davamlı təhlükəsizlik monitorinqi, yamaqların idarə edilməsi, girişə nəzarətin tətbiqi və proaktiv təhlükənin azaldılmasını təmin edin."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ətraf Mühitin İşlənməsi",
+        "Kəşf və Əsas",
+        "Telemetriya inteqrasiyası",
+        "SLA Tərifi",
+        "24/7 Aktiv Monitorinq",
+        "Hadisənin Təsnifatı",
+        "Sürətli Qətnamə",
+        "Kök Səbəb Təhlili",
+        "Profilaktika mühəndisliyi",
+        "Davamlı Optimallaşdırma"
+      ],
+      "benefits": [
+        "Daxili əməliyyat yükünün əhəmiyyətli dərəcədə azaldılması",
+        "İstifadəçilərə təsir etməzdən əvvəl problemin proaktiv aşkarlanması",
+        "99,99% sistem əlçatanlığına və işləmə müddətinə zəmanət verilir",
+        "Proqnozlaşdırıla bilən, şəffaf İT əməliyyat büdcəsi",
+        "Baş mühəndis mütəxəssislərinə dərhal çıxış",
+        "SLA tərəfindən dəstəklənən sürətli insident cavab müddətləri",
+        "Avtomatlaşdırılmış fəlakətin bərpası və işin davamlılığı",
+        "Davamlı texnologiyanın optimallaşdırılması və modernləşdirilməsi"
+      ],
+      "security": "Bizim idarə olunan əməliyyatlarımız şifrlənmiş girişi, təcrid olunmuş audit qeydlərini, ən az imtiyazlı etimadnamənin saxlanmasını və hər bir idarə olunan resursda uyğunluğun uyğunlaşdırılmasını təmin edən ciddi ITIL və ISO çərçivələrinə riayət edir.",
+      "ctaHeadline": "Davamlı Təkmilləşdirmə",
+      "ctaSub": "Siz işinizə diqqət yetirirsiniz. Texnologiyanızın işləməsinə kömək edirik."
+    },
+    "one-stop-technology-solutions": {
+      "title": "One-Stop Technology Solutions",
+      "tagline": "Bir Texnologiya Partnyoru. Çoxsaylı imkanlar. Tam Biznes Həlləri.",
+      "heroBadge": "Vahid Müəssisə Partnyoru",
+      "overview": [
+        "Təşkilatlar tez-tez infrastruktur, bulud, tətbiqlər, avtomatlaşdırma, analitika, təhlükəsizlik, dəstək və rəqəmsal transformasiya üçün çoxsaylı texnologiya provayderləri ilə işləyirlər. Çoxsaylı təchizatçıların idarə edilməsi mürəkkəblik, ünsiyyət boşluqları, təkrarlanan səylər və parçalanmış texnologiya mühitləri yarada bilər.",
+        "Bizim One-Stop Technology Solutions yanaşmamız bir çox imkanları vahid xidmət modeli altında bir araya gətirir, təşkilatlara öz texnoloji mühitlərini planlaşdırmağa, həyata keçirməyə, inteqrasiya etməyə, idarə etməyə və davamlı olaraq təkmilləşdirməyə kömək edir."
+      ],
+      "transformation": [
+        "Biz biznes tələblərinin başa düşülməsindən və texnologiya strategiyasının müəyyən edilməsindən tutmuş həllərin layihələndirilməsinə, platformaların həyata keçirilməsinə, sistemlərin inteqrasiyasına, tətbiqlərin yerləşdirilməsinə, mühitlərin monitorinqinə və davamlı dəstəyin təmin edilməsinə kimi tam texnologiya həyat dövrünü dəstəkləyirik.",
+        "Məqsəd təcrid olunmuş həllərdən daha çox əlaqəli texnologiya ekosistemi yaratmaqdır."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategiya və Memarlıq",
+          "desc": "Biznes məqsədlərini anlayın və miqyaslana bilən, təhlükəsiz və davamlı texnologiya arxitekturalarını dizayn edin."
+        },
+        {
+          "title": "İcra və Quraşdırma",
+          "desc": "Tətbiqləri, infrastrukturu, inteqrasiyaları, avtomatlaşdırmanı və rəqəmsal platformaları müəssisə ciddiliyi ilə həyata keçirin."
+        },
+        {
+          "title": "Sistem İnteqrasiyası",
+          "desc": "Sistemləri və tətbiqləri birləşdirin ki, məlumat bütün təşkilatda problemsiz şəkildə hərəkət etsin."
+        },
+        {
+          "title": "Strukturlaşdırılmış Yerləşdirmə",
+          "desc": "Həllləri etibarlı və təhlükəsiz şəkildə istehsala köçürmək üçün avtomatlaşdırılmış CI/CD qurun və prosesləri buraxın."
+        },
+        {
+          "title": "Davamlı Monitorinq",
+          "desc": "İnfrastruktur, tətbiqlər, performans, əlçatanlıq və əməliyyat sağlamlığı haqqında başdan-başa görünməni təmin edin."
+        },
+        {
+          "title": "Optimallaşdırma və Dəstək",
+          "desc": "Performans, etibarlılıq, xərc səmərəliliyi və miqyaslılığı təkmilləşdirmək üçün davamlı olaraq mühitləri nəzərdən keçirin."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategiya",
+        "Memarlıq",
+        "İcra",
+        "İnteqrasiya",
+        "Yerləşdirmə",
+        "Monitorinq",
+        "Optimallaşdırma",
+        "Dəstək"
+      ],
+      "benefits": [
+        "Təchizatçı idarəetmə mürəkkəbliyi və əlavə məsrəflərin azaldılması",
+        "Bütün memarlıq təbəqələrində qüsursuz koordinasiya",
+        "Sıfır təhvil gecikmələri ilə layihənin daha sürətli icrası",
+        "Proqnozlaşdırıla bilən büdcə bölgüsü və şəffaf çatdırılma",
+        "Sıfırdan miqyasda vahid müəssisə hesabatlılığı",
+        "Gələcək biznesin inkişafı üçün nəzərdə tutulmuş genişlənə bilən həllər",
+        "Uzunmüddətli etibarlı texnologiya tərəfdaşlığı",
+        "Hərtərəfli rəqəmsal transformasiya"
+      ],
+      "security": "Arxitektura, həyata keçirmə və əməliyyatlara nəzarət edən tək etibarlı tərəfdaşla təhlükəsizlik idarəçiliyi bütün səviyyələrdə pozulmamış qalır - inteqrasiyanın görünməmiş nöqtələrini aradan qaldırır və davamlı uyğunluğu təmin edir.",
+      "ctaHeadline": "Tam Texnologiya Tərəfdaşınız",
+      "ctaSub": "Bir tərəfdaş. Bir görmə. Çoxsaylı texnologiyalar. Tam həllər."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Müəssisə İcmal",
+    "overviewTitle": "Ölçülə bilən nəticələr üçün Ağıllı Texnologiya",
+    "transformationEyebrow": "Əməliyyat Transformasiyası",
+    "transformationTitle": "Ağıllı iş axınları vasitəsilə biznesin çevrilməsi",
+    "deliveryEyebrow": "Strukturlaşdırılmış çatdırılma yanaşması",
+    "deliveryTitle": "Başdan Uca İcra və Davamlı Optimallaşdırma",
+    "deliveryIntro": "Bizim sübut edilmiş tətbiq yanaşmamız ciddi çatdırılma dövrünü izləyir:",
+    "deliveryOutro": "Bu strukturlaşdırılmış ardıcıllıq hər mərhələdə biznes məqsədləri, möhkəm təhlükəsizlik vəziyyəti və ölçülə bilən ROI göstəriciləri ilə sıx uyğunlaşma təmin edir.",
+    "securityEyebrow": "Təhlükəsizlik və İdarəetmə",
+    "securityTitle": "Müəssisə səviyyəli Etibarlılıq və Uyğunluq Təminatları",
+    "securityOutro": "İstehsal mühitinizin dayanıqlı və tam uyğun olmasını təmin etmək üçün ciddi rol əsaslı giriş nəzarəti, avtomatlaşdırılmış zəifliyin skan edilməsi, model idarəetməsi və çox səviyyəli şifrələməni daxil edirik.",
+    "capabilitiesTitle": "Əsas Texnologiya İmkanları",
+    "capabilitiesSub": "Rəqəmsal əməliyyatlarınızı genişləndirmək üçün hazırlanmış hərtərəfli texniki səriştələr.",
+    "bookDiscovery": "Kitab texnologiyasının kəşfi",
+    "exploreAll": "Bütün Texnologiyaları Araşdırın",
+    "bookConsultation": "Konsultasiya sifariş edin",
+    "coreCapabilities": "Əsas imkanlar"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Əsas imkanlar",
+    "exploreFramework": "Həll Çərçivəsini araşdırın",
+    "bookConsultation": "Konsultasiya sifariş edin",
+    "viewCaseStudies": "Case Studilərinə baxın",
+    "provenPillars": "Kanıtlanmış Sütunlar",
+    "operationalOutcomes": "Əməliyyat Nəticələri",
+    "learnMore": "Ətraflı məlumat əldə edin"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Sondan Uca Rəqəmsal Mühəndislik",
+      "titlePart1": "Başlanğıc",
+      "titlePart2": "Yerləşdirmə",
+      "description": "İnkişaf, inteqrasiya, sınaq, yerləşdirmə və davamlı dəstək vasitəsilə biznes tələbləri və həll arxitekturasından yeni rəqəmsal həllərin uçdan uca inkişafı.",
+      "bookConsultation": "Konsultasiya sifariş edin",
+      "exploreEngineering": "Həll Mühəndisliyini araşdırın",
+      "coreCapabilities": [
+        "Tələblər mühəndisliyi",
+        "Həll Memarlığı",
+        "Proqram inkişafı",
+        "API İnteqrasiyası",
+        "Keyfiyyət Təminatı",
+        "DevOps",
+        "Yerləşdirmə",
+        "Dəstək və Baxım"
+      ],
+      "row1Eyebrow": "Tam Ömrü Dövrünün Çatdırılması",
+      "row1Title": "Tələblərdən Ölçəyə qədər Başdan Uca İnkişaf",
+      "row1P1": "Hər bir yeni rəqəmsal təşəbbüs unikal tələblər, əməliyyat iş axınları və hər kəsə uyğun proqram təminatı ilə qarşılana bilməyən strateji məqsədlərlə başlayır. Biz tamamilə sıfırdan xüsusi, yüksək performanslı proqram sistemlərinin qurulmasında ixtisaslaşmışıq.",
+      "row1P2": "İlkin tələblərin aşkarlanması və texniki arxitektura dizaynından çevik sprint inkişafı, API ekosistem inteqrasiyası, möhkəm sınaq boru kəmərləri və avtomatlaşdırılmış bulud yerləşdirmələrinə qədər, bizim yüksək səviyyəli mühəndis komandalarımız məhsulunuzun həyat dövrünün tam mülkiyyətini öz üzərinə götürür.",
+      "row2Eyebrow": "Həll Memarlığı və Mühəndisliyi",
+      "row2Title": "Müəssisələrin Böyüməsi üçün qurulmuş Ölçəklənən Sistemlər",
+      "row2P1": "Biz ağır istehsal yüklərinə tab gətirmək üçün uyğunlaşdırılmış möhkəm proqram arxitekturaları dizayn edirik. Modul mikroservislərdən və hadisələrə əsaslanan arxa planlardan tutmuş yüksək məhsuldarlıqlı məlumat axınlarına və GraphQL/REST API-lərə qədər, biz səy göstərmədən genişlənən platformalar qururuq.",
+      "row2P2": "Avtomatlaşdırılmış sınaq və davamlı təhlükəsizlik uyğunluğu ilə birləşdirilmiş təmiz, modul kod bazaları yaratmaqla biz proqram təminatınızın davamlı, yoxlanıla bilən və uzunmüddətli təkamül üçün hazır olmasını təmin edirik.",
+      "row3Eyebrow": "Keyfiyyət Təminatı və DevOps",
+      "row3Title": "Avtomatlaşdırılmış Boru Kəmərləri ilə Çevik Çatdırılma",
+      "row3P1": "Çatdırılma modelimiz konteynerləşdirilmiş CI/CD iş axınları (Docker, Kubernetes, AWS/Azure/GCP) ilə yanaşı avtomatlaşdırılmış bölmə, inteqrasiya və uçdan-uca reqressiya testini özündə birləşdirir.",
+      "row3P2": "Şəffaf sprint demoları, real vaxtda müşahidə oluna bilmə qabiliyyəti və mərhələyə əsaslanan sürət ilə biz təhlükəsizliyə, sabitliyə və ya istifadəçi təcrübəsinə xələl gətirmədən bazara sürətli çatdırılmanı təmin edirik.",
+      "row4Eyebrow": "Yerləşdirmə və Dəstək",
+      "row4Title": "Etibarlı 24/7 Əməliyyatlar və Uzunmüddətli Təkamül",
+      "row4P1": "Canlı yayıma çıxmaq yalnız başlanğıcdır. Biz proaktiv monitorinq, SLA ilə dəstəklənən texniki xidmət, bulud infrastrukturunun optimallaşdırılması, performans tənzimləməsi və davam edən funksiyaların təqdimatını təmin edirik.",
+      "row4P2": "Mühəndislik komandamız təşkilatınızın təbii uzantısı kimi çıxış edərək, bazarda sıfır dayanma müddətini və davamlı texnoloji üstünlüyü təmin edir.",
+      "pillarsTitle": "Əsas imkanlar",
+      "pillarsSub": "İdeyalarınızı sıfırdan istehsala çatdırmaq üçün hazırlanmış tam stack imkanları.",
+      "pillar1Title": "Tələblər mühəndisliyi",
+      "pillar1Desc": "Dəqiq həll sərhədlərini müəyyən etmək üçün biznes təhlili, funksional spesifikasiyalar və istifadəçi səyahətinin xəritəsi.",
+      "pillar2Title": "Həll Memarlığı",
+      "pillar2Desc": "Ölçəklənən bulud-doğma arxitekturaları, verilənlər bazası modelləşdirməsi, mikroservislərin dizaynı və sıfır etibarsız təhlükəsizlik əsasları.",
+      "pillar3Title": "Proqram inkişafı",
+      "pillar3Desc": "Təmiz kod, tip-təhlükəsizlik və reaktiv UI standartları ilə hazırlanmış müasir tam stack veb və mobil proqramlar.",
+      "pillar4Title": "API İnteqrasiyası",
+      "pillar4Desc": "Yüksək məhsuldarlığa malik REST/GraphQL API-ləri, veb-qanç orkestrləri, ödəniş şlüzləri və qüsursuz üçüncü tərəf ERP/CRM sinxronizasiyası.",
+      "ctaTitle": "Başlanğıcdan Yerləşdirməyə kimi Həllinizi Yaratmağa Hazırsınız?",
+      "ctaSub": "Biznes tələblərindən istehsal reallığına qədər fərdi rəqəmsal platformanızı memar, mühəndis etmək və yerləşdirmək üçün Rezonants ilə tərəfdaş olun.",
+      "ctaButton": "Həll üçün Məsləhətləşmə sifariş edin",
+      "pillar5Title": "Keyfiyyət Təminatı",
+      "pillar5Desc": "Ciddi test avtomatlaşdırılması, yük/stress testi, zəiflik skanları və reqressiya test paketləri.",
+      "pillar6Title": "DevOps və Yerləşdirmə",
+      "pillar6Desc": "Avtomatlaşdırılmış CI/CD boru kəmərləri, konteyner orkestrasiyası (Docker/K8s), kod kimi infrastruktur və sıfır fasiləsiz buraxılışlar.",
+      "pillar7Title": "Dəstək və Baxım",
+      "pillar7Desc": "24/7 proaktiv monitorinq, sağlamlıq telemetriyası, performans auditləri, təhlükəsizlik yamaqları və davam edən SLA baxımı.",
+      "pillar8Title": "Davamlı Yenilik",
+      "pillar8Desc": "Daimi funksiya sürəti, məlumat analitikasının inteqrasiyası, AI təkmilləşdirməsi və memarlıq modernləşdirmələri."
+    },
+    "processAutomation": {
+      "eyebrow": "Ağıllı Proses Əməliyyatları",
+      "titlePart1": "Biznes Prosesi",
+      "titlePart2": "Avtomatlaşdırma",
+      "description": "Robotik proseslərin avtomatlaşdırılması (RPA), intellektual sənədlərin işlənməsi, biznes qaydaları mühərrikləri və sistem inteqrasiyasını birləşdirən müəssisə iş axınlarının başdan-başa avtomatlaşdırılması.",
+      "bookDiscovery": "Kitabın avtomatlaşdırılmasının kəşfi",
+      "exploreFramework": "Həll Çərçivəsini araşdırın",
+      "coreCapabilities": [
+        "İş axınının avtomatlaşdırılması",
+        "Robotik Proseslərin Avtomatlaşdırılması",
+        "Sənədlərin işlənməsi",
+        "İnteqrasiya Mühəndisliyi",
+        "Biznes Qaydaları Mühərrikləri",
+        "Proses Analitikası",
+        "Davamlı Optimallaşdırma",
+        "Köhnə İnteqrasiya"
+      ],
+      "row1Eyebrow": "Robotik Proseslərin Avtomatlaşdırılması",
+      "row1Title": "Yüksək Həcmli Əməliyyatlar üçün Ağıllı Botlar",
+      "row1P1": "Təkrarlanan əl ilə məlumat daxil edilməsini, sistemlərarası uzlaşmaları və sənəd marşrutunu aradan qaldırın. Biz sıfır səhv dərəcəsi ilə 24/7 strukturlaşdırılmış tapşırıqları yerinə yetirən müəssisə RPA botlarını yerləşdiririk.",
+      "row1P2": "Köhnə iş masası interfeyslərini, SAP/ERP arxa planlarını və bulud verilənlər bazalarını birləşdirərək proqram botları komandanızı strateji biznes təşəbbüslərinə diqqət yetirmək üçün azad edir.",
+      "row2Eyebrow": "İntellektual Sənəd Emalı",
+      "row2Title": "OCR, Machine Learning & Document AI",
+      "row2P1": "Hesab-fakturalar, müqavilələr, şəxsiyyət sənədləri və iddialardan məlumatları avtomatik qəbul edin, təsnif edin və çıxarın. Süni intellektlə idarə olunan boru kəmərlərimiz sahələri daxili verilənlər bazaları ilə uyğunlaşdırır və avtomatlaşdırılmış təsdiq iş axınlarını işə salır.",
+      "row2P2": "95%-i keçən birbaşa emal dərəcələrinə nail olun, eyni zamanda iş vaxtlarını günlərdən saniyələrə qədər kəskin azaldın.",
+      "row3Eyebrow": "Prosesin Orkestrləşdirilməsi",
+      "row3Title": "Başdan Uca Çarpaz Platforma Sinxronizasiyası",
+      "row3P1": "CRM, ERP, HRMS və bank API-lərini real vaxt rejimində vahid məlumat axınlarına birləşdirin. Biz hadisəyə əsaslanan tetikleyicileri, mesaj növbələrini və avtomatlaşdırılmış geri dönmə işləyicilərini həyata keçiririk.",
+      "row3P2": "İnformasiya insan müdaxiləsi olmadan departamentlər arasında problemsiz şəkildə axır, əməliyyat siloslarını və kommunikasiya gecikmələrini aradan qaldırır.",
+      "row4Eyebrow": "Davamlı Telemetriya",
+      "row4Title": "Real-Time Proses Analitikası və Kaizen Insights",
+      "row4P1": "Real vaxt idarəetmə panellərində prosesin icra müddətlərini, darboğaz istilik xəritələrini, səhv tezliklərini və maliyyə ROI-ni izləyin.",
+      "row4P2": "Davamlı maşın öyrənməsi diaqnostikası yeni avtomatlaşdırma imkanlarını kəşf edərək, müəssisənizin maksimum səmərəlilikdə işləməsini təmin edir.",
+      "pillarsTitle": "Avtomatlaşdırma sütunları",
+      "pillarsSub": "Ağıllı müəssisə əməliyyatları üçün sübut edilmiş tikinti blokları.",
+      "pillar1Title": "İş axınının avtomatlaşdırılması",
+      "pillar1Desc": "Avtomatlaşdırılmış marşrutlaşdırma və eskalasiya ilə idarə olunan çox addımlı insan və rəqəmsal iş axınları.",
+      "pillar2Title": "Robotik Proseslərin Avtomatlaşdırılması",
+      "pillar2Desc": "Rutin məlumat girişi, uzlaşma və tətbiqlər arası tapşırıqları yerinə yetirən qayda-based proqram botları.",
+      "pillar3Title": "Ağıllı süni intellekt avtomatlaşdırılması",
+      "pillar3Desc": "Konteksti şərh edən, strukturlaşdırılmamış mətni ümumiləşdirən və avtomatlaşdırılmış qərarlar qəbul edən koqnitiv AI agentləri.",
+      "pillar4Title": "Proseslərin optimallaşdırılması",
+      "pillar4Desc": "Əməliyyat xərclərini davamlı olaraq azaldan proses mədənçilik, darboğazların aşkarlanması və Kaizen iş axınları.",
+      "ctaTitle": "Biznes iş axınlarınızı avtomatlaşdırmağa hazırsınız?",
+      "ctaSub": "Yüksək ROI imkanlarını müəyyən etmək və ağıllı rəqəmsal iş axınlarını tətbiq etmək üçün avtomatlaşdırma memarlarımızla əlaqə saxlayın.",
+      "ctaButton": "Avtomatlaşdırma Məsləhətini sifariş edin"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Mühəndislik Standartı və R&D",
+      "titlePart1": "Mərkəzi",
+      "titlePart2": "Əla",
+      "description": "Mühəndislik təcrübələrinin standartlaşdırılması, innovasiyaların idarə edilməsi və rəqəmsal təşəbbüslərin sürətləndirilməsinə həsr olunmuş yüksək səviyyəli memarların və sahə mütəxəssislərinin mərkəzləşdirilmiş təşkilatı.",
+      "exploreStandards": "Mühəndislik Standartlarını araşdırın",
+      "initiateAssessment": "AŞ Qiymətləndirməsinə başlayın",
+      "coreCapabilities": [
+        "Memarlıq Standartları",
+        "Yenidən istifadə edilə bilən çərçivələr",
+        "Ən Yaxşı Təcrübə İdarəetmə",
+        "Bacarıqların inkişafı",
+        "Keyfiyyət müqayisəsi",
+        "Ar-Ge və İnnovasiya",
+        "Texnologiyanın Qiymətləndirilməsi",
+        "Layihələrarası Rəhbərlik"
+      ],
+      "uptimeLabel": "Enterprise Uptime",
+      "engineersLabel": "Mühəndislər və Memarlar",
+      "deploymentsLabel": "Süni İntellekt və Bulud Yerləşdirmələri",
+      "satisfactionLabel": "Müştəri Məmnuniyyəti",
+      "row1Eyebrow": "Sütun 01 — Mühəndislik Standartı",
+      "row1Title": "Yüksək Performanslı Proqram Mühəndisliyi",
+      "row1P1": "Bizim Mükəmməllik Mərkəzimiz standartlaşdırılmış dizayn nümunələri, ciddi avtomatlaşdırılmış sınaqlar və texniki borcları sıfıra endirməklə bazara çıxma müddətini sürətləndirən sıfır qüsurlu kodu nəzərdən keçirmə təcrübələri yaradır.",
+      "row1F1": "DORA metrik analitikası ilə avtomatlaşdırılmış CI/CD buraxılış boru kəmərləri",
+      "row1F2": "Ciddi memarlıq yoxlama şuraları və mikroservislərin idarə edilməsi",
+      "row1F3": "Davamlı təhlükəsizlik lintingi və avtomatlaşdırılmış zəiflik yamaqları",
+      "row1Btn": "Mühəndislik Standartlarını öyrənin",
+      "row1Tag": "DevOps və Keyfiyyət Mühəndisliyi",
+      "row2Eyebrow": "Sütun 02 — R&D İnnovasiyası",
+      "row2Title": "AI İnnovasiya Laboratoriyası və İnkişaf etməkdə olan Texnologiya",
+      "row2P1": "Biz yeni nəsil müəssisə məhsullarını yaratmaq üçün ən müasir maşın öyrənmə modelləri, fərdi AI agentləri və ağıllı iş axını avtomatlaşdırılması ilə sınaqdan keçiririk.",
+      "row2F1": "Enterprise Generative AI & RAG bilik inteqrasiyası",
+      "row2F2": "Biznes proseslərinin avtomatlaşdırılması üçün avtonom AI agent iş axınları",
+      "row2F3": "Fərdi maşın öyrənməsi modelinin optimallaşdırılması və dəqiq tənzimləmə",
+      "row2Btn": "AI Laboratoriyasını araşdırın",
+      "row2Tag": "Süni İntellekt və Sinir Tədqiqatları",
+      "row3Eyebrow": "Sütun 03 — İnfrastruktur",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Biz məlumatlarınızın inkişaf edən qlobal kibertəhlükələrdən qorunmasını təmin edərək, sıfır etibarsız təhlükəsizlik çərçivələri üzərində qurulmuş davamlı multi-bulud mühitləri layihələndirir və idarə edirik.",
+      "row3F1": "AWS, Azure və GCP multi-bulud infrastrukturunun təşkili",
+      "row3F2": "Sıfır etibarlı şəbəkə girişi (ZTNA) və rola əsaslanan IAM siyasətləri",
+      "row3F3": "Avtomatlaşdırılmış konteyner təhlükəsizliyinin skan edilməsi və məxfi idarə olunması",
+      "row3Btn": "Bulud və Təhlükəsizliyi araşdırın",
+      "row3Tag": "Bulud Memarlığı və Sıfır Güvən",
+      "pillarsTitle": "Əsas Mükəmməllik Çərçivələrimiz",
+      "pillarsSub": "Kritik platformaları gücləndirən sistemləşdirilmiş inkişaf kitabları.",
+      "pillar1Title": "Memarlıq Nəzarət Şurası (ARB)",
+      "pillar1Desc": "Bütün müəssisə həllərinin ciddi miqyaslılıq, təhlükəsizlik və uyğunluq protokollarına uyğun olmasını təmin edən hərtərəfli nəzarət.",
+      "pillar2Title": "Yenidən istifadə edilə bilən sürətləndiricilər və komponentlər kitabxanası",
+      "pillar2Desc": "Mülkiyyət dizayn sistemləri, API başlanğıc dəstləri və ilkin inkişaf müddətini 40% azaldan backend mikroservis şablonları.",
+      "pillar3Title": "Davamlı Performans Profilinin qurulması",
+      "pillar3Desc": "Tətbiqin gecikməsinə, ötürmə qabiliyyətinə və bulud resursundan istifadəyə nəzarət edən qabaqcıl real vaxt müşahidə boru kəmərləri.",
+      "pillar4Title": "İstedadların Təkmilləşdirilməsi və Gildiyaları",
+      "pillar4Desc": "Bulud, DevOps və tətbiq olunan AI-də dərin texniki bacarıqları inkişaf etdirən strukturlaşdırılmış daxili gildiyalar və sertifikatlar.",
+      "ctaTitle": "Mühəndislik Standartınızı yüksəldin",
+      "ctaSub": "Dayanıqlı bulud arxitekturaları yaratmaq, iş axınlarını avtomatlaşdırmaq və rəqəmsal məhsulun çatdırılmasını sürətləndirmək üçün Rezonants-in Mükəmməllik Mərkəzi ilə tərəfdaş olun.",
+      "ctaButton": "İcraçı məsləhətləşmələr cədvəli",
+      "badge": "REZONANTS COE",
+      "scroll": "diyirləyin",
+      "p1Title": "İdarəetmə və Çərçivələr",
+      "p1Desc": "Müəssisə miqyasında memarlıq idarəetməsini, siyasət qoruyucularını və uyğunluq standartlarını qurun.",
+      "p1Tag": "İdarəetmə",
+      "p2Title": "Texnologiya Standartları və Arxitektura",
+      "p2Desc": "Müasir istinad arxitekturalarını, yoxlanılmış texnologiya yığınlarını və mikroservis nümunələrini müəyyən edin.",
+      "p2Tag": "Memarlıq",
+      "p3Title": "Yenidən istifadə edilə bilən aktivlər və kitabxanalar",
+      "p3Desc": "Paylaşılan komponentlər, şablonlar, başlanğıc dəstləri və dizayn sistemləri ilə inkişaf sürətini sürətləndirin.",
+      "p3Tag": "Yenidən istifadə etmək imkanı",
+      "p4Title": "Bacarıqların İnkişafı",
+      "p4Desc": "Komanda mühəndisliyi bacarığını yüksəltmək üçün strukturlaşdırılmış təlim, texnoloji mentorluq və bacarıq imkanları.",
+      "p4Tag": "Bacarıq",
+      "p5Title": "İnnovasiya və İnkişaf etməkdə olan Texnologiya",
+      "p5Desc": "Bazar üstünlüyünü qorumaq üçün süni intellekt agentləri, avtomatlaşdırma boru kəmərləri və yeni nəsil çərçivələr üzrə R&D.",
+      "p5Tag": "İnnovasiya",
+      "p6Title": "Davamlı Təkmilləşdirmə",
+      "p6Desc": "Məlumata əsaslanan mühəndislik ölçüləri (DORA), SLA müqayisəsi və davamlı keyfiyyət optimallaşdırması.",
+      "p6Tag": "Keyfiyyət"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Uyğun Rəqəmsal Mühəndislik",
+      "titlePart1": "Fərdi İnkişaf və",
+      "titlePart2": "Fərdiləşdirmə",
+      "description": "Unikal biznes tələblərinə cavab vermək və uyğunlaşdırılmış funksionallıq təqdim etmək üçün proqramların, platformaların, iş axınlarının və korporativ həllərin inkişafı və təkmilləşdirilməsi.",
+      "bookConsultation": "Konsultasiya sifariş edin",
+      "exploreCapabilities": "Bacarıqları Araşdırın",
+      "coreCapabilities": [
+        "Fərdi İnkişaf",
+        "Platformanın Konfiqurasiyası",
+        "Genişləndirmələr",
+        "Fərdi iş axınları",
+        "API İnkişafı",
+        "Sistem İnteqrasiyası",
+        "UI/UX Təkmilləşdirilməsi",
+        "Performans Optimizasiyası"
+      ],
+      "row1Eyebrow": "XÜSUSİYYƏTLƏRİ FUNKSİYA",
+      "row1Title": "İş Aktınız üçün Hazırlanmış Xüsusi Xüsusiyyətlər",
+      "row1P1": "Standart korporativ proqram təminatı çox vaxt ixtisaslaşdırılmış biznes ehtiyaclarına cavab vermir. Bizim fərdi mühəndislik komandamız sizin əməliyyatlarınıza uyğunlaşdırılmış sifarişli proqram modulları, fərdi biznes qaydaları və xüsusi genişləndirmələr hazırlayır.",
+      "row1P2": "Xüsusi CRM və ERP təkmilləşdirmələrindən tutmuş xüsusi əməliyyat portallarına qədər biz komandanızın dəqiq iş axını nümunələri ilə problemsiz uyğunlaşan funksiyalar yaradırıq.",
+      "row2Eyebrow": "MÜƏSSİSƏ SİSTEMİNİN İNTEQRASİYASI",
+      "row2Title": "Platformanın Konfiqurasiyası və API İnkişafı",
+      "row2P1": "Fərqli proqram sistemlərini vahid rəqəmsal ekosistemə birləşdirin. Biz bütün platformalarınızda real vaxt rejimində məlumat sinxronizasiyasını təmin etmək üçün fərdi REST və GraphQL API-lərini, veb-qanca işləyicilərini və müəssisə mesaj növbələrini tərtib edirik.",
+      "row2P2": "İstər üçüncü tərəfin SaaS alətlərini inteqrasiya etmək, istərsə də özəl yerli platformaları genişləndirməkdən asılı olmayaraq, inteqrasiya arxitekturalarımız məlumatların bütövlüyünü, ötürmə qabiliyyətini və sıfır dayanma müddətini prioritetləşdirir.",
+      "row3Eyebrow": "UI/UX & PERFORMANS",
+      "row3Title": "UI/UX Təkmilləşdirmələri və Performans Optimizasiyası",
+      "row3P1": "Sürət və aydınlıq üçün nəzərdə tutulmuş müasir, həssas istifadəçi təcrübələri ilə köhnə interfeysləri yüksəldin. Biz intuitiv dizayn nümunələri, əlçatanlıq uyğunluğu və sadələşdirilmiş qarşılıqlı əlaqə modelləri ilə frontendləri yenidən mühəndisləşdiririk.",
+      "row3P2": "Paralel olaraq, performans mühəndislərimiz bütün cihazlarda ani cavab vaxtlarını təmin etmək üçün verilənlər bazası sorğularını, keşləmə strategiyalarını və ön uç paketinin ölçülərini optimallaşdırır.",
+      "pillarsTitle": "Dəqiq Spesifikasiyalarınıza uyğun olaraq hazırlanmışdır",
+      "pillarsSub": "Müəssisə səviyyəli fərdiləşdirmə metodologiyaları problemsiz şəkildə miqyaslanmaq üçün qurulmuşdur.",
+      "pillar1Title": "Fərdi İş Akışları və Genişləndirmələr",
+      "pillar1Desc": "Xüsusi olaraq daxili əməliyyat qaydalarınız ətrafında konfiqurasiya edilmiş xüsusi proqram məntiqi və avtomatlaşdırılmış dövlət maşınları.",
+      "pillar2Title": "API və Sistem İnteqrasiyası",
+      "pillar2Desc": "Mülkiyyət arxa planlarını, ERP paketlərini, ödəniş şlüzlərini və bulud xidmətlərini birləşdirən etibarlı, təsdiqlənmiş məlumat körpüləri.",
+      "pillar3Title": "Platformanın Konfiqurasiyası",
+      "pillar3Desc": "Təkmilləşdirmə yollarını və ya təchizatçı dəstək müqavilələrini pozmadan müəssisə proqram təminatını dəyişdirən dərin memarlıq uyğunlaşmaları.",
+      "pillar4Title": "Performans Optimizasiyası",
+      "pillar4Desc": "Aqressiv sorğu profili, yaddaş sızmasının aradan qaldırılması və ikinci səhifə yükləmələri üçün kənar CDN paylanması.",
+      "ctaTitle": "Müəssisə Platformanızı Fərdiləşdirməyə Hazırsınız?",
+      "ctaSub": "Biznes ehtiyaclarınıza uyğunlaşdırılmış fərdi modulları, iş axınlarını və inteqrasiyaları layihələndirmək və yerləşdirmək üçün həllər memarlarımızla əlaqə saxlayın.",
+      "ctaButton": "Fərdiləşdirmə Zəngi sifariş edin",
+      "badge": "Uyğun Rəqəmsal Mühəndislik",
+      "viewAllServices": "Bütün Xidmətlərə baxın"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Müəssisənin modernləşdirilməsi",
+      "titlePart1": "Rəqəmsal",
+      "titlePart2": "Transformasiya",
+      "description": "Təşkilati çeviklik, əməliyyat səmərəliliyi və davamlı rəqəmsal artıma təkan vermək üçün biznes proseslərinin, texnologiya arxitekturasının və əməliyyat modellərinin hərtərəfli modernləşdirilməsi.",
+      "startTransformation": "Transformasiyaya başlayın",
+      "exploreStrategy": "Strategiyanı araşdırın",
+      "coreCapabilities": [
+        "Strategiya və Yol Xəritəsi",
+        "Memarlığın modernləşdirilməsi",
+        "Bulud və İnfrastruktur",
+        "Məlumat və Analitika",
+        "Prosesin Rəqəmsallaşdırılması",
+        "Müştəri Təcrübəsi",
+        "Dəyişikliklərin İdarə Edilməsi",
+        "Çevik Əməliyyat Modelləri"
+      ],
+      "row1Eyebrow": "Strategiya və Yol Xəritəsi",
+      "row1Title": "Vizyondan İcra edilə bilən Yol Xəritəsinə",
+      "row1P1": "Rəqəmsal strategiya, biznes hadisələri və sürətli qalibiyyət və risksiz icra ilə mərhələli yol xəritələrini müəyyən etmək üçün müəssisə rəhbərləri ilə əməkdaşlıq edirik.",
+      "row1P2": "Prioritetləşdirilmiş təşəbbüslər, TCO modelləri və KPI-lər hər bir texnologiya modernləşdirmə səyinin birbaşa gəlir, səmərəlilik və müştəri məmnuniyyəti nəticələri ilə əlaqəli olmasını təmin edir.",
+      "row2Eyebrow": "Legacy Modernization",
+      "row2Title": "Biznesi pozmadan modernləşdirin",
+      "row2P1": "Platforma monolitlərini mikroservislərə, API-lərə və bulud-doğma nümunələrə sıfır dayanma vaxtı kəsmələri və avtomatlaşdırılmış reqressiya doğrulaması ilə yenidən.",
+      "row2P2": "Biz uyğunluq və təhlükəsizlik vəziyyətini qoruyaraq tətbiqləri, verilənlər bazalarını və inteqrasiya səviyyələrini modernləşdiririk.",
+      "row3Eyebrow": "Bulud, AI və Məlumat",
+      "row3Title": "Bulud qəbulu və Məlumata əsaslanan kəşfiyyat",
+      "row3P1": "AWS, Azure və GCP-ni qəbul edin, müasir məlumat kəmərləri qurun və avtonom qərarlar qəbul etmək üçün maşın öyrənmə agentlərini daxil edin.",
+      "row3P2": "Hadisələrin real vaxt axınından vahid tablosuna qədər transformasiya ölçülə bilən və davamlı olur.",
+      "row4Eyebrow": "Müştəri Təcrübəsi",
+      "row4Title": "Müasir Omnikanal Təcrübələri",
+      "row4P1": "Fərdiləşdirilmiş interfeyslərlə cavab verən veb, iOS, Android və özünəxidmət portalları üzrə müştəri səyahətlərini yenidən dizayn edin.",
+      "row4P2": "Platforma mühəndisliyi, telemetriya və avtomatlaşdırılmış əks əlaqə dövrələri rəqəmsal innovasiyaları davamlı edir.",
+      "pillarsTitle": "Transformasiya Sütunları",
+      "pillarsSub": "Davamlı rəqəmsal liderliyi təmin edən nəticəyə yönəlmiş rıçaqlar.",
+      "pillar1Title": "Rəqəmsal Strategiya və İdarəetmə",
+      "pillar1Desc": "Biznes nümunəsinin modelləşdirilməsi, arxitektura idarəçiliyi və mərhələ riskinin izlənməsi ilə mərhələli transformasiya planları.",
+      "pillar2Title": "Bulud və Məlumat Platforması",
+      "pillar2Desc": "AWS/Azure/GCP çoxlu bulud əsasları, avtomatlaşdırılmış boru kəmərləri və müəssisə data analitikasının aktivləşdirilməsi.",
+      "pillar3Title": "AI və avtomatlaşdırma",
+      "pillar3Desc": "Gündəlik əməliyyatları optimallaşdırmaq üçün intellektual proseslərin avtomatlaşdırılması, koqnitiv AI agentləri və proqnozlaşdırıcı telemetriya.",
+      "pillar4Title": "Müştəri Təcrübəsi",
+      "pillar4Desc": "Maksimum istifadəçi saxlamaq üçün qurulmuş yüksək konvertasiya edən çox kanallı rəqəmsal portallar və fərdiləşdirilmiş interfeyslər.",
+      "ctaTitle": "Müəssisənizi transformasiya etməyə hazırsınız?",
+      "ctaSub": "Ölçülə bilən biznes nəticələrinə bağlı mərhələli, riskdən azad edilmiş rəqəmsal transformasiya üçün Rezonants ilə partnyor.",
+      "ctaButton": "Rəqəmsal Transformasiya Zəngini sifariş edin",
+      "bookWorkshop": "Kitabın dəyişdirilməsi seminarı",
+      "exploreFramework": "Həll Çərçivəsini araşdırın",
+      "coreCapabilitiesTitle": "Əsas imkanlar"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Tam Texnologiya Həyat Dövrü",
+      "titlePart1": "Başdan-Uca Həll",
+      "titlePart2": "Çərçivə",
+      "description": "Biznes tələbləri, memarlıq dizaynı, mühəndislik, inteqrasiya, keyfiyyət təminatı, bulud tətbiqi və idarə olunan əməliyyatları əhatə edən strukturlaşdırılmış, tam həyat dövrü çatdırılma çərçivəsi.",
+      "startJourney": "Layihənizə başlayın",
+      "exploreFramework": "Çərçivəni araşdırın",
+      "coreCapabilities": [
+        "Tələblərin Təhlili",
+        "Memarlıq Dizaynı",
+        "Full-Stack İnkişafı",
+        "İnteqrasiya Mühəndisliyi",
+        "Keyfiyyət Təminatı",
+        "Yerləşdirmə və Yayımlama",
+        "Davam edən Əməliyyatlar",
+        "Davamlı Təkamül"
+      ],
+      "row1Eyebrow": "Strategiya və Memarlıq",
+      "row1Title": "Tələblər Mühəndisliyi və Həll Dizaynı",
+      "row1P1": "Kod sətri yazılmazdan əvvəl riski aradan qaldırmaq üçün nəzərdə tutulmuş birgə seminarlar, biznes domeninin xəritələşdirilməsi və bulud arxitekturasının spesifikasiyası.",
+      "row1P2": "Biz uzunmüddətli uğuru təmin edən məlumat modellərini, təhlükəsizlik çərçivələrini və miqyaslanma mərhələlərini müəyyən edirik.",
+      "row2Eyebrow": "Mühəndislik və Keyfiyyət",
+      "row2Title": "Full-Stack İnkişafı və Avtomatlaşdırılmış Test",
+      "row2P1": "Avtomatlaşdırılmış bölmə, inteqrasiya və təhlükəsizlik skanları ilə birləşdirilmiş modul mikroservislər, tip təhlükəsiz API-lər və cavab verən cəbhələr.",
+      "row2P2": "GitHub Actions, Terraform və avtomatlaşdırılmış təhlükəsizlik qoruyucuları ilə davamlı inteqrasiya boru kəmərləri.",
+      "row3Eyebrow": "Yerləşdirmə və Əməliyyatlar",
+      "row3Title": "Bulud Yerləşdirmə və 24/7 İdarə olunan Monitorinq",
+      "row3P1": "AWS/Azure/GCP-də çoxlu bulud orkestrasiyası, avtomatlaşdırılmış geriyə qayıtma, sıfır dayanma vaxtı kəsilmələri və real vaxt müşahidəsi.",
+      "row3P2": "Biz məhsulunuzu qüsursuz inkişaf etdirmək üçün SLA dəstəkli texniki xidmət və davamlı telemetriya monitorinqini təmin edirik.",
+      "row4Eyebrow": "Müəssisə İdarəetmə",
+      "row4Title": "Vahid İdarəetmə və Davamlı Dəstək",
+      "row4P1": "Bütün rəqəmsal yığınınız üzrə bir nöqtəli hesabatlılıq — şəffaf sprint sürəti, proqnozlaşdırıla bilən büdcələşdirmə və davamlı innovasiya.",
+      "row4P2": "Müntəzəm funksiyaların təqdim edilməsi və modernləşdirmə dövrləri müəssisənizi rəqabətdən qabaqda saxlayır.",
+      "pillarsTitle": "Həyat Dövrü Çərçivə Sütunları",
+      "pillarsSub": "Hər bir mərhələ müəssisənin ciddiliyi ilə hazırlanmışdır.",
+      "pillar1Title": "Strategiya və Tələblər",
+      "pillar1Desc": "İcra risklərini aradan qaldırmaq üçün domen kəşfi, memarlıq yol xəritələri və maraqlı tərəflərin uyğunlaşdırılması.",
+      "pillar2Title": "Memarlıq və İnşaat",
+      "pillar2Desc": "Dayanıqlı bulud-doğma mikroservislər, API inteqrasiyaları və davamlı QA testi.",
+      "pillar3Title": "Təhlükəsizlik və Yerləşdirmə",
+      "pillar3Desc": "Sıfır etibarsız təhlükəsizlik uyğunluğu, konteynerləşdirilmiş buraxılışlar və avtomatlaşdırılmış bulud yerləşdirmələri.",
+      "pillar4Title": "İdarəetmə və Dəstək",
+      "pillar4Desc": "24/7 SLA monitorinqi, sağlamlıq telemetriyası və davamlı təkamül mühəndisliyi.",
+      "ctaTitle": "Tam Həyat Dövrü Tərəfdaşına ehtiyacınız varmı?",
+      "ctaSub": "Komandanızın əsas biznes nəticələrinə diqqət yetirməsi üçün biz tam texnologiyanın həyat dövrünə sahibik.",
+      "ctaButton": "Tam Həyat dövrü üçün tərəfdaş"
+    },
+    "migrationServices": {
+      "eyebrow": "Bulud və İnfrastruktur Transformasiyası",
+      "titlePart1": "Miqrasiya və",
+      "titlePart2": "Modernləşmə",
+      "description": "Təkmil çeviklik və səmərəlilik üçün davamlı modernləşdirmə ilə birlikdə köhnə tətbiqlərin, verilənlər bazalarının və infrastrukturun müasir bulud arxitekturalarına təhlükəsiz, strukturlaşdırılmış miqrasiya.",
+      "bookAssessment": "Kitab Miqrasiyasının Qiymətləndirilməsi",
+      "exploreStrategy": "Bulud Strategiyasını araşdırın",
+      "coreCapabilities": [
+        "Bulud miqrasiyası",
+        "Tətbiqin modernləşdirilməsi",
+        "Database Miqrasiyası",
+        "İnfrastrukturun yenidən yerləşdirilməsi",
+        "Konteynerləşdirmə",
+        "Mikroxidmətlərə keçid",
+        "Performans Optimizasiyası",
+        "Təhlükəsizlik və Uyğunluq"
+      ],
+      "row1Eyebrow": "Bulud miqrasiyası",
+      "row1Title": "Çox Bulud Strategiyası və Qaldır və Optimallaşdırın",
+      "row1P1": "Avtomatlaşdırılmış kəşf, dalğa planlaması və sıfır biznes kəsilməsi ilə AWS, Azure və Google Cloud arasında problemsiz iş yükü miqrasiyası.",
+      "row1P2": "Biz ümumi sahiblik dəyərini (TCO) və çevikliyi optimallaşdırmaq üçün yenidən yerləşdirmə, replatformasiya və refaktorinqi balanslaşdırırıq.",
+      "row2Eyebrow": "Data & Database Miqrasiyası",
+      "row2Title": "Təhlükəsiz ETL və Avtomatlaşdırılmış Məlumatların Təsdiqlənməsi",
+      "row2P1": "100% məlumat tamlığının yoxlanılması ilə avtomatlaşdırılmış verilənlər bazası replikasiyası, sxemlərin tərcüməsi və yüksək məhsuldarlıqlı ETL boru kəmərləri.",
+      "row2P2": "Sıfır fasilə zamanı kəsilmə məşqi məlumatların tam ardıcıllığını və işin davamlılığını təmin edir.",
+      "row3Eyebrow": "Platformanın modernləşdirilməsi",
+      "row3Title": "Konteynerləşdirmə və Kubernetes Orkestri",
+      "row3P1": "Köhnə monolitləri avtomatlaşdırılmış IaC planları ilə Kubernetes (EKS, AKS, GKE) vasitəsilə təşkil edilən genişləndirilə bilən mikroservislərə modernləşdirin.",
+      "row3P2": "Miqrasiyadan sonrakı performans profili və xərclərin optimallaşdırılması dərhal ROI təmin edir.",
+      "row4Eyebrow": "Kesimin Planlaşdırılması",
+      "row4Title": "Avtomatlaşdırılmış Test və Geri Qaytarma Təhlükəsizlik Şəbəkələri",
+      "row4P1": "Döyüşdə sınaqdan keçirilmiş kəsim kitabçaları, avtomatlaşdırılmış reqressiya dəstləri və tam rahatlıq üçün ani geri dönmə mexanizmləri.",
+      "row4P2": "Miqrasiyadan sonrakı sağlamlıq telemetriyası və 24/7 hiper qayğı qüsursuz istehsal sabitliyinə zəmanət verir.",
+      "pillarsTitle": "Miqrasiya Təminatları",
+      "pillarsSub": "Müəssisə SLA-ları tərəfindən dəstəklənən risksiz hərəkətlər.",
+      "pillar1Title": "Sıfır-İş zamanı kəsilməsi",
+      "pillar1Desc": "Fasiləsiz istifadəçi girişini təmin etmək üçün Canary buraxılışları və verilənlər bazası ikili yazma sinxronizasiyası.",
+      "pillar2Title": "Avtomatlaşdırılmış Məlumatların Təsdiqlənməsi",
+      "pillar2Desc": "Yoxlama məbləğinin müqayisəsi, sxem bütövlüyünün yoxlanılması və avtomatlaşdırılmış ETL uzlaşması.",
+      "pillar3Title": "Geri Qaytarma Təhlükəsizlik Şəbəkələri",
+      "pillar3Desc": "Hər mərhələdə riski saxlamaq üçün ciddi fəlakətin bərpası protokolları və məşq məşqləri.",
+      "pillar4Title": "Performans və Xərclərin Optimizasiyası",
+      "pillar4Desc": "Bulud hüquqlaşdırması, avtomatik miqyaslama siyasətləri və xərclərin idarə edilməsi panelləri daxildir.",
+      "ctaTitle": "Tam Güvənlə Köçməyə Hazırsınız?",
+      "ctaSub": "Strukturlaşdırılmış, risksiz bulud və məlumatların modernləşdirilməsi üçün Rezonants ilə partnyor.",
+      "ctaButton": "Miqrasiya seminarınızı planlaşdırın"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Sürətli Qiymətləndirmə və Fizibilite",
+      "titlePart1": "Konsepsiya sübutu (PoC) &",
+      "titlePart2": "Pilot Tətbiq",
+      "description": "Tam miqyaslı tətbiqdən əvvəl texniki mümkünlüyünü, biznes dəyərini, inteqrasiya tələblərini, performansı və miqyaslılığı qiymətləndirmək üçün texnologiya həllərinin sürətli inkişafı və təsdiqi.",
+      "initiateDiscovery": "PoC kəşfini işə salın",
+      "exploreDevelopment": "Fərdi İnkişafı araşdırın",
+      "coreCapabilities": [
+        "PoC İnkişafı",
+        "Prototip Mühəndisliyi",
+        "Texniki-iqtisadi əsaslandırmalar",
+        "Arxitektura Təsdiqi",
+        "İnteqrasiya Testi",
+        "Performans müqayisəsi",
+        "Pilot Yerləşdirmə",
+        "Dəyərlərin Qiymətləndirilməsi"
+      ],
+      "row1Eyebrow": "Sürətli Qiymətləndirmə",
+      "row1Title": "Konsepsiyadan Təsdiqlənmiş Fizibiliteye",
+      "row1P1": "İdeyanı müəssisə miqyaslı həllə çevirmək ciddi ilkin yoxlama tələb edir. PoC & Pilot xidmətimiz texnologiyanın davamlılığını qiymətləndirir, kritik inteqrasiya qarmaqlarını stress-test edir və əsas kapital öhdəliklərindən əvvəl biznes ROI-ni təsdiqləyir.",
+      "row1P2": "Biz texniki mümkünlüyünü sübut edən, sistemin gecikməsini ölçən və birbaşa maraqlı tərəflərin doğruluğunu erkən toplayan yüksək dəqiqliyə malik MVP-lər və diqqətli sandbox pilotları qururuq.",
+      "row1Cap": "Sürətli MVP Prototipləşdirmə və Texniki Qiymətləndirmələr",
+      "row2Eyebrow": "Çevik Prototipləşdirmə",
+      "row2Title": "İnteraktiv MVP və UX Təsdiqləmə",
+      "row2P1": "Biz interaktiv tel çərçivələri, tıklana bilən istifadəçi axınları və funksional sübut-konseptləri aylarla deyil, günlərlə qururuq. Həqiqi istifadəçi qarşılıqlı əlaqəsini sınayın, UI/UX nümunələrini təkmilləşdirin və maraqlı tərəflərdən təsirli rəy toplayın.",
+      "row2P2": "İlkin inkişaf zamanı geribildirim dövrələrini qısaltmaqla, komandanız yenidən işləri minimuma endirir və kapital tutumlu tikinti mərhələləri başlamazdan əvvəl aydın texniki spesifikasiyalar müəyyən edir.",
+      "row2Cap": "Sürətli İterasiya və Tıklana bilən UX Prototipləri",
+      "row3Eyebrow": "İnteqrasiya və Ölçeklenebilirlik Testi",
+      "row3Title": "Riskli Kompleks Sistem İnteqrasiyaları",
+      "row3P1": "Tam kapital öhdəliyindən əvvəl texniki darboğazları, API məhdudiyyətlərini və performans məhdudiyyətlərini aşkar edin. Pilot mühəndis komandamız təcrid olunmuş sandbox mühitlərində inteqrasiyaları, məlumat boru kəmərlərini və üçüncü tərəf API-lərini stress-test edir.",
+      "row3P2": "Bu proaktiv riskin azaldılması PoC-nizi müəssisə istehsalına keçirərkən yüksək sistem əlçatanlığını, təhlükəsizliyə uyğunluğu və proqnozlaşdırıla bilən inkişaf qrafiklərini təmin edir.",
+      "row3Cap": "Sandbox İnteqrasiyası və Stress Testi",
+      "row4Eyebrow": "Nəzarət olunan İstehsalat Pilotu",
+      "row4Title": "Məqsədli Pilot Başlanğıc və Biznes Case Validasiyası",
+      "row4P1": "Seçilmiş istifadəçi seqmentinə və ya sınaq bazarına hədəflənmiş pilot buraxılışları yerləşdirin. Biznesin dəyərini ölçmək və dataya əsaslanan biznes işi qurmaq üçün performans göstəricilərini, istifadəçi qəbulu analitikasını və əməliyyat rəyini izləyin.",
+      "row4P2": "Real dünya pilot fikirləri ilə icraçı sponsorlar daha geniş yerləşdirmə və strateji rəqəmsal transformasiya investisiyalarını əsaslandırmaq üçün aydın ROI göstəriciləri əldə edirlər.",
+      "row4Cap": "Nəzarət olunan Yerləşdirmə və Performans Telemetriyası",
+      "pillarsTitle": "Pilot Mühəndislik Prinsiplərimiz",
+      "pillarsSub": "Texniki qeyri-müəyyənliyi proqnozlaşdırıla bilən biznes uğuruna çevirən rəhbər prinsiplər.",
+      "pillar1Title": "PoC və MVP Prototipləmə",
+      "pillar1Desc": "Həyat dövrünün əvvəlində dəyər təkliflərini təsdiqləmək üçün funksional prototipləri sürətlə çatdırın.",
+      "pillar2Title": "Fizibilite və Qiymətləndirmə",
+      "pillar2Desc": "Sandbox mühitlərində API uyğunluğunu, ötürmə hədlərini və uyğunluq məhdudiyyətlərini yoxlayın.",
+      "pillar3Title": "Ölçeklenebilirliğin Qiymətləndirilməsi",
+      "pillar3Desc": "Tutum limitlərini təyin etmək və bulud arxitekturasının ölçüsünü müəyyən etmək üçün istehsal yükünü simulyasiya edin.",
+      "pillar4Title": "Biznes Case Validasiyası",
+      "pillar4Desc": "Müəssisə miqyasında təqdimetmə qərarlarını dəstəkləmək üçün nəzərəçarpacaq ROI və məhsuldarlıq göstəricilərini ölçün.",
+      "ctaTitle": "Növbəti rəqəmsal həllinizi təsdiqləməyə hazırsınız?",
+      "ctaSub": "Layihə tələblərinizi araşdırmaq, prototip yaratmaq və mümkünlüyünü sıfır risklə sınaqdan keçirmək üçün həll mühəndisliyi komandamızla əlaqə saxlayın.",
+      "ctaButton": "PoC Konsultasiyası sifariş edin"
+    },
+    "sharedServices": {
+      "eyebrow": "Mərkəzləşdirilmiş Əməliyyatlar Qovşağı",
+      "titlePart1": "Paylaşılan Xidmətlər və",
+      "titlePart2": "İdarə olunan Əməliyyatlar",
+      "description": "Standartlaşdırılmış proseslər, ixtisaslı resurslar, idarəetmə çərçivələri, xidmətin idarə edilməsi və ölçülə bilən xidmət səviyyələri vasitəsilə biznes bölmələri arasında texnologiya və əməliyyat imkanlarının mərkəzləşdirilmiş şəkildə çatdırılması.",
+      "bookDiscovery": "Kitabın İdarə olunan Əməliyyatlar Kəşfi",
+      "exploreFramework": "Həll Çərçivəsini araşdırın",
+      "coreCapabilities": [
+        "İdarə olunan Xidmətlər",
+        "İT Əməliyyatları",
+        "Proqram dəstəyi",
+        "Xidmətin İdarə Edilməsi",
+        "Resursların optimallaşdırılması",
+        "SLA İdarəetmə",
+        "İdarəetmə",
+        "Davamlı Təkmilləşdirmə",
+        "Xərclərin optimallaşdırılması"
+      ],
+      "row1Eyebrow": "Vahid Çatdırılma Mərkəzi",
+      "row1Title": "Bütün Biznes Bölmələrində Standartlaşdırılmış Xidmətlər",
+      "row1P1": "Bək-ofis İT, infrastrukturun idarə edilməsi və texniki dəstəyi vahid yüksək səmərəli çatdırılma mərkəzində birləşdirin.",
+      "row1P2": "Təkrarlanan komanda məsrəflərini aradan qaldıraraq və xidmət göstərmə modellərini standartlaşdırmaqla, təşkilatınız ardıcıl keyfiyyəti təmin edir və ümumi əməliyyat xərclərini azaldır.",
+      "row2Eyebrow": "24/7 SRE və Tətbiq Dəstəyi",
+      "row2Title": "Proaktiv Monitorinq və Hadisələrin Sürətli Həlli",
+      "row2P1": "Bizim xüsusi Sahə Etibarlılığı Mühəndislərimiz (SRE) və dəstək mütəxəssislərimiz 24/7/365 telemetriya monitorinqi, avtomatlaşdırılmış xəbərdarlıq triajı və L1/L2/L3 probleminin sürətli həllini təmin edir.",
+      "row2P2": "Ciddi SLA öhdəlikləri ilə dəstəklənən biz missiya baxımından kritik proqramlarınız və bulud infrastrukturunuz üçün 99,99% əlçatanlığa zəmanət veririk.",
+      "row3Eyebrow": "ITIL İdarəetmə və Uyğunluq",
+      "row3Title": "Strukturlaşdırılmış Xidmət İdarəetmə Çərçivələri",
+      "row3P1": "Şəffaf biletləmə, kök səbəb təhlilləri və dəyişikliklərin idarə olunması qoruyucuları ilə sənayedə aparıcı ITSM standartlarını (ServiceNow, Jira Service Management) tətbiq edin.",
+      "row3P2": "Kompleks audit yolları və idarəetmə siyasətləri əməliyyatlarınızın beynəlxalq təhlükəsizlik standartlarına uyğun olmasını təmin edir.",
+      "row4Eyebrow": "FinOps & Davamlı Təkmilləşdirmə",
+      "row4Title": "Proqnozlaşdırıla bilən Büdcə və Resurs Optimizasiyası",
+      "row4P1": "FinOps-un ən yaxşı təcrübələri ilə bulud israfını aradan qaldırın, hesablama ölçülərini optimallaşdırın və gündəlik əməliyyat xidməti avtomatlaşdırın.",
+      "row4P2": "Aylıq şəffaflıq hesabatları və potensial proqnozları davamlı əməliyyat xərclərinin optimallaşdırılmasını və kapitalın yüksək səmərəliliyini təmin edir.",
+      "pillarsTitle": "Əməliyyat sütunları",
+      "pillarsSub": "Etibarlı müəssisə miqyası üçün sübut edilmiş əməliyyat rıçaqları.",
+      "pillar1Title": "24/7 idarə olunan İT Əməliyyatları",
+      "pillar1Desc": "Proaktiv NOC telemetriyası, server yamaqları, infrastruktura texniki qulluq və 99,99% iş vaxtı zəmanəti.",
+      "pillar2Title": "ITSM və Xidmət Masası",
+      "pillar2Desc": "Səviyyə 1/2/3 çoxkanallı yardım masası, insidentlərin marşrutlaşdırılması və strukturlaşdırılmış bilet həlli iş axınları.",
+      "pillar3Title": "SLA & Performance Control",
+      "pillar3Desc": "Müqavilə əsasında dəstəklənən cavab vaxtları, MTTR göstəriciləri və şəffaf aylıq performans auditləri.",
+      "pillar4Title": "FinOps və Xərclərin Optimizasiyası",
+      "pillar4Desc": "Davamlı resurs hüququ ölçüsü, lisenziyanın bərpası və avtomatlaşdırılmış bulud xərclərinin azaldılması.",
+      "ctaTitle": "İdarə olunan əməliyyatlarınızı miqyaslandırmağa hazırsınız?",
+      "ctaSub": "Xərcləri optimallaşdıran və əməliyyat fasilələrini aradan qaldıran etibarlı, 24/7 idarə olunan xidmətlər üçün Rezonants ilə tərəfdaş olun.",
+      "ctaButton": "İdarə olunan Əməliyyatlar üzrə Məsləhətləşməni sifariş edin",
+      "howItWorksHeading": "Paylaşılan xidmətlərin uğuruna aparan sübut edilmiş yol"
+    },
+    "aiRobotics": {
+      "brand": "AI və Robototexnika",
+      "eyebrow": "Ağıllı sistemlər",
+      "heroHeading": "AI və Robototexnika birlikdə işləyir",
+      "intro": "Süni intellekt (AI) və robototexnika, ağıllı qərar qəbul etməyi qabaqcıl avtomatlaşdırma ilə birləşdirərək biznesin fəaliyyət tərzini dəyişdirir. Süni intellekt maşınlara məlumatları təhlil etməyə, nümunələri öyrənməyə və ağıllı qərarlar qəbul etməyə imkan verir, robototexnika isə tapşırıqları sürət, dəqiqlik və ardıcıllıqla yerinə yetirmək üçün bu imkanları fiziki dünyaya gətirir.",
+      "section1Heading": "Hər əməliyyatı sadələşdirmək üçün qurulmuşdur",
+      "section1Text": "Süni intellekt və Robototexnika həllərimiz təşkilatlara əməliyyatları sadələşdirməyə, əl işlərini azaltmağa və müxtəlif sənaye sahələrində məhsuldarlığı artırmağa kömək edir. Proseslərin avtomatlaşdırılmasından və proqnozlaşdırıcı analitikadan tutmuş ağıllı robototexnika və intellektual sistemlərə qədər biz səmərəliliyi artıran, böyüməyə təkan verən və rəqəmsal transformasiyanı dəstəkləyən innovativ texnologiyalar təqdim edirik.",
+      "section2Heading": "Kəşfiyyatın hərəkətlə qarşılaşdığı yerdə",
+      "section2Text": "Hər bir qarşılıqlı əlaqə, qərar və hərəkət vahid əlaqəli sistem tərəfindən təmin edilir - məlumatları real vaxtda nəticələrə çevirir.",
+      "footerTag": "Rəqəmsal transformasiya üçün innovativ texnologiya"
+    },
+    "informationReporting": {
+      "brand": "Müəssisə Məlumat Platforması",
+      "heroTitle": "Məlumat və Hesabat Sistemləri",
+      "heroSubtitle": "Hər bir departament üçün yeganə həqiqət mənbəyi - xam əməliyyat məlumatlarını biznesinizin bu gün hərəkət edə biləcəyi qərarlara çevirmək üçün qurulmuşdur.",
+      "statusLive": "CANLI",
+      "statusAnalyzed": "TƏHLİL EDİLMİŞDİR",
+      "statusArchived": "ARXİV OLUNUB",
+      "statusPending": "GÖZLƏNİR",
+      "metricUptime": "Sistemin işləmə müddəti",
+      "metricSessions": "Aktiv Sessiyalar",
+      "metricReportsPerDay": "Hesabatlar / Gün",
+      "metricEvents": "Gündəlik qəbul edilən hadisələr",
+      "metricReports": "Planlaşdırılmış Hesabatlar",
+      "metricLatency": "API gecikməsi",
+      "unifiedPlatform": "Vahid Platforma",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Hesabat Konsolu",
+      "businessOutcome": "Biznes Nəticəsi",
+      "section1Heading": "Əhəmiyyətli olan hər bir metrik üçün bir mərkəzləşdirilmiş sistem",
+      "section1P1": "Məlumat və Hesabat Sistemləri təşkilatlara məlumatları toplamaq, idarə etmək və mənalı fikirlərə çevirmək imkanı verən əsas biznes həlləridir. Bu sistemlər kritik biznes məlumatlarına dəqiq, ardıcıl və real vaxtda çıxışı təmin edərək, bir çox departamentlərdən məlumatları inteqrasiya edir. Məlumatın idarə edilməsi üçün mərkəzləşdirilmiş platforma təmin etməklə, təşkilatlar əməliyyat görmə qabiliyyətini yaxşılaşdıra, iş axınlarını sadələşdirə və müəssisənin bütün səviyyələrində strateji qərarların qəbulunu dəstəkləyə bilər.",
+      "section1P2": "Bu sistemlər performansı izləmək, əsas ölçülərə nəzarət etmək və real vaxt hesabatları yaratmaq üçün avtomatlaşdırılmış hesabat, analitika və tablosundan istifadə edir. Əl səylərini azaltmaqla və məlumatların dəqiqliyini təkmilləşdirməklə bizneslər daha sürətli və daha effektiv qərarlar qəbul edə bilərlər.",
+      "section2Heading": "Görünüş, uyğunluq və miqyas üçün yaradılmışdır",
+      "section2Text": "Təkmil görünmə, uyğunluq və əməkdaşlıq ilə İnformasiya və Hesabat Sistemləri təşkilatlara prosesləri optimallaşdırmağa, məhsuldarlığı yaxşılaşdırmağa və rəqabət mühitində davamlı biznes artımını təmin etməyə imkan verir.",
+      "ctaHeading": "Hər komandaya biznesin eyni real vaxt şəklini verin.",
+      "ctaText": "Nexus Data Systems-in hesabatlarınızı bir ağıllı platformada necə birləşdirə biləcəyinə baxın.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Bütün hüquqlar qorunur.",
+      "navOverview": "Ümumi baxış",
+      "navCapabilities": "Bacarıqlar",
+      "navImpact": "Təsir",
+      "navContact": "Əlaqə"
+    },
+    "managedServices": {
+      "subtitle": "Biznesiniz üçün hərtərəfli idarə olunan xidmətlər"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Məlumata əsaslanan müəssisə üçün Biznes Tətbiqlərinin Modernləşdirilməsi",
+      "excerpt": "Müasir tətbiq arxitekturası və əlaqəli verilənlər əməliyyat səmərəliliyini, miqyasını və biznesin görünməsini necə təkmilləşdirə bilər.",
+      "tag": "Biznesin transformasiyası",
+      "category": "BİZNES TRANSFORMASİYASI",
+      "summary": "Müasir proqram və məlumat bazası müəssisələrə əməliyyat səmərəliliyini artırmağa, biznes sistemlərini birləşdirməyə və əməliyyatları arasında daha yaxşı görünürlük yaratmağa kömək edə bilər."
+    },
+    "artificial-intelligence": {
+      "title": "Süni intellekt müəssisə proqramlarını necə formalaşdırır",
+      "excerpt": "Ağıllı avtomatlaşdırma, süni intellekt kopilotları və proqnozlaşdırıcı zəkanın bizneslərin hər gün etibar etdiyi müəssisə proqramlarının bir hissəsinə çevrildiyini araşdırın.",
+      "tag": "Süni intellekt",
+      "category": "SUNİ İNTELEKT",
+      "summary": "Ağıllı avtomatlaşdırma, AI kopilotları və proqnozlaşdırıcı intellektin gündəlik korporativ proqram təminatını adaptiv, proaktiv platformalara necə çevirdiyini araşdırın."
+    },
+    "modern-erp": {
+      "title": "Müasir ERP ilə Biznes Transformasiyasının Sürətləndirilməsi",
+      "excerpt": "Müasir ERP platformalarının maliyyə, satınalma, təchizat zənciri və biznes əməliyyatlarını vahid rəqəmsal təməl vasitəsilə necə birləşdirdiyini araşdırın.",
+      "tag": "Müasir ERP",
+      "category": "MODERN ERP",
+      "summary": "Müasir ERP platforması maliyyə, satınalma, təchizat zənciri və biznes əməliyyatlarını vahid, real vaxt rejimində əməliyyat modelinə birləşdirir."
+    },
+    "cybersecurity": {
+      "title": "Əlaqəli Müəssisədə Kiber Dayanıqlılığın Yaradılması",
+      "excerpt": "Təşkilatların təhlükəsizliyi necə gücləndirə biləcəyini, kritik sistemləri qoruya biləcəyini və getdikcə daha çox əlaqəli mühitlərdə təhdidlərə necə hazırlaşacağını araşdırın.",
+      "tag": "Kibertəhlükəsizlik",
+      "category": "KİBERTƏHLÜKƏSİZLİK",
+      "summary": "Müəssisələr daha çox bulud sistemləri, API-lər və tərəfdaş ekosistemləri birləşdirdikcə, kiber davamlılıq kritik missiya əməliyyatlarının müasir təhlükələrə tab gətirməsini təmin edir."
+    },
+    "cloud-modernization": {
+      "title": "Bulud üçün köhnə proqramların modernləşdirilməsi",
+      "excerpt": "Köhnə tətbiqlərin qiymətləndirilməsi, modernləşdirilməsi və miqyaslana bilən, təhlükəsiz bulud arxitekturasına keçməsi üçün praktiki yanaşmanı araşdırın.",
+      "tag": "Bulud və Modernləşmə",
+      "category": "BULUD VƏ MODERNİZASİYA",
+      "summary": "Monolit korporativ sistemləri elastik, saxlanıla bilən bulud arxitekturalarına qiymətləndirmək, refaktor etmək və köçürmək üçün strukturlaşdırılmış, praqmatik yol xəritəsi."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "BİZNES TRANSFORMASİYASI",
+      "title": "Məlumata əsaslanan müəssisə üçün Biznes Tətbiqlərinin Modernləşdirilməsi",
+      "subtitle": "Müasir tətbiqetmə və məlumat bazası müəssisələrə əməliyyat səmərəliliyini artırmağa, biznes sistemlərini birləşdirməyə və əməliyyatları arasında daha yaxşı görünürlük yaratmağa kömək edə bilər.",
+      "date": "sentyabr 2026",
+      "readTime": "7 dəq oxu",
+      "imageCaption": "Müəssisə Texnologiyası Perspektivi — Tətbiq Arxitekturası və Əlaqəli Məlumat",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Biznes Proqramları",
+          "desc": "Siloslarda işləyən fərqli köhnə CRM, ERP və departament alətləri."
+        },
+        {
+          "title": "Çoxsaylı Məlumat Mənbələri",
+          "desc": "Parçalanmış əməliyyat cədvəlləri, CSV çıxarışları və ad-hoc sxemləri."
+        },
+        {
+          "title": "Əlaqəsi kəsilmiş verilənlər bazaları",
+          "desc": "İzolyasiya edilmiş yerli və razılaşdırılmamış bulud məlumat anbarları."
+        },
+        {
+          "title": "Hesabatlar və Biznes İstifadəçiləri",
+          "desc": "Əl ilə uzlaşmalar, ziddiyyətli cədvəllər və gecikmiş hesabatlar."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Biznes Proqramları",
+          "desc": "Əsas əməliyyat platformaları və müasir cavab verən interfeyslər."
+        },
+        {
+          "title": "API / İnteqrasiya Layeri",
+          "desc": "Müəssisə iş axınlarını birləşdirən təhlükəsiz, hadisəyə əsaslanan API şlüzü."
+        },
+        {
+          "title": "Məlumat Xidmətləri",
+          "desc": "Vahid əsas məlumat modelləri, boru kəmərləri və optimallaşdırılmış yaddaş mühərrikləri."
+        },
+        {
+          "title": "Analitika və Hesabat",
+          "desc": "Real vaxtda telemetriya, semantik modellər və avtomatlaşdırılmış hesabat."
+        },
+        {
+          "title": "Biznes Qərar Qəbul edənlər",
+          "desc": "Vahid icraçı görünürlüğünü təmin edən canlı əməliyyat panelləri."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Müəssisə Proqramları",
+          "purpose": "Biznes prosesinin idarə edilməsi"
+        },
+        {
+          "area": "API",
+          "purpose": "Sistem inteqrasiyası"
+        },
+        {
+          "area": "verilənlər bazası",
+          "purpose": "Strukturlaşdırılmış biznes məlumatları"
+        },
+        {
+          "area": "Məlumatların İnteqrasiyası",
+          "purpose": "Çoxsaylı mənbələri birləşdirmək"
+        },
+        {
+          "area": "Analitika",
+          "purpose": "Biznes anlayışları"
+        },
+        {
+          "area": "Bulud İnfrastruktur",
+          "purpose": "Ölçeklenebilirlik və çeviklik"
+        },
+        {
+          "area": "Monitorinq",
+          "purpose": "Etibarlılıq və performans"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Çarpaz funksional bölmələr arasında təkmilləşdirilmiş əməliyyat görünürlüğü",
+        "Daha yaxşı məlumat ardıcıllığı və müəssisə həqiqətinin vahid mənbəyi",
+        "Azaldılmış əl hesabatı və avtomatlaşdırılmış məlumatların yığılması",
+        "Təkmilləşdirilmiş proqram performansı və azaldılmış əməliyyat gecikməsi",
+        "Standartlaşdırılmış, təhlükəsiz API-lər vasitəsilə daha asan sistem inteqrasiyası",
+        "Üzvi böyüməni və əldə etməyi dəstəkləmək üçün daha geniş miqyaslılıq",
+        "Gələcək innovasiyalar və kəşfiyyatın mənimsənilməsi üçün daha yaxşı təməl"
+      ],
+      "keyPerspectivePoints": [
+        "Biznes prosesləri və real əməliyyat iş axınlarını başa düşmək",
+        "Etibarlı inteqrasiya standartları vasitəsilə sistemlərin birləşdirilməsi",
+        "Məlumat keyfiyyətinin, idarəetmənin və əsas məlumat modellərinin təkmilləşdirilməsi",
+        "Gündəlik əməliyyatları sabitləşdirmədən proqramların modernləşdirilməsi",
+        "Elastik böyümə üçün uyğun miqyaslı arxitekturanın yaradılması",
+        "Proaktiv qərar qəbul etmək üçün biznesin daha yaxşı görünməsini təmin etmək"
+      ],
+      "sec1Eyebrow": "BİZNES CHALENGE",
+      "sec1Heading": "Böyüyən Müəssisədə Mürəkkəbliyin Naviqasiyası",
+      "sec1Subtext": "Biznes miqyası artdıqca texnologiya ekosistemləri qaçılmaz olaraq genişlənir. Ayrı-ayrı departamentlər üçün yönəlmiş həllər kimi başlayan şey, fərqli sistemlərin dolaşıq şəbəkəsinə çevrilə bilər.",
+      "sec2Eyebrow": "SİSTEMİN TƏKAMÜLÜ",
+      "sec2Heading": "Kompleks Texnologiya Landşaftı",
+      "sec2Subtext": "Köhnə proqram izləri məlumat anbarları, istifadəçi təcrübələri və əməliyyat görünürlüğü arasında parçalanma təqdim edir.",
+      "sec3Eyebrow": "BAŞLI MODEL",
+      "sec3Heading": "Müasir Tətbiq Memarlığı",
+      "sec3Subtext": "Təhlükəsiz API-lər və hadisələrə əsaslanan məlumat axını ilə bir-birinə bağlı olan monolit siloslardan ayrılmış xidmətlərə keçid.",
+      "sec4Eyebrow": "KAZA VƏ GÖRÜNÜRLÜK",
+      "sec4Heading": "Əlaqəli Məlumat və Analitika",
+      "sec4Subtext": "Avtomatlaşdırılmış hesabatları, vahid idarə panellərini və aktiv biznes qərarlarını gücləndirmək üçün məlumat siloslarının kilidini açmaq.",
+      "sec5Eyebrow": "MEMARLIQ BLUEPRINT",
+      "sec5Heading": "Texnologiya Fondu",
+      "sec5Subtext": "Müəssisə miqyasında əlaqə və miqyaslılığı təmin edən əsas memarlıq təbəqələrinin strukturlaşdırılmış görünüşü.",
+      "sec6Eyebrow": "KEYFİYYƏT DƏYƏRİ",
+      "sec6Heading": "Biznesə Təsir",
+      "sec6Subtext": "Tətbiqin modernləşdirilməsi və əlaqəli məlumat bazaları vasitəsilə ölçülə bilən əməliyyat gəlirləri.",
+      "ctaHeading": "Müəssisə Tətbiq Landşaftınızı Müasirləşdirməyə Hazırsınız?",
+      "ctaDescription": "Vahid proqram platformalarını və müasir məlumat kəmərlərini arxitektor etmək, qurmaq və yerləşdirmək üçün Rezonants-in rəhbərliyinizlə necə əməkdaşlıq edə biləcəyini araşdırın.",
+      "ctaButton": "Müəssisə Arxitektoru ilə danışın",
+      "sec1P1": "Tipik korporativ mühitdə artım tez-tez proqram təminatının çoxsaylı nəsillərini təqdim edir. Maliyyə, təchizat zənciri, müştəri xidməti və sahə əməliyyatları çox vaxt müxtəlif vaxtlarda əldə edilmiş və ya qurulmuş ayrı-ayrı proqram təminatı yığınlarında işləyir. Əməliyyat təkamülü illərində bu sistemlər öz məlumat formatlarını inkişaf etdirir, kadansları və inteqrasiya xüsusiyyətlərini yeniləyir.",
+      "sec1P2": "Sürtünmə müəssisədə ümumi əməliyyat darboğazları vasitəsilə özünü göstərir:",
+      "sec1List": [
+        {
+          "bold": "Çoxlu əlaqəsi kəsilmiş biznes proqramları",
+          "text": "dublikat məlumatların daxil edilməsi və əllə çarpaz istinad tələb olunur."
+        },
+        {
+          "bold": "Bağlantısı kəsilmiş verilənlər bazaları",
+          "text": "mərkəzləşdirilmiş idarəetmə və ya vahid əsas qeydlər olmadan fəaliyyət göstərir."
+        },
+        {
+          "bold": "Manual hesabatın əlavə xərcləri",
+          "text": ", burada analitik qruplar fikirlər açmaq əvəzinə, ixracı birləşdirməyə günlər sərf edirlər."
+        },
+        {
+          "bold": "Məlumat uyğunsuzluğu",
+          "text": "şöbələr arasında əsas əməliyyat suallarına ziddiyyətli cavablar yaradır."
+        },
+        {
+          "bold": "Tətbiqə texniki xidmət yükü və genişlənmə məhdudiyyətləri",
+          "text": ", çünki kövrək miras nöqtədən nöqtəyə bağlantılar artan əməliyyat həcmlərini dəstəkləmək üçün mübarizə aparır."
+        }
+      ],
+      "sec1P3": "Bu problemlərin həlli texnologiya mənzərəsinə təcrid olunmuş proqram təminatı alışları toplusu kimi deyil, strateji çevikliyi dəstəkləmək üçün nəzərdə tutulmuş bir-biri ilə əlaqəli biznes platforması kimi baxmağı tələb edir.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Parçalanmış İnformasiya axını",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Məlumat Silosları",
+          "desc": "Mühüm müştəri, maliyyə və inventar məlumatları departament platformalarında qapalı olaraq qalır və biznes əməliyyatlarının vahid vahid görünüşünün qarşısını alır."
+        },
+        {
+          "num": "02",
+          "title": "İnteqrasiya Boşluqları",
+          "desc": "Nöqtədən-nöqtəyə keçidlər və gecələr toplu çıxarışlar əməliyyat qrupları arasında gecikmə, yüksək uğursuzluq dərəcələri və bahalı texniki xidmət xərcləri yaradır."
+        },
+        {
+          "num": "03",
+          "title": "Gecikmiş məlumat",
+          "desc": "Rəhbərlər performansı başa düşmək üçün ay sonu uzlaşmasını günlərlə gözləməli olduqda, qərarların qəbulu proqnozlaşdırıcı deyil, reaktivdir."
+        }
+      ],
+      "modernArchitectureBadge": "Hədəf Memarlığı",
+      "modernArchitectureTitle": "Əlaqəli Müəssisə Tətbiq Modeli",
+      "sec3P1": "Müasir tətbiq arxitekturası kövrək nöqtə-nöqtə birləşmələrini çevik, ayrılmış təməl ilə əvəz edir. Güclü API və inteqrasiya qatı yaratmaqla sistemlər ayrı-ayrı biznes bölmələrinin muxtariyyətini qoruyaraq idarə olunan, təhlükəsiz son nöqtələr vasitəsilə qarşılıqlı əlaqədə olur.",
+      "sec3P2": "Bu memarlıq dəyişikliyinin əsas texniki imkanlarına aşağıdakılar daxildir:",
+      "sec3List": [
+        {
+          "bold": "Tətbiqin modernləşdirilməsi:",
+          "text": "Əsas biznes məntiqini genişləndirilə bilən modul xidmətlərə ayırmaq."
+        },
+        {
+          "bold": "API inteqrasiyası:",
+          "text": "Daxili və tərəfdaşların qarşılıqlı əlaqəsi üçün standartlaşdırılmış, sənədləşdirilmiş interfeyslərin yaradılması."
+        },
+        {
+          "bold": "Məlumat inteqrasiyası və verilənlər bazasının optimallaşdırılması:",
+          "text": "Yüksək məhsuldarlıqlı sorğu optimallaşdırması ilə əməliyyat məlumat boru kəmərlərinin birləşdirilməsi."
+        },
+        {
+          "bold": "Müşahidə oluna bilənlik və təhlükəsizlik:",
+          "text": "Bütün xidmətlərdə mərkəzləşdirilmiş telemetriya, audit yolları və rol əsaslı giriş nəzarətlərinin həyata keçirilməsi."
+        }
+      ],
+      "sec4P1": "İnteqrasiya edilmiş məlumat əsasları rəhbərlik və əməliyyat qruplarının məlumatla qarşılıqlı əlaqəsini dəyişdirir. Həftələr əvvəl baş verənləri göstərən retrospektiv hesabatlara etibar etmək əvəzinə, təşkilatlar biznes bölmələri arasında canlı operativ telemetriya əldə edirlər.",
+      "sec4P2": "Əlaqəli məlumat və analitika davamlı biznes nəticələrini aşağıdakılar vasitəsilə dəstəkləyir:",
+      "sec4List": [
+        {
+          "bold": "Əməliyyat görmə:",
+          "text": "Satış, inventar, icra və maliyyə göstəriciləri üzrə davamlı şəffaflıq."
+        },
+        {
+          "bold": "Daha sürətli hesabat kadansları:",
+          "text": "Təkrarlanan əl cədvəllərini aradan qaldıran tələb üzrə məlumatların yığılması."
+        },
+        {
+          "bold": "Ardıcıl məlumat:",
+          "text": "Marja, müştərinin ömrü boyu dəyəri və aparıcı sürət kimi ölçülər üçün vahid təriflər."
+        },
+        {
+          "bold": "Daha yaxşı biznes anlayışları:",
+          "text": "Riskləri və fürsətləri vaxtından əvvəl üzə çıxaran proqnozlaşdırılan nümunə aşkarlanması."
+        },
+        {
+          "bold": "Təkmilləşdirilmiş qərar qəbuletmə:",
+          "text": "Təsdiqlənmiş məlumat xətti və şəffaflıqla dəstəklənən inamlı icraedici fəaliyyət."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEJİ PERSPEKTİV",
+      "keyPerspectiveTitle": "Modernləşmə proqram təminatının dəyişdirilməsindən daha çox şeydir",
+      "keyPerspectiveLead": "Biznes proqramlarının modernləşdirilməsi sadəcə olaraq köhnə proqram təminatını yeni alətlərlə əvəz etmək deyil. Bu, texnologiyanın biznesin necə işlədiyi, ölçüləndiyi və dəyər verdiyi ilə qəsdən uyğunlaşdırılmasıdır."
+    },
+    "artificialIntelligence": {
+      "category": "SUNİ İSTEK",
+      "title": "Süni intellekt müəssisə proqramlarını necə dəyişdirir",
+      "subtitle": "Ağıllı avtomatlaşdırma, süni intellekt kopilotları və proqnozlaşdırıcı zəkanın bizneslərin hər gün etibar etdiyi müəssisə proqramlarının bir hissəsinə çevrildiyini araşdırın.",
+      "date": "sentyabr 2026",
+      "readTime": "6 dəqiqə oxudu",
+      "imageCaption": "Müəssisə Texnologiyası Perspektivi — Yerli İntellekt və Avtomatlaşdırılmış İş Akışları",
+      "aiUseCases": [
+        {
+          "title": "Təchizat Zəncirinin Proqnozlaşdırılması",
+          "desc": "Tarixi təchizatçı telemetriyasından tələb artımlarının və logistik gecikmələrin proqnozlaşdırılması."
+        },
+        {
+          "title": "Avtomatlaşdırılmış faktura auditi",
+          "desc": "Sətir elementlərinin çıxarılması və sıfır insan girişi ilə alış sifarişləri ilə uyğunlaşdırılması."
+        },
+        {
+          "title": "Ağıllı Xidmət Masaları",
+          "desc": "Tier-1 işçilərinin İT və HR sorğularının təyini və avtomatlaşdırılmış həlli."
+        },
+        {
+          "title": "Müştərilərin Qarşısının Alınması",
+          "desc": "Proaktiv yardım üçün erkən sürtünmə siqnallarını müəyyən edən davranış qruplaşması."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Real vaxtda proqnozlaşdırılan modellər tərəfindən idarə olunan daha sürətli əməliyyat qərarları",
+        "Təkrarlanan məlumatların işlənməsi və əl ilə uzlaşdırmaların azalması",
+        "Kontekstli köməkçi pilot yardımı ilə daha yüksək işçi məhsuldarlığı",
+        "Hiper-fərdiləşdirilmiş təcrübələr vasitəsilə təkmilləşdirilmiş müştəri məmnuniyyəti",
+        "Real telemetriyaya əsaslanan davamlı prosesin özünü optimallaşdırması",
+        "Avtomatlaşdırılmış audit jurnalı yoxlaması vasitəsilə riskdən azad edilmiş uyğunluq izləmə"
+      ],
+      "governancePoints": [
+        "AI modellərinin heç vaxt həssas məlumatları sızdırmamasını təmin edən ciddi rol əsaslı giriş",
+        "İnsanın yüksək dəyərli hərəkətləri nəzərdən keçirməsinə imkan verən şəffaf əsaslandırma izləri",
+        "Halüsinasiya və qərəzdən qorunmaq üçün davamlı model qiymətləndirməsi",
+        "GDPR, SOC 2 və HIPAA ilə uyğunlaşan ciddi məlumat mənşəli standartları",
+        "Qeyri-müəyyən kənar şərtlər üçün insan-in-the-loop eskalasiya yolları"
+      ],
+      "sec1Eyebrow": "DOĞAL ZƏKALƏYƏ KEÇİŞ",
+      "sec1Heading": "Müəssisə Tətbiqlərində AI",
+      "sec1Subtext": "Süni intellekt müstəqil təcrübədən kənara çıxaraq gündəlik korporativ sistemlərin əsas strukturuna keçir.",
+      "sec2Eyebrow": "ÖLÇƏLƏRDƏ AVTOMASİYA",
+      "sec2Heading": "Ağıllı Avtomatlaşdırma",
+      "sec2Subtext": "Kövrək qaydalara əsaslanan rutinləri sənədləri şərh edən, marşrut istisnalarını və uyğunlaşdıran koqnitiv iş axınları ilə əvəz etmək.",
+      "sec3Eyebrow": "QURULMUŞ YARDIM",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Kontekstdən xəbərdar köməkçilər məlumatların təhlili, sənədləşdirmə və əməliyyat sorğuları üzrə bilik işçilərinə kömək etmək üçün biznes proqramlarının içərisinə daxil edilib.",
+      "sec4Eyebrow": "İLERİ GÖRƏKLƏR",
+      "sec4Heading": "Proqnozlaşdırıcı Kəşfiyyat",
+      "sec4Subtext": "Geriyə baxan retrospektiv hesabatlardan əməliyyat pozuntularını gözləyən proaktiv qərar mühərriklərinə keçid.",
+      "sec5Eyebrow": "REAL DÜNYA TƏTBİQLƏRİ",
+      "sec5Heading": "Müəssisə AI-dan istifadə halları",
+      "sec5Subtext": "Əməliyyat müəssisə sahələrində ölçülə bilən səmərəlilik qazanclarını təmin edən nümayiş etdirilmiş tətbiqlər.",
+      "sec6Eyebrow": "STRATEJİ DƏYƏR",
+      "sec6Heading": "Biznes Faydaları",
+      "sec6Subtext": "Müəssisə süni intellekt tətbiqi vasitəsilə reallaşdırılan nəzərəçarpacaq məhsuldarlıq və əməliyyat çevikliyi.",
+      "ctaHeading": "Native AI-ni Biznes Tətbiqlərinizə inteqrasiya etməyə hazırsınız?",
+      "ctaDescription": "Müəssisə süni intellekt kopilotlarını və ağıllı avtomatlaşdırma mühərriklərini arxitektor etmək, qiymətləndirmək və yerləşdirmək üçün Rezonants AI təcrübəsi ilə əlaqə saxlayın.",
+      "ctaButton": "Süni intellekt üzrə mütəxəssislə məsləhətləşin",
+      "sec1P1": "İllər boyu korporativ süni intellektə xarici imkan kimi baxılırdı: təcrid olunmuş şəkildə öyrədilmiş model, sandbox nümayişi və ya ayrıca portal vasitəsilə əldə edilə bilən təcrid olunmuş chatbot. Bu gün paradiqma əsaslı şəkildə dəyişib. Yüksək təsirə malik müəssisə süni intellekt birbaşa qeyd sistemlərinin – ERP-lər, CRM-lər, insan kapitalı platformaları və real biznesin baş verdiyi təchizat zənciri mühərriklərinin içərisinə daxil edilmişdir.",
+      "sec1P2": "Kəşfiyyat qeydlər sistemi daxilində işləyərkən təşkilatın müəyyən edilmiş təhlükəsizlik sərhədlərini, məlumat modellərini və biznes məntiqini miras alır. O, sadəcə olaraq ümumi cavablar yaratmır; o, canlı sifarişlər üzrə fəaliyyət göstərir, açıq dəstək biletlərini şərh edir, təchizatçı hesab-fakturalarını uzlaşdırır və hər gün hərəkət etdikləri dəqiq interfeyslər çərçivəsində işçilərə kömək edir.",
+      "sec1P3": "Bu transformasiya korporativ proqram təminatını insan düymələrinin basılmasını gözləyən passiv verilənlər bazalarından ehtiyacları qabaqlayan, addımları avtomatlaşdıran və vaxtında tövsiyələr verən proaktiv platformalara köçürür.",
+      "sec2P1": "Ənənəvi Robotik Proseslərin Avtomatlaşdırılması (RPA) deterministik, təkrarlanan ekran kazımada üstündür. Bununla belə, sərt qayda dəstləri hər dəfə forma dəyişdikdə, gözlənilməz sənəd tərtibatı gəldikdə və ya istisna baş verdikdə pozulur. Ağıllı avtomatlaşdırma koqnitiv əsaslandırmanı əməliyyat icrası ilə birləşdirərək bu bölünməni aradan qaldırır:",
+      "sec2List": [
+        {
+          "bold": "İş axınının avtomatlaşdırılması:",
+          "text": "Mürəkkəb idarələrarası əməliyyatların təşkili, təcili və tarixi həll yollarına əsaslanan tapşırıqların yönləndirilməsi."
+        },
+        {
+          "bold": "İntellektual sənəd emalı:",
+          "text": "Strukturlaşdırılmamış PDF-lərin, e-poçtların, göndərmə manifestlərinin və müqavilələrin qəbulu, onları strukturlaşdırılmış verilənlər bazası əməliyyatlarına çevirmək."
+        },
+        {
+          "bold": "Ağıllı tapşırıqların avtomatlaşdırılması:",
+          "text": "Çox mərhələli əməliyyat yoxlamalarının avtomatlaşdırılması—məsələn, alış sifarişlərinin qəbzlər və bank çıxarışları ilə uyğunlaşdırılması."
+        },
+        {
+          "bold": "Prosesin optimallaşdırılması:",
+          "text": "Davamlı olaraq proses qeydlərini təhlil edərək, dövriyyə zamanı darboğazlarını müəyyənləşdirin və məqsədyönlü iş axını təkmilləşdirmələrini tövsiyə edin."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Məlumat Axtarışı",
+          "desc": "Açar söz təxmin etmədən paylanmış bilik bazaları, intranet siyasətləri, məhsul spesifikasiyası və tarixi bilet qətnamələri üzrə semantik axtarış."
+        },
+        {
+          "icon": "📝",
+          "title": "Sənədin xülasəsi",
+          "desc": "Uzun RFP-lərin, satıcı müqavilələrinin, texniki spesifikasiyaların və qanuni dəyişikliklərin icra oluna bilən icraçı brifinqlərinə və risk yoxlama siyahılarına dərhal distillə edilməsi."
+        },
+        {
+          "icon": "✨",
+          "title": "Məzmun Yaradılması",
+          "desc": "Müştəri təkliflərinin, əməliyyat sənədlərinin, standart əməliyyat prosedurlarının (SOP) və brend standartlarına uyğunlaşdırılmış standartlaşdırılmış müştəri yeniləmələrinin hazırlanmasında köməklik göstərildi."
+        },
+        {
+          "icon": "📈",
+          "title": "Məlumatların Təhlili",
+          "desc": "Danışıq sorğularını mürəkkəb analitik sorğulara çevirmək, on-the-fly diaqram xülasələrini yaratmaq və liderlik üçün kritik kənar göstəriciləri vurğulamaq."
+        },
+        {
+          "icon": "🔄",
+          "title": "Biznes iş axınları",
+          "desc": "Resursların planlaşdırılması, biletlərin yaradılması, qeydlərin yenilənməsi və ya satınalma tələblərinin təqdim edilməsi kimi söhbət sorğularından birbaşa əməliyyatlara başlamaq."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Rol əsaslı giriş",
+          "desc": "Kopilot cavablarının istifadəçi icazə səviyyələrinə ciddi şəkildə riayət edilməsini təmin etmək, məxfi maliyyə məlumatları, HR faylları və əqli mülkiyyəti qorumaq."
+        }
+      ],
+      "sec4P1": "Generativ modellər dili başa düşmək və sintez etməkdə üstün olsa da, proqnozlaşdırıcı intellekt strukturlaşdırılmış müəssisə məlumat dəstləri daxilində gizlənmiş riyazi nümunələrə diqqət yetirir. Quraşdırılmış proqnozlaşdırıcı modellər təşkilatlara əməliyyatları pozmazdan əvvəl əməliyyat maneələrini qabaqcadan görməyə imkan verir:",
+      "sec4List": [
+        {
+          "bold": "Əməliyyat proqnozu:",
+          "text": "Mövsümi göstəriciləri real vaxtda boru kəməri sürəti ilə sintez edərək gəlir meyllərini, inventar sürətini və resurs tələblərini proqnozlaşdırmaq."
+        },
+        {
+          "bold": "Proqnozlu analitika:",
+          "text": "Müdaxilə etmək üçün hələ vaxt olduğu halda müştəri itkisi risklərinin, texniki xidmətin pozulması dövrlərinin və təchizat zəncirinin gecikmələrinin dəqiq müəyyən edilməsi."
+        },
+        {
+          "bold": "Riskin müəyyən edilməsi:",
+          "text": "Maliyyə əməliyyatlarında, uyğunluq qeydlərində və satıcının satınalma nümunələrində anomaliyaların artmadan qeyd edilməsi."
+        },
+        {
+          "bold": "Tələb proqnozu:",
+          "text": "Dövriyyə kapitalını qorumaq üçün satış proqnozlarının istehsal gücü və anbar ehtiyatı səviyyələri ilə uyğunlaşdırılması."
+        }
+      ],
+      "keyPerspectiveEyebrow": "MÜƏSSİSƏLƏRİN İDARƏ EDİLMƏSİ",
+      "keyPerspectiveTitle": "Güvən, Nəzarət və Mühafizə",
+      "keyPerspectiveLead": "Süni intellekt yalnız onun altındakı məlumat bazası və onu əhatə edən idarəetmə qədər etibarlıdır. Davamlı müəssisə qəbulu düşünülmüş memarlıq intizamını tələb edir:"
+    },
+    "modernErp": {
+      "category": "MODERN ERP",
+      "title": "Müasir ERP ilə Biznes Transformasiyasının Sürətləndirilməsi",
+      "subtitle": "Müasir ERP platformalarının maliyyə, satınalma, təchizat zənciri və biznes əməliyyatlarını vahid rəqəmsal təməl vasitəsilə necə birləşdirdiyini araşdırın.",
+      "date": "sentyabr 2026",
+      "readTime": "7 dəqiqə oxudu",
+      "imageCaption": "Enterprise Technology Perspective — Əlaqəli ERP və Əməliyyat Çevikliyi",
+      "connectedFunctions": [
+        {
+          "title": "Maliyyə menecmenti",
+          "desc": "Real vaxt kitabçası yeniləmələri, avtomatlaşdırılmış gəlirin tanınması və ani çoxvalyuta uyğunlaşdırılması."
+        },
+        {
+          "title": "Təchizat Zənciri və Logistika",
+          "desc": "End-to-end inventar görünürlüğü, anbar optimallaşdırılması və təchizatçı performans telemetriyası."
+        },
+        {
+          "title": "İnsan kapitalı və işçi qüvvəsi",
+          "desc": "Özünə xidmət edən işçi portalları, avtomatlaşdırılmış əmək haqqı cədvəlləri və inteqrasiya olunmuş istedadın həyat dövrünün planlaşdırılması."
+        },
+        {
+          "title": "Satınalma və Satınalma",
+          "desc": "Avtomatlaşdırılmış alış təsdiqləri, satıcı müqaviləsinə uyğunluq və dinamik xərcləmə analitikası."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Bulud-Doğma Memarlıq",
+          "desc": "Yerli infrastruktur əlavə xərcləri və ya dağıdıcı versiya kilidi olmadan elastik hesablama miqyası."
+        },
+        {
+          "title": "API Ekosistemini açın",
+          "desc": "Xüsusi mikroservislər və CRM dəstləri ilə qüsursuz ikitərəfli məlumat sinxronizasiyasını təmin edən əvvəlcədən qurulmuş bağlayıcılar."
+        },
+        {
+          "title": "Daxili Analitika",
+          "desc": "Yüksək səviyyəli balans hesabatlarından fərdi tranzaksiya jurnallarına birbaşa idarəetmə panelinin tədqiqi."
+        },
+        {
+          "title": "Avtomatlaşdırılmış iş axını tetikleyicileri",
+          "desc": "Hadisəyə əsaslanan hadisə standart idarələrarası əməliyyatların avtonom şəkildə icrasını tetikler."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Ziddiyyətli departament hesabatlarını aradan qaldıran tək həqiqət mənbəyi",
+        "Ayın sonu və rübün sonunda bağlanma dövrlərində kəskin azalma",
+        "Ehtiyatların tükənməsini minimuma endirən real vaxt inventar və logistika görünürlüğü",
+        "Modul buludda yerli yeniləmələr vasitəsilə azaldılmış İT texniki xidmət xərcləri",
+        "Çox regionlu vergi yurisdiksiyaları üzrə vahid uyğunluğun izlənməsi",
+        "Əldə edilmiş müəssisələrin ümumi əməliyyat sistemlərinə daha sürətli qoşulması"
+      ],
+      "erpStrategyPoints": [
+        "Konfiqurasiyadan əvvəl ERP arxitekturasının əsas əməliyyat iş axınları ilə uyğunlaşdırılması",
+        "Sürətli mərhələni həyata keçirmək üçün modul yerləşdirmə modellərinin seçilməsi qalib gəlir",
+        "Yüksək keyfiyyətli əsas məlumatların miqrasiyası və uzlaşdırılmasına üstünlük verilməsi",
+        "Avtomatlaşdırılmış dəyişikliklərin idarə edilməsi və rola uyğunlaşdırılmış təlim proqramlarının daxil edilməsi",
+        "Sürtünməsiz gələcək inteqrasiya genişlənməsi üçün API şlüzlərinin layihələndirilməsi"
+      ],
+      "sec1Eyebrow": "ƏMƏLİYYAT ARKA",
+      "sec1Heading": "Müasir ERP niyə vacibdir?",
+      "sec1Subtext": "Müəssisənin səmərəliliyi məlumatların maliyyə, satınalma, əməliyyatlar və insan kapitalı arasında problemsiz sinxronizasiyasından asılıdır.",
+      "sec2Eyebrow": "İNTEQRASİYA EKOSİSTEM",
+      "sec2Heading": "Əlaqəli Biznes Funksiyaları",
+      "sec2Subtext": "Əməliyyat məlumatlarının biznes bölmələri arasında dərhal axmasına imkan vermək üçün ənənəvi departament siloslarının parçalanması.",
+      "sec3Eyebrow": "ÇARXFUNKSİONAL HARMONIYA",
+      "sec3Heading": "Vahid Əməliyyatlar və Məlumat axını",
+      "sec3Subtext": "Satış müqavilələrinin təchizat zənciri sifarişlərini və maliyyə kitablarını dərhal yeniləməsini təmin edən əlaqəli rəqəmsal bel.",
+      "sec4Eyebrow": "MÜƏSSİSƏ TELEMETRİYA",
+      "sec4Heading": "Real-Time Biznes Görünüşü",
+      "sec4Subtext": "Gecikmiş retrospektiv cədvəlləri dərhal performans göstəriciləri ilə əvəz edən canlı əməliyyat kəşfiyyatı.",
+      "sec5Eyebrow": "ƏSAS PLATFORMA MEMARLIĞI",
+      "sec5Heading": "Müasir ERP imkanları",
+      "sec5Subtext": "Çevik bulud platformalarını köhnə monolit sistemlərdən fərqləndirən memarlıq əsasları.",
+      "sec6Eyebrow": "KEYFİYYƏTLİ TƏSİR",
+      "sec6Heading": "Biznes Faydaları",
+      "sec6Subtext": "Müasir ERP platformaları tərəfindən açılmış maddi təşkilati sürət, şəffaflıq və xərc səmərəliliyi.",
+      "ctaHeading": "Müəssisənizin ERP Onurğasını Müasirləşdirməyə Hazırsınız?",
+      "ctaDescription": "Rezonants-in biznes əməliyyatlarınıza uyğunlaşdırılmış modul ERP platformalarını əhatə etmə, konfiqurasiya və inteqrasiya etməkdə sizə necə kömək edə biləcəyini kəşf edin.",
+      "ctaButton": "ERP Arxitektoru ilə danışın",
+      "sec1P1": "Sürətlə hərəkət edən müəssisə mənzərələrində ənənəvi Müəssisə Resurslarının Planlaşdırılması sistemləri tez-tez mübarizə aparır. Toplu emal və təcrid olunmuş yerli serverlər dövründə qurulmuş köhnə ERP-lər ciddi şəkildə fərdiləşdirilmiş, təkmilləşdirilməsi çətin və ağrılı şəkildə qeyri-şəffaf idi. Mühüm biznes əməliyyatları mühasibat kitablarını anbarlarla sinxronlaşdırmaq üçün kövrək bir gecəlik ixraca əsaslanaraq paralel siloslarda işləyirdi.",
+      "sec1P2": "Müasir, bulud-doğma ERP bu dinamikanı əsaslı şəkildə yenidən müəyyənləşdirir. O, müəssisənin vahid rəqəmsal əsası kimi fəaliyyət göstərir - maliyyə, satınalma, təchizat zənciri, inventar və insan resurslarının paylaşılan məlumat modeli üzərində əməliyyat apardığı canlı təməl.",
+      "sec1P3": "Əsas əməliyyatları vahid uyğunlaşdırılmış mühitə gətirməklə, müasir ERP inkişafı ləngidən operativ kor nöqtələri aradan qaldırır və liderlərə köhnə tarixi xülasələrdən daha çox real vaxt siqnallarından istifadə edərək biznesi idarə etməyə imkan verir.",
+      "sec3P1": "Əməliyyat silosları nadir hallarda insanların problemidir; bunlar memarlıq problemləridir. Müştəri xidməti, satınalma və anbar qrupları əlaqəsi kəsilmiş proqramlarda işləyərkən, hər bir təhvil əl ilə e-poçtlar, cədvəllər və telefon zəngləri tələb edir. Səhvlər çoxalır, hesab-fakturalar saxlanılır və müştəri öhdəlikləri itirilir.",
+      "sec3P2": "Müasir ERP bunu vahid məlumat xətti və hadisələrə əsaslanan proseslərin təşkili vasitəsilə həll edir:",
+      "sec3List": [
+        {
+          "bold": "Sinxronlaşdırılmış sifarişdən nağd pula:",
+          "text": "Müştəri sifarişi verildikdə, inventar avtomatik olaraq ehtiyatda saxlanılır, göndərmə etiketləri yaradılır və faktura kitabçaları dərhal yenilənir."
+        },
+        {
+          "bold": "Satınalma-ödəniş şəffaflığı:",
+          "text": "Satınalma sifarişləri, mal qəbzləri və satıcı hesab-fakturaları 3 tərəfli uzlaşma ilə avtomatik uyğunlaşır və yalnız insan baxışı üçün istisnaları qeyd edir."
+        },
+        {
+          "bold": "Vahid əmək və əməliyyat maya dəyəri:",
+          "text": "Layihənin vaxt cədvəlləri, əmək haqqının bölüşdürülməsi və birbaşa əməliyyat xərcləri real vaxt rejimində birbaşa xərc mərkəzləri ilə əlaqələndirilir."
+        }
+      ],
+      "sec4P1": "Müəssisəni vahid görmə qabiliyyəti olmadan idarə etmək, gecikmiş alətlərlə sıx dumanda uçmağa bənzəyir. Müasir ERP hər bir iş ölçüsündə real vaxt telemetriyasını təmin edir:",
+      "sec4List": [
+        {
+          "bold": "Canlı icraçı idarə panelləri:",
+          "text": "Dövrün sonunu gözləmədən ümumi marja, əməliyyat pul vəsaitlərinin hərəkəti, açıq öhdəliklər və sifarişlər üzrə gecikmələrin ani görüntüləri."
+        },
+        {
+          "bold": "Özünə xidmət əməliyyat hesabatı:",
+          "text": "Departament rəhbərləri fərdi sorğular qura və müəssisə səviyyəli xülasələrdən fərdi əməliyyat sətirləri elementlərinə qədər dərinləşə bilər."
+        },
+        {
+          "bold": "Mərkəzləşdirilmiş master məlumatı:",
+          "text": "Müştərilər, təchizatçılar və məhsul kataloqları üçün vahid idarə olunan əsas məlumatların yaradılması ilə ziddiyyətli nömrələrin aradan qaldırılması."
+        },
+        {
+          "bold": "Proaktiv anomaliya xəbərdarlıqları:",
+          "text": "Avtomatlaşdırılmış xəbərdarlıqlar marjalar həddən aşağı düşdükdə, inventar tükəndikdə və ya tədarükçünün tədarükləri itdikdə dərhal menecerləri xəbərdar edir."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMASIYA FƏLSƏFƏSİ",
+      "keyPerspectiveTitle": "Monolit əsaslı təmir üzərində praqmatik modernləşmə",
+      "keyPerspectiveLead": "Müasir ERP transformasiyası təşkilatlar onu ya hər şey və ya heç nə İT pozğunluğu deyil, təkamül yolu ilə əməliyyat təkmilləşdirməsi kimi qəbul etdikdə uğur qazanır:"
+    },
+    "cybersecurity": {
+      "category": "KİBERTƏHLÜKƏSİZLİK",
+      "title": "Əlaqəli Müəssisədə Kiber Dayanıqlılığın Yaradılması",
+      "subtitle": "Təşkilatların təhlükəsizliyi necə gücləndirə biləcəyini, kritik sistemləri qoruya biləcəyini və getdikcə daha çox bağlı olan mühitlərdə təhdidlərə necə hazırlaşacağını araşdırın.",
+      "date": "sentyabr 2026",
+      "readTime": "8 dəqiqə oxudu",
+      "imageCaption": "Müəssisə Texnologiyası Perspektivi — Təhdidlərdən Müdafiə və Sıfır Güvən Arxitekturası",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetriya və aşkarlama",
+          "desc": "Bütün bulud son nöqtələri və iş yükləri arasında real vaxt jurnalının qəbulu və SIEM anomaliya korrelyasiyası."
+        },
+        {
+          "title": "Saxlama və İzolyasiya",
+          "desc": "Təhlükəli konteynerləri və ya etimadnamələri dərhal təcrid edən avtomatlaşdırılmış şəbəkə karantin qaydaları."
+        },
+        {
+          "title": "Təmir və Əsas Səbəb",
+          "desc": "Rapid patch rollout və dəqiq pozuntu vektorunu müəyyən edən rəqəmsal kriminalistika."
+        },
+        {
+          "title": "Davamlılıq və Sərtləşmə",
+          "desc": "Dəyişməz ehtiyat nüsxələrinə, siyasət qoruyucularına və avtomatlaşdırılmış qırmızı komanda simulyasiyalarına davamlı rəy."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Bulud aktivlərində zəiflik hücumu səthlərində əhəmiyyətli dərəcədə azalma",
+        "Minimum RTO/RPO ilə zəmanətli əməliyyat davamlılığı və fəlakətin bərpası",
+        "ISO 27001, SOC 2, HIPAA və GDPR auditləri üzrə ümumi uyğunluq inamı",
+        "Əsas müəssisənin intellektual mülkiyyətinin və konfidensial müştəri qeydlərinin qorunması",
+        "Vahid giriş nəzarətləri vasitəsilə sadələşdirilmiş təchizatçı və üçüncü tərəf risk idarəçiliyi",
+        "Təsdiqlənmiş sıfır inamlı təhlükəsizlik duruşları ilə dəstəklənən təkmilləşdirilmiş müştəri və investor inamı"
+      ],
+      "zeroTrustPrinciples": [
+        "Heç vaxt Güvənməyin, Həmişə Doğrulayın: Hər bir əməliyyat üçün açıq identifikasiya tələb olunur",
+        "Ən Az İmtiyazlı Giriş: Yanal təhlükənin hərəkətini məhdudlaşdıran dənəvər rol sərhədləri",
+        "Pozuntu qəbul edin: Davamlı təhlükə monitorinqi, tranzit və istirahətdə şifrələmə",
+        "Mikro-Seqmentasiya: Fərdi proqram iş yüklərini təcrid edən şəbəkə təhlükəsizlik duvarları",
+        "Davamlı Telemetriya: Anormal sessiya sorğularını işarələyən avtomatlaşdırılmış davranış analizi"
+      ],
+      "sec1Eyebrow": "GENİŞlənən PERİMETR",
+      "sec1Heading": "Əlaqəli Müəssisə Təhlükəsizlik Mənzərəsi",
+      "sec1Subtext": "Müəssisələr bulud xidmətlərini, paylanmış uzaq komandaları və IoT cihazlarını qəbul etdikcə, ənənəvi təhlükəsizlik sərhədləri yox olur.",
+      "sec2Eyebrow": "ƏTRAFLI MÜDAFİƏ",
+      "sec2Heading": "Çox Laylı Təhlükədən Mühafizə",
+      "sec2Subtext": "Təhlükə kəşfiyyatının koordinasiyası, zəifliklərin skan edilməsi və tam texnologiya yığını üzrə avtomatlaşdırılmış insident reaksiyası.",
+      "sec3Eyebrow": "YENİ TƏHLÜKƏSİZLİK SƏRHƏDİ",
+      "sec3Heading": "Şəxsiyyət və Giriş İdarəetmə (IAM)",
+      "sec3Subtext": "Şəxsiyyət əsas idarəetmə müstəvisidir. Qranul giriş, XİN və SSO yalnız səlahiyyətli rəhbərlərin biznes sistemlərinə daxil olmasını təmin edir.",
+      "sec4Eyebrow": "MEMARLIQ PARADİQMASI",
+      "sec4Heading": "Sıfır Güvən Arxitekturasının Demystifying",
+      "sec4Subtext": "Davamlı yoxlama, açıq icazə və ehtimal edilən güzəştə əsaslanan təməl təhlükəsizlik təfəkkürü.",
+      "sec5Eyebrow": "İNFRASTRUKTUR İDARƏETMƏSİ",
+      "sec5Heading": "Bulud Təhlükəsizliyi Mülahizələri",
+      "sec5Subtext": "Paylaşılan məsuliyyət modellərinə, Kod qoruyucuları kimi infrastruktura və Kubernetes iş vaxtının qorunmasına müraciət.",
+      "sec6Eyebrow": "ƏMƏLİYYAT DAVAMLILIĞI",
+      "sec6Heading": "Hadisəyə Hazırlıq: Qarşısının Alınmasından Kənarda",
+      "sec6Subtext": "Ümumi əməliyyat dayanıqlığı üçün strukturlaşdırılmış runbook'ların, avtomatlaşdırılmış saxlama təlimlərinin və dəyişməz fəlakət bərpa ehtiyatlarının hazırlanması.",
+      "sec7Eyebrow": "STRATEJİ DƏYƏR",
+      "sec7Heading": "Biznes Faydaları",
+      "sec7Subtext": "Müasir kibermüdafiə vasitəsilə müəssisənin dayanıqlığı, uyğunluğun yoxlanılması və brend reputasiyasının qorunması.",
+      "ctaHeading": "Müəssisənizin Kiber Dayanıqlığını möhkəmləndirməyə hazırsınız?",
+      "ctaDescription": "Arxitekturaları yoxlamaq, Zero Trust çərçivələrini tətbiq etmək və kritik missiya sistemlərini qorumaq üçün Rezonants təhlükəsizlik təcrübəsi ilə əməkdaşlıq edin.",
+      "ctaButton": "Kiber Memarla məsləhətləşin",
+      "sec1P1": "Müəssisə İT-nin mirası dövründə təhlükəsizlik qala və xəndək doktrinası əsasında fəaliyyət göstərirdi: korporativ ofis şəbəkəsindəki hər şey etibarlı hesab edilirdi, kənarda isə hər şey etibarsız sayılırdı. Vahid korporativ firewall daxili serverləri, verilənlər bazalarını və masaüstü kompüterləri qoruyur.",
+      "sec1P2": "Bugünkü müəssisə fiziki divarları üstələyib. İş yükləri çoxlu bulud mühitlərində (AWS, Azure, GCP) yerləşir, işçilər müxtəlif yerlərdən biznes proqramlarına daxil olur və API-lər davamlı olaraq xarici logistika provayderləri, maliyyə institutları və SaaS təchizatçıları ilə həssas əməliyyat məlumatlarını mübadilə edirlər.",
+      "sec1P3": "Bu hiper-bağlantı böyük biznes çevikliyinə səbəb olsa da, müəssisənin hücum səthini xeyli genişləndirir. Hər bir API son nöqtəsi, şəxsiyyət nişanı, qoşulmuş mobil cihaz və SaaS inteqrasiyası potensial məruz qalma vektorunu təmsil edir. Həqiqi müəssisə mühafizəsi perimetr əsaslı müdafiədən proaktiv, uçdan-uca kiber davamlılığa keçməyi tələb edir.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Təhlükənin aşkarlanması",
+          "desc": "Real vaxt rejimində anomal şəbəkə nümunələrini, etimadnamə sui-istifadəsini və sıfır gün zəifliklərini izləyən maşın öyrənməsi ilə dəstəklənən təhdid kəşfiyyatı."
+        },
+        {
+          "icon": "📡",
+          "title": "Təhlükəsizlik Monitorinqi",
+          "desc": "Serverlər, konteyner klasterləri, identifikasiya təminatçıları və son nöqtələr arasında hadisələri əlaqələndirən Mərkəzləşdirilmiş Təhlükəsizlik Əməliyyatları Mərkəzi (SOC) telemetriyası."
+        },
+        {
+          "icon": "🔍",
+          "title": "Zəifliyin İdarə Edilməsi",
+          "desc": "Zəif cəhətləri proaktiv şəkildə aradan qaldırmaq üçün infrastruktur, mənbə kodu depoları və konteyner reyestrləri üzrə davamlı avtomatlaşdırılmış zəifliyin skan edilməsi."
+        },
+        {
+          "icon": "🔒",
+          "title": "Məlumatların Mühafizəsi",
+          "desc": "Əqli mülkiyyət sızmasının qarşısını almaq üçün məlumat itkisinin qarşısının alınması (DLP) ilə yanaşı, tranzitdə (TLS 1.3) və istirahətdə (AES-256) möhkəm şifrələmə."
+        }
+      ],
+      "sec3P1": "Müəssisə aktivlərinin qorunması hər bir şəxsiyyətin - istər insan icraçı, istər xarici podratçı, istərsə də avtonom proqram təminatı xidməti hesabı - daxil olduğu dəqiq resurslar üçün təsdiqlənmiş icazənin olmasını təmin etməyi tələb edir.",
+      "sec3List": [
+        {
+          "bold": "Mərkəzləşdirilmiş şəxsiyyət idarəetməsi:",
+          "text": "Tətbiqlər arasında parçalanmış parol saxlamalarını aradan qaldıran Tək Giriş (SSO) və federasiya edilmiş şəxsiyyət standartları."
+        },
+        {
+          "bold": "Adaptiv çoxfaktorlu autentifikasiya (MFA):",
+          "text": "Fişinqə davamlı FIDO2 aparat açarları və həssas inzibati funksiyalar üçün riskə əsaslanan kontekstual problemlər."
+        },
+        {
+          "bold": "Qranul giriş nəzarəti:",
+          "text": "API və verilənlər bazası səviyyələrində tətbiq edilən incə dənəli Rol Əsaslı (RBAC) və Atribut Əsaslı (ABAC) giriş nəzarətləri."
+        },
+        {
+          "bold": "Ən az imtiyaz prinsipləri:",
+          "text": "İnzibati tapşırıqlar başa çatdıqdan sonra avtomatik başa çatan müvəqqəti, tam vaxtında (JIT) girişin verilməsi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "SIFIR GÜVƏN ƏSAS DOKTRİNASI",
+      "keyPerspectiveTitle": "Blind Trust üzərində Davamlı Doğrulama",
+      "keyPerspectiveLead": "Sıfır Güvən arxitekturasında şəbəkənin yerləşdiyi yerə əsaslanan gizli inam tamamilə ləğv edilir. Hər bir əməliyyat, verilənlər bazası sorğusu və istifadəçi girişi davamlı olaraq qanuniliyini sübut etməlidir:",
+      "cloudSecurityCards": [
+        {
+          "title": "Ortaq Məsuliyyət",
+          "desc": "Bulud provayderinin fiziki infrastruktur təhlükəsizliyini müəssisənin məlumatların şifrələnməsi, IAM siyasətləri və tətbiq kodu üçün məsuliyyətindən fərqləndirən aydın idarəetmə."
+        },
+        {
+          "title": "Kod olaraq infrastruktur (IaC)",
+          "desc": "Kod vasitəsilə idarə olunan dəyişməz, yoxlanıla bilən bulud konfiqurasiyaları. Avtomatlaşdırılmış kod kimi siyasət skanerləri yerləşdirmədən əvvəl yanlış konfiqurasiyaları və açıq vedrələri bloklayır."
+        },
+        {
+          "title": "Konteyner və Kubernetes Təhlükəsizliyi",
+          "desc": "Sərtləşdirilmiş konteyner işləmə vaxtları, imzalanmış təsvir reyestrləri, şəbəkə mikro-seqmentasiyası və etimadnamələri mənbə depolarından kənarda saxlayan avtomatlaşdırılmış məxfi idarəetmə."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "BULUD VƏ MODERNİZASİYA",
+      "title": "Bulud üçün köhnə proqramların modernləşdirilməsi",
+      "subtitle": "Köhnə tətbiqlərin qiymətləndirilməsi, modernləşdirilməsi və genişləndirilə bilən, təhlükəsiz bulud arxitekturasına doğru hərəkət etdirilməsi üçün praktiki yanaşmanı araşdırın.",
+      "date": "sentyabr 2026",
+      "readTime": "6 dəqiqə oxudu",
+      "imageCaption": "Müəssisə Texnologiyası Perspektivi — Cloud-Native Yenidən Platformalaşdırma və Konteynerləşdirmə",
+      "modernizationApproaches": [
+        {
+          "title": "Yenidən yerləşdirin (Lift & Shift)",
+          "desc": "İş yüklərini minimal kod dəyişiklikləri ilə sürətlə bulud virtual maşınlarına keçin."
+        },
+        {
+          "title": "Yenidən Platforma (Qaldır və Forma Ver)",
+          "desc": "İş vaxtı çərçivələrini təkmilləşdirin, idarə olunan bulud verilənlər bazalarını qəbul edin və əməliyyatları sadələşdirin."
+        },
+        {
+          "title": "Refaktor (Buludda Yerli Yenidənqurma)",
+          "desc": "Monolitləri konteynerləşdirilmiş mikroservislərə və hadisə ilə idarə olunan serversiz API-lərə ayırın."
+        },
+        {
+          "title": "Dəyişdirin (SaaS Modernləşdirilməsi)",
+          "desc": "Məqsədli korporativ bulud proqram təminatının xeyrinə lazımsız köhnə sistemləri ləğv edin."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "İrsin Qiymətləndirilməsi",
+          "desc": "Avtomatlaşdırılmış asılılıq xəritəsi, texniki borc kataloqu və bulud hazırlığının qiymətləndirilməsi."
+        },
+        {
+          "title": "Hədəf Memarlığı",
+          "desc": "Modul mikroservis planları, konteyner topologiyaları və avtomatlaşdırılmış IaC şablonları."
+        },
+        {
+          "title": "Mərhələli Miqrasiya",
+          "desc": "Canary buraxılışları, ikili yazma məlumat sinxronizasiyası və sıfır dayanma vaxtı kəsmə dalğaları."
+        },
+        {
+          "title": "Bulud Optimizasiyası",
+          "desc": "Davamlı xərclərin idarə edilməsi, avtomatik miqyaslı telemetriya və FinOps əməliyyat baxışları."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "İnfrastrukturun saxlanması və avadanlıqların yenilənməsi xərclərini eksponent olaraq azaldır",
+        "Sıfır gecikmə ilə pik müəssisə trafikini idarə edən sonsuza yaxın hesablama elastikliyi",
+        "Tam avtomatlaşdırılmış CI/CD yerləşdirmə boru kəmərləri ilə sürətləndirilmiş buraxılış sürəti",
+        "Multi-AZ yüksək əlçatanlığı ilə köhnə tək uğursuzluq nöqtələrinin aradan qaldırılması",
+        "Sürətli platformalararası tərəfdaş inteqrasiyasına imkan verən müasir API arxitekturaları",
+        "Tətbiq performansına və bulud xərclərinə təkmil real vaxt müşahidə imkanı"
+      ],
+      "landscapeAssessmentPoints": [
+        "Tətbiqlərarası mürəkkəb asılılıqların və verilənlərin sinxronizasiya kadanslarının xəritələşdirilməsi",
+        "Sərt kodlaşdırılmış ətraf mühit konfiqurasiyalarının və mülkiyyət verilənlər bazası sxemlərinin müəyyən edilməsi",
+        "Yurisdiksiya üzrə tənzimləyicilərə uyğunluğun və məlumatların suverenliyinə dair məhdudiyyətlərin qiymətləndirilməsi",
+        "Refactor və rehost yolları arasında real Ümumi Sahiblik Qiymətinin (TCO) hesablanması",
+        "Aktiv gündəlik biznes əməliyyatlarını qorumaq üçün aydın yayım dalğalarının yaradılması"
+      ],
+      "sec1Eyebrow": "MİRAS SİSTEMLƏRİN REALLIĞI",
+      "sec1Heading": "Legacy Challenge",
+      "sec1Subtext": "Yaşlanan monolitlər innovasiya sürətini məhdudlaşdırır, əməliyyat zəifliklərini artırır və infrastrukturun saxlanması xərclərini artırır.",
+      "sec2Eyebrow": "QİYMƏTLƏNDİRMƏ VƏ KƏŞF",
+      "sec2Heading": "Tətbiq Landşaftını Anlamaq",
+      "sec2Subtext": "miqrasiyadan əvvəl verilənlərdən asılılıqları, proqram versiyalarını və modernləşdirmə ROI-ni xəritələşdirmək üçün ciddi memarlıq kəşfi.",
+      "sec3Eyebrow": "4 MODERNİZASİYA YOLU",
+      "sec3Heading": "Modernləşmə yanaşmaları",
+      "sec3Subtext": "Hər bir iş yükü üçün düzgün miqrasiya modelinin seçilməsi: rehosting, replatforming, refactoring və ya dəyişdirmə.",
+      "sec4Eyebrow": "HƏDƏF TRANSFORMASIYA MODELİ",
+      "sec4Heading": "Müasir Bulud Memarlığı",
+      "sec4Subtext": "Güclü mikroservislərin, idarə olunan verilənlər bazalarının və yüksək miqyaslılığa uyğun avtomatlaşdırılmış yerləşdirmə boru kəmərlərinin layihələndirilməsi.",
+      "sec5Eyebrow": "TRANSFORMASYON NƏTİCƏLƏRİ",
+      "sec5Heading": "Modernləşdirmənin Əsas Faydaları",
+      "sec5Subtext": "Əhəmiyyətli çeviklik, xərclərin azaldılması və etibarlılıq dividendləri bulud-doğma transformasiya ilə açıldı.",
+      "ctaHeading": "Bulud üçün köhnə proqramlarınızı modernləşdirməyə hazırsınız?",
+      "ctaDescription": "Asılılıqları qiymətləndirmək, miqrasiya yol xəritələrini qurmaq və sistemlərinizi təhlükəsiz şəkildə köçürmək üçün Rezonants bulud memarları ilə tərəfdaş olun.",
+      "ctaButton": "Bulud Mütəxəssisi ilə danışın",
+      "sec1P1": "On il əvvəl qurulmuş missiya baxımından kritik tətbiqlər hələ də müəssisənin milyardlarla gəlirini artırır, lakin onların memarlıq sərtliyi artan əməliyyat riski yaradır.",
+      "sec1P2": "Hər bir müəssisə sabitlik və modernləşmə arasındakı gərginliklə üzləşir. Köhnə sistemlər davamlılıq üçün hazırlanmışdır və onlar illərdir etibarlı şəkildə fəaliyyət göstərirlər. Bununla belə, biznes tələbləri sürətləndikcə, bu qocalma arxitekturaları struktur məhdudiyyətləri ilə qarşılaşır:",
+      "sec1List": [
+        {
+          "bold": "Yaşlanma proqram yığınları:",
+          "text": "Təmir üçün əlçatan istedad hovuzları azalan köhnəlmiş çərçivələr üzərində qurulmuş monolit kod bazaları."
+        },
+        {
+          "bold": "Çətin texniki xidmət dövrləri:",
+          "text": "Bir funksiyanın dəyişdirilməsi ilə əlaqəli olmayan əməliyyat modullarını pozmaq riski ilə sıx birləşdirilmiş komponentlər."
+        },
+        {
+          "bold": "Məhdud miqyas:",
+          "text": "Mövsümi trafik artımlarını idarə etmək üçün bahalı xüsusi avadanlıqların alınmasını tələb edən şaquli miqyaslama məhdudiyyətləri."
+        },
+        {
+          "bold": "İnteqrasiya problemləri:",
+          "text": "Müasir mobil proqramlar, müştəri portalları və ya partnyor API-ləri ilə kövrək toplu skriptləri olmadan rəvan interfeys qurmaq mümkün deyil."
+        },
+        {
+          "bold": "İnfrastruktur məhdudiyyətləri:",
+          "text": "Fiziki server otağının həyat dövrləri, ehtiyat boşluqları və yüksək enerji/soyutma əməliyyat xərcləri."
+        }
+      ],
+      "sec2P1": "Praqmatik modernləşmə səyahəti mövcud əmlakda tam aydınlıq yaratmaqla başlayır:",
+      "sec2List": [
+        {
+          "bold": "Proqramlar:",
+          "text": "Bütün aktiv iş yüklərinin, fərdi modulların, fon skriptlərinin və tarixi üçüncü tərəf paketlərinin kataloqlaşdırılması."
+        },
+        {
+          "bold": "Asılılıqlar:",
+          "text": "Xəritəçəkmə mürəkkəb iş vaxtı birləşməsini, paylaşılan verilənlər bazası cədvəllərini, birbaşa fayl sistemi zənglərini və xarici xidmət müqavilələrini."
+        },
+        {
+          "bold": "Məlumat:",
+          "text": "Məlumat strukturlarının, tranzaksiya bütövlüyü tələblərinin, ehtiyat ritminin və tənzimləyici suverenlik qaydalarının qiymətləndirilməsi."
+        },
+        {
+          "bold": "İnfrastruktur:",
+          "text": "Prosessorun, yaddaşın, yaddaşdan istifadənin və şəbəkə ötürmə qabiliyyətinin düzgün ölçülü hədəf bulud spesifikasiyasına auditi."
+        },
+        {
+          "bold": "Biznes kritikliyi:",
+          "text": "Aydın geri qaytarma prosedurları ilə təhlükəsiz, mərhələli miqrasiya dalğalarını dizayn etmək üçün proqramları səviyyələrə ayırmaq."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Üstünlük:",
+      "cloudArchitectureBadge": "Modernləşmənin Həyat dövrü",
+      "cloudArchitectureTitle": "Başdan-Uca Bulud Modernləşdirmə Axını",
+      "sec4P1": "Təyinat arxitekturası əsas tətbiqləri elastik bulud platformalarında yerləşdirilən modul, konteynerləşdirilmiş xidmətlərə ayırır (məsələn, Kubernetes və ya idarə olunan serversiz iş vaxtları).",
+      "sec4P2": "Avtomatlaşdırılmış CI/CD yerləşdirmə boru kəmərlərini, avtomatlaşdırılmış mavi-yaşıl kəsmələri və infrastrukturu kod kimi qurmaqla, yerləşdirmələr əsəbləri dağıdan həftə sonu tədbirlərindən problemsiz gündəlik iş rejiminə çevrilir.",
+      "sec4P3": "Elastik hesablama tələb artımı zamanı avtomatik böyüyür və ləngimə zamanı miqyası azalır, boş resurs xərclərini aradan qaldırır, eyni zamanda qlobal istifadəçilər üçün saniyədən aşağı cavab vaxtlarına zəmanət verir.",
+      "keyPerspectiveEyebrow": "MÜASİRLƏŞMƏ YAXŞI TƏCRÜBƏLƏRİ",
+      "keyPerspectiveTitle": "Uğurlu miqrasiyanın dörd sütunu",
+      "keyPerspectiveLead": "Təcrübə göstərir ki, modernləşdirmə layihələri hərtərəfli hazırlıq, aydın dalğa ardıcıllığı və ciddi sınaq əsasında qurulanda uğur qazanır:"
+    }
+  }
+}

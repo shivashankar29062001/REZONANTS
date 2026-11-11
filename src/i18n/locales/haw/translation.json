@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "E pili ana",
+    "services": "Nā lawelawe",
+    "products": "Nā huahana",
+    "perspectives": "Nānā",
+    "technologies": "ʻenehana",
+    "contact": "Hoʻokaʻaʻike",
+    "signIn": "E komo",
+    "signUp": "Kau inoa",
+    "signOut": "Haʻalele",
+    "chooseLanguage": "E koho i kāu ʻōlelo",
+    "searchLanguage": "Huli ʻōlelo",
+    "resetEnglish": "Hoʻihoʻi hou i ka ʻōlelo Pelekania",
+    "noResults": "ʻAʻohe ʻōlelo i loaʻa",
+    "englishDefault": "Pelekania (Pa'amau)",
+    "english": "Pelekania"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Pūnaehana, hana ʻia no ke ʻano <em>kau ʻoihana</em> holo.",
+    "description": "He hui lawelawe IT a me nā huahana kikohoʻe ʻo Rezonants. Hoʻolālā mākou, kūkulu a hoʻonui i nā polokalamu maʻamau, nā pūnaewele a me nā huahana kelepona, nā ʻōnaehana kapua a me AI - no nā hui e hoʻokūkū nei i ka hoʻokō.",
+    "bookConsultation": "Kākau i ke kūkākūkā manuahi",
+    "exploreServices": "E ʻimi i nā lawelawe",
+    "years": "makahiki",
+    "projects": "papahana",
+    "retention": "paa",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — mai ka makahiki 2012",
+    "metaStudio": "Keena huahana kikohoʻe",
+    "metaTech": "Pūnaewele · Mobile · Ao · AI"
+  },
+  "about": {
+    "eyebrow": "No makou",
+    "title": "Ke kūkulu ʻana i nā mea hoʻonā kikohoʻe <em>e neʻe i nā ʻoihana i mua</em>",
+    "description": "ʻO Rezonants kahi hui hoʻonā ʻenehana e kālele ana i ke kōkua ʻana i nā ʻoihana e hoʻololi i nā manaʻo i mau ʻike kikohoʻe koʻikoʻi. Hoʻohui mākou i ka ʻenehana, ka hana, a me ka ʻike ʻoihana no ka hāʻawi ʻana i nā hāʻina i hoʻolālā ʻia e pili ana i nā pono o ka honua maoli.<br /><br />Mai ka hoʻololi kikohoʻe a me ka hoʻomohala polokalamu maʻamau i ke ao, AI, automation, a me nā lawelawe ʻenehana hoʻokele, kōkua mākou i nā hui e hoʻomaʻamaʻa i ka paʻakikī, hoʻomaikaʻi i ka pono, a hana i ka waiwai kikohoʻe mau loa.",
+    "awardWinning": "Lanakila",
+    "awardText": "Ua ʻike ʻia no ka maikaʻi o ka lawe ʻana i ka ʻenekinia huahana pūnaewele a me ka mobile.",
+    "professionalStaff": "Na limahana oihana",
+    "staffText": "He poʻe 'enekinia koʻikoʻi nā mea nona ka hana mai ke kelepona mua ʻana e hele.",
+    "support247": "24/7 Kākoʻo",
+    "supportText": "Nā lawelawe mālama ʻia a me kahi laina kākoʻo e pane i ka wā e pono ai ʻoe.",
+    "fairPrices": "Na Kumukuai Kupono",
+    "pricesText": "ʻO nā manaʻo hoʻopono a me ka ʻike pili kālā ma kēlā me kēia hui.",
+    "yearsExcellence": "Makahiki o ka Hana Hana"
+  },
+  "stats": {
+    "happyClients": "Hauʻoli nā mea kūʻai",
+    "projectsDone": "Hana ʻia nā papahana",
+    "winAwards": "E lanakila i nā makana"
+  },
+  "insights": {
+    "eyebrow": "Nānā",
+    "title": "Nānā",
+    "sub": "Ke ʻimi nei i nā manaʻo, nā ʻano, a me nā ʻenehana e hana ana i ka wā e hiki mai ana.",
+    "filters": {
+      "all": "Pau",
+      "digital-transformation": "Hoololi Kikohoʻe",
+      "ai": "AI & Automation",
+      "cloud": "Kapua",
+      "data": "ʻIkepili & ʻIkepili",
+      "software": "lako polokalamu",
+      "business": "ʻOihana a me ʻenehana"
+    },
+    "readMore": "Heluhelu hou aku",
+    "close": "Pani",
+    "keyTakeaways": "Nā Kiʻi Hoʻolālā Kūʻai",
+    "relatedServices": "Nā Mana a me nā lawelawe pili",
+    "minRead": "min heluhelu",
+    "item1Date": "Iulai 2026",
+    "item1Tag": "Huahana & ERP",
+    "item1Title": "He ala ERP modular no ka ulu ʻana i nā ʻoihana",
+    "item1Text": "Pehea mākou e hoʻolālā ai i nā hana ERP no laila e hoʻohui maikaʻi ʻia ke kālā, ka waihona waiwai, ka HR a me ke kūʻai ʻana me ka ʻole o ka hoʻopau ʻana i nā makahiki he nui.",
+    "item2Date": "Iun 2026",
+    "item2Tag": "Naʻauao hana",
+    "item2Title": "Nā ʻōnaehana AI Agentic: neʻe mai nā chatbots i ka hoʻokō autonomous",
+    "item2Text": "Hoʻonohonoho i nā ʻōnaehana LLM lehulehu e hoʻolālā, hōʻoia, a hoʻokō i nā kahe hana pāʻoihana paʻakikī me ka nānā ʻana i ke kanaka-in-the-loop.",
+    "item3Date": "Mei 2026",
+    "item3Tag": "Milestone Hui",
+    "item3Title": "Ua ʻike ʻia ma waena o nā keʻena hoʻonaʻauao IT alakaʻi ma Hyderabad",
+    "item3Text": "Ua mahalo ʻia kā mākou hale hana ʻenekinia no ka maikaʻi o ka lawe ʻana, nā ʻenehana hohonu, a me ka ʻoluʻolu o ka mea kūʻai aku ma waena o ka ʻenekinia huahana honua.",
+    "desc": "E ʻimi i nā manaʻo a me nā manaʻo mai Rezonants e pili ana i ka hoʻololi kikohoʻe, AI, automation, cloud, data, software, a me ka wā e hiki mai ana o ka ʻenehana ʻoihana.",
+    "categories": {
+      "digitalTransformation": "Hoololi Kikohoʻe",
+      "ai": "AI & Automation",
+      "cloud": "Kapua",
+      "data": "ʻIkepili & ʻIkepili",
+      "software": "lako polokalamu",
+      "business": "ʻOihana a me ʻenehana"
+    }
+  },
+  "technologies": {
+    "title": "Nā ʻenehana & Hoʻolālā",
+    "headline": "Hoʻoponopono ʻenehana ʻoihana",
+    "sub": "ʻenehana akamai. Nā hana ʻakomi. ʻoihana akamai.",
+    "selectTechnology": "E koho i kahi hoʻonā ʻenehana…",
+    "options": {
+      "aiRobotics": "AI & Lopako",
+      "businessAutomation": "Nā Hoʻoponopono ʻOihana ʻOihana",
+      "cloudMigrations": "Hoʻonā ʻia ʻo Cloud Migration",
+      "dataCenters": "Nā Haʻina ʻIkepili",
+      "cognitiveAnalytics": "Hoʻopaʻa Kognitive & AI",
+      "informationReporting": "Pūnaehana ʻIke & Hōʻike",
+      "managedServices": "Nā lawelawe mālama ʻia",
+      "oneStopSolutions": "Hoʻokahi-Stop Technology Solutions"
+    },
+    "explore": "E ʻimi i ka ʻenehana",
+    "bookDiscovery": "ʻIke ʻenehana Buke",
+    "exploreAll": "E ʻimi i nā ʻenehana a pau",
+    "coreCapabilities": "Nā Manaʻo ʻenehana kumu",
+    "bookConsultation": "Buke i kahi kukakuka"
+  },
+  "contact": {
+    "eyebrow": "Hoʻokaʻaʻike",
+    "title": "E kamaʻilio me ka ʻenekinia poʻokela, ʻaʻole ka palapala kūʻai",
+    "sub": "E kaʻana liʻiliʻi e pili ana i kāu papahana a e pane mākou i loko o hoʻokahi lā ʻoihana.",
+    "reachUs": "E kiʻi pololei mai iā mākou",
+    "preferConversation": "Makemake i ke kamaʻilio? Hoʻokahi kelepona mākou.",
+    "contactLede": "ʻO ke ala wikiwiki loa e neʻe ai i mua, he kamaʻilio pōkole. E kiʻi mai iā mākou ma kekahi ala ma lalo, a i ʻole e kākau i kahi slot a e hele mākaukau mākou iā ʻoe.",
+    "phone": "Kelepona",
+    "email": "Leka uila",
+    "office": "Keena",
+    "hours": "Hola",
+    "hoursValue": "Mon – Poaono, 9:30 – 18:30 IST",
+    "bookSlot": "E hoʻopaʻa i kahi slot kūkākūkā",
+    "sendMessage": "E hoʻouna mai iā mākou i leka uila",
+    "fieldsRequired": "Pono nā kahua i kaha ʻia me *.",
+    "fullName": "Inoa piha *",
+    "emailLabel": "leka uila *",
+    "company": "Hui",
+    "subject": "Kumuhana",
+    "messageLabel": "memo *",
+    "sending": "Hoʻouna…",
+    "sendBtn": "Hoʻouna memo",
+    "successMsg": "Hoʻouna ʻia ka leka! Ua leka uila ʻia kahi kope iā ʻoe.",
+    "errorMsg": "ʻAʻole hiki ke mālama i kāu leka. E nānā inā aia ka papa ʻaina contact_messages, a laila e hoʻāʻo hou.",
+    "offices": {
+      "vijayawada": "Keena Vijayawada",
+      "southAfrica": "Keena o Aferika Hema"
+    },
+    "placeholders": {
+      "fullName": "Kou inoa piha",
+      "email": "you@company.com",
+      "company": "Kou hui a hui paha",
+      "subject": "Pehea mākou e kōkua ai?",
+      "message": "E haʻi mai iā mākou e pili ana i kāu papahana, ka palena manawa, a me nā pahuhopu..."
+    },
+    "validation": {
+      "fullNameRequired": "E ʻoluʻolu e hoʻokomo i kou inoa piha.",
+      "emailRequired": "E ʻoluʻolu e hoʻokomo i kāu leka uila.",
+      "emailInvalid": "E ʻoluʻolu e hoʻokomo i kahi leka uila kūpono.",
+      "messageRequired": "E ʻoluʻolu e hoʻokomo i kahi memo."
+    }
+  },
+  "services": {
+    "eyebrow": "Nā lawelawe",
+    "title": "He aha kā mākou e hana ai",
+    "sub": "Mai ka hoʻolālā a hiki i nā hana hoʻokele, hāʻawi mākou i nā hui ʻenehana hope-to-end no nā hui e hoʻokūkū nei i ka hoʻokō.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Hoomaka ana i ka Hoolaha",
+        "description": "Hoʻopau i ka hopena o nā hoʻonā kikohoʻe hou mai nā koi ʻoihana a me ka hoʻolālā hoʻonā ma o ka hoʻomohala ʻana, ka hoʻohui ʻana, ka hoʻāʻo ʻana, ka waiho ʻana, a me ke kākoʻo mau."
+      },
+      "businessProcessAutomation": {
+        "label": "ʻOkoʻa kaʻina hana ʻoihana",
+        "description": "Ka hoʻolālā a me ka hoʻokō ʻana i nā ʻōnaehana automation naʻauao e hoʻopololei i nā kaʻina hana ʻoihana, hoʻopau i nā hana lima lima hou, hoʻomaikaʻi i ka hana pono, a me ka wikiwiki i nā hopena ʻoihana."
+      },
+      "centerOfExcellence": {
+        "label": "Kikowaena o ka hanohano",
+        "description": "Ka hoʻokumu ʻana i nā ʻenehana kūikawā a me nā kikowaena hiki ke hoʻolako i ka hoʻomalu, nā kūlana, ka ʻike, nā ʻōnaehana, nā waiwai hiki ke hoʻohana hou ʻia, a me ka hoʻomaikaʻi mau ʻana ma waena o ka hui."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Hoʻomohala maʻamau a hoʻoponopono",
+        "description": "Ka hoʻomohala ʻana a me ka hoʻonui ʻana i nā noi, nā paepae, nā kahe hana, a me nā hoʻonā ʻoihana e hoʻoponopono i nā koi ʻoihana kūʻokoʻa a hāʻawi i nā hana i kūpono."
+      },
+      "digitalTransformation": {
+        "label": "Hoololi Kikohoʻe",
+        "description": "Hoʻololi hou i nā hana ʻoihana, kaiaola ʻenehana, a me nā ʻike o nā mea kūʻai aku ma o ke ao, AI, automation, data, a me nā ʻenehana noiʻi hou."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Ka Hoʻoponopono Hoʻopau i ka hopena",
+        "description": "He ala hoʻopuka holoʻokoʻa e uhi ana i ke ola ʻenehana holoʻokoʻa—mai ka hoʻolālā, nā koi, a me ka hoʻolālā ʻana a hiki i ka hoʻomohala ʻana, ka hoʻohui ʻana, ka hoʻokau ʻana, ka hoʻomalu, ka nānā ʻana, a me ke kākoʻo."
+      },
+      "migrationModernization": {
+        "label": "Ka neʻe ʻana a me ka hana hou ʻana",
+        "description": "Ka neʻe ʻana o nā noi, ʻikepili, nā paepae, nā ʻōnaehana, a me nā haʻahaʻa hana mai ka hoʻoilina a i ʻole nā kaiapuni i kēia manawa a hiki i nā paepae ʻenehana hou, hiki ke hoʻonui ʻia, a me ka maikaʻi."
+      },
+      "pocPilotImplementation": {
+        "label": "Hōʻoiaʻiʻo o ka Manaʻo (PoC) & Hoʻokō Pilot",
+        "description": "Ka hoʻomohala wikiwiki a me ka hōʻoia ʻana i nā ʻenehana ʻenehana no ka loiloi ʻana i ka hiki ʻana o ka ʻenehana, ka waiwai ʻoihana, nā koi hoʻohui, ka hana, a me ka scalability ma mua o ka hoʻokō piha ʻana."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Nā lawelawe kaʻana like a me nā hana i mālama ʻia",
+        "description": "Hoʻopuka kikowaena o ka ʻenehana a me nā mana hana ma waena o nā ʻoihana ʻoihana ma o nā kaʻina hana maʻamau, nā kumuwaiwai akamai, nā papa hana hoʻomalu, ka hoʻokele lawelawe, a me nā pae lawelawe hiki ke ana."
+      },
+      "customDevelopment": {
+        "label": "Hoomaka ana i ka Hoolaha",
+        "description": "Ka hoʻomohala ʻana i ka hopena o nā ʻōnaehana kikohoʻe hou mai nā koi ʻoihana a me ka hoʻolālā hoʻonā ma o ka hoʻomohala ʻana, ka hoʻohui ʻana, ka hoʻāʻo ʻana, ka waiho ʻana, a me ke kākoʻo mau."
+      },
+      "processAutomation": {
+        "label": "ʻOkoʻa kaʻina hana ʻoihana",
+        "description": "Ka hoʻolālā a me ka hoʻokō ʻana i nā ʻōnaehana automation naʻauao e hoʻopololei i nā kaʻina hana ʻoihana, hoʻopau i nā hana lima lima hou, hoʻomaikaʻi i ka hana pono, a me ka wikiwiki i nā hopena ʻoihana."
+      },
+      "solutionEngineering": {
+        "label": "Hoʻomohala Kuʻuna & Hoʻoponopono",
+        "description": "Ka hoʻomohala ʻana a me ka hoʻonui ʻana i nā noi, nā paepae, nā kahe hana, a me nā hoʻonā ʻoihana e hoʻoponopono i nā koi ʻoihana kūʻokoʻa a hāʻawi i nā hana i kūpono."
+      },
+      "endToEndSolutions": {
+        "label": "Hoʻopau i ka hopena o ka hoʻoponopono",
+        "description": "He ala hoʻopuka holoʻokoʻa e uhi ana i ke ola ʻenehana piha—mai ka hoʻolālā, nā koi, a me ka hoʻolālā ʻana a hiki i ka hoʻomohala ʻana, ka hoʻohui ʻana, ka hoʻokau ʻana, ka hoʻomalu, ka nānā ʻana, a me ke kākoʻo."
+      },
+      "migrationServices": {
+        "label": "Ka neʻe ʻana a me ka hana hou ʻana",
+        "description": "Ka neʻe ʻana o nā noi, ʻikepili, platform, ʻōnaehana, a me nā haʻahaʻa hana mai ka hoʻoilina a i ʻole nā kaiapuni e kū nei i nā paepae ʻenehana hou, hiki ke hoʻonui ʻia, a me ka maikaʻi."
+      },
+      "pilotPrototyping": {
+        "label": "Hōʻoiaʻiʻo o ka Manaʻo (PoC) & Hoʻokō Pilot",
+        "description": "Ka hoʻomohala wikiwiki a me ka hōʻoia ʻana i nā ʻenehana ʻenehana e loiloi i ka hiki ke ʻenehana, ka waiwai ʻoihana, nā koi hoʻohui, ka hana, a me ka scalability ma mua o ka hoʻokō piha ʻana."
+      },
+      "sharedServices": {
+        "label": "Nā lawelawe Kaʻana like a me nā hana i mālama ʻia",
+        "description": "Hoʻopuka kikowaena o ka ʻenehana a me ka hiki ke hana ma waena o nā ʻāpana ʻoihana ma o nā kaʻina hana maʻamau, nā kumuwaiwai akamai, nā papa hana hoʻomalu, ka hoʻokele lawelawe, a me nā pae lawelawe hiki ke ana."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Hoʻonohonoho i kahi kūkākūkā",
+      "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā",
+      "talkSeniorEngineer": "E kamaʻilio me kekahi Luna Nui",
+      "exploreTechStack": "E 'imi i ka waihona 'enehana",
+      "bookPocSession": "Buke i ka PoC Discovery Session",
+      "seeAllServices": "E nana i na lawelawe a pau",
+      "requestAssessment": "Noi i ka helu neʻe ʻana",
+      "exploreCloudSolutions": "E ʻimi i nā Hoʻoponopono Ao"
+    },
+    "sharedServices": {
+      "heroBadge": "NA HANA A ME NA HANA HOOLOHE",
+      "heroTitle": "Nā lawelawe Kaʻana like ʻoihana a me nā hana i hoʻokele ʻia",
+      "heroDesc": "Hoʻonui i ka hiki ʻana o ka ʻoihana, hoʻopololei i nā kahe hana ʻokoʻa, a hoʻokō i ka maikaʻi o ka hana ma o nā hiʻohiʻona lawelawe maʻamau, paʻa, a me ke kumu kūʻai.",
+      "bookDiscovery": "Loaʻa nā hana i mālama ʻia ma ka puke",
+      "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā",
+      "coreCapabilities": "Nā Mana Koʻikoʻi:",
+      "managedServices": "Nā lawelawe mālama ʻia",
+      "itOperations": "Hana IT",
+      "appSupport": "Kākoʻo noi",
+      "serviceManagement": "Hooponopono lawelawe",
+      "resourceOptimization": "Hoʻonui waiwai",
+      "slaManagement": "Hooponopono SLA",
+      "governance": "Aupuni",
+      "continuousImprovement": "Hoomaikai mau",
+      "costOptimization": "Hoʻonui Kūʻai",
+      "readyTitle": "Mākaukau e hoʻonui i kāu mau hana?",
+      "readyDesc": "E ʻike pehea e hiki ai i kā mākou Shared Services & Managed Operations frameworks ke hoʻomaikaʻi i ka maikaʻi o ka lawelawe, hōʻoia i ka hoʻomau ʻana o ka hana, a hoʻokele i nā kumukūʻai hoʻomau no kāu ʻoihana.",
+      "scheduleSession": "Hoʻonohonoho i kahi hālāwai ʻike"
+    },
+    "solutionEngineering": {
+      "heroBadge": "HANA HANA & NUI",
+      "heroTitle": "Hoʻomohala maʻamau a hoʻoponopono",
+      "heroDesc": "Hoʻolālā, ʻenekinia, a hoʻolālā i nā ʻōnaehana polokalamu hana kiʻekiʻe i hoʻolālā ʻia no kāu mau kahe hana, nā paipu ʻikepili, a me nā koi nui."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "KA HOʻOPIʻI A ME KA HOʻOHANA",
+      "heroTitle": "Hōʻoiaʻiʻo o ka Manaʻo (PoC) & Hoʻokō Pilot",
+      "heroDesc": "E hōʻoia i nā ʻenehana e puka mai nei, nā hale hana paʻakikī e hōʻemi i ka pilikia, a e hōʻoia i ka waiwai o ka ʻoihana me nā prototypes pae hana i nā pule, ʻaʻole i ka hapaha."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "KA OLA A ME KA HOIKE",
+      "heroTitle": "Hoʻopau i ka hopena o ka hoʻoponopono",
+      "heroDesc": "He kŘkohu hoʻolaha hoʻokahi e pili ana i ka ʻike ʻana o ka huahana, ka hoʻolālā hoʻonā, ka ʻenekinia, ka ʻenehana ao, a me nā hana hilinaʻi 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "KA HOʻOPIʻI AʻO A ME KA HOʻOLOKOLO",
+      "heroTitle": "Ka neʻe ʻana a me ka hana hou ʻana",
+      "heroDesc": "Hoʻololi maʻemaʻe i nā haʻawina hoʻoilina, nā hale hoʻolālā monolithic, a me nā ʻōnaehana ma ka hale i nā paepae ao hou, palekana, a hiki ke hoʻonui ʻia."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Hoʻololi ʻoihana",
+        "titlePart1": "Kikohoʻe",
+        "titlePart2": "Hoololi",
+        "description": "Hoʻololi hou i nā hana ʻoihana, ʻenehana kaiaolaola, a me nā ʻike o nā mea kūʻai aku ma o ke ao, AI, automation, data, a me nā ʻenehana noi hou.",
+        "bookWorkshop": "Hale Hana Hoololi Buke",
+        "exploreFramework": "E ʻimi i ka Papahana Hoʻonā",
+        "startTransformation": "Hoomaka Hoololi",
+        "exploreStrategy": "E 'imi i ke Kumu",
+        "coreCapabilitiesTitle": "Na Mana Mana",
+        "coreCapabilities": [
+          "Hoʻolālā Kikohoʻe",
+          "Hoololi Ao",
+          "AI & Automation",
+          "Noi no ka hana hou ana",
+          "Legacy Modernization",
+          "ʻIkepili & ʻIkepili",
+          "ʻIke Kūʻai",
+          "Hoʻohou ʻenehana"
+        ],
+        "row1Eyebrow": "Hoʻolālā a me ka palapala alanui",
+        "row1Title": "Mai ka hihio a hiki i ka palapala alanui hiki ke hooko",
+        "row1P1": "Hoʻopili mākou me nā alakaʻi o ka ʻoihana e wehewehe i ka hoʻolālā kikohoʻe, nā hihia ʻoihana, a me nā palapala alanui i hoʻopaʻa ʻia me nā lanakila wikiwiki a me ka hoʻokō ʻana i ka pilikia.",
+        "row1P2": "ʻO nā hana mua, nā hiʻohiʻona TCO, a me nā KPI e hoʻopaʻa pono i kēlā me kēia hana hoʻonaʻauao ʻenehana e pili pono i ka loaʻa kālā, ka pono, a me nā hopena ʻoluʻolu o nā mea kūʻai aku.",
+        "row2Eyebrow": "Legacy Modernization",
+        "row2Title": "Hoʻohou me ka uhaki ʻole i ka ʻoihana",
+        "row2P1": "Hoʻokumu hou i nā monoliths i nā microservices, nā API, a me nā ʻano hoʻohālike kapuaʻi me nā ʻoki ʻoki ʻole-downtime a me ka hōʻoia ʻana i ka regression automated.",
+        "row2P2": "Hoʻololi mākou i nā noi, ʻikepili, a me nā papa hoʻohui ʻoiai e mālama ana i ka hoʻokō a me ke kūlana palekana.",
+        "row3Eyebrow": "Kapua, AI & ʻIkepili",
+        "row3Title": "Hoʻokomo i ke ao a me ka naʻauao i hoʻokumu ʻia i ka ʻikepili",
+        "row3P1": "Hoʻohana i ka AWS, Azure, a me GCP, kūkulu i nā paipu ʻikepili hou, a hoʻokomo i nā ʻelele aʻo mīkini e hoʻoholo i nā hoʻoholo kūʻokoʻa.",
+        "row3P2": "Mai ka hoʻoheheʻe ʻana i ka hanana manawa maoli i nā dashboard i hui pū ʻia, lilo ka hoʻololi ʻana i mea hiki ke ana a paʻa.",
+        "row4Eyebrow": "Ka ʻike mea kūʻai aku",
+        "row4Title": "Nā ʻike omnichannel hou",
+        "row4P1": "Hoʻolālā hou i nā huakaʻi kūʻai ma waena o ka pūnaewele pane, iOS, Android, a me nā puka lawelawe ponoʻī me nā pilina pilikino.",
+        "row4P2": "Hoʻomau ka ʻenekinia platform, telemetry, a me nā puka puka manaʻo ʻokoʻa.",
+        "pillarsTitle": "Na Kia Hoololi",
+        "pillarsSub": "ʻO nā levers e pili ana i ka hopena e hōʻoia i ke alakaʻi kikohoʻe hoʻomau.",
+        "pillar1Title": "Hoʻolālā Kikohoʻe a me ke Aupuni",
+        "pillar1Desc": "Nā papahana hoʻololi i hoʻololi ʻia me ka hoʻohālike ʻana i ka hihia ʻoihana, ka hoʻokele hoʻokele waiwai, a me ka nānā ʻana i ka pilikia.",
+        "pillar2Title": "Ke ao a me ka ʻikepili",
+        "pillar2Desc": "AWS/Azure/GCP mau kapuaʻi kapuaʻi, nā paipu ʻakomi, a me ka hoʻohana ʻana i ka ʻikepili ʻikepili ʻoihana.",
+        "pillar3Title": "AI & Automation",
+        "pillar3Desc": "ʻOmomi kaʻina hana naʻauao, nā ʻelele AI cognitive, a me ka telemetry wānana e hoʻoikaika i nā hana o kēlā me kēia lā.",
+        "pillar4Title": "Ka ʻike mea kūʻai aku",
+        "pillar4Desc": "Nā puka kikohoʻe omnichannel kiʻekiʻe a me nā pilina pilikino i kūkulu ʻia no ka paʻa ʻana o ka mea hoʻohana.",
+        "ctaTitle": "Mākaukau e hoʻololi i kāu ʻoihana?",
+        "ctaSub": "E hui pū me Rezonants no ka hoʻololi kikohoʻe i hoʻopaʻa ʻia i hoʻopaʻa ʻia i nā hopena ʻoihana hiki ke ana.",
+        "ctaButton": "E puke i kahi kelepona hoʻololi kikohoʻe"
+      },
+      "customDevelopment": {
+        "eyebrow": "Hoʻopau-a-hopena Kikohoʻe ʻenekinia",
+        "titlePart1": "Hoomaka I",
+        "titlePart2": "Hoʻolaha",
+        "bookConsultation": "Buke i kahi kukakuka",
+        "exploreEngineering": "E 'imi i ka 'enekinia Solution"
+      },
+      "processAutomation": {
+        "eyebrow": "Nā Hana Hana Naʻauao",
+        "titlePart1": "Kaʻina Hana Hana",
+        "titlePart2": "Otometi",
+        "bookDiscovery": "Loaʻa i ka ʻOtometi Buke",
+        "exploreCoE": "E ʻimi i ke kikowaena o ka maikaʻi"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Waena o",
+        "titlePart2": "Nani",
+        "bookConsultation": "Kūkākūkā CoE Buke",
+        "exploreCapabilities": "E ʻimi i nā mea hiki"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Hoʻopau ʻenehana Lifecycle",
+        "titlePart1": "Hope-a-hope",
+        "titlePart2": "Ka Hoʻoponopono Paʻa",
+        "startJourney": "E hoʻomaka i kāu huakaʻi holo ola",
+        "exploreTransformation": "E ʻimi i ka Hoʻololi"
+      },
+      "migrationServices": {
+        "eyebrow": "Ke ao a me ka hoʻololi ʻana i nā ʻoihana",
+        "titlePart1": "Ka neʻe ʻana &",
+        "titlePart2": "Hoʻoponopono hou",
+        "planMigration": "E hoʻolālā i kou neʻe ʻana",
+        "exploreTransformation": "E ʻimi i ka Hoʻololi"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Hōʻoia wikiwiki a me ka hiki",
+        "titlePart1": "Hōʻoiaʻiʻo o ka Manaʻo (PoC) &",
+        "titlePart2": "Hoʻokō Pilot",
+        "initiateDiscovery": "E hoʻomaka i ka ʻike PoC",
+        "exploreDevelopment": "E ʻimi i ka hoʻomohala maʻamau"
+      },
+      "solutionEngineering": {
+        "badge": "Hoʻopilikino ʻenehana",
+        "bookConsultation": "Buke i kahi kukakuka",
+        "exploreCapabilities": "E ʻimi i nā mea hiki"
+      },
+      "sharedServices": {
+        "eyebrow": "Huna Hana Kūwaena",
+        "titlePart1": "Nā lawelawe Kaʻana like &",
+        "titlePart2": "Nā hana i mālama ʻia",
+        "bookDiscovery": "Loaʻa nā hana i mālama ʻia ma ka puke",
+        "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā"
+      }
+    },
+    "coreCapabilities": "Nā Mana Koʻikoʻi"
+  },
+  "products": {
+    "featured": "Nā Huahana Manaʻo",
+    "featuredSub": "E hoʻomaʻamaʻa i nā hana, hoʻohui i nā hui, hoʻokaʻawale i nā kaʻina hana, a hoʻoikaika i ka ulu ʻana o ka ʻoihana.",
+    "seeAll": "E nānā i nā huahana a pau",
+    "featuredProducts": "HUI HOIKE",
+    "meetAutonomous": "E hui me ka Poʻe Hana Kūʻokoʻa",
+    "meetAutonomousText": "E hoʻololi i kāu mau hana me nā ʻelele AI e hana pū ana me kāu hui e lawelawe i nā hana paʻakikī, hana hou.",
+    "learnMore": "Aʻo hou",
+    "erp": {
+      "title": "Hoʻokahi Papahana Mākaukau no kēlā me kēia mea",
+      "sub": "Hoʻoikaika i nā ʻoihana me nā hoʻonā hoʻokele ʻoihana pili, naʻauao, a hiki ke hoʻonui ʻia.",
+      "explore": "E ʻimi i nā hoʻonā ERP",
+      "gridTitle": "NA HANA ERP",
+      "promoTitle": "ERP modular no ka ulu",
+      "promoText": "Hoʻolaha wikiwiki i nā hiʻohiʻona ERP modular me ka ʻole o ka paʻakikī o nā ʻōnaehana kuʻuna makahiki.",
+      "scheduleDemo": "Hōʻike Hōʻike"
+    },
+    "it": {
+      "title": "Hoʻoponopono IT",
+      "sub": "ʻO ka ʻoihana, palekana, a me nā hoʻonā DevOps e hoʻomau i kāu ʻoihana.",
+      "explore": "E ʻimi i nā ʻĀpana IT",
+      "gridTitle": "NA HANA",
+      "promoTitle": "Hoʻolālā IT hilinaʻi",
+      "promoText": "E kūkulu i kahua ʻenehana kūpaʻa me nā lawelawe kapuaʻi mālama, palekana, a me nā lawelawe DevOps.",
+      "getStarted": "E hoʻomaka"
+    },
+    "crm": {
+      "title": "Hoʻoponopono CRM",
+      "sub": "Hoʻokele pili i nā mea kūʻai aku e hoʻomāmā i ke kūʻai ʻana, kākoʻo, a me nā kahe hana kūʻai.",
+      "explore": "E ʻimi i nā hoʻonā CRM",
+      "gridTitle": "NA HANA CRM",
+      "promoTitle": "Hoʻopili i nā ʻoihana hou aku",
+      "promoText": "E hoʻoikaika i kāu mau kūʻai aku a me nā hui kākoʻo me ka ʻikepili kūʻai like ʻole a me ka automation naʻauao.",
+      "startTrial": "E hoʻomaka i ka hoʻāʻo manuahi"
+    },
+    "hrms": {
+      "title": "Hoʻoponopono HRMS",
+      "sub": "Hoʻokele waiwai kanaka e pili ana i ka uku, hoʻolimalima, hana, a me ka hoʻopili ʻana i nā limahana.",
+      "explore": "E ʻimi i nā Hoʻoponopono HRMS",
+      "gridTitle": "HANA HRMS",
+      "promoTitle": "E hoʻomaʻamaʻa i nā hana HR",
+      "promoText": "Hoʻokaʻawale i nā kaʻina hana HR mai ka hoʻopaʻa ʻana a hiki i ka hoʻomaha ʻana me kahi kahua hou, limahana-mua.",
+      "requestDemo": "Noi Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Nā Huahana Manaʻo",
+      "erpSolutions": "Hoʻoponopono ERP",
+      "solutions": "HAAWINA"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Nā ʻelele kūʻokoʻa naʻauao a me nā mea hana e hoʻokaʻawale i nā kahe hana paʻakikī a me nā hana a nā mea kūʻai aku."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "ʻO ka paepae hoʻokele nui-cloud e hoʻonui ana i ka hana, ka palekana, ka hoʻokō, a me nā koina."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "ʻO ka hui like ʻana a me ka hub huahana me ka hana hoʻohui, kamaʻilio, a me ka hoʻokele palapala."
+      },
+      "dataStream": {
+        "title": "ʻIkepili",
+        "description": "Ke hoʻololi nei ka ʻenekini loiloi manawa maoli i nā kahawai o nā hanana ʻoihana i mau ʻike hiki ke hana."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Hoʻolālā ʻoihana hui e pili ana i ke kālā, waiwai, HR, kūʻai, a me ka waihona."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Ke kahua ʻike limahana e uhi ana i ka uku uku, nā pōmaikaʻi, nā loiloi hana, a me ka lawelawe ponoʻī."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "ʻO ka nānā ʻana i ka logistic manawa maoli, nā hana hale kūʻai ʻokoʻa, a me ka wānana noi."
+      },
+      "financeHub": {
+        "title": "Huna Waiwai",
+        "description": "Ka hoʻokele ʻana i ka papa helu kiʻekiʻe, nā kahe hana bila, ka hoʻokō ʻakomi, a me nā hōʻike kālā i ka manawa maoli."
+      },
+      "cloudInfrastructure": {
+        "title": "Kapua",
+        "description": "Hoʻolālā ʻia ke ao, neʻe, a me ka hoʻokele ma waena o AWS, Azure, a me GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Pūnaewele Pūnaewele",
+        "description": "Ka nānā ʻana i ka palekana o ka hopena, ka ʻike hoʻoweliweli, a me ka hoʻokele hoʻokō."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD automation, containerization, and infrastructure-as-code for fast delivery."
+      },
+      "managedItServices": {
+        "title": "Nā lawelawe IT i mālama ʻia",
+        "description": "24/7 ka nānā ʻana i nā ʻōnaehana, pane i nā hanana, a me ka mālama pono."
+      },
+      "salesCrm": {
+        "title": "Kūʻai CRM",
+        "description": "Ka hoʻokele paipu, ka helu alakaʻi, ka hoʻopaʻa ʻana, a me ka wānana kūʻai ma ka paepae hoʻokahi."
+      },
+      "customerSupportHub": {
+        "title": "Hub Kākoʻo Mea Kūʻai",
+        "description": "Kikika, kumu ʻike, kamaʻilio ola, a me ka hoʻokele kākoʻo omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Ke kūʻai aku ʻana",
+        "description": "Ka hoʻolaha hoʻolaha, ka leka uila, alakaʻi hānai, a me nā ʻikepili."
+      },
+      "customer360View": {
+        "title": "Mea kūʻai 360 Nānā",
+        "description": "Nā moʻolelo kūʻai aku i hui pū ʻia e hui pū ana i ke kūʻai aku, kākoʻo, a me ka ʻikepili pili."
+      },
+      "coreHr": {
+        "title": "Ke kumu HR",
+        "description": "Nā moʻolelo o nā limahana, ka hierarchy hui, ka hoʻokele haʻalele, a me ka nānā ʻana i ka hele ʻana."
+      },
+      "payrollCompliance": {
+        "title": "Uku Uku & Hoʻokō",
+        "description": "Ka hoʻoili ʻana i ka uku uku, helu ʻauhau, a me ka hoʻokō kānāwai."
+      },
+      "performanceManagement": {
+        "title": "Hooponopono Hana",
+        "description": "OKR ka hoʻokolo ʻana, 360° loiloi, hoʻonohonoho pahuhopu, a me nā hoʻolālā hoʻomohala limahana."
+      },
+      "recruitmentPortal": {
+        "title": "Puka Hoolimalima",
+        "description": "Nā leka hana, ka nānā ʻana i ka mea noi, ka hoʻonohonoho ʻana i ka nīnauele, a me nā kahe hana ma luna."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Nā Huahana Manaʻo",
+        "heading": "Nā Huahana Manaʻo",
+        "sub": "E hoʻomaʻamaʻa i nā hana, hoʻohui i nā hui, hoʻokaʻawale i nā kaʻina hana, a hoʻoikaika i ka ulu ʻana o ka ʻoihana.",
+        "promoTitle": "E hālāwai me ka Poʻe Hana Kūʻokoʻa",
+        "promoText": "E hoʻololi i kāu mau hana me nā ʻelele AI e hana pū ana me kāu hui e lawelawe i nā hana paʻakikī, hana hou.",
+        "items": [
+          {
+            "title": "AI Automation & Naauao",
+            "description": "Hoʻokaʻawale i nā hana hou a kau i nā ʻelele AI naʻauao e hoʻomaikaʻi i ka huahana, hoʻoholo, a me nā hopena ʻoihana."
+          },
+          {
+            "title": "IT Service & Digital Support",
+            "description": "Hāʻawi i ke kākoʻo IT ʻoi aku ka wikiwiki a me ka naʻauao me ka hoʻokele lawelawe maʻalahi, automation, a me nā kahe hana kikohoʻe."
+          },
+          {
+            "title": "Ke Aupuni AI Hui",
+            "description": "E kūkulu i ka hoʻokomo ʻia ʻana o AI me ka hoʻomalu ikaika, ka palekana, ka hoʻokō ʻana, ka mālikoa, a me nā mana pilikia."
+          },
+          {
+            "title": "Nā hana IT akamai",
+            "description": "E hoʻololi i nā hana IT me ka nānā ʻana i alakaʻi ʻia e AI, ka automation, nā ʻike wanana, a me ka hoʻonā pilikia."
+          },
+          {
+            "title": "Hoʻokele ʻike mea kūʻai aku",
+            "description": "E hana i nā huakaʻi kūʻai pilikino me ka hoʻopili naʻauao, automation, analytics, a me nā ʻike kikohoʻe maʻemaʻe."
+          },
+          {
+            "title": "Hoʻolālā pāʻoihana a me ka hoʻonui ʻana i ka waihona",
+            "description": "Hoʻopili i nā hoʻopukapuka ʻenehana me nā pahuhopu pāʻoihana e hoʻopaʻa pono i nā portfolios, hoʻomaikaʻi i ka pono, a hoʻoikaika i ka ulu hoʻomau."
+          },
+          {
+            "title": "IT waiwai & ʻenehana Lifecycle",
+            "description": "E hoʻokele i nā waiwai IT i ko lākou ola holoʻokoʻa me ka ʻike maikaʻi aʻe, ka automation, ka mālama kumu kūʻai, a me ka hoʻolālā ʻenehana."
+          },
+          {
+            "title": "Pilikia & Hoʻokō ʻoihana",
+            "description": "E ʻike, loiloi, a mālama i nā pilikia o ka ʻoihana me ka hoʻoikaika ʻana i ka hoʻokō, ka hoʻomalu, a me ke kūpaʻa o ka hui."
+          },
+          {
+            "title": "Hoʻopalekana Pūnaewele a me nā hana hoʻoweliweli",
+            "description": "Mālama i nā kaiapuni kikohoʻe me ka ʻike hoʻoweliweli, nā hana palekana, ka pane ʻana i nā hanana, a me ka nānā mau ʻana."
+          },
+          {
+            "title": "'Otomatika Hana Hana",
+            "description": "E hoʻoikaika i nā pūʻulu kahua me ka hoʻonohonoho naʻauao, nā kahe hana paʻa lima, automation, a me ka ʻike ʻana i ka hana manawa maoli."
+          },
+          {
+            "title": "Ka ʻike limahana a me nā lawelawe HR",
+            "description": "E hoʻomaʻamaʻa i nā lawelawe limahana me nā kahe hana kikohoʻe, nā hoʻonā lawelawe ponoʻī, automation, a me nā ʻike pilikino pilikino."
+          },
+          {
+            "title": "Wahi Hana Kikohoʻe Unified",
+            "description": "Hoʻohui i nā poʻe, nā kaʻina hana, nā noi, a me nā mea hana like ʻole ma o kahi wahi hana kikohoʻe paʻa, naʻauao, a paʻa ʻole."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Hoʻoponopono ERP",
+        "heading": "Hoʻokahi Papahana, Mākaukau no nā mea a pau",
+        "sub": "Hoʻoikaika i nā ʻoihana me nā hoʻonā hoʻokele ʻoihana pili, naʻauao, a hiki ke hoʻonui ʻia.",
+        "promoTitle": "ERP modular no ka ulu",
+        "promoText": "Hoʻopuka wikiwiki i nā hiʻohiʻona ERP modular me ka ʻole o ka paʻakikī o nā ʻōnaehana kuʻuna makahiki.",
+        "items": [
+          {
+            "title": "ʻOkoʻa kaʻina hana ʻoihana",
+            "description": "E hoʻopololei i ke kālā, HR, kūʻai, kūʻai, a me nā hana i kēlā me kēia lā."
+          },
+          {
+            "title": "Hoʻoponopono Pāʻoihana Hoʻohui",
+            "description": "Hoʻohui i nā keʻena, nā ʻikepili, a me nā kahe hana ma kahi paepae i hui pū ʻia."
+          },
+          {
+            "title": "Waiwai & Helu",
+            "description": "E hoʻomaikaʻi i ka ʻike kālā, ka hōʻike ʻana, ka hoʻolilo kālā, a me ka hoʻokō."
+          },
+          {
+            "title": "HR & uku",
+            "description": "E hoʻomaʻamaʻa i ka hoʻokele limahana, ka hele ʻana, ka uku, a me nā kaʻina hana HR."
+          },
+          {
+            "title": "Hooponopono Waiwai",
+            "description": "E hoʻonui i ke kūʻai ʻana, nā mea kūʻai aku, nā mea kūʻai aku, a me nā loiloi."
+          },
+          {
+            "title": "Ke kūʻai aku a me ka hoʻokele waiwai",
+            "description": "Mālama i nā alakaʻi, nā mea kūʻai, nā kauoha, a me nā hana kūʻai me ka maikaʻi."
+          },
+          {
+            "title": "Ka Ike & Hoike Manawa maoli",
+            "description": "E hoʻololi i ka ʻikepili ʻoihana i mau ʻike hiki ke hana no nā hoʻoholo wikiwiki."
+          },
+          {
+            "title": "Hoʻoponopono Cloud ERP",
+            "description": "E ho'ā i ka ho'okele 'oihana pa'a, ho'onui, a hiki i nā wahi a pau."
+          }
+        ]
+      },
+      "it": {
+        "title": "Hoʻoponopono IT",
+        "heading": "Ko makou IT Solutions",
+        "sub": "E hoʻololi i nā hana IT me nā hoʻonā kikohoʻe akamai, hoʻoikaika, a hiki ke hoʻonui ʻia e hoʻomaikaʻi i ka hana, ka huahana, a me ka hoʻomau ʻoihana.",
+        "promoTitle": "Hoʻolālā IT hilinaʻi",
+        "promoText": "E kūkulu i ke kahua ʻenehana kūpaʻa me nā lawelawe kapuaʻi, palekana, a me nā lawelawe DevOps.",
+        "items": [
+          {
+            "title": "Hooponopono IT Service",
+            "description": "E hoʻopololei i nā lawelawe IT, nā hanana, nā noi, a me nā kahe hana no ka hoʻoholo wikiwiki."
+          },
+          {
+            "title": "Hooponopono IT",
+            "description": "Mākaʻikaʻi i nā ʻōnaehana a me nā noi me nā hana IT hoʻoikaika ʻia."
+          },
+          {
+            "title": "Hooponopono waiwai IT",
+            "description": "Mālama pono i nā waiwai ʻenehana me ka hoʻemi ʻana i nā kumukūʻai, nā pilikia, a me ka paʻakikī o ke ola."
+          },
+          {
+            "title": "Hana Hana Hana",
+            "description": "Hoʻopili i ka hoʻolālā ʻoihana me ka hoʻolālā ʻenehana kūpono a me nā hoʻopukapuka kālā."
+          },
+          {
+            "title": "Hooponopono Ao",
+            "description": "E hoʻomaikaʻi i ka palekana ao, ka hoʻokō, ka hana, a me ka hoʻokele waiwai."
+          },
+          {
+            "title": "Nā Hana Kikohoʻe",
+            "description": "Hoʻokaʻawale i nā kaʻina IT a loaʻa ka ʻike manawa maoli ma kāu ʻenehana ʻenehana."
+          },
+          {
+            "title": "Ka nana a me ka nana ana",
+            "description": "E ʻike koke i nā pilikia hana a mālama i nā ʻike kikohoʻe hilinaʻi."
+          },
+          {
+            "title": "Hoʻokele waiwai hoʻolālā",
+            "description": "Hoʻohui i nā hoʻopukapuka IT me nā mea nui o ka ʻoihana a me nā hopena hiki ke ana."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Hoʻoponopono CRM",
+        "heading": "ʻO kā mākou CRM Solutions",
+        "sub": "Hāʻawi i nā ʻike mea kūʻai pili, pilikino, a naʻauao ma ka huakaʻi holoʻokoʻa.",
+        "promoTitle": "Hoʻopili i nā ʻoihana hou aku",
+        "promoText": "E hoʻoikaika i kāu mau kūʻai a me nā hui kākoʻo me ka ʻikepili kūʻai like ʻole a me ka automation naʻauao.",
+        "items": [
+          {
+            "title": "Hooponopono Hoohana",
+            "description": "E hoʻomaikaʻi i ke kākoʻo o ka mea kūʻai aku me ka hoʻonā wikiwiki, lawelawe ponoʻī, a me nā kahe hana naʻauao."
+          },
+          {
+            "title": "Kūʻai Automation",
+            "description": "Hoʻokaʻawale i nā hana kūʻai, hoʻokele i nā alakaʻi, a kōkua i nā hui e pani wikiwiki i nā manawa."
+          },
+          {
+            "title": "Ke kuai a me ka hooponopono kauoha",
+            "description": "E hoʻopololei i ka huakaʻi mai ke alakaʻi i ke kauoha a hoʻomaikaʻi i ka ʻike kālā."
+          },
+          {
+            "title": "Hooponopono Kihapai",
+            "description": "E hoʻonui i nā hana o ke kahua, ka hoʻonohonoho ʻana, ka hoʻouna ʻana, a me ka huahana ʻenehana."
+          },
+          {
+            "title": "Hoʻokele ʻike mea kūʻai aku",
+            "description": "E hana i nā ʻike maʻemaʻe a pilikino i kēlā me kēia mea kūʻai aku."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "E hoʻohuli i ka ʻikepili o nā mea kūʻai aku i mau ʻike hiki ke hana no nā hoʻoholo ʻoihana akamai."
+          },
+          {
+            "title": "Ke kūʻai aku ʻana",
+            "description": "Hoʻokaʻawale i nā hoʻolaha, ka hoʻopili ʻana i nā mea kūʻai aku, a me ka hānai alakaʻi."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "E hoʻohana i ka automation naʻauao a me nā ʻike AI e hoʻomaikaʻi i ka huahana a me ka hoʻopili ʻana i nā mea kūʻai aku."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Hoʻoponopono HRMS",
+        "heading": "ʻO kā mākou HRMS Solutions",
+        "sub": "E hoʻoikaika i kāu poʻe limahana me nā hoʻonā HR naʻauao, hoʻohui, a maʻalahi e hoʻomaʻamaʻa i ka hoʻokele limahana a hoʻomaikaʻi i ka ʻike wahi hana.",
+        "promoTitle": "E hoʻomaʻamaʻa i nā hana HR",
+        "promoText": "Hoʻokaʻawale i nā kaʻina hana HR mai ka hoʻopaʻa ʻana a hiki i ka hoʻomaha ʻana me kahi kahua hou o ka limahana.",
+        "items": [
+          {
+            "title": "Hoʻokele HR",
+            "description": "E mālama pono i ka ʻike o nā limahana, nā hoʻonohonoho hoʻonohonoho, a me nā kaʻina hana HR."
+          },
+          {
+            "title": "Hooponopono Uku",
+            "description": "Hoʻokaʻawale i ka uku uku, ka hoʻoili ʻana i ka uku, hoʻemi, a me ka hoʻokō."
+          },
+          {
+            "title": "Ka lawelawe pono'ī o ka limahana",
+            "description": "Hāʻawi maʻalahi i nā limahana i nā lawelawe HR, nā noi, nā palapala, a me nā ʻike."
+          },
+          {
+            "title": "Ke hele a me ka hoʻokele haʻalele",
+            "description": "E hoʻomaʻamaʻa i ka nānā ʻana i ka hele ʻana, waiho i nā noi, nā hoʻololi, a me nā hola hana."
+          },
+          {
+            "title": "Hoʻolimalima a kau ʻana",
+            "description": "E hoʻopololei i ka hoʻolimalima ʻana, ka hoʻokele moho, ke kau ʻana, a me ka hoʻohui ʻana o nā limahana."
+          },
+          {
+            "title": "Hooponopono Hana",
+            "description": "E hoʻonoho i nā pahuhopu, e hahai i ka hana, a e kākoʻo i ka hoʻomohala ʻana i nā limahana."
+          },
+          {
+            "title": "Aʻo a Hoʻomohala",
+            "description": "Mālama i nā papahana hoʻomaʻamaʻa, hoʻomohala akamai, a me ka ulu ʻana o nā limahana."
+          },
+          {
+            "title": "Hōʻike a me ka hōʻike HR",
+            "description": "E hoʻohuli i ka ʻikepili limahana i mau ʻike hiki ke hana no nā hoʻoholo HR maikaʻi aʻe."
+          },
+          {
+            "title": "AI-Powered HR Automation",
+            "description": "Hoʻokaʻawale i nā hana HR hou a hāʻawi wikiwiki i nā ʻike limahana pilikino."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Hoʻomohala polokalamu",
+        "heading": "ʻO kā mākou mau lawelawe hoʻomohala polokalamu",
+        "sub": "Kūkulu i nā noi palekana, hiki ke hoʻonui ʻia, a me ka hana kiʻekiʻe e hoʻolalelale i ka ulu ʻana o ka ʻoihana a maʻalahi i nā kaʻina hana paʻakikī.",
+        "promoTitle": "E kūkulu i nā polokalamu aloha i nā mea hoʻohana",
+        "promoText": "Mai ka manaʻo a hiki i ka hoʻomaka ʻana, hoʻolālā a hoʻomohala kā mākou hui i nā polokalamu kelepona a me nā pūnaewele kiʻekiʻe e like me ka nui.",
+        "items": [
+          {
+            "title": "Hoʻomohala ʻia nā noi maʻamau",
+            "description": "E hana i nā noi i hoʻolālā ʻia a puni kāu mau koi ʻoihana kūʻokoʻa."
+          },
+          {
+            "title": "Hoʻomohala Pūnaewele & Mobile App",
+            "description": "Hāʻawi i nā ʻike kikohoʻe maʻemaʻe ma ka pūnaewele, kelepona paʻalima, a me nā polokalamu he nui."
+          },
+          {
+            "title": "Hoʻomohala noiʻi ʻoihana",
+            "description": "E hoʻomohala i nā hoʻonā hiki ke hoʻopili ʻia me kāu ʻōnaehana ʻoihana e kū nei."
+          },
+          {
+            "title": "Haʻahaʻa-Code & No-Code Development",
+            "description": "E hoʻolalelale i ka hāʻawi ʻana i nā noi me nā paepae hoʻomohala haʻahaʻa haʻahaʻa maʻalahi."
+          },
+          {
+            "title": "API & Hoʻohui Pūnaewele",
+            "description": "Hoʻohui i nā noi, nā paepae, a me nā ʻōnaehana ʻaoʻao ʻekolu no ka holo ʻana o ka ʻikepili."
+          },
+          {
+            "title": "Noi no ka hana hou ana",
+            "description": "E hoʻololi i nā noi hoʻoilina i mau hoʻonā hou, hiki ke hoʻonui ʻia, a maikaʻi hoʻi."
+          },
+          {
+            "title": "Nā mea hoʻohana AI-Powered",
+            "description": "Hoʻohui AI, automation, a me nā mana akamai i nā noi ʻoihana."
+          },
+          {
+            "title": "No ke kākoʻo a me ka mālama ʻana",
+            "description": "E hōʻoia i ka hana mau, ka palekana, nā mea hou, a me ka hilinaʻi."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Lopako",
+    "businessAutomation": "ʻOkoʻa ʻoihana",
+    "cloudMigrations": "Ka Neʻe Kapua",
+    "dataCenters": "Nā kikowaena ʻikepili",
+    "cognitiveAnalyticsAi": "Hoʻopaʻa noʻonoʻo & AI",
+    "informationReportingSystems": "Pūnaehana ʻIke & Hōʻike",
+    "managedServices": "Nā lawelawe mālama ʻia",
+    "oneStopSolutions": "Hoʻokahi-Stop Solution"
+  },
+  "servicePage": {
+    "serviceOverview": "Nānā Hana Hana",
+    "whatWeOffer": "Ka makou e kaumaha aku ai",
+    "whyChooseRezonants": "No ke aha e koho ai iā Rezonants",
+    "benefitsOfWorking": "Nā pōmaikaʻi o ka hana pū ʻana me mākou",
+    "techStack": "Hoʻopaʻa ʻenehana",
+    "technologiesWeUse": "Nā ʻenehana a mākou e hoʻohana nei",
+    "ourWork": "Ka makou Hana",
+    "relatedProjects": "Nā papahana pili",
+    "viewCaseStudy": "Nānā hihia",
+    "readyToDiscuss": "Mākaukau e kūkākūkā i kāu papahana {{title}}?",
+    "seniorEngineersReady": "Ua mākaukau ko mākou poʻe ʻenekinia nui e kōkua iā ʻoe e hoʻolālā, hoʻolālā, a kūkulu i kāu hoʻonā.",
+    "startProject": "E hoʻomaka i kāu papahana",
+    "howItWorks": "Pehea e hana ai"
+  },
+  "consultation": {
+    "badge": "Buke i ke kukakuka manuahi",
+    "title": "E hoʻolālā kāua i kāu Papahana <span class='hero-accent'>Mea</span>",
+    "description": "E hoʻopaʻa i kahi kelepona ʻole me kā mākou mau hoa kūkā. E kūkākūkā i kāu mau koi, e ʻimi i ke ala ʻenehana kūpono a loaʻa i kahi ʻōlelo aʻoaʻo - ma lalo o 30 mau minuke.",
+    "bookSlot": "Hoʻopaʻa i kāu Slot",
+    "howItWorks": "Pehea ia hana",
+    "accountRequired": "Pono moʻokāki",
+    "signInToBook": "E hoʻopaʻa inoa i kāu kūkākūkā",
+    "accountRequiredText": "Pono ʻoe i kahi moʻokāki Rezonants no ke noi ʻana i kahi kūkākūkā. E ʻeʻe a i ʻole e hana i hoʻokahi - emi iho ma mua o hoʻokahi minuke.",
+    "signInToContinue": "E hoʻokomo e hoʻomau",
+    "newToRezonants": "Hou iā Rezonants?",
+    "createAccount": "Hana i mooolelo",
+    "requestMeeting": "Noi i halawai",
+    "tellUsAboutProject": "E haʻi mai iā mākou e pili ana i kāu papahana",
+    "fillDetails": "E hoʻopiha i kāu kikoʻī a e hōʻoia mākou i kāu slot kūkākūkā ma ka leka uila.",
+    "fullName": "Inoa Piha *",
+    "email": "leka uila *",
+    "phone": "Kelepona *",
+    "company": "Hui",
+    "serviceOfInterest": "lawelawe o ka hoihoi *",
+    "selectService": "Koho i kahi lawelawe…",
+    "preferredDate": "La makemake *",
+    "preferredTime": "Manawa Manawa *",
+    "selectTimeSlot": "E koho i kahi kau manawa…",
+    "estimatedBudget": "Waihona Waiwai",
+    "selectRange": "E koho i kahi laula…",
+    "projectRequirements": "Pono Pāhana",
+    "booking": "Hoʻopaʻa…",
+    "bookFreeConsultation": "E puke i kaʻu kūkākūkā manuahi",
+    "freeNote": "100% manuahi a ʻaʻohe kuleana. E pane mau mākou i loko o 24 mau hola.",
+    "whatToExpect": "He aha ka Manaʻo",
+    "preferToReachUs": "Makemake e kiʻi pololei iā mākou?",
+    "callUs": "E kelepona iā mākou",
+    "emailUs": "E leka uila iā mākou",
+    "visitUs": "E kipa mai iā mākou",
+    "whyBookWithUs": "No ke aha e heluhelu ai me makou",
+    "freeCallTitle": "He kelepona manuahi e kōkua maoli ana",
+    "freeCallNoPressure": "Kāhea ʻAʻole, ʻAʻohe Paʻi",
+    "freeCallNoPressureText": "He manuahi kēlā me kēia kūkākūkā mua. ʻAʻohe kuleana e kūʻai - ʻo ka ʻōlelo aʻo pololei wale nō.",
+    "seniorConsultants": "Nā Kūkākūkā Nui wale nō",
+    "seniorConsultantsText": "Ke alakaʻi ʻia nei kāu hālāwai e nā ʻenekinia kiʻekiʻe a me nā mea aʻoaʻo e kūkulu nei no ke ola.",
+    "clearTimelines": "Hoʻomaʻemaʻe i nā manawa a me nā ʻōlelo",
+    "clearTimelinesText": "Haʻalele me kahi ʻanuʻu aʻe i wehewehe ʻia, ka palena manawa kūpono a me ke kumu kūʻai akaka no kāu papahana.",
+    "services": {
+      "customSoftware": "Hoʻomohala polokalamu maʻamau",
+      "webMobile": "Hoʻomohala Pūnaewele & Mobile App",
+      "cloudDevops": "ʻO Cloud & DevOps Solutions",
+      "aiMl": "AI & Mīkini Aʻo",
+      "itConsulting": "IT Consulting",
+      "digitalMarketing": "Hoʻolaha Kikohoʻe & SEO",
+      "erpSolutions": "Hoʻoponopono ERP",
+      "other": "'ē a'e / 'A'ole maopopo"
+    },
+    "budgets": {
+      "under1L": "Ma lalo o ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "ʻAʻole i hoʻoholo ʻia"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "E hoʻomaopopo i kāu mau pahuhopu",
+        "text": "Hoʻolohe mua mākou. He 30 mau minuke kelepona e palapala ai i kāu mau pono ʻoihana, ka lehulehu a me nā hopena i makemake ʻia."
+      },
+      "technicalDirection": {
+        "title": "E kiʻi i ke kuhikuhi ʻenehana",
+        "text": "Hāʻawi kā mākou poʻe ʻenekinia i ka hoʻolālā kūpono, hoʻopaʻa a me ke ala no kāu papahana."
+      },
+      "clearQuote": {
+        "title": "Loaʻa i kahi ʻōlelo akaka",
+        "text": "E haʻalele me ka manaʻo ʻike maopopo, ka palena manawa a me nā ʻanuʻu aʻe - ʻaʻohe kuleana."
+      }
+    },
+    "validation": {
+      "nameRequired": "Pono ka inoa piha.",
+      "emailRequired": "Pono ka leka uila.",
+      "emailInvalid": "E hookomo i ka leka uila kūpono.",
+      "phoneRequired": "Pono ka helu kelepona.",
+      "phoneInvalid": "E hookomo i ka helu kelepona pono.",
+      "serviceRequired": "E ʻoluʻolu e koho i kahi lawelawe.",
+      "dateRequired": "E koho i ka lā makemake.",
+      "timeRequired": "E koho i kahi kau manawa makemake.",
+      "messageTooShort": "Hoʻohui i nā kikoʻī hou aʻe (ma kahi o 10 mau huaʻōlelo).",
+      "signInRequired": "E ʻoluʻolu e hoʻopaʻa inoa i kāu kūkākūkā.",
+      "couldNotBook": "ʻAʻole hiki ke kākau i kāu kūkākūkā. E hōʻoia inā aia ka papa kūkākūkā, a laila e hoʻāʻo hou.",
+      "bookedSuccess": "Hoʻopaʻa ʻia ke kūkākūkā! Na kā mākou hui e hōʻoia i kāu kau manawa ma o ka leka uila."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Welina mai",
+    "createAccount": "Hana moʻokāki",
+    "forgotPassword": "Poina ka ʻōlelo huna",
+    "createNewPassword": "Hana i ka hua'ōlelo hou",
+    "welcomeBackDesc": "E komo i kāu moʻokāki Rezonants.",
+    "createAccountDesc": "E hui pū me Rezonants i kēia lā.",
+    "forgotDesc": "E komo i kāu leka uila a e hoʻouna mākou iā ʻoe i kahi loulou e hoʻoponopono hou i kāu ʻōlelo huna.",
+    "recoveryDesc": "E koho i ka ʻōlelo huna hou ikaika no kāu moʻokāki.",
+    "fullName": "Inoa piha",
+    "email": "Leka uila",
+    "password": "Hua'ōlelo",
+    "newPassword": "Hua'ōlelo Hou",
+    "confirmPassword": "E hōʻoia i ka ʻōlelo huna",
+    "confirmNewPassword": "E hōʻoia i ka ʻōlelo huna hou",
+    "forgotPasswordLink": "Poina i ka ʻōlelo huna?",
+    "privacyPolicy": "Apono au i ke kulekele Rezonants <1>Privacy & Security</1>.",
+    "sendResetLink": "Hoʻouna i ka loulou hoʻonohonoho hou",
+    "signIn": "E komo",
+    "signUp": "Kakau inoa",
+    "pleaseWait": "E ʻoluʻolu e kali…",
+    "rememberedPassword": "Ua hoʻomanaʻo ʻoe i kāu ʻōlelo huna?",
+    "signInLink": "E komo",
+    "noAccount": "ʻAʻohe moʻolelo?",
+    "signUpLink": "kau inoa",
+    "hasAccount": "Loaʻa iā ʻoe kahi moʻokāki?",
+    "changedMind": "Ua loli kou manaʻo?",
+    "backToSignIn": "E hoʻi e kau inoa",
+    "resetSent": "Ua hoʻouna ʻia ka loulou hoʻonohonoho ʻōlelo huna! E nānā i kāu leka uila e hana i kahi ʻōlelo huna hou.",
+    "passwordUpdated": "Ua hōʻano hou ʻia kāu ʻōlelo huna. E ʻeʻe me kāu ʻōlelo huna hou.",
+    "accountCreated": "Hana ʻia ka moʻokāki! E nānā i kāu leka uila e hōʻoia i kāu kau inoa, a laila e kau inoa.",
+    "validation": {
+      "fullNameRequired": "Pono ka inoa piha.",
+      "emailRequired": "Pono ka leka uila.",
+      "emailInvalid": "E hookomo i ka leka uila pono.",
+      "passwordRequired": "Pono ka ʻōlelo huna.",
+      "passwordMinLength": "Pono ka ʻōlelo huna ma kahi o 6 mau huapalapala.",
+      "passwordsNoMatch": "ʻAʻole kūlike nā ʻōlelo huna.",
+      "acceptTerms": "E ʻoluʻolu e ʻae i ka Rezonants Privacy Policy and Security Policy e hoʻomau."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Kamailio me Rezonants AI",
+    "openChatLabel": "E wehe i ke kamaʻilio Rezonants AI Assistant",
+    "chatTitle": "Rezonants AI Kokua",
+    "online": "Ma ka pūnaewele",
+    "expandLabel": "E hoʻonui i ka chatbot",
+    "minimizeLabel": "E hoemi i ka chatbot",
+    "closeLabel": "E pani i ka chatbot",
+    "expand": "Hoonui",
+    "minimize": "Hoemi",
+    "close": "Pani",
+    "popularTopics": "Nā kumuhana kaulana",
+    "askPlaceholder": "E nīnau mai iaʻu e pili ana iā Rezonants...",
+    "messageLabel": "E leka i ke Kokua Rezonants AI",
+    "sendLabel": "Hoʻouna memo",
+    "sendTitle": "Hoʻouna memo",
+    "enterToSend": "Komo e hoʻouna · Shift+Enter no kahi laina hou",
+    "newChat": "Kamailio hou",
+    "typing": "Ke paʻi nei ʻo Rezonants AI",
+    "menuOptions": "Nā koho papa kuhikuhi",
+    "greetingMorning": "Aloha kakahiaka",
+    "greetingAfternoon": "Aloha ahiahi",
+    "greetingEvening": "Aloha ahiahi",
+    "welcomeText": "! 👋 Welina mai i Rezonants.\nʻO wau ke kōkua Rezonants AI. Hiki iaʻu ke kōkua iā ʻoe e ʻimi i kā mākou lawelawe, ʻenehana, a me ka ʻike pili."
+  },
+  "cookieConsent": {
+    "title": "Mahalo mākou i kou pilikino",
+    "description": "Hoʻohana mākou i nā kuki e hoʻomaikaʻi i kāu ʻike mākaʻikaʻi. Hiki iā ʻoe ke ʻae i nā kuki āpau, hōʻole i nā kuki pono ʻole, a i ʻole hoʻonohonoho i kāu mau makemake. Hāʻawi ʻia nā kuki koʻikoʻi e hōʻoia i ka hana pono o ka pūnaewele.",
+    "acceptAll": "E ae i na mea a pau",
+    "rejectNonEssential": "Hōʻole i ka mea pono ʻole",
+    "managePreferences": "Hoʻoponopono i nā makemake",
+    "privacyPolicy": "Kulekele pilikino"
+  },
+  "cookiePreferences": {
+    "title": "Hoʻoponopono i nā Koho Kuki",
+    "description": "E koho i nā ʻano kuki āu e ʻae ai. Hiki i nā kuki pono ke hoʻomau i ka hana ʻana o ka pūnaewele.",
+    "essential": "Pono",
+    "essentialDesc": "Koi ʻia no ka hana ʻana o ka pūnaewele (hōʻoia, palekana, hoʻopaʻa ʻana i ka ukana). ʻAʻole hiki ke hoʻopau ʻia kēia mau mea.",
+    "analytics": "Heluhelu",
+    "analyticsDesc": "E kōkua mai iā mākou e hoʻomaopopo i ka hoʻohana ʻana o nā malihini i ka pūnaewele i hiki iā mākou ke hoʻomaikaʻi. Hoʻopaʻa ʻia e ka paʻamau.",
+    "marketing": "Ke kuai ana",
+    "marketingDesc": "Hoʻohana ʻia e hōʻike iā ʻoe i nā makana kūpono a me nā hoʻolaha. Hoʻopaʻa ʻia e ka paʻamau.",
+    "cancel": "Hoʻopau",
+    "savePreferences": "Mālama i nā koho"
+  },
+  "privacy": {
+    "badge": "Kanawai",
+    "title": "Kulekele pilikino",
+    "description": "Pehea ʻo Rezonants e hōʻiliʻili ai, hoʻohana a pale i kāu ʻike pilikino a me nā kuki.",
+    "lastUpdated": "Hōʻano hou ʻia: ʻAukake 2026",
+    "managingPreferences": "Mālama i kāu mau makemake",
+    "managingPreferencesDesc": "Hiki iā ʻoe ke nānā a hoʻololi paha i nā kuki āu e ʻae ai i kēlā me kēia manawa mai ka papa koho kuki.",
+    "manageCookiePreferences": "Mālama i nā Koho Kuki",
+    "section1": {
+      "title": "1. ʻIke mākou e hōʻiliʻili ai",
+      "body": [
+        "ʻOhi mākou i ka ʻike āu e hāʻawi pololei ai (e like me kou inoa a me kou helu leka uila ke hoʻouna ʻoe i ka palapala hoʻokaʻaʻike a i ʻole ka hana ʻana i kahi moʻokāki) a me ka ʻikepili i hōʻiliʻili ʻia ma o nā kuki a me nā ʻenehana like, e like me nā ʻaoʻao i kipa ʻia, ke ʻano mea a me kahi kokoke."
+      ]
+    },
+    "section2": {
+      "title": "2. Pehea mākou e hoʻohana ai i nā Kuki",
+      "body": [
+        "Hoʻohana mau ʻia nā kuki koʻikoʻi no ka mea ʻaʻole hiki ke hana pololei ka pūnaewele me ka ʻole o lākou. Hoʻopaʻa lākou i ke kūlana a me ka hōʻoia a hoʻomanaʻo i kāu mau makemake kuki.",
+        "Kōkua nā kuki Analytics iā mākou e hoʻomaopopo i ka hoʻohana ʻana o nā malihini i ka pūnaewele i hiki iā mākou ke hoʻomaikaʻi. Hoʻohana ʻia nā kuki marketing e hōʻike iā ʻoe i nā hāʻawi a me nā hoʻolaha pili. Hiki ke hoʻololi ʻia kēia mau ʻāpana me kou ʻae a hiki ke hoʻololi ʻia i kēlā me kēia manawa mai ka papa koho kuki."
+      ]
+    },
+    "section3": {
+      "title": "3. Kumu Kanawai (GDPR)",
+      "body": [
+        "Hoʻoponopono mākou i nā ʻikepili pilikino e pili ana i kēia mau kumu kānāwai: kou ʻae ʻana (no nā kuki pono ʻole a me ke kūʻai aku ʻana), ka hana ʻana i kahi ʻaelike (no nā lawelawe āu e noi ai), kuleana pili kānāwai, a me nā pono kūpono kahi i hoʻopau ʻole ai kāu mau kuleana iā lākou. Hiki iā ʻoe ke hoʻihoʻi i ka ʻae i kēlā me kēia manawa me ka ʻole e pili i ke kānāwai o ka hana i hana ʻia ma mua o ka haʻalele ʻana."
+      ]
+    },
+    "section4": {
+      "title": "4. Kou Kuleana",
+      "body": [
+        "Ma muli o kou wahi, loaʻa iā ʻoe ke kuleana e komo, hoʻoponopono, holoi, a hoʻopaʻa paha i ka hana ʻana i kāu ʻikepili pilikino, e hōʻole i ka hana ʻana, a me ka lawe ʻana i ka ʻikepili. Hiki iā ʻoe ke waiho i kahi hoʻopiʻi me kou mana hoʻomalu kūloko."
+      ]
+    },
+    "section5": {
+      "title": "5. Paʻa ʻikepili a me ka palekana",
+      "body": [
+        "Mālama mākou i ka ʻikepili pilikino i ka wā e pono ai no nā kumu i wehewehe ʻia ma kēia kulekele. Hoʻohana mākou i nā hana ʻenehana a me ka hoʻonohonoho kūpono e pale i kāu ʻike mai ke komo ʻole ʻia, hoʻololi, hōʻike a luku ʻia paha."
+      ]
+    },
+    "section6": {
+      "title": "6. Nā lawelawe ʻaoʻao ʻekolu",
+      "body": [
+        "Hiki ke hoʻonoho ʻia kekahi mau kuki e nā mea hoʻolako ʻaoʻao ʻekolu (e like me ka analytics a i ʻole nā kahua hoʻolaha) e kōkua iā mākou e hoʻokele i ka pūnaewele. Hoʻoponopono kēia mau mea hoʻolako i ka ʻikepili ma lalo o kā lākou mau kulekele pilikino a ke ʻae wale ʻoe i ka ʻāpana kūpono."
+      ]
+    },
+    "contactUs": "7. Hoʻokaʻaʻike mai",
+    "contactUsText": "No nā nīnau e pili ana i kēia kulekele a i kāu ʻikepili pilikino, e kelepona mai iā mākou ma <1>info@rezonants.com</1> a i ʻole e kelepona iā <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Nā lawelawe",
+    "title": "Ko makou mau lawelawe",
+    "sub": "Nā hoʻonā ʻenehana hoʻopau i ka hopena i hoʻolālā ʻia e kōkua i nā ʻoihana e hana hou, hoʻonui, a kūleʻa.",
+    "learnMore": "Aʻo hou",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Hoomaka ana i ka hoolaha ana",
+        "text": "Mai ka manaʻo mua a hiki i ka hoʻolaha ʻana i ka hana, hāʻawi mākou i nā hoʻonā scalable i kūkulu ʻia no nā pono ʻoihana honua maoli."
+      },
+      "businessProcessAutomation": {
+        "title": "ʻOkoʻa kaʻina hana ʻoihana",
+        "text": "E hoʻopololei i nā kaʻina hana hou a hoʻomaikaʻi i ka pono o ka hana ma o ka automation ʻoihana akamai."
+      },
+      "centerOfExcellence": {
+        "title": "Kikowaena o ka hanohano",
+        "text": "E kūkulu i nā ʻenehana loea a me ka ʻike e hoʻoikaika i ka hana hou, ka maikaʻi, a me ka hoʻomaikaʻi mau ʻana."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Hoʻomohala maʻamau a hoʻoponopono",
+        "text": "Hoʻoponopono lako polokalamu i hoʻolālā ʻia e pili ana i kāu mau koi ʻoihana kūʻokoʻa a me nā kahe hana."
+      },
+      "digitalTransformation": {
+        "title": "Hoololi Kikohoʻe",
+        "text": "Hoʻololi hou i kāu ʻoihana me nā hoʻolālā kikohoʻe, ʻenehana, a me nā hoʻonā e hana ana i ka hopena hiki ke ana."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Hoʻopau i ka hopena o ka hoʻoponopono",
+        "text": "Nā ʻenehana i hoʻohui ʻia e pili ana i ka hoʻolālā, ka hoʻomohala ʻana, ka hoʻokō ʻana, a me nā hana hoʻomau."
+      },
+      "migrationModernization": {
+        "title": "Ka neʻe ʻana a me ka hana hou ʻana",
+        "text": "Hoʻololi hou i nā noi hoʻoilina a neʻe i nā ʻōnaehana i nā paepae ʻenehana hiki ke hoʻonui, palekana, a maikaʻi hoʻi."
+      },
+      "pocPilotImplementation": {
+        "title": "Hōʻoiaʻiʻo o ka Manaʻo (PoC) & Hoʻokō Pilot",
+        "text": "E hōʻoia koke i nā manaʻo ma o nā prototypes i kālele ʻia a me nā hoʻokō hoʻokele ma mua o ka hoʻolaha piha ʻana."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Nā lawelawe Kaʻana like a me nā hana i mālama ʻia",
+        "text": "Nā hana ʻenehana hoʻokele hilinaʻi e hoʻomaikaʻi i ka hana, scalability, a me ka hoʻomau ʻoihana."
+      }
+    }
+  },
+  "footer": {
+    "company": "Hui",
+    "about": "E pili ana",
+    "perspectives": "Nānā",
+    "technologies": "ʻenehana",
+    "contact": "Hoʻopili",
+    "services": "Nā lawelawe",
+    "getInTouch": "E launa pū",
+    "bookConsultation": "Buke i ke kukakuka",
+    "copyright": "© {{year}} Rezonants. Ua mālama ʻia nā kuleana āpau.",
+    "cookiePreferences": "Koho Kuki",
+    "privacyPolicy": "Kulekele pilikino",
+    "description": "ʻO Rezonants kahi hui IT lawelawe a me nā huahana kikohoʻe ma Hyderabad, India. Hoʻolālā mākou, kūkulu a hoʻonui i nā polokalamu no nā hui e hoʻokūkū nei i ka hoʻokō.",
+    "locations": "Ko makou mau wahi",
+    "indiaHq": "Hyderabad, India — Ke Keʻena Poʻokela ʻo Inia",
+    "southAfrica": "ʻApelika Hema — REZONANTS PVT LTD",
+    "products": "Nā huahana",
+    "followUs": "E hahai mai ia makou",
+    "aboutUs": "No makou",
+    "contactUs": "Hoʻokaʻaʻike mai iā mākou",
+    "headline": "E kūkulu kākou",
+    "headlineAccent": "he aha ka hope.",
+    "subheadline": "E hui pū me Rezonants e hoʻololi i nā manaʻo i ka hopena ʻoihana maoli.",
+    "credoIdeas": "MANAO",
+    "credoSolutions": "HAAWINA",
+    "credoPeople": "KANAKA",
+    "credoBrighterTomorrow": "I KA APOPO OI OI MAIKAI",
+    "hyderabadLocation": "Hyderabad, Inia",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "ʻApelika Hema – REZONANTS PVT LTD",
+    "termsOfUse": "Manawa o ka hoohana",
+    "accessibility": "Loaʻa",
+    "quickLinks": "Nā loulou wikiwiki",
+    "explore": "E 'imi",
+    "vijayawadaOffice": "Keena Vijayawada",
+    "allRightsReserved": "Ua mālama ʻia nā kuleana āpau.",
+    "hyderabadPin": "Hyderabad, ʻĪnia",
+    "southAfricaPin": "ʻApelika Hema"
+  },
+  "common": {
+    "loading": "Ke hoʻouka nei...",
+    "error": "Kuewa",
+    "retry": "E hoao hou",
+    "close": "Pani",
+    "backToTop": "Hoʻi i luna",
+    "skipToContent": "Holo i ka ʻike",
+    "scroll": "Owili",
+    "whatWeOffer": "Nā mea a mākou e hāʻawi ai",
+    "howItWorks": "Pehea e hana ai"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Huli i ka ʻāina a i ʻole code…",
+    "noResults": "ʻAʻohe ʻāina i loaʻa.",
+    "countryCodeLabel": "Kāhea kelepona ʻāina",
+    "required": "Pono ka helu kelepona.",
+    "incomplete": "Pono ka helu kelepona i {{count}} huahelu.",
+    "tooLong": "ʻAʻole hiki ke loaʻa ka helu kelepona ma mua o {{count}} huahelu.",
+    "invalid": "E hookomo i ka helu kelepona kūpono no {{country}}."
+  },
+  "perspectives": {
+    "topic": "Kumuhana:",
+    "published": "Paʻi ʻia:",
+    "readingTime": "Manawa Heluhelu:",
+    "author": "Mea kākau:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Wahi ʻenehana",
+    "purpose": "Manao",
+    "talkToExperts": "Kamailio me ko makou poe akamai",
+    "viewAll": "Nānā i nā manaʻo a pau",
+    "exploreMore": "E IMI I NA HANA AE",
+    "continueExploring": "E hoʻomau i ka ʻimi ʻana i nā ʻike ʻenehana ʻenehana",
+    "readPerspective": "Heluhelu i ka Manao"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Lopako",
+      "tagline": "ʻenehana akamai. Nā hana ʻakomi. ʻoihana akamai.",
+      "heroBadge": "Pūnaehana Autonomous Naauao",
+      "overview": [
+        "Ke hoʻololi nei ka Artificial Intelligence a me Robotics i ke ʻano o ka hana ʻana o nā hui, hoʻoholo, a hāʻawi i ka waiwai. ʻO kā mākou AI & Robotics solutions e kōkua i nā ʻoihana e neʻe ma mua o ka automation kuʻuna ma o ka hoʻohui ʻana i ka naʻauao artificial, ke aʻo ʻana i ka mīkini, ka ʻike kamepiula, ka automation kaʻina hana akamai, a me nā robotics e hoʻoponopono i nā pilikia ʻoihana pono.",
+        "Hoʻolālā mākou i nā hoʻonā naʻauao e pili ana i nā hopena ʻoihana hiki ke ana. Inā ʻo ke koi ʻana i ka hana hou, ka nānā ʻana i ka nui o ka ʻike, ka ʻike ʻana i nā ʻano, kākoʻo i nā hoʻoholo, a i ʻole ka hoʻokomo ʻana i nā robotics i loko o nā kaiapuni hana, kā mākou ala e pili ana i ka hilinaʻi, scalability, palekana, a me ka waiwai ʻoihana lōʻihi."
+      ],
+      "transformation": [
+        "Hoʻopuka nā hui hou i ka nui o ka ʻikepili a hana i nā tausani o nā hana hou i kēlā me kēia lā. Hiki i AI a me nā robotics ke hoʻololi i kēia mau hana i nā kaila hana naʻauao a hoʻomaikaʻi i ka huahana ʻoiai e ʻae ana i nā limahana e nānā i nā kuleana kiʻekiʻe.",
+        "Hiki i kā mākou mau hāʻina ke kōkua i nā hui e hoʻomaʻamaʻa i nā hana hou, e hōʻemi i ka hana lima, e hoʻomaikaʻi i ka pololei, e kālailai i ka ʻike paʻakikī, e kākoʻo i nā hoʻoholo wikiwiki, e hoʻoikaika i ka hoʻohana waiwai, e hoʻomaikaʻi i nā ʻike o nā mea kūʻai aku, a kūkulu i nā ʻōnaehana naʻauao."
+      ],
+      "capabilities": [
+        {
+          "title": "Naʻauao hana",
+          "desc": "Hoʻomohala mākou i nā hāʻina i alakaʻi ʻia e AI e hiki ai i nā ʻōnaehana ke hoʻomaopopo i ka ʻike, ʻike i nā mamana, hana i nā ʻike, a kākoʻo i nā hoʻoholo ʻoihana."
+        },
+        {
+          "title": "Aʻo Mīkini",
+          "desc": "Hoʻomohala mākou i nā hiʻohiʻona aʻo mīkini no ka wānana, ka hoʻokaʻawale ʻana, nā ʻōnaehana manaʻo, ka ʻike anomaly, ka wānana wānana, a me ke kākoʻo hoʻoholo naʻauao."
+        },
+        {
+          "title": "Hoʻoponopono ʻŌlelo Kūlohelohe",
+          "desc": "Hiki ke hoʻohana ʻia ka NLP no ka hoʻoponopono ʻana i nā palapala, ka hoʻomaopopo ʻana i ka kikokikona, ka hoʻokaʻawale ʻana i ka ʻike, ka unuhi ʻana i nā ʻike pili, a me ke kākoʻo ʻana i nā noi kamaʻilio."
+        },
+        {
+          "title": "ʻIke kamepiula",
+          "desc": "Hiki ke kākoʻo i ka hoʻokaʻawale ʻana o nā kiʻi, ka ʻike mea, ka nānā ʻana i ka maikaʻi, ka hoʻoponopono palapala, ka nānā ʻana i nā kiʻi, a me ka ʻikepili wikiō."
+        },
+        {
+          "title": "Lopako",
+          "desc": "Hoʻohui ʻo Robotics i ka ʻike lako polokalamu me nā ʻōnaehana kino e hoʻomaʻemaʻe i nā hana e pono ai ka hana lima. Hiki i nā noi ke komo i ka hana ʻana, logistics, warehousing, inspection, material handling, and operational support."
+        },
+        {
+          "title": "Hoʻopono Kaʻina Hana Naʻauao",
+          "desc": "Hiki ke hoʻohui ʻia ʻo AI me ka automation workflow e hana i nā ʻōnaehana e wehewehe i ka ʻike, e hoʻopili i nā lula ʻoihana a i ʻole nā hiʻohiʻona, a e hoʻomaka i ke kaʻina hana kūpono."
+        }
+      ],
+      "lifecycleSteps": [
+        "Hoʻolālā ʻoihana",
+        "Ka Ikepili",
+        "Hoʻolālā AI",
+        "Hoʻoponopono Hoʻolālā",
+        "Hoonui",
+        "Hoʻohui",
+        "Hoao",
+        "Hoʻohana",
+        "Nānā",
+        "Hoʻonui"
+      ],
+      "benefits": [
+        "ʻOi aku ka maikaʻi o ka ʻoihana ʻoihana",
+        "Hoemi nui i na koina hana",
+        "ʻOi aku ka wikiwiki o ka hoʻololi ʻana a me ka huli ʻana o ka hoʻoholo millisecond",
+        "Hoʻomaikaʻi ʻia ka ʻikepili a me ka pololei o ke kaʻina hana",
+        "Hoʻohana ʻia nā kumu waiwai kino a me ka helu helu",
+        "Hoʻemi ʻia nā pilikia o ka hana a me ka hewa kanaka",
+        "Ka hoʻonui ʻia ʻana o nā platform he nui",
+        "Hoʻonui i ka mea kūʻai aku a me nā ʻike limahana"
+      ],
+      "security": "Pono e hoʻolālā ʻia nā hoʻonā ʻoihana AI me ka palekana kūpono, nā mana komo, ka pale ʻikepili, ka nānā ʻana, ka hoʻokele hoʻohālike, a me nā pale hana. Noʻonoʻo mākou i kēia mau koi mai ka pae hoʻolālā ma o ka waiho ʻana a me ka mālama mau ʻana e hōʻoia i ka hilinaʻi, ka naʻauao pae hana.",
+      "ctaHeadline": "E hana i ka wā e hiki mai ana",
+      "ctaSub": "E hoʻoikaika i kāu mau hana. Hoʻokaʻawale i ka mea nui. E kūkulu no ka wā e hiki mai ana."
+    },
+    "business-automation-solutions": {
+      "title": "Hoʻoponopono ʻOihana ʻOihana",
+      "tagline": "Hoʻomāmā i nā Kaʻina Hana. Hoʻopau i ka hana hou ʻana. Hoʻonui i ka ulu.",
+      "heroBadge": "Hoʻopau i ka hopena o ke kaʻina hana",
+      "overview": [
+        "Hiki i ka ʻoihana ʻoihana ke hoʻololi i nā hana lima lima hou me nā kahe hana kikohoʻe maʻalahi. E kōkua kā mākou ʻoihana ʻoihana ʻoihana i nā ʻoihana e hoʻomaikaʻi i ka huahana, hōʻemi i ka paʻakikī o ka hana, hōʻemi i nā hewa, a hana i nā kaʻina hana ma waena o nā keʻena.",
+        "Hoʻopili mākou i nā kahe hana e kū nei, ʻike i nā bottlenecks, a me ka hoʻolālā ʻana i nā ʻōnaehana automation e hoʻopili ai i nā poʻe, nā noi, nā ʻikepili, a me nā kaʻina ʻoihana."
+      ],
+      "transformation": [
+        "Ke hilinaʻi nei ka nui o nā hui i nā pāpalapala, nā leka uila, nā ʻae lima, ka hoʻokomo ʻana i ka ʻikepili hou, ka mālama ʻana i nā palapala, a me nā noi i kāpae ʻia. Hoʻopau kēia mau kaʻina hana i ka manawa limahana a hiki ke hoʻolauna i nā lohi, kūlike ʻole, a me nā hewa.",
+        "Ke nānā aku nei kā mākou hana automation i ka hoʻomaopopo ʻana i ke kaʻina hana holoʻokoʻa, ka wehe ʻana i nā ʻanuʻu pono ʻole, ka hoʻohui ʻana i nā ʻōnaehana, a me ka hoʻomaʻamaʻa ʻana i nā hana e hāʻawi i ka waiwai o ka hana."
+      ],
+      "capabilities": [
+        {
+          "title": "Hoʻokaʻawale Hana",
+          "desc": "Hoʻololi mākou i nā kaʻina hana he nui e pili ana i nā limahana, nā noi, nā ʻae, nā hoʻolaha, a me nā ʻikepili ma nā keʻena like ʻole."
+        },
+        {
+          "title": "Hoʻopono Kaʻina Hana Lopako",
+          "desc": "Hiki i nā bots polokalamu ke hana i nā hana hou, e pili ana i ka lula e like me ka hoʻokomo ʻana i ka ʻikepili, ka hoʻoponopono ʻana i ka ʻōnaehana, ka hoʻoponopono hou ʻana, a me ka hoʻoili ʻike."
+        },
+        {
+          "title": "Hoʻokohu Palapala",
+          "desc": "Hiki i nā kahe hana palapala ʻakomi ke unuhi i ka ʻike, hōʻoia i ka ʻikepili, hoʻokaʻawale i nā palapala, noi ala, a hoʻomaka i nā kaʻina hana i lalo."
+        },
+        {
+          "title": "Apono 'Otomatika",
+          "desc": "ʻO nā kahe hana ʻae kikohoʻe e hoʻolele aunoa i nā noi i nā mea hoʻoholo pololei a hāʻawi i ka ʻike manawa maoli i nā hana e kali nei."
+        },
+        {
+          "title": "Hoʻohui Hoʻohui",
+          "desc": "Hoʻohui mākou i nā noi ʻoihana i hiki ke neʻe ʻokoʻa ka ʻike ma waena o nā paepae me ka ʻole o ka hana lima pono ʻole."
+        },
+        {
+          "title": "Hoʻolaha hoʻolaha",
+          "desc": "ʻO nā mākaʻikaʻi a me nā leka hoʻomaopopo e kōkua i nā limahana e pane koke i nā hanana koʻikoʻi, nā lā palena, nā ʻokoʻa, a me nā loli hana."
+        }
+      ],
+      "lifecycleSteps": [
+        "E ʻike",
+        "Nānā",
+        "Hoʻolālā",
+        "Hoʻokaʻawale",
+        "Hoʻohui",
+        "Hoao",
+        "Hoʻolaha",
+        "Nānā",
+        "Hoʻonui"
+      ],
+      "benefits": [
+        "Hoʻonui i ka hana o ka hui a me ka wikiwiki o ka hana",
+        "Hoemi nui i na hewa komo lima",
+        "Hoʻopōkole ʻia ka manawa hoʻohuli ʻana o ke kaʻina hana hope",
+        "ʻIke like ʻia ma nā hana ʻoihana",
+        "Hoʻokō like ʻia ke keʻena ʻoihana",
+        "Hoemi nui i na lilo hana",
+        "Hiki ke hoʻonui i nā haʻahaʻa hana me ka maʻalahi",
+        "Hoʻoikaika nā hui i kālele ʻia i ka hoʻopili ʻana i nā mea kūʻai aku a me ka hana hoʻolālā"
+      ],
+      "security": "Hoʻohui mākou i nā paepae kaʻina hana a me RPA me nā hiʻohiʻona ʻike ʻike pōʻaiapili naʻauao e hōʻoia i ka mana o ke komo ʻana, nā ala hoʻokele piha, a me ka hoʻokō koʻikoʻi ma kēlā me kēia kālepa automated.",
+      "ctaHeadline": "E kūkulu i nā hana ʻoi aku ka maikaʻi",
+      "ctaSub": "Hoʻokaʻawale i ka hana hou. E hoʻoikaika i kou poʻe. E hoʻolalelale i kāu ʻoihana."
+    },
+    "cloud-migration-solutions": {
+      "title": "Hoʻonā ʻia ʻo Cloud Migration",
+      "tagline": "Nee i ke ao me ka hilinai.",
+      "heroBadge": "Hoololi Kapua Nui",
+      "overview": [
+        "Ua lilo ʻo Cloud computing i mea koʻikoʻi o ka ʻenehana IT hou. Ke neʻe nei nā hui i nā noi, nā ʻikepili, nā haʻahaʻa hana, a me nā ʻōnaehana i nā kaiapuni kapua e hoʻomaikaʻi i ka scalability, ka loaʻa, ka maʻalahi, a me ka pono o ka hana.",
+        "Ke kōkua nei kā mākou mau lawelawe hoʻoneʻe kapua i nā hui e loiloi i ko lākou kaiapuni o kēia manawa, wehewehe i nā hoʻolālā neʻe ʻana, hoʻokō i ka neʻe ʻana, a hoʻopaʻa pono i nā haʻahaʻa hana ma hope o ko lākou neʻe ʻana i ke ao."
+      ],
+      "transformation": [
+        "ʻOi aku ka neʻe ʻana o ke ao ma mua o ka neʻe ʻana i nā kikowaena mai kekahi wahi a i kekahi. Pono ka neʻe kūleʻa i ka loiloi akahele o nā noi, nā ʻōnaehana, nā hilinaʻi, nā koi palekana, ka ʻikepili, ka hana, ka loaʻa, a me ka hoʻomau ʻana o ka ʻoihana.",
+        "Hoʻokumu mākou i nā hoʻolālā neʻe e pili ana i ke kaiapuni o ka hui i kēia manawa a me nā pahuhopu e hiki mai ana, e koho ana i ke ʻano neʻe kūpono no kēlā me kēia hana."
+      ],
+      "capabilities": [
+        {
+          "title": "Ka neʻe ʻana o nā ʻoihana",
+          "desc": "Hoʻoneʻe mākou i nā kikowaena kuʻuna, ka waiho ʻana, nā mīkini virtual, a me nā haʻahaʻa hana i loko o nā kaiapuni ao hou ma AWS, Azure, a me GCP."
+        },
+        {
+          "title": "Noi ka neʻe ʻana",
+          "desc": "Hiki ke hoʻokipa hou ʻia nā noi, hoʻoponopono hou ʻia, hana hou ʻia, a hoʻolālā hou ʻia paha ma muli o nā koi ʻoihana a me ka ʻenehana."
+        },
+        {
+          "title": "Ka neʻe ʻana i ka ʻikepili",
+          "desc": "Ke neʻe nei mākou i nā ʻikepili me ka noʻonoʻo ʻana i ka pono o ka ʻikepili, ka hana, ka hoʻokō, ka loaʻa, ka palekana, a me nā koi hoʻihoʻi."
+        },
+        {
+          "title": "Hoʻohou Ao",
+          "desc": "Lilo ka neʻe ʻana i manawa kūpono e hoʻololi ai i nā noi me ka hoʻohana ʻana i nā ipu, microservices, mālama ʻia ʻikepili, nā lawelawe serverless, a me nā hoʻolālā kapuaʻi."
+        },
+        {
+          "title": "Kapua huikau",
+          "desc": "Hiki i nā hui e pono ana ma ka hale a me ka ʻōnaehana kapua ke hoʻohana i nā hale hana hybrid e hoʻopili pono i nā ʻōnaehana i kēia manawa me nā lawelawe kapua."
+        },
+        {
+          "title": "Kapua-nui",
+          "desc": "No nā hui e hana ana ma nā ʻanuʻu kapuaʻi he nui, kōkua mākou i ka hoʻolālā ʻana i nā hoʻolālā hana e hoʻomaikaʻi ai i ka maʻalahi, ke kūpaʻa, a me ke aupuni."
+        }
+      ],
+      "lifecycleSteps": [
+        "Heluhelu",
+        "Loaʻa",
+        "Hoʻopaneʻe Palapala",
+        "Kuleana Kuleana",
+        "Hoʻolālā Hoʻolālā",
+        "Holokai Pilota",
+        "Ka neʻe ʻana o ka ʻikepili",
+        "Noi ka neʻe ʻana",
+        "Hoao",
+        "Ka Neʻe Hana Hana",
+        "Hoʻonui"
+      ],
+      "benefits": [
+        "Elastic scalability a me ka loaʻa waiwai kiʻekiʻe",
+        "ʻOi aku ka maʻalahi o ka ʻoihana a me ka ʻoihana",
+        "Hoʻopau ʻia ke kaumaha o ka mālama ʻana i ka ʻikepili kino",
+        "Hoʻolaha ʻia nā hiʻohiʻona noi",
+        "Ka hoʻihoʻi ʻana i ka pōʻino a me ka hoʻihoʻi ʻana",
+        "Loaʻa koke i ke ao AI hou a me nā lawelawe mālama",
+        "Hoʻoponopono ʻia ʻo FinOps a me ka hōʻemi TCO",
+        "Ka hoʻokō mau ʻana a me nā pale kiaʻi palekana"
+      ],
+      "security": "He mea nui ka palekana o ka hoʻolālā neʻe ʻana. Manaʻo mākou i ka hoʻokele ʻike a me ke komo ʻana, ka palekana pūnaewele, ka hoʻopili ʻana i loko o ka transit a me ka hoʻomaha, ka pale ʻikepili, ka loiloi ʻana i ka nāwaliwali o ka noi, ka nānā ʻana, ka hoʻihoʻi ʻana a me ka hoʻihoʻi ʻana i ka pōʻino.",
+      "ctaHeadline": "Kou Huakaʻi Ao, Hoʻolālā Pono",
+      "ctaSub": "Hoʻololi hou i kāu ʻoihana. Hoʻoikaika i ka hana hou. E kūkulu i kahi kumu ao hiki ke hoʻonui ʻia."
+    },
+    "data-center-solutions": {
+      "title": "Nā Haʻina ʻIkepili",
+      "tagline": "Pono Pono no na Hana Mikiona.",
+      "heroBadge": "Nā Hana Hana Kūikawā",
+      "overview": [
+        "Hoʻokumu nā kikowaena ʻikepili i ke kumu o nā ʻoihana kikohoʻe hou. ʻO nā noi, nā ʻikepili, nā ʻōnaehana ʻoihana, nā kahua kamaʻilio, a me nā lawelawe ʻoihana koʻikoʻi e hilinaʻi ʻia i nā ʻoihana hilinaʻi.",
+        "Ke nānā aku nei kā mākou mau hoʻonā kikowaena ʻikepili i ka hoʻolālā ʻana, hoʻololi hou, hoʻokele, a me ka hoʻonui ʻana i nā kaiapuni i kūkulu ʻia no ka loaʻa, palekana, scalability, hana, a me ka pono o ka hana."
+      ],
+      "transformation": [
+        "Pono kahi kikowaena ʻikepili hou ma mua o nā kikowaena a me ka waiho ʻana. Pono ʻo ia i nā ʻōnaehana hoʻonaʻauao ma waena o ka computing, networking, security, power, cooling, monitoring, backup, a me ka hoʻihoʻi ʻana i ka pōʻino.",
+        "Kōkua mākou i nā hui e hoʻokumu i nā kaiapuni ʻenehana kūpaʻa e kākoʻo ana i nā haʻawina koʻikoʻi a hāʻawi i kumu no ka ulu ʻana o ka ʻenehana e hiki mai ana."
+      ],
+      "capabilities": [
+        {
+          "title": "Hoʻolālā Hoʻolālā",
+          "desc": "Hoʻolālā mākou i nā kaiapuni e pili ana i nā koi o ka hana, ka hiki, ka hana, ka loaʻa, ka palekana, a me ka ulu ʻana o ka wā e hiki mai ana."
+        },
+        {
+          "title": "Hoʻolako kikowaena",
+          "desc": "Kākoʻo mākou i nā kaiapuni kikowaena kino a me ka virtual no nā noi ʻoihana koʻikoʻi a me nā haʻahaʻa hana."
+        },
+        {
+          "title": "Hoʻoponopono mālama",
+          "desc": "Noʻonoʻo mākou i ka hana, hiki, redundancy, SAN/NAS kiʻekiʻe, hoʻihoʻi, a me nā koi pale ʻikepili i ka hoʻolālā ʻana i nā kaiapuni mālama."
+        },
+        {
+          "title": "Hoʻolālā Pūnaewele",
+          "desc": "Hoʻolālā mākou i nā kaiapuni pūnaewele me ka hoʻokaʻawale kūpono, redundancy, hana haʻahaʻa haʻahaʻa, hoʻohui, a me nā mana palekana."
+        },
+        {
+          "title": "Hoʻonanea",
+          "desc": "Hoʻomaikaʻi ʻo Virtualization i ka hoʻohana ʻana i nā kumuwaiwai, ka maʻalahi o ka hana, a me ka hoʻokele waiwai kikowaena."
+        },
+        {
+          "title": "Hoʻihoʻi a me ka hoʻihoʻi ʻana i nā pōʻino",
+          "desc": "Kōkua mākou i nā hui e hoʻokumu i nā hoʻolālā hoʻihoʻi a me nā hale hoʻihoʻi i hoʻolālā ʻia e hōʻemi i ka wā haʻahaʻa a hoʻopau i ka nalowale ʻikepili."
+        }
+      ],
+      "lifecycleSteps": [
+        "Loiloi Kahiki",
+        "Hoʻopaʻa hana",
+        "Hoʻolālā Hoʻolālā",
+        "Lako Paa & Lapanui",
+        "Māhele Pūnaewele",
+        "Hoolako Waihona",
+        "Ho'āʻo Redundancy & DR",
+        "Hoʻokaʻawale Hana",
+        "24/7 Nānā Ola",
+        "Hoʻomau mau"
+      ],
+      "benefits": [
+        "Hōʻoiaʻiʻo ʻia 99.999% ka manawa hana hana",
+        "ʻAʻohe helu hoʻokahi o ka hāʻule ʻole me ka hoʻonui ʻana i nā ʻāpana he nui",
+        "Hoʻopili kikowaena kikowaena a me ka virtualization kiʻekiʻe",
+        "Nā hale hoʻolālā pūnaewele haʻahaʻa haʻahaʻa haʻahaʻa",
+        "Hoʻopaʻa paʻa ʻia ka palekana kino a me ke kikohoʻe",
+        "Ka nānā ʻana a me nā hemahema ʻokoʻa",
+        "Hiki ke hoʻopaʻa ʻia no ka ʻikepili petabyte-scale",
+        "Ka huina kumukūʻai o ka mana a me ka pono o ka mana"
+      ],
+      "security": "Hoʻohui ʻia ka palekana ma waena o ka papa hana, e uhi ana i ka micro-segmentation network, hardware root-of-trust, zero-trust access controls, hoʻopaʻa hoʻopaʻa haʻahaʻa mau, pale endpoint, a me nā kulekele hana koʻikoʻi.",
+      "ctaHeadline": "Hoʻomākaukau i ka wā e hiki mai ana",
+      "ctaSub": "E kūkulu i nā ʻoihana hilinaʻi i kēia lā. E hana i ke kumu no ka ʻenehana o ka lā ʻapōpō."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Hoʻopaʻa noʻonoʻo & AI",
+      "tagline": "E hoʻohuli i ka ʻikepili i ʻike.",
+      "heroBadge": "ʻIkepili-i-Ka Hoʻoholo Naʻauao",
+      "overview": [
+        "Hoʻopuka nā hui i ka nui o ka ʻike ma o nā noi, nā kālepa, nā mea kūʻai aku, nā hana, nā hāmeʻa, a me nā paepae kikohoʻe. ʻAʻole ʻo ka hōʻiliʻili ʻikepili wale nō ka pilikia; ʻo ia ka hoʻomaopopo ʻana i kēlā ʻikepili a hoʻohuli iā ia i ʻike hiki ke hana.",
+        "ʻO kā mākou Cognitive Analytics & AI solutions e hui pū i ka ʻikepili kiʻekiʻe, ke aʻo ʻana i ka mīkini, ka naʻauao hana, ka hoʻoili ʻikepili, a me ka ʻike ʻoihana e kōkua i nā hui e hana i nā hoʻoholo maikaʻi aʻe."
+      ],
+      "transformation": [
+        "Hōʻike ka hōʻike kuʻuna i nā hui i ka mea i hana ʻia. Hiki i nā ʻikepili kiʻekiʻe ke kōkua i ka wehewehe ʻana i ke kumu i hiki mai ai, ʻike i nā mea e hiki mai ana, a kākoʻo i nā hoʻoholo e pili ana i ka mea e hiki mai ana.",
+        "Ke kōkua nei mākou i nā hui e hoʻokumu i nā kaiapuni ʻikepili e neʻe ana ma mua o ka hōʻike paʻa ʻana i ka loiloi naʻauao a me ke kākoʻo hoʻoholo."
+      ],
+      "capabilities": [
+        {
+          "title": "Hōʻike wehewehe",
+          "desc": "E hoʻomaopopo i ka hana mōʻaukala ma o nā hōʻike pili, nā dashboard multidimensional, KPI, a me nā ana ʻoihana."
+        },
+        {
+          "title": "Hoʻopaʻa ʻana",
+          "desc": "E ʻike i nā pilina kumu, nā ʻano, nā anomalies helu, a me nā kumu kumu ma hope o nā hopena ʻoihana."
+        },
+        {
+          "title": "Helu wānana",
+          "desc": "E hoʻohana i ka ʻikepili mōʻaukala a me ka manawa maoli me nā hiʻohiʻona helu e ʻike i nā hopena a me nā koi e hiki mai ana."
+        },
+        {
+          "title": "Hoʻopaʻa palapala",
+          "desc": "E loiloi i nā hana kūpono a kākoʻo i nā ala hoʻoholo maikaʻi loa e pili ana i nā hopena i wānana ʻia a me nā pahuhopu ʻoihana hoʻolālā."
+        },
+        {
+          "title": "Nā Hoʻohālike Mīkini",
+          "desc": "Hoʻomohala i nā hiʻohiʻona maʻamau no ka wānana, ka helu ʻana i nā mea kūʻai aku, nā ʻōlelo paipai, ka ʻike ʻana i nā anomaly hoʻopunipuni, a me ka mālama wānana."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "E hoʻopili i ka AI cognitive i ka nui o ka ʻike i hoʻonohonoho ʻole ʻia e ʻike i nā hiʻohiʻona huna, nā hōʻuluʻulu mana, a me nā ʻōlelo paipai."
+        }
+      ],
+      "lifecycleSteps": [
+        "Nā PunaʻIkepili",
+        "Hoʻohui ʻIkepili",
+        "Hoʻoponopono ʻikepili",
+        "Waihona ʻIkepili",
+        "Heluhelu",
+        "Nā Kiʻi AI/ML",
+        "Hoikeike",
+        "Nā Hoʻoholo Pāʻoihana"
+      ],
+      "benefits": [
+        "Ma muli o ka ʻoiaʻiʻo, ka hoʻoholo ʻana i ka ʻikepili",
+        "Ke koi pololei, ka loaʻa, a me ka wānana churn",
+        "Anomaly manawa maoli a ʻike hoʻopunipuni",
+        "Hōhonu 360° nā ʻike a me ka pilikino o nā mea kūʻai aku",
+        "Hoʻonui i ke kaulahao lako a me ka pono o ka hana",
+        "Hoʻemi i ka pilikia o ka hana a me ke kālā",
+        "Loaʻa i nā manawa kālā huna",
+        "Hoʻonui i ka manawa-i-ʻike ma nā ʻāpana ʻoihana"
+      ],
+      "security": "Hoʻokō kā mākou kaiaola analytics i ka end-to-end encryption, automated data masking, RBAC strict permits, and model governance no ka mālama ʻana i ka ʻikepili proprietary a mālama i ka hoʻokō hoʻoponopono (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "E hana i ka Papahana Ikepili Naauao",
+      "ctaSub": "E hoʻohuli i ka ʻike i ʻike. E hoʻohuli i ka ʻike i ka hana."
+    },
+    "information-reporting-systems": {
+      "title": "Pūnaehana ʻIke & Hōʻike",
+      "tagline": "Ka ʻIke Pono. I ka manawa kūpono. No na Hooholo Pono.",
+      "heroBadge": "Naʻauao Hui Pū ʻIa",
+      "overview": [
+        "Ke hilinaʻi nei nā alakaʻi pāʻoihana a me nā hui hana i ka ʻike pololei e hoʻoholo ai i nā hoʻoholo kūpono. Kōkua kā mākou ʻIke & Pūnaehana Hōʻike i nā hui e hōʻiliʻili, hoʻonohonoho, kālailai, a hōʻike i ka ʻike ʻoihana ma o nā ʻōnaehana ʻike i kūkulu ʻia, nā paepae hōʻike, nā dashboards, a me nā kahe hana hōʻike ʻokoʻa.",
+        "Loaʻa pinepine nā hui i ka ʻike i hāʻawi ʻia ma nā noi, nā pāpalapala, nā ʻikepili, a me nā ʻōnaehana hana. He mea paʻakikī kēia i ka hoʻokumu ʻana i kahi ʻike kūlike o ka hana ʻoihana. Kōkua mākou i ka hoʻohui ʻana i nā kumu ʻike i loko o nā kaiapuni hōʻike i hoʻonohonoho ʻia e hāʻawi i ka ʻike ʻoihana hilinaʻi, hiki ke loaʻa, a paʻa."
+      ],
+      "transformation": [
+        "ʻAʻole pono ka ʻōnaehana hōʻike e hōʻike i nā helu. Pono ia e kōkua i nā mea hoʻohana e hoʻomaopopo i ka hana, ʻike i nā pilikia, ʻike i nā manawa kūpono, a hoʻoholo i nā hoʻoholo.",
+        "Hoʻolālā mākou i nā kaiapuni hōʻike e pili ana i ke ʻano o ka hana ʻana o kāu hui, e hāʻawi ana i nā kaiaola ʻikepili i hoʻoholo ʻia i hoʻonohonoho ʻia no nā pae hoʻokele āpau."
+      ],
+      "capabilities": [
+        {
+          "title": "Pūnaehana ʻIke Hoʻokele (MIS)",
+          "desc": "E hoʻomohala i nā ʻōnaehana ʻike hui pū e hāʻawi i ka hoʻokele hoʻokele me ka ʻike kūpono a me ka ʻike hoʻolālā."
+        },
+        {
+          "title": "Hōʻike ʻoihana",
+          "desc": "E hoʻololi i ka ʻikepili ʻoihana maka mai nā kahawai he nui i mau hōʻike i hoʻonohonoho ʻia, e nānā mau ana i ka hana."
+        },
+        {
+          "title": "Nā Papa Hana Hana",
+          "desc": "Hāʻawi i ka ʻike pili i ka manawa maoli a i ʻole i hoʻonohonoho ʻia i nā ana ʻoihana koʻikoʻi, nā KPI, nā ʻano, a me nā hana ʻoihana."
+        },
+        {
+          "title": "Hooponopono KPI",
+          "desc": "E wehewehe, e hahai, a e hoʻopaʻa i nā KPI hoʻokō pono i hoʻopili pololei ʻia me nā pahuhopu ulu o ka ʻoihana."
+        },
+        {
+          "title": "Hoʻohui ʻIkepili",
+          "desc": "Hoʻohui i nā kumu ʻikepili i puʻunaue ʻia i loko o nā hale waihona ʻikepili i hui pū ʻia a me nā ʻāpana semantic no ka hōʻike ʻana i ka pane aniani hoʻokahi."
+        },
+        {
+          "title": "Hoike Aunoa",
+          "desc": "Hoʻopuka ʻakomi a puʻunaue i nā hōʻike pilikino e like me nā papa hana i koho mua ʻia, nā lula ʻoihana, a me nā hierarchy o ka mea loaʻa."
+        }
+      ],
+      "lifecycleSteps": [
+        "Pūnaehana ʻoihana",
+        "Ohi Ikepili",
+        "Hoʻohui ʻIkepili",
+        "Hoʻoponopono ʻikepili",
+        "Waihona ʻIkepili",
+        "Heluhelu",
+        "Nā hōʻike a me nā papa kuhikuhi"
+      ],
+      "benefits": [
+        "Hoʻokahi kumu o ka ʻoiaʻiʻo ma ka ʻoihana holoʻokoʻa",
+        "Loaʻa ka wikiwiki i nā ana hana manawa maoli",
+        "Hoʻopau piha i ka hui ʻana o ka papapalapala lima",
+        "Nā KPI kūʻokoʻa, hoʻoponopono ʻia",
+        "Ka luna hoʻokō kiʻekiʻe a me ka loiloi",
+        "Hāʻawi pololei i nā mea kuleana",
+        "Ka palekana a me nā ʻae o ka lālani lālani",
+        "Hoʻonui i ka agility e pane i nā anomalies hana"
+      ],
+      "security": "Hiki ke loaʻa i ka ʻike pāʻoihana ka ʻikepili koʻikoʻi o ka hana, kālā, a me nā mea kūʻai aku. Hoʻokomo ʻia kā mākou mau hoʻonā hōʻike i ka hōʻoia multi-factor, ʻae ʻia e pili ana i ka kuleana, hoʻopili, a me nā loiloi loiloi i loko o ka hoʻolālā hōʻike.",
+      "ctaHeadline": "Hōʻike e kākoʻo ana i ka ulu",
+      "ctaSub": "E hoʻohana i ka ʻike. E hōʻike i ka hana. E hoʻoholo maikaʻi."
+    },
+    "managed-services": {
+      "title": "Nā lawelawe mālama ʻia",
+      "tagline": "Nā Hana ʻenehana hilinaʻi. Kākoʻo akamai. Hoʻomaikaʻi mau.",
+      "heroBadge": "24/7 IT Hana & Kākoʻo",
+      "overview": [
+        "He paʻakikī a hoʻololi mau nā kaiapuni IT hou. Pono nā hui i nā ʻenehana hilinaʻi, nā noi, nā pūnaewele, ka palekana, ka nānā ʻana, a me ke kākoʻo ʻenehana e hoʻomau i nā hana ʻoihana.",
+        "Hāʻawi kā mākou Managed Services i ka hoʻokele ʻenehana hoʻomau a me ke kākoʻo hana, e ʻae ana i nā hui e mālama i nā kaiapuni IT hilinaʻi aʻo nā hui kūloko e kālele ana i nā hana hoʻolālā."
+      ],
+      "transformation": [
+        "Kūleʻa pinepine ke kākoʻo IT kuʻuna i ka hoʻoponopono ʻana i nā pilikia ma hope o ka hiki ʻana mai. Lawe ʻia nā lawelawe i hoʻokele ʻia e ka nānā mau ʻana i nā ʻōnaehana, nā noi, nā ʻōnaehana, a me nā kaiapuni hana.",
+        "Kōkua kēia ala i ka ʻike mua ʻana i nā pilikia, mālama i ka hana, hoʻomaikaʻi i ka loaʻa ʻana, a hōʻemi i ka hoʻopilikia ʻana i ka hana."
+      ],
+      "capabilities": [
+        {
+          "title": "Hooponopono Hooponopono",
+          "desc": "Kākoʻo i ka hana hoʻomau, ka hoʻopaʻa ʻana, a me ka hoʻokele ʻana i nā kikowaena, ka waiho ʻana, nā kahua virtualization, a me nā ʻōnaehana."
+        },
+        {
+          "title": "Hooponopono Ao",
+          "desc": "Hoʻoponopono i nā haʻahaʻa o ke ao, nā kumuwaiwai multi-cloud, nā hoʻonohonoho, ka nānā ʻana, ka hana, a me ka loiloi FinOps."
+        },
+        {
+          "title": "Hooponopono Pūnaewele",
+          "desc": "Hāʻawi i ka nānā ʻana 24/7, ka hoʻokele hana, kākoʻo hoʻonohonoho, SD-WAN optimization, a me ka hoʻonā pilikia pilikia."
+        },
+        {
+          "title": "Hooponopono Noi",
+          "desc": "Kākoʻo i nā kaiapuni noi koʻikoʻi ma o ka nānā pono ʻana, ka mālama ʻana, ka hoʻonā bug, a me ka hoʻonui ʻana i ka hana."
+        },
+        {
+          "title": "Nānā & ʻIke",
+          "desc": "Hāʻawi i ka ʻike piha i ka manawa maoli i ke olakino ʻōnaehana, latency, uptime, hilinaʻi ʻoihana, a me nā makaʻala."
+        },
+        {
+          "title": "Hoʻoponopono hoʻihoʻi a hoʻihoʻi",
+          "desc": "E mālama i nā papa hana hoʻihoʻi automated, e hoʻāʻo mau i nā failovers, a e hōʻoia i ka hiki ke hoʻihoʻi koke."
+        },
+        {
+          "title": "Nā Hana Palekana (SecOps)",
+          "desc": "Hāʻawi i ka nānā ʻana i ka palekana mau, ka hoʻokele patch, ka hoʻokō mana ʻae, a me ka hoʻēmi ʻana i ka hoʻoweliweli."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kaiapuni Onboarding",
+        "ʻIke & Kumu",
+        "Hoohui Telemetry",
+        "SLA Wehewehe",
+        "24/7 Ka Hooikaika Ana",
+        "Hoʻohui ʻia",
+        "Hooholo wikiwiki",
+        "Ka Ike Kumu",
+        "'Enekinia Kaohi",
+        "Hoʻonui mau"
+      ],
+      "benefits": [
+        "Hoemi loa i ke kaumaha o ka hana kuloko",
+        "ʻIke pilikia ma mua o ka hoʻopilikia ʻia ʻana o nā mea hoʻohana",
+        "Hōʻoia 99.99% ka loaʻa ʻana o ka ʻōnaehana a me ka manawa hana",
+        "Mākaʻikaʻi, ʻike maopopo ʻia ka hoʻolālā kālā IT",
+        "Loaʻa koke i nā loea ʻenekinia kiʻekiʻe",
+        "Nā manawa pane hanana i kākoʻo ʻia e SLA wikiwiki",
+        "Hoʻoponopono pōʻino a hoʻomau i ka ʻoihana",
+        "Hoʻomau i ka ʻenehana a me ka hana hou"
+      ],
+      "security": "Hoʻopili kā mākou mau hana i ka ITIL a me ISO frameworks koʻikoʻi, e hōʻoia ana i ke komo ʻana i hoʻopili ʻia, nā moʻolelo loiloi i hoʻokaʻawale ʻia, ka hōʻoia ʻana o ka pono liʻiliʻi loa, a me ka hoʻoponopono ʻana i nā kumuwaiwai āpau.",
+      "ctaHeadline": "Hoomaikai mau",
+      "ctaSub": "Kau ʻoe i kāu ʻoihana. Kōkua mākou i ka holo ʻana o kāu ʻenehana."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Hoʻokahi-Stop Technology Solutions",
+      "tagline": "Hoʻokahi Hoa ʻenehana. Manawa lehulehu. Hoʻopau i nā ʻoihana pāʻoihana.",
+      "heroBadge": "Hoa Hui Hui",
+      "overview": [
+        "Hana pinepine nā hui me nā mea hoʻolako ʻenehana he nui no ka ʻenehana, kapua, nā noi, automation, analytics, palekana, kākoʻo, a me ka hoʻololi kikohoʻe. Hiki i ka mālama ʻana i nā mea kūʻai he nui ke hana i ka paʻakikī, nā ʻāpana kamaʻilio, ka hoʻoikaika kope ʻana, a me nā ʻenehana ʻenehana ʻāpana.",
+        "Hoʻopili kā mākou ʻenehana Hoʻonaʻauao Hoʻokahi i nā mana he nui ma lalo o kahi ʻano lawelawe i hui pū ʻia, kōkua i nā hui e hoʻolālā, hoʻokō, hoʻohui, hana, a hoʻomaikaʻi mau i ko lākou ʻenehana ʻenehana."
+      ],
+      "transformation": [
+        "Kākoʻo mākou i ke ola holoʻokoʻa ʻenehana—mai ka hoʻomaopopo ʻana i nā koi ʻoihana a me ka wehewehe ʻana i kahi hoʻolālā ʻenehana i ka hoʻolālā ʻana i nā hāʻina, ka hoʻokō ʻana i nā paepae, ka hoʻohui ʻana i nā ʻōnaehana, ka hoʻohana ʻana i nā noi, ka nānā ʻana i nā kaiapuni, a me ka hāʻawi ʻana i ke kākoʻo mau.",
+        "ʻO ka pahuhopu ka hoʻokumu ʻana i kahi kaiaola ʻenehana pili ma mua o nā hoʻonā kaʻawale."
+      ],
+      "capabilities": [
+        {
+          "title": "Hoʻolālā & Hoʻolālā",
+          "desc": "E hoʻomaopopo i nā pahuhopu pāʻoihana a me ka hoʻolālā ʻana i nā hale ʻenehana hiki ke hoʻonui, palekana, a mālama ʻia."
+        },
+        {
+          "title": "Hoʻokō a kūkulu",
+          "desc": "E hoʻokō i nā noi, nā ʻōnaehana, nā hoʻohui, ka automation, a me nā paepae kikohoʻe me ka ikaika o ka ʻoihana."
+        },
+        {
+          "title": "Hoʻohui Pūnaewele",
+          "desc": "Hoʻohui i nā ʻōnaehana a me nā noi no laila e neʻe mālie ka ʻike ma ka hui holoʻokoʻa."
+        },
+        {
+          "title": "Hoʻonohonoho ʻia",
+          "desc": "E hoʻokumu i ka CI/CD automated a me ka hoʻokuʻu ʻana i nā kaʻina hana e hoʻoneʻe i nā hāʻina i ka hana me ka hilinaʻi a me ka palekana."
+        },
+        {
+          "title": "Nānā mau",
+          "desc": "Hāʻawi i ka ʻike hope i ka hopena i ka ʻoihana, nā noi, ka hana, ka loaʻa, a me ke olakino hana."
+        },
+        {
+          "title": "Hoʻonui a kākoʻo",
+          "desc": "E nānā mau i nā kaiapuni no ka hoʻomaikaʻi ʻana i ka hana, ka hilinaʻi, ka maikaʻi o ke kumukūʻai, a me ka scalability."
+        }
+      ],
+      "lifecycleSteps": [
+        "Hoʻolālā",
+        "Hoʻolālā",
+        "Hoʻokō",
+        "Hoʻohui",
+        "Hoʻolaha",
+        "Nānā",
+        "Hoʻonui",
+        "Kākoʻo"
+      ],
+      "benefits": [
+        "Hoʻemi ʻia ka paʻakikī o ka hoʻokele mea kūʻai aku a ma luna",
+        "Ka hoʻopololei ʻana ma nā papa kūkulu hale a pau",
+        "ʻOi aku ka wikiwiki o ka hoʻokō ʻana o ka papahana me ka hoʻopaneʻe lima ʻole",
+        "ʻO ka hoʻokaʻawale kālā ʻike ʻia a me ka hāʻawi ʻana akaka",
+        "ʻO ke kuleana o ka ʻoihana hui ʻia mai ka zero a hiki i ka nui",
+        "Hoʻolālā ʻia no ka ulu ʻana o ka ʻoihana e hiki mai ana",
+        "Ka hui ʻenehana hilinaʻi lōʻihi",
+        "Hoʻololi kikohoʻe hope-a-hopena"
+      ],
+      "security": "Me kahi hoa hilinaʻi hoʻokahi e nānā ana i ka hoʻolālā, hoʻokō, a me nā hana, ʻaʻole i haki ka hoʻomalu palekana ma nā pae āpau - e hoʻopau i nā wahi makapō hoʻohui a me ka hōʻoia ʻana i ka hoʻokō mau ʻana.",
+      "ctaHeadline": "Kou Hoa Hana Hana Hana Loa",
+      "ctaSub": "Hookahi hoa. Hoʻokahi hihiʻo. ʻenehana lehulehu. Nā hoʻonā piha."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Ka Manawa Hui",
+    "overviewTitle": "ʻenehana akamai no nā hopena hiki ke ana",
+    "transformationEyebrow": "Hoololi Hana",
+    "transformationTitle": "Ke hoʻololi ʻana i ka ʻoihana ma o nā kahe hana naʻauao",
+    "deliveryEyebrow": "Ke ala hoʻouna i kūkulu ʻia",
+    "deliveryTitle": "Hoʻokō i ka hopena a me ka hoʻomau mau",
+    "deliveryIntro": "ʻO kā mākou hoʻokō hoʻokō i hōʻoia ʻia e hahai ana i kahi pōʻaiapuni o ka lawe ʻana:",
+    "deliveryOutro": "ʻO kēia kaʻina hana e hōʻoiaʻiʻo i ka alignment paʻa me nā pahuhopu pāʻoihana, kūlana palekana paʻa, a me nā hōʻailona ROI hiki ke ana i kēlā me kēia māhele.",
+    "securityEyebrow": "Palekana & Aupuni",
+    "securityTitle": "Nā Palekana Pono a me ka Hoʻokō ʻana i ka ʻoihana",
+    "securityOutro": "Hoʻokomo mākou i ka mana o ke komo ʻana, ka nānā ʻana i ka vulnerability, ka hoʻokele hoʻohālike, a me ka hoʻopili ʻana i nā ʻāpana he nui e hōʻoia i ka paʻa mau ʻana o kāu wahi hana.",
+    "capabilitiesTitle": "Hiki i ka ʻenehana kumu",
+    "capabilitiesSub": "Nā mākau ʻenehana piha i hana ʻia e hoʻonui i kāu mau hana kikohoʻe.",
+    "bookDiscovery": "ʻIke ʻenehana Buke",
+    "exploreAll": "E ʻimi i nā ʻenehana a pau",
+    "bookConsultation": "Buke i kahi kukakuka",
+    "coreCapabilities": "Nā Mana Koʻikoʻi"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Nā Mana Koʻikoʻi",
+    "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā",
+    "bookConsultation": "Buke i kahi kukakuka",
+    "viewCaseStudies": "E nānā i nā haʻawina",
+    "provenPillars": "Na pou i hooiaio",
+    "operationalOutcomes": "Nā hopena hana",
+    "learnMore": "Aʻo hou"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "ʻEnekinia Kikohoʻe Hoʻopau i ka hopena",
+      "titlePart1": "Hoomaka I",
+      "titlePart2": "Hoʻohana",
+      "description": "Hoʻopau i ka hopena o nā hoʻonā kikohoʻe hou mai nā koi ʻoihana a me ka hoʻolālā hoʻonā ma o ka hoʻomohala ʻana, ka hoʻohui ʻana, ka hoʻāʻo ʻana, ka waiho ʻana, a me ke kākoʻo mau.",
+      "bookConsultation": "Buke i kahi kukakuka",
+      "exploreEngineering": "E 'imi i ka 'enekinia Solution",
+      "coreCapabilities": [
+        "Nā Pono ʻenehana",
+        "Hoʻoponopono Hoʻolālā",
+        "Hoʻomohala noi",
+        "Hoʻohui API",
+        "Hooiaio Pono",
+        "DevOps",
+        "Hoʻohana",
+        "Kākoʻo & Maintenance"
+      ],
+      "row1Eyebrow": "Hāʻawi i ke ola holoʻokoʻa",
+      "row1Title": "Hoʻomohala Hoʻopau-a-Hoʻopau mai nā Koina a i ke Kaulike",
+      "row1P1": "Hoʻomaka kēlā me kēia hana kikohoʻe hou me nā koi kūʻokoʻa, nā kaʻina hana hana, a me nā pahuhopu hoʻolālā ʻaʻole hiki ke hoʻokō ʻia e ka lako polokalamu hoʻokahi. Hoʻoikaika mākou i ke kūkulu ʻana i nā ʻōnaehana polokalamu maʻamau, hana kiʻekiʻe mai ka wā ʻōpala.",
+      "row1P2": "Mai ka ʻike mua ʻana a me ka hoʻolālā hoʻolālā ʻenehana a hiki i ka hoʻomohala ʻana i ka sprint agile, ka hoʻohui ʻana o ka kaiaola API, nā paipu hoʻāʻo ikaika, a me ka hoʻopololei ʻana i ke ao, ʻo kā mākou hui ʻenekinia kiʻekiʻe ke kuleana piha i kāu pōʻaiaola huahana.",
+      "row2Eyebrow": "Hoʻoponopono Hoʻolālā & ʻenekinia",
+      "row2Title": "Nā Pūnaehana Scalable i kūkulu ʻia no ka ulu ʻana o ka ʻoihana",
+      "row2P1": "Hoʻolālā mākou i nā hoʻolālā polokalamu hoʻoikaika i hoʻohālikelike ʻia e kū i nā ukana kaumaha. Mai nā microservices modular a me nā hope hoʻokele hanana i nā kahawai ʻikepili kiʻekiʻe a me nā GraphQL/REST API, kūkulu mākou i nā paepae e hoʻonui me ka maʻalahi.",
+      "row2P2": "Ma ka hoʻokumu ʻana i nā codebase maʻemaʻe, modular i hui pū ʻia me ka hoʻāʻo ʻakomi a me ka hoʻomau ʻana i ka palekana palekana, hōʻoia mākou e mālama pono ʻia kāu kumu polokalamu, loiloi, a mākaukau no ka loli lōʻihi.",
+      "row3Eyebrow": "Hōʻoia maikaʻi a me DevOps",
+      "row3Title": "Hoʻouna ʻo Agile me nā Pipeline Automated",
+      "row3P1": "Hoʻokomo ʻia kā mākou hoʻohālike hoʻouna ʻana i ka ʻāpana automated, hoʻohui, a me ka hoʻāʻo hoʻihoʻi hope-to-end me nā kahe hana CI/CD (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Me nā hōʻike sprint māmā, ka nānā ʻana i ka manawa maoli, a me ka wikiwiki i alakaʻi ʻia i ka milestone, hōʻoia mākou i ka manawa wikiwiki i ka mākeke me ka ʻole o ka hoʻopaʻapaʻa ʻana i ka palekana, kūpaʻa, a i ʻole ka ʻike mea hoʻohana.",
+      "row4Eyebrow": "Hoʻolaha a kākoʻo",
+      "row4Title": "Pono 24/7 mau hana a me ka hoʻomohala lōʻihi",
+      "row4P1": "He hoʻomaka wale ka hele ʻana. Hāʻawi mākou i ka nānā pono ʻana, ka mālama ʻana i kākoʻo ʻia e SLA, ka hoʻoponopono ʻana i nā ʻōnaehana kapuaʻi, ka hoʻokō ʻana i ka hana, a me nā ʻōkuhi hiʻohiʻona e hoʻomau nei.",
+      "row4P2": "Ke hana nei kā mākou hui ʻenekinia ma ke ʻano he hoʻonui kūlohelohe o kāu hui, e hōʻoiaʻiʻo ana i ka ʻole downtime a me ka hoʻomau ʻana o ka ʻenehana i kāu mākeke.",
+      "pillarsTitle": "Nā Mana Koʻikoʻi",
+      "pillarsSub": "Hoʻopiha piha i nā mana piha i hoʻolālā ʻia e lawe i kou mau manaʻo mai ka ʻole a i ka hana.",
+      "pillar1Title": "Nā Pono ʻenehana",
+      "pillar1Desc": "Ka nānā 'ana i ka 'oihana lu'u hohonu, nā kiko'ī hana, a me ka palapala 'āina huaka'i no ka wehewehe 'ana i nā palena ho'onā pololei.",
+      "pillar2Title": "Hoʻoponopono Hoʻolālā",
+      "pillar2Desc": "Nā hoʻolālā kapuaʻi ʻōiwi hiki ke hoʻonui ʻia, ka hoʻohālike ʻana i ka waihona, ka hoʻolālā microservices, a me nā kumu palekana hilinaʻi ʻole.",
+      "pillar3Title": "Hoʻomohala noi",
+      "pillar3Desc": "ʻO ka pūnaewele piha piha a me nā polokalamu kelepona i hoʻolālā ʻia me nā code maʻemaʻe, ʻano palekana, a me nā maʻamau UI reactive.",
+      "pillar4Title": "Hoʻohui API",
+      "pillar4Desc": "Nā API REST/GraphQL kiʻekiʻe, hoʻokani pūnaewele, nā ʻīpuka uku, a me ka hui pū ʻana o ERP/CRM ʻaoʻao ʻekolu.",
+      "ctaTitle": "Mākaukau e kūkulu i kāu hoʻonā mai ka hoʻomaka ʻana a hiki i ka hoʻohana ʻana?",
+      "ctaSub": "E hui pū me Rezonants i ke kālaihana, ʻenekinia, a hoʻolālā i kāu paepae kikohoʻe maʻamau mai nā koi ʻoihana a hiki i ka hana maoli.",
+      "ctaButton": "E puke i kahi kūkākūkā hoʻoponopono",
+      "pillar5Title": "Hooiaio Pono",
+      "pillar5Desc": "ʻO ka hoʻāʻo hoʻāʻo koʻikoʻi, ka hoʻāʻo ʻana i ka ukana/koʻikoʻi, nā hiʻohiʻona nāwaliwali, a me nā suites hoʻāʻo regression.",
+      "pillar6Title": "DevOps & Hoʻolālā",
+      "pillar6Desc": "ʻO nā paipu CI/CD maʻemaʻe, ka hoʻoponopono ʻana i ka pahu (Docker/K8s), nā ʻōnaehana ma ke ʻano he code, a me ka hoʻokuʻu ʻana i ka wā hoʻomaha.",
+      "pillar7Title": "Kākoʻo & Maintenance",
+      "pillar7Desc": "24/7 ka nānā pono ʻana, ka telemetry olakino, ka loiloi hana, ka pale ʻana i ka palekana, a me ka mālama mau ʻana i ka SLA.",
+      "pillar8Title": "Hoomau Hou",
+      "pillar8Desc": "Ka wikiwiki o ka hiʻohiʻona maʻamau, ka hoʻohui ʻana i ka ʻikepili, ka hoʻonui ʻana o AI, a me ka hana hou ʻana o ka hale."
+    },
+    "processAutomation": {
+      "eyebrow": "Nā Hana Hana Naʻauao",
+      "titlePart1": "Ke Kaʻina Hana Hana",
+      "titlePart2": "Otometi",
+      "description": "Hoʻopau i ka hopena o nā kaʻina hana o ka ʻoihana, hoʻohui i ka automation kaʻina hana robotic (RPA), ka hoʻoponopono palapala naʻauao, nā ʻenekini lula ʻoihana, a me ka hoʻohui pūnaewele.",
+      "bookDiscovery": "Loaʻa i ka ʻOtometi Buke",
+      "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā",
+      "coreCapabilities": [
+        "Hoʻokaʻawale Hana",
+        "Hoʻopono Kaʻina Hana Lopako",
+        "Ka Hana Palapala",
+        "Hoʻohui ʻenehana",
+        "Nā ʻenekini Rula ʻoihana",
+        "Hoʻoponopono Kaʻina",
+        "Hoʻomau mau",
+        "Hoʻohui Hoʻoilina"
+      ],
+      "row1Eyebrow": "Hoʻopono Kaʻina Hana Lopako",
+      "row1Title": "Nā Bots Naʻauao no nā Hana Nui",
+      "row1P1": "Hoʻopau i ka hoʻokomo ʻana i ka ʻikepili manual, ka hoʻoponopono ʻana i nā ʻōnaehana cross-system, a me ka hoʻokele palapala. Hoʻokomo mākou i nā bots RPA ʻoihana e hoʻokō i nā hana i kūkulu ʻia 24/7 me ka helu hala ʻole.",
+      "row1P2": "Ma ka hoʻohui ʻana i nā loulou papapihi hoʻoilina, nā hope SAP/ERP, a me nā ʻikepili kapua, hoʻokuʻu nā bots lako polokalamu i kāu hui e kālele i nā ʻoihana hoʻolālā.",
+      "row2Eyebrow": "Naauao Palapala",
+      "row2Title": "OCR, Aʻo Mīkini & Palapala AI",
+      "row2P1": "Hoʻokomo ʻakomi, hoʻokaʻawale, a unuhi i ka ʻikepili mai nā pepa pepa, nā ʻaelike, nā palapala ʻike, a me nā koi. Hoʻopaʻa kā mākou pipeline i alakaʻi ʻia e AI i nā kahua kūʻē i nā ʻikepili kūloko a hoʻoulu i nā kahe hana ʻae ʻia.",
+      "row2P2": "Loaʻa i ka uku hoʻoponopono pololei ma mua o 95% ʻoiai e hōʻemi nui ana i nā manawa huli mai nā lā a i kekona.",
+      "row3Eyebrow": "Ke Kaʻina Hana",
+      "row3Title": "Hoʻopaʻa hoʻonohonoho kea i ka hopena",
+      "row3P1": "Hoʻohui i nā API CRM, ERP, HRMS, a me nā panakō i nā kahe ʻikepili i hui pū ʻia. Hoʻokomo mākou i nā mea hoʻoulu i ka hanana, nā queues memo, a me nā mea lawelawe hāʻule hoʻi.",
+      "row3P2": "Holo pololei ka ʻike ma nā keʻena me ka ʻole o ke komo ʻana o ke kanaka, e hoʻopau ana i nā silo hana a me nā lohi kamaʻilio.",
+      "row4Eyebrow": "Telemetry mau",
+      "row4Title": "Hoʻoponopono Kaʻina Hana Manawa a me Kaizen Insights",
+      "row4P1": "E hahai i nā manawa hoʻokō kaʻina hana, nā palapala wela wela, nā alapine hewa, a me ka ROI kālā ma nā papa kuhikuhi hoʻokō manawa maoli.",
+      "row4P2": "Loaʻa nā diagnostics aʻo mīkini hoʻomau i nā manawa automation hou, e mālama ana i kāu ʻoihana i ka hana ʻoi loa.",
+      "pillarsTitle": "Nā pou ʻaunoa",
+      "pillarsSub": "Nā poloka kūkulu i hōʻoia ʻia no nā hana ʻoihana akamai.",
+      "pillar1Title": "ʻOkoʻa kaʻina hana",
+      "pillar1Desc": "Nui-ʻanuʻu kanaka-i-ka-loop a me kikohoʻe workflows orchestrated me ka automated routing a me ka piʻi.",
+      "pillar2Title": "Hoʻopono Kaʻina Hana Robotic",
+      "pillar2Desc": "Nā bots lako polokalamu e pili ana i ke kānāwai e hoʻokō ana i ka hoʻokomo ʻikepili maʻamau, hoʻokuʻikahi, a me nā hana hoʻopiʻi keʻa.",
+      "pillar3Title": "AI Automation akamai",
+      "pillar3Desc": "Nā ʻelele AI ʻike e wehewehe i ka pōʻaiapili, hōʻuluʻulu i nā kikokikona i kūkulu ʻole ʻia, a hoʻoholo i nā hoʻoholo maʻalahi.",
+      "pillar4Title": "Hoʻoponopono Kaʻina",
+      "pillar4Desc": "Kaʻina hana mining, ʻike bottleneck, a me Kaizen workflows e hoʻemi mau ana i nā koina hana.",
+      "ctaTitle": "Mākaukau e hoʻokaʻawale i kāu mau ʻoihana ʻoihana?",
+      "ctaSub": "Hoʻohui me kā mākou mau mea hoʻolālā automation e ʻike i nā manawa kiʻekiʻe-ROI a hoʻokau i nā kahe hana kikohoʻe akamai.",
+      "ctaButton": "Buke i ke kukakuka otometi"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "ʻEnekinia Standard & R&D",
+      "titlePart1": "Waena o",
+      "titlePart2": "Nani",
+      "description": "He hui koʻikoʻi o nā mea kākau kiʻekiʻe a me nā loea kikowaena i hoʻolaʻa ʻia no ka hoʻomaʻamaʻa ʻana i nā hana ʻenekinia, ka hoʻokele ʻana i nā mea hou, a me ka hoʻolalelale ʻana i nā hana kikohoʻe.",
+      "exploreStandards": "E 'imi i nā kūlana 'enekinia",
+      "initiateAssessment": "E hoʻomaka i ka loiloi CoE",
+      "coreCapabilities": [
+        "Nā Kūlana Kūlana",
+        "Hoʻohana hou ʻia",
+        "Ka Hooponopono Hooponopono",
+        "Hoʻomohala akamai",
+        "Ka Hoʻohālikelike Pono",
+        "R&D & Hoʻohou",
+        "Loiloi ʻenehana",
+        "Ke Alaka'i Pahana Kea"
+      ],
+      "uptimeLabel": "Hoʻomaka ʻoihana",
+      "engineersLabel": "Na Enekinia & Mea Hana",
+      "deploymentsLabel": "AI & Hoʻomoe Kapua",
+      "satisfactionLabel": "Hooluolu o ka Mea Hoohana",
+      "row1Eyebrow": "Kia 01 — Hana Hana Hana",
+      "row1Title": "Ke 'enekinia lako polokalamu ki'eki'e",
+      "row1P1": "Hoʻokumu kā mākou Center of Excellence i nā ʻano hoʻolālā maʻamau, hoʻāʻo ʻokoʻa ikaika, a me nā hana loiloi code-defect ʻole e hoʻolalelale i ka manawa-i-makeke me ka mālama ʻana i ka aie ʻenehana i ka zero.",
+      "row1F1": "Hoʻokuʻu ʻia nā laina paipu CI/CD me DORA metric analytics",
+      "row1F2": "Nā papa loiloi hoʻolālā koʻikoʻi a me ka hoʻokele microservices",
+      "row1F3": "Hoʻomau ka hoʻopaʻa ʻana i ka palekana a me ka hoʻopili ʻana i nā nāwaliwali",
+      "row1Btn": "E aʻo i nā kūlana ʻenekinia",
+      "row1Tag": "DevOps & Mea Hana Pono",
+      "row2Eyebrow": "Kia 02 — R&D Hou",
+      "row2Title": "AI Innovation Lab & Emerging Technology",
+      "row2P1": "Hoʻāʻo mākou me nā hiʻohiʻona hoʻonaʻauao mīkini hou, nā mea hana AI maʻamau, a me ka automation workflow naʻauao e kūkulu i nā huahana ʻoihana o ka hanauna e hiki mai ana.",
+      "row2F1": "Hoʻohui ʻike ʻo Enterprise Generative AI & RAG",
+      "row2F2": "ʻO nā kaʻina hana ʻoihana AI kūʻokoʻa no ka automation kaʻina hana ʻoihana",
+      "row2F3": "Ka hoʻopololei a me ka hoʻoponopono maikaʻi ʻana",
+      "row2Btn": "E ʻimi iā AI Lab",
+      "row2Tag": "Ka Naʻauao Mea Hana a me Neural R&D",
+      "row3Eyebrow": "Kia 03 — Na Mea Hana",
+      "row3Title": "Hoʻolālā Cloud Enterprise & Palekana Zero-Trust",
+      "row3P1": "Hoʻolālā a mālama mākou i nā kaiapuni multi-cloud kūpaʻa i kūkulu ʻia ma luna o nā ʻōnaehana palekana zero-trust, e hōʻoiaʻiʻo ana e pale mau ʻia kāu ʻikepili mai ka ulu ʻana o nā mea hoʻoweliweli pūnaewele honua.",
+      "row3F1": "AWS, Azure, a me GCP ka hoʻolalelale ʻana i nā ʻōnaehana kapuaʻi lehulehu",
+      "row3F2": "Loaʻa i ka ʻoihana pūnaewele Zero-trust (ZTNA) a me nā kulekele IAM e pili ana i nā kuleana",
+      "row3F3": "Ka nānā 'ana i ka palekana pahu pahu a me ka mālama huna",
+      "row3Btn": "E ʻimi i ke ao a me ka palekana",
+      "row3Tag": "Hoʻolālā Cloud & Zero-Trust",
+      "pillarsTitle": "ʻO kā mākou Papahana Kūlana Kiʻekiʻe",
+      "pillarsSub": "Nā puke pāʻani hoʻomohala ʻōnaehana e hoʻohana ana i nā paepae koʻikoʻi.",
+      "pillar1Title": "Papa Nānā Hoʻolālā (ARB)",
+      "pillar1Desc": "Ka mākaʻikaʻi holoʻokoʻa e hōʻoia ana i nā hoʻonā ʻoihana āpau e kūlike me nā kuʻina scalability, palekana, a me ka hoʻokō pono.",
+      "pillar2Title": "Hiki ke hoʻohana hou ʻia a me ka waihona waihona",
+      "pillar2Desc": "Nā ʻōnaehana hoʻolālā waiwai, nā pahu hoʻomaka API, a me nā laʻana microservice backend e hōʻemi ana i ka manawa hoʻomohala mua ma 40%.",
+      "pillar3Title": "Hoʻomau i ka hana ʻana",
+      "pillar3Desc": "ʻO nā laina paipu hiki ke nānā aku i ka manawa maoli e nānā ana i ka latency noi, nā bottlenecks throughput, a me ka hoʻohana ʻana i ke ao kumu waiwai.",
+      "pillar4Title": "Hoʻonui Talent & Guilds",
+      "pillar4Desc": "Hoʻokumu ʻia nā guild kūloko a me nā palapala hōʻoia e hoʻoulu ana i ka ʻike loea hohonu ma waena o ke ao, DevOps, a me AI hoʻohana.",
+      "ctaTitle": "E hoʻokiʻekiʻe i kāu kūlana ʻenekinia",
+      "ctaSub": "E hui pū me ka Rezonants's Center of Excellence no ke kūkulu ʻana i nā kikohoʻe kapuaʻi kūpaʻa, hoʻopololei i nā kahe hana, a hoʻokē ʻai i nā huahana kikohoʻe.",
+      "ctaButton": "Hoʻonohonoho i nā kūkākūkā hoʻokō",
+      "badge": "REZONANTS COE",
+      "scroll": "Owili",
+      "p1Title": "Ke Aupuni a me ka Papahana",
+      "p1Desc": "E hoʻokumu i ka hoʻokele hoʻokele hale o ka ʻoihana, nā kiaʻi kulekele, a me nā kūlana hoʻokō.",
+      "p1Tag": "Aupuni",
+      "p2Title": "Nā Kūlana ʻenehana & Hoʻolālā",
+      "p2Desc": "Wehewehe i nā hale hoʻolālā o kēia wā, nā pūʻulu ʻenehana i hoʻopaʻa ʻia, a me nā hiʻohiʻona microservices.",
+      "p2Tag": "Hoʻolālā",
+      "p3Title": "Nā Waiwai a me nā Hale Waihona Puke",
+      "p3Desc": "E hoʻolalelale i ka wikiwiki o ka hoʻomohala ʻana me nā ʻāpana kaʻana like, nā mamana, nā pahu hoʻomaka, a me nā ʻōnaehana hoʻolālā.",
+      "p3Tag": "Hoohana hou",
+      "p4Title": "Hoʻomohala ʻike",
+      "p4Desc": "Hoʻomaʻamaʻa i kūkulu ʻia, aʻo ʻenehana, a me ka mākaukau e hoʻokiʻekiʻe i ka ʻoihana ʻenehana hui.",
+      "p4Tag": "Mākaukau",
+      "p5Title": "Hoʻohou & ʻenehana hou",
+      "p5Desc": "R&D e pili ana i nā ʻoihana AI, nā pipeline automation, a me nā ʻōnaehana hanauna e hiki mai ana e mālama i ka ʻaoʻao o ka mākeke.",
+      "p5Tag": "Mea Hou",
+      "p6Title": "Hoomaikai mau",
+      "p6Desc": "ʻIkepili ʻenekinia me ka ʻikepili (DORA), SLA benchmarking, a me ka hoʻomau ʻana i ka maikaʻi.",
+      "p6Tag": "Pono"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Hoʻopilikino Kikohoʻe",
+      "titlePart1": "Hoʻomohala maʻamau &",
+      "titlePart2": "Hoʻopilikino",
+      "description": "Ka hoʻomohala ʻana a me ka hoʻonui ʻana i nā noi, nā paepae, nā kahe hana, a me nā hoʻonā ʻoihana e hoʻoponopono i nā koi ʻoihana kūʻokoʻa a hāʻawi i nā hana i kūpono.",
+      "bookConsultation": "Buke i kahi kukakuka",
+      "exploreCapabilities": "E ʻimi i nā mea hiki",
+      "coreCapabilities": [
+        "Hoʻomohala Kuʻuna",
+        "Hoʻonohonoho ʻana i ke kahua",
+        "Hoonui",
+        "Nā Kaʻina Hana Maʻamau",
+        "Hoʻomohala API",
+        "Hoʻohui Pūnaewele",
+        "Hoʻonui UI/UX",
+        "Hoʻonui i ka hana"
+      ],
+      "row1Eyebrow": "HANA HANA",
+      "row1Title": "Nā hiʻohiʻona i hana ʻia no kāu kaʻina hana",
+      "row1P1": "Loaʻa pinepine nā polokalamu ʻoihana maʻamau i ka hoʻokō ʻana i nā pono ʻoihana kūikawā. Hoʻokumu kā mākou hui ʻenekinia maʻamau i nā modula noi i koho ʻia, nā lula ʻoihana maʻamau, a me nā hoʻonui kūikawā i kūpono i kāu mau hana.",
+      "row1P2": "Mai ka hoʻonui ʻana i ka CRM a me ka ERP a hiki i nā puka puka hana kūikawā, kūkulu mākou i nā hiʻohiʻona e hoʻolike pono me nā ʻōnaehana holoʻokoʻa o kāu hui.",
+      "row2Eyebrow": "HUI HANA",
+      "row2Title": "Ka Hoʻonohonoho Paʻa a me ka Hoʻomohala API",
+      "row2P1": "Hoʻohui i nā ʻōnaehana polokalamu ʻokoʻa i loko o kahi kaiaola kikohoʻe hui pū. Hoʻomaʻamaʻa mākou i nā API REST a me GraphQL maʻamau, nā mea lawelawe webhook, a me nā laina memo ʻoihana e hōʻoia i ka hoʻonohonoho ʻana i ka ʻikepili i ka manawa maoli ma kāu mau paepae āpau.",
+      "row2P2": "Inā hoʻohui ʻia nā mea hana SaaS ʻaoʻao ʻekolu a i ʻole ka hoʻonui ʻana i nā kahua paʻa ponoʻī, ʻo kā mākou papa hana hoʻohui e hoʻokumu i ka pono o ka ʻikepili, throughput, a me ka ʻole downtime.",
+      "row3Eyebrow": "UI/UX & HANA",
+      "row3Title": "Hoʻonui UI/UX & Hoʻonui i ka hana",
+      "row3P1": "E hoʻokiʻekiʻe i nā pilina hoʻoilina me nā ʻike mea hoʻohana hou a pane i hoʻolālā ʻia no ka wikiwiki a me ka maopopo. Hana hou mākou i nā ʻaoʻao mua me nā ʻano hoʻolālā intuitive, ka hoʻokō pono ʻana, a me nā hiʻohiʻona hoʻohālikelike i hoʻopaʻa ʻia.",
+      "row3P2": "Ma ka like, hoʻopaneʻe kā mākou mau ʻenekini hana i nā nīnau ʻikepili, nā hoʻolālā hoʻopaʻa ʻana, a me ka nui o ka puʻupuʻu mua e hāʻawi i nā manawa pane koke ma nā mea āpau.",
+      "pillarsTitle": "Hana ʻia i kāu mau kikoʻī pololei",
+      "pillarsSub": "Nā ʻano hana hoʻoponopono ʻoihana-nui i kūkulu ʻia e hoʻonui maʻalahi.",
+      "pillar1Title": "Nā Kaʻina Hana Hana & Hoʻonui",
+      "pillar1Desc": "Hoʻonohonoho pono ʻia nā loina noi a me nā mīkini mokuʻāina ʻokoʻa e pili ana i kāu mau lula hana kūloko.",
+      "pillar2Title": "API & Hoʻohui Pūnaewele",
+      "pillar2Desc": "Paʻa, hōʻoia ʻia nā alahaka ʻikepili e hoʻopili ana i nā backend proprietary, suites ERP, nā puka uku, a me nā lawelawe kapua.",
+      "pillar3Title": "Hoʻonohonoho ʻana i ke kahua",
+      "pillar3Desc": "Hoʻololi hoʻololi i nā polokalamu ʻoihana me ka uhaki ʻole i nā ala hoʻomaikaʻi a i ʻole nā ʻaelike kākoʻo mea kūʻai aku.",
+      "pillar4Title": "Hoʻonui i ka hana",
+      "pillar4Desc": "ʻO ka hoʻopaʻa ʻana i nā nīnau koʻikoʻi, ka hoʻopau ʻana i ka leka hoʻomanaʻo, a me ka puʻunaue CDN lihi no ka hoʻouka ʻaoʻao ma lalo kekona.",
+      "ctaTitle": "Mākaukau e hoʻopilikino i kāu papahana ʻoihana?",
+      "ctaSub": "E hui pū me kā mākou mau mea hoʻoponopono hoʻoponopono e hoʻolālā a kau i nā modula maʻamau, nā kahe hana, a me nā hoʻohui i kūpono i kāu pono ʻoihana.",
+      "ctaButton": "Hoʻopaʻa i kahi kelepona hoʻoponopono",
+      "badge": "Hana Kikohoʻe Hana Hana",
+      "viewAllServices": "Nānā i nā lawelawe a pau"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Hoʻololi ʻoihana",
+      "titlePart1": "Kikohoʻe",
+      "titlePart2": "Hoololi",
+      "description": "ʻO ka hoʻonui piha ʻana i nā kaʻina hana ʻoihana, nā ʻenehana ʻenehana, a me nā hiʻohiʻona hana e hoʻoikaika i ka wikiwiki o ka hui, ka hana kūpono, a me ka ulu kikohoʻe hoʻomau.",
+      "startTransformation": "Hoomaka Hoololi",
+      "exploreStrategy": "E 'imi i ka Papahana",
+      "coreCapabilities": [
+        "Hoʻolālā a me ka palapala alanui",
+        "Hoʻohou Hou",
+        "Ke ao a me ka hana",
+        "ʻIkepili & ʻIkepili",
+        "Kaʻina Hana",
+        "Kaʻike mea kūʻai aku",
+        "Hooponopono Hoololi",
+        "Nā Kiʻi Hana Agile"
+      ],
+      "row1Eyebrow": "Hoʻolālā a me ka palapala alanui",
+      "row1Title": "Mai ka hihio a hiki i ka palapala alanui hiki ke hooko",
+      "row1P1": "Hoʻopili mākou me nā alakaʻi o ka ʻoihana e wehewehe i ka hoʻolālā kikohoʻe, nā hihia ʻoihana, a me nā palapala alanui i hoʻopaʻa ʻia me nā lanakila wikiwiki a me ka hoʻokō ʻana i ka pilikia.",
+      "row1P2": "ʻO nā hana mua, nā hiʻohiʻona TCO, a me nā KPI e hoʻopaʻa pono i kēlā me kēia hana hoʻonaʻauao ʻenehana e pili pono i ka loaʻa kālā, ka pono, a me nā hopena ʻoluʻolu o nā mea kūʻai aku.",
+      "row2Eyebrow": "Legacy Modernization",
+      "row2Title": "Hoʻohou me ka uhaki ʻole i ka ʻoihana",
+      "row2P1": "Hoʻonohonoho hou i nā monoliths i nā microservices, nā API, a me nā ʻano hoʻohālike kapuaʻi me nā ʻoki ʻoki ʻole-downtime a me ka hōʻoia ʻana i ka regression automated.",
+      "row2P2": "Hoʻololi mākou i nā noi, ʻikepili, a me nā papa hoʻohui ʻoiai e mālama ana i ka hoʻokō a me ke kūlana palekana.",
+      "row3Eyebrow": "Kapua, AI & ʻIkepili",
+      "row3Title": "Hoʻokomo ʻia i ke ao a me ka ʻike ʻike",
+      "row3P1": "Hoʻohana i ka AWS, Azure, a me GCP, kūkulu i nā paipu ikepili hou, a hoʻokomo i nā ʻelele aʻo mīkini e hoʻoholo i nā hoʻoholo kūʻokoʻa.",
+      "row3P2": "Mai ka hoʻoheheʻe ʻana i ka hanana i ka manawa maoli i nā dashboard i hui pū ʻia, lilo ka hoʻololi ʻana i mea hiki ke ana a paʻa.",
+      "row4Eyebrow": "ʻIke Kūʻai",
+      "row4Title": "Nā ʻike Omnichannel o kēia wā",
+      "row4P1": "Hoʻolālā hou i nā huakaʻi kūʻai ma waena o ka pūnaewele pane, iOS, Android, a me nā puka lawelawe ponoʻī me nā pilina pilikino.",
+      "row4P2": "Hoʻomau ka ʻenekinia platform, telemetry, a me nā puka puka manaʻo automated.",
+      "pillarsTitle": "Na Kia Hoololi",
+      "pillarsSub": "ʻO nā levers e pili ana i ka hopena e hōʻoia i ke alakaʻi kikohoʻe hoʻomau.",
+      "pillar1Title": "Hoʻolālā Kikohoʻe a me ke Aupuni",
+      "pillar1Desc": "Nā papahana hoʻololi i hoʻololi ʻia me ka hoʻohālike ʻana i ka hihia ʻoihana, ka hoʻokele hoʻokele waiwai, a me ka nānā ʻana i ka pilikia.",
+      "pillar2Title": "Ke ao a me ka ʻikepili",
+      "pillar2Desc": "AWS/Azure/GCP mau kapua'i kapua'i, paipu 'akomi, a me ka ho'ohana 'ana i ka 'ikepili 'ikepili.",
+      "pillar3Title": "AI & Automation",
+      "pillar3Desc": "ʻO ka automation kaʻina hana naʻauao, nā ʻelele AI cognitive, a me ka telemetry wānana e hoʻomaikaʻi i nā hana o kēlā me kēia lā.",
+      "pillar4Title": "ʻIke Kūʻai",
+      "pillar4Desc": "Nā puka kikohoʻe omnichannel kiʻekiʻe a me nā pilina pilikino i kūkulu ʻia no ka paʻa ʻana o ka mea hoʻohana.",
+      "ctaTitle": "Mākaukau e hoʻololi i kāu ʻoihana?",
+      "ctaSub": "E hui pū me Rezonants no ka hoʻololi kikohoʻe i hoʻopaʻa ʻia i hoʻopaʻa ʻia i nā hopena ʻoihana hiki ke ana.",
+      "ctaButton": "Puke i kahi kelepona hoʻololi kikohoʻe",
+      "bookWorkshop": "Hale Hana Hoololi Buke",
+      "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā",
+      "coreCapabilitiesTitle": "Na Mana Mana"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Hoʻopiha i ka ʻenehana Lifecycle",
+      "titlePart1": "Hoʻopau i ka hopena",
+      "titlePart2": "Hoʻolālā",
+      "description": "He hoʻolālā hoʻopuka holoʻokoʻa holoʻokoʻa e pili ana i nā koi ʻoihana, hoʻolālā hoʻolālā, ʻenekinia, hoʻohui, hōʻoia maikaʻi, hoʻonohonoho ʻana i ke ao, a me nā hana hoʻokele.",
+      "startJourney": "E hoʻomaka i kāu papahana",
+      "exploreFramework": "Eʻimi i ka Papahana",
+      "coreCapabilities": [
+        "Nānā Koi",
+        "Hoʻolālā Hoʻolālā",
+        "Hoʻomohala piha",
+        "Hoʻohui ʻenehana",
+        "Hōʻoia maikaʻi",
+        "Hoʻolaha a hoʻolaha",
+        "Ke mau nei na hana",
+        "Hoʻomau Hoʻohou"
+      ],
+      "row1Eyebrow": "Hoʻolālā & Hoʻolālā",
+      "row1Title": "Nā Manaʻo ʻenehana a me ka hoʻolālā hoʻonā",
+      "row1P1": "Nā papa hana hui, ka palapala ʻāina ʻoihana, a me nā kikoʻī hoʻolālā kapua i hoʻolālā ʻia e hoʻopau i ka pilikia ma mua o ka kākau ʻana i kahi laina code.",
+      "row1P2": "Wehewehe mākou i nā hiʻohiʻona ʻikepili, nā papa hana palekana, a me nā milestones scalability e hoʻokumu i ka holomua lōʻihi.",
+      "row2Eyebrow": "'Enekinia & Pono",
+      "row2Title": "Hoʻomohala piha a me ka hoʻāʻo ʻana",
+      "row2P1": "ʻO nā microservices modular, type-safe APIs, a me nā frontends pane i hui pū ʻia me ka pūʻulu ʻakomi, hoʻohui, a me nā scan palekana.",
+      "row2P2": "Nā paipu hoʻohui mau me GitHub Actions, Terraform, a me nā kiaʻi palekana automated.",
+      "row3Eyebrow": "Hoʻolālā a me nā hana",
+      "row3Title": "Cloud Deployment & 24/7 Managed Monitoring",
+      "row3P1": "ʻO ka hui ʻana o nā ao he nui ma AWS/Azure/GCP me ka rollback ʻakomi, ʻoki ʻoki ʻole-downtime, a me ka nānā ʻana i ka manawa maoli.",
+      "row3P2": "Hāʻawi mākou i ka mālama ʻana i kākoʻo ʻia e SLA a me ka nānā ʻana i ka telemetry mau e hoʻololi i kāu huahana me ka maʻalahi.",
+      "row4Eyebrow": "Ke Aupuni Hui",
+      "row4Title": "Ke Aupuni Hui a me ke kākoʻo mau",
+      "row4P1": "ʻO ke kuleana o ka helu hoʻokahi ma kāu pūʻulu kikohoʻe holoʻokoʻa - ka wikiwiki sprint māmā, ka hoʻolilo kālā ʻike ʻia, a me ka hana hou.",
+      "row4P2": "ʻO ka holo ʻana o nā hiʻohiʻona maʻamau a me nā pōʻai hou e mālama i kāu ʻoihana ma mua o ka hoʻokūkū.",
+      "pillarsTitle": "Nā Pilla Hoʻolālā Ola",
+      "pillarsSub": "ʻO kēlā me kēia māhele i hana ʻia me ka ikaika o ka ʻoihana.",
+      "pillar1Title": "Hoʻolālā a me nā koi",
+      "pillar1Desc": "Loaʻa ka ʻāina, nā palapala alanui kūkulu hale, a me ka hoʻolikelike ʻana o nā mea pili e hoʻopau i nā pilikia.",
+      "pillar2Title": "Hoʻolālā & Hana",
+      "pillar2Desc": "ʻO nā microservices kapuaʻi maoli, hoʻohui API, a me ka hoʻāʻo mau ʻana o ka QA.",
+      "pillar3Title": "Palekana & Hoʻolaha",
+      "pillar3Desc": "ʻO ka hoʻokō palekana ʻaʻohe hilinaʻi, nā hoʻokuʻu pahu pahu, a me nā hoʻonohonoho ʻokoʻa o ke ao.",
+      "pillar4Title": "Aupuni & Kākoʻo",
+      "pillar4Desc": "24/7 SLA ka nānā 'ana, telemetry olakino, a me ka 'enekinia evolutionary mau.",
+      "ctaTitle": "Pono ʻoe i hoa pili ola holoʻokoʻa?",
+      "ctaSub": "Loaʻa iā mākou ke ola ʻenehana piha i hiki i kāu hui ke nānā aku i nā hopena ʻoihana koʻikoʻi.",
+      "ctaButton": "Hoa no ke Kaiapuni Ola Loa"
+    },
+    "migrationServices": {
+      "eyebrow": "Ke ao a me ka hoʻololi ʻana i nā hana",
+      "titlePart1": "Ka neʻe ʻana &",
+      "titlePart2": "Hoʻoponopono hou",
+      "description": "Ka neʻe ʻana o nā noi hoʻoilina, ʻikepili, a me nā mea hoʻomohala i nā hale kiʻi kapuaʻi o kēia wā, i hui pū ʻia me ka hoʻomau hou ʻana no ka hoʻomaikaʻi ʻana i ka wikiwiki a me ka maikaʻi.",
+      "bookAssessment": "Helu Buke",
+      "exploreStrategy": "E 'imi i ke Kumu Ao",
+      "coreCapabilities": [
+        "Ka Neʻe Kapua",
+        "Noi ka hooponopono hou ana",
+        "Ka neʻe ʻana o ka waihona",
+        "Hoʻomoe Hou",
+        "Hoʻokomo ʻia",
+        "Hoʻololi Microservices",
+        "Hoʻonui i ka hana",
+        "Palekana & Hoʻokō"
+      ],
+      "row1Eyebrow": "Ka Neʻe Kapua",
+      "row1Title": "Hoʻolālā Nui-Cloud & Hoʻokiʻekiʻe-a-Optimize",
+      "row1P1": "Ka neʻe ʻana o ka hana maʻamau ma waena o AWS, Azure, a me Google Cloud me ka ʻike ʻakomi, ka hoʻolālā nalu, a me ka hoʻopau ʻana i ka ʻoihana.",
+      "row1P2": "Hoʻopalike mākou i ka hoʻokipa hou ʻana, hoʻoponopono hou ʻana, a me ka hoʻoponopono hou ʻana i mea e hoʻonui ai i ke kumu kūʻai o ke kuleana (TCO) a me ka wikiwiki.",
+      "row2Eyebrow": "ʻIkepili a me ka ʻikepili Migration",
+      "row2Title": "Hoʻopaʻa i ka ETL a me ka hōʻoia ʻikepili",
+      "row2P1": "Ka hoʻopili hou ʻana i ka waihona ʻikepili, unuhi hoʻolālā, a me nā paipu ETL kiʻekiʻe me ka 100% hōʻoia pono ʻikepili.",
+      "row2P2": "ʻO ka hoʻomaʻamaʻa ʻana i ka ʻoki ʻoki ʻana i ka zero-downtime e hōʻoia i ka kūlike o ka ʻikepili piha a me ka hoʻomau ʻana o ka ʻoihana.",
+      "row3Eyebrow": "Hoʻohou Papahana",
+      "row3Title": "ʻO ka Containerization & Kubernetes Orchestration",
+      "row3P1": "Hoʻololi hou i nā monolith hoʻoilina i mau lawelawe liʻiliʻi hiki ke hoʻonui ʻia ma o Kubernetes (EKS, AKS, GKE) me nā paʻi ʻoniʻoni IaC.",
+      "row3P2": "ʻO ka hoʻolaha ʻana i ka hana ma hope o ka neʻe ʻana a me ka loiloi kumu kūʻai e hōʻoia i ka ROI koke.",
+      "row4Eyebrow": "Hoʻolālā ʻoki",
+      "row4Title": "Ho'āʻo 'akomi a me nā ʻupena palekana",
+      "row4P1": "Nā puke hōʻoki ʻoki i hoʻāʻo ʻia i ke kaua, nā suites regression automated, a me nā mīkini rollback koke no ka maluhia piha o ka noʻonoʻo.",
+      "row4P2": "ʻO ka telemetry olakino ma hope o ka neʻe ʻana a me 24/7 hypercare e hōʻoiaʻiʻo i ka paʻa ʻole o ka hana.",
+      "pillarsTitle": "Hooiaio o ka nee ana",
+      "pillarsSub": "Nā neʻe hoʻoneʻe ʻia i kākoʻo ʻia e nā SLA ʻoihana.",
+      "pillar1Title": "Hoʻokiʻoki Zero-Downtime",
+      "pillar1Desc": "Hoʻokuʻu ʻia ka Canary a me ka ʻikepili papalua-kākau sync e hōʻoia i ke komo ʻole o ka mea hoʻohana.",
+      "pillar2Title": "HōʻoiaʻIkepili Aunoa",
+      "pillar2Desc": "Hoʻohālikelike Checksum, hoʻopaʻa pono schema, a me ka hoʻoponopono ETL automated.",
+      "pillar3Title": "Rollback Palekana Upena",
+      "pillar3Desc": "Hoʻopaʻa i nā kuʻina hoʻōla pōʻino a me nā hoʻomaʻamaʻa hoʻomaʻamaʻa e loaʻa ai ka pilikia i kēlā me kēia manawa.",
+      "pillar4Title": "Ka Hana a me ke Kumukuai",
+      "pillar4Desc": "Hoʻopili pono ʻia ke ao, nā kulekele autoscaling, a me nā dashboard hoʻokele waiwai.",
+      "ctaTitle": "Mākaukau e neʻe me ka hilinaʻi piha?",
+      "ctaSub": "E hui pū me Rezonants no ka hoʻonohonoho ʻana, ʻaʻohe pilikia a me ka hōʻano hou ʻana i ka ʻikepili.",
+      "ctaButton": "E hoʻolālā i kāu Haʻawina Migration"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Hōʻoia wikiwiki a me ka hiki",
+      "titlePart1": "Hōʻoiaʻiʻo o ka Manaʻo (PoC) &",
+      "titlePart2": "Hoʻokō Pilot",
+      "description": "Ka hoʻomohala wikiwiki a me ka hōʻoia ʻana o nā ʻenehana ʻenehana no ka loiloi ʻana i ka hiki ke ʻenehana, ka waiwai ʻoihana, nā koi hoʻohui, ka hana, a me ka scalability ma mua o ka hoʻokō piha ʻana.",
+      "initiateDiscovery": "Hoʻomaka i ka ʻike PoC",
+      "exploreDevelopment": "E ʻimi i ka hoʻomohala maʻamau",
+      "coreCapabilities": [
+        "Hoʻomohala PoC",
+        "ʻEnekinia Prototype",
+        "Haʻawina Pono",
+        "Hōʻoia Hoʻolālā",
+        "Hoao Hoohui",
+        "Ka Hoʻohālikelike Hana",
+        "Hoʻolālā Pilot",
+        "Ka Waiwai"
+      ],
+      "row1Eyebrow": "Hoʻoholo wikiwiki",
+      "row1Title": "Mai ka Manaʻo a hiki i ka Hoʻokō ʻia",
+      "row1P1": "ʻO ka hoʻololi ʻana i kahi manaʻo i mea hoʻonā ʻoihana e pono ai ka hōʻoia mua. ʻO kā mākou lawelawe PoC & Pilot e loiloi i ka hiki ʻana o ka ʻenehana, hoʻāʻo i ke koʻikoʻi i nā makau hoʻohui koʻikoʻi, a hōʻoia i ka ROI ʻoihana ma mua o ka hoʻokō ʻana i ke kālā nui.",
+      "row1P2": "Kūkulu mākou i nā MVP hilinaʻi kiʻekiʻe a me nā pailaka pahu pahu e hōʻoiaʻiʻo ana i ka hiki ke ʻenehana, e ana i ka latency ʻōnaehana, a e hōʻiliʻili koke i ka hōʻoia ʻana i nā mea kuleana.",
+      "row1Cap": "Māmā MVP Prototyping & Nā Kūlana Kūikawā",
+      "row2Eyebrow": "Hoʻopololei Agile",
+      "row2Title": "Nā MVP Interactive & UX Validation",
+      "row2P1": "Kūkulu mākou i nā wireframes pili, nā kahe mea hoʻohana hiki ke kaomi, a me nā manaʻo hōʻoia hana i nā lā, ʻaʻole nā mahina. E ho'āʻo i ka pilina o nā mea hoʻohana maoli, e hoʻomaʻemaʻe i nā ʻano UI/UX, a e hōʻiliʻili i nā manaʻo manaʻo mai nā mea kuleana.",
+      "row2P2": "Ma ka hoʻopōkole ʻana i nā puka lou i ka wā o ka hoʻomohala mua ʻana, e hōʻemi ana kāu hui i ka hana hou ʻana a hoʻokumu i nā kikoʻī ʻenehana ma mua o ka hoʻomaka ʻana o ke kūkulu ʻana i ka waiwai nui.",
+      "row2Cap": "Hoʻololi wikiwiki a hiki i ke kaomi UX Prototypes",
+      "row3Eyebrow": "Ho'āʻo Hoʻohui & Scalability",
+      "row3Title": "De-Risk Complicated System Integrations",
+      "row3P1": "Wehe i nā bottlenecks ʻenehana, nā palena API, a me nā kaohi hana ma mua o ka hoʻokō ʻana i ke kālā. ʻO kā mākou hui hoʻokele hoʻokele koʻikoʻi e hoʻāʻo i ka hoʻohui ʻana, nā paipu ʻikepili, a me nā API ʻaoʻao ʻekolu i loko o nā wahi pahu one kaʻawale.",
+      "row3P2": "ʻO kēia hoʻemi ʻana i ka pilikia e hōʻoia i ka loaʻa ʻana o ka ʻōnaehana kiʻekiʻe, ka hoʻokō palekana, a me nā manawa hoʻomohala wānana i ka wā e hoʻololi ai i kāu PoC i ka hana ʻoihana.",
+      "row3Cap": "Hoʻohui ʻia ʻo Sandbox a me ka hoʻāʻo koʻikoʻi",
+      "row4Eyebrow": "Pilot Hana Mana Mana",
+      "row4Title": "Hoʻolaha Pilot i manaʻo ʻia a hōʻoia i ka hihia ʻoihana",
+      "row4P1": "E hoʻolālā i nā hoʻokuʻu hoʻokuʻu pilote i koho ʻia i ka māhele mea hoʻohana a i ʻole ka mākeke hoʻāʻo. E hoʻopaʻa i nā metric hana, ka ʻikepili hoʻohana ʻana i nā mea hoʻohana, a me nā manaʻo hana e helu i ka waiwai ʻoihana a hoʻokumu i kahi hihia pāʻoihana kākoʻo ʻikepili.",
+      "row4P2": "Me nā ʻike hoʻokele honua maoli, loaʻa i nā mea kākoʻo hoʻokō nā metric ROI e hōʻoiaʻiʻo ai i ka hoʻolaha ākea a me nā hoʻopukapuka hoʻololi kikohoʻe.",
+      "row4Cap": "Hoʻohana ʻia a me ka Telemetry hana",
+      "pillarsTitle": "ʻO kā mākou Pilot Engineering Principles",
+      "pillarsSub": "Ke alakaʻi ʻana i nā loina e hoʻohuli i ka ʻike maopopo ʻole i ka holomua ʻoihana hiki ke wānana.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Hāʻawi wikiwiki i nā prototype hana e hōʻoia i nā manaʻo waiwai i ka wā mua o ke ola.",
+      "pillar2Title": "Hiki & Hooia",
+      "pillar2Desc": "E hōʻoia i ka pili ʻana o ka API, nā paepae komo, a me nā koi hoʻokō i nā kaiapuni sandbox.",
+      "pillar3Title": "Ka Loiloi Scalability",
+      "pillar3Desc": "E hoʻohālikelike i ka ukana hana no ka hoʻokumu ʻana i nā palena hiki ke hoʻoholo i ka nui o ka hoʻolālā ʻana o ke ao.",
+      "pillar4Title": "Hōʻoia hihia pāʻoihana",
+      "pillar4Desc": "E hoʻonui i ka ROI a me nā ana huahana e kākoʻo i nā hoʻoholo hoʻoholo holoʻokoʻa o ka ʻoihana.",
+      "ctaTitle": "Mākaukau e hōʻoia i kāu hoʻonā kikohoʻe hou?",
+      "ctaSub": "E hui pū me kā mākou hui ʻenekinia hoʻonā e ʻimi i nā koi o kāu papahana, kūkulu i prototype, a hoʻāʻo i ka hiki me ka pilikia ʻole.",
+      "ctaButton": "Buke i kahi kūkākūkā PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Huna Hana Kūwaena",
+      "titlePart1": "Nā lawelawe Kaʻana like &",
+      "titlePart2": "Nā hana i mālama ʻia",
+      "description": "Hoʻopuka kikowaena o ka ʻenehana a me ka hiki ke hana ma waena o nā ʻoihana ʻoihana ma o nā kaʻina hana maʻamau, nā kumuwaiwai akamai, nā ʻōnaehana hoʻomalu, ka hoʻokele lawelawe, a me nā pae lawelawe hiki ke ana.",
+      "bookDiscovery": "Loaʻa nā hana i mālama ʻia ma ka puke",
+      "exploreFramework": "E ʻimi i ka Papa Hana Hoʻonā",
+      "coreCapabilities": [
+        "Nā lawelawe mālama ʻia",
+        "IT Hana",
+        "Kākoʻo noi",
+        "Hooponopono lawelawe",
+        "Hoʻonui waiwai",
+        "Hooponopono SLA",
+        "Aupuni",
+        "Hoomaikai mau",
+        "Ke Kumukuai"
+      ],
+      "row1Eyebrow": "Hui Hoʻouna Hoʻohui",
+      "row1Title": "Nā lawelawe maʻamau ma nā ʻāpana ʻoihana āpau",
+      "row1P1": "E hoʻohui i ka IT keʻena hope, ka hoʻokele waiwai, a me ke kākoʻo ʻenehana i loko o kahi kikowaena hoʻolaha kiʻekiʻe.",
+      "row1P2": "Ma ka hoʻopau ʻana i ka hui ʻelua ma luna o ke poʻo a me ka hoʻohālikelike ʻana i nā hiʻohiʻona hāʻawi lawelawe, mālama kāu hui i ka maikaʻi kūlike a hoʻohaʻahaʻa i ka nui o nā lilo hana.",
+      "row2Eyebrow": "24/7 SRE & Kākoʻo noi",
+      "row2Title": "Ka nānā 'ana a me ka ho'oholo wikiwiki",
+      "row2P1": "Hāʻawi kā mākou Site Reliability Engineers (SRE) a me nā loea kākoʻo i ka nānā ʻana i ka telemetry 24/7/365, ka hoʻāʻo makaʻala automated, a me ka hoʻonā wikiwiki L1/L2/L3.",
+      "row2P2": "Kākoʻo ʻia e nā hoʻokō SLA koʻikoʻi, hōʻoiaʻiʻo mākou he 99.99% ka loaʻa no kāu mau noi koʻikoʻi koʻikoʻi a me nā ʻōnaehana ao.",
+      "row3Eyebrow": "ITIL Aupuni & Hoʻokō",
+      "row3Title": "Nā Papahana Hoʻoponopono Hana Hana",
+      "row3P1": "E hoʻokō i nā kūlana ITSM alakaʻi i ka ʻoihana (ServiceNow, Jira Service Management) me ka mākaʻikaʻi ʻike, nā loiloi kumu kumu, a me nā pale hoʻokele hoʻololi.",
+      "row3P2": "ʻO nā ala hoʻokolo piha a me nā kulekele hoʻomalu e hoʻopaʻa pono i kāu mau hana me nā kūlana palekana honua.",
+      "row4Eyebrow": "FinOps & Hoʻonui mau",
+      "row4Title": "Hoʻolālā Waiwai a me ka hoʻonui waiwai",
+      "row4P1": "Hoʻopau i ka ʻōpala o ke ao, hoʻopololei i ka helu helu ʻana, a hoʻomaʻamaʻa i ka mālama ʻana i nā hana maʻamau me nā hana maikaʻi loa o FinOps.",
+      "row4P2": "Hōʻike nā hōʻike moʻokalaleo o kēlā me kēia mahina a me nā wānana hiki ke hoʻomau i ka hoʻonui ʻana i ke kumukūʻai o ka hana a me ka maikaʻi kiʻekiʻe.",
+      "pillarsTitle": "Nā kia hana",
+      "pillarsSub": "Ua ho'āʻo ʻia nā lewa hana no ka scalability ʻoihana hilinaʻi.",
+      "pillar1Title": "24/7 Managed IT Operations",
+      "pillar1Desc": "ʻO ka telemetry NOC Proactive, patching server, mālama pono ʻana, a me 99.99% mau manawa manawa.",
+      "pillar2Title": "ITSM & Papa Hana",
+      "pillar2Desc": "Tier 1/2/3 multi-channel helpdesk, hoʻokele hanana, a me nā kaʻina hana hoʻoholo tiketi.",
+      "pillar3Title": "SLA & Mana Hana",
+      "pillar3Desc": "Nā manawa pane i kākoʻo ʻia i ka ʻaelike, nā hōʻailona o ka MTTR, a me nā hōʻike hoʻokō ʻokoʻa o kēlā me kēia mahina.",
+      "pillar4Title": "FinOps & Hoʻonui Kūʻai",
+      "pillar4Desc": "Hoʻomau i ka hoʻonui ʻana i nā kumu waiwai, hoʻihoʻi hou ʻana i ka laikini, a me ka hoʻemi ʻana i ke kumu kūʻai o ke ao.",
+      "ctaTitle": "Mākaukau e hoʻonui i kāu mau hana i mālama ʻia?",
+      "ctaSub": "E hui pū me Rezonants no nā lawelawe mālama pono 24/7 e hoʻopaʻa pono i nā kumukūʻai a hoʻopau i ka manawa hoʻomaha.",
+      "ctaButton": "E hoʻopaʻa i kahi kūkākūkā o nā hana i mālama ʻia",
+      "howItWorksHeading": "He ala i hōʻoia ʻia i ka holomua o nā lawelawe like"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Pūnaehana akamai",
+      "heroHeading": "Hana pū ʻo AI & Robotics",
+      "intro": "Ke hoʻololi nei ʻo Artificial Intelligence (AI) a me Robotics i ke ʻano o ka hana ʻana o nā ʻoihana ma o ka hoʻohui ʻana i ka hoʻoholo hoʻoholo naʻauao me ka automation holomua. Hiki iā AI ke kālailai i ka ʻikepili, aʻo i nā ʻano, a hoʻoholo naʻauao, ʻoiai e lawe mai nā robotics i kēia mau mana i loko o ka honua kino e hana i nā hana me ka wikiwiki, pololei, a me ke kūpaʻa.",
+      "section1Heading": "Hana ʻia e hoʻomāmā i kēlā me kēia hana",
+      "section1Text": "ʻO kā mākou AI a me Robotics solutions e kōkua i nā hui e hoʻopololei i nā hana, e hōʻemi i ka hana lima, a hoʻomaikaʻi i ka huahana ma nā ʻoihana like ʻole. Mai ka automation kaʻina hana a me ka wānana wānana i nā robotics akamai a me nā ʻōnaehana naʻauao, hāʻawi mākou i nā ʻenehana hou e hoʻomaikaʻi ai i ka pono, hoʻoikaika i ka ulu, a kākoʻo i ka hoʻololi kikohoʻe.",
+      "section2Heading": "Kahi e hui ai ka naʻauao i ka hana",
+      "section2Text": "Hoʻohana ʻia kēlā me kēia pilina, hoʻoholo, a me ka neʻe ʻana e kahi ʻōnaehana pili hoʻokahi - hoʻololi i ka ʻikepili i nā hopena i ka manawa maoli.",
+      "footerTag": "ʻenehana hou no ka hoʻololi kikohoʻe"
+    },
+    "informationReporting": {
+      "brand": "Papahana ikepili hui",
+      "heroTitle": "ʻIke a me nā ʻōnaehana hōʻike",
+      "heroSubtitle": "He kumu hoʻokahi o ka ʻoiaʻiʻo no kēlā me kēia keʻena - i kūkulu ʻia e hoʻohuli i ka ʻikepili hana maka i mau hoʻoholo e hiki ai i kāu ʻoihana ke hana i kēia lā.",
+      "statusLive": "OLA",
+      "statusAnalyzed": "HOOLAHA",
+      "statusArchived": "HUI",
+      "statusPending": "KE KALAI ANA",
+      "metricUptime": "Pūnaehana Uptime",
+      "metricSessions": "Nā Kau Hana",
+      "metricReportsPerDay": "Nā Hōʻike / Lā",
+      "metricEvents": "Nā Hana Hana i kēlā me kēia lā",
+      "metricReports": "Nā Hōʻike Hōʻike",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Papahana huikau",
+      "analyticsSuite": "Pūʻulu Analytics",
+      "reportingConsole": "Hōʻike Console",
+      "businessOutcome": "Ka hopena ʻoihana",
+      "section1Heading": "Hoʻokahi ʻōnaehana kikowaena no kēlā me kēia metric i mea nui",
+      "section1P1": "ʻO nā ʻōnaehana ʻike a me ka hōʻike ʻana he mau ʻoihana koʻikoʻi e hiki ai i nā hui ke hōʻiliʻili, hoʻokele, a hoʻololi i ka ʻikepili i mau ʻike koʻikoʻi. Hoʻohui kēia mau ʻōnaehana i ka ʻike mai nā keʻena he nui, e hōʻoia ana i ka pololei, kūlike, a me ka manawa maoli i ka ʻikepili ʻoihana koʻikoʻi. Ma ka hāʻawi ʻana i kahi kahua kikowaena no ka hoʻokele ʻike, hiki i nā hui ke hoʻomaikaʻi i ka ʻike hana, streamline workflows, a kākoʻo i ka hoʻoholo hoʻoholo hoʻolālā ma nā pae āpau o ka ʻoihana.",
+      "section1P2": "Ke hoʻohana nei kēia mau ʻōnaehana i ka hōʻike ʻokoʻa, analytics, a me nā dashboards e nānā i ka hana, nānā i nā metric kī, a hoʻopuka i nā hōʻike manawa maoli. Ma ka hōʻemi ʻana i ka hana lima a me ka hoʻomaikaʻi ʻana i ka pololei o ka ʻikepili, hiki i nā ʻoihana ke hoʻoholo wikiwiki a ʻoi aku ka maikaʻi.",
+      "section2Heading": "Hana ʻia no ka ʻike, hoʻokō, a me ka nui",
+      "section2Text": "Me ka hoʻonui ʻana i ka ʻike, ka hoʻokō ʻana, a me ka hui pū ʻana, ʻike ʻike a me nā Pūnaehana Hōʻike e hiki ai i nā hui ke hoʻoikaika i nā kaʻina hana, hoʻomaikaʻi i ka huahana, a hoʻoikaika i ka ulu ʻana o ka ʻoihana paʻa i kahi ʻano hoʻokūkū.",
+      "ctaHeading": "Hāʻawi i kēlā me kēia hui i ke kiʻi manawa maoli o ka ʻoihana.",
+      "ctaText": "E ʻike pehea e hiki ai i nā Pūnaehana Data Nexus ke hoʻohui i kāu hōʻike i hoʻokahi kahua naʻauao.",
+      "footerCopyright": "© 2026 Pūnaehana ʻIkepili Nexus. Ua mālama ʻia nā kuleana āpau.",
+      "navOverview": "Nānā nui",
+      "navCapabilities": "Nā mea hiki",
+      "navImpact": "Ka hopena",
+      "navContact": "Hoʻopili"
+    },
+    "managedServices": {
+      "subtitle": "Nā lawelawe hoʻokele piha no kāu ʻoihana"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Hoʻololi hou i nā noi pāʻoihana no kahi ʻoihana hoʻokele ʻikepili",
+      "excerpt": "Pehea e hiki ai i ka hoʻolālā palapala noi hou a me ka ʻikepili pili ke hoʻomaikaʻi i ka pono o ka hana, scalability a me ka ʻike ʻoihana.",
+      "tag": "Hoʻololi ʻoihana",
+      "category": "HOOLAHA HANA",
+      "summary": "Hiki i ka palapala noi hou a me ke kahua ʻikepili ke kōkua i nā ʻoihana e hoʻomaikaʻi i ka pono o ka hana, hoʻohui i nā ʻōnaehana ʻoihana a hana i ka ʻike maikaʻi i kā lākou hana."
+    },
+    "artificial-intelligence": {
+      "title": "Pehea ʻo AI e hana hou ai i nā noi ʻoihana",
+      "excerpt": "E ʻimi i ka lilo ʻana o ka automation akamai, AI copilots a me ka naʻauao wānana i ʻāpana o nā ʻoihana noiʻi ʻoihana e hilinaʻi nei i kēlā me kēia lā.",
+      "tag": "Naʻauao hana",
+      "category": "KA MAKEMAKE KUI",
+      "summary": "E ʻimi i ke ʻano o ka hoʻololi ʻana o ka automation naʻauao, AI copilots a me ka naʻauao wānana i nā polokalamu ʻoihana i kēlā me kēia lā i nā paepae hoʻololi."
+    },
+    "modern-erp": {
+      "title": "E hoʻolalelale i ka hoʻololi ʻana i ka ʻoihana me ka ERP hou",
+      "excerpt": "E ʻimi pehea e hoʻopili ai nā paepae ERP hou i ke kālā, ke kūʻai ʻana, ke kaulahao hoʻolako a me nā hana ʻoihana ma o ke kahua kikohoʻe hui pū.",
+      "tag": "ERP hou",
+      "category": "ERP HOU",
+      "summary": "Hoʻohui ka paepae ERP hou i ke kālā, ke kūʻai ʻana, ke kaulahao hoʻolako, a me nā hana ʻoihana i loko o kahi kumu hoʻohālike i hui pū ʻia."
+    },
+    "cybersecurity": {
+      "title": "Ke kūkulu ʻana i ka Cyber Resilience ma kahi ʻoihana pili",
+      "excerpt": "E ʻimi pehea e hiki ai i nā hui ke hoʻoikaika i ka palekana, pale i nā ʻōnaehana koʻikoʻi a hoʻomākaukau no nā mea hoʻoweliweli ma waena o nā kaiapuni pili.",
+      "tag": "Palekana",
+      "category": "CYBERSECURITY",
+      "summary": "I ka hoʻohui ʻana o nā ʻoihana i nā ʻōnaehana kapuaʻi, nā API, a me nā kaiaola hoa, e hōʻoia ka cyber resilience i nā hana koʻikoʻi e kū i nā hoʻoweliweli hou."
+    },
+    "cloud-modernization": {
+      "title": "Hoʻololi hou i nā noi hoʻoilina no ke ao",
+      "excerpt": "E ʻimi i kahi ala kūpono no ka loiloi, hoʻololi ʻana a me ka hoʻoneʻe ʻana i nā noi hoʻoilina i nā hale kiʻi kapuaʻi paʻa.",
+      "tag": "Kapua & Hoʻololi",
+      "category": "KA OPU & KA HOʻOPIʻI",
+      "summary": "He palapala alanui i hoʻonohonoho ʻia, pragmatic e loiloi, hoʻoponopono hou, a neʻe i nā ʻōnaehana ʻoihana monolithic i nā hale kiʻi kapuaʻi e hiki ke mālama ʻia."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "HOOLAHA HANA",
+      "title": "Hoʻololi hou i nā noi pāʻoihana no kahi ʻoihana hoʻokele ʻikepili",
+      "subtitle": "Hiki i kahi noi hou a me ke kahua ʻikepili ke kōkua i nā ʻoihana e hoʻomaikaʻi i ka pono o ka hana, hoʻohui i nā ʻōnaehana ʻoihana a hana i ka ʻike maikaʻi aʻe i kā lākou hana.",
+      "date": "Sepatemaba 2026",
+      "readTime": "7 min heluhelu",
+      "imageCaption": "Manaʻo ʻenehana ʻoihana — Hoʻolālā Hoʻohana & ʻIkepili Hoʻohui",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Nā noi ʻoihana",
+          "desc": "Hoʻokaʻawale hoʻoilina CRM, ERP, a me nā mea hana ʻoihana e holo ana i nā silo."
+        },
+        {
+          "title": "Nā PunaʻIkepili Nui",
+          "desc": "Nā papa hana ʻāpana, nā unuhi CSV, a me nā ʻōkuhi ad-hoc."
+        },
+        {
+          "title": "Hoʻokaʻawale ʻia nā waihona",
+          "desc": "Hoʻokaʻawale ʻia ma ka hale a me ka hui ʻole ʻia o nā waihona ʻikepili ao."
+        },
+        {
+          "title": "Nā hōʻike a me nā mea hoʻohana pāʻoihana",
+          "desc": "Hoʻoponopono lima, nā pāpaʻi paio, a me ka hōʻike lohi."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Nā noi ʻoihana",
+          "desc": "Nā papa hana koʻikoʻi a me nā pilina pane pane hou."
+        },
+        {
+          "title": "API / Layer Hoʻohui",
+          "desc": "ʻO ka puka API paʻa i ka hanana e hoʻopili ana i nā kahe hana ʻoihana."
+        },
+        {
+          "title": "Nā lawelawe ʻikepili",
+          "desc": "Nā hiʻohiʻona ʻikepili haku hui, nā paipu, a me nā ʻenekini hoʻopaʻa maikaʻi."
+        },
+        {
+          "title": "Heluhelu & Hoike",
+          "desc": "Telemetry manawa maoli, nā hiʻohiʻona semantic, a me ka hōʻike ʻokoʻa."
+        },
+        {
+          "title": "Nā mea hoʻoholo ʻoihana",
+          "desc": "Nā dashboards hana ola e hāʻawi ana i ka ʻike hoʻokele hui."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Nā noi ʻoihana",
+          "purpose": "Hooponopono kaʻina hana pāʻoihana"
+        },
+        {
+          "area": "API",
+          "purpose": "Hoʻohui pūnaewele"
+        },
+        {
+          "area": "Nā waihona",
+          "purpose": "ʻIkepili ʻoihana i kūkulu ʻia"
+        },
+        {
+          "area": "Hoʻohui ʻIkepili",
+          "purpose": "Hoʻohui i nā kumu he nui"
+        },
+        {
+          "area": "Heluhelu",
+          "purpose": "Nā ʻike pāʻoihana"
+        },
+        {
+          "area": "Kapua",
+          "purpose": "Hoʻonui a maʻalahi"
+        },
+        {
+          "area": "Nānā",
+          "purpose": "Ka hilinaʻi a me ka hana"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Hoʻomaikaʻi i ka ʻike hana ma waena o nā ʻāpana hana",
+        "ʻOi aku ka maikaʻi o ka ʻikepili a me ke kumu hoʻokahi o ka ʻoiaʻiʻo ʻoihana",
+        "Hoʻemi ʻia ka hana hōʻike lima a me ka hōʻuluʻulu ʻikepili maʻalahi",
+        "Hoʻomaikaʻi i ka hana noiʻi a hoʻemi i ka latency kālepa",
+        "ʻOi aku ka maʻalahi o ka hoʻohui ʻana i ka ʻōnaehana ma o nā API paʻa paʻa",
+        "ʻOi aku ka scalability e kākoʻo i ka ulu ʻana a me ka loaʻa ʻana",
+        "Ke kumu ʻoi aku ka maikaʻi no ka hana hou a me ka hoʻokō ʻana i ka naʻauao"
+      ],
+      "keyPerspectivePoints": [
+        "Hoʻomaopopo i nā kaʻina hana ʻoihana a me nā kaʻina hana hana maoli",
+        "Hoʻohui i nā ʻōnaehana ma o nā kūlana hoʻohui hilinaʻi",
+        "Hoʻomaikaʻi i ka maikaʻi o ka ʻikepili, ka hoʻomalu ʻana, a me nā kumu hoʻohālike kumu",
+        "Ke hoʻololi nei i nā noi me ka hoʻopau ʻole i nā hana o kēlā me kēia lā",
+        "Ke hana 'ana i ka hale ho'olālā hiki ke ho'onui 'ia no ka ulu elastic",
+        "E ʻae ana i ka ʻike ʻoihana ʻoi aku ka maikaʻi no ka hoʻoholo ʻana"
+      ],
+      "sec1Eyebrow": "KA HANA HANA",
+      "sec1Heading": "Hoʻokele Paʻakikī i kahi ʻoihana ulu",
+      "sec1Subtext": "E like me ka nui o nā ʻoihana, hoʻonui ʻia nā kaiaola ʻenehana. ʻO ka mea e hoʻomaka ai ma ke ʻano he hoʻonā koʻikoʻi no nā keʻena pākahi hiki ke hoʻololi i loko o kahi pūnaewele puni honua o nā ʻōnaehana like ʻole.",
+      "sec2Eyebrow": "HOOLAHA PANAHANA",
+      "sec2Heading": "He ʻĀina ʻenehana paʻakikī",
+      "sec2Subtext": "Ke ulu kūʻokoʻa nā noi ʻoihana, nā waihona ʻikepili, a me nā ʻōnaehana hana, ua ʻāpana ʻia nā kahe ʻike. ʻO ka hoʻomaopopo ʻana i kēia ʻāpana ka hana mua koʻikoʻi.",
+      "sec3Eyebrow": "KA HOIKE HOIKE",
+      "sec3Heading": "Hoʻolālā Hana Hou",
+      "sec3Subtext": "Ke neʻe nei nā ʻoihana i kahi hoʻolālā hanana API-mua kahi e holo hilinaʻi ai ka ʻikepili ma nā kahua koʻikoʻi a hiki i nā mea hoʻoholo i ka manawa maoli.",
+      "sec4Eyebrow": "NAAKAO & IKE",
+      "sec4Heading": "Ikepili a me ka Ikepili",
+      "sec4Subtext": "Ke kamaʻilio maʻalahi nā noi ʻoihana, pau ka ʻikepili i ka hōʻike ʻana a lilo i mea hoʻokele mua o ka ʻoihana.",
+      "sec5Eyebrow": "KULA KULA",
+      "sec5Heading": "Hoʻokumu ʻenehana",
+      "sec5Subtext": "He hiʻohiʻona piha o nā wahi ʻenehana koʻikoʻi i haku i ke kahua ʻoihana hou a hiki ke hoʻonui ʻia.",
+      "sec6Eyebrow": "WAIWAI KUAI",
+      "sec6Heading": "Ka hopena ʻoihana",
+      "sec6Subtext": "ʻO ka hoʻomohala ʻana i ka hoʻolālā noiʻi a me ka hoʻopili ʻana i nā ʻikepili i ʻāpana e hāʻawi i nā hoʻomaikaʻi ʻana i ka hana ma waena o ka hui.",
+      "ctaHeading": "Mākaukau e hoʻololi i kou ʻenehana ʻenehana?",
+      "ctaDescription": "E ʻimi pehea e hiki ai i ka hoʻolālā palapala noi hou, ka ʻikepili pili a me ka ʻenehana hiki ke kōkua i nā hui e hoʻomaikaʻi maikaʻi a hoʻomākaukau no ka ulu ʻana o ka wā e hiki mai ana.",
+      "ctaButton": "Kamailio me ko makou poe akamai",
+      "sec1P1": "I loko o kahi ʻoihana maʻamau, ulu pinepine ka ulu ʻana i nā hanauna he nui o ka lako polokalamu. Hoʻohana pinepine ʻia ke kālā, ke kaulahao hoʻolako, ka lawelawe mea kūʻai aku, a me nā hana kula ma nā waihona polokalamu ʻokoʻa i loaʻa a kūkulu ʻia i nā manawa like ʻole. I nā makahiki o ka ulu ʻana o ka hana, hoʻomohala kēia mau ʻōnaehana i kā lākou mau palapala ʻikepili, hoʻonui i nā cadences, a me nā quirks hoʻohui.",
+      "sec1P2": "Hōʻike ka hakakā ma waena o ka ʻoihana ma o nā bottlenecks hana maʻamau:",
+      "sec1List": [
+        {
+          "bold": "Nui nā noi ʻoihana i hoʻokaʻawale ʻia",
+          "text": "e koi ana i ka hookomo ana i ka ikepili a me ka kuhikuhi lima."
+        },
+        {
+          "bold": "Hoʻokuʻu ʻia nā waihona",
+          "text": "e hana ana me ka ʻole o ka hoʻokele kikowaena a i ʻole nā moʻolelo haku hui."
+        },
+        {
+          "bold": "Hōʻike lima ma luna",
+          "text": ", kahi e hoʻolimalima ai nā hui analytical i nā lā e humuhumu i nā mea e hoʻokuʻu aku ai ma mua o ka wehe ʻana i nā ʻike."
+        },
+        {
+          "bold": "Kuʻikahi ʻikepili",
+          "text": "ma waena o nā keʻena, e hana ana i nā pane kū'ē i nā nīnau hana kumu."
+        },
+        {
+          "bold": "No ka mālama ʻana i nā noi a me nā palena scalability",
+          "text": ", i ka wā e hakakā nei nā hoʻoilina hoʻoilina ma kahi kikoʻī i ke kākoʻo ʻana i ka ulu ʻana o nā helu kālepa."
+        }
+      ],
+      "sec1P3": "No ka hoʻoponopono ʻana i kēia mau pilikia, pono ka nānā ʻana i ka ʻenehana ʻenehana ʻaʻole ma ke ʻano he hōʻiliʻili o nā lako polokalamu kūʻai kūʻokoʻa, akā ma ke ʻano he kahua pāʻoihana pili i hoʻolālā ʻia e kākoʻo i ka agility hoʻolālā.",
+      "legacyLandscapeBadge": "Kumu Hoʻoilina",
+      "legacyLandscapeTitle": "Ke Kahe ʻIke Māhele",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "ʻIkepili Silo",
+          "desc": "Hoʻopaʻa ʻia ka ʻikepili koʻikoʻi o ka mea kūʻai aku, kālā, a me ka waihona waiwai i loko o nā kahua ʻoihana, e pale ana i ka ʻike like ʻole o nā hana ʻoihana."
+        },
+        {
+          "num": "02",
+          "title": "Nā ʻAha Hoʻohui",
+          "desc": "ʻO nā pilina kiko-i-kahi a me nā ʻāpana puʻupuʻu pō e hana i ka latency, kiʻekiʻe o ka hāʻule ʻole, a me ka mālama nui ʻana ma luna o nā hui hana."
+        },
+        {
+          "num": "03",
+          "title": "ʻIkepili Hoʻopaneʻe",
+          "desc": "Ke kali nā luna hoʻokō i nā lā no ka hoʻolauleʻa ʻana o ka mahina e hoʻomaopopo i ka hana, ʻoi aku ka hoʻoholo ʻana ma mua o ka wānana."
+        }
+      ],
+      "modernArchitectureBadge": "Kūlana Kūlana",
+      "modernArchitectureTitle": "Ke Ana Hoʻohālike Hoʻohui Hui",
+      "sec3P1": "Hoʻololi ka papa hana hoʻolālā hou i nā pilina kiko-a-kahi me kahi kumu agile, decoupled. Ma ka hoʻokumu ʻana i kahi API paʻa a me ka papa hoʻohui, hoʻopili nā ʻōnaehana ma o ka hoʻomalu ʻia ʻana a paʻa i ka hopena me ka mālama ʻana i ke kūʻokoʻa o nā ʻoihana ʻoihana pākahi.",
+      "sec3P2": "Loaʻa nā mana ʻenehana koʻikoʻi o kēia hoʻololi hale kūkulu:",
+      "sec3List": [
+        {
+          "bold": "Ka hoʻololi hou ʻana o nā noi:",
+          "text": "Hoʻokaʻawale i nā loina ʻoihana koʻikoʻi i loko o nā lawelawe modular hiki ke hoʻonui ʻia."
+        },
+        {
+          "bold": "Hoʻohui API:",
+          "text": "Ke hoʻokumu ʻana i nā loulou i hoʻopaʻa ʻia no ka launa pū ʻana o loko a me nā hoa."
+        },
+        {
+          "bold": "Hoʻohui ʻikepili a me ka manaʻo ʻikepili:",
+          "text": "Hoʻohui i nā paipu ʻikepili hana me ka hoʻonui ʻana i ka hulina hulina kiʻekiʻe."
+        },
+        {
+          "bold": "Ka nānā 'ana a me ka palekana:",
+          "text": "Ke hoʻokō nei i ka telemetry kikowaena, nā ala hoʻoponopono, a me nā mana e pili ana i ke kuleana ma waena o nā lawelawe āpau."
+        }
+      ],
+      "sec4P1": "Hoʻololi nā kumu ʻikepili i hoʻohui ʻia i ke ʻano o ke alakaʻi ʻana a me nā hui hana me ka ʻike. Ma mua o ka hilinaʻi ʻana i nā hōʻike retrospective e hōʻike ana i nā mea i hana ʻia i nā pule i hala aku nei, loaʻa nā hui i ka telemetry hana ola ma waena o nā ʻoihana ʻoihana.",
+      "sec4P2": "Kākoʻo nā ʻikepili pili a me nā ʻikepili i nā hopena ʻoihana hoʻomau ma o:",
+      "sec4List": [
+        {
+          "bold": "ʻIke hana:",
+          "text": "Hoʻomau i ka ʻike ma waena o ke kūʻai aku ʻana, ka waihona waiwai, ka hoʻokō, a me ka hana kālā."
+        },
+        {
+          "bold": "ʻOi aku ka wikiwiki o ka hōʻike ʻana:",
+          "text": "ʻO ka hōʻuluʻulu ʻikepili i koi ʻia e hoʻopau ana i nā pāpalapala lima lima hou."
+        },
+        {
+          "bold": "ʻIke like:",
+          "text": "ʻO nā wehewehe hoʻokahi no nā ana e like me ka palena, ka waiwai ola o ka mea kūʻai aku, a me ka wikiwiki alakaʻi."
+        },
+        {
+          "bold": "ʻOi aku ka maikaʻi o ka ʻike ʻoihana:",
+          "text": "ʻO ka ʻike kumu wānana e hōʻike ana i nā pilikia a me nā manawa ma mua o ka manawa."
+        },
+        {
+          "bold": "Hoʻomaikaʻi i ka hoʻoholo ʻana:",
+          "text": "Ka hana hoʻokō hilinaʻi i kākoʻo ʻia e ka laina ʻikepili i hoʻopaʻa ʻia a me ka ʻike."
+        }
+      ],
+      "keyPerspectiveEyebrow": "KUAI KUAI",
+      "keyPerspectiveTitle": "'Oi aku ka hana hou ma mua o ka ho'ololi 'ana i nā lako polokalamu",
+      "keyPerspectiveLead": "ʻO ka hoʻololi ʻana i nā noi ʻoihana ʻaʻole ia e hoʻololi wale i nā polokalamu kahiko me nā mea hana hou. He hoʻonohonoho manaʻo ia o ka ʻenehana me ke ʻano o ka hana ʻana o ka ʻoihana, nā unahi, a me ka hāʻawi ʻana i ka waiwai."
+    },
+    "artificialIntelligence": {
+      "category": "AKAMAIKAI KIMI",
+      "title": "Pehea ʻo AI e hana hou ai i nā noi ʻoihana",
+      "subtitle": "E ʻimi i ka lilo ʻana o ka automation akamai, AI copilots a me ka naʻauao wānana i ʻāpana o ka ʻoihana noiʻi ʻoihana e hilinaʻi nei i kēlā me kēia lā.",
+      "date": "Sepatemaba 2026",
+      "readTime": "6 min heluhelu",
+      "imageCaption": "Kuanaʻike ʻenehana ʻoihana — Naʻauao Artificial & Pūnaehana ʻoihana",
+      "aiUseCases": [
+        {
+          "title": "Ka wanana hoolako",
+          "desc": "Ka wānana ʻana i ka piʻi ʻana o nā koi a me ka hoʻopaneʻe logistic mai ka telemetry mea hoʻolako mōʻaukala."
+        },
+        {
+          "title": "Hooia Hooia Invoice",
+          "desc": "Ka unuhi ʻana i nā mea laina a hoʻohālikelike i nā kauoha kūʻai me ke komo ʻole ʻana o ke kanaka."
+        },
+        {
+          "title": "Na Papa Hana Naauao",
+          "desc": "Ho'āʻo a me ka hoʻonā ʻokoʻa o nā noi limahana IT a me HR no Tier-1."
+        },
+        {
+          "title": "Kāohi Churn Customer",
+          "desc": "ʻO ka hui ʻana o ke ʻano e ʻike ana i nā hōʻailona hakakā mua no ka hoʻolaha ʻana."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "ʻOi aku ka wikiwiki o ka hoʻoholo ʻana i ka hana i alakaʻi ʻia e nā hiʻohiʻona wānana manawa maoli",
+        "Ho'ēmi i ka hana 'ikepili hou a me ka hooponopono lima",
+        "ʻOi aku ka nui o nā limahana hana me ke kōkua copilot contextual",
+        "Hoʻomaikaʻi i ka ʻoluʻolu o ka mea kūʻai aku ma o nā ʻike hyper-personalized",
+        "Ke kaʻina hana hoʻomau i ka hoʻonui ʻana iā ia iho ma muli o ka telemetry maoli",
+        "Hoʻopau ʻia ka hoʻopaʻa ʻana ma o ka nānā ʻana i ka loiloi loiloi"
+      ],
+      "governancePoints": [
+        "Loaʻa i ke kuleana koʻikoʻi e hōʻoia ana ʻaʻole e hoʻokahe nā kumu hoʻohālike AI i ka ʻikepili koʻikoʻi",
+        "Mākaʻikaʻi kumu noʻonoʻo e hiki ai i ke kanaka loiloi i nā hana waiwai nui",
+        "Hoʻomau ka loiloi kumu hoʻohālike no ka pale ʻana i ka noʻonoʻo a me ka manaʻo",
+        "Nā kūlana hōʻoia ʻikepili koʻikoʻi e pili ana me GDPR, SOC 2, a me HIPAA",
+        "Nā ala hoʻonui kanaka-in-the-loop no nā kūlana lihi maopopo ʻole"
+      ],
+      "sec1Eyebrow": "KA HELE I KA MAKEMAKE",
+      "sec1Heading": "AI i nā noi ʻoihana",
+      "sec1Subtext": "Ke hoʻololi nei ka naʻauao artificial mai nā papahana ʻaoʻao hoʻokolohua i nā noi hana koʻikoʻi i hilinaʻi ʻia e nā ʻoihana i kēlā me kēia lā.",
+      "sec2Eyebrow": "AUTOMATION MA KA NUI",
+      "sec2Heading": "Otometi akamai",
+      "sec2Subtext": "Ke neʻe nei ma waho aʻe o nā moʻolelo kuʻuna ma luna o ka lula i nā kaʻina hana cognitive e hoʻomaopopo i ka ʻike i kūkulu ʻole ʻia, hoʻololi i nā ʻano like ʻole, a me ka hoʻoikaika ʻana i nā kaʻina hana.",
+      "sec3Eyebrow": "KOKUA HOPE",
+      "sec3Heading": "Huina AI Copilots",
+      "sec3Subtext": "Hoʻokumu ʻia i ka ʻike hoʻonohonoho a me ka palekana ʻoihana, hana nā mea kōkua AI ma ke ʻano he mau hoa hana kūikawā ma nā kaʻina hana ʻoihana i kēlā me kēia lā.",
+      "sec4Eyebrow": "KE KUMU ANA I MUA",
+      "sec4Heading": "Naauao wanana",
+      "sec4Subtext": "Ke hoʻololi nei i nā moʻolelo ʻoihana mōʻaukala a me nā hānai hana manawa maoli i ʻike hiki ke hana.",
+      "sec5Eyebrow": "NO KA HONUA MAOIO",
+      "sec5Heading": "Hoʻohana i nā hihia AI ʻoihana",
+      "sec5Subtext": "ʻO nā ala maʻamau e hoʻohana ana nā hui alakaʻi i ka naʻauao ma waena o nā hana ʻoihana koʻikoʻi.",
+      "sec6Eyebrow": "WAIWAI KUAI",
+      "sec6Heading": "Pono Pāʻoihana",
+      "sec6Subtext": "Ke hoʻokō ʻia me ka noʻonoʻo me ka ʻikepili ʻoihana i hoʻokele ʻia, wehe ʻo AI i nā pono qualitative nui.",
+      "ctaHeading": "E ʻimi i nā manawa kūpono o AI no kāu ʻoihana",
+      "ctaDescription": "E ʻike pehea e hiki ai i ka automation naʻauao, nā copilots ʻoihana a me nā hiʻohiʻona wānana ke wehe i ka pono o ka hana ma kāu ʻōnaehana kumu.",
+      "ctaButton": "Kamailio me ko makou poe akamai",
+      "sec1P1": "No nā makahiki, ua mālama 'ia ka 'ike akamai o ka 'oihana e like me ke 'ano o waho. I kēia lā, ua loli maoli ka paradigm. Hoʻopili pololei ʻia ʻo AI i ka ʻoihana kiʻekiʻe i loko o nā ʻōnaehana o ka moʻolelo - nā ERP, CRM, nā paepae kālā kanaka, a me nā ʻenekini hoʻolako i kahi ʻoihana maoli.",
+      "sec1P2": "Ke holo ka naʻauao i loko o ka ʻōnaehana o ka moʻolelo, loaʻa iā ia nā palena palekana i hoʻokumu ʻia o ka hui, nā hiʻohiʻona ʻikepili, a me nā loina ʻoihana. ʻAʻole ia e hoʻopuka wale i nā pane maʻamau; hana ia ma nā kauoha ola, wehewehe i nā tiketi kākoʻo hāmama, hoʻoponopono i nā invoices mea hoʻolako, a kōkua i nā limahana i loko o nā pilina pololei a lākou e hoʻokele ai i kēlā me kēia lā.",
+      "sec1P3": "Na kēia hoʻololi e hoʻoneʻe i nā polokalamu ʻoihana mai nā ʻikepili passive e kali ana i nā kī kī kanaka i nā papa hana hoʻoikaika e manaʻo ana i nā pono, hoʻomaʻamaʻa i nā ʻanuʻu, a me nā ʻōlelo paipai i ka manawa kūpono.",
+      "sec2P1": "Ua 'oi aku ka maika'i o ka Traditional Robotic Process Automation (RPA) ma ka ho'opa'a 'ana i ka pale pale. Eia nō naʻe, hoʻonohonoho ka lula paʻa i ka wā e loli ai kahi palapala, hiki mai kahi hoʻonohonoho palapala i manaʻo ʻole ʻia, a i ʻole he ʻokoʻa. Hoʻopili ka automation akamai i kēia māhele ma ka hoʻohui ʻana i ka noʻonoʻo cognitive me ka hoʻokō transactional:",
+      "sec2List": [
+        {
+          "bold": "ʻO ke kaʻina hana:",
+          "text": "Ka hoʻonohonoho ʻana i nā hana paʻakikī o ke keʻena, hoʻokele i nā hana e pili ana i ka wikiwiki a me nā ala hoʻoholo mōʻaukala."
+        },
+        {
+          "bold": "Hana palapala naauao:",
+          "text": "Ke komo ʻana i nā PDF i hoʻonohonoho ʻole ʻia, nā leka uila, nā hōʻike hoʻouna, a me nā ʻaelike, e hoʻololi ana iā lākou i nā hana ʻikepili i kūkulu ʻia."
+        },
+        {
+          "bold": "ʻOmomi hana naʻauao:",
+          "text": "Ke hoʻokaʻawale ʻana i nā hōʻoia ʻana o nā hana he nui—e like me ka hoʻohālikelike ʻana i nā kauoha kūʻai me nā loaʻa a me nā ʻōlelo panakō."
+        },
+        {
+          "bold": "Hoʻoponopono kaʻina hana:",
+          "text": "Ke kālailai mau ʻana i nā lāʻau kaʻina hana no ka ʻike ʻana i nā bottlenecks o ka wā pōʻaiapili a me ka ʻōlelo ʻana i nā hoʻomaʻemaʻe ʻana i ke kaʻina hana."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Huli ʻIke",
+          "desc": "Hoʻihoʻi hou ʻana i ka manaʻo ma waena o nā waihona ʻike i puʻunaue ʻia, nā kulekele intranet, nā kikoʻī huahana, a me nā hoʻoholo tiketi mōʻaukala me ka ʻole o ka koho huaʻōlelo."
+        },
+        {
+          "icon": "📝",
+          "title": "Hōʻuluʻulu Palapala",
+          "desc": "ʻO ka wehe koke ʻana i nā RFP lōʻihi, nā ʻaelike kūʻai aku, nā kikoʻī ʻenehana, a me nā hoʻololi kānāwai i loko o nā pōkole hoʻokō hiki ke hana a me nā papa inoa pilikia."
+        },
+        {
+          "icon": "✨",
+          "title": "Hanana maʻiʻo",
+          "desc": "Kokua i ka hana 'ana i nā mana'o o ka mea kū'ai aku, nā palapala 'oihana, nā ka'ina hana ma'amau (SOPs), a me nā mea ho'olaha ma'amau o ka po'e kū'ai e ku'i me nā ma'amau."
+        },
+        {
+          "icon": "📈",
+          "title": "Ka Ikepili",
+          "desc": "Ka unuhi ʻana i nā nīnau kamaʻilio ʻana i nā nīnau noiʻi paʻakikī, ka hoʻopuka ʻana i nā hōʻuluʻulu palapala ma ka lele a me ka hōʻike ʻana i nā mea koʻikoʻi no ke alakaʻi."
+        },
+        {
+          "icon": "🔄",
+          "title": "Nā Kaʻina Hana Hana",
+          "desc": "Hoʻomaka pololei i nā kālepa mai nā ʻōlelo hoʻoheheʻe kamaʻilio—e like me ka hoʻonohonoho ʻana i nā kumuwaiwai, ka hana ʻana i nā tiketi, ka hoʻomaikaʻi ʻana i nā moʻolelo, a i ʻole ka waiho ʻana i nā koi kūʻai."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Loaʻa i ke kuleana",
+          "desc": "ʻO ka hōʻoia ʻana i nā pane copilot e mahalo nui i nā pae ʻae o ka mea hoʻohana, mālama i nā kālā huna, nā faila HR, a me ka waiwai o ka naʻauao."
+        }
+      ],
+      "sec4P1": "ʻOiai ʻoi aku ka maikaʻi o nā hiʻohiʻona generative i ka hoʻomaopopo ʻana a me ka hoʻohui ʻana i ka ʻōlelo, ʻike ʻia ka naʻauao wānana i nā hiʻohiʻona makemakika i hūnā ʻia i loko o nā waihona ʻoihana i kūkulu ʻia. ʻO nā hiʻohiʻona wānana i hoʻokomo ʻia e hāʻawi i nā hui e kali i nā pilikia o ka hana ma mua o ka hoʻopau ʻana i nā hana:",
+      "sec4List": [
+        {
+          "bold": "Ka wānana hana:",
+          "text": "Ka wānana ʻana i nā ʻano loaʻa kālā, ka wikiwiki o ka waihona, a me nā koi waiwai ma o ka hoʻohui ʻana i nā hōʻailona kau me ka wikiwiki o ka paipu manawa maoli."
+        },
+        {
+          "bold": "ʻIkepili wānana:",
+          "text": "Ke kuhikuhi ʻana i nā pilikia churn o ka mea kūʻai aku, nā pōʻai hoʻohaʻahaʻa o ka mālama ʻana, a me ka hoʻopaneʻe ʻana o ke kaulahao i ka wā e loaʻa ana ka manawa e komo ai."
+        },
+        {
+          "bold": "ʻIke pilikia:",
+          "text": "Ka hōʻailona ʻana i nā anomalies i nā hana kālā, nā moʻolelo hoʻokō, a me nā kumu kūʻai kūʻai ma mua o ka piʻi ʻana."
+        },
+        {
+          "bold": "Koi wanana:",
+          "text": "Hoʻohui i nā wānana kūʻai aku me ka mana hana a me nā pae waihona hale kūʻai no ka pale ʻana i ke kālā hana."
+        }
+      ],
+      "keyPerspectiveEyebrow": "HOOLAHA HANA",
+      "keyPerspectiveTitle": "Ka hilinaʻi, ka nānā ʻana a me nā pale pale",
+      "keyPerspectiveLead": "ʻO AI ka hilinaʻi wale nō e like me ke kahua ʻikepili ma lalo ona a me ke aupuni e hoʻopuni ana iā ia. Pono ka hoʻopaʻa ʻana i ka ʻoihana hoʻomau i ka hoʻopaʻi ʻana i ka hale kūkulu hale:"
+    },
+    "modernErp": {
+      "category": "ERP HOU",
+      "title": "Hoʻokē ʻana i ka hoʻololi ʻoihana me ka ERP o kēia wā",
+      "subtitle": "E ʻimi pehea e hoʻopili ai nā paepae ERP hou i ke kālā, ke kūʻai ʻana, ke kaulahao hoʻolako a me nā hana ʻoihana ma o ke kahua kikohoʻe hui ʻia.",
+      "date": "ʻAukake 2026",
+      "readTime": "6 min heluhelu",
+      "imageCaption": "ʻIke ʻenehana ʻoihana — ERP a me nā hana ʻoihana pili",
+      "connectedFunctions": [
+        {
+          "title": "Hooponopono Waiwai",
+          "desc": "ʻO nā hōʻano hou o ka waihona puke manawa maoli, ʻike ʻia ka loaʻa kālā, a me ka hoʻoponopono ʻana i nā kālā he nui."
+        },
+        {
+          "title": "Laina Hoolako & Loko",
+          "desc": "ʻO ka ʻike ʻike ʻana i ka waihona, ka hoʻonui ʻana i ka hale kūʻai, a me ka telemetry hana hoʻolako."
+        },
+        {
+          "title": "Ke Kapena Kanaka a me ka Limahana",
+          "desc": "ʻO nā puka pāpaʻi limahana lawelawe ponoʻī, ka holo ʻokoʻa o ka uku uku, a me ka hoʻolālā ʻana i nā talena ola."
+        },
+        {
+          "title": "Ke kūʻai aku a me ka loaʻa ʻana",
+          "desc": "Nā ʻae kūʻai ʻokoʻa, ka hoʻokō ʻana i ka ʻaelike mea kūʻai aku, a me ka ʻikepili hoʻolilo ikaika."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Kapua-Native Architecture",
+          "desc": "Elastic compute scaling me ka ʻole o ka hoʻokele waiwai ma luna o ka hale a i ʻole ka hoʻopaʻa paʻa ʻana i ka mana."
+        },
+        {
+          "title": "Wehe API kaiaola",
+          "desc": "Nā mea hoʻohui i kūkulu mua ʻia e hiki ai i ka hoʻopili ʻana i nā ʻikepili ʻelua ala ʻelua me nā microservice maʻamau a me nā suite CRM."
+        },
+        {
+          "title": "Hoʻopili ʻia nā ʻikepili",
+          "desc": "E hoʻokaʻawale i ka papa kuhikuhi mai nā waihona koena kiʻekiʻe i loko o nā moʻolelo kālepa pākahi."
+        },
+        {
+          "title": "Nā mea hoʻoheheʻe hana ʻakomi",
+          "desc": "Hoʻomaka ka hanana i alakaʻi ʻia i ka hoʻokō ʻana i nā hana maʻamau o ke keʻena ʻoihana maʻamau."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Ke kumu hoʻokahi o ka ʻoiaʻiʻo e hoʻopau ana i nā hōʻike ʻoihana kūʻē",
+        "Hoemi nui i ka puni mahina a me ka hapaha hope",
+        "ʻIke ʻike i ka manawa maoli a me ka ʻike loiloi e hōʻemi ana i nā waihona",
+        "Hoʻemi ʻia ka mālama ʻana i ka IT ma luna o ka hoʻonui ʻia ʻana o ke ao",
+        "Ka hoʻokolo ʻana i ka hoʻopaʻa ʻana ma waena o nā ʻauhau ʻauhau lehulehu",
+        "ʻOi aku ka wikiwiki o ke kau ʻana o nā hui i loaʻa i loko o nā iwi kuamoʻo hana"
+      ],
+      "erpStrategyPoints": [
+        "Hoʻopili i ka hoʻolālā ERP me nā kahe hana koʻikoʻi ma mua o ka hoʻonohonoho ʻana",
+        "Ke koho ʻana i nā hiʻohiʻona hoʻolālā modular e ʻike i nā lanakila lanakila wikiwiki",
+        "Ka hoʻonohonoho mua ʻana i ka neʻe ʻana a me ka hoʻoponopono hou ʻana",
+        "Hoʻokomo ʻana i ka hoʻokele hoʻololi ʻokoʻa a me nā papahana hoʻomaʻamaʻa kūpono i ka hana",
+        "Ke hoʻolālā ʻana i nā ʻīpuka API no ka hoʻonui ʻana i ka hoʻohui ʻana i ka wā e hiki mai ana"
+      ],
+      "sec1Eyebrow": "KA IWI KUA",
+      "sec1Heading": "No ke aha e pono ai ka ERP o kēia wā",
+      "sec1Subtext": "ʻAʻole ʻo ERP wale nō ka helu helu hope. ʻO ia ke ʻano hana o ka ʻoihana hou i hōʻike ʻia ma ka polokalamu.",
+      "sec2Eyebrow": "KALAIAU HOOHUI",
+      "sec2Heading": "Nā Hana Pāʻoihana Hoʻohui",
+      "sec2Subtext": "Puka mai ka waiwai o ka ho'onohonoho 'ana i ka wā e hana like ai nā 'oihana ko'iko'i ma ke kahua kikoho'e.",
+      "sec3Eyebrow": "KROSS-FUNCTIONAL HARMONY",
+      "sec3Heading": "Nā Hana Hoʻohui a me ke kahe ʻike",
+      "sec3Subtext": "Ka wāwahi ʻana i nā pā kamaʻilio ma waena o nā keʻena e hiki ai i ka wai, i hoʻonohonoho pū ʻia nā kahe hana ʻoihana.",
+      "sec4Eyebrow": "ELEMENE HANA",
+      "sec4Heading": "Ka 'ike 'oihana i ka manawa maoli",
+      "sec4Subtext": "Hoʻohui i nā ana hana i loko o nā dashboard hoʻokō akaka e hōʻike ana i nā ʻoihana ʻoihana o kēia manawa.",
+      "sec5Eyebrow": "HUI PLATFORM NUI",
+      "sec5Heading": "Nā Mana ERP o kēia wā",
+      "sec5Subtext": "ʻO nā hiʻohiʻona hoʻolālā e hoʻokaʻawale i nā paepae ERP o kēia manawa mai nā hoʻonohonoho hoʻoilina paʻa.",
+      "sec6Eyebrow": "KA HANA KUAI",
+      "sec6Heading": "Pono Pāʻoihana",
+      "sec6Subtext": "ʻO ka hoʻohui ʻana i nā hana ʻoihana koʻikoʻi i loko o kahi kahua kikohoʻe hui pū ʻia e loaʻa ai ke kūpaʻa o ka hui.",
+      "ctaHeading": "Hoʻololi hou i kāu mau hana ʻoihana",
+      "ctaDescription": "E ʻimi pehea e hoʻopili ai nā paepae ERP hou i ke kālā, ke kūʻai ʻana, ke kaulahao hoʻolako a me nā hana ʻoihana ma o ke kahua kikohoʻe hui ʻia.",
+      "ctaButton": "Kamailio me ko makou poe akamai",
+      "sec1P1": "I nā ʻāina ʻoihana e holo wikiwiki nei, paʻakikī pinepine nā ʻōnaehana hoʻolālā waiwai o Enterprise. Kūkulu ʻia i ka wā o ka hoʻoili ʻana i nā pūʻulu a me nā kikowaena kūloko kaʻawale, hoʻokaʻawale ʻia nā ERP hoʻoilina, paʻakikī ke hoʻomaikaʻi, a me ka ʻeha opaque. Hoʻohana ʻia nā hana ʻoihana koʻikoʻi i nā siloes like, me ka hilinaʻi ʻana i nā hoʻokuʻu ʻana i ka pō i ka pō e hoʻonohonoho i nā ledger me nā hale kūʻai.",
+      "sec1P2": "Hōʻano hou ka ERP o kēia wā i kēia mana. Hana ʻia ʻo ia ma ke ʻano o ka iwi kikohoʻe hui pū ʻia o ka ʻoihana - kahi kumu ola kahi e hana ai ke kālā, ke kūʻai ʻana, ke kaulahao hoʻolako, inventory, a me nā kumuwaiwai kanaka ma kahi kumu hoʻohālike kaʻana like.",
+      "sec1P3": "Ma ka lawe ʻana i nā hana koʻikoʻi i loko o kahi kaiapuni hoʻokahi, hoʻopau ʻo ERP hou i nā wahi makapō hana e hoʻolohi i ka ulu ʻana, hiki i nā alakaʻi ke alakaʻi i ka ʻoihana me ka hoʻohana ʻana i nā hōʻailona manawa maoli ma mua o nā hōʻuluʻulu mōʻaukala.",
+      "sec3P1": "ʻAʻole pilikia nā kānaka; he mau pilikia hoʻolālā. Ke hana nā hui kūʻai, kūʻai, a me nā hale kūʻai i nā noi i hoʻokaʻawale ʻia, pono kēlā me kēia handoff i nā leka uila manual, nā pāpalapala, a me nā kelepona kelepona. Hoʻonui nā hewa, hoʻopaʻa ʻia nā invoice, a paʻa nā hoʻohiki o nā mea kūʻai aku.",
+      "sec3P2": "Hoʻopuka ʻo ERP hou i kēia ma o ka laina ʻikepili i hui pū ʻia a me ke kaʻina hana hoʻokele hanana.",
+      "sec3List": [
+        {
+          "bold": "Hoʻonohonoho ʻia i ke kālā:",
+          "text": "Ke kau ʻia kahi kauoha a ka mea kūʻai aku, hoʻopaʻa ʻokoʻa nā waihona waiwai, hoʻopuka nā lepili hoʻouna, a hoʻonui koke ʻia nā waihona kālā."
+        },
+        {
+          "bold": "E kūʻai-i-uku ʻike maopopo:",
+          "text": "Ke kūʻai aku nei nā kauoha, nā loaʻa waiwai, a me nā palapala kūʻai aku me ka hoʻolauleʻa 3-ala, e hōʻailona wale ana i nā ʻokoʻa no ka loiloi kanaka."
+        },
+        {
+          "bold": "Ke kumu kūʻai o ka hana i hui pū ʻia:",
+          "text": "Nā pepa manawa o ka papahana, ka hoʻokaʻawale ʻana i ka uku, a me ka hoʻolilo pololei ʻana i nā hoʻolilo hana e palapala pololei i nā kikowaena kumu kūʻai i ka manawa maoli."
+        }
+      ],
+      "sec4P1": "ʻO ka hana ʻana i kahi ʻoihana me ka ʻike ʻole like ʻole e like me ka lele ʻana i loko o ka noe me nā mea kani lohi. Hāʻawi ʻo ERP hou i ka telemetry manawa maoli ma kēlā me kēia ʻāpana ʻoihana:",
+      "sec4List": [
+        {
+          "bold": "Nā papa kuhikuhi hoʻokō ola:",
+          "text": "ʻIke koke i nā ʻāpana kālā, nā kahe kālā, nā aie wehe, a me nā kauoha backlogs me ke kali ʻole i ka pau ʻana o ka manawa."
+        },
+        {
+          "bold": "ʻO ka hōʻike ʻana i ka lawelawe ponoʻī:",
+          "text": "Hiki i nā poʻo o ke keʻena ke kūkulu i nā nīnau maʻamau a hoʻopaʻa haʻahaʻa mai nā hōʻuluʻulu pae ʻoihana i nā mea laina kūʻai pākahi."
+        },
+        {
+          "bold": "Nā ʻike kumu waena:",
+          "text": "Ke kāpae nei i nā helu kūʻēʻē ma o ka hoʻokumu ʻana i ka ʻikepili kumu hoʻokele hoʻokahi no nā mea kūʻai aku, nā mea kūʻai aku, a me nā papa inoa huahana."
+        },
+        {
+          "bold": "Nā mākaʻikaʻi anomali:",
+          "text": "Hoʻomaopopo koke nā mākaʻikaʻi i nā luna ke hāʻule nā palena ma lalo o ka paepae, haʻahaʻa ka waihona, a i ʻole nā ​​mea hoʻolako hāʻawi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PILOSOPIKA HOOLAHA ERP",
+      "keyPerspectiveTitle": "ʻO ka Pragmatic Modernization Ma luna o Monolithic Overhaul",
+      "keyPerspectiveLead": "Ua holomua ka hoʻololi ʻana o ka ERP o kēia wā i ka wā e mālama ai nā hui iā ia ma ke ʻano he hoʻomaikaʻi ʻana i ka hana evolutionary ma mua o ka hoʻopau ʻana i ka IT."
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Ke kūkulu ʻana i ka Cyber Resilience ma kahi ʻoihana pili",
+      "subtitle": "E ʻimi pehea e hiki ai i nā hui ke hoʻoikaika i ka palekana, pale i nā ʻōnaehana koʻikoʻi a hoʻomākaukau no nā mea hoʻoweliweli ma waena o nā kaiapuni pili.",
+      "date": "Sepatemaba 2026",
+      "readTime": "8 min heluhelu",
+      "imageCaption": "Ke Manaʻo ʻenehana ʻoihana — Hoʻoweliweli Hoʻoweliweli a me ka Hoʻolālā Kūʻai ʻole-Trust",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & ʻIke",
+          "desc": "ʻO ka hoʻokomo ʻana i ka log-manawa maoli a me ka hoʻoponopono ʻana i ka anomaly SIEM ma nā wahi a pau o ke ao a me nā haʻahaʻa hana."
+        },
+        {
+          "title": "Hoʻopaʻa & Hoʻokaʻawale",
+          "desc": "Nā lula kuʻuna pūnaewele ʻakomi e hoʻokaʻawale ana i nā ipu i hoʻopaʻa ʻia a i ʻole nā ​​mea hōʻoia i ka manawa koke."
+        },
+        {
+          "title": "Ho'oponopono & Puka-Kumu",
+          "desc": "Hoʻopuka wikiwiki ʻia a me nā forensics kikohoʻe e ʻike ana i ka vector haki."
+        },
+        {
+          "title": "Hoʻoikaika a paʻakikī",
+          "desc": "Nā manaʻo hoʻomau i loko o nā waihona hoʻololi ʻole, nā kiaʻi kulekele, a me nā hoʻohālikelike hui ʻulaʻula."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Ka ho'ēmi nui o ka vulnerability attack surfaces ma nā ao waiwai",
+        "Hōʻoiaʻiʻo ʻia ka hoʻomau o ka hana a me ka hoʻihoʻi ʻana i ka pōʻino me ka liʻiliʻi o RTO/RPO",
+        "Ka hilinaʻi hoʻokō holoʻokoʻa ma waena o nā loiloi ISO 27001, SOC 2, HIPAA, a me GDPR",
+        "Mālama i ka waiwai naʻauao o ka ʻoihana koʻikoʻi a me nā moʻolelo huna o nā mea kūʻai aku",
+        "Hoʻoponopono ʻia ka mea kūʻai aku a me nā ʻaoʻao ʻekolu i ka hoʻokele pilikia ma o nā mana hoʻohui",
+        "Hoʻonui ʻia ka hilinaʻi o ka mea kūʻai aku a me ka mea hoʻopukapuka kālā i kākoʻo ʻia e nā kūlana palekana zero-trust i hōʻoia ʻia"
+      ],
+      "zeroTrustPrinciples": [
+        "Mai hilinaʻi, hōʻoia mau: koi ʻia ka hōʻoia no kēlā me kēia hana",
+        "Loaʻa Loaʻa Loaʻa Loaʻaʻia: Nā palena kūlana kiko'ī e kaupalena ana i ka neʻeʻana o ka hoʻoweliweli.",
+        "Manaʻo Haʻihaʻi: Hoʻomau ka nānā ʻana i ka hoʻoweliweli, hoʻopili i ka transit a me ka hoʻomaha",
+        "Māhele Micro: ʻO nā pā ahi pūnaewele e hoʻokaʻawale ana i nā haʻahaʻa hana noiʻi",
+        "Telemetry Hoʻomau: Hoʻokaʻaʻike ʻano hana ʻakomi e hōʻailona ana i nā noi kau ʻokoʻa"
+      ],
+      "sec1Eyebrow": "KA PALAPALA",
+      "sec1Heading": "ʻO ka ʻĀina Hoʻopalekana ʻOihana Hoʻohui",
+      "sec1Subtext": "I ka hoʻohui ʻana o nā hui hou i nā noi hou aku, nā kaiapuni ao, nā limahana mamao, nā polokalamu kelepona, a me nā hoa pili ʻekolu, pau ka noho ʻana o ka palena palekana kuʻuna.",
+      "sec2Eyebrow": "HOOLAHA HOPE",
+      "sec2Heading": "Palekana Hooweliweli Nui",
+      "sec2Subtext": "Nā pale hoʻoikaika e hoʻomalu i nā ʻōnaehana koʻikoʻi, nā ʻikepili koʻikoʻi o ka hui, a me nā ʻōnaehana hana.",
+      "sec3Eyebrow": "KA PALAPALA HOU",
+      "sec3Heading": "Hoʻokele Identity & Access Management (IAM)",
+      "sec3Subtext": "ʻO ka Identity ke kahua hoʻomalu kumu o ka palekana hou. Ma kahi kokoke i nā haʻihaʻi palekana koʻikoʻi e hoʻomaka me nā hōʻoia i hoʻopili ʻia ma mua o ka hoʻohana ʻana i nā polokalamu.",
+      "sec4Eyebrow": "HANA HANA",
+      "sec4Heading": "Hoʻopau i ka hoʻolālā ʻana o Zero Trust Architecture",
+      "sec4Subtext": "ʻAʻole ʻo Zero Trust kahi huahana a mea hana hoʻokahi. He hoʻolālā hoʻolālā i hoʻokumu ʻia ma ke kumumanaʻo pololei: ʻaʻole hilinaʻi i kahi mea i loko a i waho paha o ka pūnaewele ma ka paʻamau.",
+      "sec5Eyebrow": "HOOLAHA HANA",
+      "sec5Heading": "Noʻonoʻo Palekana",
+      "sec5Subtext": "Ka mālama ʻana i nā haʻahaʻa hana ma waena o ke ao lehulehu, nā hale hana hybrid, a me nā kaiapuni ipu.",
+      "sec6Eyebrow": "KA HANA HANA",
+      "sec6Heading": "Mākaukau no nā hanana: Ma waho aʻe o ke Kāohi ʻana",
+      "sec6Subtext": "Ua ʻae ke kūpaʻa cyber ʻoiaʻiʻo e hiki mai nā hanana. Hoʻomākaukau ka hoʻomākaukau ʻana i ka hoʻopaʻa wikiwiki ʻana, ka liʻiliʻi o ka hoʻopilikia ʻana i ka ʻoihana, a me ka hoʻihoʻi ʻana i hōʻoia ʻia.",
+      "sec7Eyebrow": "WAIWAI KUAI",
+      "sec7Heading": "Pono Pāʻoihana",
+      "sec7Subtext": "ʻO ke kūkulu ʻana i kahi ʻoihana kūpaʻa i ka cyber e pale i ka waiwai o ka hui, ke kūlana hoʻoponopono, a me ka maikaʻi o ka mākeke.",
+      "ctaHeading": "E hoʻoikaika i kāu palekana ʻoihana",
+      "ctaDescription": "E ʻimi pehea e hiki ai i nā hui ke hoʻoikaika i ka palekana, pale i nā ʻōnaehana koʻikoʻi a hoʻomākaukau no nā mea hoʻoweliweli ma waena o nā kaiapuni pili.",
+      "ctaButton": "Kamailio me ko makou poe akamai",
+      "sec1P1": "I ka wā hoʻoilina o ka ʻoihana IT, ua hoʻohana ʻia ka palekana ma ke aʻo ʻana i ka hale kākela a me ka moat: ʻo nā mea a pau i loko o ka ʻoihana keʻena ʻoihana i manaʻo ʻia he hilinaʻi ʻia, ʻoiai ʻo nā mea āpau i waho i manaʻo ʻia ʻaʻole hilinaʻi. ʻO kahi pā ahi hui hoʻokahi i pale i nā kikowaena kūloko, nā ʻikepili, a me nā kamepiula desktop.",
+      "sec1P2": "Ua ʻoi aku ka nui o nā pā kino o kēia lā. Noho nā haʻahaʻa hana ma waena o nā kaiapuni multi-cloud (AWS, Azure, GCP), komo nā limahana i nā noi ʻoihana mai nā wahi like ʻole, a hoʻololi mau nā API i nā ʻikepili hana koʻikoʻi me nā mea hoʻolako logistic waho, nā ʻoihana kālā, a me nā mea kūʻai aku SaaS.",
+      "sec1P3": "ʻOiai ke alakaʻi nei kēia hyper-connectivity i ka wikiwiki ʻoihana, hoʻonui nui ia i ka ʻili o ka ʻoihana. ʻO kēlā me kēia wahi hoʻopau API, ka hōʻailona ʻike, ka polokalamu kelepona pili, a me ka hoʻohui SaaS e hōʻike ana i kahi vector o ka ʻike. Pono ka pale ʻoihana ʻoiaʻiʻo i ka neʻe ʻana mai ka pale ma muli o ka perimeter a i ka hoʻoikaika ʻana i ka cyber resilience.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Hooweliweli",
+          "desc": "Naʻauao hoʻoweliweli i kōkua ʻia e aʻo mīkini e nānā ana i nā ʻōnaehana pūnaewele anomali, hōʻoiaʻiʻo hoʻomāinoino, a me nā nāwaliwali o ka lā ʻole i ka manawa maoli."
+        },
+        {
+          "icon": "📡",
+          "title": "Ka nānā ʻana i ka palekana",
+          "desc": "Centralized Security Operations Center (SOC) telemetry e hoʻopili ana i nā hanana ma waena o nā kikowaena, nā puʻupuʻu pahu, nā mea hoʻolako ʻike, a me nā helu hope."
+        },
+        {
+          "icon": "🔍",
+          "title": "Hooponopono Pilikia",
+          "desc": "Ke hoʻomau nei i ka ʻimi ʻana i nā nawaliwali ma waena o nā ʻoihana, nā waihona kumu kumu, a me nā waihona inoa pahu e hoʻoponopono koke i nā nāwaliwali."
+        },
+        {
+          "icon": "🔒",
+          "title": "Palekana ʻikepili",
+          "desc": "Hoʻopili paʻa i ka transit (TLS 1.3) a me ka hoʻomaha ʻana (AES-256), me ka hoʻomalu ʻana i ka pale ʻana i ka nalo o ka ʻikepili (DLP) no ka pale ʻana i nā leaka waiwai naʻauao."
+        }
+      ],
+      "sec3P1": "Pono ka pale ʻana i nā waiwai o ka ʻoihana e hōʻoia i kēlā me kēia ʻike—inā he luna kanaka, he ʻaelike waho, a i ʻole he moʻokāki lawelawe lako polokalamu kūʻokoʻa—ua hōʻoia i ka ʻae ʻia no nā kumuwaiwai pololei e komo ai.",
+      "sec3List": [
+        {
+          "bold": "Hoʻokele ʻikena kikowaena:",
+          "text": "Single Sign-On (SSO) and federated identity standards e hoʻopau ana i nā hale kūʻai ʻōlelo huna ma nā noi."
+        },
+        {
+          "bold": "Adaptive multi-factor authentication (MFA):",
+          "text": "Nā kī lako FIDO2 kū'ē i ka phishing a me nā pilikia pili i ka pōʻaiapili no nā hana hoʻomalu koʻikoʻi."
+        },
+        {
+          "bold": "Ka mana komo kiko'ī:",
+          "text": "Loaʻa nā mana hoʻokele waiwai maikaʻi (RBAC) a me Attribute-Based (ABAC) i hoʻokō ʻia ma ka API a me nā pae waihona."
+        },
+        {
+          "bold": "Nā loina pono liʻiliʻi loa:",
+          "text": "Hāʻawi i ke komo no ka manawa pōkole (JIT) e hoʻopau aunoa i ka wā e pau ai nā hana hoʻomalu."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ZERO TRUST CORE AOCTRINE",
+      "keyPerspectiveTitle": "Hooiaio mau i ka hilinai makapo",
+      "keyPerspectiveLead": "I loko o kahi hale hoʻolālā Zero Trust, ua hoʻopau loa ʻia ka hilinaʻi hilinaʻi ma luna o ka wahi pūnaewele. ʻO kēlā me kēia kālepa, nīnau noiʻi waihona, a me ka hoʻopaʻa inoa mea hoʻohana e hōʻoia mau i kona kūpono:",
+      "cloudSecurityCards": [
+        {
+          "title": "Ke kuleana like",
+          "desc": "Mākaʻikaʻi ka hoʻomalu ʻana e hoʻokaʻawale i ka palekana o ke kino o ka mea hāʻawi kapua mai ke kuleana o ka ʻoihana no ka hoʻopili ʻana i ka ʻikepili, nā kulekele IAM, a me ka code noi."
+        },
+        {
+          "title": "Hoʻolālā like Code (IaC)",
+          "desc": "Hiki ke hoʻololi ʻia, hiki ke hoʻopaʻa inoa ʻia ma o ke code. Hoʻopaʻa ʻia nā mākaʻikaʻi kulekele-as-code i nā kuhi hewa a me nā bākeke i hōʻike ʻia ma mua o ka hoʻolālā ʻana."
+        },
+        {
+          "title": "Mea Paʻa & Kubernetes Security",
+          "desc": "Nā manawa holo pahu paʻa, nā kākau inoa kiʻi i pūlima ʻia, ka ʻāpana micro-segmentation, a me ka hoʻokele huna ʻokoʻa e mālama i nā hōʻoia mai nā waihona kumu."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "KA OPU a me ka ho'ololi 'ana",
+      "title": "Hoʻololi hou i nā noi hoʻoilina no ke ao",
+      "subtitle": "E ʻimi i kahi ala kūpono no ka loiloi, hoʻololi ʻana a me ka hoʻoneʻe ʻana i nā noi hoʻoilina i nā hale kiʻi kapuaʻi paʻa.",
+      "date": "Sepatemaba 2026",
+      "readTime": "6 min heluhelu",
+      "imageCaption": "ʻIke ʻenehana ʻoihana — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Hoʻouka hou (Lift & Shift)",
+          "desc": "E hoʻololi i nā haʻahaʻa hana i nā mīkini virtual cloud me ka liʻiliʻi o nā hoʻololi code."
+        },
+        {
+          "title": "Hoʻoponopono hou (Hiki a Hoʻohou)",
+          "desc": "Hoʻomaikaʻi i nā papa hana holo, hoʻohana i nā ʻikepili kapua i mālama ʻia, a hoʻomāmā i nā hana."
+        },
+        {
+          "title": "Refactor (Cloud-Native Rebuild)",
+          "desc": "E hoʻokaʻawale i nā monoliths i loko o nā microservice i hoʻopaʻa ʻia a me nā API server ʻole i alakaʻi ʻia i ka hanana."
+        },
+        {
+          "title": "Hoʻololi (SaaS Modernization)",
+          "desc": "E hoʻomaha i nā ʻōnaehana hoʻoilina i makemake ʻia i ka lako polokalamu kapuaʻi i kūkulu ʻia."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Hoʻoilina Hoʻoilina",
+          "desc": "Ka palapala 'āina hilina'i 'akomi, ka helu 'ai'ē 'enehana, a me ka 'ike 'ana i ke ao."
+        },
+        {
+          "title": "Kūlana Kūlana",
+          "desc": "Nā papahana microservice modular, nā topologies ipu, a me nā laʻana IaC automated."
+        },
+        {
+          "title": "Ka Neʻe ʻana",
+          "desc": "Hoʻokuʻu ʻia ka Canary, ka hoʻonohonoho ʻana i ka ʻikepili kākau ʻelua, a me nā nalu ʻoki ʻoki ʻole-downtime."
+        },
+        {
+          "title": "Hoʻonui i ke ao",
+          "desc": "Ka hoʻomalu kumu kūʻai mau, telemetry autoscaling, a me nā loiloi hana FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Hoʻemi haʻahaʻa loa i nā lilo no ka mālama ʻana i ka ʻoihana a me ka hoʻihoʻi ʻana i nā lako",
+        "ʻO ka elasticity compute kokoke pau ʻole e lawelawe ana i nā kaʻa ʻoihana kiʻekiʻe me ka laʻa ʻole",
+        "ʻO ka wikiwiki hoʻokuʻu ʻia me nā paipu hoʻolaha CI/CD piha piha.",
+        "Hoʻopau ʻia nā wahi hoʻoilina hoʻokahi o ka hāʻule me ka loaʻa kiʻekiʻe-AZ",
+        "Nā papa hana API hou e hiki ai i ka hoʻohui ʻana i nā hoa hana cross-platform",
+        "Ka nānā 'ana i ka manawa maoli i ka hana noi a me ka ho'olimalima ao"
+      ],
+      "landscapeAssessmentPoints": [
+        "Ka palapala 'āina i nā hilinaʻi ma waena o nā noi a me nā cadences hoʻonohonoho ʻikepili",
+        "Ke ʻike ʻana i nā hoʻonohonoho kaiapuni paʻakikī a me nā papa kuhikuhi waihona waihona waiwai",
+        "Ka helu ʻana i ka hoʻokō ʻana i nā hoʻoponopono a me nā kaohi o ka mana aupuni i kēlā me kēia mana.",
+        "Ke helu ʻana i ke kumu kūʻai ʻoiaʻiʻo o ka ʻona (TCO) ma waena o ka refactor me nā ala hoʻokipa.",
+        "Ke hoʻokumu ʻana i nā nalu ʻōleʻa akaka no ka pale ʻana i nā hana ʻoihana i kēlā me kēia lā"
+      ],
+      "sec1Eyebrow": "KA OIAIO O NA PUNA HOOLIMALIMA",
+      "sec1Heading": "Ka Ho'oilina",
+      "sec1Subtext": "Hoʻopaʻa nā monolith kahiko i ka wikiwiki o ka hana hou, hoʻonui i nā nāwaliwali o ka hana, a hoʻonui i nā kumukūʻai mālama ʻoihana.",
+      "sec2Eyebrow": "KA HOIKE & IKE",
+      "sec2Heading": "Hoʻomaopopo i ka ʻĀina Hoʻohana",
+      "sec2Subtext": "Hoʻomaka ka hoʻololi ʻana o ke ao me ka loiloi paʻakikī. ʻO ka lele pololei ʻana i ka neʻe ʻana me ka nānā ʻole ʻana i nā hilinaʻi noiʻi ke kumu nui o ka lohi ʻana.",
+      "sec3Eyebrow": "KA 4 ALANUI HOOLAHA",
+      "sec3Heading": "Ke ala hou",
+      "sec3Subtext": "ʻAʻohe hoʻolālā hoʻokele hoʻokahi. Hoʻohālikelike nā ʻoihana alakaʻi i ke ʻano hoʻohālikelike kūpono i kēlā me kēia haʻawina kikoʻī e pili ana i ka waiwai ʻoihana, ka wikiwiki, a me ka ʻaiʻē loea.",
+      "sec4Eyebrow": "KA HOOLOLI HOI",
+      "sec4Heading": "Hoʻolālā Ao o kēia wā",
+      "sec4Subtext": "He palapala alanui i hoʻololi ʻia i nā monolith hoʻoilina i mau lawelawe kapuaʻi elastic, paʻa a mālama ʻia.",
+      "sec5Eyebrow": "KA HOOLOLI",
+      "sec5Heading": "Nā Pōmaikaʻi Hou Hou",
+      "sec5Subtext": "ʻO ka neʻe ʻana i nā ʻōnaehana hoʻoilina i nā hale kiʻi kapuaʻi o kēia wā e hāʻawi i ka wikiwiki o ka hana a me ka wānana kumukūʻai.",
+      "ctaHeading": "Hoʻololi hou i kāu mau palapala hoʻoilina",
+      "ctaDescription": "E ʻimi i kahi ala kūpono no ka loiloi, hoʻololi ʻana a me ka hoʻoneʻe ʻana i nā noi hoʻoilina i nā hale kiʻi kapuaʻi paʻa.",
+      "ctaButton": "Kamailio me ko makou poe akamai",
+      "sec1P1": "ʻO nā noi koʻikoʻi misionari i kūkulu ʻia he ʻumi makahiki i hala aku nei ke hoʻokau nei i nā piliona kālā o ka ʻoihana, akā naʻe, hoʻonui ko lākou ʻano paʻa i ka hana.",
+      "sec1P2": "Ke kū nei kēlā me kēia ʻoihana i ka pilikia ma waena o ke kūpaʻa a me ka hana hou. Ua hana ʻia nā ʻōnaehana hoʻoilina no ka lōʻihi, a ua hana hilinaʻi lākou no nā makahiki. Eia nō naʻe, i ka wikiwiki ʻana o nā koi ʻoihana, ʻike kēia mau hale kahiko kahiko i nā palena kūkulu:",
+      "sec1List": [
+        {
+          "bold": "Nā waihona polokalamu kahiko:",
+          "text": "Nā codebase monolithic i kūkulu ʻia ma luna o nā papa hana i hoʻopau ʻia me ka emi ʻana o nā kolamu talena i loaʻa no ka mālama ʻana."
+        },
+        {
+          "bold": "Nā pōʻai mālama paʻakikī:",
+          "text": "ʻO nā ʻāpana pili paʻa kahi e hoʻololi ai i kahi hiʻohiʻona hoʻokahi e hiki ke wāwahi i nā modula hana pili ʻole."
+        },
+        {
+          "bold": "Hiki ke hoʻonui ʻia:",
+          "text": "Nā palena scaling kū pololei e koi ana i ke kūʻai ʻana i nā lako waiwai kūʻai nui no ka mālama ʻana i ka piʻi ʻana o ka wā."
+        },
+        {
+          "bold": "Nā pilikia hoʻohui:",
+          "text": "ʻAʻole hiki ke hoʻopili maʻalahi me nā polokalamu kelepona hou, nā puka kūʻai aku, a i ʻole nā API hoa pili me ka ʻole o nā palapala pūʻulu palupalu."
+        },
+        {
+          "bold": "Ka palena o ka hale hana:",
+          "text": "Ke ola o ke keʻena kikowaena kino, nā nāwaliwali o ka hoʻihoʻi ʻana, a me nā hoʻolimalima hana mana kiʻekiʻe/hoʻoluʻu."
+        }
+      ],
+      "sec2P1": "Hoʻomaka ka huakaʻi no ka hoʻoponopono hou ʻana ma o ka hoʻokumu ʻana i ka mālamalama holoʻokoʻa ma ka ʻāina e kū nei:",
+      "sec2List": [
+        {
+          "bold": "Nā noi:",
+          "text": "Hoʻopaʻa inoa i nā haʻahaʻa hana a pau, nā modula maʻamau, nā palapala hope, a me nā pūʻolo ʻaoʻao ʻekolu."
+        },
+        {
+          "bold": "Nā mea pili:",
+          "text": "Ka hoʻopili ʻana i ka wā paʻakikī paʻakikī, nā papa ʻikepili kaʻana like, nā kelepona ʻōnaehana faila pololei, a me nā ʻaelike lawelawe waho."
+        },
+        {
+          "bold": "ʻIkepili:",
+          "text": "Ka loiloi ʻana i nā hoʻonohonoho ʻikepili, nā koi o ka pono kūʻokoʻa, ka cadence hoʻihoʻi, a me nā lula mana hoʻoponopono."
+        },
+        {
+          "bold": "Hoʻolālā:",
+          "text": "Ke hoʻoponopono nei i ka CPU, ka hoʻomanaʻo, ka hoʻohana ʻana i ka mālama ʻana, a me ka hoʻokomo ʻana i ka pūnaewele i nā kikoʻī kikoʻī kikoʻī kikoʻī."
+        },
+        {
+          "bold": "Koʻikoʻi ʻoihana:",
+          "text": "Ka hoʻokaʻawale ʻana i nā noi i nā papa no ka hoʻolālā ʻana i nā nalu neʻe palekana me nā kaʻina hana hāʻule hope."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Pono:",
+      "cloudArchitectureBadge": "Hoʻololi Ola",
+      "cloudArchitectureTitle": "Ke Kahe Hoʻohou ʻana o ke Ao",
+      "sec4P1": "Hoʻokaʻawale ka hale hoʻolālā huakaʻi i nā noi kumu i loko o nā lawelawe ʻokoʻa, pahu pahu i mālama ʻia ma nā paepae kapuaʻi elastic (e like me nā Kubernetes a i ʻole nā ​​manawa holo server ʻole).",
+      "sec4P2": "Ma ka hoʻokumu ʻana i nā paipu hoʻolele ʻokoʻa CI/CD, ʻoki ʻoki ʻoni ʻōmaʻomaʻo polū, a me nā ʻōnaehana ma ke ʻano he code, hoʻololi ʻia nā hoʻolālā mai nā hanana hopena hopena i nā hana maʻamau i kēlā me kēia lā.",
+      "sec4P3": "Piʻi ʻakomi ka helu ʻana i ka elastic i ka wā o ka piʻi ʻana o ka noi a hoʻohaʻahaʻa i ka wā lulls, e hoʻopau ana i nā kumukūʻai waiwai ʻole ʻoiai e hōʻoiaʻiʻo ana i nā manawa pane ʻelua no nā mea hoʻohana honua.",
+      "keyPerspectiveEyebrow": "NA HANA OI",
+      "keyPerspectiveTitle": "Eha mau kia o ka holo pono ana",
+      "keyPerspectiveLead": "Hōʻike ka ʻike e kūleʻa ana nā papahana hoʻoponopono hou i ka wā i hoʻokumu ʻia ma ka hoʻomākaukau piha ʻana, ke kaʻina o ka nalu a me ka hoʻāʻo ikaika."
+    }
+  }
+}

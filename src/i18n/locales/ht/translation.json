@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Konsènan",
+    "services": "Sèvis",
+    "products": "Pwodwi yo",
+    "perspectives": "Pèspektiv",
+    "technologies": "Teknoloji",
+    "contact": "Kontakte",
+    "signIn": "Konekte",
+    "signUp": "Enskri",
+    "signOut": "Dekonekte",
+    "chooseLanguage": "Chwazi lang ou",
+    "searchLanguage": "Rechèch lang",
+    "resetEnglish": "Reyajiste nan lang angle",
+    "noResults": "Yo pa jwenn okenn lang",
+    "englishDefault": "Angle (Default)",
+    "english": "angle"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Lojisyèl, ki fèt pou fason <em>biznis ou</em> mache.",
+    "description": "Rezonants se yon konpayi sèvis IT ak pwodwi dijital. Nou konsepsyon, bati ak echèl lojisyèl koutim, pwodwi entènèt ak mobil, enfrastrikti nwaj ak AI - pou konpayi ki fè konpetisyon sou ekzekisyon.",
+    "bookConsultation": "Liv yon konsiltasyon gratis",
+    "exploreServices": "Eksplore sèvis yo",
+    "years": "ane",
+    "projects": "pwojè",
+    "retention": "retansyon",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — depi 2012",
+    "metaStudio": "Digital pwodwi estidyo",
+    "metaTech": "Web · Mobile · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Sou nou",
+    "title": "Bati solisyon dijital <em>Ki fè biznis yo avanse</em>",
+    "description": "Rezonants se yon konpayi solisyon teknoloji ki konsantre sou ede biznis transfòme lide nan eksperyans dijital ki gen sans. Nou konbine teknoloji, kreyativite, ak konpreyansyon biznis pou bay solisyon ki fèt sou bezwen mond reyèl la.<br /><br />Soti nan transfòmasyon dijital ak devlopman lojisyèl koutim rive nan nwaj, AI, automatisation, ak sèvis teknoloji jere, nou ede òganizasyon yo senplifye konpleksite, amelyore efikasite, ak kreye valè dijital ki dire lontan.<br /><br /><strong>Apwòch nou an se senp - konprann biznis la, rezoud pwoblèm nan dwa ki bay pwoblèm nan.",
+    "awardWinning": "Genyen prim",
+    "awardText": "Rekonèt pou ekselans livrezon atravè entènèt ak jeni pwodwi mobil.",
+    "professionalStaff": "Anplwaye Pwofesyonèl",
+    "staffText": "Enjenyè granmoun aje, responsab ki posede travay la depi premye apèl pou ale nan lavi.",
+    "support247": "Sipò 24/7",
+    "supportText": "Sèvis jere ak yon liy sipò ki reponn lè ou bezwen li.",
+    "fairPrices": "Pri san Patipri",
+    "pricesText": "Estimasyon onèt ak bòdwo transparan sou chak angajman.",
+    "yearsExcellence": "Ane ekselans antrepriz"
+  },
+  "stats": {
+    "happyClients": "Kliyan kontan",
+    "projectsDone": "Pwojè fèt",
+    "winAwards": "Genyen prim"
+  },
+  "insights": {
+    "eyebrow": "Pèspektiv",
+    "title": "Pèspektiv",
+    "sub": "Eksplore lide, tandans, ak teknoloji ki fòme avni an.",
+    "filters": {
+      "all": "Tout",
+      "digital-transformation": "Transfòmasyon dijital",
+      "ai": "AI & Automatisation",
+      "cloud": "Cloud",
+      "data": "Done & Analytics",
+      "software": "Lojisyèl",
+      "business": "Biznis & Teknoloji"
+    },
+    "readMore": "Li plis",
+    "close": "Fèmen",
+    "keyTakeaways": "Prensip kle achitekti yo",
+    "relatedServices": "Kapasite ak Sèvis ki gen rapò",
+    "minRead": "min li",
+    "item1Date": "Jiyè 2026",
+    "item1Tag": "Pwodwi & ERP",
+    "item1Title": "Yon apwòch ERP modilè pou antrepriz k ap grandi",
+    "item1Text": "Ki jan nou estriktire angajman ERP pou finans, envantè, HR ak akizisyon entegre san pwoblèm san dezòd plizyè ane.",
+    "item2Date": "Jen 2026",
+    "item2Tag": "Atifisyèl entèlijans",
+    "item2Title": "Sistèm AI ajantik: deplase soti nan chatbots nan ekzekisyon otonòm",
+    "item2Text": "Achitekti kowòdone sistèm LLM milti-ajan ki planifye, valide, ak egzekite workflows biznis konplèks ak sipèvizyon moun-in-the-boucle.",
+    "item3Date": "Me 2026",
+    "item3Tag": "Konpayi Milestone",
+    "item3Title": "Rekonèt nan mitan dirijan IT inovasyon estidyo nan Hyderabad",
+    "item3Text": "Yo te rekonèt estidyo jeni nou an pou ekselans livrezon, kapasite gwo teknoloji, ak satisfaksyon kliyan atravè jeni pwodwi mondyal.",
+    "desc": "Eksplore lide ak pèspektiv Rezonants sou transfòmasyon dijital, AI, automatisation, nwaj, done, lojisyèl, ak avni teknoloji biznis.",
+    "categories": {
+      "digitalTransformation": "Digital Transfòmasyon",
+      "ai": "AI & Automatisation",
+      "cloud": "Cloud",
+      "data": "Done & Analytics",
+      "software": "Lojisyèl",
+      "business": "Biznis ak Teknoloji"
+    }
+  },
+  "technologies": {
+    "title": "Teknoloji & Achitekti",
+    "headline": "Enterprise Technology Solutions",
+    "sub": "Entelijan Teknoloji. Operasyon Otomatik. Pi entelijan biznis.",
+    "selectTechnology": "Chwazi yon solisyon teknoloji...",
+    "options": {
+      "aiRobotics": "AI & Robotics Solutions",
+      "businessAutomation": "Biznis Otomatik Solisyon",
+      "cloudMigrations": "Cloud Migrasyon Solisyon",
+      "dataCenters": "Done Sant solisyon",
+      "cognitiveAnalytics": "Analiz kognitif ak AI",
+      "informationReporting": "Enfòmasyon ak Sistèm Rapò",
+      "managedServices": "Sèvis Jere",
+      "oneStopSolutions": "Solisyon Teknoloji One-Stop"
+    },
+    "explore": "Eksplore Teknoloji",
+    "bookDiscovery": "Liv Teknoloji Dekouvèt",
+    "exploreAll": "Eksplore Tout Teknoloji",
+    "coreCapabilities": "Kapasite Teknoloji debaz",
+    "bookConsultation": "Liv yon konsiltasyon"
+  },
+  "contact": {
+    "eyebrow": "Kontakte",
+    "title": "Pale ak yon enjenyè ansyen, pa yon script lavant",
+    "sub": "Pataje yon ti kras sou pwojè ou a epi nou pral reponn nan yon jou ouvrab.",
+    "reachUs": "Rete jwenn nou dirèkteman",
+    "preferConversation": "Pito yon konvèsasyon? Nou se yon sèl apèl lwen.",
+    "contactLede": "Fason ki pi rapid pou avanse pou pi devan se yon konvèsasyon kout. Releve nou sou nenpòt chanèl anba a, oswa rezève yon plas epi n ap vin jwenn ou pare.",
+    "phone": "Telefòn",
+    "email": "Imèl",
+    "office": "Biwo",
+    "hours": "Orè",
+    "hoursValue": "Lendi – Samdi, 9:30 – 18:30 IST",
+    "bookSlot": "Liv yon plas konsiltasyon",
+    "sendMessage": "Voye yon mesaj pou nou",
+    "fieldsRequired": "Jaden ki make ak * obligatwa.",
+    "fullName": "Non konplè *",
+    "emailLabel": "Imèl *",
+    "company": "Konpayi",
+    "subject": "Sijè",
+    "messageLabel": "Mesaj *",
+    "sending": "Voye…",
+    "sendBtn": "Voye mesaj",
+    "successMsg": "Mesaj voye! Yo voye yon kopi imèl ba ou.",
+    "errorMsg": "Pa t 'kapab sove mesaj ou a. Tcheke si tablo contact_messages la egziste, epi eseye ankò.",
+    "offices": {
+      "vijayawada": "Biwo Vijayawada",
+      "southAfrica": "Biwo Lafrik di sid"
+    },
+    "placeholders": {
+      "fullName": "Non konplè ou",
+      "email": "ou@company.com",
+      "company": "Konpayi w la oswa òganizasyon w",
+      "subject": "Kijan nou ka ede?",
+      "message": "Pale nou sou pwojè ou, delè, ak objektif ou..."
+    },
+    "validation": {
+      "fullNameRequired": "Tanpri antre non konplè ou.",
+      "emailRequired": "Tanpri antre adrès imel ou.",
+      "emailInvalid": "Tanpri antre yon adrès imel ki valab.",
+      "messageRequired": "Tanpri antre yon mesaj."
+    }
+  },
+  "services": {
+    "eyebrow": "Sèvis",
+    "title": "Sa nou fè",
+    "sub": "Soti nan estrateji rive nan operasyon jere, nou delivre patenarya teknoloji fen-a-fen pou konpayi ki fè konpetisyon sou ekzekisyon.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Kreyasyon Pou Deplwaman",
+        "description": "Devlopman fen-a-fen nouvo solisyon dijital soti nan kondisyon biznis ak achitekti solisyon atravè devlopman, entegrasyon, tès, deplwaman, ak sipò kontinyèl."
+      },
+      "businessProcessAutomation": {
+        "label": "Otomatik Pwosesis Biznis",
+        "description": "Konsepsyon ak aplikasyon solisyon automatisation entèlijan ki rasyonalize pwosesis biznis, elimine aktivite manyèl repetitif, amelyore efikasite operasyonèl, ak akselere rezilta biznis yo."
+      },
+      "centerOfExcellence": {
+        "label": "Sant Ekselans",
+        "description": "Etablisman teknoloji espesyalize ak sant kapasite biznis ki bay gouvènans, estanda, ekspètiz, kad, byen ki kapab itilize ankò, ak amelyorasyon kontinyèl atravè òganizasyon an."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Custom Devlopman & Personnalisation",
+        "description": "Devlopman ak amelyorasyon aplikasyon, platfòm, workflows, ak solisyon antrepriz pou adrese egzijans biznis inik epi delivre fonksyonalite ki tayè."
+      },
+      "digitalTransformation": {
+        "label": "Digital Transfòmasyon",
+        "description": "Modènizasyon operasyon biznis, ekosistèm teknoloji, ak eksperyans kliyan atravè nwaj, AI, automatisation, done, ak teknoloji aplikasyon modèn."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Kad solisyon fen-a-fen",
+        "description": "Yon apwòch livrezon konplè ki kouvri tout sik lavi teknoloji a—soti nan estrateji, kondisyon, ak achitekti rive devlopman, entegrasyon, deplwaman, gouvènans, siveyans, ak sipò."
+      },
+      "migrationModernization": {
+        "label": "Migrasyon ak modènizasyon",
+        "description": "Migrasyon an sekirite ak estriktire nan aplikasyon, done, platfòm, enfrastrikti, ak chaj travay soti nan anviwònman eritaj oswa ki egziste deja nan platfòm teknoloji modèn, évolutive, ak optimize."
+      },
+      "pocPilotImplementation": {
+        "label": "Prèv Konsèp (PoC) & Aplikasyon Pilòt",
+        "description": "Rapid devlopman ak validation solisyon teknoloji pou evalye posibilite teknik, valè biznis, kondisyon entegrasyon, pèfòmans, ak évolutivité anvan aplikasyon konplè."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Sèvis Pataje ak Operasyon Jere",
+        "description": "Santralize livrezon teknoloji ak kapasite operasyon yo atravè inite biznis yo atravè pwosesis estanda, resous konpetan, kad gouvènans, jesyon sèvis, ak nivo sèvis mezirab."
+      },
+      "customDevelopment": {
+        "label": "Kreyasyon Pou Deplwaman",
+        "description": "Devlopman fen-a-fen nouvo solisyon dijital soti nan kondisyon biznis ak achitekti solisyon atravè devlopman, entegrasyon, tès, deplwaman, ak sipò kontinyèl."
+      },
+      "processAutomation": {
+        "label": "Otomatik Pwosesis Biznis",
+        "description": "Konsepsyon ak aplikasyon solisyon automatisation entèlijan ki rasyonalize pwosesis biznis yo, elimine aktivite manyèl repete, amelyore efikasite operasyonèl, ak akselere rezilta biznis yo."
+      },
+      "solutionEngineering": {
+        "label": "Custom Devlopman & Personnalisation",
+        "description": "Devlopman ak amelyorasyon aplikasyon, platfòm, workflows, ak solisyon antrepriz pou adrese egzijans biznis inik epi bay fonksyonalite adapte yo."
+      },
+      "endToEndSolutions": {
+        "label": "Kad solisyon fen-a-fen",
+        "description": "Yon apwòch livrezon konplè ki kouvri tout sik lavi teknoloji a—soti nan estrateji, kondisyon, ak achitekti rive devlopman, entegrasyon, deplwaman, gouvènans, siveyans, ak sipò."
+      },
+      "migrationServices": {
+        "label": "Migrasyon ak modènizasyon",
+        "description": "Migrasyon an sekirite ak estriktire nan aplikasyon, done, platfòm, enfrastrikti, ak chaj travay soti nan anviwònman eritaj oswa ki egziste deja nan platfòm teknoloji modèn, évolutive, ak optimize."
+      },
+      "pilotPrototyping": {
+        "label": "Prèv Konsèp (PoC) & Aplikasyon Pilòt",
+        "description": "Rapid devlopman ak validation solisyon teknoloji pou evalye posibilite teknik, valè biznis, kondisyon entegrasyon, pèfòmans, ak évolutivité anvan aplikasyon konplè."
+      },
+      "sharedServices": {
+        "label": "Sèvis Pataje ak Operasyon Jere",
+        "description": "Santralize livrezon teknoloji ak kapasite operasyon atravè inite biznis yo atravè pwosesis estanda, resous konpetan, kad gouvènans, jesyon sèvis, ak nivo sèvis mezirab."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Pwograme yon konsiltasyon",
+      "exploreFramework": "Eksplore kad solisyon",
+      "talkSeniorEngineer": "Pale ak yon enjenyè ansyen",
+      "exploreTechStack": "Eksplore Pile Teknoloji",
+      "bookPocSession": "Liv yon Sesyon Dekouvèt PoC",
+      "seeAllServices": "Gade Tout Sèvis",
+      "requestAssessment": "Mande yon Evalyasyon Migrasyon",
+      "exploreCloudSolutions": "Eksplore Cloud Solutions"
+    },
+    "sharedServices": {
+      "heroBadge": "SÈVIS PATAJE AK OPERASYON JERE",
+      "heroTitle": "Enterprise Shared Services & Managed Operations",
+      "heroDesc": "Echèl kapasite biznis, rasyonalize workflows kwa-fonksyonèl, epi reyalize ekselans operasyonèl atravè modèl sèvis pataje estanda, an sekirite ak pri-efikas.",
+      "bookDiscovery": "Liv Dekouvèt Operasyon Jere",
+      "exploreFramework": "Eksplore kad solisyon",
+      "coreCapabilities": "Kapasite debaz:",
+      "managedServices": "Sèvis Jere",
+      "itOperations": "IT Operasyon yo",
+      "appSupport": "Sipò pou aplikasyon an",
+      "serviceManagement": "Jesyon sèvis",
+      "resourceOptimization": "Optimizasyon Resous",
+      "slaManagement": "Jesyon SLA",
+      "governance": "Gouvènans",
+      "continuousImprovement": "Amelyorasyon kontinyèl",
+      "costOptimization": "Pri Optimizasyon",
+      "readyTitle": "Pare pou optimize operasyon ou yo?",
+      "readyDesc": "Dekouvri kijan kad Sèvis Pataje ak Operasyon Jere nou yo ka amelyore kalite sèvis yo, asire kontinwite operasyonèl, epi ogmante efikasite pri dirab pou antrepriz ou a.",
+      "scheduleSession": "Pwograme yon Sesyon Dekouvèt"
+    },
+    "solutionEngineering": {
+      "heroBadge": "JENI SOLISYON AK ACHITECTURE",
+      "heroTitle": "Custom Devlopman & Personnalisation",
+      "heroDesc": "Achitek, enjenyè, ak deplwaye sistèm lojisyèl pèfòmans segondè ki fèt espesyalman pou workflows operasyon ou yo, kanalizasyon done, ak kondisyon echèl."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "INOVASYON RAPID AK EXPERIMANSYON",
+      "heroTitle": "Prèv Konsèp (PoC) & Aplikasyon Pilòt",
+      "heroDesc": "Valide teknoloji émergentes, de-risk achitekti konplèks, epi pwouve valè biznis ak pwototip pwodiksyon-klas nan semèn, pa trimès."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ACHITECTURE CYCLE LAVI & LIVRAISON",
+      "heroTitle": "Kad solisyon fen-a-fen",
+      "heroDesc": "Yon modèl livrezon inifye ki konekte dekouvèt pwodwi, achitekti solisyon, jeni, enfrastrikti nwaj, ak operasyon fyab 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUCTURE AK MODERNIZASYON LEGACY",
+      "heroTitle": "Migrasyon ak modènizasyon",
+      "heroDesc": "Tranzisyon san pwoblèm chaj travay eritaj, achitekti monolitik, ak enfrastrikti sou lokal yo nan platfòm nwaj modèn, an sekirite ak évolutive."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Antrepriz modènizasyon",
+        "titlePart1": "Digital",
+        "titlePart2": "Transfòmasyon",
+        "description": "Modènizasyon operasyon biznis, ekosistèm teknoloji, ak eksperyans kliyan atravè nwaj, AI, automatisation, done, ak teknoloji aplikasyon modèn.",
+        "bookWorkshop": "Atelye Transfòmasyon Liv",
+        "exploreFramework": "Eksplore kad solisyon",
+        "startTransformation": "Kòmanse Transfòmasyon",
+        "exploreStrategy": "Eksplore estrateji",
+        "coreCapabilitiesTitle": "Kapasite debaz yo",
+        "coreCapabilities": [
+          "Estrateji dijital",
+          "Transfòmasyon nwaj",
+          "AI & Automatisation",
+          "Modènizasyon aplikasyon",
+          "Modènizasyon eritaj",
+          "Done & Analytics",
+          "Eksperyans Kliyan",
+          "Teknoloji modènizasyon"
+        ],
+        "row1Eyebrow": "Estrateji & Roadmap",
+        "row1Title": "Soti nan vizyon rive nan plan egzekitab",
+        "row1P1": "Nou fè patenarya ak lidè antrepriz pou defini estrateji dijital, ka biznis, ak plan wout pa etap ak viktwa rapid ak ekzekisyon ki pa riske.",
+        "row1P2": "Inisyativ priyorite, modèl TCO, ak KPI yo asire tout efò modènizasyon teknoloji yo konekte dirèkteman nan revni, efikasite, ak rezilta satisfaksyon kliyan yo.",
+        "row2Eyebrow": "Modènizasyon eritaj",
+        "row2Title": "Modènize san kraze biznis la",
+        "row2P1": "Re-platfòm monolit nan mikwosèvis, API, ak modèl nwaj natif natal ak koupe zewo-detan ak validasyon regresyon otomatik.",
+        "row2P2": "Nou modènize aplikasyon, baz done, ak kouch entegrasyon pandan n ap prezève konfòmite ak pozisyon sekirite.",
+        "row3Eyebrow": "Cloud, AI & Done",
+        "row3Title": "Adopsyon nyaj ak entèlijans ki baze sou done",
+        "row3P1": "Adopte AWS, Azure, ak GCP, konstwi tiyo done modèn, epi entegre ajan aprantisaj machin pou kondwi desizyon otonòm.",
+        "row3P2": "Soti nan difizyon evènman an tan reyèl rive nan tablodbò inifye, transfòmasyon vin mezirab ak dirab.",
+        "row4Eyebrow": "Eksperyans Kliyan",
+        "row4Title": "Eksperyans Omnicanal modèn",
+        "row4P1": "Redesine vwayaj kliyan atravè web ki reponn, iOS, andwad, ak pòtay oto-sèvis ak koòdone pèsonalize.",
+        "row4P2": "Jeni platfòm, telemetri, ak bouk fidbak otomatik fè inovasyon dijital kontinyèl.",
+        "pillarsTitle": "Poto transfòmasyon",
+        "pillarsSub": "Levye ki konsantre sou rezilta ki asire lidèchip dijital dirab.",
+        "pillar1Title": "Estrateji Digital & Gouvènans",
+        "pillar1Desc": "Plan transfòmasyon pa etap ak modèl ka biznis, gouvènans achitekti, ak swivi risk etap enpòtan yo.",
+        "pillar2Title": "Cloud & Done Platfòm",
+        "pillar2Desc": "AWS/Azure/GCP fondasyon milti-nwaj, kanalizasyon otomatik, ak pèmèt analiz done antrepriz.",
+        "pillar3Title": "AI & Automatisation",
+        "pillar3Desc": "Otomatik pwosesis entelijan, ajan AI kognitif, ak telemetri prediksyon pou optimize operasyon chak jou.",
+        "pillar4Title": "Eksperyans Kliyan",
+        "pillar4Desc": "Gwo-konvèti omnicanal portails dijital ak koòdone pèsonalize bati pou retansyon itilizatè maksimòm.",
+        "ctaTitle": "Pare pou transfòme antrepriz ou a?",
+        "ctaSub": "Patenarya ak Rezonants pou transfòmasyon dijital pwogresif, ki pa riske, ki asosye avèk rezilta biznis mezirab.",
+        "ctaButton": "Fè yon apèl pou transfòmasyon dijital"
+      },
+      "customDevelopment": {
+        "eyebrow": "Jeni dijital bout-a-fen",
+        "titlePart1": "Kreyasyon Pou",
+        "titlePart2": "Deplwaman",
+        "bookConsultation": "Liv yon konsiltasyon",
+        "exploreEngineering": "Eksplore Jeni solisyon"
+      },
+      "processAutomation": {
+        "eyebrow": "Operasyon Pwosesis Entelijan",
+        "titlePart1": "Pwosesis biznis",
+        "titlePart2": "Otomatik",
+        "bookDiscovery": "Liv Automatisation Dekouvèt",
+        "exploreCoE": "Eksplore Sant Ekselans"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Sant de",
+        "titlePart2": "Ekselans",
+        "bookConsultation": "Liv Konsiltasyon CoE",
+        "exploreCapabilities": "Eksplore Kapasite"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Sik lavi Teknoloji konplè",
+        "titlePart1": "Fen-a-Fen",
+        "titlePart2": "Kad solisyon",
+        "startJourney": "Kòmanse vwayaj lavi ou",
+        "exploreTransformation": "Eksplore Transfòmasyon"
+      },
+      "migrationServices": {
+        "eyebrow": "Transfòmasyon Cloud & Enfrastrikti",
+        "titlePart1": "Migrasyon &",
+        "titlePart2": "Modènizasyon",
+        "planMigration": "Planifye Migrasyon Ou",
+        "exploreTransformation": "Eksplore Transfòmasyon"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Rapid Validasyon & Posibilite",
+        "titlePart1": "Prèv Konsèp (PoC) &",
+        "titlePart2": "Aplikasyon Pilòt",
+        "initiateDiscovery": "Inisye PoC Dekouvèt",
+        "exploreDevelopment": "Eksplore Devlopman Custom"
+      },
+      "solutionEngineering": {
+        "badge": "Adapte Jeni dijital",
+        "bookConsultation": "Liv yon konsiltasyon",
+        "exploreCapabilities": "Eksplore Kapasite"
+      },
+      "sharedServices": {
+        "eyebrow": "Sant Operasyon Santralize",
+        "titlePart1": "Sèvis Pataje &",
+        "titlePart2": "Operasyon Jere",
+        "bookDiscovery": "Liv Dekouvèt Operasyon Jere",
+        "exploreFramework": "Eksplore kad solisyon"
+      }
+    },
+    "coreCapabilities": "Kapasite debaz yo"
+  },
+  "products": {
+    "featured": "En pwodwi yo",
+    "featuredSub": "Senplifye operasyon yo, konekte ekip yo, otomatize pwosesis yo, epi mennen yon kwasans biznis pi entelijan.",
+    "seeAll": "Gade tout pwodwi yo",
+    "featuredProducts": "PWODWI PRESENTE",
+    "meetAutonomous": "Rankontre Mendèv Otonòm",
+    "meetAutonomousText": "Transfòme operasyon ou yo ak ajan AI ki travay ansanm ak ekip ou a pou okipe travay konplèks ki repete.",
+    "learnMore": "Aprann Plis",
+    "erp": {
+      "title": "Yon platfòm ki pare pou tout bagay",
+      "sub": "Otorize biznis yo ak solisyon jesyon antrepriz ki konekte, entèlijan ak évolutive.",
+      "explore": "Eksplore solisyon ERP",
+      "gridTitle": "SOLUTIONS ERP",
+      "promoTitle": "ERP modilè pou kwasans",
+      "promoText": "Deplwaye karakteristik ERP modilè rapidman san yo pa konpleksite sistèm tradisyonèl pou plizyè ane.",
+      "scheduleDemo": "Orè Demo"
+    },
+    "it": {
+      "title": "IT Solutions",
+      "sub": "Enfrastrikti pou antrepriz, sekirite ak solisyon DevOps pou kenbe biznis ou mache.",
+      "explore": "Eksplore IT Solutions",
+      "gridTitle": "IT SOLUTIONS",
+      "promoTitle": "Enfrastrikti IT serye",
+      "promoText": "Bati yon fondasyon teknoloji fleksib ak sèvis jere nwaj, sekirite ak DevOps.",
+      "getStarted": "Kòmanse"
+    },
+    "crm": {
+      "title": "Solisyon CRM",
+      "sub": "Jesyon relasyon kliyan pou rasyonalize lavant, sipò, ak flux travay maketing.",
+      "explore": "Eksplore solisyon CRM",
+      "gridTitle": "SOLUTIONS CRM",
+      "promoTitle": "Fèmen Plis Deals",
+      "promoText": "Otorize ekip lavant ak sipò ou yo ak done kliyan inifye ak automatisation entèlijan.",
+      "startTrial": "Kòmanse esè gratis"
+    },
+    "hrms": {
+      "title": "Solisyon HRMS",
+      "sub": "Jesyon resous imen ki kouvri pewòl, rekritman, pèfòmans, ak angajman anplwaye yo.",
+      "explore": "Eksplore solisyon HRMS",
+      "gridTitle": "SOLUTIONS HRMS",
+      "promoTitle": "Senplifye Operasyon HR",
+      "promoText": "Otomatize flux travay HR soti nan rekritman rive nan pran retrèt ak yon platfòm modèn, premye anplwaye yo.",
+      "requestDemo": "Mande Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "En pwodwi yo",
+      "erpSolutions": "ERP solisyon yo",
+      "solutions": "SOLISYON"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Ajan otonòm entelijan ak zouti ki otomatize workflows konplèks ak operasyon kliyan yo."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Platfòm jesyon milti-nwaj optimize pèfòmans, sekirite, konfòmite, ak depans yo."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Kolaborasyon ibrid ak sant pwodiktivite ak jesyon entegre travay, chat, ak dokiman."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Motè analitik an tan reyèl ki transfòme kouran evènman biznis yo an konesans aksyonab."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Nwayo",
+        "description": "Achitekti antrepriz inifye ki konekte finans, byen, HR, akizisyon, ak envantè."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platfòm eksperyans anplwaye ki kouvri pewòl, benefis, revize pèfòmans, ak pwòp tèt ou sèvis."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Suivi lojistik an tan reyèl, operasyon depo otomatik, ak previzyon demann."
+      },
+      "financeHub": {
+        "title": "Sant Finans",
+        "description": "Jesyon avanse liv, flux travay bòdwo, konfòmite otomatik, ak rapò sou kashflow an tan reyèl."
+      },
+      "cloudInfrastructure": {
+        "title": "Cloud Enfrastrikti",
+        "description": "Achitekti, migrasyon, ak jesyon nwaj ki ka ekapab atravè AWS, Azure, ak GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Suite Cybersecurity",
+        "description": "Siveyans sekirite bout-a-fen, deteksyon menas, ak jesyon konfòmite."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD automatisation, containerization, ak enfrastrikti-kòm-kod pou livrezon pi rapid."
+      },
+      "managedItServices": {
+        "title": "Jere Sèvis IT",
+        "description": "Siveyans enfrastrikti 24/7, repons ensidan, ak antretyen pwoaktif."
+      },
+      "salesCrm": {
+        "title": "Komèsyal CRM",
+        "description": "Jesyon tiyo, nòt plon, swiv kontra, ak previzyon lavant nan yon sèl platfòm."
+      },
+      "customerSupportHub": {
+        "title": "Sant Sipò Kliyan",
+        "description": "Ticketing, baz konesans, chat ap viv, ak jesyon sipò omnicanal."
+      },
+      "marketingAutomation": {
+        "title": "Maketing Automation",
+        "description": "Òkestrasyon kanpay, automatisation imèl, fotifikasyon plon, ak analiz."
+      },
+      "customer360View": {
+        "title": "Kliyan 360 View",
+        "description": "Des kliyan inifye ki konbine lavant, sipò, ak done entèraksyon."
+      },
+      "coreHr": {
+        "title": "Nwayo HR",
+        "description": "Dosye anplwaye yo, yerachi òganizasyon, jesyon konje, ak swivi prezans yo."
+      },
+      "payrollCompliance": {
+        "title": "Pewòl & Konfòmite",
+        "description": "Otomatik pwosesis pewòl, kalkil taks, ak konfòmite legal."
+      },
+      "performanceManagement": {
+        "title": "Jesyon Pèfòmans",
+        "description": "Suivi OKR, revizyon 360°, fikse objektif, ak plan devlopman anplwaye yo."
+      },
+      "recruitmentPortal": {
+        "title": "Portal Rekritman",
+        "description": "Afichaj travay, swiv aplikan, orè entèvyou, ak workflows abòde."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "En pwodwi yo",
+        "heading": "En pwodwi yo",
+        "sub": "Senplifye operasyon yo, konekte ekip yo, otomatize pwosesis yo, epi mennen yon kwasans biznis pi entelijan.",
+        "promoTitle": "Rankontre Mendèv Otonòm",
+        "promoText": "Transfòme operasyon ou yo ak ajan AI ki travay ansanm ak ekip ou a pou okipe travay konplèks, repetitif.",
+        "items": [
+          {
+            "title": "AI Automatisation & Ajan Entelijan",
+            "description": "Otomatize travay repetitif yo epi deplwaye ajan AI entèlijan ki amelyore pwodiktivite, pran desizyon, ak rezilta biznis yo."
+          },
+          {
+            "title": "IT Sèvis & Sipò Digital",
+            "description": "Bay pi vit, pi entelijan sipò IT ak jesyon sèvis rasyonalize, automatisation, ak workflows dijital."
+          },
+          {
+            "title": "Enterprise AI Gouvènans",
+            "description": "Bati adopsyon AI responsab ak bonjan gouvènans, sekirite, konfòmite, transparans, ak kontwòl risk."
+          },
+          {
+            "title": "Entelijan IT Operasyon",
+            "description": "Transfòme operasyon IT ak siveyans AI-kondwi, automatisation, konesans prediksyon, ak rezolisyon pwoaktif pwoblèm."
+          },
+          {
+            "title": "Jesyon Eksperyans Kliyan",
+            "description": "Kreye vwayaj kliyan pèsonalize ak angajman entèlijan, automatisation, analiz, ak eksperyans dijital san pwoblèm."
+          },
+          {
+            "title": "Estrateji biznis & Portfolio Optimization",
+            "description": "Fè aliman envèstisman teknoloji ak objektif biznis yo pou optimize pòtfolyo, amelyore efikasite, epi mennen yon kwasans dirab."
+          },
+          {
+            "title": "IT Byen ak Teknoloji Lifecycle",
+            "description": "Jere byen IT pandan tout sik lavi yo ak pi bon vizibilite, automatisation, kontwòl pri, ak planifikasyon teknoloji."
+          },
+          {
+            "title": "Enterprise Risk & Konfòmite",
+            "description": "Idantifye, evalye, ak jere risk antrepriz pandan y ap ranfòse konfòmite, kontwòl, ak rezistans òganizasyonèl."
+          },
+          {
+            "title": "Sibèsekirite ak operasyon menas",
+            "description": "Pwoteje anviwònman dijital ak deteksyon menas aktif, operasyon sekirite, repons ensidan, ak siveyans kontinyèl."
+          },
+          {
+            "title": "Field Workforce Automation",
+            "description": "Otorize ekip teren yo ak orè entelijan, workflows mobil, automatisation, ak vizibilite operasyonèl an tan reyèl."
+          },
+          {
+            "title": "Eksperyans Anplwaye ak Sèvis HR",
+            "description": "Senplifye sèvis anplwaye yo ak workflows dijital, solisyon oto-sèvis, automatisation, ak eksperyans anplwaye pèsonalize."
+          },
+          {
+            "title": "Espas travay dijital inifye",
+            "description": "Konekte moun, pwosesis, aplikasyon, ak zouti kolaborasyon atravè yon espas travay dijital ki an sekirite, entèlijan ak san pwoblèm."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Solisyon ERP",
+        "heading": "Yon Platfòm, Pare pou Anyen",
+        "sub": "Otorize biznis yo ak solisyon jesyon antrepriz ki konekte, entèlijan ak évolutive.",
+        "promoTitle": "ERP modilè pou kwasans",
+        "promoText": "Deplwaye karakteristik ERP modilè rapidman san yo pa konpleksite sistèm tradisyonèl pou plizyè ane.",
+        "items": [
+          {
+            "title": "Otomatik Pwosesis Biznis",
+            "description": "Rasyonalize finans, HR, lavant, akizisyon, ak operasyon chak jou."
+          },
+          {
+            "title": "Jesyon biznis entegre",
+            "description": "Konekte depatman, done, ak workflows sou yon platfòm inifye."
+          },
+          {
+            "title": "Finans ak Kontablite",
+            "description": "Amelyore vizibilite finansye, rapò, bidjè, ak konfòmite."
+          },
+          {
+            "title": "HR & Pewòl",
+            "description": "Senplifye jesyon anplwaye, prezans, pewòl, ak pwosesis HR."
+          },
+          {
+            "title": "Jesyon chèn ekipman",
+            "description": "Optimize akizisyon, envantè, fournisseurs, ak lojistik."
+          },
+          {
+            "title": "Komèsyal ak Jesyon Kliyan",
+            "description": "Jere kondwi, kliyan, lòd, ak lavant pèfòmans avèk efikasite."
+          },
+          {
+            "title": "Analytics ak rapò an tan reyèl",
+            "description": "Transfòme done biznis yo an konesans ki ka pran aksyon pou pran desizyon pi rapid."
+          },
+          {
+            "title": "Cloud ERP Solutions",
+            "description": "Pèmèt jesyon antrepwiz ki an sekirite, évolutif ak aksesib depi nenpòt kote."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT Solutions",
+        "heading": "Solisyon IT nou yo",
+        "sub": "Transfòme operasyon IT ak solisyon dijital entèlijan, pwoaktif, ak évolutive ki amelyore pèfòmans, pwodiktivite, ak kontinwite biznis.",
+        "promoTitle": "Enfrastrikti IT serye",
+        "promoText": "Bati yon fondasyon teknoloji fleksib ak sèvis jere nwaj, sekirite ak DevOps.",
+        "items": [
+          {
+            "title": "Jesyon Sèvis IT",
+            "description": "Rasyonalize sèvis IT, ensidan, demann, ak workflows pou rezolisyon pi rapid."
+          },
+          {
+            "title": "Jesyon Operasyon IT",
+            "description": "Siveye enfrastrikti ak aplikasyon yo ak operasyon IT aktif, ki baze sou done."
+          },
+          {
+            "title": "IT Byen Jesyon",
+            "description": "Jere byen teknoloji avèk efikasite pandan y ap diminye depans, risk, ak konpleksite sik lavi."
+          },
+          {
+            "title": "Enterprise Achitekti",
+            "description": "Aliman estrateji biznis ak bon achitekti teknoloji ak envèstisman."
+          },
+          {
+            "title": "Gouvènans Cloud",
+            "description": "Amelyore sekirite nwaj, konfòmite, pèfòmans, ak jesyon pri."
+          },
+          {
+            "title": "Operasyon dijital",
+            "description": "Otomatize pwosesis IT yo epi jwenn vizibilite an tan reyèl atravè anviwònman teknoloji ou a."
+          },
+          {
+            "title": "Obsèvabilite ak Siveyans",
+            "description": "Detekte pwoblèm pèfòmans bonè epi kenbe eksperyans dijital serye."
+          },
+          {
+            "title": "Jesyon Portfolio Estratejik",
+            "description": "Konekte envestisman IT ak priyorite biznis ak rezilta mezirab."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Solisyon CRM",
+        "heading": "Solisyon CRM nou yo",
+        "sub": "Bay eksperyans kliyan konekte, pèsonalize, ak entèlijan atravè tout vwayaj kliyan an.",
+        "promoTitle": "Fèmen Plis Deals",
+        "promoText": "Otorize ekip lavant ak sipò ou yo ak done kliyan inifye ak automatisation entèlijan.",
+        "items": [
+          {
+            "title": "Jesyon Sèvis Kliyan",
+            "description": "Amelyore sipò kliyan ak rezolisyon pi rapid, oto-sèvis, ak workflows entèlijan."
+          },
+          {
+            "title": "Komèsyal Automatisation",
+            "description": "Otomatize aktivite lavant yo, jere plon, epi ede ekip yo fèmen opòtinite yo pi vit."
+          },
+          {
+            "title": "Komèsyal ak Jesyon Lòd",
+            "description": "Rasyonalize vwayaj la soti nan plon nan lòd ak amelyore vizibilite revni."
+          },
+          {
+            "title": "Jesyon Sèvis Field",
+            "description": "Optimize operasyon jaden, orè, dispatch, ak pwodiktivite teknisyen."
+          },
+          {
+            "title": "Jesyon Eksperyans Kliyan",
+            "description": "Kreye eksperyans san pwoblèm ak pèsonalize atravè chak pwen kontak kliyan."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "Transforme done kliyan yo an konesans ki ka pran aksyon pou pran desizyon biznis pi entelijan."
+          },
+          {
+            "title": "Maketing Automation",
+            "description": "Otomatize kanpay yo, angajman kliyan yo, ak nouri plon."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Sèvi ak automatisation entèlijan ak konesans AI pou amelyore pwodiktivite ak angajman kliyan."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Solisyon HRMS",
+        "heading": "Solisyon HRMS nou yo",
+        "sub": "Otorize mendèv ou a ak solisyon HR entèlijan, entegre ak otomatik ki senplifye jesyon anplwaye yo ak amelyore eksperyans nan espas travay la.",
+        "promoTitle": "Senplifye Operasyon HR",
+        "promoText": "Otomatize flux travay HR soti nan rekritman rive nan retrèt ak yon platfòm modèn, premye anplwaye yo.",
+        "items": [
+          {
+            "title": "Jesyon HR debaz",
+            "description": "Jere enfòmasyon anplwaye yo, estrikti òganizasyonèl, ak pwosesis HR avèk efikasite."
+          },
+          {
+            "title": "Jesyon Pewòl",
+            "description": "Otomatik pewòl, pwosesis salè, dediksyon, ak konfòmite."
+          },
+          {
+            "title": "Oto-Sèvis Anplwaye",
+            "description": "Bay anplwaye yo aksè fasil nan sèvis HR, demann, dokiman, ak enfòmasyon."
+          },
+          {
+            "title": "Jesyon Prezans ak Konje",
+            "description": "Senplifye swivi prezans, demann konje, orè, ak lè travay."
+          },
+          {
+            "title": "Rekritman & Onboarding",
+            "description": "Rasyonalize anbochaj, jesyon kandida, onboarding, ak entegrasyon anplwaye yo."
+          },
+          {
+            "title": "Jesyon Pèfòmans",
+            "description": "Fikse objektif, swiv pèfòmans, epi sipòte devlopman kontinyèl anplwaye yo."
+          },
+          {
+            "title": "Aprantisaj ak Devlopman",
+            "description": "Jere pwogram fòmasyon, devlopman konpetans, ak kwasans anplwaye yo."
+          },
+          {
+            "title": "HR Analytics & Rapò",
+            "description": "Transforme done mendèv yo an konesans ki ka pran aksyon pou pi bon desizyon HR."
+          },
+          {
+            "title": "Otomatik HR ki mache ak AI",
+            "description": "Otomatize travay HR ki repete epi fè eksperyans anplwaye yo pi vit, pèsonalize."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Devlopman App",
+        "heading": "Sèvis Devlopman App nou yo",
+        "sub": "Bati aplikasyon ki an sekirite, évolutive, ak pèfòmans segondè ki akselere kwasans biznis ak senplifye pwosesis konplèks.",
+        "promoTitle": "Bati Aplikasyon Itilizatè yo renmen",
+        "promoText": "Soti nan lide rive nan lanse, ekip nou an desine epi devlope aplikasyon pou mobil ak entènèt kalite siperyè ki echèl.",
+        "items": [
+          {
+            "title": "Devlopman Aplikasyon Custom",
+            "description": "Bati aplikasyon pwepare ki fèt nan kondisyon inik biznis ou."
+          },
+          {
+            "title": "Devlopman Web & Mobile App",
+            "description": "Bay eksperyans dijital san pwoblèm sou entènèt, mobil, ak plizyè aparèy."
+          },
+          {
+            "title": "Enterprise Aplikasyon Devlopman",
+            "description": "Devlope solisyon évolutive ki entegre ak sistèm biznis ou ki ekziste yo."
+          },
+          {
+            "title": "Devlopman ki ba-kod & pa-kod",
+            "description": "Akselere livrezon aplikasyon ak platfòm devlopman fleksib ki ba-kod."
+          },
+          {
+            "title": "API & Entegrasyon Sistèm",
+            "description": "Konekte aplikasyon, platfòm, ak sistèm twazyèm-pati pou koule done san pwoblèm."
+          },
+          {
+            "title": "Modènizasyon aplikasyon",
+            "description": "Transfòme aplikasyon eritaj yo an solisyon modèn, évolutive, ak efikas."
+          },
+          {
+            "title": "Aplikasyon AI-Powered",
+            "description": "Entegre AI, automatisation, ak kapasite entèlijan nan aplikasyon biznis."
+          },
+          {
+            "title": "Sipò ak antretyen aplikasyon",
+            "description": "Asire pèfòmans kontinyèl, sekirite, mizajou, ak fyab."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Otomatik biznis",
+    "cloudMigrations": "Cloud Migrations",
+    "dataCenters": "Sant Done yo",
+    "cognitiveAnalyticsAi": "Analiz kognitif ak AI",
+    "informationReportingSystems": "Enfòmasyon ak Sistèm Rapò",
+    "managedServices": "Sèvis Jere",
+    "oneStopSolutions": "Solisyon One-Stop"
+  },
+  "servicePage": {
+    "serviceOverview": "Apèsi sou sèvis la",
+    "whatWeOffer": "Sa nou ofri",
+    "whyChooseRezonants": "Poukisa Chwazi Rezonants",
+    "benefitsOfWorking": "Avantaj nan travay avèk nou",
+    "techStack": "Pile teknoloji",
+    "technologiesWeUse": "Teknoloji nou itilize",
+    "ourWork": "Travay nou an",
+    "relatedProjects": "Pwojè ki gen rapò",
+    "viewCaseStudy": "Gade etid ka",
+    "readyToDiscuss": "Pare pou diskite sou pwojè {{title}} ou a?",
+    "seniorEngineersReady": "Enjenyè ansyen nou yo pare pou ede ou planifye, konsepsyon, ak bati solisyon ou.",
+    "startProject": "Kòmanse pwojè ou a",
+    "howItWorks": "Kijan li fonksyone"
+  },
+  "consultation": {
+    "badge": "Liv yon konsiltasyon gratis",
+    "title": "Ann planifye pwojè w la <span class='hero-accent'>Ansanm</span>",
+    "description": "Pwograme yon apèl san obligasyon ak konsiltan nou yo. Diskite sou kondisyon ou yo, eksplore bon apwòch teknik la epi jwenn yon sitasyon klè - tout nan mwens pase 30 minit.",
+    "bookSlot": "Liv Plas Ou",
+    "howItWorks": "Kijan li fonksyone",
+    "accountRequired": "Kont Obligatwa",
+    "signInToBook": "Konekte w pou w bay konsiltasyon w la",
+    "accountRequiredText": "Ou pral bezwen yon kont Rezonants pou mande yon konsiltasyon. Konekte oswa kreye youn - li pran mwens pase yon minit.",
+    "signInToContinue": "Konekte pou Kontinye",
+    "newToRezonants": "Nouvo nan Rezonants?",
+    "createAccount": "Kreye yon kont",
+    "requestMeeting": "Mande yon Reyinyon",
+    "tellUsAboutProject": "Pale nou sou pwojè w la",
+    "fillDetails": "Ranpli detay ou epi n ap konfime plas konsiltasyon ou pa imèl.",
+    "fullName": "Non konplè *",
+    "email": "Imèl *",
+    "phone": "Telefòn *",
+    "company": "Konpayi",
+    "serviceOfInterest": "Sèvis enterè *",
+    "selectService": "Chwazi yon sèvis…",
+    "preferredDate": "Dat Prefere *",
+    "preferredTime": "Tan Prefere *",
+    "selectTimeSlot": "Chwazi yon plas tan...",
+    "estimatedBudget": "Estimasyon Bidjè",
+    "selectRange": "Chwazi yon seri...",
+    "projectRequirements": "Kondisyon pou Pwojè",
+    "booking": "Anrezèvasyon…",
+    "bookFreeConsultation": "Liv konsiltasyon gratis mwen an",
+    "freeNote": "100% gratis epi pa gen okenn obligasyon. Nou nòmalman reponn nan lespas 24 èdtan.",
+    "whatToExpect": "Kisa pou w atann",
+    "preferToReachUs": "Pito rive jwenn nou dirèkteman?",
+    "callUs": "Rele nou",
+    "emailUs": "Imèl nou",
+    "visitUs": "Vizite nou",
+    "whyBookWithUs": "Poukisa Liv avèk Nou",
+    "freeCallTitle": "Yon Apèl Gratis Ki Aktyèlman Ede",
+    "freeCallNoPressure": "Apèl gratis, pa gen presyon",
+    "freeCallNoPressureText": "Chak premye konsiltasyon gratis. Pa gen okenn obligasyon pou achte - jis konsèy onèt.",
+    "seniorConsultants": "Konsiltan Senior sèlman",
+    "seniorConsultantsText": "Se enjenyè ansyen ak konsiltan ki dirije reyinyon w la ki bati pou viv.",
+    "clearTimelines": "Klè delè ak sitasyon",
+    "clearTimelinesText": "Kite ak yon pwochen etap defini, delè reyalis ak pri transparan pou pwojè ou a.",
+    "services": {
+      "customSoftware": "Devlopman lojisyèl Custom",
+      "webMobile": "Devlopman Web & Mobile App",
+      "cloudDevops": "Cloud & DevOps Solutions",
+      "aiMl": "AI & Machine Learning",
+      "itConsulting": "IT Konsiltasyon",
+      "digitalMarketing": "Digital Maketing & SEO",
+      "erpSolutions": "Solisyon ERP",
+      "other": "Lòt / Pa sèten ankò"
+    },
+    "budgets": {
+      "under1L": "Anba ₹1L",
+      "1to5L": "₹1L - ₹5L",
+      "5to10L": "₹5L - ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Poko deside"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Konprann objektif ou",
+        "text": "Nou koute an premye. Yon apèl 30 minit pou kat bezwen biznis ou, odyans ou ak rezilta ou vle."
+      },
+      "technicalDirection": {
+        "title": "Jwenn direksyon teknik",
+        "text": "Enjenyè nou yo pataje bon achitekti, pile ak apwòch pou pwojè ou a."
+      },
+      "clearQuote": {
+        "title": "Resevwa yon sitasyon klè",
+        "text": "Ale ak yon estimasyon transparan, delè ak pwochen etap yo — pa gen okenn obligasyon."
+      }
+    },
+    "validation": {
+      "nameRequired": "Non konplè obligatwa.",
+      "emailRequired": "Imèl obligatwa.",
+      "emailInvalid": "Antre yon imèl ki valab.",
+      "phoneRequired": "Nimewo telefòn obligatwa.",
+      "phoneInvalid": "Antre yon nimewo telefòn valab.",
+      "serviceRequired": "Tanpri chwazi yon sèvis.",
+      "dateRequired": "Chwazi yon dat pi pito.",
+      "timeRequired": "Chwazi yon plas tan pi pito.",
+      "messageTooShort": "Ajoute yon ti kras plis detay (omwen 10 karaktè).",
+      "signInRequired": "Tanpri konekte pou w ka konsilte w.",
+      "couldNotBook": "Pa t 'kapab rezève konsiltasyon ou. Tcheke si tab konsiltasyon an egziste, epi eseye ankò.",
+      "bookedSuccess": "Konsiltasyon rezerve! Ekip nou an pral konfime plas tan ou pa imel yon ti tan."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Byenvini tounen",
+    "createAccount": "Kreye yon kont",
+    "forgotPassword": "Bliye Modpas",
+    "createNewPassword": "Kreye yon nouvo modpas",
+    "welcomeBackDesc": "Konekte sou kont Rezonants ou.",
+    "createAccountDesc": "Antre nan Rezonants jodi a.",
+    "forgotDesc": "Antre imel ou epi n ap voye yon lyen pou reset modpas ou.",
+    "recoveryDesc": "Chwazi yon nouvo modpas solid pou kont ou.",
+    "fullName": "Non konplè",
+    "email": "Imèl",
+    "password": "Modpas",
+    "newPassword": "Nouvo Modpas",
+    "confirmPassword": "Konfime Modpas",
+    "confirmNewPassword": "Konfime Nouvo Modpas",
+    "forgotPasswordLink": "Bliye modpas?",
+    "privacyPolicy": "Mwen aksepte politik Rezonants <1>Pri Prive ak Sekirite</1>.",
+    "sendResetLink": "Voye lyen Reyajiste",
+    "signIn": "Konekte",
+    "signUp": "Enskri",
+    "pleaseWait": "Tanpri tann...",
+    "rememberedPassword": "Èske w sonje modpas ou a?",
+    "signInLink": "Konekte",
+    "noAccount": "Ou pa gen yon kont?",
+    "signUpLink": "Enskri",
+    "hasAccount": "Ou deja gen yon kont?",
+    "changedMind": "Èske w chanje lide?",
+    "backToSignIn": "Retounen pou w konekte",
+    "resetSent": "Lyen reset modpas voye! Tcheke imel ou a pou kreye yon nouvo modpas.",
+    "passwordUpdated": "Modpas ou mete ajou. Konekte ak nouvo modpas ou.",
+    "accountCreated": "Kont kreye! Tcheke imel ou a pou konfime enskripsyon ou, apresa konekte.",
+    "validation": {
+      "fullNameRequired": "Non konplè obligatwa.",
+      "emailRequired": "Imèl obligatwa.",
+      "emailInvalid": "Antre yon imèl ki valab.",
+      "passwordRequired": "Modpas obligatwa.",
+      "passwordMinLength": "Modpas dwe gen omwen 6 karaktè.",
+      "passwordsNoMatch": "Modpas yo pa koresponn.",
+      "acceptTerms": "Tanpri aksepte Règ sou Konfidansyalite Rezonants ak Règleman Sekirite pou kontinye."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chat ak Rezonants AI",
+    "openChatLabel": "Louvri chat Rezonants AI Asistan",
+    "chatTitle": "Rezonants AI Asistan",
+    "online": "Sou entènèt",
+    "expandLabel": "Agrandi chatbot la",
+    "minimizeLabel": "Minimize chatbot la",
+    "closeLabel": "Fèmen chatbot la",
+    "expand": "Agrandi",
+    "minimize": "Minimize",
+    "close": "Fèmen",
+    "popularTopics": "Sijè popilè",
+    "askPlaceholder": "Mande m 'sou Rezonants...",
+    "messageLabel": "Mesaje Rezonants AI Asistan an",
+    "sendLabel": "Voye mesaj",
+    "sendTitle": "Voye mesaj",
+    "enterToSend": "Antre pou voye · Shift+Enter pou yon nouvo liy",
+    "newChat": "Nouvo chat",
+    "typing": "Rezonants AI ap tape",
+    "menuOptions": "Opsyon meni yo",
+    "greetingMorning": "Bonjou",
+    "greetingAfternoon": "Bon apremidi",
+    "greetingEvening": "Bonswa",
+    "welcomeText": "! 👋 Byenvini nan Rezonants.\nMwen se Rezonants AI Asistan. Mwen ka ede w eksplore sèvis, teknoloji, ak enfòmasyon pou kontakte nou yo."
+  },
+  "cookieConsent": {
+    "title": "Nou apresye vi prive ou",
+    "description": "Nou itilize cookies pou amelyore eksperyans navigasyon ou. Ou ka aksepte tout bonbon, rejte bonbon ki pa esansyèl, oswa pèsonalize preferans ou yo. Bonbon esansyèl yo toujou aktive pou asire sit entènèt la fonksyone kòrèkteman.",
+    "acceptAll": "Aksepte tout",
+    "rejectNonEssential": "Rejte ki pa esansyèl",
+    "managePreferences": "Jere Preferans",
+    "privacyPolicy": "Règleman sou enfòmasyon prive"
+  },
+  "cookiePreferences": {
+    "title": "Jere preferans bonbon",
+    "description": "Chwazi ki kategori bonbon ou pèmèt. Bonbon esansyèl yo rete aktive pou kenbe sit entènèt la fonksyone.",
+    "essential": "Esansyèl",
+    "essentialDesc": "Obligatwa pou sit entènèt la fonksyone (otantifikasyon, sekirite, balans chaj). Sa yo pa ka enfim.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Ede nou konprann kijan vizitè yo itilize sit la pou nou ka amelyore li. Enfim pa default.",
+    "marketing": "Maketing",
+    "marketingDesc": "Yo itilize pou montre w òf ak kanpay ki enpòtan yo. Enfim pa default.",
+    "cancel": "Anile",
+    "savePreferences": "Sove preferans"
+  },
+  "privacy": {
+    "badge": "Legal",
+    "title": "Règleman sou enfòmasyon prive",
+    "description": "Kijan Rezonants kolekte, itilize, ak pwoteje enfòmasyon pèsonèl ou ak bonbon.",
+    "lastUpdated": "Dènye mizajou: Out 2026",
+    "managingPreferences": "Jere preferans ou yo",
+    "managingPreferencesDesc": "Ou ka revize oswa chanje ki bonbon ou pèmèt nenpòt ki lè nan panèl preferans bonbon yo.",
+    "manageCookiePreferences": "Jere preferans bonbon",
+    "section1": {
+      "title": "1. Enfòmasyon nou kolekte",
+      "body": [
+        "Nou kolekte enfòmasyon ou bay dirèkteman (tankou non ou ak adrès imel ou lè ou soumèt fòm kontak la oswa kreye yon kont) ak enfòmasyon kolekte otomatikman atravè bonbon ak teknoloji menm jan an, tankou paj vizite, kalite aparèy ak kote apwoksimatif."
+      ]
+    },
+    "section2": {
+      "title": "2. Kijan nou itilize bonbon",
+      "body": [
+        "Bonbon esansyèl yo toujou aktive paske sit entènèt la pa ka fonksyone kòrèkteman san yo pa yo. Yo estoke sesyon ak eta otantifikasyon epi sonje preferans bonbon ou yo.",
+        "Cookie Analytics ede nou konprann kijan vizitè yo itilize sit la pou nou ka amelyore li. Yo itilize bonbon maketing pou montre w òf ak kanpay ki enpòtan. Kategori sa yo aktive sèlman avèk konsantman ou epi yo ka chanje nenpòt ki lè nan panèl preferans bonbon yo."
+      ]
+    },
+    "section3": {
+      "title": "3. Baz Legal (GDPR)",
+      "body": [
+        "Nou trete done pèsonèl sou baz legal sa yo: konsantman ou (pou bonbon ki pa esansyèl ak maketing), pèfòmans nan yon kontra (pou sèvis ou mande), obligasyon legal, ak enterè lejitim kote dwa ou pa pase sou yo. Ou ka retire konsantman nenpòt ki lè san yo pa afekte legalite nan pwosesis ki fèt anvan retrè."
+      ]
+    },
+    "section4": {
+      "title": "4. Dwa w yo",
+      "body": [
+        "Tou depan de kote ou ye a, ou ka gen dwa pou jwenn aksè, rektifye, efase, oswa mete restriksyon sou tretman done pèsonèl ou yo, pou fè objeksyon kont tretman, ak transparans done yo. Ou ka pote plent tou ak otorite sipèvizyon lokal ou a."
+      ]
+    },
+    "section5": {
+      "title": "5. Retansyon Done & Sekirite",
+      "body": [
+        "Nou konsève done pèsonèl sèlman toutotan sa nesesè pou rezon ki dekri nan règleman sa a. Nou aplike mezi teknik ak òganizasyonèl apwopriye pou pwoteje enfòmasyon ou kont aksè san otorizasyon, chanjman, divilgasyon oswa destriksyon."
+      ]
+    },
+    "section6": {
+      "title": "6. Sèvis Twazyèm Pati",
+      "body": [
+        "Kèk bonki ka mete pa founisè twazyèm pati (tankou analiz oswa platfòm piblisite) ki ede nou opere sit entènèt la. Founisè sa yo trete done dapre pwòp règleman sou vi prive yo epi sèlman lè ou te dakò ak kategori ki enpòtan an."
+      ]
+    },
+    "contactUs": "7. Kontakte nou",
+    "contactUsText": "Pou kesyon sou règleman sa a oswa sou done pèsonèl ou, kontakte nou nan <1>info@rezonants.com</1> oswa rele <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Sèvis",
+    "title": "Sèvis nou yo",
+    "sub": "Solisyon teknoloji end-to-end ki fèt pou ede biznis yo inove, echèl, ak reyisi.",
+    "learnMore": "Aprann Plis",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Kreyasyon Pou Deplwaman",
+        "text": "Soti nan konsèp inisyal rive nan deplwaman pwodiksyon, nou bay solisyon évolutive ki bati pou bezwen biznis nan mond reyèl la."
+      },
+      "businessProcessAutomation": {
+        "title": "Otomatik Pwosesis Biznis",
+        "text": "Rasyonalize pwosesis repetitif ak amelyore efikasite operasyonèl atravè automatisation biznis entelijan."
+      },
+      "centerOfExcellence": {
+        "title": "Sant Ekselans",
+        "text": "Bati kapasite teknoloji espesyalize ak ekspètiz pou kondwi inovasyon, bon jan kalite, ak amelyorasyon kontinyèl."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Custom Devlopman & Personnalisation",
+        "text": "Solisyon lojisyèl Adapte ki fèt sou kondisyon inik biznis ou ak workflows."
+      },
+      "digitalTransformation": {
+        "title": "Transfòmasyon dijital",
+        "text": "Modènize biznis ou ak estrateji dijital, teknoloji, ak solisyon ki kreye enpak mezirab."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Kad solisyon fen-a-fen",
+        "text": "Solisyon teknoloji entegre ki konekte estrateji, devlopman, aplikasyon, ak operasyon kontinyèl yo."
+      },
+      "migrationModernization": {
+        "title": "Migrasyon ak modènizasyon",
+        "text": "Modènize aplikasyon eritaj yo ak imigre sistèm nan platfòm teknoloji ki kapab évolutive, an sekirite ak efikas."
+      },
+      "pocPilotImplementation": {
+        "title": "Prèv Konsèp (PoC) & Aplikasyon Pilòt",
+        "text": "Valide lide byen vit atravè pwototip konsantre ak aplikasyon pilòt anvan deplwaman konplè."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Sèvis Pataje ak Operasyon Jere",
+        "text": "Operasyon teknoloji jere serye ki amelyore pèfòmans, évolutivité, ak kontinwite biznis."
+      }
+    }
+  },
+  "footer": {
+    "company": "Konpayi",
+    "about": "Konsènan",
+    "perspectives": "Pèspektiv",
+    "technologies": "Teknoloji",
+    "contact": "Kontakte",
+    "services": "Sèvis",
+    "getInTouch": "Pran kontak",
+    "bookConsultation": "Liv yon konsiltasyon",
+    "copyright": "© {{year}} Rezonants. Tout dwa rezève.",
+    "cookiePreferences": "Preferans bonbon",
+    "privacyPolicy": "Règleman sou enfòmasyon prive",
+    "description": "Rezonants se yon konpayi sèvis IT ak pwodwi dijital nan Hyderabad, peyi Zend. Nou konsepsyon, bati ak echèl lojisyèl pou konpayi ki fè konpetisyon sou ekzekisyon.",
+    "locations": "Kote nou yo",
+    "indiaHq": "Hyderabad, peyi Zend — Katye jeneral peyi Zend",
+    "southAfrica": "Lafrik di sid — REZONANTS PVT LTD",
+    "products": "Pwodwi yo",
+    "followUs": "Swiv nou",
+    "aboutUs": "Sou nou",
+    "contactUs": "Kontakte nou",
+    "headline": "Ann bati",
+    "headlineAccent": "sa kap vini an.",
+    "subheadline": "Patenarya ak Rezonants pou fè lide tounen yon enpak reyèl sou biznis.",
+    "credoIdeas": "IDE",
+    "credoSolutions": "SOLISYON",
+    "credoPeople": "MOUN",
+    "credoBrighterTomorrow": "YON DEMEN PI BLIYE",
+    "hyderabadLocation": "Hyderabad, peyi Zend",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Lafrik di sid – REZONANTS PVT LTD",
+    "termsOfUse": "Kondisyon Itilizasyon",
+    "accessibility": "Aksè",
+    "quickLinks": "Lyen rapid",
+    "explore": "Eksplore",
+    "vijayawadaOffice": "Biwo Vijayawada",
+    "allRightsReserved": "Tout dwa rezève.",
+    "hyderabadPin": "Hyderabad, peyi Zend",
+    "southAfricaPin": "Lafrik di sid"
+  },
+  "common": {
+    "loading": "Chaje...",
+    "error": "Erè",
+    "retry": "Eseye ankò",
+    "close": "Fèmen",
+    "backToTop": "Retounen nan tèt",
+    "skipToContent": "Ale nan kontni",
+    "scroll": "Scroll",
+    "whatWeOffer": "Ki sa nou ofri",
+    "howItWorks": "Ki jan li fonksyone"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Chèche peyi oswa kòd...",
+    "noResults": "Pa gen peyi yo jwenn.",
+    "countryCodeLabel": "Kòd apèl peyi a",
+    "required": "Nimewo telefòn obligatwa.",
+    "incomplete": "Nimewo telefòn dwe genyen egzakteman {{count}} chif.",
+    "tooLong": "Nimewo telefòn pa ka genyen plis pase {{count}} chif.",
+    "invalid": "Antre yon nimewo telefòn valab pou {{country}}."
+  },
+  "perspectives": {
+    "topic": "Sijè:",
+    "published": "Pibliye:",
+    "readingTime": "Tan lekti:",
+    "author": "Otè:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Zòn Teknoloji",
+    "purpose": "Objektif",
+    "talkToExperts": "Pale ak ekspè nou yo",
+    "viewAll": "Gade tout pèspektiv",
+    "exploreMore": "EKSPLORE PLIS PERSPEKTIV",
+    "continueExploring": "Kontinye eksplore Enterprise Technology Insights",
+    "readPerspective": "Li pèspektiv"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotics Solutions",
+      "tagline": "Entelijan teknoloji. Operasyon Otomatik. Pi entelijan biznis.",
+      "heroBadge": "Entelijan sistèm otonòm",
+      "overview": [
+        "Entèlijans atifisyèl ak Robotics ap transfòme fason òganizasyon yo opere, pran desizyon, epi bay valè. Solisyon AI & Robotics nou yo ede biznis yo avanse pi lwen automatisation tradisyonèl yo lè yo konbine entèlijans atifisyèl, aprantisaj machin, vizyon òdinatè, automatisation pwosesis entèlijan, ak robotik pou rezoud defi biznis pratik.",
+        "Nou desine solisyon entèlijan alantou rezilta biznis mezirab. Kit egzijans la se otomatize travay repetitif, analize gwo volim enfòmasyon, detekte modèl, sipòte desizyon, oswa entwodwi robotik nan anviwònman operasyonèl, apwòch nou an konsantre sou fyab, évolutivité, sekirite, ak valè biznis alontèm."
+      ],
+      "transformation": [
+        "Òganizasyon modèn yo jenere yon gwo kantite done epi fè plizyè milye aktivite repete chak jou. AI ak robotik ka transfòme aktivite sa yo nan workflows entèlijan, otomatik ki amelyore pwodiktivite pandan y ap pèmèt anplwaye yo konsantre sou responsablite ki gen plis valè.",
+        "Solisyon nou yo ka ede òganizasyon yo otomatize operasyon repetitif yo, redwi entèvansyon manyèl, amelyore presizyon, analize enfòmasyon konplèks, sipòte desizyon pi rapid yo, optimize itilizasyon resous yo, amelyore eksperyans kliyan yo, epi konstwi sistèm entèlijan évolutive."
+      ],
+      "capabilities": [
+        {
+          "title": "Atifisyèl entèlijans",
+          "desc": "Nou devlope solisyon ki baze sou AI ki pèmèt sistèm yo konprann enfòmasyon, idantifye modèl, jenere konesans, epi sipòte desizyon biznis yo."
+        },
+        {
+          "title": "Aprantisaj machin",
+          "desc": "Nou devlope modèl aprantisaj machin pou previzyon, klasifikasyon, sistèm rekòmandasyon, deteksyon anomali, analiz prediksyon, ak sipò desizyon entelijan."
+        },
+        {
+          "title": "Pwosesis Lang Natirèl",
+          "desc": "NLP ka itilize pou trete dokiman, konprann tèks, klasifye enfòmasyon, ekstrè kontni ki enpòtan, epi sipòte aplikasyon pou konvèsasyon."
+        },
+        {
+          "title": "Vizyon òdinatè",
+          "desc": "Solisyon vizyon òdinatè yo ka sipòte klasifikasyon imaj, deteksyon objè, enspeksyon kalite, pwosesis dokiman, siveyans vizyèl, ak analiz videyo."
+        },
+        {
+          "title": "Robotik",
+          "desc": "Robotics konbine entèlijans lojisyèl ak sistèm fizik pou otomatize aktivite ki tradisyonèlman mande efò manyèl. Aplikasyon yo ka gen ladan fabrikasyon, lojistik, depo, enspeksyon, manyen materyèl, ak sipò operasyonèl."
+        },
+        {
+          "title": "Entelijan Otomatik Pwosesis",
+          "desc": "AI ka konbine avèk automatisation workflow pou kreye sistèm ki entèprete enfòmasyon, aplike règ biznis oswa modèl, epi kòmanse pwosesis apwopriye a otomatikman."
+        }
+      ],
+      "lifecycleSteps": [
+        "Evalyasyon biznis",
+        "Analiz done",
+        "AI estrateji",
+        "Achitekti solisyon",
+        "Devlopman",
+        "Entegrasyon",
+        "Tès",
+        "Deplwaman",
+        "Siveyans",
+        "Optimizasyon"
+      ],
+      "benefits": [
+        "Pi wo pwodiktivite operasyon antrepriz",
+        "Gwo rediksyon nan depans operasyon yo",
+        "Pwosesis pi rapid ak vire desizyon milisgond",
+        "Amelyore done ak presizyon workflow",
+        "Optimize itilizasyon resous fizik ak enfòmatik",
+        "Redwi risk operasyonèl ak erè imen",
+        "Évolutivité milti-platfòm san pwoblèm",
+        "Eksperyans kliyan ak anplwaye amelyore"
+      ],
+      "security": "Solisyon Enterprise AI dwe fèt ak sekirite apwopriye, kontwòl aksè, pwoteksyon done, siveyans, gouvènans modèl, ak pwoteksyon operasyonèl. Nou konsidere egzijans sa yo soti nan etap achitekti jiska deplwaman ak antretyen kontinyèl pou asire entèlijans serye ak pwodiksyon-klas.",
+      "ctaHeadline": "Bati yon avni entèlijan",
+      "ctaSub": "Fè operasyon ou pi entelijan. Otomatik sa ki enpòtan. Bati pou tan kap vini an."
+    },
+    "business-automation-solutions": {
+      "title": "Solisyon Otomatik Biznis",
+      "tagline": "Senplifye Pwosesis yo. Elimine repetisyon. Akselere Kwasans.",
+      "heroBadge": "Optimizasyon Workflow fen-a-fen",
+      "overview": [
+        "Otomatik biznis pèmèt òganizasyon yo ranplase aktivite manyèl repetitif ak workflows dijital rasyonalize. Solisyon automatisation biznis nou yo ede konpayi yo amelyore pwodiktivite, diminye konpleksite operasyonèl, minimize erè, epi kreye pwosesis ki konsistan atravè depatman yo.",
+        "Nou analize workflows ki egziste deja yo, idantifye bouche, ak konsepsyon solisyon automatisation ki konekte moun, aplikasyon, done, ak pwosesis biznis."
+      ],
+      "transformation": [
+        "Anpil òganizasyon toujou depann sou fèy kalkil, imèl, apwobasyon manyèl, done repetitif, manyen dokiman, ak aplikasyon ki dekonekte. Pwosesis sa yo konsome tan anplwaye ki gen anpil valè epi yo ka prezante reta, enkonsistans, ak erè.",
+        "Apwòch automatisation nou an konsantre sou konpreyansyon konplè pwosesis la, retire etap ki pa nesesè yo, entegre sistèm, ak otomatize aktivite ki bay pi gwo valè operasyonèl la."
+      ],
+      "capabilities": [
+        {
+          "title": "Workflow Automatisation",
+          "desc": "Nou otomatize pwosesis milti-etap ki enplike anplwaye yo, aplikasyon, apwobasyon, notifikasyon, ak done atravè depatman diferan."
+        },
+        {
+          "title": "Otomatik Pwosesis Robotics",
+          "desc": "Lojisyèl bots yo ka fè aktivite repetitif, ki baze sou règ tankou antre done, mizajou sistèm, rekonsilyasyon, ak transfè enfòmasyon."
+        },
+        {
+          "title": "Dokiman Automatisation",
+          "desc": "Workflow dokiman otomatik yo ka ekstrè enfòmasyon, valide done, klasifye dokiman yo, wout demann, epi kòmanse pwosesis en."
+        },
+        {
+          "title": "Otomatik Apwobasyon",
+          "desc": "Workflows apwobasyon dijital otomatikman voye demann yo bay moun k ap pran desizyon yo kòrèk epi yo bay vizibilite an tan reyèl nan aksyon annatant yo."
+        },
+        {
+          "title": "Entegrasyon Automatisation",
+          "desc": "Nou konekte aplikasyon biznis pou enfòmasyon ka deplase otomatikman ant platfòm san entèvansyon manyèl pa nesesè."
+        },
+        {
+          "title": "Otomatik Notifikasyon",
+          "desc": "Alèt ak notifikasyon otomatik ede anplwaye yo reponn imedyatman a evènman enpòtan, dat limit, eksepsyon, ak chanjman operasyonèl yo."
+        }
+      ],
+      "lifecycleSteps": [
+        "Dekouvri",
+        "Analize",
+        "Design",
+        "Otomatik",
+        "Entegre",
+        "Tès",
+        "Deplwaye",
+        "Siveye",
+        "Optimize"
+      ],
+      "benefits": [
+        "Ogmante debi ekip ak vitès operasyonèl",
+        "Dramatik rediksyon nan erè manyèl antre done",
+        "Kout fen-a-fen pwosesis delè tan",
+        "Vizibilite inifye atravè operasyon biznis yo",
+        "Konfòmite kwa-depatman estanda",
+        "Siyifikativman redwi depans fonksyònman yo",
+        "Kapasite elastik pou echèl chaj travay san efò",
+        "Ekip otorize yo konsantre sou angajman kliyan ak travay estratejik yo"
+      ],
+      "security": "Nou konbine tribin workflow ak RPA ak modèl entèlijan kontèks pou asire kontwòl aksè ki baze sou wòl, santye odit konplè, ak konfòmite strik nan chak tranzaksyon otomatik.",
+      "ctaHeadline": "Bati operasyon ki pi efikas",
+      "ctaSub": "Otomatize travay repetitif. Otorize pèp ou a. Akselere biznis ou."
+    },
+    "cloud-migration-solutions": {
+      "title": "Cloud Migrasyon Solisyon",
+      "tagline": "Deplase nan nwaj la ak konfyans.",
+      "heroBadge": "Transfòmasyon milti-nwaj",
+      "overview": [
+        "Cloud computing vin tounen yon eleman enpòtan nan enfrastrikti IT modèn. Òganizasyon yo ap deplase aplikasyon, baz done, chaj travay, ak enfrastrikti nan anviwònman nwaj yo pou amelyore évolutivité, disponiblite, fleksibilite, ak efikasite operasyonèl.",
+        "Sèvis migrasyon nwaj nou yo ede òganizasyon yo evalye anviwònman aktyèl yo, defini estrateji migrasyon yo, egzekite migrasyon yo, epi optimize kantite travay apre yo fin ale nan nwaj la."
+      ],
+      "transformation": [
+        "Migrasyon nwaj yo pi plis pase deplase sèvè soti nan yon anviwònman nan yon lòt. Yon migrasyon siksè mande pou yon evalyasyon atansyon sou aplikasyon yo, enfrastrikti, depandans, kondisyon sekirite, done, pèfòmans, disponiblite, ak kontinwite biznis.",
+        "Nou kreye estrateji migrasyon ki baze sou anviwònman aktyèl òganizasyon an ak objektif nan lavni, nou chwazi modèl migrasyon apwopriye pou chak kantite travay."
+      ],
+      "capabilities": [
+        {
+          "title": "Migrasyon enfrastrikti",
+          "desc": "Nou migre sèvè tradisyonèl yo, depo, machin vityèl, ak chaj travay nan anviwònman nwaj modèn sou AWS, Azure, ak GCP."
+        },
+        {
+          "title": "Aplikasyon Migrasyon",
+          "desc": "Aplikasyon yo ka rehosted, replatforme, refactorize, oswa reamenaje depann sou biznis ak kondisyon teknik."
+        },
+        {
+          "title": "Migrasyon baz done",
+          "desc": "Nou migre baz done pandan n ap konsidere entegrite done, pèfòmans, konpatibilite, disponiblite, sekirite, ak kondisyon rekiperasyon."
+        },
+        {
+          "title": "Modènizasyon nwaj",
+          "desc": "Migrasyon vin yon opòtinite pou modènize aplikasyon yo lè l sèvi avèk kontenè, mikwosèvis, baz done jere, sèvis san sèvè, ak achitekti nwaj natif natal."
+        },
+        {
+          "title": "Cloud Hybrid",
+          "desc": "Òganizasyon ki bezwen tou de enfrastrikti nan lokal ak nwaj yo ka adopte achitekti ibrid ki konekte sistèm ki egziste deja yo ak sèvis nwaj yo san pwoblèm."
+        },
+        {
+          "title": "Milti-Nwaj",
+          "desc": "Pou òganizasyon k ap travay sou plizyè platfòm nwaj, nou ede konsevwa estrateji chaj travay ki amelyore fleksibilite, rezistans, ak gouvènans."
+        }
+      ],
+      "lifecycleSteps": [
+        "Evalyasyon",
+        "Dekouvèt",
+        "Kat depandans",
+        "Estrateji Migrasyon",
+        "Achitekti Design",
+        "Pilòt Migrasyon",
+        "Done Migrasyon",
+        "Aplikasyon Migrasyon",
+        "Tès",
+        "Pwodiksyon Migrasyon",
+        "Optimizasyon"
+      ],
+      "benefits": [
+        "Évolutivité elastik ak disponiblite resous segondè",
+        "Pi gwo fleksibilite enfrastrikti ak ladrès biznis",
+        "Elimine fado antretyen nan sant done fizik yo",
+        "Akselere deplwaman karakteristik aplikasyon an",
+        "Bonjan rekiperasyon pou katastwòf ak rezistans sovgad",
+        "Aksè imedyat nan nwaj AI modèn ak sèvis jere",
+        "Gouvènans FinOps optimize ak rediksyon TCO",
+        "Konfòmite kontinyèl ak pwoteksyon sekirite otomatik yo"
+      ],
+      "security": "Sekirite se yon pati entegral nan planifikasyon migrasyon an. Nou konsidere idantite ak jesyon aksè, sekirite rezo, cryptage an transpò ak an rès, pwoteksyon done, odit vilnerabilite aplikasyon, siveyans, backup, ak rekiperasyon dezas.",
+      "ctaHeadline": "Vwayaj Cloud ou a, byen planifye",
+      "ctaSub": "Modènize enfrastrikti ou. Akselere inovasyon. Bati yon fondasyon nwaj évolutive."
+    },
+    "data-center-solutions": {
+      "title": "Done Sant solisyon",
+      "tagline": "Enfrastrikti serye pou operasyon misyon enpòtan yo.",
+      "heroBadge": "Enfrastrikti Misyon-Kritik",
+      "overview": [
+        "Sant done yo fòme fondasyon biznis dijital modèn yo. Aplikasyon, baz done, sistèm antrepriz, platfòm kominikasyon, ak sèvis biznis enpòtan depann sou enfrastrikti serye.",
+        "Solisyon sant done nou yo konsantre sou konsepsyon, modènize, jere, ak optimize anviwònman enfrastrikti ki bati pou disponiblite, sekirite, évolutivité, pèfòmans ak efikasite operasyonèl."
+      ],
+      "transformation": [
+        "Yon sant done modèn mande plis pase serveurs ak depo. Li mande pou enfrastrikti ak anpil atansyon enjenyè atravè enfòmatik, rezo, sekirite, kouran elektrik, refwadisman, siveyans, backup, ak rekiperasyon dezas.",
+        "Nou ede òganizasyon yo kreye anviwònman enfrastrikti fleksib ki sipòte chaj travay enpòtan yo epi ki bay yon fondasyon pou kwasans teknoloji nan lavni."
+      ],
+      "capabilities": [
+        {
+          "title": "Konsepsyon enfrastrikti",
+          "desc": "Nou desine anviwònman ki baze sou kondisyon chaj travay, kapasite, pèfòmans, disponiblite, sekirite, ak kwasans nan lavni."
+        },
+        {
+          "title": "Enfrastrikti sèvè",
+          "desc": "Nou sipòte anviwònman sèvè fizik ak vityèl pou aplikasyon pou antrepriz ak chaj travay ki enpòtan pou misyon yo."
+        },
+        {
+          "title": "Depo Solisyon",
+          "desc": "Nou konsidere pèfòmans, kapasite, redondance, gwo vitès SAN/NAS, backup, ak kondisyon pwoteksyon done lè nou desine anviwònman depo."
+        },
+        {
+          "title": "Enfrastrikti rezo",
+          "desc": "Nou desine anviwònman rezo ak segmantasyon apwopriye, redondance, pèfòmans ba-latansi, koneksyon, ak kontwòl sekirite."
+        },
+        {
+          "title": "Virtualization",
+          "desc": "Virtualizasyon amelyore itilizasyon resous, fleksibilite kantite travay, ak jesyon enfrastrikti santralize."
+        },
+        {
+          "title": "Sovgad ak Rekiperasyon Dezas",
+          "desc": "Nou ede òganizasyon yo etabli estrateji backup ak achitekti rekiperasyon ki fèt pou minimize tan yo ak elimine pèt done yo."
+        }
+      ],
+      "lifecycleSteps": [
+        "Evalyasyon Kapasite",
+        "Profilage Charge travay",
+        "Plan Achitekti",
+        "Materyèl & Virtuel Dimensionnement",
+        "Segmantasyon rezo",
+        "Pwovizyon pou Depo",
+        "Tès Redondans ak DR",
+        "Koupe pwodiksyon",
+        "Siveyans Sante 24/7",
+        "Optimizasyon kontinyèl"
+      ],
+      "benefits": [
+        "Garanti 99.999% enfrastrikti disponibilité",
+        "Zewo pwen sèl nan echèk ak redondance milti-kouch",
+        "Optimize kalkile sèvè ak gwo dansite Virtualization",
+        "Achitekti rezo ki ba-latansi anba milisgond",
+        "Sekirite perimèt fizik ak dijital solid",
+        "Siveyans pwoaktif ak echèk otomatik yo",
+        "Depo modilè évolutive pou done petabyte-echèl",
+        "Previzib pri total de de an komen ak efikasite pouvwa"
+      ],
+      "security": "Sekirite a entegre atravè kouch enfrastrikti a, ki kouvri rezo mikwo-segmentasyon, kenkayri rasin konfyans, kontwòl aksè zewo-konfyans, odit vilnerabilite kontinyèl, defans pwen final, ak règleman operasyon strik.",
+      "ctaHeadline": "Enfrastrikti ki pare pou lavni",
+      "ctaSub": "Bati enfrastrikti serye jodi a. Kreye fondasyon pou teknoloji demen an."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Analiz kognitif ak AI",
+      "tagline": "Vire Done an Entèlijans.",
+      "heroBadge": "Entèlijans done pou pran desizyon",
+      "overview": [
+        "Òganizasyon yo jenere yon gwo kantite enfòmasyon atravè aplikasyon, tranzaksyon, kliyan, operasyon, aparèy, ak platfòm dijital. Defi a pa senpleman kolekte done ankò; li se konprann done sa yo ak vire l 'nan entèlijans aksyonab.",
+        "Solisyon analiz kognitif ak AI nou yo konbine analiz avanse, aprantisaj machin, entèlijans atifisyèl, pwosesis done, ak entèlijans biznis pou ede òganizasyon yo pran pi bon desizyon."
+      ],
+      "transformation": [
+        "Rapò tradisyonèl yo di òganizasyon yo sa ki te pase. Analiz avanse ka ede eksplike poukisa sa te rive, idantifye sa ki ka rive apre, epi sipòte desizyon sou sa ki ta dwe rive.",
+        "Nou ede òganizasyon yo etabli anviwònman done ki avanse pi lwen pase rapò estatik nan analiz entèlijan ak sipò desizyon."
+      ],
+      "capabilities": [
+        {
+          "title": "Analiz deskriptif",
+          "desc": "Konprann pèfòmans istorik atravè rapò entèaktif, tablodbò miltidimansyon, KPI, ak mezi biznis."
+        },
+        {
+          "title": "Analiz dyagnostik",
+          "desc": "Idantifye relasyon ki kache, tandans, anomali estatistik, ak kòz rasin dèyè rezilta biznis yo."
+        },
+        {
+          "title": "Prediktif Analytics",
+          "desc": "Sèvi ak done difizyon istorik ak an tan reyèl ak modèl estatistik pou idantifye rezilta potansyèl ak demann nan lavni."
+        },
+        {
+          "title": "Analiz Preskriptif",
+          "desc": "Evalye aksyon posib epi sipòte pi bon chemen desizyon ki baze sou rezilta prevwa ak objektif biznis estratejik yo."
+        },
+        {
+          "title": "Modèl aprantisaj machin",
+          "desc": "Devlope modèl koutim pou previzyon, klasifikasyon kliyan, rekòmandasyon, deteksyon anomali fwod, ak antretyen prediksyon."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Aplike AI kognitif nan volim masiv enfòmasyon ki pa estriktire nan sifas modèl kache, rezime egzekitif, ak rekòmandasyon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Done Sous",
+        "Done Entegrasyon",
+        "Pwosesis done",
+        "Depo done",
+        "Analytics",
+        "AI/ML Modèl",
+        "Visualisation",
+        "Desizyon biznis"
+      ],
+      "benefits": [
+        "Ki baze sou reyalite, ki baze sou done pou pran desizyon egzekitif",
+        "Previzyon egzat demann, revni, ak désabonnement",
+        "Deteksyon anomali ak fwod an tan reyèl",
+        "Pwofondè 360° konpòtman kliyan Sur Et personnalisation",
+        "Optimize chèn ekipman ak efikasite operasyonèl",
+        "Diminisyon risk operasyonèl ak finansye",
+        "Dekouvèt opòtinite hidden revni",
+        "Akselere tan-a-insight atravè inite biznis yo"
+      ],
+      "security": "Ekosistèm analytics nou yo aplike kodejman bout-a-fen, maske done otomatik, otorizasyon RBAC strik, ak gouvènans modèl pou pwoteje done propriétaires epi kenbe konfòmite regilasyon (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Bati yon estrateji done entèlijan",
+      "ctaSub": "Transforme enfòmasyon an nan insight. Vire insight nan aksyon."
+    },
+    "information-reporting-systems": {
+      "title": "Enfòmasyon ak Sistèm Rapò",
+      "tagline": "Bon enfòmasyon. Nan bon moman. Pou pi bon desizyon.",
+      "heroBadge": "Entèlijans antrepwiz inifye",
+      "overview": [
+        "Lidè biznis yo ak ekip operasyon yo depann sou enfòmasyon egzat pou pran desizyon efikas. Sistèm Enfòmasyon ak Rapò nou yo ede òganizasyon yo kolekte, òganize, analize ak prezante enfòmasyon biznis atravè sistèm enfòmasyon estriktire, platfòm rapò, tablodbò, ak workflows rapò otomatik.",
+        "Òganizasyon yo souvan distribye enfòmasyon atravè aplikasyon, fichye, baz done, ak sistèm operasyon yo. Sa fè li difisil pou etabli yon pwen de vi cohérente de pèfòmans biznis. Nou ede entegre sous enfòmasyon yo nan anviwònman rapò estriktire ki bay enfòmasyon biznis serye, aksesib ak konsistan."
+      ],
+      "transformation": [
+        "Yon sistèm rapò pa ta dwe tou senpleman montre nimewo. Li ta dwe ede itilizatè yo konprann pèfòmans, idantifye pwoblèm, dekouvri opòtinite, epi pran desizyon enfòme.",
+        "Nou desine anviwònman rapò sou fason òganizasyon w opere, bay ekosistèm estriktire done-a-desizyon ki adapte pou tout nivo jesyon."
+      ],
+      "capabilities": [
+        {
+          "title": "Sistèm Enfòmasyon Jesyon (MIS)",
+          "desc": "Devlope sistèm enfòmasyon inifye ki bay jesyon egzekitif ak vizibilite operasyonèl ak estratejik enpòtan."
+        },
+        {
+          "title": "Rapò biznis",
+          "desc": "Transfòme done biznis anvan tout koreksyon ki soti nan plizyè chanèl nan rapò estriktire, estanda ki kontwole pèfòmans kontinyèlman."
+        },
+        {
+          "title": "Dashboards entèaktif",
+          "desc": "Bay vizibilite entèaktif an tan reyèl oswa pwograme nan mezi biznis enpòtan, KPI, tandans, ak aktivite depatmantal yo."
+        },
+        {
+          "title": "Jesyon KPI",
+          "desc": "Defini, swiv, ak referans KPIs operasyonèl siyifikatif ki aliyen dirèkteman ak objektif kwasans jeneral antrepriz yo."
+        },
+        {
+          "title": "Done Entegrasyon",
+          "desc": "Entegre sous done distribiye yo nan depo done inifye ak kouch semantik pou rapò ki konsistan nan yon sèl vit."
+        },
+        {
+          "title": "Otomatik Rapò",
+          "desc": "Otomatikman jenere ak distribye rapò pèsonalize selon orè predefini, règ biznis, ak yerachi moun k ap resevwa yo."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sistèm biznis",
+        "Koleksyon Done",
+        "Done Entegrasyon",
+        "Pwosesis done",
+        "Depo Done",
+        "Analytics",
+        "Rapò ak Dach"
+      ],
+      "benefits": [
+        "Yon sèl sous verite atravè tout antrepriz la",
+        "Aksè pi rapid nan mezi operasyon an tan reyèl",
+        "Eliminasyon konplè asanble fèy calcul manyèl",
+        "KPI ki konsistan, rekonsilye ant depatman yo",
+        "Sipèvizyon egzekitif siperyè ak auditability",
+        "Distribisyon otomatik dirèkteman bay moun ki gen enterè yo",
+        "Sekirite done granulaire nan nivo ranje ak otorizasyon",
+        "Amelyore ladrès pou reponn a anomali operasyonèl yo"
+      ],
+      "security": "Enfòmasyon biznis yo kapab genyen done sansib sou operasyon, finansye ak kliyan. Solisyon rapò nou yo entegre otantifikasyon milti-faktè, otorizasyon granulaire ki baze sou wòl, chifreman, ak mòso odit nan achitekti rapò a.",
+      "ctaHeadline": "Rapò ki sipòte kwasans",
+      "ctaSub": "Fè enfòmasyon aksesib. Fè pèfòmans vizib. Pran pi bon desizyon."
+    },
+    "managed-services": {
+      "title": "Sèvis Jere",
+      "tagline": "Operasyon Teknoloji serye. Sipò ekspè. Amelyorasyon kontinyèl.",
+      "heroBadge": "24/7 IT Operasyon & Sipò",
+      "overview": [
+        "Anviwònman IT modèn yo konplèks epi yo toujou ap chanje. Òganizasyon yo bezwen enfrastrikti serye, aplikasyon, rezo, sekirite, siveyans, ak sipò teknik pou kenbe operasyon biznis yo.",
+        "Sèvis Jere nou yo bay jesyon teknoloji kontinyèl ak sipò operasyonèl, sa ki pèmèt òganizasyon yo kenbe anviwònman IT serye pandan ekip entèn yo konsantre sou inisyativ estratejik yo."
+      ],
+      "transformation": [
+        "Sipò IT tradisyonèl yo souvan konsantre sou rezoud pwoblèm apre yo rive. Sèvis jere yo pran yon apwòch pwoaktif lè yo kontinyèlman kontwole enfrastrikti, aplikasyon, sistèm, ak anviwònman operasyonèl.",
+        "Apwòch sa a ede idantifye pwoblèm potansyèl byen bonè, kenbe pèfòmans, amelyore disponiblite, epi redwi dezòd operasyon yo evite."
+      ],
+      "capabilities": [
+        {
+          "title": "Jesyon enfrastrikti",
+          "desc": "Sipòte operasyon kontinyèl, patch, ak jesyon nan sèvè, depo, platfòm Virtualization, ak enfrastrikti."
+        },
+        {
+          "title": "Jesyon nwaj",
+          "desc": "Jere chaj travay nwaj yo, resous milti-nwaj, konfigirasyon, siveyans, pèfòmans, ak optimize FinOps."
+        },
+        {
+          "title": "Jesyon rezo",
+          "desc": "Bay siveyans 24/7, jesyon pèfòmans, sipò konfigirasyon, optimize SD-WAN, ak rezolisyon pwoblèm rezo."
+        },
+        {
+          "title": "Jesyon aplikasyon",
+          "desc": "Sipòte anviwònman aplikasyon kritik yo atravè siveyans pwoaktif, antretyen, rezolisyon ensèk, ak amelyorasyon operasyonèl."
+        },
+        {
+          "title": "Siveyans & Obsèvabilite",
+          "desc": "Bay yon vizibilite konplè an tan reyèl sou sante sistèm, latansi, disponiblite, depandans enfrastrikti, ak alèt."
+        },
+        {
+          "title": "Jesyon Sovgad ak Rekiperasyon",
+          "desc": "Kenbe orè backup otomatik yo, teste failovers regilyèman, epi asire kapasite rekiperasyon enstantane."
+        },
+        {
+          "title": "Operasyon sekirite (SecOps)",
+          "desc": "Bay siveyans sekirite kontinyèl, jesyon patch, ranfòsman kontwòl aksè, ak mitigasyon menas aktif."
+        }
+      ],
+      "lifecycleSteps": [
+        "Antre nan anviwònman an",
+        "Dekouvèt & Baseline",
+        "Entegrasyon telemetri",
+        "Definisyon SLA",
+        "24/7 Siveyans aktif",
+        "Klasifikasyon Ensidan",
+        "Rapid Rezolisyon",
+        "Analiz Koz Rasin",
+        "Jeni Prevantif",
+        "Optimizasyon kontinyèl"
+      ],
+      "benefits": [
+        "Siyifikativman redwi fado operasyon entèn yo",
+        "Deteksyon pwoaktif pwoblèm anvan itilizatè yo afekte yo",
+        "Garanti 99.99% disponiblite sistèm ak disponiblite",
+        "Previzib, transparan IT bidjè operasyonèl",
+        "Aksè imedyat a espesyalis jeni ansyen",
+        "Tan rapid repons ensidan SLA te sipòte",
+        "Otomatik rekiperasyon dezas ak kontinwite biznis",
+        "Kontinyèl teknoloji optimize ak modènizasyon"
+      ],
+      "security": "Operasyon jere nou yo konfòme yo ak kad ITIL ak ISO strik, asire aksè ankode, mòso odit izole, vout kalifikasyon pi piti privilèj, ak aliyman konfòmite atravè tout resous jere.",
+      "ctaHeadline": "Amelyorasyon kontinyèl",
+      "ctaSub": "Ou konsantre sou biznis ou. Nou ede kenbe teknoloji w ap mache."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Solisyon Teknoloji One-Stop",
+      "tagline": "Yon patnè teknoloji. Kapasite miltip. Ranpli solisyon biznis.",
+      "heroBadge": "Patnè antrepriz inifye",
+      "overview": [
+        "Òganizasyon yo souvan travay ak plizyè founisè teknoloji pou enfrastrikti, nwaj, aplikasyon, automatisation, analiz, sekirite, sipò, ak transfòmasyon dijital. Jere plizyè machann ka kreye konpleksite, twou vid ki genyen nan kominikasyon, efò kopi, ak anviwònman teknoloji fragman.",
+        "Apwòch solisyon Teknoloji One-Stop nou an pote plizyè kapasite ansanm anba yon modèl sèvis inifye, ede òganizasyon yo planifye, aplike, entegre, opere, ak kontinyèlman amelyore anviwònman teknoloji yo."
+      ],
+      "transformation": [
+        "Nou sipòte sik lavi teknoloji konplè a—soti nan konpreyansyon kondisyon biznis ak defini yon estrateji teknoloji nan konsepsyon solisyon, aplikasyon platfòm, entegre sistèm, deplwaye aplikasyon, anviwònman siveyans, ak bay sipò kontinyèl.",
+        "Objektif la se kreye yon ekosistèm teknoloji konekte olye ke solisyon izole."
+      ],
+      "capabilities": [
+        {
+          "title": "Estrateji & Achitekti",
+          "desc": "Konprann objektif biznis yo ak konsepsyon achitekti teknoloji évolutive, an sekirite ak antretyen."
+        },
+        {
+          "title": "Aplikasyon & Konstwi",
+          "desc": "Aplike aplikasyon, enfrastrikti, entegrasyon, automatisation, ak platfòm dijital ak rijite antrepriz."
+        },
+        {
+          "title": "Sistèm Entegrasyon",
+          "desc": "Konekte sistèm ak aplikasyon pou enfòmasyon deplase san pwoblèm atravè tout òganizasyon an."
+        },
+        {
+          "title": "Deplwaman estriktire",
+          "desc": "Etabli otomatik CI/CD ak pwosesis lage pou deplase solisyon yo nan pwodiksyon an fyab ak san danje."
+        },
+        {
+          "title": "Kontinyèl Siveyans",
+          "desc": "Bay vizibilite bout-a-fen nan enfrastrikti, aplikasyon, pèfòmans, disponiblite, ak sante operasyonèl."
+        },
+        {
+          "title": "Optimizasyon ak sipò",
+          "desc": "Kontinyèlman revize anviwònman yo pou amelyore pèfòmans, fyab, efikasite pri, ak évolutivité."
+        }
+      ],
+      "lifecycleSteps": [
+        "Estrateji",
+        "Achitekti",
+        "Aplikasyon",
+        "Entegrasyon",
+        "Deplwaman",
+        "Siveyans",
+        "Optimizasyon",
+        "Sipò"
+      ],
+      "benefits": [
+        "Redwi konpleksite jesyon machann ak anlè",
+        "Kowòdinasyon san pwoblèm atravè tout kouch achitekti",
+        "Pi vit ekzekisyon pwojè ak reta zewo handoff",
+        "Alokasyon bidjè previzib ak livrezon transparan",
+        "Responsablite antrepriz inifye soti nan zewo rive nan echèl",
+        "Solisyon évolutive ki fèt pou kwasans biznis nan lavni",
+        "Patenarya teknoloji fè konfyans alontèm",
+        "Transfòmasyon dijital konplè bout-a-fen"
+      ],
+      "security": "Avèk yon sèl patnè ou fè konfyans ki sipèvize achitekti, aplikasyon, ak operasyon yo, gouvènans sekirite rete san kraze nan tout nivo yo—elimine tach avèg entegrasyon epi asire konfòmite kontinyèl.",
+      "ctaHeadline": "Patnè Teknoloji konplè w la",
+      "ctaSub": "Yon patnè. Yon vizyon. Plizyè teknoloji. Solisyon konplè."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Apèsi sou antrepriz",
+    "overviewTitle": "Teknoloji Entelijan pou Rezilta Mezirab",
+    "transformationEyebrow": "Operasyonèl transfòmasyon",
+    "transformationTitle": "Transfòme biznis atravè workflows entèlijan",
+    "deliveryEyebrow": "Apwòch livrezon estriktire",
+    "deliveryTitle": "Egzekisyon fen-a-fen & Optimizasyon kontinyèl",
+    "deliveryIntro": "Apwòch aplikasyon pwouve nou an swiv yon sik lavi livrezon solid:",
+    "deliveryOutro": "Sekans estriktire sa a asire aliyman sere ak objektif biznis yo, pozisyon sekirite solid, ak referans ROI mezirab nan chak faz.",
+    "securityEyebrow": "Sekirite ak Gouvènans",
+    "securityTitle": "Fyab nan klas antrepriz ak pwoteksyon konfòmite",
+    "securityOutro": "Nou entegre kontwòl aksè strik ki baze sou wòl, eskanè vilnerabilite otomatik, gouvènans modèl, ak chifreman milti-niveau pou asire anviwònman pwodiksyon ou rete fleksib ak konplètman konfòme.",
+    "capabilitiesTitle": "Kapasite Teknoloji debaz yo",
+    "capabilitiesSub": "Konpetans teknik konplè ki fèt pou echèl operasyon dijital ou yo.",
+    "bookDiscovery": "Liv Teknoloji Dekouvèt",
+    "exploreAll": "Eksplore Tout Teknoloji",
+    "bookConsultation": "Liv yon konsiltasyon",
+    "coreCapabilities": "Kapasite debaz yo"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Kapasite debaz yo",
+    "exploreFramework": "Eksplore kad solisyon",
+    "bookConsultation": "Liv yon konsiltasyon",
+    "viewCaseStudies": "Gade ka etid",
+    "provenPillars": "Poto ki pwouve",
+    "operationalOutcomes": "Rezilta Operasyon",
+    "learnMore": "Aprann Plis"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Jeni dijital bout-a-fen",
+      "titlePart1": "Kreyasyon Pou",
+      "titlePart2": "Deplwaman",
+      "description": "Devlopman fen-a-fen nouvo solisyon dijital soti nan kondisyon biznis ak achitekti solisyon atravè devlopman, entegrasyon, tès, deplwaman, ak sipò kontinyèl.",
+      "bookConsultation": "Liv yon konsiltasyon",
+      "exploreEngineering": "Eksplore Jeni solisyon",
+      "coreCapabilities": [
+        "Kondisyon Jeni",
+        "Achitekti solisyon",
+        "Devlopman Aplikasyon",
+        "API Entegrasyon",
+        "Asirans Kalite",
+        "DevOps",
+        "Deplwaman",
+        "Sipò ak Antretyen"
+      ],
+      "row1Eyebrow": "Livrezon Lifecycle konplè",
+      "row1Title": "Devlopman fen-a-fen soti nan egzijans rive nan echèl",
+      "row1P1": "Chak nouvo inisyativ dijital kòmanse ak egzijans inik, workflows operasyonèl, ak objektif estratejik ki pa ka satisfè pa yon sèl-taille-adapte-tout lojisyèl. Nou espesyalize nan bati koutim, sistèm lojisyèl pèfòmans-wo konplètman soti nan grafouyen.",
+      "row1P2": "Soti nan dekouvèt egzijans inisyal yo ak konsepsyon achitekti teknik rive nan devlopman sprint ajil, entegrasyon ekosistèm API, tiyo tès solid, ak deplwaman nwaj otomatik, ekip jeni ansyen nou yo pran an komen nan sik lavi pwodwi ou yo.",
+      "row2Eyebrow": "Solisyon Achitekti & Jeni",
+      "row2Title": "Sistèm évolutive ki bati pou kwasans antrepriz",
+      "row2P1": "Nou desine achitekti lojisyèl fleksib pwepare pou kenbe tèt ak chaj pwodiksyon lou. Soti nan mikwosèvis modilè ak backend ki baze sou evènman rive nan kouran done ki gen gwo debi ak API GraphQL/REST, nou bati platfòm ki echèl san efò.",
+      "row2P2": "Lè nou etabli pwòp, baz kod modilè ki asosye ak tès otomatik ak konfòmite sekirite kontinyèl, nou asire fondasyon lojisyèl ou a kapab konsève, odit, epi pare pou evolisyon alontèm.",
+      "row3Eyebrow": "Asirans Kalite & DevOps",
+      "row3Title": "Livrezon ajil ak tiyo otomatik",
+      "row3P1": "Modèl livrezon nou an entegre inite otomatik, entegrasyon, ak tès regresyon bout-a-fen ansanm ak workflows CI/CD nan kontenè (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Avèk demonstrasyon sprint transparan, obsèvabilite an tan reyèl, ak vitès etap enpòtan, nou asire rapid tan-a-mache san yo pa konpwomèt sekirite, estabilite, oswa eksperyans itilizatè.",
+      "row4Eyebrow": "Deplwaman & Sipò",
+      "row4Title": "Operasyon serye 24/7 ak evolisyon alontèm",
+      "row4P1": "Ale viv se jis kòmansman an. Nou bay siveyans pwoaktif, antretyen SLA apiye, optimize enfrastrikti nwaj, ajisteman pèfòmans, ak deplwaye karakteristik kontinyèl.",
+      "row4P2": "Ekip jeni nou an aji kòm yon ekstansyon natirèl nan òganizasyon ou a, asire zewo D 'ak kontinyèl siperyorite teknolojik nan mache ou a.",
+      "pillarsTitle": "Kapasite debaz yo",
+      "pillarsSub": "Konplete kapasite plen pil enjenyè pou pran lide ou soti nan zewo rive nan pwodiksyon an.",
+      "pillar1Title": "Kondisyon Jeni",
+      "pillar1Desc": "Analiz biznis pwofon, espesifikasyon fonksyonèl, ak kat vwayaj itilizatè pou defini limit solisyon egzak.",
+      "pillar2Title": "Achitekti solisyon",
+      "pillar2Desc": "Achitekti nwaj natif natal, modèl baz done, konsepsyon mikwosèvis, ak fondasyon sekirite zero-trust.",
+      "pillar3Title": "Devlopman Aplikasyon",
+      "pillar3Desc": "Entènèt modèn ak aplikasyon mobil konplè ki fèt ak kòd pwòp, sekirite tip, ak estanda UI reyaktif.",
+      "pillar4Title": "Entegrasyon API",
+      "pillar4Desc": "API REST/GraphQL ki gen gwo debi, orchestrasyon webhook, pòtay peman, ak senkronizasyon ERP/CRM twazyèm pati san pwoblèm.",
+      "ctaTitle": "Pare pou konstwi solisyon ou depi nan kòmansman jiska deplwaman?",
+      "ctaSub": "Patenarya ak Rezonants pou fè achitèk, enjenyè, ak deplwaye platfòm dijital koutim ou a soti nan kondisyon biznis rive nan reyalite pwodiksyon an.",
+      "ctaButton": "Liv yon konsiltasyon solisyon",
+      "pillar5Title": "Asirans Kalite",
+      "pillar5Desc": "Otomatik tès rigoure, tès chaj/estrès, analiz vilnerabilite, ak suite tès regresyon.",
+      "pillar6Title": "DevOps & Deplwaman",
+      "pillar6Desc": "Otomatik tuyaux CI/CD, òkestrasyon veso (Docker/K8s), enfrastrikti kòm kòd, ak zewo-downtime lage.",
+      "pillar7Title": "Sipò & Antretyen",
+      "pillar7Desc": "Siveyans pwoaktif 24/24, 7/7, telemetri sante, odit pèfòmans, plak sekirite, ak antretyen SLA kontinyèl.",
+      "pillar8Title": "Inovasyon kontinyèl",
+      "pillar8Desc": "Vitès karakteristik regilye, entegrasyon analiz done, amelyorasyon AI, ak modènizasyon achitekti."
+    },
+    "processAutomation": {
+      "eyebrow": "Operasyon Pwosesis Entelijan",
+      "titlePart1": "Pwosesis biznis",
+      "titlePart2": "Otomatik",
+      "description": "Otomatik fen-a-fen nan workflows antrepriz, konbine automatisation pwosesis robotik (RPA), pwosesis dokiman entèlijan, motè règ biznis, ak entegrasyon sistèm.",
+      "bookDiscovery": "Liv Otomatik Dekouvèt",
+      "exploreFramework": "Eksplore kad solisyon",
+      "coreCapabilities": [
+        "Workflow Automatisation",
+        "Otomatik Pwosesis Robotics",
+        "Pwosesis dokiman",
+        "Jeni Entegrasyon",
+        "Règ biznis motè",
+        "Pwosesis Analytics",
+        "Optimizasyon kontinyèl",
+        "Entegrasyon eritaj"
+      ],
+      "row1Eyebrow": "Robotics otomatik otomatik",
+      "row1Title": "Entelijan bots pou operasyon gwo volim",
+      "row1P1": "Elimine antre done manyèl repetitif, rekonsilyasyon kwa-sistèm, ak routage dokiman yo. Nou deplwaye antrepriz RPA bots ki egzekite travay estriktire 24/7 ak zewo pousantaj erè.",
+      "row1P2": "Lè yo konekte koòdone Desktop eritaj, backend SAP/ERP, ak baz done nwaj, bots lojisyèl libere ekip ou a pou konsantre sou inisyativ biznis estratejik yo.",
+      "row2Eyebrow": "Pwosesis Entelijan Dokiman",
+      "row2Title": "OCR, Machine Learning & Dokiman AI",
+      "row2P1": "Otomatikman enjere, klasifye, ak ekstrè done ki sòti nan fakti, kontra, dokiman idantite, ak reklamasyon. Tiyo AI-kondwi nou yo valide jaden kont baz done entèn yo epi deklanche workflows apwobasyon otomatik yo.",
+      "row2P2": "Reyalize pousantaj pwosesis dirèk ki depase 95% pandan y ap redwi drastikman tan delè de jou rive segonn.",
+      "row3Eyebrow": "Pwosesis òkestrasyon",
+      "row3Title": "Senkronizasyon kwa-platfòm bout-a-fen",
+      "row3P1": "Konekte CRM, ERP, HRMS, ak API bankè nan koule done inifye an tan reyèl. Nou aplike deklannche ki baze sou evènman yo, ke moun kap kriye mesaj yo, ak moun kap jere selèb otomatik yo.",
+      "row3P2": "Enfòmasyon yo ap koule san pwoblèm atravè depatman san entèvansyon imen, sa ki elimine silo operasyonèl ak reta kominikasyon.",
+      "row4Eyebrow": "Telemetri kontinyèl",
+      "row4Title": "Analiz pwosesis an tan reyèl ak Kaizen Insights",
+      "row4P1": "Swiv tan egzekisyon pwosesis, kat chalè anbouteyaj, frekans erè, ak ROI finansye nan tablodbò egzekitif an tan reyèl.",
+      "row4P2": "Dyagnostik aprantisaj machin kontinyèl dekouvri nouvo opòtinite automatisation, kenbe antrepriz ou opere nan efikasite maksimòm.",
+      "pillarsTitle": "Poto otomatik yo",
+      "pillarsSub": "Blòk bilding pwouve pou operasyon antrepriz entelijan.",
+      "pillar1Title": "Workflow Automatisation",
+      "pillar1Desc": "Plizyè etap moun-nan-bouk ak workflows dijital òkestre ak routage otomatik ak eskalade.",
+      "pillar2Title": "otomatik otomatik otomatik",
+      "pillar2Desc": "Robo lojisyèl ki baze sou règ k ap egzekite travay woutin pou antre done, rekonsilyasyon, ak travay kwa-aplikasyon.",
+      "pillar3Title": "Entelijan AI Automatisation",
+      "pillar3Desc": "Ajan AI kognitif ki entèprete kontèks, rezime tèks san estrikti, epi pran desizyon otomatik.",
+      "pillar4Title": "Pwosesis Optimizasyon",
+      "pillar4Desc": "Pwosesis min, deteksyon anbouteyaj, ak workflows Kaizen ki kontinyèlman diminye depans operasyonèl yo.",
+      "ctaTitle": "Pare pou otomatize workflows biznis ou a?",
+      "ctaSub": "Konekte ak achitèk automatisation nou yo pou idantifye opòtinite wo-ROI epi deplwaye workflows dijital entèlijan.",
+      "ctaButton": "Liv yon konsiltasyon automatisation"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Jeni Standard & R&D",
+      "titlePart1": "Sant de",
+      "titlePart2": "Ekselans",
+      "description": "Yon òganizasyon santralize achitèk ansyen ak espesyalis domèn ki dedye a estandadize pratik jeni, kondwi inovasyon, ak akselere inisyativ dijital.",
+      "exploreStandards": "Eksplore Estanda Jeni",
+      "initiateAssessment": "Inisye Evalyasyon CoE",
+      "coreCapabilities": [
+        "Estanda Achitekti",
+        "Kad ki kapab itilize ankò",
+        "Pi bon Pratik Gouvènans",
+        "Devlopman konpetans",
+        "Kalite Benchmarking",
+        "R&D & Inovasyon",
+        "Evalyasyon Teknoloji",
+        "Oryantasyon kwa-pwojè"
+      ],
+      "uptimeLabel": "Enterprise Uptime",
+      "engineersLabel": "Enjenyè & Achitèk",
+      "deploymentsLabel": "AI & Cloud Deplwaman",
+      "satisfactionLabel": "Satisfaksyon Kliyan",
+      "row1Eyebrow": "Poto 01 — Creole Jeni",
+      "row1Title": "Jeni lojisyèl pèfòmans segondè",
+      "row1P1": "Sant Ekselans nou an etabli modèl konsepsyon estanda, tès otomatize solid, ak pratik revizyon kòd zewo-defo ki akselere tan-a-mache pandan y ap kenbe dèt teknik a zewo.",
+      "row1F1": "Otomatik tiyo CI/CD lage ak analiz DORA metrics",
+      "row1F2": "Komite revizyon achitekti strik ak gouvènans mikwosèvis yo",
+      "row1F3": "Sekirite kontinyèl ak korije vilnerabilite otomatik",
+      "row1Btn": "Aprann Estanda Jeni",
+      "row1Tag": "DevOps & Jeni Kalite",
+      "row2Eyebrow": "Poto 02 — R&D Inovasyon",
+      "row2Title": "AI Inovasyon Laboratwa ak Teknoloji Emerging",
+      "row2P1": "Nou fè eksperyans ak dènye modèl aprantisaj machin, ajan AI koutim, ak automatisation entèlijan workflow pou konstwi pwodwi antrepriz pwochen jenerasyon.",
+      "row2F1": "Enterprise Generative AI & RAG konesans entegrasyon",
+      "row2F2": "Workflows ajan AI otonòm pou automatisation pwosesis biznis",
+      "row2F3": "Modèl aprantisaj machin pèsonalize optimize ak ajisteman",
+      "row2Btn": "Eksplore AI Lab",
+      "row2Tag": "Atifisyèl entèlijans & Neural R&D",
+      "row3Eyebrow": "Poto 03 — Enfrastrikti",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Nou desine ak jere anviwònman milti-nwaj fleksib ki bati sou kad sekirite zewo-konfyans, asire done ou rete pwoteje kont menas entènèt mondyal k ap evolye.",
+      "row3F1": "Òkestrasyon enfrastrikti milti-nwaj AWS, Azure, & GCP",
+      "row3F2": "Aksè rezo zewo-konfyans (ZTNA) ak règleman IAM ki baze sou wòl",
+      "row3F3": "Otomatik veso sekirite optik ak jesyon sekrè",
+      "row3Btn": "Eksplore Cloud & Sekirite",
+      "row3Tag": "Cloud Achitekti & Zero-Trust",
+      "pillarsTitle": "Kad ekselans debaz nou yo",
+      "pillarsSub": "Liv devlòpman sistematize ki alimante platfòm ki enpòtan pou misyon yo.",
+      "pillar1Title": "Komisyon Konsèy Revizyon Achitekti (ARB)",
+      "pillar1Desc": "Sipèvizyon konplè ki asire tout solisyon antrepriz yo aliman ak pwotokòl strik évolutivité, sekirite ak konfòmite.",
+      "pillar2Title": "Accélérateurs réutilisables & bibliyotèk konpozan",
+      "pillar2Desc": "Pwopriyetè sistèm konsepsyon, API starter kits, ak backend microservice templates diminye tan inisyal devlopman pa 40%.",
+      "pillar3Title": "Profiling pèfòmans kontini",
+      "pillar3Desc": "Tiyo obsèvabilite avanse an tan reyèl kontwole latansi aplikasyon an, kou boutèy debi, ak itilizasyon resous nwaj yo.",
+      "pillar4Title": "Talent Upskill & Guilds",
+      "pillar4Desc": "Guild entèn estriktire ak sètifikasyon kiltive konpetans teknik pwofon atravè nwaj, DevOps, ak AI aplike.",
+      "ctaTitle": "Ogmante estanda Jeni ou",
+      "ctaSub": "Patenarya ak Sant Ekselans Rezonants la pou konstwi achitekti nwaj fleksib, otomatize workflows, ak akselere livrezon pwodwi dijital.",
+      "ctaButton": "Orè Konsiltasyon Egzekitif",
+      "badge": "REZONANTS COE",
+      "scroll": "Defile",
+      "p1Title": "Gouvènans ak kad",
+      "p1Desc": "Etabli gouvènans achitekti nan tout antrepriz, guardrails politik, ak estanda konfòmite.",
+      "p1Tag": "Gouvènans",
+      "p2Title": "Estanda Teknoloji & Achitekti",
+      "p2Desc": "Defini achitekti referans modèn yo, pile teknoloji verifye, ak modèl mikwosèvis yo.",
+      "p2Tag": "Achitekti",
+      "p3Title": "Byen ki kapab itilize ankò ak bibliyotèk",
+      "p3Desc": "Akselere vitès devlopman ak eleman pataje, modèl, twous demaraj, ak sistèm konsepsyon.",
+      "p3Tag": "Réutilisation",
+      "p4Title": "Devlopman konpetans",
+      "p4Desc": "Fòmasyon estriktire, konsèy teknoloji, ak kapasite konpetans pou ogmante abilite jeni ekip yo.",
+      "p4Tag": "Konpetans",
+      "p5Title": "Inovasyon & Emerging Tech",
+      "p5Desc": "R&D sou ajan AI, tuyaux automatisation, ak kad pwochen jenerasyon pou kenbe avantaj mache.",
+      "p5Tag": "Inovasyon",
+      "p6Title": "Amelyorasyon kontinyèl",
+      "p6Desc": "Done-driven engineer metrics (DORA), SLA benchmarking, ak optimize bon jan kalite kontinyèl.",
+      "p6Tag": "Kalite"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Adapte Jeni dijital",
+      "titlePart1": "Custom Devlopman &",
+      "titlePart2": "Personnalisation",
+      "description": "Devlopman ak amelyorasyon aplikasyon, platfòm, workflows, ak solisyon antrepriz pou adrese egzijans biznis inik epi delivre fonksyonalite ki tayè.",
+      "bookConsultation": "Liv yon konsiltasyon",
+      "exploreCapabilities": "Eksplore Kapasite",
+      "coreCapabilities": [
+        "Custom Devlopman",
+        "Konfigirasyon platfòm",
+        "Ekstansyon",
+        "Custom Workflows",
+        "Devlopman API",
+        "Sistèm Entegrasyon",
+        "Amelyorasyon UI/UX",
+        "Pèfòmans Optimizasyon"
+      ],
+      "row1Eyebrow": "FONKSYONALITE ADAPE",
+      "row1Title": "Karakteristik ki tabli pou travay ou",
+      "row1P1": "Lojisyèl estanda antrepriz souvan pa satisfè bezwen biznis espesyalize yo. Ekip jeni pèsonalize nou an devlope modil aplikasyon sou mezi, règ biznis koutim, ak ekstansyon espesyalize ki adapte pou operasyon ou yo.",
+      "row1P2": "Soti nan amelyorasyon CRM ak ERP koutim rive nan portail operasyonèl espesyalize yo, nou bati karakteristik ki aliman san pwoblèm ak modèl workflow ekip ou a egzak.",
+      "row2Eyebrow": "ENTEGRASYON SISTÈM ENTERPRISE",
+      "row2Title": "Konfigirasyon platfòm & Devlopman API",
+      "row2P1": "Konekte sistèm lojisyèl diferan nan yon ekosistèm dijital inifye. Nou enjenyè koutim REST ak GraphQL API, webhook, ak keu mesaj antrepwiz pou asire senkronizasyon done an tan reyèl sou tout platfòm ou yo.",
+      "row2P2": "Kit entegre zouti SaaS twazyèm pati yo oswa pwolonje platfòm propriétaires sou lokal yo, achitekti entegrasyon nou yo bay priyorite entegrite done, debi, ak zewo D'.",
+      "row3Eyebrow": "UI/UX & PERFORMANS",
+      "row3Title": "Amelyorasyon UI/UX & Optimizasyon Pèfòmans",
+      "row3P1": "Ogmante koòdone eritaj ak eksperyans itilizatè modèn ki reponn ki fèt pou vitès ak klè. Nou re-enjenyè entèfas ak modèl konsepsyon entwisyon, konfòmite aksesibilite, ak modèl entèraksyon rasyonalize.",
+      "row3P2": "Paralèl, enjenyè pèfòmans nou yo optimize demann baz done, estrateji kach, ak gwosè pakèt entèfas pou bay tan repons enstantane sou tout aparèy.",
+      "pillarsTitle": "Enjenieri nan espesifikasyon egzak ou yo",
+      "pillarsSub": "Metodoloji personnalisation nan klas antrepwiz bati pou echèl san pwoblèm.",
+      "pillar1Title": "Custom Workflows & Ekstansyon",
+      "pillar1Desc": "Lojik aplikasyon pwepare ak machin leta otomatik ki konfigirasyon espesyalman nan règleman operasyon entèn ou yo.",
+      "pillar2Title": "API & Entegrasyon Sistèm",
+      "pillar2Desc": "Sekirize, otantifye done pon ki konekte backend propriétaires, suite ERP, pòtay peman, ak sèvis nwaj.",
+      "pillar3Title": "Konfigirasyon platfòm",
+      "pillar3Desc": "Adaptasyon pwofon achitekti ki modifye lojisyèl antrepriz san yo pa kraze chemen ajou oswa akò sipò machann yo.",
+      "pillar4Title": "Pèfòmans Optimizasyon",
+      "pillar4Desc": "Profile rechèch agresif, eliminasyon koule memwa, ak distribisyon CDN kwen pou chaj anba-dezyèm paj.",
+      "ctaTitle": "Pare pou Customize platfòm antrepriz ou a?",
+      "ctaSub": "Konekte ak achitèk solisyon nou yo pou konsepsyon ak deplwaye modil koutim, workflows, ak entegrasyon ki adapte a bezwen biznis ou.",
+      "ctaButton": "Liv yon apèl personnalisation",
+      "badge": "Adapte Jeni dijital",
+      "viewAllServices": "Gade tout sèvis yo"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Antrepriz modènizasyon",
+      "titlePart1": "Digital",
+      "titlePart2": "Transfòmasyon",
+      "description": "Modènizasyon konplè nan pwosesis biznis, achitekti teknoloji, ak modèl operasyonèl pou kondwi ladrès òganizasyonèl, efikasite operasyonèl, ak kwasans dijital dirab.",
+      "startTransformation": "Kòmanse Transfòmasyon",
+      "exploreStrategy": "Eksplore estrateji",
+      "coreCapabilities": [
+        "Estrateji & Roadmapping",
+        "Achitekti modènizasyon",
+        "Cloud & Enfrastrikti",
+        "Done & Analytics",
+        "Pwosesis Dijitalizasyon",
+        "Eksperyans Kliyan",
+        "Jesyon Chanjman",
+        "Modèl operasyon ajil"
+      ],
+      "row1Eyebrow": "Estrateji & Roadmap",
+      "row1Title": "Soti nan vizyon rive nan plan egzekitab",
+      "row1P1": "Nou fè patenarya ak lidè antrepriz pou defini estrateji dijital, ka biznis, ak plan wout pa etap ak viktwa rapid ak ekzekisyon ki pa riske.",
+      "row1P2": "Inisyativ priyorite, modèl TCO, ak KPI yo asire ke chak efò modènizasyon teknoloji lye dirèkteman ak rezilta revni, efikasite ak satisfaksyon kliyan.",
+      "row2Eyebrow": "Modènizasyon eritaj",
+      "row2Title": "Modènize san kraze biznis la",
+      "row2P1": "Re-platfòm monolit yo nan mikwosèvis, API, ak modèl nwaj natif natal ak koupe zewo-detan ak validasyon regresyon otomatik.",
+      "row2P2": "Nou modènize aplikasyon, baz done, ak kouch entegrasyon pandan n ap prezève konfòmite ak pozisyon sekirite.",
+      "row3Eyebrow": "Cloud, AI & Done",
+      "row3Title": "Cloud Adopsyon & Done-Kondwi entèlijans",
+      "row3P1": "Adopte AWS, Azure, ak GCP, konstwi tiyo done modèn, epi entegre ajan aprantisaj machin pou kondwi desizyon otonòm.",
+      "row3P2": "Soti nan difizyon evènman an tan reyèl rive nan tablodbò inifye, transfòmasyon vin mezirab ak dirab.",
+      "row4Eyebrow": "Eksperyans Kliyan",
+      "row4Title": "Eksperyans Omnicanal modèn",
+      "row4P1": "Redesine vwayaj kliyan atravè web ki reponn, iOS, andwad, ak pòtay oto-sèvis ak koòdone pèsonalize.",
+      "row4P2": "Jeni platfòm, telemetri, ak bouk fidbak otomatik fè inovasyon dijital kontinyèl.",
+      "pillarsTitle": "Poto transfòmasyon",
+      "pillarsSub": "Levye ki konsantre sou rezilta ki asire lidèchip dijital dirab.",
+      "pillar1Title": "Estrateji Dijital ak Gouvènans",
+      "pillar1Desc": "Plan transfòmasyon pa etap ak modèl ka biznis, gouvènans achitekti, ak swivi risk etap enpòtan yo.",
+      "pillar2Title": "Cloud & Done platfòm",
+      "pillar2Desc": "AWS/Azure/GCP fondasyon milti-nwaj, kanalizasyon otomatik, ak pèmèt analiz done antrepriz.",
+      "pillar3Title": "AI & Automatisation",
+      "pillar3Desc": "Otomatik pwosesis entelijan, ajan AI kognitif, ak telemetri prediksyon pou optimize operasyon chak jou.",
+      "pillar4Title": "Eksperyans Kliyan",
+      "pillar4Desc": "Pòtal dijital omnicanal ki gen gwo konvèti ak koòdone pèsonalize bati pou retansyon itilizatè maksimòm.",
+      "ctaTitle": "Pare pou transfòme antrepriz ou a?",
+      "ctaSub": "Patenarya ak Rezonants pou transfòmasyon dijital pwogresivman, ki pa gen risk ki asosye ak rezilta biznis mezirab.",
+      "ctaButton": "Fè yon apèl pou transfòmasyon dijital",
+      "bookWorkshop": "Atelye Transfòmasyon Liv",
+      "exploreFramework": "Eksplore kad solisyon",
+      "coreCapabilitiesTitle": "Kapasite debaz yo"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Sik lavi Teknoloji konplè",
+      "titlePart1": "Solisyon fen-a-fen",
+      "titlePart2": "Kad",
+      "description": "Yon kad livrezon estriktire, tout sik lavi ki kouvri kondisyon biznis, konsepsyon achitekti, jeni, entegrasyon, asirans kalite, deplwaman nwaj, ak operasyon jere.",
+      "startJourney": "Kòmanse Pwojè w la",
+      "exploreFramework": "Eksplore chapant",
+      "coreCapabilities": [
+        "Analiz egzijans",
+        "Achitekti Design",
+        "Full-Pile Devlopman",
+        "Entegrasyon Jeni",
+        "Asirans Kalite",
+        "Deplwaman & Deplwaye",
+        "Operasyon k ap kontinye",
+        "Evolisyon kontinyèl"
+      ],
+      "row1Eyebrow": "Estrateji & Achitekti",
+      "row1Title": "Kondisyon Jeni & Solisyon Design",
+      "row1P1": "Atelye kolaboratif, kat domèn biznis, ak espesifikasyon achitekti nwaj ki fèt pou elimine risk anvan yo ekri yon liy kòd.",
+      "row1P2": "Nou defini modèl done yo, kad sekirite, ak etap enpòtan ki kapab etabli siksè alontèm.",
+      "row2Eyebrow": "Jeni & Kalite",
+      "row2Title": "Full-Pile Devlopman & Tès Otomatik",
+      "row2P1": "Mikwosèvis modilè, API ki san danje, ak entèfas ki reponn ansanm ak inite otomatik, entegrasyon, ak analiz sekirite.",
+      "row2P2": "Tiyo entegrasyon kontinyèl ak GitHub Actions, Terraform, ak pwoteksyon sekirite otomatik yo.",
+      "row3Eyebrow": "Deplwaman & Operasyon",
+      "row3Title": "Deplwaman Cloud & Siveyans jere 24/7",
+      "row3P1": "Òkestrasyon milti-nwaj sou AWS/Azure/GCP ak rollback otomatik, koupe zewo-detan, ak observabilite an tan reyèl.",
+      "row3P2": "Nou bay antretyen SLA ak siveyans telemetrik kontinyèl pou evolye pwodwi ou san pwoblèm.",
+      "row4Eyebrow": "Gouvènans antrepriz",
+      "row4Title": "Gouvènans Inifye ak Sipò Kontinyèl",
+      "row4P1": "Responsablite yon sèl pwen atravè tout pil dijital ou a — vitès sprint transparan, bidjè previzib, ak inovasyon kontinyèl.",
+      "row4P2": "Deplwaye karakteristik regilye ak sik modènizasyon kenbe antrepriz ou devan konpetisyon an.",
+      "pillarsTitle": "Lifecycle Framework Poto yo",
+      "pillarsSub": "Chak faz fèt ak rijite antrepriz.",
+      "pillar1Title": "Estrateji & Kondisyon",
+      "pillar1Desc": "Dekouvèt domèn, plan achitekti, ak aliyman moun ki gen enterè yo pou elimine risk ekzekisyon yo.",
+      "pillar2Title": "Achitekti & Bati",
+      "pillar2Desc": "Mikwosèvis nwaj ki rezistan, entegrasyon API, ak tès QA kontinyèl.",
+      "pillar3Title": "Sekirite & Deplwaman",
+      "pillar3Desc": "Konfòmite sekirite zewo-konfyans, lage kontenè, ak deplwaman nwaj otomatik.",
+      "pillar4Title": "Gouvènans ak sipò",
+      "pillar4Desc": "Siveyans SLA 24/7, telemetri sante, ak jeni evolisyonè kontinyèl.",
+      "ctaTitle": "Bezwen yon patnè konplè pou sik lavi?",
+      "ctaSub": "Nou posede tout sik lavi teknoloji pou ekip ou a ka konsantre sou rezilta biznis debaz yo.",
+      "ctaButton": "Patnè pou tout sik lavi"
+    },
+    "migrationServices": {
+      "eyebrow": "Transfòmasyon Cloud & Enfrastrikti",
+      "titlePart1": "Migrasyon &",
+      "titlePart2": "Modènizasyon",
+      "description": "Migrasyon an sekirite, estriktire nan aplikasyon eritaj, baz done, ak enfrastrikti nan achitekti nwaj modèn, ansanm ak modènizasyon kontinyèl pou amelyore ladrès ak efikasite.",
+      "bookAssessment": "Evalyasyon Migrasyon Liv",
+      "exploreStrategy": "Eksplore Estrateji Cloud",
+      "coreCapabilities": [
+        "Cloud Migrasyon",
+        "Modènizasyon aplikasyon",
+        "Migrasyon baz done",
+        "Rehosting enfrastrikti",
+        "Containerization",
+        "Tranzisyon Mikwosèvis",
+        "Pèfòmans Optimizasyon",
+        "Sekirite ak Konfòmite"
+      ],
+      "row1Eyebrow": "Cloud Migrasyon",
+      "row1Title": "Estrateji milti-nwaj & Leve-ak-Optimize",
+      "row1P1": "Migrasyon travay san pwoblèm atravè AWS, Azure, ak Google Cloud ak dekouvèt otomatik, planifikasyon vag, ak zewo entèripsyon biznis.",
+      "row1P2": "Nou balanse rehosting, replatforming, ak refactoring pou optimize pri total de posesyon (TCO) ak ladrès.",
+      "row2Eyebrow": "Done & Baz done Migrasyon",
+      "row2Title": "Sekirize ETL ak Validasyon Done Otomatik",
+      "row2P1": "Replikasyon baz done otomatik, tradiksyon chema, ak tiyo ETL gwo-debi ak verifikasyon 100% done entegrite.",
+      "row2P2": "Repetisyon zewo-downtime asire konsistans done konplè ak kontinwite biznis.",
+      "row3Eyebrow": "Modènizasyon platfòm",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Modènize monolit eritaj yo nan mikwosèvis évolutive ki òganize atravè Kubernetes (EKS, AKS, GKE) ak plan IaC otomatik yo.",
+      "row3P2": "Profile pèfòmans apre migrasyon ak optimize pri asire ROI imedya.",
+      "row4Eyebrow": "Planifikasyon Cutover",
+      "row4Title": "Tès otomatik & Rollback filè sekirite",
+      "row4P1": "Liv rankont ki teste batay la, swit regresyon otomatik, ak mekanis rollback enstantane pou yon lapè totalman.",
+      "row4P2": "Telemetri sante apre migrasyon ak hypercare 24/7 garanti estabilite pwodiksyon san defo.",
+      "pillarsTitle": "Asirans Migrasyon",
+      "pillarsSub": "De-risk mouvman te sipòte pa SLA antrepriz.",
+      "pillar1Title": "Zewo-Downtime Cutover",
+      "pillar1Desc": "Kanary lage ak baz done senkronizasyon doub ekri pou asire aksè itilizatè san enteripsyon.",
+      "pillar2Title": "Validasyon done otomatik",
+      "pillar2Desc": "Konparezon checksum, odit entegrite chema, ak rekonsilyasyon otomatik ETL.",
+      "pillar3Title": "Filè sekirite Rollback",
+      "pillar3Desc": "Pwotokòl rekiperasyon dezas strik ak egzèsis repetisyon pou kenbe risk nan chak faz.",
+      "pillar4Title": "Pèfòmans & Pri Optimizasyon",
+      "pillar4Desc": "Dwa nyaj, politik otoeskalaj, ak tablo gouvènans pri yo enkli.",
+      "ctaTitle": "Pare pou Migre ak Konfyans konplè?",
+      "ctaSub": "Patenarya ak Rezonants pou estriktire, san risk, nwaj ak modènizasyon done.",
+      "ctaButton": "Planifye Atelye Migrasyon Ou"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Rapid Validasyon & Posibilite",
+      "titlePart1": "Prèv Konsèp (PoC) &",
+      "titlePart2": "Aplikasyon Pilòt",
+      "description": "Rapid devlopman ak validation solisyon teknoloji pou evalye posibilite teknik, valè biznis, kondisyon entegrasyon, pèfòmans, ak évolutivité anvan aplikasyon konplè.",
+      "initiateDiscovery": "Inisye PoC Dekouvèt",
+      "exploreDevelopment": "Eksplore Devlopman Custom",
+      "coreCapabilities": [
+        "Devlopman PoC",
+        "Pwototip Jeni",
+        "Etid sou posibilite",
+        "Validasyon Achitekti",
+        "Tès Entegrasyon",
+        "Benchmarking pèfòmans",
+        "Deplwaman Pilòt",
+        "Evalyasyon Valè"
+      ],
+      "row1Eyebrow": "Rapid Validasyon",
+      "row1Title": "Soti nan Konsèp rive nan Posibilite valide",
+      "row1P1": "Transfòme yon lide nan yon solisyon nan echèl antrepwiz mande pou yon validasyon davans solid. Sèvis PoC & Pilot nou an evalye viabilite teknoloji, tès estrès kwòk entegrasyon kritik, ak valide ROI biznis anvan gwo angajman kapital la.",
+      "row1P2": "Nou konstwi MVP segondè-fidelite ak pilòt sandbox konsantre ki pwouve fezabilite teknik, mezire latansi sistèm, ak rasanble validasyon dirèk pati konsène yo byen bonè.",
+      "row1Cap": "Rapid MVP Pwototip ak Referans Teknik",
+      "row2Eyebrow": "Pwototip ajil",
+      "row2Title": "MVP entèaktif & Validasyon UX",
+      "row2P1": "Nou bati wireframes entèaktif, flux itilizatè k ap klike sou, ak prèv-of-konsè fonksyonèl nan jou, pa mwa. Teste entèraksyon reyèl itilizatè yo, rafine modèl UI/UX, epi rasanble fidbak ak aksyon nan men moun ki gen enterè yo.",
+      "row2P2": "Lè yo diminye bouk fidbak pandan devlopman bonè, ekip ou a minimize retravay epi etabli espesifikasyon teknik klè anvan faz konstriksyon ki entansif kapital yo kòmanse.",
+      "row2Cap": "Rapid Iterasyon & Klike UX Pwototip",
+      "row3Eyebrow": "Tès Entegrasyon & Évolutivité",
+      "row3Title": "De-Risk Entegrasyon Sistèm Konplèks",
+      "row3P1": "Dekouvwi kou boutèy teknik, limit API, ak kontrent pèfòmans anvan tout angajman kapital la. Ekip jeni pilòt nou an teste estrès entegrasyon, tiyo done, ak API twazyèm pati nan anviwònman sandbox izole.",
+      "row3P2": "Diminisyon risk pwoaktif sa a asire gwo disponiblite sistèm, konfòmite sekirite, ak delè devlopman previzib lè w ap fè tranzisyon PoC ou nan pwodiksyon antrepriz.",
+      "row3Cap": "Sandbox Entegrasyon & Tès Estrès",
+      "row4Eyebrow": "Pilòt Pwodiksyon Kontwole",
+      "row4Title": "Lanse Pilòt Vize & Validasyon Ka Biznis",
+      "row4P1": "Deplwaye degaje pilòt vize nan yon segman itilizatè chwazi oswa nan yon mache tès. Swiv mezi pèfòmans, analiz adopsyon itilizatè yo, ak fidbak operasyonèl pou quantifier valè biznis ak etabli yon ka biznis ki sipòte done.",
+      "row4P2": "Avèk konesans pilòt reyèl, sipòtè egzekitif yo jwenn mezi ROI ki klè pou jistifye deplwaman pi laj ak envestisman estratejik transfòmasyon dijital.",
+      "row4Cap": "Deplwaman Kontwole ak Telemetri Pèfòmans",
+      "pillarsTitle": "Prensip Jeni Pilòt nou yo",
+      "pillarsSub": "Prensip gid ki fè ensètitid teknik nan siksè biznis previzib.",
+      "pillar1Title": "PoC & MVP Pwototip",
+      "pillar1Desc": "Livre pwototip fonksyonèl rapidman pou valide pwopozisyon valè byen bonè nan sik lavi a.",
+      "pillar2Title": "Faisabilite & Validasyon",
+      "pillar2Desc": "Verifye konpatibilite API, papòt debi, ak kontrent konfòmite nan anviwònman sandbox.",
+      "pillar3Title": "Evalyasyon Évolutivité",
+      "pillar3Desc": "Simile chaj pwodiksyon pou etabli limit kapasite epi detèmine gwosè nwaj achitekti.",
+      "pillar4Title": "Validasyon ka biznis",
+      "pillar4Desc": "Quantifier tanjib ROI ak pwodiktivite métriques pou sipòte desizyon déploiement tout antrepwiz.",
+      "ctaTitle": "Pare pou valide pwochen solisyon dijital ou a?",
+      "ctaSub": "Konekte ak ekip jeni solisyon nou an pou eksplore kondisyon pwojè ou a, bati yon pwototip, epi teste posibilite ak zewo risk.",
+      "ctaButton": "Liv yon konsiltasyon PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Sant Operasyon Santralize",
+      "titlePart1": "Sèvis Pataje &",
+      "titlePart2": "Operasyon Jere",
+      "description": "Santralize livrezon teknoloji ak kapasite operasyon atravè inite biznis yo atravè pwosesis estanda, resous konpetan, kad gouvènans, jesyon sèvis, ak nivo sèvis mezirab.",
+      "bookDiscovery": "Liv Dekouvèt Operasyon Jere",
+      "exploreFramework": "Eksplore kad solisyon",
+      "coreCapabilities": [
+        "Sèvis Jere",
+        "IT Operasyon yo",
+        "Sipò pou aplikasyon an",
+        "Jesyon sèvis",
+        "Optimizasyon Resous",
+        "Jesyon SLA",
+        "Gouvènans",
+        "Amelyorasyon kontinyèl",
+        "Pri Optimizasyon"
+      ],
+      "row1Eyebrow": "Sant livrezon inifye",
+      "row1Title": "Sèvis ofisyèl nan tout inite biznis yo",
+      "row1P1": "Konsolide back-office IT, jesyon enfrastrikti, ak sipò teknik nan yon sèl sant livrezon segondè-efikasite.",
+      "row1P2": "Lè nou elimine tèt yo dipliktif ekip yo ak estandadize modèl livrezon sèvis yo, òganizasyon ou an sekirize bon jan kalite ki konsistan epi redwi total depans fonksyònman yo.",
+      "row2Eyebrow": "SRE & Sipò pou aplikasyon 24/7",
+      "row2Title": "Siveyans aktif ak rezolisyon rapid ensidan",
+      "row2P1": "Enjenyè Fiabilite Sit (SRE) ak espesyalis sipò nou yo bay siveyans telemetrik 24/7/365, triyaj otomatik alèt, ak rezolisyon rapid pwoblèm L1/L2/L3.",
+      "row2P2": "Te sipòte pa angajman SLA strik, nou garanti disponiblite 99.99% pou aplikasyon misyon kritik ou ak enfrastrikti nwaj.",
+      "row3Eyebrow": "ITIL Gouvènans ak Konfòmite",
+      "row3Title": "Kad Jesyon Sèvis Estriktire",
+      "row3P1": "Aplike estanda ITSM ki pi enpòtan nan endistri yo (ServiceNow, Jira Service Management) ak tikè transparan, analiz rasin kòz yo, ak jesyon chanjman.",
+      "row3P2": "Pista odit konplè ak politik gouvènans asire operasyon ou yo rete an konfòmite ak estanda sekirite entènasyonal yo.",
+      "row4Eyebrow": "FinOps & Amelyorasyon Kontinyèl",
+      "row4Title": "Bidjè Previzib ak Optimizasyon Resous",
+      "row4P1": "Elimine fatra nwaj, optimize gwosè kalkile, ak otomatize antretyen operasyon woutin ak pi bon pratik FinOps.",
+      "row4P2": "Rapò transparans chak mwa ak previzyon kapasite asire optimize kontinyèl pri operasyonèl ak efikasite kapital segondè.",
+      "pillarsTitle": "Operasyon Poto yo",
+      "pillarsSub": "Pwouve levye operasyonèl pou évolutivité antrepwiz serye.",
+      "pillar1Title": "24/7 Jere IT Operasyon yo",
+      "pillar1Desc": "Télémetri NOC aktif, patch sèvè, antretyen enfrastrikti, ak garanti 99.99% disponiblite.",
+      "pillar2Title": "ITSM & Biwo Sèvis",
+      "pillar2Desc": "Tier 1/2/3 biwo asistans milti-chanèl, routage ensidan, ak workflow rezolisyon tikè estriktire.",
+      "pillar3Title": "SLA & Kontwòl Pèfòmans",
+      "pillar3Desc": "Tan repons sou kontra, referans MTTR, ak odit pèfòmans transparan chak mwa.",
+      "pillar4Title": "FinOps & Pri Optimizasyon",
+      "pillar4Desc": "Kontinyèl bon gwosè resous, rekonpanse lisans, ak rediksyon otomatik nan nwaj.",
+      "ctaTitle": "Pare pou Echèl Operasyon Jere w yo?",
+      "ctaSub": "Patenarya ak Rezonants pou sèvis fyab, 24/7 jere ki optimize depans yo epi elimine tan operasyon yo.",
+      "ctaButton": "Liv yon konsiltasyon operasyon jere",
+      "howItWorksHeading": "Yon chemen pwouve nan siksè sèvis pataje"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Sistèm entèlijan",
+      "heroHeading": "AI & Robotics k ap travay ansanm",
+      "intro": "Entèlijans atifisyèl (AI) ak Robotics ap transfòme fason biznis yo opere lè yo konbine pran desizyon entelijan ak automatisation avanse. AI pèmèt machin yo analize done, aprann modèl, ak pran desizyon entelijan, pandan y ap robotik pote kapasite sa yo nan mond fizik la pou fè travay ak vitès, presizyon, ak konsistans.",
+      "section1Heading": "Bati pou rasyonalize chak operasyon",
+      "section1Text": "Solisyon AI ak Robotics nou yo ede òganizasyon yo rasyonalize operasyon yo, diminye efò manyèl yo, ak amelyore pwodiktivite atravè divès endistri yo. Soti nan automatisation pwosesis ak analiz prediksyon nan robotik entelijan ak sistèm entèlijan, nou delivre teknoloji inovatè ki amelyore efikasite, kondwi kwasans, ak sipòte transfòmasyon dijital.",
+      "section2Heading": "Kote entèlijans rankontre aksyon",
+      "section2Text": "Chak entèraksyon, desizyon, ak mouvman pouvwa pa yon sèl sistèm konekte - vire done nan rezilta an tan reyèl.",
+      "footerTag": "Teknoloji inovatè pou transfòmasyon dijital"
+    },
+    "informationReporting": {
+      "brand": "Enterprise done platfòm",
+      "heroTitle": "Enfòmasyon ak Sistèm Rapò",
+      "heroSubtitle": "Yon sèl sous verite pou chak depatman - ki te konstwi pou fè anvan tout koreksyon done operasyonèl yo an desizyon biznis ou ka aji sou jodi a.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALIZE",
+      "statusArchived": "ACHIVYE",
+      "statusPending": "ANTANTANTAN",
+      "metricUptime": "Sistèm Uptime",
+      "metricSessions": "Sesyon aktif",
+      "metricReportsPerDay": "Rapò / Jou",
+      "metricEvents": "Evènman Enjere chak jou",
+      "metricReports": "Rapò ki pwograme yo",
+      "metricLatency": "Latansi API",
+      "unifiedPlatform": "Platfòm Inifye",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Rapò konsole",
+      "businessOutcome": "Rezilta biznis",
+      "section1Heading": "Yon sistèm santralize pou chak metrik ki enpòtan",
+      "section1P1": "Enfòmasyon ak Sistèm Rapò yo se solisyon biznis esansyèl ki pèmèt òganizasyon yo kolekte, jere, ak transfòme done yo an insights ki gen sans. Sistèm sa yo entegre enfòmasyon ki soti nan plizyè depatman, pou asire aksè egzat, konsistan ak an tan reyèl nan done biznis enpòtan yo. Lè yo bay yon platfòm santralize pou jesyon enfòmasyon, òganizasyon yo ka amelyore vizibilite operasyonèl, rasyonalize workflows, epi sipòte desizyon estratejik yo atravè tout nivo antrepriz la.",
+      "section1P2": "Sistèm sa yo itilize rapò otomatik, analiz, ak tablodbò pou swiv pèfòmans, kontwole mezi kle yo, epi jenere rapò an tan reyèl. Lè yo diminye efò manyèl yo ak amelyore presizyon done yo, biznis yo ka pran desizyon pi vit ak pi efikas.",
+      "section2Heading": "Bati pou vizibilite, konfòmite, ak echèl",
+      "section2Text": "Avèk plis vizibilite, konfòmite, ak kolaborasyon, Enfòmasyon ak Sistèm Rapò pèmèt òganizasyon yo optimize pwosesis, amelyore pwodiktivite, ak kondwi kwasans dirab biznis nan yon anviwònman konpetitif.",
+      "ctaHeading": "Bay chak ekip menm foto an tan reyèl nan biznis la.",
+      "ctaText": "Gade ki jan Nexus Data Systems ka konsolide rapò w yo nan yon platfòm entèlijan.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Tout dwa rezève.",
+      "navOverview": "Apèsi sou lekòl la",
+      "navCapabilities": "Kapasite",
+      "navImpact": "Enpak",
+      "navContact": "Kontakte"
+    },
+    "managedServices": {
+      "subtitle": "Sèvis jere konplè pou biznis ou"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modènize aplikasyon pou biznis pou yon antrepriz ki baze sou done",
+      "excerpt": "Ki jan achitekti aplikasyon modèn ak done konekte ka amelyore efikasite operasyonèl, évolutivité ak vizibilite biznis.",
+      "tag": "Transfòmasyon biznis",
+      "category": "TRANSFÒMASYON BIZNIS",
+      "summary": "Yon aplikasyon modèn ak fondasyon done ka ede antrepriz amelyore efikasite operasyonèl, konekte sistèm biznis yo ak kreye pi bon vizibilite atravè operasyon yo."
+    },
+    "artificial-intelligence": {
+      "title": "Kijan AI ap Remode aplikasyon pou antrepriz",
+      "excerpt": "Eksplore kijan automatisation entèlijan, kopilot AI ak entèlijans prediksyon ap vin yon pati nan aplikasyon pou antrepriz biznis yo konte chak jou.",
+      "tag": "Atifisyèl entèlijans",
+      "category": "ENTELIJANS ATIFISYÈL",
+      "summary": "Eksplore kijan automatisation entèlijan, kopilot AI ak entèlijans prediksyon ap transfòme lojisyèl antrepriz chak jou nan platfòm adaptatif, pwoaktif."
+    },
+    "modern-erp": {
+      "title": "Akselere transfòmasyon biznis ak ERP modèn",
+      "excerpt": "Eksplore kijan platfòm ERP modèn konekte finans, akizisyon, chèn ekipman ak operasyon biznis atravè yon fondasyon dijital inifye.",
+      "tag": "ERP modèn",
+      "category": "MODÈN ERP",
+      "summary": "Yon platfòm ERP modèn konekte finans, akizisyon, chèn apwovizyonman, ak operasyon biznis nan yon modèl fonksyone inifye an tan reyèl."
+    },
+    "cybersecurity": {
+      "title": "Bati Sibè Rezilyans nan yon Antrepriz Konekte",
+      "excerpt": "Eksplore ki jan òganizasyon yo ka ranfòse sekirite, pwoteje sistèm kritik yo ak prepare pou menas atravè anviwònman de pli zan pli konekte.",
+      "tag": "Sibèsekirite",
+      "category": "SYBERSEKIRITE",
+      "summary": "Pandan antrepriz yo entegre plis sistèm nwaj, APIs, ak ekosistèm patnè yo, detèminasyon cyber asire operasyon ki enpòtan pou misyon yo kenbe tèt ak menas modèn yo."
+    },
+    "cloud-modernization": {
+      "title": "Modènize aplikasyon eritaj pou nwaj la",
+      "excerpt": "Eksplore yon apwòch pratik pou evalye, modènize ak deplase aplikasyon eritaj yo nan direksyon achitekti nwaj ki kapab évolutive, ki an sekirite.",
+      "tag": "Cloud & modènizasyon",
+      "category": "NWA & MODERNIZASYON",
+      "summary": "Yon plan wout estriktire, pragmatik pou evalye, refactorize, ak imigre sistèm antrepriz monolitik nan achitekti nwaj elastik, ki kapab antreteni yo."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "TRANSFÒMASYON BIZNIS",
+      "title": "Modènize aplikasyon pou biznis pou yon antrepriz ki baze sou done",
+      "subtitle": "Yon aplikasyon modèn ak fondasyon done ka ede antrepriz amelyore efikasite operasyonèl, konekte sistèm biznis yo ak kreye pi bon vizibilite atravè operasyon yo.",
+      "date": "Septanm 2026",
+      "readTime": "7 min li",
+      "imageCaption": "Pèspektif Teknoloji Antrepriz — Achitekti Aplikasyon & Done Konekte",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Aplikasyon pou biznis",
+          "desc": "Diferan eritaj CRM, ERP, ak zouti depatmantal k ap kouri nan silo."
+        },
+        {
+          "title": "Plizyè Sous Done",
+          "desc": "Tablo operasyon fragman, ekstrè CSV, ak chema ad hoc."
+        },
+        {
+          "title": "Dekonekte baz done",
+          "desc": "Depo done nwaj ki izole ak san kowòdone."
+        },
+        {
+          "title": "Rapò ak Itilizatè Biznis yo",
+          "desc": "Rekonsilyasyon manyèl, fèy kalkil konfli, ak rapò reta."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Aplikasyon pou biznis",
+          "desc": "Nwayo platfòm operasyonèl ak koòdone modèn reponn."
+        },
+        {
+          "title": "API / Entegrasyon Kouch",
+          "desc": "Sekirize, pòtay API ki baze sou evènman ki konekte workflows antrepriz yo."
+        },
+        {
+          "title": "Sèvis Done",
+          "desc": "Modèl done mèt inifye, tiyo, ak motè depo optimize."
+        },
+        {
+          "title": "Analytics & Rapò",
+          "desc": "Telemetri an tan reyèl, modèl semantik, ak rapò otomatik."
+        },
+        {
+          "title": "Moun k ap pran desizyon pou biznis yo",
+          "desc": "Viv tablodbò operasyonèl bay vizibilite egzekitif inifye."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Aplikasyon pou antrepriz",
+          "purpose": "Jesyon pwosesis biznis"
+        },
+        {
+          "area": "APIs",
+          "purpose": "Sistèm entegrasyon"
+        },
+        {
+          "area": "Baz done",
+          "purpose": "Done biznis estriktire"
+        },
+        {
+          "area": "Entegrasyon done",
+          "purpose": "Konekte plizyè sous"
+        },
+        {
+          "area": "Analytics",
+          "purpose": "Sur biznis"
+        },
+        {
+          "area": "Cloud Enfrastrikti",
+          "purpose": "Évolutivité ak fleksibilite"
+        },
+        {
+          "area": "Siveyans",
+          "purpose": "Fyab ak pèfòmans"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Amelyore vizibilite operasyonèl atravè inite kwa-fonksyonèl yo",
+        "Pi bon konsistans done ak yon sèl sous antrepwiz verite",
+        "Redwi efò manyèl rapò ak konpilasyon done otomatik",
+        "Amelyore pèfòmans aplikasyon ak redwi latansi tranzaksyon yo",
+        "Pi fasil entegrasyon sistèm atravè estanda, API an sekirite",
+        "Pi gwo évolutivité pou sipòte kwasans òganik ak akizisyon",
+        "Pi bon fondasyon pou inovasyon nan lavni ak adopsyon entèlijans"
+      ],
+      "keyPerspectivePoints": [
+        "Konprann pwosesis biznis yo ak vrè workflows operasyonèl yo",
+        "Konekte sistèm atravè estanda entegrasyon serye",
+        "Amelyore kalite done, gouvènans, ak modèl done mèt",
+        "Modènize aplikasyon yo san yo pa destabilize operasyon chak jou",
+        "Kreye achitekti évolutive ki adapte pou kwasans elastik",
+        "Pèmèt pi bon vizibilite biznis pou pran desizyon aktif"
+      ],
+      "sec1Eyebrow": "DEFI BIZNIS LA",
+      "sec1Heading": "Navigasyon konpleksite nan yon antrepriz k ap grandi",
+      "sec1Subtext": "Kòm biznis yo echèl, ekosistèm teknoloji inevitableman elaji. Ki sa ki kòmanse kòm solisyon konsantre pou depatman endividyèl yo ka evolye nan yon entènèt anmele nan sistèm disparate.",
+      "sec2Eyebrow": "EVOLISYON SISTÈM",
+      "sec2Heading": "Yon Peyizaj Teknoloji Konplèks",
+      "sec2Subtext": "Lè aplikasyon biznis, baz done, ak sistèm operasyon yo evolye poukont yo, koule enfòmasyon yo vin fragmenté. Konprann fwagmantasyon sa a se premye etap enpòtan an.",
+      "sec3Eyebrow": "MODEL LA KONEKTE",
+      "sec3Heading": "Achitekti aplikasyon modèn",
+      "sec3Subtext": "Antrepriz avanse nan direksyon yon achitekti API-premye ki baze sou evènman, kote done yo ap koule byen sou platfòm debaz yo epi yo rive jwenn moun k ap pran desizyon an tan reyèl.",
+      "sec4Eyebrow": "ENTELIJANS AK VIZIBILITE",
+      "sec4Heading": "Konekte Done & Analytics",
+      "sec4Subtext": "Lè aplikasyon biznis yo kominike san pwoblèm, done yo sispann tounen yon sous-pwodwi pou fè rapò epi yo vin tounen yon chofè prensipal nan ladrès operasyonèl.",
+      "sec5Eyebrow": "BLUEPRINT ACHITECTURE",
+      "sec5Heading": "Fondasyon Teknoloji",
+      "sec5Subtext": "Yon View konplè sou domèn teknoloji debaz yo ki konpoze yon fondasyon antrepriz modèn, évolutive.",
+      "sec6Eyebrow": "VALÈ KALITATIF",
+      "sec6Heading": "Enpak biznis",
+      "sec6Subtext": "Modènize achitekti aplikasyon an ak konekte done fragmenté yo bay amelyorasyon operasyon byen mèb atravè òganizasyon an.",
+      "ctaHeading": "Pare pou modènize anviwònman teknoloji w la?",
+      "ctaDescription": "Eksplore kijan achitekti aplikasyon modèn, done konekte ak teknoloji évolutive ka ede òganizasyon yo amelyore efikasite ak prepare pou kwasans alavni.",
+      "ctaButton": "Pale ak ekspè nou yo",
+      "sec1P1": "Nan yon anviwònman antrepriz tipik, kwasans souvan prezante plizyè jenerasyon lojisyèl. Finans, chèn ekipman, sèvis kliyan, ak operasyon sou teren yo souvan opere sou pil lojisyèl separe akeri oswa bati nan diferan moman. Pandan plizyè ane nan evolisyon operasyonèl, sistèm sa yo devlope pwòp fòma done yo, kadans aktyalizasyon, ak entegrasyon kirks.",
+      "sec1P2": "Friksyon an manifeste atravè antrepwiz la atravè kou boutèy operasyon komen:",
+      "sec1List": [
+        {
+          "bold": "Plizyè aplikasyon biznis dekonekte",
+          "text": "ki mande kopi done antre ak manyèl kwa-referans."
+        },
+        {
+          "bold": "Dekonekte baz done",
+          "text": "opere san gouvènans santralize oswa dosye mèt inifye."
+        },
+        {
+          "bold": "Manyèl rapò sou tèt yo",
+          "text": ", kote ekip analyse yo pase plizyè jou pou mete ansanm ekspòtasyon yo olye pou yo dekouvri enfòmasyon yo."
+        },
+        {
+          "bold": "Done enkonsistans",
+          "text": "atravè depatman yo, kreye repons konfli pou kesyon fonksyònman fondamantal yo."
+        },
+        {
+          "bold": "Aplikasyon antretyen sou tèt ak limit évolutivité",
+          "text": ", kòm koneksyon frajil eritaj pwen-a-pwen lite pou sipòte volim tranzaksyon k ap grandi."
+        }
+      ],
+      "sec1P3": "Abòde defi sa yo mande pou wè peyizaj teknoloji a pa kòm yon koleksyon acha lojisyèl izole, men kòm yon platfòm biznis konekte ki fèt pou sipòte ladrès estratejik.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Koule Enfòmasyon Fragmante",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Done Silos",
+          "desc": "Done enpòtan kliyan, finansye, ak envantè rete bloke nan platfòm depatmantal yo, sa ki anpeche yon sèl gade inifye nan operasyon biznis yo."
+        },
+        {
+          "num": "02",
+          "title": "Entegrasyon twou vid ki genyen",
+          "desc": "Koneksyon pwen-a-pwen ak ekstrè pakèt chak swa kreye latansi, gwo pousantaj echèk, ak depans antretyen ki koute chè atravè ekip operasyonèl yo."
+        },
+        {
+          "num": "03",
+          "title": "Enfòmasyon anreta",
+          "desc": "Lè ekzekitif yo dwe tann jou pou rekonsilyasyon nan fen mwa a pou yo konprann pèfòmans, pran desizyon se reyaktif olye ke prediksyon."
+        }
+      ],
+      "modernArchitectureBadge": "Sib Achitekti",
+      "modernArchitectureTitle": "Modèl Aplikasyon Antrepriz Konekte",
+      "sec3P1": "Yon achitekti aplikasyon modèn ranplase koneksyon frajil pwen-a-pwen ak yon fondasyon ajil, dekouple. Lè yo etabli yon API solid ak kouch entegrasyon, sistèm yo kominike atravè pwen final ki gouvène, ki an sekirite pandan y ap konsève otonomi nan inite biznis endividyèl yo.",
+      "sec3P2": "Kapasite teknik kle chanjman achitekti sa a gen ladan:",
+      "sec3List": [
+        {
+          "bold": "Aplikasyon modènizasyon:",
+          "text": "Dekouplage lojik biznis debaz nan sèvis modilè évolutif."
+        },
+        {
+          "bold": "API entegrasyon:",
+          "text": "Etabli estanda, entèfas dokimante pou entèoperabilite entèn ak patnè."
+        },
+        {
+          "bold": "Entegrasyon done ak optimize baz done:",
+          "text": "Inifye tiyo done operasyonèl ak optimize rechèch wo-debi."
+        },
+        {
+          "bold": "Obsèvabilite ak sekirite:",
+          "text": "Enplemante telemetri santralize, santye odit, ak kontwòl aksè ki baze sou wòl atravè tout sèvis yo."
+        }
+      ],
+      "sec4P1": "Fondasyon done entegre transfòme fason lidèchip ak ekip operasyonèl yo kominike avèk enfòmasyon. Olye ke yo konte sou rapò retrospektiv ki montre sa ki te pase semèn de sa, òganizasyon yo jwenn telemetri operasyonèl an dirèk atravè inite biznis yo.",
+      "sec4P2": "Done konekte ak analiz sipòte rezilta biznis dirab atravè:",
+      "sec4List": [
+        {
+          "bold": "Vizibilite operasyonèl:",
+          "text": "Transparans kontinyèl atravè lavant, envantè, pwogrè, ak pèfòmans finansye."
+        },
+        {
+          "bold": "Kadans rapò pi rapid:",
+          "text": "Agrégation done sou demann ki elimine fèy calcul manyèl repetitif."
+        },
+        {
+          "bold": "Enfòmasyon ki konsistan:",
+          "text": "Definisyon sèl pou paramèt tankou Marge, valè kliyan pou tout lavi, ak vitès plon."
+        },
+        {
+          "bold": "Pi bon lide biznis:",
+          "text": "Deteksyon modèl prediksyon ki sifas risk ak opòtinite davans."
+        },
+        {
+          "bold": "Amelyore nan pran desizyon:",
+          "text": "Aksyon egzekitif konfyans ki sipòte pa liy done valide ak transparans."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PERSPEKTIS ESTRATEJIK",
+      "keyPerspectiveTitle": "Modènizasyon se plis pase ranplasman lojisyèl",
+      "keyPerspectiveLead": "Modènize aplikasyon biznis se pa tou senpleman ranplase ansyen lojisyèl ak nouvo zouti. Li se yon aliyman entansyonèl nan teknoloji ak fason biznis la opere, balanse, ak delivre valè."
+    },
+    "artificialIntelligence": {
+      "category": "ENTELIJANS ATIFISYÈL",
+      "title": "Kijan AI ap Remode aplikasyon pou antrepriz",
+      "subtitle": "Eksplore kijan automatisation entèlijan, kopilot AI ak entèlijans prediksyon ap vin yon pati nan aplikasyon pou antrepriz biznis yo konte chak jou.",
+      "date": "Septanm 2026",
+      "readTime": "6 min li",
+      "imageCaption": "Pèspektif Teknoloji Enterprise — Atifisyèl entèlijans ak sistèm antrepriz",
+      "aiUseCases": [
+        {
+          "title": "Pwovizyon pou chèn previzyon",
+          "desc": "Predi pik demann ak reta lojistik nan telemetri founisè istorik."
+        },
+        {
+          "title": "Odit Fakti Otomatik",
+          "desc": "Ekstrè atik liy ak matche ak lòd acha ak zewo antre moun."
+        },
+        {
+          "title": "Biwo Sèvis Entelijan",
+          "desc": "Triyay ak rezolisyon otomatik demann IT ak HR anplwaye Tier-1."
+        },
+        {
+          "title": "Prevansyon abandon kliyan",
+          "desc": "Gwoup konpòtman ki idantifye siyal friksyon byen bonè pou kontak aktif."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Modèl prediksyon an tan reyèl ki baze sou desizyon operasyonèl pi rapid yo",
+        "Rediksyon nan pwosesis done repetitif ak rekonsilyasyon manyèl yo",
+        "Pi gwo debi anplwaye ak asistans kopilot kontèks",
+        "Amelyore satisfaksyon kliyan atravè eksperyans hyper-pèsonalize",
+        "Pwosesis kontinyèl pwòp tèt ou-optimize ki baze sou telemetri reyèl",
+        "Suivi konfòmite de-risk atravè enspeksyon otomatik kontwòl kontab"
+      ],
+      "governancePoints": [
+        "Aksè strik ki baze sou wòl asire modèl AI pa janm koule done sansib",
+        "Tras rezònman transparan ki pèmèt moun revize aksyon ki gen anpil valè",
+        "Evalyasyon modèl kontinyèl pou veye kont alisinasyon ak patipri",
+        "Estanda pwovens done strik ki aliman ak GDPR, SOC 2, ak HIPAA",
+        "Chemen eskalasyon moun-nan-bouk pou kondisyon kwen ensèten"
+      ],
+      "sec1Eyebrow": "Chanjman an nan entèlijans natif natal",
+      "sec1Heading": "AI nan aplikasyon Enterprise",
+      "sec1Subtext": "Entèlijans atifisyèl ap fè tranzisyon soti nan pwojè eksperimantal yo nan aplikasyon debaz operasyon ke antrepriz yo konte sou chak jou.",
+      "sec2Eyebrow": "OTOMATISYON A ECHÈL",
+      "sec2Heading": "Entelijan Otomatik",
+      "sec2Subtext": "Deplase pi lwen pase script tradisyonèl ki baze sou règ nan direksyon travay kognitif ki konprann kontni san estrikti, adapte yo ak varyasyon, ak optimize pwosesis yo dinamik.",
+      "sec3Eyebrow": "ASISTANS ANTRE",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Ki chita sou konesans òganizasyonèl ak sekirite antrepriz, asistan AI aji kòm patnè espesyalize atravè workflows biznis chak jou.",
+      "sec4Eyebrow": "REJÒNMAN POU VANN",
+      "sec4Heading": "Entèlijans Prediktif",
+      "sec4Subtext": "Transfòme mòso istorik antrepwiz yo ak an tan reyèl rèldo operasyonèl nan previzyon aksyon.",
+      "sec5Eyebrow": "APLIKASYON MOND REYÈL",
+      "sec5Heading": "Enterprise AI ka itilize",
+      "sec5Subtext": "Fason pratik dirijan òganizasyon yo ap aplike entèlijans atifisyèl atravè fonksyon biznis debaz yo.",
+      "sec6Eyebrow": "VALÈ ESTRATEJIK",
+      "sec6Heading": "Avantaj biznis yo",
+      "sec6Subtext": "Lè yo aplike byen ak done antrepriz gouvène, AI debloke avantaj kalitatif sibstansyèl.",
+      "ctaHeading": "Eksplore Opòtinite AI pou biznis ou",
+      "ctaDescription": "Dekouvri kijan automatisation entèlijan, kopilòt antrepwiz ak modèl prediksyon kapab debloke efikasite operasyonèl atravè sistèm debaz ou yo.",
+      "ctaButton": "Pale ak ekspè nou yo",
+      "sec1P1": "Pandan plizyè ane, yo te trete entèlijans atifisyèl antrepriz kòm yon kapasite ekstèn: yon modèl ki fòme an izolasyon, yon demonstrasyon sandbox, oswa yon chatbot izole ki aksesib atravè yon pòtal separe. Jodi a, paradigm nan fondamantalman chanje. AI antrepwiz ki gen gwo enpak entegre dirèkteman andedan sistèm dosye yo—ERP yo, CRM yo, platfòm kapital imen, ak motè chèn ekipman kote biznis reyèl rive.",
+      "sec1P2": "Lè entèlijans opere andedan sistèm dosye a, li eritye fwontyè sekirite òganizasyon an etabli, modèl done, ak lojik biznis. Li pa tou senpleman jenere repons jenerik; li aji sou lòd an dirèk, entèprete tikè sipò ouvè, rekonsilye fakti founisè yo, epi ede anplwaye yo nan entèfas egzak yo navige chak jou.",
+      "sec1P3": "Transfòmasyon sa a deplase lojisyèl antrepriz soti nan baz done pasif ki rete tann pou frap moun nan platfòm aktif ki antisipe bezwen, otomatize etap, ak rekòmandasyon alè.",
+      "sec2P1": "Tradisyonèl Robotic Pwosesis Automatisation (RPA) ekselan nan detèminist, grate ekran repetitif. Sepandan, seri règ rijid kraze chak fwa yon fòm chanje, yon layout dokiman inatandi rive, oswa yon eksepsyon rive. Otomatik entèlijan pon divizyon sa a lè li konbine rezònman mantal ak ekzekisyon tranzaksyon:",
+      "sec2List": [
+        {
+          "bold": "Automatisation workflow:",
+          "text": "Òksèstre operasyon konplèks trans-depatman, routage travay ki baze sou ijans ak chemen rezolisyon istorik."
+        },
+        {
+          "bold": "Entelijan pwosesis dokiman:",
+          "text": "Enjere PDF ki pa estriktire, imèl, manifeste anbake, ak kontra, konvèti yo an tranzaksyon baz done estriktire."
+        },
+        {
+          "bold": "Entelijan travay automatisation:",
+          "text": "Otomatize validasyon operasyon milti-etap-tankou matche lòd acha ak resi ak deklarasyon labank."
+        },
+        {
+          "bold": "Optimize pwosesis:",
+          "text": "Kontinyèlman analize mòso bwa pwosesis yo pou idantifye blokaj tan sik yo epi rekòmande rafineman workflow vize."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Rechèch enfòmasyon",
+          "desc": "Rekipere semantik atravè baz konesans distribiye, règleman intranet, espesifikasyon pwodwi, ak rezolisyon tikè istorik san devine mo kle."
+        },
+        {
+          "icon": "📝",
+          "title": "Rezime Dokiman",
+          "desc": "Distilasyon enstantane nan RFP long, akò vandè, espesifikasyon teknik, ak amannman legal nan brèf egzekitif aksyon ak lis verifikasyon risk."
+        },
+        {
+          "icon": "✨",
+          "title": "Jenerasyon kontni",
+          "desc": "Asistans redaksyon pwopozisyon kliyan yo, dokiman operasyon yo, pwosedi fonksyònman estanda (SOPs), ak mizajou estanda kliyan ki annamoni ak estanda mak yo."
+        },
+        {
+          "icon": "📈",
+          "title": "Analiz done",
+          "desc": "Tradwi kesyon konvèsasyon yo an demann analitik konplèks, jenere rezime tablo alamòd epi mete aksan sou pwen enpòtan pou lidèchip."
+        },
+        {
+          "icon": "🔄",
+          "title": "Workflows biznis",
+          "desc": "Kòmanse tranzaksyon dirèkteman nan envit chat—tankou pwograme resous, kreye tikè, mete ajou dosye, oswa soumèt demann pou achte."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Aksè ki baze sou wòl",
+          "desc": "Asire repons kopilòt yo respekte estrikteman nivo pèmisyon itilizatè yo, kenbe finansye konfidansyèl, dosye HR, ak pwopriyete entelektyèl pwoteje."
+        }
+      ],
+      "sec4P1": "Pandan ke modèl jeneratif briye nan konpreyansyon ak sentèz langaj, entèlijans prediksyon konsantre sou modèl matematik kache nan seri done antrepriz estriktire. Modèl prediksyon entegre pèmèt òganizasyon yo antisipe obstak operasyonèl yo anvan yo deranje operasyon yo:",
+      "sec4List": [
+        {
+          "bold": "Prévisions operasyon:",
+          "text": "Predi tandans revni, vitès envantè, ak demann resous lè w fè sentèz endikatè sezon yo ak vitès tiyo an tan reyèl."
+        },
+        {
+          "bold": "Analiz prediksyon:",
+          "text": "Identifier risk désabonnement kliyan, sik degradasyon antretyen, ak reta nan chèn ekipman pou pandan ke gen tan toujou pou entèvni."
+        },
+        {
+          "bold": "Idantifikasyon risk:",
+          "text": "Siyal anomali nan tranzaksyon finansye yo, jounal konfòmite yo, ak modèl akizisyon vandè yo anvan yo ogmante."
+        },
+        {
+          "bold": "Prediksyon demann:",
+          "text": "Amonize previzyon lavant ak kapasite fabrikasyon ak nivo stock depo pou pwoteje kapital travay."
+        }
+      ],
+      "keyPerspectiveEyebrow": "GOUVERNANS ANTREPRISE",
+      "keyPerspectiveTitle": "Konfyans, Sipèvizyon & Gadray",
+      "keyPerspectiveLead": "AI se sèlman serye kòm fondasyon done ki anba li ak gouvènans ki antoure li. Adopsyon antrepriz dirab mande pou disiplin achitekti ekspre:"
+    },
+    "modernErp": {
+      "category": "MODÈN ERP",
+      "title": "Akselere transfòmasyon biznis ak ERP modèn",
+      "subtitle": "Eksplore kijan platfòm ERP modèn konekte finans, akizisyon, chèn ekipman ak operasyon biznis atravè yon fondasyon dijital inifye.",
+      "date": "Out 2026",
+      "readTime": "6 min li",
+      "imageCaption": "Pèspektif Teknoloji Antrepriz — ERP & Operasyon Biznis Konekte",
+      "connectedFunctions": [
+        {
+          "title": "Jesyon Finansye",
+          "desc": "Mizajou nan liv an tan reyèl, rekonesans otomatik revni, ak rekonsilyasyon enstantane plizyè lajan."
+        },
+        {
+          "title": "Chèn ekipman ak lojistik",
+          "desc": "Vizibilite envantè bout-a-fen, optimize depo, ak telemetri pèfòmans founisè."
+        },
+        {
+          "title": "Kapital Imèn ak Mendèv",
+          "desc": "Portail anplwaye oto-sèvis, kouri pewòl otomatik, ak planifikasyon sik lavi talan entegre."
+        },
+        {
+          "title": "Akizisyon & Sourcing",
+          "desc": "Otomatik apwobasyon acha, konfòmite kontra vandè, ak analiz dinamik depans."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-Native Achitekti",
+          "desc": "Echèl kalkile elastik san yo pa anlè enfrastrikti nan lokal oswa fèmen vèsyon ki deranje."
+        },
+        {
+          "title": "Louvri API Ekosistèm",
+          "desc": "Konektè pre-konstriksyon ki pèmèt senkronizasyon done de-fason san pwoblèm ak mikwosèvis koutim ak suite CRM."
+        },
+        {
+          "title": "Analytics entegre",
+          "desc": "Dirèk drill-downs tablodbò soti nan bilan wo nivo nan mòso tranzaksyon endividyèl yo."
+        },
+        {
+          "title": "Deklanche Workflow otomatik",
+          "desc": "Evènman ki baze sou evènman deklanche egzekite operasyon estanda trans-depatman yo otonòm."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Yon sèl sous verite elimine rapò depatmantal konfli yo",
+        "Gwo rediksyon nan fen mwa ak fen trimès sik fèmen",
+        "Envantè an tan reyèl ak vizibilite lojistik minimize stockout",
+        "Redwi tèt antretyen IT atravè mizajou modilè nwaj natif natal",
+        "Suivi inifye konfòmite atravè jiridiksyon taks milti-rejyonal yo",
+        "Pi vit abòde antite akeri nan kolòn vètebral operasyonèl pataje"
+      ],
+      "erpStrategyPoints": [
+        "Aliman achitekti ERP ak workflows operasyon debaz anvan konfigirasyon",
+        "Chwazi modèl deplwaman modilè pou reyalize viktwa rapid etap enpòtan yo",
+        "Priyorite bon jan kalite mèt done migrasyon ak rekonsilyasyon",
+        "Entègre jesyon chanjman otomatik ak pwogram fòmasyon ki adapte pou wòl yo",
+        "Konsepsyon pòtay API pou ekspansyon entegrasyon nan lavni san friksyon"
+      ],
+      "sec1Eyebrow": "zo rèl do OPERASYONÈ",
+      "sec1Heading": "Poukisa ERP modèn enpòtan",
+      "sec1Subtext": "ERP se pa sèlman kontablite back-office ankò. Li se modèl la opere nan antrepriz la modèn eksprime nan lojisyèl.",
+      "sec2Eyebrow": "EKOSISTÈM ENTEGRE",
+      "sec2Heading": "Fonksyon Biznis Konekte",
+      "sec2Subtext": "Valè òganizasyonèl reyèl parèt lè fonksyon biznis debaz yo fè tranzaksyon ansanm sou yon fondasyon dijital pataje.",
+      "sec3Eyebrow": "KWA FONKSYONAL AMONI",
+      "sec3Heading": "Operasyon Inifye ak Koule Enfòmasyon",
+      "sec3Subtext": "Kraze miray kominikasyon ant depatman yo pou pèmèt flux travay antrepriz likid ak senkronize.",
+      "sec4Eyebrow": "ENTERPRISE TELOMETRI",
+      "sec4Heading": "Vizibilite biznis an tan reyèl",
+      "sec4Subtext": "Konsolide mezi operasyon yo nan tablodbò egzekitif transparan ki reflete reyalite biznis aktyèl yo.",
+      "sec5Eyebrow": "KORE PLATFORM ACHITECTURE",
+      "sec5Heading": "Kapasite ERP modèn",
+      "sec5Subtext": "Atribi achitekti ki separe platfòm ERP kontanporen yo ak enstalasyon eritaj rijid yo.",
+      "sec6Eyebrow": "ENPAK KALITATIF",
+      "sec6Heading": "Avantaj biznis yo",
+      "sec6Subtext": "Konekte operasyon debaz biznis yo nan yon fondasyon dijital inifye bay detèminasyon òganizasyonèl mezirab.",
+      "ctaHeading": "Modènize Operasyon Antrepriz Ou",
+      "ctaDescription": "Eksplore kijan platfòm ERP modèn konekte finans, akizisyon, chèn ekipman ak operasyon biznis atravè yon fondasyon dijital inifye.",
+      "ctaButton": "Pale ak ekspè nou yo",
+      "sec1P1": "Nan peyizaj antrepriz k ap deplase rapid, sistèm tradisyonèl Enterprise Resource Planning souvan gen difikilte. Bati nan yon epòk nan pwosesis pakèt ak izole sèvè lokal yo, ERPs eritaj yo te trè Customized, yo te difisil yo ajou, ak gwo doulè opak. Operasyon biznis esansyèl yo te fonksyone nan silo paralèl, yo te konte sou ekspòtasyon frajil lannwit lan pou senkronize registres ak depo.",
+      "sec1P2": "Modèn, nwaj-natif ERP fondamantalman redefini dinamik sa a. Li opere kòm kolòn vètebral dijital inifye nan antrepriz la—yon fondasyon vivan kote finans, akizisyon, chèn ekipman, envantè, ak resous imen fè tranzaksyon sou yon modèl done pataje.",
+      "sec1P3": "Lè yo pote operasyon debaz yo nan yon sèl anviwònman amonize, ERP modèn elimine tach avèg operasyonèl yo ki ralanti kwasans, sa ki pèmèt lidè yo dirije biznis la lè l sèvi avèk siyal an tan reyèl olye ke rezime istorik rasi.",
+      "sec3P1": "Silo operasyonèl yo raman pwoblèm moun; yo se pwoblèm achitekti. Lè ekip sèvis kliyan, akizisyon, ak depo travay nan aplikasyon ki dekonekte, chak transmisyon mande pou imèl manyèl, fèy kalkil, ak apèl nan telefòn. Erè yo miltipliye, fakti yo kenbe, ak angajman kliyan glise.",
+      "sec3P2": "ERP modèn abòde sa atravè liy inifye done ak òkestrasyon pwosesis ki baze sou evènman:",
+      "sec3List": [
+        {
+          "bold": "Senkronize lòd-a-lajan kach:",
+          "text": "Lè yo mete yon lòd kliyan, envantè rezève otomatikman, etikèt anbakman jenere, ak registres bòdwo yo mete ajou enstantane."
+        },
+        {
+          "bold": "Transparans akizisyon pou peye:",
+          "text": "Lòd acha yo, resi machandiz, ak fakti machann yo matche otomatikman ak rekonsilyasyon 3-fason, ki make sèlman eksepsyon pou revizyon imen."
+        },
+        {
+          "bold": "Travay inifye ak depans operasyonèl:",
+          "text": "Fèy tan pwojè, alokasyon pewòl, ak depans operasyon dirèk kat dirèkteman nan sant pri yo an tan reyèl."
+        }
+      ],
+      "sec4P1": "Opere yon antrepriz san yon vizibilite inifye se tankou vole nan bwouya dans ak enstriman mizik reta. ERP modèn bay telemetri an tan reyèl atravè tout dimansyon biznis:",
+      "sec4List": [
+        {
+          "bold": "Viv tablodbò egzekitif:",
+          "text": "Opinyon enstantane sou maj brit, koule lajan kach fonksyònman, responsablite ouvè, ak rès lòd san yo pa tann pou fèmen peryòd."
+        },
+        {
+          "bold": "Oto-sèvis rapò operasyonèl:",
+          "text": "Chèf depatman yo ka bati demann koutim epi fè egzèsis soti nan rezime nivo antrepriz nan atik liy tranzaksyon endividyèl yo."
+        },
+        {
+          "bold": "Santralize enfòmasyon mèt:",
+          "text": "Elimine nimewo kontradiktwa pa etabli yon sèl done mèt gouvène pou kliyan, machann, ak katalòg pwodwi."
+        },
+        {
+          "bold": "Alèt anomali proactive:",
+          "text": "Alèt otomatik notifye manadjè yo imedyatman lè maj yo desann pi ba pase papòt la, envantè yo ba, oswa livrezon founisè yo glise."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOZOFI TRANSFÒMASYON ERP",
+      "keyPerspectiveTitle": "Modènizasyon pragmatik sou ekzamine monolitik",
+      "keyPerspectiveLead": "Modèn transfòmasyon ERP reyisi lè òganizasyon trete li kòm yon amelyorasyon opere evolisyonè olye ke yon dezòd IT tout oswa anyen:"
+    },
+    "cybersecurity": {
+      "category": "SYBERSEKURITE",
+      "title": "Bati Sibè Rezilyans nan yon Antrepriz Konekte",
+      "subtitle": "Eksplore ki jan òganizasyon yo ka ranfòse sekirite, pwoteje sistèm kritik yo ak prepare pou menas atravè anviwònman ki de pli zan pli konekte.",
+      "date": "Septanm 2026",
+      "readTime": "8 min li",
+      "imageCaption": "Pèspektif Teknoloji Antrepriz — Defans Menas ak Achitekti Zero-Trust",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetri ak Deteksyon",
+          "desc": "Enjèstyon an tan reyèl ak korelasyon anomali SIEM atravè tout pwen final nwaj yo ak chaj travay yo."
+        },
+        {
+          "title": "Kontenisyon & Izolasyon",
+          "desc": "Règ karantèn rezo otomatik ki izole veso ki konpwomèt oswa kalifikasyon imedyatman."
+        },
+        {
+          "title": "Ratrapaj ak kòz rasin",
+          "desc": "Rapid patch lansman ak digital forensics idantifye vektè vyolasyon egzak la."
+        },
+        {
+          "title": "Rezilyans & Redi",
+          "desc": "Feedback kontinyèl nan sovgad imuiabl, guardrails politik, ak simulation otomatik ekip wouj."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Rediksyon sibstansyèl nan sifas atak vilnerabilite atravè byen nwaj yo",
+        "Garanti kontinwite operasyonèl ak rekiperasyon dezas ak RTO/RPO minim",
+        "Konfyans total konfòmite atravè odit ISO 27001, SOC 2, HIPAA, ak GDPR",
+        "Pwoteksyon debaz pwopriyete entelektyèl antrepriz ak dosye kliyan konfidansyèl",
+        "Rasyonalize machann ak gouvènman risk twazyèm pati atravè kontwòl aksè inifye",
+        "Ranfòse kliyan ak envestisè konfyans ki te sipòte pa pozisyon sekirite verifye zero-trust"
+      ],
+      "zeroTrustPrinciples": [
+        "Pa janm fè konfyans, toujou verifye: Otantifikasyon eksplisit obligatwa pou chak tranzaksyon",
+        "Aksè pou pi piti privilèj: Limit wòl granulè ki limite mouvman menas lateral",
+        "Sipoze Vyolasyon: Siveyans kontinyèl menas, chifreman nan transpò ak nan rès",
+        "Mikwo-segmantasyon: Firewall rezo izole chaj travay aplikasyon endividyèl yo",
+        "Telemetri kontinyèl: analiz konpòtman otomatik ki endike demann sesyon anòmal yo"
+      ],
+      "sec1Eyebrow": "PERIMÈT A KAP APLIKASYON",
+      "sec1Heading": "Peyizaj Sekirite Antrepriz Konekte a",
+      "sec1Subtext": "Kòm òganizasyon modèn konekte plis aplikasyon, anviwònman nwaj, anplwaye aleka, aparèy mobil, ak patnè twazyèm pati, perimèt sekirite tradisyonèl la sispann egziste.",
+      "sec2Eyebrow": "DEFANS KONPLÈ",
+      "sec2Heading": "Multi-Kouch Pwoteksyon Menas",
+      "sec2Subtext": "Defans aktif ki pwoteje enfrastrikti enpòtan, done antrepriz sansib, ak sistèm operasyon yo.",
+      "sec3Eyebrow": "NOUVO FWONTYÈ SEKIRITE",
+      "sec3Heading": "Jesyon idantite ak aksè (IAM)",
+      "sec3Subtext": "Idantite se plan kontwòl fondasyon sekirite modèn. Prèske tout vyolasyon sekirite grav kòmanse ak kalifikasyon konpwomèt olye ke èksplwatasyon lojisyèl.",
+      "sec4Eyebrow": "PARADIGM ACHITECTURAL",
+      "sec4Heading": "Demistifye Achitekti Zero Trust",
+      "sec4Subtext": "Zero Trust se pa yon sèl pwodwi oswa zouti. Li se yon estrateji achitekti ki baze sou yon prensip senp: pa fè okenn antite konfyans andedan oswa deyò rezo a pa default.",
+      "sec5Eyebrow": "GOUVÈNANS INFRASTRUCTI",
+      "sec5Heading": "Konsiderasyon Sekirite Cloud",
+      "sec5Subtext": "Pwoteje chaj travay atravè nwaj piblik, achitekti ibrid, ak anviwònman veso distribye.",
+      "sec6Eyebrow": "RESILIANS OPERASYONÈ",
+      "sec6Heading": "Preparasyon pou Ensidan: Pi lwen Prevansyon",
+      "sec6Subtext": "Vrè detèminasyon cyber aksepte ke ensidan ka rive. Preparasyon konsantre sou kenbe rapid, dezòd biznis minim, ak rekiperasyon verifye.",
+      "sec7Eyebrow": "VALÈ ESTRATEJIK",
+      "sec7Heading": "Avantaj biznis yo",
+      "sec7Subtext": "Bati yon antrepriz cyber-rezistan pwoteje valè òganizasyonèl, pozisyon regilasyon, ak repitasyon mache.",
+      "ctaHeading": "Ranfòse Sekirite Antrepriz Ou",
+      "ctaDescription": "Eksplore ki jan òganizasyon yo ka ranfòse sekirite, pwoteje sistèm kritik yo ak prepare pou menas atravè anviwònman ki de pli zan pli konekte.",
+      "ctaButton": "Pale ak ekspè nou yo",
+      "sec1P1": "Nan epòk eritaj nan IT antrepriz, sekirite te opere sou yon doktrin chato-ak-twou: tout bagay ki andedan rezo biwo antrepriz la te sipoze fè konfyans, pandan ke tout bagay deyò yo te konsidere kòm yon konfyans. Yon sèl firewall antrepriz pwoteje sèvè entèn, baz done, ak òdinatè Desktop.",
+      "sec1P2": "Antrepriz jodi a te depase miray fizik yo. Chaj travay yo abite atravè anviwonman milti-nwaj (AWS, Azure, GCP), anplwaye yo jwenn aksè nan aplikasyon pou biznis ki soti nan divès kote, ak API yo kontinyèlman echanj done operasyonèl sansib ak founisè lojistik ekstèn, enstitisyon finansye, ak fournisseurs SaaS.",
+      "sec1P3": "Pandan ke hyper-koneksyon sa a kondwi yon ladrès biznis fòmidab, li anpil elaji sifas atak antrepriz la. Chak pwen final API, siy idantite, aparèy mobil konekte, ak entegrasyon SaaS reprezante yon vektè potansyèl ekspoze. Vrè pwoteksyon antrepriz mande pou chanje soti nan defans ki baze sou perimèt nan pwoaktif, detèminasyon cyber detèminasyon.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Deteksyon menas",
+          "desc": "Entèlijans menas asistans aprantisaj machinn ki kontwole modèl rezo anòmal, abi kalifikasyon, ak vilnerabilite zewo jou an tan reyèl."
+        },
+        {
+          "icon": "📡",
+          "title": "Siveyans sekirite",
+          "desc": "Sant Operasyon Sekirite Santralize (SOC) telemetry korelasyon evènman atravè sèvè, grap veso, founisè idantite, ak pwen final."
+        },
+        {
+          "icon": "🔍",
+          "title": "Jesyon vilnerabilite",
+          "desc": "Analize otomatik vilnerabilite kontinyèl atravè enfrastrikti, depo kòd sous, ak rejis veso yo pou repare feblès yo yon fason aktif."
+        },
+        {
+          "icon": "🔒",
+          "title": "Pwoteksyon Done",
+          "desc": "Chidere solid nan transpò piblik (TLS 1.3) ak nan rès (AES-256), ansanm ak gouvènans granulaire prevansyon pèt done (DLP) pou anpeche fwit pwopriyete entelektyèl."
+        }
+      ],
+      "sec3P1": "Pwoteje byen antrepriz yo mande pou asire chak idantite—si yon moun egzekitif, yon kontraktè ekstèn, oswa yon kont sèvis lojisyèl otonòm—gen otorizasyon valide pou resous egzak li jwenn aksè.",
+      "sec3List": [
+        {
+          "bold": "Jesyon idantite santralize:",
+          "text": "Single Sign-On (SSO) ak estanda idantite federatif ki elimine magazen modpas fragmenté atravè aplikasyon yo."
+        },
+        {
+          "bold": "Otantifikasyon adaptab milti-faktè (MFA):",
+          "text": "Kle pyès ki nan konpitè FIDO2 ki reziste èskrokri ak defi kontèks ki baze sou risk pou fonksyon administratif sansib."
+        },
+        {
+          "bold": "Granulaire kontwòl aksè:",
+          "text": "Kontwòl aksè ki baze sou wòl byen (RBAC) ak ki baze sou atribi (ABAC) ki aplike nan nivo API ak baz done."
+        },
+        {
+          "bold": "Prensip pi piti privilèj yo:",
+          "text": "Akòde aksè tanporè, jis nan tan (JIT) ki ekspire otomatikman lè travay administratif yo fini."
+        }
+      ],
+      "keyPerspectiveEyebrow": "DOKSTRIN ZEwo TRUST CORE",
+      "keyPerspectiveTitle": "Verifikasyon kontinyèl sou konfyans avèg",
+      "keyPerspectiveLead": "Nan yon achitekti Zero Trust, konfyans implicite ki baze sou kote rezo a konplètman demonte. Chak tranzaksyon, demann baz done, ak koneksyon itilizatè dwe kontinyèlman pwouve lejitimite li yo:",
+      "cloudSecurityCards": [
+        {
+          "title": "Responsablite Pataje",
+          "desc": "Gouvènans klè ki distenge sekirite enfrastrikti fizik founisè nwaj la ak responsablite antrepriz la pou chifreman done, règleman IAM, ak kòd aplikasyon an."
+        },
+        {
+          "title": "Enfrastrikti kòm Kòd (IaC)",
+          "desc": "Konfigirasyon nwaj imuiabl, oditab jere atravè kòd. Scanners otomatik politik kòm kòd bloke move konfigirasyon ak bokit ekspoze anvan deplwaman."
+        },
+        {
+          "title": "Veso & Kubernetes Sekirite",
+          "desc": "Tansyon veso ki solid, rejis imaj siyen, mikwo-segmantasyon rezo a, ak jesyon sekrè otomatik ki kenbe kalifikasyon yo deyò nan depo sous yo."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "NWA & MODERNIZASYON",
+      "title": "Modènize aplikasyon eritaj pou nwaj la",
+      "subtitle": "Eksplore yon apwòch pratik pou evalye, modènize ak deplase aplikasyon eritaj yo nan direksyon achitekti nwaj ki sekirize, ki kapab echeve.",
+      "date": "Septanm 2026",
+      "readTime": "6 min li",
+      "imageCaption": "Antrepriz Teknoloji pèspektiv — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (Leve & Chanjman)",
+          "desc": "Tranzisyon chaj travay yo nan nwaj machin vityèl rapidman ak modifikasyon kòd minim."
+        },
+        {
+          "title": "Replatform (Leve & Remode)",
+          "desc": "Amelyore kad egzekite, adopte baz done nwaj jere, ak rasyonalize operasyon yo."
+        },
+        {
+          "title": "Refactor (Rebati nwaj-natif)",
+          "desc": "Dekonstwi monolit yo an mikwosèvis veso yo ak API san sèvè ki baze sou evènman yo."
+        },
+        {
+          "title": "Ranplase (Modènizasyon SaaS)",
+          "desc": "Retire sistèm eritaj redondants an favè lojisyèl nwaj antrepwiz ki fèt pou yo."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Evalyasyon Eritaj",
+          "desc": "Kat depandans otomatik, katalòg dèt teknik, ak nòt preparasyon pou nwaj."
+        },
+        {
+          "title": "Sib Achitekti",
+          "desc": "Plan mikwosèvis modilè, topoloji veso yo, ak modèl IaC otomatik yo."
+        },
+        {
+          "title": "Migrasyon Etap",
+          "desc": "Canary lage, senkronizasyon done doub-ekri, ak vag koupe zewo-detan."
+        },
+        {
+          "title": "Optimizasyon nwaj",
+          "desc": "Gouvènans pri kontinyèl, telemetri otoeskalaj, ak revizyon operasyonèl FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponansyèlman pi ba depans antretyen enfrastrikti ak rafrechisman pyès ki nan konpitè",
+        "Prèske-enfini lastisite kalkile jere pik trafik antrepriz ak zewo latansi",
+        "Vitès lage akselere ak tiyo deplwaman CI/CD totalman otomatik",
+        "Eliminasyon nan eritaj pwen sèl nan echèk ak milti-AZ disponiblite segondè",
+        "Achitekti API modèn ki pèmèt entegrasyon patnè rapid kwa-platfòm yo",
+        "Obsèvabilite avanse an tan reyèl nan pèfòmans aplikasyon ak depans nwaj yo"
+      ],
+      "landscapeAssessmentPoints": [
+        "Kat depandans konplèks entè-aplikasyon ak kadans senkronizasyon done yo",
+        "Idantifye konfigirasyon anviwònman ki kode dijman ak chema baz done propriétaires",
+        "Evalye konfòmite regilasyon ak kontrent souverènte done pou chak jiridiksyon",
+        "Kalkile reyalis pri total de pwopriyetè (TCO) atravè refactor kont chemen rehost",
+        "Etabli vag lansman klè pou pwoteje operasyon biznis aktif chak jou"
+      ],
+      "sec1Eyebrow": "REALITE SISTÈM LEGACY",
+      "sec1Heading": "Legacy Challenge la",
+      "sec1Subtext": "Monolit ki aje yo limite vitès inovasyon, ogmante frajilite operasyon yo, epi ogmante depans antretyen enfrastrikti yo.",
+      "sec2Eyebrow": "EVALYASYON AK DEKOUVERT",
+      "sec2Heading": "Konprann Peyizaj Aplikasyon an",
+      "sec2Subtext": "Siksè modènizasyon nwaj kòmanse ak evalyasyon solid. Sote dirèkteman nan migrasyon san yo pa odit depandans aplikasyon an se kòz prensipal reta nan koupe yo.",
+      "sec3Eyebrow": "4 CHMEN MODERNIZASYON YO",
+      "sec3Heading": "Modènizasyon Apwòch",
+      "sec3Subtext": "Pa gen yon sèl estrateji migrasyon pou tout moun. Antrepwiz dirijan yo matche ak modèl modènizasyon ki kòrèk la ak chak kantite travay espesifik ki baze sou valè biznis, ijans, ak dèt teknik.",
+      "sec4Eyebrow": "MODÈL TRANSFÒMASYON SIB",
+      "sec4Heading": "Achitekti nwaj modèn",
+      "sec4Subtext": "Yon plan estriktire ki transfòme monolit eritaj yo an sèvis nwaj elastik, an sekirite ak antretyen.",
+      "sec5Eyebrow": "REZILTA TRANSFÒMASYON",
+      "sec5Heading": "Avantaj kle modènizasyon yo",
+      "sec5Subtext": "Deplase sistèm eritaj yo sou achitekti nwaj modèn yo bay ladrès operasyon byen mèb ak previzibilite pri.",
+      "ctaHeading": "Modènize Aplikasyon Eritaj Ou yo",
+      "ctaDescription": "Eksplore yon apwòch pratik pou evalye, modènize ak deplase eritaj aplikasyon yo nan direksyon achitekti nwaj ki sekirize, ki echèk.",
+      "ctaButton": "Pale ak ekspè nou yo",
+      "sec1P1": "Aplikasyon ki enpòtan pou misyon yo te konstwi yon dekad de sa yo toujou mennen plizyè milya dola nan revni antrepriz, men frigidité achitekti yo kreye risk operasyon k ap grandi.",
+      "sec1P2": "Chak antrepriz fè fas a tansyon ki genyen ant estabilite ak modènizasyon. Sistèm Legacy yo te enjenyè pou durability, epi yo te fè fyab pou ane. Sepandan, kòm kondisyon biznis akselere, achitekti aje sa yo rankontre limit estriktirèl:",
+      "sec1List": [
+        {
+          "bold": "Pile lojisyèl aje:",
+          "text": "Baz kod monolitik ki te bati sou kad demode ak pisin talan k ap diminye ki disponib pou antretyen."
+        },
+        {
+          "bold": "Sik antretyen difisil:",
+          "text": "Konpozan byen makonnen kote chanje yon sèl karakteristik riske kraze modil operasyonèl ki pa gen rapò."
+        },
+        {
+          "bold": "Évolutivité limite:",
+          "text": "Limit dekale vètikal ki mande pou achte pyès ki nan konpitè chè pou jere sik nan sezon an."
+        },
+        {
+          "bold": "Defi entegrasyon:",
+          "text": "Enkapasite pou koòdone san pwoblèm ak aplikasyon mobil modèn, portail kliyan, oswa API patnè san yo pa script pakèt frajil."
+        },
+        {
+          "bold": "Kontrent enfrastrikti:",
+          "text": "Sik lavi chanm sèvè fizik, vilnerabilite backup, ak gwo depans operasyon/refwadisman."
+        }
+      ],
+      "sec2P1": "Yon vwayaj modènizasyon pragmatik kòmanse pa etabli klète total atravè byen ki egziste deja:",
+      "sec2List": [
+        {
+          "bold": "Aplikasyon:",
+          "text": "Katalòg tout chaj travay aktif, modil koutim, script background, ak pakè istorik twazyèm pati."
+        },
+        {
+          "bold": "Depandans:",
+          "text": "Katograf konplèks kouple ègzekutabl, tab baz done pataje, apèl sistèm dosye dirèk, ak kontra sèvis ekstèn."
+        },
+        {
+          "bold": "Done:",
+          "text": "Evalye estrikti done yo, kondisyon entegrite tranzaksyon, kadans backup, ak règ souverènte regilasyon."
+        },
+        {
+          "bold": "Enfrastrikti:",
+          "text": "Odit CPU, memwa, itilizasyon depo, ak debi rezo a nan espesifikasyon nwaj sib ki byen gwosè."
+        },
+        {
+          "bold": "Kritik biznis:",
+          "text": "Klasifikasyon aplikasyon yo nan nivo pou konsepsyon vag migrasyon ki an sekirite ak etap ak pwosedi repli klè."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Avantaj:",
+      "cloudArchitectureBadge": "Sik lavi modènizasyon",
+      "cloudArchitectureTitle": "Koule modènizasyon nwaj fen-a-fen",
+      "sec4P1": "Achitekti destinasyon an dekouple aplikasyon debaz yo nan sèvis modilè, nan veso ki anime sou platfòm nwaj elastik (tankou Kubernetes oswa ègzekutabl san sèvè jere).",
+      "sec4P2": "Lè yo tabli tiyo deplwaman CI/CD otomatik yo, koupe otomatik ble-vèt, ak enfrastrikti kòm kòd, deplwaman yo transfòme soti nan evènman ki dekouraje nan wikenn nan woutin chak jou san pwoblèm.",
+      "sec4P3": "Elastik kalkile otomatikman ogmante pandan ogmantasyon demann ak diminye pandan kalm, elimine depans resous san fè anyen konsa pandan y ap garanti tan repons pou itilizatè mondyal yo.",
+      "keyPerspectiveEyebrow": "PI BON PRATIK MODERNIZASYON",
+      "keyPerspectiveTitle": "Kat poto yon Migrasyon Siksè",
+      "keyPerspectiveLead": "Eksperyans montre ke pwojè modènizasyon yo reyisi lè yo baze sou preparasyon konplè, sekans vag klè, ak tès solid:"
+    }
+  }
+}

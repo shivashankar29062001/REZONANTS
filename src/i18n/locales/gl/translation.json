@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "services": "Servizos",
+    "products": "Produtos",
+    "perspectives": "Perspectivas",
+    "technologies": "Tecnoloxías",
+    "contact": "Contacto",
+    "signIn": "Iniciar sesión",
+    "signUp": "Rexístrate",
+    "signOut": "Pechar sesión",
+    "chooseLanguage": "Escolla o seu idioma",
+    "searchLanguage": "Idioma de busca",
+    "resetEnglish": "Restablecer ao inglés",
+    "noResults": "Non se atoparon idiomas",
+    "englishDefault": "Inglés (predeterminado)",
+    "english": "inglés"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Software, deseñado para a forma en que funciona <em>o teu negocio</em>.",
+    "description": "Rezonants é unha empresa de servizos informáticos e produtos dixitais. Deseñamos, construímos e escalamos software personalizado, produtos web e móbiles, infraestrutura de nube e IA para empresas que compiten na execución.",
+    "bookConsultation": "Reserva unha consulta gratuíta",
+    "exploreServices": "Explora os servizos",
+    "years": "anos",
+    "projects": "proxectos",
+    "retention": "retención",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — desde 2012",
+    "metaStudio": "Estudio de produtos dixitais",
+    "metaTech": "Web · Móbil · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Sobre nós",
+    "title": "Construír solucións dixitais <em>que impulsen as empresas</em>",
+    "description": "Rezonants é unha empresa de solucións tecnolóxicas centrada en axudar ás empresas a transformar ideas en experiencias dixitais significativas. Combinamos tecnoloxía, creatividade e comprensión empresarial para ofrecer solucións deseñadas en función das necesidades do mundo real.<br /><br />Desde a transformación dixital e o desenvolvemento de software personalizado ata a nube, a intelixencia artificial, a automatización e os servizos tecnolóxicos xestionados, axudamos ás organizacións a simplificar a complexidade, a mellorar a eficiencia e a crear un valor dixital duradeiro.<br /><br /><strong>O noso enfoque é sinxelo: entende o negocio, resolve o problema correcto e resolve a tecnoloxía adecuada.</strong>",
+    "awardWinning": "Premio",
+    "awardText": "Recoñecido pola excelencia na entrega en enxeñaría de produtos web e móbiles.",
+    "professionalStaff": "Persoal Profesional",
+    "staffText": "Enxeñeiros seniores e responsables que posúen o traballo desde a primeira convocatoria ata a súa posta en funcionamento.",
+    "support247": "Soporte 24/7",
+    "supportText": "Servizos xestionados e unha liña de soporte que responde cando o precisa.",
+    "fairPrices": "Prezos xustos",
+    "pricesText": "Estimacións honestas e facturación transparente en cada compromiso.",
+    "yearsExcellence": "Anos de excelencia empresarial"
+  },
+  "stats": {
+    "happyClients": "Clientes felices",
+    "projectsDone": "Proxectos feitos",
+    "winAwards": "Gaña premios"
+  },
+  "insights": {
+    "eyebrow": "Perspectivas",
+    "title": "Perspectivas",
+    "sub": "Explorando ideas, tendencias e tecnoloxía que configuran o futuro.",
+    "filters": {
+      "all": "Todo",
+      "digital-transformation": "Transformación dixital",
+      "ai": "IA e automatización",
+      "cloud": "Nube",
+      "data": "Datos e análise",
+      "software": "Software",
+      "business": "Negocios e tecnoloxía"
+    },
+    "readMore": "Ler máis",
+    "close": "Pechar",
+    "keyTakeaways": "Principais aspectos arquitectónicos",
+    "relatedServices": "Capacidades e servizos relacionados",
+    "minRead": "min de lectura",
+    "item1Date": "Xullo 2026",
+    "item1Tag": "Produto e ERP",
+    "item1Title": "Un enfoque ERP modular para empresas en crecemento",
+    "item1Text": "Como estruturamos os compromisos de ERP para que as finanzas, o inventario, os recursos humanos e as compras se integren perfectamente sen interrupcións de varios anos.",
+    "item2Date": "Xuño 2026",
+    "item2Tag": "Intelixencia Artificial",
+    "item2Title": "Sistemas de IA axente: pasar dos chatbots á execución autónoma",
+    "item2Text": "Arquitectar sistemas coordinados de LLM multiaxente que planifican, validan e executan fluxos de traballo complexos de negocio cunha supervisión humana no circuito.",
+    "item3Date": "Maio 2026",
+    "item3Tag": "Fito da empresa",
+    "item3Title": "Recoñecida entre os principais estudos de innovación TI en Hyderabad",
+    "item3Text": "O noso estudo de enxeñería foi recoñecido pola excelencia na entrega, as capacidades tecnolóxicas profundas e a satisfacción do cliente en toda a enxeñaría global de produtos.",
+    "desc": "Explora ideas e perspectivas de Rezonants sobre transformación dixital, IA, automatización, nube, datos, software e o futuro da tecnoloxía empresarial.",
+    "categories": {
+      "digitalTransformation": "Transformación dixital",
+      "ai": "IA e automatización",
+      "cloud": "Nube",
+      "data": "Datos e análise",
+      "software": "Software",
+      "business": "Negocios e tecnoloxía"
+    }
+  },
+  "technologies": {
+    "title": "Tecnoloxías e Arquitectura",
+    "headline": "Solucións Tecnolóxicas Empresariais",
+    "sub": "Tecnoloxía Intelixente. Operacións automatizadas. Negocio máis intelixente.",
+    "selectTechnology": "Seleccione unha solución tecnolóxica...",
+    "options": {
+      "aiRobotics": "Solucións de IA e robótica",
+      "businessAutomation": "Solucións de automatización empresarial",
+      "cloudMigrations": "Solucións de migración na nube",
+      "dataCenters": "Solucións para centros de datos",
+      "cognitiveAnalytics": "Análise cognitiva e IA",
+      "informationReporting": "Sistemas de información e informes",
+      "managedServices": "Servizos Xestionados",
+      "oneStopSolutions": "Solucións Tecnolóxicas One-Stop"
+    },
+    "explore": "Explora a tecnoloxía",
+    "bookDiscovery": "Descubrimento da tecnoloxía do libro",
+    "exploreAll": "Explora todas as tecnoloxías",
+    "coreCapabilities": "Capacidades tecnolóxicas básicas",
+    "bookConsultation": "Reserva unha Consulta"
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Fale cun enxeñeiro superior, non cun guión de vendas",
+    "sub": "Comparte un pouco sobre o teu proxecto e responderemos nun día hábil.",
+    "reachUs": "Contáctanos directamente",
+    "preferConversation": "Prefires unha conversa? Estamos a unha chamada de distancia.",
+    "contactLede": "A forma máis rápida de avanzar é unha conversa curta. Ponte en contacto connosco en calquera canle abaixo ou reserva unha praza e iremos a ti preparados.",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "office": "Oficina",
+    "hours": "Horas",
+    "hoursValue": "Lun – Sáb, 9:30 – 18:30 IST",
+    "bookSlot": "Reserva unha praza de consulta",
+    "sendMessage": "Envíanos unha mensaxe",
+    "fieldsRequired": "Os campos marcados con * son obrigatorios.",
+    "fullName": "Nome completo *",
+    "emailLabel": "Correo electrónico *",
+    "company": "Empresa",
+    "subject": "Asunto",
+    "messageLabel": "Mensaxe *",
+    "sending": "Enviando...",
+    "sendBtn": "Enviar mensaxe",
+    "successMsg": "Mensaxe enviada! Enviouse unha copia por correo electrónico.",
+    "errorMsg": "Non se puido gardar a túa mensaxe. Comproba que a táboa contact_messages existe e téntao de novo.",
+    "offices": {
+      "vijayawada": "Oficina de Vijayawada",
+      "southAfrica": "Oficina de Sudáfrica"
+    },
+    "placeholders": {
+      "fullName": "O teu nome completo",
+      "email": "ti@company.com",
+      "company": "A súa empresa ou organización",
+      "subject": "Como podemos axudar?",
+      "message": "Fálanos do teu proxecto, cronograma e obxectivos..."
+    },
+    "validation": {
+      "fullNameRequired": "Introduza o seu nome completo.",
+      "emailRequired": "Introduza o seu enderezo de correo electrónico.",
+      "emailInvalid": "Introduza un enderezo de correo electrónico válido.",
+      "messageRequired": "Introduza unha mensaxe."
+    }
+  },
+  "services": {
+    "eyebrow": "Servizos",
+    "title": "Que facemos",
+    "sub": "Desde a estratexia ata as operacións xestionadas, ofrecemos asociacións tecnolóxicas de extremo a extremo para empresas que compiten na execución.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Inicio á implantación",
+        "description": "Desenvolvemento extremo a extremo de novas solucións dixitais desde os requisitos empresariais e a arquitectura de solucións ata o desenvolvemento, integración, probas, implantación e soporte continuo."
+      },
+      "businessProcessAutomation": {
+        "label": "Automatización de procesos de negocio",
+        "description": "Deseño e implementación de solucións de automatización intelixente que racionalizan os procesos comerciais, eliminan as actividades manuais repetitivas, melloran a eficiencia operativa e aceleran os resultados empresariais."
+      },
+      "centerOfExcellence": {
+        "label": "Centro de Excelencia",
+        "description": "Establecemento de centros especializados de tecnoloxía e capacidade empresarial que proporcionen goberno, estándares, experiencia, marcos, activos reutilizables e mellora continua en toda a organización."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Desenvolvemento e personalización personalizados",
+        "description": "Desenvolvemento e mellora de aplicacións, plataformas, fluxos de traballo e solucións empresariais para abordar requisitos empresariais únicos e ofrecer funcionalidades a medida."
+      },
+      "digitalTransformation": {
+        "label": "Transformación dixital",
+        "description": "Modernización das operacións comerciais, dos ecosistemas tecnolóxicos e das experiencias dos clientes mediante a nube, a intelixencia artificial, a automatización, os datos e as tecnoloxías de aplicación modernas."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Marco de solucións de extremo a extremo",
+        "description": "Un enfoque de entrega integral que abarca todo o ciclo de vida da tecnoloxía, desde a estratexia, os requisitos e a arquitectura ata o desenvolvemento, a integración, a implantación, o goberno, o seguimento e o soporte."
+      },
+      "migrationModernization": {
+        "label": "Migración e Modernización",
+        "description": "Migración segura e estruturada de aplicacións, datos, plataformas, infraestruturas e cargas de traballo de contornos legados ou existentes a plataformas tecnolóxicas modernas, escalables e optimizadas."
+      },
+      "pocPilotImplementation": {
+        "label": "Proba de concepto (PoC) e implementación piloto",
+        "description": "Desenvolvemento e validación rápidos de solucións tecnolóxicas para avaliar a viabilidade técnica, o valor comercial, os requisitos de integración, o rendemento e a escalabilidade antes da implementación a gran escala."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Servizos compartidos e operacións xestionadas",
+        "description": "Entrega centralizada de tecnoloxía e capacidades operativas en todas as unidades de negocio mediante procesos estandarizados, recursos cualificados, marcos de goberno, xestión de servizos e niveis de servizo medibles."
+      },
+      "customDevelopment": {
+        "label": "Inicio á implantación",
+        "description": "Desenvolvemento extremo a extremo de novas solucións dixitais desde os requisitos empresariais e a arquitectura de solucións ata o desenvolvemento, integración, probas, implantación e soporte continuo."
+      },
+      "processAutomation": {
+        "label": "Automatización de procesos de negocio",
+        "description": "Deseño e implementación de solucións de automatización intelixente que racionalizan os procesos comerciais, eliminan as actividades manuais repetitivas, melloran a eficiencia operativa e aceleran os resultados empresariais."
+      },
+      "solutionEngineering": {
+        "label": "Desenvolvemento e personalización personalizados",
+        "description": "Desenvolvemento e mellora de aplicacións, plataformas, fluxos de traballo e solucións empresariais para abordar requisitos empresariais únicos e ofrecer funcionalidades a medida."
+      },
+      "endToEndSolutions": {
+        "label": "Marco de solucións de extremo a extremo",
+        "description": "Un enfoque de entrega integral que abarca o ciclo de vida completo da tecnoloxía, desde a estratexia, os requisitos e a arquitectura ata o desenvolvemento, a integración, a implantación, o goberno, o seguimento e o soporte."
+      },
+      "migrationServices": {
+        "label": "Migración e Modernización",
+        "description": "Migración segura e estruturada de aplicacións, datos, plataformas, infraestruturas e cargas de traballo de contornos legados ou existentes a plataformas tecnolóxicas modernas, escalables e optimizadas."
+      },
+      "pilotPrototyping": {
+        "label": "Proba de concepto (PoC) e implementación piloto",
+        "description": "Rápido desenvolvemento e validación de solucións tecnolóxicas para avaliar a viabilidade técnica, o valor comercial, os requisitos de integración, o rendemento e a escalabilidade antes da implementación a escala total."
+      },
+      "sharedServices": {
+        "label": "Servizos compartidos e operacións xestionadas",
+        "description": "Entrega centralizada de tecnoloxía e capacidades operativas en todas as unidades de negocio mediante procesos estandarizados, recursos cualificados, marcos de goberno, xestión de servizos e niveis de servizo medibles."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Agenda unha Consulta",
+      "exploreFramework": "Explore o marco de solucións",
+      "talkSeniorEngineer": "Fale cun enxeñeiro superior",
+      "exploreTechStack": "Explora a pila de tecnoloxía",
+      "bookPocSession": "Reserva unha sesión de descubrimento de PoC",
+      "seeAllServices": "Ver Todos os Servizos",
+      "requestAssessment": "Solicitar unha Avaliación da Migración",
+      "exploreCloudSolutions": "Explore as solucións na nube"
+    },
+    "sharedServices": {
+      "heroBadge": "SERVIZOS COMPARTIDOS E OPERACIÓNS XESTIONADAS",
+      "heroTitle": "Servizos compartidos empresariais e operacións xestionadas",
+      "heroDesc": "Escala as capacidades empresariais, axiliza os fluxos de traballo interfuncionais e consegue a excelencia operativa mediante modelos de servizos compartidos estandarizados, seguros e rendibles.",
+      "bookDiscovery": "Libro Descubrimento de operacións xestionadas",
+      "exploreFramework": "Explore o marco de solucións",
+      "coreCapabilities": "Capacidades básicas:",
+      "managedServices": "Servizos Xestionados",
+      "itOperations": "Operacións informáticas",
+      "appSupport": "Soporte de aplicacións",
+      "serviceManagement": "Xestión de servizos",
+      "resourceOptimization": "Optimización de recursos",
+      "slaManagement": "Xestión de SLA",
+      "governance": "Gobernanza",
+      "continuousImprovement": "Mellora Continua",
+      "costOptimization": "Optimización de custos",
+      "readyTitle": "Preparado para optimizar as súas operacións?",
+      "readyDesc": "Descubra como os nosos cadros de servizos compartidos e operacións xestionadas poden mellorar a calidade do servizo, garantir a continuidade operativa e aumentar a eficiencia de custos para a súa empresa.",
+      "scheduleSession": "Programe unha sesión de descubrimento"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SOLUCIÓN ENXEÑERÍA E ARQUITECTURA",
+      "heroTitle": "Desenvolvemento e personalización personalizados",
+      "heroDesc": "Arquitecto, enxeñeiro e implantación de sistemas de software de alto rendemento deseñados especificamente para os teus fluxos de traballo operativos, canalizacións de datos e requisitos de escala."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "INNOVACIÓN E EXPERIMENTACIÓN RÁPIDA",
+      "heroTitle": "Proba de concepto (PoC) e implementación piloto",
+      "heroDesc": "Valide tecnoloxías emerxentes, elimine o risco de arquitecturas complexas e demostre o valor comercial con prototipos de produción en semanas, non en trimestres."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ARQUITECTURA E ENTREGA DO CICLO DE VIDA",
+      "heroTitle": "Marco de solucións de extremo a extremo",
+      "heroDesc": "Un modelo de entrega unificado que conecta o descubrimento de produtos, a arquitectura de solucións, a enxeñaría, a infraestrutura na nube e as operacións de fiabilidade 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "MODERNIZACIÓN DE INFRAESTRUTURAS E LEGADO",
+      "heroTitle": "Migración e Modernización",
+      "heroDesc": "Transición sen problemas de cargas de traballo legadas, arquitecturas monolíticas e infraestrutura local a plataformas de nube modernas, seguras e escalables."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Modernización empresarial",
+        "titlePart1": "Dixital",
+        "titlePart2": "Transformación",
+        "description": "Modernización das operacións comerciais, dos ecosistemas tecnolóxicos e das experiencias dos clientes mediante a nube, a intelixencia artificial, a automatización, os datos e as tecnoloxías de aplicación modernas.",
+        "bookWorkshop": "Obradoiro de Transformación de Libros",
+        "exploreFramework": "Explore o marco de solucións",
+        "startTransformation": "Iniciar a transformación",
+        "exploreStrategy": "Explora a estratexia",
+        "coreCapabilitiesTitle": "Capacidades básicas",
+        "coreCapabilities": [
+          "Estratexia dixital",
+          "Transformación da nube",
+          "IA e automatización",
+          "Modernización de aplicacións",
+          "Modernización do legado",
+          "Datos e análise",
+          "Experiencia do cliente",
+          "Modernización Tecnolóxica"
+        ],
+        "row1Eyebrow": "Estratexia e folla de ruta",
+        "row1Title": "Da visión á folla de ruta executable",
+        "row1P1": "Colaboramos con líderes empresariais para definir estratexias dixitais, casos de negocio e follas de ruta por fases con vitorias rápidas e execución sen riscos.",
+        "row1P2": "As iniciativas priorizadas, os modelos de TCO e os KPI garanten que todos os esforzos de modernización tecnolóxica se vinculen directamente aos ingresos, á eficiencia e aos resultados de satisfacción do cliente.",
+        "row2Eyebrow": "Modernización do legado",
+        "row2Title": "Modernizar sen romper o negocio",
+        "row2P1": "Volve a adaptar monólitos a microservizos, API e patróns nativos da nube con recortes sen tempo de inactividade e validación de regresión automatizada.",
+        "row2P2": "Modernizamos aplicacións, bases de datos e capas de integración preservando o cumprimento e a postura de seguridade.",
+        "row3Eyebrow": "Nube, IA e datos",
+        "row3Title": "Adopción da nube e intelixencia impulsada por datos",
+        "row3P1": "Adopta AWS, Azure e GCP, crea canalizacións de datos modernas e incorpora axentes de aprendizaxe automática para impulsar decisións autónomas.",
+        "row3P2": "Desde a transmisión de eventos en tempo real ata os paneis de control unificados, a transformación faise medible e sostible.",
+        "row4Eyebrow": "Experiencia do cliente",
+        "row4Title": "Experiencias modernas de omnicanalidade",
+        "row4P1": "Redeseña as viaxes dos clientes en portais web, iOS, Android e autoservizo sensibles con interfaces personalizadas.",
+        "row4P2": "A enxeñaría de plataformas, a telemetría e os bucles de feedback automatizados fan que a innovación dixital sexa continua.",
+        "pillarsTitle": "Piares da Transformación",
+        "pillarsSub": "Pancas centradas nos resultados que garanten un liderado dixital sostible.",
+        "pillar1Title": "Estratexia e goberno dixital",
+        "pillar1Desc": "Plans de transformación en fases con modelado de casos de negocio, goberno da arquitectura e seguimento de riscos de fitos.",
+        "pillar2Title": "Plataforma de datos e nube",
+        "pillar2Desc": "Fundamentos multinube AWS/Azure/GCP, canalizacións automatizadas e habilitación de análise de datos empresariais.",
+        "pillar3Title": "IA e automatización",
+        "pillar3Desc": "Automatización de procesos intelixentes, axentes de intelixencia artificial cognitiva e telemetría preditiva para optimizar as operacións diarias.",
+        "pillar4Title": "Experiencia do cliente",
+        "pillar4Desc": "Portais dixitais omnicanal de alta conversión e interfaces personalizadas construídas para a máxima retención de usuarios.",
+        "ctaTitle": "Listo para transformar a súa empresa?",
+        "ctaSub": "Asóciase con Rezonants para unha transformación dixital gradual e sen riscos vinculada a resultados empresariais medibles.",
+        "ctaButton": "Reserva unha Convocatoria de Transformación Dixital"
+      },
+      "customDevelopment": {
+        "eyebrow": "Enxeñaría dixital de extremo a extremo",
+        "titlePart1": "Inicio Para",
+        "titlePart2": "Implantación",
+        "bookConsultation": "Reserva unha Consulta",
+        "exploreEngineering": "Explore a Enxeñaría de Solucións"
+      },
+      "processAutomation": {
+        "eyebrow": "Operacións de procesos intelixentes",
+        "titlePart1": "Proceso de negocio",
+        "titlePart2": "Automatización",
+        "bookDiscovery": "Descubrimento de automatización de libros",
+        "exploreCoE": "Explore o Centro de Excelencia"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centro de",
+        "titlePart2": "Excelencia",
+        "bookConsultation": "Libro Consulta CoE",
+        "exploreCapabilities": "Explora as capacidades"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Ciclo de vida tecnolóxico completo",
+        "titlePart1": "De extremo a extremo",
+        "titlePart2": "Marco de solucións",
+        "startJourney": "Comeza o teu ciclo de vida",
+        "exploreTransformation": "Explora a transformación"
+      },
+      "migrationServices": {
+        "eyebrow": "Transformación da nube e da infraestrutura",
+        "titlePart1": "Migración e",
+        "titlePart2": "Modernización",
+        "planMigration": "Planifica a túa migración",
+        "exploreTransformation": "Explora a transformación"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Validación rápida e viabilidade",
+        "titlePart1": "Proba de concepto (PoC) &",
+        "titlePart2": "Implantación Piloto",
+        "initiateDiscovery": "Iniciar o descubrimento de PoC",
+        "exploreDevelopment": "Explora o desenvolvemento personalizado"
+      },
+      "solutionEngineering": {
+        "badge": "Enxeñaría dixital a medida",
+        "bookConsultation": "Reserva unha Consulta",
+        "exploreCapabilities": "Explorar capacidades"
+      },
+      "sharedServices": {
+        "eyebrow": "Centro de operacións centralizada",
+        "titlePart1": "Servizos compartidos e",
+        "titlePart2": "Operacións xestionadas",
+        "bookDiscovery": "Libro Descubrimento de operacións xestionadas",
+        "exploreFramework": "Explore o marco de solucións"
+      }
+    },
+    "coreCapabilities": "Capacidades básicas"
+  },
+  "products": {
+    "featured": "Produtos destacados",
+    "featuredSub": "Simplifica as operacións, conecta equipos, automatiza procesos e impulsa un crecemento empresarial máis intelixente.",
+    "seeAll": "Ver todos os produtos",
+    "featuredProducts": "PRODUTOS DESTACADOS",
+    "meetAutonomous": "Coñece o persoal laboral autónomo",
+    "meetAutonomousText": "Transforma as túas operacións con axentes de IA que traballan xunto co teu equipo para xestionar tarefas complexas e repetitivas.",
+    "learnMore": "Máis información",
+    "erp": {
+      "title": "Unha plataforma lista para calquera cousa",
+      "sub": "Potenciar as empresas con solucións de xestión empresarial conectadas, intelixentes e escalables.",
+      "explore": "Explore solucións ERP",
+      "gridTitle": "SOLUCIÓNS ERP",
+      "promoTitle": "ERP modular para o crecemento",
+      "promoText": "Implementa funcións ERP modulares rapidamente sen a complexidade dos sistemas tradicionais de varios anos.",
+      "scheduleDemo": "Programar Demo"
+    },
+    "it": {
+      "title": "Solucións informáticas",
+      "sub": "Infraestrutura de nivel empresarial, seguridade e solucións DevOps para manter o seu negocio en funcionamento.",
+      "explore": "Explore solucións de TI",
+      "gridTitle": "SOLUCIÓNS TI",
+      "promoTitle": "Infraestrutura de TI fiable",
+      "promoText": "Constrúe unha base tecnolóxica resistente con servizos de nube xestionados, seguridade e DevOps.",
+      "getStarted": "Comeza"
+    },
+    "crm": {
+      "title": "Solucións CRM",
+      "sub": "Xestión das relacións cos clientes para axilizar os fluxos de traballo de vendas, soporte e mercadotecnia.",
+      "explore": "Explore as solucións CRM",
+      "gridTitle": "SOLUCIÓNS CRM",
+      "promoTitle": "Pechar máis ofertas",
+      "promoText": "Potencia aos teus equipos de vendas e asistencia con datos de clientes unificados e automatización intelixente.",
+      "startTrial": "Comeza a proba gratuíta"
+    },
+    "hrms": {
+      "title": "Solucións HRMS",
+      "sub": "Xestión de recursos humanos que abarca a nómina, a contratación, o rendemento e o compromiso dos empregados.",
+      "explore": "Explore as solucións de HRMS",
+      "gridTitle": "SOLUCIÓNS HRMS",
+      "promoTitle": "Simplificar as operacións de RRHH",
+      "promoText": "Automatiza os fluxos de traballo de RRHH desde a contratación ata a xubilación cunha plataforma moderna e orientada aos empregados.",
+      "requestDemo": "Solicitar demostración"
+    },
+    "sidebar": {
+      "featuredProducts": "Produtos destacados",
+      "erpSolutions": "Solucións ERP",
+      "solutions": "SOLUCIÓNS"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Axentes e ferramentas autónomos intelixentes que automatizan fluxos de traballo complexos e operacións dos clientes."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Plataforma de xestión multinube que optimiza o rendemento, a seguridade, o cumprimento e os custos."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Centro híbrido de colaboración e produtividade con xestión integrada de tarefas, chat e documentos."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Motor de análise en tempo real que transforma fluxos de eventos empresariais en información útil."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Arquitectura empresarial unificada que conecta finanzas, activos, recursos humanos, compras e inventario."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Plataforma de experiencia dos empregados que abarca nóminas, beneficios, revisións de rendemento e autoservizo."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Seguimento loxístico en tempo real, operacións automatizadas de almacén e previsión da demanda."
+      },
+      "financeHub": {
+        "title": "Centro financeiro",
+        "description": "Xestión avanzada do libro maior, fluxos de traballo de facturación, cumprimento automatizado e informes de fluxo de caixa en tempo real."
+      },
+      "cloudInfrastructure": {
+        "title": "Infraestrutura na nube",
+        "description": "Arquitectura, migración e xestión na nube escalables en AWS, Azure e GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Suite de ciberseguridade",
+        "description": "Vixilancia de seguridade de extremo a extremo, detección de ameazas e xestión do cumprimento."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "Automatización CI/CD, containerización e infraestrutura como código para unha entrega máis rápida."
+      },
+      "managedItServices": {
+        "title": "Servizos informáticos xestionados",
+        "description": "Monitorización de infraestruturas 24/7, resposta a incidentes e mantemento proactivo."
+      },
+      "salesCrm": {
+        "title": "CRM de vendas",
+        "description": "Xestión de pipeline, puntuación de clientes potenciales, seguimento de acordos e previsión de vendas nunha soa plataforma."
+      },
+      "customerSupportHub": {
+        "title": "Centro de atención ao cliente",
+        "description": "Xestión de entradas, base de coñecemento, chat en directo e asistencia omnicanal."
+      },
+      "marketingAutomation": {
+        "title": "Automatización de mercadotecnia",
+        "description": "Orquestración de campañas, automatización de correo electrónico, nutrición de leads e análise."
+      },
+      "customer360View": {
+        "title": "Vista 360 do cliente",
+        "description": "Perfís de clientes unificados que combinan datos de vendas, soporte e interacción."
+      },
+      "coreHr": {
+        "title": "Recursos humanos básicos",
+        "description": "Rexistros de empregados, xerarquía organizativa, xestión de baixas e seguimento de asistencia."
+      },
+      "payrollCompliance": {
+        "title": "Nómina e cumprimento",
+        "description": "Tramitación automatizada de nóminas, cálculos fiscais e cumprimento estatutario."
+      },
+      "performanceManagement": {
+        "title": "Xestión do desempeño",
+        "description": "Seguimento de OKR, revisións de 360°, definición de obxectivos e plans de desenvolvemento dos empregados."
+      },
+      "recruitmentPortal": {
+        "title": "Portal de contratación",
+        "description": "Publicacións de emprego, seguimento de solicitantes, programación de entrevistas e fluxos de traballo de incorporación."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Produtos destacados",
+        "heading": "Produtos destacados",
+        "sub": "Simplifica as operacións, conecta equipos, automatiza procesos e impulsa un crecemento empresarial máis intelixente.",
+        "promoTitle": "Coñece o persoal laboral autónomo",
+        "promoText": "Transforma as túas operacións con axentes de IA que traballan xunto co teu equipo para xestionar tarefas complexas e repetitivas.",
+        "items": [
+          {
+            "title": "Automatización da IA e axentes intelixentes",
+            "description": "Automatiza tarefas repetitivas e desprega axentes intelixentes de IA que melloran a produtividade, a toma de decisións e os resultados empresariais."
+          },
+          {
+            "title": "Servizo de TI e Soporte Dixital",
+            "description": "Ofrezca soporte de TI máis rápido e intelixente cunha xestión de servizos simplificada, automatización e fluxos de traballo dixitais."
+          },
+          {
+            "title": "Gobernanza da intelixencia artificial empresarial",
+            "description": "Constrúe unha adopción responsable da IA cunha gobernanza, seguridade, cumprimento, transparencia e controis de risco sólidos."
+          },
+          {
+            "title": "Operacións de TI intelixentes",
+            "description": "Transforme as operacións de TI con monitorización, automatización, coñecementos preditivos e resolución proactiva de problemas impulsados pola IA."
+          },
+          {
+            "title": "Xestión da experiencia do cliente",
+            "description": "Crea viaxes de clientes personalizadas con compromiso intelixente, automatización, análise e experiencias dixitais perfectas."
+          },
+          {
+            "title": "Estratexia empresarial e optimización da carteira",
+            "description": "Aliñar os investimentos en tecnoloxía cos obxectivos comerciais para optimizar carteiras, mellorar a eficiencia e impulsar un crecemento sostible."
+          },
+          {
+            "title": "Ciclo de vida dos activos e tecnoloxía de TI",
+            "description": "Xestione os activos de TI ao longo do seu ciclo de vida cunha mellor visibilidade, automatización, control de custos e planificación tecnolóxica."
+          },
+          {
+            "title": "Risco empresarial e cumprimento",
+            "description": "Identificar, avaliar e xestionar os riscos empresariais ao mesmo tempo que reforza o cumprimento, os controis e a resistencia da organización."
+          },
+          {
+            "title": "Operacións de ciberseguridade e ameazas",
+            "description": "Protexa os ambientes dixitais con detección proactiva de ameazas, operacións de seguridade, resposta a incidentes e seguimento continuo."
+          },
+          {
+            "title": "Automatización da forza de traballo de campo",
+            "description": "Potencia aos equipos de campo cunha programación intelixente, fluxos de traballo móbiles, automatización e visibilidade operativa en tempo real."
+          },
+          {
+            "title": "Experiencia dos empregados e servizos de RRHH",
+            "description": "Simplifica os servizos dos empregados con fluxos de traballo dixitais, solucións de autoservizo, automatización e experiencias personalizadas para os empregados."
+          },
+          {
+            "title": "Lugar de traballo dixital unificado",
+            "description": "Conecta persoas, procesos, aplicacións e ferramentas de colaboración a través dun lugar de traballo dixital seguro, intelixente e fluido."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Solucións ERP",
+        "heading": "Unha plataforma, lista para calquera cousa",
+        "sub": "Potenciar as empresas con solucións de xestión empresarial conectadas, intelixentes e escalables.",
+        "promoTitle": "ERP modular para o crecemento",
+        "promoText": "Implementa funcións ERP modulares rapidamente sen a complexidade dos sistemas tradicionais de varios anos.",
+        "items": [
+          {
+            "title": "Automatización de procesos de negocio",
+            "description": "Axilice as finanzas, RRHH, vendas, compras e operacións diarias."
+          },
+          {
+            "title": "Xestión Empresarial Integrada",
+            "description": "Conecta departamentos, datos e fluxos de traballo nunha plataforma unificada."
+          },
+          {
+            "title": "Finanzas e Contabilidade",
+            "description": "Mellorar a visibilidade financeira, os informes, a presupostación e o cumprimento."
+          },
+          {
+            "title": "RRHH e nóminas",
+            "description": "Simplifique os procesos de xestión, asistencia, nómina e recursos humanos dos empregados."
+          },
+          {
+            "title": "Xestión da cadea de subministración",
+            "description": "Optimice a adquisición, o inventario, os provedores e a loxística."
+          },
+          {
+            "title": "Xestión de Vendas e Clientes",
+            "description": "Xestione clientes potenciales, pedidos e rendemento de vendas de forma eficiente."
+          },
+          {
+            "title": "Análise e informes en tempo real",
+            "description": "Converte os datos da empresa en información útil para tomar decisións máis rápidas."
+          },
+          {
+            "title": "Solucións ERP na nube",
+            "description": "Permite unha xestión empresarial segura, escalable e accesible desde calquera lugar."
+          }
+        ]
+      },
+      "it": {
+        "title": "Solucións informáticas",
+        "heading": "As nosas solucións informáticas",
+        "sub": "Transforme as operacións de TI con solucións dixitais intelixentes, proactivas e escalables que melloran o rendemento, a produtividade e a continuidade do negocio.",
+        "promoTitle": "Infraestrutura de TI fiable",
+        "promoText": "Constrúe unha base tecnolóxica resistente con servizos de nube xestionados, seguridade e DevOps.",
+        "items": [
+          {
+            "title": "Xestión de servizos informáticos",
+            "description": "Axilice os servizos de TI, as incidencias, as solicitudes e os fluxos de traballo para unha resolución máis rápida."
+          },
+          {
+            "title": "Xestión de Operacións de TI",
+            "description": "Monitoriza a infraestrutura e as aplicacións con operacións de TI proactivas e baseadas en datos."
+          },
+          {
+            "title": "Xestión de activos informáticos",
+            "description": "Xestione os activos tecnolóxicos de forma eficiente mentres reduce os custos, os riscos e a complexidade do ciclo de vida."
+          },
+          {
+            "title": "Arquitectura Empresarial",
+            "description": "Aliñar a estratexia empresarial coa arquitectura e os investimentos tecnolóxicos axeitados."
+          },
+          {
+            "title": "Gobernanza da nube",
+            "description": "Mellora a seguridade, o cumprimento, o rendemento e a xestión de custos na nube."
+          },
+          {
+            "title": "Operacións dixitais",
+            "description": "Automatiza os procesos de TI e obtén visibilidade en tempo real no teu entorno tecnolóxico."
+          },
+          {
+            "title": "Observabilidade e seguimento",
+            "description": "Detecta cedo problemas de rendemento e mantén experiencias dixitais fiables."
+          },
+          {
+            "title": "Xestión de carteira estratéxica",
+            "description": "Conecta os investimentos en TI con prioridades empresariais e resultados medibles."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Solucións CRM",
+        "heading": "As nosas solucións CRM",
+        "sub": "Ofrece experiencias de cliente conectadas, personalizadas e intelixentes durante toda a viaxe do cliente.",
+        "promoTitle": "Pechar máis ofertas",
+        "promoText": "Potencia aos teus equipos de vendas e soporte con datos de clientes unificados e automatización intelixente.",
+        "items": [
+          {
+            "title": "Xestión de Atención ao Cliente",
+            "description": "Mellora a atención ao cliente cunha resolución máis rápida, autoservizo e fluxos de traballo intelixentes."
+          },
+          {
+            "title": "Automatización de vendas",
+            "description": "Automatiza as actividades de vendas, xestiona clientes potenciales e axuda aos equipos a pechar oportunidades máis rápido."
+          },
+          {
+            "title": "Xestión de vendas e pedidos",
+            "description": "Axilice o percorrido dende o cliente potencial ata o pedido e mellore a visibilidade dos ingresos."
+          },
+          {
+            "title": "Xestión do servizo de campo",
+            "description": "Optimizar as operacións de campo, a programación, o despacho e a produtividade dos técnicos."
+          },
+          {
+            "title": "Xestión da experiencia do cliente",
+            "description": "Crea experiencias perfectas e personalizadas en cada punto de contacto do cliente."
+          },
+          {
+            "title": "Análise e información sobre CRM",
+            "description": "Converte os datos dos clientes en información útil para tomar decisións comerciais máis intelixentes."
+          },
+          {
+            "title": "Automatización de mercadotecnia",
+            "description": "Automatiza campañas, compromiso dos clientes e captación de leads."
+          },
+          {
+            "title": "CRM alimentado por IA",
+            "description": "Usa a automatización intelixente e as informacións da intelixencia artificial para mellorar a produtividade e o compromiso dos clientes."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Solucións HRMS",
+        "heading": "As nosas solucións de HRMS",
+        "sub": "Potencia a túa forza de traballo con solucións de RRHH intelixentes, integradas e automatizadas que simplifican a xestión dos empregados e melloran a experiencia no lugar de traballo.",
+        "promoTitle": "Simplificar as operacións de RRHH",
+        "promoText": "Automatiza os fluxos de traballo de RRHH desde a contratación ata a xubilación cunha plataforma moderna e orientada aos empregados.",
+        "items": [
+          {
+            "title": "Xestión básica de RRHH",
+            "description": "Xestione a información dos empregados, as estruturas organizativas e os procesos de RRHH de forma eficiente."
+          },
+          {
+            "title": "Xestión de nóminas",
+            "description": "Automatizar a nómina, a tramitación salarial, as retencións e o cumprimento."
+          },
+          {
+            "title": "Autoservizo do Empregado",
+            "description": "Ofrécelle aos empregados un fácil acceso aos servizos, solicitudes, documentos e información de RRHH."
+          },
+          {
+            "title": "Xestión de asistencias e baixas",
+            "description": "Simplifica o seguimento da asistencia, as solicitudes de baixa, as quendas e as horas de traballo."
+          },
+          {
+            "title": "Contratación e incorporación",
+            "description": "Axilizar a contratación, a xestión de candidatos, a incorporación e a integración dos empregados."
+          },
+          {
+            "title": "Xestión do desempeño",
+            "description": "Establece obxectivos, fai un seguimento do rendemento e apoia o desenvolvemento continuo dos empregados."
+          },
+          {
+            "title": "Aprendizaxe e desenvolvemento",
+            "description": "Xestionar programas de formación, desenvolvemento de habilidades e crecemento dos empregados."
+          },
+          {
+            "title": "Análise e informes de RRHH",
+            "description": "Converte os datos da forza de traballo en información útil para tomar mellores decisións de RRHH."
+          },
+          {
+            "title": "Automatización de recursos humanos impulsada por IA",
+            "description": "Automatiza tarefas repetitivas de RRHH e ofrece aos empregados experiencias máis rápidas e personalizadas."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Desenvolvemento de aplicacións",
+        "heading": "Os nosos servizos de desenvolvemento de aplicacións",
+        "sub": "Crea aplicacións seguras, escalables e de alto rendemento que aceleren o crecemento empresarial e simplifiquen procesos complexos.",
+        "promoTitle": "Crear aplicacións que lles encantan aos usuarios",
+        "promoText": "Desde a idea ata o lanzamento, o noso equipo deseña e desenvolve aplicacións web e móbiles de alta calidade que se escalan.",
+        "items": [
+          {
+            "title": "Desenvolvemento de aplicacións personalizadas",
+            "description": "Crea aplicacións a medida deseñadas en función dos teus requisitos empresariais únicos."
+          },
+          {
+            "title": "Desenvolvemento de aplicacións web e móbiles",
+            "description": "Ofrece experiencias dixitais perfectas a través da web, móbiles e varios dispositivos."
+          },
+          {
+            "title": "Desenvolvemento de aplicacións empresariais",
+            "description": "Desenvolve solucións escalables que se integren cos sistemas empresariais existentes."
+          },
+          {
+            "title": "Desenvolvemento de código baixo e sen código",
+            "description": "Acelere a entrega de aplicacións con plataformas flexibles de desenvolvemento de código baixo."
+          },
+          {
+            "title": "API e integración de sistemas",
+            "description": "Conecta aplicacións, plataformas e sistemas de terceiros para un fluxo de datos fluido."
+          },
+          {
+            "title": "Modernización de aplicacións",
+            "description": "Transforme as aplicacións legadas en solucións modernas, escalables e eficientes."
+          },
+          {
+            "title": "Aplicacións con IA",
+            "description": "Integra IA, automatización e capacidades intelixentes nas aplicacións empresariais."
+          },
+          {
+            "title": "Soporte e mantemento de aplicacións",
+            "description": "Garantir un rendemento continuo, seguridade, actualizacións e fiabilidade."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "IA e robótica",
+    "businessAutomation": "Automatización empresarial",
+    "cloudMigrations": "Migracións na nube",
+    "dataCenters": "Centros de datos",
+    "cognitiveAnalyticsAi": "Análise cognitiva e IA",
+    "informationReportingSystems": "Sistemas de información e informes",
+    "managedServices": "Servizos Xestionados",
+    "oneStopSolutions": "Solucións One-Stop"
+  },
+  "servicePage": {
+    "serviceOverview": "Visión xeral do servizo",
+    "whatWeOffer": "O que ofrecemos",
+    "whyChooseRezonants": "Por que escoller Rezonants",
+    "benefitsOfWorking": "Beneficios de traballar connosco",
+    "techStack": "Pila tecnolóxica",
+    "technologiesWeUse": "Tecnoloxías que usamos",
+    "ourWork": "O noso traballo",
+    "relatedProjects": "Proxectos relacionados",
+    "viewCaseStudy": "Ver caso práctico",
+    "readyToDiscuss": "Estás preparado para discutir o teu proxecto {{title}}?",
+    "seniorEngineersReady": "Os nosos enxeñeiros seniores están preparados para axudarche a planificar, deseñar e construír a túa solución.",
+    "startProject": "Comeza o teu proxecto",
+    "howItWorks": "Como funciona"
+  },
+  "consultation": {
+    "badge": "Reserve unha consulta gratuíta",
+    "title": "Planifiquemos o teu proxecto <span class='hero-accent'>Xuntos</span>",
+    "description": "Agende unha chamada sen compromiso cos nosos consultores. Comenta os teus requisitos, explora o enfoque técnico adecuado e obtén unha cotización clara, todo en menos de 30 minutos.",
+    "bookSlot": "Reserva a túa praza",
+    "howItWorks": "Como funciona",
+    "accountRequired": "Requírese unha conta",
+    "signInToBook": "Inicia sesión para reservar a túa consulta",
+    "accountRequiredText": "Necesitarás unha conta de Rezonants para solicitar unha consulta. Inicia sesión ou crea un: leva menos dun minuto.",
+    "signInToContinue": "Inicia sesión para continuar",
+    "newToRezonants": "Novo en Rezonants?",
+    "createAccount": "Crea unha conta",
+    "requestMeeting": "Solicitar unha reunión",
+    "tellUsAboutProject": "Fálanos do teu proxecto",
+    "fillDetails": "Encha os teus datos e confirmarémosche o teu espazo de consulta por correo electrónico.",
+    "fullName": "Nome completo *",
+    "email": "Correo electrónico *",
+    "phone": "Teléfono *",
+    "company": "Empresa",
+    "serviceOfInterest": "Servizo de Interese *",
+    "selectService": "Seleccione un servizo...",
+    "preferredDate": "Data preferida *",
+    "preferredTime": "Hora preferida *",
+    "selectTimeSlot": "Seleccione unha franxa horaria...",
+    "estimatedBudget": "Orzamento estimado",
+    "selectRange": "Seleccione un intervalo...",
+    "projectRequirements": "Requisitos do proxecto",
+    "booking": "Reserva...",
+    "bookFreeConsultation": "Reserve a miña consulta gratuíta",
+    "freeNote": "100% gratuíto e sen compromiso. Normalmente respondemos nun prazo de 24 horas.",
+    "whatToExpect": "Que esperar",
+    "preferToReachUs": "Prefire contactar connosco directamente?",
+    "callUs": "Chámanos",
+    "emailUs": "Envíanos un correo electrónico",
+    "visitUs": "Visítanos",
+    "whyBookWithUs": "Por que reservar connosco",
+    "freeCallTitle": "Unha chamada gratuíta que realmente axuda",
+    "freeCallNoPressure": "Chamada gratuíta, sen presión",
+    "freeCallNoPressureText": "Cada primeira consulta é gratuíta. Non hai obriga de comprar, só un consello honesto.",
+    "seniorConsultants": "Só Consultores Senior",
+    "seniorConsultantsText": "A túa reunión está dirixida por enxeñeiros e consultores superiores que constrúen para gañarse a vida.",
+    "clearTimelines": "Limpiar cronogramas e presupostos",
+    "clearTimelinesText": "Saia cun seguinte paso definido, cronograma realista e prezos transparentes para o teu proxecto.",
+    "services": {
+      "customSoftware": "Desenvolvemento de software personalizado",
+      "webMobile": "Desenvolvemento de aplicacións web e móbiles",
+      "cloudDevops": "Solucións Cloud e DevOps",
+      "aiMl": "IA e aprendizaxe automática",
+      "itConsulting": "Consultoría informática",
+      "digitalMarketing": "Marketing dixital e SEO",
+      "erpSolutions": "Solucións ERP",
+      "other": "Outros / Aínda non estou seguro"
+    },
+    "budgets": {
+      "under1L": "Menos de 1L ₹",
+      "1to5L": "₹ 1 l - ₹ 5 l",
+      "5to10L": "₹ 5 l - ₹ 10 l",
+      "above10L": "₹10L+",
+      "notDecided": "Aínda non está decidido"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Comprende os teus obxectivos",
+        "text": "Escoitamos primeiro. Unha chamada de 30 minutos para mapear as necesidades da túa empresa, a audiencia e os resultados desexados."
+      },
+      "technicalDirection": {
+        "title": "Obter dirección técnica",
+        "text": "Os nosos enxeñeiros comparten a arquitectura, a pila e o enfoque adecuados para o seu proxecto."
+      },
+      "clearQuote": {
+        "title": "Reciba unha cotización clara",
+        "text": "Vaia cunha estimación transparente, cronograma e próximos pasos, sen ningunha obriga."
+      }
+    },
+    "validation": {
+      "nameRequired": "O nome completo é necesario.",
+      "emailRequired": "É necesario o correo electrónico.",
+      "emailInvalid": "Introduza un correo electrónico válido.",
+      "phoneRequired": "O número de teléfono é necesario.",
+      "phoneInvalid": "Introduza un número de teléfono válido.",
+      "serviceRequired": "Escolla un servizo.",
+      "dateRequired": "Escolla unha data preferida.",
+      "timeRequired": "Escolla a franxa horaria preferida.",
+      "messageTooShort": "Engade un pouco máis de detalles (polo menos 10 caracteres).",
+      "signInRequired": "Inicia sesión para reservar a túa consulta.",
+      "couldNotBook": "Non se puido reservar a súa consulta. Comproba que existe a táboa de consultas e téntao de novo.",
+      "bookedSuccess": "Consulta reservada! O noso equipo confirmará a túa franxa horaria por correo electrónico en breve."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Benvido de novo",
+    "createAccount": "Crear conta",
+    "forgotPassword": "Esquecín o contrasinal",
+    "createNewPassword": "Crear un novo contrasinal",
+    "welcomeBackDesc": "Inicia sesión na túa conta de Rezonants.",
+    "createAccountDesc": "Únete a Rezonants hoxe.",
+    "forgotDesc": "Introduce o teu correo electrónico e enviarémosche unha ligazón para restablecer o teu contrasinal.",
+    "recoveryDesc": "Escolla un novo contrasinal seguro para a súa conta.",
+    "fullName": "Nome completo",
+    "email": "Correo electrónico",
+    "password": "Contrasinal",
+    "newPassword": "Novo contrasinal",
+    "confirmPassword": "Confirme o contrasinal",
+    "confirmNewPassword": "Confirme o novo contrasinal",
+    "forgotPasswordLink": "Esqueceches o contrasinal?",
+    "privacyPolicy": "Acepto a política de <1>Privacidade e seguridade</1> de Rezonants.",
+    "sendResetLink": "Enviar ligazón de restablecemento",
+    "signIn": "Iniciar sesión",
+    "signUp": "Rexístrate",
+    "pleaseWait": "Agarde...",
+    "rememberedPassword": "Lembraches o teu contrasinal?",
+    "signInLink": "Iniciar sesión",
+    "noAccount": "Non tes unha conta?",
+    "signUpLink": "Rexístrate",
+    "hasAccount": "Xa tes unha conta?",
+    "changedMind": "Cambiaches de opinión?",
+    "backToSignIn": "Volver para iniciar sesión",
+    "resetSent": "Enviouse a ligazón de restablecemento de contrasinal! Comprobe o seu correo electrónico para crear un novo contrasinal.",
+    "passwordUpdated": "O teu contrasinal foi actualizado. Inicia sesión co teu novo contrasinal.",
+    "accountCreated": "Conta creada! Consulta o teu correo electrónico para confirmar o teu rexistro e inicia sesión.",
+    "validation": {
+      "fullNameRequired": "O nome completo é necesario.",
+      "emailRequired": "É necesario o correo electrónico.",
+      "emailInvalid": "Introduza un correo electrónico válido.",
+      "passwordRequired": "O contrasinal é necesario.",
+      "passwordMinLength": "O contrasinal debe ter polo menos 6 caracteres.",
+      "passwordsNoMatch": "Os contrasinais non coinciden.",
+      "acceptTerms": "Acepta a Política de privacidade e a Política de seguridade de Rezonants para continuar."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chatea con Rezonants AI",
+    "openChatLabel": "Abre o chat de Rezonants AI Assistant",
+    "chatTitle": "Asistente de IA Rezonants",
+    "online": "En liña",
+    "expandLabel": "Amplíe o chatbot",
+    "minimizeLabel": "Minimizar o chatbot",
+    "closeLabel": "Pecha o chatbot",
+    "expand": "Expandir",
+    "minimize": "Minimizar",
+    "close": "Pechar",
+    "popularTopics": "Temas populares",
+    "askPlaceholder": "Pregúntame sobre Rezonants...",
+    "messageLabel": "Envíalle unha mensaxe ao Rezonants AI Assistant",
+    "sendLabel": "Enviar mensaxe",
+    "sendTitle": "Enviar mensaxe",
+    "enterToSend": "Intro para enviar · Maiús+Intro para unha nova liña",
+    "newChat": "Novo chat",
+    "typing": "Rezonants AI está escribindo",
+    "menuOptions": "Opcións do menú",
+    "greetingMorning": "Bos días",
+    "greetingAfternoon": "Boas tardes",
+    "greetingEvening": "Boas noites",
+    "welcomeText": "! 👋 Benvido a Rezonants.\nSon o asistente de IA de Rezonants. Podo axudarche a explorar os nosos servizos, tecnoloxías e información de contacto."
+  },
+  "cookieConsent": {
+    "title": "Valoramos a túa privacidade",
+    "description": "Usamos cookies para mellorar a túa experiencia de navegación. Pode aceptar todas as cookies, rexeitar as cookies non esenciais ou personalizar as súas preferencias. As cookies esenciais sempre están habilitadas para garantir que o sitio web funcione correctamente.",
+    "acceptAll": "Aceptar todo",
+    "rejectNonEssential": "Rexeitar o non esencial",
+    "managePreferences": "Xestionar as preferencias",
+    "privacyPolicy": "Política de privacidade"
+  },
+  "cookiePreferences": {
+    "title": "Xestionar as preferencias de cookies",
+    "description": "Escolla que categorías de cookies permite. As cookies esenciais permanecen habilitadas para manter o funcionamento do sitio web.",
+    "essential": "Imprescindible",
+    "essentialDesc": "Necesario para que o sitio web funcione (autenticación, seguridade, equilibrio de carga). Estes non se poden desactivar.",
+    "analytics": "Análise",
+    "analyticsDesc": "Axúdanos a comprender como usan os visitantes o sitio para que poidamos melloralo. Desactivado por defecto.",
+    "marketing": "Mercadotecnia",
+    "marketingDesc": "Úsase para mostrarche ofertas e campañas relevantes. Desactivado por defecto.",
+    "cancel": "Cancelar",
+    "savePreferences": "Gardar preferencias"
+  },
+  "privacy": {
+    "badge": "Legal",
+    "title": "Política de privacidade",
+    "description": "Como Rezonants recolle, usa e protexe a súa información persoal e as cookies.",
+    "lastUpdated": "Última actualización: agosto de 2026",
+    "managingPreferences": "Xestionar as súas preferencias",
+    "managingPreferencesDesc": "Pode revisar ou cambiar as cookies que permite en calquera momento desde o panel de preferencias de cookies.",
+    "manageCookiePreferences": "Xestionar as preferencias de cookies",
+    "section1": {
+      "title": "1. Información que recollemos",
+      "body": [
+        "Recopilamos información que proporcionas directamente (como o teu nome e enderezo de correo electrónico cando envías o formulario de contacto ou creas unha conta) e información recollida automaticamente mediante cookies e tecnoloxías similares, como páxinas visitadas, tipo de dispositivo e localización aproximada."
+      ]
+    },
+    "section2": {
+      "title": "2. Como usamos as cookies",
+      "body": [
+        "As cookies esenciais sempre están habilitadas porque o sitio web non pode funcionar correctamente sen elas. Almacenan o estado de sesión e de autenticación e lembran as túas preferencias de cookies.",
+        "As cookies analíticas axúdannos a comprender como usan os visitantes o sitio para que poidamos melloralo. As cookies de marketing úsanse para mostrarche ofertas e campañas relevantes. Estas categorías só están habilitadas co teu consentimento e pódense cambiar en calquera momento desde o panel de preferencias de cookies."
+      ]
+    },
+    "section3": {
+      "title": "3. Base legal (GDPR)",
+      "body": [
+        "Tratamos datos persoais sobre as seguintes bases legais: o teu consentimento (para cookies non esenciais e mercadotecnia), execución dun contrato (para servizos que solicitas), obriga legal e intereses lexítimos cando os teus dereitos non prevalecen sobre eles. Podes retirar o consentimento en calquera momento sen que afecte á licitude do tratamento realizado antes da retirada."
+      ]
+    },
+    "section4": {
+      "title": "4. Os teus dereitos",
+      "body": [
+        "Segundo a súa localización, pode ter dereito a acceder, rectificar, borrar ou restrinxir o tratamento dos seus datos persoais, opoñerse ao tratamento e á portabilidade dos datos. Tamén pode presentar unha reclamación ante a súa autoridade de supervisión local."
+      ]
+    },
+    "section5": {
+      "title": "5. Retención e seguridade de datos",
+      "body": [
+        "Conservamos os datos persoais só o tempo que sexan necesarios para os fins descritos nesta política. Aplicamos as medidas técnicas e organizativas adecuadas para protexer a súa información contra o acceso, alteración, divulgación ou destrución non autorizados."
+      ]
+    },
+    "section6": {
+      "title": "6. Servizos de terceiros",
+      "body": [
+        "Algunhas cookies poden ser configuradas por provedores de terceiros (como plataformas de análise ou publicidade) que nos axudan a operar o sitio web. Estes provedores procesan datos baixo as súas propias políticas de privacidade e só cando vostede consentiu a categoría correspondente."
+      ]
+    },
+    "contactUs": "7. Contacta connosco",
+    "contactUsText": "Para preguntas sobre esta política ou os teus datos persoais, ponte en contacto connosco en <1>info@rezonants.com</1> ou chama ao <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Servizos",
+    "title": "Os nosos servizos",
+    "sub": "Solucións tecnolóxicas de punta a punta deseñadas para axudar ás empresas a innovar, escalar e ter éxito.",
+    "learnMore": "Máis información",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Inicio á implantación",
+        "text": "Desde o concepto inicial ata a implantación de produción, ofrecemos solucións escalables creadas para as necesidades empresariais do mundo real."
+      },
+      "businessProcessAutomation": {
+        "title": "Automatización de procesos de negocio",
+        "text": "Axilice os procesos repetitivos e mellore a eficiencia operativa mediante a automatización empresarial intelixente."
+      },
+      "centerOfExcellence": {
+        "title": "Centro de Excelencia",
+        "text": "Desenvolver capacidades e coñecementos tecnolóxicos especializados para impulsar a innovación, a calidade e a mellora continua."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Desenvolvemento e personalización personalizados",
+        "text": "Solucións de software a medida deseñadas en función dos seus requisitos e fluxos de traballo exclusivos."
+      },
+      "digitalTransformation": {
+        "title": "Transformación dixital",
+        "text": "Moderniza o teu negocio con estratexias, tecnoloxías e solucións dixitais que crean un impacto medible."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Marco de solucións de extremo a extremo",
+        "text": "Solucións tecnolóxicas integradas que conectan estratexia, desenvolvemento, implementación e operacións en curso."
+      },
+      "migrationModernization": {
+        "title": "Migración e Modernización",
+        "text": "Modernizar as aplicacións legadas e migrar os sistemas a plataformas tecnolóxicas escalables, seguras e eficientes."
+      },
+      "pocPilotImplementation": {
+        "title": "Proba de concepto (PoC) e implementación piloto",
+        "text": "Valide as ideas rapidamente mediante prototipos enfocados e implementacións piloto antes da implantación a gran escala."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Servizos compartidos e operacións xestionadas",
+        "text": "Operacións tecnolóxicas xestionadas fiables que melloran o rendemento, a escalabilidade e a continuidade do negocio."
+      }
+    }
+  },
+  "footer": {
+    "company": "Empresa",
+    "about": "Acerca de",
+    "perspectives": "Perspectivas",
+    "technologies": "Tecnoloxías",
+    "contact": "Contacto",
+    "services": "Servizos",
+    "getInTouch": "Póñase en contacto",
+    "bookConsultation": "Reserva unha consulta",
+    "copyright": "© {{year}} Rezonants. Todos os dereitos reservados.",
+    "cookiePreferences": "Preferencias de cookies",
+    "privacyPolicy": "Política de privacidade",
+    "description": "Rezonants é unha empresa de servizos informáticos e produtos dixitais en Hyderabad, India. Deseñamos, construímos e escalamos software para empresas que compiten na execución.",
+    "locations": "As nosas localizacións",
+    "indiaHq": "Hyderabad, India — Sede da India",
+    "southAfrica": "Sudáfrica — REZONANTS PVT LTD",
+    "products": "Produtos",
+    "followUs": "Síguenos",
+    "aboutUs": "Sobre nós",
+    "contactUs": "Contacta connosco",
+    "headline": "Construímos",
+    "headlineAccent": "que segue.",
+    "subheadline": "Asóciase con Rezonants para converter as ideas nun verdadeiro impacto empresarial.",
+    "credoIdeas": "IDEAS",
+    "credoSolutions": "SOLUCIÓNS",
+    "credoPeople": "PERSOAS",
+    "credoBrighterTomorrow": "UN MAÑÁ MÁIS BRILLANTE",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Sudáfrica – REZONANTS PVT LTD",
+    "termsOfUse": "Condicións de uso",
+    "accessibility": "Accesibilidade",
+    "quickLinks": "Ligazóns rápidas",
+    "explore": "Explorar",
+    "vijayawadaOffice": "Oficina de Vijayawada",
+    "allRightsReserved": "Todos os dereitos reservados.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Sudáfrica"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Erro",
+    "retry": "Tentar de novo",
+    "close": "Pechar",
+    "backToTop": "Volver arriba",
+    "skipToContent": "Ir ao contido",
+    "scroll": "Desprácese",
+    "whatWeOffer": "Que Ofrecemos",
+    "howItWorks": "Como funciona"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Busca país ou código...",
+    "noResults": "Non se atoparon países.",
+    "countryCodeLabel": "Código de chamada do país",
+    "required": "O número de teléfono é necesario.",
+    "incomplete": "O número de teléfono debe conter exactamente {{count}} díxitos.",
+    "tooLong": "O número de teléfono non pode conter máis de {{count}} díxitos.",
+    "invalid": "Introduce un número de teléfono válido para {{country}}."
+  },
+  "perspectives": {
+    "topic": "Tema:",
+    "published": "Publicado:",
+    "readingTime": "Tempo de lectura:",
+    "author": "Autor:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Área Tecnolóxica",
+    "purpose": "Finalidade",
+    "talkToExperts": "Fale cos nosos expertos",
+    "viewAll": "Ver todas as perspectivas",
+    "exploreMore": "EXPLORAR MÁIS PERSPECTIVAS",
+    "continueExploring": "Continúe explorando información sobre tecnoloxía empresarial",
+    "readPerspective": "Ler Perspectiva"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Solucións de IA e robótica",
+      "tagline": "Tecnoloxía Intelixente. Operacións automatizadas. Negocio máis intelixente.",
+      "heroBadge": "Sistemas autónomos intelixentes",
+      "overview": [
+        "A intelixencia artificial e a robótica están a transformar a forma en que as organizacións operan, toman decisións e proporcionan valor. As nosas solucións de intelixencia artificial e robótica axudan ás empresas a ir máis aló da automatización tradicional combinando intelixencia artificial, aprendizaxe automática, visión por ordenador, automatización de procesos intelixentes e robótica para resolver desafíos empresariais prácticos.",
+        "Deseñamos solucións intelixentes en torno a resultados empresariais medibles. Se o requisito é automatizar o traballo repetitivo, analizar grandes volumes de información, detectar patróns, apoiar decisións ou introducir a robótica en contornos operativos, o noso enfoque céntrase na fiabilidade, escalabilidade, seguridade e valor comercial a longo prazo."
+      ],
+      "transformation": [
+        "As organizacións modernas xeran enormes cantidades de datos e realizan miles de actividades repetitivas todos os días. A IA e a robótica poden transformar estas actividades en fluxos de traballo intelixentes e automatizados que melloran a produtividade ao tempo que permiten aos empregados centrarse en responsabilidades de maior valor.",
+        "As nosas solucións poden axudar ás organizacións a automatizar operacións repetitivas, reducir a intervención manual, mellorar a precisión, analizar información complexa, apoiar decisións máis rápidas, optimizar a utilización de recursos, mellorar as experiencias dos clientes e construír sistemas intelixentes escalables."
+      ],
+      "capabilities": [
+        {
+          "title": "Intelixencia Artificial",
+          "desc": "Desenvolvemos solucións dirixidas á intelixencia artificial que permiten que os sistemas comprendan información, identifiquen patróns, xeren información e apoien decisións empresariais."
+        },
+        {
+          "title": "Aprendizaxe automática",
+          "desc": "Desenvolvemos modelos de aprendizaxe automática para a predición, clasificación, sistemas de recomendación, detección de anomalías, análise preditiva e apoio intelixente á decisión."
+        },
+        {
+          "title": "Procesamento da linguaxe natural",
+          "desc": "PNL pódese usar para procesar documentos, comprender texto, clasificar información, extraer contido relevante e apoiar aplicacións conversacionais."
+        },
+        {
+          "title": "Visión por ordenador",
+          "desc": "As solucións de visión por ordenador admiten a clasificación de imaxes, a detección de obxectos, a inspección de calidade, o procesamento de documentos, o seguimento visual e a análise de vídeo."
+        },
+        {
+          "title": "Robótica",
+          "desc": "A robótica combina intelixencia de software con sistemas físicos para automatizar actividades que tradicionalmente requiren un esforzo manual. As aplicacións poden incluír fabricación, loxística, almacenamento, inspección, manipulación de materiais e soporte operativo."
+        },
+        {
+          "title": "Automatización intelixente de procesos",
+          "desc": "A intelixencia artificial pódese combinar coa automatización do fluxo de traballo para crear sistemas que interpreten información, apliquen regras ou modelos comerciais e inicien automaticamente o proceso axeitado."
+        }
+      ],
+      "lifecycleSteps": [
+        "Avaliación de empresas",
+        "Análise de datos",
+        "Estratexia da IA",
+        "Arquitectura de solución",
+        "Desenvolvemento",
+        "Integración",
+        "Probas",
+        "Implantación",
+        "Seguimento",
+        "Optimización"
+      ],
+      "benefits": [
+        "Maior produtividade operativa da empresa",
+        "Redución substancial dos custos operativos",
+        "Procesamento máis rápido e entrega de decisións en milisegundos",
+        "Mellora a precisión dos datos e do fluxo de traballo",
+        "Utilización optimizada dos recursos físicos e computacionais",
+        "Riscos operativos reducidos e erro humano",
+        "Escalabilidade multiplataforma perfecta",
+        "Experiencias melloradas de clientes e empregados"
+      ],
+      "security": "As solucións de IA empresarial deben deseñarse coa seguridade, os controis de acceso, a protección de datos, o seguimento, o goberno do modelo e as garantías operativas adecuadas. Consideramos estes requisitos desde a fase de arquitectura ata a implantación e o mantemento continuo para garantir unha intelixencia fiable e de produción.",
+      "ctaHeadline": "Construír un futuro intelixente",
+      "ctaSub": "Fai as túas operacións máis intelixentes. Automatiza o que importa. Construír para o futuro."
+    },
+    "business-automation-solutions": {
+      "title": "Solucións de automatización empresarial",
+      "tagline": "Simplificar procesos. Eliminar a repetición. Acelerar o crecemento.",
+      "heroBadge": "Optimización do fluxo de traballo de extremo a extremo",
+      "overview": [
+        "A automatización empresarial permite ás organizacións substituír as actividades manuais repetitivas por fluxos de traballo dixitais simplificados. As nosas solucións de automatización empresarial axudan ás empresas a mellorar a produtividade, reducir a complexidade operativa, minimizar os erros e crear procesos consistentes en todos os departamentos.",
+        "Analizamos fluxos de traballo existentes, identificamos pescozos de botella e deseñamos solucións de automatización que conecten persoas, aplicacións, datos e procesos comerciais."
+      ],
+      "transformation": [
+        "Moitas organizacións aínda dependen de follas de cálculo, correos electrónicos, aprobacións manuais, entrada repetitiva de datos, manexo de documentos e aplicacións desconectadas. Estes procesos consumen un tempo valioso dos empregados e poden introducir atrasos, inconsistencias e erros.",
+        "O noso enfoque de automatización céntrase en comprender o proceso completo, eliminar pasos innecesarios, integrar sistemas e automatizar as actividades que proporcionan o maior valor operativo."
+      ],
+      "capabilities": [
+        {
+          "title": "Automatización do fluxo de traballo",
+          "desc": "Automatizamos procesos de varios pasos que inclúen empregados, aplicacións, aprobacións, notificacións e datos en departamentos dispares."
+        },
+        {
+          "title": "Automatización robótica de procesos",
+          "desc": "Os bots de software poden realizar actividades repetitivas baseadas en regras como a entrada de datos, as actualizacións do sistema, a reconciliación e a transferencia de información."
+        },
+        {
+          "title": "Automatización de documentos",
+          "desc": "Os fluxos de traballo de documentos automatizados poden extraer información, validar datos, clasificar documentos, enviar solicitudes e iniciar procesos posteriores."
+        },
+        {
+          "title": "Aprobación Automatización",
+          "desc": "Os fluxos de traballo de aprobación dixital encamiñan automaticamente as solicitudes aos tomadores de decisións correctos e proporcionan visibilidade en tempo real das accións pendentes."
+        },
+        {
+          "title": "Integración Automatización",
+          "desc": "Conectamos aplicacións empresariais para que a información poida moverse automaticamente entre plataformas sen intervención manual innecesaria."
+        },
+        {
+          "title": "Automatización de notificacións",
+          "desc": "As alertas e notificacións automatizadas axudan aos empregados a responder ao instante ante eventos importantes, prazos, excepcións e cambios operativos."
+        }
+      ],
+      "lifecycleSteps": [
+        "Descubrir",
+        "Analizar",
+        "Deseño",
+        "Automatizar",
+        "Integrar",
+        "Proba",
+        "Implantar",
+        "Monitor",
+        "Optimizar"
+      ],
+      "benefits": [
+        "Aumento do rendemento do equipo e da velocidade operativa",
+        "Redución espectacular dos erros de entrada manual de datos",
+        "Redución dos tempos de execución do proceso de extremo a extremo",
+        "Visibilidade unificada en todas as operacións comerciais",
+        "Conformidade interdepartamental normalizada",
+        "Gastos operativos reducidos significativamente",
+        "Capacidade elástica para escalar cargas de traballo sen esforzo",
+        "Equipos empoderados centrados no compromiso dos clientes e no traballo estratéxico"
+      ],
+      "security": "Combinamos plataformas de fluxo de traballo e RPA con modelos intelixentes conscientes do contexto para garantir un control de acceso baseado en funcións, pistas de auditoría completas e un cumprimento estrito en cada transacción automatizada.",
+      "ctaHeadline": "Crea operacións máis eficientes",
+      "ctaSub": "Automatizar o traballo repetitivo. Empodera a túa xente. Acelera o teu negocio."
+    },
+    "cloud-migration-solutions": {
+      "title": "Solucións de migración na nube",
+      "tagline": "Móvete á nube con confianza.",
+      "heroBadge": "Transformación multinube",
+      "overview": [
+        "A computación na nube converteuse nun compoñente crítico da moderna infraestrutura de TI. As organizacións están trasladando aplicacións, bases de datos, cargas de traballo e infraestrutura a ambientes na nube para mellorar a escalabilidade, a dispoñibilidade, a flexibilidade e a eficiencia operativa.",
+        "Os nosos servizos de migración á nube axudan ás organizacións a avaliar os seus contornos actuais, definir estratexias de migración, executar migracións e optimizar as cargas de traballo despois de pasar á nube."
+      ],
+      "transformation": [
+        "A migración á nube é algo máis que mover servidores dun ambiente a outro. Unha migración exitosa require unha avaliación coidadosa das aplicacións, a infraestrutura, as dependencias, os requisitos de seguridade, os datos, o rendemento, a dispoñibilidade e a continuidade do negocio.",
+        "Creamos estratexias de migración en función do entorno actual da organización e dos obxectivos futuros, seleccionando o patrón de migración axeitado para cada carga de traballo."
+      ],
+      "capabilities": [
+        {
+          "title": "Migración de infraestruturas",
+          "desc": "Migramos servidores tradicionais, almacenamento, máquinas virtuais e cargas de traballo a contornas de nube modernas en AWS, Azure e GCP."
+        },
+        {
+          "title": "Migración de aplicacións",
+          "desc": "As aplicacións pódense aloxar de novo, reformar plataformas, refactorizar ou redeseñar dependendo dos requisitos técnicos e comerciais."
+        },
+        {
+          "title": "Migración da base de datos",
+          "desc": "Migramos bases de datos considerando os requisitos de integridade, rendemento, compatibilidade, dispoñibilidade, seguridade e recuperación dos datos."
+        },
+        {
+          "title": "Modernización da nube",
+          "desc": "A migración convértese nunha oportunidade para modernizar aplicacións mediante contedores, microservizos, bases de datos xestionadas, servizos sen servidor e arquitecturas nativas da nube."
+        },
+        {
+          "title": "Nube híbrida",
+          "desc": "As organizacións que necesitan infraestrutura tanto local como na nube poden adoptar arquitecturas híbridas que conecten perfectamente os sistemas existentes cos servizos na nube."
+        },
+        {
+          "title": "Multi-nube",
+          "desc": "Para as organizacións que operan en varias plataformas na nube, axudamos a deseñar estratexias de carga de traballo que melloren a flexibilidade, a resistencia e o goberno."
+        }
+      ],
+      "lifecycleSteps": [
+        "Avaliación",
+        "Descubrimento",
+        "Mapeo de dependencias",
+        "Estratexia migratoria",
+        "Deseño de Arquitectura",
+        "Migración piloto",
+        "Migración de datos",
+        "Migración de aplicacións",
+        "Probas",
+        "Migración da produción",
+        "Optimización"
+      ],
+      "benefits": [
+        "Escalabilidade elástica e alta dispoñibilidade de recursos",
+        "Maior flexibilidade de infraestruturas e axilidade empresarial",
+        "Eliminouse a carga de mantemento do centro de datos físico",
+        "Implantación acelerada das funcións da aplicación",
+        "Sólida recuperación ante desastres e resistencia á copia de seguridade",
+        "Acceso inmediato á IA moderna na nube e aos servizos xestionados",
+        "Gobernanza de FinOps optimizada e redución do TCO",
+        "Cumprimento continuo e varandas de seguridade automatizadas"
+      ],
+      "security": "A seguridade é unha parte integral da planificación da migración. Consideramos a xestión da identidade e o acceso, a seguridade da rede, o cifrado en tránsito e en repouso, a protección de datos, as auditorías de vulnerabilidade das aplicacións, o seguimento, a copia de seguridade e a recuperación ante desastres.",
+      "ctaHeadline": "A túa viaxe á nube, debidamente planificada",
+      "ctaSub": "Moderniza a túa infraestrutura. Acelerar la innovación. Crea unha base de nube escalable."
+    },
+    "data-center-solutions": {
+      "title": "Solucións para centros de datos",
+      "tagline": "Infraestrutura fiable para operacións de misión crítica.",
+      "heroBadge": "Infraestruturas de Misión Crítica",
+      "overview": [
+        "Os centros de datos constitúen a base dos negocios dixitais modernos. As aplicacións, bases de datos, sistemas empresariais, plataformas de comunicación e servizos empresariais críticos dependen dunha infraestrutura fiable.",
+        "As nosas solucións de centros de datos céntranse en deseñar, modernizar, xestionar e optimizar contornas de infraestrutura creadas para a dispoñibilidade, seguridade, escalabilidade, rendemento e eficiencia operativa."
+      ],
+      "transformation": [
+        "Un centro de datos moderno require máis que servidores e almacenamento. Require unha infraestrutura coidadosamente deseñada en computación, redes, seguridade, alimentación, refrixeración, vixilancia, copia de seguridade e recuperación ante desastres.",
+        "Axudamos ás organizacións a crear ambientes de infraestrutura resistentes que admitan cargas de traballo críticas e proporcionan unha base para o crecemento tecnolóxico futuro."
+      ],
+      "capabilities": [
+        {
+          "title": "Deseño de infraestruturas",
+          "desc": "Deseñamos ambientes baseados nos requisitos de carga de traballo, capacidade, rendemento, dispoñibilidade, seguridade e crecemento futuro."
+        },
+        {
+          "title": "Infraestrutura do servidor",
+          "desc": "Admitimos contornas de servidores físicos e virtuais para aplicacións e cargas de traballo empresariais de misión crítica."
+        },
+        {
+          "title": "Solucións de almacenamento",
+          "desc": "Consideramos os requisitos de rendemento, capacidade, redundancia, SAN/NAS de alta velocidade, copia de seguridade e protección de datos ao deseñar contornas de almacenamento."
+        },
+        {
+          "title": "Infraestrutura de Rede",
+          "desc": "Deseñamos contornas de rede cunha segmentación adecuada, redundancia, rendemento de baixa latencia, conectividade e controis de seguridade."
+        },
+        {
+          "title": "Virtualización",
+          "desc": "A virtualización mellora a utilización dos recursos, a flexibilidade da carga de traballo e a xestión centralizada da infraestrutura."
+        },
+        {
+          "title": "Copia de seguranza e recuperación ante desastres",
+          "desc": "Axudamos ás organizacións a establecer estratexias de copia de seguridade e arquitecturas de recuperación deseñadas para minimizar o tempo de inactividade e eliminar a perda de datos."
+        }
+      ],
+      "lifecycleSteps": [
+        "Avaliación da capacidade",
+        "Perfil da carga de traballo",
+        "Plan de Arquitectura",
+        "Hardware e tamaño virtual",
+        "Segmentación da rede",
+        "Aprovisionamento de almacenamento",
+        "Redundancia e probas de DR",
+        "Corte de produción",
+        "Vixilancia da Saúde 24/7",
+        "Optimización continua"
+      ],
+      "benefits": [
+        "Garantía de tempo de actividade da infraestrutura do 99,999 %",
+        "Cero puntos únicos de fallo con redundancia de varias capas",
+        "Cómputo de servidor optimizado e virtualización de alta densidade",
+        "Arquitecturas de rede de baixa latencia de sub-milisegundos",
+        "Seguridade perimetral física e dixital reforzada",
+        "Monitorización proactiva e fallos automatizados de fallos",
+        "Almacenamento modular escalable para datos a escala de petabytes",
+        "Custo total de propiedade previsible e eficiencia energética"
+      ],
+      "security": "A seguridade está integrada en toda a capa de infraestrutura, abarcando a microsegmentación da rede, a raíz de confianza do hardware, os controis de acceso de confianza cero, as auditorías continuas de vulnerabilidade, a defensa dos extremos e as políticas operativas estritas.",
+      "ctaHeadline": "Infraestrutura preparada para o futuro",
+      "ctaSub": "Constrúe unha infraestrutura fiable hoxe. Crea a base para a tecnoloxía do mañá."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Análise cognitiva e IA",
+      "tagline": "Converte os datos en intelixencia.",
+      "heroBadge": "Intelixencia de datos a decisión",
+      "overview": [
+        "As organizacións xeran enormes cantidades de información a través de aplicacións, transaccións, clientes, operacións, dispositivos e plataformas dixitais. O reto xa non é simplemente recoller datos; é comprender eses datos e convertelos en intelixencia accionable.",
+        "As nosas solucións de analítica cognitiva e intelixencia artificial combinan análises avanzadas, aprendizaxe automática, intelixencia artificial, procesamento de datos e intelixencia empresarial para axudar ás organizacións a tomar mellores decisións."
+      ],
+      "transformation": [
+        "Os informes tradicionais contan ás organizacións o que pasou. As análises avanzadas poden axudar a explicar por que ocorreu, identificar o que pode ocorrer a continuación e apoiar as decisións sobre o que debería ocorrer.",
+        "Axudamos ás organizacións a establecer contornos de datos que van máis alá dos informes estáticos cara a análise intelixente e soporte para tomar decisións."
+      ],
+      "capabilities": [
+        {
+          "title": "Análise descritiva",
+          "desc": "Comprender o rendemento histórico a través de informes interactivos, paneis multidimensionais, KPI e métricas empresariais."
+        },
+        {
+          "title": "Análise de diagnóstico",
+          "desc": "Identifica as relacións subxacentes, as tendencias, as anomalías estatísticas e as causas raíz dos resultados empresariais."
+        },
+        {
+          "title": "Análise preditiva",
+          "desc": "Usa datos históricos e de transmisión en tempo real con modelos estatísticos para identificar posibles resultados e demandas futuras."
+        },
+        {
+          "title": "Análise prescritiva",
+          "desc": "Avaliar posibles accións e apoiar vías de decisión óptimas en función dos resultados previstos e dos obxectivos estratéxicos comerciais."
+        },
+        {
+          "title": "Modelos de aprendizaxe automática",
+          "desc": "Desenvolver modelos personalizados para a predición, clasificación de clientes, recomendacións, detección de anomalías de fraude e mantemento preditivo."
+        },
+        {
+          "title": "Insights impulsados ​​por IA",
+          "desc": "Aplique a IA cognitiva a grandes volumes de información non estruturada para mostrar patróns ocultos, resumos executivos e recomendacións."
+        }
+      ],
+      "lifecycleSteps": [
+        "Fontes de datos",
+        "Integración de datos",
+        "Tratamento de datos",
+        "Almacenamento de datos",
+        "Análise",
+        "Modelos AI/ML",
+        "Visualización",
+        "Decisións empresariais"
+      ],
+      "benefits": [
+        "Toma de decisións executivas baseada en feitos e baseada en datos",
+        "Previsión precisa de demanda, ingresos e abandono",
+        "Detección de anomalías e fraudes en tempo real",
+        "Información e personalización profundas sobre o comportamento do cliente en 360°",
+        "Cadea de subministración optimizada e eficiencia operativa",
+        "Risco operativo e financeiro mitigado",
+        "Descubrimento de oportunidades de ingresos ocultas",
+        "Acelerar o tempo para obter información entre as unidades de negocio"
+      ],
+      "security": "Os nosos ecosistemas analíticos implementan cifrado de extremo a extremo, enmascaramento de datos automatizado, permisos RBAC estritos e goberno de modelos para salvagardar os datos propietarios e manter o cumprimento normativo (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Construír unha estratexia de datos intelixente",
+      "ctaSub": "Converte a información en percepción. Transforma a visión en acción."
+    },
+    "information-reporting-systems": {
+      "title": "Sistemas de información e informes",
+      "tagline": "A información correcta. No momento xusto. Para Mellores Decisións.",
+      "heroBadge": "Intelixencia empresarial unificada",
+      "overview": [
+        "Os líderes empresariais e os equipos operativos dependen da información precisa para tomar decisións eficaces. Os nosos sistemas de información e informes axudan ás organizacións a recoller, organizar, analizar e presentar información empresarial mediante sistemas de información estruturados, plataformas de informes, paneis de control e fluxos de traballo de informes automatizados.",
+        "As organizacións adoitan ter información distribuída en aplicacións, follas de cálculo, bases de datos e sistemas operativos. Isto dificulta establecer unha visión coherente do rendemento empresarial. Axudamos a integrar fontes de información en contornos de informes estruturados que proporcionan información empresarial fiable, accesible e coherente."
+      ],
+      "transformation": [
+        "Un sistema de informes non debe mostrar simplemente números. Debería axudar aos usuarios a comprender o rendemento, identificar problemas, descubrir oportunidades e tomar decisións fundamentadas.",
+        "Deseñamos ambientes de informes segundo o modo en que opera a túa organización, ofrecendo ecosistemas estruturados de datos para tomar decisións adaptados a todos os niveis de xestión."
+      ],
+      "capabilities": [
+        {
+          "title": "Sistemas de información de xestión (MIS)",
+          "desc": "Desenvolver sistemas de información unificados que proporcionen á dirección executiva unha relevante visibilidade operativa e estratéxica."
+        },
+        {
+          "title": "Informes comerciais",
+          "desc": "Transforme os datos comerciais en bruto de varias canles en informes estruturados e estandarizados que monitorizan o rendemento continuamente."
+        },
+        {
+          "title": "Paneis interactivos",
+          "desc": "Proporciona visibilidade interactiva en tempo real ou programada sobre as métricas empresariais críticas, os KPI, as tendencias e as actividades do departamento."
+        },
+        {
+          "title": "Xestión de KPI",
+          "desc": "Definir, rastrexar e comparar KPIs operativos significativos aliñados directamente cos obxectivos xerais de crecemento da empresa."
+        },
+        {
+          "title": "Integración de datos",
+          "desc": "Integre fontes de datos distribuídas en almacéns de datos unificados e capas semánticas para obter informes consistentes nun único panel."
+        },
+        {
+          "title": "Informes automatizados",
+          "desc": "Xera e distribúa automaticamente informes personalizados segundo horarios predefinidos, regras comerciais e xerarquías de destinatarios."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sistemas empresariais",
+        "Recollida de datos",
+        "Integración de datos",
+        "Tratamento de datos",
+        "Repositorio de datos",
+        "Análise",
+        "Informes e paneis"
+      ],
+      "benefits": [
+        "Fonte única de verdade en toda a empresa",
+        "Acceso máis rápido ás métricas operativas en tempo real",
+        "Eliminación completa da montaxe manual da folla de cálculo",
+        "KPIs interdepartamentais consistentes e conciliados",
+        "Supervisión executiva e auditabilidade",
+        "Distribución automatizada directamente ás partes interesadas",
+        "Permisos e seguridade de datos granulares a nivel de fila",
+        "Mellora axilidade para responder a anomalías operativas"
+      ],
+      "security": "A información comercial pode conter datos confidenciais operativos, financeiros e de clientes. As nosas solucións de informes inclúen a autenticación multifactorial, a autorización granular baseada en roles, o cifrado e os rexistros de auditoría na arquitectura de informes.",
+      "ctaHeadline": "Informes que apoian o crecemento",
+      "ctaSub": "Facer accesible a información. Facer visible o rendemento. Toma mellores decisións."
+    },
+    "managed-services": {
+      "title": "Servizos Xestionados",
+      "tagline": "Operacións de tecnoloxía fiable. Soporte experto. Mellora Continua.",
+      "heroBadge": "Operacións e soporte informático 24/7",
+      "overview": [
+        "Os contornos de TI modernos son complexos e están en constante cambio. As organizacións necesitan infraestrutura, aplicacións, redes, seguridade, seguimento e soporte técnico fiables para manter as operacións comerciais en funcionamento.",
+        "Os nosos servizos xestionados proporcionan unha xestión tecnolóxica e soporte operativo continuos, o que permite ás organizacións manter contornas de TI fiables mentres os equipos internos se concentran en iniciativas estratéxicas."
+      ],
+      "transformation": [
+        "O soporte de TI tradicional a miúdo céntrase en resolver os problemas despois de que se produzan. Os servizos xestionados adoptan un enfoque proactivo supervisando continuamente a infraestrutura, as aplicacións, os sistemas e os contornos operativos.",
+        "Este enfoque axuda a identificar posibles problemas de forma anticipada, manter o rendemento, mellorar a dispoñibilidade e reducir as interrupcións operativas evitables."
+      ],
+      "capabilities": [
+        {
+          "title": "Xestión de Infraestruturas",
+          "desc": "Soporta a operación, parcheado e xestión en curso de servidores, almacenamento, plataformas de virtualización e infraestrutura."
+        },
+        {
+          "title": "Xestión da nube",
+          "desc": "Xestiona cargas de traballo na nube, recursos multinube, configuracións, seguimento, rendemento e optimización de FinOps."
+        },
+        {
+          "title": "Xestión de redes",
+          "desc": "Proporcionar seguimento 24 horas, xestión de rendemento, soporte de configuración, optimización SD-WAN e resolución de problemas de rede."
+        },
+        {
+          "title": "Xestión de aplicacións",
+          "desc": "Admite contornas de aplicacións críticas mediante un seguimento proactivo, mantemento, resolución de erros e actualizacións operativas."
+        },
+        {
+          "title": "Seguimento e observabilidade",
+          "desc": "Proporciona visibilidade completa en tempo real sobre a saúde do sistema, a latencia, o tempo de actividade, as dependencias da infraestrutura e as alertas."
+        },
+        {
+          "title": "Xestión de copias de seguridade e recuperación",
+          "desc": "Manteña programacións de copia de seguranza automatizadas, proba as conmutacións por erro regularmente e garante as capacidades de recuperación instantánea."
+        },
+        {
+          "title": "Operacións de seguridade (SecOps)",
+          "desc": "Proporcionar un seguimento continuo da seguridade, xestión de parches, aplicación do control de acceso e mitigación proactiva de ameazas."
+        }
+      ],
+      "lifecycleSteps": [
+        "Integración Ambiental",
+        "Descubrimento e referencia",
+        "Integración de telemetría",
+        "Definición de SLA",
+        "Monitorización activa 24/7",
+        "Clasificación do incidente",
+        "Resolución rápida",
+        "Análise da causa raíz",
+        "Enxeñaría Preventiva",
+        "Optimización continua"
+      ],
+      "benefits": [
+        "Carga operativa interna significativamente reducida",
+        "Detección proactiva de problemas antes de que os usuarios se vexan afectados",
+        "Dispoñibilidade e tempo de funcionamento do sistema garantidos ao 99,99 %",
+        "Orzamento operativo de TI previsible e transparente",
+        "Acceso inmediato a especialistas superiores en enxeñaría",
+        "Tempos rápidos de resposta a incidentes respaldados por SLA",
+        "Recuperación de desastres automatizada e continuidade do negocio",
+        "Optimización e modernización tecnolóxica continua"
+      ],
+      "security": "As nosas operacións xestionadas adhírense a marcos estritos de ITIL e ISO, o que garante o acceso cifrado, os rexistros de auditoría illados, a bóveda de credenciais con menos privilexios e o aliñamento do cumprimento de todos os recursos xestionados.",
+      "ctaHeadline": "Mellora Continua",
+      "ctaSub": "Concéntrase no seu negocio. Axudamos a manter a túa tecnoloxía en funcionamento."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Solucións Tecnolóxicas One-Stop",
+      "tagline": "Un socio tecnolóxico. Múltiples capacidades. Solucións empresariais completas.",
+      "heroBadge": "Socio empresarial unificado",
+      "overview": [
+        "As organizacións adoitan traballar con varios provedores de tecnoloxía para infraestruturas, nube, aplicacións, automatización, análise, seguridade, soporte e transformación dixital. A xestión de varios provedores pode crear complexidade, lagoas de comunicación, esforzos duplicados e ambientes tecnolóxicos fragmentados.",
+        "O noso enfoque de Solucións Tecnolóxicas One-Stop reúne múltiples capacidades baixo un modelo de servizo unificado, axudando ás organizacións a planificar, implementar, integrar, operar e mellorar continuamente o seu entorno tecnolóxico."
+      ],
+      "transformation": [
+        "Admitimos todo o ciclo de vida da tecnoloxía: desde comprender os requisitos empresariais e definir unha estratexia tecnolóxica ata deseñar solucións, implementar plataformas, integrar sistemas, implementar aplicacións, supervisar contornas e proporcionar soporte continuo.",
+        "O obxectivo é crear un ecosistema tecnolóxico conectado en lugar de solucións illadas."
+      ],
+      "capabilities": [
+        {
+          "title": "Estratexia e Arquitectura",
+          "desc": "Comprender os obxectivos empresariais e deseñar arquitecturas tecnolóxicas escalables, seguras e mantibles."
+        },
+        {
+          "title": "Implementación e creación",
+          "desc": "Implementar aplicacións, infraestruturas, integracións, automatización e plataformas dixitais con rigor empresarial."
+        },
+        {
+          "title": "Integración do sistema",
+          "desc": "Conecta sistemas e aplicacións para que a información se mova sen problemas por toda a organización."
+        },
+        {
+          "title": "Implantación estruturada",
+          "desc": "Establecer procesos automatizados de CI/CD e lanzamento para mover as solucións á produción de forma fiable e segura."
+        },
+        {
+          "title": "Seguimento continuo",
+          "desc": "Proporciona visibilidade de extremo a extremo sobre a infraestrutura, as aplicacións, o rendemento, a dispoñibilidade e a saúde operativa."
+        },
+        {
+          "title": "Optimización e soporte",
+          "desc": "Revisa continuamente os ambientes para mellorar o rendemento, a fiabilidade, a eficiencia dos custos e a escalabilidade."
+        }
+      ],
+      "lifecycleSteps": [
+        "Estratexia",
+        "Arquitectura",
+        "Implementación",
+        "Integración",
+        "Implantación",
+        "Seguimento",
+        "Optimización",
+        "Soporte"
+      ],
+      "benefits": [
+        "Reduciu a complexidade e os gastos xerais da xestión dos provedores",
+        "Coordinación perfecta entre todas as capas arquitectónicas",
+        "Execución máis rápida do proxecto con cero atrasos de entrega",
+        "Dotación orzamentaria previsible e entrega transparente",
+        "Responsabilidade empresarial unificada de cero a escala",
+        "Solucións escalables deseñadas para o futuro crecemento empresarial",
+        "Asociación tecnolóxica de confianza a longo prazo",
+        "Transformación dixital integral de extremo a extremo"
+      ],
+      "security": "Cun único socio de confianza que supervisa a arquitectura, a implementación e as operacións, o goberno da seguridade permanece intacto en todos os niveis, eliminando os puntos cegos da integración e garantindo o cumprimento continuo.",
+      "ctaHeadline": "O teu socio tecnolóxico completo",
+      "ctaSub": "Un compañeiro. Unha visión. Múltiples tecnoloxías. Solucións completas."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Visión xeral da empresa",
+    "overviewTitle": "Tecnoloxía intelixente para resultados medibles",
+    "transformationEyebrow": "Transformación Operativa",
+    "transformationTitle": "Transformando o negocio a través de fluxos de traballo intelixentes",
+    "deliveryEyebrow": "Enfoque de entrega estruturada",
+    "deliveryTitle": "Execución de extremo a extremo e optimización continua",
+    "deliveryIntro": "O noso enfoque de implementación comprobado segue un ciclo de vida de entrega rigoroso:",
+    "deliveryOutro": "Esta secuencia estruturada garante un aliñamento estrito cos obxectivos empresariais, unha postura de seguridade robusta e puntos de referencia de ROI medibles en cada fase.",
+    "securityEyebrow": "Seguridade e goberno",
+    "securityTitle": "Garantías de conformidade e fiabilidade de grao empresarial",
+    "securityOutro": "Incorporamos un control de acceso estrito baseado en roles, a exploración automatizada de vulnerabilidades, o goberno de modelos e o cifrado de varios niveis para garantir que o teu ambiente de produción siga sendo resistente e cumprindo totalmente.",
+    "capabilitiesTitle": "Capacidades tecnolóxicas básicas",
+    "capabilitiesSub": "Competencias técnicas completas deseñadas para escalar as súas operacións dixitais.",
+    "bookDiscovery": "Descubrimento da tecnoloxía do libro",
+    "exploreAll": "Explora todas as tecnoloxías",
+    "bookConsultation": "Reserva unha Consulta",
+    "coreCapabilities": "Capacidades básicas"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Capacidades básicas",
+    "exploreFramework": "Explore o marco de solucións",
+    "bookConsultation": "Reserva unha Consulta",
+    "viewCaseStudies": "Ver casos prácticos",
+    "provenPillars": "Piares probados",
+    "operationalOutcomes": "Resultados operativos",
+    "learnMore": "Máis información"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Enxeñaría dixital de extremo a extremo",
+      "titlePart1": "Inicio A",
+      "titlePart2": "Implantación",
+      "description": "Desenvolvemento extremo a extremo de novas solucións dixitais desde os requisitos empresariais e a arquitectura de solucións ata o desenvolvemento, integración, probas, implantación e soporte continuo.",
+      "bookConsultation": "Reserva unha Consulta",
+      "exploreEngineering": "Explore a Enxeñaría de Solucións",
+      "coreCapabilities": [
+        "Enxeñaría de Requisitos",
+        "Arquitectura de solución",
+        "Desenvolvemento de aplicacións",
+        "Integración API",
+        "Garantía de calidade",
+        "DevOps",
+        "Implantación",
+        "Soporte e mantemento"
+      ],
+      "row1Eyebrow": "Entrega do ciclo de vida completo",
+      "row1Title": "Desenvolvemento de extremo a extremo desde os requisitos ata a escala",
+      "row1P1": "Cada nova iniciativa dixital comeza con requisitos únicos, fluxos de traballo operativos e obxectivos estratéxicos que non se poden cumprir cun software único para todos. Somos especializados en construír sistemas de software personalizados e de alto rendemento completamente desde cero.",
+      "row1P2": "Desde o descubrimento de requisitos iniciais e o deseño de arquitectura técnica ata o desenvolvemento de sprints áxiles, a integración do ecosistema de API, os sólidos pipelines de probas e as implantacións automatizadas na nube, os nosos equipos de enxeñería senior asumen a total propiedade do ciclo de vida do seu produto.",
+      "row2Eyebrow": "Arquitectura e Enxeñaría de Solucións",
+      "row2Title": "Sistemas escalables deseñados para o crecemento empresarial",
+      "row2P1": "Deseñamos arquitecturas de software resistentes adaptadas para soportar grandes cargas de produción. Desde microservizos modulares e backends impulsados ​​por eventos ata fluxos de datos de alto rendemento e API GraphQL/REST, creamos plataformas que escalan sen esforzo.",
+      "row2P2": "Ao establecer bases de código limpas e modulares combinadas con probas automatizadas e cumprimento continuo da seguridade, garantimos que a súa base de software sexa mantible, auditable e lista para a evolución a longo prazo.",
+      "row3Eyebrow": "Garantía de calidade e DevOps",
+      "row3Title": "Entrega áxil con canalizacións automatizadas",
+      "row3P1": "O noso modelo de entrega incorpora probas automatizadas de unidades, integración e regresión de extremo a extremo xunto con fluxos de traballo CI/CD en contenedores (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Con demostracións de sprint transparentes, observabilidade en tempo real e velocidade impulsada por fitos, garantimos un tempo de comercialización rápido sen comprometer a seguridade, a estabilidade ou a experiencia do usuario.",
+      "row4Eyebrow": "Implantación e soporte",
+      "row4Title": "Operacións fiables 24/7 e evolución a longo prazo",
+      "row4P1": "Entrar en directo é só o comezo. Ofrecemos vixilancia proactiva, mantemento respaldado por SLA, optimización da infraestrutura na nube, axuste do rendemento e lanzamentos de funcións en curso.",
+      "row4P2": "O noso equipo de enxeñería actúa como unha extensión natural da súa organización, garantindo tempo de inactividade cero e superioridade tecnolóxica continua no seu mercado.",
+      "pillarsTitle": "Capacidades básicas",
+      "pillarsSub": "Capacidades completas de pila completa deseñadas para levar as túas ideas de cero á produción.",
+      "pillar1Title": "Enxeñaría de Requisitos",
+      "pillar1Desc": "Análise de negocio en profundidade, especificacións funcionais e mapeo da viaxe do usuario para definir límites exactos da solución.",
+      "pillar2Title": "Arquitectura de solución",
+      "pillar2Desc": "Arquitecturas escalables nativas da nube, modelado de bases de datos, deseño de microservizos e bases de seguridade de confianza cero.",
+      "pillar3Title": "Desenvolvemento de aplicacións",
+      "pillar3Desc": "Aplicacións web e móbiles de pila completa modernas deseñadas con código limpo, seguridade de tipos e estándares de IU reactiva.",
+      "pillar4Title": "Integración API",
+      "pillar4Desc": "API REST/GraphQL de alto rendemento, orquestacións de webhook, pasarelas de pago e sincronización perfecta de ERP/CRM de terceiros.",
+      "ctaTitle": "Preparado para crear a súa solución desde o inicio ata a implantación?",
+      "ctaSub": "Asóciase con Rezonants para diseñar, diseñar e implementar a súa plataforma dixital personalizada desde os requisitos comerciais ata a realidade da produción.",
+      "ctaButton": "Reserve unha consulta de solución",
+      "pillar5Title": "Garantía de calidade",
+      "pillar5Desc": "Automatización de probas rigorosas, probas de carga/estrés, análises de vulnerabilidades e conxuntos de probas de regresión.",
+      "pillar6Title": "DevOps e implantación",
+      "pillar6Desc": "Canalizacións CI/CD automatizadas, orquestración de contedores (Docker/K8s), infraestrutura como código e versións sen tempo de inactividade.",
+      "pillar7Title": "Soporte e mantemento",
+      "pillar7Desc": "Vixilancia proactiva 24/7, telemetría sanitaria, auditorías de rendemento, parches de seguridade e mantemento de SLA en curso.",
+      "pillar8Title": "Innovación continua",
+      "pillar8Desc": "Velocidade regular de funcións, integración de análise de datos, mellora da IA e modernizacións arquitectónicas."
+    },
+    "processAutomation": {
+      "eyebrow": "Operacións de procesos intelixentes",
+      "titlePart1": "Proceso de negocio",
+      "titlePart2": "Automatización",
+      "description": "Automatización de extremo a extremo dos fluxos de traballo empresariais, que combina a automatización de procesos robóticos (RPA), o procesamento intelixente de documentos, os motores de regras comerciais e a integración de sistemas.",
+      "bookDiscovery": "Descubrimento de automatización de libros",
+      "exploreFramework": "Explore o marco de solucións",
+      "coreCapabilities": [
+        "Automatización do fluxo de traballo",
+        "Automatización robótica de procesos",
+        "Procesamento de documentos",
+        "Enxeñaría da Integración",
+        "Motores de regras comerciais",
+        "Análise de procesos",
+        "Optimización continua",
+        "Integración herdada"
+      ],
+      "row1Eyebrow": "Automatización robótica de procesos",
+      "row1Title": "Bots intelixentes para operacións de alto volume",
+      "row1P1": "Elimine a entrada manual repetitiva de datos, as conciliacións entre sistemas e o enrutamento de documentos. Implementamos bots RPA empresariais que executan tarefas estruturadas 24 horas ao día, 7 días ao día, sen taxa de erro cero.",
+      "row1P2": "Ao conectar interfaces de escritorio legadas, backends SAP/ERP e bases de datos na nube, os bots de software liberan ao teu equipo para que se centre en iniciativas estratéxicas de negocio.",
+      "row2Eyebrow": "Procesamento intelixente de documentos",
+      "row2Title": "OCR, Machine Learning e Document AI",
+      "row2P1": "Inxerir, clasificar e extraer automaticamente datos de facturas, contratos, documentos de identidade e reclamacións. Os nosos pipelines impulsados ​​pola intelixencia artificial validan campos con bases de datos internas e activan fluxos de traballo de aprobación automatizados.",
+      "row2P2": "Consiga taxas de procesamento directo que superen o 95 % mentres reduce drasticamente os tempos de resposta de días a segundos.",
+      "row3Eyebrow": "Orquestración de procesos",
+      "row3Title": "Sincronización entre plataformas de extremo a extremo",
+      "row3P1": "Conecte CRM, ERP, HRMS e API bancarias en fluxos de datos unificados en tempo real. Implementamos activadores dirixidos por eventos, colas de mensaxes e controladores de reserva automatizados.",
+      "row3P2": "A información flúe sen problemas polos departamentos sen intervención humana, eliminando os silos operativos e os atrasos de comunicación.",
+      "row4Eyebrow": "Telemetría continua",
+      "row4Title": "Análise de procesos en tempo real e Kaizen Insights",
+      "row4P1": "Rastrexa os tempos de execución do proceso, os mapas de calor de pescozo de botella, as frecuencias de erros e o ROI financeiro en paneis executivos en tempo real.",
+      "row4P2": "Os diagnósticos continuos de aprendizaxe automática descobren novas oportunidades de automatización, mantendo a súa empresa funcionando coa máxima eficiencia.",
+      "pillarsTitle": "Piares de Automatización",
+      "pillarsSub": "Bloques de construción probados para operacións empresariais intelixentes.",
+      "pillar1Title": "Automatización do fluxo de traballo",
+      "pillar1Desc": "Fluxos de traballo dixitais e humanos en varios pasos orquestrados con enrutamento e escaladas automatizados.",
+      "pillar2Title": "Automatización robótica de procesos",
+      "pillar2Desc": "Bots de software baseados en regras que executan tarefas rutineiras de entrada de datos, reconciliación e entre aplicacións.",
+      "pillar3Title": "Automatización intelixente da intelixencia artificial",
+      "pillar3Desc": "Axentes cognitivos de IA que interpretan o contexto, resumen textos non estruturados e toman decisións automatizadas.",
+      "pillar4Title": "Optimización de procesos",
+      "pillar4Desc": "Minería de procesos, detección de pescozos de botella e fluxos de traballo Kaizen que reducen continuamente os custos operativos.",
+      "ctaTitle": "Listo para automatizar os seus fluxos de traballo empresariais?",
+      "ctaSub": "Conéctese cos nosos arquitectos de automatización para identificar oportunidades de alto ROI e implementar fluxos de traballo dixitais intelixentes.",
+      "ctaButton": "Reserva unha Consulta de Automatización"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Estándar de enxeñería e I+D",
+      "titlePart1": "Centro de",
+      "titlePart2": "Excelencia",
+      "description": "Unha organización centralizada de arquitectos seniores e especialistas de dominio dedicados a estandarizar as prácticas de enxeñería, impulsar a innovación e acelerar as iniciativas dixitais.",
+      "exploreStandards": "Explorar estándares de enxeñería",
+      "initiateAssessment": "Iniciar a Avaliación do CoE",
+      "coreCapabilities": [
+        "Estándares de Arquitectura",
+        "Marcos reutilizables",
+        "Mellores prácticas de goberno",
+        "Desenvolvemento de habilidades",
+        "Benchmarking de calidade",
+        "I+D+i Innovación",
+        "Avaliación Tecnolóxica",
+        "Orientación entre proxectos"
+      ],
+      "uptimeLabel": "Tempo de actividade empresarial",
+      "engineersLabel": "Enxeñeiros e Arquitectos",
+      "deploymentsLabel": "Implementacións de IA e nube",
+      "satisfactionLabel": "Satisfacción do cliente",
+      "row1Eyebrow": "Pilar 01 — Norma de Enxeñaría",
+      "row1Title": "Enxeñaría de software de alto rendemento",
+      "row1P1": "O noso Centro de Excelencia establece patróns de deseño estandarizados, probas automatizadas rigorosas e prácticas de revisión de códigos sen defectos que aceleran o tempo de comercialización mentres manteñen a débeda técnica a cero.",
+      "row1F1": "Canalizacións de lanzamento automatizadas de CI/CD con análise de métricas DORA",
+      "row1F2": "Consellos estritos de revisión arquitectónica e goberno de microservizos",
+      "row1F3": "Fichas de seguridade continuas e parcheos de vulnerabilidades automatizados",
+      "row1Btn": "Aprender Estándares de Enxeñaría",
+      "row1Tag": "DevOps e Enxeñaría de Calidade",
+      "row2Eyebrow": "Pilar 02 — I+D Innovación",
+      "row2Title": "Laboratorio de innovación en IA e tecnoloxía emerxente",
+      "row2P1": "Experimentamos con modelos de aprendizaxe automática de última xeración, axentes de IA personalizados e automatización do fluxo de traballo intelixente para crear produtos empresariais de próxima xeración.",
+      "row2F1": "Integración de coñecemento da IA xerativa empresarial e RAG",
+      "row2F2": "Fluxos de traballo de axentes de IA autónomos para a automatización de procesos empresariais",
+      "row2F3": "Optimización e axuste fino do modelo de aprendizaxe automática personalizado",
+      "row2Btn": "Explora AI Lab",
+      "row2Tag": "Intelixencia artificial e I+D neuronal",
+      "row3Eyebrow": "Pilar 03 — Infraestruturas",
+      "row3Title": "Arquitectura de nube empresarial e seguridade de confianza cero",
+      "row3P1": "Deseñamos e xestionamos ambientes multi-nube resistentes construídos en marcos de seguridade de confianza cero, garantindo que os teus datos estean protexidos contra as ameazas cibernéticas globais en evolución.",
+      "row3F1": "Orquestración de infraestruturas multi-nube AWS, Azure e GCP",
+      "row3F2": "Acceso á rede de confianza cero (ZTNA) e políticas de IAM baseadas en roles",
+      "row3F3": "Exploración automatizada de seguranza de contedores e xestión de segredos",
+      "row3Btn": "Explora a nube e a seguridade",
+      "row3Tag": "Arquitectura da nube e confianza cero",
+      "pillarsTitle": "Os nosos marcos básicos de excelencia",
+      "pillarsSub": "Guías de desenvolvemento sistematizadas que alimentan plataformas de misión crítica.",
+      "pillar1Title": "Comité de Revisión de Arquitectura (ARB)",
+      "pillar1Desc": "Supervisión integral que garante que todas as solucións empresariais se aliñan con protocolos estritos de escalabilidade, seguridade e cumprimento.",
+      "pillar2Title": "Aceleradores reutilizables e biblioteca de compoñentes",
+      "pillar2Desc": "Sistemas de deseño propietarios, kits de inicio de API e modelos de microservizos de backend que reducen o tempo de desenvolvemento inicial nun 40 %.",
+      "pillar3Title": "Perfil continuo de rendemento",
+      "pillar3Desc": "Canalizacións avanzadas de observabilidade en tempo real que monitorizan a latencia das aplicacións, os colos de botella de rendemento e a utilización dos recursos da nube.",
+      "pillar4Title": "Perfeccionamento de talentos e gremios",
+      "pillar4Desc": "Gremios internos estruturados e certificacións que cultivan profundas competencias técnicas na nube, DevOps e IA aplicada.",
+      "ctaTitle": "Eleva o teu estándar de enxeñería",
+      "ctaSub": "Asóciase co Centro de Excelencia de Rezonants para crear arquitecturas de nube resistentes, automatizar fluxos de traballo e acelerar a entrega de produtos dixitais.",
+      "ctaButton": "Programar Consulta Executiva",
+      "badge": "REZONANTS COE",
+      "scroll": "Desprácese",
+      "p1Title": "Gobernanza e Marcos",
+      "p1Desc": "Establecer un goberno arquitectónico en toda a empresa, barandillas de políticas e estándares de cumprimento.",
+      "p1Tag": "Gobernanza",
+      "p2Title": "Estándares Tecnolóxicos e Arquitectura",
+      "p2Desc": "Define arquitecturas de referencia modernas, pilas tecnolóxicas examinadas e patróns de microservizos.",
+      "p2Tag": "Arquitectura",
+      "p3Title": "Activos e bibliotecas reutilizables",
+      "p3Desc": "Acelera a velocidade de desenvolvemento con compoñentes, modelos, kits de inicio e sistemas de deseño compartidos.",
+      "p3Tag": "Reutilizabilidade",
+      "p4Title": "Desenvolvemento de competencias",
+      "p4Desc": "Adestramento estruturado, tutoría tecnolóxica e capacitación de habilidades para elevar a destreza da enxeñaría do equipo.",
+      "p4Tag": "Competencia",
+      "p5Title": "Innovación e tecnoloxía emerxente",
+      "p5Desc": "I+D sobre axentes de IA, conducións de automatización e marcos de nova xeración para manter a vantaxe no mercado.",
+      "p5Tag": "Innovación",
+      "p6Title": "Mellora Continua",
+      "p6Desc": "Métricas de enxeñería baseada en datos (DORA), benchmarking de SLA e optimización continua da calidade.",
+      "p6Tag": "Calidade"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Enxeñaría dixital a medida",
+      "titlePart1": "Desenvolvemento personalizado e",
+      "titlePart2": "Personalización",
+      "description": "Desenvolvemento e mellora de aplicacións, plataformas, fluxos de traballo e solucións empresariais para abordar requisitos empresariais únicos e ofrecer funcionalidades a medida.",
+      "bookConsultation": "Reserva unha Consulta",
+      "exploreCapabilities": "Explora as capacidades",
+      "coreCapabilities": [
+        "Desenvolvemento personalizado",
+        "Configuración da plataforma",
+        "Extensións",
+        "Fluxos de traballo personalizados",
+        "Desenvolvemento de API",
+        "Integración do sistema",
+        "Mellora da IU/UX",
+        "Optimización do rendemento"
+      ],
+      "row1Eyebrow": "FUNCIONALIDADE A MEDIDA",
+      "row1Title": "Funcións a medida creadas para o teu fluxo de traballo",
+      "row1P1": "O software empresarial estándar moitas veces non atende ás necesidades empresariais especializadas. O noso equipo de enxeñería personalizado desenvolve módulos de aplicacións personalizados, regras comerciais personalizadas e extensións especializadas adaptadas ás súas operacións.",
+      "row1P2": "Desde melloras de CRM e ERP personalizados ata portais operativos especializados, creamos funcións que se aliñan perfectamente cos patróns de fluxo de traballo exactos do teu equipo.",
+      "row2Eyebrow": "INTEGRACIÓN DE SISTEMA EMPRESARIAL",
+      "row2Title": "Configuración da plataforma e desenvolvemento de API",
+      "row2P1": "Conecta sistemas de software dispares nun ecosistema dixital unificado. Deseñamos API REST e GraphQL personalizadas, controladores de webhook e colas de mensaxes empresariais para garantir a sincronización de datos en tempo real en todas as túas plataformas.",
+      "row2P2": "Xa sexa integrando ferramentas de SaaS de terceiros ou ampliando plataformas propietarias on-premise, as nosas arquitecturas de integración priorizan a integridade dos datos, o rendemento e o tempo de inactividade cero.",
+      "row3Eyebrow": "UI/UX & RENDEMENTO",
+      "row3Title": "Melloras da IU/UX e optimización do rendemento",
+      "row3P1": "Mellora as interfaces antigas con experiencias de usuario modernas e sensibles deseñadas para a velocidade e a claridade. Reenxeñemos frontends con patróns de deseño intuitivos, cumprimento de accesibilidade e modelos de interacción simplificados.",
+      "row3P2": "Paralelamente, os nosos enxeñeiros de rendemento optimizan as consultas de bases de datos, as estratexias de almacenamento en caché e os tamaños dos paquetes de frontend para ofrecer tempos de resposta instantáneos en todos os dispositivos.",
+      "pillarsTitle": "Deseñados segundo as súas especificacións exactas",
+      "pillarsSub": "Metodoloxías de personalización de nivel empresarial construídas para escalar sen problemas.",
+      "pillar1Title": "Fluxos de traballo e extensións personalizados",
+      "pillar1Desc": "Lóxica de aplicación personalizada e máquinas de estado automatizadas configuradas especificamente en función das súas regras operativas internas.",
+      "pillar2Title": "API e integración de sistemas",
+      "pillar2Desc": "Pontes de datos seguras e autenticadas que conectan backends propietarios, suites ERP, pasarelas de pago e servizos na nube.",
+      "pillar3Title": "Configuración da plataforma",
+      "pillar3Desc": "Adaptacións arquitectónicas profundas que modifican o software empresarial sen romper as rutas de actualización nin os acordos de soporte dos provedores.",
+      "pillar4Title": "Optimización do rendemento",
+      "pillar4Desc": "Perfil de consulta agresivo, eliminación de fugas de memoria e distribución CDN de borde para cargas de páxinas inferiores a segundos.",
+      "ctaTitle": "Listo para personalizar a súa plataforma empresarial?",
+      "ctaSub": "Conecta cos nosos arquitectos de solucións para deseñar e implementar módulos, fluxos de traballo e integracións personalizados adaptados ás necesidades da túa empresa.",
+      "ctaButton": "Reserva unha chamada de personalización",
+      "badge": "Enxeñaría dixital a medida",
+      "viewAllServices": "Ver todos os servizos"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Modernización empresarial",
+      "titlePart1": "Dixital",
+      "titlePart2": "Transformación",
+      "description": "Modernización integral dos procesos de negocio, arquitecturas tecnolóxicas e modelos operativos para impulsar a axilidade organizativa, a eficiencia operativa e o crecemento dixital sostible.",
+      "startTransformation": "Iniciar a transformación",
+      "exploreStrategy": "Explora a estratexia",
+      "coreCapabilities": [
+        "Estratexia e folla de ruta",
+        "Modernización da Arquitectura",
+        "Nube e infraestrutura",
+        "Datos e análise",
+        "Dixitalización de procesos",
+        "Experiencia do cliente",
+        "Xestión do cambio",
+        "Modelos operativos áxiles"
+      ],
+      "row1Eyebrow": "Estratexia e folla de ruta",
+      "row1Title": "Da visión á folla de ruta executable",
+      "row1P1": "Colaboramos con líderes empresariais para definir estratexias dixitais, casos de negocio e follas de ruta por fases con vitorias rápidas e execución sen riscos.",
+      "row1P2": "As iniciativas priorizadas, os modelos TCO e os KPI garanten que todos os esforzos de modernización tecnolóxica se vinculen directamente aos ingresos, á eficiencia e aos resultados de satisfacción do cliente.",
+      "row2Eyebrow": "Modernización do legado",
+      "row2Title": "Modernizar sen romper o negocio",
+      "row2P1": "Volve a transformar os monólitos en microservizos, API e patróns nativos da nube con cortes sen tempo de inactividade e validación de regresión automatizada.",
+      "row2P2": "Modernizamos aplicacións, bases de datos e capas de integración preservando o cumprimento e a postura de seguridade.",
+      "row3Eyebrow": "Nube, IA e datos",
+      "row3Title": "Adopción da nube e intelixencia impulsada por datos",
+      "row3P1": "Adopta AWS, Azure e GCP, crea canalizacións de datos modernas e incorpora axentes de aprendizaxe automática para impulsar decisións autónomas.",
+      "row3P2": "Desde a transmisión de eventos en tempo real ata os paneis de control unificados, a transformación faise medible e sostible.",
+      "row4Eyebrow": "Experiencia do cliente",
+      "row4Title": "Experiencias modernas de omnicanalidade",
+      "row4P1": "Redeseña as viaxes dos clientes en portais web, iOS, Android e autoservizo sensibles con interfaces personalizadas.",
+      "row4P2": "A enxeñaría de plataformas, a telemetría e os bucles de feedback automatizados fan que a innovación dixital sexa continua.",
+      "pillarsTitle": "Piares da Transformación",
+      "pillarsSub": "Pancas centradas nos resultados que garanten un liderado dixital sostible.",
+      "pillar1Title": "Estratexia e goberno dixital",
+      "pillar1Desc": "Plans de transformación por fases con modelado de casos de negocio, goberno da arquitectura e seguimento de riscos de fitos.",
+      "pillar2Title": "Plataforma de datos e nube",
+      "pillar2Desc": "Fundamentos multinube AWS/Azure/GCP, canalizacións automatizadas e habilitación de análise de datos empresariais.",
+      "pillar3Title": "IA e automatización",
+      "pillar3Desc": "Automatización de procesos intelixentes, axentes de intelixencia artificial cognitiva e telemetría preditiva para optimizar as operacións diarias.",
+      "pillar4Title": "Experiencia do cliente",
+      "pillar4Desc": "Portais dixitais omnicanal de alta conversión e interfaces personalizadas construídas para a máxima retención de usuarios.",
+      "ctaTitle": "Listo para transformar a súa empresa?",
+      "ctaSub": "Asóciase con Rezonants para unha transformación dixital gradual e sen riscos vinculada a resultados empresariais medibles.",
+      "ctaButton": "Reserva unha Convocatoria de Transformación Dixital",
+      "bookWorkshop": "Obradoiro de Transformación de Libros",
+      "exploreFramework": "Explore o marco de solucións",
+      "coreCapabilitiesTitle": "Capacidades básicas"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Ciclo de vida tecnolóxico completo",
+      "titlePart1": "Solución de extremo a extremo",
+      "titlePart2": "Marco",
+      "description": "Un marco de entrega estruturado e de ciclo de vida completo que abarca requisitos empresariais, deseño de arquitectura, enxeñaría, integración, garantía de calidade, implantación na nube e operacións xestionadas.",
+      "startJourney": "Comeza o teu proxecto",
+      "exploreFramework": "Explore Framework",
+      "coreCapabilities": [
+        "Análise de requisitos",
+        "Deseño de Arquitectura",
+        "Desenvolvemento de pila completa",
+        "Enxeñaría da Integración",
+        "Garantía de calidade",
+        "Implantación e lanzamento",
+        "Operacións en curso",
+        "Evolución Continua"
+      ],
+      "row1Eyebrow": "Estratexia e Arquitectura",
+      "row1Title": "Enxeñaría de requisitos e deseño de solucións",
+      "row1P1": "Talleres colaborativos, mapeamento de dominios empresariais e especificacións de arquitectura na nube deseñadas para eliminar o risco antes de escribir unha liña de código.",
+      "row1P2": "Definimos modelos de datos, marcos de seguridade e fitos de escalabilidade que configuran o éxito a longo prazo.",
+      "row2Eyebrow": "Enxeñaría e Calidade",
+      "row2Title": "Desenvolvemento de pila completa e probas automatizadas",
+      "row2P1": "Microservizos modulares, API de tipo seguro e frontends sensibles combinados con análises automatizados de unidades, integración e seguridade.",
+      "row2P2": "Canalizacións de integración continua con GitHub Actions, Terraform e varandas de seguridade automatizadas.",
+      "row3Eyebrow": "Implantación e operacións",
+      "row3Title": "Implementación na nube e seguimento xestionado 24/7",
+      "row3P1": "Orquestración multinube en AWS/Azure/GCP con retroceso automatizado, cortes sen tempo de inactividade e observabilidade en tempo real.",
+      "row3P2": "Ofrecemos mantemento apoiado por SLA e monitorización continua de telemetría para facer evolucionar o seu produto sen problemas.",
+      "row4Eyebrow": "Gobernanza empresarial",
+      "row4Title": "Goberno unificado e apoio continuo",
+      "row4P1": "Responsabilidade dun único punto en toda a túa pila dixital: velocidade de sprint transparente, orzamento previsible e innovación continua.",
+      "row4P2": "Os lanzamentos regulares de funcións e os ciclos de modernización manteñen a túa empresa por diante da competencia.",
+      "pillarsTitle": "Piares do marco do ciclo de vida",
+      "pillarsSub": "Cada fase deseñada con rigor empresarial.",
+      "pillar1Title": "Estratexia e requisitos",
+      "pillar1Desc": "Descubrimento de dominios, follas de ruta arquitectónicas e aliñamento de partes interesadas para eliminar os riscos de execución.",
+      "pillar2Title": "Arquitectura e construción",
+      "pillar2Desc": "Microservizos nativos na nube resistentes, integracións de API e probas continuas de control de calidade.",
+      "pillar3Title": "Seguridade e implantación",
+      "pillar3Desc": "Cumprimento de seguridade de confianza cero, lanzamentos en contedores e despregamentos automatizados na nube.",
+      "pillar4Title": "Goberno e apoio",
+      "pillar4Desc": "Monitorización de SLA 24/7, telemetría sanitaria e enxeñería evolutiva en curso.",
+      "ctaTitle": "Necesitas un socio de ciclo de vida completo?",
+      "ctaSub": "Somos propietarios do ciclo de vida tecnolóxico completo para que o teu equipo poida centrarse nos resultados do negocio básico.",
+      "ctaButton": "Socio para o ciclo de vida completo"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformación da nube e da infraestrutura",
+      "titlePart1": "Migración e",
+      "titlePart2": "Modernización",
+      "description": "Migración segura e estruturada de aplicacións legadas, bases de datos e infraestrutura a arquitecturas de nube modernas, combinada cunha modernización continua para mellorar a axilidade e a eficiencia.",
+      "bookAssessment": "Avaliación da Migración do Libro",
+      "exploreStrategy": "Explora a estratexia na nube",
+      "coreCapabilities": [
+        "Migración á nube",
+        "Modernización de aplicacións",
+        "Migración da base de datos",
+        "Realoxamento de infraestruturas",
+        "Containerización",
+        "Transición de microservizos",
+        "Optimización do rendemento",
+        "Seguridade e cumprimento"
+      ],
+      "row1Eyebrow": "Migración á nube",
+      "row1Title": "Estratexia multinube e optimización",
+      "row1P1": "Migración fluida da carga de traballo en AWS, Azure e Google Cloud con descubrimento automatizado, planificación de ondas e cero interrupcións do negocio.",
+      "row1P2": "Equilibramos o rehosting, a replataforma e a refactorización para optimizar o custo total de propiedade (TCO) e a axilidade.",
+      "row2Eyebrow": "Migración de datos e bases de datos",
+      "row2Title": "ETL seguro e validación automatizada de datos",
+      "row2P1": "Replicación automatizada de bases de datos, tradución de esquemas e canalizacións ETL de alto rendemento con verificación da integridade dos datos ao 100%.",
+      "row2P2": "O ensaio de corte sen tempo de inactividade garante a total coherencia dos datos e a continuidade do negocio.",
+      "row3Eyebrow": "Modernización da plataforma",
+      "row3Title": "Containerización e orquestración Kubernetes",
+      "row3P1": "Moderniza os monolitos legados en microservizos escalables orquestrados a través de Kubernetes (EKS, AKS, GKE) con planos de IaC automatizados.",
+      "row3P2": "O perfil de rendemento posterior á migración e a optimización de custos garanten un ROI inmediato.",
+      "row4Eyebrow": "Planificación de corte",
+      "row4Title": "Probas automatizadas e redes de seguridade de retroceso",
+      "row4P1": "Runbooks de corte probados en batalla, suites de regresión automatizadas e mecanismos de retroceso instantáneo para unha total tranquilidade.",
+      "row4P2": "A telemetría sanitaria posterior á migración e o hipercoidado 24/7 garanten unha estabilidade de produción impecable.",
+      "pillarsTitle": "Garantías migratorias",
+      "pillarsSub": "Movementos sen risco apoiados por SLA empresariais.",
+      "pillar1Title": "Corte de tempo de inactividade cero",
+      "pillar1Desc": "Versións de Canary e sincronización de dobre escritura de base de datos para garantir o acceso ininterrompido dos usuarios.",
+      "pillar2Title": "Validación automatizada de datos",
+      "pillar2Desc": "Comparacións de sumas de comprobación, auditorías de integridade do esquema e reconciliación automatizada de ETL.",
+      "pillar3Title": "Redes de seguridade de retroceso",
+      "pillar3Desc": "Protocolos estritos de recuperación ante desastres e simulacros de ensaio para conter o risco en cada fase.",
+      "pillar4Title": "Optimización de custos e rendemento",
+      "pillar4Desc": "Inclúense os paneis de control de custos, políticas de escalado automático e dimensionamento da nube.",
+      "ctaTitle": "Listo para migrar con total confianza?",
+      "ctaSub": "Asóciase con Rezonants para unha nube estruturada e sen riscos e a modernización de datos.",
+      "ctaButton": "Planifica o teu obradoiro de migración"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Validación rápida e viabilidade",
+      "titlePart1": "Proba de concepto (PoC) &",
+      "titlePart2": "Implantación Piloto",
+      "description": "Desenvolvemento e validación rápidos de solucións tecnolóxicas para avaliar a viabilidade técnica, o valor comercial, os requisitos de integración, o rendemento e a escalabilidade antes da implementación a gran escala.",
+      "initiateDiscovery": "Iniciar o descubrimento de PoC",
+      "exploreDevelopment": "Explora o desenvolvemento personalizado",
+      "coreCapabilities": [
+        "Desenvolvemento PoC",
+        "Enxeñaría de Prototipos",
+        "Estudos de viabilidade",
+        "Validación de Arquitectura",
+        "Probas de integración",
+        "Benchmarking de rendemento",
+        "Despregamento piloto",
+        "Avaliación do valor"
+      ],
+      "row1Eyebrow": "Validación Rápida",
+      "row1Title": "Do concepto á viabilidade validada",
+      "row1P1": "Converter unha idea nunha solución a escala empresarial require unha validación previa rigorosa. O noso servizo PoC & Pilot avalía a viabilidade da tecnoloxía, proba os ganchos de integración críticos e valida o ROI empresarial antes de grandes compromisos de capital.",
+      "row1P2": "Construímos MVP de alta fidelidade e pilotos de sandbox enfocados que proban a viabilidade técnica, miden a latencia do sistema e recollen a validación directa dos interesados ​​de forma precoz.",
+      "row1Cap": "Rapid MVP Prototyping & Benchmarks Técnicos",
+      "row2Eyebrow": "Prototipado áxil",
+      "row2Title": "MVP interactivos e validación UX",
+      "row2P1": "Creamos wireframes interactivos, fluxos de usuarios nos que se pode facer clic e probas de conceptos funcionais en días, non en meses. Proba as interaccións reais dos usuarios, perfecciona os patróns de IU/UX e obtén comentarios útiles das partes interesadas.",
+      "row2P2": "Ao acurtar os ciclos de retroalimentación durante o desenvolvemento inicial, o teu equipo minimiza a reelaboración e establece especificacións técnicas claras antes de que comecen as fases de construción intensivas en capital.",
+      "row2Cap": "Iteración rápida e prototipos de UX clicables",
+      "row3Eyebrow": "Probas de integración e escalabilidade",
+      "row3Title": "Eliminar o risco de integracións de sistemas complexos",
+      "row3P1": "Descubra os colos de botella técnicos, as limitacións da API e as limitacións de rendemento antes do compromiso total de capital. O noso equipo de enxeñería piloto proba integracións, canalizacións de datos e API de terceiros en ambientes sandbox illados.",
+      "row3P2": "Esta mitigación de riscos proactiva garante unha alta dispoñibilidade do sistema, o cumprimento da seguridade e uns prazos de desenvolvemento previsibles ao facer a transición do teu PoC á produción empresarial.",
+      "row3Cap": "Integración Sandbox e probas de estrés",
+      "row4Eyebrow": "Piloto de Produción Controlada",
+      "row4Title": "Lanzamento piloto dirixido e validación de casos de negocio",
+      "row4P1": "Implementa versións piloto dirixidas a un segmento de usuarios seleccionado ou a un mercado de probas. Rastrexa as métricas de rendemento, as análises de adopción dos usuarios e os comentarios operativos para cuantificar o valor comercial e establecer un caso de negocio apoiado en datos.",
+      "row4P2": "Con coñecementos piloto do mundo real, os patrocinadores executivos obteñen métricas claras de ROI para xustificar unha implantación máis ampla e investimentos estratéxicos en transformación dixital.",
+      "row4Cap": "Implementación controlada e telemetría de rendemento",
+      "pillarsTitle": "Os nosos principios de enxeñería piloto",
+      "pillarsSub": "Principios reitores que converten a incerteza técnica nun éxito empresarial previsible.",
+      "pillar1Title": "Prototipado de PoC e MVP",
+      "pillar1Desc": "Entregue prototipos funcionais rapidamente para validar as propostas de valor no inicio do ciclo de vida.",
+      "pillar2Title": "Viabilidade e validación",
+      "pillar2Desc": "Verifique a compatibilidade da API, os limiares de rendemento e as restricións de cumprimento en ambientes de proba de proba.",
+      "pillar3Title": "Avaliación da escalabilidade",
+      "pillar3Desc": "Simula a carga de produción para establecer límites de capacidade e determinar o tamaño da arquitectura da nube.",
+      "pillar4Title": "Validación de caso de negocio",
+      "pillar4Desc": "Cuantifica métricas tanxibles de ROI e produtividade para apoiar as decisións de lanzamento de toda a empresa.",
+      "ctaTitle": "Listo para validar a túa próxima solución dixital?",
+      "ctaSub": "Conecta co noso equipo de enxeñería de solucións para explorar os requisitos do teu proxecto, construír un prototipo e probar a viabilidade con risco cero.",
+      "ctaButton": "Reserva unha Consulta PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Centro de operacións centralizada",
+      "titlePart1": "Servizos compartidos e",
+      "titlePart2": "Operacións xestionadas",
+      "description": "Entrega centralizada de tecnoloxía e capacidades operativas en todas as unidades de negocio mediante procesos estandarizados, recursos cualificados, marcos de goberno, xestión de servizos e niveis de servizo medibles.",
+      "bookDiscovery": "Reservar Descubrimento de operacións xestionadas",
+      "exploreFramework": "Explore o marco de solucións",
+      "coreCapabilities": [
+        "Servizos Xestionados",
+        "Operacións informáticas",
+        "Soporte de aplicacións",
+        "Xestión do Servizo",
+        "Optimización de recursos",
+        "Xestión de SLA",
+        "Gobernanza",
+        "Mellora Continua",
+        "Optimización de custos"
+      ],
+      "row1Eyebrow": "Centro de entrega unificado",
+      "row1Title": "Servizos estandarizados en todas as unidades de negocio",
+      "row1P1": "Consolide a TI de back-office, a xestión de infraestruturas e o soporte técnico nun único centro de entrega de alta eficiencia.",
+      "row1P2": "Ao eliminar os gastos xerais do equipo duplicados e estandarizando os modelos de prestación de servizos, a súa organización garante unha calidade consistente e reduce o gasto operativo total.",
+      "row2Eyebrow": "24/7 SRE e soporte de aplicacións",
+      "row2Title": "Monitorización proactiva e resolución rápida de incidentes",
+      "row2P1": "Os nosos enxeñeiros de fiabilidade do sitio (SRE) e especialistas en soporte dedicados proporcionan un seguimento de telemetría 24/7/365, unha clasificación de alertas automatizada e unha rápida resolución de problemas L1/L2/L3.",
+      "row2P2": "Apoiados por estritos compromisos de SLA, garantimos unha dispoñibilidade do 99,99 % das túas aplicacións de misión crítica e da infraestrutura na nube.",
+      "row3Eyebrow": "Gobernanza e cumprimento de ITIL",
+      "row3Title": "Marcos de xestión de servizos estruturados",
+      "row3P1": "Implementa estándares de ITSM líderes no sector (ServiceNow, Jira Service Management) con tickets transparentes, análises de causa raíz e gardas de xestión de cambios.",
+      "row3P2": "As pistas de auditoría completas e as políticas de goberno garanten que as súas operacións cumpran cos estándares internacionais de seguridade.",
+      "row4Eyebrow": "FinOps e mellora continua",
+      "row4Title": "Orzamento previsible e optimización de recursos",
+      "row4P1": "Elimine o desperdicio da nube, optimice o tamaño do cálculo e automatice o mantemento operativo rutineiro coas mellores prácticas de FinOps.",
+      "row4P2": "Os informes mensuais de transparencia e as previsións de capacidade garanten unha optimización continua dos custos operativos e unha alta eficiencia do capital.",
+      "pillarsTitle": "Operacións Piares",
+      "pillarsSub": "Palancas operativas comprobadas para unha escalabilidade empresarial fiable.",
+      "pillar1Title": "Operacións informáticas xestionadas 24/7",
+      "pillar1Desc": "Telemetría NOC proactiva, parcheo de servidores, mantemento da infraestrutura e garantías de tempo de funcionamento do 99,99 %.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Mesa de axuda multicanle de nivel 1/2/3, enrutamento de incidentes e fluxos de traballo de resolución de tickets estruturados.",
+      "pillar3Title": "SLA e control de rendemento",
+      "pillar3Desc": "Tempos de resposta respaldados contractualmente, puntos de referencia MTTR e auditorías de rendemento mensuais transparentes.",
+      "pillar4Title": "FinOps e optimización de custos",
+      "pillar4Desc": "Axuste continuo dos recursos, reclamación de licenzas e redución automatizada de custos na nube.",
+      "ctaTitle": "Preparado para escalar as súas operacións xestionadas?",
+      "ctaSub": "Asóciase con Rezonants para obter servizos fiables e xestionados 24 horas ao día, 7 días ao día, que optimizan os custos e eliminan o tempo de inactividade operacional.",
+      "ctaButton": "Reserva unha Consulta de Operacións Xestionadas",
+      "howItWorksHeading": "Un camiño comprobado para o éxito dos servizos compartidos"
+    },
+    "aiRobotics": {
+      "brand": "IA e robótica",
+      "eyebrow": "Sistemas intelixentes",
+      "heroHeading": "AI e robótica traballando xuntos",
+      "intro": "A intelixencia artificial (IA) e a robótica están a transformar a forma de operar das empresas combinando a toma de decisións intelixentes coa automatización avanzada. A IA permite ás máquinas analizar datos, aprender patróns e tomar decisións intelixentes, mentres que a robótica achega estas capacidades ao mundo físico para realizar tarefas con velocidade, precisión e coherencia.",
+      "section1Heading": "Creado para axilizar cada operación",
+      "section1Text": "As nosas solucións de IA e robótica axudan ás organizacións a axilizar as operacións, reducir o esforzo manual e mellorar a produtividade en varias industrias. Desde a automatización de procesos e a análise preditiva ata a robótica intelixente e os sistemas intelixentes, ofrecemos tecnoloxías innovadoras que melloran a eficiencia, impulsan o crecemento e apoian a transformación dixital.",
+      "section2Heading": "Onde a intelixencia se une á acción",
+      "section2Text": "Cada interacción, decisión e movemento está impulsado por un único sistema conectado, convertendo os datos en resultados en tempo real.",
+      "footerTag": "Tecnoloxía innovadora para a transformación dixital"
+    },
+    "informationReporting": {
+      "brand": "Plataforma de datos empresariales",
+      "heroTitle": "Sistemas de información e informes",
+      "heroSubtitle": "Unha única fonte de verdade para cada departamento, creada para converter os datos operativos brutos en decisións nas que a súa empresa pode actuar hoxe.",
+      "statusLive": "EN VIVO",
+      "statusAnalyzed": "ANALIZADO",
+      "statusArchived": "ARQUIVO",
+      "statusPending": "PENDENTE",
+      "metricUptime": "Tempo de actividade do sistema",
+      "metricSessions": "Sesións activas",
+      "metricReportsPerDay": "Informes / Día",
+      "metricEvents": "Eventos diarios inxeridos",
+      "metricReports": "Informes programados",
+      "metricLatency": "Latencia API",
+      "unifiedPlatform": "Plataforma unificada",
+      "analyticsSuite": "Suite analítica",
+      "reportingConsole": "Consola de informes",
+      "businessOutcome": "Resultado empresarial",
+      "section1Heading": "Un sistema centralizado para cada métrica que importa",
+      "section1P1": "Os sistemas de información e informes son solucións empresariais esenciais que permiten ás organizacións recompilar, xestionar e transformar datos en coñecementos significativos. Estes sistemas integran información de varios departamentos, garantindo un acceso preciso, consistente e en tempo real aos datos críticos da empresa. Ao proporcionar unha plataforma centralizada para a xestión da información, as organizacións poden mellorar a visibilidade operativa, axilizar os fluxos de traballo e apoiar a toma de decisións estratéxicas en todos os niveis da empresa.",
+      "section1P2": "Estes sistemas usan informes, análises e paneis automatizados para rastrexar o rendemento, supervisar as métricas clave e xerar informes en tempo real. Ao reducir o esforzo manual e mellorar a precisión dos datos, as empresas poden tomar decisións máis rápidas e eficaces.",
+      "section2Heading": "Creado para visibilidade, cumprimento e escala",
+      "section2Text": "Con visibilidade, conformidade e colaboración melloradas, os sistemas de información e informes permiten ás organizacións optimizar procesos, mellorar a produtividade e impulsar un crecemento empresarial sostible nun ambiente competitivo.",
+      "ctaHeading": "Ofrécelle a todos os equipos a mesma imaxe en tempo real da empresa.",
+      "ctaText": "Vexa como Nexus Data Systems pode consolidar os seus informes nunha plataforma intelixente.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Todos os dereitos reservados.",
+      "navOverview": "Visión xeral",
+      "navCapabilities": "Capacidades",
+      "navImpact": "Impacto",
+      "navContact": "Contacto"
+    },
+    "managedServices": {
+      "subtitle": "Servizos de xestión integral para a súa empresa"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernización das aplicacións empresariais para unha empresa baseada en datos",
+      "excerpt": "Como a arquitectura de aplicacións moderna e os datos conectados poden mellorar a eficiencia operativa, a escalabilidade e a visibilidade empresarial.",
+      "tag": "Transformación empresarial",
+      "category": "TRANSFORMACIÓN EMPRESARIAL",
+      "summary": "Unha base de datos e aplicacións moderna pode axudar ás empresas a mellorar a eficiencia operativa, conectar sistemas empresariais e crear unha mellor visibilidade nas súas operacións."
+    },
+    "artificial-intelligence": {
+      "title": "Como a IA está a remodelar as aplicacións empresariais",
+      "excerpt": "Explora como a automatización intelixente, os copilotos de intelixencia artificial e a intelixencia preditiva están a formar parte das aplicacións empresariais nas que confían as empresas todos os días.",
+      "tag": "Intelixencia Artificial",
+      "category": "INTELIXENCIA ARTIFICIAL",
+      "summary": "Explora como a automatización intelixente, os copilotos de intelixencia artificial e a intelixencia preditiva están transformando o software empresarial cotián en plataformas adaptativas e proactivas."
+    },
+    "modern-erp": {
+      "title": "Acelerar a transformación empresarial co ERP moderno",
+      "excerpt": "Explora como as plataformas ERP modernas conectan finanzas, compras, cadea de subministración e operacións comerciais a través dunha base dixital unificada.",
+      "tag": "ERP moderno",
+      "category": "ERP MODERNO",
+      "summary": "Unha plataforma ERP moderna conecta finanzas, compras, cadea de subministración e operacións comerciais nun modelo operativo unificado en tempo real."
+    },
+    "cybersecurity": {
+      "title": "Construír a resiliencia cibernética nunha empresa conectada",
+      "excerpt": "Explore como as organizacións poden reforzar a seguridade, protexer os sistemas críticos e prepararse para as ameazas en ambientes cada vez máis conectados.",
+      "tag": "Ciberseguridade",
+      "category": "CIBERSEGURIDADE",
+      "summary": "A medida que as empresas integran máis sistemas de nube, API e ecosistemas de socios, a resiliencia cibernética garante que as operacións de misión crítica resistan as ameazas modernas."
+    },
+    "cloud-modernization": {
+      "title": "Modernización de aplicacións legadas para a nube",
+      "excerpt": "Explore un enfoque práctico para avaliar, modernizar e mover aplicacións legadas cara a arquitecturas de nube escalables e seguras.",
+      "tag": "Nube e Modernización",
+      "category": "NUBE E MODERNIZACIÓN",
+      "summary": "Unha folla de ruta estruturada e pragmática para avaliar, refactorizar e migrar sistemas empresariais monolíticos a arquitecturas de nube elásticas e mantibles."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "TRANSFORMACIÓN EMPRESARIAL",
+      "title": "Modernización das aplicacións empresariais para unha empresa baseada en datos",
+      "subtitle": "Unha base de datos e aplicacións moderna pode axudar ás empresas a mellorar a eficiencia operativa, conectar sistemas empresariais e crear unha mellor visibilidade nas súas operacións.",
+      "date": "Setembro 2026",
+      "readTime": "7 min de lectura",
+      "imageCaption": "Perspectiva da tecnoloxía empresarial — Arquitectura de aplicacións e datos conectados",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Aplicacións empresariais",
+          "desc": "Ferramentas diferenciadas de CRM, ERP e departamentais que se executan en silos."
+        },
+        {
+          "title": "Múltiples fontes de datos",
+          "desc": "Táboas operativas fragmentadas, extractos CSV e esquemas ad-hoc."
+        },
+        {
+          "title": "Bases de datos desconectadas",
+          "desc": "Repositorios de datos na nube illados e non coordinados."
+        },
+        {
+          "title": "Informes e Usuarios Empresariais",
+          "desc": "Reconciliacións manuais, follas de cálculo en conflito e informes atrasados."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Aplicacións empresariais",
+          "desc": "Plataformas operativas básicas e interfaces de resposta modernas."
+        },
+        {
+          "title": "API/Capa de integración",
+          "desc": "Pasarela de API segura e dirixida por eventos que conecta fluxos de traballo da empresa."
+        },
+        {
+          "title": "Servizos de datos",
+          "desc": "Modelos de datos mestres unificados, canalizacións e motores de almacenamento optimizados."
+        },
+        {
+          "title": "Análise e informes",
+          "desc": "Telemetría en tempo real, modelos semánticos e informes automatizados."
+        },
+        {
+          "title": "Tomadores de decisións empresariais",
+          "desc": "Paneis operativos en directo que proporcionan visibilidade unificada dos executivos."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Aplicacións empresariais",
+          "purpose": "Xestión de procesos de negocio"
+        },
+        {
+          "area": "API",
+          "purpose": "Integración do sistema"
+        },
+        {
+          "area": "Bases de datos",
+          "purpose": "Datos empresariais estruturados"
+        },
+        {
+          "area": "Integración de datos",
+          "purpose": "Conectando varias fontes"
+        },
+        {
+          "area": "Análise",
+          "purpose": "Información empresarial"
+        },
+        {
+          "area": "Infraestrutura na nube",
+          "purpose": "Escalabilidade e flexibilidade"
+        },
+        {
+          "area": "Seguimento",
+          "purpose": "Fiabilidade e rendemento"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Mellora a visibilidade operativa nas unidades multifuncionais",
+        "Mellor coherencia de datos e fonte única de verdade da empresa",
+        "Redución do esforzo manual de informes e compilación automatizada de datos",
+        "Mellora o rendemento da aplicación e reduciu a latencia das transaccións",
+        "Integración do sistema máis sinxela mediante APIs estandarizadas e seguras",
+        "Maior escalabilidade para apoiar o crecemento orgánico e a adquisición",
+        "Mellor base para a futura adopción de innovación e intelixencia"
+      ],
+      "keyPerspectivePoints": [
+        "Comprender os procesos comerciais e os fluxos de traballo operativos reais",
+        "Conexión de sistemas mediante estándares de integración fiables",
+        "Mellorar a calidade dos datos, a gobernanza e os modelos de datos mestres",
+        "Modernizando as aplicacións sen desestabilizar as operacións do día a día",
+        "Creando arquitectura escalable adecuada para o crecemento elástico",
+        "Permitir unha mellor visibilidade empresarial para a toma de decisións proactivas"
+      ],
+      "sec1Eyebrow": "O RETO EMPRESARIAL",
+      "sec1Heading": "Navegando pola complexidade nunha empresa en crecemento",
+      "sec1Subtext": "A medida que as empresas escalan, os ecosistemas tecnolóxicos se expanden inevitablemente. O que comeza como solucións enfocadas para departamentos individuais pode evolucionar cara a unha rede enmarañada de sistemas dispares.",
+      "sec2Eyebrow": "EVOLUCIÓN DO SISTEMA",
+      "sec2Heading": "Unha paisaxe tecnolóxica complexa",
+      "sec2Subtext": "Cando as aplicacións empresariais, as bases de datos e os sistemas operativos evolucionan de forma independente, os fluxos de información fragmentanse. Comprender esta fragmentación é o primeiro paso crítico.",
+      "sec3Eyebrow": "O MODELO CONECTADO",
+      "sec3Heading": "Arquitectura de Aplicación Moderna",
+      "sec3Subtext": "As empresas avanzan cara a unha arquitectura orientada a eventos e a API na que os datos flúen de forma fiable a través das plataformas principais e chegan aos tomadores de decisións en tempo real.",
+      "sec4Eyebrow": "INTELIXENCIA E VISIBILIDADE",
+      "sec4Heading": "Datos e análises conectados",
+      "sec4Subtext": "Cando as aplicacións empresariais se comunican sen problemas, os datos deixan de ser un subproduto de informes e convértense nun motor principal da axilidade operativa.",
+      "sec5Eyebrow": "PROXECTO DE ARQUITECTURA",
+      "sec5Heading": "Fundación Tecnolóxica",
+      "sec5Subtext": "Unha visión completa das áreas tecnolóxicas fundamentais que compoñen unha base empresarial moderna e escalable.",
+      "sec6Eyebrow": "VALOR CUALITATIVO",
+      "sec6Heading": "Impacto empresarial",
+      "sec6Subtext": "Modernizar a arquitectura de aplicacións e conectar datos fragmentados ofrece melloras operativas tanxibles en toda a organización.",
+      "ctaHeading": "Preparado para modernizar o teu entorno tecnolóxico?",
+      "ctaDescription": "Explore como a arquitectura de aplicacións moderna, os datos conectados e a tecnoloxía escalable poden axudar ás organizacións a mellorar a eficiencia e a prepararse para o crecemento futuro.",
+      "ctaButton": "Fale cos nosos expertos",
+      "sec1P1": "Nun ambiente empresarial típico, o crecemento adoita introducir varias xeracións de software. As finanzas, a cadea de subministración, o servizo ao cliente e as operacións de campo adoitan operar en pilas de software separadas adquiridas ou construídas en diferentes momentos. Ao longo de anos de evolución operativa, estes sistemas desenvolven os seus propios formatos de datos, actualizan cadencias e peculiaridades de integración.",
+      "sec1P2": "A fricción maniféstase en toda a empresa a través de colos de botella operativos comúns:",
+      "sec1List": [
+        {
+          "bold": "Varias aplicacións empresariais desconectadas",
+          "text": "que requiren entrada de datos duplicados e referencia cruzada manual."
+        },
+        {
+          "bold": "Bases de datos desconectadas",
+          "text": "operando sen goberno centralizado nin rexistros mestres unificados."
+        },
+        {
+          "bold": "Sobrecarga manual de informes",
+          "text": ", onde os equipos analíticos pasan días reunindo exportacións en lugar de descubrir información."
+        },
+        {
+          "bold": "Incoherencias de datos",
+          "text": "entre departamentos, creando respostas conflitivas a preguntas operativas fundamentais."
+        },
+        {
+          "bold": "Sobrecarga de mantemento da aplicación e límites de escalabilidade",
+          "text": ", xa que as conexións punto a punto fráxiles legadas loitan por soportar volumes de transaccións crecentes."
+        }
+      ],
+      "sec1P3": "Abordar estes desafíos require ver o panorama tecnolóxico non como unha colección de compras illadas de software, senón como unha plataforma empresarial interconectada deseñada para apoiar a axilidade estratéxica.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Fluxo de información fragmentado",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silos de datos",
+          "desc": "Os datos cruciais de clientes, financeiros e de inventario permanecen atrapados nas plataformas departamentais, o que impide unha única visión unificada das operacións comerciais."
+        },
+        {
+          "num": "02",
+          "title": "Lagoas de integración",
+          "desc": "As conexións punto a punto e os extractos por lotes nocturnos crean latencia, altos índices de fallos e custosos gastos xerais de mantemento nos equipos operativos."
+        },
+        {
+          "num": "03",
+          "title": "Información atrasada",
+          "desc": "Cando os executivos deben esperar días para a conciliación de fin de mes para comprender o rendemento, a toma de decisións é reactiva e non preditiva."
+        }
+      ],
+      "modernArchitectureBadge": "Arquitectura obxectivo",
+      "modernArchitectureTitle": "Modelo de aplicación empresarial conectada",
+      "sec3P1": "Unha arquitectura de aplicación moderna substitúe as conexións fráxiles punto a punto por unha base áxil e desacoplada. Ao establecer unha API robusta e unha capa de integración, os sistemas interactúan a través de puntos finais gobernados e seguros ao tempo que se preserva a autonomía das unidades de negocio individuais.",
+      "sec3P2": "As principais capacidades técnicas deste cambio arquitectónico inclúen:",
+      "sec3List": [
+        {
+          "bold": "Modernización da aplicación:",
+          "text": "Desacoplamento da lóxica empresarial central en servizos modulares escalables."
+        },
+        {
+          "bold": "Integración API:",
+          "text": "Establecemento de interfaces estandarizadas e documentadas para a interoperabilidade interna e dos socios."
+        },
+        {
+          "bold": "Integración de datos e optimización de bases de datos:",
+          "text": "Unificación de canalizacións de datos operativos cunha optimización de consultas de alto rendemento."
+        },
+        {
+          "bold": "Observabilidade e seguridade:",
+          "text": "Implementación de telemetría centralizada, pistas de auditoría e controis de acceso baseados en funcións en todos os servizos."
+        }
+      ],
+      "sec4P1": "As bases de datos integradas transforman a forma en que os equipos de liderado e operativos interactúan coa información. En lugar de confiar en informes retrospectivos que mostran o que ocorreu hai semanas, as organizacións obteñen telemetría operativa en directo en todas as unidades de negocio.",
+      "sec4P2": "Os datos e análises conectados apoian resultados empresariais sostibles a través de:",
+      "sec4List": [
+        {
+          "bold": "Visibilidade operativa:",
+          "text": "Transparencia continua nas vendas, o inventario, o cumprimento e o rendemento financeiro."
+        },
+        {
+          "bold": "Cadencias de informes máis rápidas:",
+          "text": "Agregación de datos baixo demanda que elimina follas de cálculo manuais repetitivas."
+        },
+        {
+          "bold": "Información coherente:",
+          "text": "Definicións únicas para métricas como a marxe, o valor de vida do cliente e a velocidade dos clientes potenciales."
+        },
+        {
+          "bold": "Mellores coñecementos comerciais:",
+          "text": "Detección de patróns preditivos que revela riscos e oportunidades con antelación."
+        },
+        {
+          "bold": "Mellora na toma de decisións:",
+          "text": "Acción executiva confiada apoiada nunha liñaxe de datos validada e transparencia."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PERSPECTIVA ESTRATÉXICA",
+      "keyPerspectiveTitle": "A modernización é máis que a substitución de software",
+      "keyPerspectiveLead": "Modernizar as aplicacións empresariais non é simplemente substituír software antigo por novas ferramentas. É un aliñamento intencionado da tecnoloxía coa forma en que a empresa opera, escala e ofrece valor."
+    },
+    "artificialIntelligence": {
+      "category": "INTELIXENCIA ARTIFICIAL",
+      "title": "Como a IA está remodelando as aplicacións empresariais",
+      "subtitle": "Explora como a automatización intelixente, os copilotos de intelixencia artificial e a intelixencia preditiva están a formar parte das aplicacións empresariais nas que confían as empresas todos os días.",
+      "date": "Setembro 2026",
+      "readTime": "6 min de lectura",
+      "imageCaption": "Perspectiva da tecnoloxía empresarial — Intelixencia artificial e sistemas empresariais",
+      "aiUseCases": [
+        {
+          "title": "Previsión da cadea de subministración",
+          "desc": "Predición de picos de demanda e atrasos loxísticos a partir da telemetría histórica dos provedores."
+        },
+        {
+          "title": "Auditoría automatizada de facturas",
+          "desc": "Extracción de liñas e coincidencia con pedidos de compra sen entrada humana."
+        },
+        {
+          "title": "Mesas de servizo intelixentes",
+          "desc": "Triaxe e resolución automatizada de solicitudes de TI e RRHH dos empregados de nivel 1."
+        },
+        {
+          "title": "Prevención de abandono de clientes",
+          "desc": "Agrupación de comportamentos que identifican os primeiros sinais de fricción para a divulgación proactiva."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Decisións operativas máis rápidas impulsadas por modelos preditivos en tempo real",
+        "Redución do tratamento repetitivo de datos e conciliacións manuais",
+        "Maior rendemento dos empregados con asistencia de copiloto contextual",
+        "Mellora a satisfacción do cliente mediante experiencias hiperpersonalizadas",
+        "Autooptimización de procesos continuos baseada en telemetría real",
+        "Seguimento do cumprimento sen riscos mediante a inspección automatizada do rexistro de auditoría"
+      ],
+      "governancePoints": [
+        "Acceso estrito baseado en roles que garante que os modelos de IA nunca filtren datos confidenciais",
+        "Trazos de razoamento transparentes que permiten a revisión humana de accións de alto valor",
+        "Avaliación continua do modelo para protexerse de alucinacións e prexuízos",
+        "Estándares estritos de procedencia dos datos aliñados co GDPR, SOC 2 e HIPAA",
+        "Camiños de escalada humanos no bucle para condicións de borde incertas"
+      ],
+      "sec1Eyebrow": "O CAMBIO Á INTELIXENCIA NATIVA",
+      "sec1Heading": "AI en aplicacións empresariais",
+      "sec1Subtext": "A intelixencia artificial está a pasar de proxectos paralelos experimentais ás aplicacións operativas básicas nas que confían as empresas todos os días.",
+      "sec2Eyebrow": "AUTOMATIZACIÓN A ESCALA",
+      "sec2Heading": "Automatización intelixente",
+      "sec2Subtext": "Mover máis aló dos scripts baseados en regras tradicionais cara a fluxos de traballo cognitivos que comprenden o contido non estruturado, se adaptan ás variacións e optimizan os procesos de forma dinámica.",
+      "sec3Eyebrow": "ASISTENCIA INTEGRADA",
+      "sec3Heading": "Copilotos Enterprise AI",
+      "sec3Subtext": "Baseados no coñecemento da organización e na seguridade empresarial, os asistentes de IA actúan como socios especializados nos fluxos de traballo diarios da empresa.",
+      "sec4Eyebrow": "RAZOAMENTO PROSPECTIVO",
+      "sec4Heading": "Intelixencia preditiva",
+      "sec4Subtext": "Transformar rexistros históricos empresariais e fontes operativas en tempo real en previsión accionable.",
+      "sec5Eyebrow": "APLICACIÓNS DO MUNDO REAL",
+      "sec5Heading": "Casos de uso de IA empresarial",
+      "sec5Subtext": "Formas prácticas nas que as organizacións líderes están aplicando a intelixencia artificial nas funcións principais do negocio.",
+      "sec6Eyebrow": "VALOR ESTRATÉXICO",
+      "sec6Heading": "Beneficios empresariais",
+      "sec6Subtext": "Cando se implementa coidadosamente con datos empresariais gobernados, a IA desbloquea vantaxes cualitativas substanciais.",
+      "ctaHeading": "Explore oportunidades de IA para o seu negocio",
+      "ctaDescription": "Descubra como a automatización intelixente, os copilotos empresariais e os modelos preditivos poden desbloquear a eficiencia operativa nos seus sistemas principais.",
+      "ctaButton": "Fale cos nosos expertos",
+      "sec1P1": "Durante anos, a intelixencia artificial empresarial foi tratada como unha capacidade externa: un modelo adestrado de forma illada, unha demostración de sandbox ou un chatbot illado accesible a través dun portal separado. Hoxe, o paradigma cambiou fundamentalmente. A IA empresarial de alto impacto está integrada directamente nos sistemas de rexistro: os ERP, os CRM, as plataformas de capital humano e os motores da cadea de subministración onde se producen negocios reais.",
+      "sec1P2": "Cando a intelixencia opera dentro do sistema de rexistro, herda os límites de seguridade establecidos da organización, os modelos de datos e a lóxica empresarial. Non xera simplemente respostas xenéricas; actúa en pedidos en directo, interpreta tickets de soporte abertos, concilia facturas de provedores e axuda aos empregados nas interfaces exactas polas que navegan todos os días.",
+      "sec1P3": "Esta transformación move o software empresarial de bases de datos pasivas que esperan pulsacións de teclas humanas a plataformas proactivas que anticipan as necesidades, automatizan os pasos e presentan recomendacións oportunas.",
+      "sec2P1": "A automatización de procesos robóticos tradicional (RPA) destacou no raspado de pantalla determinista e repetitivo. Non obstante, os conxuntos de regras ríxidos rompen cando un formulario cambia, chega un deseño de documento inesperado ou se produce unha excepción. A automatización intelixente salva esta división combinando o razoamento cognitivo coa execución transaccional:",
+      "sec2List": [
+        {
+          "bold": "Automatización do fluxo de traballo:",
+          "text": "Orquestración de complexas operacións interdepartamentais, enrutando tarefas en función da urxencia e das vías históricas de resolución."
+        },
+        {
+          "bold": "Procesamento intelixente de documentos:",
+          "text": "Inxerir PDF, correos electrónicos, manifestos de envío e contratos non estruturados, converténdoos en transaccións estruturadas de bases de datos."
+        },
+        {
+          "bold": "Automatización intelixente de tarefas:",
+          "text": "Automatización de validacións operativas de varios pasos, como a correspondencia de pedidos de compra con recibos e extractos bancarios."
+        },
+        {
+          "bold": "Optimización de procesos:",
+          "text": "Analizar continuamente os rexistros de procesos para identificar os pescozos de botella no tempo de ciclo e recomendar melloras específicas do fluxo de traballo."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Busca de información",
+          "desc": "Recuperación semántica en bases de coñecemento distribuídas, políticas de intranet, especificacións de produtos e resolucións históricas de tickets sen adiviñar palabras clave."
+        },
+        {
+          "icon": "📝",
+          "title": "Resumo do documento",
+          "desc": "Destilación instantánea de longas solicitudes de proposta, acordos de provedores, especificacións técnicas e modificacións legais en resumos executivos e listas de verificación de riscos."
+        },
+        {
+          "icon": "✨",
+          "title": "Xeración de contidos",
+          "desc": "Redacción asistida de propostas de clientes, documentación operativa, procedementos operativos estándar (SOP) e actualizacións estandarizadas dos clientes aliñadas cos estándares da marca."
+        },
+        {
+          "icon": "📈",
+          "title": "Análise de datos",
+          "desc": "Traducindo consultas conversacionais en consultas analíticas complexas, xerando resumos de gráficos sobre a marcha e destacando os valores atípicos críticos para o liderado."
+        },
+        {
+          "icon": "🔄",
+          "title": "Fluxos de traballo empresarial",
+          "desc": "Iniciar transaccións directamente desde as solicitudes de chat, como a programación de recursos, a creación de tickets, a actualización de rexistros ou o envío de solicitudes de compra."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Acceso basado en roles",
+          "desc": "Asegurar que as respostas dos copilotos respecten estritamente os niveis de permisos dos usuarios, protexindo as finanzas confidenciais, os ficheiros de RRHH e a propiedade intelectual."
+        }
+      ],
+      "sec4P1": "Aínda que os modelos xenerativos destacan por comprender e sintetizar a linguaxe, a intelixencia preditiva céntrase nos patróns matemáticos agochados nos conxuntos de datos estruturados da empresa. Os modelos preditivos integrados permiten ás organizacións anticipar os obstáculos operativos antes de que interrompan as operacións:",
+      "sec4List": [
+        {
+          "bold": "Previsión operativa:",
+          "text": "Predicir tendencias de ingresos, velocidade de inventario e demandas de recursos mediante a síntese de indicadores estacionais coa velocidade do pipeline en tempo real."
+        },
+        {
+          "bold": "Análise preditiva:",
+          "text": "Identificar os riscos de abandono dos clientes, os ciclos de degradación do mantemento e os atrasos da cadea de subministración mentres aínda hai tempo para intervir."
+        },
+        {
+          "bold": "Identificación do risco:",
+          "text": "Marcar anomalías nas transaccións financeiras, os rexistros de cumprimento e os patróns de adquisición dos provedores antes de que se intensifiquen."
+        },
+        {
+          "bold": "Predición de demanda:",
+          "text": "Harmonizar as previsións de vendas coa capacidade de fabricación e os niveis de stock de almacén para protexer o circulante."
+        }
+      ],
+      "keyPerspectiveEyebrow": "GOBERNO EMPRESARIAL",
+      "keyPerspectiveTitle": "Confianza, supervisión e barandillas",
+      "keyPerspectiveLead": "A IA só é tan fiable como a base de datos que se atopa debaixo dela e a gobernanza que a rodea. A adopción de empresas sostibles require unha disciplina arquitectónica deliberada:"
+    },
+    "modernErp": {
+      "category": "ERP MODERNO",
+      "title": "Acelerar a transformación empresarial co ERP moderno",
+      "subtitle": "Explora como as plataformas ERP modernas conectan finanzas, compras, cadea de subministración e operacións comerciais a través dunha base dixital unificada.",
+      "date": "Agosto 2026",
+      "readTime": "6 min de lectura",
+      "imageCaption": "Perspectiva da tecnoloxía empresarial — ERP e operacións comerciais conectadas",
+      "connectedFunctions": [
+        {
+          "title": "Xestión Financeira",
+          "desc": "Actualizacións do libro maior en tempo real, recoñecemento automatizado de ingresos e conciliación instantánea de varias moedas."
+        },
+        {
+          "title": "Cadea de subministración e loxística",
+          "desc": "Visibilidade de inventario de extremo a extremo, optimización do almacén e telemetría do rendemento dos provedores."
+        },
+        {
+          "title": "Capital humano e forza de traballo",
+          "desc": "Portais de empregados de autoservizo, nóminas automatizadas e planificación integrada do ciclo de vida do talento."
+        },
+        {
+          "title": "Adquisición e abastecemento",
+          "desc": "Aprobacións de compras automatizadas, cumprimento dos contratos dos provedores e análise dinámica do gasto."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Arquitectura nativa na nube",
+          "desc": "Escalado de computación elástico sen sobrecarga da infraestrutura local nin bloqueo de versións perturbadoras."
+        },
+        {
+          "title": "Open API Ecosystem",
+          "desc": "Conectores preconstruídos que permiten a sincronización de datos bidireccional perfecta con microservizos personalizados e suites CRM."
+        },
+        {
+          "title": "Análise incorporada",
+          "desc": "Desgloses directos do panel de control desde os balances de alto nivel aos rexistros de transaccións individuais."
+        },
+        {
+          "title": "Activadores de fluxos de traballo automatizados",
+          "desc": "O evento impulsado por eventos desencadea a execución de operacións estándar entre departamentos de forma autónoma."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Fonte única de verdade eliminando informes departamentais conflitivos",
+        "Redución drástica dos ciclos de peche de fin de mes e trimestre",
+        "Inventario en tempo real e visibilidade loxística minimizando as faltas de existencias",
+        "Reduciu a sobrecarga de mantemento de TI mediante actualizacións modulares nativas da nube",
+        "Seguimento de cumprimento unificado en xurisdicións fiscais multirrexionais",
+        "Incorporación máis rápida das entidades adquiridas en backbones operativos compartidos"
+      ],
+      "erpStrategyPoints": [
+        "Alineación da arquitectura ERP cos fluxos de traballo operativos principais antes da configuración",
+        "Selección de modelos de implantación modulares para conseguir logros rápidos",
+        "Priorizando a migración e a reconciliación de datos mestres de alta calidade",
+        "Incorporación de programas de formación automatizados e de xestión de cambios adaptados aos roles",
+        "Deseño de pasarelas de API para unha futura expansión da integración sen friccións"
+      ],
+      "sec1Eyebrow": "A ESTRATEIRA OPERATIVA",
+      "sec1Heading": "Por que é importante o ERP moderno",
+      "sec1Subtext": "O ERP xa non é só contabilidade de back-office. É o modelo operativo da empresa moderna expresado en software.",
+      "sec2Eyebrow": "ECOSISTEMA INTEGRADO",
+      "sec2Heading": "Funcións empresariais conectadas",
+      "sec2Subtext": "O verdadeiro valor organizacional xorde cando as funcións principais do negocio realizan transaccións xuntas nunha base dixital compartida.",
+      "sec3Eyebrow": "HARMONÍA TRANSFUNCIONAL",
+      "sec3Heading": "Operacións unificadas e fluxo de información",
+      "sec3Subtext": "Romper os muros de comunicación entre departamentos para permitir fluxos de traballo empresariais sincronizados e fluídos.",
+      "sec4Eyebrow": "TELEMETRIA EMPRESARIAL",
+      "sec4Heading": "Visibilidade empresarial en tempo real",
+      "sec4Subtext": "Consolidación de métricas operativas en paneis executivos transparentes que reflictan as realidades empresariais actuais.",
+      "sec5Eyebrow": "ARQUITECTURA DE PLATAFORMA CENTRAL",
+      "sec5Heading": "Capacidades ERP modernas",
+      "sec5Subtext": "Os atributos arquitectónicos que separan as plataformas ERP contemporáneas das instalacións ríxidas legadas.",
+      "sec6Eyebrow": "IMPACTO CUALITATIVO",
+      "sec6Heading": "Beneficios empresariais",
+      "sec6Subtext": "Conectar as operacións comerciais básicas nunha base dixital unificada proporciona unha resiliencia organizativa mensurable.",
+      "ctaHeading": "Modernice as súas operacións empresariais",
+      "ctaDescription": "Explora como as plataformas ERP modernas conectan finanzas, compras, cadea de subministración e operacións comerciais a través dunha base dixital unificada.",
+      "ctaButton": "Fale cos nosos expertos",
+      "sec1P1": "Nos escenarios empresariais de rápido movemento, os sistemas tradicionais de planificación de recursos empresariales adoitan loitar. Construídos nunha era de procesamento por lotes e servidores locais illados, os ERP legados estaban moi personalizados, eran difíciles de actualizar e eran dolorosamente opacos. As operacións comerciais cruciais funcionaron en silos paralelos, confiando en fráxiles exportacións durante a noite para sincronizar os libros de contas cos almacéns.",
+      "sec1P2": "O ERP moderno e nativo da nube redefine fundamentalmente esta dinámica. Funciona como a columna vertebral dixital unificada da empresa: unha base viva onde as finanzas, a adquisición, a cadea de subministración, o inventario e os recursos humanos realizan transaccións nun modelo de datos compartidos.",
+      "sec1P3": "Ao reunir as operacións principais nun único ambiente harmonizado, o ERP moderno elimina os puntos cegos operativos que ralentizan o crecemento, o que permite aos líderes dirixir o negocio utilizando sinais en tempo real en lugar de resumos históricos obsoletos.",
+      "sec3P1": "Os silos operativos raramente son problemas de persoas; son problemas arquitectónicos. Cando os equipos de atención ao cliente, compras e almacén traballan en aplicacións desconectadas, cada entrega require correos electrónicos manuais, follas de cálculo e chamadas telefónicas. Os erros multiplícanse, as facturas quedan suspendidas e os compromisos dos clientes escapan.",
+      "sec3P2": "O ERP moderno aborda isto mediante a liñaxe de datos unificada e a orquestración de procesos impulsada por eventos:",
+      "sec3List": [
+        {
+          "bold": "Pedido-cobro sincronizado:",
+          "text": "Cando se realiza un pedido de cliente, o inventario reserva automaticamente, as etiquetas de envío xéranse e os libros de facturación actualízanse de forma instantánea."
+        },
+        {
+          "bold": "Transparencia de compra para pagar:",
+          "text": "Os pedidos de compra, os recibos de mercadorías e as facturas de provedores coinciden automaticamente coa conciliación de tres vías, marcando só as excepcións para a revisión humana."
+        },
+        {
+          "bold": "Custos laborais e operativos unificados:",
+          "text": "As follas de horas do proxecto, as asignacións de nóminas e os gastos operativos directos mapean directamente aos centros de custo en tempo real."
+        }
+      ],
+      "sec4P1": "Operar unha empresa sen visibilidade unificada é como voar nunha densa néboa con instrumentos atrasados. O ERP moderno ofrece telemetría en tempo real en todas as dimensións da empresa:",
+      "sec4List": [
+        {
+          "bold": "Paneis executivos en directo:",
+          "text": "Visualizacións instantáneas de marxes brutas, fluxos de efectivo operativos, pasivos abertos e carteiras de pedidos sen esperar ao peche do período."
+        },
+        {
+          "bold": "Informes operativos de autoservizo:",
+          "text": "Os xefes de departamento poden crear consultas personalizadas e explorar desde resumos de nivel empresarial ata elementos de liña de transacción individuais."
+        },
+        {
+          "bold": "Información principal centralizada:",
+          "text": "Eliminación de números contraditorios mediante o establecemento de datos mestres únicos gobernados para clientes, provedores e catálogos de produtos."
+        },
+        {
+          "bold": "Alertas de anomalías proactivas:",
+          "text": "As alertas automatizadas notifican aos xestores inmediatamente cando as marxes caen por debaixo do limiar, o inventario esgota ou as entregas dos provedores se escapan."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOSOFÍA DE TRANSFORMACIÓN DE ERP",
+      "keyPerspectiveTitle": "Modernización pragmática sobre a revisión monolítica",
+      "keyPerspectiveLead": "A transformación moderna de ERP ten éxito cando as organizacións a tratan como unha actualización operativa evolutiva en lugar de como unha interrupción de TI de todo ou nada:"
+    },
+    "cybersecurity": {
+      "category": "CIBERSEGURIDADE",
+      "title": "Construír a resiliencia cibernética nunha empresa conectada",
+      "subtitle": "Explore como as organizacións poden reforzar a seguridade, protexer os sistemas críticos e prepararse para as ameazas en ambientes cada vez máis conectados.",
+      "date": "Setembro 2026",
+      "readTime": "8 min de lectura",
+      "imageCaption": "Perspectiva da tecnoloxía empresarial: defensa contra ameazas e arquitectura de confianza cero",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetría e detección",
+          "desc": "Inxestión de rexistros en tempo real e correlación de anomalías SIEM en todos os puntos finais e cargas de traballo da nube."
+        },
+        {
+          "title": "Contención e illamento",
+          "desc": "Regras de corentena de rede automatizadas que illan os contedores ou as credenciais comprometidas ao instante."
+        },
+        {
+          "title": "Remediación e causa raíz",
+          "desc": "Lanzamento rápido de parches e investigación forense dixital que identifican o vector de violación exacto."
+        },
+        {
+          "title": "Resiliencia e endurecemento",
+          "desc": "Retroalimentación continua sobre copias de seguridade inmutables, gardas de políticas e simulacións automatizadas de equipos vermellos."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Redución substancial das superficies de ataque de vulnerabilidade nos activos da nube",
+        "Continuidade operativa garantida e recuperación ante desastres cun mínimo RTO/RPO",
+        "Total confianza no cumprimento das auditorías ISO 27001, SOC 2, HIPAA e GDPR",
+        "Protección da propiedade intelectual da empresa principal e dos rexistros confidenciais dos clientes",
+        "Racionalización do goberno do risco de provedores e terceiros mediante controis de acceso unificados",
+        "Mellora a confianza dos clientes e dos investidores apoiada por posturas de seguridade verificadas de confianza cero"
+      ],
+      "zeroTrustPrinciples": [
+        "Nunca confíe, verifica sempre: é necesaria unha autenticación explícita para cada transacción",
+        "Acceso con menos privilexios: límites de roles granulares que limitan o movemento lateral das ameazas",
+        "Asumir violación: vixilancia continua das ameazas, cifrado en tránsito e en repouso",
+        "Micro-segmentación: cortalumes de rede que illan as cargas de traballo das aplicacións individuais",
+        "Telemetría continua: análise de comportamento automatizada que sinala solicitudes de sesión anómalas"
+      ],
+      "sec1Eyebrow": "O PERÍMETRO EN AMPLIACIÓN",
+      "sec1Heading": "O panorama da seguridade empresarial conectada",
+      "sec1Subtext": "A medida que as organizacións modernas conectan máis aplicacións, contornas na nube, empregados remotos, dispositivos móbiles e socios de terceiros, o perímetro de seguridade tradicional deixa de existir.",
+      "sec2Eyebrow": "DEFENSA INTEGRAL",
+      "sec2Heading": "Protección contra ameazas multicapa",
+      "sec2Subtext": "Defensas proactivas que salvagardan a infraestrutura crítica, os datos corporativos sensibles e os sistemas operativos.",
+      "sec3Eyebrow": "A NOVA FRONTEIRA DE SEGURIDADE",
+      "sec3Heading": "Xestión de Identidade e Acceso (IAM)",
+      "sec3Subtext": "A identidade é o plano de control fundamental da seguridade moderna. Case todas as violacións graves de seguridade comezan con credenciais comprometidas en lugar de explotacións de software.",
+      "sec4Eyebrow": "PARADIGMA ARQUITECTÓNICO",
+      "sec4Heading": "Desmitificando a arquitectura de confianza cero",
+      "sec4Subtext": "Zero Trust non é un só produto ou ferramenta. É unha estratexia arquitectónica baseada nun principio sinxelo: non confiar en ningunha entidade dentro ou fóra da rede por defecto.",
+      "sec5Eyebrow": "GOBERNO DE INFRAESTRUTURAS",
+      "sec5Heading": "Consideracións de seguridade na nube",
+      "sec5Subtext": "Salvagarda das cargas de traballo en nubes públicas, arquitecturas híbridas e entornos de contedores distribuídos.",
+      "sec6Eyebrow": "RESILIENCIA OPERATIVA",
+      "sec6Heading": "Preparación para incidentes: máis aló da prevención",
+      "sec6Subtext": "A verdadeira resiliencia cibernética acepta que poidan ocorrer incidentes. A preparación céntrase na contención rápida, na mínima interrupción do negocio e na recuperación verificada.",
+      "sec7Eyebrow": "VALOR ESTRATÉXICO",
+      "sec7Heading": "Beneficios empresariais",
+      "sec7Subtext": "A construción dunha empresa ciberresiliente protexe o valor da organización, a posición normativa e a reputación do mercado.",
+      "ctaHeading": "Fortalece a seguridade da túa empresa",
+      "ctaDescription": "Explore como as organizacións poden reforzar a seguridade, protexer os sistemas críticos e prepararse para as ameazas en ambientes cada vez máis conectados.",
+      "ctaButton": "Fale cos nosos expertos",
+      "sec1P1": "Na era herdada da TI empresarial, a seguridade operaba nunha doutrina de castelo e foso: todo o que estaba dentro da rede de oficinas corporativas presumíase de confianza, mentres que todo o que estaba fóra considerábase non fiable. Un único firewall corporativo protexía servidores internos, bases de datos e ordenadores de escritorio.",
+      "sec1P2": "A empresa actual superou os muros físicos. As cargas de traballo residen en ambientes multi-nube (AWS, Azure, GCP), os empregados acceden a aplicacións empresariais desde diversas localizacións e as API intercambian continuamente datos operativos sensibles con provedores de loxística externos, institucións financeiras e provedores de SaaS.",
+      "sec1P3": "Aínda que esta hiperconectividade impulsa unha enorme axilidade empresarial, amplía enormemente a superficie de ataque empresarial. Cada punto final da API, token de identidade, dispositivo móbil conectado e integración SaaS representa un vector potencial de exposición. A verdadeira protección empresarial require pasar da defensa baseada no perímetro a unha resiliencia cibernética proactiva de extremo a extremo.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Detección de ameazas",
+          "desc": "Intelixencia de ameazas asistida por aprendizaxe automática que supervisa patróns anómalos de rede, abuso de credenciais e vulnerabilidades de día cero en tempo real."
+        },
+        {
+          "icon": "📡",
+          "title": "Vixilancia da seguridade",
+          "desc": "Telemetría do Centro de Operacións de Seguridade Centralizada (SOC) que correlaciona eventos entre servidores, clústeres de contedores, provedores de identidades e puntos finais."
+        },
+        {
+          "icon": "🔍",
+          "title": "Xestión de vulnerabilidades",
+          "desc": "Exploración automatizada continua de vulnerabilidades en infraestruturas, repositorios de código fonte e rexistros de contedores para remediar as debilidades de forma proactiva."
+        },
+        {
+          "icon": "🔒",
+          "title": "Protección de datos",
+          "desc": "Cifrado robusto en tránsito (TLS 1.3) e en repouso (AES-256), xunto coa gobernanza granular da prevención de perdas de datos (DLP) para evitar fugas de propiedade intelectual."
+        }
+      ],
+      "sec3P1": "Protexer os activos da empresa esixe asegurarse de que cada identidade, xa sexa un directivo humano, un contratista externo ou unha conta de servizo de software autónomo, teña a autorización validada para os recursos exactos aos que accede.",
+      "sec3List": [
+        {
+          "bold": "Xestión centralizada de identidades:",
+          "text": "Inicio de sesión único (SSO) e estándares de identidade federada que eliminan os almacéns de contrasinais fragmentados nas aplicacións."
+        },
+        {
+          "bold": "Autenticación adaptativa multifactor (MFA):",
+          "text": "Chaves de hardware FIDO2 resistentes ao phishing e desafíos contextuais baseados en riscos para funcións administrativas sensibles."
+        },
+        {
+          "bold": "Control de acceso granular:",
+          "text": "Controis de acceso de gran precisión baseados en roles (RBAC) e en atributos (ABAC) aplicados nos niveis da API e da base de datos."
+        },
+        {
+          "bold": "Principios do mínimo privilexio:",
+          "text": "Conceder acceso temporal xusto a tempo (JIT) que caduca automaticamente cando conclúen as tarefas administrativas."
+        }
+      ],
+      "keyPerspectiveEyebrow": "DOCTRINA DE NÚCLEO DE CONFIANZA CERO",
+      "keyPerspectiveTitle": "Verificación continua sobre a confianza cega",
+      "keyPerspectiveLead": "Nunha arquitectura de confianza cero, a confianza implícita baseada na localización da rede está totalmente desmantelada. Cada transacción, consulta de base de datos e inicio de sesión de usuario debe demostrar continuamente a súa lexitimidade:",
+      "cloudSecurityCards": [
+        {
+          "title": "Responsabilidade Compartida",
+          "desc": "Un goberno claro que distingue a seguridade da infraestrutura física do provedor da nube da responsabilidade da empresa polo cifrado de datos, as políticas IAM e o código da aplicación."
+        },
+        {
+          "title": "Infraestrutura como código (IaC)",
+          "desc": "Configuracións de nube inmutables e auditábeis xestionadas mediante código. Os escáneres automatizados de políticas como código bloquean as configuracións incorrectas e os depósitos expostos antes da implantación."
+        },
+        {
+          "title": "Seguridade de contedores e Kubernetes",
+          "desc": "Tempos de execución de contedores reforzados, rexistros de imaxes asinadas, microsegmentación de rede e xestión de segredos automatizada que mantén as credenciais fóra dos repositorios de orixe."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "NUBE E MODERNIZACIÓN",
+      "title": "Modernización de aplicacións legadas para a nube",
+      "subtitle": "Explore un enfoque práctico para avaliar, modernizar e mover aplicacións legadas cara a arquitecturas de nube escalables e seguras.",
+      "date": "Setembro 2026",
+      "readTime": "6 min de lectura",
+      "imageCaption": "Perspectiva da tecnoloxía empresarial — Re-plataformación e contenedores nativos na nube",
+      "modernizationApproaches": [
+        {
+          "title": "Realoxamento (levantar e cambiar)",
+          "desc": "Transición de cargas de traballo a máquinas virtuais na nube rapidamente con modificacións mínimas de código."
+        },
+        {
+          "title": "Replataforma (Elevación e remodelación)",
+          "desc": "Actualice os marcos de execución, adopte bases de datos en nube xestionadas e racionalice as operacións."
+        },
+        {
+          "title": "Refactor (reconstrución nativa na nube)",
+          "desc": "Desconstrúe monólitos en microservizos en contenedores e API sen servidor orientadas por eventos."
+        },
+        {
+          "title": "Substituír (Modernización SaaS)",
+          "desc": "Retirar os sistemas legados redundantes en favor do software de nube empresarial especialmente creado."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Avaliación da herdanza",
+          "desc": "Mapeo automatizado de dependencias, catalogación técnica de débedas e puntuación de preparación para a nube."
+        },
+        {
+          "title": "Arquitectura obxectivo",
+          "desc": "Planos de microservizos modulares, topoloxías de contedores e modelos de IaC automatizados."
+        },
+        {
+          "title": "Migración por fases",
+          "desc": "Lanzamentos de Canary, sincronización de datos de dobre escritura e ondas de corte sen tempo de inactividade."
+        },
+        {
+          "title": "Optimización da nube",
+          "desc": "Goberno de custos continuos, telemetría de escalado automático e revisións operativas de FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Reducir exponencialmente os gastos de mantemento da infraestrutura e de actualización de hardware",
+        "Elasticidade de cálculo case infinita que xestiona o tráfico empresarial máximo con latencia cero",
+        "Velocidade de lanzamento acelerada con canalizacións de implantación CI/CD totalmente automatizadas",
+        "Eliminación de puntos únicos de fallo legados con alta dispoñibilidade multi-AZ",
+        "Arquitecturas de API modernas que permiten integracións rápidas de socios multiplataforma",
+        "Observabilidade avanzada en tempo real do rendemento das aplicacións e do gasto na nube"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mapeo de dependencias complexas entre aplicacións e cadencias de sincronización de datos",
+        "Identificación de configuracións ambientais codificadas e esquemas de bases de datos propietarios",
+        "Avaliación do cumprimento normativo e das limitacións de soberanía de datos por xurisdición",
+        "Cálculo realista do custo total de propiedade (TCO) entre as rutas de refactor versus rehost",
+        "Establecendo ondas de lanzamento claras para protexer as operacións comerciais diarias activas"
+      ],
+      "sec1Eyebrow": "A REALIDADE DOS SISTEMAS LEGADO",
+      "sec1Heading": "O desafío do legado",
+      "sec1Subtext": "Os monolitos envellecidos limitan a velocidade da innovación, aumentan as vulnerabilidades operativas e aumentan os custos de mantemento da infraestrutura.",
+      "sec2Eyebrow": "AVALIACIÓN E DESCUBRIMENTO",
+      "sec2Heading": "Comprensión do panorama da aplicación",
+      "sec2Subtext": "A modernización exitosa da nube comeza cunha avaliación rigorosa. Saltar directamente á migración sen auditar as dependencias das aplicacións é a principal causa dos cortes atrasados.",
+      "sec3Eyebrow": "OS 4 CAMIÑOS DA MODERNIZACIÓN",
+      "sec3Heading": "Enfoques de modernización",
+      "sec3Subtext": "Non existe unha estratexia de migración única para todos. As empresas líderes combinan o patrón de modernización adecuado para cada carga de traballo específica en función do valor da empresa, a urxencia e a débeda técnica.",
+      "sec4Eyebrow": "MODELO DE TRANSFORMACIÓN DE OBXECTIVOS",
+      "sec4Heading": "Arquitectura de nube moderna",
+      "sec4Subtext": "Unha folla de ruta estruturada que transforma os monólitos legados en servizos de nube elásticos, seguros e mantibles.",
+      "sec5Eyebrow": "RESULTADOS DA TRANSFORMACIÓN",
+      "sec5Heading": "Principais beneficios da modernización",
+      "sec5Subtext": "Mover sistemas legados a arquitecturas de nube modernas ofrece unha axilidade operativa tanxible e unha previsibilidade de custos.",
+      "ctaHeading": "Moderniza as túas aplicacións antigas",
+      "ctaDescription": "Explore un enfoque práctico para avaliar, modernizar e trasladar aplicacións legadas cara a arquitecturas de nube escalables e seguras.",
+      "ctaButton": "Fale cos nosos expertos",
+      "sec1P1": "As aplicacións de misión crítica construídas hai unha década aínda xeran miles de millóns de ingresos empresariais, pero as súas rixidez arquitectónicas crean un risco operativo crecente.",
+      "sec1P2": "Toda empresa enfróntase á tensión entre estabilidade e modernización. Os sistemas legados foron deseñados para a súa durabilidade e teñen un rendemento fiable durante anos. Non obstante, a medida que os requisitos empresariais se aceleran, estas arquitecturas envellecidas atopan límites estruturais:",
+      "sec1List": [
+        {
+          "bold": "Pilas de software envellecidas:",
+          "text": "Bases de código monolíticas construídas en marcos obsoletos con grupos de talentos cada vez menores dispoñibles para mantemento."
+        },
+        {
+          "bold": "Ciclos de mantemento difíciles:",
+          "text": "Compoñentes estreitamente acoplados onde cambiar unha única característica corre o risco de romper módulos operativos non relacionados."
+        },
+        {
+          "bold": "Escalabilidade limitada:",
+          "text": "Límites de escalado vertical que requiren a compra de hardware propietario caro para xestionar os picos de tráfico estacionais."
+        },
+        {
+          "bold": "Retos de integración:",
+          "text": "Incapacidade para interactuar sen problemas con aplicacións móbiles modernas, portais de clientes ou API de socios sen scripts por lotes fráxiles."
+        },
+        {
+          "bold": "Restricións de infraestrutura:",
+          "text": "Ciclos de vida da sala de servidores físicos, vulnerabilidades de copia de seguridade e gastos operativos elevados de enerxía/refrigeración."
+        }
+      ],
+      "sec2P1": "Unha viaxe pragmática de modernización comeza establecendo unha claridade total en todo o predio existente:",
+      "sec2List": [
+        {
+          "bold": "Solicitudes:",
+          "text": "Catalogación de todas as cargas de traballo activas, módulos personalizados, scripts en segundo plano e paquetes históricos de terceiros."
+        },
+        {
+          "bold": "Dependencias:",
+          "text": "Asignación de acoplamentos de tempo de execución complexos, táboas de bases de datos compartidas, chamadas directas ao sistema de ficheiros e contratos de servizos externos."
+        },
+        {
+          "bold": "Datos:",
+          "text": "Avaliación de estruturas de datos, requisitos de integridade transaccional, cadencia de copia de seguridade e regras de soberanía regulamentaria."
+        },
+        {
+          "bold": "Infraestrutura:",
+          "text": "Auditoría da CPU, da memoria, da utilización do almacenamento e do rendemento da rede para as especificacións da nube de destino do tamaño correcto."
+        },
+        {
+          "bold": "Criticalidade empresarial:",
+          "text": "Clasificar as aplicacións en niveis para deseñar ondas de migración seguras e escalonadas con procedementos alternativos claros."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Vantaxe:",
+      "cloudArchitectureBadge": "Ciclo de vida da modernización",
+      "cloudArchitectureTitle": "Fluxo de modernización da nube de extremo a extremo",
+      "sec4P1": "A arquitectura de destino desvincula as aplicacións principais en servizos modulares e en contedores aloxados en plataformas de nube elástica (como Kubernetes ou tempos de execución sen servidor xestionados).",
+      "sec4P2": "Ao establecer canalizacións de despregamento de CI/CD automatizadas, cortes automatizados de azul-verde e infraestrutura como código, os despregamentos transfórmanse de eventos de fin de semana estremecedores en rutinas diarias sen fisuras.",
+      "sec4P3": "Elastic compute aumenta automaticamente a escala durante os aumentos da demanda e reduce a escala durante as pausas, eliminando os custos dos recursos inactivos ao tempo que garante tempos de resposta inferiores aos segundos para os usuarios globais.",
+      "keyPerspectiveEyebrow": "MELLORES PRÁCTICAS DE MODERNIZACIÓN",
+      "keyPerspectiveTitle": "Catro alicerces dunha migración exitosa",
+      "keyPerspectiveLead": "A experiencia demostra que os proxectos de modernización teñen éxito cando se basean nunha preparación integral, unha secuencia de ondas clara e probas rigorosas:"
+    }
+  }
+}

@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Umbes",
+    "services": "Teenused",
+    "products": "Tooted",
+    "perspectives": "Perspektiivid",
+    "technologies": "Tehnoloogiad",
+    "contact": "Võtke ühendust",
+    "signIn": "Logige sisse",
+    "signUp": "Registreeru",
+    "signOut": "Logi välja",
+    "chooseLanguage": "Valige oma keel",
+    "searchLanguage": "Otsingu keel",
+    "resetEnglish": "Lähtesta inglise keelde",
+    "noResults": "Keeli ei leitud",
+    "englishDefault": "inglise keel (vaikimisi)",
+    "english": "inglise keel"
+  },
+  "hero": {
+    "eyebrow": "Rezonants – Hyderabad",
+    "title": "Tarkvara, mis on loodud vastavalt <em>teie ettevõtte</em> toimimisele.",
+    "description": "Rezonants on IT-teenuste ja digitoodete ettevõte. Kujundame, koostame ja skaleerime kohandatud tarkvara, veebi- ja mobiilitooteid, pilveinfrastruktuuri ja tehisintellekti – ettevõtetele, kes konkureerivad täitmisel.",
+    "bookConsultation": "Broneerige tasuta konsultatsioon",
+    "exploreServices": "Tutvuge teenustega",
+    "years": "aastat",
+    "projects": "projekti",
+    "retention": "kinnipidamine",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — alates 2012. aastast",
+    "metaStudio": "Digitootestuudio",
+    "metaTech": "Veeb · Mobiil · Pilv · AI"
+  },
+  "about": {
+    "eyebrow": "Meie kohta",
+    "title": "Digitaalsete lahenduste loomine, <em>mis viivad ettevõtteid edasi</em>",
+    "description": "Rezonants on tehnoloogialahenduste ettevõte, mis keskendub ettevõtete abistamisele ideede mõtestamiseks digitaalseks kogemuseks. Ühendame tehnoloogia, loovuse ja äriteadmise, et pakkuda lahendusi, mis on loodud reaalsete vajaduste järgi.<br /><br />Alates digitaalsest ümberkujundamisest ja kohandatud tarkvara arendamisest kuni pilve-, tehisintellekti, automatiseerimise ja hallatavate tehnoloogiateenusteni, aitame organisatsioonidel lihtsustada keerukust, parandada tõhusust ja luua püsivat digitaalset väärtust.<br /><br /><strong>Meie lähenemisviis on lihtne – mõista õiget probleemi, äri ja lahendada</strong>.",
+    "awardWinning": "Auhinna võitja",
+    "awardText": "Tunnustatud suurepärase kohaletoimetamise eest veebi- ja mobiilitoodete projekteerimisel.",
+    "professionalStaff": "Professionaalne personal",
+    "staffText": "Vanemad, vastutustundlikud insenerid, kes omavad tööd esimesest kõnest kuni käivitamiseni.",
+    "support247": "24/7 tugi",
+    "supportText": "Hallatavad teenused ja tugiliin, mis vastab, kui seda vajate.",
+    "fairPrices": "Õiglased hinnad",
+    "pricesText": "Ausad hinnangud ja läbipaistev arveldus iga töövõtu kohta.",
+    "yearsExcellence": "Aastatepikkune ettevõtte tipptase"
+  },
+  "stats": {
+    "happyClients": "Rõõmsad kliendid",
+    "projectsDone": "Projektid tehtud",
+    "winAwards": "Võida auhindu"
+  },
+  "insights": {
+    "eyebrow": "Perspektiivid",
+    "title": "Perspektiivid",
+    "sub": "Tulevikku kujundavate ideede, trendide ja tehnoloogia uurimine.",
+    "filters": {
+      "all": "Kõik",
+      "digital-transformation": "Digitaalne ümberkujundamine",
+      "ai": "AI ja automatiseerimine",
+      "cloud": "Pilv",
+      "data": "Andmed ja analüüs",
+      "software": "Tarkvara",
+      "business": "Äri ja tehnoloogia"
+    },
+    "readMore": "Loe edasi",
+    "close": "Sule",
+    "keyTakeaways": "Arhitektuursed võtmed",
+    "relatedServices": "Seotud võimalused ja teenused",
+    "minRead": "min lugemist",
+    "item1Date": "juuli 2026",
+    "item1Tag": "Toode ja ERP",
+    "item1Title": "Modulaarne ERP-lähenemine kasvavatele ettevõtetele",
+    "item1Text": "Kuidas me ERP kohustusi struktureerime nii, et rahandus, varud, personal ja hanked integreeruvad sujuvalt ilma mitmeaastaste katkestusteta.",
+    "item2Date": "juuni 2026",
+    "item2Tag": "Tehisintellekt",
+    "item2Title": "Agentilised AI-süsteemid: üleminek vestlusrobotidelt autonoomsele täitmisele",
+    "item2Text": "Koordineeritud mitme agentuuriga LLM-süsteemide arhitektuur, mis kavandavad, valideerivad ja teostavad keerulisi äritöövooge koos in-the-loop järelevalvega.",
+    "item3Date": "mai 2026",
+    "item3Tag": "Ettevõtte verstapost",
+    "item3Title": "Tunnustatud Hyderabadi juhtivate IT-innovatsioonistuudiote seas",
+    "item3Text": "Meie inseneristuudiot on tunnustatud tipptasemel tarnimise, süvatehnoloogiliste võimaluste ja klientide rahulolu eest kogu globaalse tootetehnoloogia valdkonnas.",
+    "desc": "Avastage ettevõtte Rezonants ideid ja vaatenurki digitaalse transformatsiooni, tehisintellekti, automatiseerimise, pilve, andmete, tarkvara ja äritehnoloogia tuleviku kohta.",
+    "categories": {
+      "digitalTransformation": "Digitaalne ümberkujundamine",
+      "ai": "AI ja automatiseerimine",
+      "cloud": "Pilv",
+      "data": "Andmed ja analüüs",
+      "software": "Tarkvara",
+      "business": "Äri ja tehnoloogia"
+    }
+  },
+  "technologies": {
+    "title": "Tehnoloogiad ja arhitektuur",
+    "headline": "Ettevõtlustehnoloogia lahendused",
+    "sub": "Intelligentne tehnoloogia. Automatiseeritud toimingud. Targem äri.",
+    "selectTechnology": "Valige tehnoloogiline lahendus…",
+    "options": {
+      "aiRobotics": "AI ja robootika lahendused",
+      "businessAutomation": "Äriautomaatikalahendused",
+      "cloudMigrations": "Pilvemigratsioonilahendused",
+      "dataCenters": "Andmekeskuse lahendused",
+      "cognitiveAnalytics": "Kognitiivne analüüs ja tehisintellekt",
+      "informationReporting": "Info- ja aruandlussüsteemid",
+      "managedServices": "Hallatavad teenused",
+      "oneStopSolutions": "Ühekordsed tehnoloogialahendused"
+    },
+    "explore": "Avastage tehnoloogiat",
+    "bookDiscovery": "Raamatutehnoloogia avastus",
+    "exploreAll": "Tutvuge kõigi tehnoloogiatega",
+    "coreCapabilities": "Tehnoloogilised põhivõimalused",
+    "bookConsultation": "Broneerige konsultatsioon"
+  },
+  "contact": {
+    "eyebrow": "Võtke ühendust",
+    "title": "Rääkige vaneminseneriga, mitte müügistsenaariumiga",
+    "sub": "Jagage veidi oma projekti kohta ja me vastame ühe tööpäeva jooksul.",
+    "reachUs": "Võtke meiega otse ühendust",
+    "preferConversation": "Kas eelistate vestlust? Oleme ühe kõne kaugusel.",
+    "contactLede": "Kiireim viis edasiliikumiseks on lühike vestlus. Võtke meiega ühendust mis tahes allpool oleva kanali kaudu või broneerige teenindusaeg ja me tuleme teie juurde valmis.",
+    "phone": "Tel",
+    "email": "E-post",
+    "office": "Kontor",
+    "hours": "Tundi",
+    "hoursValue": "E–L, 9:30–18:30 IST",
+    "bookSlot": "Broneerige konsultatsiooni koht",
+    "sendMessage": "Saada meile sõnum",
+    "fieldsRequired": "*-ga tähistatud väljad on kohustuslikud.",
+    "fullName": "Täisnimi *",
+    "emailLabel": "E-post *",
+    "company": "Ettevõte",
+    "subject": "Teema",
+    "messageLabel": "Sõnum *",
+    "sending": "Saadan…",
+    "sendBtn": "Saada sõnum",
+    "successMsg": "Sõnum saadetud! Koopia on teile e-kirjaga saadetud.",
+    "errorMsg": "Teie sõnumit ei saanud salvestada. Kontrollige, kas tabel contact_messages on olemas, ja proovige uuesti.",
+    "offices": {
+      "vijayawada": "Vijayawada kontor",
+      "southAfrica": "Lõuna-Aafrika esindus"
+    },
+    "placeholders": {
+      "fullName": "Teie täisnimi",
+      "email": "sina@ettevõte.com",
+      "company": "Teie ettevõte või organisatsioon",
+      "subject": "Kuidas saame aidata?",
+      "message": "Rääkige meile oma projektist, ajakavast ja eesmärkidest..."
+    },
+    "validation": {
+      "fullNameRequired": "Palun sisestage oma täisnimi.",
+      "emailRequired": "Palun sisestage oma e-posti aadress.",
+      "emailInvalid": "Sisestage kehtiv e-posti aadress.",
+      "messageRequired": "Palun sisestage sõnum."
+    }
+  },
+  "services": {
+    "eyebrow": "Teenused",
+    "title": "Mida me teeme",
+    "sub": "Alates strateegiast kuni juhitud operatsioonideni pakume täielikke tehnoloogiapartnerlusi ettevõtetele, kes konkureerivad teostamisel.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Algusest juurutamiseni",
+        "description": "Uute digitaalsete lahenduste täielik arendamine ärinõuetest ja lahenduste arhitektuurist arendamise, integreerimise, testimise, juurutamise ja pideva toe kaudu."
+      },
+      "businessProcessAutomation": {
+        "label": "Äriprotsesside automatiseerimine",
+        "description": "Arukate automatiseerimislahenduste kavandamine ja juurutamine, mis tõhustavad äriprotsesse, välistavad korduvad käsitsitegevused, parandavad tegevuse efektiivsust ja kiirendavad äritulemusi."
+      },
+      "centerOfExcellence": {
+        "label": "Tippkeskus",
+        "description": "Spetsiaalsete tehnoloogia- ja ärivõimaluste keskuste loomine, mis pakuvad juhtimist, standardeid, teadmisi, raamistikke, korduvkasutatavaid varasid ja pidevat täiustamist kogu organisatsioonis."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Kohandatud arendus ja kohandamine",
+        "description": "Rakenduste, platvormide, töövoogude ja ettevõttelahenduste arendamine ja täiustamine, et rahuldada ainulaadseid ärinõudeid ja pakkuda kohandatud funktsioone."
+      },
+      "digitalTransformation": {
+        "label": "Digitaalne ümberkujundamine",
+        "description": "Äritegevuse, tehnoloogiliste ökosüsteemide ja klientide kogemuste moderniseerimine pilve, tehisintellekti, automatiseerimise, andmete ja kaasaegsete rakendustehnoloogiate abil."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Otsast lõpuni lahenduste raamistik",
+        "description": "Terviklik tarneviis, mis hõlmab kogu tehnoloogia elutsüklit – alates strateegiast, nõuetest ja arhitektuurist kuni arenduse, integratsiooni, juurutamise, juhtimise, seire ja toeni."
+      },
+      "migrationModernization": {
+        "label": "Ränne ja moderniseerimine",
+        "description": "Rakenduste, andmete, platvormide, infrastruktuuri ja töökoormuste turvaline ja struktureeritud migratsioon pärand- või olemasolevatest keskkondadest kaasaegsetele, skaleeritavatele ja optimeeritud tehnoloogiaplatvormidele."
+      },
+      "pocPilotImplementation": {
+        "label": "Kontseptsiooni tõendamine (PoC) ja pilootrakendus",
+        "description": "Tehnoloogiliste lahenduste kiire arendamine ja valideerimine, et hinnata tehnilist teostatavust, äriväärtust, integratsiooninõudeid, jõudlust ja mastaapsust enne täielikku rakendamist."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Jagatud teenused ja hallatavad toimingud",
+        "description": "Tehnoloogia ja tegevusvõimaluste tsentraliseeritud tarnimine äriüksuste vahel standardiseeritud protsesside, kvalifitseeritud ressursside, juhtimisraamistike, teenuste haldamise ja mõõdetavate teenusetasemete kaudu."
+      },
+      "customDevelopment": {
+        "label": "Algusest juurutamiseni",
+        "description": "Uute digitaalsete lahenduste täielik arendamine ärinõuetest ja lahenduste arhitektuurist arendamise, integreerimise, testimise, juurutamise ja pideva toe kaudu."
+      },
+      "processAutomation": {
+        "label": "Äriprotsesside automatiseerimine",
+        "description": "Arukate automatiseerimislahenduste kavandamine ja juurutamine, mis tõhustavad äriprotsesse, välistavad korduvad käsitsitegevused, parandavad tegevuse efektiivsust ja kiirendavad äritulemusi."
+      },
+      "solutionEngineering": {
+        "label": "Kohandatud arendus ja kohandamine",
+        "description": "Rakenduste, platvormide, töövoogude ja ettevõttelahenduste arendamine ja täiustamine, et rahuldada ainulaadseid ärinõudeid ja pakkuda kohandatud funktsioone."
+      },
+      "endToEndSolutions": {
+        "label": "Otsast lõpuni lahenduste raamistik",
+        "description": "Terviklik tarneviis, mis hõlmab kogu tehnoloogia elutsüklit – alates strateegiast, nõuetest ja arhitektuurist kuni arenduse, integratsiooni, juurutamise, juhtimise, seire ja toeni."
+      },
+      "migrationServices": {
+        "label": "Ränne ja moderniseerimine",
+        "description": "Rakenduste, andmete, platvormide, infrastruktuuri ja töökoormuste turvaline ja struktureeritud migratsioon pärand- või olemasolevatest keskkondadest kaasaegsetele, skaleeritavatele ja optimeeritud tehnoloogiaplatvormidele."
+      },
+      "pilotPrototyping": {
+        "label": "Kontseptsiooni tõendamine (PoC) ja pilootrakendus",
+        "description": "Tehnoloogiliste lahenduste kiire arendamine ja valideerimine, et hinnata tehnilist teostatavust, äriväärtust, integratsiooninõudeid, jõudlust ja mastaapsust enne täielikku rakendamist."
+      },
+      "sharedServices": {
+        "label": "Jagatud teenused ja hallatavad toimingud",
+        "description": "Tehnoloogia ja tegevusvõimaluste tsentraliseeritud tarnimine äriüksuste vahel standardiseeritud protsesside, kvalifitseeritud ressursside, juhtimisraamistike, teenuste haldamise ja mõõdetavate teenusetasemete kaudu."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Leppige kokku konsultatsioon",
+      "exploreFramework": "Uurige lahenduste raamistikku",
+      "talkSeniorEngineer": "Rääkige vaneminseneriga",
+      "exploreTechStack": "Avastage Technology Stacki",
+      "bookPocSession": "Broneerige PoC avastamise seanss",
+      "seeAllServices": "Vaadake kõiki teenuseid",
+      "requestAssessment": "Taotlege rände hindamist",
+      "exploreCloudSolutions": "Tutvuge pilvelahendustega"
+    },
+    "sharedServices": {
+      "heroBadge": "JAGATUD TEENUSED JA HALDATUD TOIMINGUD",
+      "heroTitle": "Ettevõtte jagatud teenused ja hallatavad toimingud",
+      "heroDesc": "Suurendage ärivõimalusi, ühtlustage ristfunktsionaalseid töövooge ja saavutage töö kvaliteet standardiseeritud, turvaliste ja kulutõhusate jagatud teenusemudelite abil.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Uurige lahenduste raamistikku",
+      "coreCapabilities": "Põhilised võimalused:",
+      "managedServices": "Hallatavad teenused",
+      "itOperations": "IT-toimingud",
+      "appSupport": "Rakenduste tugi",
+      "serviceManagement": "Teenuse haldamine",
+      "resourceOptimization": "Ressursi optimeerimine",
+      "slaManagement": "SLA haldus",
+      "governance": "Juhtimine",
+      "continuousImprovement": "Pidev täiustamine",
+      "costOptimization": "Kulude optimeerimine",
+      "readyTitle": "Kas olete valmis oma toiminguid optimeerima?",
+      "readyDesc": "Avastage, kuidas meie jagatud teenuste ja hallatud operatsioonide raamistikud võivad parandada teenuse kvaliteeti, tagada tegevuse järjepidevust ja suurendada teie ettevõtte jätkusuutlikku kulutõhusust.",
+      "scheduleSession": "Planeerige avastusseanss"
+    },
+    "solutionEngineering": {
+      "heroBadge": "LAHENDUSTE INSENER JA ARHITEKTUUR",
+      "heroTitle": "Kohandatud arendus ja kohandamine",
+      "heroDesc": "Arhitekteerige, projekteerige ja juurutage suure jõudlusega tarkvarasüsteeme, mis on loodud spetsiaalselt teie töövoogude, andmekanalite ja mastaabinõuete jaoks."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "KIIRE UUENDUS JA EKSPERIMENTSIOON",
+      "heroTitle": "Kontseptsiooni tõendamine (PoC) ja pilootrakendus",
+      "heroDesc": "Kinnitage arenevaid tehnoloogiaid, vähendage keeruliste arhitektuuride riske ja tõestage äriväärtust tootmistaseme prototüüpidega nädalate, mitte kvartalite jooksul."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ELUKORDI ARHITEKTUUR JA TARNE",
+      "heroTitle": "Otsast lõpuni lahenduste raamistik",
+      "heroDesc": "Ühtne tarnemudel, mis ühendab tooteleidmise, lahenduse arhitektuuri, inseneri, pilvetaristu ja ööpäevaringse töökindluse."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTUUR JA PÄRANDAMISE MODERNISEERIMINE",
+      "heroTitle": "Ränne ja moderniseerimine",
+      "heroDesc": "Viige pärand töökoormused, monoliitsed arhitektuurid ja kohapealne infrastruktuur sujuvalt üle kaasaegsetele, turvalistele ja skaleeritavatele pilvplatvormidele."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Ettevõtte moderniseerimine",
+        "titlePart1": "Digitaalne",
+        "titlePart2": "Transformatsioon",
+        "description": "Äritegevuse, tehnoloogiliste ökosüsteemide ja klientide kogemuste moderniseerimine pilve, tehisintellekti, automatiseerimise, andmete ja kaasaegsete rakendustehnoloogiate abil.",
+        "bookWorkshop": "Raamatute ümberkujundamise töötuba",
+        "exploreFramework": "Uurige lahenduste raamistikku",
+        "startTransformation": "Alustage ümberkujundamist",
+        "exploreStrategy": "Tutvuge strateegiaga",
+        "coreCapabilitiesTitle": "Põhivõimalused",
+        "coreCapabilities": [
+          "Digistrateegia",
+          "Pilvede ümberkujundamine",
+          "AI ja automatiseerimine",
+          "Rakenduste moderniseerimine",
+          "Pärand moderniseerimine",
+          "Andmed ja analüüsid",
+          "Kliendikogemus",
+          "Tehnoloogia moderniseerimine"
+        ],
+        "row1Eyebrow": "Strateegia ja tegevuskava",
+        "row1Title": "Visioonist teostatava teekaardini",
+        "row1P1": "Teeme koostööd ettevõtete juhtidega, et määratleda digitaalstrateegia, ärijuhtumid ja etapiviisilised tegevusplaanid kiirete võitude ja riskivaba täitmisega.",
+        "row1P2": "Prioriteetsed algatused, TCO-mudelid ja KPI-d tagavad, et iga tehnoloogia moderniseerimine on otseselt seotud tulude, tõhususe ja klientide rahulolu tulemustega.",
+        "row2Eyebrow": "Pärand moderniseerimine",
+        "row2Title": "Moderniseerige äri rikkumata",
+        "row2P1": "Muutke monoliidid mikroteenusteks, API-deks ja pilvepõhisteks mustriteks koos null-seisakuaja katkestamise ja automaatse regressioonivalideerimisega.",
+        "row2P2": "Moderniseerime rakendusi, andmebaase ja integratsioonikihte, säilitades samas vastavuse ja turvalisuse.",
+        "row3Eyebrow": "Pilv, AI ja andmed",
+        "row3Title": "Pilve kasutuselevõtt ja andmepõhine intelligentsus",
+        "row3P1": "Võtke kasutusele AWS, Azure ja GCP, looge kaasaegsed andmekanalid ja manustage masinõppe agente autonoomsete otsuste tegemiseks.",
+        "row3P2": "Alates sündmuste reaalajas voogesitusest kuni ühtsete armatuurlaudadeni muutub ümberkujundamine mõõdetavaks ja jätkusuutlikuks.",
+        "row4Eyebrow": "Kliendikogemus",
+        "row4Title": "Kaasaegsed omnikanali kogemused",
+        "row4P1": "Kujundage isikupärastatud liidestega ümber klienditeekonnad tundlikes veebi-, iOS-i, Androidi- ja iseteenindusportaalides.",
+        "row4P2": "Platvormitehnoloogia, telemeetria ja automatiseeritud tagasisideahelad muudavad digitaalse innovatsiooni pidevaks.",
+        "pillarsTitle": "Ümberkujundamise sambad",
+        "pillarsSub": "Tulemustele suunatud hoovad, mis tagavad jätkusuutliku digitaalse juhtimise.",
+        "pillar1Title": "Digistrateegia ja -juhtimine",
+        "pillar1Desc": "Etapiviisilised teisendusplaanid koos ärijuhtumite modelleerimise, arhitektuuri juhtimise ja verstapostide riskide jälgimisega.",
+        "pillar2Title": "Pilve- ja andmeplatvorm",
+        "pillar2Desc": "AWS/Azure/GCP mitme pilve vundamendid, automatiseeritud torujuhtmed ja ettevõtte andmeanalüütika lubamine.",
+        "pillar3Title": "AI ja automatiseerimine",
+        "pillar3Desc": "Arukas protsesside automatiseerimine, kognitiivsed AI agendid ja ennustav telemeetria igapäevaste toimingute optimeerimiseks.",
+        "pillar4Title": "Kliendikogemus",
+        "pillar4Desc": "Suure konversiooniga mitmekanalilised digiportaalid ja isikupärastatud liidesed, mis on loodud maksimaalseks kasutajate säilitamiseks.",
+        "ctaTitle": "Kas olete valmis oma ettevõtet ümber kujundama?",
+        "ctaSub": "Olge partner ettevõttega Rezonants etapiviisilise, riskivaba digitaalse ümberkujundamise jaoks, mis on seotud mõõdetavate äritulemustega.",
+        "ctaButton": "Broneerige digitaalse ümberkujundamise kõne"
+      },
+      "customDevelopment": {
+        "eyebrow": "End-to End Digital Engineering",
+        "titlePart1": "Algus kuni",
+        "titlePart2": "Kasutuselevõtt",
+        "bookConsultation": "Broneerige konsultatsioon",
+        "exploreEngineering": "Tutvuge lahenduste kavandamisega"
+      },
+      "processAutomation": {
+        "eyebrow": "Intelligentsed protsessitoimingud",
+        "titlePart1": "Äriprotsess",
+        "titlePart2": "Automatiseerimine",
+        "bookDiscovery": "Raamatute automatiseerimise avastamine",
+        "exploreCoE": "Tutvuge tippkeskusega"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Keskus",
+        "titlePart2": "Suurepärane",
+        "bookConsultation": "Raamatu Euroopa Nõukogu konsultatsioon",
+        "exploreCapabilities": "Tutvuge võimalustega"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Tehnoloogia täielik elutsükkel",
+        "titlePart1": "Otsast lõpuni",
+        "titlePart2": "Lahenduse raamistik",
+        "startJourney": "Alustage oma elutsükli teekonda",
+        "exploreTransformation": "Avastage transformatsiooni"
+      },
+      "migrationServices": {
+        "eyebrow": "Pilve ja infrastruktuuri ümberkujundamine",
+        "titlePart1": "Ränne ja",
+        "titlePart2": "Moderniseerimine",
+        "planMigration": "Planeerige oma ränne",
+        "exploreTransformation": "Avastage transformatsiooni"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Kiire valideerimine ja teostatavus",
+        "titlePart1": "Kontseptsiooni tõend (PoC) &",
+        "titlePart2": "Pilootrakendus",
+        "initiateDiscovery": "Käivitage PoC Discovery",
+        "exploreDevelopment": "Tutvuge kohandatud arendusega"
+      },
+      "solutionEngineering": {
+        "badge": "Kohandatud digitaaltehnoloogia",
+        "bookConsultation": "Broneerige konsultatsioon",
+        "exploreCapabilities": "Tutvuge võimalustega"
+      },
+      "sharedServices": {
+        "eyebrow": "Tsentraliseeritud operatsioonide keskus",
+        "titlePart1": "Jagatud teenused ja",
+        "titlePart2": "Hallatud toimingud",
+        "bookDiscovery": "Book Managed Operations Discovery",
+        "exploreFramework": "Uurige lahenduste raamistikku"
+      }
+    },
+    "coreCapabilities": "Põhivõimalused"
+  },
+  "products": {
+    "featured": "Esiletõstetud tooted",
+    "featuredSub": "Lihtsustage toiminguid, ühendage meeskonnad, automatiseerige protsesse ja kiirendage nutikamat ärikasvu.",
+    "seeAll": "Vaata kõiki tooteid",
+    "featuredProducts": "ESITATUD TOOTED",
+    "meetAutonomous": "Tutvuge autonoomse tööjõuga",
+    "meetAutonomousText": "Muutke oma toiminguid tehisintellekti agentidega, kes töötavad koos teie meeskonnaga, et lahendada keerulisi korduvaid ülesandeid.",
+    "learnMore": "Lisateave",
+    "erp": {
+      "title": "Üks platvorm on kõigeks valmis",
+      "sub": "Ettevõtete volitamine ühendatud, intelligentsete ja skaleeritavate ettevõttehalduslahendustega.",
+      "explore": "Tutvuge ERP-lahendustega",
+      "gridTitle": "ERP LAHENDUSED",
+      "promoTitle": "Modulaarne ERP kasvuks",
+      "promoText": "Rakendage modulaarseid ERP-funktsioone kiiresti ilma traditsiooniliste mitmeaastaste süsteemide keerukuseta.",
+      "scheduleDemo": "Plaani demo"
+    },
+    "it": {
+      "title": "IT-lahendused",
+      "sub": "Ettevõtlustasemel infrastruktuur, turvalisus ja DevOpsi lahendused teie ettevõtte toimimiseks.",
+      "explore": "Tutvuge IT-lahendustega",
+      "gridTitle": "IT LAHENDUSED",
+      "promoTitle": "Usaldusväärne IT-infrastruktuur",
+      "promoText": "Looge hallatavate pilve-, turva- ja DevOpsi teenustega vastupidav tehnoloogiavundament.",
+      "getStarted": "Alustage"
+    },
+    "crm": {
+      "title": "CRM-lahendused",
+      "sub": "Kliendisuhete haldamine müügi-, toe- ja turundustöö sujuvamaks muutmiseks.",
+      "explore": "Tutvuge CRM-i lahendustega",
+      "gridTitle": "CRM-LAHENDUSED",
+      "promoTitle": "Sulgege rohkem pakkumisi",
+      "promoText": "Võimaldage oma müügi- ja tugimeeskondi ühtsete kliendiandmete ja intelligentse automatiseerimisega.",
+      "startTrial": "Alustage tasuta prooviversiooni"
+    },
+    "hrms": {
+      "title": "HRMS lahendused",
+      "sub": "Personalijuhtimine, mis hõlmab palgaarvestust, värbamist, tulemuslikkust ja töötajate kaasamist.",
+      "explore": "Tutvuge HRMS-lahendustega",
+      "gridTitle": "HRMS LAHENDUSED",
+      "promoTitle": "Lihtsustage personalitoiminguid",
+      "promoText": "Automatiseerige personalitöövood alates värbamisest kuni pensionile jäämiseni kaasaegse, töötajale suunatud platvormiga.",
+      "requestDemo": "Taotle demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Esiletõstetud tooted",
+      "erpSolutions": "ERP-lahendused",
+      "solutions": "LAHENDUSED"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI sviit",
+        "description": "Arukad autonoomsed agendid ja tööriistad, mis automatiseerivad keerulisi töövooge ja klienditoiminguid."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Mitme pilvehaldusplatvorm, mis optimeerib jõudlust, turvalisust, vastavust ja kulusid."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hübriidne koostöö- ja tootlikkuse keskus integreeritud ülesannete, vestluse ja dokumendihaldusega."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Reaalajas analüütikamootor, mis muudab ärisündmuste vood teostatavaks ülevaateks."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Ühtne ettevõtte arhitektuur, mis ühendab rahanduse, varade, personali, hanked ja laoseisu."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Töötajate kogemuste platvorm, mis hõlmab palgaarvestust, hüvitisi, tulemuslikkuse ülevaatusi ja iseteenindust."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Logistika reaalajas jälgimine, automatiseeritud laotoimingud ja nõudluse prognoosimine."
+      },
+      "financeHub": {
+        "title": "Finantskeskus",
+        "description": "Täiustatud pearaamatu haldamine, arveldamise töövood, automatiseeritud vastavus ja reaalajas rahavoogude aruanded."
+      },
+      "cloudInfrastructure": {
+        "title": "Pilve infrastruktuur",
+        "description": "Skaleeritav pilvarhitektuur, migratsioon ja haldamine AWS-i, Azure'i ja GCP vahel."
+      },
+      "cybersecuritySuite": {
+        "title": "Küberturvalisuse komplekt",
+        "description": "Täielik turvaseire, ohtude tuvastamine ja vastavuse haldamine."
+      },
+      "devopsPipeline": {
+        "title": "DevOpsi torujuhe",
+        "description": "CI/CD automatiseerimine, konteineriseerimine ja infrastruktuur koodina kiiremaks kohaletoimetamiseks."
+      },
+      "managedItServices": {
+        "title": "Hallatud IT-teenused",
+        "description": "24/7 infrastruktuuri jälgimine, intsidentidele reageerimine ja ennetav hooldus."
+      },
+      "salesCrm": {
+        "title": "Müügi CRM",
+        "description": "Torujuhtmete haldamine, müügivihje hindamine, tehingute jälgimine ja müügiprognoosimine ühel platvormil."
+      },
+      "customerSupportHub": {
+        "title": "Klienditoe keskus",
+        "description": "Piletite müük, teadmistebaas, otsevestlus ja omnikanali tugihaldus."
+      },
+      "marketingAutomation": {
+        "title": "Turunduse automatiseerimine",
+        "description": "Kampaania korraldamine, e-posti automatiseerimine, juhtide kasvatamine ja analüüs."
+      },
+      "customer360View": {
+        "title": "Klient 360 Vaade",
+        "description": "Ühtsed kliendiprofiilid, mis ühendavad müügi-, toe- ja suhtlusandmeid."
+      },
+      "coreHr": {
+        "title": "Core HR",
+        "description": "Töötajate kirjed, organisatsiooni hierarhia, puhkuste haldamine ja kohaloleku jälgimine."
+      },
+      "payrollCompliance": {
+        "title": "Palgaarvestus ja vastavus",
+        "description": "Palgaarvestuse automatiseeritud töötlemine, maksude arvutamine ja seaduste järgimine."
+      },
+      "performanceManagement": {
+        "title": "Tulemuslikkuse juhtimine",
+        "description": "OKR-i jälgimine, 360° ülevaated, eesmärkide seadmine ja töötajate arenguplaanid."
+      },
+      "recruitmentPortal": {
+        "title": "Värbamisportaal",
+        "description": "Töökuulutused, kandidaatide jälgimine, intervjuude ajastamine ja töövood."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Esiletõstetud tooted",
+        "heading": "Esiletõstetud tooted",
+        "sub": "Lihtsustage toiminguid, ühendage meeskonnad, automatiseerige protsesse ja kiirendage nutikamat ärikasvu.",
+        "promoTitle": "Tutvuge autonoomse tööjõuga",
+        "promoText": "Muutke oma toiminguid tehisintellekti agentidega, kes töötavad koos teie meeskonnaga, et lahendada keerulisi korduvaid ülesandeid.",
+        "items": [
+          {
+            "title": "AI automatiseerimine ja intelligentsed agendid",
+            "description": "Automatiseerige korduvaid ülesandeid ja juurutage intelligentseid tehisintellekti agente, mis parandavad tootlikkust, otsuste tegemist ja äritulemusi."
+          },
+          {
+            "title": "IT-teenus ja digitaalne tugi",
+            "description": "Pakkuge kiiremat ja nutikamat IT-tuge täiustatud teenusehalduse, automatiseerimise ja digitaalsete töövoogude abil."
+          },
+          {
+            "title": "Ettevõtte tehisintellekti juhtimine",
+            "description": "Looge vastutustundlik AI kasutuselevõtt tugeva juhtimise, turvalisuse, vastavuse, läbipaistvuse ja riskikontrolliga."
+          },
+          {
+            "title": "Arukad IT-toimingud",
+            "description": "Muutke IT-toiminguid tehisintellektipõhise jälgimise, automatiseerimise, ennustava ülevaate ja probleemide ennetava lahendamise abil."
+          },
+          {
+            "title": "Kliendikogemuse haldamine",
+            "description": "Looge nutika kaasamise, automatiseerimise, analüütika ja sujuvate digitaalsete kogemustega isikupärastatud klienditeekonnad."
+          },
+          {
+            "title": "Äristrateegia ja portfelli optimeerimine",
+            "description": "Viige tehnoloogiainvesteeringud vastavusse ärieesmärkidega, et optimeerida portfelle, parandada tõhusust ja edendada jätkusuutlikku kasvu."
+          },
+          {
+            "title": "IT varade ja tehnoloogia elutsükkel",
+            "description": "Hallake IT-varasid kogu nende elutsükli jooksul parema nähtavuse, automatiseerimise, kulude kontrolli ja tehnoloogia planeerimise abil."
+          },
+          {
+            "title": "Ettevõtte risk ja vastavus",
+            "description": "Tehke kindlaks, hinnake ja juhtige ettevõtte riske, tugevdades samal ajal vastavust, kontrolli ja organisatsiooni vastupidavust."
+          },
+          {
+            "title": "Küberjulgeoleku- ja ohuoperatsioonid",
+            "description": "Kaitske digitaalseid keskkondi ennetava ohutuvastuse, turvatoimingute, intsidentidele reageerimise ja pideva jälgimisega."
+          },
+          {
+            "title": "Välitööjõu automatiseerimine",
+            "description": "Võimaldage välimeeskondi intelligentse ajastamise, mobiilsete töövoogude, automatiseerimise ja reaalajas töönähtavuse abil."
+          },
+          {
+            "title": "Töötajate kogemus ja personaliteenused",
+            "description": "Lihtsustage töötajate teenuseid digitaalsete töövoogude, iseteeninduslahenduste, automatiseerimise ja personaliseeritud töötajate kogemustega."
+          },
+          {
+            "title": "Ühtne digitaalne töökoht",
+            "description": "Ühendage inimesed, protsessid, rakendused ja koostöötööriistad turvalise, intelligentse ja sujuva digitaalse töökoha kaudu."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP-lahendused",
+        "heading": "Üks platvorm, kõigeks valmis",
+        "sub": "Ettevõtete volitamine ühendatud, intelligentsete ja skaleeritavate ettevõttehalduslahendustega.",
+        "promoTitle": "Modulaarne ERP kasvuks",
+        "promoText": "Rakendage modulaarseid ERP-funktsioone kiiresti ilma traditsiooniliste mitmeaastaste süsteemide keerukuseta.",
+        "items": [
+          {
+            "title": "Äriprotsesside automatiseerimine",
+            "description": "Muutke rahandus-, personali-, müügi-, hanke- ja igapäevatoimingud sujuvamaks."
+          },
+          {
+            "title": "Integreeritud ärijuhtimine",
+            "description": "Ühendage osakonnad, andmed ja töövood ühtsel platvormil."
+          },
+          {
+            "title": "Rahandus ja raamatupidamine",
+            "description": "Parandage rahalist nähtavust, aruandlust, eelarve koostamist ja vastavust."
+          },
+          {
+            "title": "Personal ja palgaarvestus",
+            "description": "Lihtsustage töötajate juhtimist, kohalviibimist, palgaarvestust ja personaliprotsesse."
+          },
+          {
+            "title": "Tarneahela juhtimine",
+            "description": "Optimeerige hankeid, laoseisu, hankijaid ja logistikat."
+          },
+          {
+            "title": "Müük ja kliendihaldus",
+            "description": "Hallake tõhusalt müügivihjeid, kliente, tellimusi ja müügitulemusi."
+          },
+          {
+            "title": "Reaalajas analüüs ja aruandlus",
+            "description": "Muutke äriandmed kiiremate otsuste tegemiseks kasutatavaks ülevaateks."
+          },
+          {
+            "title": "Cloud ERP lahendusi",
+            "description": "Lubage turvaline, skaleeritav ja juurdepääsetav ettevõttehaldus kõikjal."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT-lahendused",
+        "heading": "Meie IT-lahendused",
+        "sub": "Muutke IT-toiminguid intelligentsete, ennetavate ja skaleeritavate digitaalsete lahendustega, mis parandavad jõudlust, tootlikkust ja äritegevuse järjepidevust.",
+        "promoTitle": "Usaldusväärne IT-infrastruktuur",
+        "promoText": "Looge hallatavate pilve-, turva- ja DevOpsi teenustega vastupidav tehnoloogiavundament.",
+        "items": [
+          {
+            "title": "IT-teenuste haldamine",
+            "description": "Kiirendage kiiremaks lahendamiseks IT-teenuseid, juhtumeid, päringuid ja töövooge."
+          },
+          {
+            "title": "IT-operatsioonide juhtimine",
+            "description": "Jälgige infrastruktuuri ja rakendusi proaktiivsete andmepõhiste IT-toimingutega."
+          },
+          {
+            "title": "IT-varahaldus",
+            "description": "Hallake tehnoloogiavarasid tõhusalt, vähendades samal ajal kulusid, riske ja elutsükli keerukust."
+          },
+          {
+            "title": "Ettevõtte arhitektuur",
+            "description": "Viige äristrateegia vastavusse õige tehnoloogilise arhitektuuri ja investeeringutega."
+          },
+          {
+            "title": "Pilvehaldus",
+            "description": "Parandage pilveturvet, vastavust, jõudlust ja kulude haldamist."
+          },
+          {
+            "title": "Digitaalsed operatsioonid",
+            "description": "Automatiseerige IT-protsesse ja saavutage oma tehnoloogiakeskkonnas reaalajas nähtavus."
+          },
+          {
+            "title": "Vaatlus ja monitooring",
+            "description": "Tuvastage jõudlusprobleemid varakult ja säilitage usaldusväärne digitaalne kasutuskogemus."
+          },
+          {
+            "title": "Strateegiline portfellihaldus",
+            "description": "Ühendage IT-investeeringud äriprioriteetide ja mõõdetavate tulemustega."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM-lahendused",
+        "heading": "Meie CRM-lahendused",
+        "sub": "Pakkuge ühendatud, isikupärastatud ja intelligentset kliendikogemust kogu klienditeekonna jooksul.",
+        "promoTitle": "Sulgege rohkem pakkumisi",
+        "promoText": "Võimaldage oma müügi- ja tugimeeskondi ühtsete kliendiandmete ja intelligentse automatiseerimisega.",
+        "items": [
+          {
+            "title": "Klienditeeninduse juhtimine",
+            "description": "Parandage kliendituge kiirema eraldusvõime, iseteeninduse ja intelligentsete töövoogude abil."
+          },
+          {
+            "title": "Müügiautomaatika",
+            "description": "Automatiseerige müügitegevusi, hallake müügivihjeid ja aidake meeskondadel võimalusi kiiremini sulgeda."
+          },
+          {
+            "title": "Müük ja tellimuste haldamine",
+            "description": "Muutke teekond müügivihjest tellimuseni sujuvamaks ja parandage tulude nähtavust."
+          },
+          {
+            "title": "Väliteenuste haldus",
+            "description": "Optimeerige põllutoiminguid, ajakava, lähetamist ja tehnikute tootlikkust."
+          },
+          {
+            "title": "Kliendikogemuse haldamine",
+            "description": "Looge sujuvaid ja isikupärastatud kogemusi igas kliendi kontaktpunktis."
+          },
+          {
+            "title": "CRM-analüüs ja ülevaade",
+            "description": "Muutke kliendiandmed nutikamate äriotsuste tegemiseks kasutatavaks ülevaateks."
+          },
+          {
+            "title": "Turunduse automatiseerimine",
+            "description": "Automatiseerige kampaaniaid, klientide kaasamist ja müügivihjete kasvatamist."
+          },
+          {
+            "title": "AI-toega CRM",
+            "description": "Kasutage tootlikkuse ja klientide kaasamise parandamiseks intelligentset automatiseerimist ja tehisintellekti teadmisi."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS lahendused",
+        "heading": "Meie HRMS-lahendused",
+        "sub": "Võimaldage oma tööjõudu intelligentsete, integreeritud ja automatiseeritud personalilahendustega, mis lihtsustavad töötajate juhtimist ja parandavad töökogemust.",
+        "promoTitle": "Lihtsustage personalitoiminguid",
+        "promoText": "Automatiseerige personalitöövood alates värbamisest kuni pensionile jäämiseni kaasaegse, töötajale suunatud platvormiga.",
+        "items": [
+          {
+            "title": "Personalijuhtimine",
+            "description": "Hallake tõhusalt töötajate teavet, organisatsioonilisi struktuure ja personaliprotsesse."
+          },
+          {
+            "title": "Palgaarvestus",
+            "description": "Automatiseerige palgaarvestus, palgatöötlus, mahaarvamised ja vastavus."
+          },
+          {
+            "title": "Töötajate iseteenindus",
+            "description": "Andke töötajatele lihtne juurdepääs personaliteenustele, päringutele, dokumentidele ja teabele."
+          },
+          {
+            "title": "Osalemise ja puhkuse juhtimine",
+            "description": "Lihtsustage kohalviibimise jälgimist, puhkusetaotlusi, vahetusi ja tööaega."
+          },
+          {
+            "title": "Värbamine ja liitumine",
+            "description": "Täiustage värbamist, kandidaatide haldamist, kaasamist ja töötajate integreerimist."
+          },
+          {
+            "title": "Tulemuslikkuse juhtimine",
+            "description": "Seadke eesmärke, jälgige tulemuslikkust ja toetage töötajate pidevat arengut."
+          },
+          {
+            "title": "Õppimine ja areng",
+            "description": "Hallake koolitusprogramme, oskuste arendamist ja töötajate kasvu."
+          },
+          {
+            "title": "Personalianalüüs ja aruandlus",
+            "description": "Muutke tööjõuandmed praktilisteks teadmisteks paremate personaliotsuste tegemiseks."
+          },
+          {
+            "title": "AI-toega HR-automaatika",
+            "description": "Automatiseerige korduvad personalitööülesanded ja pakkuge töötajatele kiiremaid isikupäraseid kogemusi."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Rakenduste arendamine",
+        "heading": "Meie rakenduste arendusteenused",
+        "sub": "Looge turvalisi, skaleeritavaid ja suure jõudlusega rakendusi, mis kiirendavad ettevõtte kasvu ja lihtsustavad keerulisi protsesse.",
+        "promoTitle": "Rakenduste koostamine, mida kasutajad armastavad",
+        "promoText": "Ideest lansseerimiseni kavandab ja arendab meie meeskond kvaliteetseid mobiili- ja veebirakendusi, mis ulatuvad.",
+        "items": [
+          {
+            "title": "Kohandatud rakenduste arendus",
+            "description": "Looge kohandatud rakendusi, mis on loodud teie ainulaadsete ärinõuete järgi."
+          },
+          {
+            "title": "Veebi- ja mobiilirakenduste arendus",
+            "description": "Pakkuge sujuvat digitaalset kogemust veebis, mobiilis ja mitmes seadmes."
+          },
+          {
+            "title": "Ettevõtte rakenduste arendus",
+            "description": "Töötage välja skaleeritavad lahendused, mis integreeruvad teie olemasolevate ärisüsteemidega."
+          },
+          {
+            "title": "Madala koodi ja koodita arendus",
+            "description": "Kiirendage rakenduste tarnimist paindlike madala koodiga arendusplatvormidega."
+          },
+          {
+            "title": "API ja süsteemiintegratsioon",
+            "description": "Ühendage rakendused, platvormid ja kolmandate osapoolte süsteemid sujuvaks andmevooguks."
+          },
+          {
+            "title": "Rakenduste moderniseerimine",
+            "description": "Muutke pärandrakendused kaasaegseteks, skaleeritavateks ja tõhusateks lahendusteks."
+          },
+          {
+            "title": "AI-toega rakendused",
+            "description": "Integreerige tehisintellekt, automatiseerimine ja intelligentsed võimalused ärirakendustesse."
+          },
+          {
+            "title": "Rakenduste tugi ja hooldus",
+            "description": "Tagada pidev jõudlus, turvalisus, värskendused ja töökindlus."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI ja robootika",
+    "businessAutomation": "Äriautomaatika",
+    "cloudMigrations": "Pilvede migratsioonid",
+    "dataCenters": "Andmekeskused",
+    "cognitiveAnalyticsAi": "Kognitiivne analüüs ja tehisintellekt",
+    "informationReportingSystems": "Info- ja aruandlussüsteemid",
+    "managedServices": "Hallatavad teenused",
+    "oneStopSolutions": "Ühekordsed lahendused"
+  },
+  "servicePage": {
+    "serviceOverview": "Teenuse ülevaade",
+    "whatWeOffer": "Mida me pakume",
+    "whyChooseRezonants": "Miks valida Rezonants?",
+    "benefitsOfWorking": "Meiega töötamise eelised",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Meie kasutatavad tehnoloogiad",
+    "ourWork": "Meie töö",
+    "relatedProjects": "Seotud projektid",
+    "viewCaseStudy": "Vaata juhtumiuuringut",
+    "readyToDiscuss": "Kas olete valmis oma {{title}} projekti arutama?",
+    "seniorEngineersReady": "Meie vaneminsenerid on valmis teid aitama lahenduse kavandamisel, kujundamisel ja ehitamisel.",
+    "startProject": "Alustage oma projekti",
+    "howItWorks": "Kuidas see töötab"
+  },
+  "consultation": {
+    "badge": "Broneerige tasuta konsultatsioon",
+    "title": "Planeerime teie projekti <span class='hero-accent'>koos</span>",
+    "description": "Leppige kokku kohustusteta kõne meie konsultantidega. Arutage oma nõudeid, uurige õiget tehnilist lähenemist ja hankige selge hinnapakkumine – seda kõike vähem kui 30 minutiga.",
+    "bookSlot": "Broneerige oma koht",
+    "howItWorks": "Kuidas see töötab",
+    "accountRequired": "Nõutav konto",
+    "signInToBook": "Konsultatsiooni broneerimiseks logige sisse",
+    "accountRequiredText": "Konsultatsiooni taotlemiseks vajate Rezonantsi kontot. Logige sisse või looge see – selleks kulub vähem kui minut.",
+    "signInToContinue": "Jätkamiseks logige sisse",
+    "newToRezonants": "Kas olete Rezonantsis uus?",
+    "createAccount": "Looge konto",
+    "requestMeeting": "Taotlege kohtumist",
+    "tellUsAboutProject": "Rääkige meile oma projektist",
+    "fillDetails": "Täitke oma andmed ja me kinnitame teie konsultatsiooni koha meili teel.",
+    "fullName": "Täisnimi *",
+    "email": "E-post *",
+    "phone": "Telefon *",
+    "company": "Ettevõte",
+    "serviceOfInterest": "Huviteenus *",
+    "selectService": "Valige teenus…",
+    "preferredDate": "Eelistatud kuupäev *",
+    "preferredTime": "Eelistatud aeg *",
+    "selectTimeSlot": "Valige ajapilu…",
+    "estimatedBudget": "Eelarve",
+    "selectRange": "Valige vahemik…",
+    "projectRequirements": "Projekti nõuded",
+    "booking": "Broneerimine…",
+    "bookFreeConsultation": "Broneerige minu tasuta konsultatsioon",
+    "freeNote": "100% tasuta ja ilma kohustusteta. Tavaliselt vastame 24 tunni jooksul.",
+    "whatToExpect": "Mida oodata",
+    "preferToReachUs": "Kas eelistate meiega otse ühendust võtta?",
+    "callUs": "Helista meile",
+    "emailUs": "Saatke meile e-kiri",
+    "visitUs": "Külastage meid",
+    "whyBookWithUs": "Miks broneerida meie juures",
+    "freeCallTitle": "Tasuta kõne, mis tegelikult aitab",
+    "freeCallNoPressure": "Tasuta kõne, ilma surveta",
+    "freeCallNoPressureText": "Iga esimene konsultatsioon on tasuta. Ostukohustust pole – lihtsalt aus nõuanne.",
+    "seniorConsultants": "Ainult vanemkonsultandid",
+    "seniorConsultantsText": "Teie koosolekut juhivad vaneminsenerid ja konsultandid, kes ehitavad elamiseks.",
+    "clearTimelines": "Tühjendage ajaskaala ja hinnapakkumised",
+    "clearTimelinesText": "Lahkuge oma projekti jaoks määratletud järgmise sammu, realistliku ajakava ja läbipaistva hinnakujundusega.",
+    "services": {
+      "customSoftware": "Kohandatud tarkvaraarendus",
+      "webMobile": "Veebi- ja mobiilirakenduste arendus",
+      "cloudDevops": "Pilve- ja DevOpsi lahendused",
+      "aiMl": "AI ja masinõpe",
+      "itConsulting": "IT-alane nõustamine",
+      "digitalMarketing": "Digitaalne turundus ja SEO",
+      "erpSolutions": "ERP-lahendused",
+      "other": "Muu / Pole veel kindel"
+    },
+    "budgets": {
+      "under1L": "Alla 1L ₹",
+      "1to5L": "₹ 1L – ₹ 5L",
+      "5to10L": "₹ 5L – ₹ 10L",
+      "above10L": "₹ 10L+",
+      "notDecided": "Pole veel otsustatud"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Mõistke oma eesmärke",
+        "text": "Me kuulame kõigepealt. 30-minutiline kõne, et kaardistada teie ettevõtte vajadused, vaatajaskond ja soovitud tulemused."
+      },
+      "technicalDirection": {
+        "title": "Hankige tehnilisi juhiseid",
+        "text": "Meie insenerid jagavad teie projekti jaoks õiget arhitektuuri, pinu ja lähenemisviisi."
+      },
+      "clearQuote": {
+        "title": "Saate selge hinnapakkumise",
+        "text": "Minge minema läbipaistva hinnangu, ajakava ja järgmiste sammudega – ilma kohustuseta."
+      }
+    },
+    "validation": {
+      "nameRequired": "Täisnimi on nõutav.",
+      "emailRequired": "E-post on nõutav.",
+      "emailInvalid": "Sisestage kehtiv e-posti aadress.",
+      "phoneRequired": "Telefoninumber on nõutav.",
+      "phoneInvalid": "Sisestage kehtiv telefoninumber.",
+      "serviceRequired": "Palun valige teenus.",
+      "dateRequired": "Valige eelistatud kuupäev.",
+      "timeRequired": "Valige eelistatud ajavahemik.",
+      "messageTooShort": "Lisage veidi rohkem üksikasju (vähemalt 10 tähemärki).",
+      "signInRequired": "Konsultatsiooni broneerimiseks logige sisse.",
+      "couldNotBook": "Konsultatsiooni ei saanud broneerida. Kontrollige, kas konsultatsioonide tabel on olemas, ja proovige uuesti.",
+      "bookedSuccess": "Konsultatsioon broneeritud! Meie meeskond kinnitab teie ajavahemiku peagi meili teel."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Tere tulemast tagasi",
+    "createAccount": "Loo konto",
+    "forgotPassword": "Unustasin parooli",
+    "createNewPassword": "Loo uus parool",
+    "welcomeBackDesc": "Logige sisse oma Rezonantsi kontole.",
+    "createAccountDesc": "Liituge Rezonantsiga juba täna.",
+    "forgotDesc": "Sisestage oma e-posti aadress ja me saadame teile lingi parooli lähtestamiseks.",
+    "recoveryDesc": "Valige oma konto jaoks uus tugev parool.",
+    "fullName": "Täisnimi",
+    "email": "E-post",
+    "password": "Parool",
+    "newPassword": "Uus parool",
+    "confirmPassword": "Kinnitage parool",
+    "confirmNewPassword": "Kinnitage uus parool",
+    "forgotPasswordLink": "Unustasite parooli?",
+    "privacyPolicy": "Nõustun Rezonantsi <1>privaatsus- ja turvapoliitika</1> põhimõtetega.",
+    "sendResetLink": "Saatke lähtestamise link",
+    "signIn": "Logi sisse",
+    "signUp": "Registreeru",
+    "pleaseWait": "Palun oota…",
+    "rememberedPassword": "Kas teie parool on meeles?",
+    "signInLink": "Logige sisse",
+    "noAccount": "Kas teil pole kontot?",
+    "signUpLink": "Registreeru",
+    "hasAccount": "Kas teil on juba konto?",
+    "changedMind": "Kas muutsite meelt?",
+    "backToSignIn": "Tagasi sisselogimiseks",
+    "resetSent": "Parooli lähtestamise link saadetud! Uue parooli loomiseks kontrollige oma meili.",
+    "passwordUpdated": "Teie salasõna on uuendatud. Logige sisse oma uue parooliga.",
+    "accountCreated": "Konto loodud! Registreerumise kinnitamiseks kontrollige oma meili, seejärel logige sisse.",
+    "validation": {
+      "fullNameRequired": "Täisnimi on nõutav.",
+      "emailRequired": "E-post on nõutav.",
+      "emailInvalid": "Sisestage kehtiv e-posti aadress.",
+      "passwordRequired": "Parool on nõutav.",
+      "passwordMinLength": "Parool peab koosnema vähemalt 6 tähemärgist.",
+      "passwordsNoMatch": "Paroolid ei ühti.",
+      "acceptTerms": "Jätkamiseks nõustuge Rezonantsi privaatsuspoliitika ja turvapoliitikaga."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Vestelge Rezonants AI-ga",
+    "openChatLabel": "Avage Rezonants AI Assistanti vestlus",
+    "chatTitle": "Rezonantsi AI assistent",
+    "online": "Internetis",
+    "expandLabel": "Laiendage vestlusrobot",
+    "minimizeLabel": "Minimeerige vestlusbot",
+    "closeLabel": "Sulgege vestlusbot",
+    "expand": "Laienda",
+    "minimize": "Minimeeri",
+    "close": "Sule",
+    "popularTopics": "Populaarsed teemad",
+    "askPlaceholder": "Küsi minult Rezonantsi kohta...",
+    "messageLabel": "Saatke sõnum Rezonantsi tehisintellekti assistendile",
+    "sendLabel": "Saada sõnum",
+    "sendTitle": "Saada sõnum",
+    "enterToSend": "Saatmiseks vajutage sisestusklahvi · Shift+Enter uue rea jaoks",
+    "newChat": "Uus vestlus",
+    "typing": "Rezonants AI kirjutab",
+    "menuOptions": "Menüüvalikud",
+    "greetingMorning": "Tere hommikust",
+    "greetingAfternoon": "Tere pärastlõunast",
+    "greetingEvening": "Tere õhtust",
+    "welcomeText": "! 👋 Tere tulemast teenusesse Rezonants.\nOlen Rezonantsi tehisintellekti assistent. Aitan teil uurida meie teenuseid, tehnoloogiaid ja kontaktteavet."
+  },
+  "cookieConsent": {
+    "title": "Hindame teie privaatsust",
+    "description": "Kasutame teie sirvimiskogemuse parandamiseks küpsiseid. Saate nõustuda kõigi küpsistega, keelduda ebaolulistest küpsistest või kohandada oma eelistusi. Olulised küpsised on alati lubatud, et tagada veebisaidi korrektne toimimine.",
+    "acceptAll": "Nõustu kõik",
+    "rejectNonEssential": "Keeldu ebaolulisest",
+    "managePreferences": "Halda eelistusi",
+    "privacyPolicy": "Privaatsuspoliitika"
+  },
+  "cookiePreferences": {
+    "title": "Küpsiste eelistuste haldamine",
+    "description": "Valige, milliseid küpsiste kategooriaid lubate. Olulised küpsised jäävad veebisaidi toimimise tagamiseks lubatud.",
+    "essential": "Oluline",
+    "essentialDesc": "Vajalik veebisaidi toimimiseks (autentimine, turvalisus, koormuse tasakaalustamine). Neid ei saa keelata.",
+    "analytics": "Analüütika",
+    "analyticsDesc": "Aidake meil mõista, kuidas külastajad seda saiti kasutavad, et saaksime seda täiustada. Vaikimisi keelatud.",
+    "marketing": "Turundus",
+    "marketingDesc": "Kasutatakse asjakohaste pakkumiste ja kampaaniate kuvamiseks. Vaikimisi keelatud.",
+    "cancel": "Tühista",
+    "savePreferences": "Salvesta eelistused"
+  },
+  "privacy": {
+    "badge": "Juriidiline",
+    "title": "Privaatsuspoliitika",
+    "description": "Kuidas Rezonants teie isikuandmeid ja küpsiseid kogub, kasutab ja kaitseb.",
+    "lastUpdated": "Viimati värskendatud: august 2026",
+    "managingPreferences": "Teie eelistuste haldamine",
+    "managingPreferencesDesc": "Küpsiste eelistuste paneelilt saate igal ajal üle vaadata või muuta, milliseid küpsiseid lubate.",
+    "manageCookiePreferences": "Küpsiste eelistuste haldamine",
+    "section1": {
+      "title": "1. Teave, mida me kogume",
+      "body": [
+        "Kogume teie poolt otse esitatud teavet (nt teie nimi ja e-posti aadress kontaktivormi esitamisel või konto loomisel) ning küpsiste ja sarnaste tehnoloogiate kaudu automaatselt kogutavat teavet, nagu külastatud lehed, seadme tüüp ja ligikaudne asukoht."
+      ]
+    },
+    "section2": {
+      "title": "2. Kuidas me küpsiseid kasutame",
+      "body": [
+        "Olulised küpsised on alati lubatud, kuna veebisait ei saa ilma nendeta korralikult töötada. Nad salvestavad seansi ja autentimise oleku ning jätavad meelde teie küpsiste eelistused.",
+        "Analüüsiküpsised aitavad meil mõista, kuidas külastajad seda saiti kasutavad, et saaksime seda täiustada. Turundusküpsiseid kasutatakse teile asjakohaste pakkumiste ja kampaaniate kuvamiseks. Need kategooriad on lubatud ainult teie nõusolekul ja neid saab küpsiste eelistuste paneelil igal ajal muuta."
+      ]
+    },
+    "section3": {
+      "title": "3. Õiguslik alus (GDPR)",
+      "body": [
+        "Töötleme isikuandmeid järgmistel õiguslikel alustel: teie nõusolek (mitteoluliste küpsiste ja turunduse jaoks), lepingu täitmine (teie taotletavate teenuste puhul), seaduslik kohustus ja õigustatud huvid, kui teie õigused ei ole neist tähtsamad. Võite nõusoleku igal ajal tagasi võtta, ilma et see mõjutaks enne tagasivõtmist teostatud töötlemise seaduslikkust."
+      ]
+    },
+    "section4": {
+      "title": "4. Teie õigused",
+      "body": [
+        "Sõltuvalt teie asukohast võib teil olla õigus oma isikuandmetele juurde pääseda, neid parandada, kustutada või nende töötlemist piirata, esitada vastuväiteid töötlemisele ja andmete teisaldatavusele. Samuti võite esitada kaebuse kohalikule järelevalveasutusele."
+      ]
+    },
+    "section5": {
+      "title": "5. Andmete säilitamine ja turvalisus",
+      "body": [
+        "Säilitame isikuandmeid ainult seni, kuni see on käesolevas poliitikas kirjeldatud eesmärkide saavutamiseks vajalik. Rakendame asjakohaseid tehnilisi ja organisatsioonilisi meetmeid, et kaitsta teie teavet volitamata juurdepääsu, muutmise, avalikustamise või hävitamise eest."
+      ]
+    },
+    "section6": {
+      "title": "6. Kolmandate osapoolte teenused",
+      "body": [
+        "Mõned küpsised võivad seada kolmandatest osapooltest pakkujad (nt analüüsi- või reklaamiplatvormid), mis aitavad meil veebisaiti hallata. Need pakkujad töötlevad andmeid oma privaatsuspoliitika alusel ja ainult siis, kui olete vastava kategooriaga nõustunud."
+      ]
+    },
+    "contactUs": "7. Võtke meiega ühendust",
+    "contactUsText": "Kui teil on küsimusi selle poliitika või teie isikuandmete kohta, võtke meiega ühendust aadressil <1>info@rezonants.com</1> või helistage numbril <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Teenused",
+    "title": "Meie teenused",
+    "sub": "Täielikud tehnoloogilised lahendused, mis on loodud selleks, et aidata ettevõtetel uuendusi teha, skaleerida ja edu saavutada.",
+    "learnMore": "Lisateave",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Algusest juurutamiseni",
+        "text": "Esialgsest kontseptsioonist kuni tootmise juurutamiseni pakume skaleeritavaid lahendusi, mis on loodud reaalsete ärivajaduste jaoks."
+      },
+      "businessProcessAutomation": {
+        "title": "Äriprotsesside automatiseerimine",
+        "text": "Muutke korduvaid protsesse sujuvamaks ja parandage tegevustõhusust intelligentse äriautomaatika abil."
+      },
+      "centerOfExcellence": {
+        "title": "Tippkeskus",
+        "text": "Looge innovatsiooni, kvaliteedi ja pideva täiustamise edendamiseks spetsiaalseid tehnoloogiavõimalusi ja teadmisi."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Kohandatud arendus ja kohandamine",
+        "text": "Kohandatud tarkvaralahendused, mis on loodud teie ainulaadsete ärinõuete ja töövoogude järgi."
+      },
+      "digitalTransformation": {
+        "title": "Digitaalne transformatsioon",
+        "text": "Moderniseerige oma ettevõtet digitaalsete strateegiate, tehnoloogiate ja lahendustega, mis loovad mõõdetavat mõju."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Otsast lõpuni lahenduste raamistik",
+        "text": "Integreeritud tehnoloogilised lahendused, mis ühendavad strateegia, arenduse, juurutamise ja käimasolevad tegevused."
+      },
+      "migrationModernization": {
+        "title": "Ränne ja moderniseerimine",
+        "text": "Uuendage pärandrakendusi ja viige süsteemid üle skaleeritavatele, turvalistele ja tõhusatele tehnoloogiaplatvormidele."
+      },
+      "pocPilotImplementation": {
+        "title": "Kontseptsiooni tõendamine (PoC) ja pilootrakendus",
+        "text": "Kinnitage ideid kiiresti enne täielikku kasutuselevõttu fokuseeritud prototüüpide ja pilootrakenduste abil."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Jagatud teenused ja hallatavad toimingud",
+        "text": "Usaldusväärsed hallatavad tehnoloogiatoimingud, mis parandavad jõudlust, mastaapsust ja äritegevuse järjepidevust."
+      }
+    }
+  },
+  "footer": {
+    "company": "Ettevõte",
+    "about": "Umbes",
+    "perspectives": "Perspektiivid",
+    "technologies": "Tehnoloogiad",
+    "contact": "Võtke ühendust",
+    "services": "Teenused",
+    "getInTouch": "Võtke ühendust",
+    "bookConsultation": "Broneeri konsultatsioon",
+    "copyright": "© {{year}} Rezonants. Kõik õigused kaitstud.",
+    "cookiePreferences": "Küpsiste eelistused",
+    "privacyPolicy": "Privaatsuspoliitika",
+    "description": "Rezonants on IT-teenuste ja digitoodete ettevõte Indias Hyderabadis. Disainime, ehitame ja skaleerime tarkvara ettevõtetele, mis konkureerivad teostuses.",
+    "locations": "Meie asukohad",
+    "indiaHq": "Hyderabad, India – India peakorter",
+    "southAfrica": "Lõuna-Aafrika – REZONANTS PVT LTD",
+    "products": "Tooted",
+    "followUs": "Jälgi meid",
+    "aboutUs": "Meie kohta",
+    "contactUs": "Võtke meiega ühendust",
+    "headline": "Ehitame",
+    "headlineAccent": "mis edasi.",
+    "subheadline": "Tehke koostööd ettevõttega Rezonants, et muuta ideed tõeliseks ärimõjuks.",
+    "credoIdeas": "IDEED",
+    "credoSolutions": "LAHENDUSED",
+    "credoPeople": "INIMEST",
+    "credoBrighterTomorrow": "HELEDAM HOMME",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Lõuna-Aafrika Vabariik – REZONANTS PVT LTD",
+    "termsOfUse": "Kasutustingimused",
+    "accessibility": "Juurdepääsetavus",
+    "quickLinks": "Kiirlingid",
+    "explore": "Uurige",
+    "vijayawadaOffice": "Vijayawada kontor",
+    "allRightsReserved": "Kõik õigused kaitstud.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Lõuna-Aafrika"
+  },
+  "common": {
+    "loading": "Laadimine...",
+    "error": "Viga",
+    "retry": "Proovige uuesti",
+    "close": "Sule",
+    "backToTop": "Tagasi üles",
+    "skipToContent": "Mine sisu juurde",
+    "scroll": "Kerige",
+    "whatWeOffer": "Mida me pakume",
+    "howItWorks": "Kuidas see töötab"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Otsi riiki või koodi…",
+    "noResults": "Ühtegi riiki ei leitud.",
+    "countryCodeLabel": "Riigi suunakood",
+    "required": "Telefoninumber on nõutav.",
+    "incomplete": "Telefoninumber peab sisaldama täpselt {{count}} numbrit.",
+    "tooLong": "Telefoninumber ei tohi sisaldada rohkem kui {{count}} numbrit.",
+    "invalid": "Sisestage {{country}} jaoks kehtiv telefoninumber."
+  },
+  "perspectives": {
+    "topic": "Teema:",
+    "published": "Avaldatud:",
+    "readingTime": "Lugemisaeg:",
+    "author": "Autor:",
+    "authorName": "Rezonantsi ettevõtte arhitektuuristuudio",
+    "techArea": "Tehnoloogiaala",
+    "purpose": "Eesmärk",
+    "talkToExperts": "Rääkige meie ekspertidega",
+    "viewAll": "Vaata kõiki perspektiive",
+    "exploreMore": "UURIGE ROHKEM PERSPEKTIIVIDE",
+    "continueExploring": "Jätkake Enterprise Technology Insights uurimist",
+    "readPerspective": "Lugege perspektiivi"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI ja robootika lahendused",
+      "tagline": "Intelligentne tehnoloogia. Automatiseeritud toimingud. Targem äri.",
+      "heroBadge": "Intelligentsed autonoomsed süsteemid",
+      "overview": [
+        "Tehisintellekt ja robootika muudavad organisatsioonide toimimist, otsuste langetamist ja väärtuste pakkumist. Meie tehisintellekti ja robootika lahendused aitavad ettevõtetel traditsioonilisest automatiseerimisest kaugemale minna, kombineerides tehisintellekti, masinõppe, arvutinägemise, intelligentse protsesside automatiseerimise ja robootika, et lahendada praktilisi äriprobleeme.",
+        "Kujundame intelligentseid lahendusi mõõdetavate äritulemuste ümber. Olenemata sellest, kas nõue on korduva töö automatiseerimine, suurte teabemahtude analüüsimine, mustrite tuvastamine, otsuste toetamine või robootika kasutuselevõtt töökeskkondades, keskendub meie lähenemisviis töökindlusele, skaleeritavusele, turvalisusele ja pikaajalisele äriväärtusele."
+      ],
+      "transformation": [
+        "Kaasaegsed organisatsioonid genereerivad tohutul hulgal andmeid ja teevad iga päev tuhandeid korduvaid tegevusi. Tehisintellekt ja robootika võivad muuta need tegevused intelligentseteks automatiseeritud töövoogudeks, mis parandavad tootlikkust, võimaldades samal ajal töötajatel keskenduda suurema väärtusega kohustustele.",
+        "Meie lahendused võivad aidata organisatsioonidel automatiseerida korduvaid toiminguid, vähendada käsitsi sekkumist, parandada täpsust, analüüsida keerulist teavet, toetada kiiremaid otsuseid, optimeerida ressursside kasutamist, parandada klientide kogemusi ja luua skaleeritavaid intelligentseid süsteeme."
+      ],
+      "capabilities": [
+        {
+          "title": "Tehisintellekt",
+          "desc": "Arendame välja AI-põhiseid lahendusi, mis võimaldavad süsteemidel mõista teavet, tuvastada mustreid, luua teadmisi ja toetada äriotsuseid."
+        },
+        {
+          "title": "Masinõpe",
+          "desc": "Arendame välja masinõppemudeleid prognoosimiseks, klassifitseerimiseks, soovitussüsteemideks, anomaaliate tuvastamiseks, ennustavaks analüüsiks ja intelligentseks otsuste toeks."
+        },
+        {
+          "title": "Loomuliku keele töötlemine",
+          "desc": "NLP-d saab kasutada dokumentide töötlemiseks, teksti mõistmiseks, teabe klassifitseerimiseks, asjakohase sisu eraldamiseks ja vestlusrakenduste toetamiseks."
+        },
+        {
+          "title": "Arvutinägemine",
+          "desc": "Arvutinägemise lahendused võivad toetada kujutiste klassifitseerimist, objektide tuvastamist, kvaliteedikontrolli, dokumentide töötlemist, visuaalset jälgimist ja videoanalüüsi."
+        },
+        {
+          "title": "Robootika",
+          "desc": "Robootika ühendab tarkvara intelligentsuse füüsiliste süsteemidega, et automatiseerida tavapäraselt käsitsi pingutust nõudvaid tegevusi. Rakendused võivad hõlmata tootmist, logistikat, ladustamist, ülevaatust, materjalikäsitlust ja tegevustuge."
+        },
+        {
+          "title": "Intelligentne protsesside automatiseerimine",
+          "desc": "AI-d saab kombineerida töövoo automatiseerimisega, et luua süsteeme, mis tõlgendavad teavet, rakendavad ärireegleid või -mudeleid ja käivitavad automaatselt vastava protsessi."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ärihinnang",
+        "Andmete analüüs",
+        "AI strateegia",
+        "Lahendusarhitektuur",
+        "Arendus",
+        "Integratsioon",
+        "Testimine",
+        "Kasutuselevõtt",
+        "Seire",
+        "Optimeerimine"
+      ],
+      "benefits": [
+        "Ettevõtte kõrgem tööviljakus",
+        "Tegevuskulude oluline vähenemine",
+        "Kiirem töötlemine ja millisekundiline otsustusprotsess",
+        "Täiustatud andmete ja töövoo täpsus",
+        "Optimeeritud füüsiliste ja arvutuslike ressursside kasutamine",
+        "Vähendatud operatsiooniriskid ja inimlikud vead",
+        "Sujuv mitme platvormi skaleeritavus",
+        "Täiustatud klientide ja töötajate kogemused"
+      ],
+      "security": "Ettevõtte tehisintellekti lahendused peavad olema kavandatud koos sobiva turvalisuse, juurdepääsukontrolli, andmekaitse, seire, mudelijuhtimise ja töökaitsemeetmetega. Arvestame neid nõudeid alates arhitektuurietapist kuni juurutamise ja pideva hoolduseni, et tagada töökindel tootmistasemel intelligentsus.",
+      "ctaHeadline": "Ehitage arukas tulevik",
+      "ctaSub": "Muutke oma toimingud nutikamaks. Automatiseerige oluline. Ehitage tuleviku jaoks."
+    },
+    "business-automation-solutions": {
+      "title": "Äriautomaatikalahendused",
+      "tagline": "Protsesside lihtsustamine. Kõrvaldage kordus. Kiirendada kasvu.",
+      "heroBadge": "Töövoo täielik optimeerimine",
+      "overview": [
+        "Ettevõtte automatiseerimine võimaldab organisatsioonidel asendada korduvad käelised tegevused täiustatud digitaalsete töövoogudega. Meie äriautomaatikalahendused aitavad ettevõtetel tõsta tootlikkust, vähendada töö keerukust, minimeerida vigu ja luua ühtseid protsesse osakondade lõikes.",
+        "Analüüsime olemasolevaid töövooge, tuvastame kitsaskohad ja kavandame automatiseerimislahendusi, mis ühendavad inimesi, rakendusi, andmeid ja äriprotsesse."
+      ],
+      "transformation": [
+        "Paljud organisatsioonid sõltuvad endiselt arvutustabelitest, e-kirjadest, käsitsi kinnitustest, korduvast andmesisestusest, dokumentide käsitlemisest ja lahtiühendatud rakendustest. Need protsessid kulutavad väärtuslikku töötaja aega ja võivad põhjustada viivitusi, ebakõlasid ja vigu.",
+        "Meie automatiseerimise lähenemisviis keskendub kogu protsessi mõistmisele, ebavajalike sammude eemaldamisele, süsteemide integreerimisele ja suurimat tegevusväärtust pakkuvate tegevuste automatiseerimisele."
+      ],
+      "capabilities": [
+        {
+          "title": "Töövoo automatiseerimine",
+          "desc": "Automatiseerime mitmeastmelisi protsesse, mis hõlmavad töötajaid, rakendusi, kinnitusi, teatisi ja andmeid erinevates osakondades."
+        },
+        {
+          "title": "Robotprotsesside automatiseerimine",
+          "desc": "Tarkvararobotid võivad sooritada korduvaid reeglipõhiseid toiminguid, nagu andmete sisestamine, süsteemivärskendused, vastavusse viimine ja teabeedastus."
+        },
+        {
+          "title": "Dokumentide automatiseerimine",
+          "desc": "Automatiseeritud dokumentide töövood võivad hankida teavet, kinnitada andmeid, klassifitseerida dokumente, suunata päringuid ja algatada järgnevaid protsesse."
+        },
+        {
+          "title": "Heakskiidu automatiseerimine",
+          "desc": "Digitaalsed heakskiidu töövood suunavad taotlused automaatselt õigetele otsustajatele ja pakuvad reaalajas nähtavust ootel olevate toimingute kohta."
+        },
+        {
+          "title": "Integratsiooni automatiseerimine",
+          "desc": "Ühendame ärirakendused, et teave saaks automaatselt platvormide vahel liikuda ilma tarbetu käsitsi sekkumiseta."
+        },
+        {
+          "title": "Teavituste automatiseerimine",
+          "desc": "Automaatsed hoiatused ja märguanded aitavad töötajatel koheselt reageerida olulistele sündmustele, tähtaegadele, eranditele ja töömuudatustele."
+        }
+      ],
+      "lifecycleSteps": [
+        "Avastage",
+        "Analüüsige",
+        "Disain",
+        "Automatiseeri",
+        "Integreerige",
+        "Test",
+        "Juurutage",
+        "Monitor",
+        "Optimeeri"
+      ],
+      "benefits": [
+        "Suurenenud meeskonna läbilaskevõime ja töökiirus",
+        "Käsitsi andmete sisestamise vigade dramaatiline vähenemine",
+        "Lühendatud protsesside otstest lõpuni",
+        "Ühtne nähtavus kogu äritegevuses",
+        "Standardiseeritud osakondadevaheline vastavus",
+        "Oluliselt vähenenud tegevuskulud",
+        "Elastne suutlikkus töökoormust vaevata skaleerida",
+        "Võimestatud meeskonnad keskendusid klientide kaasamisele ja strateegilisele tööle"
+      ],
+      "security": "Kombineerime töövooplatvormid ja RPA intelligentsete kontekstiteadlike mudelitega, et tagada rollipõhine juurdepääsukontroll, põhjalikud kontrolljäljed ja range vastavus iga automatiseeritud tehingu puhul.",
+      "ctaHeadline": "Tehke tõhusamaid toiminguid",
+      "ctaSub": "Automatiseerige korduv töö. Võimesta oma inimesi. Kiirendage oma äritegevust."
+    },
+    "cloud-migration-solutions": {
+      "title": "Pilvemigratsioonilahendused",
+      "tagline": "Liikuge enesekindlalt pilve.",
+      "heroBadge": "Mitme pilve teisendus",
+      "overview": [
+        "Pilvandmetöötlusest on saanud kaasaegse IT-infrastruktuuri oluline komponent. Organisatsioonid viivad rakendusi, andmebaase, töökoormusi ja taristut pilvekeskkondadesse, et parandada mastaapsust, saadavust, paindlikkust ja toimimistõhusust.",
+        "Meie pilve migratsiooniteenused aitavad organisatsioonidel hinnata nende praegust keskkonda, määratleda migratsioonistrateegiaid, teostada migratsioone ja optimeerida töökoormust pärast pilve siirdumist."
+      ],
+      "transformation": [
+        "Pilvemigratsioon on enamat kui serverite ühest keskkonnast teise teisaldamine. Edukas migratsioon nõuab rakenduste, infrastruktuuri, sõltuvuste, turbenõuete, andmete, jõudluse, kättesaadavuse ja talitluspidevuse hoolikat hindamist.",
+        "Koostame migratsioonistrateegiad lähtudes organisatsiooni praegusest keskkonnast ja tulevikueesmärkidest, valides iga töökoormuse jaoks sobiva migratsioonimustri."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuuri migratsioon",
+          "desc": "Migreerime traditsioonilised serverid, salvestusruumid, virtuaalmasinad ja töökoormused kaasaegsetesse pilvekeskkondadesse AWS-i, Azure'i ja GCP-ga."
+        },
+        {
+          "title": "Rakenduse migratsioon",
+          "desc": "Rakendusi saab olenevalt äri- ja tehnilistest nõuetest uuesti majutada, platvormi ümber kujundada, ümber kujundada või ümber kujundada."
+        },
+        {
+          "title": "Andmebaasi migreerimine",
+          "desc": "Me migreerime andmebaase, võttes arvesse andmete terviklikkust, jõudlust, ühilduvust, saadavust, turvalisust ja taastenõudeid."
+        },
+        {
+          "title": "Pilve moderniseerimine",
+          "desc": "Migratsioonist saab võimalus moderniseerida rakendusi, kasutades konteinereid, mikroteenuseid, hallatud andmebaase, serverita teenuseid ja pilvepõhiseid arhitektuure."
+        },
+        {
+          "title": "Hübriidpilv",
+          "desc": "Organisatsioonid, mis vajavad nii kohapealset kui ka pilveinfrastruktuuri, saavad kasutusele võtta hübriidarhitektuure, mis ühendavad sujuvalt olemasolevad süsteemid pilveteenustega."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Organisatsioonidel, mis tegutsevad mitmel pilveplatvormil, aitame välja töötada töökoormuse strateegiaid, mis parandavad paindlikkust, vastupidavust ja juhtimist."
+        }
+      ],
+      "lifecycleSteps": [
+        "Hindamine",
+        "Avastus",
+        "Sõltuvuste kaardistamine",
+        "Rändestrateegia",
+        "Arhitektuur Disain",
+        "Pilootmigratsioon",
+        "Andmete migreerimine",
+        "Rakenduse migratsioon",
+        "Testimine",
+        "Tootmise migratsioon",
+        "Optimeerimine"
+      ],
+      "benefits": [
+        "Elastne mastaapsus ja kõrge ressursside kättesaadavus",
+        "Suurem infrastruktuuri paindlikkus ja äritegevuse paindlikkus",
+        "Kõrvaldatud füüsilise andmekeskuse hoolduskoormus",
+        "Rakenduse funktsioonide kiirendatud juurutamine",
+        "Tugev avariitaaste ja varuvastupidavus",
+        "Kohene juurdepääs kaasaegsetele pilve-AI-le ja hallatavatele teenustele",
+        "FinOpsi optimeeritud juhtimine ja TCO vähendamine",
+        "Pidev vastavus ja automatiseeritud turvapiirded"
+      ],
+      "security": "Turvalisus on rände planeerimise lahutamatu osa. Kaalume identiteedi- ja juurdepääsuhaldust, võrgu turvalisust, krüptimist transpordi ajal ja puhkeolekus, andmekaitset, rakenduste haavatavuse auditeid, jälgimist, varundust ja avariitaastet.",
+      "ctaHeadline": "Teie pilvereis, õigesti planeeritud",
+      "ctaSub": "Moderniseerige oma infrastruktuur. Kiirendada innovatsiooni. Ehitage skaleeritav pilve vundament."
+    },
+    "data-center-solutions": {
+      "title": "Andmekeskuse lahendused",
+      "tagline": "Usaldusväärne infrastruktuur missioonikriitiliste toimingute jaoks.",
+      "heroBadge": "Missioonikriitiline infrastruktuur",
+      "overview": [
+        "Andmekeskused moodustavad kaasaegse digitaalse äri aluse. Rakendused, andmebaasid, ettevõttesüsteemid, sideplatvormid ja kriitilised äriteenused sõltuvad usaldusväärsest infrastruktuurist.",
+        "Meie andmekeskuse lahendused keskenduvad kättesaadavuse, turvalisuse, skaleeritavuse, jõudluse ja töötõhususe jaoks loodud infrastruktuurikeskkondade kujundamisele, moderniseerimisele, haldamisele ja optimeerimisele."
+      ],
+      "transformation": [
+        "Kaasaegne andmekeskus nõuab enamat kui serverid ja salvestusruumi. See nõuab hoolikalt kavandatud infrastruktuuri, mis hõlmab andmetöötlust, võrku, turvalisust, toite, jahutust, jälgimist, varundust ja avariitaastet.",
+        "Aitame organisatsioonidel luua vastupidavaid taristukeskkondi, mis toetavad kriitilist töökoormust ja loovad aluse tulevaseks tehnoloogia kasvuks."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuuri projekteerimine",
+          "desc": "Kujundame keskkondi töökoormuse nõuete, võimsuse, jõudluse, saadavuse, turvalisuse ja tulevase kasvu alusel."
+        },
+        {
+          "title": "Serveri infrastruktuur",
+          "desc": "Toetame füüsilisi ja virtuaalseid serverikeskkondi missioonikriitiliste ettevõtterakenduste ja töökoormuste jaoks."
+        },
+        {
+          "title": "Salvestuslahendused",
+          "desc": "Salvestuskeskkondade kujundamisel arvestame jõudluse, võimsuse, koondamise, kiire SAN/NAS-i, varundamise ja andmekaitse nõudeid."
+        },
+        {
+          "title": "Võrgu infrastruktuur",
+          "desc": "Kujundame sobiva segmenteerimise, koondamise, madala latentsusajaga jõudluse, ühenduvuse ja turvakontrolliga võrgukeskkondi."
+        },
+        {
+          "title": "Virtualiseerimine",
+          "desc": "Virtualiseerimine parandab ressursside kasutamist, töökoormuse paindlikkust ja tsentraliseeritud infrastruktuuri haldamist."
+        },
+        {
+          "title": "Varundamine ja avariitaaste",
+          "desc": "Aitame organisatsioonidel luua varundusstrateegiaid ja taastearhitektuure, mille eesmärk on minimeerida seisakuid ja kõrvaldada andmekadu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Võimsuse hindamine",
+        "Töökoormuse profileerimine",
+        "Arhitektuuriplaan",
+        "Riistvara ja virtuaalne suuruse määramine",
+        "Võrgu segmentimine",
+        "Salvestusruumi varustamine",
+        "Koondamine ja DR-testimine",
+        "Tootmise katkestus",
+        "Ööpäevaringne terviseseire",
+        "Pidev optimeerimine"
+      ],
+      "benefits": [
+        "Garanteeritud 99,999% infrastruktuuri tööaeg",
+        "Null üksikuid rikkekohti mitmekihilise liiasusega",
+        "Optimeeritud serveriarvutus ja suure tihedusega virtualiseerimine",
+        "Alammillisekundite madala latentsusega võrguarhitektuurid",
+        "Karastatud füüsiline ja digitaalne perimeetri turvalisus",
+        "Proaktiivne jälgimine ja automaatsed rikete tõrkeotsad",
+        "Skaleeritav modulaarne salvestusruum petabaitide mastaabis andmete jaoks",
+        "Prognoositav kogu omamiskulu ja energiatõhusus"
+      ],
+      "security": "Turvalisus on integreeritud kogu infrastruktuuri kihis, hõlmates võrgu mikrosegmenteerimist, riistvara juur-of-trust, null-usalduskontrolli juurdepääsu kontrolle, pidevaid haavatavuse auditeid, lõpp-punkti kaitset ja rangeid tegevuspoliitikaid.",
+      "ctaHeadline": "Tulevikuks valmis infrastruktuur",
+      "ctaSub": "Ehitage usaldusväärne infrastruktuur juba täna. Looge alus homsele tehnoloogiale."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognitiivne analüüs ja tehisintellekt",
+      "tagline": "Muutke andmed intelligentseks.",
+      "heroBadge": "Andmed otsustamiseks",
+      "overview": [
+        "Organisatsioonid genereerivad tohutul hulgal teavet rakenduste, tehingute, klientide, toimingute, seadmete ja digitaalsete platvormide kaudu. Väljakutse ei ole enam lihtsalt andmete kogumine; see on nende andmete mõistmine ja nende muutmine kasutatavaks intelligentsuseks.",
+        "Meie kognitiivse analüüsi ja tehisintellekti lahendused ühendavad täiustatud analüütika, masinõppe, tehisintellekti, andmetöötluse ja äriintellekti, et aidata organisatsioonidel teha paremaid otsuseid."
+      ],
+      "transformation": [
+        "Traditsiooniline aruandlus annab organisatsioonidele teada, mis juhtus. Täiustatud analüüs aitab selgitada, miks see juhtus, tuvastada, mis võib järgmisena juhtuda, ja toetada otsuseid selle kohta, mis peaks juhtuma.",
+        "Aitame organisatsioonidel luua andmekeskkondi, mis liiguvad staatilisest aruandlusest kaugemale intelligentse analüüsi ja otsustustoe poole."
+      ],
+      "capabilities": [
+        {
+          "title": "Kirjeldav analüütika",
+          "desc": "Saate interaktiivsete aruannete, mitmemõõtmeliste armatuurlaudade, KPI-de ja ärimõõdikute abil mõista ajaloolist toimivust."
+        },
+        {
+          "title": "Diagnostikaanalüüs",
+          "desc": "Tuvastage äritulemuste taga olevad seosed, suundumused, statistilised kõrvalekalded ja algpõhjused."
+        },
+        {
+          "title": "Ennustav analüütika",
+          "desc": "Kasutage ajaloolisi ja reaalajas voogesituse andmeid koos statistiliste mudelitega, et tuvastada võimalikud tulevased tulemused ja nõudmised."
+        },
+        {
+          "title": "Ettekirjutav analüütika",
+          "desc": "Hinnake võimalikke tegevusi ja toetage prognoositud tulemuste ja strateegiliste ärieesmärkide põhjal optimaalseid otsustusviise."
+        },
+        {
+          "title": "Masinõppe mudelid",
+          "desc": "Töötage välja kohandatud mudelid prognoosimiseks, klientide klassifitseerimiseks, soovitusteks, pettuste anomaaliate tuvastamiseks ja prognoosimiseks."
+        },
+        {
+          "title": "AI-põhised ülevaated",
+          "desc": "Rakendage kognitiivset tehisintellekti tohutul hulgal struktureerimata teabele, et tuua esile peidetud mustrid, kokkuvõtted ja soovitused."
+        }
+      ],
+      "lifecycleSteps": [
+        "Andmeallikad",
+        "Andmete integreerimine",
+        "Andmetöötlus",
+        "Andmesalvestus",
+        "Analüütika",
+        "AI/ML mudelid",
+        "Visualiseerimine",
+        "Äriotsused"
+      ],
+      "benefits": [
+        "Faktipõhine, andmetel põhinev otsuste tegemine",
+        "Täpne nõudluse, tulude ja vähenemise prognoosimine",
+        "Reaalajas anomaalia ja pettuste tuvastamine",
+        "Põhjalik 360° kliendikäitumise ülevaade ja isikupärastamine",
+        "Optimeeritud tarneahel ja tegevuse efektiivsus",
+        "Vähendatud tegevus- ja finantsrisk",
+        "Varjatud tuluvõimaluste avastamine",
+        "Kiirendatud aeg ülevaate saamiseks kõigis äriüksustes"
+      ],
+      "security": "Meie analüütikaökosüsteemid rakendavad täielikku krüptimist, automatiseeritud andmete maskeerimist, rangeid RBAC-lubasid ja mudeljuhtimist, et kaitsta omandiõigusega kaitstud andmeid ja säilitada eeskirjade järgimine (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Looge välja intelligentne andmestrateegia",
+      "ctaSub": "Muutke teave ülevaateks. Muutke ülevaade tegudeks."
+    },
+    "information-reporting-systems": {
+      "title": "Info- ja aruandlussüsteemid",
+      "tagline": "Õige teave. Õigel ajal. Paremate otsuste tegemiseks.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Ettevõtete juhid ja operatiivmeeskonnad sõltuvad tõhusate otsuste tegemisel täpsest teabest. Meie teabe- ja aruandlussüsteemid aitavad organisatsioonidel koguda, korraldada, analüüsida ja esitada äriteavet struktureeritud infosüsteemide, aruandlusplatvormide, armatuurlaudade ja automatiseeritud aruandluse töövoogude kaudu.",
+        "Organisatsioonidel on sageli teave jagatud rakenduste, arvutustabelite, andmebaaside ja operatsioonisüsteemide vahel. See muudab ettevõtte tulemuslikkusest järjepideva ülevaate loomise keeruliseks. Aitame integreerida teabeallikad struktureeritud aruandluskeskkondadesse, mis pakuvad usaldusväärset, juurdepääsetavat ja järjepidevat äriteavet."
+      ],
+      "transformation": [
+        "Aruandlussüsteem ei tohiks lihtsalt kuvada numbreid. See peaks aitama kasutajatel mõista toimivust, tuvastada probleeme, avastada võimalusi ja teha teadlikke otsuseid.",
+        "Kujundame aruandluskeskkonnad vastavalt teie organisatsiooni toimimisviisile, pakkudes struktureeritud andmete otsustamiseni ökosüsteeme, mis on kohandatud kõigi juhtimistasandite jaoks."
+      ],
+      "capabilities": [
+        {
+          "title": "Juhtimisinfosüsteemid (MIS)",
+          "desc": "Töötada välja ühtsed infosüsteemid, mis tagavad tegevjuhtkonnale asjakohase operatiivse ja strateegilise nähtavuse."
+        },
+        {
+          "title": "Äriaruandlus",
+          "desc": "Muutke töötlemata äriandmed mitmest kanalist struktureeritud, standardiseeritud aruanneteks, mis jälgivad pidevalt toimivust."
+        },
+        {
+          "title": "Interaktiivsed armatuurlauad",
+          "desc": "Pakkuge reaalajas või ajastatud interaktiivset nähtavust kriitiliste ärimõõdikute, KPI-de, trendide ja osakonna tegevuste kohta."
+        },
+        {
+          "title": "KPI juhtimine",
+          "desc": "Määratlege, jälgige ja võrrelge sisukaid operatiivseid KPI-sid, mis on otseselt kooskõlas ettevõtte üldiste kasvueesmärkidega."
+        },
+        {
+          "title": "Andmete integreerimine",
+          "desc": "Integreerige hajutatud andmeallikad ühtsetesse andmeladudesse ja semantilistesse kihtidesse, et tagada järjepidev ühe klaasiga aruandlus."
+        },
+        {
+          "title": "Automatiseeritud aruandlus",
+          "desc": "Looge ja levitage automaatselt isikupärastatud aruandeid vastavalt eelnevalt määratletud ajakavadele, ärireeglitele ja adressaatide hierarhiatele."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ärisüsteemid",
+        "Andmete kogumine",
+        "Andmete integreerimine",
+        "Andmetöötlus",
+        "Andmehoidla",
+        "Analüütika",
+        "Aruanded ja armatuurlauad"
+      ],
+      "benefits": [
+        "Üks tõeallikas kogu ettevõttes",
+        "Kiirem juurdepääs reaalajas töömõõdikutele",
+        "Arvutustabeli käsitsi kokkupanemise täielik kõrvaldamine",
+        "Järjepidevad, kooskõlastatud osakondadevahelised KPI-d",
+        "Juhtkonna kõrgeim järelevalve ja auditeeritavus",
+        "Automatiseeritud levitamine otse sidusrühmadele",
+        "Detailne reatasemel andmete turvalisus ja load",
+        "Täiustatud paindlikkus reageerimaks tööanomaaliatele"
+      ],
+      "security": "Äriteave võib sisaldada tundlikke tegevus-, finants- ja kliendiandmeid. Meie aruandluslahendused integreerivad aruandlusarhitektuuri mitmefaktorilise autentimise, üksikasjaliku rollipõhise autoriseerimise, krüptimise ja auditi logid.",
+      "ctaHeadline": "Aruandlus, mis toetab kasvu",
+      "ctaSub": "Tehke teave kättesaadavaks. Muutke jõudlus nähtavaks. Tehke paremaid otsuseid."
+    },
+    "managed-services": {
+      "title": "Hallatavad teenused",
+      "tagline": "Usaldusväärsed tehnoloogiatoimingud. Ekspertide tugi. Pidev täiustamine.",
+      "heroBadge": "24/7 IT-toimingud ja tugi",
+      "overview": [
+        "Kaasaegsed IT-keskkonnad on keerulised ja muutuvad pidevalt. Organisatsioonid vajavad äritegevuse käigushoidmiseks usaldusväärset infrastruktuuri, rakendusi, võrke, turvalisust, jälgimist ja tehnilist tuge.",
+        "Meie hallatavad teenused pakuvad pidevat tehnoloogiahaldust ja tegevustuge, võimaldades organisatsioonidel säilitada töökindlat IT-keskkonda, samal ajal kui sisemised meeskonnad keskenduvad strateegilistele algatustele."
+      ],
+      "transformation": [
+        "Traditsiooniline IT-tugi keskendub sageli probleemide lahendamisele pärast nende ilmnemist. Hallatavad teenused kasutavad ennetavat lähenemist, jälgides pidevalt infrastruktuuri, rakendusi, süsteeme ja töökeskkondi.",
+        "See lähenemisviis aitab varakult tuvastada võimalikke probleeme, säilitada jõudlust, parandada saadavust ja vähendada välditavaid tööhäireid."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuuri haldamine",
+          "desc": "Toetage serverite, salvestusruumi, virtualiseerimisplatvormide ja infrastruktuuri pidevat toimimist, paikamist ja haldamist."
+        },
+        {
+          "title": "Pilvehaldus",
+          "desc": "Hallake pilve töökoormust, mitme pilve ressursse, konfiguratsioone, jälgimist, jõudlust ja FinOpsi optimeerimist."
+        },
+        {
+          "title": "Võrguhaldus",
+          "desc": "Pakkuge ööpäevaringset jälgimist, jõudluse haldust, konfiguratsioonituge, SD-WAN optimeerimist ja võrguprobleemide lahendamist."
+        },
+        {
+          "title": "Rakenduste haldamine",
+          "desc": "Toetage kriitilisi rakenduskeskkondi proaktiivse jälgimise, hoolduse, vealahenduse ja töötäienduste kaudu."
+        },
+        {
+          "title": "Seire ja jälgitavus",
+          "desc": "Pakkuge kõikehõlmavat reaalajas ülevaadet süsteemi seisukorra, latentsuse, tööaja, infrastruktuuri sõltuvuste ja hoiatuste kohta."
+        },
+        {
+          "title": "Varundamise ja taastamise haldus",
+          "desc": "Hoidke automaatseid varundusgraafikuid, testige regulaarselt tõrkesiirdeid ja tagage kohene taastevõimalus."
+        },
+        {
+          "title": "Turvatoimingud (SecOps)",
+          "desc": "Pakkuge pidevat turvaseiret, paikade haldust, juurdepääsukontrolli jõustamist ja ennetavat ohtude leevendamist."
+        }
+      ],
+      "lifecycleSteps": [
+        "Keskkond Onboarding",
+        "Avastus ja lähtejoon",
+        "Telemeetria integreerimine",
+        "SLA definitsioon",
+        "24/7 aktiivne jälgimine",
+        "Juhtumi klassifikatsioon",
+        "Kiire lahendus",
+        "Algpõhjuste analüüs",
+        "Ennetav tehnika",
+        "Pidev optimeerimine"
+      ],
+      "benefits": [
+        "Oluliselt vähenenud sisemine tegevuskoormus",
+        "Proaktiivne probleemide tuvastamine enne, kui kasutajad mõjutavad",
+        "Garanteeritud 99,99% süsteemi saadavus ja tööaeg",
+        "Ettenähtav, läbipaistev IT-tegevuse eelarve koostamine",
+        "Kohene juurdepääs vaneminsenerispetsialistidele",
+        "Kiire SLA-ga tagatud intsidendi reageerimisajad",
+        "Automatiseeritud avariitaaste ja talitluspidevus",
+        "Pidev tehnoloogia optimeerimine ja moderniseerimine"
+      ],
+      "security": "Meie hallatavad toimingud järgivad rangeid ITIL- ja ISO-raamistikke, tagades krüpteeritud juurdepääsu, isoleeritud auditilogid, kõige väiksemate privileegidega mandaadi hoidmise ja vastavuse vastavusse viimise iga hallatava ressursi lõikes.",
+      "ctaHeadline": "Pidev täiustamine",
+      "ctaSub": "Keskendute oma ettevõttele. Aitame teie tehnoloogia töös hoida."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Ühekordsed tehnoloogialahendused",
+      "tagline": "Üks tehnoloogiapartner. Mitmed võimalused. Täielikud ärilahendused.",
+      "heroBadge": "Ühtne ettevõtte partner",
+      "overview": [
+        "Organisatsioonid teevad sageli koostööd mitme tehnoloogia pakkujaga infrastruktuuri, pilve, rakenduste, automatiseerimise, analüüsi, turvalisuse, toe ja digitaalse muundamise alal. Mitme tarnija haldamine võib tekitada keerukust, suhtluslünki, dubleeritud jõupingutusi ja killustatud tehnoloogiakeskkondi.",
+        "Meie ühtsete tehnoloogialahenduste lähenemine koondab ühtse teenindusmudeli alla mitu võimalust, aidates organisatsioonidel oma tehnoloogiakeskkonda planeerida, juurutada, integreerida, toimida ja pidevalt täiustada."
+      ],
+      "transformation": [
+        "Toetame kogu tehnoloogia elutsüklit – alates ärinõuete mõistmisest ja tehnoloogiastrateegia määratlemisest kuni lahenduste kavandamise, platvormide juurutamise, süsteemide integreerimise, rakenduste juurutamise, keskkondade jälgimise ja pideva toe pakkumiseni.",
+        "Eesmärk on luua ühendatud tehnoloogia ökosüsteem, mitte eraldatud lahendused."
+      ],
+      "capabilities": [
+        {
+          "title": "Strateegia ja arhitektuur",
+          "desc": "Mõistke ärieesmärke ja kujundage skaleeritavaid, turvalisi ja hooldatavaid tehnoloogiaarhitektuure."
+        },
+        {
+          "title": "Rakendamine ja koostamine",
+          "desc": "Rakendage ettevõtte rangusega rakendusi, infrastruktuuri, integratsioone, automatiseerimist ja digitaalseid platvorme."
+        },
+        {
+          "title": "Süsteemi integreerimine",
+          "desc": "Ühendage süsteemid ja rakendused, et teave liiguks sujuvalt üle kogu organisatsiooni."
+        },
+        {
+          "title": "Struktureeritud juurutamine",
+          "desc": "Looge automatiseeritud CI/CD ja vabastage protsessid, et viia lahendused usaldusväärselt ja ohutult tootmisse."
+        },
+        {
+          "title": "Pidev jälgimine",
+          "desc": "Pakkuge infrastruktuuri, rakenduste, jõudluse, kättesaadavuse ja tööseisundi täielikku nähtavust."
+        },
+        {
+          "title": "Optimeerimine ja tugi",
+          "desc": "Vaadake keskkondi pidevalt üle, et parandada jõudlust, töökindlust, kulutõhusust ja mastaapsust."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strateegia",
+        "Arhitektuur",
+        "Rakendamine",
+        "Integratsioon",
+        "Kasutuselevõtt",
+        "Seire",
+        "Optimeerimine",
+        "Tugi"
+      ],
+      "benefits": [
+        "Vähendatud tarnija haldamise keerukus ja üldkulud",
+        "Sujuv koordineerimine kõigis arhitektuurikihtides",
+        "Projekti kiirem täitmine ilma üleandmise viivitusteta",
+        "Eelarve prognoositav jaotus ja läbipaistev tarnimine",
+        "Ettevõtte ühtne vastutus nullist mastaabini",
+        "Skaleeritavad lahendused, mis on loodud tulevaseks ärikasvuks",
+        "Pikaajaline usaldusväärne tehnoloogiapartnerlus",
+        "Põhjalik digitaalne teisendus"
+      ],
+      "security": "Üheainsa usaldusväärse partneriga, kes jälgib arhitektuuri, juurutamist ja toiminguid, jääb turvahaldus kõikidel tasanditel katkematuks – kõrvaldades integratsiooni pimealad ja tagades pideva vastavuse.",
+      "ctaHeadline": "Teie täielik tehnoloogiapartner",
+      "ctaSub": "Üks partner. Üks nägemus. Mitu tehnoloogiat. Terviklikud lahendused."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Ettevõtte ülevaade",
+    "overviewTitle": "Arukas tehnoloogia mõõdetavate tulemuste saavutamiseks",
+    "transformationEyebrow": "Operatiivne ümberkujundamine",
+    "transformationTitle": "Ettevõtte ümberkujundamine intelligentsete töövoogude kaudu",
+    "deliveryEyebrow": "Struktureeritud kohaletoimetamise lähenemisviis",
+    "deliveryTitle": "Täielik täitmine ja pidev optimeerimine",
+    "deliveryIntro": "Meie tõestatud juurutusviis järgib ranget tarneelutsüklit:",
+    "deliveryOutro": "See struktureeritud jada tagab tiheda kooskõla ärieesmärkidega, tugeva turvahoiaku ja mõõdetavad ROI etalonid igas etapis.",
+    "securityEyebrow": "Turvalisus ja juhtimine",
+    "securityTitle": "Ettevõtlustasemel töökindluse ja vastavuse kaitsemeetmed",
+    "securityOutro": "Manustame range rollipõhise juurdepääsukontrolli, automaatse haavatavuse kontrolli, mudelihalduse ja mitmetasandilise krüptimise, et tagada teie tootmiskeskkonna vastupidavus ja täielik ühilduvus.",
+    "capabilitiesTitle": "Tehnoloogilised põhivõimalused",
+    "capabilitiesSub": "Põhjalikud tehnilised pädevused, mis on loodud teie digitaalsete toimingute skaleerimiseks.",
+    "bookDiscovery": "Raamatutehnoloogia avastus",
+    "exploreAll": "Tutvuge kõigi tehnoloogiatega",
+    "bookConsultation": "Broneerige konsultatsioon",
+    "coreCapabilities": "Põhivõimalused"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Põhivõimalused",
+    "exploreFramework": "Uurige lahenduste raamistikku",
+    "bookConsultation": "Broneerige konsultatsioon",
+    "viewCaseStudies": "Vaadake juhtumiuuringuid",
+    "provenPillars": "Tõestatud sambad",
+    "operationalOutcomes": "Tegevustulemused",
+    "learnMore": "Lisateave"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "End-to End Digital Engineering",
+      "titlePart1": "Algus kuni",
+      "titlePart2": "Kasutuselevõtt",
+      "description": "Uute digitaalsete lahenduste täielik arendamine ärinõuetest ja lahenduste arhitektuurist arendamise, integreerimise, testimise, juurutamise ja pideva toe kaudu.",
+      "bookConsultation": "Broneerige konsultatsioon",
+      "exploreEngineering": "Tutvuge lahendustehnoloogiaga",
+      "coreCapabilities": [
+        "Nõuded Tehnika",
+        "Lahendusarhitektuur",
+        "Rakenduste arendus",
+        "API integreerimine",
+        "Kvaliteedi tagamine",
+        "DevOps",
+        "Kasutuselevõtt",
+        "Tugi ja hooldus"
+      ],
+      "row1Eyebrow": "Tarne kogu elutsükli jooksul",
+      "row1Title": "Täielik arendus nõuetest mastaapideni",
+      "row1P1": "Iga uus digitaalne algatus saab alguse ainulaadsetest nõuetest, töövoogudest ja strateegilistest eesmärkidest, mida ei saa täita kõigile sobiva tarkvaraga. Oleme spetsialiseerunud kohandatud suure jõudlusega tarkvarasüsteemide loomisele täiesti nullist.",
+      "row1P2": "Alates esialgsest nõuete tuvastamisest ja tehnilise arhitektuuri kavandamisest kuni kiire sprindi arendamise, API ökosüsteemide integreerimise, tugevate testimiskonveierite ja automatiseeritud pilvekasutusteni – meie kõrgemad insenerimeeskonnad võtavad teie toote elutsükli täielikult enda kanda.",
+      "row2Eyebrow": "Lahenduste arhitektuur ja tehnika",
+      "row2Title": "Skaleeritavad süsteemid, mis on loodud ettevõtte kasvu jaoks",
+      "row2P1": "Kujundame vastupidavaid tarkvaraarhitektuure, mis on kohandatud taluma suurt tootmiskoormust. Modulaarsetest mikroteenustest ja sündmustepõhistest taustasüsteemidest kuni suure läbilaskevõimega andmevoogude ja GraphQL/REST API-deni – loome platvorme, mis skaleeruvad vaevata.",
+      "row2P2": "Luues puhtad, modulaarsed koodibaasid, mis on ühendatud automaatse testimise ja pideva turvalisuse järgimisega, tagame, et teie tarkvaravundament on hooldatav, auditeeritav ja valmis pikaajaliseks arenguks.",
+      "row3Eyebrow": "Kvaliteedi tagamine ja DevOps",
+      "row3Title": "Agiilne kohaletoimetamine automatiseeritud torujuhtmetega",
+      "row3P1": "Meie tarnemudel sisaldab automaatse üksuse, integratsiooni ja täieliku regressioonitesti koos konteineriseeritud CI/CD töövoogudega (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Läbipaistvate sprintidemode, reaalajas jälgitavuse ja verstapostipõhise kiirusega tagame kiire turuletuleku aja, ilma et see ohustaks turvalisust, stabiilsust või kasutuskogemust.",
+      "row4Eyebrow": "Juurutamine ja tugi",
+      "row4Title": "Usaldusväärne 24/7 töö ja pikaajaline areng",
+      "row4P1": "Otseülekanne on alles algus. Pakume ennetavat jälgimist, SLA-ga toetatud hooldust, pilveinfrastruktuuri optimeerimist, jõudluse häälestamist ja pidevat funktsioonide juurutamist.",
+      "row4P2": "Meie insenerimeeskond toimib teie organisatsiooni loomuliku laiendusena, tagades teie turul nullseisuaja ja pideva tehnoloogilise üleoleku.",
+      "pillarsTitle": "Põhivõimalused",
+      "pillarsSub": "Täielikud täispunni võimalused, mis on loodud teie ideede nullist tootmiseni viimiseks.",
+      "pillar1Title": "Nõuded Tehnika",
+      "pillar1Desc": "Põhjalik ärianalüüs, funktsionaalsed spetsifikatsioonid ja kasutajate teekonna kaardistamine lahenduste täpsete piiride määratlemiseks.",
+      "pillar2Title": "Lahendusarhitektuur",
+      "pillar2Desc": "Skaleeritavad pilvepõhised arhitektuurid, andmebaasi modelleerimine, mikroteenuste disain ja null-usaldusalused.",
+      "pillar3Title": "Rakenduste arendus",
+      "pillar3Desc": "Kaasaegsed täispinulised veebi- ja mobiilirakendused, mis on loodud puhta koodi, tüübiohutuse ja reaktiivse kasutajaliidese standarditega.",
+      "pillar4Title": "API integreerimine",
+      "pillar4Desc": "Suure läbilaskevõimega REST/GraphQL API-d, veebihaagi orkestratsioonid, makselüüsid ja sujuv kolmanda osapoole ERP/CRM-i sünkroonimine.",
+      "ctaTitle": "Kas olete valmis oma lahendust loomisest kasutuselevõtuni välja töötama?",
+      "ctaSub": "Tehke koostööd ettevõttega Rezonants, et kujundada, projekteerida ja juurutada oma kohandatud digitaalset platvormi alates ärinõuetest kuni tootmisreaalsuseni.",
+      "ctaButton": "Broneerige lahenduskonsultatsioon",
+      "pillar5Title": "Kvaliteedi tagamine",
+      "pillar5Desc": "Range testimise automatiseerimine, koormus-/pingetestimine, haavatavuse skaneerimine ja regressioonitestide komplektid.",
+      "pillar6Title": "DevOps ja juurutamine",
+      "pillar6Desc": "Automatiseeritud CI/CD torujuhtmed, konteinerite orkestreerimine (Docker/K8s), infrastruktuur koodina ja ilma seisakuta väljalasked.",
+      "pillar7Title": "Tugi ja hooldus",
+      "pillar7Desc": "Ööpäevaringne proaktiivne jälgimine, tervise telemeetria, jõudlusauditid, turvapaigad ja pidev SLA hooldus.",
+      "pillar8Title": "Pidev innovatsioon",
+      "pillar8Desc": "Regulaarne funktsioonide kiirus, andmeanalüütika integreerimine, AI täiustamine ja arhitektuuri moderniseerimine."
+    },
+    "processAutomation": {
+      "eyebrow": "Intelligentsed protsessitoimingud",
+      "titlePart1": "Äriprotsess",
+      "titlePart2": "Automatiseerimine",
+      "description": "Ettevõtte töövoogude täielik automatiseerimine, mis ühendab robotprotsesside automatiseerimise (RPA), intelligentse dokumenditöötluse, ärireeglite mootorid ja süsteemiintegratsiooni.",
+      "bookDiscovery": "Raamatute automatiseerimise avastamine",
+      "exploreFramework": "Uurige lahenduste raamistikku",
+      "coreCapabilities": [
+        "Töövoo automatiseerimine",
+        "Robotprotsesside automatiseerimine",
+        "Dokumentide töötlemine",
+        "Integratsioonitehnika",
+        "Ärireeglid Mootorid",
+        "Protsessianalüüs",
+        "Pidev optimeerimine",
+        "Pärandintegratsioon"
+      ],
+      "row1Eyebrow": "Robotprotsesside automatiseerimine",
+      "row1Title": "Intelligentsed robotid suure mahuga operatsioonide jaoks",
+      "row1P1": "Likvideerige korduv käsitsi andmete sisestamine, süsteemidevaheline vastavusseviimine ja dokumentide suunamine. Juurutame ettevõtte RPA roboteid, mis täidavad struktureeritud ülesandeid ööpäevaringselt ilma veamäärata.",
+      "row1P2": "Pärand töölaualiideste, SAP/ERP taustasüsteemide ja pilvandmebaaside ühendamisega vabastavad tarkvararobotid teie meeskonna keskenduma strateegilistele ärialgatustele.",
+      "row2Eyebrow": "Arukas dokumenditöötlus",
+      "row2Title": "OCR, masinõpe ja dokumendi AI",
+      "row2P1": "Automaatne arvete, lepingute, isikut tõendavate dokumentide ja nõuete andmete allaneelamine, klassifitseerimine ja väljavõte. Meie tehisintellekti juhitud torujuhtmed kinnitavad välju sisemiste andmebaaside suhtes ja käivitavad automatiseeritud kinnitamise töövood.",
+      "row2P2": "Saavutage otsetöötluskiirus, mis ületab 95%, vähendades samal ajal drastiliselt töötlemisaega päevadest sekunditeni.",
+      "row3Eyebrow": "Protsessi orkestreerimine",
+      "row3Title": "Platvormidevaheline sünkroonimine",
+      "row3P1": "Ühendage CRM-i, ERP-i, HRMS-i ja panganduse API-d ühtseteks reaalajas andmevoogudeks. Rakendame sündmustepõhiseid päästikuid, sõnumijärjekordi ja automatiseeritud varukäsitlejaid.",
+      "row3P2": "Teave liigub sujuvalt üle osakondade ilma inimese sekkumiseta, kõrvaldades töösilod ja sideviivitused.",
+      "row4Eyebrow": "Pidev telemeetria",
+      "row4Title": "Reaalajas protsessianalüüs ja Kaizen Insights",
+      "row4P1": "Jälgige protsesside täitmisaegu, kitsaskohtade soojuskaarte, veasagedusi ja rahalist ROI-d reaalajas juhtivatel armatuurlaudadel.",
+      "row4P2": "Pidev masinõppe diagnostika avastab uusi automatiseerimisvõimalusi, hoides teie ettevõtet maksimaalse efektiivsusega.",
+      "pillarsTitle": "Automatiseerimise tugisambad",
+      "pillarsSub": "Tõestatud ehitusplokid intelligentseks ettevõtte toimimiseks.",
+      "pillar1Title": "Töövoo automatiseerimine",
+      "pillar1Desc": "Mitmeastmelised in-the-loop ja digitaalsed töövood, mis on korraldatud automatiseeritud marsruutimise ja eskalatsioonidega.",
+      "pillar2Title": "Robotprotsesside automatiseerimine",
+      "pillar2Desc": "Reeglipõhised tarkvararobotid, mis täidavad rutiinseid andmesisestus-, kooskõlastus- ja rakendusüleseid ülesandeid.",
+      "pillar3Title": "Intelligentne AI automatiseerimine",
+      "pillar3Desc": "Kognitiivsed AI agendid, mis tõlgendavad konteksti, võtavad kokku struktureerimata teksti ja teevad automatiseeritud otsuseid.",
+      "pillar4Title": "Protsessi optimeerimine",
+      "pillar4Desc": "Protsessi kaevandamine, kitsaskohtade tuvastamine ja Kaizeni töövood, mis vähendavad pidevalt tegevuskulusid.",
+      "ctaTitle": "Kas olete valmis oma ettevõtte töövooge automatiseerima?",
+      "ctaSub": "Võtke ühendust meie automatiseerimisarhitektidega, et tuvastada kõrge investeeringutasuvuse võimalused ja juurutada intelligentsed digitaalsed töövood.",
+      "ctaButton": "Broneerige automaatikakonsultatsioon"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Tehniline standard ning teadus- ja arendustegevus",
+      "titlePart1": "Keskus",
+      "titlePart2": "Suurepärane",
+      "description": "Vanemarhitektide ja valdkonnaspetsialistide tsentraliseeritud organisatsioon, mis on pühendunud inseneritavade standardimisele, innovatsiooni edendamisele ja digitaalsete algatuste kiirendamisele.",
+      "exploreStandards": "Tutvuge inseneristandarditega",
+      "initiateAssessment": "Algatage Euroopa Nõukogu hindamine",
+      "coreCapabilities": [
+        "Arhitektuuristandardid",
+        "Korduvkasutatavad raamid",
+        "Heade tavade valitsemine",
+        "Oskuste arendamine",
+        "Kvaliteedi võrdlusuuringud",
+        "Teadus- ja arendustegevus ning innovatsioon",
+        "Tehnoloogia hindamine",
+        "Projektidevaheline juhend"
+      ],
+      "uptimeLabel": "Ettevõtte tööaeg",
+      "engineersLabel": "Insenerid ja arhitektid",
+      "deploymentsLabel": "AI ja pilve juurutused",
+      "satisfactionLabel": "Kliendi rahulolu",
+      "row1Eyebrow": "Sammas 01 – Tehniline standard",
+      "row1Title": "Suure jõudlusega tarkvaratehnika",
+      "row1P1": "Meie tippkeskus kehtestab standardiseeritud disainimustrid, range automatiseeritud testimise ja defektideta koodide ülevaatamise tavad, mis kiirendavad turule jõudmist, hoides samal ajal tehnilised võlad nullis.",
+      "row1F1": "Automatiseeritud CI/CD väljalaskekonveierid koos DORA mõõdikute analüüsiga",
+      "row1F2": "Ranged arhitektuuriülevaate nõukogud ja mikroteenuste juhtimine",
+      "row1F3": "Pidev turvavärk ja haavatavuse automaatne parandamine",
+      "row1Btn": "Õppige inseneristandardeid",
+      "row1Tag": "DevOps ja kvaliteeditehnoloogia",
+      "row2Eyebrow": "Sammas 02 – Teadus- ja arendustegevuse innovatsioon",
+      "row2Title": "AI innovatsioonilabor ja arenev tehnoloogia",
+      "row2P1": "Katsetame moodsate masinõppemudelite, kohandatud tehisintellekti agentide ja intelligentse töövoo automatiseerimisega, et luua järgmise põlvkonna ettevõttetooteid.",
+      "row2F1": "Ettevõtte generatiivne AI ja RAG teadmiste integreerimine",
+      "row2F2": "Autonoomsed AI agendi töövood äriprotsesside automatiseerimiseks",
+      "row2F3": "Kohandatud masinõppe mudeli optimeerimine ja peenhäälestus",
+      "row2Btn": "Avastage AI Lab",
+      "row2Tag": "Tehisintellekt ja neuraalne uurimis- ja arendustegevus",
+      "row3Eyebrow": "Sammas 03 — Infrastruktuur",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Kujundame ja haldame vastupidavaid mitme pilve keskkondi, mis on üles ehitatud null-usaldusraamistikule, tagades, et teie andmed on kaitstud arenevate ülemaailmsete küberohtude eest.",
+      "row3F1": "AWS-i, Azure'i ja GCP mitme pilve infrastruktuuri orkestreerimine",
+      "row3F2": "Null-usaldusvõrgu juurdepääs (ZTNA) ja rollipõhised IAM-poliitikad",
+      "row3F3": "Automatiseeritud konteineri turvaskaneerimine ja salahaldus",
+      "row3Btn": "Avastage pilve ja turvalisust",
+      "row3Tag": "Pilvearhitektuur ja null-usaldus",
+      "pillarsTitle": "Meie tipptasemel põhiraamistikud",
+      "pillarsSub": "Süstematiseeritud arendusjuhendid, mis toidavad missioonikriitilisi platvorme.",
+      "pillar1Title": "Arhitektuuriülevaate nõukogu (ARB)",
+      "pillar1Desc": "Põhjalik järelevalve, mis tagab, et kõik ettevõtte lahendused on kooskõlas rangete mastaapsuse, turvalisuse ja vastavusprotokollidega.",
+      "pillar2Title": "Korduvkasutatavad kiirendid ja komponentide kogu",
+      "pillar2Desc": "Patenditud disainisüsteemid, API stardikomplektid ja taustaprogrammi mikroteenuste mallid vähendavad esialgset arendusaega 40%.",
+      "pillar3Title": "Pidev jõudluse profileerimine",
+      "pillar3Desc": "Täiustatud reaalajas vaadeldavuse torujuhtmed, mis jälgivad rakenduse latentsust, läbilaskevõime kitsaskohti ja pilveressursside kasutamist.",
+      "pillar4Title": "Talendi oskuste tõstmine ja gildid",
+      "pillar4Desc": "Struktureeritud sise gildid ja sertifikaadid, mis arendavad sügavaid tehnilisi oskusi pilve, DevOpsi ja rakendusliku tehisintellekti valdkonnas.",
+      "ctaTitle": "Tõstke oma tehnikastandardit",
+      "ctaSub": "Tehke koostööd Rezonantsi tippkeskusega, et luua vastupidavaid pilvarhitektuure, automatiseerida töövooge ja kiirendada digitaalsete toodete tarnimist.",
+      "ctaButton": "Planeerige juhi konsultatsioon",
+      "badge": "REZONANTS COE",
+      "scroll": "Kerige",
+      "p1Title": "Juhtimine ja raamistikud",
+      "p1Desc": "Kehtestada kogu ettevõtet hõlmav arhitektuuriline juhtimine, poliitikapiirded ja vastavusstandardid.",
+      "p1Tag": "Juhtimine",
+      "p2Title": "Tehnoloogiastandardid ja arhitektuur",
+      "p2Desc": "Määratlege kaasaegsed võrdlusarhitektuurid, kontrollitud tehnoloogiavirnad ja mikroteenuste mustrid.",
+      "p2Tag": "Arhitektuur",
+      "p3Title": "Korduvkasutatavad varad ja raamatukogud",
+      "p3Desc": "Kiirendage arenduskiirust jagatud komponentide, mallide, stardikomplektide ja disainisüsteemidega.",
+      "p3Tag": "Taaskasutatavus",
+      "p4Title": "Pädevuste arendamine",
+      "p4Desc": "Struktureeritud koolitus, tehniline juhendamine ja oskuste võimaldamine meeskonna inseneri võimekuse tõstmiseks.",
+      "p4Tag": "Pädevus",
+      "p5Title": "Innovatsioon ja arenev tehnoloogia",
+      "p5Desc": "Tehisintellekti agentide, automatiseerimistorustike ja järgmise põlvkonna raamistike uurimis- ja arendustegevus turueelise säilitamiseks.",
+      "p5Tag": "Innovatsioon",
+      "p6Title": "Pidev täiustamine",
+      "p6Desc": "Andmepõhised tehnilised mõõdikud (DORA), SLA võrdlusuuringud ja pidev kvaliteedi optimeerimine.",
+      "p6Tag": "Kvaliteet"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Kohandatud digitaaltehnika",
+      "titlePart1": "Kohandatud arendus ja",
+      "titlePart2": "Kohandamine",
+      "description": "Rakenduste, platvormide, töövoogude ja ettevõttelahenduste arendamine ja täiustamine, et rahuldada ainulaadseid ärinõudeid ja pakkuda kohandatud funktsioone.",
+      "bookConsultation": "Broneerige konsultatsioon",
+      "exploreCapabilities": "Tutvuge võimalustega",
+      "coreCapabilities": [
+        "Kohandatud arendus",
+        "Platvormi konfiguratsioon",
+        "Laiendused",
+        "Kohandatud töövood",
+        "API arendus",
+        "Süsteemi integreerimine",
+        "UI/UX täiustused",
+        "Toimivuse optimeerimine"
+      ],
+      "row1Eyebrow": "KOHALDATUD FUNKTSIOONSUS",
+      "row1Title": "Teie töövoo jaoks loodud eritellimusel funktsioonid",
+      "row1P1": "Standardne ettevõttetarkvara ei vasta sageli ettevõtte erivajadustele. Meie kohandatud insenerimeeskond töötab välja eritellimusel kohandatud rakendusmooduleid, kohandatud ärireegleid ja spetsiaalseid laiendusi, mis on kohandatud teie tegevusele.",
+      "row1P2": "Alates kohandatud CRM-i ja ERP täiustustest kuni spetsiaalsete operatiivportaalideni loome funktsioone, mis sobivad sujuvalt teie meeskonna täpsete töövoomustritega.",
+      "row2Eyebrow": "ETTEVÕTESÜSTEEMI INTEGRATSIOON",
+      "row2Title": "Platvormi konfigureerimine ja API arendus",
+      "row2P1": "Ühendage erinevad tarkvarasüsteemid ühtseks digitaalseks ökosüsteemiks. Töötame välja kohandatud REST ja GraphQL API-d, veebihaagi töötlejad ja ettevõtte sõnumijärjekorrad, et tagada andmete reaalajas sünkroonimine kõigil teie platvormidel.",
+      "row2P2": "Olenemata sellest, kas integreerime kolmanda osapoole SaaS-i tööriistu või laiendame ettevõttesiseseid platvorme, seavad meie integreerimisarhitektuurid esikohale andmete terviklikkuse, läbilaskevõime ja tööseisakuteta.",
+      "row3Eyebrow": "UI/UX JA JÕUDLUS",
+      "row3Title": "UI/UX täiustused ja jõudluse optimeerimine",
+      "row3P1": "Täiustage pärandliideseid kaasaegsete, tundlike kasutajakogemustega, mis on loodud kiiruse ja selguse tagamiseks. Me kujundame kasutajaliidesed ümber intuitiivsete disainimustrite, juurdepääsetavuse vastavuse ja sujuvamate interaktsioonimudelitega.",
+      "row3P2": "Paralleelselt optimeerivad meie jõudlusinsenerid andmebaasipäringuid, vahemällu salvestamise strateegiaid ja kasutajaliidese komplektide suurusi, et pakkuda kõigis seadmetes kiireid reageerimisaegu.",
+      "pillarsTitle": "Loodud teie täpsete spetsifikatsioonide järgi",
+      "pillarsSub": "Ettevõtlustaseme kohandamismeetodid, mis on loodud sujuvaks skaleerimiseks.",
+      "pillar1Title": "Kohandatud töövood ja laiendused",
+      "pillar1Desc": "Kohandatud rakendusloogika ja automatiseeritud olekumasinad, mis on konfigureeritud spetsiaalselt teie sisemiste tööreeglite järgi.",
+      "pillar2Title": "API ja süsteemiintegratsioon",
+      "pillar2Desc": "Turvalised, autentitud andmesillad, mis ühendavad patenteeritud taustaprogramme, ERP-komplekte, makselüüsi ja pilveteenuseid.",
+      "pillar3Title": "Platvormi konfiguratsioon",
+      "pillar3Desc": "Sügavad arhitektuurilised kohandused, mis muudavad ettevõtte tarkvara ilma versiooniuuendusteid või müüja tugilepinguid rikkumata.",
+      "pillar4Title": "Toimivuse optimeerimine",
+      "pillar4Desc": "Agressiivne päringuprofiilide koostamine, mälulekke kõrvaldamine ja CDN-i servade jaotus lehtede allalaadimiseks.",
+      "ctaTitle": "Kas olete valmis oma ettevõtte platvormi kohandama?",
+      "ctaSub": "Võtke ühendust meie lahenduste arhitektidega, et kujundada ja juurutada kohandatud mooduleid, töövooge ja integratsioone, mis on kohandatud teie ettevõtte vajadustele.",
+      "ctaButton": "Broneerige kohandamiskõne",
+      "badge": "Kohandatud digitaaltehnoloogia",
+      "viewAllServices": "Vaata kõiki teenuseid"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Ettevõtte moderniseerimine",
+      "titlePart1": "Digitaalne",
+      "titlePart2": "Transformatsioon",
+      "description": "Äriprotsesside, tehnoloogiliste arhitektuuride ja tegevusmudelite põhjalik moderniseerimine, et suurendada organisatsiooni paindlikkust, tegevuse tõhusust ja jätkusuutlikku digitaalset kasvu.",
+      "startTransformation": "Alustage ümberkujundamist",
+      "exploreStrategy": "Tutvuge strateegiaga",
+      "coreCapabilities": [
+        "Strateegia ja tegevuskava",
+        "Arhitektuuri moderniseerimine",
+        "Pilv ja infrastruktuur",
+        "Andmed ja analüüs",
+        "Protsessi digiteerimine",
+        "Kliendikogemus",
+        "Muudatuste juhtimine",
+        "Agiilsed töömudelid"
+      ],
+      "row1Eyebrow": "Strateegia ja tegevuskava",
+      "row1Title": "Visioonist teostatava teekaardini",
+      "row1P1": "Teeme koostööd ettevõtete juhtidega, et määratleda digitaalstrateegia, ärijuhtumid ja etapiviisilised tegevusplaanid kiirete võitude ja riskivaba täitmisega.",
+      "row1P2": "Prioriteetsed algatused, TCO-mudelid ja KPI-d tagavad, et iga tehnoloogia moderniseerimine on otseselt seotud tulude, tõhususe ja klientide rahulolu tulemustega.",
+      "row2Eyebrow": "Pärand moderniseerimine",
+      "row2Title": "Moderniseerige äri rikkumata",
+      "row2P1": "Muutke monoliidid mikroteenusteks, API-deks ja pilvepõhisteks mustriteks koos null-seisakuaja katkestamise ja automaatse regressioonivalideerimisega.",
+      "row2P2": "Moderniseerime rakendusi, andmebaase ja integratsioonikihte, säilitades samas vastavuse ja turvalisuse.",
+      "row3Eyebrow": "Pilv, AI ja andmed",
+      "row3Title": "Pilve kasutuselevõtt ja andmepõhine intelligentsus",
+      "row3P1": "Autonoomsete otsuste tegemiseks võtke kasutusele AWS, Azure ja GCP, looge kaasaegsed andmekanalid ja manustage masinõppeagente.",
+      "row3P2": "Alates sündmuste reaalajas voogesitusest kuni ühtsete armatuurlaudadeni muutub ümberkujundamine mõõdetavaks ja jätkusuutlikuks.",
+      "row4Eyebrow": "Kliendikogemus",
+      "row4Title": "Kaasaegsed omnikanali kogemused",
+      "row4P1": "Kujundage isikupärastatud liidestega ümber klienditeekonnad tundlikes veebi-, iOS-i, Androidi- ja iseteenindusportaalides.",
+      "row4P2": "Platvormitehnoloogia, telemeetria ja automatiseeritud tagasisideahelad muudavad digitaalse innovatsiooni pidevaks.",
+      "pillarsTitle": "Ümberkujundamise sambad",
+      "pillarsSub": "Tulemustele suunatud hoovad, mis tagavad jätkusuutliku digitaalse juhtimise.",
+      "pillar1Title": "Digistrateegia ja -juhtimine",
+      "pillar1Desc": "Etapiviisilised teisendusplaanid koos ärijuhtumite modelleerimise, arhitektuuri juhtimise ja verstapostide riskide jälgimisega.",
+      "pillar2Title": "Pilve- ja andmeplatvorm",
+      "pillar2Desc": "AWS/Azure/GCP mitme pilve sihtasutused, automatiseeritud torujuhtmed ja ettevõtte andmeanalüütika lubamine.",
+      "pillar3Title": "AI ja automatiseerimine",
+      "pillar3Desc": "Arukas protsesside automatiseerimine, kognitiivsed AI agendid ja ennustav telemeetria igapäevaste toimingute optimeerimiseks.",
+      "pillar4Title": "Kliendikogemus",
+      "pillar4Desc": "Suure konversiooniga mitmekanalilised digitaalsed portaalid ja isikupärastatud liidesed, mis on loodud kasutaja maksimaalseks säilitamiseks.",
+      "ctaTitle": "Kas olete valmis oma ettevõtet ümber kujundama?",
+      "ctaSub": "Olge partner ettevõttega Rezonants etapiviisilise, riskivaba digitaalse transformatsiooni jaoks, mis on seotud mõõdetavate äritulemustega.",
+      "ctaButton": "Broneerige digitaalse ümberkujundamise kõne",
+      "bookWorkshop": "Raamatute ümberkujundamise töötuba",
+      "exploreFramework": "Uurige lahenduste raamistikku",
+      "coreCapabilitiesTitle": "Põhivõimalused"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Tehnoloogia täielik elutsükkel",
+      "titlePart1": "Otsast lõpuni lahendus",
+      "titlePart2": "Raamistik",
+      "description": "Struktureeritud, kogu elutsüklit hõlmav tarneraamistik, mis hõlmab ärinõudeid, arhitektuuri disaini, inseneritööd, integratsiooni, kvaliteedi tagamist, pilve juurutamist ja hallatud toiminguid.",
+      "startJourney": "Alustage oma projekti",
+      "exploreFramework": "Uurige raamistikku",
+      "coreCapabilities": [
+        "Nõuete analüüs",
+        "Arhitektuur Disain",
+        "Full-stack arendus",
+        "Integratsioonitehnika",
+        "Kvaliteedi tagamine",
+        "Juurutamine ja juurutamine",
+        "Käimasolevad toimingud",
+        "Pidev areng"
+      ],
+      "row1Eyebrow": "Strateegia ja arhitektuur",
+      "row1Title": "Nõuded Tehnika ja lahenduste projekteerimine",
+      "row1P1": "Koostöötoad, äridomeeni kaardistamine ja pilvearhitektuuri spetsifikatsioonid, mis on loodud riskide kõrvaldamiseks enne koodirea kirjutamist.",
+      "row1P2": "Määratleme andmemudelid, turberaamistikud ja mastaapsuse verstapostid, mis loovad pikaajalise edu.",
+      "row2Eyebrow": "Tehnika ja kvaliteet",
+      "row2Title": "Täielik arendus ja automatiseeritud testimine",
+      "row2P1": "Modulaarsed mikroteenused, tüübikindlad API-liidesed ja reageerivad esiliidesed koos automaatse üksuse, integratsiooni ja turvakontrolliga.",
+      "row2P2": "Pidev integreerimise torujuhtmed GitHub Actionsi, Terraformi ja automatiseeritud turvapiiretega.",
+      "row3Eyebrow": "Juurutamine ja toimingud",
+      "row3Title": "Pilve juurutamine ja ööpäevaringne hallatud jälgimine",
+      "row3P1": "Mitme pilve orkestreerimine AWS-is/Azure'is/GCP-s koos automaatse tagasipööramise, ilma seisakuaja katkestamise ja reaalajas jälgitavusega.",
+      "row3P2": "Pakume SLA-ga toetatud hooldust ja pidevat telemeetria jälgimist, et teie toodet sujuvalt edasi arendada.",
+      "row4Eyebrow": "Ettevõtte juhtimine",
+      "row4Title": "Ühtne juhtimine ja pidev tugi",
+      "row4P1": "Ühepunktiline vastutus kogu teie digitaalse virna ulatuses – läbipaistev sprindikiirus, prognoositav eelarvestamine ja pidev innovatsioon.",
+      "row4P2": "Regulaarne funktsioonide kasutuselevõtt ja moderniseerimistsüklid hoiavad teie ettevõtte konkurentidest ees.",
+      "pillarsTitle": "Elutsükli raamistiku sambad",
+      "pillarsSub": "Iga etapp on projekteeritud ettevõtte rangusega.",
+      "pillar1Title": "Strateegia ja nõuded",
+      "pillar1Desc": "Domeeni avastamine, arhitektuursed teekaardid ja sidusrühmade vastavusse viimine täitmisriskide kõrvaldamiseks.",
+      "pillar2Title": "Arhitektuur ja ehitamine",
+      "pillar2Desc": "Elastsed pilvepõhised mikroteenused, API integratsioonid ja pidev kvaliteedikontrolli testimine.",
+      "pillar3Title": "Turvalisus ja juurutamine",
+      "pillar3Desc": "Null-usaldusvastavus, konteinerväljalasked ja automatiseeritud pilvekasutused.",
+      "pillar4Title": "Juhtimine ja tugi",
+      "pillar4Desc": "24/7 SLA jälgimine, tervise telemeetria ja pidev arenev inseneritöö.",
+      "ctaTitle": "Kas vajate täielikku elutsükli partnerit?",
+      "ctaSub": "Meile kuulub kogu tehnoloogia elutsükkel, et teie meeskond saaks keskenduda põhitegevuse tulemustele.",
+      "ctaButton": "Partner kogu elutsükli jaoks"
+    },
+    "migrationServices": {
+      "eyebrow": "Pilve ja infrastruktuuri ümberkujundamine",
+      "titlePart1": "Ränne ja",
+      "titlePart2": "Moderniseerimine",
+      "description": "Pärandrakenduste, andmebaaside ja infrastruktuuri turvaline, struktureeritud migreerimine kaasaegsetele pilvarhitektuuridele koos pideva moderniseerimisega, et suurendada paindlikkust ja tõhusust.",
+      "bookAssessment": "Raamatute rände hindamine",
+      "exploreStrategy": "Tutvuge pilvestrateegiaga",
+      "coreCapabilities": [
+        "Pilvede migratsioon",
+        "Rakenduste moderniseerimine",
+        "Andmebaasi migratsioon",
+        "Infrastruktuuri ümberhostimine",
+        "Konteinerimine",
+        "Mikroteenuste üleminek",
+        "Toimivuse optimeerimine",
+        "Turvalisus ja vastavus"
+      ],
+      "row1Eyebrow": "Pilvede migratsioon",
+      "row1Title": "Mitme pilve strateegia ja tõstmine ja optimeerimine",
+      "row1P1": "Sujuv töökoormuse migreerimine AWS-i, Azure'i ja Google Cloudi vahel koos automaatse avastamise, laineplaneerimise ja äritegevuse katkestusteta.",
+      "row1P2": "Tasakaalustame ümberhostimist, ümberplatvormimist ja ümberkujundamist, et optimeerida kogu omamise kulu (TCO) ja paindlikkust.",
+      "row2Eyebrow": "Andmete ja andmebaaside migratsioon",
+      "row2Title": "Turvaline ETL ja automatiseeritud andmete valideerimine",
+      "row2P1": "Automatiseeritud andmebaasi replikatsioon, skeemi tõlkimine ja suure läbilaskevõimega ETL-konveierid 100% andmete terviklikkuse kontrolliga.",
+      "row2P2": "Seisakuteta peatamisproov tagab andmete täieliku järjepidevuse ja äritegevuse järjepidevuse.",
+      "row3Eyebrow": "Platvormi moderniseerimine",
+      "row3Title": "Konteinerimine ja Kubernetese orkestreerimine",
+      "row3P1": "Moderniseerige pärandmonoliidid skaleeritavateks mikroteenusteks, mis on korraldatud Kubernetese (EKS, AKS, GKE) kaudu automatiseeritud IaC joonistega.",
+      "row3P2": "Migratsioonijärgne jõudluse profileerimine ja kulude optimeerimine tagavad kohese ROI.",
+      "row4Eyebrow": "Läbilõike planeerimine",
+      "row4Title": "Automatiseeritud testimine ja turvavõrgud",
+      "row4P1": "Võitlustestitud ülelõikamisraamatud, automatiseeritud regressioonikomplektid ja kiire tagasipööramise mehhanismid täieliku meelerahu tagamiseks.",
+      "row4P2": "Migratsioonijärgne tervisetelemeetria ja 24/7 hüperhooldus tagavad veatu tootmise stabiilsuse.",
+      "pillarsTitle": "Migratsioonitagatised",
+      "pillarsSub": "Riskivaba käigud, mida toetavad ettevõtte SLA-d.",
+      "pillar1Title": "Null-seisakuaeg",
+      "pillar1Desc": "Canary versioonid ja andmebaasi kahekirjutusega sünkroonimine, et tagada kasutajate katkematu juurdepääs.",
+      "pillar2Title": "Automatiseeritud andmete valideerimine",
+      "pillar2Desc": "Kontrollsummade võrdlused, skeemi terviklikkuse auditid ja automatiseeritud ETL-i vastavusse viimine.",
+      "pillar3Title": "Tagasipööratavad turvavõrgud",
+      "pillar3Desc": "Ranged avariitaasteprotokollid ja prooviharjutused, et igas etapis riske hoida.",
+      "pillar4Title": "Toimivuse ja kulude optimeerimine",
+      "pillar4Desc": "Kaasas pilve õigusstamine, automaatse skaleerimise eeskirjad ja kulude juhtimise armatuurlauad.",
+      "ctaTitle": "Kas olete valmis täie kindlusega rändama?",
+      "ctaSub": "Struktureeritud, riskivaba pilve- ja andmete moderniseerimiseks tehke koostööd Rezonantsiga.",
+      "ctaButton": "Planeerige oma migratsiooni töötuba"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Kiire valideerimine ja teostatavus",
+      "titlePart1": "Kontseptsiooni tõend (PoC) &",
+      "titlePart2": "Pilootrakendus",
+      "description": "Tehnoloogiliste lahenduste kiire arendamine ja valideerimine, et hinnata tehnilist teostatavust, äriväärtust, integratsiooninõudeid, jõudlust ja mastaapsust enne täielikku rakendamist.",
+      "initiateDiscovery": "Käivitage PoC Discovery",
+      "exploreDevelopment": "Tutvuge kohandatud arendusega",
+      "coreCapabilities": [
+        "PoC arendus",
+        "Prototüüpide ehitus",
+        "Teostatavusuuringud",
+        "Arhitektuuri valideerimine",
+        "Integratsiooni testimine",
+        "Tulemuslikkuse võrdlusuuringud",
+        "Pilootide kasutuselevõtt",
+        "Väärtuse hindamine"
+      ],
+      "row1Eyebrow": "Kiire valideerimine",
+      "row1Title": "Ideest kuni kinnitatud teostatavuseni",
+      "row1P1": "Idee muutmine ettevõtte mastaabis lahenduseks nõuab ranget eelkinnitamist. Meie PoC & Pilot teenus hindab tehnoloogia elujõulisust, testib kriitilisi integratsioonikonkse ja kinnitab ettevõtte ROI-d enne suuremaid kapitalikohustusi.",
+      "row1P2": "Ehitame kõrge täpsusega MVP-sid ja keskendunud liivakastipilootprojekte, mis tõestavad tehnilist teostatavust, mõõdavad süsteemi latentsust ja koguvad varakult otsest sidusrühmade kinnitust.",
+      "row1Cap": "Kiire MVP prototüüpimine ja tehnilised võrdlusalused",
+      "row2Eyebrow": "Agiilne prototüüpimine",
+      "row2Title": "Interaktiivsed MVP-d ja kasutajakogemuse valideerimine",
+      "row2P1": "Loome interaktiivseid traatkaare, klikitavaid kasutajavooge ja funktsionaalseid kontseptsioonide tõestusi päevade, mitte kuude jooksul. Testige tegelikku kasutajate suhtlust, viimistlege kasutajaliidese/UX-mustreid ja koguge sidusrühmadelt asjakohast tagasisidet.",
+      "row2P2": "Lühendades tagasisideahelaid varajase arenduse ajal, minimeerib teie meeskond ümbertegemist ja kehtestab selged tehnilised spetsifikatsioonid enne kapitalimahukate ehitusfaaside algust.",
+      "row2Cap": "Kiire iteratsioon ja klikitavad UX-i prototüübid",
+      "row3Eyebrow": "Integratsiooni ja skaleeritavuse testimine",
+      "row3Title": "Keeruliste süsteemiintegratsioonide riskide vähendamine",
+      "row3P1": "Avastage tehnilised kitsaskohad, API piirangud ja jõudluspiirangud enne täieliku kapitalikohustuse võtmist. Meie pilootprojektide meeskond testib integratsioone, andmetorusid ja kolmandate osapoolte API-sid isoleeritud liivakastikeskkondades.",
+      "row3P2": "See ennetav riskide maandamine tagab süsteemi kõrge kättesaadavuse, turbe vastavuse ja prognoositavad arendusajad teie PoC üleviimisel ettevõtte tootmisse.",
+      "row3Cap": "Liivakasti integreerimine ja stressitestimine",
+      "row4Eyebrow": "Kontrollitud tootmise piloot",
+      "row4Title": "Suunatud pilootide käivitamine ja ärijuhtumi kinnitamine",
+      "row4P1": "Juurutage sihitud pilootväljaandeid valitud kasutajasegmendile või testturule. Jälgige toimivusmõõdikuid, kasutajate kasutuselevõtu analüüse ja tegevuse tagasisidet, et mõõta äriväärtust ja luua andmetel põhinev ärijuhtum.",
+      "row4P2": "Tegevsponsorid saavad reaalse maailma pilootülevaadete abil selged ROI-mõõdikud, mis õigustavad laiemat kasutuselevõttu ja strateegilisi digitaalse ümberkujundamise investeeringuid.",
+      "row4Cap": "Kontrollitud juurutamise ja jõudluse telemeetria",
+      "pillarsTitle": "Meie pilooditehnika põhimõtted",
+      "pillarsSub": "Juhtpõhimõtted, mis muudavad tehnilise ebakindluse prognoositavaks ärieduks.",
+      "pillar1Title": "PoC ja MVP prototüüpimine",
+      "pillar1Desc": "Pakkuge kiiresti funktsionaalseid prototüüpe, et valideerida väärtuspakkumisi elutsükli alguses.",
+      "pillar2Title": "Teostatavus ja valideerimine",
+      "pillar2Desc": "Kontrollige API ühilduvust, läbilaskevõime lävesid ja vastavuspiiranguid liivakastikeskkondades.",
+      "pillar3Title": "Skaleeritavuse hindamine",
+      "pillar3Desc": "Simuleerige tootmiskoormust, et määrata võimsuspiirangud ja määrata pilvarhitektuuri suurus.",
+      "pillar4Title": "Ärijuhtumi kinnitamine",
+      "pillar4Desc": "Kvantifitseerige käegakatsutavaid ROI-d ja tootlikkuse mõõdikuid, et toetada ettevõtteüleseid levitamisotsuseid.",
+      "ctaTitle": "Kas olete valmis oma järgmist digitaalset lahendust valideerima?",
+      "ctaSub": "Võtke ühendust meie lahenduste insenerimeeskonnaga, et uurida oma projekti nõudeid, luua prototüüp ja testida teostatavust ilma riskita.",
+      "ctaButton": "Broneerige PoC konsultatsioon"
+    },
+    "sharedServices": {
+      "eyebrow": "Tsentraliseeritud operatsioonide keskus",
+      "titlePart1": "Ühisteenused ja",
+      "titlePart2": "Hallatud toimingud",
+      "description": "Tehnoloogia ja tegevusvõimaluste tsentraliseeritud tarnimine äriüksuste vahel standardiseeritud protsesside, kvalifitseeritud ressursside, juhtimisraamistike, teenusehalduse ja mõõdetavate teenusetasemete kaudu.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Uurige lahenduste raamistikku",
+      "coreCapabilities": [
+        "Hallatavad teenused",
+        "IT-toimingud",
+        "Rakenduste tugi",
+        "Teenuse haldus",
+        "Ressursi optimeerimine",
+        "SLA haldus",
+        "Juhtimine",
+        "Pidev täiustamine",
+        "Kulude optimeerimine"
+      ],
+      "row1Eyebrow": "Unified Delivery Hub",
+      "row1Title": "Standardsed teenused kõigis äriüksustes",
+      "row1P1": "Koondage back-office IT, infrastruktuuri haldamine ja tehniline tugi üheks tõhusaks tarnekeskuseks.",
+      "row1P2": "Kaotades dubleerivad meeskonna üldkulud ja standardiseerides teenuse osutamise mudeleid, tagab teie organisatsioon ühtlase kvaliteedi ja vähendab tegevuskulusid.",
+      "row2Eyebrow": "24/7 SRE ja rakenduste tugi",
+      "row2Title": "Proaktiivne seire ja vahejuhtumite kiire lahendamine",
+      "row2P1": "Meie pühendunud saidi töökindluse insenerid (SRE) ja tugispetsialistid pakuvad 24/7/365 telemeetria jälgimist, automaatset hoiatuste triaaži ja L1/L2/L3 probleemide kiiret lahendamist.",
+      "row2P2": "Rangete SLA kohustuste toel garanteerime teie missioonikriitiliste rakenduste ja pilveinfrastruktuuri 99,99% kättesaadavuse.",
+      "row3Eyebrow": "ITIL-i juhtimine ja vastavus",
+      "row3Title": "Struktureeritud teenusehaldusraamistikud",
+      "row3P1": "Rakendage tööstusharu juhtivaid ITSM-i standardeid (ServiceNow, Jira Service Management) koos läbipaistva piletimüügi, algpõhjuste analüüside ja muudatuste juhtimise kaitsepiiretega.",
+      "row3P2": "Põhjalikud kontrolljäljed ja juhtimispoliitikad tagavad, et teie tegevus vastab rahvusvahelistele turvastandarditele.",
+      "row4Eyebrow": "FinOps ja pidev täiustamine",
+      "row4Title": "Prognoositav eelarvestamine ja ressursside optimeerimine",
+      "row4P1": "Likvideerige pilve raiskamine, optimeerige arvutuste suurust ja automatiseerige tavapärane operatiivhooldus FinOpsi parimate tavade abil.",
+      "row4P2": "Igakuised läbipaistvusaruanded ja võimsuse prognoosid tagavad pideva tegevuskulude optimeerimise ja kõrge kapitaliefektiivsuse.",
+      "pillarsTitle": "Operatsioonisambad",
+      "pillarsSub": "Tõestatud tööhoovad ettevõtte töökindla mastaapsuse tagamiseks.",
+      "pillar1Title": "24/7 hallatud IT-toimingud",
+      "pillar1Desc": "Proaktiivne NOC-telemeetria, serverite parandamine, infrastruktuuri hooldus ja 99,99% tööaja garantii.",
+      "pillar2Title": "ITSM ja teeninduskeskus",
+      "pillar2Desc": "Tier 1/2/3 mitme kanaliga kasutajatugi, juhtumite marsruutimine ja struktureeritud piletilahenduse töövood.",
+      "pillar3Title": "SLA ja jõudluse juhtimine",
+      "pillar3Desc": "Lepinguga tagatud reageerimisajad, MTTR-i võrdlusalused ja läbipaistvad igakuised tulemusauditid.",
+      "pillar4Title": "FinOps ja kulude optimeerimine",
+      "pillar4Desc": "Pidev ressursside õige suuruse määramine, litsentside tagasinõudmine ja automaatne pilvekulude vähendamine.",
+      "ctaTitle": "Kas olete valmis oma hallatavaid toiminguid laiendama?",
+      "ctaSub": "Tehke koostööd Rezonantsiga, et pakkuda usaldusväärseid ööpäevaringselt hallatavaid teenuseid, mis optimeerivad kulusid ja kõrvaldavad tööseisakuid.",
+      "ctaButton": "Broneerige juhitud operatsioonide konsultatsioon",
+      "howItWorksHeading": "Tõestatud tee jagatud teenuste eduni"
+    },
+    "aiRobotics": {
+      "brand": "AI ja robootika",
+      "eyebrow": "Intelligentsed süsteemid",
+      "heroHeading": "AI ja robootika töötavad koos",
+      "intro": "Tehisintellekt (AI) ja robootika muudavad ettevõtete tegutsemisviisi, ühendades intelligentse otsustamise täiustatud automatiseerimisega. AI võimaldab masinatel andmeid analüüsida, mustreid õppida ja arukaid otsuseid langetada, samas kui robootika toob need võimalused füüsilisse maailma, et täita ülesandeid kiiresti, täpselt ja järjepidevalt.",
+      "section1Heading": "Loodud iga toimingu sujuvamaks muutmiseks",
+      "section1Text": "Meie tehisintellekti ja robootika lahendused aitavad organisatsioonidel toiminguid sujuvamaks muuta, vähendada käsitsi tööd ja tõsta tootlikkust erinevates tööstusharudes. Alates protsesside automatiseerimisest ja ennustavast analüütikast kuni nutika robootika ja intelligentsete süsteemideni pakume uuenduslikke tehnoloogiaid, mis suurendavad tõhusust, soodustavad majanduskasvu ja toetavad digitaalset transformatsiooni.",
+      "section2Heading": "Kus intelligents kohtub tegevusega",
+      "section2Text": "Iga suhtlust, otsust ja liikumist juhib üks ühendatud süsteem – see muudab andmed reaalajas tulemusteks.",
+      "footerTag": "Uuenduslik tehnoloogia digitaalseks muundamiseks"
+    },
+    "informationReporting": {
+      "brand": "Ettevõtte andmeplatvorm",
+      "heroTitle": "Info- ja aruandlussüsteemid",
+      "heroSubtitle": "Üks tõeallikas iga osakonna jaoks – loodud selleks, et muuta töötlemata tegevusandmed otsusteks, mida teie ettevõte saab täna tegutseda.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALÜÜSITUD",
+      "statusArchived": "ARHIVEERITUD",
+      "statusPending": "OOTEL",
+      "metricUptime": "Süsteemi tööaeg",
+      "metricSessions": "Aktiivsed seansid",
+      "metricReportsPerDay": "Aruanded / päev",
+      "metricEvents": "Igapäevased sisseelatud sündmused",
+      "metricReports": "Plaanitud aruanded",
+      "metricLatency": "API latentsus",
+      "unifiedPlatform": "Ühtne platvorm",
+      "analyticsSuite": "Analyticsi komplekt",
+      "reportingConsole": "Aruandluskonsool",
+      "businessOutcome": "Äritulemus",
+      "section1Heading": "Üks tsentraliseeritud süsteem iga olulise mõõdiku jaoks",
+      "section1P1": "Info- ja aruandlussüsteemid on olulised ärilahendused, mis võimaldavad organisatsioonidel koguda, hallata ja muuta andmeid tähenduslikuks ülevaateks. Need süsteemid integreerivad teavet mitmest osakonnast, tagades täpse, järjepideva ja reaalajas juurdepääsu kriitilistele äriandmetele. Pakkudes teabehalduseks tsentraliseeritud platvormi, saavad organisatsioonid parandada tegevuse nähtavust, tõhustada töövooge ja toetada strateegiliste otsuste tegemist ettevõtte kõigil tasanditel.",
+      "section1P2": "Need süsteemid kasutavad toimivuse jälgimiseks, põhimõõdikute jälgimiseks ja reaalajas aruannete loomiseks automatiseeritud aruandlust, analüütikat ja armatuurlaudu. Vähendades käsitsi tööd ja parandades andmete täpsust, saavad ettevõtted teha kiiremaid ja tõhusamaid otsuseid.",
+      "section2Heading": "Loodud nähtavuse, vastavuse ja ulatuse tagamiseks",
+      "section2Text": "Täiustatud nähtavuse, vastavuse ja koostööga võimaldavad teabe- ja aruandlussüsteemid organisatsioonidel optimeerida protsesse, parandada tootlikkust ja juhtida jätkusuutlikku ärikasvu konkurentsikeskkonnas.",
+      "ctaHeading": "Andke igale meeskonnale ettevõttest sama reaalajas pilt.",
+      "ctaText": "Vaadake, kuidas Nexus Data Systems saab koondada teie aruandluse üheks intelligentseks platvormiks.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Kõik õigused kaitstud.",
+      "navOverview": "Ülevaade",
+      "navCapabilities": "Võimalused",
+      "navImpact": "Mõju",
+      "navContact": "Võtke ühendust"
+    },
+    "managedServices": {
+      "subtitle": "Terviklikud hallatavad teenused teie ettevõttele"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Ärirakenduste moderniseerimine andmepõhise ettevõtte jaoks",
+      "excerpt": "Kuidas kaasaegne rakendusarhitektuur ja ühendatud andmed võivad parandada tegevuse tõhusust, mastaapsust ja ettevõtte nähtavust.",
+      "tag": "Ettevõtte ümberkujundamine",
+      "category": "ÄRI ÜLEMINE",
+      "summary": "Kaasaegne rakendus ja andmefond võivad aidata ettevõtetel tõhustada tegevust, ühendada ärisüsteeme ja luua paremat nähtavust oma tegevuses."
+    },
+    "artificial-intelligence": {
+      "title": "Kuidas tehisintellekt ettevõtte rakendusi ümber kujundab",
+      "excerpt": "Uurige, kuidas intelligentne automatiseerimine, tehisintellekti kaaspiloodid ja ennustav intelligentsus muutuvad osaks ettevõtte rakendustest, millele ettevõtted iga päev toetuvad.",
+      "tag": "Tehisintellekt",
+      "category": "Tehisintellekt",
+      "summary": "Uurige, kuidas intelligentne automatiseerimine, tehisintellekti kaaspiloodid ja ennustav intelligentsus muudavad igapäevase ettevõttetarkvara adaptiivseteks ja ennetavateks platvormideks."
+    },
+    "modern-erp": {
+      "title": "Ettevõtte ümberkujundamise kiirendamine kaasaegse ERP abil",
+      "excerpt": "Uurige, kuidas kaasaegsed ERP-platvormid ühendavad rahanduse, hanked, tarneahela ja äritegevuse ühtse digitaalse aluse kaudu.",
+      "tag": "Kaasaegne ERP",
+      "category": "MODERNNE ERP",
+      "summary": "Kaasaegne ERP-platvorm ühendab rahanduse, hanked, tarneahela ja äritegevused ühtseks reaalajas tegutsemismudeliks."
+    },
+    "cybersecurity": {
+      "title": "Kübervastupidavuse suurendamine ühendatud ettevõttes",
+      "excerpt": "Uurige, kuidas organisatsioonid saavad tugevdada turvalisust, kaitsta kriitilisi süsteeme ja valmistuda ohtudeks üha enam ühendatud keskkondades.",
+      "tag": "Küberturvalisus",
+      "category": "KÜBERTURVASTUS",
+      "summary": "Kuna ettevõtted integreerivad rohkem pilvesüsteeme, API-sid ja partnerite ökosüsteeme, tagab kübervastupidavus missioonikriitilistele toimingutele vastupanu kaasaegsetele ohtudele."
+    },
+    "cloud-modernization": {
+      "title": "Pilve pärandrakenduste moderniseerimine",
+      "excerpt": "Tutvuge praktilise lähenemisviisiga pärandrakenduste hindamiseks, moderniseerimiseks ja skaleeritavate ja turvaliste pilvarhitektuuride poole liikumiseks.",
+      "tag": "Pilv ja moderniseerimine",
+      "category": "PILV JA MODERNISERIMINE",
+      "summary": "Struktureeritud, pragmaatiline tegevuskava monoliitsete ettevõttesüsteemide hindamiseks, ümbertöötamiseks ja migreerimiseks elastseteks, hooldatavateks pilvarhitektuurideks."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "ÄRI ÜLEMINE",
+      "title": "Ärirakenduste moderniseerimine andmepõhise ettevõtte jaoks",
+      "subtitle": "Kaasaegne rakendus ja andmefond võivad aidata ettevõtetel tõhustada tegevust, ühendada ärisüsteeme ja luua paremat nähtavust oma tegevuses.",
+      "date": "september 2026",
+      "readTime": "7 min lugemist",
+      "imageCaption": "Ettevõtte tehnoloogia vaade – rakendusarhitektuur ja ühendatud andmed",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Ärirakendused",
+          "desc": "Erinevad pärand CRM-i, ERP-i ja osakondade tööriistad, mis töötavad silodes."
+        },
+        {
+          "title": "Mitu andmeallikat",
+          "desc": "Killutatud operatsioonitabelid, CSV väljavõtted ja ad-hoc skeemid."
+        },
+        {
+          "title": "Ühenduseta andmebaasid",
+          "desc": "Eraldatud kohapealsed ja koordineerimata pilvandmehoidlad."
+        },
+        {
+          "title": "Aruanded ja ärikasutajad",
+          "desc": "Käsitsi vastavusseviimine, vastuolulised arvutustabelid ja viivitatud aruandlus."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Ärirakendused",
+          "desc": "Põhilised tööplatvormid ja kaasaegsed reageerivad liidesed."
+        },
+        {
+          "title": "API / integratsioonikiht",
+          "desc": "Turvaline sündmustepõhine API lüüs, mis ühendab ettevõtte töövooge."
+        },
+        {
+          "title": "Andmeteenused",
+          "desc": "Ühtsed põhiandmete mudelid, torujuhtmed ja optimeeritud salvestusmootorid."
+        },
+        {
+          "title": "Analüütika ja aruandlus",
+          "desc": "Reaalajas telemeetria, semantilised mudelid ja automatiseeritud aruandlus."
+        },
+        {
+          "title": "Äriotsuste tegijad",
+          "desc": "Reaalajas töötavad armatuurlauad, mis tagavad ühtse juhi nähtavuse."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Ettevõtlusrakendused",
+          "purpose": "Äriprotsesside juhtimine"
+        },
+        {
+          "area": "API-sid",
+          "purpose": "Süsteemi integreerimine"
+        },
+        {
+          "area": "Andmebaasid",
+          "purpose": "Struktureeritud äriandmed"
+        },
+        {
+          "area": "Andmete integreerimine",
+          "purpose": "Mitme allika ühendamine"
+        },
+        {
+          "area": "Analüütika",
+          "purpose": "Ettevõtte ülevaade"
+        },
+        {
+          "area": "Pilve infrastruktuur",
+          "purpose": "Skaleeritavus ja paindlikkus"
+        },
+        {
+          "area": "Seire",
+          "purpose": "Töökindlus ja jõudlus"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Parem töönähtavus ristfunktsionaalsete üksuste vahel",
+        "Parem andmete järjepidevus ja üksainus ettevõtte tõe allikas",
+        "Vähendatud käsitsi aruandluskoormus ja andmete automaatne koostamine",
+        "Täiustatud rakenduse jõudlus ja vähenenud tehingute latentsus",
+        "Lihtsam süsteemiintegratsioon standardiseeritud turvaliste API-de kaudu",
+        "Suurem mastaapsus, et toetada orgaanilist kasvu ja omandamist",
+        "Parem alus tulevaseks innovatsiooniks ja luureandmete kasutuselevõtuks"
+      ],
+      "keyPerspectivePoints": [
+        "Äriprotsesside ja tegelike töövoogude mõistmine",
+        "Süsteemide ühendamine usaldusväärsete integratsioonistandardite kaudu",
+        "Andmete kvaliteedi, juhtimise ja põhiandmete mudelite parandamine",
+        "Rakenduste moderniseerimine ilma igapäevast tööd destabiliseerimata",
+        "Elastseks kasvuks sobiva skaleeritava arhitektuuri loomine",
+        "Ettevõtluse parema nähtavuse võimaldamine ennetavate otsuste tegemiseks"
+      ],
+      "sec1Eyebrow": "ÄRIVÄLJAKUTSEMINE",
+      "sec1Heading": "Keerukuses navigeerimine kasvavas ettevõttes",
+      "sec1Subtext": "Ettevõtete laienedes laienevad paratamatult ka tehnoloogilised ökosüsteemid. See, mis algab üksikutele osakondadele suunatud lahendustest, võib areneda erinevate süsteemide sassis võrguks.",
+      "sec2Eyebrow": "SÜSTEEMI ARENG",
+      "sec2Heading": "Keeruline tehnoloogiamaastik",
+      "sec2Subtext": "Kui ärirakendused, andmebaasid ja operatsioonisüsteemid arenevad iseseisvalt, muutuvad teabevood killustatuks. Selle killustatuse mõistmine on kriitiline esimene samm.",
+      "sec3Eyebrow": "ÜHENDATUD MUDEL",
+      "sec3Heading": "Kaasaegne rakendusarhitektuur",
+      "sec3Subtext": "Ettevõtted liiguvad sündmustepõhise, API-põhise arhitektuuri poole, kus andmed liiguvad usaldusväärselt üle põhiplatvormide ja jõuavad otsustajateni reaalajas.",
+      "sec4Eyebrow": "INTELLIGENTSUS JA NÄHTAVUS",
+      "sec4Heading": "Ühendatud andmed ja analüüs",
+      "sec4Subtext": "Kui ärirakendused suhtlevad sujuvalt, lakkavad andmed olemast aruandluse kõrvalsaadus ja muutuvad operatiivse paindlikkuse peamiseks tõukejõuks.",
+      "sec5Eyebrow": "ARHITEKTUURI KAVA",
+      "sec5Heading": "Tehnoloogia Sihtasutus",
+      "sec5Subtext": "Põhjalik ülevaade põhilistest tehnoloogiavaldkondadest, mis moodustavad kaasaegse, skaleeritava ettevõtte aluse.",
+      "sec6Eyebrow": "KVALITATIIVNE VÄÄRTUS",
+      "sec6Heading": "Mõju ärile",
+      "sec6Subtext": "Rakenduste arhitektuuri moderniseerimine ja killustatud andmete ühendamine parandab kogu organisatsiooni käegakatsutavat tegevust.",
+      "ctaHeading": "Kas olete valmis oma tehnoloogiakeskkonda moderniseerima?",
+      "ctaDescription": "Uurige, kuidas kaasaegne rakendusarhitektuur, ühendatud andmed ja skaleeritav tehnoloogia võivad aidata organisatsioonidel tõhusust parandada ja tulevaseks kasvuks valmistuda.",
+      "ctaButton": "Rääkige meie ekspertidega",
+      "sec1P1": "Tüüpilises ettevõttekeskkonnas toob kasv sageli kaasa mitu põlvkonda tarkvara. Rahandus, tarneahel, klienditeenindus ja välioperatsioonid töötavad sageli erinevatel aegadel omandatud või ehitatud eraldi tarkvarapakkidel. Aastatepikkuse tööarengu jooksul arendavad need süsteemid välja oma andmevormingud, värskendavad kadentsi ja integreerimise veidrusi.",
+      "sec1P2": "Hõõrdumine ilmneb kogu ettevõttes ühiste tegevuse kitsaskohtade kaudu:",
+      "sec1List": [
+        {
+          "bold": "Mitu lahti ühendatud ärirakendust",
+          "text": ", mis nõuavad andmete dubleerimist ja käsitsi ristviidet."
+        },
+        {
+          "bold": "Ühenduse katkestatud andmebaasid",
+          "text": "töötab ilma tsentraliseeritud juhtimise või ühtsete põhiregistriteta."
+        },
+        {
+          "bold": "Käsitsi aruandluse üldkulud",
+          "text": ", kus analüütilised meeskonnad veedavad päevi, et kokku õmmelda eksporti, mitte avada teadmisi."
+        },
+        {
+          "bold": "Andmete ebakõlad",
+          "text": "osakondade lõikes, luues vastuolulisi vastuseid põhilistele tööküsimustele."
+        },
+        {
+          "bold": "Rakenduse hoolduse üldkulud ja mastaapsuse piirangud",
+          "text": ", kuna haprad punkt-punkti ühendused näevad vaeva, et toetada kasvavaid tehingumahtusid."
+        }
+      ],
+      "sec1P3": "Nende väljakutsetega tegelemine eeldab, et tehnoloogiamaastikku ei vaadeldakse mitte üksikute tarkvaraostude kogumina, vaid kui omavahel ühendatud äriplatvormi, mis on loodud toetama strateegilist paindlikkust.",
+      "legacyLandscapeBadge": "Pärand baasjoon",
+      "legacyLandscapeTitle": "Fragmenteeritud teabevoog",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Andmehoidlad",
+          "desc": "Olulised kliendi-, finants- ja laoandmed jäävad osakondade platvormidele lõksu, mis takistab äritegevuse ühtset vaadet."
+        },
+        {
+          "num": "02",
+          "title": "Integratsioonilüngad",
+          "desc": "Punkt-punkti ühendused ja öised partiiekstraktid loovad töörühmades latentsuse, kõrge tõrkemäära ja kulukad hoolduskulud."
+        },
+        {
+          "num": "03",
+          "title": "Hilinenud teave",
+          "desc": "Kui juhid peavad tulemuslikkuse mõistmiseks ootama päevi, kuni kuu lõpu leppimine toimub, on otsuste tegemine pigem reageeriv kui ennustav."
+        }
+      ],
+      "modernArchitectureBadge": "Sihtarhitektuur",
+      "modernArchitectureTitle": "Ühendatud ettevõtte rakendusmudel",
+      "sec3P1": "Kaasaegne rakendusarhitektuur asendab rabedad punkt-punkti ühendused väleda, lahtisidutud vundamendiga. Tugeva API ja integratsioonikihi loomisega suhtlevad süsteemid juhitud ja turvaliste lõpp-punktide kaudu, säilitades samas üksikute äriüksuste autonoomia.",
+      "sec3P2": "Selle arhitektuurilise nihke peamised tehnilised võimalused hõlmavad järgmist:",
+      "sec3List": [
+        {
+          "bold": "Rakenduse moderniseerimine:",
+          "text": "Põhitegevuse loogika lahtisidumine skaleeritavateks moodulteenusteks."
+        },
+        {
+          "bold": "API integreerimine:",
+          "text": "Standardiseeritud, dokumenteeritud liideste loomine sisemise ja partnerite koostalitlusvõime jaoks."
+        },
+        {
+          "bold": "Andmete integreerimine ja andmebaasi optimeerimine:",
+          "text": "Tööandmekonveierite ühendamine suure läbilaskevõimega päringute optimeerimisega."
+        },
+        {
+          "bold": "Vaadeldavus ja turvalisus:",
+          "text": "Tsentraliseeritud telemeetria, kontrolljälgede ja rollipõhiste juurdepääsukontrollide rakendamine kõigis teenustes."
+        }
+      ],
+      "sec4P1": "Integreeritud andmefondid muudavad seda, kuidas juhtkonnad ja operatiivmeeskonnad teabega suhtlevad. Selle asemel, et tugineda tagasiulatuvatele aruannetele, mis näitavad, mis juhtus nädalaid tagasi, saavad organisatsioonid reaalajas telemeetriat äriüksuste vahel.",
+      "sec4P2": "Ühendatud andmed ja analüütika toetavad jätkusuutlikke äritulemusi järgmiselt:",
+      "sec4List": [
+        {
+          "bold": "Operatiivne nähtavus:",
+          "text": "Pidev läbipaistvus müügi, laoseisu, täitmise ja finantstulemuste osas."
+        },
+        {
+          "bold": "Kiiremad aruandlussagedused:",
+          "text": "Nõudmisel andmete koondamine, mis välistab korduvad käsitsi arvutustabelid."
+        },
+        {
+          "bold": "Järjepidev teave:",
+          "text": "Ühed määratlused sellistele mõõdikutele nagu marginaal, kliendi eluea väärtus ja müügikiirus."
+        },
+        {
+          "bold": "Parem äriteave:",
+          "text": "Ennustav mustrite tuvastamine, mis tõstab riskid ja võimalused enne tähtaega esile."
+        },
+        {
+          "bold": "Parem otsustusvõime:",
+          "text": "Enesekindel täidesaatev tegevus, mida toetavad kinnitatud andmeliinid ja läbipaistvus."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEEGILINE PERSPEKTIIV",
+      "keyPerspectiveTitle": "Moderniseerimine on midagi enamat kui tarkvara väljavahetamine",
+      "keyPerspectiveLead": "Ärirakenduste moderniseerimine ei tähenda lihtsalt vana tarkvara asendamist uute tööriistadega. See on tehnoloogia tahtlik vastavusse viimine ettevõtte toimimise, skaleerimise ja väärtuse pakkumisega."
+    },
+    "artificialIntelligence": {
+      "category": "Tehisintellekt",
+      "title": "Kuidas tehisintellekt ettevõtte rakendusi ümber kujundab",
+      "subtitle": "Avastage, kuidas intelligentne automatiseerimine, tehisintellekti kaaspiloodid ja ennustav intelligentsus muutuvad osaks ettevõtte rakendustest, millele ettevõtted iga päev toetuvad.",
+      "date": "september 2026",
+      "readTime": "6 min lugemist",
+      "imageCaption": "Ettevõtluse tehnoloogia perspektiiv – tehisintellekt ja ettevõttesüsteemid",
+      "aiUseCases": [
+        {
+          "title": "Tarneahela prognoosimine",
+          "desc": "Nõudluse hüpete ja logistiliste viivituste ennustamine tarnijate ajaloolise telemeetria põhjal."
+        },
+        {
+          "title": "Arvete automaatne auditeerimine",
+          "desc": "Reaartiklite eraldamine ja ostutellimustega vastavusse viimine, kus inimesel puudub sisestus."
+        },
+        {
+          "title": "Intelligentsed teeninduslauad",
+          "desc": "Tier-1 töötajate IT- ja personalitaotluste triaaž ja automatiseeritud lahendamine."
+        },
+        {
+          "title": "Klientide väljalangemise ennetamine",
+          "desc": "Käitumuslik rühmitus, mis tuvastab varajased hõõrdesignaalid proaktiivseks teavitamiseks."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Kiiremad operatiivsed otsused, mida juhivad reaalajas prognoositavad mudelid",
+        "Korduva andmetöötluse ja käsitsi vastavusse viimise vähendamine",
+        "Suurem töötajate läbilaskevõime kontekstuaalse kaaspiloodi abiga",
+        "Suurenenud klientide rahulolu ülipersonaliseeritud kogemuste kaudu",
+        "Pidev protsessi eneseoptimeerimine, mis põhineb reaalsel telemeetrial",
+        "Riskivaba vastavuse jälgimine automaatse auditilogi kontrolli kaudu"
+      ],
+      "governancePoints": [
+        "Range rollipõhine juurdepääs tagab, et tehisintellekti mudelid ei leki tundlikke andmeid kunagi",
+        "Läbipaistvad arutlusjäljed, mis võimaldavad inimesel hinnata kõrge väärtusega tegevusi",
+        "Pidev mudeli hindamine hallutsinatsioonide ja eelarvamuste eest kaitsmiseks",
+        "Ranged andmete lähtestandardid, mis on vastavuses GDPR-i, SOC 2 ja HIPAA-ga",
+        "Inimese ahelas eskalatsiooniteed ebakindlate servatingimuste jaoks"
+      ],
+      "sec1Eyebrow": "ÜLEMINE PÕHIMÕISTLUSELE",
+      "sec1Heading": "AI ettevõtlusrakendustes",
+      "sec1Subtext": "Tehisintellekt on muutumas eksperimentaalsetelt kõrvalprojektidelt põhilisteks töörakendusteks, millele ettevõtted iga päev toetuvad.",
+      "sec2Eyebrow": "AUTOMAATSIOONI SUURUS",
+      "sec2Heading": "Arukas automatiseerimine",
+      "sec2Subtext": "Liikudes traditsioonilistest reeglipõhistest skriptidest kaugemale kognitiivsete töövoogude poole, mis mõistavad struktureerimata sisu, kohanduvad variatsioonidega ja optimeerivad protsesse dünaamiliselt.",
+      "sec3Eyebrow": "MANUSTATUD ABI",
+      "sec3Heading": "Ettevõtte tehisintellekti kaaspiloodid",
+      "sec3Subtext": "Organisatsioonialastele teadmistele ja ettevõtte turvalisusele tuginevad AI-assistendid tegutsevad igapäevaste äritöövoogude spetsialiseerunud partneritena.",
+      "sec4Eyebrow": "EDASI VAATAV PÕHJENDUS",
+      "sec4Heading": "Ennustav intelligentsus",
+      "sec4Subtext": "Ajalooliste ettevõttelogide ja reaalajas töövoogude muutmine teostatavateks prognoosideks.",
+      "sec5Eyebrow": "REALMAAILMA RAKENDUSED",
+      "sec5Heading": "Ettevõtte AI kasutusjuhtumid",
+      "sec5Subtext": "Praktilised viisid, kuidas juhtivad organisatsioonid rakendavad tehisintellekti kõigis põhitegevuses.",
+      "sec6Eyebrow": "STRATEEGILINE VÄÄRTUS",
+      "sec6Heading": "Ärikasu",
+      "sec6Subtext": "Kui AI rakendatakse läbimõeldult juhitud ettevõtteandmetega, avab see olulisi kvalitatiivseid eeliseid.",
+      "ctaHeading": "Avastage oma ettevõtte tehisintellekti võimalusi",
+      "ctaDescription": "Avastage, kuidas intelligentne automatiseerimine, ettevõtte kaaspiloodid ja ennustavad mudelid võivad teie põhisüsteemides töötõhusust avada.",
+      "ctaButton": "Rääkige meie ekspertidega",
+      "sec1P1": "Aastaid käsitleti ettevõtte tehisintellekti kui välist võimekust: isolatsioonis treenitud mudelit, liivakasti demonstratsiooni või eraldi portaali kaudu ligipääsetavat isoleeritud vestlusrobot. Tänaseks on paradigma põhjalikult muutunud. Suure mõjuga ettevõtte tehisintellekt on manustatud otse registreerimissüsteemidesse – ERP-desse, CRM-idesse, inimkapitali platvormidesse ja tarneahela mootoritesse, kus toimub tõeline äri.",
+      "sec1P2": "Kui luure toimib salvestussüsteemis, pärib see organisatsiooni kehtestatud turvapiirid, andmemudelid ja äriloogika. See ei genereeri lihtsalt üldisi vastuseid; see toimib reaalajas tellimuste alusel, tõlgendab avatud tugipileteid, kooskõlastab tarnija arveid ja abistab töötajaid täpselt nendes liidestes, milles nad iga päev navigeerivad.",
+      "sec1P3": "See teisendus viib ettevõtte tarkvara passiivsetest andmebaasidest, mis ootavad inimeste klahvivajutusi, ennetavateks platvormideks, mis prognoosivad vajadusi, automatiseerivad samme ja esitavad õigeaegselt soovitusi.",
+      "sec2P1": "Traditsiooniline robotprotsesside automatiseerimine (RPA) paistis silma deterministliku ja korduva ekraanikraapimisega. Kuid jäigad reeglikomplektid katkevad alati, kui vorm muutub, saabub ootamatu dokumendipaigutus või ilmneb erand. Arukas automatiseerimine ületab selle lõhe, ühendades kognitiivse arutluskäigu tehingute täitmisega:",
+      "sec2List": [
+        {
+          "bold": "Töövoo automatiseerimine:",
+          "text": "Keeruliste osakondadeüleste toimingute korraldamine, kiireloomulistel ja ajaloolistel lahendusteedel põhinevate marsruutimisülesannete korraldamine."
+        },
+        {
+          "bold": "Arukas dokumenditöötlus:",
+          "text": "Struktureerimata PDF-ide, meilide, tarnemanifestide ja lepingute allaneelamine, nende teisendamine struktureeritud andmebaasi tehinguteks."
+        },
+        {
+          "bold": "Arukas ülesannete automatiseerimine:",
+          "text": "Mitmeastmelise operatiivkontrolli automatiseerimine – näiteks ostutellimuste vastavusse viimine kviitungite ja pangaväljavõtetega."
+        },
+        {
+          "bold": "Protsessi optimeerimine:",
+          "text": "Protsessilogide pidev analüüsimine, et tuvastada tsükliaja kitsaskohti ja soovitada sihipäraseid töövoo täpsustusi."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Infootsing",
+          "desc": "Semantiline otsimine hajutatud teadmistebaasidest, sisevõrgu poliitikatest, tootespetsifikatsioonidest ja ajaloolistest piletilahendustest ilma märksõnade äraarvamiseta."
+        },
+        {
+          "icon": "📝",
+          "title": "Dokumendi kokkuvõte",
+          "desc": "Pikaajaliste pakkumiste, müüjalepingute, tehniliste spetsifikatsioonide ja juriidiliste muudatuste viivitamatu destilleerimine rakendatavateks juhitekstideks ja riskide kontrollnimekirjadeks."
+        },
+        {
+          "icon": "✨",
+          "title": "Sisu loomine",
+          "desc": "Aidati koostada kliendi ettepanekuid, tegevusdokumentatsiooni, standardseid tööprotseduure (SOP) ja kliendi standardiseeritud värskendusi, mis on kooskõlas brändistandarditega."
+        },
+        {
+          "icon": "📈",
+          "title": "Andmete analüüs",
+          "desc": "Vestluspäringute tõlkimine keerulisteks analüütilisteks päringuteks, lennugraafiku kokkuvõtete koostamine ja juhtimise jaoks oluliste kõrvalekallete esiletõstmine."
+        },
+        {
+          "icon": "🔄",
+          "title": "Äritegevuse töövood",
+          "desc": "Tehingute algatamine otse vestluste kaudu – näiteks ressursside ajastamine, piletite loomine, kirjete värskendamine või ostutaotluste esitamine."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Rollipõhine juurdepääs",
+          "desc": "Kaaspiloodi vastuste tagamine järgib rangelt kasutajate lubade taset, hoiab konfidentsiaalseid finantsandmeid, personalifaile ja intellektuaalomandit kaitstuna."
+        }
+      ],
+      "sec4P1": "Kui generatiivsed mudelid on suurepärased keele mõistmise ja sünteesimisega, siis ennustav intelligentsus keskendub struktureeritud ettevõtte andmekogumites peidetud matemaatilistele mustritele. Manustatud ennustavad mudelid võimaldavad organisatsioonidel ennetada tegevustõkkeid, enne kui need tegevust häirivad.",
+      "sec4List": [
+        {
+          "bold": "Operatiivne prognoosimine:",
+          "text": "Tulude trendide, varude kiiruse ja ressursinõudluse prognoosimine, sünteesides hooajalised näitajad reaalajas torujuhtme kiirusega."
+        },
+        {
+          "bold": "Ennustav analüüs:",
+          "text": "Kliendi katkestamise riskide, hoolduse halvenemise tsüklite ja tarneahela viivituste tuvastamine, kuni sekkumiseks on veel aega."
+        },
+        {
+          "bold": "Riski tuvastamine:",
+          "text": "Finantstehingute, vastavuslogide ja hankijate hankemustrite anomaaliate märgistamine enne nende eskaleerumist."
+        },
+        {
+          "bold": "Nõudluse ennustus:",
+          "text": "Müügiprognooside ühtlustamine tootmisvõimsuse ja laovarude tasemega, et kaitsta käibekapitali."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ETTEVÕTETE JUHTIMINE",
+      "keyPerspectiveTitle": "Usaldus, järelevalve ja kaitsepiirded",
+      "keyPerspectiveLead": "AI on täpselt nii töökindel kui selle all olev andmevundament ja seda ümbritsev juhtimine. Jätkusuutlik ettevõtte kasutuselevõtt nõuab teadlikku arhitektuuridistsipliini:"
+    },
+    "modernErp": {
+      "category": "MODERNNE ERP",
+      "title": "Ettevõtte ümberkujundamise kiirendamine kaasaegse ERP-ga",
+      "subtitle": "Uurige, kuidas kaasaegsed ERP-platvormid ühendavad rahanduse, hanked, tarneahela ja äritegevuse ühtse digitaalse aluse kaudu.",
+      "date": "august 2026",
+      "readTime": "6 min lugemist",
+      "imageCaption": "Ettevõtte tehnoloogia vaade — ERP ja ühendatud äritegevused",
+      "connectedFunctions": [
+        {
+          "title": "Finantsjuhtimine",
+          "desc": "Reaalajas pearaamatu värskendused, automaatne tulude tuvastamine ja kohene mitme valuuta vastavusseviimine."
+        },
+        {
+          "title": "Tarneahel ja logistika",
+          "desc": "Varude täielik nähtavus, lao optimeerimine ja tarnija jõudluse telemeetria."
+        },
+        {
+          "title": "Inimkapital ja tööjõud",
+          "desc": "Töötajate iseteenindusportaalid, automatiseeritud palgaarvestus ja integreeritud talentide elutsükli planeerimine."
+        },
+        {
+          "title": "Hanked ja hankimine",
+          "desc": "Automaatsed ostukinnitused, tarnijalepingute järgimine ja dünaamiline kuluanalüüs."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-native Architecture",
+          "desc": "Elastne arvutusmastaapimine ilma kohapealse infrastruktuuri lisakulude või häiriva versioonilukuta."
+        },
+        {
+          "title": "Avatud API ökosüsteem",
+          "desc": "Eelehitatud pistikud, mis võimaldavad sujuvat kahesuunalist andmete sünkroonimist kohandatud mikroteenuste ja CRM-i komplektidega."
+        },
+        {
+          "title": "Manustatud Analytics",
+          "desc": "Otsene armatuurlaua põhjalikud andmed kõrgetasemelistest bilansidest üksikutesse tehingulogidesse."
+        },
+        {
+          "title": "Automatiseeritud töövoo käivitajad",
+          "desc": "Sündmuspõhised sündmused käivitavad standardsete osakondadeüleste toimingute autonoomse täitmise."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Üks tõeallikas, mis kõrvaldab vastuolulised osakondade aruanded",
+        "Kuu lõpu ja kvartali lõpu sulgemistsüklite drastiline vähenemine",
+        "Reaalajas laoseisu ja logistika nähtavus, mis minimeerib laoseisu",
+        "Vähendatud IT-hoolduskulud modulaarsete pilvepõhiste värskenduste kaudu",
+        "Ühtne vastavuse jälgimine mitme piirkonna maksujurisdiktsioonides",
+        "Omandatud üksuste kiirem kasutuselevõtt jagatud operatiivsüsteemidesse"
+      ],
+      "erpStrategyPoints": [
+        "ERP-arhitektuuri joondamine põhiliste töövoogudega enne konfigureerimist",
+        "Modulaarsete juurutusmudelite valimine kiirete verstapostide saavutamiseks",
+        "Kvaliteetse põhiandmete migratsiooni ja vastavusseviimise eelistamine",
+        "Automatiseeritud muudatuste haldamise ja rollidele kohandatud koolitusprogrammide manustamine",
+        "API lüüside kujundamine hõõrdumatuks tulevaseks integratsiooni laiendamiseks"
+      ],
+      "sec1Eyebrow": "OPERATSIOONI SELGKOND",
+      "sec1Heading": "Miks on kaasaegne ERP oluline?",
+      "sec1Subtext": "ERP ei ole enam pelgalt back-office raamatupidamine. See on kaasaegse ettevõtte tegevusmudel, mis väljendub tarkvaras.",
+      "sec2Eyebrow": "INTEGREERITUD ÖKOSÜSTEEM",
+      "sec2Heading": "Ühendatud ärifunktsioonid",
+      "sec2Subtext": "Tõeline organisatsiooniline väärtus ilmneb siis, kui äritegevuse põhifunktsioonid toimivad koos ühisel digitaalsel alusel.",
+      "sec3Eyebrow": "RISTFUNKTSIONAALNE HARMOONIA",
+      "sec3Heading": "Ühtne toimingud ja teabevoog",
+      "sec3Subtext": "Osakondade vaheliste sideseinte purustamine, et võimaldada sujuvaid ja sünkroonitud ettevõtte töövooge.",
+      "sec4Eyebrow": "ETTEVÕTETE TELEMEETIA",
+      "sec4Heading": "Ettevõtte nähtavus reaalajas",
+      "sec4Subtext": "Tegevusmõõdikute koondamine läbipaistvatesse juhtpaneelidesse, mis kajastavad praegust äritegelikkust.",
+      "sec5Eyebrow": "TUUMIPLATVORM-ARHITEKTUUR",
+      "sec5Heading": "Kaasaegsed ERP-võimalused",
+      "sec5Subtext": "Arhitektuursed atribuudid, mis eraldavad kaasaegsed ERP-platvormid jäikadest pärandinstallatsioonidest.",
+      "sec6Eyebrow": "KVALITATIIVNE MÕJU",
+      "sec6Heading": "Ärikasu",
+      "sec6Subtext": "Põhitegevuse ühendamine ühtseks digitaalseks sihtasutuseks annab mõõdetava organisatsiooni vastupidavuse.",
+      "ctaHeading": "Moderniseerige oma ettevõtte tegevust",
+      "ctaDescription": "Uurige, kuidas kaasaegsed ERP-platvormid ühendavad rahanduse, hanked, tarneahela ja äritegevuse ühtse digitaalse aluse kaudu.",
+      "ctaButton": "Rääkige meie ekspertidega",
+      "sec1P1": "Kiiresti muutuvas ettevõttes on traditsioonilised ettevõtte ressursiplaneerimise süsteemid sageli hädas. Paketttöötluse ja isoleeritud kohalike serverite ajastul ehitatud ERP-d olid tugevalt kohandatud, raskesti uuendatavad ja valusalt läbipaistmatud. Olulised äritegevused toimisid paralleelsetes silohoidlates, tuginedes haprale üleöö ekspordile, et sünkroonida pearaamatuid ladudega.",
+      "sec1P2": "Kaasaegne pilvepõhine ERP määratleb selle dünaamika põhjalikult ümber. See toimib ettevõtte ühtse digitaalse selgroona – elava sihtasutusena, kus rahandus, hanked, tarneahel, varud ja inimressursid teevad tehinguid jagatud andmemudeli alusel.",
+      "sec1P3": "Tuues põhitegevused ühtsesse ühtlustatud keskkonda, kõrvaldab kaasaegne ERP operatiivsed pimealad, mis aeglustavad kasvu, võimaldades juhtidel juhtida ettevõtet reaalajas signaalide, mitte vananenud ajalooliste kokkuvõtete abil.",
+      "sec3P1": "Töötavad silohoidlad on harva inimeste probleemid; need on arhitektuuriprobleemid. Kui klienditeenindus-, hanke- ja laomeeskonnad töötavad lahti ühendatud rakendustes, nõuab iga üleandmine käsitsi e-kirju, arvutustabeleid ja telefonikõnesid. Vead paljunevad, arved jäävad kinni ja klientide kohustused libisevad.",
+      "sec3P2": "Kaasaegne ERP tegeleb sellega ühtse andmeliini ja sündmustepõhise protsesside juhtimise kaudu:",
+      "sec3List": [
+        {
+          "bold": "Sünkroonitud tellimus sularahaks:",
+          "text": "Kliendi tellimuse esitamisel reserveeritakse varud automaatselt, luuakse tarnesildid ja arveldusraamatud uuendatakse koheselt."
+        },
+        {
+          "bold": "Hanke-maksmise läbipaistvus:",
+          "text": "Ostutellimused, kauba kviitungid ja hankija arved sobituvad automaatselt kolmesuunalise vastavusseviimisega, märgistades ainult erandid inimeste ülevaatamiseks."
+        },
+        {
+          "bold": "Ühtne tööjõu- ja tegevuskuluarvestus:",
+          "text": "Projektide ajatabelid, palgaarvestuse jaotused ja otsesed tegevuskulud kaardistatakse reaalajas otse kulukeskustesse."
+        }
+      ],
+      "sec4P1": "Ettevõtte juhtimine ilma ühtse nähtavuseta on nagu hilinenud instrumentidega tihedas udus lendamine. Kaasaegne ERP pakub reaalajas telemeetriat kõigis ärimõõtmetes:",
+      "sec4List": [
+        {
+          "bold": "Reaalajas juhtide armatuurlauad:",
+          "text": "Kohene ülevaade brutomarginaalidest, äritegevuse rahavoogudest, avatud kohustustest ja tellimuste mahust ilma perioodi lõpu sulgemist ootamata."
+        },
+        {
+          "bold": "Iseteenindusega seotud aruandlus:",
+          "text": "Osakondade juhid saavad koostada kohandatud päringuid ja süveneda ettevõtte tasemel kokkuvõtetest üksikute tehingute reaüksusteni."
+        },
+        {
+          "bold": "Tsentraliseeritud põhiteave:",
+          "text": "Vastuoluliste arvude kõrvaldamine, luues klientide, hankijate ja tootekataloogide jaoks ühtsed juhitud põhiandmed."
+        },
+        {
+          "bold": "Proaktiivsed anomaaliateated:",
+          "text": "Automaatsed hoiatused teavitavad juhte viivitamatult, kui marginaalid langevad alla läve, varud saavad otsa või tarnijate tarnete libisemine."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP ümberkujundamise FILOSOOFIA",
+      "keyPerspectiveTitle": "Pragmaatiline moderniseerimine üle monoliitse kapitaalremondi",
+      "keyPerspectiveLead": "Kaasaegne ERP-i ümberkujundamine õnnestub, kui organisatsioonid käsitlevad seda pigem evolutsioonilise töötäiendusena kui kõik või mitte midagi IT-häirena:"
+    },
+    "cybersecurity": {
+      "category": "KÜBERTURVASTUS",
+      "title": "Kübervastupidavuse suurendamine ühendatud ettevõttes",
+      "subtitle": "Uurige, kuidas organisatsioonid saavad tugevdada turvalisust, kaitsta kriitilisi süsteeme ja valmistuda ohtudeks üha enam ühendatud keskkondades.",
+      "date": "september 2026",
+      "readTime": "8 min lugemist",
+      "imageCaption": "Ettevõtte tehnoloogia vaade – ohukaitse ja null-usaldusarhitektuur",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemeetria ja tuvastamine",
+          "desc": "Reaalajas logi sissevõtmine ja SIEM-i anomaaliate korrelatsioon kõigi pilve lõpp-punktide ja töökoormuste vahel."
+        },
+        {
+          "title": "Piiramine ja isoleerimine",
+          "desc": "Automatiseeritud võrgu karantiinireeglid isoleerivad koheselt ohustatud konteinerid või mandaadid."
+        },
+        {
+          "title": "Heastamine ja algpõhjus",
+          "desc": "Kiire paiga juurutamine ja digitaalne kohtuekspertiis, mis tuvastab täpse rikkumise vektori."
+        },
+        {
+          "title": "Vastupidavus ja kõvenemine",
+          "desc": "Pidev tagasiside muutumatute varukoopiate, poliitika kaitsepiirete ja automatiseeritud punase meeskonna simulatsioonide jaoks."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Haavatavuse ründepindade vähenemine pilvvarade vahel on oluliselt vähenenud",
+        "Garanteeritud tööjärjepidevus ja avariitaaste minimaalse RTO/RPO-ga",
+        "Täielik vastavuskindlus ISO 27001, SOC 2, HIPAA ja GDPR-i auditites",
+        "Ettevõtte põhiliste intellektuaalomandi ja konfidentsiaalsete kliendiandmete kaitse",
+        "Sujuv tarnija ja kolmanda osapoole riskijuhtimine ühtse juurdepääsukontrolli kaudu",
+        "Suurem klientide ja investorite usaldus, mida toetavad kontrollitud usaldusevabad turvapositsioonid"
+      ],
+      "zeroTrustPrinciples": [
+        "Ärge kunagi usaldage, kontrollige alati: iga tehingu jaoks on vajalik selgesõnaline autentimine",
+        "Vähima privileegiga juurdepääs: üksikasjalikud rollipiirid, mis piiravad külgsuunalist ohu liikumist",
+        "Rikkumise oletamine: pidev ohu jälgimine, krüpteerimine edastamisel ja puhkeolekus",
+        "Mikrosegmenteerimine: võrgu tulemüürid isoleerivad üksikute rakenduste töökoormused",
+        "Pidev telemeetria: automaatne käitumisanalüüs, mis märgib anomaalsed seansitaotlused"
+      ],
+      "sec1Eyebrow": "LAIENDAV PERIMETER",
+      "sec1Heading": "Ühendatud ettevõtte turbemaastik",
+      "sec1Subtext": "Kuna kaasaegsed organisatsioonid ühendavad rohkem rakendusi, pilvekeskkondi, kaugtöötajaid, mobiilseadmeid ja kolmandatest osapooltest partnereid, lakkab traditsiooniline turvapiirkond olemast.",
+      "sec2Eyebrow": "TERVKAITSE",
+      "sec2Heading": "Mitmekihiline ohukaitse",
+      "sec2Subtext": "Ennetavad kaitsemehhanismid, mis kaitsevad kriitilist infrastruktuuri, tundlikke ettevõtte andmeid ja operatsioonisüsteeme.",
+      "sec3Eyebrow": "UUS TURVAPIIRI",
+      "sec3Heading": "Identiteedi ja juurdepääsu haldus (IAM)",
+      "sec3Subtext": "Identiteet on tänapäevase turvalisuse alustalaks. Peaaegu kõik tõsised turvarikkumised saavad alguse pigem rikutud mandaatidest kui tarkvara ärakasutamistest.",
+      "sec4Eyebrow": "ARHITEKTUURI PARADIGMA",
+      "sec4Heading": "Null-usaldusarhitektuuri demüstifitseerimine",
+      "sec4Subtext": "Zero Trust ei ole üks toode või tööriist. See on arhitektuuristrateegia, mis põhineb sirgjoonelisel põhimõttel: vaikimisi ei usaldata ühtki üksust võrgu sees või väljaspool seda.",
+      "sec5Eyebrow": "INFRASTRUKTUURI JUHTIMINE",
+      "sec5Heading": "Pilveturbe kaalutlused",
+      "sec5Subtext": "Töökoormuse kaitsmine avalikus pilves, hübriidarhitektuurides ja hajutatud konteinerkeskkondades.",
+      "sec6Eyebrow": "OPERATSIOONI VASTUPIDAVUS",
+      "sec6Heading": "Intsidendiks valmisolek: kaugemale ennetamisest",
+      "sec6Subtext": "Tõeline kübervastupidavus nõustub sellega, et võib juhtuda vahejuhtumeid. Valmisolek keskendub kiirele ohjeldamisele, minimaalsele ärikatkestamisele ja kontrollitud taastumisele.",
+      "sec7Eyebrow": "STRATEEGILINE VÄÄRTUS",
+      "sec7Heading": "Ärikasu",
+      "sec7Subtext": "Kübervastupidava ettevõtte loomine kaitseb organisatsiooni väärtust, regulatiivset staatust ja turu mainet.",
+      "ctaHeading": "Tugevdage oma ettevõtte turvalisust",
+      "ctaDescription": "Uurige, kuidas organisatsioonid saavad tugevdada turvalisust, kaitsta kriitilisi süsteeme ja valmistuda ohtudeks üha enam ühendatud keskkondades.",
+      "ctaButton": "Rääkige meie ekspertidega",
+      "sec1P1": "Ettevõtte IT pärandajastul toimis turvalisus lossi ja vallikraavi doktriini järgi: ettevõtte kontorivõrgus peeti kõike usaldusväärseks, samas kui kõike väljaspool olevat peeti ebausaldusväärseks. Üks ettevõtte tulemüür kaitses sisemisi servereid, andmebaase ja lauaarvuteid.",
+      "sec1P2": "Tänane ettevõtmine on füüsilistest müüridest välja kasvanud. Töökoormus paikneb mitme pilve keskkondades (AWS, Azure, GCP), töötajad pääsevad ärirakendustele juurde erinevatest asukohtadest ja API-d vahetavad pidevalt tundlikke tegevusandmeid väliste logistikateenuste pakkujate, finantsasutuste ja SaaS-i tarnijatega.",
+      "sec1P3": "Kuigi see hüperühenduvus soodustab tohutut ärilist paindlikkust, laiendab see oluliselt ettevõtte rünnakupinda. Iga API lõpp-punkt, identiteedi tunnus, ühendatud mobiilseade ja SaaS-i integratsioon kujutavad endast potentsiaalset kokkupuute vektorit. Tõeline ettevõtte kaitse eeldab üleminekut perimeetripõhiselt kaitselt proaktiivsele, otsast lõpuni kübervastupidavusele.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Ohu tuvastamine",
+          "desc": "Masinõppe abil toetatud ohuluure, mis jälgib reaalajas anomaalseid võrgumustreid, mandaadi kuritarvitamist ja nullpäeva turvaauke."
+        },
+        {
+          "icon": "📡",
+          "title": "Turvaseire",
+          "desc": "Centralized Security Operations Center (SOC) telemeetria, mis korreleerib sündmusi serverite, konteineriklastrite, identiteedipakkujate ja lõpp-punktide vahel."
+        },
+        {
+          "icon": "🔍",
+          "title": "Haavatavuse haldamine",
+          "desc": "Pidev automaatne haavatavuse skannimine infrastruktuuri, lähtekoodi hoidlate ja konteineriregistrite lõikes, et ennetavalt puudused kõrvaldada."
+        },
+        {
+          "icon": "🔒",
+          "title": "Andmekaitse",
+          "desc": "Tugev krüptimine edastamisel (TLS 1.3) ja puhkeolekus (AES-256) koos detailse andmekao vältimise (DLP) juhtimisega, et vältida intellektuaalomandi lekkeid."
+        }
+      ],
+      "sec3P1": "Ettevõtte varade kaitsmine eeldab selle tagamist, et igal identiteedil – olgu see siis tegevjuht, väline töövõtja või autonoomse tarkvarateenuse konto – on kinnitatud autoriseerimine täpselt nende ressursside jaoks, millele ta juurde pääseb.",
+      "sec3List": [
+        {
+          "bold": "Tsentraliseeritud identiteedihaldus:",
+          "text": "Single Sign-On (SSO) ja ühendatud identiteedistandardid, mis kõrvaldavad rakenduste vahel killustatud paroolisalve."
+        },
+        {
+          "bold": "Adaptiivne mitmefaktoriline autentimine (MFA):",
+          "text": "Andmepüügikindlad FIDO2 riistvaravõtmed ja riskipõhised kontekstuaalsed väljakutsed tundlike haldusfunktsioonide jaoks."
+        },
+        {
+          "bold": "Täpne juurdepääsukontroll:",
+          "text": "Peened rollipõhised (RBAC) ja atribuutidepõhised (ABAC) juurdepääsukontrollid, mis on jõustatud API ja andmebaasi tasemel."
+        },
+        {
+          "bold": "Väiksemate privileegide põhimõtted:",
+          "text": "Ajutise just-in-time (JIT) juurdepääsu andmine, mis aegub automaatselt, kui haldustoimingud lõppevad."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NULL USLUSE TUUMIDOKTRIIN",
+      "keyPerspectiveTitle": "Pidev kontroll pimeda usalduse üle",
+      "keyPerspectiveLead": "Null-usaldusarhitektuuris on võrgu asukohal põhinev kaudne usaldus täielikult demonteeritud. Iga tehing, andmebaasi päring ja kasutaja sisselogimine peavad pidevalt tõestama oma legitiimsust:",
+      "cloudSecurityCards": [
+        {
+          "title": "Jagatud vastutus",
+          "desc": "Selge juhtimine, mis eristab pilveteenuse pakkuja füüsilise infrastruktuuri turvalisust ettevõtte vastutusest andmete krüptimise, IAM-i poliitika ja rakenduse koodi eest."
+        },
+        {
+          "title": "Infrastruktuur kui kood (IaC)",
+          "desc": "Muutumatud, auditeeritavad pilvekonfiguratsioonid, mida hallatakse koodi kaudu. Automatiseeritud poliitika koodina skannerid blokeerivad enne juurutamist väärkonfiguratsioonid ja paljastatud ämbrid."
+        },
+        {
+          "title": "Konteinerite ja Kubernetese turvalisus",
+          "desc": "Tugevdatud konteineri käitusajad, allkirjastatud pildiregistrid, võrgu mikrosegmenteerimine ja automaatne salahaldus, mis hoiab mandaadid eemal allikahoidlatest."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "PILV JA MODERNISERIMINE",
+      "title": "Pilve pärandrakenduste moderniseerimine",
+      "subtitle": "Tutvuge praktilise lähenemisviisiga pärandrakenduste hindamiseks, moderniseerimiseks ja skaleeritavate ja turvaliste pilvarhitektuuride poole liikumiseks.",
+      "date": "september 2026",
+      "readTime": "6 min lugemist",
+      "imageCaption": "Ettevõtluse tehnoloogia vaade – pilvepõhiste platvormide ümberpaigutamine ja konteineritesse paigutamine",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (tõstmine ja nihutamine)",
+          "desc": "Töökoormuste kiire ülekandmine pilve virtuaalsetele masinatele minimaalsete koodimuudatustega."
+        },
+        {
+          "title": "Ümberplatvorm (tõstmine ja ümberkujundamine)",
+          "desc": "Täiendage käitusaegseid raamistikke, võtke kasutusele hallatud pilvandmebaasid ja tõhustage toiminguid."
+        },
+        {
+          "title": "Refaktor (Cloud-Native Rebuild)",
+          "desc": "Dekonstrueerige monoliidid konteinerisse paigutatud mikroteenusteks ja sündmustepõhisteks serverita API-deks."
+        },
+        {
+          "title": "Asenda (SaaS-i moderniseerimine)",
+          "desc": "Eemaldage üleliigsed pärandsüsteemid, eelistades selleks loodud ettevõtte pilvetarkvara."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Pärandi hindamine",
+          "desc": "Automaatne sõltuvuse kaardistamine, tehniline võlgade kataloogimine ja pilvevalmiduse hindamine."
+        },
+        {
+          "title": "Sihtarhitektuur",
+          "desc": "Modulaarsed mikroteenuste plaanid, konteineri topoloogiad ja automatiseeritud IaC mallid."
+        },
+        {
+          "title": "Järkjärguline migratsioon",
+          "desc": "Canary väljalasked, kahekirjutusandmete sünkroonimine ja nullseisaku katkestuslained."
+        },
+        {
+          "title": "Pilve optimeerimine",
+          "desc": "Pidev kulude juhtimine, automaatne skaleerimine telemeetria ja FinOpsi tegevusülevaatused."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponentsiaalselt väiksemad infrastruktuuri hooldus- ja riistvara värskendamise kulud",
+        "Peaaegu lõpmatu arvutuselastsus, mis käsitleb ettevõtte tippliiklust null latentsusajaga",
+        "Kiirendatud vabastamiskiirus täielikult automatiseeritud CI/CD juurutamise torujuhtmetega",
+        "Pärand üksikute tõrkepunktide kõrvaldamine mitme AZ kõrge kättesaadavusega",
+        "Kaasaegsed API arhitektuurid, mis võimaldavad kiiret platvormidevahelist partnerite integreerimist",
+        "Täiustatud reaalajas jälgitavus rakenduse jõudluse ja pilvekulude osas"
+      ],
+      "landscapeAssessmentPoints": [
+        "Keeruliste rakendustevaheliste sõltuvuste ja andmete sünkroonimise kadentside kaardistamine",
+        "Kodeeritud keskkonnakonfiguratsioonide ja patenteeritud andmebaasiskeemide tuvastamine",
+        "Õigusnormidele vastavuse ja andmete suveräänsuse piirangute hindamine jurisdiktsiooni kaupa",
+        "Realistliku omamise kogukulu (TCO) arvutamine ümber teguri ja uuesti hostimise teede",
+        "Selgete levitamislainete loomine, et kaitsta aktiivset igapäevast äritegevust"
+      ],
+      "sec1Eyebrow": "PÄRANDSÜSTEEMIDE REAALSUS",
+      "sec1Heading": "Pärandi väljakutse",
+      "sec1Subtext": "Vananevad monoliidid piiravad innovatsiooni kiirust, suurendavad töö haavatavust ja suurendavad infrastruktuuri hoolduskulusid.",
+      "sec2Eyebrow": "HINDAMINE JA AVASTAMINE",
+      "sec2Heading": "Rakenduse maastiku mõistmine",
+      "sec2Subtext": "Edukas pilve moderniseerimine algab rangest hindamisest. Otse migratsiooni hüppamine ilma rakenduste sõltuvusi auditeerimata on viivitatud katkestamiste peamine põhjus.",
+      "sec3Eyebrow": "4 MODERNISEERIMISTEED",
+      "sec3Heading": "Moderniseerimise lähenemisviisid",
+      "sec3Subtext": "Pole olemas ühtset kõigile sobivat migratsioonistrateegiat. Juhtivad ettevõtted kohandavad iga konkreetse töökoormusega õige moderniseerimismustri, võttes aluseks ettevõtte väärtuse, kiireloomulisuse ja tehnilise võla.",
+      "sec4Eyebrow": "SIHT ÜHENDUSE MUDEL",
+      "sec4Heading": "Kaasaegne pilvearhitektuur",
+      "sec4Subtext": "Struktureeritud tegevuskava, mis muudab pärandmonoliidid elastseteks, turvalisteks ja hooldatavateks pilveteenusteks.",
+      "sec5Eyebrow": "ÜMENDUSE TULEMUSED",
+      "sec5Heading": "Peamised moderniseerimise eelised",
+      "sec5Subtext": "Pärandsüsteemide üleviimine kaasaegsetele pilvarhitektuuridele tagab käegakatsutava toimimise paindlikkuse ja kulude prognoositavuse.",
+      "ctaHeading": "Uuendage oma pärandrakendusi",
+      "ctaDescription": "Tutvuge praktilise lähenemisega pärandrakenduste hindamiseks, moderniseerimiseks ja skaleeritavate ja turvaliste pilvarhitektuuride poole liikumiseks.",
+      "ctaButton": "Rääkige meie ekspertidega",
+      "sec1P1": "Kümme aastat tagasi ehitatud missioonikriitilised rakendused toovad endiselt miljardeid ettevõtte tulusid, kuid nende arhitektuurne jäikus tekitab kasvavat tegevusriski.",
+      "sec1P2": "Iga ettevõte seisab silmitsi pingega stabiilsuse ja moderniseerimise vahel. Pärandsüsteemid töötati välja vastupidavust silmas pidades ja need on aastaid usaldusväärselt toiminud. Kuid ärinõuete kiirenedes puutuvad need vananevad arhitektuurid kokku struktuuriliste piirangutega.",
+      "sec1List": [
+        {
+          "bold": "Vananevad tarkvaravirnad:",
+          "text": "Monoliitsed koodibaasid, mis on üles ehitatud aegunud raamistikele, mille hoolduseks on saadaval kahanevad talentide kogumid."
+        },
+        {
+          "bold": "Rasked hooldustsüklid:",
+          "text": "Tihedalt ühendatud komponendid, mille puhul üksiku funktsiooni muutmine võib omavahel mitteseotud töömooduleid puruneda."
+        },
+        {
+          "bold": "Piiratud mastaapsus:",
+          "text": "Vertikaalsed skaleerimise piirangud, mis nõuavad kallist patenteeritud riistvara ostmist, et tulla toime hooajaliste liiklustippudega."
+        },
+        {
+          "bold": "Integratsiooniprobleemid:",
+          "text": "Suutmatus sujuvalt liidestada kaasaegsete mobiilirakenduste, kliendiportaalide või partnerite API-dega ilma nõrkade pakkskriptideta."
+        },
+        {
+          "bold": "Infrastruktuuri piirangud:",
+          "text": "Füüsilise serveriruumi elutsüklid, varu haavatavused ja suured toite-/jahutuskulud."
+        }
+      ],
+      "sec2P1": "Pragmaatiline moderniseerimise teekond algab täieliku selguse loomisest kogu olemasolevas kinnistus:",
+      "sec2List": [
+        {
+          "bold": "Rakendused:",
+          "text": "Kõigi aktiivsete töökoormuste, kohandatud moodulite, taustaskriptide ja ajalooliste kolmanda osapoole pakettide kataloogimine."
+        },
+        {
+          "bold": "Sõltuvused:",
+          "text": "Keerulise käitusaegse sidestuse, jagatud andmebaasitabelite, otseste failisüsteemikõnede ja väliste teenuste lepingute kaardistamine."
+        },
+        {
+          "bold": "Andmed:",
+          "text": "Andmestruktuuride, tehingute terviklikkuse nõuete, varundussageduse ja regulatiivsete suveräänsusreeglite hindamine."
+        },
+        {
+          "bold": "Infrastruktuur:",
+          "text": "Protsessori, mälu, salvestusruumi kasutamise ja võrgu läbilaskevõime auditeerimine õige suurusega sihtpilvespetsifikatsioonide järgi."
+        },
+        {
+          "bold": "Ärikriitilisus:",
+          "text": "Rakenduste kategoriseerimine tasanditesse, et kujundada ohutud, etapiviisilised migratsioonilained selgete varuprotseduuridega."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Eelis:",
+      "cloudArchitectureBadge": "Moderniseerimise elutsükkel",
+      "cloudArchitectureTitle": "Pilvede täieliku ajakohastamise voog",
+      "sec4P1": "Sihtkoha arhitektuur lahutab põhirakendused modulaarseteks konteinerteenusteks, mida hostitakse elastsetel pilveplatvormidel (nt Kubernetes või hallatud serverita käituskeskkonnad).",
+      "sec4P2": "Automaatsete CI/CD juurutamise torujuhtmete, automatiseeritud sinakasroheliste katkestuste ja infrastruktuuri loomisega koodina muutuvad juurutused närvesöövatest nädalavahetuse sündmustest sujuvaks igapäevaseks rutiiniks.",
+      "sec4P3": "Elastne arvutus suureneb automaatselt nõudluse suurenemise ajal ja väheneb tuulevaikuse ajal, kõrvaldades jõudeoleku ressursikulud, tagades samal ajal globaalsetele kasutajatele vähem kui sekundi pikkuse reageerimisaja.",
+      "keyPerspectiveEyebrow": "MODERNISEERIMISE PARIMAD TAVAD",
+      "keyPerspectiveTitle": "Eduka rände neli sammast",
+      "keyPerspectiveLead": "Kogemused näitavad, et moderniseerimisprojektid õnnestuvad, kui need põhinevad põhjalikul ettevalmistamisel, selgel lainejärjestusel ja rangel testimisel:"
+    }
+  }
+}

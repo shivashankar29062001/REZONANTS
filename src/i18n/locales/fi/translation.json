@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Tietoa meistä",
+    "services": "Palvelut",
+    "products": "Tuotteet",
+    "perspectives": "Näkökulmat",
+    "technologies": "Teknologiat",
+    "contact": "Ota yhteyttä",
+    "signIn": "Kirjaudu sisään",
+    "signUp": "Rekisteröidy",
+    "signOut": "Kirjaudu ulos",
+    "chooseLanguage": "Valitse kieli",
+    "searchLanguage": "Hakukieli",
+    "resetEnglish": "Palauta englanniksi",
+    "noResults": "Kieliä ei löytynyt",
+    "englishDefault": "englanti (oletus)",
+    "english": "englanti"
+  },
+  "hero": {
+    "eyebrow": "Rezonants – Hyderabad",
+    "title": "Ohjelmisto, joka on suunniteltu <em>yrityksesi</em> toimintaa varten.",
+    "description": "Rezonants on IT-palveluita ja digitaalisia tuotteita valmistava yritys. Suunnittelemme, rakennamme ja skaalaamme räätälöityjä ohjelmistoja, verkko- ja mobiilituotteita, pilviinfrastruktuuria ja tekoälyä – toteutuksesta kilpaileville yrityksille.",
+    "bookConsultation": "Varaa ilmainen konsultaatio",
+    "exploreServices": "Tutustu palveluihin",
+    "years": "vuotta",
+    "projects": "hankkeita",
+    "retention": "säilyttäminen",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants - vuodesta 2012",
+    "metaStudio": "Digitaalinen tuotestudio",
+    "metaTech": "Web · Mobiili · Pilvi · AI"
+  },
+  "about": {
+    "eyebrow": "Tietoja meistä",
+    "title": "Digitaalisten ratkaisujen rakentaminen <em>jotka vievät yrityksiä eteenpäin</em>",
+    "description": "Rezonants on teknologiaratkaisuyritys, joka keskittyy auttamaan yrityksiä muuttamaan ideat mielekkäiksi digitaalisiksi kokemuksiksi. Yhdistämme teknologian, luovuuden ja liiketoimintaymmärryksen tarjotaksemme ratkaisuja, jotka on suunniteltu todellisten tarpeiden mukaan.<br /><br />Digitaalisesta muutoksesta ja räätälöityjen ohjelmistojen kehittämisestä pilvi-, tekoäly-, automaatio- ja hallittuihin teknologiapalveluihin, autamme organisaatioita yksinkertaistamaan monimutkaisuutta, parantamaan tehokkuutta ja luomaan kestävää digitaalista arvoa.<br /><br /><strong>Lähestymistapamme on yksinkertainen, joka tarjoaa oikean ongelman, liiketoiminnan ja ratkaisun</strong>.",
+    "awardWinning": "Palkittu",
+    "awardText": "Tunnustettu toimituksen erinomaisuudesta verkko- ja mobiilituotesuunnittelussa.",
+    "professionalStaff": "Ammattitaitoinen henkilökunta",
+    "staffText": "Vanhemmat, vastuulliset insinöörit, jotka omistavat työn ensimmäisestä puhelusta käyttöönottoon.",
+    "support247": "24/7 tuki",
+    "supportText": "Hallitut palvelut ja tukilinja, joka vastaa tarvittaessa.",
+    "fairPrices": "Kohtuulliset hinnat",
+    "pricesText": "Rehelliset arviot ja läpinäkyvä laskutus jokaisesta toimeksiannosta.",
+    "yearsExcellence": "Yritysten erinomaisuuden vuodet"
+  },
+  "stats": {
+    "happyClients": "Tyytyväiset asiakkaat",
+    "projectsDone": "Tehdyt hankkeet",
+    "winAwards": "Voita palkintoja"
+  },
+  "insights": {
+    "eyebrow": "Näkymät",
+    "title": "Näkymät",
+    "sub": "Tulevaisuutta muovaavien ideoiden, trendien ja teknologian tutkiminen.",
+    "filters": {
+      "all": "Kaikki",
+      "digital-transformation": "Digitaalinen muunnos",
+      "ai": "Tekoäly ja automaatio",
+      "cloud": "Pilvi",
+      "data": "Data & Analytics",
+      "software": "Ohjelmisto",
+      "business": "Liiketoiminta ja teknologia"
+    },
+    "readMore": "Lue lisää",
+    "close": "Sulje",
+    "keyTakeaways": "Tärkeimmät arkkitehtoniset takeawayt",
+    "relatedServices": "Aiheeseen liittyvät ominaisuudet ja palvelut",
+    "minRead": "min lukea",
+    "item1Date": "Heinäkuu 2026",
+    "item1Tag": "Tuote & ERP",
+    "item1Title": "Modulaarinen ERP-lähestymistapa kasvaville yrityksille",
+    "item1Text": "Miten rakennamme ERP-toimeksiannot niin, että rahoitus, inventaario, HR ja hankinta integroituvat saumattomasti ilman monivuotisia keskeytyksiä.",
+    "item2Date": "kesäkuuta 2026",
+    "item2Tag": "Tekoäly",
+    "item2Title": "Agentti tekoälyjärjestelmät: siirtyminen chatboteista autonomiseen toteutukseen",
+    "item2Text": "Suunnittelemme koordinoituja usean agentin LLM-järjestelmiä, jotka suunnittelevat, validoivat ja toteuttavat monimutkaisia ​​liiketoiminnan työnkulkuja in-the-loop-valvonnalla.",
+    "item3Date": "toukokuu 2026",
+    "item3Tag": "Yritys virstanpylväs",
+    "item3Title": "Tunnustettu Hyderabadin johtavien IT-innovaatiostudioiden joukossa",
+    "item3Text": "Suunnittelustudiomme on saanut tunnustusta toimituksen erinomaisuudesta, syvällisistä teknisistä ominaisuuksista ja asiakastyytyväisyydestä maailmanlaajuisessa tuotesuunnittelussa.",
+    "desc": "Tutustu Rezonantsin ideoihin ja näkökulmiin digitaaliseen transformaatioon, tekoälyyn, automaatioon, pilveen, dataan, ohjelmistoihin ja liiketoimintateknologian tulevaisuuteen.",
+    "categories": {
+      "digitalTransformation": "Digitaalinen muunnos",
+      "ai": "Tekoäly ja automaatio",
+      "cloud": "Pilvi",
+      "data": "Data & Analytics",
+      "software": "Ohjelmisto",
+      "business": "Liiketoiminta ja teknologia"
+    }
+  },
+  "technologies": {
+    "title": "Tekniikka ja arkkitehtuuri",
+    "headline": "Yritysteknologiaratkaisut",
+    "sub": "Älykäs tekniikka. Automatisoidut toiminnot. Älykkäämpää liiketoimintaa.",
+    "selectTechnology": "Valitse teknologiaratkaisu…",
+    "options": {
+      "aiRobotics": "Tekoäly- ja robottiratkaisut",
+      "businessAutomation": "Liiketoiminnan automaatioratkaisut",
+      "cloudMigrations": "Pilvisiirtoratkaisut",
+      "dataCenters": "Palvelinkeskusratkaisut",
+      "cognitiveAnalytics": "Kognitiivinen analytiikka ja tekoäly",
+      "informationReporting": "Tieto- ja raportointijärjestelmät",
+      "managedServices": "Hallitut palvelut",
+      "oneStopSolutions": "Yhden luukun teknologiaratkaisut"
+    },
+    "explore": "Tutustu tekniikkaan",
+    "bookDiscovery": "Kirjateknologian löytö",
+    "exploreAll": "Tutustu kaikkiin teknologioihin",
+    "coreCapabilities": "Teknologian ydinominaisuudet",
+    "bookConsultation": "Varaa konsultaatio"
+  },
+  "contact": {
+    "eyebrow": "Ota yhteyttä",
+    "title": "Puhu vanhemmalle insinöörille, älä myyntikäsikirjoittajalle",
+    "sub": "Kerro hieman projektistasi, niin vastaamme yhden arkipäivän kuluessa.",
+    "reachUs": "Ota meihin yhteyttä suoraan",
+    "preferConversation": "Haluatko mieluummin keskustelun? Olemme yhden puhelun päässä.",
+    "contactLede": "Nopein tapa edetä on lyhyt keskustelu. Tavoita meidät millä tahansa alla olevalla kanavalla tai varaa paikka, niin tulemme luoksesi valmiina.",
+    "phone": "Puhelin",
+    "email": "Sähköposti",
+    "office": "Toimisto",
+    "hours": "Tuntia",
+    "hoursValue": "ma–la, 9.30–18.30 IST",
+    "bookSlot": "Varaa konsultaatioaika",
+    "sendMessage": "Lähetä meille viesti",
+    "fieldsRequired": "Tähdellä * merkityt kentät ovat pakollisia.",
+    "fullName": "Koko nimi *",
+    "emailLabel": "Sähköposti *",
+    "company": "Yritys",
+    "subject": "Aihe",
+    "messageLabel": "Viesti *",
+    "sending": "Lähetetään…",
+    "sendBtn": "Lähetä viesti",
+    "successMsg": "Viesti lähetetty! Kopio on lähetetty sinulle sähköpostitse.",
+    "errorMsg": "Viestiäsi ei voitu tallentaa. Tarkista, että contact_messages-taulukko on olemassa, ja yritä sitten uudelleen.",
+    "offices": {
+      "vijayawada": "Vijayawadan toimisto",
+      "southAfrica": "Etelä-Afrikan toimisto"
+    },
+    "placeholders": {
+      "fullName": "Koko nimesi",
+      "email": "sinä@yritys.com",
+      "company": "Yrityksesi tai organisaatiosi",
+      "subject": "Miten voimme auttaa?",
+      "message": "Kerro meille projektistasi, aikajanastasi ja tavoitteistasi..."
+    },
+    "validation": {
+      "fullNameRequired": "Kirjoita koko nimesi.",
+      "emailRequired": "Anna sähköpostiosoitteesi.",
+      "emailInvalid": "Anna kelvollinen sähköpostiosoite.",
+      "messageRequired": "Kirjoita viesti."
+    }
+  },
+  "services": {
+    "eyebrow": "Palvelut",
+    "title": "Mitä teemme",
+    "sub": "Strategiasta hallittuihin toimintoihin tarjoamme päästä päähän -teknologiakumppanuuksia yrityksille, jotka kilpailevat toteutuksesta.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Alusta käyttöönottoon",
+        "description": "Uusien digitaalisten ratkaisujen kokonaisvaltainen kehittäminen liiketoimintavaatimuksista ja ratkaisuarkkitehtuurista kehitykseen, integrointiin, testaukseen, käyttöönottoon ja jatkuvaan tukeen."
+      },
+      "businessProcessAutomation": {
+        "label": "Liiketoimintaprosessien automatisointi",
+        "description": "Suunnittele ja toteuta älykkäitä automaatioratkaisuja, jotka virtaviivaistavat liiketoimintaprosesseja, eliminoivat toistuvia manuaalisia toimintoja, parantavat toiminnan tehokkuutta ja nopeuttavat liiketoiminnan tuloksia."
+      },
+      "centerOfExcellence": {
+        "label": "Huippuyksikkö",
+        "description": "Erikoistuneiden teknologia- ja liiketoimintakeskusten perustaminen, jotka tarjoavat hallintoa, standardeja, asiantuntemusta, kehyksiä, uudelleenkäytettäviä resursseja ja jatkuvaa parantamista koko organisaatiossa."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Mukautettu kehitys ja räätälöinti",
+        "description": "Sovellusten, alustojen, työnkulkujen ja yritysratkaisujen kehittäminen ja parantaminen vastaamaan ainutlaatuisia liiketoimintavaatimuksia ja tarjoamaan räätälöityjä toimintoja."
+      },
+      "digitalTransformation": {
+        "label": "Digitaalinen muunnos",
+        "description": "Liiketoiminnan, teknologiaekosysteemien ja asiakaskokemusten modernisointi pilven, tekoälyn, automaation, datan ja nykyaikaisten sovellustekniikoiden avulla."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Päästä päähän -ratkaisukehys",
+        "description": "Kattava toimitustapa, joka kattaa teknologian koko elinkaaren – strategiasta, vaatimuksista ja arkkitehtuurista kehittämiseen, integrointiin, käyttöönottoon, hallintoon, seurantaan ja tukeen."
+      },
+      "migrationModernization": {
+        "label": "Muutto ja modernisointi",
+        "description": "Sovellusten, tietojen, alustojen, infrastruktuurin ja työkuormien turvallinen ja jäsennelty siirto vanhoista tai olemassa olevista ympäristöistä nykyaikaisiin, skaalautuviin ja optimoituihin teknologia-alustoihin."
+      },
+      "pocPilotImplementation": {
+        "label": "Proof of Concept (PoC) ja pilottitoteutus",
+        "description": "Teknologiaratkaisujen nopea kehittäminen ja validointi teknisen toteutettavuuden, liikearvon, integraatiovaatimusten, suorituskyvyn ja skaalautuvuuden arvioimiseksi ennen täysimittaista käyttöönottoa."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Jaetut palvelut ja hallitut toiminnot",
+        "description": "Keskitetty teknologian ja toiminnallisten valmiuksien toimitus liiketoimintayksiköiden välillä standardoitujen prosessien, ammattitaitoisten resurssien, hallintokehysten, palvelunhallinnan ja mitattavissa olevien palvelutasojen avulla."
+      },
+      "customDevelopment": {
+        "label": "Alusta käyttöönottoon",
+        "description": "Uusien digitaalisten ratkaisujen kokonaisvaltainen kehittäminen liiketoimintavaatimuksista ja ratkaisuarkkitehtuurista kehitykseen, integrointiin, testaukseen, käyttöönottoon ja jatkuvaan tukeen."
+      },
+      "processAutomation": {
+        "label": "Liiketoimintaprosessien automatisointi",
+        "description": "Suunnittele ja toteuta älykkäitä automaatioratkaisuja, jotka virtaviivaistavat liiketoimintaprosesseja, eliminoivat toistuvia manuaalisia toimintoja, parantavat toiminnan tehokkuutta ja nopeuttavat liiketoiminnan tuloksia."
+      },
+      "solutionEngineering": {
+        "label": "Mukautettu kehitys ja räätälöinti",
+        "description": "Sovellusten, alustojen, työnkulkujen ja yritysratkaisujen kehittäminen ja parantaminen vastaamaan ainutlaatuisia liiketoimintavaatimuksia ja tarjoamaan räätälöityjä toimintoja."
+      },
+      "endToEndSolutions": {
+        "label": "End-to-End Solution Framework",
+        "description": "Kattava toimitustapa, joka kattaa teknologian koko elinkaaren – strategiasta, vaatimuksista ja arkkitehtuurista kehittämiseen, integrointiin, käyttöönottoon, hallintoon, seurantaan ja tukeen."
+      },
+      "migrationServices": {
+        "label": "Muutto ja modernisointi",
+        "description": "Sovellusten, tietojen, alustojen, infrastruktuurin ja työkuormien turvallinen ja jäsennelty siirto vanhoista tai olemassa olevista ympäristöistä nykyaikaisiin, skaalautuviin ja optimoituihin teknologia-alustoihin."
+      },
+      "pilotPrototyping": {
+        "label": "Proof of Concept (PoC) ja pilottitoteutus",
+        "description": "Teknologiaratkaisujen nopea kehittäminen ja validointi teknisen toteutettavuuden, liikearvon, integraatiovaatimusten, suorituskyvyn ja skaalautuvuuden arvioimiseksi ennen täysimittaista käyttöönottoa."
+      },
+      "sharedServices": {
+        "label": "Jaetut palvelut ja hallitut toiminnot",
+        "description": "Keskitetty teknologian ja toiminnallisten valmiuksien toimitus liiketoimintayksiköiden välillä standardoitujen prosessien, ammattitaitoisten resurssien, hallintokehysten, palvelunhallinnan ja mitattavissa olevien palvelutasojen avulla."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Varaa aika konsultaatioon",
+      "exploreFramework": "Tutustu ratkaisukehykseen",
+      "talkSeniorEngineer": "Keskustele vanhemman insinöörin kanssa",
+      "exploreTechStack": "Tutustu Technology Stackiin",
+      "bookPocSession": "Varaa PoC Discovery -istunto",
+      "seeAllServices": "Katso kaikki palvelut",
+      "requestAssessment": "Pyydä muuttoarviointia",
+      "exploreCloudSolutions": "Tutustu pilviratkaisuihin"
+    },
+    "sharedServices": {
+      "heroBadge": "JAETUT PALVELUT JA HALLINNOITUT TOIMINNOT",
+      "heroTitle": "Yritysten yhteiset palvelut ja hallitut toiminnot",
+      "heroDesc": "Skaalaa liiketoimintavalmiuksia, virtaviivaista monialaisia ​​työnkulkuja ja saavuta toiminnallista huippuosaamista standardoitujen, turvallisten ja kustannustehokkaiden jaettujen palvelumallien avulla.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Tutustu ratkaisukehykseen",
+      "coreCapabilities": "Ydinominaisuudet:",
+      "managedServices": "Hallitut palvelut",
+      "itOperations": "IT-toiminnot",
+      "appSupport": "Sovellustuki",
+      "serviceManagement": "Palvelunhallinta",
+      "resourceOptimization": "Resurssien optimointi",
+      "slaManagement": "SLA-hallinta",
+      "governance": "Hallinto",
+      "continuousImprovement": "Jatkuva parantaminen",
+      "costOptimization": "Kustannusoptimointi",
+      "readyTitle": "Oletko valmis optimoimaan toimintasi?",
+      "readyDesc": "Tutustu siihen, kuinka Shared Services & Managed Operations -kehyksemme voivat parantaa palvelun laatua, varmistaa toiminnan jatkuvuuden ja edistää kestävää kustannustehokkuutta yrityksellesi.",
+      "scheduleSession": "Varaa Discovery-istunto"
+    },
+    "solutionEngineering": {
+      "heroBadge": "RATKAISUTUNING & ARKKITEHTI",
+      "heroTitle": "Mukautettu kehitys ja räätälöinti",
+      "heroDesc": "Suunnittele, suunnittele ja ota käyttöön korkean suorituskyvyn ohjelmistojärjestelmiä, jotka on suunniteltu erityisesti toiminnallisiin työnkulkuihisi, tietoputkistoihin ja mittakaavavaatimuksiisi."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "NOPEA INNOVAATIO JA KOKEILU",
+      "heroTitle": "Proof of Concept (PoC) ja pilottitoteutus",
+      "heroDesc": "Vahvista uusia teknologioita, poista monimutkaisten arkkitehtuurien riskit ja todista liiketoiminta-arvo tuotantotason prototyypeillä viikoissa, ei neljänneksissä."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ELINKÄYTÄNTÖJÄRJESTELMÄ JA TOIMITUS",
+      "heroTitle": "End-to-End Solution Framework",
+      "heroDesc": "Yhtenäinen toimitusmalli, joka yhdistää tuoteselvityksen, ratkaisuarkkitehtuurin, suunnittelun, pilviinfrastruktuurin ja 24/7-luotettavuuden."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTUURI JA PERINNÄ MODERNISOINTI",
+      "heroTitle": "Muutto ja modernisointi",
+      "heroDesc": "Siirrä saumattomasti vanhat työmäärät, monoliittiset arkkitehtuurit ja paikan päällä oleva infrastruktuuri nykyaikaisiin, turvallisiin ja skaalautuviin pilvialustoihin."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Yritysten modernisointi",
+        "titlePart1": "Digitaalinen",
+        "titlePart2": "Muutos",
+        "description": "Liiketoiminnan, teknologiaekosysteemien ja asiakaskokemusten modernisointi pilven, tekoälyn, automaation, datan ja nykyaikaisten sovellustekniikoiden avulla.",
+        "bookWorkshop": "Kirjanmuunnostyöpaja",
+        "exploreFramework": "Tutustu ratkaisukehykseen",
+        "startTransformation": "Aloita transformaatio",
+        "exploreStrategy": "Tutustu strategiaan",
+        "coreCapabilitiesTitle": "Ydinominaisuudet",
+        "coreCapabilities": [
+          "Digitaalinen strategia",
+          "Pilvimuunnos",
+          "Tekoäly ja automaatio",
+          "Sovellusten modernisointi",
+          "Vanha modernisointi",
+          "Data & Analytics",
+          "Asiakaskokemus",
+          "Teknologian modernisointi"
+        ],
+        "row1Eyebrow": "Strategia ja tiekartta",
+        "row1Title": "Visiosta suoritettavaan tiekarttaan",
+        "row1P1": "Teemme yhteistyötä yritysjohtajien kanssa määritelläksemme digitaalisen strategian, liiketoimintamallit ja vaiheittaiset etenemissuunnitelmat nopeilla voitoilla ja riskittömällä toteutuksella.",
+        "row1P2": "Priorisoidut aloitteet, TCO-mallit ja KPI:t varmistavat, että kaikki teknologian modernisointitoimet liittyvät suoraan tuloihin, tehokkuuteen ja asiakastyytyväisyyteen.",
+        "row2Eyebrow": "Vanha modernisointi",
+        "row2Title": "Modernisoi liiketoimintaa katkaisematta",
+        "row2P1": "Muuta monoliitit mikropalveluiksi, API:iksi ja pilvipohjaisiksi malleiksi nollakatkaisuilla ja automaattisella regression validoinnilla.",
+        "row2P2": "Modernisoimme sovelluksia, tietokantoja ja integraatiokerroksia säilyttäen samalla vaatimustenmukaisuuden ja turvallisuuden.",
+        "row3Eyebrow": "Pilvi, tekoäly ja data",
+        "row3Title": "Pilvikäyttöönotto ja tietoihin perustuva älykkyys",
+        "row3P1": "Ota käyttöön AWS, Azure ja GCP, rakenna nykyaikaisia tietoputkia ja upota koneoppimisagentteja itsenäisten päätösten tekemiseen.",
+        "row3P2": "Reaaliaikaisesta tapahtumien suoratoistosta yhtenäisiin kojetauluihin, muutoksesta tulee mitattavissa olevaa ja kestävää.",
+        "row4Eyebrow": "Asiakaskokemus",
+        "row4Title": "Moderneja monikanavaisia kokemuksia",
+        "row4P1": "Suunnittele uudelleen asiakaspolkuja responsiivisten verkko-, iOS-, Android- ja itsepalveluportaalien välillä yksilöllisillä käyttöliittymillä.",
+        "row4P2": "Alustasuunnittelu, telemetria ja automaattiset palautesilmukat tekevät digitaalisesta innovaatiosta jatkuvaa.",
+        "pillarsTitle": "Muutospilarit",
+        "pillarsSub": "Tulospainotteiset vivut, jotka varmistavat kestävän digitaalisen johtajuuden.",
+        "pillar1Title": "Digitaalinen strategia ja hallinto",
+        "pillar1Desc": "Vaiheittaiset muutossuunnitelmat, joissa on liiketoimintamallin, arkkitehtuurin hallinta ja virstanpylväiden riskien seuranta.",
+        "pillar2Title": "Pilvi- ja dataalusta",
+        "pillar2Desc": "AWS/Azure/GCP monipilvipohjat, automatisoidut putkistot ja yritystietojen analysointi.",
+        "pillar3Title": "Tekoäly ja automaatio",
+        "pillar3Desc": "Älykäs prosessiautomaatio, kognitiiviset AI-agentit ja ennakoiva telemetria päivittäisten toimintojen optimoimiseksi.",
+        "pillar4Title": "Asiakaskokemus",
+        "pillar4Desc": "Monikanavaiset digitaaliset portaalit ja henkilökohtaiset käyttöliittymät, jotka on suunniteltu pitämään käyttäjänsä mahdollisimman paljon.",
+        "ctaTitle": "Oletko valmis muuttamaan yrityksesi?",
+        "ctaSub": "Yhteistyökumppani Rezonantsin kanssa vaiheittaisessa, riskittömässä digitaalisessa transformaatiossa, joka on sidottu mitattavissa oleviin liiketoimintatuloksiin.",
+        "ctaButton": "Varaa Digital Transformation Call"
+      },
+      "customDevelopment": {
+        "eyebrow": "End-to-End digitaalinen suunnittelu",
+        "titlePart1": "Aloitus",
+        "titlePart2": "Käyttöönotto",
+        "bookConsultation": "Varaa konsultaatio",
+        "exploreEngineering": "Tutustu ratkaisusuunnitteluun"
+      },
+      "processAutomation": {
+        "eyebrow": "Älykkäät prosessitoiminnot",
+        "titlePart1": "Liiketoimintaprosessi",
+        "titlePart2": "Automaatio",
+        "bookDiscovery": "Kirjaautomaation löytö",
+        "exploreCoE": "Tutustu huippuyksikköön"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Keskusta",
+        "titlePart2": "Erinomaisuus",
+        "bookConsultation": "Varaa huippuyksikön konsultaatio",
+        "exploreCapabilities": "Tutustu ominaisuuksiin"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Täydellinen teknologian elinkaari",
+        "titlePart1": "Päästä päähän",
+        "titlePart2": "Ratkaisukehys",
+        "startJourney": "Aloita elinkaarimatkasi",
+        "exploreTransformation": "Tutustu Transformaatioon"
+      },
+      "migrationServices": {
+        "eyebrow": "Pilvi- ja infrastruktuurimuutos",
+        "titlePart1": "Siirto &",
+        "titlePart2": "Nykyaikaistaminen",
+        "planMigration": "Suunnittele siirtosi",
+        "exploreTransformation": "Tutustu Transformaatioon"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Nopea validointi ja toteutettavuus",
+        "titlePart1": "Proof of Concept (PoC) &",
+        "titlePart2": "Pilot-toteutus",
+        "initiateDiscovery": "Aloita PoC Discovery",
+        "exploreDevelopment": "Tutustu mukautettuun kehittämiseen"
+      },
+      "solutionEngineering": {
+        "badge": "Räätälöity digitaalinen suunnittelu",
+        "bookConsultation": "Varaa konsultaatio",
+        "exploreCapabilities": "Tutustu ominaisuuksiin"
+      },
+      "sharedServices": {
+        "eyebrow": "Keskitetty toimintakeskus",
+        "titlePart1": "Jaetut palvelut &",
+        "titlePart2": "Hallitut toiminnot",
+        "bookDiscovery": "Book Managed Operations Discovery",
+        "exploreFramework": "Tutustu ratkaisukehykseen"
+      }
+    },
+    "coreCapabilities": "Ydinominaisuudet"
+  },
+  "products": {
+    "featured": "Suositellut tuotteet",
+    "featuredSub": "Yksinkertaista toimintaa, yhdistä tiimejä, automatisoi prosesseja ja aja älykkäämpää liiketoiminnan kasvua.",
+    "seeAll": "Katso kaikki tuotteet",
+    "featuredProducts": "ESITTELYT TUOTTEET",
+    "meetAutonomous": "Tapaa autonominen työvoima",
+    "meetAutonomousText": "Muuta toimintaasi AI-agenttien avulla, jotka työskentelevät tiimisi kanssa monimutkaisten, toistuvien tehtävien hoitamiseksi.",
+    "learnMore": "Lisätietoja",
+    "erp": {
+      "title": "Yksi alusta valmis kaikkeen",
+      "sub": "Valtuuta yrityksiä yhdistetyillä, älykkäillä ja skaalautuvilla yrityksenhallintaratkaisuilla.",
+      "explore": "Tutustu ERP-ratkaisuihin",
+      "gridTitle": "ERP-RATKAISUT",
+      "promoTitle": "Modulaarinen ERP kasvua varten",
+      "promoText": "Ota modulaariset ERP-ominaisuudet käyttöön nopeasti ilman perinteisten monivuotisten järjestelmien monimutkaisuutta.",
+      "scheduleDemo": "Aikataulu demo"
+    },
+    "it": {
+      "title": "IT-ratkaisut",
+      "sub": "Yritystason infrastruktuuri, tietoturva ja DevOps-ratkaisut pitävät yrityksesi käynnissä.",
+      "explore": "Tutustu IT-ratkaisuihin",
+      "gridTitle": "IT-RATKAISUT",
+      "promoTitle": "Luotettava IT-infrastruktuuri",
+      "promoText": "Rakenna kestävä teknologiaperusta hallituilla pilvi-, tietoturva- ja DevOps-palveluilla.",
+      "getStarted": "Aloita"
+    },
+    "crm": {
+      "title": "CRM-ratkaisut",
+      "sub": "Asiakassuhteiden hallinta tehostaa myynnin, tuen ja markkinoinnin työnkulkua.",
+      "explore": "Tutustu CRM-ratkaisuihin",
+      "gridTitle": "CRM-RATKAISUT",
+      "promoTitle": "Sulje Lisää tarjouksia",
+      "promoText": "Tehosta myynti- ja tukitiimejäsi yhtenäisillä asiakastiedoilla ja älykkäällä automaatiolla.",
+      "startTrial": "Aloita ilmainen kokeilujakso"
+    },
+    "hrms": {
+      "title": "HRMS-ratkaisut",
+      "sub": "Henkilöstöjohtaminen kattaa palkanlaskennan, rekrytoinnin, suorituskyvyn ja työntekijöiden sitoutumisen.",
+      "explore": "Tutustu HRMS-ratkaisuihin",
+      "gridTitle": "HRMS-RATKAISUT",
+      "promoTitle": "Yksinkertaista HR-toimintaa",
+      "promoText": "Automatisoi HR-työnkulut rekrytoinnista eläkkeelle siirtymiseen nykyaikaisella, työntekijän etusijalla olevalla alustalla.",
+      "requestDemo": "Pyydä esittelyä"
+    },
+    "sidebar": {
+      "featuredProducts": "Suositellut tuotteet",
+      "erpSolutions": "ERP-ratkaisut",
+      "solutions": "RATKAISUT"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Älykkäät itsenäiset agentit ja työkalut, jotka automatisoivat monimutkaisia ​​työnkulkuja ja asiakastoimintoja."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Monipilvenhallintaalusta, joka optimoi suorituskyvyn, turvallisuuden, vaatimustenmukaisuuden ja kustannukset."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hybridi yhteistyö- ja tuottavuuskeskus, jossa on integroitu tehtävä-, chat- ja asiakirjojen hallinta."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Reaaliaikainen analytiikkamoottori muuttaa liiketoimintatapahtumien virrat käyttökelpoisiksi oivalluksiksi."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Yhtenäinen yritysarkkitehtuuri, joka yhdistää rahoituksen, omaisuuden, HR:n, hankinnat ja varaston."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Työntekijäkokemusalusta, joka kattaa palkanlaskennan, edut, suoritusarvostelut ja itsepalvelun."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Reaaliaikainen logistiikkaseuranta, automatisoidut varastotoiminnot ja kysynnän ennustaminen."
+      },
+      "financeHub": {
+        "title": "Rahoituskeskus",
+        "description": "Edistyksellinen reskontrahallinta, laskutustyönkulut, automaattinen vaatimustenmukaisuus ja reaaliaikaiset kassavirtaraportit."
+      },
+      "cloudInfrastructure": {
+        "title": "Pilviinfrastruktuuri",
+        "description": "Skaalautuva pilviarkkitehtuuri, siirto ja hallinta AWS:ssä, Azuressa ja GCP:ssä."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Päästä päähän -turvallisuuden seuranta, uhkien havaitseminen ja vaatimustenmukaisuuden hallinta."
+      },
+      "devopsPipeline": {
+        "title": "DevOps-putkilinja",
+        "description": "CI/CD-automaatio, kontti ja infrastruktuuri koodina nopeampaa toimitusta varten."
+      },
+      "managedItServices": {
+        "title": "Hallitut IT-palvelut",
+        "description": "Ympärivuorokautinen infrastruktuurin seuranta, reagointi tapauksiin ja ennakoiva ylläpito."
+      },
+      "salesCrm": {
+        "title": "Myynnin CRM",
+        "description": "Putkilinjan hallinta, liidien pisteytys, sopimusten seuranta ja myynnin ennustaminen yhdellä alustalla."
+      },
+      "customerSupportHub": {
+        "title": "Asiakastukikeskus",
+        "description": "Lipunmyynti, tietokanta, live-chat ja monikanavaisen tuen hallinta."
+      },
+      "marketingAutomation": {
+        "title": "Markkinoinnin automaatio",
+        "description": "Kampanjan organisointi, sähköpostiautomaatio, liidien hoito ja analytiikka."
+      },
+      "customer360View": {
+        "title": "Asiakas 360 View",
+        "description": "Yhdistetyt asiakasprofiilit, jotka yhdistävät myynti-, tuki- ja vuorovaikutustiedot."
+      },
+      "coreHr": {
+        "title": "Ydinhenkilöstö",
+        "description": "Työntekijätiedot, organisaatiohierarkia, lomanhallinta ja läsnäolon seuranta."
+      },
+      "payrollCompliance": {
+        "title": "Palkanlaskenta ja vaatimustenmukaisuus",
+        "description": "Automaattinen palkanlaskennan käsittely, verolaskelmat ja lakien noudattaminen."
+      },
+      "performanceManagement": {
+        "title": "Suorituskyvyn hallinta",
+        "description": "OKR-seuranta, 360° katsaukset, tavoitteiden asettaminen ja työntekijöiden kehityssuunnitelmat."
+      },
+      "recruitmentPortal": {
+        "title": "Rekrytointiportaali",
+        "description": "Työpaikkailmoitukset, hakijoiden seuranta, haastattelujen ajoitus ja perehdytystyönkulut."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Suositellut tuotteet",
+        "heading": "Suositellut tuotteet",
+        "sub": "Yksinkertaista toimintaa, yhdistä tiimejä, automatisoi prosesseja ja aja älykkäämpää liiketoiminnan kasvua.",
+        "promoTitle": "Tapaa autonominen työvoima",
+        "promoText": "Muuta toimintaasi AI-agenttien avulla, jotka työskentelevät tiimisi kanssa monimutkaisten, toistuvien tehtävien hoitamiseksi.",
+        "items": [
+          {
+            "title": "AI-automaatio ja älykkäät agentit",
+            "description": "Automatisoi toistuvia tehtäviä ja ota käyttöön älykkäitä tekoälyagentteja, jotka parantavat tuottavuutta, päätöksentekoa ja liiketoiminnan tuloksia."
+          },
+          {
+            "title": "IT-palvelut ja digitaalinen tuki",
+            "description": "Tarjoa nopeampaa ja älykkäämpää IT-tukea virtaviivaistetun palvelunhallinnan, automaation ja digitaalisten työnkulkujen avulla."
+          },
+          {
+            "title": "Yritysten tekoälyn hallinto",
+            "description": "Rakenna vastuullista tekoälyä vahvan hallinnon, turvallisuuden, vaatimustenmukaisuuden, läpinäkyvyyden ja riskienhallinnan avulla."
+          },
+          {
+            "title": "Älykkäät IT-toiminnot",
+            "description": "Muuta IT-toimintoja tekoälypohjaisella valvonnalla, automaatiolla, ennakoivilla oivalluksilla ja ennakoivalla ongelmanratkaisulla."
+          },
+          {
+            "title": "Asiakaskokemuksen hallinta",
+            "description": "Luo henkilökohtaisia asiakaspolkuja älykkään sitoutumisen, automaation, analytiikan ja saumattomien digitaalisten kokemusten avulla."
+          },
+          {
+            "title": "Liiketoimintastrategia ja portfolion optimointi",
+            "description": "Kohdista teknologiasijoitukset liiketoimintatavoitteisiin salkkujen optimoimiseksi, tehokkuuden parantamiseksi ja kestävän kasvun edistämiseksi."
+          },
+          {
+            "title": "IT Asset & Technology -elinkaari",
+            "description": "Hallitse IT-resursseja koko niiden elinkaaren ajan paremman näkyvyyden, automaation, kustannusten hallinnan ja teknologiasuunnittelun avulla."
+          },
+          {
+            "title": "Yritysriski ja vaatimustenmukaisuus",
+            "description": "Tunnista, arvioi ja hallitse yritysriskejä ja vahvista samalla vaatimustenmukaisuutta, valvontaa ja organisaation joustavuutta."
+          },
+          {
+            "title": "Kyberturvallisuus ja uhkatoiminnot",
+            "description": "Suojaa digitaalisia ympäristöjä ennakoivalla uhkien havaitsemisella, turvatoimilla, reagointihäiriöihin ja jatkuvalla valvonnalla."
+          },
+          {
+            "title": "Kenttätyövoiman automaatio",
+            "description": "Valtuuta kenttätiimejä älykkäällä aikataululla, mobiilityönkuluilla, automaatiolla ja reaaliaikaisella toiminnan näkyvyydellä."
+          },
+          {
+            "title": "Työntekijäkokemus ja HR-palvelut",
+            "description": "Yksinkertaista työntekijäpalvelut digitaalisilla työnkuluilla, itsepalveluratkaisuilla, automaatiolla ja henkilökohtaisilla työntekijäkokemuksilla."
+          },
+          {
+            "title": "Yhtenäinen digitaalinen työpaikka",
+            "description": "Yhdistä ihmiset, prosessit, sovellukset ja yhteistyötyökalut turvallisen, älykkään ja saumattoman digitaalisen työpaikan avulla."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP-ratkaisut",
+        "heading": "Yksi alusta, valmis kaikkeen",
+        "sub": "Valtuutetaan yrityksiä yhdistetyillä, älykkäillä ja skaalautuvilla yrityksenhallintaratkaisuilla.",
+        "promoTitle": "Modulaarinen ERP kasvua varten",
+        "promoText": "Ota modulaariset ERP-ominaisuudet käyttöön nopeasti ilman perinteisten monivuotisten järjestelmien monimutkaisuutta.",
+        "items": [
+          {
+            "title": "Liiketoimintaprosessien automatisointi",
+            "description": "Virtaviivaista rahoitusta, henkilöstöhallintoa, myyntiä, hankintaa ja päivittäistä toimintaa."
+          },
+          {
+            "title": "Integroitu liiketoiminnan hallinta",
+            "description": "Yhdistä osastot, tiedot ja työnkulut yhtenäiselle alustalle."
+          },
+          {
+            "title": "Rahoitus ja kirjanpito",
+            "description": "Paranna taloudellista näkyvyyttä, raportointia, budjetointia ja vaatimustenmukaisuutta."
+          },
+          {
+            "title": "HR & Palkanlaskenta",
+            "description": "Yksinkertaista työntekijöiden hallinta-, läsnäolo-, palkanlaskenta- ja HR-prosesseja."
+          },
+          {
+            "title": "Toimitusketjun hallinta",
+            "description": "Optimoi hankinnat, varastot, toimittajat ja logistiikka."
+          },
+          {
+            "title": "Myynti ja asiakashallinta",
+            "description": "Hallitse liidejä, asiakkaita, tilauksia ja myyntiä tehokkaasti."
+          },
+          {
+            "title": "Reaaliaikainen analyysi ja raportointi",
+            "description": "Muuta liiketoimintatiedot käyttökelpoisiksi oivalluksiksi nopeampien päätösten tekemiseksi."
+          },
+          {
+            "title": "Cloud ERP -ratkaisut",
+            "description": "Ota käyttöön turvallinen, skaalautuva ja helppopääsyinen yrityshallinta mistä tahansa."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT-ratkaisut",
+        "heading": "IT-ratkaisumme",
+        "sub": "Muuta IT-toimintoja älykkäillä, ennakoivilla ja skaalautuvilla digitaalisilla ratkaisuilla, jotka parantavat suorituskykyä, tuottavuutta ja liiketoiminnan jatkuvuutta.",
+        "promoTitle": "Luotettava IT-infrastruktuuri",
+        "promoText": "Rakenna kestävä teknologiaperusta hallituilla pilvi-, tietoturva- ja DevOps-palveluilla.",
+        "items": [
+          {
+            "title": "IT-palveluiden hallinta",
+            "description": "Tehosta IT-palveluita, tapauksia, pyyntöjä ja työnkulkuja nopeamman ratkaisun saavuttamiseksi."
+          },
+          {
+            "title": "IT-toimintojen hallinta",
+            "description": "Valvo infrastruktuuria ja sovelluksia ennakoivilla, tietopohjaisilla IT-toiminnoilla."
+          },
+          {
+            "title": "IT-omaisuuden hallinta",
+            "description": "Hallitse teknologiaomaisuutta tehokkaasti samalla, kun vähennät kustannuksia, riskejä ja elinkaaren monimutkaisuutta."
+          },
+          {
+            "title": "Yritysarkkitehtuuri",
+            "description": "Kohdista liiketoimintastrategia oikeaan teknologia-arkkitehtuuriin ja investointeihin."
+          },
+          {
+            "title": "Pilvihallinta",
+            "description": "Paranna pilviturvallisuutta, vaatimustenmukaisuutta, suorituskykyä ja kustannusten hallintaa."
+          },
+          {
+            "title": "Digitaaliset toiminnot",
+            "description": "Automatisoi IT-prosessit ja hanki reaaliaikainen näkyvyys teknologiaympäristössäsi."
+          },
+          {
+            "title": "Havainnointi ja seuranta",
+            "description": "Tunnista suorituskykyongelmat ajoissa ja ylläpidä luotettavia digitaalisia kokemuksia."
+          },
+          {
+            "title": "Strateginen salkunhallinta",
+            "description": "Yhdistä IT-investoinnit liiketoiminnan prioriteetteihin ja mitattavissa oleviin tuloksiin."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM-ratkaisut",
+        "heading": "CRM-ratkaisumme",
+        "sub": "Tarjoa yhdistettyjä, henkilökohtaisia ja älykkäitä asiakaskokemuksia koko asiakaspolun ajan.",
+        "promoTitle": "Sulje Lisää tarjouksia",
+        "promoText": "Valtuuta myynti- ja tukitiimesi yhtenäisillä asiakastiedoilla ja älykkäällä automaatiolla.",
+        "items": [
+          {
+            "title": "Asiakaspalvelun hallinta",
+            "description": "Paranna asiakastukea nopeammalla resoluutiolla, itsepalvelulla ja älykkäillä työnkuluilla."
+          },
+          {
+            "title": "Myynnin automaatio",
+            "description": "Automatisoi myyntitoimintaa, hallitse liidejä ja auta tiimejä sulkemaan mahdollisuuksia nopeammin."
+          },
+          {
+            "title": "Myynnin ja tilausten hallinta",
+            "description": "Virtaviivaista matkaa liidistä tilaukseen ja paranna tulojen näkyvyyttä."
+          },
+          {
+            "title": "Kenttäpalveluiden hallinta",
+            "description": "Optimoi kenttätyöt, aikataulutus, lähetys ja teknikon tuottavuus."
+          },
+          {
+            "title": "Asiakaskokemuksen hallinta",
+            "description": "Luo saumattomia ja yksilöllisiä kokemuksia jokaisessa asiakaskontaktipisteessä."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "Muuta asiakasdata käyttökelpoiseksi oivallukseksi älykkäämpiä liiketoimintapäätöksiä varten."
+          },
+          {
+            "title": "Markkinoinnin automaatio",
+            "description": "Automatisoi kampanjat, asiakkaiden sitouttaminen ja liidien kasvattaminen."
+          },
+          {
+            "title": "Tekoälyllä toimiva CRM",
+            "description": "Käytä älykästä automaatiota ja tekoälyn oivalluksia parantaaksesi tuottavuutta ja asiakkaiden sitoutumista."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS-ratkaisut",
+        "heading": "HRMS-ratkaisumme",
+        "sub": "Tehosta työvoimaasi älykkäillä, integroiduilla ja automatisoiduilla HR-ratkaisuilla, jotka yksinkertaistavat työntekijöiden hallintaa ja parantavat työkokemusta.",
+        "promoTitle": "Yksinkertaista HR-toimintaa",
+        "promoText": "Automatisoi HR-työnkulut rekrytoinnista eläkkeelle siirtymiseen nykyaikaisella, työntekijälähtöisellä alustalla.",
+        "items": [
+          {
+            "title": "Ydinhenkilöstöjohtaminen",
+            "description": "Hallitse työntekijöiden tietoja, organisaatiorakenteita ja HR-prosesseja tehokkaasti."
+          },
+          {
+            "title": "Palkanlaskenta",
+            "description": "Automatisoi palkanlaskenta, palkankäsittely, vähennykset ja vaatimustenmukaisuus."
+          },
+          {
+            "title": "Työntekijöiden itsepalvelu",
+            "description": "Tarjoa työntekijöille helppo pääsy HR-palveluihin, pyyntöihin, asiakirjoihin ja tietoihin."
+          },
+          {
+            "title": "Läsnäolo- ja lomanhallinta",
+            "description": "Yksinkertaista läsnäoloseuranta, lomapyynnöt, työvuorot ja työajat."
+          },
+          {
+            "title": "Rekrytointi ja perehdytys",
+            "description": "Tehosta rekrytointia, ehdokkaiden hallintaa, perehdyttämistä ja työntekijöiden integrointia."
+          },
+          {
+            "title": "Suorituskyvyn hallinta",
+            "description": "Aseta tavoitteita, seuraa suorituskykyä ja tue jatkuvaa henkilöstön kehittymistä."
+          },
+          {
+            "title": "Oppiminen ja kehitys",
+            "description": "Hallitse koulutusohjelmia, taitojen kehittämistä ja henkilöstön kasvua."
+          },
+          {
+            "title": "HR Analytics ja raportointi",
+            "description": "Muuta työvoimatiedoista käyttökelpoisia oivalluksia parempia HR-päätöksiä varten."
+          },
+          {
+            "title": "Tekoälyllä toimiva HR-automaatio",
+            "description": "Automatisoi toistuvat HR-tehtävät ja tarjoa nopeampia, henkilökohtaisia ​​työkokemuksia."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Sovelluskehitys",
+        "heading": "Sovelluskehityspalvelumme",
+        "sub": "Rakenna turvallisia, skaalautuvia ja tehokkaita sovelluksia, jotka nopeuttavat liiketoiminnan kasvua ja yksinkertaistavat monimutkaisia prosesseja.",
+        "promoTitle": "Build Apps -käyttäjät rakastavat",
+        "promoText": "Ideasta julkaisuun tiimimme suunnittelee ja kehittää laadukkaita mobiili- ja verkkosovelluksia, jotka skaalautuvat.",
+        "items": [
+          {
+            "title": "Mukautettu sovelluskehitys",
+            "description": "Rakenna räätälöityjä sovelluksia, jotka on suunniteltu ainutlaatuisten liiketoimintavaatimustesi mukaan."
+          },
+          {
+            "title": "Verkko- ja mobiilisovellusten kehittäminen",
+            "description": "Tarjoa saumattomia digitaalisia kokemuksia verkossa, mobiililaitteella ja useilla laitteilla."
+          },
+          {
+            "title": "Yrityssovellusten kehittäminen",
+            "description": "Kehitä skaalautuvia ratkaisuja, jotka integroituvat olemassa oleviin liiketoimintajärjestelmiisi."
+          },
+          {
+            "title": "Low-Code & No-Code kehitys",
+            "description": "Nopeuta sovellusten toimitusta joustavilla matalan koodin kehitysalustoilla."
+          },
+          {
+            "title": "API ja järjestelmäintegraatio",
+            "description": "Yhdistä sovellukset, alustat ja kolmannen osapuolen järjestelmät saumattomaan tiedonkulkuun."
+          },
+          {
+            "title": "Sovellusten modernisointi",
+            "description": "Muuta vanhat sovellukset moderneiksi, skaalautuviksi ja tehokkaiksi ratkaisuiksi."
+          },
+          {
+            "title": "Tekoälyllä toimivat sovellukset",
+            "description": "Integroi tekoäly, automaatio ja älykkäät ominaisuudet yrityssovelluksiin."
+          },
+          {
+            "title": "Sovellusten tuki ja ylläpito",
+            "description": "Varmista jatkuva suorituskyky, tietoturva, päivitykset ja luotettavuus."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "Tekoäly ja robotiikka",
+    "businessAutomation": "Liiketoiminnan automaatio",
+    "cloudMigrations": "Pilvien siirrot",
+    "dataCenters": "Palvelinkeskukset",
+    "cognitiveAnalyticsAi": "Kognitiivinen analytiikka ja tekoäly",
+    "informationReportingSystems": "Tieto- ja raportointijärjestelmät",
+    "managedServices": "Hallitut palvelut",
+    "oneStopSolutions": "Yhden luukun ratkaisut"
+  },
+  "servicePage": {
+    "serviceOverview": "Palvelun yleiskatsaus",
+    "whatWeOffer": "Mitä tarjoamme",
+    "whyChooseRezonants": "Miksi valita Rezonants",
+    "benefitsOfWorking": "Kanssamme työskentelyn edut",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Käyttämämme tekniikat",
+    "ourWork": "Työmme",
+    "relatedProjects": "Aiheeseen liittyvät hankkeet",
+    "viewCaseStudy": "Näytä tapaustutkimus",
+    "readyToDiscuss": "Oletko valmis keskustelemaan {{title}}-projektistasi?",
+    "seniorEngineersReady": "Vanhemmat insinöörimme ovat valmiita auttamaan sinua suunnittelemaan, suunnittelemaan ja rakentamaan ratkaisusi.",
+    "startProject": "Aloita projektisi",
+    "howItWorks": "Miten se toimii"
+  },
+  "consultation": {
+    "badge": "Varaa ilmainen konsultaatio",
+    "title": "Suunnitellaan projektisi <span class='hero-accent'>yhdessä</span>",
+    "description": "Sovi veloitukseton puhelu konsulttiemme kanssa. Keskustele vaatimuksistasi, tutustu oikeaan tekniseen lähestymistapaan ja hanki selkeä tarjous – kaikki alle 30 minuutissa.",
+    "bookSlot": "Varaa paikkasi",
+    "howItWorks": "Miten se toimii",
+    "accountRequired": "Tili vaaditaan",
+    "signInToBook": "Kirjaudu sisään varataksesi konsultaatiosi",
+    "accountRequiredText": "Tarvitset Rezonants-tilin voidaksesi pyytää konsultaatiota. Kirjaudu sisään tai luo sellainen – se kestää alle minuutin.",
+    "signInToContinue": "Kirjaudu sisään jatkaaksesi",
+    "newToRezonants": "Uusi Rezonantsissa?",
+    "createAccount": "Luo tili",
+    "requestMeeting": "Pyydä kokous",
+    "tellUsAboutProject": "Kerro meille projektistasi",
+    "fillDetails": "Täytä tietosi, niin vahvistamme konsultaatiopaikkasi sähköpostitse.",
+    "fullName": "Koko nimi *",
+    "email": "Sähköposti *",
+    "phone": "Puhelin *",
+    "company": "Yritys",
+    "serviceOfInterest": "Kiinnostava palvelu *",
+    "selectService": "Valitse palvelu…",
+    "preferredDate": "Ensisijainen päivämäärä *",
+    "preferredTime": "Ensisijainen aika *",
+    "selectTimeSlot": "Valitse aikaväli…",
+    "estimatedBudget": "Arvioitu budjetti",
+    "selectRange": "Valitse alue…",
+    "projectRequirements": "Hankkeen vaatimukset",
+    "booking": "Varaus…",
+    "bookFreeConsultation": "Varaa ilmainen konsultaationi",
+    "freeNote": "100% ilmainen eikä sido. Vastaamme normaalisti 24 tunnin kuluessa.",
+    "whatToExpect": "Mitä odottaa",
+    "preferToReachUs": "Haluatko ottaa meihin yhteyttä suoraan?",
+    "callUs": "Soita meille",
+    "emailUs": "Lähetä meille sähköpostia",
+    "visitUs": "Tule käymään",
+    "whyBookWithUs": "Miksi varata meiltä",
+    "freeCallTitle": "Ilmainen puhelu, joka todella auttaa",
+    "freeCallNoPressure": "Ilmainen puhelu, ei paineita",
+    "freeCallNoPressureText": "Jokainen ensimmäinen konsultaatio on ilmainen. Ostovelvollisuutta ei ole - vain rehellinen neuvo.",
+    "seniorConsultants": "Vain vanhemmat konsultit",
+    "seniorConsultantsText": "Kokoustanne johtavat vanhemmat insinöörit ja konsultit, jotka rakentavat elantonsa.",
+    "clearTimelines": "Tyhjennä aikajanat ja lainaukset",
+    "clearTimelinesText": "Lähde määritellyllä seuraavalla askeleella, realistisella aikajanalla ja läpinäkyvällä hinnoittelulla projektillesi.",
+    "services": {
+      "customSoftware": "Mukautettu ohjelmistokehitys",
+      "webMobile": "Verkko- ja mobiilisovellusten kehitys",
+      "cloudDevops": "Cloud & DevOps -ratkaisut",
+      "aiMl": "Tekoäly ja koneoppiminen",
+      "itConsulting": "IT-konsultointi",
+      "digitalMarketing": "Digitaalinen markkinointi ja hakukoneoptimointi",
+      "erpSolutions": "ERP-ratkaisut",
+      "other": "Muu / Ei vielä varma"
+    },
+    "budgets": {
+      "under1L": "Alle 1L ₹",
+      "1to5L": "₹ 1 L – ₹ 5 L",
+      "5to10L": "₹ 5L – ₹ 10L",
+      "above10L": "₹ 10L+",
+      "notDecided": "Ei vielä päätetty"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Ymmärrä tavoitteesi",
+        "text": "Kuuntelemme ensin. 30 minuutin puhelu yrityksesi tarpeiden, yleisön ja toivottujen tulosten kartoittamiseksi."
+      },
+      "technicalDirection": {
+        "title": "Hanki tekninen ohje",
+        "text": "Insinöörimme jakavat projektiisi oikean arkkitehtuurin, pinon ja lähestymistavan."
+      },
+      "clearQuote": {
+        "title": "Vastaanota selkeä tarjous",
+        "text": "Lähde läpinäkyvän arvion, aikajanan ja seuraavien vaiheiden kanssa – ei velvollisuutta."
+      }
+    },
+    "validation": {
+      "nameRequired": "Koko nimi vaaditaan.",
+      "emailRequired": "Sähköposti vaaditaan.",
+      "emailInvalid": "Anna kelvollinen sähköpostiosoite.",
+      "phoneRequired": "Puhelinnumero vaaditaan.",
+      "phoneInvalid": "Anna kelvollinen puhelinnumero.",
+      "serviceRequired": "Valitse palvelu.",
+      "dateRequired": "Valitse haluamasi päivämäärä.",
+      "timeRequired": "Valitse haluamasi aikaväli.",
+      "messageTooShort": "Lisää hieman yksityiskohtia (vähintään 10 merkkiä).",
+      "signInRequired": "Kirjaudu sisään varataksesi konsultaatiosi.",
+      "couldNotBook": "Konsultaatiota ei voitu varata. Tarkista, että neuvottelutaulukko on olemassa, ja yritä sitten uudelleen.",
+      "bookedSuccess": "Konsultaatio varattu! Tiimimme vahvistaa aikasi pian sähköpostitse."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Tervetuloa takaisin",
+    "createAccount": "Luo tili",
+    "forgotPassword": "Salasana unohtunut",
+    "createNewPassword": "Luo uusi salasana",
+    "welcomeBackDesc": "Kirjaudu sisään Rezonants-tilillesi.",
+    "createAccountDesc": "Liity Rezonants -palveluun tänään.",
+    "forgotDesc": "Anna sähköpostiosoitteesi, niin lähetämme sinulle linkin salasanan vaihtamiseen.",
+    "recoveryDesc": "Valitse tilillesi uusi vahva salasana.",
+    "fullName": "Koko nimi",
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "newPassword": "Uusi salasana",
+    "confirmPassword": "Vahvista salasana",
+    "confirmNewPassword": "Vahvista uusi salasana",
+    "forgotPasswordLink": "Unohditko salasanan?",
+    "privacyPolicy": "Hyväksyn Rezonantsin <1>tietosuoja- ja turvallisuuskäytännön</1>.",
+    "sendResetLink": "Lähetä nollauslinkki",
+    "signIn": "Kirjaudu sisään",
+    "signUp": "Rekisteröidy",
+    "pleaseWait": "Odota…",
+    "rememberedPassword": "Muistitko salasanasi?",
+    "signInLink": "Kirjaudu sisään",
+    "noAccount": "Eikö sinulla ole tiliä?",
+    "signUpLink": "Rekisteröidy",
+    "hasAccount": "Onko sinulla jo tili?",
+    "changedMind": "Muutitko mieltäsi?",
+    "backToSignIn": "Takaisin sisäänkirjautumiseen",
+    "resetSent": "Salasanan palautuslinkki lähetetty! Tarkista sähköpostisi luodaksesi uuden salasanan.",
+    "passwordUpdated": "Salasanasi on päivitetty. Kirjaudu sisään uudella salasanallasi.",
+    "accountCreated": "Tili luotu! Tarkista sähköpostisi vahvistaaksesi rekisteröitymisesi ja kirjaudu sitten sisään.",
+    "validation": {
+      "fullNameRequired": "Koko nimi vaaditaan.",
+      "emailRequired": "Sähköposti vaaditaan.",
+      "emailInvalid": "Anna kelvollinen sähköpostiosoite.",
+      "passwordRequired": "Salasana vaaditaan.",
+      "passwordMinLength": "Salasanassa on oltava vähintään 6 merkkiä.",
+      "passwordsNoMatch": "Salasanat eivät täsmää.",
+      "acceptTerms": "Hyväksy Rezonantsin tietosuoja- ja turvallisuuskäytäntö jatkaaksesi."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Keskustele Rezonants AI:n kanssa",
+    "openChatLabel": "Avaa Rezonants AI Assistant -chat",
+    "chatTitle": "Rezonants AI Assistant",
+    "online": "verkossa",
+    "expandLabel": "Laajenna chatbottia",
+    "minimizeLabel": "Minimoi chatbot",
+    "closeLabel": "Sulje chatbot",
+    "expand": "Laajenna",
+    "minimize": "Minimoi",
+    "close": "Sulje",
+    "popularTopics": "Suositut aiheet",
+    "askPlaceholder": "Kysy minulta Rezonantsista...",
+    "messageLabel": "Lähetä viesti Rezonants AI Assistantille",
+    "sendLabel": "Lähetä viesti",
+    "sendTitle": "Lähetä viesti",
+    "enterToSend": "Enter lähettääksesi · Vaihto+Enter uudelle riville",
+    "newChat": "Uusi chat",
+    "typing": "Rezonants AI kirjoittaa",
+    "menuOptions": "Valikkovaihtoehdot",
+    "greetingMorning": "Huomenta",
+    "greetingAfternoon": "Hyvää iltapäivää",
+    "greetingEvening": "Hyvää iltaa",
+    "welcomeText": "! 👋 Tervetuloa Rezonantsille.\nOlen Rezonants AI Assistant. Voin auttaa sinua tutustumaan palveluihimme, tekniikoihimme ja yhteystietoihimme."
+  },
+  "cookieConsent": {
+    "title": "Arvostamme yksityisyyttäsi",
+    "description": "Käytämme evästeitä parantaaksemme selauskokemustasi. Voit hyväksyä kaikki evästeet, hylätä ei-välttämättömät evästeet tai muokata asetuksiasi. Välttämättömät evästeet ovat aina käytössä, jotta sivusto toimii oikein.",
+    "acceptAll": "Hyväksy kaikki",
+    "rejectNonEssential": "Hylkää ei-välttämätön",
+    "managePreferences": "Hallinnoi asetuksia",
+    "privacyPolicy": "Tietosuojakäytäntö"
+  },
+  "cookiePreferences": {
+    "title": "Hallinnoi evästeasetuksia",
+    "description": "Valitse sallitut evästeluokat. Välttämättömät evästeet ovat edelleen käytössä, jotta sivusto pysyy toiminnassa.",
+    "essential": "Olennaista",
+    "essentialDesc": "Vaaditaan verkkosivuston toimintaan (todennus, suojaus, kuormituksen tasapainotus). Näitä ei voi poistaa käytöstä.",
+    "analytics": "Analyysi",
+    "analyticsDesc": "Auta meitä ymmärtämään, kuinka vierailijat käyttävät sivustoa, jotta voimme parantaa sitä. Oletuksena poissa käytöstä.",
+    "marketing": "Markkinointi",
+    "marketingDesc": "Käytetään sinulle osuvien tarjousten ja kampanjoiden näyttämiseen. Oletuksena poissa käytöstä.",
+    "cancel": "Peruuta",
+    "savePreferences": "Tallenna asetukset"
+  },
+  "privacy": {
+    "badge": "Laillinen",
+    "title": "Tietosuojakäytäntö",
+    "description": "Miten Rezonants kerää, käyttää ja suojaa henkilökohtaisia ​​tietojasi ja evästeitäsi.",
+    "lastUpdated": "Päivitetty viimeksi: elokuussa 2026",
+    "managingPreferences": "Asetusten hallinta",
+    "managingPreferencesDesc": "Voit tarkistaa tai muuttaa sallitut evästeet milloin tahansa evästeasetuspaneelista.",
+    "manageCookiePreferences": "Hallinnoi evästeasetuksia",
+    "section1": {
+      "title": "1. Keräämämme tiedot",
+      "body": [
+        "Keräämme suoraan antamiasi tietoja (kuten nimesi ja sähköpostiosoitteesi, kun lähetät yhteydenottolomakkeen tai luot tilin) ​​sekä evästeiden ja vastaavien teknologioiden avulla automaattisesti kerättyjä tietoja, kuten vieraillut sivut, laitetyyppi ja likimääräinen sijainti."
+      ]
+    },
+    "section2": {
+      "title": "2. Kuinka käytämme evästeitä",
+      "body": [
+        "Välttämättömät evästeet ovat aina käytössä, koska sivusto ei voi toimia oikein ilman niitä. Ne tallentavat istunnon ja todennustilan ja muistavat evästeasetukset.",
+        "Analyysievästeet auttavat meitä ymmärtämään, kuinka vierailijat käyttävät sivustoa, jotta voimme parantaa sitä. Markkinointievästeitä käytetään näyttämään sinulle asiaankuuluvia tarjouksia ja kampanjoita. Nämä luokat otetaan käyttöön vain suostumuksellasi, ja niitä voidaan muuttaa milloin tahansa evästeasetuspaneelista."
+      ]
+    },
+    "section3": {
+      "title": "3. Oikeusperusta (GDPR)",
+      "body": [
+        "Käsittelemme henkilötietojasi seuraavilla laillisilla perusteilla: suostumuksesi (ei-välttämättömiä evästeitä ja markkinointia varten), sopimuksen täyttäminen (pyydämiäsi palveluita varten), lakisääteinen velvoite ja oikeutetut edut, jos oikeutesi eivät ole niitä tärkeämpiä. Voit peruuttaa suostumuksesi milloin tahansa vaikuttamatta ennen peruuttamista suoritetun käsittelyn laillisuuteen."
+      ]
+    },
+    "section4": {
+      "title": "4. Sinun oikeutesi",
+      "body": [
+        "Sijainnistasi riippuen sinulla voi olla oikeus päästä käsiksi, oikaista, poistaa tai rajoittaa henkilötietojesi käsittelyä, vastustaa käsittelyä ja tietojen siirrettävyyttä. Voit myös tehdä valituksen paikalliselle valvontaviranomaiselle."
+      ]
+    },
+    "section5": {
+      "title": "5. Tietojen säilyttäminen ja turvallisuus",
+      "body": [
+        "Säilytämme henkilötietoja vain niin kauan kuin on tarpeen tässä tietosuojaselosteessa kuvattuihin tarkoituksiin. Käytämme asianmukaisia ​​teknisiä ja organisatorisia toimenpiteitä tietojesi suojaamiseksi luvattomalta käytöltä, muuttamiselta, paljastamiselta tai tuhoamiselta."
+      ]
+    },
+    "section6": {
+      "title": "6. Kolmannen osapuolen palvelut",
+      "body": [
+        "Kolmannen osapuolen palveluntarjoajat (kuten analytiikka- tai mainosalustat) voivat asettaa jotkin evästeet, jotka auttavat meitä käyttämään verkkosivustoa. Nämä palveluntarjoajat käsittelevät tietoja omien tietosuojakäytäntöjensä mukaisesti ja vain silloin, kun olet antanut suostumuksesi kyseiseen kategoriaan."
+      ]
+    },
+    "contactUs": "7. Ota yhteyttä",
+    "contactUsText": "Jos sinulla on kysyttävää tästä käytännöstä tai henkilötiedoistasi, ota meihin yhteyttä osoitteessa <1>info@rezonants.com</1> tai soita numeroon <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Palvelut",
+    "title": "Palvelumme",
+    "sub": "Kattavat teknologiaratkaisut, jotka on suunniteltu auttamaan yrityksiä innovoimaan, skaalautumaan ja menestymään.",
+    "learnMore": "Lisätietoja",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Alusta käyttöönottoon",
+        "text": "Alkukonseptista tuotannon käyttöönottoon toimitamme skaalautuvia ratkaisuja, jotka on rakennettu todellisiin liiketoiminnan tarpeisiin."
+      },
+      "businessProcessAutomation": {
+        "title": "Liiketoimintaprosessien automatisointi",
+        "text": "Virtaviivaista toistuvia prosesseja ja paranna toiminnan tehokkuutta älykkään liiketoimintaautomaation avulla."
+      },
+      "centerOfExcellence": {
+        "title": "Huippuyksikkö",
+        "text": "Rakenna erikoistuneita teknologiavalmiuksia ja asiantuntemusta innovaation, laadun ja jatkuvan parantamisen edistämiseksi."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Mukautettu kehitys ja räätälöinti",
+        "text": "Räätälöidyt ohjelmistoratkaisut, jotka on suunniteltu ainutlaatuisten liiketoimintavaatimustesi ja työnkulkujesi mukaan."
+      },
+      "digitalTransformation": {
+        "title": "Digitaalinen muunnos",
+        "text": "Modernisoi liiketoimintaasi digitaalisilla strategioilla, teknologioilla ja ratkaisuilla, jotka luovat mitattavissa olevia vaikutuksia."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Päästä päähän -ratkaisukehys",
+        "text": "Integroidut teknologiaratkaisut, jotka yhdistävät strategian, kehityksen, toteutuksen ja jatkuvan toiminnan."
+      },
+      "migrationModernization": {
+        "title": "Muutto ja modernisointi",
+        "text": "Modernoi vanhoja sovelluksia ja siirrä järjestelmät skaalautuville, turvallisille ja tehokkaille teknologia-alustoille."
+      },
+      "pocPilotImplementation": {
+        "title": "Proof of Concept (PoC) ja pilottitoteutus",
+        "text": "Vahvista ideat nopeasti kohdennettujen prototyyppien ja pilottitoteutusten avulla ennen täysimittaista käyttöönottoa."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Jaetut palvelut ja hallitut toiminnot",
+        "text": "Luotettavat hallitut teknologiatoiminnot, jotka parantavat suorituskykyä, skaalautuvuutta ja liiketoiminnan jatkuvuutta."
+      }
+    }
+  },
+  "footer": {
+    "company": "Yritys",
+    "about": "Tietoja",
+    "perspectives": "Näkymät",
+    "technologies": "Tekniikat",
+    "contact": "Ota yhteyttä",
+    "services": "Palvelut",
+    "getInTouch": "Ota yhteyttä",
+    "bookConsultation": "Varaa konsultaatio",
+    "copyright": "© {{year}} Rezonants. Kaikki oikeudet pidätetään.",
+    "cookiePreferences": "Evästeasetukset",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "description": "Rezonants on IT-palveluita ja digitaalisia tuotteita tarjoava yritys Hyderabadissa, Intiassa. Suunnittelemme, rakennamme ja skaalaamme ohjelmistoja yrityksille, jotka kilpailevat toteutuksesta.",
+    "locations": "Sijaintimme",
+    "indiaHq": "Hyderabad, Intia – Intian päämaja",
+    "southAfrica": "Etelä-Afrikka — REZONANTS PVT LTD",
+    "products": "Tuotteet",
+    "followUs": "Seuraa meitä",
+    "aboutUs": "Meistä",
+    "contactUs": "Ota yhteyttä",
+    "headline": "Rakennetaan",
+    "headlineAccent": "mitä seuraavaksi.",
+    "subheadline": "Tee yhteistyötä Rezonantsin kanssa muuttaaksesi ideat todellisiksi liikevaikutuksiksi.",
+    "credoIdeas": "IDEOITA",
+    "credoSolutions": "RATKAISUT",
+    "credoPeople": "IHMISET",
+    "credoBrighterTomorrow": "KIRKKAAMPI HUOMINEN",
+    "hyderabadLocation": "Hyderabad, Intia",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Etelä-Afrikka – REZONANTS PVT LTD",
+    "termsOfUse": "Käyttöehdot",
+    "accessibility": "Esteettömyys",
+    "quickLinks": "Pikalinkit",
+    "explore": "Tutustu",
+    "vijayawadaOffice": "Vijayawadan toimisto",
+    "allRightsReserved": "Kaikki oikeudet pidätetään.",
+    "hyderabadPin": "Hyderabad, Intia",
+    "southAfricaPin": "Etelä-Afrikka"
+  },
+  "common": {
+    "loading": "Ladataan...",
+    "error": "Virhe",
+    "retry": "Yritä uudelleen",
+    "close": "Sulje",
+    "backToTop": "Takaisin alkuun",
+    "skipToContent": "Siirry sisältöön",
+    "scroll": "Selaa",
+    "whatWeOffer": "Mitä Tarjoamme",
+    "howItWorks": "Miten se toimii"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Hae maata tai koodia…",
+    "noResults": "Maita ei löytynyt.",
+    "countryCodeLabel": "Maanumero",
+    "required": "Puhelinnumero vaaditaan.",
+    "incomplete": "Puhelinnumerossa on oltava täsmälleen {{count}} numeroa.",
+    "tooLong": "Puhelinnumerossa voi olla enintään {{count}} numeroa.",
+    "invalid": "Anna kelvollinen puhelinnumero maalle {{country}}."
+  },
+  "perspectives": {
+    "topic": "Aihe:",
+    "published": "Julkaistu:",
+    "readingTime": "Lukuaika:",
+    "author": "Kirjoittaja:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Teknologia-alue",
+    "purpose": "Tarkoitus",
+    "talkToExperts": "Keskustele asiantuntijoidemme kanssa",
+    "viewAll": "Näytä kaikki näkökulmat",
+    "exploreMore": "TUTKI LISÄÄ NÄKYMÄT",
+    "continueExploring": "Jatka Enterprise Technology Insightsin tutkimista",
+    "readPerspective": "Lue Perspektiivi"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Tekoäly- ja robottiratkaisut",
+      "tagline": "Älykäs tekniikka. Automatisoidut toiminnot. Älykkäämpää liiketoimintaa.",
+      "heroBadge": "Älykkäät autonomiset järjestelmät",
+      "overview": [
+        "Tekoäly ja robotiikka muuttavat tapaa, jolla organisaatiot toimivat, tekevät päätöksiä ja tuottavat arvoa. AI & Robotics -ratkaisumme auttavat yrityksiä siirtymään perinteisen automaation ulkopuolelle yhdistämällä tekoälyn, koneoppimisen, tietokonenäön, älykkään prosessiautomaation ja robotiikan käytännön liiketoiminnan haasteisiin.",
+        "Suunnittelemme älykkäitä ratkaisuja mitattavissa olevien liiketulosten ympärille. Olipa vaatimuksena toistuvan työn automatisointi, suurten tietomäärien analysointi, kuvioiden havaitseminen, päätösten tukeminen tai robotiikan tuominen toimintaympäristöihin, lähestymistapamme keskittyy luotettavuuteen, skaalautumiseen, turvallisuuteen ja pitkän aikavälin liiketoiminnan arvoon."
+      ],
+      "transformation": [
+        "Nykyaikaiset organisaatiot tuottavat valtavia määriä dataa ja suorittavat tuhansia toistuvia toimintoja päivittäin. Tekoäly ja robotiikka voivat muuttaa nämä toiminnot älykkäiksi, automatisoiduiksi työnkuluiksi, jotka parantavat tuottavuutta ja antavat työntekijöille mahdollisuuden keskittyä arvokkaampiin tehtäviin.",
+        "Ratkaisumme voivat auttaa organisaatioita automatisoimaan toistuvia toimintoja, vähentämään manuaalista puuttumista, parantamaan tarkkuutta, analysoimaan monimutkaisia ​​tietoja, tukemaan nopeampia päätöksiä, optimoimaan resurssien käyttöä, parantamaan asiakaskokemusta ja rakentamaan skaalautuvia älykkäitä järjestelmiä."
+      ],
+      "capabilities": [
+        {
+          "title": "Tekoäly",
+          "desc": "Kehitämme tekoälyyn perustuvia ratkaisuja, joiden avulla järjestelmät voivat ymmärtää tietoa, tunnistaa malleja, luoda oivalluksia ja tukea liiketoimintapäätöksiä."
+        },
+        {
+          "title": "Koneoppiminen",
+          "desc": "Kehitämme koneoppimismalleja ennustamiseen, luokitteluun, suositusjärjestelmiin, poikkeamien havaitsemiseen, ennakoivaan analysointiin ja älykkääseen päätöksentekoon."
+        },
+        {
+          "title": "Luonnollisen kielen käsittely",
+          "desc": "NLP:tä voidaan käyttää asiakirjojen käsittelyyn, tekstin ymmärtämiseen, tietojen luokitteluun, olennaisen sisällön poimimiseen ja keskustelusovellusten tukemiseen."
+        },
+        {
+          "title": "Tietokonenäkö",
+          "desc": "Tietokonenäköratkaisut voivat tukea kuvan luokittelua, esineiden havaitsemista, laaduntarkastuksia, dokumenttien käsittelyä, visuaalista valvontaa ja videoanalytiikkaa."
+        },
+        {
+          "title": "Robotiikka",
+          "desc": "Robotiikka yhdistää ohjelmistoälyn fyysisiin järjestelmiin automatisoidakseen toimintoja, jotka perinteisesti vaativat manuaalista työtä. Sovellukset voivat sisältää valmistusta, logistiikkaa, varastointia, tarkastusta, materiaalinkäsittelyä ja toiminnallista tukea."
+        },
+        {
+          "title": "Älykäs prosessiautomaatio",
+          "desc": "Tekoäly voidaan yhdistää työnkulun automatisointiin ja luoda järjestelmiä, jotka tulkitsevat tietoa, soveltavat liiketoimintasääntöjä tai malleja ja käynnistävät asianmukaiset prosessit automaattisesti."
+        }
+      ],
+      "lifecycleSteps": [
+        "Liiketoiminnan arviointi",
+        "Tietojen analyysi",
+        "AI-strategia",
+        "Ratkaisuarkkitehtuuri",
+        "Kehitys",
+        "Integrointi",
+        "Testaus",
+        "Käyttöönotto",
+        "Valvonta",
+        "Optimointi"
+      ],
+      "benefits": [
+        "Yrityksen toiminnan korkeampi tuottavuus",
+        "Käyttökustannusten huomattava vähennys",
+        "Nopeampi käsittely ja millisekunnin päätöskierros",
+        "Parannettu tietojen ja työnkulun tarkkuus",
+        "Optimoitu fyysisten ja laskennallisten resurssien käyttö",
+        "Vähemmän operatiivisia riskejä ja inhimillisiä virheitä",
+        "Saumaton usean alustan skaalautuvuus",
+        "Parempi asiakas- ja työntekijäkokemus"
+      ],
+      "security": "Yritysten tekoälyratkaisut on suunniteltava asianmukaisin suojauksin, pääsynvalvontaan, tietoturvaan, valvontaan, mallinhallintaan ja toiminnallisiin takeisiin. Otamme nämä vaatimukset huomioon arkkitehtuurivaiheesta käyttöönottoon ja jatkuvaan ylläpitoon varmistaaksemme luotettavan, tuotantotason älykkyyden.",
+      "ctaHeadline": "Rakenna älykäs tulevaisuus",
+      "ctaSub": "Tee toiminnastasi älykkäämpää. Automatisoi tärkeimmät. Rakenna tulevaisuutta varten."
+    },
+    "business-automation-solutions": {
+      "title": "Liiketoiminnan automaatioratkaisut",
+      "tagline": "Yksinkertaista prosesseja. Poista toisto. Nopeuttaa kasvua.",
+      "heroBadge": "Kokonaisvaltainen työnkulun optimointi",
+      "overview": [
+        "Liiketoiminnan automaation avulla organisaatiot voivat korvata toistuvat manuaaliset toiminnot virtaviivaistetuilla digitaalisilla työnkuluilla. Liiketoiminnan automaatioratkaisumme auttavat yrityksiä parantamaan tuottavuutta, vähentämään toiminnan monimutkaisuutta, minimoimaan virheet ja luomaan johdonmukaisia ​​prosesseja eri osastojen välillä.",
+        "Analysoimme olemassa olevia työnkulkuja, tunnistamme pullonkauloja ja suunnittelemme automaatioratkaisuja, jotka yhdistävät ihmiset, sovellukset, tiedot ja liiketoimintaprosessit."
+      ],
+      "transformation": [
+        "Monet organisaatiot ovat edelleen riippuvaisia ​​laskentataulukoista, sähköposteista, manuaalisista hyväksynnöistä, toistuvista tietojen syöttämisestä, asiakirjojen käsittelystä ja irrotetuista sovelluksista. Nämä prosessit kuluttavat arvokasta työntekijän aikaa ja voivat aiheuttaa viiveitä, epäjohdonmukaisuuksia ja virheitä.",
+        "Automaatiolähestymistapamme keskittyy koko prosessin ymmärtämiseen, tarpeettomien vaiheiden poistamiseen, järjestelmien integrointiin ja toimintojen automatisointiin, jotka tuottavat suurimman toiminnallisen arvon."
+      ],
+      "capabilities": [
+        {
+          "title": "Työnkulun automatisointi",
+          "desc": "Automatisoimme monivaiheiset prosessit, jotka koskevat työntekijöitä, sovelluksia, hyväksyntöjä, ilmoituksia ja tietoja eri osastojen välillä."
+        },
+        {
+          "title": "Roboottinen prosessiautomaatio",
+          "desc": "Ohjelmistobotit voivat suorittaa toistuvia, sääntöihin perustuvia toimintoja, kuten tietojen syöttämistä, järjestelmäpäivityksiä, täsmäytystä ja tiedonsiirtoa."
+        },
+        {
+          "title": "Asiakirjaautomaatio",
+          "desc": "Automaattiset asiakirjatyönkulut voivat poimia tietoja, vahvistaa tietoja, luokitella asiakirjoja, reitittää pyyntöjä ja käynnistää jatkoprosessit."
+        },
+        {
+          "title": "Hyväksyntäautomaatio",
+          "desc": "Digitaaliset hyväksyntätyönkulut reitittävät pyynnöt automaattisesti oikeille päättäjille ja tarjoavat reaaliaikaisen näkyvyyden vireillä oleviin toimiin."
+        },
+        {
+          "title": "Integraatioautomaatio",
+          "desc": "Yhdistämme yrityssovellukset, jotta tiedot voivat liikkua automaattisesti alustojen välillä ilman tarpeetonta manuaalista toimenpiteitä."
+        },
+        {
+          "title": "Ilmoitusautomaatio",
+          "desc": "Automaattiset hälytykset ja ilmoitukset auttavat työntekijöitä reagoimaan välittömästi tärkeisiin tapahtumiin, määräaikoihin, poikkeuksiin ja toiminnallisiin muutoksiin."
+        }
+      ],
+      "lifecycleSteps": [
+        "Tutustu",
+        "Analysoi",
+        "Suunnittelu",
+        "Automatisoi",
+        "Integroi",
+        "Testi",
+        "Ota käyttöön",
+        "Näyttö",
+        "Optimoi"
+      ],
+      "benefits": [
+        "Parempi tiimin suorituskyky ja toimintanopeus",
+        "Manuaalisten tietojen syöttövirheiden dramaattinen väheneminen",
+        "Lyhennetyt päästä päähän -prosessin läpimenoajat",
+        "Yhtenäinen näkyvyys liiketoiminnassa",
+        "Standardoitu osastojen välinen vaatimustenmukaisuus",
+        "Käyttökulut pienentyneet merkittävästi",
+        "Joustava kapasiteetti skaalata työkuormia vaivattomasti",
+        "Valtuutetut tiimit keskittyivät asiakassitoutumiseen ja strategiseen työhön"
+      ],
+      "security": "Yhdistämme työnkulkualustoja ja RPA:ta älykkäisiin kontekstitietoisiin malleihin varmistaaksemme roolipohjaisen kulunhallinnan, kattavat kirjausketjut ja tiukan vaatimustenmukaisuuden kaikissa automaattisissa tapahtumissa.",
+      "ctaHeadline": "Rakenna tehokkaampia toimintoja",
+      "ctaSub": "Automatisoi toistuva työ. Valtuuta ihmisiäsi. Nopeuta liiketoimintaasi."
+    },
+    "cloud-migration-solutions": {
+      "title": "Pilvisiirtoratkaisut",
+      "tagline": "Siirry pilveen luottavaisin mielin.",
+      "heroBadge": "Multi-Cloud Transformation",
+      "overview": [
+        "Pilvipalveluista on tullut nykyaikaisen IT-infrastruktuurin kriittinen osa. Organisaatiot siirtävät sovelluksia, tietokantoja, työkuormia ja infrastruktuuria pilviympäristöihin parantaakseen skaalautuvuutta, saatavuutta, joustavuutta ja toiminnan tehokkuutta.",
+        "Pilvisiirtopalvelumme auttavat organisaatioita arvioimaan nykyisen ympäristönsä, määrittämään siirtostrategioita, suorittamaan siirtoja ja optimoimaan työkuormia sen jälkeen, kun ne ovat siirtyneet pilveen."
+      ],
+      "transformation": [
+        "Pilvisiirto on enemmän kuin palvelimien siirtämistä ympäristöstä toiseen. Onnistunut siirto edellyttää sovellusten, infrastruktuurin, riippuvuuksien, tietoturvavaatimusten, tietojen, suorituskyvyn, saatavuuden ja liiketoiminnan jatkuvuuden huolellista arviointia.",
+        "Luomme siirtostrategioita organisaation nykyisen ympäristön ja tulevien tavoitteiden perusteella valitsemalla kullekin työmäärälle sopivan siirtomallin."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuurin siirto",
+          "desc": "Siirrämme perinteiset palvelimet, tallennustilat, virtuaalikoneet ja työkuormat nykyaikaisiin pilviympäristöihin AWS:ssä, Azuressa ja GCP:ssä."
+        },
+        {
+          "title": "Sovellusten siirto",
+          "desc": "Sovelluksia voidaan isännöidä uudelleen, alustaa uudelleen, muuttaa tai suunnitella uudelleen liiketoiminnan ja teknisten vaatimusten mukaan."
+        },
+        {
+          "title": "Tietokannan siirto",
+          "desc": "Siirrämme tietokantoja ottaen huomioon tietojen eheyden, suorituskyvyn, yhteensopivuuden, saatavuuden, turvallisuuden ja palautusvaatimukset."
+        },
+        {
+          "title": "Pilvien modernisointi",
+          "desc": "Migraatiosta tulee mahdollisuus modernisoida sovelluksia käyttämällä säiliöitä, mikropalveluita, hallittuja tietokantoja, palvelimettomia palveluita ja pilvipohjaisia arkkitehtuureja."
+        },
+        {
+          "title": "Hybridipilvi",
+          "desc": "Organisaatiot, jotka tarvitsevat sekä paikan päällä että pilviinfrastruktuuria, voivat ottaa käyttöön hybridiarkkitehtuurit, jotka yhdistävät saumattomasti olemassa olevat järjestelmät pilvipalveluihin."
+        },
+        {
+          "title": "Monipilvi",
+          "desc": "Organisaatioille, jotka toimivat useilla pilvialustoilla, autamme suunnittelemaan työkuormitusstrategioita, jotka parantavat joustavuutta, kestävyyttä ja hallintoa."
+        }
+      ],
+      "lifecycleSteps": [
+        "Arviointi",
+        "Löytö",
+        "Riippuvuuskartoitus",
+        "Muuttoliikestrategia",
+        "Arkkitehtuurisuunnittelu",
+        "Pilottisiirto",
+        "Tietojen siirto",
+        "Sovellusten siirto",
+        "Testaus",
+        "Tuotannon siirto",
+        "Optimointi"
+      ],
+      "benefits": [
+        "Joustava skaalautuvuus ja korkea resurssien saatavuus",
+        "Lisää infrastruktuurin joustavuutta ja liiketoiminnan ketteryyttä",
+        "Fyysisen palvelinkeskuksen ylläpitotaakka eliminoitu",
+        "Nopeutettu sovellusominaisuuden käyttöönotto",
+        "Vahva katastrofipalautus ja varmuuskopioiden sietokyky",
+        "Välitön pääsy nykyaikaisiin pilviteälyyn ja hallittuihin palveluihin",
+        "Optimoitu FinOps-hallinta ja TCO-vähennys",
+        "Jatkuva vaatimustenmukaisuus ja automaattiset turvakaiteet"
+      ],
+      "security": "Turvallisuus on olennainen osa siirtymisen suunnittelua. Otamme huomioon identiteetin ja käyttöoikeuksien hallinnan, verkon suojauksen, salauksen kuljetuksen aikana ja lepotilassa, tietosuojan, sovellusten haavoittuvuustarkastukset, valvonnan, varmuuskopioinnin ja hätäpalautuksen.",
+      "ctaHeadline": "Pilvimatkasi, oikein suunniteltu",
+      "ctaSub": "Modernisoi infrastruktuurisi. Nopeuta innovaatioita. Rakenna skaalautuva pilvipohja."
+    },
+    "data-center-solutions": {
+      "title": "Palvelinkeskusratkaisut",
+      "tagline": "Luotettava infrastruktuuri kriittisiin toimintoihin.",
+      "heroBadge": "Tehtäväkriittinen infrastruktuuri",
+      "overview": [
+        "Palvelinkeskukset muodostavat nykyaikaisen digitaalisen liiketoiminnan perustan. Sovellukset, tietokannat, yritysjärjestelmät, viestintäalustat ja tärkeät yrityspalvelut ovat riippuvaisia ​​luotettavasta infrastruktuurista.",
+        "Palvelinkeskusratkaisumme keskittyvät käytettävyyden, turvallisuuden, skaalautuvuuden, suorituskyvyn ja toiminnan tehokkuuden kannalta rakennettujen infrastruktuuriympäristöjen suunnitteluun, modernisointiin, hallintaan ja optimointiin."
+      ],
+      "transformation": [
+        "Nykyaikainen konesali vaatii muutakin kuin palvelimia ja tallennustilaa. Se vaatii huolellisesti suunniteltua infrastruktuuria tietojenkäsittelyn, verkkojen, turvallisuuden, tehon, jäähdytyksen, valvonnan, varmuuskopioinnin ja katastrofien palautuksen osalta.",
+        "Autamme organisaatioita luomaan kestäviä infrastruktuuriympäristöjä, jotka tukevat kriittistä työtaakkaa ja luovat pohjan tulevalle teknologian kasvulle."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuurisuunnittelu",
+          "desc": "Suunnittelemme ympäristöjä työmäärävaatimusten, kapasiteetin, suorituskyvyn, saatavuuden, turvallisuuden ja tulevan kasvun perusteella."
+        },
+        {
+          "title": "Palvelininfrastruktuuri",
+          "desc": "Tuemme fyysisiä ja virtuaalisia palvelinympäristöjä kriittisille yrityssovelluksille ja työkuormille."
+        },
+        {
+          "title": "Varastointiratkaisut",
+          "desc": "Otamme huomioon suorituskyvyn, kapasiteetin, redundanssin, nopean SAN/NAS-, varmuuskopiointi- ja tietosuojavaatimukset suunnitellessamme tallennusympäristöjä."
+        },
+        {
+          "title": "Verkkoinfrastruktuuri",
+          "desc": "Suunnittelemme verkkoympäristöjä asianmukaisella segmentoinnilla, redundanssilla, alhaisella viiveellä, liitettävyydellä ja suojausohjaimilla."
+        },
+        {
+          "title": "Virtualisointi",
+          "desc": "Virtualisointi parantaa resurssien käyttöä, työtaakan joustavuutta ja keskitettyä infrastruktuurin hallintaa."
+        },
+        {
+          "title": "Varmuuskopiointi ja katastrofipalautus",
+          "desc": "Autamme organisaatioita luomaan varmuuskopiointistrategioita ja palautusarkkitehtuureja, jotka on suunniteltu minimoimaan seisokit ja estämään tietojen häviäminen."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kapasiteetin arviointi",
+        "Työkuorman profilointi",
+        "Arkkitehtuurisuunnitelma",
+        "Laitteisto ja virtuaalinen mitoitus",
+        "Verkon segmentointi",
+        "Varastointi",
+        "Redundanssi- ja DR-testaus",
+        "Tuotannon leikkaus",
+        "24/7 terveydentilan seuranta",
+        "Jatkuva optimointi"
+      ],
+      "benefits": [
+        "Taattu 99,999 %:n infrastruktuurin käyttöaika",
+        "Nolla yksittäistä vikakohtaa monikerroksisella redundanssilla",
+        "Optimoitu palvelinlaskenta ja suuritiheyksinen virtualisointi",
+        "Submillisekunnin matalan latenssin verkkoarkkitehtuurit",
+        "Karkaistu fyysinen ja digitaalinen kehäturvallisuus",
+        "Ennakoiva valvonta ja automaattinen vikasieto",
+        "Skaalautuva modulaarinen tallennustila petabyyttimittakaavaisille tiedoille",
+        "Ennustettavat kokonaiskustannukset ja tehokkuus"
+      ],
+      "security": "Tietoturva on integroitu infrastruktuurikerrokseen, joka kattaa verkon mikrosegmentoinnin, laitteiston luottamuksen juuren, nollaluottamuksen pääsynhallinnan, jatkuvat haavoittuvuustarkastukset, päätepisteiden suojauksen ja tiukat toimintakäytännöt.",
+      "ctaHeadline": "Tulevaisuuteen valmis infrastruktuuri",
+      "ctaSub": "Rakenna luotettava infrastruktuuri jo tänään. Luo perusta huomisen teknologialle."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognitiivinen analytiikka ja tekoäly",
+      "tagline": "Muuta data älykkyydeksi.",
+      "heroBadge": "Data-to-Decision Intelligence",
+      "overview": [
+        "Organisaatiot tuottavat valtavia määriä tietoa sovellusten, tapahtumien, asiakkaiden, toimintojen, laitteiden ja digitaalisten alustojen kautta. Haasteena ei ole enää pelkkä tiedon kerääminen; se on tiedon ymmärtämistä ja sen muuttamista toimivaksi älykkyydeksi.",
+        "Kognitiivinen analytiikka ja tekoälyratkaisumme yhdistävät edistyneen analytiikan, koneoppimisen, tekoälyn, tietojenkäsittelyn ja liiketoimintaälyn auttaakseen organisaatioita tekemään parempia päätöksiä."
+      ],
+      "transformation": [
+        "Perinteinen raportointi kertoo organisaatioille, mitä tapahtui. Kehittynyt analytiikka voi auttaa selittämään, miksi se tapahtui, tunnistamaan, mitä voi tapahtua seuraavaksi, ja tukea päätöksiä siitä, mitä pitäisi tapahtua.",
+        "Autamme organisaatioita luomaan tietoympäristöjä, jotka siirtyvät staattisen raportoinnin lisäksi älykkääseen analysointiin ja päätöksentekoon."
+      ],
+      "capabilities": [
+        {
+          "title": "Kuvaava analyysi",
+          "desc": "Ymmärrä historiallista tehokkuutta interaktiivisten raporttien, moniulotteisten kojetaulujen, tehokkuusindikaattoreiden ja liiketoimintamittareiden avulla."
+        },
+        {
+          "title": "Diagnostinen analyysi",
+          "desc": "Tunnista taustalla olevat suhteet, trendit, tilastolliset poikkeavuudet ja perimmäiset syyt liiketoiminnan tulosten taustalla."
+        },
+        {
+          "title": "Ennakoiva analytiikka",
+          "desc": "Käytä historiallisia ja reaaliaikaisia suoratoistotietoja tilastomalleilla tunnistaaksesi mahdolliset tulevat tulokset ja vaatimukset."
+        },
+        {
+          "title": "Prescriptive Analytics",
+          "desc": "Arvioi mahdollisia toimia ja tue optimaalisia päätöspolkuja ennustettujen tulosten ja strategisten liiketoimintatavoitteiden perusteella."
+        },
+        {
+          "title": "Koneoppimismalleja",
+          "desc": "Kehitä mukautettuja malleja ennustamiseen, asiakkaiden luokitteluun, suosituksiin, petospoikkeamien havaitsemiseen ja ennakoivaan ylläpitoon."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Käytä kognitiivista tekoälyä valtaviin määriin jäsentämätöntä tietoa paljastaaksesi piilotettuja kuvioita, yhteenvetoja ja suosituksia."
+        }
+      ],
+      "lifecycleSteps": [
+        "Tietolähteet",
+        "Tietojen integrointi",
+        "Tietojen käsittely",
+        "Tietojen tallennus",
+        "Analyysi",
+        "AI/ML-malleja",
+        "Visualisointi",
+        "Liiketoimintapäätökset"
+      ],
+      "benefits": [
+        "Tosiasioihin perustuva, tietoon perustuva toimeenpanon päätöksenteko",
+        "Tarkka kysynnän, tulojen ja vaihtuvuusennuste",
+        "Reaaliaikainen poikkeamien ja petosten havaitseminen",
+        "Syvä 360° asiakaskäyttäytymisen oivalluksia ja personointi",
+        "Optimoitu toimitusketju ja toiminnan tehokkuus",
+        "Vähentynyt toiminnallinen ja taloudellinen riski",
+        "Piilotettujen tulomahdollisuuksien löytäminen",
+        "Nopeutettu aika oivalluksiin eri liiketoimintayksiköissä"
+      ],
+      "security": "Analytiikkaekosysteemimme toteuttavat päästä päähän -salauksen, automaattisen tietojen peittämisen, tiukat RBAC-luvat ja mallihallinnan suojatakseen omistusoikeudellisia tietoja ja ylläpitääkseen säännösten noudattamista (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Rakenna älykäs tietostrategia",
+      "ctaSub": "Muuta tieto oivallukseksi. Muuta oivallus toiminnaksi."
+    },
+    "information-reporting-systems": {
+      "title": "Tieto- ja raportointijärjestelmät",
+      "tagline": "Oikeat tiedot. Oikeaan aikaan. Parempien päätösten puolesta.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Yritysjohtajat ja operatiiviset tiimit ovat riippuvaisia tarkasta tiedosta tehdäkseen tehokkaita päätöksiä. Tieto- ja raportointijärjestelmämme auttavat organisaatioita keräämään, järjestämään, analysoimaan ja esittämään liiketoimintatietoja jäsenneltyjen tietojärjestelmien, raportointialustojen, kojelautailujen ja automatisoitujen raportointityönkulkujen avulla.",
+        "Organisaatioilla on usein tietoa jaettuina sovellusten, laskentataulukoiden, tietokantojen ja käyttöjärjestelmien kesken. Tämä vaikeuttaa johdonmukaisen näkemyksen muodostamista liiketoiminnan tuloksesta. Autamme integroimaan tietolähteet jäsenneltyihin raportointiympäristöihin, jotka tarjoavat luotettavaa, helposti saatavilla olevaa ja johdonmukaista liiketoimintatietoa."
+      ],
+      "transformation": [
+        "Raportointijärjestelmän ei pitäisi vain näyttää numeroita. Sen pitäisi auttaa käyttäjiä ymmärtämään suorituskykyä, tunnistamaan ongelmia, löytämään mahdollisuuksia ja tekemään tietoisia päätöksiä.",
+        "Suunnittelemme raportointiympäristöjä organisaatiosi toimintatapojen mukaan ja toimitamme jäsennellyt datan päätöksentekoon ekosysteemejä, jotka on räätälöity kaikille hallintatasoille."
+      ],
+      "capabilities": [
+        {
+          "title": "Johdon tietojärjestelmät (MIS)",
+          "desc": "Kehitetään yhtenäisiä tietojärjestelmiä, jotka tarjoavat toimivalle johdolle asiaankuuluvaa operatiivista ja strategista näkyvyyttä."
+        },
+        {
+          "title": "Liiketoiminnan raportointi",
+          "desc": "Muunna raaka liiketoimintadata useista kanavista jäsennellyiksi, standardoiduiksi raporteiksi, jotka seuraavat suorituskykyä jatkuvasti."
+        },
+        {
+          "title": "Interaktiiviset hallintapaneelit",
+          "desc": "Tarjoa reaaliaikainen tai ajoitettu vuorovaikutteinen näkyvyys kriittisiin liiketoiminnan mittareihin, KPI:ihin, trendeihin ja osastotoimintoihin."
+        },
+        {
+          "title": "KPI-hallinta",
+          "desc": "Määrittele, seuraa ja vertaile merkityksellisiä toiminnallisia KPI:itä, jotka on linjassa suoraan yrityksen yleisten kasvutavoitteiden kanssa."
+        },
+        {
+          "title": "Tietojen integrointi",
+          "desc": "Integroi hajautetut tietolähteet yhtenäisiin tietovarastoihin ja semanttisiin kerroksiin johdonmukaista yhden lasiruudun raportointia varten."
+        },
+        {
+          "title": "Automaattinen raportointi",
+          "desc": "Luo ja jaa automaattisesti mukautettuja raportteja ennalta määritettyjen aikataulujen, liiketoimintasääntöjen ja vastaanottajahierarkioiden mukaisesti."
+        }
+      ],
+      "lifecycleSteps": [
+        "Liiketoimintajärjestelmät",
+        "Tiedonkeruu",
+        "Tietojen integrointi",
+        "Tietojen käsittely",
+        "Tietovarasto",
+        "Analyysi",
+        "Raportit ja hallintapaneelit"
+      ],
+      "benefits": [
+        "Yksi totuuden lähde koko yrityksessä",
+        "Nopeampi pääsy reaaliaikaisiin käyttömittareihin",
+        "Manuaalisen laskentataulukon kokoamisen poistaminen kokonaan",
+        "Johdonmukaiset, sovitetut yksiköiden väliset KPI:t",
+        "Ylivoimainen johdon valvonta ja tarkastettavuus",
+        "Automaattinen jakelu suoraan sidosryhmille",
+        "Yksityiskohtainen rivitason tietoturva ja käyttöoikeudet",
+        "Parannettu ketteryys reagoida toimintahäiriöihin"
+      ],
+      "security": "Yritystiedot voivat sisältää arkaluontoisia toiminta-, talous- ja asiakastietoja. Raportointiratkaisumme integroivat raportointiarkkitehtuuriin monitekijäisen todennuksen, yksityiskohtaisen roolipohjaisen valtuutuksen, salauksen ja tarkastuslokit.",
+      "ctaHeadline": "Raportointi, joka tukee kasvua",
+      "ctaSub": "Tee tiedot saataville. Tee suorituskyky näkyväksi. Tee parempia päätöksiä."
+    },
+    "managed-services": {
+      "title": "Hallitut palvelut",
+      "tagline": "Luotettavaa teknologiaa. Asiantuntijatuki. Jatkuva parantaminen.",
+      "heroBadge": "24/7 IT-toiminta ja tuki",
+      "overview": [
+        "Nykyaikaiset IT-ympäristöt ovat monimutkaisia ja muuttuvat jatkuvasti. Organisaatiot tarvitsevat luotettavaa infrastruktuuria, sovelluksia, verkkoja, tietoturvaa, valvontaa ja teknistä tukea pitääkseen liiketoimintansa käynnissä.",
+        "Hallitut palvelumme tarjoavat jatkuvaa teknologian hallintaa ja toiminnallista tukea, minkä ansiosta organisaatiot voivat ylläpitää luotettavia IT-ympäristöjä samalla kun sisäiset tiimit keskittyvät strategisiin aloitteisiin."
+      ],
+      "transformation": [
+        "Perinteinen IT-tuki keskittyy usein ongelmien ratkaisemiseen niiden ilmaantumisen jälkeen. Hallitut palvelut noudattavat ennakoivaa lähestymistapaa seuraamalla jatkuvasti infrastruktuuria, sovelluksia, järjestelmiä ja toimintaympäristöjä.",
+        "Tämä lähestymistapa auttaa tunnistamaan mahdolliset ongelmat varhaisessa vaiheessa, ylläpitämään suorituskykyä, parantamaan saatavuutta ja vähentämään vältettävissä olevia toimintahäiriöitä."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktuurin hallinta",
+          "desc": "Tukee palvelimien, tallennustilan, virtualisointialustojen ja infrastruktuurin jatkuvaa toimintaa, korjauksia ja hallintaa."
+        },
+        {
+          "title": "Pilvihallinta",
+          "desc": "Hallitse pilvityökuormia, usean pilven resursseja, määrityksiä, valvontaa, suorituskykyä ja FinOps-optimointia."
+        },
+        {
+          "title": "Verkonhallinta",
+          "desc": "Tarjoa 24/7 seurantaa, suorituskyvyn hallintaa, konfigurointitukea, SD-WAN-optimointia ja verkkoongelmien ratkaisua."
+        },
+        {
+          "title": "Sovellusten hallinta",
+          "desc": "Tukee kriittisiä sovellusympäristöjä ennakoivan seurannan, ylläpidon, virheenratkaisun ja toiminnallisten päivitysten avulla."
+        },
+        {
+          "title": "Seuranta ja havainnointi",
+          "desc": "Tarjoa kattava reaaliaikainen näkyvyys järjestelmän kunnosta, latenssista, käytettävyydestä, infrastruktuuririippuvuuksista ja hälytyksistä."
+        },
+        {
+          "title": "Varmuuskopiointi- ja palautushallinta",
+          "desc": "Ylläpidä automaattisia varmuuskopiointiaikatauluja, testaa vikasiirtymiä säännöllisesti ja varmista välittömät palautusominaisuudet."
+        },
+        {
+          "title": "Suojaustoiminnot (SecOps)",
+          "desc": "Tarjoa jatkuvaa suojauksen seurantaa, korjaustiedostojen hallintaa, kulunvalvontaa ja ennakoivaa uhkien torjuntaa."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ympäristö perehdytys",
+        "Löytö ja lähtötilanne",
+        "Telemetrian integrointi",
+        "SLA-määritelmä",
+        "24/7 aktiivinen valvonta",
+        "Tapahtumaluokitus",
+        "Nopea ratkaisu",
+        "Perussyyanalyysi",
+        "Ennaltaehkäisevä suunnittelu",
+        "Jatkuva optimointi"
+      ],
+      "benefits": [
+        "Sisäinen toimintataakka vähentynyt merkittävästi",
+        "Ennakoiva ongelmien havaitseminen ennen kuin se vaikuttaa käyttäjiin",
+        "Taattu 99,99 %:n järjestelmän saatavuus ja käytettävyys",
+        "Ennustettava, läpinäkyvä IT-toiminnan budjetointi",
+        "Välitön pääsy vanhempiin insinööriasiantuntijoihin",
+        "Nopeat SLA-tuetut tapausten vasteajat",
+        "Automaattinen katastrofipalautus ja liiketoiminnan jatkuvuus",
+        "Jatkuva teknologian optimointi ja modernisointi"
+      ],
+      "security": "Hallitut toimintamme noudattavat tiukkoja ITIL- ja ISO-kehyksiä, jotka takaavat salatun pääsyn, erilliset tarkastuslokit, vähiten oikeuksia suojaavan valtuustietovaraston ja vaatimustenmukaisuuden yhdenmukaistamisen kaikissa hallinnoiduissa resursseissa.",
+      "ctaHeadline": "Jatkuva parantaminen",
+      "ctaSub": "Keskityt yritykseesi. Autamme pitämään teknologiasi toiminnassa."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Yhden luukun teknologiaratkaisut",
+      "tagline": "Yksi teknologiakumppani. Useita ominaisuuksia. Täydelliset liiketoimintaratkaisut.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Organisaatiot tekevät usein yhteistyötä useiden teknologiantarjoajien kanssa infrastruktuurin, pilven, sovellusten, automaation, analytiikan, turvallisuuden, tuen ja digitaalisen muuntamisen alalla. Useiden toimittajien hallinta voi luoda monimutkaisuutta, viestintäaukkoja, kaksinkertaista työtä ja hajanaisia ​​teknologiaympäristöjä.",
+        "One-Stop Technology Solutions -lähestymistapamme yhdistää useita ominaisuuksia yhtenäisen palvelumallin alle, mikä auttaa organisaatioita suunnittelemaan, toteuttamaan, integroimaan, toimimaan ja jatkuvasti parantamaan teknologiaympäristöään."
+      ],
+      "transformation": [
+        "Tuemme koko teknologian elinkaarta – liiketoiminnan vaatimusten ymmärtämisestä ja teknologiastrategian määrittelystä ratkaisujen suunnitteluun, alustojen käyttöönottoon, järjestelmien integrointiin, sovellusten käyttöönottoon, valvontaympäristöjen valvontaan ja jatkuvaan tukeen.",
+        "Tavoitteena on luoda yhtenäinen teknologiaekosysteemi yksittäisten ratkaisujen sijaan."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategia ja arkkitehtuuri",
+          "desc": "Ymmärrä liiketoiminnan tavoitteet ja suunnittele skaalautuvia, turvallisia ja ylläpidettäviä teknologiaarkkitehtuureja."
+        },
+        {
+          "title": "Käyttöönotto ja rakentaminen",
+          "desc": "Toteuta sovelluksia, infrastruktuuria, integraatioita, automaatiota ja digitaalisia alustoja yritystarkkuudella."
+        },
+        {
+          "title": "Järjestelmän integrointi",
+          "desc": "Yhdistä järjestelmät ja sovellukset, jotta tieto liikkuu saumattomasti koko organisaatiossa."
+        },
+        {
+          "title": "Strukturoitu käyttöönotto",
+          "desc": "Luo automaattiset CI/CD- ja julkaisuprosessit siirtääksesi ratkaisut tuotantoon luotettavasti ja turvallisesti."
+        },
+        {
+          "title": "Jatkuva seuranta",
+          "desc": "Tarjoa päästä päähän -näkyvyys infrastruktuuriin, sovelluksiin, suorituskykyyn, saatavuuteen ja toimintakuntoon."
+        },
+        {
+          "title": "Optimointi ja tuki",
+          "desc": "Tarkista ympäristöjä jatkuvasti parantaaksesi suorituskykyä, luotettavuutta, kustannustehokkuutta ja skaalautuvuutta."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategia",
+        "Arkkitehtuuri",
+        "Toteutus",
+        "Integrointi",
+        "Käyttöönotto",
+        "Valvonta",
+        "Optimointi",
+        "Tuki"
+      ],
+      "benefits": [
+        "Vähentynyt toimittajan hallinnan monimutkaisuus ja yleiskustannukset",
+        "Saumaton koordinointi kaikilla arkkitehtuurin tasoilla",
+        "Nopeampi projektin suoritus ilman kanavanvaihtoviiveitä",
+        "Ennakoitava budjettikohde ja läpinäkyvä toimitus",
+        "Yhtenäinen yrityksen vastuullisuus nollasta mittakaavaan",
+        "Skaalautuvat ratkaisut tulevaisuuden liiketoiminnan kasvuun",
+        "Pitkäaikainen luotettava teknologiakumppanuus",
+        "Kattava päästä päähän digitaalinen muunnos"
+      ],
+      "security": "Kun arkkitehtuuria, toteutusta ja toimintaa valvoo yksi luotettava kumppani, turvallisuuden hallinta pysyy katkeamattomana kaikilla tasoilla – integroinnin kuolleet kulmat poistetaan ja jatkuva vaatimustenmukaisuus varmistetaan.",
+      "ctaHeadline": "Täydellinen teknologiakumppanisi",
+      "ctaSub": "Yksi kumppani. Yksi visio. Useita teknologioita. Täydelliset ratkaisut."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Yrityksen yleiskatsaus",
+    "overviewTitle": "Älykäs teknologia mitattavissa oleviin tuloksiin",
+    "transformationEyebrow": "Toiminnallinen muutos",
+    "transformationTitle": "Liiketoiminnan muuttaminen älykkäiden työnkulkujen avulla",
+    "deliveryEyebrow": "Strukturoitu toimitustapa",
+    "deliveryTitle": "Päästä päähän -suoritus ja jatkuva optimointi",
+    "deliveryIntro": "Todistettu toteutustapamme noudattaa tiukkaa toimitusten elinkaarta:",
+    "deliveryOutro": "Tämä jäsennelty sarja varmistaa tiukan yhteensopivuuden liiketoimintatavoitteiden kanssa, vankan suojausasennon ja mitattavissa olevat ROI-vertailuarvot kaikissa vaiheissa.",
+    "securityEyebrow": "Turvallisuus ja hallinto",
+    "securityTitle": "Yritystason luotettavuus ja vaatimustenmukaisuussuojat",
+    "securityOutro": "Otamme käyttöön tiukan roolipohjaisen kulunvalvonnan, automatisoidun haavoittuvuuksien tarkistuksen, mallihallinnan ja monitasoisen salauksen varmistaaksemme, että tuotantoympäristösi pysyy joustavana ja täysin yhteensopivana.",
+    "capabilitiesTitle": "Teknologian ydinominaisuudet",
+    "capabilitiesSub": "Kattava tekninen osaaminen, joka on suunniteltu skaalaamaan digitaalisia toimintojasi.",
+    "bookDiscovery": "Kirjateknologian löytö",
+    "exploreAll": "Tutustu kaikkiin teknologioihin",
+    "bookConsultation": "Varaa konsultaatio",
+    "coreCapabilities": "Ydinominaisuudet"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Ydinominaisuudet",
+    "exploreFramework": "Tutustu Solution Frameworkiin",
+    "bookConsultation": "Varaa konsultaatio",
+    "viewCaseStudies": "Näytä tapaustutkimukset",
+    "provenPillars": "Todistettuja pilaria",
+    "operationalOutcomes": "Toiminnan tulokset",
+    "learnMore": "Lisätietoja"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "End-to-End digitaalinen suunnittelu",
+      "titlePart1": "Aloitus Vastaan",
+      "titlePart2": "Käyttöönotto",
+      "description": "Uusien digitaalisten ratkaisujen kokonaisvaltainen kehittäminen liiketoimintavaatimuksista ja ratkaisuarkkitehtuurista kehityksen, integroinnin, testauksen, käyttöönoton ja jatkuvan tuen kautta.",
+      "bookConsultation": "Varaa konsultaatio",
+      "exploreEngineering": "Tutustu ratkaisusuunnitteluun",
+      "coreCapabilities": [
+        "Vaatimukset Suunnittelu",
+        "Ratkaisuarkkitehtuuri",
+        "Sovelluskehitys",
+        "API-integraatio",
+        "Laadunvarmistus",
+        "DevOps",
+        "Käyttöönotto",
+        "Tuki ja ylläpito"
+      ],
+      "row1Eyebrow": "Toimitus koko elinkaaren ajan",
+      "row1Title": "Päästä päähän -kehitys vaatimuksista mittakaavaan",
+      "row1P1": "Jokainen uusi digitaalinen aloite alkaa ainutlaatuisista vaatimuksista, toiminnallisista työnkuluista ja strategisista tavoitteista, joita ei voida saavuttaa yksikokoisilla ohjelmistoilla. Olemme erikoistuneet räätälöityjen, korkean suorituskyvyn ohjelmistojärjestelmien rakentamiseen täysin tyhjästä.",
+      "row1P2": "Alkuperäisistä vaatimusten selvittämisestä ja teknisen arkkitehtuurin suunnittelusta ketterään sprinttikehitykseen, API-ekosysteemiintegraatioon, vankoihin testausputkiin ja automatisoituihin pilviratkaisuihin – vanhemmat insinööritiimimme ottavat täyden omistukseensa tuotteesi elinkaaren.",
+      "row2Eyebrow": "Ratkaisuarkkitehtuuri ja -tekniikka",
+      "row2Title": "Skaalautuvat järjestelmät, jotka on suunniteltu yrityksen kasvua varten",
+      "row2P1": "Suunnittelemme joustavia ohjelmistoarkkitehtuureja, jotka on räätälöity kestämään raskaita tuotantokuormia. Modulaarisista mikropalveluista ja tapahtumapohjaisista taustajärjestelmistä suuritehoisiin tietovirtoihin ja GraphQL/REST-sovellusliittymiin – rakennamme alustat, jotka skaalautuvat vaivattomasti.",
+      "row2P2": "Luomalla puhtaat, modulaariset koodikannat yhdistettynä automatisoituun testaukseen ja jatkuvaan tietoturvan noudattamiseen varmistamme, että ohjelmistopohjasi on ylläpidettävä, tarkastettavissa ja valmis pitkän aikavälin kehitykseen.",
+      "row3Eyebrow": "Laadunvarmistus & DevOps",
+      "row3Title": "Ketterä toimitus automaattisilla putkilinjoilla",
+      "row3P1": "Toimitusmallimme sisältää automatisoidun yksikön, integroinnin ja päästä päähän -regressiotestauksen konttimuotoisten CI/CD-työnkulkujen (Docker, Kubernetes, AWS/Azure/GCP) rinnalle.",
+      "row3P2": "Läpinäkyvien sprinttiesittelyjen, reaaliaikaisen havainnoinnin ja virstanpylväisiin perustuvan nopeuden avulla varmistamme nopean markkinoille tulon vaarantamatta turvallisuutta, vakautta tai käyttökokemusta.",
+      "row4Eyebrow": "Käyttöönotto ja tuki",
+      "row4Title": "Luotettava 24/7-toiminta ja pitkäaikainen kehitys",
+      "row4P1": "Live-lähetys on vasta alkua. Tarjoamme ennakoivaa valvontaa, SLA-tuettua ylläpitoa, pilviinfrastruktuurin optimointia, suorituskyvyn viritystä ja jatkuvaa ominaisuuksien käyttöönottoa.",
+      "row4P2": "Suunnittelutiimimme toimii luonnollisena jatkeena organisaatiollesi varmistaen nollakatkoksia ja jatkuvan teknologisen ylivertaisuuden markkinoillasi.",
+      "pillarsTitle": "Ydinominaisuudet",
+      "pillarsSub": "Täydelliset täyden pinon ominaisuudet, jotka on suunniteltu viemään ideasi nollasta tuotantoon.",
+      "pillar1Title": "Vaatimukset Suunnittelu",
+      "pillar1Desc": "Syvällinen liiketoiminta-analyysi, toiminnalliset spesifikaatiot ja käyttäjän matkakartoitus täsmällisten ratkaisurajojen määrittämiseksi.",
+      "pillar2Title": "Ratkaisuarkkitehtuuri",
+      "pillar2Desc": "Skaalautuvat pilvipohjaiset arkkitehtuurit, tietokantamallinnus, mikropalvelusuunnittelu ja nollaluottamusturvaperustat.",
+      "pillar3Title": "Sovelluskehitys",
+      "pillar3Desc": "Nykyaikaiset täyden pinon verkko- ja mobiilisovellukset, jotka on suunniteltu puhtaan koodin, tyyppiturvallisuuden ja reaktiivisen käyttöliittymän standardeilla.",
+      "pillar4Title": "API-integraatio",
+      "pillar4Desc": "Suorituskykyiset REST/GraphQL-sovellusliittymät, webhook-orkestraatiot, maksuyhdyskäytävät ja saumaton kolmannen osapuolen ERP/CRM-synkronointi.",
+      "ctaTitle": "Oletko valmis rakentamaan ratkaisusi alusta alkaen käyttöönottoon asti?",
+      "ctaSub": "Yhteistyö Rezonantsin kanssa arkkitehdit, suunnittelet ja otat käyttöön mukautetun digitaalisen alustasi liiketoiminnan vaatimuksista tuotantotodellisuuteen.",
+      "ctaButton": "Varaa ratkaisuneuvonta",
+      "pillar5Title": "Laadunvarmistus",
+      "pillar5Desc": "Tiukka testiautomaatio, kuormitus-/rasitustestaus, haavoittuvuustarkistukset ja regressiotestipaketit.",
+      "pillar6Title": "DevOps ja käyttöönotto",
+      "pillar6Desc": "Automaattiset CI/CD-putket, konttien orkestrointi (Docker/K8s), infrastruktuuri koodina ja nolla-seisokkijulkaisut.",
+      "pillar7Title": "Tuki ja ylläpito",
+      "pillar7Desc": "24/7 ennakoiva seuranta, terveyden telemetria, suorituskyvyn auditoinnit, tietoturvakorjaukset ja jatkuva SLA-huolto.",
+      "pillar8Title": "Jatkuva innovaatio",
+      "pillar8Desc": "Säännöllinen ominaisuuksien nopeus, data-analytiikan integrointi, tekoälyn parannus ja arkkitehtoniset modernisoinnit."
+    },
+    "processAutomation": {
+      "eyebrow": "Älykkäät prosessitoiminnot",
+      "titlePart1": "Liiketoimintaprosessi",
+      "titlePart2": "Automaatio",
+      "description": "Yritysten työnkulkujen automatisointi päästä päähän, jossa yhdistyvät robottiprosessiautomaatio (RPA), älykäs dokumenttien käsittely, liiketoimintasääntömoottorit ja järjestelmäintegraatio.",
+      "bookDiscovery": "Kirjaautomaation löytö",
+      "exploreFramework": "Tutustu Solution Frameworkiin",
+      "coreCapabilities": [
+        "Työnkulun automatisointi",
+        "Roboottinen prosessiautomaatio",
+        "Asiakirjojen käsittely",
+        "Integraatiotekniikka",
+        "Liiketoimintasäännöt Moottorit",
+        "Prosessianalyysi",
+        "Jatkuva optimointi",
+        "Vanha integraatio"
+      ],
+      "row1Eyebrow": "Roboottinen prosessiautomaatio",
+      "row1Title": "Älykkäät robotit suuritehoisiin toimintoihin",
+      "row1P1": "Poista toistuva manuaalinen tietojen syöttäminen, järjestelmien väliset täsmäytykset ja asiakirjojen reititys. Käytämme yritysten RPA-botteja, jotka suorittavat strukturoituja tehtäviä 24/7 ilman virheprosenttia.",
+      "row1P2": "Yhdistämällä vanhat työpöytäliitännät, SAP/ERP-taustajärjestelmät ja pilvitietokannat ohjelmistobotit vapauttavat tiimisi keskittymään strategisiin liiketoimintahankkeisiin.",
+      "row2Eyebrow": "Älykäs asiakirjojen käsittely",
+      "row2Title": "OCR, koneoppiminen ja dokumenttien tekoäly",
+      "row2P1": "Käsittele, luokittele ja poimi tietoja automaattisesti laskuista, sopimuksista, henkilöasiakirjoista ja vaateista. Tekoälypohjaiset putkistomme validoivat kentät sisäisiin tietokantoihin nähden ja käynnistävät automaattisen hyväksynnän työnkulkuja.",
+      "row2P2": "Saavuta yli 95 % suoran käsittelyn nopeus ja lyhennä samalla dramaattisesti käsittelyaikoja päivistä sekunneihin.",
+      "row3Eyebrow": "Prosessin orkestrointi",
+      "row3Title": "Päästä päähän -alustojen välinen synkronointi",
+      "row3P1": "Yhdistä CRM-, ERP-, HRMS- ja pankkisovellusliittymät yhtenäisiksi reaaliaikaisiksi tietovirroiksi. Toteutamme tapahtumapohjaisia ​​triggereitä, viestijonoja ja automaattisia varakäsittelijöitä.",
+      "row3P2": "Tieto kulkee saumattomasti eri osastojen välillä ilman ihmisen puuttumista, mikä eliminoi toimintasiilot ja viestintäviiveet.",
+      "row4Eyebrow": "Jatkuva telemetria",
+      "row4Title": "Reaaliaikainen prosessianalyysi ja Kaizen Insights",
+      "row4P1": "Seuraa prosessien suoritusaikoja, pullonkaulalämpökarttoja, virhetaajuuksia ja taloudellista ROI:ta reaaliaikaisissa johtajien kojelaudoissa.",
+      "row4P2": "Jatkuva koneoppimisdiagnostiikka löytää uusia automaatiomahdollisuuksia ja pitää yrityksesi toiminnassa parhaalla mahdollisella tavalla.",
+      "pillarsTitle": "Automaatiopilarit",
+      "pillarsSub": "Todistettuja rakennuspalikoita älykkääseen yritystoimintaan.",
+      "pillar1Title": "Työnkulun automatisointi",
+      "pillar1Desc": "Monivaiheiset in-the-loop- ja digitaaliset työnkulut, jotka ohjataan automaattisella reitityksellä ja eskalaatioilla.",
+      "pillar2Title": "Roboottinen prosessiautomaatio",
+      "pillar2Desc": "Sääntöpohjaiset ohjelmistobotit, jotka suorittavat rutiininomaisia tiedonsyöttö-, täsmäytys- ja sovellusten välisiä tehtäviä.",
+      "pillar3Title": "Älykäs tekoälyautomaatio",
+      "pillar3Desc": "Kognitiiviset tekoälyagentit, jotka tulkitsevat kontekstia, tekevät yhteenvedon jäsentämättömästä tekstistä ja tekevät automaattisia päätöksiä.",
+      "pillar4Title": "Prosessin optimointi",
+      "pillar4Desc": "Prosessin louhinta, pullonkaulojen havaitseminen ja Kaizen-työnkulut, jotka vähentävät jatkuvasti käyttökustannuksia.",
+      "ctaTitle": "Oletko valmis automatisoimaan yrityksesi työnkulkuja?",
+      "ctaSub": "Ota yhteyttä automaatioarkkitehtuureihimme tunnistaaksesi korkean sijoitetun pääoman tuottomahdollisuudet ja ottaaksesi käyttöön älykkäitä digitaalisia työnkulkuja.",
+      "ctaButton": "Varaa automaatiokonsultaatio"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Tekninen standardi & T&K",
+      "titlePart1": "Keskusta",
+      "titlePart2": "Erinomaista",
+      "description": "Keskitetty johtavien arkkitehtien ja alan asiantuntijoiden organisaatio, joka on omistautunut suunnittelukäytäntöjen standardointiin, innovaatioiden edistämiseen ja digitaalisten aloitteiden vauhdittamiseen.",
+      "exploreStandards": "Tutustu suunnittelustandardeihin",
+      "initiateAssessment": "Aloita huippuyksikön arviointi",
+      "coreCapabilities": [
+        "Arkkitehtuuristandardit",
+        "Uudelleen käytettävät kehykset",
+        "Parhaiden käytäntöjen hallinnointi",
+        "Taitojen kehittäminen",
+        "Laadun benchmarking",
+        "T&K ja innovaatio",
+        "Teknologian arviointi",
+        "Projektien välinen opastus"
+      ],
+      "uptimeLabel": "Yrityskäyttöaika",
+      "engineersLabel": "Insinöörit ja arkkitehdit",
+      "deploymentsLabel": "Tekoäly- ja pilviratkaisut",
+      "satisfactionLabel": "Asiakastyytyväisyys",
+      "row1Eyebrow": "Pilari 01 — Tekninen standardi",
+      "row1Title": "Suorituskykyinen ohjelmistosuunnittelu",
+      "row1P1": "Huippuyksikkömme perustaa standardoidut suunnittelumallit, tiukan automatisoidun testauksen ja virheettömän koodin tarkistuskäytännöt, jotka nopeuttavat markkinoille tuloa ja pitävät tekniset velat nollassa.",
+      "row1F1": "Automaattiset CI/CD-julkaisuputket DORA-metriikkaanalytiikan avulla",
+      "row1F2": "Tiukat arkkitehtuurin arviointilautakunnat ja mikropalvelujen hallinto",
+      "row1F3": "Jatkuva suojaus ja automaattinen haavoittuvuuksien korjaus",
+      "row1Btn": "Opi tekniset standardit",
+      "row1Tag": "DevOps ja laatutekniikka",
+      "row2Eyebrow": "Pilari 02 – T&K-innovaatiot",
+      "row2Title": "AI Innovation Lab & Emerging Technology",
+      "row2P1": "Kokeilemme huippuluokan koneoppimismalleja, mukautettuja tekoälyagentteja ja älykästä työnkulun automaatiota rakentaaksemme seuraavan sukupolven yritystuotteita.",
+      "row2F1": "Enterprise Generative AI & RAG tiedon integrointi",
+      "row2F2": "Autonominen AI-agenttityönkulku liiketoimintaprosessien automatisointiin",
+      "row2F3": "Mukautettu koneoppimismallin optimointi ja hienosäätö",
+      "row2Btn": "Tutustu AI Labiin",
+      "row2Tag": "Tekoäly ja hermotutkimus ja kehitys",
+      "row3Eyebrow": "Pilari 03 – Infrastruktuuri",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Suunnittelemme ja hallitsemme joustavia monipilviympäristöjä, jotka perustuvat nollaluottamuksellisiin tietoturvakehyksiin ja varmistamme, että tietosi pysyvät suojattuna kehittyviltä maailmanlaajuisilta kyberuhkilta.",
+      "row3F1": "AWS-, Azure- ja GCP-monipilviinfrastruktuurin organisointi",
+      "row3F2": "Zero-trust network access (ZTNA) ja roolipohjaiset IAM-käytännöt",
+      "row3F3": "Automaattinen kontin turvatarkistus ja salaisuuden hallinta",
+      "row3Btn": "Tutustu pilveen ja tietoturvaan",
+      "row3Tag": "Pilviarkkitehtuuri & Zero-Trust",
+      "pillarsTitle": "Core Excellence -kehyksemme",
+      "pillarsSub": "Systematisoidut kehityspelikirjat, jotka tukevat kriittisiä alustoja.",
+      "pillar1Title": "Arkkitehtuurin arviointilautakunta (ARB)",
+      "pillar1Desc": "Kattava valvonta varmistaa, että kaikki yritysratkaisut ovat tiukkojen skaalautuvuus-, suojaus- ja vaatimustenmukaisuusprotokollien mukaisia.",
+      "pillar2Title": "Uudelleen käytettävät kiihdyttimet ja komponenttikirjasto",
+      "pillar2Desc": "Omat suunnittelujärjestelmät, API-aloitussarjat ja taustapohjaiset mikropalvelumallit vähentävät alkukehitysaikaa 40 %.",
+      "pillar3Title": "Jatkuva suorituskyvyn profilointi",
+      "pillar3Desc": "Kehittyneet reaaliaikaiset havainnointiputket, jotka valvovat sovelluksen latenssia, suorituskyvyn pullonkauloja ja pilviresurssien käyttöä.",
+      "pillar4Title": "Talent Upskiling & Guilds",
+      "pillar4Desc": "Strukturoidut sisäiset killat ja sertifioinnit kasvattavat syvää teknistä osaamista pilvessä, DevOpsissa ja sovelletussa tekoälyssä.",
+      "ctaTitle": "Nosta tekniikan tasoasi",
+      "ctaSub": "Tee yhteistyötä Rezonantsin huippuyksikön kanssa rakentaaksesi joustavia pilviarkkitehtuureja, automatisoidaksesi työnkulkuja ja nopeuttaaksesi digitaalisten tuotteiden toimitusta.",
+      "ctaButton": "Järjestä johtajan kuuleminen",
+      "badge": "REZONANTS COE",
+      "scroll": "Selaa",
+      "p1Title": "Hallinto ja puitteet",
+      "p1Desc": "Luo koko yrityksen kattava arkkitehtoninen hallinto, politiikan suojakaiteet ja vaatimustenmukaisuusstandardit.",
+      "p1Tag": "Hallinto",
+      "p2Title": "Teknologiastandardit ja arkkitehtuuri",
+      "p2Desc": "Määrittele modernit referenssiarkkitehtuurit, tarkastetut teknologiapinot ja mikropalvelumallit.",
+      "p2Tag": "Arkkitehtuuri",
+      "p3Title": "Uudelleen käytettävät omaisuuserät ja kirjastot",
+      "p3Desc": "Nopeuta kehitysnopeutta jaettujen komponenttien, mallien, aloitussarjojen ja suunnittelujärjestelmien avulla.",
+      "p3Tag": "Uudelleenkäytettävyys",
+      "p4Title": "Osaamisen kehittäminen",
+      "p4Desc": "Strukturoitu koulutus, tekninen mentorointi ja taitojen mahdollistaminen tiimin suunnittelukyvyn parantamiseksi.",
+      "p4Tag": "Pätevyys",
+      "p5Title": "Innovaatiot ja kehittyvä tekniikka",
+      "p5Desc": "Tekoälyagenttien, automaatioputkien ja seuraavan sukupolven kehysten tutkimus- ja kehitystyötä markkinaedun säilyttämiseksi.",
+      "p5Tag": "Innovaatio",
+      "p6Title": "Jatkuva parantaminen",
+      "p6Desc": "Tietoihin perustuvat suunnittelumittarit (DORA), SLA-vertailu ja jatkuva laadun optimointi.",
+      "p6Tag": "Laatu"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Räätälöity digitaalinen suunnittelu",
+      "titlePart1": "Räätälöity kehitys &",
+      "titlePart2": "Räätälöinti",
+      "description": "Sovellusten, alustojen, työnkulkujen ja yritysratkaisujen kehittäminen ja parantaminen vastaamaan ainutlaatuisia liiketoimintavaatimuksia ja tarjoamaan räätälöityjä toimintoja.",
+      "bookConsultation": "Varaa konsultaatio",
+      "exploreCapabilities": "Tutustu ominaisuuksiin",
+      "coreCapabilities": [
+        "Räätälöity kehitys",
+        "Alustan asetukset",
+        "Laajennukset",
+        "Mukautetut työnkulut",
+        "API-kehitys",
+        "Järjestelmän integrointi",
+        "Käyttöliittymän/UX:n parannus",
+        "Suorituskyvyn optimointi"
+      ],
+      "row1Eyebrow": "Räätälöityjä TOIMINTOJA",
+      "row1Title": "Räätälöityjä ominaisuuksia, jotka on suunniteltu työnkulkuasi varten",
+      "row1P1": "Tavalliset yritysohjelmistot eivät useinkaan täytä erityisiä liiketoiminnan tarpeita. Räätälöity suunnittelutiimimme kehittää räätälöityjä sovellusmoduuleja, mukautettuja liiketoimintasääntöjä ja erikoistuneita laajennuksia, jotka on räätälöity toimintojesi mukaan.",
+      "row1P2": "Räätälöidyistä CRM- ja ERP-parannuksista erikoistuneisiin operatiivisiin portaaleihin rakennamme ominaisuuksia, jotka sopivat saumattomasti tiimisi täsmällisiin työnkulkumalleihin.",
+      "row2Eyebrow": "YRITYSJÄRJESTELMÄN INTEGROINTI",
+      "row2Title": "Alustan konfigurointi ja API-kehitys",
+      "row2P1": "Yhdistä erilaiset ohjelmistojärjestelmät yhtenäiseksi digitaaliseksi ekosysteemiksi. Suunnittelemme mukautettuja REST- ja GraphQL-sovellusliittymiä, webhook-käsittelijöitä ja yritysviestijonoja varmistaaksemme reaaliaikaisen tietojen synkronoinnin kaikilla alustoillasi.",
+      "row2P2": "Integroimmepa sitten kolmannen osapuolen SaaS-työkaluja tai laajennamme omia paikallisia alustoja, integrointiarkkitehtuurimme priorisoivat tietojen eheyden, suorituskyvyn ja nollakatkosaikoja.",
+      "row3Eyebrow": "UI/UX & SUORITUSKYKY",
+      "row3Title": "Käyttöliittymän/UX:n parannukset ja suorituskyvyn optimointi",
+      "row3P1": "Korosta vanhoja käyttöliittymiä moderneilla, reagoivilla käyttökokemuksilla, jotka on suunniteltu nopeutta ja selkeyttä varten. Suunnittelemme käyttöliittymät uudelleen intuitiivisilla suunnittelumalleilla, esteettömyysvaatimustenmukaisuudella ja virtaviivaistetuilla vuorovaikutusmalleilla.",
+      "row3P2": "Samanaikaisesti suorituskykyinsinöörimme optimoivat tietokantakyselyt, välimuististrategiat ja käyttöliittymän nippukoot tarjotakseen välittömät vasteajat kaikissa laitteissa.",
+      "pillarsTitle": "Suunniteltu täsmällisten määritystesi mukaan",
+      "pillarsSub": "Yritystason mukautusmenetelmät, jotka on rakennettu skaalautumaan saumattomasti.",
+      "pillar1Title": "Mukautettuja työnkulkuja ja laajennuksia",
+      "pillar1Desc": "Räätälöity sovelluslogiikka ja automaattiset tilakoneet, jotka on konfiguroitu erityisesti sisäisten toimintasääntöjen mukaan.",
+      "pillar2Title": "API ja järjestelmäintegraatio",
+      "pillar2Desc": "Suojatut, todennetut datasillat yhdistävät omat taustajärjestelmät, ERP-ohjelmistot, maksuyhdyskäytävät ja pilvipalvelut.",
+      "pillar3Title": "Alustan asetukset",
+      "pillar3Desc": "Syviä arkkitehtonisia mukautuksia, jotka muokkaavat yritysohjelmistoja rikkomatta päivityspolkuja tai toimittajan tukisopimuksia.",
+      "pillar4Title": "Suorituskyvyn optimointi",
+      "pillar4Desc": "Aggressiivinen kyselyprofilointi, muistivuotojen eliminointi ja reuna-CDN-jakelu sivusekuntia pienempiin latauksiin.",
+      "ctaTitle": "Oletko valmis mukauttamaan yritysympäristöäsi?",
+      "ctaSub": "Ota yhteyttä ratkaisuarkkitehtuureihimme suunnitellaksesi ja ottaaksesi käyttöön mukautettuja moduuleja, työnkulkuja ja integraatioita, jotka on räätälöity yrityksesi tarpeisiin.",
+      "ctaButton": "Varaa räätälöintipuhelu",
+      "badge": "Räätälöity digitaalinen suunnittelu",
+      "viewAllServices": "Näytä kaikki palvelut"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Yrityksen modernisointi",
+      "titlePart1": "Digitaalinen",
+      "titlePart2": "Muutos",
+      "description": "Liiketoimintaprosessien, teknologia-arkkitehtuurien ja toimintamallien kattava modernisointi organisaation ketteryyden, toiminnan tehokkuuden ja kestävän digitaalisen kasvun edistämiseksi.",
+      "startTransformation": "Aloita muunnos",
+      "exploreStrategy": "Tutustu strategiaan",
+      "coreCapabilities": [
+        "Strategia & Roadmapping",
+        "Arkkitehtuurin modernisointi",
+        "Pilvi ja infrastruktuuri",
+        "Data & Analytics",
+        "Prosessin digitalisointi",
+        "Asiakaskokemus",
+        "Muutoksenhallinta",
+        "Ketterät käyttömallit"
+      ],
+      "row1Eyebrow": "Strategia ja tiekartta",
+      "row1Title": "Visiosta suoritettavaan tiekarttaan",
+      "row1P1": "Teemme yhteistyötä yritysjohtajien kanssa määritelläksemme digitaalisen strategian, liiketoimintamallit ja vaiheittaiset etenemissuunnitelmat nopeilla voitoilla ja riskittömällä toteutuksella.",
+      "row1P2": "Priorisoidut aloitteet, TCO-mallit ja KPI:t varmistavat, että kaikki teknologian modernisointitoimet liittyvät suoraan tuloihin, tehokkuuteen ja asiakastyytyväisyyteen.",
+      "row2Eyebrow": "Vanha modernisointi",
+      "row2Title": "Modernisoi liiketoimintaa katkaisematta",
+      "row2P1": "Muuta monoliitit mikropalveluiksi, API:iksi ja pilvipohjaisiksi malleiksi nollakatkaisuilla ja automaattisella regression validoinnilla.",
+      "row2P2": "Modernisoimme sovelluksia, tietokantoja ja integraatiokerroksia säilyttäen samalla vaatimustenmukaisuuden ja suojauksen.",
+      "row3Eyebrow": "Pilvi, tekoäly ja data",
+      "row3Title": "Pilvikäyttöönotto ja tietoihin perustuva älykkyys",
+      "row3P1": "Ota käyttöön AWS, Azure ja GCP, rakenna nykyaikaisia tietoputkia ja upota koneoppimisagentteja itsenäisten päätösten tekemiseen.",
+      "row3P2": "Reaaliaikaisesta tapahtumien suoratoistosta yhtenäisiin koontipaneeleihin muutoksesta tulee mitattavissa olevaa ja kestävää.",
+      "row4Eyebrow": "Asiakaskokemus",
+      "row4Title": "Moderneja monikanavaisia kokemuksia",
+      "row4P1": "Suunnittele uudelleen asiakaspolkuja responsiivisten verkko-, iOS-, Android- ja itsepalveluportaalien välillä yksilöllisillä käyttöliittymillä.",
+      "row4P2": "Alustasuunnittelu, telemetria ja automaattiset palautesilmukat tekevät digitaalisesta innovaatiosta jatkuvaa.",
+      "pillarsTitle": "Muutospilarit",
+      "pillarsSub": "Tulospainotteiset vivut, jotka varmistavat kestävän digitaalisen johtajuuden.",
+      "pillar1Title": "Digitaalinen strategia ja hallinto",
+      "pillar1Desc": "Vaiheittaiset muutossuunnitelmat liiketoimintamallin, arkkitehtuurin hallinnan ja virstanpylväsriskien seurannan kanssa.",
+      "pillar2Title": "Pilvi- ja dataalusta",
+      "pillar2Desc": "AWS/Azure/GCP monipilvipohjat, automatisoidut putkistot ja yritystietojen analysointi.",
+      "pillar3Title": "Tekoäly ja automaatio",
+      "pillar3Desc": "Älykäs prosessiautomaatio, kognitiiviset AI-agentit ja ennakoiva telemetria päivittäisten toimintojen optimoimiseksi.",
+      "pillar4Title": "Asiakaskokemus",
+      "pillar4Desc": "Monikanavaiset digitaaliset portaalit ja henkilökohtaiset käyttöliittymät, jotka on suunniteltu maksimaalista käyttäjien pysyvyyttä varten.",
+      "ctaTitle": "Oletko valmis muuttamaan yrityksesi?",
+      "ctaSub": "Yhteistyökumppani Rezonantsin kanssa vaiheittaisessa, riskittömässä digitaalisessa transformaatiossa, joka on sidottu mitattavissa oleviin liiketoimintatuloksiin.",
+      "ctaButton": "Varaa Digital Transformation Call",
+      "bookWorkshop": "Kirjanmuunnostyöpaja",
+      "exploreFramework": "Tutustu Solution Frameworkiin",
+      "coreCapabilitiesTitle": "Ydinominaisuudet"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Täydellinen teknologian elinkaari",
+      "titlePart1": "Päästä päähän -ratkaisu",
+      "titlePart2": "puitteet",
+      "description": "Strukturoitu, koko elinkaaren kattava toimituskehys, joka kattaa liiketoiminnan vaatimukset, arkkitehtuurisuunnittelun, suunnittelun, integroinnin, laadunvarmistuksen, pilven käyttöönoton ja hallitut toiminnot.",
+      "startJourney": "Aloita projektisi",
+      "exploreFramework": "Tutustu Frameworkiin",
+      "coreCapabilities": [
+        "Vaatimusanalyysi",
+        "Arkkitehtuurisuunnittelu",
+        "Full Stack -kehitys",
+        "Integraatiotekniikka",
+        "Laadunvarmistus",
+        "Käyttöönotto ja käyttöönotto",
+        "Jatkuvat toiminnot",
+        "Jatkuva kehitys"
+      ],
+      "row1Eyebrow": "Strategia ja arkkitehtuuri",
+      "row1Title": "Vaatimukset Suunnittelu ja ratkaisusuunnittelu",
+      "row1P1": "Yhteistyöpajat, liiketoiminta-alueen kartoitus ja pilviarkkitehtuurimääritykset, jotka on suunniteltu poistamaan riskit ennen koodirivin kirjoittamista.",
+      "row1P2": "Määrittelemme tietomalleja, tietoturvakehykset ja skaalautuvuuden virstanpylväät, jotka mahdollistavat pitkän aikavälin menestyksen.",
+      "row2Eyebrow": "Suunnittelu ja laatu",
+      "row2Title": "Full Stack -kehitys ja automaattinen testaus",
+      "row2P1": "Modulaariset mikropalvelut, tyyppiturvalliset API:t ja reagoivat käyttöliittymät yhdistettynä automatisoituun yksikköön, integraatioon ja suojaustarkistuksiin.",
+      "row2P2": "Jatkuvat integraatioputket GitHub Actionsin, Terraformin ja automaattisten turvakaiteiden kanssa.",
+      "row3Eyebrow": "Käyttöönotto ja toiminta",
+      "row3Title": "Pilvikäyttöönotto ja 24/7 Managed Monitoring",
+      "row3P1": "Monipilvi-orkesterointi AWS/Azure/GCP:ssä automaattisella palautuksella, nollakatkaisuilla ja reaaliaikaisella havainnolla.",
+      "row3P2": "Tarjoamme SLA-tuettua ylläpitoa ja jatkuvaa telemetriaseurantaa kehittääksemme tuotettasi saumattomasti.",
+      "row4Eyebrow": "Yritysten hallinto",
+      "row4Title": "Yhtenäinen hallinto ja jatkuva tuki",
+      "row4P1": "Yhden pisteen vastuullisuus koko digitaalisessa pinossasi – läpinäkyvä sprinttinopeus, ennustettava budjetointi ja jatkuva innovaatio.",
+      "row4P2": "Säännölliset ominaisuuksien käyttöönotot ja modernisointisyklit pitävät yrityksesi kilpailun kärjessä.",
+      "pillarsTitle": "Elinkaarikehyksen pilaria",
+      "pillarsSub": "Jokainen vaihe on suunniteltu yritystarkkuudella.",
+      "pillar1Title": "Strategia ja vaatimukset",
+      "pillar1Desc": "Verkkotunnusten löytäminen, arkkitehtoniset tiekartat ja sidosryhmien kohdistaminen toteutusriskien eliminoimiseksi.",
+      "pillar2Title": "Arkkitehtuuri ja rakentaminen",
+      "pillar2Desc": "Kestävät pilvipohjaiset mikropalvelut, API-integraatiot ja jatkuva laadunvarmistustestaus.",
+      "pillar3Title": "Turvallisuus ja käyttöönotto",
+      "pillar3Desc": "Nolla-luottamustietoturvayhteensopivuus, konttijulkaisut ja automaattiset pilviasennukset.",
+      "pillar4Title": "Hallinto ja tuki",
+      "pillar4Desc": "24/7 SLA-seuranta, terveydenhuollon telemetria ja jatkuva kehityssuunnittelu.",
+      "ctaTitle": "Tarvitsetko täydellisen elinkaaren kumppanin?",
+      "ctaSub": "Omistamme koko teknologian elinkaaren, jotta tiimisi voi keskittyä ydinliiketoiminnan tuloksiin.",
+      "ctaButton": "Koko elinkaaren kumppani"
+    },
+    "migrationServices": {
+      "eyebrow": "Pilvi- ja infrastruktuurimuutos",
+      "titlePart1": "Muutto ja",
+      "titlePart2": "Modernisointi",
+      "description": "Vanhojen sovellusten, tietokantojen ja infrastruktuurin turvallinen, jäsennelty siirto nykyaikaisiin pilviarkkitehtuureihin yhdistettynä jatkuvaan modernisointiin lisäämään ketteryyttä ja tehokkuutta.",
+      "bookAssessment": "Kirja Migration Assessment",
+      "exploreStrategy": "Tutustu pilvistrategiaan",
+      "coreCapabilities": [
+        "Pilvien siirto",
+        "Sovellusten modernisointi",
+        "Tietokannan siirto",
+        "Infrastruktuurin uudelleenhosting",
+        "Säiliöinti",
+        "Mikropalveluiden siirtyminen",
+        "Suorituskyvyn optimointi",
+        "Turvallisuus ja vaatimustenmukaisuus"
+      ],
+      "row1Eyebrow": "Pilvien siirto",
+      "row1Title": "Multi-Cloud Strategia & Lift-and-Optimize",
+      "row1P1": "Saumaton työkuormien siirto AWS:n, Azuren ja Google Cloudin välillä automaattisella etsinnällä, aaltosuunnittelulla ja ilman liiketoiminnan keskeytyksiä.",
+      "row1P2": "Tasapainotamme uudelleenisännöinnin, alustan uudelleenmuodostuksen ja uudelleenjärjestelyn optimoidaksemme kokonaiskustannukset (TCO) ja ketteryyden.",
+      "row2Eyebrow": "Tietojen ja tietokantojen siirto",
+      "row2Title": "Suojattu ETL ja automaattinen tietojen validointi",
+      "row2P1": "Automaattinen tietokannan replikointi, skeeman käännös ja suuren suorituskyvyn ETL-putkistot 100 %:n tietojen eheyden varmistuksella.",
+      "row2P2": "Nollakatkosaikakatkaisuharjoitus varmistaa tietojen täydellisen yhdenmukaisuuden ja liiketoiminnan jatkuvuuden.",
+      "row3Eyebrow": "Alustan modernisointi",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Modernisoi vanhat monoliitit skaalautuviksi mikropalveluiksi, jotka ohjataan Kubernetesin (EKS, AKS, GKE) kautta automatisoiduilla IaC-suunnitelmilla.",
+      "row3P2": "Siirron jälkeinen suorituskyvyn profilointi ja kustannusoptimointi takaavat välittömän ROI:n.",
+      "row4Eyebrow": "Leikkauksen suunnittelu",
+      "row4Title": "Automatisoitu testaus ja palautusturvaverkot",
+      "row4P1": "Taistelutestattuja leikkauskirjoja, automaattisia regressiopaketteja ja välittömiä palautusmekanismeja täydellisen mielenrauhan takaamiseksi.",
+      "row4P2": "Siirron jälkeinen terveystelemetria ja 24/7 hypercare takaavat virheettömän tuotannon vakauden.",
+      "pillarsTitle": "Migration Assurances",
+      "pillarsSub": "Riskittömät siirrot, joita tukevat yrityksen palvelutasosopimukset.",
+      "pillar1Title": "Nollakatkosaika",
+      "pillar1Desc": "Canaryn julkaisut ja tietokannan kaksoiskirjoitussynkronointi varmistaa käyttäjien keskeytymättömän käytön.",
+      "pillar2Title": "Automaattinen tietojen validointi",
+      "pillar2Desc": "Tarkistussummavertailut, skeeman eheystarkastukset ja automaattinen ETL-sovitus.",
+      "pillar3Title": "Palautusturvaverkot",
+      "pillar3Desc": "Tiukat katastrofipalautusprotokollat ja harjoitusharjoitukset riskien hillitsemiseksi jokaisessa vaiheessa.",
+      "pillar4Title": "Suorituskyvyn ja kustannusten optimointi",
+      "pillar4Desc": "Mukana pilven oikaisu, automaattisen skaalauksen käytännöt ja kustannusten hallinnan hallintapaneelit.",
+      "ctaTitle": "Oletko valmis siirtymään täysin luottavaisin mielin?",
+      "ctaSub": "Yhteistyökumppani Rezonantsin kanssa strukturoidussa, riskittömässä pilven ja datan modernisoinnissa.",
+      "ctaButton": "Suunnittele siirtotyöpajasi"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Nopea validointi ja toteutettavuus",
+      "titlePart1": "Proof of Concept (PoC) &",
+      "titlePart2": "Pilotin toteutus",
+      "description": "Teknologiaratkaisujen nopea kehittäminen ja validointi teknisen toteutettavuuden, liikearvon, integraatiovaatimusten, suorituskyvyn ja skaalautuvuuden arvioimiseksi ennen täysimittaista käyttöönottoa.",
+      "initiateDiscovery": "Aloita PoC Discovery",
+      "exploreDevelopment": "Tutustu mukautettuun kehittämiseen",
+      "coreCapabilities": [
+        "PoC-kehitys",
+        "Prototyyppitekniikka",
+        "Toteutettavuustutkimukset",
+        "Arkkitehtuurin validointi",
+        "Integraatiotestaus",
+        "Suorituskyvyn vertailu",
+        "Pilotin käyttöönotto",
+        "Arvonarviointi"
+      ],
+      "row1Eyebrow": "Nopea validointi",
+      "row1Title": "Konseptista validoituun toteutettavuuteen",
+      "row1P1": "Idean muuttaminen yritystason ratkaisuksi vaatii tiukkaa ennakkovalidointia. PoC & Pilot -palvelumme arvioi teknologian kannattavuutta, stressitestaa kriittisiä integraatiokoukkuja ja validoi liiketoiminnan sijoitetun pääoman tuottoprosentin ennen suuria pääomasitoumuksia.",
+      "row1P2": "Rakennamme korkealaatuisia MVP:itä ja kohdennettuja hiekkalaatikkopilotteja, jotka osoittavat teknisen toteutettavuuden, mittaavat järjestelmän latenssia ja keräävät suoran sidosryhmien vahvistuksen varhaisessa vaiheessa.",
+      "row1Cap": "Rapid MVP Prototypes & Technical Benchmarks",
+      "row2Eyebrow": "Ketterä prototyyppi",
+      "row2Title": "Interaktiivisia MVP:itä ja käyttökokemuksen validointi",
+      "row2P1": "Rakennamme interaktiivisia lankakehyksiä, klikattavia käyttäjäkulkuja ja toimivia käsitteiden todisteita päivissä, emme kuukausissa. Testaa todellista käyttäjien vuorovaikutusta, tarkenna UI/UX-malleja ja kerää toimivaa palautetta sidosryhmiltä.",
+      "row2P2": "Lyhentämällä palautesilmukoita alkukehityksen aikana tiimisi minimoi uudelleentyöskentelyn ja määrittää selkeät tekniset vaatimukset ennen pääomavaltaisten rakennusvaiheiden alkamista.",
+      "row2Cap": "Nopea iteraatio ja napsautettavat UX-prototyypit",
+      "row3Eyebrow": "Integraatio- ja skaalautuvuustestaus",
+      "row3Title": "De-Risk Monimutkaiset järjestelmäintegraatiot",
+      "row3P1": "Selvitä tekniset pullonkaulat, API-rajoitukset ja suorituskyvyn rajoitukset ennen täyden pääoman sitomista. Pilottisuunnittelutiimimme stressitestaa integraatioita, dataputkia ja kolmannen osapuolen sovellusliittymiä eristetyissä hiekkalaatikkoympäristöissä.",
+      "row3P2": "Tämä ennakoiva riskinhallinta varmistaa järjestelmän korkean käytettävyyden, tietoturvan vaatimustenmukaisuuden ja ennustettavat kehitysaikataulut siirtäessäsi PoC:si yritystuotantoon.",
+      "row3Cap": "Hiekkalaatikon integrointi ja stressitestaus",
+      "row4Eyebrow": "Hallitun tuotannon pilotti",
+      "row4Title": "Kohdennettu pilottikäynnistys ja liiketoimintatapauksen validointi",
+      "row4P1": "Ota kohdistetut pilottijulkaisut käyttöön valitulle käyttäjäsegmentille tai testimarkkinoille. Seuraa suorituskykymittareita, käyttäjien omaksumisen analytiikkaa ja toiminnallista palautetta liiketoiminnan arvon määrittämiseksi ja datapohjaisen liiketoimintamallin luomiseksi.",
+      "row4P2": "Todellisten pilottinäkemysten avulla toimeenpanevat sponsorit saavat selkeitä ROI-mittareita, jotka oikeuttavat laajemman käyttöönoton ja strategiset digitaalimuunnosinvestoinnit.",
+      "row4Cap": "Hallittu käyttöönotto ja suorituskyvyn telemetria",
+      "pillarsTitle": "Pilottitekniikan periaatteemme",
+      "pillarsSub": "Ohjaavat periaatteet, jotka muuttavat teknisen epävarmuuden ennakoitavaksi liiketoiminnan menestykseksi.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Toimita toimivia prototyyppejä nopeasti validoidaksesi arvoehdotukset elinkaaren varhaisessa vaiheessa.",
+      "pillar2Title": "Toteutettavuus ja validointi",
+      "pillar2Desc": "Tarkista API-yhteensopivuus, suorituskyvyn kynnykset ja vaatimustenmukaisuusrajoitukset hiekkalaatikkoympäristöissä.",
+      "pillar3Title": "Skaalautuvuuden arviointi",
+      "pillar3Desc": "Simuloi tuotantokuormitusta määrittääksesi kapasiteettirajoitukset ja määrittääksesi pilviarkkitehtuurin koon.",
+      "pillar4Title": "Business Case Validation",
+      "pillar4Desc": "Määritä konkreettiset investoinnin tuottoprosentit ja tuottavuusmittarit, jotka tukevat yrityksen laajuisia käyttöönottopäätöksiä.",
+      "ctaTitle": "Oletko valmis validoimaan seuraavan digitaalisen ratkaisusi?",
+      "ctaSub": "Ota yhteyttä ratkaisusuunnittelutiimiimme tutkiaksesi projektisi vaatimuksia, rakentaaksesi prototyyppi ja testataksesi toteutettavuutta ilman riskiä.",
+      "ctaButton": "Varaa PoC-konsultaatio"
+    },
+    "sharedServices": {
+      "eyebrow": "Keskitetty toimintakeskus",
+      "titlePart1": "Jaetut palvelut &",
+      "titlePart2": "Hallitut toiminnot",
+      "description": "Keskitetty teknologian ja toiminnallisten valmiuksien toimitus eri liiketoimintayksiköissä standardoitujen prosessien, ammattitaitoisten resurssien, hallintokehysten, palvelunhallinnan ja mitattavissa olevien palvelutasojen avulla.",
+      "bookDiscovery": "Book Managed Operations Discovery",
+      "exploreFramework": "Tutustu Solution Frameworkiin",
+      "coreCapabilities": [
+        "Hallitut palvelut",
+        "IT-toiminnot",
+        "Sovellustuki",
+        "Palvelunhallinta",
+        "Resurssien optimointi",
+        "SLA-hallinta",
+        "Hallinto",
+        "Jatkuva parantaminen",
+        "Kustannusten optimointi"
+      ],
+      "row1Eyebrow": "Unified Delivery Hub",
+      "row1Title": "Standardoidut palvelut kaikissa liiketoimintayksiköissä",
+      "row1P1": "Yhdistä back-office IT, infrastruktuurin hallinta ja tekninen tuki yhdeksi tehokkaaksi toimituskeskukseksi.",
+      "row1P2": "Poistamalla päällekkäiset työryhmän yleiskustannukset ja standardoimalla palvelun toimitusmalleja organisaatiosi varmistaa tasaisen laadun ja alentaa käyttökustannuksia.",
+      "row2Eyebrow": "24/7 SRE ja sovellustuki",
+      "row2Title": "Ennakoiva seuranta ja nopea tapausratkaisu",
+      "row2P1": "Asiantuntijamme Site Reliability Engineers (SRE) ja tukiasiantuntijamme tarjoavat 24/7/365 telemetriavalvontaa, automaattisen hälytysriippuvuuden ja nopean L1/L2/L3-ongelmien ratkaisun.",
+      "row2P2": "Tiukkojen SLA-sitoumusten tukemana takaamme 99,99 %:n käytettävyyden kriittisille sovelluksille ja pilviinfrastruktuurille.",
+      "row3Eyebrow": "ITIL:n hallinto ja vaatimustenmukaisuus",
+      "row3Title": "Strukturoidut palvelunhallintakehykset",
+      "row3P1": "Ota käyttöön alan johtavat ITSM-standardit (ServiceNow, Jira Service Management) läpinäkyvällä lipunmyynnillä, perussyyanalyyseillä ja muutoksenhallinnan suojakaiteilla.",
+      "row3P2": "Kattavat kirjausketjut ja hallintokäytännöt varmistavat, että toimintasi pysyy kansainvälisten turvallisuusstandardien mukaisena.",
+      "row4Eyebrow": "FinOps ja jatkuva parantaminen",
+      "row4Title": "Ennakoitava budjetointi ja resurssien optimointi",
+      "row4P1": "Poista pilvihävikki, optimoi laskennan koko ja automatisoi rutiinikäyttöinen ylläpito FinOpsin parhaiden käytäntöjen avulla.",
+      "row4P2": "Kuukausittaiset läpinäkyvyysraportit ja kapasiteettiennusteet varmistavat jatkuvan käyttökustannusten optimoinnin ja korkean pääomatehokkuuden.",
+      "pillarsTitle": "Toimintapilarit",
+      "pillarsSub": "Todistetut toimintavivut luotettavaan yrityksen skaalautumiseen.",
+      "pillar1Title": "24/7 Hallitut IT-toiminnot",
+      "pillar1Desc": "Ennakoiva NOC-telemetria, palvelinkorjaus, infrastruktuurin ylläpito ja 99,99 %:n käyttöaikatakuu.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Tason 1/2/3 monikanavainen helpdesk, tapausten reititys ja jäsennellyt lipunratkaisutyönkulut.",
+      "pillar3Title": "Palvelutasosopimus ja suorituskyvyn valvonta",
+      "pillar3Desc": "Sopimukseen perustuvat vastausajat, MTTR-vertailuarvot ja läpinäkyvät kuukausittaiset suoritustarkastukset.",
+      "pillar4Title": "FinOps ja kustannusoptimointi",
+      "pillar4Desc": "Jatkuva resurssien oikea mitoitus, lisenssien palautus ja automaattinen pilvikustannusten alentaminen.",
+      "ctaTitle": "Oletko valmis skaalaamaan hallittuja toimintojasi?",
+      "ctaSub": "Yhteistyökumppanina Rezonantsin kanssa saat luotettavia, 24/7 hallittuja palveluita, jotka optimoivat kustannukset ja eliminoivat toiminnan seisokkeja.",
+      "ctaButton": "Varaa hallittujen toimintojen konsultaatio",
+      "howItWorksHeading": "Todistettu tie jaettujen palvelujen menestykseen"
+    },
+    "aiRobotics": {
+      "brand": "Tekoäly ja robotiikka",
+      "eyebrow": "Älykkäät järjestelmät",
+      "heroHeading": "Tekoäly ja robotiikka työskentelevät yhdessä",
+      "intro": "Tekoäly (AI) ja robotiikka muuttavat yritysten toimintatapoja yhdistämällä älykkään päätöksenteon edistyneeseen automaatioon. Tekoäly antaa koneille mahdollisuuden analysoida tietoja, oppia malleja ja tehdä älykkäitä päätöksiä, kun taas robotiikka tuo nämä ominaisuudet fyysiseen maailmaan suorittamaan tehtäviä nopeasti, tarkasti ja johdonmukaisesti.",
+      "section1Heading": "Suunniteltu virtaviivaistamaan jokaista toimintaa",
+      "section1Text": "Tekoäly- ja robottiratkaisumme auttavat organisaatioita virtaviivaistamaan toimintaa, vähentämään manuaalista työtä ja parantamaan tuottavuutta eri toimialoilla. Prosessiautomaatiosta ja ennakoivasta analytiikasta älykkääseen robotiikkaan ja älykkäisiin järjestelmiin toimitamme innovatiivisia teknologioita, jotka lisäävät tehokkuutta, edistävät kasvua ja tukevat digitaalista muutosta.",
+      "section2Heading": "Missä äly kohtaa toiminnan",
+      "section2Text": "Jokaista vuorovaikutusta, päätöstä ja liikettä ohjaa yksi yhdistetty järjestelmä – muuttaen tiedot tuloksiksi reaaliajassa.",
+      "footerTag": "Innovatiivinen teknologia digitaaliseen transformaatioon"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Tieto- ja raportointijärjestelmät",
+      "heroSubtitle": "Yksi totuuden lähde jokaiselle osastolle – luotu muuttamaan raaka operatiiviset tiedot päätöksiksi, joihin yrityksesi voi ryhtyä tänään.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALYSOITU",
+      "statusArchived": "ARKISTOINTI",
+      "statusPending": "ODOTTAA",
+      "metricUptime": "Järjestelmän käyttöaika",
+      "metricSessions": "Aktiiviset istunnot",
+      "metricReportsPerDay": "Raportit / päivä",
+      "metricEvents": "Päivittäiset tapahtumat",
+      "metricReports": "Aikataulutetut raportit",
+      "metricLatency": "API-viive",
+      "unifiedPlatform": "Yhtenäinen alusta",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Raportointikonsoli",
+      "businessOutcome": "Liiketoiminnan tulos",
+      "section1Heading": "Yksi keskitetty järjestelmä jokaiselle tärkeälle mittarille",
+      "section1P1": "Tieto- ja raportointijärjestelmät ovat keskeisiä liiketoimintaratkaisuja, joiden avulla organisaatiot voivat kerätä, hallita ja muuntaa tietoja merkityksellisiksi oivalluksiksi. Nämä järjestelmät integroivat tiedot useilta osastoilta varmistaen tarkan, johdonmukaisen ja reaaliaikaisen pääsyn kriittisiin liiketoimintatietoihin. Tarjoamalla keskitetyn alustan tiedonhallintaan organisaatiot voivat parantaa toiminnan näkyvyyttä, virtaviivaistaa työnkulkuja ja tukea strategista päätöksentekoa kaikilla yrityksen tasoilla.",
+      "section1P2": "Nämä järjestelmät käyttävät automatisoitua raportointia, analytiikkaa ja hallintapaneeleja suorituskyvyn seuraamiseen, tärkeimpien mittareiden seuraamiseen ja reaaliaikaisten raporttien luomiseen. Vähentämällä manuaalista työtä ja parantamalla tietojen tarkkuutta, yritykset voivat tehdä nopeampia ja tehokkaampia päätöksiä.",
+      "section2Heading": "Rakennettu näkyvyyttä, yhteensopivuutta ja mittakaavaa varten",
+      "section2Text": "Parannetun näkyvyyden, vaatimustenmukaisuuden ja yhteistyön ansiosta tieto- ja raportointijärjestelmät antavat organisaatioille mahdollisuuden optimoida prosesseja, parantaa tuottavuutta ja edistää kestävää liiketoiminnan kasvua kilpailukykyisessä ympäristössä.",
+      "ctaHeading": "Anna jokaiselle tiimille sama reaaliaikainen kuva yrityksestä.",
+      "ctaText": "Katso, kuinka Nexus Data Systems voi yhdistää raportointisi yhdeksi älykkääksi alustaksi.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Kaikki oikeudet pidätetään.",
+      "navOverview": "Yleiskatsaus",
+      "navCapabilities": "Ominaisuudet",
+      "navImpact": "Vaikutus",
+      "navContact": "Ota yhteyttä"
+    },
+    "managedServices": {
+      "subtitle": "Kattavat hallitut palvelut yrityksellesi"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Yrityssovellusten modernisointi tietopohjaiseen yritykseen",
+      "excerpt": "Kuinka moderni sovellusarkkitehtuuri ja yhdistetty data voivat parantaa toiminnan tehokkuutta, skaalautuvuutta ja liiketoiminnan näkyvyyttä.",
+      "tag": "Liiketoiminnan muutos",
+      "category": "LIIKETOIMINNAN MUUTOS",
+      "summary": "Nykyaikainen sovellus- ja tietopohja voi auttaa yrityksiä parantamaan toiminnan tehokkuutta, yhdistämään liiketoimintajärjestelmiä ja luomaan parempaa näkyvyyttä toimintoihinsa."
+    },
+    "artificial-intelligence": {
+      "title": "Kuinka tekoäly muokkaa yrityssovelluksia",
+      "excerpt": "Tutki, kuinka älykkäästä automaatiosta, tekoälyä ohjaavista piloteista ja ennakoivasta älykkyydestä on tulossa osa yrityssovelluksia, joihin yritykset luottavat päivittäin.",
+      "tag": "Tekoäly",
+      "category": "TEKOÄLY",
+      "summary": "Tutustu siihen, kuinka älykäs automaatio, tekoälyn apuohjaajat ja ennakoiva älykkyys muuttavat päivittäiset yritysohjelmistot mukautuviksi, ennakoiviksi alustoiksi."
+    },
+    "modern-erp": {
+      "title": "Liiketoiminnan muutoksen nopeuttaminen nykyaikaisella ERP:llä",
+      "excerpt": "Tutki, kuinka modernit ERP-alustat yhdistävät rahoituksen, hankinnat, toimitusketjun ja liiketoiminnan yhtenäisen digitaalisen perustan kautta.",
+      "tag": "Moderni ERP",
+      "category": "MODERNI ERP",
+      "summary": "Moderni ERP-alusta yhdistää rahoituksen, hankinnan, toimitusketjun ja liiketoiminnan yhtenäiseksi, reaaliaikaiseksi toimintamalliksi."
+    },
+    "cybersecurity": {
+      "title": "Kyberkestävyyden kehittäminen yhdistetyssä yrityksessä",
+      "excerpt": "Tutustu siihen, kuinka organisaatiot voivat vahvistaa turvallisuutta, suojata kriittisiä järjestelmiä ja valmistautua uhkiin yhä enemmän yhdistetyissä ympäristöissä.",
+      "tag": "Kyberturvallisuus",
+      "category": "KYBERTURVALLISUUS",
+      "summary": "Kun yritykset integroivat enemmän pilvijärjestelmiä, API:ita ja kumppaneiden ekosysteemejä, kyberkestävyys varmistaa, että kriittiset toiminnot kestävät nykyaikaisia ​​uhkia."
+    },
+    "cloud-modernization": {
+      "title": "Vanhojen pilvisovellusten modernisointi",
+      "excerpt": "Tutustu käytännölliseen lähestymistapaan vanhojen sovellusten arvioimiseen, modernisointiin ja siirtämiseen kohti skaalautuvia, turvallisia pilviarkkitehtuureja.",
+      "tag": "Pilvi ja modernisointi",
+      "category": "PILVI & MODERNISOINTI",
+      "summary": "Jäsennelty, pragmaattinen etenemissuunnitelma monoliittisten yritysjärjestelmien arvioimiseksi, uudelleen muokkaamiseksi ja siirtämiseksi joustaviin, ylläpidettäviin pilviarkkitehtuureihin."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "LIIKETOIMINNAN MUUTOS",
+      "title": "Yrityssovellusten modernisointi tietopohjaiseen yritykseen",
+      "subtitle": "Nykyaikainen sovellus- ja tietopohja voi auttaa yrityksiä parantamaan toiminnan tehokkuutta, yhdistämään liiketoimintajärjestelmiä ja luomaan parempaa näkyvyyttä toimintoihinsa.",
+      "date": "syyskuuta 2026",
+      "readTime": "7 min lukuaika",
+      "imageCaption": "Yritysteknologian näkökulma — Sovellusarkkitehtuuri ja yhdistetty data",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Yrityssovellukset",
+          "desc": "Erilaiset vanhat CRM-, ERP- ja osastotyökalut toimivat siiloissa."
+        },
+        {
+          "title": "Useita tietolähteitä",
+          "desc": "Sirpaloituneet operaatiotaulukot, CSV-otteet ja ad-hoc-skeemat."
+        },
+        {
+          "title": "Irrotetut tietokannat",
+          "desc": "Eristetyt paikalliset ja koordinoimattomat pilvitietovarastot."
+        },
+        {
+          "title": "Raportit ja yrityskäyttäjät",
+          "desc": "Manuaaliset täsmäytykset, ristiriitaiset laskentataulukot ja viivästynyt raportointi."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Yrityssovellukset",
+          "desc": "Ydinkäyttöjärjestelmät ja modernit reagoivat rajapinnat."
+        },
+        {
+          "title": "API / Integrointikerros",
+          "desc": "Suojattu, tapahtumapohjainen API-yhdyskäytävä, joka yhdistää yritysten työnkulkuja."
+        },
+        {
+          "title": "Datapalvelut",
+          "desc": "Yhdistetyt perustietomallit, putkistot ja optimoidut tallennuskoneet."
+        },
+        {
+          "title": "Analyysi ja raportointi",
+          "desc": "Reaaliaikainen telemetria, semanttiset mallit ja automaattinen raportointi."
+        },
+        {
+          "title": "Liiketoiminnan päätöksentekijät",
+          "desc": "Live-toiminnalliset kojelaudat, jotka tarjoavat yhtenäisen johdon näkyvyyden."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Yrityssovellukset",
+          "purpose": "Liiketoimintaprosessien hallinta"
+        },
+        {
+          "area": "sovellusliittymää",
+          "purpose": "Järjestelmän integrointi"
+        },
+        {
+          "area": "Tietokannat",
+          "purpose": "Strukturoidut yritystiedot"
+        },
+        {
+          "area": "Tietojen integrointi",
+          "purpose": "Useiden lähteiden yhdistäminen"
+        },
+        {
+          "area": "Analyysi",
+          "purpose": "Liiketoimintatietoja"
+        },
+        {
+          "area": "Pilviinfrastruktuuri",
+          "purpose": "Skaalautuvuus ja joustavuus"
+        },
+        {
+          "area": "Valvonta",
+          "purpose": "Luotettavuus ja suorituskyky"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Parempi toiminnallinen näkyvyys monitoimiyksiköissä",
+        "Parempi tietojen johdonmukaisuus ja yksi yrityksen totuuden lähde",
+        "Vähentynyt manuaalinen raportointi ja automaattinen tietojen kokoaminen",
+        "Parempi sovelluksen suorituskyky ja pienempi tapahtumaviive",
+        "Helpompi järjestelmäintegraatio standardoitujen, turvallisten API:iden avulla",
+        "Parempi skaalautuvuus orgaanisen kasvun ja yritysostojen tukemiseksi",
+        "Parempi perusta tulevaisuuden innovaatioille ja älykkyyden käyttöönotolle"
+      ],
+      "keyPerspectivePoints": [
+        "Liiketoimintaprosessien ja todellisten operatiivisten työnkulkujen ymmärtäminen",
+        "Järjestelmien yhdistäminen luotettavien integraatiostandardien avulla",
+        "Tietojen laadun, hallinnan ja perustietomallien parantaminen",
+        "Sovellusten modernisointi horjuttamatta päivittäistä toimintaa",
+        "Luodaan joustavaan kasvuun sopiva skaalautuva arkkitehtuuri",
+        "Mahdollistaa paremman liiketoiminnan näkyvyyden ennakoivaa päätöksentekoa varten"
+      ],
+      "sec1Eyebrow": "LIIKETOIMINNAN HAASTE",
+      "sec1Heading": "Monimutkaisuuden navigointi kasvavassa yrityksessä",
+      "sec1Subtext": "Yritysten skaalautuessa teknologiaekosysteemit väistämättä laajenevat. Se, mikä alkaa kohdistetuista ratkaisuista yksittäisille osastoille, voi kehittyä erilaisten järjestelmien sotkeutuneeksi verkoksi.",
+      "sec2Eyebrow": "JÄRJESTELMÄKEHITYS",
+      "sec2Heading": "Monimutkainen teknologiamaisema",
+      "sec2Subtext": "Vanhat sovelluksen jalanjäljet tuovat pirstoutumista tietovarastoihin, käyttökokemukseen ja toiminnan näkyvyyteen.",
+      "sec3Eyebrow": "KYTKETTY MALLI",
+      "sec3Heading": "Moderni sovellusarkkitehtuuri",
+      "sec3Subtext": "Siirtyminen monoliittisista siiloista irrotettuihin palveluihin, jotka on yhdistetty toisiinsa suojattujen API-liittymien ja tapahtumaohjatun datan suoratoiston avulla.",
+      "sec4Eyebrow": "ÄLYKÄ JA NÄKYVYYS",
+      "sec4Heading": "Yhdistetyt tiedot ja analyysit",
+      "sec4Subtext": "Tietosiilojen avaaminen automatisoituun raportointiin, yhtenäisiin kojetauluihin ja ennakoiviin liiketoimintapäätöksiin.",
+      "sec5Eyebrow": "ARKKITEHTUURISUUNNITELMA",
+      "sec5Heading": "Teknologiasäätiö",
+      "sec5Subtext": "Strukturoitu näkymä tärkeimmistä arkkitehtonisista kerroksista mahdollistaa koko yrityksen liitettävyyden ja skaalautuvuuden.",
+      "sec6Eyebrow": "LAADULLINEN ARVO",
+      "sec6Heading": "Vaikutus liiketoimintaan",
+      "sec6Subtext": "Sovellusten modernisoinnin ja yhdistettyjen tietoperustojen ansiosta mitattavissa olevia toiminnallisia hyötyjä.",
+      "ctaHeading": "Oletko valmis modernisoimaan yrityssovellusmaailmasi?",
+      "ctaDescription": "Tutki, kuinka Rezonants voi tehdä yhteistyötä johtajuutesi kanssa suunnitella, rakentaa ja ottaa käyttöön yhtenäisiä sovellusalustoja ja moderneja tietoputkia.",
+      "ctaButton": "Keskustele yritysarkkitehdin kanssa",
+      "sec1P1": "Tyypillisessä yritysympäristössä kasvu tuo usein mukanaan useita ohjelmistosukupolvia. Talous, toimitusketju, asiakaspalvelu ja kenttätoiminta toimivat usein erillisillä ohjelmistopinoilla, jotka on hankittu tai rakennettu eri aikoina. Vuosien toiminnallisen evoluution aikana nämä järjestelmät kehittävät omia tietomuotojaan, päivitystaajuuksiaan ja integraatiopiirteitään.",
+      "sec1P2": "Kitka ilmenee koko yrityksessä yhteisten toiminnallisten pullonkaulojen kautta:",
+      "sec1List": [
+        {
+          "bold": "Useita irrotettuja yrityssovelluksia",
+          "text": ", jotka edellyttävät päällekkäistä tietojen syöttämistä ja manuaalista ristiviittausta."
+        },
+        {
+          "bold": "Yhteydetön tietokannat",
+          "text": "toimii ilman keskitettyä hallintoa tai yhtenäisiä päätietueita."
+        },
+        {
+          "bold": "Manuaalinen raportointi",
+          "text": ", jossa analyyttiset tiimit viettävät päiviä ompelemalla vientituotteita oivallusten paljastamisen sijaan."
+        },
+        {
+          "bold": "Tietojen epäjohdonmukaisuudet",
+          "text": "eri osastojen välillä, mikä luo ristiriitaisia vastauksia toiminnallisiin peruskysymyksiin."
+        },
+        {
+          "bold": "Sovelluksen ylläpidon yleiskustannukset ja skaalautuvuusrajat",
+          "text": ", kun hauraat perinteiset point-to-point-yhteydet kamppailevat tukeakseen kasvavia transaktiomääriä."
+        }
+      ],
+      "sec1P3": "Näihin haasteisiin vastaaminen edellyttää teknologiamaiseman näkemistä ei yksittäisten ohjelmistohankintojen kokoelmana, vaan toisiinsa yhdistettynä liiketoimintaympäristönä, joka on suunniteltu tukemaan strategista ketteryyttä.",
+      "legacyLandscapeBadge": "Vanha lähtötaso",
+      "legacyLandscapeTitle": "Hajanainen tietovirta",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Datasiilot",
+          "desc": "Tärkeät asiakas-, talous- ja varastotiedot jäävät loukkuun osastojen alustalle, mikä estää yhden yhtenäisen näkemyksen liiketoiminnasta."
+        },
+        {
+          "num": "02",
+          "title": "Integraatioaukot",
+          "desc": "Point-to-point-yhteydet ja öiset eräpoiminnat luovat latenssia, korkeat vikatiheydet ja kalliita ylläpitokustannuksia operatiivisille ryhmille."
+        },
+        {
+          "num": "03",
+          "title": "Viivästynyt tieto",
+          "desc": "Kun johtajien on odotettava päiviä kuukauden lopun täsmäytykseen ymmärtääkseen suorituskykyä, päätöksenteko on reaktiivista eikä ennakoivaa."
+        }
+      ],
+      "modernArchitectureBadge": "Kohdearkkitehtuuri",
+      "modernArchitectureTitle": "Yhdistetty yrityssovellusmalli",
+      "sec3P1": "Moderni sovellusarkkitehtuuri korvaa hauraat point-to-point-yhteydet ketterällä, irrotetulla perustalla. Luomalla vankan API- ja integraatiokerroksen järjestelmät toimivat vuorovaikutuksessa hallittujen, turvallisten päätepisteiden kautta säilyttäen samalla yksittäisten liiketoimintayksiköiden autonomian.",
+      "sec3P2": "Tämän arkkitehtonisen muutoksen tärkeimpiä teknisiä ominaisuuksia ovat:",
+      "sec3List": [
+        {
+          "bold": "Sovelluksen modernisointi:",
+          "text": "Ydinliikelogiikan erottaminen skaalautuvista modulaarisista palveluista."
+        },
+        {
+          "bold": "API-integraatio:",
+          "text": "Standardoitujen, dokumentoitujen rajapintojen luominen sisäiseen ja kumppanien yhteentoimivuuteen."
+        },
+        {
+          "bold": "Tietojen integrointi ja tietokannan optimointi:",
+          "text": "Yhdistää toiminnalliset dataputket korkean suorituskyvyn kyselyn optimoinnilla."
+        },
+        {
+          "bold": "Havaittavuus ja turvallisuus:",
+          "text": "Keskitetyn telemetrian, kirjausketjujen ja roolipohjaisten kulunvalvontatoimintojen käyttöönotto kaikissa palveluissa."
+        }
+      ],
+      "sec4P1": "Integroidut tietopohjat muuttavat johtajien ja operatiivisten tiimien vuorovaikutusta tiedon kanssa. Sen sijaan, että luottaisivat retrospektiivisiin raportteihin, jotka osoittavat, mitä viikkoja sitten tapahtui, organisaatiot saavat reaaliaikaista toiminnallista telemetriaa liiketoimintayksiköiden välillä.",
+      "sec4P2": "Yhdistetty data ja analytiikka tukevat kestäviä liiketoimintatuloksia seuraavilla tavoilla:",
+      "sec4List": [
+        {
+          "bold": "Toiminnallinen näkyvyys:",
+          "text": "Jatkuva läpinäkyvyys myynnin, varaston, toteutumisen ja taloudellisen suorituskyvyn välillä."
+        },
+        {
+          "bold": "Nopeammat raportointitiheydet:",
+          "text": "On-demand -tietojen kokoaminen, joka eliminoi toistuvat manuaaliset laskentataulukot."
+        },
+        {
+          "bold": "Johdonmukaista tietoa:",
+          "text": "Yksittäiset määritelmät mittareille, kuten marginaalille, asiakkaan elinkaariarvolle ja johdon nopeudelle."
+        },
+        {
+          "bold": "Parempia liiketoimintatietoja:",
+          "text": "Ennakoiva kuvion tunnistus, joka paljastaa riskit ja mahdollisuudet etuajassa."
+        },
+        {
+          "bold": "Parempi päätöksenteko:",
+          "text": "Varmennettu toimeenpanotoiminta, jota tukevat validoitu datalinja ja läpinäkyvyys."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGINEN NÄKYMÄ",
+      "keyPerspectiveTitle": "Modernisointi on muutakin kuin ohjelmistojen korvaamista",
+      "keyPerspectiveLead": "Yrityssovellusten modernisointi ei ole vain vanhojen ohjelmistojen korvaamista uusilla työkaluilla. Se on tarkoituksellinen teknologian kohdistaminen siihen, miten yritys toimii, skaalautuu ja tuottaa arvoa."
+    },
+    "artificialIntelligence": {
+      "category": "TEKOÄLYKSI",
+      "title": "Kuinka tekoäly muokkaa yrityssovelluksia",
+      "subtitle": "Tutki, kuinka älykkäästä automaatiosta, tekoälyä ohjaavista piloteista ja ennakoivasta älykkyydestä on tulossa osa yrityssovelluksia, joihin yritykset luottavat päivittäin.",
+      "date": "syyskuuta 2026",
+      "readTime": "6 min lukuaika",
+      "imageCaption": "Yritysteknologian näkökulma – natiivi älykkyys ja automatisoidut työnkulut",
+      "aiUseCases": [
+        {
+          "title": "Toimitusketjun ennuste",
+          "desc": "Ennustetaan kysyntäpiikkejä ja logistiikan viivästyksiä historiallisen toimittajien telemetrian perusteella."
+        },
+        {
+          "title": "Automaattinen laskujen tarkastus",
+          "desc": "Rivikohtien purkaminen ja vastaaminen ostotilauksiin ilman ihmisen syöttöä."
+        },
+        {
+          "title": "Älykkäät palvelupisteet",
+          "desc": "Tier-1 työntekijöiden IT- ja HR-pyyntöjen triage ja automaattinen ratkaisu."
+        },
+        {
+          "title": "Asiakasvaihtuvuuden ehkäisy",
+          "desc": "Käyttäytymisklusterointi, joka tunnistaa varhaiset kitkasignaalit ennakoivaa tavoittelua varten."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Nopeammat operatiiviset päätökset reaaliaikaisten ennakoivien mallien avulla",
+        "Toistuvan tietojenkäsittelyn ja manuaalisten täsmäysten vähentäminen",
+        "Parempi työntekijöiden suorituskyky kontekstuaalisella copilot-avusta",
+        "Parempi asiakastyytyväisyys hyperpersonoitujen kokemusten ansiosta",
+        "Jatkuva prosessin itseoptimointi, joka perustuu todelliseen telemetriaan",
+        "Riskitön noudattamisen seuranta automaattisen auditointilokin tarkastuksen avulla"
+      ],
+      "governancePoints": [
+        "Tiukka roolipohjainen pääsy varmistaa, että tekoälymallit eivät koskaan vuoda arkaluonteisia tietoja",
+        "Läpinäkyvät päättelyjäljet, jotka mahdollistavat ihmisten arvioinnin arvokkaisiin toimiin",
+        "Jatkuva mallin arviointi hallusinaatioiden ja harhojen estämiseksi",
+        "Tiukat datan alkuperästandardit, jotka ovat yhdenmukaisia GDPR:n, SOC 2:n ja HIPAA:n kanssa",
+        "Ihmisen silmukassa eskalaatiopolut epävarmoille reunaolosuhteille"
+      ],
+      "sec1Eyebrow": "SIIRTO ALKUÄLYKSIIN",
+      "sec1Heading": "Tekoäly yrityssovelluksissa",
+      "sec1Subtext": "Tekoäly on siirtymässä itsenäisten kokeilujen lisäksi päivittäisten yritysjärjestelmien ytimeen.",
+      "sec2Eyebrow": "AUTOMAATIOA MITTAIKAISSA",
+      "sec2Heading": "Älykäs automaatio",
+      "sec2Subtext": "Hauraiden sääntöpohjaisten rutiinien korvaaminen kognitiivisilla työnkuluilla, jotka tulkitsevat asiakirjoja, reitittävät poikkeuksia ja mukautuvat.",
+      "sec3Eyebrow": "UPOTETTU APU",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Yrityssovelluksiin upotetut kontekstitietoiset avustajat auttavat tietotyöntekijöitä tietojen analysoinnissa, dokumentaatiossa ja operatiivisissa kyselyissä.",
+      "sec4Eyebrow": "TULEVAISUUTTA KATSOVA PERUSTELU",
+      "sec4Heading": "Ennakoiva älykkyys",
+      "sec4Subtext": "Siirtyminen taaksepäin katsovista retrospektiivisistä raporteista ennakoiviin päätöskoneisiin, jotka ennakoivat toimintahäiriöitä.",
+      "sec5Eyebrow": "TODELLISIA SOVELLUKSIA",
+      "sec5Heading": "Yritysten tekoälyn käyttötapauksia",
+      "sec5Subtext": "Demonstroidut sovellukset, jotka tuottavat mitattavissa olevia tehokkuusetuja operatiivisilla yritysalueilla.",
+      "sec6Eyebrow": "STRATEGINEN ARVO",
+      "sec6Heading": "Liiketoiminnan edut",
+      "sec6Subtext": "Konkreettiset tuottavuuden lisäykset ja toiminnallinen ketteryys saavutetaan yrityksen tekoälyn käyttöönoton myötä.",
+      "ctaHeading": "Oletko valmis integroimaan alkuperäisen tekoälyn yrityssovelluksiisi?",
+      "ctaDescription": "Yhdistä Rezonantsin tekoälykäytäntöön suunnitella, arvioida ja ottaa käyttöön yritysten tekoälykoopilotteja ja älykkäitä automaatiomoottoreita.",
+      "ctaButton": "Ota yhteyttä tekoälyasiantuntijaan",
+      "sec1P1": "Yritysten tekoälyä käsiteltiin vuosien ajan ulkoisena kykynä: mallina, joka on koulutettu eristyksissä, hiekkalaatikon esittelynä tai erillisenä chatbottina, johon pääsee erillisen portaalin kautta. Nykyään paradigma on muuttunut perusteellisesti. Vaikuttava yritystekoäly on upotettu suoraan tietuejärjestelmiin – ERP:ihin, CRM:ihin, henkilöpääoman alustoihin ja toimitusketjun moottoreihin, joissa todellista liiketoimintaa tapahtuu.",
+      "sec1P2": "Kun älykkyys toimii tietuejärjestelmän sisällä, se perii organisaation vakiintuneet turvallisuusrajat, tietomallit ja liiketoimintalogiikan. Se ei vain luo yleisiä vastauksia; se toimii reaaliaikaisten tilausten perusteella, tulkitsee avoimia tukilippuja, täsmäyttää toimittajien laskut ja auttaa työntekijöitä täsmällisissä käyttöliittymissä, joissa he liikkuvat päivittäin.",
+      "sec1P3": "Tämä muunnos siirtää yritysohjelmistot passiivisista tietokannoista, jotka odottavat ihmisen näppäinpainalluksia ennakoiville alustoille, jotka ennakoivat tarpeita, automatisoivat vaiheet ja antavat oikea-aikaisia ​​suosituksia.",
+      "sec2P1": "Perinteinen Robotic Process Automation (RPA) loisti deterministisessä, toistuvassa näytön kaapimisessa. Jäykät sääntöjoukot kuitenkin katkeavat aina, kun muoto muuttuu, saapuu odottamaton asiakirjan asettelu tai tapahtuu poikkeus. Älykäs automaatio kattaa tämän jaon yhdistämällä kognitiivisen päättelyn tapahtumien suorittamiseen:",
+      "sec2List": [
+        {
+          "bold": "Työnkulun automatisointi:",
+          "text": "Monimutkaisten osastojen välisten toimintojen organisointi, reititystehtävät kiireellisyyden ja historiallisten ratkaisupolkujen perusteella."
+        },
+        {
+          "bold": "Älykäs asiakirjojen käsittely:",
+          "text": "Syöttää jäsenneltyjä PDF-tiedostoja, sähköposteja, toimitusluetteloita ja sopimuksia ja muuntaa ne strukturoiduiksi tietokantatapahtumiksi."
+        },
+        {
+          "bold": "Älykäs tehtäväautomaatio:",
+          "text": "Automaattinen monivaiheinen toiminnallinen validointi, kuten ostotilausten yhdistäminen kuittien ja tiliotteiden kanssa."
+        },
+        {
+          "bold": "Prosessin optimointi:",
+          "text": "Jatkuva prosessilokien analysointi syklin ajan pullonkaulojen tunnistamiseksi ja kohdennettujen työnkulun parannusten suositteleminen."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Tietohaku",
+          "desc": "Semanttinen haku hajautetuista tietokannoista, intranet-käytännöistä, tuotespesifikaatioista ja historiallisista lippuratkaisuista ilman avainsanojen arvailua."
+        },
+        {
+          "icon": "📝",
+          "title": "Asiakirjan yhteenveto",
+          "desc": "Pitkien tarjouspyyntöjen, toimittajasopimusten, teknisten eritelmien ja lakimuutosten välitön tislaus käyttökelpoisiksi johdon ohjeiksi ja riskien tarkistuslistoiksi."
+        },
+        {
+          "icon": "✨",
+          "title": "Sisällön luominen",
+          "desc": "Avustettu asiakasehdotusten, operatiivisen dokumentaation, vakiotoimintamenettelyjen (SOP) ja standardoitujen asiakaspäivitysten laatiminen brändistandardien mukaisesti."
+        },
+        {
+          "icon": "📈",
+          "title": "Tietojen analyysi",
+          "desc": "Keskustelevien kyselyiden kääntäminen monimutkaisiksi analyyttisiksi kyselyiksi, nopean kaavion yhteenvedon luominen ja johtajuuden kriittisten poikkeamien korostaminen."
+        },
+        {
+          "icon": "🔄",
+          "title": "Liiketoiminnan työnkulkuja",
+          "desc": "Tapahtumien käynnistäminen suoraan chat-kehotteista, kuten resurssien ajoittaminen, lippujen luominen, tietueiden päivittäminen tai ostoehdotusten lähettäminen."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Rooleihin perustuva pääsy",
+          "desc": "Varmistetaan, että copilot-vastaukset noudattavat tiukasti käyttäjien lupatasoja ja pitävät luottamukselliset taloustiedot, HR-tiedostot ja immateriaaliomaisuuden suojassa."
+        }
+      ],
+      "sec4P1": "Vaikka generatiiviset mallit ovat erinomaisia ​​kielen ymmärtämisessä ja syntetisoinnissa, ennakoiva älykkyys keskittyy matemaattisiin malleihin, jotka ovat piilossa strukturoitujen yritystietosarjojen sisällä. Sulautetut ennakoivat mallit antavat organisaatioille mahdollisuuden ennakoida toiminnallisia esteitä ennen kuin ne häiritsevät toimintaa:",
+      "sec4List": [
+        {
+          "bold": "Toiminnallinen ennuste:",
+          "text": "Tulotrendien, varaston nopeuden ja resurssitarpeiden ennustaminen syntetisoimalla kausiindikaattoreita reaaliaikaisen putkilinjan nopeuden kanssa."
+        },
+        {
+          "bold": "Ennakoiva analytiikka:",
+          "text": "Asiakkaiden vaihtuvuusriskien, huollon huononemisjaksojen ja toimitusketjun viiveiden tunnistaminen, kun vielä on aikaa puuttua asiaan."
+        },
+        {
+          "bold": "Riskin tunnistaminen:",
+          "text": "Rahoitustapahtumien, vaatimustenmukaisuuslokien ja toimittajan hankintamallien poikkeavuuksien ilmoittaminen ennen kuin ne eskaloituvat."
+        },
+        {
+          "bold": "Kysynnän ennuste:",
+          "text": "Myyntiennusteiden harmonisointi valmistuskapasiteetin ja varastovarastojen kanssa käyttöpääoman suojaamiseksi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "YRITYKSEN HALLINTA",
+      "keyPerspectiveTitle": "Luottamus, valvonta ja suojakaiteet",
+      "keyPerspectiveLead": "AI on vain niin luotettava kuin sen alla oleva tietopohja ja sitä ympäröivä hallinto. Kestävä yrityskäyttö edellyttää harkittua arkkitehtonista kurinalaisuutta:"
+    },
+    "modernErp": {
+      "category": "MODERNI ERP",
+      "title": "Liiketoiminnan muutoksen nopeuttaminen nykyaikaisella ERP:llä",
+      "subtitle": "Tutki, kuinka modernit ERP-alustat yhdistävät rahoituksen, hankinnat, toimitusketjun ja liiketoiminnan yhtenäisen digitaalisen perustan kautta.",
+      "date": "syyskuuta 2026",
+      "readTime": "7 min lukuaika",
+      "imageCaption": "Enterprise Technology Perspective — yhdistetty ERP ja toiminnan ketteryys",
+      "connectedFunctions": [
+        {
+          "title": "Taloushallinto",
+          "desc": "Reaaliaikaiset pääkirjapäivitykset, automaattinen tulontunnistus ja välitön monen valuutan täsmäytys."
+        },
+        {
+          "title": "Toimitusketju ja logistiikka",
+          "desc": "Päästä-päähän varaston näkyvyys, varaston optimointi ja toimittajan suorituskyvyn telemetria."
+        },
+        {
+          "title": "Inhimillinen pääoma ja työvoima",
+          "desc": "Itsepalveluportaalit työntekijät, automatisoidut palkanlaskennot ja integroitu lahjakkuuksien elinkaaren suunnittelu."
+        },
+        {
+          "title": "Hankinta ja hankinta",
+          "desc": "Automaattiset ostojen hyväksynnät, toimittajasopimusten noudattaminen ja dynaaminen kulutusanalytiikka."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-Native -arkkitehtuuri",
+          "desc": "Joustava laskennan skaalaus ilman paikallista infrastruktuurin ylikuormitusta tai häiritsevää version lukitusta."
+        },
+        {
+          "title": "Avoin API-ekosysteemi",
+          "desc": "Valmiiksi rakennetut liittimet mahdollistavat saumattoman kaksisuuntaisen tiedon synkronoinnin mukautettujen mikropalvelujen ja CRM-ohjelmistopakettien kanssa."
+        },
+        {
+          "title": "Sulautettu Analytics",
+          "desc": "Suorat koontinäytöt korkean tason taseista yksittäisiin tapahtumalokeihin."
+        },
+        {
+          "title": "Automaattiset työnkulun laukaisimet",
+          "desc": "Tapahtumalähtöinen tapahtuma laukaisee standardien osastojen välisten toimintojen suorittamisen itsenäisesti."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Yksi totuuden lähde eliminoi ristiriitaiset osastoraportit",
+        "Kuukauden lopun ja vuosineljänneksen lopun sulkemisjaksojen jyrkkä väheneminen",
+        "Reaaliaikainen varaston ja logistiikan näkyvyys minimoi varastot",
+        "Pienemmät IT-ylläpitokustannukset modulaaristen pilvipohjaisten päivitysten ansiosta",
+        "Yhtenäinen vaatimustenmukaisuuden seuranta useiden alueiden verotusalueilla",
+        "Hankittujen kokonaisuuksien nopeampi sisällyttäminen yhteisiin operatiivisiin runkoverkkoihin"
+      ],
+      "erpStrategyPoints": [
+        "ERP-arkkitehtuurin kohdistaminen ydintoimintojen työnkulkuihin ennen konfigurointia",
+        "Modulaaristen käyttöönottomallien valitseminen nopeiden virstanpylväiden saavuttamiseksi",
+        "Priorisoi korkealaatuinen perustietojen siirto ja täsmäytys",
+        "Automatisoidun muutoksenhallinnan ja roolikohtaisten koulutusohjelmien sisällyttäminen",
+        "API-yhdyskäytävien suunnittelu kitkaton tulevaa integraatiolaajennusta varten"
+      ],
+      "sec1Eyebrow": "TOIMINNALLINEN SELKÄRANKA",
+      "sec1Heading": "Miksi nykyaikainen ERP on tärkeä",
+      "sec1Subtext": "Yrityksen tehokkuus riippuu rahoituksen, hankintojen, toimintojen ja henkilöpääoman tietojen saumattomasti synkronoinnista.",
+      "sec2Eyebrow": "INTEGROITU EKOSYSTEEMI",
+      "sec2Heading": "Yhdistetyt liiketoimintatoiminnot",
+      "sec2Subtext": "Perinteisten osastojen siilojen hajottaminen, jotta tapahtumatiedot voivat kulkea välittömästi liiketoimintayksiköiden välillä.",
+      "sec3Eyebrow": "TOIMINNALLINEN HARMONIA",
+      "sec3Heading": "Yhtenäinen toiminta ja tiedonkulku",
+      "sec3Subtext": "Yhdistetty digitaalinen selkäranka varmistaa, että myyntisopimukset päivittävät välittömästi toimitusketjun tilaukset ja talouskirjat.",
+      "sec4Eyebrow": "YRITYSTELEMETRIA",
+      "sec4Heading": "Reaaliaikainen liiketoiminnan näkyvyys",
+      "sec4Subtext": "Live toiminnallinen tieto, joka korvaa viivästyneet retrospektiiviset laskentataulukot välittömillä suoritusindikaattoreilla.",
+      "sec5Eyebrow": "YDINALUSTAA ARKKITEKTUURI",
+      "sec5Heading": "Nykyaikaiset ERP-ominaisuudet",
+      "sec5Subtext": "Arkkitehtoniset perustat, jotka erottavat ketterät pilvialustat vanhoista monoliittisista järjestelmistä.",
+      "sec6Eyebrow": "LAATUVAIKUTUS",
+      "sec6Heading": "Liiketoiminnan edut",
+      "sec6Subtext": "Konkreettista organisaation nopeutta, läpinäkyvyyttä ja kustannustehokkuutta nykyaikaisten ERP-alustojen avulla.",
+      "ctaHeading": "Oletko valmis modernisoimaan yrityksen ERP-selkärangan?",
+      "ctaDescription": "Tutustu, kuinka Rezonants voi auttaa sinua laajentamaan, konfiguroimaan ja integroimaan liiketoimintasi mukaan räätälöityjä modulaarisia ERP-alustoja.",
+      "ctaButton": "Keskustele ERP-arkkitehdin kanssa",
+      "sec1P1": "Nopeasti muuttuvissa yritysympäristöissä perinteiset toiminnanohjausjärjestelmät ovat usein vaikeuksissa. Eräkäsittelyn ja eristettyjen paikallisten palvelimien aikakaudella rakennetut vanhat ERP:t olivat voimakkaasti räätälöityjä, vaikeita päivittää ja tuskallisen läpinäkymättömiä. Keskeiset liiketoiminnot toimivat rinnakkaisissa siiloissa, jotka luottivat hauraan yön viennin kirjanpidon synkronoimiseksi varastojen kanssa.",
+      "sec1P2": "Nykyaikainen, pilvipohjainen ERP määrittelee tämän dynamiikan perusteellisesti uudelleen. Se toimii yrityksen yhtenäisenä digitaalisena selkärankana – elävänä perustana, jossa rahoitus, hankinnat, toimitusketju, varastot ja henkilöresurssit käyvät kauppaa jaetun tietomallin pohjalta.",
+      "sec1P3": "Tuomalla ydintoiminnot yhteen harmonisoituun ympäristöön, moderni ERP eliminoi kasvua hidastavat toiminnalliset kuolleet kulmat, jolloin johtajat voivat ohjata liiketoimintaa reaaliaikaisten signaalien avulla vanhentuneiden historiallisten yhteenvetojen sijaan.",
+      "sec3P1": "Toiminnalliset siilot ovat harvoin ihmisten ongelmia; ne ovat arkkitehtonisia ongelmia. Kun asiakaspalvelu-, hankinta- ja varastotiimit työskentelevät irrotetuissa sovelluksissa, jokainen kanavanvaihto vaatii manuaalisia sähköpostiviestejä, laskentataulukoita ja puheluita. Virheet lisääntyvät, laskut viivästyvät ja asiakkaiden sitoumukset lipsahtavat.",
+      "sec3P2": "Nykyaikainen ERP ratkaisee tämän yhtenäisen datalinjan ja tapahtumalähtöisen prosessin organisoinnin avulla:",
+      "sec3List": [
+        {
+          "bold": "Synkronoitu tilaus käteiseksi:",
+          "text": "Kun asiakas on tehnyt tilauksen, varastot varataan automaattisesti, lähetystarrat luodaan ja laskutuskirjat päivitetään välittömästi."
+        },
+        {
+          "bold": "Avoimuus hankinnasta maksuun:",
+          "text": "Ostotilaukset, tavarakuitit ja toimittajalaskut täsmäävät automaattisesti kolmisuuntaisen täsmäytyksen avulla, mikä merkitsee vain poikkeuksia ihmisen tarkastettavaksi."
+        },
+        {
+          "bold": "Yhtenäinen työ- ja käyttökustannuslaskenta:",
+          "text": "Projektien työaikalomakkeet, palkkasummat ja suorat toimintakulut kartoitetaan suoraan kustannuspaikkoihin reaaliajassa."
+        }
+      ],
+      "sec4P1": "Yrityksen hoitaminen ilman yhtenäistä näkyvyyttä on kuin lentämistä tiheässä sumussa viivästyneiden mittareiden kanssa. Nykyaikainen ERP tarjoaa reaaliaikaista telemetriaa kaikilla liiketoimintaulottuvuuksilla:",
+      "sec4List": [
+        {
+          "bold": "Live-johtajien hallintapaneelit:",
+          "text": "Välittömät näkymät bruttokatteista, liiketoiminnan kassavirroista, avoimista veloista ja tilauskannasta odottamatta kauden päättymistä."
+        },
+        {
+          "bold": "Itsepalvelutoimintaraportointi:",
+          "text": "Osastopäälliköt voivat rakentaa mukautettuja kyselyitä ja perehtyä yritystason yhteenvedoista yksittäisiin tapahtumarivikohtiin."
+        },
+        {
+          "bold": "Keskitetyt perustiedot:",
+          "text": "Ristiriitaisten lukujen poistaminen luomalla yksittäisiä hallinnoituja perustietoja asiakkaille, toimittajille ja tuoteluetteloille."
+        },
+        {
+          "bold": "Ennakoiva poikkeavuusvaroitus:",
+          "text": "Automaattiset hälytykset ilmoittavat johtajille välittömästi, kun marginaalit putoavat alle kynnyksen, varastot ovat vähissä tai toimittajien toimitukset lipsuvat."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP-MUUTOKSEN FILOSOFIA",
+      "keyPerspectiveTitle": "Pragmaattinen modernisointi yli monoliittisen remontin",
+      "keyPerspectiveLead": "Nykyaikainen ERP-muutos onnistuu, kun organisaatiot pitävät sitä evoluutionaarisena toimintapäivityksenä eikä \"kaikki tai ei mitään\" -häiriönä:"
+    },
+    "cybersecurity": {
+      "category": "KYBERTURVALLISUUS",
+      "title": "Kyberkestävyyden kehittäminen yhdistetyssä yrityksessä",
+      "subtitle": "Tutustu siihen, miten organisaatiot voivat vahvistaa turvallisuutta, suojata kriittisiä järjestelmiä ja valmistautua uhkiin yhä enemmän yhdistetyissä ympäristöissä.",
+      "date": "syyskuuta 2026",
+      "readTime": "8 min lukuaika",
+      "imageCaption": "Yritysteknologian näkökulma – uhkapuolustus ja nollaluottamusarkkitehtuuri",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetria ja tunnistus",
+          "desc": "Reaaliaikainen lokien käsittely ja SIEM-poikkeamien korrelaatio kaikissa pilvipäätepisteissä ja työkuormissa."
+        },
+        {
+          "title": "Suojaus ja eristäminen",
+          "desc": "Automaattiset verkon karanteenisäännöt eristävät vaarantuneet säilöt tai tunnistetiedot välittömästi."
+        },
+        {
+          "title": "Korjaus ja perussyy",
+          "desc": "Nopea korjaustiedoston käyttöönotto ja digitaalinen rikostekninen tutkimus, joka tunnistaa tarkan rikkomusvektorin."
+        },
+        {
+          "title": "Resilience & Hardening",
+          "desc": "Jatkuva palaute muuttumattomiin varmuuskopioihin, käytäntöjen suojakaiteisiin ja automatisoituihin red-team-simulaatioihin."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Pilviresurssien haavoittuvuushyökkäyspintojen huomattava väheneminen",
+        "Taattu toiminnan jatkuvuus ja katastrofipalautus minimaalisella RTO/RPO:lla",
+        "Täydellinen vaatimustenmukaisuusluottamus ISO 27001-, SOC 2-, HIPAA- ja GDPR-auditoinneissa",
+        "Yrityksen immateriaalioikeuksien ja luottamuksellisten asiakastietojen suojaaminen",
+        "Virtaviivaistettu toimittajan ja kolmannen osapuolen riskienhallinta yhtenäisten käyttöoikeuksien hallinnan avulla",
+        "Parannettu asiakkaiden ja sijoittajien luottamus, jota tukevat varmennettu nollaluottamusturva"
+      ],
+      "zeroTrustPrinciples": [
+        "Älä koskaan luota, varmista aina: jokaisessa tapahtumassa vaaditaan selkeä todennus",
+        "Vähiten etuoikeus: Yksityiskohtaiset roolirajat rajoittavat sivuttaista uhkien liikettä",
+        "Oletetaan rikkominen: jatkuva uhkien valvonta, salaus siirron aikana ja levossa",
+        "Mikrosegmentointi: Verkkopalomuurit, jotka eristävät yksittäisten sovellusten kuormitukset",
+        "Jatkuva telemetria: automaattinen käyttäytymisanalyysi, joka ilmoittaa epänormaalit istuntopyynnöt"
+      ],
+      "sec1Eyebrow": "LAAJENTEVA KEHE",
+      "sec1Heading": "Yhdistetyn yrityksen tietoturvamaisema",
+      "sec1Subtext": "Kun yritykset ottavat käyttöön pilvipalvelut, hajautetut etätyöryhmät ja IoT-laitteet, perinteiset suojausrajat hajoavat.",
+      "sec2Eyebrow": "KATTAVA PUOLUSTUS",
+      "sec2Heading": "Monikerroksinen uhkasuojaus",
+      "sec2Subtext": "Uhkien tiedustelutietojen, haavoittuvuuksien skannauksen ja automaattisen reagoinnin koordinointi koko teknologiapinossa.",
+      "sec3Eyebrow": "UUSI TURVALAJA",
+      "sec3Heading": "Identity & Access Management (IAM)",
+      "sec3Subtext": "Identiteetti on ensisijainen ohjaustaso. Yksityiskohtainen käyttöoikeus, MFA ja SSO varmistavat, että vain valtuutetut päämiehet pääsevät liiketoimintajärjestelmiin.",
+      "sec4Eyebrow": "ARKKITEHTUURIPARADIGMA",
+      "sec4Heading": "Demystifying Zero Trust -arkkitehtuuri",
+      "sec4Subtext": "Perusturvallisuusajattelu, joka perustuu jatkuvaan todentamiseen, nimenomaiseen valtuutukseen ja oletettuihin kompromisseihin.",
+      "sec5Eyebrow": "INFRASTRUKTUURIN HALLINTA",
+      "sec5Heading": "Pilvitietoturvanäkökohdat",
+      "sec5Subtext": "Käsittelemme jaetun vastuun malleja, infrastruktuuria koodisuojakaiteena ja Kubernetes-ajonaikaista suojausta.",
+      "sec6Eyebrow": "TOIMINNALLINEN KESTÄVYYS",
+      "sec6Heading": "Tapahtumavalmius: Ennaltaehkäisyn lisäksi",
+      "sec6Subtext": "Strukturoitujen runbookien, automatisoitujen suojausharjoitusten ja muuttumattomien katastrofipalautusvarmuuskopioiden valmisteleminen täydellisen toiminnan kestävyyden takaamiseksi.",
+      "sec7Eyebrow": "STRATEGINEN ARVO",
+      "sec7Heading": "Liiketoimintaedut",
+      "sec7Subtext": "Yrityksen sietokyky, vaatimustenmukaisuuden todentaminen ja tuotemerkin maineen turvaaminen nykyaikaisen kyberpuolustuksen avulla.",
+      "ctaHeading": "Oletko valmis vahvistamaan yrityksesi kyberkestävyyttä?",
+      "ctaDescription": "Tee yhteistyötä Rezonantsin tietoturvakäytännön kanssa arkkitehtuurien tarkastamiseksi, Zero Trust -kehysten toteuttamiseksi ja kriittisten järjestelmien suojaamiseksi.",
+      "ctaButton": "Ota yhteyttä kyberarkkitehtiin",
+      "sec1P1": "Yritysten IT:n perinnön aikakaudella turvallisuus toimi linna ja vallihauta -doktriinin mukaan: kaikki yrityksen toimistoverkon sisällä oletettiin luotettavaksi, kun taas kaikki ulkopuolinen katsottiin epäluotettavaksi. Yksi yrityksen palomuuri suojasi sisäiset palvelimet, tietokannat ja pöytätietokoneet.",
+      "sec1P2": "Tämän päivän yritys on kasvanut fyysisten seinien ulkopuolelle. Työkuormat kohdistuvat monipilviympäristöihin (AWS, Azure, GCP), työntekijät käyttävät yrityssovelluksia useista eri paikoista, ja API:t vaihtavat jatkuvasti arkaluonteisia operatiivisia tietoja ulkoisten logistiikkapalvelujen tarjoajien, rahoituslaitosten ja SaaS-toimittajien kanssa.",
+      "sec1P3": "Vaikka tämä hyperliitettävyys edistää valtavaa liiketoiminnan ketteryyttä, se laajentaa huomattavasti yrityksen hyökkäyspintaa. Jokainen API-päätepiste, identiteettitunnus, yhdistetty mobiililaite ja SaaS-integraatio edustavat mahdollista altistumisen vektoria. Todellinen yrityssuojaus edellyttää siirtymistä kehäpohjaisesta puolustuksesta ennakoivaan, päästä päähän -kyberkestävyyteen.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Uhkien havaitseminen",
+          "desc": "Koneoppimisavusteinen uhkatieto, joka tarkkailee poikkeavia verkkomalleja, tunnistetietojen väärinkäyttöä ja nollapäivän haavoittuvuuksia reaaliajassa."
+        },
+        {
+          "icon": "📡",
+          "title": "Turvallisuuden valvonta",
+          "desc": "Centralised Security Operations Center (SOC) telemetria, joka korreloi tapahtumia palvelimien, säilöklustereiden, identiteetintarjoajien ja päätepisteiden välillä."
+        },
+        {
+          "icon": "🔍",
+          "title": "Haavoittuvuuden hallinta",
+          "desc": "Jatkuva automaattinen haavoittuvuuksien tarkistus infrastruktuurissa, lähdekoodivarastoissa ja säilörekistereissä heikkouksien korjaamiseksi ennakoivasti."
+        },
+        {
+          "icon": "🔒",
+          "title": "Tietosuoja",
+          "desc": "Vankka salaus kuljetuksen aikana (TLS 1.3) ja lepotilassa (AES-256) sekä rakeinen tietojen katoamisen eston (DLP) hallinta immateriaalioikeuksien vuotojen estämiseksi."
+        }
+      ],
+      "sec3P1": "Yrityksen omaisuuden suojaaminen edellyttää sen varmistamista, että jokaisella henkilöllisyydellä – olipa kyseessä johtaja, ulkopuolinen urakoitsija tai itsenäinen ohjelmistopalvelutili – on vahvistettu valtuutus tarkalleen käyttämilleen resursseille.",
+      "sec3List": [
+        {
+          "bold": "Keskitetty identiteetinhallinta:",
+          "text": "Single Sign-On (SSO) ja hajautetut identiteettistandardit, jotka poistavat hajanaiset salasanavarastot sovellusten välillä."
+        },
+        {
+          "bold": "Mukautuva monitekijätodennus (MFA):",
+          "text": "Tietojenkalastelut kestävät FIDO2-laitteistoavaimet ja riskipohjaiset kontekstuaaliset haasteet herkille hallinnollisille toiminnoille."
+        },
+        {
+          "bold": "Yksityiskohtainen kulunvalvonta:",
+          "text": "Hienojakoiset roolipohjaiset (RBAC) ja attribuuttipohjaiset (ABAC) käyttöoikeudet pakotetaan API- ja tietokantatasoilla."
+        },
+        {
+          "bold": "Vähiten etuoikeuksien periaatteet:",
+          "text": "Väliaikainen, just-in-time (JIT) -käyttöoikeus, joka vanhenee automaattisesti, kun hallinnolliset tehtävät valmistuvat."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ZERO TRUST YDIN Oppi",
+      "keyPerspectiveTitle": "Jatkuva sokean luottamuksen tarkastus",
+      "keyPerspectiveLead": "Zero Trust -arkkitehtuurissa verkon sijaintiin perustuva implisiittinen luottamus puretaan kokonaan. Jokaisen tapahtuman, tietokantakyselyn ja käyttäjän kirjautumisen on jatkuvasti todistettava laillisuutensa:",
+      "cloudSecurityCards": [
+        {
+          "title": "Jaettu vastuu",
+          "desc": "Selkeä hallinto, joka erottaa pilvipalveluntarjoajan fyysisen infrastruktuurin turvallisuuden yrityksen vastuusta tietojen salauksesta, IAM-käytännöistä ja sovelluskoodista."
+        },
+        {
+          "title": "Infrastruktuuri koodina (IaC)",
+          "desc": "Muuttumattomat, tarkastettavat pilvikokoonpanot, joita hallitaan koodin avulla. Automaattiset koodinlukijat estävät virheelliset määritykset ja paljastavat ryhmät ennen käyttöönottoa."
+        },
+        {
+          "title": "Container & Kubernetes Security",
+          "desc": "Vahvistetut konttiajoajat, allekirjoitetut kuvarekisterit, verkon mikrosegmentointi ja automaattinen salaisuuden hallinta, joka pitää kirjautumistiedot poissa lähdetietovarastoista."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "PILVI & MODERNISOINTI",
+      "title": "Vanhojen pilvisovellusten modernisointi",
+      "subtitle": "Tutustu käytännölliseen lähestymistapaan vanhojen sovellusten arvioimiseen, modernisointiin ja siirtämiseen kohti skaalautuvia, turvallisia pilviarkkitehtuureja.",
+      "date": "syyskuuta 2026",
+      "readTime": "6 min lukuaika",
+      "imageCaption": "Yritysteknologian näkökulma – Cloud-native-alustojen uudelleenjärjestely ja säilytys",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (nosto ja vaihto)",
+          "desc": "Siirrä työmäärät pilvivirtuaalikoneisiin nopeasti minimaalisilla koodimuokkauksilla."
+        },
+        {
+          "title": "Uudelleen alusta (nosto ja muotoile)",
+          "desc": "Päivitä ajonaikaiset puitteet, ota käyttöön hallittuja pilvitietokantoja ja virtaviivaista toimintaa."
+        },
+        {
+          "title": "Refaktori (Cloud-Native Rebuild)",
+          "desc": "Pura monoliitit konttipohjaisiksi mikropalveluiksi ja tapahtumaohjatuiksi palvelimettomiksi API:iksi."
+        },
+        {
+          "title": "Korvaa (SaaS-modernisointi)",
+          "desc": "Poista redundantit vanhat järjestelmät tarkoitukseen rakennetun yrityspilviohjelmiston hyväksi."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Perinnön arviointi",
+          "desc": "Automaattinen riippuvuuskartoitus, tekninen velkojen luettelointi ja pilvivalmiuden pisteytys."
+        },
+        {
+          "title": "Kohdearkkitehtuuri",
+          "desc": "Modulaariset mikropalvelusuunnitelmat, konttitopologiat ja automaattiset IaC-mallit."
+        },
+        {
+          "title": "Vaiheittainen siirto",
+          "desc": "Canaryn julkaisut, kaksoiskirjoitustietojen synkronointi ja nollakatkaisuaallot."
+        },
+        {
+          "title": "Pilvioptimointi",
+          "desc": "Jatkuva kustannushallinta, automaattinen skaalaava telemetria ja FinOps-toiminnan tarkastelut."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponentiaalisesti pienemmät infrastruktuurin ylläpito- ja laitteiston päivityskustannukset",
+        "Lähes ääretön laskentajoustavuus, joka käsittelee yritysliikenteen huippuja nollaviiveellä",
+        "Nopeutettu julkaisunopeus täysin automatisoiduilla CI/CD-käyttöönottoputkilla",
+        "Vanhojen yksittäisten vikakohtien eliminointi monen AZ:n korkealla käytettävyydellä",
+        "Nykyaikaiset API-arkkitehtuurit mahdollistavat nopeat alustojen väliset kumppaniintegraatiot",
+        "Kehittynyt reaaliaikainen havainnointi sovellusten suorituskykyyn ja pilvikuluihin"
+      ],
+      "landscapeAssessmentPoints": [
+        "Monimutkaisten sovellusten välisten riippuvuuksien ja datan synkronointipoljen kartoittaminen",
+        "Koodattujen ympäristökonfiguraatioiden ja omien tietokantaskeemojen tunnistaminen",
+        "Säännösten noudattamisen ja tietosuvereniteetin rajoitusten arviointi lainkäyttöalueittain",
+        "Realististen kokonaisomistuskustannusten (TCO) laskeminen refaktorin ja uudelleenisännöintipolun välillä",
+        "Selkeiden käyttöönottoaaltojen luominen aktiivisen päivittäisen liiketoiminnan suojaamiseksi"
+      ],
+      "sec1Eyebrow": "VANHAJEN JÄRJESTELMIEN TODELLISUUS",
+      "sec1Heading": "Legacy Challenge",
+      "sec1Subtext": "Ikääntyvät monoliitit rajoittavat innovaation nopeutta, lisäävät toiminnallisia haavoittuvuuksia ja lisäävät infrastruktuurin ylläpitokustannuksia.",
+      "sec2Eyebrow": "ARVIOINTI JA LÖYDYT",
+      "sec2Heading": "Sovellusmaiseman ymmärtäminen",
+      "sec2Subtext": "Tarkka arkkitehtoninen löytö tietojen riippuvuuksien, ohjelmistoversioiden ja modernisoinnin ROI kartoittamiseksi ennen siirtoa.",
+      "sec3Eyebrow": "4 MODERNISATION POLKUA",
+      "sec3Heading": "Modernisointilähestymistapoja",
+      "sec3Subtext": "Oikean siirtomallin valitseminen kullekin työkuormille: uudelleenisännöinti, alustan uudelleenmuodostaminen, uudelleenmuodostaminen tai korvaaminen.",
+      "sec4Eyebrow": "TAVOITEMUUTOSMALLI",
+      "sec4Heading": "Moderni pilviarkkitehtuuri",
+      "sec4Subtext": "Suunnittelemme joustavia mikropalveluita, hallittuja tietokantoja ja automatisoituja käyttöönottoputkia, jotka sopivat korkeaan skaalautumiseen.",
+      "sec5Eyebrow": "MUUTOKSEN TULOKSET",
+      "sec5Heading": "Tärkeimmät modernisoinnin edut",
+      "sec5Subtext": "Huomattava ketteryys, kustannusten aleneminen ja luotettavuus tuottavat pilvipohjaisen muutoksen.",
+      "ctaHeading": "Oletko valmis modernisoimaan vanhat pilvisovelluksesi?",
+      "ctaDescription": "Tee yhteistyötä Rezonants -pilviarkkitehtien kanssa, jotta voit arvioida riippuvuuksia, rakentaa siirtymäsuunnitelmia ja siirtää järjestelmäsi turvallisesti.",
+      "ctaButton": "Keskustele pilviasiantuntijan kanssa",
+      "sec1P1": "Kymmenen vuotta sitten rakennetut tehtäväkriittiset sovellukset tuovat edelleen miljardeja yritysten tuloja, mutta niiden arkkitehtoninen jäykkyys luo kasvavan operatiivisen riskin.",
+      "sec1P2": "Jokainen yritys kohtaa vakauden ja modernisoinnin välisen jännitteen. Vanhat järjestelmät on suunniteltu kestämään, ja ne ovat toimineet luotettavasti vuosia. Liiketoiminnan vaatimusten nopeutuessa nämä ikääntyvät arkkitehtuurit kohtaavat rakenteellisia rajoituksia:",
+      "sec1List": [
+        {
+          "bold": "Vanhenevat ohjelmistopinot:",
+          "text": "Monoliittiset koodikannat, jotka on rakennettu vanhentuneisiin kehyksiin, ja ylläpidettävät kyvyt vähenevät."
+        },
+        {
+          "bold": "Vaikeat huoltojaksot:",
+          "text": "Tiiviisti kytketyt komponentit, joissa yksittäisen ominaisuuden muuttaminen voi rikkoa toisiinsa liittymättömiä toimintamoduuleja."
+        },
+        {
+          "bold": "Rajoitettu skaalautuvuus:",
+          "text": "Pystysuuntaiset skaalausrajat, jotka edellyttävät kalliiden laitteistojen ostamista kausiluontoisten liikennepiikkien käsittelemiseksi."
+        },
+        {
+          "bold": "Integraatiohaasteet:",
+          "text": "Kyvyttömyys käyttää sujuvasti nykyaikaisten mobiilisovellusten, asiakasportaalien tai kumppanien sovellusliittymien kanssa ilman herkkiä eräskriptejä."
+        },
+        {
+          "bold": "Infrastruktuurirajoitukset:",
+          "text": "Fyysisen palvelinhuoneen elinkaaret, varmuuskopioiden haavoittuvuudet ja suuret virran/jäähdytyksen käyttökustannukset."
+        }
+      ],
+      "sec2P1": "Pragmaattinen modernisointimatka alkaa luomalla täydellinen selkeys olemassa olevaan kiinteistöön:",
+      "sec2List": [
+        {
+          "bold": "Hakemukset:",
+          "text": "Luetteloi kaikki aktiiviset työkuormat, mukautetut moduulit, taustakomentosarjat ja historialliset kolmannen osapuolen paketit."
+        },
+        {
+          "bold": "Riippuvuudet:",
+          "text": "Monimutkaisten ajonaikaisten kytkentöjen, jaettujen tietokantataulukoiden, suorien tiedostojärjestelmäkutsujen ja ulkoisten palvelusopimusten kartoitus."
+        },
+        {
+          "bold": "Tiedot:",
+          "text": "Tietorakenteiden, tapahtumien eheysvaatimusten, varmuuskopiointitiheyden ja säännösten suvereniteettisääntöjen arviointi."
+        },
+        {
+          "bold": "Infrastruktuuri:",
+          "text": "Suorittimen, muistin, tallennustilan käytön ja verkon suorituskyvyn tarkastaminen oikeankokoisten pilvimäärittelyjen mukaisesti."
+        },
+        {
+          "bold": "Liiketoiminnan kriittisyys:",
+          "text": "Sovellusten luokittelu tasoihin turvallisten, vaiheittaisten siirtymäaaltojen suunnittelua varten selkeillä varamenettelyillä."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Etu:",
+      "cloudArchitectureBadge": "Modernisoinnin elinkaari",
+      "cloudArchitectureTitle": "Pilvien kokonaisuuden modernisoinnin kulku",
+      "sec4P1": "Kohdearkkitehtuuri erottaa ydinsovellukset modulaarisiksi, konttipohjaisiksi palveluiksi, joita isännöidään joustavilla pilvialustoilla (kuten Kubernetes tai hallitut palvelimettomat ajonajat).",
+      "sec4P2": "Luomalla automaattiset CI/CD-käyttöönottoputket, automaattiset sinivihreät katkaisut ja infrastruktuuri koodina käyttöönotot muuttuvat hermoja raastettavista viikonlopputapahtumista saumattomiksi päivittäisiksi rutiiniksi.",
+      "sec4P3": "Elastinen laskenta skaalautuu automaattisesti kysynnän piikkien aikana ja pienenee hiljaisuuden aikana, mikä eliminoi käyttämättömät resurssikustannukset ja takaa sekunnissa vajaat vasteajat maailmanlaajuisille käyttäjille.",
+      "keyPerspectiveEyebrow": "MODERNISATION PARHAAT KÄYTÄNNÖT",
+      "keyPerspectiveTitle": "Onnistuneen muuttoliikkeen neljä pilaria",
+      "keyPerspectiveLead": "Kokemus osoittaa, että modernisointiprojektit onnistuvat, kun ne perustuvat kattavaan valmisteluun, selkeään aaltosekvenssiin ja tiukkaan testaukseen:"
+    }
+  }
+}

@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "O nás",
+    "services": "Služby",
+    "products": "Produkty",
+    "perspectives": "Perspektivy",
+    "technologies": "Technologie",
+    "contact": "Kontakt",
+    "signIn": "Přihlaste se",
+    "signUp": "Zaregistrujte se",
+    "signOut": "Odhlásit se",
+    "chooseLanguage": "Vyberte si jazyk",
+    "searchLanguage": "Jazyk vyhledávání",
+    "resetEnglish": "Obnovit do angličtiny",
+    "noResults": "Nebyly nalezeny žádné jazyky",
+    "englishDefault": "angličtina (výchozí)",
+    "english": "anglicky"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hajdarábád",
+    "title": "Software navržený pro způsob <em>vašeho podnikání</em>.",
+    "description": "Rezonants je společnost poskytující IT služby a digitální produkty. Navrhujeme, vytváříme a škálujeme zakázkový software, webové a mobilní produkty, cloudovou infrastrukturu a umělou inteligenci – pro společnosti, které soutěží v realizaci.",
+    "bookConsultation": "Objednejte se na bezplatnou konzultaci",
+    "exploreServices": "Prozkoumat služby",
+    "years": "let",
+    "projects": "projekty",
+    "retention": "retence",
+    "location": "Madhapur, Hajdarábád",
+    "since": "Rezonants — od roku 2012",
+    "metaStudio": "Digitální produktové studio",
+    "metaTech": "Web · Mobilní · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "O nás",
+    "title": "Budování digitálních řešení, <em>která posouvají podniky vpřed</em>",
+    "description": "Rezonants je společnost zabývající se technologickými řešeními, která se zaměřuje na pomoc podnikům transformovat nápady do smysluplných digitálních zážitků. Spojujeme technologie, kreativitu a obchodní porozumění, abychom dodávali řešení, která jsou navržena podle skutečných potřeb.<br /><br />Od digitální transformace a vlastního vývoje softwaru po cloud, AI, automatizaci a řízené technologické služby, pomáháme organizacím zjednodušit složitost, zvýšit efektivitu a vytvořit trvalou digitální hodnotu.<br /><br /><strong>Náš přístup je jednoduchý – porozumět podnikání, vyřešit ten správný problém a vytvořit technologii.</strong>",
+    "awardWinning": "Ocenění",
+    "awardText": "Je uznáván pro excelenci v oblasti poskytování webových a mobilních produktů.",
+    "professionalStaff": "Profesionální personál",
+    "staffText": "Senior, odpovědní inženýři, kteří vlastní práci od prvního zavolání až po spuštění.",
+    "support247": "Podpora 24/7",
+    "supportText": "Spravované služby a linka podpory, která odpoví, když ji potřebujete.",
+    "fairPrices": "Spravedlivé ceny",
+    "pricesText": "Poctivé odhady a transparentní vyúčtování každé zakázky.",
+    "yearsExcellence": "Roky podnikové dokonalosti"
+  },
+  "stats": {
+    "happyClients": "Spokojení klienti",
+    "projectsDone": "Provedené projekty",
+    "winAwards": "Vyhrajte ocenění"
+  },
+  "insights": {
+    "eyebrow": "Perspektivy",
+    "title": "Perspektivy",
+    "sub": "Zkoumání nápadů, trendů a technologií utvářejících budoucnost.",
+    "filters": {
+      "all": "Vše",
+      "digital-transformation": "Digitální transformace",
+      "ai": "AI a automatizace",
+      "cloud": "Cloud",
+      "data": "Data a analýzy",
+      "software": "Software",
+      "business": "Obchod a technologie"
+    },
+    "readMore": "Číst více",
+    "close": "Zavřít",
+    "keyTakeaways": "Klíčové architektonické poznatky",
+    "relatedServices": "Související schopnosti a služby",
+    "minRead": "min číst",
+    "item1Date": "července 2026",
+    "item1Tag": "Produkt a ERP",
+    "item1Title": "Modulární přístup ERP pro rostoucí podniky",
+    "item1Text": "Jak strukturujeme zakázky ERP tak, aby se finance, zásoby, HR a zásobování hladce integrovaly bez mnohaletého přerušení.",
+    "item2Date": "června 2026",
+    "item2Tag": "Umělá inteligence",
+    "item2Title": "Agentní systémy AI: přechod od chatbotů k autonomnímu provádění",
+    "item2Text": "Architektura koordinovaných multiagentních LLM systémů, které plánují, ověřují a provádějí komplexní podnikové pracovní postupy s dohledem člověka ve smyčce.",
+    "item3Date": "květen 2026",
+    "item3Tag": "Společnost Milestone",
+    "item3Title": "Uznáváno mezi předními IT inovačními studii v Hajdarábádu",
+    "item3Text": "Naše inženýrské studio bylo oceněno za vynikající dodávky, hluboké technické schopnosti a spokojenost klientů napříč globálním produktovým inženýrstvím.",
+    "desc": "Prozkoumejte nápady a pohledy společnosti Rezonants na digitální transformaci, AI, automatizaci, cloud, data, software a budoucnost podnikových technologií.",
+    "categories": {
+      "digitalTransformation": "Digitální transformace",
+      "ai": "AI a automatizace",
+      "cloud": "Cloud",
+      "data": "Data a analýzy",
+      "software": "Software",
+      "business": "Obchod a technologie"
+    }
+  },
+  "technologies": {
+    "title": "Technologie a architektura",
+    "headline": "Podniková technologická řešení",
+    "sub": "Inteligentní technologie. Automatizované operace. Chytřejší podnikání.",
+    "selectTechnology": "Vyberte technologické řešení…",
+    "options": {
+      "aiRobotics": "AI a robotická řešení",
+      "businessAutomation": "Řešení obchodní automatizace",
+      "cloudMigrations": "Cloudová řešení migrace",
+      "dataCenters": "Řešení datových center",
+      "cognitiveAnalytics": "Cognitive Analytics & AI",
+      "informationReporting": "Informační a reportovací systémy",
+      "managedServices": "Spravované služby",
+      "oneStopSolutions": "Jednorázová technologická řešení"
+    },
+    "explore": "Prozkoumat technologii",
+    "bookDiscovery": "Kniha Objev technologie",
+    "exploreAll": "Prozkoumat všechny technologie",
+    "coreCapabilities": "Základní technologické schopnosti",
+    "bookConsultation": "Rezervujte si konzultaci"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Promluvte si se starším inženýrem, ne s obchodním skriptem",
+    "sub": "Podělte se o svůj projekt a my vám odpovíme do jednoho pracovního dne.",
+    "reachUs": "Kontaktujte nás přímo",
+    "preferConversation": "Dáváte přednost rozhovoru? Jsme o jeden hovor dál.",
+    "contactLede": "Nejrychlejším způsobem, jak se posunout vpřed, je krátký rozhovor. Kontaktujte nás na jakémkoli níže uvedeném kanálu nebo si rezervujte slot a my k vám přijedeme připraveni.",
+    "phone": "Telefon",
+    "email": "Email",
+    "office": "Kancelář",
+    "hours": "Hodiny",
+    "hoursValue": "Po – So, 9:30 – 18:30 IST",
+    "bookSlot": "Rezervujte si konzultační místo",
+    "sendMessage": "Pošlete nám zprávu",
+    "fieldsRequired": "Pole označená * jsou povinná.",
+    "fullName": "Celé jméno *",
+    "emailLabel": "E-mail *",
+    "company": "Společnost",
+    "subject": "Předmět",
+    "messageLabel": "Zpráva *",
+    "sending": "Odesílání…",
+    "sendBtn": "Odeslat zprávu",
+    "successMsg": "Zpráva odeslána! Kopie vám byla zaslána e-mailem.",
+    "errorMsg": "Vaši zprávu nelze uložit. Zkontrolujte, zda tabulka contact_messages existuje, a zkuste to znovu.",
+    "offices": {
+      "vijayawada": "Kancelář Vijayawada",
+      "southAfrica": "Jihoafrická kancelář"
+    },
+    "placeholders": {
+      "fullName": "Vaše celé jméno",
+      "email": "ty@firma.com",
+      "company": "Vaše společnost nebo organizace",
+      "subject": "Jak můžeme pomoci?",
+      "message": "Řekněte nám o svém projektu, časové ose a cílech..."
+    },
+    "validation": {
+      "fullNameRequired": "Zadejte prosím své celé jméno.",
+      "emailRequired": "Zadejte prosím svou e-mailovou adresu.",
+      "emailInvalid": "Zadejte prosím platnou e-mailovou adresu.",
+      "messageRequired": "Zadejte zprávu."
+    }
+  },
+  "services": {
+    "eyebrow": "Služby",
+    "title": "Co děláme",
+    "sub": "Od strategie po řízené operace poskytujeme komplexní technologická partnerství pro společnosti, které si konkurují při realizaci.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Od začátku do nasazení",
+        "description": "Komplexní vývoj nových digitálních řešení od obchodních požadavků a architektury řešení přes vývoj, integraci, testování, nasazení a průběžnou podporu."
+      },
+      "businessProcessAutomation": {
+        "label": "Automatizace podnikových procesů",
+        "description": "Návrh a implementace inteligentních automatizačních řešení, která zefektivňují obchodní procesy, eliminují opakované manuální činnosti, zlepšují provozní efektivitu a urychlují obchodní výsledky."
+      },
+      "centerOfExcellence": {
+        "label": "Centrum excelence",
+        "description": "Zřízení specializovaných center technologií a obchodních schopností, která poskytují správu, standardy, odborné znalosti, rámce, znovu použitelná aktiva a neustálé zlepšování v celé organizaci."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Vlastní vývoj a přizpůsobení",
+        "description": "Vývoj a vylepšování aplikací, platforem, pracovních postupů a podnikových řešení pro řešení jedinečných obchodních požadavků a poskytování přizpůsobených funkcí."
+      },
+      "digitalTransformation": {
+        "label": "Digitální transformace",
+        "description": "Modernizace obchodních operací, technologických ekosystémů a zákaznických zkušeností prostřednictvím cloudu, AI, automatizace, datových a moderních aplikačních technologií."
+      },
+      "endToEndSolutionFramework": {
+        "label": "End-to-End Solution Framework",
+        "description": "Komplexní přístup k poskytování pokrývající celý životní cyklus technologie – od strategie, požadavků a architektury až po vývoj, integraci, nasazení, správu, monitorování a podporu."
+      },
+      "migrationModernization": {
+        "label": "Migrace a modernizace",
+        "description": "Bezpečná a strukturovaná migrace aplikací, dat, platforem, infrastruktury a pracovních zátěží ze starších nebo stávajících prostředí na moderní, škálovatelné a optimalizované technologické platformy."
+      },
+      "pocPilotImplementation": {
+        "label": "Proof of Concept (PoC) a pilotní implementace",
+        "description": "Rychlý vývoj a ověřování technologických řešení pro posouzení technické proveditelnosti, obchodní hodnoty, požadavků na integraci, výkonu a škálovatelnosti před implementací v plném rozsahu."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Sdílené služby a řízené operace",
+        "description": "Centralizovaná dodávka technologií a provozních schopností napříč obchodními jednotkami prostřednictvím standardizovaných procesů, kvalifikovaných zdrojů, rámců řízení, správy služeb a měřitelných úrovní služeb."
+      },
+      "customDevelopment": {
+        "label": "Od začátku do nasazení",
+        "description": "Komplexní vývoj nových digitálních řešení od obchodních požadavků a architektury řešení přes vývoj, integraci, testování, nasazení a průběžnou podporu."
+      },
+      "processAutomation": {
+        "label": "Automatizace podnikových procesů",
+        "description": "Návrh a implementace inteligentních automatizačních řešení, která zefektivňují obchodní procesy, eliminují opakované manuální činnosti, zlepšují provozní efektivitu a urychlují obchodní výsledky."
+      },
+      "solutionEngineering": {
+        "label": "Vlastní vývoj a přizpůsobení",
+        "description": "Vývoj a vylepšování aplikací, platforem, pracovních postupů a podnikových řešení pro řešení jedinečných obchodních požadavků a poskytování přizpůsobených funkcí."
+      },
+      "endToEndSolutions": {
+        "label": "End-to-End Solution Framework",
+        "description": "Komplexní přístup k poskytování pokrývající celý životní cyklus technologie – od strategie, požadavků a architektury až po vývoj, integraci, nasazení, správu, monitorování a podporu."
+      },
+      "migrationServices": {
+        "label": "Migrace a modernizace",
+        "description": "Bezpečná a strukturovaná migrace aplikací, dat, platforem, infrastruktury a pracovních zátěží ze starších nebo stávajících prostředí na moderní, škálovatelné a optimalizované technologické platformy."
+      },
+      "pilotPrototyping": {
+        "label": "Proof of Concept (PoC) a pilotní implementace",
+        "description": "Rychlý vývoj a ověřování technologických řešení pro posouzení technické proveditelnosti, obchodní hodnoty, požadavků na integraci, výkonu a škálovatelnosti před implementací v plném rozsahu."
+      },
+      "sharedServices": {
+        "label": "Sdílené služby a řízené operace",
+        "description": "Centralizovaná dodávka technologií a provozních schopností napříč obchodními jednotkami prostřednictvím standardizovaných procesů, kvalifikovaných zdrojů, rámců řízení, správy služeb a měřitelných úrovní služeb."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Naplánujte si konzultaci",
+      "exploreFramework": "Prozkoumat rámec řešení",
+      "talkSeniorEngineer": "Promluvte si se starším inženýrem",
+      "exploreTechStack": "Prozkoumat technologický zásobník",
+      "bookPocSession": "Zarezervujte si PoC Discovery Session",
+      "seeAllServices": "Zobrazit všechny služby",
+      "requestAssessment": "Žádost o posouzení migrace",
+      "exploreCloudSolutions": "Prozkoumejte cloudová řešení"
+    },
+    "sharedServices": {
+      "heroBadge": "SDÍLENÉ SLUŽBY A ŘÍZENÉ OPERACE",
+      "heroTitle": "Enterprise Shared Services & Managed Operations",
+      "heroDesc": "Škálujte obchodní schopnosti, zefektivněte mezifunkční pracovní postupy a dosáhněte provozní dokonalosti prostřednictvím standardizovaných, bezpečných a cenově výhodných modelů sdílených služeb.",
+      "bookDiscovery": "Kniha Managed Operations Discovery",
+      "exploreFramework": "Prozkoumat rámec řešení",
+      "coreCapabilities": "Základní schopnosti:",
+      "managedServices": "Spravované služby",
+      "itOperations": "Provoz IT",
+      "appSupport": "Podpora aplikací",
+      "serviceManagement": "Správa služeb",
+      "resourceOptimization": "Optimalizace zdrojů",
+      "slaManagement": "Správa SLA",
+      "governance": "Správa",
+      "continuousImprovement": "Neustálé zlepšování",
+      "costOptimization": "Optimalizace nákladů",
+      "readyTitle": "Jste připraveni optimalizovat své operace?",
+      "readyDesc": "Zjistěte, jak mohou naše rámce sdílených služeb a řízených operací zlepšit kvalitu služeb, zajistit provozní kontinuitu a dosáhnout udržitelné nákladové efektivity pro váš podnik.",
+      "scheduleSession": "Naplánujte si zjišťovací relaci"
+    },
+    "solutionEngineering": {
+      "heroBadge": "ŘEŠENÍ INŽENÝRSTVÍ A ARCHITEKTURA",
+      "heroTitle": "Vlastní vývoj a přizpůsobení",
+      "heroDesc": "Navrhněte, navrhněte a nasaďte vysoce výkonné softwarové systémy navržené speciálně pro vaše provozní pracovní postupy, datové kanály a požadavky na škálování."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "RYCHLÉ INOVACE A EXPERIMENTACE",
+      "heroTitle": "Proof of Concept (PoC) a pilotní implementace",
+      "heroDesc": "Ověřujte vznikající technologie, zbavte se rizik složitých architektur a prokažte obchodní hodnotu pomocí prototypů produkční úrovně během týdnů, nikoli čtvrtletí."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ARCHITEKTURA A DODÁVÁNÍ ŽIVOTNÍHO CYKLU",
+      "heroTitle": "End-to-End Solution Framework",
+      "heroDesc": "Jednotný model poskytování spojující zjišťování produktů, architekturu řešení, inženýrství, cloudovou infrastrukturu a nepřetržitý provoz spolehlivosti."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTURA A ODVĚTVÍ MODERNIZACE",
+      "heroTitle": "Migrace a modernizace",
+      "heroDesc": "Bezproblémově převeďte starší pracovní zátěže, monolitické architektury a místní infrastrukturu na moderní, bezpečné a škálovatelné cloudové platformy."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Modernizace podniku",
+        "titlePart1": "Digitální",
+        "titlePart2": "Transformace",
+        "description": "Modernizace obchodních operací, technologických ekosystémů a zákaznických zkušeností prostřednictvím cloudu, AI, automatizace, datových a moderních aplikačních technologií.",
+        "bookWorkshop": "Workshop transformace knihy",
+        "exploreFramework": "Prozkoumat rámec řešení",
+        "startTransformation": "Spusťte transformaci",
+        "exploreStrategy": "Prozkoumejte strategii",
+        "coreCapabilitiesTitle": "Základní schopnosti",
+        "coreCapabilities": [
+          "Digitální strategie",
+          "Cloudová transformace",
+          "Umělá inteligence a automatizace",
+          "Modernizace aplikací",
+          "Starší modernizace",
+          "Data a analýzy",
+          "Zkušenosti zákazníků",
+          "Modernizace technologií"
+        ],
+        "row1Eyebrow": "Strategie a plán",
+        "row1Title": "Od vize ke spustitelnému plánu",
+        "row1P1": "Spolupracujeme s předními podniky na definování digitální strategie, obchodních případů a fázových plánů s rychlými výhrami a eliminací rizika.",
+        "row1P2": "Prioritní iniciativy, modely TCO a KPI zajišťují, že každé úsilí o modernizaci technologií přímo souvisí s výnosy, efektivitou a výsledky spokojenosti zákazníků.",
+        "row2Eyebrow": "Starší modernizace",
+        "row2Title": "Modernizujte bez přerušení podnikání",
+        "row2P1": "Přeměňte monolity platforem na mikroslužby, rozhraní API a cloudové nativní vzory s nulovými prostoji a automatickým ověřováním regrese.",
+        "row2P2": "Modernizujeme aplikace, databáze a integrační vrstvy při zachování souladu a zabezpečení.",
+        "row3Eyebrow": "Cloud, AI a data",
+        "row3Title": "Přijetí cloudu a inteligence řízená daty",
+        "row3P1": "Přijměte AWS, Azure a GCP, vytvářejte moderní datové kanály a začleňte agenty strojového učení, abyste řídili autonomní rozhodování.",
+        "row3P2": "Transformace se stává měřitelnou a udržitelnou, od streamování událostí v reálném čase až po jednotné řídicí panely.",
+        "row4Eyebrow": "Zkušenosti zákazníků",
+        "row4Title": "Moderní Omnikanálové zážitky",
+        "row4P1": "Přepracujte cesty zákazníků přes responzivní web, iOS, Android a samoobslužné portály s personalizovanými rozhraními.",
+        "row4P2": "Platformové inženýrství, telemetrie a automatizované zpětnovazební smyčky umožňují neustálé digitální inovace.",
+        "pillarsTitle": "Transformační pilíře",
+        "pillarsSub": "Páky zaměřené na výsledky, které zajišťují udržitelné digitální vedení.",
+        "pillar1Title": "Digitální strategie a správa",
+        "pillar1Desc": "Plány postupné transformace s modelováním obchodních případů, řízením architektury a sledováním rizik milníků.",
+        "pillar2Title": "Cloud a datová platforma",
+        "pillar2Desc": "Multicloudové základy AWS/Azure/GCP, automatizované kanály a možnost analýzy podnikových dat.",
+        "pillar3Title": "Umělá inteligence a automatizace",
+        "pillar3Desc": "Inteligentní automatizace procesů, kognitivní agenti AI a prediktivní telemetrie pro optimalizaci každodenních operací.",
+        "pillar4Title": "Zkušenosti zákazníků",
+        "pillar4Desc": "Všekanálové digitální portály s vysokou konverzí a přizpůsobená rozhraní vytvořená pro maximální udržení uživatelů.",
+        "ctaTitle": "Jste připraveni transformovat svůj podnik?",
+        "ctaSub": "Staňte se partnerem společnosti Rezonants pro postupnou digitální transformaci bez rizika spojená s měřitelnými obchodními výsledky.",
+        "ctaButton": "Rezervujte si digitální transformační hovor"
+      },
+      "customDevelopment": {
+        "eyebrow": "End-to-End digitální inženýrství",
+        "titlePart1": "Počátek do",
+        "titlePart2": "Nasazení",
+        "bookConsultation": "Rezervujte si konzultaci",
+        "exploreEngineering": "Prozkoumat Solution Engineering"
+      },
+      "processAutomation": {
+        "eyebrow": "Inteligentní procesní operace",
+        "titlePart1": "Obchodní proces",
+        "titlePart2": "Automatizace",
+        "bookDiscovery": "Objev automatizace knih",
+        "exploreCoE": "Prozkoumejte centrum excelence"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Střed",
+        "titlePart2": "Excelence",
+        "bookConsultation": "Kniha CoE Consultation",
+        "exploreCapabilities": "Prozkoumejte schopnosti"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Kompletní životní cyklus technologie",
+        "titlePart1": "End-to-End",
+        "titlePart2": "Řešení Framework",
+        "startJourney": "Začněte svou životní cestu",
+        "exploreTransformation": "Prozkoumat Transformace"
+      },
+      "migrationServices": {
+        "eyebrow": "Transformace cloudu a infrastruktury",
+        "titlePart1": "Migrace &",
+        "titlePart2": "Modernizace",
+        "planMigration": "Naplánujte si migraci",
+        "exploreTransformation": "Prozkoumat Transformace"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Rychlé ověření a proveditelnost",
+        "titlePart1": "Proof of Concept (PoC) &",
+        "titlePart2": "Pilotní implementace",
+        "initiateDiscovery": "Zahájit PoC Discovery",
+        "exploreDevelopment": "Prozkoumat vlastní vývoj"
+      },
+      "solutionEngineering": {
+        "badge": "Digitální inženýrství na míru",
+        "bookConsultation": "Rezervujte si konzultaci",
+        "exploreCapabilities": "Prozkoumat schopnosti"
+      },
+      "sharedServices": {
+        "eyebrow": "Centralizované centrum operací",
+        "titlePart1": "Sdílené služby &",
+        "titlePart2": "Řízené operace",
+        "bookDiscovery": "Kniha Managed Operations Discovery",
+        "exploreFramework": "Prozkoumat rámec řešení"
+      }
+    },
+    "coreCapabilities": "Základní schopnosti"
+  },
+  "products": {
+    "featured": "Doporučené produkty",
+    "featuredSub": "Zjednodušte operace, propojte týmy, automatizujte procesy a podpořte chytřejší obchodní růst.",
+    "seeAll": "Zobrazit všechny produkty",
+    "featuredProducts": "VYBRANÉ PRODUKTY",
+    "meetAutonomous": "Seznamte se s autonomní pracovní silou",
+    "meetAutonomousText": "Transformujte své operace pomocí agentů AI, kteří spolupracují s vaším týmem a zvládají složité, opakující se úkoly.",
+    "learnMore": "Více informací",
+    "erp": {
+      "title": "Jedna platforma připravená na cokoli",
+      "sub": "Posílení podniků pomocí propojených, inteligentních a škálovatelných řešení správy podniku.",
+      "explore": "Prozkoumejte ERP řešení",
+      "gridTitle": "ERP ŘEŠENÍ",
+      "promoTitle": "Modulární ERP pro růst",
+      "promoText": "Nasaďte modulární funkce ERP rychle bez složitosti tradičních víceletých systémů.",
+      "scheduleDemo": "Plán demo"
+    },
+    "it": {
+      "title": "IT řešení",
+      "sub": "Podniková infrastruktura, zabezpečení a řešení DevOps pro udržení chodu vašeho podnikání.",
+      "explore": "Prozkoumejte IT řešení",
+      "gridTitle": "IT ŘEŠENÍ",
+      "promoTitle": "Spolehlivá IT infrastruktura",
+      "promoText": "Vybudujte odolnou technologickou základnu se spravovanými cloudovými, bezpečnostními a DevOps službami.",
+      "getStarted": "Začínáme"
+    },
+    "crm": {
+      "title": "CRM řešení",
+      "sub": "Řízení vztahů se zákazníky pro zefektivnění pracovních postupů prodeje, podpory a marketingu.",
+      "explore": "Prozkoumejte CRM řešení",
+      "gridTitle": "ŘEŠENÍ CRM",
+      "promoTitle": "Zavřít další nabídky",
+      "promoText": "Pomozte svým prodejním a podpůrným týmům jednotnými zákaznickými daty a inteligentní automatizací.",
+      "startTrial": "Spustit zkušební verzi zdarma"
+    },
+    "hrms": {
+      "title": "HRMS řešení",
+      "sub": "Řízení lidských zdrojů zahrnující mzdy, nábor, výkon a zapojení zaměstnanců.",
+      "explore": "Prozkoumejte řešení HRMS",
+      "gridTitle": "HRMS ŘEŠENÍ",
+      "promoTitle": "Zjednodušte personální operace",
+      "promoText": "Automatizujte HR pracovní toky od náboru až po odchod do důchodu pomocí moderní platformy, která je na prvním místě pro zaměstnance.",
+      "requestDemo": "Vyžádat demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Doporučené produkty",
+      "erpSolutions": "ERP řešení",
+      "solutions": "ŘEŠENÍ"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Inteligentní autonomní agenti a nástroje, které automatizují složité pracovní postupy a operace zákazníků."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Platforma pro správu více cloudů optimalizující výkon, zabezpečení, dodržování předpisů a náklady."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hybridní centrum pro spolupráci a produktivitu s integrovanou správou úkolů, chatu a dokumentů."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Analytický modul v reálném čase, který přeměňuje proudy obchodních událostí na užitečné poznatky."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Jednotná podniková architektura propojující finance, majetek, HR, nákup a inventář."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platforma zaměstnaneckých zkušeností zahrnující mzdy, benefity, hodnocení výkonu a samoobsluhu."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Sledování logistiky v reálném čase, automatizované skladové operace a prognózy poptávky."
+      },
+      "financeHub": {
+        "title": "Finanční centrum",
+        "description": "Pokročilá správa účetních knih, pracovní postupy fakturace, automatizované dodržování předpisů a zprávy o peněžních tocích v reálném čase."
+      },
+      "cloudInfrastructure": {
+        "title": "Cloudová infrastruktura",
+        "description": "Škálovatelná cloudová architektura, migrace a správa napříč AWS, Azure a GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Komplexní monitorování zabezpečení, detekce hrozeb a správa souladu."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "Automatizace CI/CD, kontejnerizace a infrastruktura jako kód pro rychlejší doručení."
+      },
+      "managedItServices": {
+        "title": "Spravované IT služby",
+        "description": "24/7 monitorování infrastruktury, reakce na incidenty a proaktivní údržba."
+      },
+      "salesCrm": {
+        "title": "Prodej CRM",
+        "description": "Správa kanálů, bodování potenciálních zákazníků, sledování obchodů a prognózy prodeje na jedné platformě."
+      },
+      "customerSupportHub": {
+        "title": "Centrum zákaznické podpory",
+        "description": "Řízení vstupenek, znalostní báze, live chat a omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Marketingová automatizace",
+        "description": "Orchestrování kampaní, automatizace e-mailů, péče o vedení a analýzy."
+      },
+      "customer360View": {
+        "title": "Zákazník 360 Zobrazit",
+        "description": "Sjednocené profily zákazníků kombinující údaje o prodeji, podpoře a interakcích."
+      },
+      "coreHr": {
+        "title": "Jádro HR",
+        "description": "Záznamy zaměstnanců, organizační hierarchie, správa dovolené a sledování docházky."
+      },
+      "payrollCompliance": {
+        "title": "Mzdy a dodržování předpisů",
+        "description": "Automatizované zpracování mezd, daňové výpočty a dodržování zákonů."
+      },
+      "performanceManagement": {
+        "title": "Řízení výkonu",
+        "description": "Sledování OKR, 360° recenze, stanovení cílů a plány rozvoje zaměstnanců."
+      },
+      "recruitmentPortal": {
+        "title": "Náborový portál",
+        "description": "Zasílání nabídek práce, sledování uchazečů, plánování pohovorů a pracovní postupy při nastupování."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Doporučené produkty",
+        "heading": "Vybrané produkty",
+        "sub": "Zjednodušte operace, propojte týmy, automatizujte procesy a podpořte chytřejší obchodní růst.",
+        "promoTitle": "Seznamte se s autonomní pracovní silou",
+        "promoText": "Transformujte své operace pomocí agentů AI, kteří spolupracují s vaším týmem a zvládají složité, opakující se úkoly.",
+        "items": [
+          {
+            "title": "Automatizace umělé inteligence a inteligentní agenti",
+            "description": "Automatizujte opakující se úkoly a nasazujte inteligentní agenty AI, kteří zlepšují produktivitu, rozhodování a obchodní výsledky."
+          },
+          {
+            "title": "Služby IT a digitální podpora",
+            "description": "Poskytujte rychlejší a chytřejší IT podporu se zjednodušenou správou služeb, automatizací a digitálními pracovními postupy."
+          },
+          {
+            "title": "Řízení podnikové umělé inteligence",
+            "description": "Vybudujte zodpovědné přijetí AI pomocí silného řízení, zabezpečení, dodržování předpisů, transparentnosti a kontroly rizik."
+          },
+          {
+            "title": "Inteligentní IT operace",
+            "description": "Transformujte IT operace pomocí monitorování řízeného umělou inteligencí, automatizace, prediktivních náhledů a proaktivního řešení problémů."
+          },
+          {
+            "title": "Řízení zákaznické zkušenosti",
+            "description": "Vytvářejte personalizované cesty zákazníků s inteligentním zapojením, automatizací, analytikou a bezproblémovým digitálním prostředím."
+          },
+          {
+            "title": "Obchodní strategie a optimalizace portfolia",
+            "description": "Slaďte investice do technologií s obchodními cíli, abyste optimalizovali portfolia, zvýšili efektivitu a podpořili udržitelný růst."
+          },
+          {
+            "title": "Životní cyklus aktiv a technologií IT",
+            "description": "Spravujte IT aktiva po celou dobu jejich životního cyklu s lepší viditelností, automatizací, kontrolou nákladů a plánováním technologií."
+          },
+          {
+            "title": "Enterprise Risk & Compliance",
+            "description": "Identifikujte, vyhodnocujte a řiďte podniková rizika a zároveň posilujte dodržování předpisů, kontroly a odolnost organizace."
+          },
+          {
+            "title": "Kybernetická bezpečnost a operace s hrozbami",
+            "description": "Chraňte digitální prostředí pomocí proaktivní detekce hrozeb, bezpečnostních operací, reakce na incidenty a nepřetržitého monitorování."
+          },
+          {
+            "title": "Automatizace pracovní síly v terénu",
+            "description": "Posílejte týmy v terénu pomocí inteligentního plánování, mobilních pracovních postupů, automatizace a viditelnosti provozu v reálném čase."
+          },
+          {
+            "title": "Zkušenosti zaměstnanců a HR služby",
+            "description": "Zjednodušte služby zaměstnancům pomocí digitálních pracovních postupů, samoobslužných řešení, automatizace a personalizovaných zážitků zaměstnanců."
+          },
+          {
+            "title": "Jednotné digitální pracoviště",
+            "description": "Propojte lidi, procesy, aplikace a nástroje pro spolupráci prostřednictvím zabezpečeného, inteligentního a bezproblémového digitálního pracoviště."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP řešení",
+        "heading": "Jedna platforma, připravená na cokoli",
+        "sub": "Podpora podniků pomocí propojených, inteligentních a škálovatelných řešení správy podniku.",
+        "promoTitle": "Modulární ERP pro růst",
+        "promoText": "Rychlé nasazení modulárních funkcí ERP bez složitosti tradičních víceletých systémů.",
+        "items": [
+          {
+            "title": "Automatizace podnikových procesů",
+            "description": "Zefektivněte finance, HR, prodej, nákup a každodenní operace."
+          },
+          {
+            "title": "Integrované řízení podniku",
+            "description": "Propojte oddělení, data a pracovní postupy na jednotné platformě."
+          },
+          {
+            "title": "Finance a účetnictví",
+            "description": "Zlepšete finanční viditelnost, výkaznictví, rozpočtování a dodržování předpisů."
+          },
+          {
+            "title": "Personalistika a mzdy",
+            "description": "Zjednodušte řízení zaměstnanců, docházku, mzdy a HR procesy."
+          },
+          {
+            "title": "Řízení dodavatelského řetězce",
+            "description": "Optimalizujte nákup, inventář, dodavatele a logistiku."
+          },
+          {
+            "title": "Prodej a správa zákazníků",
+            "description": "Spravujte potenciální zákazníky, zákazníky, objednávky a výkon prodeje efektivně."
+          },
+          {
+            "title": "Analýza a přehledy v reálném čase",
+            "description": "Proměňte obchodní data na užitečné informace pro rychlejší rozhodování."
+          },
+          {
+            "title": "Cloudová ERP řešení",
+            "description": "Umožňuje bezpečnou, škálovatelnou a dostupnou podnikovou správu odkudkoli."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT řešení",
+        "heading": "Naše IT řešení",
+        "sub": "Transformujte IT operace pomocí inteligentních, proaktivních a škálovatelných digitálních řešení, která zlepšují výkon, produktivitu a kontinuitu podnikání.",
+        "promoTitle": "Spolehlivá IT infrastruktura",
+        "promoText": "Vybudujte odolnou technologickou základnu se spravovanými cloudovými, bezpečnostními a DevOps službami.",
+        "items": [
+          {
+            "title": "Správa IT služeb",
+            "description": "Zjednodušte IT služby, incidenty, požadavky a pracovní postupy pro rychlejší řešení."
+          },
+          {
+            "title": "Řízení provozu IT",
+            "description": "Monitorujte infrastrukturu a aplikace pomocí proaktivních IT operací řízených daty."
+          },
+          {
+            "title": "Správa IT aktiv",
+            "description": "Spravujte technologická aktiva efektivně a zároveň snižujte náklady, rizika a složitost životního cyklu."
+          },
+          {
+            "title": "Enterprise Architecture",
+            "description": "Slaďte obchodní strategii se správnou technologickou architekturou a investicemi."
+          },
+          {
+            "title": "Řízení cloudu",
+            "description": "Zlepšete zabezpečení cloudu, dodržování předpisů, výkon a správu nákladů."
+          },
+          {
+            "title": "Digitální operace",
+            "description": "Automatizujte IT procesy a získejte přehled v reálném čase ve svém technologickém prostředí."
+          },
+          {
+            "title": "Pozorovatelnost a monitorování",
+            "description": "Odhalte problémy s výkonem včas a udržujte si spolehlivé digitální zážitky."
+          },
+          {
+            "title": "Strategické řízení portfolia",
+            "description": "Propojte investice do IT s obchodními prioritami a měřitelnými výsledky."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM řešení",
+        "heading": "Naše CRM řešení",
+        "sub": "Poskytujte propojené, personalizované a inteligentní zákaznické zkušenosti během celé cesty zákazníka.",
+        "promoTitle": "Zavřít další nabídky",
+        "promoText": "Poskytněte svým prodejním a podpůrným týmům jednotná zákaznická data a inteligentní automatizaci.",
+        "items": [
+          {
+            "title": "Správa zákaznických služeb",
+            "description": "Zlepšete zákaznickou podporu pomocí rychlejšího rozlišení, samoobslužných a inteligentních pracovních postupů."
+          },
+          {
+            "title": "Automatizace prodeje",
+            "description": "Automatizujte prodejní aktivity, spravujte potenciální zákazníky a pomozte týmům uzavřít příležitosti rychleji."
+          },
+          {
+            "title": "Řízení prodeje a objednávek",
+            "description": "Zefektivněte cestu od potenciálního zákazníka k objednávce a zlepšete viditelnost příjmů."
+          },
+          {
+            "title": "Správa terénních služeb",
+            "description": "Optimalizujte operace v terénu, plánování, expedici a produktivitu techniků."
+          },
+          {
+            "title": "Řízení zákaznické zkušenosti",
+            "description": "Vytvářejte bezproblémové a přizpůsobené prostředí napříč každým kontaktním bodem zákazníka."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "Proměňte údaje o zákaznících na užitečné informace pro chytřejší obchodní rozhodnutí."
+          },
+          {
+            "title": "Marketingová automatizace",
+            "description": "Automatizujte kampaně, zapojení zákazníků a péči o vedení."
+          },
+          {
+            "title": "CRM s AI",
+            "description": "Využijte inteligentní automatizaci a poznatky AI ke zlepšení produktivity a zapojení zákazníků."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Řešení HRMS",
+        "heading": "Naše řešení HRMS",
+        "sub": "Posilte své zaměstnance pomocí inteligentních, integrovaných a automatizovaných HR řešení, která zjednodušují správu zaměstnanců a zlepšují pracovní prostředí.",
+        "promoTitle": "Zjednodušte personální operace",
+        "promoText": "Automatizujte HR pracovní toky od náboru až po odchod do důchodu pomocí moderní platformy, která je na prvním místě pro zaměstnance.",
+        "items": [
+          {
+            "title": "Core HR Management",
+            "description": "Spravujte informace o zaměstnancích, organizační struktury a HR procesy efektivně."
+          },
+          {
+            "title": "Vedení mzdové agendy",
+            "description": "Automatizujte mzdy, zpracování mezd, srážky a dodržování předpisů."
+          },
+          {
+            "title": "Zaměstnanecká samoobsluha",
+            "description": "Poskytněte zaměstnancům snadný přístup ke službám, požadavkům, dokumentům a informacím v oblasti lidských zdrojů."
+          },
+          {
+            "title": "Řízení docházky a dovolené",
+            "description": "Zjednodušte sledování docházky, žádosti o dovolenou, směny a pracovní dobu."
+          },
+          {
+            "title": "Nábor a registrace",
+            "description": "Zefektivněte najímání, správu kandidátů, nástup a integraci zaměstnanců."
+          },
+          {
+            "title": "Řízení výkonu",
+            "description": "Stanovte si cíle, sledujte výkon a podporujte neustálý rozvoj zaměstnanců."
+          },
+          {
+            "title": "Učení a rozvoj",
+            "description": "Spravujte školicí programy, rozvoj dovedností a růst zaměstnanců."
+          },
+          {
+            "title": "HR analýza a reporting",
+            "description": "Proměňte údaje o pracovní síle na užitečné poznatky pro lepší rozhodování v oblasti lidských zdrojů."
+          },
+          {
+            "title": "Automatizace lidských zdrojů s AI",
+            "description": "Automatizujte opakující se úkoly v oblasti lidských zdrojů a zajistěte rychlejší personalizované zážitky zaměstnanců."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Vývoj aplikací",
+        "heading": "Naše služby vývoje aplikací",
+        "sub": "Vytvářejte bezpečné, škálovatelné a vysoce výkonné aplikace, které urychlují obchodní růst a zjednodušují složité procesy.",
+        "promoTitle": "Vytvářejte aplikace, které uživatelé milují",
+        "promoText": "Od nápadu až po spuštění náš tým navrhuje a vyvíjí vysoce kvalitní mobilní a webové aplikace, které lze škálovat.",
+        "items": [
+          {
+            "title": "Vývoj vlastních aplikací",
+            "description": "Vytvářejte aplikace na míru navržené podle vašich jedinečných obchodních požadavků."
+          },
+          {
+            "title": "Vývoj webových a mobilních aplikací",
+            "description": "Poskytujte bezproblémové digitální zážitky na webu, na mobilních zařízeních a na více zařízeních."
+          },
+          {
+            "title": "Vývoj podnikových aplikací",
+            "description": "Vyvíjejte škálovatelná řešení, která se integrují s vašimi stávajícími podnikovými systémy."
+          },
+          {
+            "title": "Vývoj s nízkým a žádným kódem",
+            "description": "Urychlete poskytování aplikací pomocí flexibilních vývojových platforem s nízkým obsahem kódu."
+          },
+          {
+            "title": "API a systémová integrace",
+            "description": "Propojte aplikace, platformy a systémy třetích stran pro bezproblémový tok dat."
+          },
+          {
+            "title": "Modernizace aplikací",
+            "description": "Transformujte starší aplikace na moderní, škálovatelná a efektivní řešení."
+          },
+          {
+            "title": "Aplikace poháněné umělou inteligencí",
+            "description": "Integrujte AI, automatizaci a inteligentní funkce do podnikových aplikací."
+          },
+          {
+            "title": "Podpora a údržba aplikací",
+            "description": "Zajistěte nepřetržitý výkon, zabezpečení, aktualizace a spolehlivost."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "Umělá inteligence a robotika",
+    "businessAutomation": "Obchodní automatizace",
+    "cloudMigrations": "Cloudové migrace",
+    "dataCenters": "Datová centra",
+    "cognitiveAnalyticsAi": "Cognitive Analytics & AI",
+    "informationReportingSystems": "Informační a reportovací systémy",
+    "managedServices": "Spravované služby",
+    "oneStopSolutions": "Řešení na jednom místě"
+  },
+  "servicePage": {
+    "serviceOverview": "Přehled služeb",
+    "whatWeOffer": "Co nabízíme",
+    "whyChooseRezonants": "Proč zvolit Rezonants",
+    "benefitsOfWorking": "Výhody spolupráce s námi",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Technologie, které používáme",
+    "ourWork": "Naše práce",
+    "relatedProjects": "Související projekty",
+    "viewCaseStudy": "Zobrazit případovou studii",
+    "readyToDiscuss": "Jste připraveni diskutovat o svém projektu {{title}}?",
+    "seniorEngineersReady": "Naši zkušení inženýři jsou připraveni vám pomoci naplánovat, navrhnout a postavit vaše řešení.",
+    "startProject": "Začněte svůj projekt",
+    "howItWorks": "Jak to funguje"
+  },
+  "consultation": {
+    "badge": "Rezervujte si bezplatnou konzultaci",
+    "title": "Pojďme naplánovat váš projekt <span class='hero-accent'>Společně</span>",
+    "description": "Naplánujte si nezávazný hovor s našimi konzultanty. Prodiskutujte své požadavky, prozkoumejte správný technický přístup a získejte jasnou cenovou nabídku – to vše za méně než 30 minut.",
+    "bookSlot": "Rezervujte si svůj slot",
+    "howItWorks": "Jak to funguje",
+    "accountRequired": "Účet je vyžadován",
+    "signInToBook": "Pro rezervaci konzultace se přihlaste",
+    "accountRequiredText": "Abyste mohli požádat o konzultaci, budete potřebovat účet Rezonants. Přihlaste se nebo si jej vytvořte – zabere to méně než minutu.",
+    "signInToContinue": "Pro pokračování se přihlaste",
+    "newToRezonants": "Jste v Rezonantsu poprvé?",
+    "createAccount": "Vytvořit účet",
+    "requestMeeting": "Žádost o schůzku",
+    "tellUsAboutProject": "Řekněte nám o svém projektu",
+    "fillDetails": "Vyplňte své údaje a my vám e-mailem potvrdíme váš konzultační prostor.",
+    "fullName": "Celé jméno *",
+    "email": "E-mail *",
+    "phone": "Telefon *",
+    "company": "Společnost",
+    "serviceOfInterest": "Zájmová služba *",
+    "selectService": "Vyberte službu…",
+    "preferredDate": "Preferované datum *",
+    "preferredTime": "Preferovaný čas *",
+    "selectTimeSlot": "Vyberte časový úsek…",
+    "estimatedBudget": "Odhadovaný rozpočet",
+    "selectRange": "Vyberte rozsah…",
+    "projectRequirements": "Požadavky projektu",
+    "booking": "Rezervace…",
+    "bookFreeConsultation": "Rezervujte si moji bezplatnou konzultaci",
+    "freeNote": "100% zdarma a bez závazků. Obvykle odpovídáme do 24 hodin.",
+    "whatToExpect": "Co očekávat",
+    "preferToReachUs": "Chcete nás kontaktovat přímo?",
+    "callUs": "Zavolejte nám",
+    "emailUs": "Napište nám",
+    "visitUs": "Navštivte nás",
+    "whyBookWithUs": "Proč rezervovat u nás",
+    "freeCallTitle": "Volání zdarma, které skutečně pomáhá",
+    "freeCallNoPressure": "Volání zdarma, žádný tlak",
+    "freeCallNoPressureText": "Každá první konzultace je zdarma. Neexistuje žádná povinnost nakupovat - pouze upřímná rada.",
+    "seniorConsultants": "Pouze starší konzultanti",
+    "seniorConsultantsText": "Vaše setkání vedou starší inženýři a konzultanti, kteří se stavbou živí.",
+    "clearTimelines": "Vymazat časové osy a nabídky",
+    "clearTimelinesText": "Odejděte s definovaným dalším krokem, realistickou časovou osou a transparentní cenou vašeho projektu.",
+    "services": {
+      "customSoftware": "Vývoj softwaru na zakázku",
+      "webMobile": "Vývoj webových a mobilních aplikací",
+      "cloudDevops": "Cloud & DevOps řešení",
+      "aiMl": "Umělá inteligence a strojové učení",
+      "itConsulting": "IT poradenství",
+      "digitalMarketing": "Digitální marketing a SEO",
+      "erpSolutions": "ERP řešení",
+      "other": "Jiné / Ještě nevím"
+    },
+    "budgets": {
+      "under1L": "Méně než ₹ 1 l",
+      "1to5L": "₹ 1L – ₹5L",
+      "5to10L": "₹ 5 l – 10 ₹",
+      "above10L": "₹10L+",
+      "notDecided": "Ještě není rozhodnuto"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Pochopte své cíle",
+        "text": "Nejprve posloucháme. 30minutový hovor ke zmapování vašich obchodních potřeb, publika a požadovaných výsledků."
+      },
+      "technicalDirection": {
+        "title": "Získejte technický směr",
+        "text": "Naši inženýři sdílejí správnou architekturu, zásobník a přístup pro váš projekt."
+      },
+      "clearQuote": {
+        "title": "Získejte jasnou nabídku",
+        "text": "Odejděte s transparentním odhadem, časovou osou a dalšími kroky – bez závazků."
+      }
+    },
+    "validation": {
+      "nameRequired": "Je vyžadováno celé jméno.",
+      "emailRequired": "E-mail je povinný.",
+      "emailInvalid": "Zadejte platný e-mail.",
+      "phoneRequired": "Telefonní číslo je povinné.",
+      "phoneInvalid": "Zadejte platné telefonní číslo.",
+      "serviceRequired": "Vyberte prosím službu.",
+      "dateRequired": "Vyberte preferovaný termín.",
+      "timeRequired": "Vyberte preferovaný časový úsek.",
+      "messageTooShort": "Přidejte trochu více podrobností (alespoň 10 znaků).",
+      "signInRequired": "Pro rezervaci konzultace se prosím přihlaste.",
+      "couldNotBook": "Konzultaci se nepodařilo objednat. Zkontrolujte, zda tabulka konzultací existuje, a zkuste to znovu.",
+      "bookedSuccess": "Konzultace objednána! Náš tým vám brzy potvrdí váš časový úsek e-mailem."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Vítejte zpět",
+    "createAccount": "Vytvořit účet",
+    "forgotPassword": "Zapomenuté heslo",
+    "createNewPassword": "Vytvořit nové heslo",
+    "welcomeBackDesc": "Přihlaste se ke svému účtu Rezonants.",
+    "createAccountDesc": "Připojte se k Rezonants ještě dnes.",
+    "forgotDesc": "Zadejte svůj e-mail a my vám zašleme odkaz pro obnovení hesla.",
+    "recoveryDesc": "Zvolte pro svůj účet silné nové heslo.",
+    "fullName": "Celé jméno",
+    "email": "Email",
+    "password": "Heslo",
+    "newPassword": "Nové heslo",
+    "confirmPassword": "Potvrdit heslo",
+    "confirmNewPassword": "Potvrdit nové heslo",
+    "forgotPasswordLink": "Zapomněli jste heslo?",
+    "privacyPolicy": "Přijímám zásady <1>Ochrana soukromí a zabezpečení</1> Rezonants.",
+    "sendResetLink": "Odeslat odkaz pro resetování",
+    "signIn": "Přihlaste se",
+    "signUp": "Zaregistrujte se",
+    "pleaseWait": "Čekejte prosím…",
+    "rememberedPassword": "Zapamatovali jste si heslo?",
+    "signInLink": "Přihlásit se",
+    "noAccount": "Nemáte účet?",
+    "signUpLink": "Zaregistrujte se",
+    "hasAccount": "Už máte účet?",
+    "changedMind": "Změnili jste názor?",
+    "backToSignIn": "Zpět k přihlášení",
+    "resetSent": "Odkaz pro resetování hesla odeslán! Zkontrolujte svůj e-mail a vytvořte nové heslo.",
+    "passwordUpdated": "Vaše heslo bylo aktualizováno. Přihlaste se pomocí svého nového hesla.",
+    "accountCreated": "Účet vytvořen! Zkontrolujte svůj e-mail a potvrďte svou registraci a poté se přihlaste.",
+    "validation": {
+      "fullNameRequired": "Je vyžadováno celé jméno.",
+      "emailRequired": "E-mail je povinný.",
+      "emailInvalid": "Zadejte platný e-mail.",
+      "passwordRequired": "Je vyžadováno heslo.",
+      "passwordMinLength": "Heslo musí mít alespoň 6 znaků.",
+      "passwordsNoMatch": "Hesla se neshodují.",
+      "acceptTerms": "Chcete-li pokračovat, přijměte zásady ochrany osobních údajů a zásady zabezpečení Rezonants."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chat s Rezonants AI",
+    "openChatLabel": "Otevřete chat Rezonants AI Assistant",
+    "chatTitle": "Rezonants AI asistent",
+    "online": "Online",
+    "expandLabel": "Rozbalte chatbota",
+    "minimizeLabel": "Minimalizujte chatbota",
+    "closeLabel": "Zavřete chatbota",
+    "expand": "Rozbalit",
+    "minimize": "Minimalizovat",
+    "close": "Zavřít",
+    "popularTopics": "Populární témata",
+    "askPlaceholder": "Zeptejte se mě na Rezonants...",
+    "messageLabel": "Pošlete zprávu asistentovi AI Rezonants",
+    "sendLabel": "Odeslat zprávu",
+    "sendTitle": "Odeslat zprávu",
+    "enterToSend": "Enter pro odeslání · Shift+Enter pro nový řádek",
+    "newChat": "Nový chat",
+    "typing": "Rezonants AI píše",
+    "menuOptions": "Možnosti nabídky",
+    "greetingMorning": "Dobré ráno",
+    "greetingAfternoon": "Dobré odpoledne",
+    "greetingEvening": "Dobrý večer",
+    "welcomeText": "! 👋 Vítejte v Rezonants.\nJsem asistent umělé inteligence Rezonants. Mohu vám pomoci prozkoumat naše služby, technologie a kontaktní informace."
+  },
+  "cookieConsent": {
+    "title": "Vážíme si vašeho soukromí",
+    "description": "Pro zlepšení vašeho zážitku z prohlížení používáme soubory cookie. Můžete přijmout všechny soubory cookie, odmítnout soubory cookie, které nejsou nezbytné, nebo upravit své preference. Nezbytné soubory cookie jsou vždy povoleny, aby bylo zajištěno správné fungování webových stránek.",
+    "acceptAll": "Přijmout vše",
+    "rejectNonEssential": "Odmítnout nepodstatné",
+    "managePreferences": "Spravovat předvolby",
+    "privacyPolicy": "Zásady ochrany osobních údajů"
+  },
+  "cookiePreferences": {
+    "title": "Spravovat předvolby souborů cookie",
+    "description": "Vyberte, které kategorie souborů cookie povolíte. Nezbytné soubory cookie zůstávají povoleny, aby webová stránka fungovala.",
+    "essential": "Základní",
+    "essentialDesc": "Vyžadováno pro fungování webu (ověření, zabezpečení, vyrovnávání zátěže). Tyto nelze deaktivovat.",
+    "analytics": "Analytika",
+    "analyticsDesc": "Pomozte nám pochopit, jak návštěvníci stránky používají, abychom je mohli vylepšit. Ve výchozím nastavení zakázáno.",
+    "marketing": "Marketing",
+    "marketingDesc": "Používá se k zobrazení relevantních nabídek a kampaní. Ve výchozím nastavení zakázáno.",
+    "cancel": "Zrušit",
+    "savePreferences": "Uložit předvolby"
+  },
+  "privacy": {
+    "badge": "Právní",
+    "title": "Zásady ochrany osobních údajů",
+    "description": "Jak společnost Rezonants shromažďuje, používá a chrání vaše osobní údaje a soubory cookie.",
+    "lastUpdated": "Poslední aktualizace: srpen 2026",
+    "managingPreferences": "Správa vašich preferencí",
+    "managingPreferencesDesc": "Na panelu předvoleb souborů cookie můžete kdykoli zkontrolovat nebo změnit, které soubory cookie povolíte.",
+    "manageCookiePreferences": "Spravovat předvolby souborů cookie",
+    "section1": {
+      "title": "1. Informace, které shromažďujeme",
+      "body": [
+        "Shromažďujeme informace, které nám poskytnete přímo (jako je vaše jméno a e-mailová adresa při odeslání kontaktního formuláře nebo vytvoření účtu) a informace shromážděné automaticky prostřednictvím souborů cookie a podobných technologií, jako jsou navštívené stránky, typ zařízení a přibližná poloha."
+      ]
+    },
+    "section2": {
+      "title": "2. Jak používáme soubory cookie",
+      "body": [
+        "Nezbytné soubory cookie jsou vždy povoleny, protože webová stránka bez nich nemůže správně fungovat. Ukládají stav relace a ověření a pamatují si vaše preference týkající se souborů cookie.",
+        "Analytické soubory cookie nám pomáhají porozumět tomu, jak návštěvníci stránky používají, abychom je mohli vylepšit. Marketingové soubory cookie se používají k zobrazení relevantních nabídek a kampaní. Tyto kategorie jsou povoleny pouze s vaším souhlasem a lze je kdykoli změnit na panelu předvoleb souborů cookie."
+      ]
+    },
+    "section3": {
+      "title": "3. Právní základ (GDPR)",
+      "body": [
+        "Osobní údaje zpracováváme na následujících právních základech: váš souhlas (pro nepodstatné soubory cookie a marketing), plnění smlouvy (u služeb, které požadujete), zákonná povinnost a oprávněné zájmy, pokud nad nimi nepřevažují vaše práva. Souhlas můžete kdykoli odvolat, aniž by to ovlivnilo zákonnost zpracování prováděného před odvoláním."
+      ]
+    },
+    "section4": {
+      "title": "4. Vaše práva",
+      "body": [
+        "V závislosti na vaší poloze můžete mít právo na přístup k vašim osobním údajům, jejich opravu, výmaz nebo omezení zpracování, vznést námitku proti zpracování a na přenositelnost údajů. Můžete také podat stížnost místnímu dozorovému úřadu."
+      ]
+    },
+    "section5": {
+      "title": "5. Uchovávání a zabezpečení dat",
+      "body": [
+        "Osobní údaje uchováváme pouze po dobu nezbytně nutnou pro účely popsané v těchto zásadách. Uplatňujeme vhodná technická a organizační opatření k ochraně vašich informací před neoprávněným přístupem, změnou, zveřejněním nebo zničením."
+      ]
+    },
+    "section6": {
+      "title": "6. Služby třetích stran",
+      "body": [
+        "Některé soubory cookie mohou být nastaveny poskytovateli třetích stran (jako jsou analytické nebo reklamní platformy), kteří nám pomáhají provozovat web. Tito poskytovatelé zpracovávají údaje podle svých vlastních zásad ochrany osobních údajů a pouze v případě, že jste souhlasili s příslušnou kategorií."
+      ]
+    },
+    "contactUs": "7. Kontaktujte nás",
+    "contactUsText": "Máte-li dotazy týkající se těchto zásad nebo vašich osobních údajů, kontaktujte nás na adrese <1>info@rezonants.com</1> nebo zavolejte na číslo <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Služby",
+    "title": "Naše služby",
+    "sub": "Komplexní technologická řešení navržená tak, aby pomáhala podnikům inovovat, škálovat a uspět.",
+    "learnMore": "Více informací",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Od začátku do nasazení",
+        "text": "Od počátečního konceptu až po produkční nasazení dodáváme škálovatelná řešení vytvořená pro skutečné obchodní potřeby."
+      },
+      "businessProcessAutomation": {
+        "title": "Automatizace podnikových procesů",
+        "text": "Zefektivněte opakující se procesy a zvyšte provozní efektivitu prostřednictvím inteligentní podnikové automatizace."
+      },
+      "centerOfExcellence": {
+        "title": "Centrum excelence",
+        "text": "Vybudujte specializované technologické schopnosti a odborné znalosti pro podporu inovací, kvality a neustálého zlepšování."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Vlastní vývoj a přizpůsobení",
+        "text": "Softwarová řešení na míru navržená podle vašich jedinečných obchodních požadavků a pracovních postupů."
+      },
+      "digitalTransformation": {
+        "title": "Digitální transformace",
+        "text": "Modernizujte své podnikání pomocí digitálních strategií, technologií a řešení, které mají měřitelný dopad."
+      },
+      "endToEndSolutionFramework": {
+        "title": "End-to-End Solution Framework",
+        "text": "Integrovaná technologická řešení, která propojují strategii, vývoj, implementaci a probíhající operace."
+      },
+      "migrationModernization": {
+        "title": "Migrace a modernizace",
+        "text": "Modernizujte starší aplikace a migrujte systémy na škálovatelné, bezpečné a efektivní technologické platformy."
+      },
+      "pocPilotImplementation": {
+        "title": "Proof of Concept (PoC) a pilotní implementace",
+        "text": "Před úplným nasazením rychle ověřte nápady prostřednictvím zaměřených prototypů a pilotních implementací."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Sdílené služby a řízené operace",
+        "text": "Spolehlivé řízené technologické operace, které zlepšují výkon, škálovatelnost a kontinuitu podnikání."
+      }
+    }
+  },
+  "footer": {
+    "company": "Společnost",
+    "about": "O",
+    "perspectives": "Perspektivy",
+    "technologies": "Technologie",
+    "contact": "Kontakt",
+    "services": "Služby",
+    "getInTouch": "Ozvěte se",
+    "bookConsultation": "Objednejte se na konzultaci",
+    "copyright": "© {{year}} Rezonants. Všechna práva vyhrazena.",
+    "cookiePreferences": "Předvolby souborů cookie",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "description": "Rezonants je společnost poskytující IT služby a digitální produkty v Hajdarábádu v Indii. Navrhujeme, vytváříme a škálujeme software pro společnosti, které soutěží o provedení.",
+    "locations": "Naše místa",
+    "indiaHq": "Hyderabad, Indie — ústředí Indie",
+    "southAfrica": "Jižní Afrika — REZONANTS PVT LTD",
+    "products": "Produkty",
+    "followUs": "Sledujte nás",
+    "aboutUs": "O nás",
+    "contactUs": "Kontaktujte nás",
+    "headline": "Pojďme stavět",
+    "headlineAccent": "co bude dál.",
+    "subheadline": "Staňte se partnerem Rezonants a proměňte nápady ve skutečný obchodní dopad.",
+    "credoIdeas": "NÁPADY",
+    "credoSolutions": "ŘEŠENÍ",
+    "credoPeople": "LIDÉ",
+    "credoBrighterTomorrow": "SVĚTŠÍ ZÍTRA",
+    "hyderabadLocation": "Hyderabad, Indie",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Jižní Afrika – REZONANTS PVT LTD",
+    "termsOfUse": "Podmínky použití",
+    "accessibility": "Dostupnost",
+    "quickLinks": "Rychlé odkazy",
+    "explore": "Prozkoumat",
+    "vijayawadaOffice": "Kancelář Vijayawada",
+    "allRightsReserved": "Všechna práva vyhrazena.",
+    "hyderabadPin": "Hyderabad, Indie",
+    "southAfricaPin": "Jižní Afrika"
+  },
+  "common": {
+    "loading": "Načítání...",
+    "error": "Chyba",
+    "retry": "Opakovat",
+    "close": "Zavřít",
+    "backToTop": "Zpět nahoru",
+    "skipToContent": "Přejít na obsah",
+    "scroll": "Posunout",
+    "whatWeOffer": "Co nabízíme",
+    "howItWorks": "Jak to funguje"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Hledat zemi nebo kód…",
+    "noResults": "Nebyly nalezeny žádné země.",
+    "countryCodeLabel": "Předvolba země",
+    "required": "Telefonní číslo je povinné.",
+    "incomplete": "Telefonní číslo musí obsahovat přesně {{count}} číslic.",
+    "tooLong": "Telefonní číslo nesmí obsahovat více než {{count}} číslic.",
+    "invalid": "Zadejte platné telefonní číslo pro {{country}}."
+  },
+  "perspectives": {
+    "topic": "Téma:",
+    "published": "Zveřejněno:",
+    "readingTime": "Čas čtení:",
+    "author": "Autor:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Technologická oblast",
+    "purpose": "Účel",
+    "talkToExperts": "Promluvte si s našimi odborníky",
+    "viewAll": "Zobrazit všechny perspektivy",
+    "exploreMore": "PROZKOUMEJ VÍCE PERSPEKTIV",
+    "continueExploring": "Pokračovat ve zkoumání Enterprise Technology Insights",
+    "readPerspective": "Přečtěte si Perspektiva"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI a robotická řešení",
+      "tagline": "Inteligentní technologie. Automatizované operace. Chytřejší podnikání.",
+      "heroBadge": "Inteligentní autonomní systémy",
+      "overview": [
+        "Umělá inteligence a robotika mění způsob, jakým organizace fungují, rozhodují se a přinášejí hodnotu. Naše řešení pro umělou inteligenci a robotiku pomáhají podnikům překonat tradiční automatizaci tím, že kombinují umělou inteligenci, strojové učení, počítačové vidění, inteligentní automatizaci procesů a robotiku k řešení praktických obchodních problémů.",
+        "Navrhujeme inteligentní řešení na základě měřitelných obchodních výsledků. Ať už je požadavkem automatizace opakující se práce, analýza velkých objemů informací, zjišťování vzorců, podpora rozhodování nebo zavádění robotiky do provozních prostředí, náš přístup se zaměřuje na spolehlivost, škálovatelnost, bezpečnost a dlouhodobou obchodní hodnotu."
+      ],
+      "transformation": [
+        "Moderní organizace generují obrovské množství dat a každý den provádějí tisíce opakujících se činností. Umělá inteligence a robotika mohou tyto činnosti přeměnit na inteligentní, automatizované pracovní postupy, které zlepšují produktivitu a zároveň umožňují zaměstnancům soustředit se na úkoly s vyšší hodnotou.",
+        "Naše řešení mohou organizacím pomoci automatizovat opakované operace, omezit ruční zásahy, zlepšit přesnost, analyzovat komplexní informace, podporovat rychlejší rozhodování, optimalizovat využití zdrojů, zlepšit zákaznickou zkušenost a budovat škálovatelné inteligentní systémy."
+      ],
+      "capabilities": [
+        {
+          "title": "Umělá inteligence",
+          "desc": "Vyvíjíme řešení řízená umělou inteligencí, která systémům umožňují porozumět informacím, identifikovat vzorce, vytvářet poznatky a podporovat obchodní rozhodnutí."
+        },
+        {
+          "title": "Strojové učení",
+          "desc": "Vyvíjíme modely strojového učení pro prognózování, klasifikaci, systémy doporučení, detekci anomálií, prediktivní analýzu a inteligentní podporu rozhodování."
+        },
+        {
+          "title": "Zpracování přirozeného jazyka",
+          "desc": "NLP lze použít ke zpracování dokumentů, porozumění textu, klasifikaci informací, extrahování relevantního obsahu a podpoře konverzačních aplikací."
+        },
+        {
+          "title": "Počítačové vidění",
+          "desc": "Řešení počítačového vidění mohou podporovat klasifikaci obrazu, detekci objektů, kontrolu kvality, zpracování dokumentů, vizuální monitorování a analýzu videa."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotika kombinuje softwarovou inteligenci s fyzickými systémy k automatizaci činností, které tradičně vyžadují manuální úsilí. Aplikace mohou zahrnovat výrobu, logistiku, skladování, kontrolu, manipulaci s materiálem a provozní podporu."
+        },
+        {
+          "title": "Inteligentní automatizace procesů",
+          "desc": "Umělou inteligenci lze zkombinovat s automatizací pracovních postupů a vytvořit systémy, které interpretují informace, aplikují obchodní pravidla nebo modely a automaticky spouštějí příslušný proces."
+        }
+      ],
+      "lifecycleSteps": [
+        "Obchodní hodnocení",
+        "Analýza dat",
+        "AI strategie",
+        "Architektura řešení",
+        "Vývoj",
+        "Integrace",
+        "Testování",
+        "Nasazení",
+        "Monitorování",
+        "Optimalizace"
+      ],
+      "benefits": [
+        "Vyšší podniková provozní produktivita",
+        "Podstatné snížení provozních nákladů",
+        "Rychlejší zpracování a milisekundové rozhodování",
+        "Vylepšená přesnost dat a pracovních postupů",
+        "Optimalizované využití fyzických a výpočetních zdrojů",
+        "Snížení provozních rizik a lidských chyb",
+        "Bezproblémová multiplatformní škálovatelnost",
+        "Vylepšené zkušenosti zákazníků a zaměstnanců"
+      ],
+      "security": "Podniková řešení AI musí být navržena s odpovídajícím zabezpečením, řízením přístupu, ochranou dat, monitorováním, řízením modelu a provozními zárukami. Tyto požadavky zvažujeme od fáze architektury přes nasazení a průběžnou údržbu, abychom zajistili spolehlivou inteligenci na produkční úrovni.",
+      "ctaHeadline": "Vybudujte si inteligentní budoucnost",
+      "ctaSub": "Udělejte své operace chytřejšími. Automatizujte to, na čem záleží. Stavět pro budoucnost."
+    },
+    "business-automation-solutions": {
+      "title": "Řešení pro automatizaci podnikání",
+      "tagline": "Zjednodušte procesy. Eliminujte opakování. Urychlit růst.",
+      "heroBadge": "End-to-End optimalizace pracovního postupu",
+      "overview": [
+        "Podniková automatizace umožňuje organizacím nahradit opakující se manuální činnosti efektivnějšími digitálními pracovními postupy. Naše řešení pro automatizaci podnikání pomáhají společnostem zvyšovat produktivitu, snižovat provozní složitost, minimalizovat chyby a vytvářet konzistentní procesy napříč odděleními.",
+        "Analyzujeme stávající pracovní postupy, identifikujeme úzká místa a navrhujeme automatizační řešení, která spojují lidi, aplikace, data a obchodní procesy."
+      ],
+      "transformation": [
+        "Mnoho organizací stále závisí na tabulkách, e-mailech, ručním schvalování, opakovaném zadávání dat, manipulaci s dokumenty a odpojených aplikacích. Tyto procesy spotřebovávají cenný čas zaměstnanců a mohou způsobit zpoždění, nesrovnalosti a chyby.",
+        "Náš přístup k automatizaci se zaměřuje na pochopení celého procesu, odstranění zbytečných kroků, integraci systémů a automatizaci činností, které poskytují největší provozní hodnotu."
+      ],
+      "capabilities": [
+        {
+          "title": "Automatizace pracovního postupu",
+          "desc": "Automatizujeme vícestupňové procesy zahrnující zaměstnance, aplikace, schvalování, oznámení a data napříč různými odděleními."
+        },
+        {
+          "title": "Robotická automatizace procesů",
+          "desc": "Softwarové roboty mohou provádět opakované činnosti založené na pravidlech, jako je zadávání dat, aktualizace systému, sladění a přenos informací."
+        },
+        {
+          "title": "Automatizace dokumentů",
+          "desc": "Automatizované pracovní toky dokumentů mohou extrahovat informace, ověřovat data, klasifikovat dokumenty, směrovat požadavky a iniciovat následné procesy."
+        },
+        {
+          "title": "Automatizace schvalování",
+          "desc": "Pracovní postupy digitálního schvalování automaticky směrují požadavky ke správným osobám s rozhodovací pravomocí a poskytují přehled o čekajících akcích v reálném čase."
+        },
+        {
+          "title": "Integrace Automatizace",
+          "desc": "Propojujeme obchodní aplikace, takže informace se mohou automaticky přesouvat mezi platformami bez zbytečného ručního zásahu."
+        },
+        {
+          "title": "Automatizace upozornění",
+          "desc": "Automatizované výstrahy a upozornění pomáhají zaměstnancům okamžitě reagovat na důležité události, termíny, výjimky a provozní změny."
+        }
+      ],
+      "lifecycleSteps": [
+        "Objevte",
+        "Analyzujte",
+        "Design",
+        "Automatizovat",
+        "Integrovat",
+        "Test",
+        "Nasazení",
+        "Monitor",
+        "Optimalizovat"
+      ],
+      "benefits": [
+        "Zvýšená propustnost týmu a operační rychlost",
+        "Dramatické snížení chyb ručního zadávání dat",
+        "Zkrácené doby obratu celého procesu",
+        "Jednotná viditelnost napříč obchodními operacemi",
+        "Standardizovaná meziresortní shoda",
+        "Výrazné snížení provozních nákladů",
+        "Elastická kapacita pro snadné škálování pracovní zátěže",
+        "Posílené týmy zaměřené na zapojení zákazníků a strategickou práci"
+      ],
+      "security": "Kombinujeme platformy pracovních toků a RPA s inteligentními kontextovými modely, abychom zajistili řízení přístupu na základě rolí, komplexní auditní záznamy a přísné dodržování všech automatizovaných transakcí.",
+      "ctaHeadline": "Vytvářejte efektivnější operace",
+      "ctaSub": "Automatizujte opakovanou práci. Zmocněte své lidi. Zrychlete své podnikání."
+    },
+    "cloud-migration-solutions": {
+      "title": "Řešení cloudové migrace",
+      "tagline": "Jděte do cloudu s jistotou.",
+      "heroBadge": "Multi-cloudová transformace",
+      "overview": [
+        "Cloud computing se stal kritickou součástí moderní IT infrastruktury. Organizace přesouvají aplikace, databáze, pracovní zátěže a infrastrukturu do cloudových prostředí, aby zlepšily škálovatelnost, dostupnost, flexibilitu a provozní efektivitu.",
+        "Naše cloudové migrační služby pomáhají organizacím vyhodnotit jejich aktuální prostředí, definovat migrační strategie, provádět migrace a optimalizovat pracovní zátěž po přechodu do cloudu."
+      ],
+      "transformation": [
+        "Cloudová migrace je více než jen přesun serverů z jednoho prostředí do druhého. Úspěšná migrace vyžaduje pečlivé posouzení aplikací, infrastruktury, závislostí, požadavků na zabezpečení, dat, výkonu, dostupnosti a kontinuity podnikání.",
+        "Vytváříme strategie migrace na základě aktuálního prostředí organizace a budoucích cílů, přičemž pro každou pracovní zátěž vybíráme vhodný vzor migrace."
+      ],
+      "capabilities": [
+        {
+          "title": "Migrace infrastruktury",
+          "desc": "Migrujeme tradiční servery, úložiště, virtuální stroje a pracovní zátěže do moderních cloudových prostředí na AWS, Azure a GCP."
+        },
+        {
+          "title": "Migrace aplikací",
+          "desc": "Aplikace mohou být rehostovány, replatformovány, refaktorovány nebo přepracovány v závislosti na obchodních a technických požadavcích."
+        },
+        {
+          "title": "Migrace databáze",
+          "desc": "Migrujeme databáze s ohledem na integritu dat, výkon, kompatibilitu, dostupnost, zabezpečení a požadavky na obnovu."
+        },
+        {
+          "title": "Modernizace cloudu",
+          "desc": "Migrace se stává příležitostí k modernizaci aplikací pomocí kontejnerů, mikroslužeb, spravovaných databází, bezserverových služeb a cloudových nativních architektur."
+        },
+        {
+          "title": "Hybridní cloud",
+          "desc": "Organizace, které potřebují jak místní, tak cloudovou infrastrukturu, mohou přijmout hybridní architektury, které hladce propojí stávající systémy s cloudovými službami."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Organizacím působícím na více cloudových platformách pomáháme navrhovat strategie pracovního zatížení, které zlepšují flexibilitu, odolnost a správu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Hodnocení",
+        "Objev",
+        "Mapování závislostí",
+        "Migrační strategie",
+        "Architektura Design",
+        "Pilotní migrace",
+        "Migrace dat",
+        "Migrace aplikací",
+        "Testování",
+        "Migrace výroby",
+        "Optimalizace"
+      ],
+      "benefits": [
+        "Elastická škálovatelnost a vysoká dostupnost zdrojů",
+        "Větší flexibilita infrastruktury a obchodní agilita",
+        "Odstranění fyzické zátěže údržby datového centra",
+        "Zrychlené nasazení funkcí aplikace",
+        "Robustní obnova po havárii a odolnost zálohování",
+        "Okamžitý přístup k moderní cloudové umělé inteligenci a spravovaným službám",
+        "Optimalizované řízení FinOps a snížení TCO",
+        "Nepřetržité dodržování předpisů a automatizované bezpečnostní zábradlí"
+      ],
+      "security": "Zabezpečení je nedílnou součástí plánování migrace. Zvažujeme správu identity a přístupu, zabezpečení sítě, šifrování během přenosu a v klidu, ochranu dat, audity zranitelnosti aplikací, monitorování, zálohování a obnovu po havárii.",
+      "ctaHeadline": "Vaše cesta do cloudu, správně naplánována",
+      "ctaSub": "Modernizujte svou infrastrukturu. Urychlit inovace. Vybudujte škálovatelný cloudový základ."
+    },
+    "data-center-solutions": {
+      "title": "Řešení datových center",
+      "tagline": "Spolehlivá infrastruktura pro kritické operace.",
+      "heroBadge": "Mission-Critical Infrastructure",
+      "overview": [
+        "Datová centra tvoří základ moderního digitálního podnikání. Aplikace, databáze, podnikové systémy, komunikační platformy a důležité obchodní služby závisí na spolehlivé infrastruktuře.",
+        "Naše řešení pro datová centra se zaměřují na navrhování, modernizaci, správu a optimalizaci infrastrukturních prostředí vytvořených pro dostupnost, zabezpečení, škálovatelnost, výkon a provozní efektivitu."
+      ],
+      "transformation": [
+        "Moderní datové centrum vyžaduje více než jen servery a úložiště. Vyžaduje pečlivě navrženou infrastrukturu v oblasti výpočetní techniky, sítí, zabezpečení, napájení, chlazení, monitorování, zálohování a obnovy po havárii.",
+        "Pomáháme organizacím vytvářet odolná infrastrukturní prostředí, která podporují kritické pracovní zátěže a poskytují základ pro budoucí technologický růst."
+      ],
+      "capabilities": [
+        {
+          "title": "Návrh infrastruktury",
+          "desc": "Prostředí navrhujeme na základě požadavků na pracovní zátěž, kapacitu, výkon, dostupnost, zabezpečení a budoucí růst."
+        },
+        {
+          "title": "Serverová infrastruktura",
+          "desc": "Podporujeme fyzická a virtuální serverová prostředí pro kritické podnikové aplikace a pracovní zátěže."
+        },
+        {
+          "title": "Řešení úložiště",
+          "desc": "Při navrhování úložných prostředí bereme v úvahu požadavky na výkon, kapacitu, redundanci, vysokorychlostní SAN/NAS, zálohování a ochranu dat."
+        },
+        {
+          "title": "Síťová infrastruktura",
+          "desc": "Navrhujeme síťová prostředí s vhodnou segmentací, redundancí, výkonem s nízkou latencí, konektivitou a bezpečnostními kontrolami."
+        },
+        {
+          "title": "Virtualizace",
+          "desc": "Virtualizace zlepšuje využití zdrojů, flexibilitu pracovní zátěže a centralizovanou správu infrastruktury."
+        },
+        {
+          "title": "Zálohování a obnova po havárii",
+          "desc": "Pomáháme organizacím vytvořit strategie zálohování a architektury obnovy navržené tak, aby minimalizovaly prostoje a eliminovaly ztráty dat."
+        }
+      ],
+      "lifecycleSteps": [
+        "Posouzení kapacity",
+        "Profilování pracovní zátěže",
+        "Architektonický plán",
+        "Hardware a virtuální dimenzování",
+        "Segmentace sítě",
+        "Poskytování úložiště",
+        "Redundance a testování DR",
+        "Výrobní omezení",
+        "24/7 sledování zdraví",
+        "Průběžná optimalizace"
+      ],
+      "benefits": [
+        "Garantovaná 99,999% dostupnost infrastruktury",
+        "Nulové jednotlivé body selhání s vícevrstvou redundancí",
+        "Optimalizovaný výpočet serveru a virtualizace s vysokou hustotou",
+        "Síťové architektury s nízkou latencí v řádu milisekund",
+        "Posílené fyzické a digitální zabezpečení perimetru",
+        "Proaktivní monitorování a automatizovaná selhání při selhání",
+        "Škálovatelné modulární úložiště pro data o velikosti petabajtů",
+        "Předvídatelné celkové náklady na vlastnictví a energetická účinnost"
+      ],
+      "security": "Zabezpečení je integrováno napříč vrstvou infrastruktury a zahrnuje mikrosegmentaci sítě, hardwarový kořen důvěryhodnosti, řízení přístupu s nulovou důvěryhodností, průběžné audity zranitelnosti, obranu koncových bodů a přísné provozní zásady.",
+      "ctaHeadline": "Infrastruktura připravená na budoucnost",
+      "ctaSub": "Vybudujte si spolehlivou infrastrukturu ještě dnes. Vytvořte základ pro technologii zítřka."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Cognitive Analytics & AI",
+      "tagline": "Proměňte data v inteligenci.",
+      "heroBadge": "Data-to-Decision Intelligence",
+      "overview": [
+        "Organizace generují obrovské množství informací prostřednictvím aplikací, transakcí, zákazníků, operací, zařízení a digitálních platforem. Výzvou již není pouhé shromažďování dat; je to pochopení těchto dat a jejich přeměna na využitelnou inteligenci.",
+        "Naše řešení kognitivní analýzy a umělé inteligence kombinují pokročilou analýzu, strojové učení, umělou inteligenci, zpracování dat a business intelligence a pomáhají organizacím přijímat lepší rozhodnutí."
+      ],
+      "transformation": [
+        "Tradiční reporting říká organizacím, co se stalo. Pokročilá analytika může pomoci vysvětlit, proč se to stalo, identifikovat, co se může stát dál, a podpořit rozhodnutí o tom, co by se mělo stát.",
+        "Pomáháme organizacím zavádět datová prostředí, která překračují statické výkaznictví směrem k inteligentní analýze a podpoře rozhodování."
+      ],
+      "capabilities": [
+        {
+          "title": "Popisná analýza",
+          "desc": "Pochopte historický výkon prostřednictvím interaktivních sestav, vícerozměrných řídicích panelů, KPI a obchodních metrik."
+        },
+        {
+          "title": "Diagnostická analýza",
+          "desc": "Identifikujte základní vztahy, trendy, statistické anomálie a základní příčiny obchodních výsledků."
+        },
+        {
+          "title": "Prediktivní analýza",
+          "desc": "Použijte historická data a data streamování v reálném čase se statistickými modely k identifikaci potenciálních budoucích výsledků a požadavků."
+        },
+        {
+          "title": "Preskriptivní analýza",
+          "desc": "Vyhodnoťte možné akce a podporujte optimální cesty rozhodování na základě předpokládaných výsledků a strategických obchodních cílů."
+        },
+        {
+          "title": "Modely strojového učení",
+          "desc": "Vyvíjejte vlastní modely pro prognózování, klasifikaci zákazníků, doporučení, odhalování anomálií podvodů a prediktivní údržbu."
+        },
+        {
+          "title": "Insights Powered AI",
+          "desc": "Aplikujte kognitivní umělou inteligenci na obrovské objemy nestrukturovaných informací, abyste odhalili skryté vzorce, shrnutí a doporučení."
+        }
+      ],
+      "lifecycleSteps": [
+        "Zdroje dat",
+        "Integrace dat",
+        "Zpracování dat",
+        "Úložiště dat",
+        "Analytika",
+        "Modely AI/ML",
+        "Vizualizace",
+        "Obchodní rozhodnutí"
+      ],
+      "benefits": [
+        "Výkonné rozhodování založené na faktech a datech",
+        "Přesné předpovídání poptávky, tržeb a odchodu",
+        "Detekce anomálií a podvodů v reálném čase",
+        "Hluboké 360° informace o chování zákazníků a personalizace",
+        "Optimalizovaný dodavatelský řetězec a provozní efektivita",
+        "Snížení provozních a finančních rizik",
+        "Objevování skrytých příležitostí k výdělku",
+        "Zrychlený čas do přehledu napříč obchodními jednotkami"
+      ],
+      "security": "Naše analytické ekosystémy implementují end-to-end šifrování, automatické maskování dat, přísná oprávnění RBAC a řízení modelů pro ochranu proprietárních dat a zachování souladu s předpisy (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Vybudujte si strategii inteligentních dat",
+      "ctaSub": "Proměňte informace v náhled. Proměňte vhled v akci."
+    },
+    "information-reporting-systems": {
+      "title": "Informační a reportovací systémy",
+      "tagline": "Správné informace. Ve správný čas. Pro lepší rozhodnutí.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Obchodní vedoucí a provozní týmy závisí na přesných informacích, aby mohli přijímat efektivní rozhodnutí. Naše informační a reportovací systémy pomáhají organizacím shromažďovat, organizovat, analyzovat a prezentovat obchodní informace prostřednictvím strukturovaných informačních systémů, platforem pro vykazování, řídicích panelů a automatizovaných pracovních postupů pro vykazování.",
+        "Organizace mají často informace distribuované napříč aplikacemi, tabulkami, databázemi a operačními systémy. To ztěžuje vytvoření konzistentního pohledu na výkonnost podniku. Pomáháme integrovat zdroje informací do strukturovaných prostředí pro podávání zpráv, která poskytují spolehlivé, dostupné a konzistentní obchodní informace."
+      ],
+      "transformation": [
+        "Systém hlášení by neměl pouze zobrazovat čísla. Měl by uživatelům pomoci porozumět výkonu, identifikovat problémy, objevovat příležitosti a činit informovaná rozhodnutí.",
+        "Prostředí reportingu navrhujeme podle toho, jak vaše organizace funguje, a poskytujeme strukturované ekosystémy založené na datech až po rozhodnutí šité na míru pro všechny úrovně řízení."
+      ],
+      "capabilities": [
+        {
+          "title": "Manažerské informační systémy (MIS)",
+          "desc": "Vyvíjet jednotné informační systémy, které poskytují výkonnému managementu relevantní provozní a strategický přehled."
+        },
+        {
+          "title": "Obchodní výkaznictví",
+          "desc": "Transformujte nezpracovaná obchodní data z více kanálů do strukturovaných, standardizovaných sestav, které nepřetržitě monitorují výkon."
+        },
+        {
+          "title": "Interaktivní řídicí panely",
+          "desc": "Poskytujte v reálném čase nebo naplánované interaktivní viditelnost důležitých obchodních metrik, KPI, trendů a aktivit oddělení."
+        },
+        {
+          "title": "Správa KPI",
+          "desc": "Definujte, sledujte a porovnávejte smysluplné provozní KPI přímo v souladu se zastřešujícími cíli růstu podniku."
+        },
+        {
+          "title": "Integrace dat",
+          "desc": "Integrujte distribuované zdroje dat do sjednocených datových skladů a sémantických vrstev pro konzistentní výkaznictví na jediném panelu."
+        },
+        {
+          "title": "Automatizované hlášení",
+          "desc": "Automaticky generovat a distribuovat personalizované zprávy podle předem definovaných plánů, obchodních pravidel a hierarchií příjemců."
+        }
+      ],
+      "lifecycleSteps": [
+        "Obchodní systémy",
+        "Sběr dat",
+        "Integrace dat",
+        "Zpracování dat",
+        "Úložiště dat",
+        "Analytika",
+        "Přehledy a panely"
+      ],
+      "benefits": [
+        "Jediný zdroj pravdy napříč celým podnikem",
+        "Rychlejší přístup k provozním metrikám v reálném čase",
+        "Úplné odstranění ručního sestavování tabulek",
+        "Konzistentní, sladěné KPI napříč odděleními",
+        "Vynikající výkonný dohled a auditovatelnost",
+        "Automatizovaná distribuce přímo zainteresovaným stranám",
+        "Granulární zabezpečení dat a oprávnění na úrovni řádků",
+        "Vylepšená schopnost reagovat na provozní anomálie"
+      ],
+      "security": "Obchodní informace mohou obsahovat citlivá provozní, finanční a zákaznická data. Naše řešení pro vytváření sestav obsahují vícefaktorovou autentizaci, granulární autorizaci na základě rolí, šifrování a protokoly auditu do architektury sestav.",
+      "ctaHeadline": "Reporting, který podporuje růst",
+      "ctaSub": "Zpřístupněte informace. Zviditelnit výkon. Dělejte lepší rozhodnutí."
+    },
+    "managed-services": {
+      "title": "Spravované služby",
+      "tagline": "Spolehlivé technologické operace. Odborná podpora. Neustálé zlepšování.",
+      "heroBadge": "Nepřetržitý provoz a podpora IT",
+      "overview": [
+        "Moderní IT prostředí jsou složitá a neustále se mění. Organizace potřebují spolehlivou infrastrukturu, aplikace, sítě, zabezpečení, monitorování a technickou podporu, aby udržely své obchodní operace v chodu.",
+        "Naše řízené služby poskytují nepřetržitou správu technologií a provozní podporu, což organizacím umožňuje udržovat spolehlivá IT prostředí, zatímco se interní týmy zaměřují na strategické iniciativy."
+      ],
+      "transformation": [
+        "Tradiční IT podpora se často zaměřuje na řešení problémů poté, co nastanou. Spravované služby mají proaktivní přístup neustálým monitorováním infrastruktury, aplikací, systémů a provozních prostředí.",
+        "Tento přístup pomáhá včas identifikovat potenciální problémy, udržovat výkon, zlepšovat dostupnost a omezovat narušení provozu, kterému lze předejít."
+      ],
+      "capabilities": [
+        {
+          "title": "Správa infrastruktury",
+          "desc": "Podpora nepřetržitého provozu, záplatování a správy serverů, úložišť, virtualizačních platforem a infrastruktury."
+        },
+        {
+          "title": "Správa cloudu",
+          "desc": "Správa cloudových úloh, multi-cloudových zdrojů, konfigurací, monitorování, výkonu a optimalizace FinOps."
+        },
+        {
+          "title": "Správa sítě",
+          "desc": "Poskytuje nepřetržité monitorování, správu výkonu, podporu konfigurace, optimalizaci SD-WAN a řešení síťových problémů."
+        },
+        {
+          "title": "Správa aplikací",
+          "desc": "Podpora kritických aplikačních prostředí prostřednictvím proaktivního monitorování, údržby, řešení chyb a provozních upgradů."
+        },
+        {
+          "title": "Monitorování a pozorovatelnost",
+          "desc": "Poskytuje komplexní přehled o stavu systému, latenci, provozuschopnosti, závislostech infrastruktury a výstrahách v reálném čase."
+        },
+        {
+          "title": "Správa zálohování a obnovy",
+          "desc": "Udržujte automatické plány zálohování, pravidelně testujte převzetí služeb při selhání a zajistěte možnosti okamžité obnovy."
+        },
+        {
+          "title": "Bezpečnostní operace (SecOps)",
+          "desc": "Zajistěte nepřetržité monitorování zabezpečení, správu oprav, vynucení řízení přístupu a proaktivní zmírňování hrozeb."
+        }
+      ],
+      "lifecycleSteps": [
+        "Přihlášení do prostředí",
+        "Discovery & Baseline",
+        "Integrace telemetrie",
+        "Definice SLA",
+        "Aktivní sledování 24/7",
+        "Klasifikace nehody",
+        "Rychlé rozlišení",
+        "Analýza kořenových příčin",
+        "Preventivní inženýrství",
+        "Průběžná optimalizace"
+      ],
+      "benefits": [
+        "Výrazné snížení vnitřní provozní zátěže",
+        "Proaktivní zjišťování problémů dříve, než budou ovlivněni uživatelé",
+        "Garantovaná 99,99% dostupnost systému a provozuschopnost",
+        "Předvídatelné, transparentní IT provozní rozpočtování",
+        "Okamžitý přístup ke zkušeným inženýrům",
+        "Rychlá odezva na incidenty s podporou SLA",
+        "Automatizovaná obnova po havárii a kontinuita provozu",
+        "Průběžná optimalizace a modernizace technologií"
+      ],
+      "security": "Naše spravované operace dodržují přísné rámce ITIL a ISO, zajišťují šifrovaný přístup, izolované protokoly auditu, úschovu pověření s nejnižšími oprávněními a soulad se všemi spravovanými zdroji.",
+      "ctaHeadline": "Neustálé zlepšování",
+      "ctaSub": "Soustředíte se na své podnikání. Pomáháme udržovat vaši technologii v chodu."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Jednorázová technologická řešení",
+      "tagline": "Jeden technologický partner. Více schopností. Kompletní obchodní řešení.",
+      "heroBadge": "Unified Enterprise Partner",
+      "overview": [
+        "Organizace často spolupracují s více poskytovateli technologií pro infrastrukturu, cloud, aplikace, automatizaci, analýzu, zabezpečení, podporu a digitální transformaci. Správa více dodavatelů může způsobit složitost, komunikační mezery, duplicitní úsilí a fragmentovaná technologická prostředí.",
+        "Náš přístup One-Stop Technology Solutions spojuje různé možnosti v rámci jednotného modelu služeb a pomáhá organizacím plánovat, implementovat, integrovat, provozovat a neustále zlepšovat jejich technologické prostředí."
+      ],
+      "transformation": [
+        "Podporujeme celý životní cyklus technologie – od pochopení obchodních požadavků a definování technologické strategie až po navrhování řešení, implementaci platforem, integraci systémů, nasazování aplikací, monitorování prostředí a poskytování průběžné podpory.",
+        "Cílem je vytvořit spíše propojený technologický ekosystém než izolovaná řešení."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategie a architektura",
+          "desc": "Pochopte obchodní cíle a navrhněte škálovatelné, bezpečné a udržovatelné technologické architektury."
+        },
+        {
+          "title": "Implementace a sestavení",
+          "desc": "Implementujte aplikace, infrastrukturu, integrace, automatizaci a digitální platformy s podnikovou přísností."
+        },
+        {
+          "title": "Systémová integrace",
+          "desc": "Propojte systémy a aplikace, aby se informace plynule pohybovaly v celé organizaci."
+        },
+        {
+          "title": "Strukturované nasazení",
+          "desc": "Vytvořte automatizované procesy CI/CD a uvolnění, abyste mohli spolehlivě a bezpečně přesunout řešení do výroby."
+        },
+        {
+          "title": "Nepřetržité monitorování",
+          "desc": "Poskytuje komplexní přehled o infrastruktuře, aplikacích, výkonu, dostupnosti a provozním stavu."
+        },
+        {
+          "title": "Optimalizace a podpora",
+          "desc": "Průběžně kontrolujte prostředí s cílem zlepšit výkon, spolehlivost, nákladovou efektivitu a škálovatelnost."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategie",
+        "Architektura",
+        "Realizace",
+        "Integrace",
+        "Nasazení",
+        "Monitorování",
+        "Optimalizace",
+        "Podpora"
+      ],
+      "benefits": [
+        "Snížená složitost správy dodavatele a režie",
+        "Bezproblémová koordinace napříč všemi architektonickými vrstvami",
+        "Rychlejší provádění projektu s nulovým zpožděním předání",
+        "Předvídatelné rozdělení rozpočtu a transparentní plnění",
+        "Jednotná podniková odpovědnost od nuly až po rozsah",
+        "Škálovatelná řešení navržená pro budoucí obchodní růst",
+        "Dlouhodobé důvěryhodné technologické partnerství",
+        "Komplexní end-to-end digitální transformace"
+      ],
+      "security": "Díky jedinému důvěryhodnému partnerovi, který dohlíží na architekturu, implementaci a operace, zůstává správa zabezpečení nepřerušená na všech úrovních – odstraňuje slepá místa integrace a zajišťuje nepřetržité dodržování předpisů.",
+      "ctaHeadline": "Váš kompletní technologický partner",
+      "ctaSub": "Jeden partner. Jedna vize. Více technologií. Kompletní řešení."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Přehled podniku",
+    "overviewTitle": "Inteligentní technologie pro měřitelné výsledky",
+    "transformationEyebrow": "Provozní transformace",
+    "transformationTitle": "Transformace podnikání prostřednictvím inteligentních pracovních postupů",
+    "deliveryEyebrow": "Přístup ke strukturovanému doručení",
+    "deliveryTitle": "End-to-End provádění a průběžná optimalizace",
+    "deliveryIntro": "Náš osvědčený implementační přístup se řídí přísným životním cyklem dodání:",
+    "deliveryOutro": "Tato strukturovaná sekvence zajišťuje těsné sladění s obchodními cíli, robustní bezpečnostní pozici a měřitelné ukazatele návratnosti investic v každé fázi.",
+    "securityEyebrow": "Bezpečnost a správa",
+    "securityTitle": "Zabezpečení spolehlivosti a dodržování předpisů na podnikové úrovni",
+    "securityOutro": "Zabudujeme přísnou kontrolu přístupu na základě rolí, automatické skenování zranitelnosti, řízení modelů a vícevrstvé šifrování, abychom zajistili, že vaše produkční prostředí zůstane odolné a plně kompatibilní.",
+    "capabilitiesTitle": "Základní technologie",
+    "capabilitiesSub": "Komplexní technické kompetence navržené pro škálování vašich digitálních operací.",
+    "bookDiscovery": "Kniha Objev technologie",
+    "exploreAll": "Prozkoumejte všechny technologie",
+    "bookConsultation": "Rezervujte si konzultaci",
+    "coreCapabilities": "Základní schopnosti"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Základní schopnosti",
+    "exploreFramework": "Prozkoumejte rámec řešení",
+    "bookConsultation": "Rezervujte si konzultaci",
+    "viewCaseStudies": "Zobrazit případové studie",
+    "provenPillars": "Osvědčené pilíře",
+    "operationalOutcomes": "Provozní výsledky",
+    "learnMore": "Další informace"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "End-to-End digitální inženýrství",
+      "titlePart1": "Začátek do",
+      "titlePart2": "Nasazení",
+      "description": "Komplexní vývoj nových digitálních řešení od obchodních požadavků a architektury řešení přes vývoj, integraci, testování, nasazení a průběžnou podporu.",
+      "bookConsultation": "Rezervujte si konzultaci",
+      "exploreEngineering": "Prozkoumejte inženýrství řešení",
+      "coreCapabilities": [
+        "Inženýrství požadavků",
+        "Architektura řešení",
+        "Vývoj aplikací",
+        "Integrace API",
+        "Zajištění kvality",
+        "DevOps",
+        "Nasazení",
+        "Podpora a údržba"
+      ],
+      "row1Eyebrow": "Dodávka celého životního cyklu",
+      "row1Title": "End-to-End vývoj od požadavků až po měřítko",
+      "row1P1": "Každá nová digitální iniciativa začíná jedinečnými požadavky, provozními pracovními postupy a strategickými cíli, které nelze splnit univerzálním softwarem. Specializujeme se na budování zakázkových, vysoce výkonných softwarových systémů zcela od nuly.",
+      "row1P2": "Od počátečního zjišťování požadavků a návrhu technické architektury až po agilní vývoj sprintů, integraci ekosystémů API, robustní testovací kanály a automatizované cloudové nasazení, naše vedoucí inženýrské týmy převezmou plnou odpovědnost za životní cyklus vašeho produktu.",
+      "row2Eyebrow": "Architektura řešení a inženýrství",
+      "row2Title": "Škálovatelné systémy vytvořené pro růst podniku",
+      "row2P1": "Navrhujeme odolné softwarové architektury přizpůsobené tak, aby vydržely velké výrobní zatížení. Od modulárních mikroslužeb a backendů řízených událostmi až po vysoce výkonné datové toky a rozhraní API GraphQL/REST vytváříme platformy, které lze bez námahy škálovat.",
+      "row2P2": "Vytvořením čistých, modulárních kódových základen spárovaných s automatickým testováním a nepřetržitým zabezpečením zajistíme, že váš softwarový základ bude udržovatelný, auditovatelný a připravený na dlouhodobý vývoj.",
+      "row3Eyebrow": "Zajištění kvality a DevOps",
+      "row3Title": "Agilní doručování s automatizovanými potrubími",
+      "row3P1": "Náš model poskytování zahrnuje automatizované jednotky, integraci a komplexní regresní testování spolu s kontejnerizovanými pracovními postupy CI/CD (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Díky transparentním ukázkám sprintů, pozorovatelnosti v reálném čase a rychlosti řízené milníky zajišťujeme rychlý čas uvedení na trh, aniž bychom ohrozili bezpečnost, stabilitu nebo uživatelský zážitek.",
+      "row4Eyebrow": "Nasazení a podpora",
+      "row4Title": "Spolehlivý provoz 24/7 a dlouhodobý vývoj",
+      "row4P1": "Živé vysílání je jen začátek. Poskytujeme proaktivní monitorování, údržbu podporovanou SLA, optimalizaci cloudové infrastruktury, ladění výkonu a průběžné zavádění funkcí.",
+      "row4P2": "Náš inženýrský tým funguje jako přirozené rozšíření vaší organizace, zajišťuje nulové prostoje a trvalou technologickou převahu na vašem trhu.",
+      "pillarsTitle": "Základní schopnosti",
+      "pillarsSub": "Kompletní možnosti plného stohu navržené tak, aby převedly vaše nápady od nuly do výroby.",
+      "pillar1Title": "Technické požadavky",
+      "pillar1Desc": "Podrobná obchodní analýza, funkční specifikace a mapování cesty uživatele k definování přesných hranic řešení.",
+      "pillar2Title": "Architektura řešení",
+      "pillar2Desc": "Škálovatelné cloudové nativní architektury, modelování databází, návrh mikroslužeb a základy zabezpečení s nulovou důvěrou.",
+      "pillar3Title": "Vývoj aplikací",
+      "pillar3Desc": "Moderní kompletní webové a mobilní aplikace navržené s čistým kódem, typovou bezpečností a reaktivními standardy uživatelského rozhraní.",
+      "pillar4Title": "Integrace API",
+      "pillar4Desc": "Vysoce výkonná rozhraní REST/GraphQL API, orchestrace webhooků, platební brány a bezproblémová synchronizace ERP/CRM třetích stran.",
+      "ctaTitle": "Jste připraveni postavit své řešení od počátku až po nasazení?",
+      "ctaSub": "Staňte se partnerem společnosti Rezonants a navrhněte, navrhněte a nasaďte svou vlastní digitální platformu od obchodních požadavků až po produkční realitu.",
+      "ctaButton": "Rezervujte si konzultaci řešení",
+      "pillar5Title": "Zajištění kvality",
+      "pillar5Desc": "Přísná automatizace testů, zátěžové/zátěžové testování, skenování zranitelnosti a sady regresních testů.",
+      "pillar6Title": "DevOps & Deployment",
+      "pillar6Desc": "Automatizované kanály CI/CD, orchestrace kontejnerů (Docker/K8s), infrastruktura jako kód a verze s nulovými prostoji.",
+      "pillar7Title": "Podpora a údržba",
+      "pillar7Desc": "24/7 proaktivní monitorování, telemetrie stavu, audity výkonu, opravy zabezpečení a průběžná údržba SLA.",
+      "pillar8Title": "Neustálá inovace",
+      "pillar8Desc": "Rychlost běžných funkcí, integrace analýzy dat, vylepšení AI a modernizace architektury."
+    },
+    "processAutomation": {
+      "eyebrow": "Inteligentní procesní operace",
+      "titlePart1": "Obchodní proces",
+      "titlePart2": "Automatizace",
+      "description": "Komplexní automatizace podnikových pracovních toků, která kombinuje automatizaci robotických procesů (RPA), inteligentní zpracování dokumentů, nástroje pro obchodní pravidla a systémovou integraci.",
+      "bookDiscovery": "Objev automatizace knih",
+      "exploreFramework": "Prozkoumejte rámec řešení",
+      "coreCapabilities": [
+        "Automatizace pracovního postupu",
+        "Automatizace robotických procesů",
+        "Zpracování dokumentu",
+        "Integrační inženýrství",
+        "Motory obchodních pravidel",
+        "Analýza procesů",
+        "Průběžná optimalizace",
+        "Starší integrace"
+      ],
+      "row1Eyebrow": "Automatizace robotických procesů",
+      "row1Title": "Inteligentní roboti pro velkoobjemové operace",
+      "row1P1": "Odstraňte opakované ruční zadávání dat, odsouhlasení mezi systémy a směrování dokumentů. Nasazujeme podnikové roboty RPA, které provádějí strukturované úkoly 24/7 s nulovou chybovostí.",
+      "row1P2": "Propojením starších desktopových rozhraní, backendů SAP/ERP a cloudových databází uvolní softwaroví roboti váš tým, aby se mohl soustředit na strategické obchodní iniciativy.",
+      "row2Eyebrow": "Inteligentní zpracování dokumentů",
+      "row2Title": "OCR, strojové učení a AI dokumentů",
+      "row2P1": "Automaticky přijímat, klasifikovat a extrahovat data z faktur, smluv, dokladů totožnosti a nároků. Naše kanály řízené umělou inteligencí ověřují pole proti interním databázím a spouštějí automatizované schvalovací pracovní postupy.",
+      "row2P2": "Dosáhněte rychlosti přímého zpracování přesahující 95 % a zároveň drasticky zkraťte dobu zpracování ze dnů na sekundy.",
+      "row3Eyebrow": "Orchestrování procesů",
+      "row3Title": "Synchronizace mezi jednotlivými platformami",
+      "row3P1": "Propojte CRM, ERP, HRMS a bankovní API do jednotných toků dat v reálném čase. Implementujeme událostmi řízené spouštěče, fronty zpráv a automatické záložní obslužné programy.",
+      "row3P2": "Informace plynule proudí napříč odděleními bez lidského zásahu, což eliminuje provozní sila a komunikační zpoždění.",
+      "row4Eyebrow": "Nepřetržitá telemetrie",
+      "row4Title": "Analýza procesů v reálném čase a Kaizen Insights",
+      "row4P1": "Sledujte doby provádění procesů, teplotní mapy úzkých míst, četnost chyb a finanční návratnost investic na výkonných řídicích panelech v reálném čase.",
+      "row4P2": "Nepřetržitá diagnostika strojového učení objevuje nové možnosti automatizace a udržuje váš podnik v provozu s maximální efektivitou.",
+      "pillarsTitle": "Automatizační pilíře",
+      "pillarsSub": "Osvědčené stavební bloky pro inteligentní podnikové operace.",
+      "pillar1Title": "Automatizace pracovního postupu",
+      "pillar1Desc": "Vícekrokové lidské ve smyčce a digitální pracovní postupy organizované pomocí automatického směrování a eskalace.",
+      "pillar2Title": "Automatizace robotických procesů",
+      "pillar2Desc": "Softwarové roboty založené na pravidlech provádějící rutinní zadávání dat, odsouhlasení a úlohy napříč aplikacemi.",
+      "pillar3Title": "Inteligentní automatizace AI",
+      "pillar3Desc": "Kognitivní agenti umělé inteligence, kteří interpretují kontext, shrnují nestrukturovaný text a dělají automatizovaná rozhodnutí.",
+      "pillar4Title": "Optimalizace procesu",
+      "pillar4Desc": "Procesní těžba, detekce úzkých míst a Kaizen workflow, které neustále snižují provozní náklady.",
+      "ctaTitle": "Jste připraveni automatizovat své obchodní pracovní postupy?",
+      "ctaSub": "Spojte se s našimi architekty automatizace, abyste identifikovali příležitosti s vysokou návratností investic a nasadili inteligentní digitální pracovní postupy.",
+      "ctaButton": "Rezervujte si konzultaci v oblasti automatizace"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Technická norma a výzkum a vývoj",
+      "titlePart1": "Střed",
+      "titlePart2": "Excelence",
+      "description": "Centralizovaná organizace seniorních architektů a doménových specialistů, která se věnuje standardizaci inženýrských postupů, podpoře inovací a urychlení digitálních iniciativ.",
+      "exploreStandards": "Prozkoumejte technické normy",
+      "initiateAssessment": "Zahájit hodnocení CoE",
+      "coreCapabilities": [
+        "Normy architektury",
+        "Opakovaně použitelné rámce",
+        "Best Practice Governance",
+        "Rozvoj dovedností",
+        "Srovnávání kvality",
+        "R&D & Innovation",
+        "Hodnocení technologie",
+        "Křížové projekty"
+      ],
+      "uptimeLabel": "Enterprise Uptime",
+      "engineersLabel": "Inženýři a architekti",
+      "deploymentsLabel": "AI a cloudové nasazení",
+      "satisfactionLabel": "Spokojenost klienta",
+      "row1Eyebrow": "Pilíř 01 — Technická norma",
+      "row1Title": "Vysoce výkonné softwarové inženýrství",
+      "row1P1": "Naše centrum excelence zavádí standardizované návrhové vzory, přísné automatizované testování a postupy kontroly kódu s nulovými vadami, které zrychlují dobu uvedení na trh a zároveň udržují technický dluh na nule.",
+      "row1F1": "Automatizované kanály pro vydávání CI/CD s analýzou metrik DORA",
+      "row1F2": "Přísná kontrola architektonických revizí a řízení mikroslužeb",
+      "row1F3": "Nepřetržité bezpečnostní linting a automatizované záplatování zranitelnosti",
+      "row1Btn": "Naučte se technické normy",
+      "row1Tag": "DevOps & Quality Engineering",
+      "row2Eyebrow": "Pilíř 02 – Inovace výzkumu a vývoje",
+      "row2Title": "Laboratoř inovací AI a vznikající technologie",
+      "row2P1": "Experimentujeme s nejmodernějšími modely strojového učení, vlastními agenty AI a inteligentní automatizací pracovních postupů, abychom vytvořili podnikové produkty nové generace.",
+      "row2F1": "Integrace znalostí Enterprise Generative AI & RAG",
+      "row2F2": "Autonomní pracovní postupy agentů AI pro automatizaci obchodních procesů",
+      "row2F3": "Optimalizace a doladění vlastního modelu strojového učení",
+      "row2Btn": "Prozkoumejte AI Lab",
+      "row2Tag": "Umělá inteligence a neurální výzkum a vývoj",
+      "row3Eyebrow": "Pilíř 03 – Infrastruktura",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Navrhujeme a spravujeme odolná multicloudová prostředí postavená na bezpečnostních rámcích s nulovou důvěrou, což zajišťuje, že vaše data zůstanou chráněna proti vyvíjejícím se globálním kybernetickým hrozbám.",
+      "row3F1": "Orchestrace multicloudové infrastruktury AWS, Azure a GCP",
+      "row3F2": "Síťový přístup s nulovou důvěrou (ZTNA) a zásady IAM založené na rolích",
+      "row3F3": "Automatické skenování zabezpečení kontejnerů a správa tajných informací",
+      "row3Btn": "Prozkoumejte cloud a zabezpečení",
+      "row3Tag": "Cloudová architektura a nulová důvěra",
+      "pillarsTitle": "Naše základní rámce excelence",
+      "pillarsSub": "Systematizované vývojové příručky pohánějící kritické platformy.",
+      "pillar1Title": "Architectural Review Board (ARB)",
+      "pillar1Desc": "Komplexní dohled zajišťující soulad všech podnikových řešení s přísnou škálovatelností, zabezpečením a protokoly shody.",
+      "pillar2Title": "Opakovaně použitelné akcelerátory a knihovna komponent",
+      "pillar2Desc": "Proprietární designové systémy, startovací sady API a šablony backendových mikroslužeb zkracují počáteční dobu vývoje o 40 %.",
+      "pillar3Title": "Průběžné profilování výkonu",
+      "pillar3Desc": "Pokročilé kanály pozorovatelnosti v reálném čase sledují latenci aplikací, úzká místa propustnosti a využití cloudových zdrojů.",
+      "pillar4Title": "Talent Upskilling & Guilds",
+      "pillar4Desc": "Strukturované interní cechy a certifikace rozvíjející hluboké technické znalosti napříč cloudem, DevOps a aplikovanou AI.",
+      "ctaTitle": "Zvyšte svůj technický standard",
+      "ctaSub": "Spolupracujte s Centrem excelence společnosti Rezonants za účelem vytvoření odolných cloudových architektur, automatizace pracovních postupů a urychlení poskytování digitálních produktů.",
+      "ctaButton": "Plán konzultací s vedením",
+      "badge": "REZONANTS COE",
+      "scroll": "Posun",
+      "p1Title": "Řízení a rámce",
+      "p1Desc": "Vytvořte celopodnikové architektonické řízení, zábrany zásad a standardy dodržování předpisů.",
+      "p1Tag": "Řízení",
+      "p2Title": "Technologické standardy a architektura",
+      "p2Desc": "Definujte moderní referenční architektury, ověřené technologické sady a vzory mikroslužeb.",
+      "p2Tag": "Architektura",
+      "p3Title": "Znovu použitelná aktiva a knihovny",
+      "p3Desc": "Zrychlete rychlost vývoje pomocí sdílených komponent, šablon, startovacích sad a návrhových systémů.",
+      "p3Tag": "Opětovné použití",
+      "p4Title": "Rozvoj kompetencí",
+      "p4Desc": "Strukturované školení, technický mentoring a dovednosti, které povýší týmové inženýrství.",
+      "p4Tag": "Kompetence",
+      "p5Title": "Inovace a nové technologie",
+      "p5Desc": "Výzkum a vývoj v oblasti agentů AI, automatizačních kanálů a rámců nové generace pro udržení náskoku na trhu.",
+      "p5Tag": "Inovace",
+      "p6Title": "Neustálé zlepšování",
+      "p6Desc": "Data-driven engineering metrics (DORA), benchmarking SLA a průběžná optimalizace kvality.",
+      "p6Tag": "Kvalita"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Digitální inženýrství na míru",
+      "titlePart1": "Vlastní vývoj a",
+      "titlePart2": "Přizpůsobení",
+      "description": "Vývoj a vylepšování aplikací, platforem, pracovních postupů a podnikových řešení pro řešení jedinečných obchodních požadavků a poskytování přizpůsobených funkcí.",
+      "bookConsultation": "Rezervujte si konzultaci",
+      "exploreCapabilities": "Prozkoumejte možnosti",
+      "coreCapabilities": [
+        "Vývoj na zakázku",
+        "Konfigurace platformy",
+        "Rozšíření",
+        "Vlastní pracovní postupy",
+        "Vývoj API",
+        "Systémová integrace",
+        "Vylepšení uživatelského rozhraní/UX",
+        "Optimalizace výkonu"
+      ],
+      "row1Eyebrow": "FUNKČNOST NA MÍRU",
+      "row1Title": "Funkce na míru vytvořené pro váš pracovní postup",
+      "row1P1": "Standardní podnikový software často nesplňuje specializované obchodní potřeby. Náš vlastní inženýrský tým vyvíjí aplikační moduly na míru, vlastní obchodní pravidla a specializovaná rozšíření šitá na míru vašim operacím.",
+      "row1P2": "Od vlastních vylepšení CRM a ERP až po specializované provozní portály vytváříme funkce, které hladce odpovídají přesným vzorcům pracovních postupů vašeho týmu.",
+      "row2Eyebrow": "INTEGRACE PODNIKOVÉHO SYSTÉMU",
+      "row2Title": "Konfigurace platformy a vývoj API",
+      "row2P1": "Propojte různé softwarové systémy do jednotného digitálního ekosystému. Navrhujeme vlastní rozhraní REST a GraphQL API, obslužné nástroje webhooku a fronty podnikových zpráv, abychom zajistili synchronizaci dat v reálném čase na všech vašich platformách.",
+      "row2P2": "Naše integrační architektury upřednostňují integritu dat, propustnost a nulové prostoje, ať už jde o integraci nástrojů SaaS třetích stran nebo rozšiřování proprietárních on-premise platforem.",
+      "row3Eyebrow": "UI/UX & VÝKON",
+      "row3Title": "Vylepšení uživatelského rozhraní a optimalizace výkonu",
+      "row3P1": "Vylepšete starší rozhraní pomocí moderního, citlivého uživatelského prostředí navrženého pro rychlost a přehlednost. Přepracováváme frontendy s intuitivními návrhovými vzory, dodržováním zásad přístupnosti a zjednodušenými modely interakce.",
+      "row3P2": "Paralelně naši výkonní inženýři optimalizují databázové dotazy, strategie ukládání do mezipaměti a velikosti frontendových balíčků, aby zajistili okamžitou odezvu na všech zařízeních.",
+      "pillarsTitle": "Navrženo podle vašich přesných specifikací",
+      "pillarsSub": "Metodologie přizpůsobení podnikové úrovně vytvořené tak, aby bylo možné bezproblémově škálovat.",
+      "pillar1Title": "Vlastní pracovní postupy a rozšíření",
+      "pillar1Desc": "Přizpůsobená aplikační logika a automatizované stavové automaty konfigurované speciálně podle vašich interních provozních pravidel.",
+      "pillar2Title": "API a systémová integrace",
+      "pillar2Desc": "Bezpečné a ověřené datové mosty spojující proprietární backendy, sady ERP, platební brány a cloudové služby.",
+      "pillar3Title": "Konfigurace platformy",
+      "pillar3Desc": "Hluboké architektonické úpravy, které upravují podnikový software, aniž by narušily cesty upgradu nebo dohody o podpoře dodavatele.",
+      "pillar4Title": "Optimalizace výkonu",
+      "pillar4Desc": "Agresivní profilování dotazů, eliminace úniku paměti a okrajová distribuce CDN pro načtení stránky do sekundy.",
+      "ctaTitle": "Jste připraveni přizpůsobit svou podnikovou platformu?",
+      "ctaSub": "Spojte se s našimi architekty řešení a navrhněte a nasaďte vlastní moduly, pracovní postupy a integrace přizpůsobené vašim obchodním potřebám.",
+      "ctaButton": "Rezervujte si individuální hovor",
+      "badge": "Digitální inženýrství na míru",
+      "viewAllServices": "Zobrazit všechny služby"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Modernizace podniku",
+      "titlePart1": "Digitální",
+      "titlePart2": "Transformace",
+      "description": "Komplexní modernizace podnikových procesů, technologických architektur a provozních modelů pro podporu organizační agility, provozní efektivity a udržitelného digitálního růstu.",
+      "startTransformation": "Spusťte transformaci",
+      "exploreStrategy": "Prozkoumejte strategii",
+      "coreCapabilities": [
+        "Strategie a plánování",
+        "Modernizace architektury",
+        "Cloud a infrastruktura",
+        "Data a analýzy",
+        "Digitalizace procesu",
+        "Zkušenosti zákazníků",
+        "Řízení změn",
+        "Agilní provozní modely"
+      ],
+      "row1Eyebrow": "Strategie a plán",
+      "row1Title": "Od vize ke spustitelnému plánu",
+      "row1P1": "Spolupracujeme s předními podniky na definování digitální strategie, obchodních případů a fázových plánů s rychlými výhrami a eliminací rizika.",
+      "row1P2": "Prioritní iniciativy, modely TCO a KPI zajišťují, že každé úsilí o modernizaci technologií přímo souvisí s výnosy, efektivitou a výsledky spokojenosti zákazníků.",
+      "row2Eyebrow": "Starší modernizace",
+      "row2Title": "Modernizujte bez přerušení podnikání",
+      "row2P1": "Přeměňte monolity platformy na mikroslužby, rozhraní API a cloudové nativní vzory s nulovými prostoji a automatickým ověřováním regrese.",
+      "row2P2": "Modernizujeme aplikace, databáze a integrační vrstvy při zachování souladu a zabezpečení.",
+      "row3Eyebrow": "Cloud, AI a data",
+      "row3Title": "Přijetí cloudu a inteligence řízená daty",
+      "row3P1": "Přijměte AWS, Azure a GCP, vytvářejte moderní datové kanály a vkládejte agenty strojového učení, abyste řídili autonomní rozhodování.",
+      "row3P2": "Od streamování událostí v reálném čase až po jednotné řídicí panely se transformace stává měřitelnou a udržitelnou.",
+      "row4Eyebrow": "Zkušenosti zákazníků",
+      "row4Title": "Moderní Omnikanálové zážitky",
+      "row4P1": "Přepracujte cesty zákazníků přes responzivní web, iOS, Android a samoobslužné portály s personalizovanými rozhraními.",
+      "row4P2": "Platformové inženýrství, telemetrie a automatizované zpětnovazební smyčky umožňují neustálé digitální inovace.",
+      "pillarsTitle": "Transformační pilíře",
+      "pillarsSub": "Páky zaměřené na výsledky, které zajišťují udržitelné digitální vedení.",
+      "pillar1Title": "Digitální strategie a správa",
+      "pillar1Desc": "Plány postupné transformace s modelováním obchodních případů, řízením architektury a sledováním rizik milníků.",
+      "pillar2Title": "Cloud a datová platforma",
+      "pillar2Desc": "Multicloudové základy AWS/Azure/GCP, automatizované kanály a možnost analýzy podnikových dat.",
+      "pillar3Title": "Umělá inteligence a automatizace",
+      "pillar3Desc": "Inteligentní automatizace procesů, kognitivní agenti AI a prediktivní telemetrie pro optimalizaci každodenních operací.",
+      "pillar4Title": "Zkušenosti zákazníků",
+      "pillar4Desc": "Všekanálové digitální portály s vysokou konverzí a přizpůsobená rozhraní vytvořená pro maximální udržení uživatelů.",
+      "ctaTitle": "Jste připraveni transformovat svůj podnik?",
+      "ctaSub": "Staňte se partnerem společnosti Rezonants pro postupnou digitální transformaci bez rizika spojená s měřitelnými obchodními výsledky.",
+      "ctaButton": "Rezervujte si digitální transformační hovor",
+      "bookWorkshop": "Workshop transformace knihy",
+      "exploreFramework": "Prozkoumejte rámec řešení",
+      "coreCapabilitiesTitle": "Základní schopnosti"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Kompletní životní cyklus technologie",
+      "titlePart1": "End-to-End řešení",
+      "titlePart2": "Rámec",
+      "description": "Strukturovaný rámec poskytování po celý životní cyklus zahrnující obchodní požadavky, návrh architektury, inženýrství, integraci, zajištění kvality, cloudové nasazení a spravované operace.",
+      "startJourney": "Spusťte svůj projekt",
+      "exploreFramework": "Prozkoumat rámec",
+      "coreCapabilities": [
+        "Analýza požadavků",
+        "Architektura Design",
+        "Full-Stack vývoj",
+        "Integrační inženýrství",
+        "Zajištění kvality",
+        "Nasazení a zavádění",
+        "Probíhající operace",
+        "Nepřetržitý vývoj"
+      ],
+      "row1Eyebrow": "Strategie a architektura",
+      "row1Title": "Požadavky Engineering & Solution Design",
+      "row1P1": "Workshopy pro spolupráci, mapování obchodních domén a specifikace cloudové architektury navržené tak, aby eliminovaly riziko ještě před napsáním řádku kódu.",
+      "row1P2": "Definujeme datové modely, bezpečnostní rámce a milníky škálovatelnosti, které zajistí dlouhodobý úspěch.",
+      "row2Eyebrow": "Technika a kvalita",
+      "row2Title": "Full-Stack vývoj a automatizované testování",
+      "row2P1": "Modulární mikroslužby, typově bezpečná rozhraní API a responzivní rozhraní v kombinaci s automatizovanými jednotkami, integrací a bezpečnostními kontrolami.",
+      "row2P2": "Kontinuální integrační kanály s akcemi GitHub, Terraformem a automatickými bezpečnostními zábradlími.",
+      "row3Eyebrow": "Rozmístění a provoz",
+      "row3Title": "Cloud Deployment & 24/7 Managed Monitoring",
+      "row3P1": "Vícecloudová orchestrace na AWS/Azure/GCP s automatickým vrácením zpět, omezeními s nulovými prostoji a pozorovatelností v reálném čase.",
+      "row3P2": "Poskytujeme údržbu podporovanou SLA a nepřetržité sledování telemetrie, abychom mohli váš produkt hladce vyvíjet.",
+      "row4Eyebrow": "Podnikové řízení",
+      "row4Title": "Jednotná správa a průběžná podpora",
+      "row4P1": "Jednobodová odpovědnost v rámci celého vašeho digitálního zásobníku – transparentní rychlost sprintu, předvídatelné sestavování rozpočtu a neustálé inovace.",
+      "row4P2": "Pravidelné zavádění funkcí a modernizační cykly udrží váš podnik před konkurencí.",
+      "pillarsTitle": "Pilíře rámce životního cyklu",
+      "pillarsSub": "Každá fáze je navržena s podnikovou přísností.",
+      "pillar1Title": "Strategie a požadavky",
+      "pillar1Desc": "Zjišťování domén, architektonické plány a sladění zainteresovaných stran pro eliminaci rizik realizace.",
+      "pillar2Title": "Architektura a stavba",
+      "pillar2Desc": "Odolné cloudové nativní mikroslužby, integrace API a průběžné testování kvality.",
+      "pillar3Title": "Zabezpečení a nasazení",
+      "pillar3Desc": "Soulad se zabezpečením s nulovou důvěrou, kontejnerizovaná vydání a automatizovaná cloudová nasazení.",
+      "pillar4Title": "Správa a podpora",
+      "pillar4Desc": "24/7 monitorování SLA, telemetrie zdraví a pokračující evoluční inženýrství.",
+      "ctaTitle": "Potřebujete partnera pro kompletní životní cyklus?",
+      "ctaSub": "Vlastníme celý životní cyklus technologie, takže se váš tým může soustředit na hlavní obchodní výsledky.",
+      "ctaButton": "Partner pro celý životní cyklus"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformace cloudu a infrastruktury",
+      "titlePart1": "Migrace a",
+      "titlePart2": "Modernizace",
+      "description": "Bezpečná, strukturovaná migrace starších aplikací, databází a infrastruktury do moderních cloudových architektur ve spojení s nepřetržitou modernizací pro vyšší agilitu a efektivitu.",
+      "bookAssessment": "Hodnocení migrace knih",
+      "exploreStrategy": "Prozkoumejte cloudovou strategii",
+      "coreCapabilities": [
+        "Migrace do cloudu",
+        "Modernizace aplikací",
+        "Migrace databáze",
+        "Rehosting infrastruktury",
+        "Kontejnerizace",
+        "Přechod na mikroslužby",
+        "Optimalizace výkonu",
+        "Zabezpečení a dodržování předpisů"
+      ],
+      "row1Eyebrow": "Migrace do cloudu",
+      "row1Title": "Multi-cloudová strategie & Lift-and-Optimize",
+      "row1P1": "Bezproblémová migrace pracovní zátěže přes AWS, Azure a Google Cloud s automatickým zjišťováním, plánováním vln a nulovým přerušením podnikání.",
+      "row1P2": "Vyvažujeme rehosting, replatformování a refaktoring, abychom optimalizovali celkové náklady na vlastnictví (TCO) a agilitu.",
+      "row2Eyebrow": "Migrace dat a databází",
+      "row2Title": "Bezpečné ETL a automatické ověřování dat",
+      "row2P1": "Automatická replikace databází, překlad schémat a vysoce výkonné ETL kanály se 100% ověřením integrity dat.",
+      "row2P2": "Zkouška bez prostojů zajišťuje úplnou konzistenci dat a obchodní kontinuitu.",
+      "row3Eyebrow": "Modernizace platformy",
+      "row3Title": "Kontejnerizace a Kubernetes Orchestration",
+      "row3P1": "Modernizujte starší monolity na škálovatelné mikroslužby organizované prostřednictvím Kubernetes (EKS, AKS, GKE) s automatizovanými návrhy IaC.",
+      "row3P2": "Profilování výkonu po migraci a optimalizace nákladů zajišťují okamžitou návratnost investic.",
+      "row4Eyebrow": "Plánování výřezu",
+      "row4Title": "Bezpečnostní sítě pro automatické testování a vrácení zpět",
+      "row4P1": "Bojově testované cutover runbooky, automatické regresní sady a mechanismy okamžitého vrácení pro naprostý klid.",
+      "row4P2": "Zdravotní telemetrie po migraci a 24/7 hypercare zaručují bezchybnou stabilitu produkce.",
+      "pillarsTitle": "Zajištění migrace",
+      "pillarsSub": "Bezrizikové přesuny podporované podnikovými smlouvami SLA.",
+      "pillar1Title": "Zero-Downtime Cutover",
+      "pillar1Desc": "Vydání Canary a synchronizace s duálním zápisem do databáze zajišťující nepřerušovaný přístup uživatelů.",
+      "pillar2Title": "Automatizované ověřování dat",
+      "pillar2Desc": "Porovnání kontrolních součtů, audity integrity schémat a automatizované odsouhlasení ETL.",
+      "pillar3Title": "Zpětné bezpečnostní sítě",
+      "pillar3Desc": "Přísné protokoly obnovy po havárii a zkušební cvičení, aby se zabránilo riziku v každé fázi.",
+      "pillar4Title": "Optimalizace výkonu a nákladů",
+      "pillar4Desc": "Včetně řídicích panelů cloudových práv, zásad automatického škálování a řízení nákladů.",
+      "ctaTitle": "Jste připraveni na migraci s naprostou jistotou?",
+      "ctaSub": "Partner s Rezonants pro strukturovaný, bezrizikový cloud a modernizaci dat.",
+      "ctaButton": "Naplánujte si workshop o migraci"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Rychlé ověření a proveditelnost",
+      "titlePart1": "Proof of Concept (PoC) &",
+      "titlePart2": "Pilotní implementace",
+      "description": "Rychlý vývoj a ověřování technologických řešení pro posouzení technické proveditelnosti, obchodní hodnoty, požadavků na integraci, výkonu a škálovatelnosti před implementací v plném rozsahu.",
+      "initiateDiscovery": "Zahájení PoC Discovery",
+      "exploreDevelopment": "Prozkoumejte vlastní vývoj",
+      "coreCapabilities": [
+        "Vývoj PoC",
+        "Prototypové inženýrství",
+        "Studie proveditelnosti",
+        "Validace architektury",
+        "Testování integrace",
+        "Srovnávání výkonu",
+        "Pilotní nasazení",
+        "Posouzení hodnoty"
+      ],
+      "row1Eyebrow": "Rychlé ověření",
+      "row1Title": "Od konceptu k ověřené proveditelnosti",
+      "row1P1": "Přeměna nápadu na podnikové řešení vyžaduje pečlivé ověření předem. Naše služba PoC & Pilot vyhodnocuje životaschopnost technologie, zátěžové testy kritických integračních háčků a ověřuje návratnost investic před významnými kapitálovými závazky.",
+      "row1P2": "Vytváříme vysoce věrné MVP a cílené pilotní projekty v izolovaném prostoru, které prokazují technickou proveditelnost, měří latenci systému a včas shromažďují přímé ověření zúčastněných stran.",
+      "row1Cap": "Rychlé prototypování MVP a technické benchmarky",
+      "row2Eyebrow": "Agilní prototypování",
+      "row2Title": "Interaktivní MVP a UX Validace",
+      "row2P1": "Vytváříme interaktivní drátové modely, uživatelské toky, na které lze kliknout, a funkční ověřování konceptů během dnů, nikoli měsíců. Otestujte skutečné interakce uživatelů, vylepšete vzory uživatelského rozhraní/UX a získejte zpětnou vazbu od zúčastněných stran.",
+      "row2P2": "Zkrácením zpětnovazebních smyček během raného vývoje váš tým minimalizuje přepracování a stanoví jasné technické specifikace před zahájením kapitálově náročných fází výstavby.",
+      "row2Cap": "Rychlá iterace a klikací prototypy UX",
+      "row3Eyebrow": "Testování integrace a škálovatelnosti",
+      "row3Title": "Odstranění rizikových komplexních systémových integrací",
+      "row3P1": "Odhalte technická úzká místa, omezení API a výkonová omezení před plným kapitálovým nasazením. Náš pilotní inženýrský tým zátěžově testuje integrace, datové kanály a rozhraní API třetích stran v izolovaných prostředích izolovaného prostoru.",
+      "row3P2": "Toto proaktivní zmírňování rizik zajišťuje vysokou dostupnost systému, shodu se zabezpečením a předvídatelné časové plány vývoje při přechodu vašeho PoC do podnikové výroby.",
+      "row3Cap": "Integrace sandboxu a zátěžové testování",
+      "row4Eyebrow": "Řízený výrobní pilot",
+      "row4Title": "Cílené pilotní spuštění a ověření obchodního případu",
+      "row4P1": "Nasaďte cílené pilotní verze na vybraný uživatelský segment nebo testovací trh. Sledujte metriky výkonu, analýzy osvojení uživateli a provozní zpětnou vazbu, abyste kvantifikovali obchodní hodnotu a vytvořili obchodní případ podložený daty.",
+      "row4P2": "Díky skutečným pilotním statistikám získají výkonní sponzoři jasné metriky návratnosti investic, které ospravedlní širší nasazení a strategické investice do digitální transformace.",
+      "row4Cap": "Telemetrie řízeného nasazení a výkonu",
+      "pillarsTitle": "Naše principy pilotního inženýrství",
+      "pillarsSub": "Hlavní zásady, které mění technickou nejistotu v předvídatelný obchodní úspěch.",
+      "pillar1Title": "Prototypování PoC a MVP",
+      "pillar1Desc": "Rychle dodávejte funkční prototypy pro ověření hodnotových návrhů v rané fázi životního cyklu.",
+      "pillar2Title": "Proveditelnost a ověření",
+      "pillar2Desc": "Ověřte kompatibilitu rozhraní API, prahové hodnoty propustnosti a omezení shody v prostředích sandbox.",
+      "pillar3Title": "Posouzení škálovatelnosti",
+      "pillar3Desc": "Simulujte produkční zatížení pro stanovení kapacitních limitů a určení velikosti cloudové architektury.",
+      "pillar4Title": "Ověření obchodního případu",
+      "pillar4Desc": "Kvantifikujte hmatatelnou návratnost investic a metriky produktivity pro podporu rozhodnutí o zavedení v rámci celého podniku.",
+      "ctaTitle": "Jste připraveni ověřit své další digitální řešení?",
+      "ctaSub": "Spojte se s naším týmem inženýrů řešení a prozkoumejte požadavky svého projektu, sestavte prototyp a otestujte proveditelnost s nulovým rizikem.",
+      "ctaButton": "Rezervujte si konzultaci PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Centralizované centrum operací",
+      "titlePart1": "Sdílené služby a",
+      "titlePart2": "Řízené operace",
+      "description": "Centralizované poskytování technologií a provozních schopností napříč obchodními jednotkami prostřednictvím standardizovaných procesů, kvalifikovaných zdrojů, rámců řízení, správy služeb a měřitelných úrovní služeb.",
+      "bookDiscovery": "Kniha Managed Operations Discovery",
+      "exploreFramework": "Prozkoumejte rámec řešení",
+      "coreCapabilities": [
+        "Spravované služby",
+        "Provoz IT",
+        "Podpora aplikací",
+        "Správa služeb",
+        "Optimalizace zdrojů",
+        "Správa SLA",
+        "Řízení",
+        "Neustálé zlepšování",
+        "Optimalizace nákladů"
+      ],
+      "row1Eyebrow": "Sjednocené doručovací centrum",
+      "row1Title": "Standardizované služby napříč všemi obchodními jednotkami",
+      "row1P1": "Konsolidujte back-office IT, správu infrastruktury a technickou podporu do jediného vysoce efektivního doručovacího centra.",
+      "row1P2": "Odstraněním duplicitní týmové režie a standardizací modelů poskytování služeb si vaše organizace zajistí stálou kvalitu a sníží celkové provozní náklady.",
+      "row2Eyebrow": "24/7 SRE a podpora aplikací",
+      "row2Title": "Proaktivní monitorování a rychlé řešení incidentů",
+      "row2P1": "Naši specializovaní inženýři spolehlivosti stránek (SRE) a specialisté podpory poskytují nepřetržité sledování telemetrie, automatické třídění výstrah a rychlé řešení problémů L1/L2/L3.",
+      "row2P2": "Díky přísným závazkům SLA garantujeme 99,99% dostupnost pro vaše kritické aplikace a cloudovou infrastrukturu.",
+      "row3Eyebrow": "ITIL Governance & Compliance",
+      "row3Title": "Rámce správy strukturovaných služeb",
+      "row3P1": "Implementujte špičkové standardy ITSM (ServiceNow, Jira Service Management) s transparentním tiketováním, analýzami hlavních příčin a ochrannými zábradlími pro správu změn.",
+      "row3P2": "Komplexní auditní záznamy a zásady řízení zajistí, že vaše operace zůstanou v souladu s mezinárodními bezpečnostními standardy.",
+      "row4Eyebrow": "FinOps a neustálé zlepšování",
+      "row4Title": "Předvídatelné rozpočtování a optimalizace zdrojů",
+      "row4P1": "Eliminujte plýtvání v cloudu, optimalizujte výpočetní velikost a automatizujte běžnou provozní údržbu pomocí osvědčených postupů FinOps.",
+      "row4P2": "Měsíční zprávy o transparentnosti a prognózy kapacity zajišťují nepřetržitou optimalizaci provozních nákladů a vysokou kapitálovou efektivitu.",
+      "pillarsTitle": "Operační pilíře",
+      "pillarsSub": "Osvědčené provozní páky pro spolehlivou škálovatelnost podniku.",
+      "pillar1Title": "24/7 řízený provoz IT",
+      "pillar1Desc": "Proaktivní telemetrie NOC, záplatování serverů, údržba infrastruktury a záruka 99,99% dostupnosti.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Vícekanálový helpdesk úrovně 1/2/3, směrování incidentů a strukturované pracovní postupy řešení tiketů.",
+      "pillar3Title": "SLA a kontrola výkonu",
+      "pillar3Desc": "Smluvně podložené doby odezvy, MTTR benchmarky a transparentní měsíční výkonnostní audity.",
+      "pillar4Title": "FinOps a optimalizace nákladů",
+      "pillar4Desc": "Nepřetržité určování správné velikosti zdrojů, získávání licencí a automatizované snižování nákladů na cloud.",
+      "ctaTitle": "Jste připraveni škálovat své řízené operace?",
+      "ctaSub": "Spolupracujte s Rezonants pro spolehlivé, 24/7 spravované služby, které optimalizují náklady a eliminují provozní prostoje.",
+      "ctaButton": "Rezervujte si konzultaci řízených operací",
+      "howItWorksHeading": "Osvědčená cesta k úspěchu sdílených služeb"
+    },
+    "aiRobotics": {
+      "brand": "AI a robotika",
+      "eyebrow": "Inteligentní systémy",
+      "heroHeading": "Umělá inteligence a robotika spolupracují",
+      "intro": "Umělá inteligence (AI) a robotika mění způsob, jakým podniky fungují, a to kombinací inteligentního rozhodování s pokročilou automatizací. Umělá inteligence umožňuje strojům analyzovat data, učit se vzory a činit chytrá rozhodnutí, zatímco robotika přináší tyto schopnosti do fyzického světa, aby mohly provádět úkoly rychle, přesně a konzistentně.",
+      "section1Heading": "Navrženo pro zefektivnění každé operace",
+      "section1Text": "Naše řešení AI a robotiky pomáhají organizacím zefektivnit operace, snížit manuální úsilí a zvýšit produktivitu v různých odvětvích. Od automatizace procesů a prediktivní analýzy po chytrou robotiku a inteligentní systémy dodáváme inovativní technologie, které zvyšují efektivitu, podporují růst a podporují digitální transformaci.",
+      "section2Heading": "Kde se inteligence setkává s akcí",
+      "section2Text": "Každá interakce, rozhodnutí a pohyb jsou poháněny jediným připojeným systémem – přeměňováním dat na výsledky v reálném čase.",
+      "footerTag": "Inovativní technologie pro digitální transformaci"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Informační a reportovací systémy",
+      "heroSubtitle": "Jediný zdroj pravdy pro každé oddělení – vytvořený tak, aby proměnil nezpracovaná provozní data v rozhodnutí, podle kterých může vaše firma jednat už dnes.",
+      "statusLive": "ŽIVĚ",
+      "statusAnalyzed": "ANALÝZANO",
+      "statusArchived": "ARCHIVOVÁNO",
+      "statusPending": "ČEKÁ",
+      "metricUptime": "Doba provozuschopnosti systému",
+      "metricSessions": "Aktivní relace",
+      "metricReportsPerDay": "Zprávy / den",
+      "metricEvents": "Denně požité události",
+      "metricReports": "Naplánované zprávy",
+      "metricLatency": "Latence API",
+      "unifiedPlatform": "Jednotná platforma",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Reporting Console",
+      "businessOutcome": "Obchodní výsledek",
+      "section1Heading": "Jeden centralizovaný systém pro každou metriku, na které záleží",
+      "section1P1": "Informační a reportovací systémy jsou základní podniková řešení, která organizacím umožňují shromažďovat, spravovat a transformovat data do smysluplných přehledů. Tyto systémy integrují informace z různých oddělení a zajišťují přesný, konzistentní a v reálném čase přístup k důležitým obchodním datům. Poskytnutím centralizované platformy pro správu informací mohou organizace zlepšit provozní viditelnost, zefektivnit pracovní postupy a podpořit strategické rozhodování na všech úrovních podniku.",
+      "section1P2": "Tyto systémy využívají automatizované hlášení, analýzy a řídicí panely ke sledování výkonu, sledování klíčových metrik a generování zpráv v reálném čase. Snížením manuálního úsilí a zlepšením přesnosti dat mohou podniky činit rychlejší a efektivnější rozhodnutí.",
+      "section2Heading": "Vytvořeno pro viditelnost, shodu a měřítko",
+      "section2Text": "Díky lepší viditelnosti, dodržování předpisů a spolupráci umožňují informační a reportovací systémy organizacím optimalizovat procesy, zvyšovat produktivitu a řídit udržitelný obchodní růst v konkurenčním prostředí.",
+      "ctaHeading": "Poskytněte každému týmu stejný obrázek o firmě v reálném čase.",
+      "ctaText": "Podívejte se, jak může Nexus Data Systems konsolidovat vaše přehledy do jedné inteligentní platformy.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Všechna práva vyhrazena.",
+      "navOverview": "Přehled",
+      "navCapabilities": "Schopnosti",
+      "navImpact": "Dopad",
+      "navContact": "Kontakt"
+    },
+    "managedServices": {
+      "subtitle": "Komplexní řízené služby pro vaše podnikání"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernizace podnikových aplikací pro podnik založený na datech",
+      "excerpt": "Jak může moderní architektura aplikací a připojená data zlepšit provozní efektivitu, škálovatelnost a obchodní viditelnost.",
+      "tag": "Transformace podniku",
+      "category": "OBCHODNÍ TRANSFORMACE",
+      "summary": "Moderní aplikační a datový základ může podnikům pomoci zlepšit provozní efektivitu, propojit obchodní systémy a vytvořit lepší přehled o jejich provozech."
+    },
+    "artificial-intelligence": {
+      "title": "Jak AI přetváří podnikové aplikace",
+      "excerpt": "Prozkoumejte, jak se inteligentní automatizace, kopiloti AI a prediktivní inteligence stávají součástí podnikových aplikací, na které se podniky každý den spoléhají.",
+      "tag": "Umělá inteligence",
+      "category": "UMĚLÁ INTELIGENCE",
+      "summary": "Prozkoumejte, jak inteligentní automatizace, kopiloti AI a prediktivní inteligence proměňují každodenní podnikový software na adaptivní proaktivní platformy."
+    },
+    "modern-erp": {
+      "title": "Urychlení transformace podniku pomocí moderního ERP",
+      "excerpt": "Prozkoumejte, jak moderní platformy ERP propojují finance, nákup, dodavatelský řetězec a obchodní operace prostřednictvím jednotné digitální základny.",
+      "tag": "Moderní ERP",
+      "category": "MODERNÍ ERP",
+      "summary": "Moderní platforma ERP propojuje finance, nákup, dodavatelský řetězec a obchodní operace do jednotného provozního modelu v reálném čase."
+    },
+    "cybersecurity": {
+      "title": "Budování kybernetické odolnosti v propojeném podniku",
+      "excerpt": "Prozkoumejte, jak mohou organizace posílit zabezpečení, chránit kritické systémy a připravit se na hrozby ve stále propojených prostředích.",
+      "tag": "Kybernetická bezpečnost",
+      "category": "KYBERBEZPEČNOST",
+      "summary": "Jak podniky integrují více cloudových systémů, rozhraní API a partnerských ekosystémů, kybernetická odolnost zajišťuje, že kritické operace odolají moderním hrozbám."
+    },
+    "cloud-modernization": {
+      "title": "Modernizace starších aplikací pro cloud",
+      "excerpt": "Prozkoumejte praktický přístup k hodnocení, modernizaci a posunu starších aplikací směrem ke škálovatelným a bezpečným cloudovým architekturám.",
+      "tag": "Cloud a modernizace",
+      "category": "CLOUD & MODERNIZACE",
+      "summary": "Strukturovaný, pragmatický plán pro posouzení, refaktorizaci a migraci monolitických podnikových systémů na elastické, udržovatelné cloudové architektury."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "OBCHODNÍ TRANSFORMACE",
+      "title": "Modernizace podnikových aplikací pro podnik založený na datech",
+      "subtitle": "Moderní aplikační a datový základ může podnikům pomoci zlepšit provozní efektivitu, propojit obchodní systémy a vytvořit lepší přehled o jejich provozech.",
+      "date": "září 2026",
+      "readTime": "7 min čtení",
+      "imageCaption": "Enterprise Technology Perspective — Aplikační architektura a připojená data",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Obchodní aplikace",
+          "desc": "Různé starší nástroje CRM, ERP a oddělení běžící v silech."
+        },
+        {
+          "title": "Více zdrojů dat",
+          "desc": "Fragmentované operační tabulky, CSV extrakty a ad-hoc schémata."
+        },
+        {
+          "title": "Odpojené databáze",
+          "desc": "Izolovaná místní a nekoordinovaná cloudová datová úložiště."
+        },
+        {
+          "title": "Přehledy a firemní uživatelé",
+          "desc": "Ruční odsouhlasení, konfliktní tabulky a opožděné hlášení."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Obchodní aplikace",
+          "desc": "Základní operační platformy a moderní responzivní rozhraní."
+        },
+        {
+          "title": "API / Integrační vrstva",
+          "desc": "Bezpečná, událostmi řízená API brána propojující podnikové pracovní postupy."
+        },
+        {
+          "title": "Datové služby",
+          "desc": "Sjednocené modely hlavních dat, kanály a optimalizované úložiště."
+        },
+        {
+          "title": "Analýza a přehledy",
+          "desc": "Telemetrie v reálném čase, sémantické modely a automatizované hlášení."
+        },
+        {
+          "title": "Podnikatelé s rozhodovací pravomocí",
+          "desc": "Živé provozní panely poskytující jednotnou viditelnost vedoucích pracovníků."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Podnikové aplikace",
+          "purpose": "Řízení obchodních procesů"
+        },
+        {
+          "area": "API",
+          "purpose": "Systémová integrace"
+        },
+        {
+          "area": "Databáze",
+          "purpose": "Strukturovaná obchodní data"
+        },
+        {
+          "area": "Integrace dat",
+          "purpose": "Připojení více zdrojů"
+        },
+        {
+          "area": "Analytics",
+          "purpose": "Obchodní statistiky"
+        },
+        {
+          "area": "Cloudová infrastruktura",
+          "purpose": "Škálovatelnost a flexibilita"
+        },
+        {
+          "area": "Monitorování",
+          "purpose": "Spolehlivost a výkon"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Vylepšená provozní viditelnost napříč mezifunkčními jednotkami",
+        "Lepší konzistence dat a jediný zdroj podnikové pravdy",
+        "Snížená náročnost ručního vykazování a automatizovaná kompilace dat",
+        "Vylepšený výkon aplikací a snížená latence transakcí",
+        "Snazší integrace systému prostřednictvím standardizovaných, bezpečných rozhraní API",
+        "Větší škálovatelnost pro podporu organického růstu a akvizice",
+        "Lepší základ pro budoucí inovace a přijetí inteligence"
+      ],
+      "keyPerspectivePoints": [
+        "Pochopení obchodních procesů a skutečných provozních pracovních postupů",
+        "Propojení systémů pomocí spolehlivých integračních standardů",
+        "Zlepšení kvality dat, správy a modelů kmenových dat",
+        "Modernizace aplikací bez destabilizace každodenního provozu",
+        "Vytváření škálovatelné architektury vhodné pro pružný růst",
+        "Umožňuje lepší viditelnost podnikání pro proaktivní rozhodování"
+      ],
+      "sec1Eyebrow": "OBCHODNÍ VÝZVA",
+      "sec1Heading": "Navigace ve složitosti v rostoucím podniku",
+      "sec1Subtext": "S rozšiřováním podniků se technologické ekosystémy nevyhnutelně rozšiřují. To, co začíná jako cílená řešení pro jednotlivá oddělení, se může vyvinout ve spletitou síť nesourodých systémů.",
+      "sec2Eyebrow": "EVOLUCE SYSTÉMU",
+      "sec2Heading": "Komplexní technologická krajina",
+      "sec2Subtext": "Otisky starších aplikací zavádějí fragmentaci datových úložišť, uživatelské zkušenosti a provozní viditelnost.",
+      "sec3Eyebrow": "PŘIPOJENÝ MODEL",
+      "sec3Heading": "Moderní aplikační architektura",
+      "sec3Subtext": "Přechod od monolitických sil k odděleným službám propojeným zabezpečenými rozhraními API a streamováním dat řízenými událostmi.",
+      "sec4Eyebrow": "INTELIGENCE & VIDITELNOST",
+      "sec4Heading": "Propojená data a analýzy",
+      "sec4Subtext": "Odemykání datových sil pro automatické vytváření sestav, jednotné řídicí panely a proaktivní obchodní rozhodnutí.",
+      "sec5Eyebrow": "MODROTIS ARCHITEKTURY",
+      "sec5Heading": "Technologická nadace",
+      "sec5Subtext": "Strukturovaný pohled na klíčové architektonické vrstvy umožňující celopodnikovou konektivitu a škálovatelnost.",
+      "sec6Eyebrow": "KVALITATIVNÍ HODNOTA",
+      "sec6Heading": "Obchodní dopad",
+      "sec6Subtext": "Měřitelné provozní zisky dosažené prostřednictvím modernizace aplikací a propojených datových základů.",
+      "ctaHeading": "Jste připraveni modernizovat prostředí vaší podnikové aplikace?",
+      "ctaDescription": "Prozkoumejte, jak může společnost Rezonants spolupracovat s vaším vedením při architektuře, sestavování a nasazování jednotných aplikačních platforem a moderních datových kanálů.",
+      "ctaButton": "Promluvte si s Enterprise Architectem",
+      "sec1P1": "V typickém podnikovém prostředí růst často přináší více generací softwaru. Finance, dodavatelský řetězec, zákaznický servis a operace v terénu často fungují na samostatných softwarových hromadách získaných nebo vytvořených v různých časech. Během let provozního vývoje si tyto systémy vyvíjejí své vlastní datové formáty, kadence aktualizací a integrační vtipy.",
+      "sec1P2": "Tření se projevuje napříč podnikem prostřednictvím běžných provozních úzkých míst:",
+      "sec1List": [
+        {
+          "bold": "Více odpojených podnikových aplikací",
+          "text": ", které vyžadují duplicitní zadávání dat a ruční křížové odkazy."
+        },
+        {
+          "bold": "Odpojené databáze",
+          "text": "fungující bez centralizovaného řízení nebo sjednocených kmenových záznamů."
+        },
+        {
+          "bold": "Manuální hlášení režie",
+          "text": ", kde analytické týmy tráví dny spojováním exportů spíše než odhalováním poznatků."
+        },
+        {
+          "bold": "Nekonzistence dat",
+          "text": "napříč odděleními, což vytváří protichůdné odpovědi na základní provozní otázky."
+        },
+        {
+          "bold": "Limity režie a škálovatelnosti údržby aplikací",
+          "text": ", protože křehká starší spojení point-to-point se snaží podporovat rostoucí objemy transakcí."
+        }
+      ],
+      "sec1P3": "Řešení těchto výzev vyžaduje nahlížet na technologické prostředí nikoli jako na soubor izolovaných nákupů softwaru, ale jako na propojenou obchodní platformu navrženou pro podporu strategické agility.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Fragmentovaný tok informací",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Datová sila",
+          "desc": "Rozhodující zákaznická, finanční a inventární data zůstávají uvězněna v platformách oddělení, což brání jednotnému jednotnému pohledu na obchodní operace."
+        },
+        {
+          "num": "02",
+          "title": "Integrační mezery",
+          "desc": "Point-to-point připojení a noční dávkové extrakty vytvářejí latenci, vysokou poruchovost a nákladnou režii na údržbu napříč provozními týmy."
+        },
+        {
+          "num": "03",
+          "title": "Informace o zpoždění",
+          "desc": "Když manažeři musí čekat dny na odsouhlasení na konci měsíce, aby pochopili výkon, rozhodování je spíše reaktivní než prediktivní."
+        }
+      ],
+      "modernArchitectureBadge": "Cílová architektura",
+      "modernArchitectureTitle": "Připojený podnikový aplikační model",
+      "sec3P1": "Moderní aplikační architektura nahrazuje křehká spojení point-to-point agilním, odděleným základem. Vytvořením robustního rozhraní API a integrační vrstvy systémy interagují prostřednictvím řízených a zabezpečených koncových bodů při zachování autonomie jednotlivých obchodních jednotek.",
+      "sec3P2": "Mezi klíčové technické možnosti tohoto architektonického posunu patří:",
+      "sec3List": [
+        {
+          "bold": "Modernizace aplikace:",
+          "text": "Rozdělení základní obchodní logiky do škálovatelných modulárních služeb."
+        },
+        {
+          "bold": "Integrace API:",
+          "text": "Vytvoření standardizovaných, zdokumentovaných rozhraní pro interní a partnerskou interoperabilitu."
+        },
+        {
+          "bold": "Integrace dat a optimalizace databáze:",
+          "text": "Sjednocení provozních datových kanálů s vysoce výkonnou optimalizací dotazů."
+        },
+        {
+          "bold": "Pozorovatelnost a zabezpečení:",
+          "text": "Implementace centralizované telemetrie, auditních záznamů a řízení přístupu na základě rolí ve všech službách."
+        }
+      ],
+      "sec4P1": "Integrované datové základy mění způsob, jakým vedení a provozní týmy interagují s informacemi. Namísto spoléhání se na retrospektivní zprávy, které ukazují, co se stalo před týdny, organizace získávají živou provozní telemetrii napříč obchodními jednotkami.",
+      "sec4P2": "Propojená data a analýzy podporují udržitelné obchodní výsledky prostřednictvím:",
+      "sec4List": [
+        {
+          "bold": "Provozní viditelnost:",
+          "text": "Nepřetržitá transparentnost prodeje, zásob, plnění a finanční výkonnosti."
+        },
+        {
+          "bold": "Rychlejší kadence hlášení:",
+          "text": "Agregace dat na vyžádání, která eliminuje opakované ruční tabulky."
+        },
+        {
+          "bold": "Konzistentní informace:",
+          "text": "Jednotné definice pro metriky, jako je marže, celoživotní hodnota zákazníka a rychlost potenciálního zákazníka."
+        },
+        {
+          "bold": "Lepší obchodní statistiky:",
+          "text": "Prediktivní detekce vzorů, která včas odhalí rizika a příležitosti."
+        },
+        {
+          "bold": "Vylepšené rozhodování:",
+          "text": "Spolehlivá výkonná činnost podpořená ověřenou linií dat a transparentností."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGICKÁ PERSPEKTIVA",
+      "keyPerspectiveTitle": "Modernizace je víc než jen výměna softwaru",
+      "keyPerspectiveLead": "Modernizace podnikových aplikací neznamená pouze nahrazení starého softwaru novými nástroji. Jde o záměrné sladění technologie s tím, jak firma funguje, škáluje a dodává hodnotu."
+    },
+    "artificialIntelligence": {
+      "category": "UMĚLÁ INTELIGENCE",
+      "title": "Jak AI přetváří podnikové aplikace",
+      "subtitle": "Prozkoumejte, jak se inteligentní automatizace, kopiloti AI a prediktivní inteligence stávají součástí podnikových aplikací, na které se podniky každý den spoléhají.",
+      "date": "září 2026",
+      "readTime": "6 minut čtení",
+      "imageCaption": "Perspektiva podnikových technologií — Nativní inteligence a automatizované pracovní postupy",
+      "aiUseCases": [
+        {
+          "title": "Prognóza dodavatelského řetězce",
+          "desc": "Předpovídání nárůstů poptávky a logistických zpoždění z historické dodavatelské telemetrie."
+        },
+        {
+          "title": "Automatizovaný audit faktur",
+          "desc": "Extrahování řádkových položek a párování s nákupními objednávkami s nulovým vstupem člověka."
+        },
+        {
+          "title": "Inteligentní servisní pulty",
+          "desc": "Třídění a automatické řešení požadavků IT a HR zaměstnanců Tier-1."
+        },
+        {
+          "title": "Prevence odchodu zákazníků",
+          "desc": "Behaviorální shlukování identifikující rané signály tření pro proaktivní dosah."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Rychlejší provozní rozhodnutí řízená prediktivními modely v reálném čase",
+        "Omezení opakovaného zpracování dat a ručního odsouhlasování",
+        "Vyšší propustnost zaměstnanců s kontextovou pomocí druhého pilota",
+        "Vyšší spokojenost zákazníků díky hyperpersonalizovaným zkušenostem",
+        "Nepřetržitá samooptimalizace procesu založená na reálné telemetrii",
+        "Sledování shody bez rizika prostřednictvím automatizované kontroly protokolu auditu"
+      ],
+      "governancePoints": [
+        "Přísný přístup na základě rolí zajišťuje, že modely umělé inteligence nikdy neuniknou citlivá data",
+        "Transparentní stopy uvažování umožňující lidský přezkum akcí s vysokou hodnotou",
+        "Průběžné vyhodnocování modelu k ochraně před halucinacemi a zaujatostí",
+        "Přísné standardy provenience dat v souladu s GDPR, SOC 2 a HIPAA",
+        "Cesty eskalace člověka ve smyčce pro nejisté okrajové podmínky"
+      ],
+      "sec1Eyebrow": "POSUN K NATIVNÍ INTELIGENCI",
+      "sec1Heading": "AI v podnikových aplikacích",
+      "sec1Subtext": "Umělá inteligence se posouvá za hranice samostatného experimentování do jádra každodenních podnikových systémů.",
+      "sec2Eyebrow": "AUTOMATIZACE V MĚŘÍTKU",
+      "sec2Heading": "Inteligentní automatizace",
+      "sec2Subtext": "Nahrazení křehkých rutin založených na pravidlech kognitivními pracovními postupy, které interpretují dokumenty, směrují výjimky a přizpůsobují se.",
+      "sec3Eyebrow": "EMBEDDED ASISTENCE",
+      "sec3Heading": "Enterprise AI Copilots",
+      "sec3Subtext": "Kontextově orientovaní asistenti zabudovaní do podnikových aplikací, kteří pomáhají znalostním pracovníkům při analýze dat, dokumentaci a provozních dotazech.",
+      "sec4Eyebrow": "DŮLEŽITÉ ZDŮVODNĚNÍ",
+      "sec4Heading": "Prediktivní inteligence",
+      "sec4Subtext": "Přechod od zpětně vypadajících retrospektivních zpráv k proaktivním rozhodovacím nástrojům, které předvídají provozní poruchy.",
+      "sec5Eyebrow": "APLIKACE PRO SKUTEČNÝ SVĚT",
+      "sec5Heading": "Případy použití Enterprise AI",
+      "sec5Subtext": "Demonstrované aplikace poskytující měřitelné zvýšení efektivity napříč provozními podnikovými doménami.",
+      "sec6Eyebrow": "STRATEGICKÁ HODNOTA",
+      "sec6Heading": "Obchodní výhody",
+      "sec6Subtext": "Hmatatelné zvýšení produktivity a provozní agilita realizované přijetím podnikové umělé inteligence.",
+      "ctaHeading": "Jste připraveni integrovat nativní umělou inteligenci do vašich podnikových aplikací?",
+      "ctaDescription": "Spojte se s praxí umělé inteligence Rezonants a navrhněte, vyhodnoťte a nasaďte podnikové kopiloty umělé inteligence a inteligentní automatizační motory.",
+      "ctaButton": "Poraďte se s odborníkem na AI",
+      "sec1P1": "Po léta byla podniková umělá inteligence považována za externí schopnost: model trénovaný v izolaci, ukázka sandboxu nebo izolovaný chatbot přístupný prostřednictvím samostatného portálu. Dnes se paradigma zásadně posunulo. Podniková umělá inteligence s vysokým dopadem je zabudována přímo do systémů evidence – ERP, CRM, platforem lidského kapitálu a motorů dodavatelského řetězce, kde dochází ke skutečnému podnikání.",
+      "sec1P2": "Když inteligence funguje uvnitř systému záznamů, zdědí zavedené bezpečnostní hranice organizace, datové modely a obchodní logiku. Negeneruje pouze obecné odpovědi; jedná na základě aktuálních objednávek, interpretuje otevřené lístky podpory, odsouhlasuje dodavatelské faktury a pomáhá zaměstnancům přesně v rozhraních, kterými se každý den pohybují.",
+      "sec1P3": "Tato transformace posouvá podnikový software z pasivních databází, které čekají na stisknutí lidských kláves, do proaktivních platforem, které předvídají potřeby, automatizují kroky a objevují včasná doporučení.",
+      "sec2P1": "Tradiční automatizace robotických procesů (RPA) vynikala v deterministickém, opakovaném stírání obrazovky. Sady pevných pravidel se však poruší, kdykoli se změní formulář, přijde neočekávané rozvržení dokumentu nebo dojde k výjimce. Inteligentní automatizace překlenuje toto rozdělení tím, že kombinuje kognitivní uvažování s prováděním transakcí:",
+      "sec2List": [
+        {
+          "bold": "Automatizace pracovního postupu:",
+          "text": "Organizace komplexních operací napříč odděleními, směrování úloh na základě naléhavosti a historických cest řešení."
+        },
+        {
+          "bold": "Inteligentní zpracování dokumentů:",
+          "text": "Zpracování nestrukturovaných PDF, e-mailů, přepravních manifestů a smluv, jejich převod do strukturovaných databázových transakcí."
+        },
+        {
+          "bold": "Inteligentní automatizace úloh:",
+          "text": "Automatizace vícestupňového provozního ověřování – jako je párování nákupních objednávek s účtenkami a bankovními výpisy."
+        },
+        {
+          "bold": "Optimalizace procesu:",
+          "text": "Průběžná analýza protokolů procesů za účelem identifikace úzkých míst v průběhu cyklu a doporučování cílených vylepšení pracovních postupů."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Hledání informací",
+          "desc": "Sémantické vyhledávání napříč distribuovanými znalostními bázemi, intranetovými zásadami, specifikacemi produktů a historickými rozlišeními lístků bez hádání klíčových slov."
+        },
+        {
+          "icon": "📝",
+          "title": "Sumarizace dokumentů",
+          "desc": "Okamžitá destilace dlouhých RFP, dohod s dodavateli, technických specifikací a právních dodatků do použitelných pokynů pro vedoucí pracovníky a kontrolních seznamů rizik."
+        },
+        {
+          "icon": "✨",
+          "title": "Generování obsahu",
+          "desc": "Asistované vypracování návrhů klientů, provozní dokumentace, standardních operačních postupů (SOP) a standardizovaných zákaznických aktualizací v souladu se standardy značky."
+        },
+        {
+          "icon": "📈",
+          "title": "Analýza dat",
+          "desc": "Převádění konverzačních dotazů do komplexních analytických dotazů, generování průběžných souhrnů grafů a zdůrazňování kritických odlehlých hodnot pro vedení."
+        },
+        {
+          "icon": "🔄",
+          "title": "Obchodní pracovní postupy",
+          "desc": "Zahájení transakcí přímo z výzev chatu – jako je plánování zdrojů, vytváření lístků, aktualizace záznamů nebo odesílání požadavků na nákup."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Role-Grounded Access",
+          "desc": "Zajištění, aby reakce druhého pilota přísně respektovaly úrovně uživatelských oprávnění, aby byly chráněny důvěrné finanční údaje, HR soubory a duševní vlastnictví."
+        }
+      ],
+      "sec4P1": "Zatímco generativní modely vynikají v porozumění a syntéze jazyka, prediktivní inteligence se zaměřuje na matematické vzorce skryté ve strukturovaných podnikových datových sadách. Vestavěné prediktivní modely umožňují organizacím předvídat provozní překážky dříve, než naruší provoz:",
+      "sec4List": [
+        {
+          "bold": "Provozní prognóza:",
+          "text": "Předpovídání trendů příjmů, rychlosti zásob a požadavků na zdroje pomocí syntézy sezónních ukazatelů s rychlostí potrubí v reálném čase."
+        },
+        {
+          "bold": "Prediktivní analýza:",
+          "text": "Určení rizik odchodu zákazníků, cyklů degradace údržby a zpoždění dodavatelského řetězce, dokud je ještě čas zasáhnout."
+        },
+        {
+          "bold": "Identifikace rizika:",
+          "text": "Označování anomálií ve finančních transakcích, protokolech dodržování předpisů a vzorcích zásobování dodavatelem dříve, než dojde k jejich eskalaci."
+        },
+        {
+          "bold": "Predikce poptávky:",
+          "text": "Harmonizace předpovědí prodeje s výrobní kapacitou a úrovněmi skladových zásob za účelem ochrany pracovního kapitálu."
+        }
+      ],
+      "keyPerspectiveEyebrow": "SPRÁVA PODNIKU",
+      "keyPerspectiveTitle": "Důvěra, dohled a zábradlí",
+      "keyPerspectiveLead": "Umělá inteligence je pouze tak spolehlivá jako datový základ pod ní a řízení, které ji obklopuje. Přijetí udržitelného podnikání vyžaduje promyšlenou architektonickou disciplínu:"
+    },
+    "modernErp": {
+      "category": "MODERNÍ ERP",
+      "title": "Urychlení transformace podniku pomocí moderního ERP",
+      "subtitle": "Prozkoumejte, jak moderní platformy ERP propojují finance, nákup, dodavatelský řetězec a obchodní operace prostřednictvím jednotné digitální základny.",
+      "date": "září 2026",
+      "readTime": "7 min čtení",
+      "imageCaption": "Enterprise Technology Perspective — Propojené ERP a provozní agilita",
+      "connectedFunctions": [
+        {
+          "title": "Finanční řízení",
+          "desc": "Aktualizace účetních knih v reálném čase, automatické účtování výnosů a okamžité odsouhlasení více měn."
+        },
+        {
+          "title": "Dodavatelský řetězec a logistika",
+          "desc": "Kompletní přehled o zásobách, optimalizace skladu a telemetrie výkonu dodavatele."
+        },
+        {
+          "title": "Lidský kapitál a pracovní síla",
+          "desc": "Samoobslužné zaměstnanecké portály, automatizované zpracování mezd a integrované plánování životního cyklu talentů."
+        },
+        {
+          "title": "Obstarávání a zásobování",
+          "desc": "Automatizované schvalování nákupů, dodržování smluv s dodavateli a dynamická analýza výdajů."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-Native Architecture",
+          "desc": "Elastické výpočetní škálování bez režie místní infrastruktury nebo rušivého zamykání verzí."
+        },
+        {
+          "title": "Otevřený ekosystém API",
+          "desc": "Předem zabudované konektory umožňující bezproblémovou obousměrnou synchronizaci dat s vlastními mikroslužbami a sadami CRM."
+        },
+        {
+          "title": "Embedded Analytics",
+          "desc": "Přímé rozbalení řídicích panelů z rozvah na vysoké úrovni do jednotlivých protokolů transakcí."
+        },
+        {
+          "title": "Automatizované spouštěče pracovních postupů",
+          "desc": "Spouštěče událostí řízené událostmi, které autonomně provádějí standardní operace mezi odděleními."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Jediný zdroj pravdy eliminující konfliktní zprávy oddělení",
+        "Drastické snížení cyklů uzavření na konci měsíce a na konci čtvrtletí",
+        "Přehled zásob v reálném čase a logistika minimalizující zásoby",
+        "Snížení režie údržby IT díky modulárním cloudovým aktualizacím",
+        "Jednotné sledování dodržování předpisů napříč multiregionálními daňovými jurisdikcemi",
+        "Rychlejší onboarding získaných subjektů do sdílených provozních páteří"
+      ],
+      "erpStrategyPoints": [
+        "Sladění architektury ERP s hlavními provozními pracovními postupy před konfigurací",
+        "Výběr modulárních modelů nasazení pro dosažení rychlých milníků",
+        "Upřednostnění vysoce kvalitní migrace kmenových dat a odsouhlasení",
+        "Začlenění automatizovaného řízení změn a školicích programů přizpůsobených rolím",
+        "Návrh rozhraní API pro budoucí rozšíření integrace bez tření"
+      ],
+      "sec1Eyebrow": "PROVOZNÍ PÁTEŘ",
+      "sec1Heading": "Proč na moderním ERP záleží",
+      "sec1Subtext": "Efektivita podniku závisí na bezproblémové synchronizaci dat napříč financemi, nákupy, operacemi a lidským kapitálem.",
+      "sec2Eyebrow": "INTEGROVANÝ EKOSYSTÉM",
+      "sec2Heading": "Připojené obchodní funkce",
+      "sec2Subtext": "Rozbití tradičních oddělení oddělení, aby transakční data mohla okamžitě proudit napříč obchodními jednotkami.",
+      "sec3Eyebrow": "MÍSTO FUNKČNÍ HARMONIE",
+      "sec3Heading": "Jednotný provoz a tok informací",
+      "sec3Subtext": "Propojená digitální páteř zajišťující, že prodejní smlouvy okamžitě aktualizují objednávky dodavatelského řetězce a finanční knihy.",
+      "sec4Eyebrow": "PODNIKOVÉ TELEMETRIE",
+      "sec4Heading": "Obchodní viditelnost v reálném čase",
+      "sec4Subtext": "Živé provozní informace nahrazující zpožděné retrospektivní tabulky okamžitými ukazateli výkonu.",
+      "sec5Eyebrow": "ARCHITEKTURA ZÁKLADNÍ PLATFORMY",
+      "sec5Heading": "Moderní možnosti ERP",
+      "sec5Subtext": "Architektonické základy, které odlišují agilní cloudové platformy od starších monolitických systémů.",
+      "sec6Eyebrow": "KVALITATIVNÍ DOPAD",
+      "sec6Heading": "Obchodní výhody",
+      "sec6Subtext": "Hmatatelná organizační rychlost, transparentnost a nákladová efektivita odblokovaná moderními platformami ERP.",
+      "ctaHeading": "Jste připraveni modernizovat páteř vašeho podnikového ERP?",
+      "ctaDescription": "Zjistěte, jak vám Rezonants může pomoci rozšířit, nakonfigurovat a integrovat modulární platformy ERP přizpůsobené vašim obchodním operacím.",
+      "ctaButton": "Promluvte si s architektem ERP",
+      "sec1P1": "V rychle se měnících podnikových prostředích tradiční systémy plánování podnikových zdrojů často bojují. Starší ERP, postavené v éře dávkového zpracování a izolovaných lokálních serverů, byly značně přizpůsobené, obtížně upgradovatelné a bolestně neprůhledné. Rozhodující obchodní operace fungovaly v paralelních silech a spoléhaly na křehké noční exporty, které synchronizovaly účetní knihy se sklady.",
+      "sec1P2": "Moderní, cloudově nativní ERP tuto dynamiku zásadně předefinuje. Funguje jako jednotná digitální páteř podniku – živá základna, kde finance, nákup, dodavatelský řetězec, zásoby a lidské zdroje probíhají na sdíleném datovém modelu.",
+      "sec1P3": "Spojením základních operací do jednotného harmonizovaného prostředí odstraňuje moderní ERP provozní slepá místa, která zpomalují růst, a umožňuje vedoucím pracovníkům řídit podnik pomocí signálů v reálném čase spíše než zastaralých historických souhrnů.",
+      "sec3P1": "Provozní sila jsou jen zřídka problémy lidí; jsou to architektonické problémy. Když týmy zákaznických služeb, nákupu a skladu pracují v odpojených aplikacích, každé předání vyžaduje ruční e-maily, tabulky a telefonní hovory. Chyby se množí, faktury se zadržují a závazky zákazníků propadají.",
+      "sec3P2": "Moderní ERP to řeší prostřednictvím sjednoceného datového vedení a orchestrace procesů řízené událostmi:",
+      "sec3List": [
+        {
+          "bold": "Synchronizovaná objednávka-to-hotovost:",
+          "text": "Po zadání objednávky zákazníka se zásoby automaticky zarezervují, generují se přepravní štítky a okamžitě se aktualizují účetní knihy."
+        },
+        {
+          "bold": "Transparentnost nákupu a platby:",
+          "text": "Nákupní objednávky, příjemky zboží a faktury dodavatele se automaticky shodují s 3cestným odsouhlasením, přičemž pro kontrolu člověkem jsou označeny pouze výjimky."
+        },
+        {
+          "bold": "Jednotná mzdová a provozní kalkulace:",
+          "text": "Časové výkazy projektu, alokace mezd a přímé provozní výdaje se mapují přímo do nákladových středisek v reálném čase."
+        }
+      ],
+      "sec4P1": "Provozovat podnik bez jednotné viditelnosti je jako létat v husté mlze se zpožděnými přístroji. Moderní ERP poskytuje telemetrii v reálném čase napříč všemi dimenzemi podnikání:",
+      "sec4List": [
+        {
+          "bold": "Živé řídicí panely:",
+          "text": "Okamžitý pohled na hrubé marže, provozní peněžní toky, otevřené závazky a nevyřízené objednávky bez čekání na uzávěrku období."
+        },
+        {
+          "bold": "Samoobslužné provozní hlášení:",
+          "text": "Vedoucí oddělení mohou vytvářet vlastní dotazy a procházet ze souhrnů na podnikové úrovni k jednotlivým řádkovým položkám transakcí."
+        },
+        {
+          "bold": "Centralizované hlavní informace:",
+          "text": "Eliminace protichůdných čísel vytvořením jednotlivých řízených kmenových dat pro zákazníky, dodavatele a katalogy produktů."
+        },
+        {
+          "bold": "Proaktivní upozornění na anomálie:",
+          "text": "Automatická upozornění okamžitě upozorní manažery, když marže klesnou pod prahovou hodnotu, dojde sklad nebo dojde k výpadku dodávek dodavatele."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOZOFIE TRANSFORMACE ERP",
+      "keyPerspectiveTitle": "Pragmatická modernizace přes generální opravu monolitu",
+      "keyPerspectiveLead": "Moderní transformace ERP je úspěšná, když k ní organizace přistupují jako k evolučnímu provoznímu upgradu spíše než k přerušení IT typu všechno nebo nic:"
+    },
+    "cybersecurity": {
+      "category": "KYBERBEZPEČNOST",
+      "title": "Budování kybernetické odolnosti v propojeném podniku",
+      "subtitle": "Prozkoumejte, jak mohou organizace posílit zabezpečení, chránit kritické systémy a připravit se na hrozby ve stále propojených prostředích.",
+      "date": "září 2026",
+      "readTime": "8 min čtení",
+      "imageCaption": "Perspektiva podnikových technologií – ochrana před hrozbami a architektura nulové důvěry",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrie a detekce",
+          "desc": "Příjem protokolu v reálném čase a korelace anomálií SIEM napříč všemi koncovými body cloudu a pracovní zátěží."
+        },
+        {
+          "title": "Zadržování a izolace",
+          "desc": "Automatizovaná pravidla síťové karantény, která okamžitě izolují ohrožené kontejnery nebo přihlašovací údaje."
+        },
+        {
+          "title": "Náprava a kořenová příčina",
+          "desc": "Rychlé zavádění oprav a digitální forenzní identifikování přesného vektoru porušení."
+        },
+        {
+          "title": "Odolnost a zpevnění",
+          "desc": "Nepřetržitá zpětná vazba do neměnných záloh, bezpečnostních zábradlí a automatických simulací červeného týmu."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Podstatné snížení počtu útoků na zranitelnost napříč cloudovými prostředky",
+        "Zaručená provozní kontinuita a obnova po havárii s minimálním RTO/RPO",
+        "Celková důvěra v soulad s audity ISO 27001, SOC 2, HIPAA a GDPR",
+        "Ochrana základního podnikového duševního vlastnictví a důvěrných záznamů zákazníků",
+        "Zjednodušené řízení rizik dodavatelů a třetích stran prostřednictvím jednotného řízení přístupu",
+        "Posílená důvěra klientů a investorů podpořená ověřenými bezpečnostními pozicemi s nulovou důvěrou"
+      ],
+      "zeroTrustPrinciples": [
+        "Never Trust, Always Verify: Explicitní ověření požadované pro každou transakci",
+        "Nejméně privilegovaný přístup: Zrnité hranice rolí omezující pohyb bočních hrozeb",
+        "Předpokládejme porušení: Nepřetržité sledování hrozeb, šifrování při přenosu a v klidu",
+        "Mikrosegmentace: Síťové firewally izolující pracovní zátěž jednotlivých aplikací",
+        "Kontinuální telemetrie: Automatická analýza chování označující anomální požadavky na relace"
+      ],
+      "sec1Eyebrow": "ROZŠIŘUJÍCÍ SE OBVOD",
+      "sec1Heading": "Propojené podnikové zabezpečení",
+      "sec1Subtext": "Jak podniky přijímají cloudové služby, distribuované vzdálené týmy a zařízení internetu věcí, tradiční hranice zabezpečení se ruší.",
+      "sec2Eyebrow": "KOMPLEXNÍ OBRANA",
+      "sec2Heading": "Vícevrstvá ochrana před hrozbami",
+      "sec2Subtext": "Koordinace zpravodajství o hrozbách, skenování zranitelnosti a automatizované reakce na incidenty v celém technologickém balíčku.",
+      "sec3Eyebrow": "NOVÁ BEZPEČNOSTNÍ HRANICE",
+      "sec3Heading": "Správa identit a přístupu (IAM)",
+      "sec3Subtext": "Identita je primární řídicí rovina. Granulární přístup, MFA a SSO zajišťují, že k obchodním systémům mají přístup pouze autorizovaní principálové.",
+      "sec4Eyebrow": "ARCHITEKTONICKÉ PARADIGMA",
+      "sec4Heading": "Demystifikující architekturu nulové důvěry",
+      "sec4Subtext": "Základní bezpečnostní myšlení založené na neustálém ověřování, explicitní autorizaci a předpokládaném kompromisu.",
+      "sec5Eyebrow": "ŘÍZENÍ INFRASTRUKTURY",
+      "sec5Heading": "Úvahy o zabezpečení cloudu",
+      "sec5Subtext": "Řešení modelů sdílené odpovědnosti, Infrastruktura jako ochranné zábradlí kódu a ochrana za běhu Kubernetes.",
+      "sec6Eyebrow": "PROVOZNÍ ODOLNOST",
+      "sec6Heading": "Připravenost na nehody: Mimo prevenci",
+      "sec6Subtext": "Příprava strukturovaných runbooků, automatických cvičení pro zadržování a neměnných záloh obnovy po havárii pro celkovou provozní odolnost.",
+      "sec7Eyebrow": "STRATEGICKÁ HODNOTA",
+      "sec7Heading": "Obchodní výhody",
+      "sec7Subtext": "Odolnost podniku, ověřování souladu a ochrana pověsti značky díky moderní kybernetické obraně.",
+      "ctaHeading": "Jste připraveni posílit kybernetickou odolnost vašeho podniku?",
+      "ctaDescription": "Spolupracujte s bezpečnostními postupy Rezonants při auditu architektur, implementaci rámců Zero Trust a ochraně kriticky důležitých systémů.",
+      "ctaButton": "Poraďte se s kybernetickým architektem",
+      "sec1P1": "V éře starého podnikového IT fungovalo zabezpečení na doktríně hradu a příkopu: vše uvnitř podnikové kancelářské sítě bylo považováno za důvěryhodné, zatímco vše mimo bylo považováno za nedůvěryhodné. Jeden podnikový firewall chránil interní servery, databáze a stolní počítače.",
+      "sec1P2": "Dnešní podnik přerostl fyzické zdi. Pracovní zátěž se nachází v multicloudových prostředích (AWS, Azure, GCP), zaměstnanci přistupují k podnikovým aplikacím z různých míst a rozhraní API si neustále vyměňují citlivá provozní data s externími poskytovateli logistiky, finančními institucemi a prodejci SaaS.",
+      "sec1P3": "Zatímco tato hyperkonektivita podporuje ohromnou obchodní agilitu, výrazně rozšiřuje prostor pro podnikové útoky. Každý koncový bod API, token identity, připojené mobilní zařízení a integrace SaaS představují potenciální vektor expozice. Skutečná podniková ochrana vyžaduje přechod od ochrany založené na perimetru k proaktivní, komplexní kybernetické odolnosti.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Detekce hrozeb",
+          "desc": "Inteligence hrozeb asistovaná strojovým učením, která v reálném čase monitoruje anomální síťové vzorce, zneužití přihlašovacích údajů a zranitelnosti zero-day."
+        },
+        {
+          "icon": "📡",
+          "title": "Monitorování zabezpečení",
+          "desc": "Telemetrie Centralized Security Operations Center (SOC) korelující události napříč servery, clustery kontejnerů, poskytovateli identit a koncovými body."
+        },
+        {
+          "icon": "🔍",
+          "title": "Správa zranitelnosti",
+          "desc": "Nepřetržité automatizované skenování zranitelností napříč infrastrukturou, úložišti zdrojového kódu a registry kontejnerů za účelem proaktivního odstraňování slabých míst."
+        },
+        {
+          "icon": "🔒",
+          "title": "Ochrana dat",
+          "desc": "Robustní šifrování při přenosu (TLS 1.3) a v klidu (AES-256), spolu s granulárním řízením prevence ztráty dat (DLP), aby se zabránilo úniku duševního vlastnictví."
+        }
+      ],
+      "sec3P1": "Ochrana podnikových aktiv vyžaduje zajištění toho, aby každá identita – ať už lidský vedoucí pracovník, externí dodavatel nebo účet autonomní softwarové služby – měla ověřenou autorizaci pro přesné zdroje, ke kterým přistupuje.",
+      "sec3List": [
+        {
+          "bold": "Centralizovaná správa identit:",
+          "text": "Single Sign-On (SSO) a standardy federované identity, které eliminují fragmentovaná úložiště hesel napříč aplikacemi."
+        },
+        {
+          "bold": "Adaptivní vícefaktorové ověřování (MFA):",
+          "text": "Hardwarové klíče FIDO2 odolné proti phishingu a kontextové výzvy založené na riziku pro citlivé administrativní funkce."
+        },
+        {
+          "bold": "Granulární řízení přístupu:",
+          "text": "Jemné řízení přístupu založené na rolích (RBAC) a na základě atributů (ABAC) vynucené na úrovni API a databáze."
+        },
+        {
+          "bold": "Principy nejméně privilegií:",
+          "text": "Udělení dočasného, just-in-time (JIT) přístupu, jehož platnost vyprší automaticky po dokončení administrativních úkolů."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NULOVÁ DOKTRÍNA ZÁKLADNÍ DŮVĚRY",
+      "keyPerspectiveTitle": "Nepřetržité ověřování přes slepou důvěru",
+      "keyPerspectiveLead": "V architektuře Zero Trust je implicitní důvěryhodnost založená na umístění v síti zcela odstraněna. Každá transakce, databázový dotaz a přihlášení uživatele musí neustále prokazovat svou legitimitu:",
+      "cloudSecurityCards": [
+        {
+          "title": "Sdílená odpovědnost",
+          "desc": "Jasné řízení odlišující zabezpečení fyzické infrastruktury poskytovatele cloudu od odpovědnosti podniku za šifrování dat, zásady IAM a kód aplikace."
+        },
+        {
+          "title": "Infrastruktura jako kód (IaC)",
+          "desc": "Neměnné, auditovatelné cloudové konfigurace spravované pomocí kódu. Automatizované skenery zásad jako kódu blokují nesprávné konfigurace a odhalené segmenty před nasazením."
+        },
+        {
+          "title": "Zabezpečení kontejnerů a Kubernetes",
+          "desc": "Posílené běhové prostředí kontejnerů, podepsané registry obrázků, mikrosegmentace sítě a automatizovaná správa tajných informací, která chrání přihlašovací údaje mimo zdrojová úložiště."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "CLOUD & MODERNIZACE",
+      "title": "Modernizace starších aplikací pro cloud",
+      "subtitle": "Prozkoumejte praktický přístup k hodnocení, modernizaci a posunu starších aplikací směrem ke škálovatelným a bezpečným cloudovým architekturám.",
+      "date": "září 2026",
+      "readTime": "6 min čtení",
+      "imageCaption": "Podniková technologická perspektiva — Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (zvednutí a posun)",
+          "desc": "Rychle převádějte úlohy na cloudové virtuální stroje s minimálními úpravami kódu."
+        },
+        {
+          "title": "Replatforma (Lift & Reshape)",
+          "desc": "Upgradujte běhové rámce, osvojte si spravované cloudové databáze a zefektivněte operace."
+        },
+        {
+          "title": "Refaktor (cloud-nativní přestavba)",
+          "desc": "Dekonstruujte monolity na kontejnerizované mikroslužby a událostmi řízená rozhraní API bez serveru."
+        },
+        {
+          "title": "Nahradit (modernizace SaaS)",
+          "desc": "Ukončení redundantních starších systémů ve prospěch účelově vytvořeného podnikového cloudového softwaru."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Hodnocení starší verze",
+          "desc": "Automatické mapování závislostí, technická katalogizace dluhů a hodnocení připravenosti na cloud."
+        },
+        {
+          "title": "Cílová architektura",
+          "desc": "Modulární návrhy mikroslužeb, topologie kontejnerů a automatizované šablony IaC."
+        },
+        {
+          "title": "Fázovaná migrace",
+          "desc": "Vydání Canary, synchronizace dat s duálním zápisem a přerušovací vlny s nulovým prostojem."
+        },
+        {
+          "title": "Optimalizace cloudu",
+          "desc": "Průběžné řízení nákladů, telemetrie automatického škálování a provozní kontroly FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Exponenciálně nižší náklady na údržbu infrastruktury a obnovu hardwaru",
+        "Téměř nekonečná výpočetní elasticita zvládá špičkový podnikový provoz s nulovou latencí",
+        "Zrychlená rychlost uvolňování s plně automatizovanými kanály nasazení CI/CD",
+        "Eliminace starších samostatných bodů selhání díky vysoké dostupnosti multi-AZ",
+        "Moderní architektury API umožňující rychlou integraci partnerů napříč platformami",
+        "Pokročilá sledovatelnost výkonu aplikací a cloudových výdajů v reálném čase"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mapování složitých meziaplikačních závislostí a kadencí synchronizace dat",
+        "Identifikace pevně zakódovaných konfigurací prostředí a proprietárních databázových schémat",
+        "Posouzení dodržování předpisů a omezení suverenity dat podle jurisdikce",
+        "Výpočet realistických celkových nákladů na vlastnictví (TCO) napříč cestami refactor versus rehost",
+        "Vytvoření jasných vln zavádění pro ochranu aktivních každodenních obchodních operací"
+      ],
+      "sec1Eyebrow": "REALITA STARŠÍCH SYSTÉMŮ",
+      "sec1Heading": "Legacy Challenge",
+      "sec1Subtext": "Stárnoucí monolity omezují rychlost inovací, zvyšují provozní zranitelnost a eskalují náklady na údržbu infrastruktury.",
+      "sec2Eyebrow": "POSOUZENÍ A OBJEVOVÁNÍ",
+      "sec2Heading": "Pochopení prostředí aplikace",
+      "sec2Subtext": "Důsledné zjišťování architektury za účelem mapování závislostí dat, verzí softwaru a modernizace ROI před migrací.",
+      "sec3Eyebrow": "4 CESTY MODERNIZACE",
+      "sec3Heading": "Modernizační přístupy",
+      "sec3Subtext": "Výběr správného vzoru migrace pro každou pracovní zátěž: rehosting, replatforming, refaktoring nebo nahrazení.",
+      "sec4Eyebrow": "CÍLOVÝ TRANSFORMAČNÍ MODEL",
+      "sec4Heading": "Moderní cloudová architektura",
+      "sec4Subtext": "Navrhování odolných mikroslužeb, spravovaných databází a kanálů automatizovaného nasazení vhodných pro vysokou škálovatelnost.",
+      "sec5Eyebrow": "VÝSLEDKY TRANSFORMACE",
+      "sec5Heading": "Klíčové výhody modernizace",
+      "sec5Subtext": "Významná agilita, snížení nákladů a spolehlivost, které přináší transformace nativní cloud.",
+      "ctaHeading": "Jste připraveni modernizovat své starší aplikace pro cloud?",
+      "ctaDescription": "Spolupracujte s cloudovými architekty společnosti Rezonants a vyhodnoťte závislosti, sestavte plány migrace a bezpečně převeďte své systémy.",
+      "ctaButton": "Promluvte si s cloudovým specialistou",
+      "sec1P1": "Kritické aplikace postavené před deseti lety stále přinášejí miliardy podnikových příjmů, ale jejich architektonická rigidita vytváří rostoucí provozní riziko.",
+      "sec1P2": "Každý podnik čelí napětí mezi stabilitou a modernizací. Starší systémy byly navrženy s ohledem na dlouhou životnost a spolehlivě fungovaly po celá léta. Jak se však obchodní požadavky zrychlují, tyto stárnoucí architektury narážejí na strukturální limity:",
+      "sec1List": [
+        {
+          "bold": "Stárnoucí sady softwaru:",
+          "text": "Monolitické kódové základny postavené na zastaralých rámcích s zmenšujícími se fondy talentů dostupnými pro údržbu."
+        },
+        {
+          "bold": "Obtížné cykly údržby:",
+          "text": "Pevně propojené komponenty, kde změna jedné funkce riskuje rozbití nesouvisejících operačních modulů."
+        },
+        {
+          "bold": "Omezená škálovatelnost:",
+          "text": "Vertikální škálovací limity, které vyžadují nákup drahého proprietárního hardwaru pro zvládnutí sezónních špiček provozu."
+        },
+        {
+          "bold": "Integrační výzvy:",
+          "text": "Neschopnost hladkého propojení s moderními mobilními aplikacemi, zákaznickými portály nebo partnerskými API bez křehkých dávkových skriptů."
+        },
+        {
+          "bold": "Infrastrukturní omezení:",
+          "text": "Životní cykly fyzické serverové místnosti, zranitelnosti zálohování a vysoké provozní náklady na napájení/chlazení."
+        }
+      ],
+      "sec2P1": "Pragmatická cesta modernizace začíná vytvořením úplného přehledu ve stávajícím pozemku:",
+      "sec2List": [
+        {
+          "bold": "Aplikace:",
+          "text": "Katalogizace všech aktivních úloh, vlastních modulů, skriptů na pozadí a historických balíčků třetích stran."
+        },
+        {
+          "bold": "Závislosti:",
+          "text": "Mapování komplexního propojení za běhu, sdílených databázových tabulek, přímých volání systému souborů a externích servisních smluv."
+        },
+        {
+          "bold": "Údaje:",
+          "text": "Vyhodnocování datových struktur, požadavků na integritu transakcí, kadence zálohování a pravidla regulační suverenity."
+        },
+        {
+          "bold": "Infrastruktura:",
+          "text": "Auditování CPU, paměti, využití úložiště a propustnosti sítě podle specifikací cílového cloudu správné velikosti."
+        },
+        {
+          "bold": "Obchodní kritičnost:",
+          "text": "Kategorizace aplikací do vrstev pro návrh bezpečných, postupných migračních vln s jasnými záložními postupy."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Výhoda:",
+      "cloudArchitectureBadge": "Životní cyklus modernizace",
+      "cloudArchitectureTitle": "End-to-End tok modernizace cloudu",
+      "sec4P1": "Cílová architektura odděluje základní aplikace do modulárních kontejnerových služeb hostovaných na elastických cloudových platformách (jako je Kubernetes nebo spravovaná běhová prostředí bez serveru).",
+      "sec4P2": "Zavedením automatizovaných kanálů pro nasazování CI/CD, automatizovaných modro-zelených přerušování a infrastruktury jako kódu se nasazení transformuje z nervy drásajících víkendových akcí na bezproblémové každodenní rutiny.",
+      "sec4P3": "Elastické výpočty se automaticky škálují během nárůstu poptávky a snižují během přestávek, čímž se eliminují náklady na nečinné zdroje a zároveň jsou globálním uživatelům zaručeny doby odezvy do méně než sekundy.",
+      "keyPerspectiveEyebrow": "NEJLEPŠÍ POSTUPY MODERNIZACE",
+      "keyPerspectiveTitle": "Čtyři pilíře úspěšné migrace",
+      "keyPerspectiveLead": "Zkušenosti ukazují, že modernizační projekty jsou úspěšné, pokud jsou založeny na komplexní přípravě, jasném sekvenování vln a přísném testování:"
+    }
+  }
+}

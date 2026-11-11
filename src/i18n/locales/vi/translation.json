@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Giới thiệu về",
+    "services": "Dịch vụ",
+    "products": "Sản phẩm",
+    "perspectives": "Quan điểm",
+    "technologies": "Công nghệ",
+    "contact": "Liên hệ",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "signOut": "Đăng xuất",
+    "chooseLanguage": "Chọn ngôn ngữ của bạn",
+    "searchLanguage": "Tìm kiếm ngôn ngữ",
+    "resetEnglish": "Đặt lại về tiếng Anh",
+    "noResults": "Không tìm thấy ngôn ngữ",
+    "englishDefault": "Tiếng Anh (Mặc định)",
+    "english": "Tiếng Anh"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Phần mềm được thiết kế phù hợp với cách <em>doanh nghiệp của bạn</em> vận hành.",
+    "description": "Rezonants là một công ty dịch vụ CNTT và sản phẩm kỹ thuật số. Chúng tôi thiết kế, xây dựng và mở rộng quy mô phần mềm tùy chỉnh, sản phẩm web và thiết bị di động, cơ sở hạ tầng đám mây và AI — dành cho các công ty cạnh tranh về mặt thực thi.",
+    "bookConsultation": "Đăng ký tư vấn miễn phí",
+    "exploreServices": "Khám phá dịch vụ",
+    "years": "năm",
+    "projects": "dự án",
+    "retention": "duy trì",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — kể từ năm 2012",
+    "metaStudio": "Studio sản phẩm kỹ thuật số",
+    "metaTech": "Web · Di động · Đám mây · AI"
+  },
+  "about": {
+    "eyebrow": "Về chúng tôi",
+    "title": "Xây dựng các giải pháp kỹ thuật số <em>Đưa doanh nghiệp phát triển</em>",
+    "description": "Rezonants là công ty giải pháp công nghệ tập trung vào việc giúp các doanh nghiệp biến ý tưởng thành trải nghiệm kỹ thuật số có ý nghĩa. Chúng tôi kết hợp công nghệ, sự sáng tạo và hiểu biết về kinh doanh để cung cấp các giải pháp được thiết kế theo nhu cầu thực tế.<br /><br />Từ chuyển đổi kỹ thuật số và phát triển phần mềm tùy chỉnh đến đám mây, AI, tự động hóa và các dịch vụ công nghệ được quản lý, chúng tôi giúp các tổ chức đơn giản hóa sự phức tạp, nâng cao hiệu quả và tạo ra giá trị kỹ thuật số lâu dài.<br /><br /><strong>Phương pháp tiếp cận của chúng tôi rất đơn giản — hiểu doanh nghiệp, giải quyết vấn đề phù hợp và xây dựng công nghệ mang lại hiệu quả.</strong>",
+    "awardWinning": "Giành giải thưởng",
+    "awardText": "Được công nhận về khả năng phân phối xuất sắc trên web và kỹ thuật sản phẩm di động.",
+    "professionalStaff": "Nhân Viên Chuyên Nghiệp",
+    "staffText": "Các kỹ sư cấp cao, có trách nhiệm làm chủ công việc từ cuộc gọi đầu tiên cho đến khi đi vào hoạt động.",
+    "support247": "Hỗ trợ 24/7",
+    "supportText": "Các dịch vụ được quản lý và đường dây hỗ trợ sẽ trả lời khi bạn cần.",
+    "fairPrices": "Giá hợp lý",
+    "pricesText": "Ước tính trung thực và thanh toán minh bạch cho mỗi lần tham gia.",
+    "yearsExcellence": "Năm doanh nghiệp xuất sắc"
+  },
+  "stats": {
+    "happyClients": "Khách hàng vui vẻ",
+    "projectsDone": "Dự án đã thực hiện",
+    "winAwards": "Giành giải thưởng"
+  },
+  "insights": {
+    "eyebrow": "Quan điểm",
+    "title": "Quan điểm",
+    "sub": "Khám phá các ý tưởng, xu hướng và công nghệ định hình tương lai.",
+    "filters": {
+      "all": "Tất cả",
+      "digital-transformation": "Chuyển đổi kỹ thuật số",
+      "ai": "AI & Tự động hóa",
+      "cloud": "Đám mây",
+      "data": "Dữ liệu & Phân tích",
+      "software": "Phần mềm",
+      "business": "Kinh doanh & Công nghệ"
+    },
+    "readMore": "Đọc thêm",
+    "close": "Đóng",
+    "keyTakeaways": "Những bài học kiến ​​trúc quan trọng",
+    "relatedServices": "Khả năng & Dịch vụ Liên quan",
+    "minRead": "phút đọc",
+    "item1Date": "Tháng 7 năm 2026",
+    "item1Tag": "Sản phẩm & ERP",
+    "item1Title": "Cách tiếp cận ERP theo mô-đun dành cho các doanh nghiệp đang phát triển",
+    "item1Text": "Cách chúng tôi cấu trúc các cam kết ERP để tài chính, hàng tồn kho, nhân sự và mua sắm tích hợp liền mạch mà không bị gián đoạn trong nhiều năm.",
+    "item2Date": "Tháng 6 năm 2026",
+    "item2Tag": "Trí tuệ nhân tạo",
+    "item2Title": "Hệ thống AI tự động: chuyển từ chatbot sang thực thi tự động",
+    "item2Text": "Kiến trúc các hệ thống LLM đa tác nhân phối hợp lập kế hoạch, xác thực và thực hiện các quy trình công việc kinh doanh phức tạp với sự giám sát của con người trong vòng lặp.",
+    "item3Date": "Tháng 5 năm 2026",
+    "item3Tag": "Cột mốc quan trọng của công ty",
+    "item3Title": "Được công nhận trong số các studio đổi mới CNTT hàng đầu ở Hyderabad",
+    "item3Text": "Xưởng kỹ thuật của chúng tôi đã được công nhận về khả năng cung cấp sản phẩm xuất sắc, khả năng công nghệ chuyên sâu và sự hài lòng của khách hàng về kỹ thuật sản phẩm toàn cầu.",
+    "desc": "Khám phá các ý tưởng và quan điểm từ Rezonants về chuyển đổi kỹ thuật số, AI, tự động hóa, đám mây, dữ liệu, phần mềm và tương lai của công nghệ kinh doanh.",
+    "categories": {
+      "digitalTransformation": "Chuyển đổi kỹ thuật số",
+      "ai": "AI & Tự động hóa",
+      "cloud": "Đám mây",
+      "data": "Dữ liệu & Phân tích",
+      "software": "Phần mềm",
+      "business": "Kinh doanh & Công nghệ"
+    }
+  },
+  "technologies": {
+    "title": "Công nghệ & Kiến trúc",
+    "headline": "Giải pháp Công nghệ Doanh nghiệp",
+    "sub": "Công nghệ thông minh. Hoạt động tự động. Kinh doanh thông minh hơn.",
+    "selectTechnology": "Lựa chọn giải pháp công nghệ…",
+    "options": {
+      "aiRobotics": "Giải pháp AI & Robot",
+      "businessAutomation": "Giải pháp tự động hóa doanh nghiệp",
+      "cloudMigrations": "Giải pháp di chuyển đám mây",
+      "dataCenters": "Giải pháp Trung tâm Dữ liệu",
+      "cognitiveAnalytics": "Phân tích nhận thức & AI",
+      "informationReporting": "Hệ thống thông tin & báo cáo",
+      "managedServices": "Dịch vụ được quản lý",
+      "oneStopSolutions": "Giải pháp công nghệ toàn diện"
+    },
+    "explore": "Khám phá công nghệ",
+    "bookDiscovery": "Sách Khám phá công nghệ",
+    "exploreAll": "Khám phá tất cả công nghệ",
+    "coreCapabilities": "Năng lực công nghệ cốt lõi",
+    "bookConsultation": "Đặt lịch tư vấn"
+  },
+  "contact": {
+    "eyebrow": "Liên hệ",
+    "title": "Nói chuyện với kỹ sư cấp cao, không phải kịch bản bán hàng",
+    "sub": "Hãy chia sẻ một chút về dự án của bạn và chúng tôi sẽ phản hồi trong vòng một ngày làm việc.",
+    "reachUs": "Liên hệ trực tiếp với chúng tôi",
+    "preferConversation": "Thích một cuộc trò chuyện? Chúng tôi chỉ cách nhau một cuộc gọi.",
+    "contactLede": "Cách nhanh nhất để tiến về phía trước là một cuộc trò chuyện ngắn. Hãy liên hệ với chúng tôi trên bất kỳ kênh nào bên dưới hoặc đặt chỗ và chúng tôi sẽ đến với bạn với sự chuẩn bị sẵn sàng.",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "office": "Văn phòng",
+    "hours": "Giờ",
+    "hoursValue": "Thứ Hai – Thứ Bảy, 9:30 – 18:30 IST",
+    "bookSlot": "Đặt chỗ tư vấn",
+    "sendMessage": "Gửi tin nhắn cho chúng tôi",
+    "fieldsRequired": "Các trường được đánh dấu * là bắt buộc.",
+    "fullName": "Tên đầy đủ *",
+    "emailLabel": "Email *",
+    "company": "Công ty",
+    "subject": "Chủ đề",
+    "messageLabel": "Tin nhắn *",
+    "sending": "Đang gửi…",
+    "sendBtn": "Gửi tin nhắn",
+    "successMsg": "Đã gửi tin nhắn! Một bản sao đã được gửi qua email cho bạn.",
+    "errorMsg": "Không thể lưu tin nhắn của bạn. Hãy kiểm tra xem bảng contact_messages có tồn tại không, sau đó thử lại.",
+    "offices": {
+      "vijayawada": "Văn phòng Vijayawada",
+      "southAfrica": "Văn phòng Nam Phi"
+    },
+    "placeholders": {
+      "fullName": "Tên đầy đủ của bạn",
+      "email": "bạn@company.com",
+      "company": "Công ty hoặc tổ chức của bạn",
+      "subject": "Chúng tôi có thể giúp gì?",
+      "message": "Hãy cho chúng tôi biết về dự án, tiến trình và mục tiêu của bạn..."
+    },
+    "validation": {
+      "fullNameRequired": "Vui lòng nhập tên đầy đủ của bạn.",
+      "emailRequired": "Vui lòng nhập địa chỉ email của bạn.",
+      "emailInvalid": "Vui lòng nhập địa chỉ email hợp lệ.",
+      "messageRequired": "Vui lòng nhập tin nhắn."
+    }
+  },
+  "services": {
+    "eyebrow": "Dịch vụ",
+    "title": "Chúng tôi làm gì",
+    "sub": "Từ chiến lược đến hoạt động được quản lý, chúng tôi cung cấp các mối quan hệ đối tác công nghệ toàn diện cho các công ty cạnh tranh về thực thi.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Bắt đầu đến triển khai",
+        "description": "Phát triển toàn diện các giải pháp kỹ thuật số mới từ yêu cầu kinh doanh và kiến ​​trúc giải pháp thông qua phát triển, tích hợp, thử nghiệm, triển khai và hỗ trợ liên tục."
+      },
+      "businessProcessAutomation": {
+        "label": "Tự động hóa quy trình kinh doanh",
+        "description": "Thiết kế và triển khai các giải pháp tự động hóa thông minh giúp hợp lý hóa quy trình kinh doanh, loại bỏ các hoạt động thủ công lặp đi lặp lại, nâng cao hiệu quả hoạt động và đẩy nhanh kết quả kinh doanh."
+      },
+      "centerOfExcellence": {
+        "label": "Trung tâm xuất sắc",
+        "description": "Thành lập các trung tâm năng lực kinh doanh và công nghệ chuyên biệt cung cấp khả năng quản trị, tiêu chuẩn, kiến ​​thức chuyên môn, khuôn khổ, tài sản có thể tái sử dụng và cải tiến liên tục trong toàn tổ chức."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Phát triển & Tùy chỉnh tùy chỉnh",
+        "description": "Phát triển và nâng cao các ứng dụng, nền tảng, quy trình làm việc và giải pháp doanh nghiệp để giải quyết các yêu cầu kinh doanh riêng biệt và cung cấp chức năng phù hợp."
+      },
+      "digitalTransformation": {
+        "label": "Chuyển đổi kỹ thuật số",
+        "description": "Hiện đại hóa hoạt động kinh doanh, hệ sinh thái công nghệ và trải nghiệm khách hàng thông qua đám mây, AI, tự động hóa, dữ liệu và các công nghệ ứng dụng hiện đại."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Khung giải pháp toàn diện",
+        "description": "Một phương pháp cung cấp toàn diện bao gồm toàn bộ vòng đời công nghệ—từ chiến lược, yêu cầu và kiến ​​trúc đến phát triển, tích hợp, triển khai, quản trị, giám sát và hỗ trợ."
+      },
+      "migrationModernization": {
+        "label": "Di cư & Hiện đại hóa",
+        "description": "Di chuyển an toàn và có cấu trúc các ứng dụng, dữ liệu, nền tảng, cơ sở hạ tầng và khối lượng công việc từ môi trường cũ hoặc môi trường hiện có sang nền tảng công nghệ hiện đại, có thể mở rộng và tối ưu hóa."
+      },
+      "pocPilotImplementation": {
+        "label": "Bằng chứng về khái niệm (PoC) & Triển khai thí điểm",
+        "description": "Phát triển và xác nhận nhanh chóng các giải pháp công nghệ để đánh giá tính khả thi về mặt kỹ thuật, giá trị kinh doanh, yêu cầu tích hợp, hiệu suất và khả năng mở rộng trước khi triển khai trên quy mô toàn diện."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Dịch vụ chia sẻ & Hoạt động được quản lý",
+        "description": "Cung cấp tập trung công nghệ và khả năng vận hành cho các đơn vị kinh doanh thông qua các quy trình được tiêu chuẩn hóa, nguồn lực có kỹ năng, khung quản trị, quản lý dịch vụ và mức độ dịch vụ có thể đo lường được."
+      },
+      "customDevelopment": {
+        "label": "Bắt đầu đến triển khai",
+        "description": "Phát triển toàn diện các giải pháp kỹ thuật số mới từ yêu cầu kinh doanh và kiến ​​trúc giải pháp thông qua phát triển, tích hợp, thử nghiệm, triển khai và hỗ trợ liên tục."
+      },
+      "processAutomation": {
+        "label": "Tự động hóa quy trình kinh doanh",
+        "description": "Thiết kế và triển khai các giải pháp tự động hóa thông minh giúp hợp lý hóa quy trình kinh doanh, loại bỏ các hoạt động thủ công lặp đi lặp lại, nâng cao hiệu quả hoạt động và đẩy nhanh kết quả kinh doanh."
+      },
+      "solutionEngineering": {
+        "label": "Phát triển & Tùy chỉnh tùy chỉnh",
+        "description": "Phát triển và nâng cao các ứng dụng, nền tảng, quy trình làm việc và giải pháp doanh nghiệp để giải quyết các yêu cầu kinh doanh riêng biệt và cung cấp chức năng phù hợp."
+      },
+      "endToEndSolutions": {
+        "label": "Khung giải pháp toàn diện",
+        "description": "Một phương pháp cung cấp toàn diện bao gồm toàn bộ vòng đời công nghệ—từ chiến lược, yêu cầu và kiến ​​trúc đến phát triển, tích hợp, triển khai, quản trị, giám sát và hỗ trợ."
+      },
+      "migrationServices": {
+        "label": "Di cư & Hiện đại hóa",
+        "description": "Di chuyển an toàn và có cấu trúc các ứng dụng, dữ liệu, nền tảng, cơ sở hạ tầng và khối lượng công việc từ môi trường cũ hoặc môi trường hiện có sang nền tảng công nghệ hiện đại, có thể mở rộng và tối ưu hóa."
+      },
+      "pilotPrototyping": {
+        "label": "Bằng chứng về khái niệm (PoC) & Triển khai thí điểm",
+        "description": "Phát triển và xác nhận nhanh chóng các giải pháp công nghệ để đánh giá tính khả thi về mặt kỹ thuật, giá trị kinh doanh, yêu cầu tích hợp, hiệu suất và khả năng mở rộng trước khi triển khai trên quy mô toàn diện."
+      },
+      "sharedServices": {
+        "label": "Dịch vụ chia sẻ & Hoạt động được quản lý",
+        "description": "Cung cấp tập trung công nghệ và khả năng vận hành cho các đơn vị kinh doanh thông qua các quy trình được tiêu chuẩn hóa, nguồn lực có kỹ năng, khung quản trị, quản lý dịch vụ và mức độ dịch vụ có thể đo lường được."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Đặt lịch tư vấn",
+      "exploreFramework": "Khám phá khung giải pháp",
+      "talkSeniorEngineer": "Nói Chuyện Với Kỹ Sư Cấp Cao",
+      "exploreTechStack": "Khám phá ngăn xếp công nghệ",
+      "bookPocSession": "Đặt một phiên khám phá PoC",
+      "seeAllServices": "Xem Tất Cả Dịch Vụ",
+      "requestAssessment": "Yêu cầu đánh giá di chuyển",
+      "exploreCloudSolutions": "Khám phá Giải pháp đám mây"
+    },
+    "sharedServices": {
+      "heroBadge": "DỊCH VỤ CHIA SẺ & QUẢN LÝ HOẠT ĐỘNG",
+      "heroTitle": "Dịch vụ chia sẻ dành cho doanh nghiệp & Hoạt động được quản lý",
+      "heroDesc": "Mở rộng khả năng kinh doanh, hợp lý hóa quy trình công việc đa chức năng và đạt được sự xuất sắc trong hoạt động thông qua các mô hình dịch vụ chia sẻ được tiêu chuẩn hóa, an toàn và tiết kiệm chi phí.",
+      "bookDiscovery": "Sách Khám phá hoạt động quản lý",
+      "exploreFramework": "Khám phá Khung giải pháp",
+      "coreCapabilities": "Khả năng cốt lõi:",
+      "managedServices": "Dịch vụ được quản lý",
+      "itOperations": "Hoạt động CNTT",
+      "appSupport": "Hỗ trợ ứng dụng",
+      "serviceManagement": "Quản lý dịch vụ",
+      "resourceOptimization": "Tối ưu hóa tài nguyên",
+      "slaManagement": "Quản lý SLA",
+      "governance": "Quản trị",
+      "continuousImprovement": "Cải tiến liên tục",
+      "costOptimization": "Tối ưu hóa chi phí",
+      "readyTitle": "Sẵn sàng để tối ưu hóa hoạt động của bạn?",
+      "readyDesc": "Khám phá cách các khuôn khổ Dịch vụ chia sẻ & Hoạt động được quản lý của chúng tôi có thể nâng cao chất lượng dịch vụ, đảm bảo tính liên tục trong hoạt động và thúc đẩy hiệu quả chi phí bền vững cho doanh nghiệp của bạn.",
+      "scheduleSession": "Lên lịch một phiên khám phá"
+    },
+    "solutionEngineering": {
+      "heroBadge": "GIẢI PHÁP KỸ THUẬT & KIẾN TRÚC",
+      "heroTitle": "Phát triển & Tùy chỉnh tùy chỉnh",
+      "heroDesc": "Kiến trúc sư, kỹ sư và triển khai các hệ thống phần mềm hiệu suất cao được thiết kế dành riêng cho quy trình hoạt động, đường dẫn dữ liệu và yêu cầu quy mô của bạn."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "ĐỔI MỚI & THỬ NGHIỆM NHANH CHÓNG",
+      "heroTitle": "Bằng chứng về khái niệm (PoC) & Triển khai thí điểm",
+      "heroDesc": "Xác thực các công nghệ mới nổi, giảm thiểu rủi ro cho kiến ​​trúc phức tạp và chứng minh giá trị kinh doanh bằng các nguyên mẫu cấp sản xuất trong vài tuần chứ không phải hàng quý."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "KIẾN TRÚC CUỘC SỐNG & GIAO HÀNG",
+      "heroTitle": "Khung giải pháp toàn diện",
+      "heroDesc": "Mô hình phân phối hợp nhất kết nối khám phá sản phẩm, kiến ​​trúc giải pháp, kỹ thuật, cơ sở hạ tầng đám mây và hoạt động đáng tin cậy 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "HẠ TẦNG & HIỆN ĐẠI HÓA DI SẢN",
+      "heroTitle": "Di cư & Hiện đại hóa",
+      "heroDesc": "Chuyển đổi liền mạch các khối lượng công việc cũ, kiến ​​trúc nguyên khối và cơ sở hạ tầng tại chỗ sang nền tảng đám mây hiện đại, an toàn và có thể mở rộng."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Hiện đại hóa doanh nghiệp",
+        "titlePart1": "Kỹ thuật số",
+        "titlePart2": "Chuyển đổi",
+        "description": "Hiện đại hóa hoạt động kinh doanh, hệ sinh thái công nghệ và trải nghiệm khách hàng thông qua đám mây, AI, tự động hóa, dữ liệu và các công nghệ ứng dụng hiện đại.",
+        "bookWorkshop": "Hội thảo chuyển đổi sách",
+        "exploreFramework": "Khám phá Khung giải pháp",
+        "startTransformation": "Bắt đầu chuyển đổi",
+        "exploreStrategy": "Khám phá chiến lược",
+        "coreCapabilitiesTitle": "Năng lực cốt lõi",
+        "coreCapabilities": [
+          "Chiến lược kỹ thuật số",
+          "Chuyển đổi đám mây",
+          "AI & Tự động hóa",
+          "Hiện đại hóa ứng dụng",
+          "Hiện đại hóa kế thừa",
+          "Dữ liệu & Phân tích",
+          "Trải nghiệm khách hàng",
+          "Hiện đại hóa công nghệ"
+        ],
+        "row1Eyebrow": "Chiến lược & Lộ trình",
+        "row1Title": "Từ tầm nhìn đến lộ trình thực thi",
+        "row1P1": "Chúng tôi hợp tác với các nhà lãnh đạo doanh nghiệp để xác định chiến lược kỹ thuật số, các trường hợp kinh doanh và lộ trình theo từng giai đoạn nhằm mang lại chiến thắng nhanh chóng và thực hiện giảm thiểu rủi ro.",
+        "row1P2": "Các sáng kiến ​​ưu tiên, mô hình TCO và KPI đảm bảo mọi nỗ lực hiện đại hóa công nghệ đều gắn trực tiếp với doanh thu, hiệu quả và kết quả làm hài lòng khách hàng.",
+        "row2Eyebrow": "Hiện đại hóa kế thừa",
+        "row2Title": "Hiện đại hóa mà không phá vỡ hoạt động kinh doanh",
+        "row2P1": "Tái lập nền tảng nguyên khối cho các vi dịch vụ, API và các mẫu gốc đám mây với khả năng cắt giảm thời gian ngừng hoạt động bằng 0 và xác thực hồi quy tự động.",
+        "row2P2": "Chúng tôi hiện đại hóa các ứng dụng, cơ sở dữ liệu và các lớp tích hợp trong khi vẫn duy trì tình trạng tuân thủ và bảo mật.",
+        "row3Eyebrow": "Đám mây, AI & Dữ liệu",
+        "row3Title": "Áp dụng đám mây và trí tuệ dựa trên dữ liệu",
+        "row3P1": "Áp dụng AWS, Azure và GCP, xây dựng đường dẫn dữ liệu hiện đại và nhúng các tác nhân machine learning để đưa ra các quyết định tự chủ.",
+        "row3P2": "Từ phát trực tiếp sự kiện theo thời gian thực đến bảng thông tin hợp nhất, quá trình chuyển đổi trở nên có thể đo lường được và bền vững.",
+        "row4Eyebrow": "Trải nghiệm khách hàng",
+        "row4Title": "Trải nghiệm Omnichannel hiện đại",
+        "row4P1": "Thiết kế lại hành trình của khách hàng trên các cổng web đáp ứng, iOS, Android và cổng tự phục vụ với giao diện được cá nhân hóa.",
+        "row4P2": "Kỹ thuật nền tảng, đo từ xa và các vòng phản hồi tự động giúp cho quá trình đổi mới kỹ thuật số diễn ra liên tục.",
+        "pillarsTitle": "Trụ cột chuyển hóa",
+        "pillarsSub": "Đòn bẩy tập trung vào kết quả để đảm bảo khả năng lãnh đạo kỹ thuật số bền vững.",
+        "pillar1Title": "Chiến lược kỹ thuật số và quản trị",
+        "pillar1Desc": "Kế hoạch chi tiết chuyển đổi theo từng giai đoạn với mô hình hóa trường hợp kinh doanh, quản trị kiến trúc và theo dõi rủi ro theo các mốc quan trọng.",
+        "pillar2Title": "Nền tảng đám mây & dữ liệu",
+        "pillar2Desc": "Nền tảng đa đám mây AWS/Azure/GCP, quy trình tự động và hỗ trợ phân tích dữ liệu doanh nghiệp.",
+        "pillar3Title": "AI & Tự động hóa",
+        "pillar3Desc": "Tự động hóa quy trình thông minh, tác nhân AI nhận thức và dự đoán từ xa để tối ưu hóa hoạt động hàng ngày.",
+        "pillar4Title": "Trải nghiệm khách hàng",
+        "pillar4Desc": "Cổng kỹ thuật số đa kênh có khả năng chuyển đổi cao và giao diện được cá nhân hóa được xây dựng để giữ chân người dùng tối đa.",
+        "ctaTitle": "Bạn đã sẵn sàng chuyển đổi doanh nghiệp của mình chưa?",
+        "ctaSub": "Hợp tác với Rezonants để chuyển đổi kỹ thuật số theo từng giai đoạn, giảm rủi ro gắn liền với kết quả kinh doanh có thể đo lường được.",
+        "ctaButton": "Đặt cuộc gọi chuyển đổi số"
+      },
+      "customDevelopment": {
+        "eyebrow": "Kỹ thuật số toàn diện",
+        "titlePart1": "Bắt đầu đến",
+        "titlePart2": "Triển khai",
+        "bookConsultation": "Đặt lịch tư vấn",
+        "exploreEngineering": "Khám phá Giải pháp Kỹ thuật"
+      },
+      "processAutomation": {
+        "eyebrow": "Quy trình vận hành thông minh",
+        "titlePart1": "Quy trình kinh doanh",
+        "titlePart2": "Tự động hóa",
+        "bookDiscovery": "Khám phá tự động hóa sách",
+        "exploreCoE": "Khám phá Trung tâm Xuất sắc"
+      },
+      "centreOfExcellence": {
+        "badge": "COE Rezonants",
+        "titlePart1": "Trung tâm",
+        "titlePart2": "Xuất sắc",
+        "bookConsultation": "Sách tư vấn CoE",
+        "exploreCapabilities": "Khám phá khả năng"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Vòng đời công nghệ hoàn chỉnh",
+        "titlePart1": "Từ đầu đến cuối",
+        "titlePart2": "Khung giải pháp",
+        "startJourney": "Bắt đầu hành trình vòng đời của bạn",
+        "exploreTransformation": "Khám phá sự chuyển đổi"
+      },
+      "migrationServices": {
+        "eyebrow": "Chuyển đổi đám mây & cơ sở hạ tầng",
+        "titlePart1": "Di chuyển &",
+        "titlePart2": "Hiện đại hóa",
+        "planMigration": "Lập kế hoạch di chuyển của bạn",
+        "exploreTransformation": "Khám phá sự chuyển đổi"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Xác thực nhanh chóng và khả thi",
+        "titlePart1": "Bằng chứng về khái niệm (PoC) &",
+        "titlePart2": "Triển khai thí điểm",
+        "initiateDiscovery": "Bắt đầu khám phá PoC",
+        "exploreDevelopment": "Khám phá phát triển tùy chỉnh"
+      },
+      "solutionEngineering": {
+        "badge": "Kỹ thuật số phù hợp",
+        "bookConsultation": "Đặt lịch tư vấn",
+        "exploreCapabilities": "Khám phá khả năng"
+      },
+      "sharedServices": {
+        "eyebrow": "Trung tâm điều hành tập trung",
+        "titlePart1": "Dịch vụ chia sẻ &",
+        "titlePart2": "Hoạt động được quản lý",
+        "bookDiscovery": "Sách Khám phá hoạt động quản lý",
+        "exploreFramework": "Khám phá Khung giải pháp"
+      }
+    },
+    "coreCapabilities": "Năng lực cốt lõi"
+  },
+  "products": {
+    "featured": "Sản phẩm nổi bật",
+    "featuredSub": "Đơn giản hóa hoạt động, kết nối các nhóm, tự động hóa quy trình và thúc đẩy tăng trưởng kinh doanh thông minh hơn.",
+    "seeAll": "Xem Tất Cả Sản Phẩm",
+    "featuredProducts": "SẢN PHẨM TIÊU BIỂU",
+    "meetAutonomous": "Gặp gỡ lực lượng lao động tự trị",
+    "meetAutonomousText": "Chuyển đổi hoạt động của bạn với các tác nhân AI làm việc cùng với nhóm của bạn để xử lý các nhiệm vụ phức tạp, lặp đi lặp lại.",
+    "learnMore": "Tìm hiểu thêm",
+    "erp": {
+      "title": "Một nền tảng sẵn sàng cho mọi thứ",
+      "sub": "Trao quyền cho doanh nghiệp bằng các giải pháp quản lý doanh nghiệp được kết nối, thông minh và có thể mở rộng.",
+      "explore": "Khám phá giải pháp ERP",
+      "gridTitle": "GIẢI PHÁP ERP",
+      "promoTitle": "ERP mô-đun cho sự tăng trưởng",
+      "promoText": "Triển khai các tính năng ERP mô-đun một cách nhanh chóng mà không gặp sự phức tạp như các hệ thống nhiều năm truyền thống.",
+      "scheduleDemo": "Lên lịch Demo"
+    },
+    "it": {
+      "title": "Giải pháp CNTT",
+      "sub": "Cơ sở hạ tầng, bảo mật và giải pháp DevOps cấp doanh nghiệp để duy trì hoạt động kinh doanh của bạn.",
+      "explore": "Khám phá Giải pháp CNTT",
+      "gridTitle": "GIẢI PHÁP CNTT",
+      "promoTitle": "Cơ sở hạ tầng CNTT đáng tin cậy",
+      "promoText": "Xây dựng nền tảng công nghệ linh hoạt với các dịch vụ đám mây, bảo mật và DevOps được quản lý.",
+      "getStarted": "Bắt đầu"
+    },
+    "crm": {
+      "title": "Giải Pháp CRM",
+      "sub": "Quản lý quan hệ khách hàng để hợp lý hóa quy trình bán hàng, hỗ trợ và tiếp thị.",
+      "explore": "Khám phá Giải pháp CRM",
+      "gridTitle": "GIẢI PHÁP CRM",
+      "promoTitle": "Đóng thêm ưu đãi",
+      "promoText": "Trao quyền cho nhóm bán hàng và hỗ trợ của bạn bằng dữ liệu khách hàng thống nhất và tự động hóa thông minh.",
+      "startTrial": "Bắt đầu dùng thử miễn phí"
+    },
+    "hrms": {
+      "title": "Giải pháp HRMS",
+      "sub": "Quản lý nguồn nhân lực bao gồm tiền lương, tuyển dụng, hiệu suất và sự gắn kết của nhân viên.",
+      "explore": "Khám phá giải pháp HRMS",
+      "gridTitle": "GIẢI PHÁP HRMS",
+      "promoTitle": "Đơn giản hóa hoạt động nhân sự",
+      "promoText": "Tự động hóa quy trình làm việc nhân sự từ tuyển dụng đến nghỉ hưu bằng nền tảng hiện đại, ưu tiên nhân viên.",
+      "requestDemo": "Yêu cầu Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Sản phẩm nổi bật",
+      "erpSolutions": "Giải Pháp ERP",
+      "solutions": "GIẢI PHÁP"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Bộ AI Rezonants",
+        "description": "Các đại lý và công cụ tự động thông minh giúp tự động hóa các quy trình làm việc phức tạp và hoạt động của khách hàng."
+      },
+      "cloudNexus": {
+        "title": "Đám mâyNexus",
+        "description": "Nền tảng quản lý nhiều đám mây tối ưu hóa hiệu suất, bảo mật, tuân thủ và chi phí."
+      },
+      "workSync": {
+        "title": "Đồng bộ công việc",
+        "description": "Trung tâm cộng tác và năng suất kết hợp với tính năng quản lý tài liệu, trò chuyện và tác vụ tích hợp."
+      },
+      "dataStream": {
+        "title": "Luồng dữ liệu",
+        "description": "Công cụ phân tích thời gian thực chuyển đổi các luồng sự kiện kinh doanh thành thông tin chi tiết hữu ích."
+      },
+      "rezonantsErpCore": {
+        "title": "Lõi ERP Rezonants",
+        "description": "Kiến trúc doanh nghiệp thống nhất kết nối tài chính, tài sản, nhân sự, mua sắm và hàng tồn kho."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Nền tảng trải nghiệm nhân viên bao gồm bảng lương, phúc lợi, đánh giá hiệu suất và tự phục vụ."
+      },
+      "supplyChainIq": {
+        "title": "IQ chuỗi cung ứng",
+        "description": "Theo dõi hậu cần theo thời gian thực, vận hành kho tự động và dự báo nhu cầu."
+      },
+      "financeHub": {
+        "title": "Trung tâm tài chính",
+        "description": "Quản lý sổ cái nâng cao, quy trình thanh toán, tuân thủ tự động và báo cáo dòng tiền theo thời gian thực."
+      },
+      "cloudInfrastructure": {
+        "title": "Cơ sở hạ tầng đám mây",
+        "description": "Kiến trúc, di chuyển và quản lý đám mây có thể mở rộng trên AWS, Azure và GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Bộ an ninh mạng",
+        "description": "Giám sát bảo mật từ đầu đến cuối, phát hiện mối đe dọa và quản lý tuân thủ."
+      },
+      "devopsPipeline": {
+        "title": "Quy trình DevOps",
+        "description": "Tự động hóa CI/CD, container hóa và cơ sở hạ tầng dưới dạng mã để phân phối nhanh hơn."
+      },
+      "managedItServices": {
+        "title": "Dịch vụ CNTT được quản lý",
+        "description": "Giám sát cơ sở hạ tầng 24/7, ứng phó sự cố và bảo trì chủ động."
+      },
+      "salesCrm": {
+        "title": "CRM bán hàng",
+        "description": "Quản lý quy trình, chấm điểm khách hàng tiềm năng, theo dõi giao dịch và dự báo doanh số trong một nền tảng."
+      },
+      "customerSupportHub": {
+        "title": "Trung tâm hỗ trợ khách hàng",
+        "description": "Bán vé, cơ sở kiến ​​thức, trò chuyện trực tiếp và quản lý hỗ trợ đa kênh."
+      },
+      "marketingAutomation": {
+        "title": "Tự động hóa tiếp thị",
+        "description": "Điều phối chiến dịch, tự động hóa email, nuôi dưỡng khách hàng tiềm năng và phân tích."
+      },
+      "customer360View": {
+        "title": "Xem 360 độ của khách hàng",
+        "description": "Hồ sơ khách hàng hợp nhất kết hợp dữ liệu bán hàng, hỗ trợ và tương tác."
+      },
+      "coreHr": {
+        "title": "Nhân sự cốt lõi",
+        "description": "Hồ sơ nhân viên, phân cấp tổ chức, quản lý nghỉ phép và theo dõi chấm công."
+      },
+      "payrollCompliance": {
+        "title": "Bảng lương & Tuân thủ",
+        "description": "Tự động xử lý bảng lương, tính thuế và tuân thủ luật định."
+      },
+      "performanceManagement": {
+        "title": "Quản lý Hiệu suất",
+        "description": "Theo dõi OKR, đánh giá 360°, thiết lập mục tiêu và kế hoạch phát triển nhân viên."
+      },
+      "recruitmentPortal": {
+        "title": "Cổng thông tin tuyển dụng",
+        "description": "Đăng tuyển, theo dõi ứng viên, lên lịch phỏng vấn và quy trình làm việc giới thiệu."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Sản phẩm nổi bật",
+        "heading": "Sản phẩm nổi bật",
+        "sub": "Đơn giản hóa hoạt động, kết nối các nhóm, tự động hóa quy trình và thúc đẩy tăng trưởng kinh doanh thông minh hơn.",
+        "promoTitle": "Gặp gỡ lực lượng lao động tự chủ",
+        "promoText": "Chuyển đổi hoạt động của bạn với các tác nhân AI hoạt động cùng với nhóm của bạn để xử lý các nhiệm vụ phức tạp, lặp đi lặp lại.",
+        "items": [
+          {
+            "title": "Tự động hóa AI & Đại lý thông minh",
+            "description": "Tự động hóa các tác vụ lặp đi lặp lại và triển khai các tác nhân AI thông minh nhằm cải thiện năng suất, ra quyết định và kết quả kinh doanh."
+          },
+          {
+            "title": "Dịch vụ CNTT & Hỗ trợ kỹ thuật số",
+            "description": "Cung cấp hỗ trợ CNTT nhanh hơn, thông minh hơn với quy trình quản lý dịch vụ, tự động hóa và quy trình làm việc kỹ thuật số hợp lý."
+          },
+          {
+            "title": "Quản trị AI doanh nghiệp",
+            "description": "Xây dựng việc áp dụng AI có trách nhiệm với khả năng quản trị, bảo mật, tuân thủ, minh bạch và kiểm soát rủi ro mạnh mẽ."
+          },
+          {
+            "title": "Vận hành CNTT thông minh",
+            "description": "Chuyển đổi hoạt động CNTT bằng tính năng giám sát, tự động hóa dựa trên AI, dự đoán hiểu biết sâu sắc và chủ động giải quyết vấn đề."
+          },
+          {
+            "title": "Quản lý trải nghiệm khách hàng",
+            "description": "Tạo hành trình cá nhân hóa của khách hàng bằng sự tương tác thông minh, tự động hóa, phân tích và trải nghiệm kỹ thuật số liền mạch."
+          },
+          {
+            "title": "Chiến lược kinh doanh & Tối ưu hóa danh mục đầu tư",
+            "description": "Điều chỉnh đầu tư công nghệ phù hợp với mục tiêu kinh doanh để tối ưu hóa danh mục đầu tư, nâng cao hiệu quả và thúc đẩy tăng trưởng bền vững."
+          },
+          {
+            "title": "Vòng đời tài sản CNTT & công nghệ",
+            "description": "Quản lý tài sản CNTT trong suốt vòng đời của chúng với khả năng hiển thị, tự động hóa, kiểm soát chi phí và lập kế hoạch công nghệ tốt hơn."
+          },
+          {
+            "title": "Rủi ro Doanh nghiệp & Tuân thủ",
+            "description": "Xác định, đánh giá và quản lý rủi ro doanh nghiệp đồng thời tăng cường tuân thủ, kiểm soát và khả năng phục hồi của tổ chức."
+          },
+          {
+            "title": "An ninh mạng & Hoạt động đe dọa",
+            "description": "Bảo vệ môi trường kỹ thuật số bằng cách chủ động phát hiện mối đe dọa, vận hành bảo mật, ứng phó sự cố và giám sát liên tục."
+          },
+          {
+            "title": "Tự động hóa lực lượng lao động hiện trường",
+            "description": "Trao quyền cho các nhóm hiện trường bằng cách lập kế hoạch thông minh, quy trình làm việc trên thiết bị di động, tự động hóa và khả năng hiển thị hoạt động theo thời gian thực."
+          },
+          {
+            "title": "Trải nghiệm nhân viên & Dịch vụ nhân sự",
+            "description": "Đơn giản hóa dịch vụ của nhân viên bằng quy trình làm việc kỹ thuật số, giải pháp tự phục vụ, tự động hóa và trải nghiệm cá nhân hóa của nhân viên."
+          },
+          {
+            "title": "Nơi làm việc kỹ thuật số hợp nhất",
+            "description": "Kết nối mọi người, quy trình, ứng dụng và công cụ cộng tác thông qua nơi làm việc kỹ thuật số an toàn, thông minh và liền mạch."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Giải pháp ERP",
+        "heading": "Một nền tảng, sẵn sàng cho mọi thứ",
+        "sub": "Trao quyền cho doanh nghiệp bằng các giải pháp quản lý doanh nghiệp được kết nối, thông minh và có thể mở rộng.",
+        "promoTitle": "ERP mô-đun cho sự tăng trưởng",
+        "promoText": "Triển khai nhanh chóng các tính năng ERP dạng mô-đun mà không gặp sự phức tạp như các hệ thống nhiều năm truyền thống.",
+        "items": [
+          {
+            "title": "Tự động hóa quy trình kinh doanh",
+            "description": "Hợp lý hóa tài chính, nhân sự, bán hàng, mua sắm và hoạt động hàng ngày."
+          },
+          {
+            "title": "Quản lý kinh doanh tích hợp",
+            "description": "Kết nối các phòng ban, dữ liệu, quy trình làm việc trên một nền tảng thống nhất."
+          },
+          {
+            "title": "Tài chính kế toán",
+            "description": "Cải thiện khả năng hiển thị tài chính, báo cáo, lập ngân sách và tuân thủ."
+          },
+          {
+            "title": "Nhân sự & Tiền lương",
+            "description": "Đơn giản hóa quy trình quản lý nhân viên, chấm công, tính lương và nhân sự."
+          },
+          {
+            "title": "Quản lý chuỗi cung ứng",
+            "description": "Tối ưu hóa hoạt động thu mua, tồn kho, nhà cung cấp và hậu cần."
+          },
+          {
+            "title": "Bán hàng & Quản lý khách hàng",
+            "description": "Quản lý khách hàng tiềm năng, đơn hàng và hiệu suất bán hàng một cách hiệu quả."
+          },
+          {
+            "title": "Phân tích và báo cáo theo thời gian thực",
+            "description": "Biến dữ liệu kinh doanh thành thông tin chi tiết hữu ích để đưa ra quyết định nhanh hơn."
+          },
+          {
+            "title": "Giải pháp Cloud ERP",
+            "description": "Cho phép quản lý doanh nghiệp an toàn, có thể mở rộng và có thể truy cập từ mọi nơi."
+          }
+        ]
+      },
+      "it": {
+        "title": "Giải pháp CNTT",
+        "heading": "Giải pháp CNTT của chúng tôi",
+        "sub": "Chuyển đổi hoạt động CNTT bằng các giải pháp kỹ thuật số thông minh, chủ động và có thể mở rộng nhằm cải thiện hiệu suất, năng suất và tính liên tục trong kinh doanh.",
+        "promoTitle": "Cơ sở hạ tầng CNTT đáng tin cậy",
+        "promoText": "Xây dựng nền tảng công nghệ linh hoạt với các dịch vụ đám mây, bảo mật và DevOps được quản lý.",
+        "items": [
+          {
+            "title": "Quản lý dịch vụ CNTT",
+            "description": "Hợp lý hóa các dịch vụ CNTT, sự cố, yêu cầu và quy trình làm việc để giải quyết nhanh hơn."
+          },
+          {
+            "title": "Quản lý vận hành CNTT",
+            "description": "Giám sát cơ sở hạ tầng và ứng dụng bằng các hoạt động CNTT chủ động, dựa trên dữ liệu."
+          },
+          {
+            "title": "Quản lý tài sản CNTT",
+            "description": "Quản lý tài sản công nghệ một cách hiệu quả đồng thời giảm chi phí, rủi ro và độ phức tạp của vòng đời."
+          },
+          {
+            "title": "Kiến trúc doanh nghiệp",
+            "description": "Điều chỉnh chiến lược kinh doanh với kiến trúc công nghệ và đầu tư phù hợp."
+          },
+          {
+            "title": "Quản trị đám mây",
+            "description": "Cải thiện tính bảo mật, tuân thủ, hiệu suất và quản lý chi phí trên đám mây."
+          },
+          {
+            "title": "Hoạt động kỹ thuật số",
+            "description": "Tự động hóa các quy trình CNTT và đạt được khả năng hiển thị theo thời gian thực trên môi trường công nghệ của bạn."
+          },
+          {
+            "title": "Khả năng quan sát & giám sát",
+            "description": "Phát hiện sớm các vấn đề về hiệu suất và duy trì trải nghiệm kỹ thuật số đáng tin cậy."
+          },
+          {
+            "title": "Quản lý danh mục đầu tư chiến lược",
+            "description": "Kết nối đầu tư CNTT với các ưu tiên kinh doanh và kết quả có thể đo lường được."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Giải pháp CRM",
+        "heading": "Giải pháp CRM của chúng tôi",
+        "sub": "Mang lại trải nghiệm khách hàng được kết nối, cá nhân hóa và thông minh trong toàn bộ hành trình của khách hàng.",
+        "promoTitle": "Đóng thêm ưu đãi",
+        "promoText": "Trao quyền cho nhóm bán hàng và hỗ trợ của bạn bằng dữ liệu khách hàng thống nhất và tự động hóa thông minh.",
+        "items": [
+          {
+            "title": "Quản lý dịch vụ khách hàng",
+            "description": "Cải thiện dịch vụ hỗ trợ khách hàng với độ phân giải nhanh hơn, khả năng tự phục vụ và quy trình làm việc thông minh."
+          },
+          {
+            "title": "Tự động hóa bán hàng",
+            "description": "Tự động hóa hoạt động bán hàng, quản lý khách hàng tiềm năng và giúp các nhóm chốt cơ hội nhanh hơn."
+          },
+          {
+            "title": "Quản lý bán hàng & đặt hàng",
+            "description": "Hợp lý hóa hành trình từ khách hàng tiềm năng đến đặt hàng và cải thiện khả năng hiển thị doanh thu."
+          },
+          {
+            "title": "Quản lý dịch vụ hiện trường",
+            "description": "Tối ưu hóa hoạt động tại hiện trường, lập kế hoạch, điều phối và năng suất của kỹ thuật viên."
+          },
+          {
+            "title": "Quản lý trải nghiệm khách hàng",
+            "description": "Tạo trải nghiệm liền mạch và được cá nhân hóa trên mọi điểm tiếp xúc của khách hàng."
+          },
+          {
+            "title": "Phân tích & thông tin chuyên sâu về CRM",
+            "description": "Biến dữ liệu khách hàng thành thông tin chi tiết hữu ích để đưa ra quyết định kinh doanh thông minh hơn."
+          },
+          {
+            "title": "Tự động hóa tiếp thị",
+            "description": "Tự động hóa các chiến dịch, thu hút khách hàng và nuôi dưỡng khách hàng tiềm năng."
+          },
+          {
+            "title": "CRM hỗ trợ AI",
+            "description": "Sử dụng tính năng tự động hóa thông minh và hiểu biết sâu sắc về AI để cải thiện năng suất và sự tương tác với khách hàng."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Giải pháp HRMS",
+        "heading": "Giải pháp HRMS của chúng tôi",
+        "sub": "Trao quyền cho lực lượng lao động của bạn bằng các giải pháp nhân sự thông minh, tích hợp và tự động giúp đơn giản hóa việc quản lý nhân viên và cải thiện trải nghiệm tại nơi làm việc.",
+        "promoTitle": "Đơn giản hóa hoạt động nhân sự",
+        "promoText": "Tự động hóa quy trình làm việc nhân sự từ tuyển dụng đến nghỉ hưu bằng nền tảng hiện đại, ưu tiên nhân viên.",
+        "items": [
+          {
+            "title": "Quản lý nhân sự cốt lõi",
+            "description": "Quản lý thông tin nhân viên, cơ cấu tổ chức và quy trình nhân sự một cách hiệu quả."
+          },
+          {
+            "title": "Quản lý tiền lương",
+            "description": "Tự động hóa bảng lương, xử lý lương, khấu trừ và tuân thủ."
+          },
+          {
+            "title": "Nhân viên tự phục vụ",
+            "description": "Giúp nhân viên dễ dàng tiếp cận các dịch vụ, yêu cầu, tài liệu, thông tin nhân sự."
+          },
+          {
+            "title": "Quản lý chấm công và nghỉ phép",
+            "description": "Đơn giản hóa việc theo dõi điểm danh, yêu cầu nghỉ phép, ca làm việc và giờ làm việc."
+          },
+          {
+            "title": "Tuyển dụng & hội nhập",
+            "description": "Hợp lý hóa việc tuyển dụng, quản lý ứng viên, giới thiệu và tích hợp nhân viên."
+          },
+          {
+            "title": "Quản lý hiệu suất",
+            "description": "Đặt mục tiêu, theo dõi hiệu suất và hỗ trợ nhân viên phát triển liên tục."
+          },
+          {
+            "title": "Học hỏi & Phát triển",
+            "description": "Quản lý các chương trình đào tạo, phát triển kỹ năng và phát triển nhân viên."
+          },
+          {
+            "title": "Phân tích & Báo cáo Nhân sự",
+            "description": "Biến dữ liệu lực lượng lao động thành thông tin chuyên sâu hữu ích để đưa ra quyết định nhân sự tốt hơn."
+          },
+          {
+            "title": "Tự động hóa nhân sự được hỗ trợ bởi AI",
+            "description": "Tự động hóa các nhiệm vụ nhân sự lặp đi lặp lại và mang lại trải nghiệm cá nhân hóa, nhanh hơn cho nhân viên."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Phát triển ứng dụng",
+        "heading": "Dịch vụ phát triển ứng dụng của chúng tôi",
+        "sub": "Xây dựng các ứng dụng an toàn, có thể mở rộng và hiệu suất cao giúp thúc đẩy tăng trưởng kinh doanh và đơn giản hóa các quy trình phức tạp.",
+        "promoTitle": "Xây dựng ứng dụng được người dùng yêu thích",
+        "promoText": "Từ ý tưởng đến ra mắt, nhóm của chúng tôi thiết kế và phát triển các ứng dụng web và di động chất lượng cao có quy mô lớn.",
+        "items": [
+          {
+            "title": "Phát triển ứng dụng tùy chỉnh",
+            "description": "Xây dựng các ứng dụng phù hợp được thiết kế theo yêu cầu kinh doanh riêng của bạn."
+          },
+          {
+            "title": "Phát triển ứng dụng web và di động",
+            "description": "Mang lại trải nghiệm kỹ thuật số liền mạch trên web, thiết bị di động và nhiều thiết bị."
+          },
+          {
+            "title": "Phát triển ứng dụng doanh nghiệp",
+            "description": "Phát triển các giải pháp có thể mở rộng, tích hợp với hệ thống kinh doanh hiện tại của bạn."
+          },
+          {
+            "title": "Phát triển mã thấp và không mã",
+            "description": "Tăng tốc phân phối ứng dụng với nền tảng phát triển low-code linh hoạt."
+          },
+          {
+            "title": "Tích hợp API & Hệ thống",
+            "description": "Kết nối các ứng dụng, nền tảng và hệ thống của bên thứ ba để có luồng dữ liệu liền mạch."
+          },
+          {
+            "title": "Hiện đại hóa ứng dụng",
+            "description": "Chuyển đổi các ứng dụng cũ thành các giải pháp hiện đại, có thể mở rộng và hiệu quả."
+          },
+          {
+            "title": "Ứng dụng hỗ trợ AI",
+            "description": "Tích hợp AI, tự động hóa và khả năng thông minh vào các ứng dụng kinh doanh."
+          },
+          {
+            "title": "Hỗ trợ & Bảo trì Ứng dụng",
+            "description": "Đảm bảo hiệu suất, tính bảo mật, cập nhật và độ tin cậy liên tục."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robot",
+    "businessAutomation": "Tự động hóa doanh nghiệp",
+    "cloudMigrations": "Di chuyển đám mây",
+    "dataCenters": "Trung tâm dữ liệu",
+    "cognitiveAnalyticsAi": "Phân tích nhận thức & AI",
+    "informationReportingSystems": "Hệ thống thông tin & báo cáo",
+    "managedServices": "Dịch vụ được quản lý",
+    "oneStopSolutions": "Giải pháp một cửa"
+  },
+  "servicePage": {
+    "serviceOverview": "Tổng quan về dịch vụ",
+    "whatWeOffer": "Những gì chúng tôi cung cấp",
+    "whyChooseRezonants": "Tại sao chọn Rezonants",
+    "benefitsOfWorking": "Lợi ích khi hợp tác với chúng tôi",
+    "techStack": "Ngăn xếp công nghệ",
+    "technologiesWeUse": "Những công nghệ chúng tôi sử dụng",
+    "ourWork": "Công việc của chúng tôi",
+    "relatedProjects": "Dự án liên quan",
+    "viewCaseStudy": "Xem nghiên cứu điển hình",
+    "readyToDiscuss": "Bạn đã sẵn sàng thảo luận về dự án {{title}} của mình chưa?",
+    "seniorEngineersReady": "Các kỹ sư cao cấp của chúng tôi sẵn sàng giúp bạn lập kế hoạch, thiết kế và xây dựng giải pháp của mình.",
+    "startProject": "Bắt đầu dự án của bạn",
+    "howItWorks": "Nó hoạt động như thế nào"
+  },
+  "consultation": {
+    "badge": "Đặt tư vấn miễn phí",
+    "title": "Hãy cùng nhau lập kế hoạch cho dự án của bạn <span class='hero-accent'>Cùng nhau</span>",
+    "description": "Lên lịch cuộc gọi không bắt buộc với các chuyên gia tư vấn của chúng tôi. Thảo luận về yêu cầu của bạn, khám phá phương pháp kỹ thuật phù hợp và nhận báo giá rõ ràng — tất cả chỉ trong vòng chưa đầy 30 phút.",
+    "bookSlot": "Đặt chỗ của bạn",
+    "howItWorks": "Nó hoạt động như thế nào",
+    "accountRequired": "Cần có tài khoản",
+    "signInToBook": "Đăng nhập để đăng ký tư vấn",
+    "accountRequiredText": "Bạn sẽ cần có tài khoản Rezonants để yêu cầu tư vấn. Đăng nhập hoặc tạo một tài khoản - chỉ mất chưa đầy một phút.",
+    "signInToContinue": "Đăng nhập để tiếp tục",
+    "newToRezonants": "Bạn mới sử dụng Rezonants?",
+    "createAccount": "Tạo tài khoản",
+    "requestMeeting": "Yêu cầu một cuộc họp",
+    "tellUsAboutProject": "Hãy cho chúng tôi biết về dự án của bạn",
+    "fillDetails": "Điền thông tin chi tiết của bạn và chúng tôi sẽ xác nhận vị trí tư vấn của bạn qua email.",
+    "fullName": "Tên đầy đủ *",
+    "email": "Email *",
+    "phone": "Điện thoại *",
+    "company": "Công ty",
+    "serviceOfInterest": "Dịch vụ quan tâm *",
+    "selectService": "Chọn dịch vụ…",
+    "preferredDate": "Ngày ưu tiên *",
+    "preferredTime": "Thời gian mong muốn *",
+    "selectTimeSlot": "Chọn một khoảng thời gian…",
+    "estimatedBudget": "Ngân sách dự kiến ​​",
+    "selectRange": "Chọn một phạm vi…",
+    "projectRequirements": "Yêu cầu dự án",
+    "booking": "Đặt chỗ…",
+    "bookFreeConsultation": "Đặt lịch tư vấn miễn phí của tôi",
+    "freeNote": "100% miễn phí và không có nghĩa vụ. Chúng tôi thường trả lời trong vòng 24 giờ.",
+    "whatToExpect": "Điều gì sẽ xảy ra",
+    "preferToReachUs": "Bạn muốn liên hệ trực tiếp với chúng tôi?",
+    "callUs": "Hãy gọi cho chúng tôi",
+    "emailUs": "Gửi email cho chúng tôi",
+    "visitUs": "Ghé thăm chúng tôi",
+    "whyBookWithUs": "Tại sao đặt chỗ với chúng tôi",
+    "freeCallTitle": "Cuộc gọi miễn phí thực sự hữu ích",
+    "freeCallNoPressure": "Gọi miễn phí, không áp lực",
+    "freeCallNoPressureText": "Mỗi lần tư vấn đầu tiên đều miễn phí. Không có nghĩa vụ phải mua - chỉ cần lời khuyên trung thực.",
+    "seniorConsultants": "Chỉ dành cho chuyên gia tư vấn cấp cao",
+    "seniorConsultantsText": "Cuộc họp của bạn được dẫn dắt bởi các kỹ sư và chuyên gia tư vấn cấp cao, những người xây dựng để kiếm sống.",
+    "clearTimelines": "Xóa mốc thời gian và trích dẫn",
+    "clearTimelinesText": "Kết thúc với bước tiếp theo được xác định rõ ràng, tiến trình thực tế và mức giá minh bạch cho dự án của bạn.",
+    "services": {
+      "customSoftware": "Phát triển phần mềm tùy chỉnh",
+      "webMobile": "Phát triển ứng dụng web và di động",
+      "cloudDevops": "Giải pháp đám mây & DevOps",
+      "aiMl": "AI & Học máy",
+      "itConsulting": "Tư vấn CNTT",
+      "digitalMarketing": "Tiếp thị Kỹ thuật số & SEO",
+      "erpSolutions": "Giải Pháp ERP",
+      "other": "Khác / Chưa rõ"
+    },
+    "budgets": {
+      "under1L": "Dưới ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Chưa quyết định"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Hiểu rõ mục tiêu của bạn",
+        "text": "Chúng tôi lắng nghe đầu tiên. Cuộc gọi kéo dài 30 phút để xác định nhu cầu kinh doanh, đối tượng và kết quả mong muốn của bạn."
+      },
+      "technicalDirection": {
+        "title": "Nhận chỉ đạo kỹ thuật",
+        "text": "Các kỹ sư của chúng tôi chia sẻ kiến ​​trúc, hệ thống và cách tiếp cận phù hợp cho dự án của bạn."
+      },
+      "clearQuote": {
+        "title": "Nhận báo giá rõ ràng",
+        "text": "Hãy thực hiện với ước tính minh bạch, tiến trình và các bước tiếp theo — không có nghĩa vụ."
+      }
+    },
+    "validation": {
+      "nameRequired": "Tên đầy đủ là bắt buộc.",
+      "emailRequired": "Email là bắt buộc.",
+      "emailInvalid": "Nhập một email hợp lệ.",
+      "phoneRequired": "Số điện thoại là bắt buộc.",
+      "phoneInvalid": "Nhập số điện thoại hợp lệ.",
+      "serviceRequired": "Vui lòng chọn một dịch vụ.",
+      "dateRequired": "Chọn một ngày ưa thích.",
+      "timeRequired": "Chọn một khoảng thời gian ưa thích.",
+      "messageTooShort": "Thêm một chút chi tiết (ít nhất 10 ký tự).",
+      "signInRequired": "Vui lòng đăng nhập để đăng ký tư vấn.",
+      "couldNotBook": "Không thể đăng ký tư vấn của bạn. Kiểm tra xem bảng tư vấn có tồn tại không, sau đó thử lại.",
+      "bookedSuccess": "Đã đặt tư vấn! Nhóm của chúng tôi sẽ sớm xác nhận khung thời gian của bạn qua email."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Chào Mừng Trở Lại",
+    "createAccount": "Tạo tài khoản",
+    "forgotPassword": "Quên mật khẩu",
+    "createNewPassword": "Tạo Mật Khẩu Mới",
+    "welcomeBackDesc": "Đăng nhập vào tài khoản Rezonants của bạn.",
+    "createAccountDesc": "Hãy tham gia Rezonants ngay hôm nay.",
+    "forgotDesc": "Nhập email của bạn và chúng tôi sẽ gửi cho bạn một liên kết để đặt lại mật khẩu của bạn.",
+    "recoveryDesc": "Chọn một mật khẩu mới mạnh cho tài khoản của bạn.",
+    "fullName": "Tên đầy đủ",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "newPassword": "Mật khẩu mới",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "confirmNewPassword": "Xác nhận mật khẩu mới",
+    "forgotPasswordLink": "Quên mật khẩu?",
+    "privacyPolicy": "Tôi chấp nhận chính sách <1>Quyền riêng tư và bảo mật</1> của Rezonants.",
+    "sendResetLink": "Gửi liên kết đặt lại",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "pleaseWait": "Vui lòng đợi…",
+    "rememberedPassword": "Bạn đã nhớ mật khẩu của mình?",
+    "signInLink": "Đăng nhập",
+    "noAccount": "Bạn chưa có tài khoản?",
+    "signUpLink": "Đăng ký",
+    "hasAccount": "Đã có tài khoản?",
+    "changedMind": "Bạn đã thay đổi ý định?",
+    "backToSignIn": "Quay lại để đăng nhập",
+    "resetSent": "Đã gửi liên kết đặt lại mật khẩu! Kiểm tra email của bạn để tạo mật khẩu mới.",
+    "passwordUpdated": "Mật khẩu của bạn đã được cập nhật. Đăng nhập bằng mật khẩu mới của bạn.",
+    "accountCreated": "Tài khoản đã được tạo! Kiểm tra email của bạn để xác nhận đăng ký, sau đó đăng nhập.",
+    "validation": {
+      "fullNameRequired": "Tên đầy đủ là bắt buộc.",
+      "emailRequired": "Email là bắt buộc.",
+      "emailInvalid": "Nhập một email hợp lệ.",
+      "passwordRequired": "Mật khẩu là bắt buộc.",
+      "passwordMinLength": "Mật khẩu phải có ít nhất 6 ký tự.",
+      "passwordsNoMatch": "Mật khẩu không khớp.",
+      "acceptTerms": "Vui lòng chấp nhận Chính sách quyền riêng tư và Chính sách bảo mật của Rezonants để tiếp tục."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Trò chuyện với Rezonants AI",
+    "openChatLabel": "Mở cuộc trò chuyện Trợ lý Rezonants AI",
+    "chatTitle": "Trợ lý AI Rezonants",
+    "online": "Trực tuyến",
+    "expandLabel": "Mở rộng chatbot",
+    "minimizeLabel": "Thu nhỏ chatbot",
+    "closeLabel": "Đóng chatbot",
+    "expand": "Mở rộng",
+    "minimize": "Giảm thiểu",
+    "close": "Đóng",
+    "popularTopics": "Chủ đề phổ biến",
+    "askPlaceholder": "Hỏi tôi về Rezonants...",
+    "messageLabel": "Nhắn tin cho Trợ lý AI Rezonants",
+    "sendLabel": "Gửi tin nhắn",
+    "sendTitle": "Gửi tin nhắn",
+    "enterToSend": "Enter để gửi · Shift+Enter để có dòng mới",
+    "newChat": "Trò chuyện mới",
+    "typing": "Rezonants AI đang gõ",
+    "menuOptions": "Tùy chọn menu",
+    "greetingMorning": "Chào buổi sáng",
+    "greetingAfternoon": "Chào buổi chiều",
+    "greetingEvening": "Chào buổi tối",
+    "welcomeText": "! 👋 Chào mừng đến với Rezonants.\nTôi là Trợ lý AI của Rezonants. Tôi có thể giúp bạn khám phá các dịch vụ, công nghệ và thông tin liên hệ của chúng tôi."
+  },
+  "cookieConsent": {
+    "title": "Chúng tôi coi trọng sự riêng tư của bạn",
+    "description": "Chúng tôi sử dụng cookie để cải thiện trải nghiệm duyệt web của bạn. Bạn có thể chấp nhận tất cả cookie, từ chối các cookie không cần thiết hoặc tùy chỉnh tùy chọn của mình. Các cookie thiết yếu luôn được bật để đảm bảo trang web hoạt động chính xác.",
+    "acceptAll": "Chấp nhận tất cả",
+    "rejectNonEssential": "Từ chối không cần thiết",
+    "managePreferences": "Quản lý tùy chọn",
+    "privacyPolicy": "Chính sách bảo mật"
+  },
+  "cookiePreferences": {
+    "title": "Quản lý tùy chọn cookie",
+    "description": "Chọn danh mục cookie bạn cho phép. Các cookie thiết yếu vẫn được kích hoạt để duy trì hoạt động của trang web.",
+    "essential": "Cần thiết",
+    "essentialDesc": "Cần thiết để trang web hoạt động (xác thực, bảo mật, cân bằng tải). Những thứ này không thể bị vô hiệu hóa.",
+    "analytics": "Phân tích",
+    "analyticsDesc": "Hãy giúp chúng tôi hiểu cách khách truy cập sử dụng trang web để chúng tôi có thể cải thiện nó. Bị tắt theo mặc định.",
+    "marketing": "Tiếp thị",
+    "marketingDesc": "Được sử dụng để hiển thị cho bạn các ưu đãi và chiến dịch có liên quan. Bị tắt theo mặc định.",
+    "cancel": "Hủy",
+    "savePreferences": "Lưu tùy chọn"
+  },
+  "privacy": {
+    "badge": "Pháp lý",
+    "title": "Chính sách bảo mật",
+    "description": "Cách Rezonants thu thập, sử dụng và bảo vệ thông tin cá nhân và cookie của bạn.",
+    "lastUpdated": "Cập nhật lần cuối: Tháng 8 năm 2026",
+    "managingPreferences": "Quản lý tùy chọn của bạn",
+    "managingPreferencesDesc": "Bạn có thể xem lại hoặc thay đổi loại cookie nào bạn cho phép bất kỳ lúc nào từ bảng tùy chọn cookie.",
+    "manageCookiePreferences": "Quản lý tùy chọn cookie",
+    "section1": {
+      "title": "1. Thông tin chúng tôi thu thập",
+      "body": [
+        "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp (chẳng hạn như tên và địa chỉ email của bạn khi bạn gửi biểu mẫu liên hệ hoặc tạo tài khoản) và thông tin được thu thập tự động thông qua cookie và các công nghệ tương tự, chẳng hạn như các trang đã truy cập, loại thiết bị và vị trí gần đúng."
+      ]
+    },
+    "section2": {
+      "title": "2. Cách chúng tôi sử dụng Cookie",
+      "body": [
+        "Các cookie thiết yếu luôn được bật vì trang web không thể hoạt động chính xác nếu không có chúng. Họ lưu trữ phiên và trạng thái xác thực cũng như ghi nhớ các tùy chọn cookie của bạn.",
+        "Cookie phân tích giúp chúng tôi hiểu cách khách truy cập sử dụng trang web để chúng tôi có thể cải thiện nó. Cookie tiếp thị được sử dụng để hiển thị cho bạn các ưu đãi và chiến dịch có liên quan. Các danh mục này chỉ được bật khi có sự đồng ý của bạn và có thể thay đổi bất kỳ lúc nào từ bảng tùy chọn cookie."
+      ]
+    },
+    "section3": {
+      "title": "3. Cơ sở pháp lý (GDPR)",
+      "body": [
+        "Chúng tôi xử lý dữ liệu cá nhân dựa trên các cơ sở pháp lý sau: sự đồng ý của bạn (đối với các cookie và hoạt động tiếp thị không cần thiết), việc thực hiện hợp đồng (đối với các dịch vụ bạn yêu cầu), nghĩa vụ pháp lý và lợi ích hợp pháp khi quyền của bạn không ảnh hưởng đến chúng. Bạn có thể rút lại sự đồng ý bất cứ lúc nào mà không ảnh hưởng đến tính hợp pháp của quá trình xử lý được thực hiện trước khi rút tiền."
+      ]
+    },
+    "section4": {
+      "title": "4. Quyền của Bạn",
+      "body": [
+        "Tùy thuộc vào vị trí của bạn, bạn có thể có quyền truy cập, chỉnh sửa, xóa hoặc hạn chế việc xử lý dữ liệu cá nhân của mình, phản đối việc xử lý và khả năng di chuyển dữ liệu. Bạn cũng có thể nộp đơn khiếu nại với cơ quan giám sát địa phương."
+      ]
+    },
+    "section5": {
+      "title": "5. Lưu giữ và bảo mật dữ liệu",
+      "body": [
+        "Chúng tôi chỉ lưu giữ dữ liệu cá nhân miễn là cần thiết cho các mục đích được mô tả trong chính sách này. Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin của bạn khỏi bị truy cập, thay đổi, tiết lộ hoặc phá hủy trái phép."
+      ]
+    },
+    "section6": {
+      "title": "6. Dịch vụ của bên thứ ba",
+      "body": [
+        "Một số cookie có thể được đặt bởi các nhà cung cấp bên thứ ba (chẳng hạn như nền tảng phân tích hoặc quảng cáo) giúp chúng tôi vận hành trang web. Các nhà cung cấp này xử lý dữ liệu theo chính sách quyền riêng tư của riêng họ và chỉ khi bạn đồng ý với danh mục có liên quan."
+      ]
+    },
+    "contactUs": "7. Liên hệ với chúng tôi",
+    "contactUsText": "Nếu có thắc mắc về chính sách này hoặc dữ liệu cá nhân của bạn, hãy liên hệ với chúng tôi theo địa chỉ <1>info@rezonants.com</1> hoặc gọi tới <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ của chúng tôi",
+    "sub": "Các giải pháp công nghệ toàn diện được thiết kế để giúp các doanh nghiệp đổi mới, mở rộng quy mô và thành công.",
+    "learnMore": "Tìm hiểu thêm",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Bắt đầu đến triển khai",
+        "text": "Từ ý tưởng ban đầu đến triển khai sản xuất, chúng tôi cung cấp các giải pháp có thể mở rộng được xây dựng cho nhu cầu kinh doanh trong thế giới thực."
+      },
+      "businessProcessAutomation": {
+        "title": "Tự động hóa quy trình kinh doanh",
+        "text": "Hợp lý hóa các quy trình lặp đi lặp lại và nâng cao hiệu quả hoạt động thông qua tự động hóa kinh doanh thông minh."
+      },
+      "centerOfExcellence": {
+        "title": "Trung tâm xuất sắc",
+        "text": "Xây dựng năng lực và kiến ​​thức chuyên môn về công nghệ chuyên biệt để thúc đẩy đổi mới, chất lượng và cải tiến liên tục."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Phát triển & Tùy chỉnh tùy chỉnh",
+        "text": "Các giải pháp phần mềm phù hợp được thiết kế dựa trên yêu cầu kinh doanh và quy trình làm việc riêng của bạn."
+      },
+      "digitalTransformation": {
+        "title": "Chuyển đổi kỹ thuật số",
+        "text": "Hiện đại hóa doanh nghiệp của bạn bằng các chiến lược, công nghệ và giải pháp kỹ thuật số tạo ra tác động có thể đo lường được."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Khung giải pháp toàn diện",
+        "text": "Các giải pháp công nghệ tích hợp kết nối chiến lược, phát triển, triển khai và hoạt động đang diễn ra."
+      },
+      "migrationModernization": {
+        "title": "Di cư & Hiện đại hóa",
+        "text": "Hiện đại hóa các ứng dụng cũ và di chuyển hệ thống sang nền tảng công nghệ có thể mở rộng, an toàn và hiệu quả."
+      },
+      "pocPilotImplementation": {
+        "title": "Bằng chứng về khái niệm (PoC) & Triển khai thí điểm",
+        "text": "Xác thực ý tưởng một cách nhanh chóng thông qua các nguyên mẫu tập trung và triển khai thí điểm trước khi triển khai trên quy mô toàn diện."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Dịch vụ chia sẻ & Hoạt động được quản lý",
+        "text": "Hoạt động công nghệ được quản lý đáng tin cậy giúp cải thiện hiệu suất, khả năng mở rộng và tính liên tục trong kinh doanh."
+      }
+    }
+  },
+  "footer": {
+    "company": "Công ty",
+    "about": "Giới thiệu về",
+    "perspectives": "Quan điểm",
+    "technologies": "Công nghệ",
+    "contact": "Liên hệ",
+    "services": "Dịch vụ",
+    "getInTouch": "Liên hệ",
+    "bookConsultation": "Đặt lịch tư vấn",
+    "copyright": "© {{year}} Rezonants. Mọi quyền được bảo lưu.",
+    "cookiePreferences": "Tùy chọn cookie",
+    "privacyPolicy": "Chính sách bảo mật",
+    "description": "Rezonants là công ty dịch vụ CNTT và sản phẩm kỹ thuật số ở Hyderabad, Ấn Độ. Chúng tôi thiết kế, xây dựng và mở rộng quy mô phần mềm cho các công ty cạnh tranh về mặt thực thi.",
+    "locations": "Địa điểm của chúng tôi",
+    "indiaHq": "Hyderabad, Ấn Độ — Trụ sở chính tại Ấn Độ",
+    "southAfrica": "Nam Phi — REZONANTS PVT LTD",
+    "products": "Sản phẩm",
+    "followUs": "Theo dõi chúng tôi",
+    "aboutUs": "Về chúng tôi",
+    "contactUs": "Liên hệ với chúng tôi",
+    "headline": "Hãy xây dựng",
+    "headlineAccent": "tiếp theo là gì.",
+    "subheadline": "Hợp tác với Rezonants để biến ý tưởng thành tác động kinh doanh thực sự.",
+    "credoIdeas": "Ý TƯỞNG",
+    "credoSolutions": "GIẢI PHÁP",
+    "credoPeople": "NGƯỜI",
+    "credoBrighterTomorrow": "MỘT NGÀY MAI TƯƠI SÁNG HƠN",
+    "hyderabadLocation": "Hyderabad, Ấn Độ",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Nam Phi – REZONANTS PVT LTD",
+    "termsOfUse": "Điều khoản sử dụng",
+    "accessibility": "Khả năng tiếp cận",
+    "quickLinks": "Liên kết nhanh",
+    "explore": "Khám phá",
+    "vijayawadaOffice": "Văn phòng Vijayawada",
+    "allRightsReserved": "Mọi quyền được bảo lưu.",
+    "hyderabadPin": "Hyderabad, Ấn Độ",
+    "southAfricaPin": "Nam Phi"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "retry": "Thử lại",
+    "close": "Đóng",
+    "backToTop": "Quay lại đầu trang",
+    "skipToContent": "Chuyển đến nội dung",
+    "scroll": "Cuộn",
+    "whatWeOffer": "Những gì chúng tôi cung cấp",
+    "howItWorks": "Nó hoạt động như thế nào"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Tìm kiếm quốc gia hoặc mã…",
+    "noResults": "Không tìm thấy quốc gia nào.",
+    "countryCodeLabel": "Mã gọi quốc gia",
+    "required": "Số điện thoại là bắt buộc.",
+    "incomplete": "Số điện thoại phải chứa chính xác {{count}} chữ số.",
+    "tooLong": "Số điện thoại không được chứa nhiều hơn {{count}} chữ số.",
+    "invalid": "Nhập số điện thoại hợp lệ cho {{country}}."
+  },
+  "perspectives": {
+    "topic": "Chủ đề:",
+    "published": "Đã xuất bản:",
+    "readingTime": "Thời gian đọc:",
+    "author": "Tác giả:",
+    "authorName": "Xưởng kiến ​​trúc doanh nghiệp Rezonants",
+    "techArea": "Khu công nghệ",
+    "purpose": "Mục đích",
+    "talkToExperts": "Nói chuyện với chuyên gia của chúng tôi",
+    "viewAll": "Xem tất cả các quan điểm",
+    "exploreMore": "KHÁM PHÁ THÊM CÁC QUAN ĐIỂM",
+    "continueExploring": "Tiếp tục khám phá những hiểu biết sâu sắc về công nghệ doanh nghiệp",
+    "readPerspective": "Đọc phối cảnh"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Giải pháp AI & Robotics",
+      "tagline": "Công nghệ thông minh. Hoạt động tự động. Kinh doanh thông minh hơn.",
+      "heroBadge": "Hệ thống tự động thông minh",
+      "overview": [
+        "Trí tuệ nhân tạo và Robotics đang thay đổi cách các tổ chức vận hành, đưa ra quyết định và mang lại giá trị. Các giải pháp AI & Robotics của chúng tôi giúp các doanh nghiệp vượt xa tự động hóa truyền thống bằng cách kết hợp trí tuệ nhân tạo, học máy, thị giác máy tính, tự động hóa quy trình thông minh và robot để giải quyết các thách thức kinh doanh thực tế.",
+        "Chúng tôi thiết kế các giải pháp thông minh xoay quanh kết quả kinh doanh có thể đo lường được. Cho dù yêu cầu là tự động hóa công việc lặp đi lặp lại, phân tích khối lượng lớn thông tin, phát hiện mẫu, hỗ trợ quyết định hay đưa robot vào môi trường hoạt động, cách tiếp cận của chúng tôi đều tập trung vào độ tin cậy, khả năng mở rộng, bảo mật và giá trị kinh doanh lâu dài."
+      ],
+      "transformation": [
+        "Các tổ chức hiện đại tạo ra lượng dữ liệu khổng lồ và thực hiện hàng nghìn hoạt động lặp đi lặp lại mỗi ngày. AI và robot có thể biến những hoạt động này thành quy trình làm việc tự động, thông minh giúp cải thiện năng suất đồng thời cho phép nhân viên tập trung vào các trách nhiệm có giá trị cao hơn.",
+        "Các giải pháp của chúng tôi có thể giúp các tổ chức tự động hóa các hoạt động lặp đi lặp lại, giảm sự can thiệp thủ công, cải thiện độ chính xác, phân tích thông tin phức tạp, hỗ trợ đưa ra quyết định nhanh hơn, tối ưu hóa việc sử dụng tài nguyên, nâng cao trải nghiệm của khách hàng và xây dựng hệ thống thông minh có thể mở rộng."
+      ],
+      "capabilities": [
+        {
+          "title": "Trí tuệ nhân tạo",
+          "desc": "Chúng tôi phát triển các giải pháp dựa trên AI cho phép hệ thống hiểu thông tin, xác định các mẫu, tạo ra thông tin chuyên sâu và hỗ trợ các quyết định kinh doanh."
+        },
+        {
+          "title": "Học máy",
+          "desc": "Chúng tôi phát triển các mô hình học máy để dự báo, phân loại, hệ thống đề xuất, phát hiện bất thường, phân tích dự đoán và hỗ trợ quyết định thông minh."
+        },
+        {
+          "title": "Xử lý ngôn ngữ tự nhiên",
+          "desc": "NLP có thể được sử dụng để xử lý tài liệu, hiểu văn bản, phân loại thông tin, trích xuất nội dung liên quan và hỗ trợ các ứng dụng đàm thoại."
+        },
+        {
+          "title": "Thị giác máy tính",
+          "desc": "Giải pháp thị giác máy tính có thể hỗ trợ phân loại hình ảnh, phát hiện đối tượng, kiểm tra chất lượng, xử lý tài liệu, giám sát trực quan và phân tích video."
+        },
+        {
+          "title": "Robot",
+          "desc": "Robotics kết hợp trí thông minh của phần mềm với hệ thống vật lý để tự động hóa các hoạt động thường đòi hỏi nỗ lực thủ công. Các ứng dụng có thể bao gồm sản xuất, hậu cần, kho bãi, kiểm tra, xử lý vật liệu và hỗ trợ vận hành."
+        },
+        {
+          "title": "Tự động hóa quy trình thông minh",
+          "desc": "AI có thể được kết hợp với tự động hóa quy trình làm việc để tạo ra các hệ thống diễn giải thông tin, áp dụng các quy tắc hoặc mô hình kinh doanh và tự động bắt đầu quy trình thích hợp."
+        }
+      ],
+      "lifecycleSteps": [
+        "Đánh giá doanh nghiệp",
+        "Phân tích dữ liệu",
+        "Chiến lược AI",
+        "Kiến trúc giải pháp",
+        "Phát triển",
+        "Tích hợp",
+        "Kiểm tra",
+        "Triển khai",
+        "Giám sát",
+        "Tối ưu hóa"
+      ],
+      "benefits": [
+        "Năng suất hoạt động doanh nghiệp cao hơn",
+        "Giảm đáng kể chi phí hoạt động",
+        "Xử lý nhanh hơn và đưa ra quyết định trong mili giây",
+        "Cải thiện độ chính xác của dữ liệu và quy trình làm việc",
+        "Tối ưu hóa việc sử dụng tài nguyên vật lý và tính toán",
+        "Giảm rủi ro vận hành và lỗi của con người",
+        "Khả năng mở rộng đa nền tảng liền mạch",
+        "Nâng cao trải nghiệm của khách hàng và nhân viên"
+      ],
+      "security": "Các giải pháp AI dành cho doanh nghiệp phải được thiết kế với khả năng bảo mật, kiểm soát truy cập, bảo vệ dữ liệu, giám sát, quản trị mô hình và các biện pháp bảo vệ hoạt động phù hợp. Chúng tôi xem xét các yêu cầu này từ giai đoạn kiến ​​trúc cho đến quá trình triển khai và bảo trì liên tục để đảm bảo độ tin cậy ở cấp độ sản xuất.",
+      "ctaHeadline": "Xây dựng một tương lai thông minh",
+      "ctaSub": "Giúp hoạt động của bạn thông minh hơn. Tự động hóa những gì quan trọng. Xây dựng cho tương lai."
+    },
+    "business-automation-solutions": {
+      "title": "Giải pháp tự động hóa doanh nghiệp",
+      "tagline": "Đơn giản hóa quy trình. Loại bỏ sự lặp lại Tăng tốc tăng trưởng.",
+      "heroBadge": "Tối ưu hóa quy trình làm việc từ đầu đến cuối",
+      "overview": [
+        "Tự động hóa kinh doanh cho phép các tổ chức thay thế các hoạt động thủ công lặp đi lặp lại bằng quy trình làm việc kỹ thuật số được sắp xếp hợp lý. Các giải pháp tự động hóa kinh doanh của chúng tôi giúp các công ty cải thiện năng suất, giảm độ phức tạp trong vận hành, giảm thiểu sai sót và tạo ra các quy trình nhất quán giữa các phòng ban.",
+        "Chúng tôi phân tích quy trình công việc hiện có, xác định các điểm nghẽn và thiết kế các giải pháp tự động hóa giúp kết nối con người, ứng dụng, dữ liệu và quy trình kinh doanh."
+      ],
+      "transformation": [
+        "Nhiều tổ chức vẫn phụ thuộc vào bảng tính, email, phê duyệt thủ công, nhập dữ liệu lặp đi lặp lại, xử lý tài liệu và các ứng dụng bị ngắt kết nối. Các quy trình này tiêu tốn thời gian quý báu của nhân viên và có thể gây ra sự chậm trễ, mâu thuẫn và sai sót.",
+        "Phương pháp tự động hóa của chúng tôi tập trung vào việc tìm hiểu toàn bộ quy trình, loại bỏ các bước không cần thiết, tích hợp hệ thống và tự động hóa các hoạt động mang lại giá trị vận hành lớn nhất."
+      ],
+      "capabilities": [
+        {
+          "title": "Tự động hóa quy trình làm việc",
+          "desc": "Chúng tôi tự động hóa các quy trình gồm nhiều bước liên quan đến nhân viên, ứng dụng, phê duyệt, thông báo và dữ liệu giữa các phòng ban khác nhau."
+        },
+        {
+          "title": "Tự động hóa quy trình bằng robot",
+          "desc": "Robot phần mềm có thể thực hiện các hoạt động lặp đi lặp lại, dựa trên quy tắc như nhập dữ liệu, cập nhật hệ thống, đối chiếu và truyền thông tin."
+        },
+        {
+          "title": "Tự động hóa tài liệu",
+          "desc": "Quy trình làm việc tài liệu tự động có thể trích xuất thông tin, xác thực dữ liệu, phân loại tài liệu, định tuyến yêu cầu và bắt đầu các quy trình tiếp theo."
+        },
+        {
+          "title": "Tự động phê duyệt",
+          "desc": "Quy trình phê duyệt kỹ thuật số tự động định tuyến các yêu cầu đến người ra quyết định chính xác và cung cấp khả năng hiển thị theo thời gian thực về các hành động đang chờ xử lý."
+        },
+        {
+          "title": "Tự động hóa tích hợp",
+          "desc": "Chúng tôi kết nối các ứng dụng kinh doanh để thông tin có thể tự động di chuyển giữa các nền tảng mà không cần can thiệp thủ công không cần thiết."
+        },
+        {
+          "title": "Tự động hóa thông báo",
+          "desc": "Cảnh báo và thông báo tự động giúp nhân viên phản hồi ngay lập tức trước các sự kiện quan trọng, thời hạn, ngoại lệ và thay đổi hoạt động."
+        }
+      ],
+      "lifecycleSteps": [
+        "Khám phá",
+        "Phân tích",
+        "Thiết kế",
+        "Tự động hóa",
+        "Tích hợp",
+        "Kiểm tra",
+        "Triển khai",
+        "Giám sát",
+        "Tối ưu hóa"
+      ],
+      "benefits": [
+        "Tăng năng suất và tốc độ hoạt động của nhóm",
+        "Giảm đáng kể lỗi nhập liệu thủ công",
+        "Rút ngắn thời gian xử lý toàn bộ quy trình",
+        "Tầm nhìn thống nhất xuyên suốt hoạt động kinh doanh",
+        "Tiêu chuẩn hóa tuân thủ liên ngành",
+        "Giảm đáng kể chi phí hoạt động",
+        "Khả năng linh hoạt để mở rộng quy mô khối lượng công việc một cách dễ dàng",
+        "Các nhóm được trao quyền tập trung vào việc tương tác với khách hàng và công việc chiến lược"
+      ],
+      "security": "Chúng tôi kết hợp nền tảng quy trình làm việc và RPA với các mô hình nhận biết ngữ cảnh thông minh để đảm bảo kiểm soát quyền truy cập dựa trên vai trò, quy trình kiểm tra toàn diện và tuân thủ nghiêm ngặt trên mọi giao dịch tự động.",
+      "ctaHeadline": "Xây dựng hoạt động hiệu quả hơn",
+      "ctaSub": "Tự động hóa công việc lặp đi lặp lại. Trao quyền cho người của bạn. Tăng tốc hoạt động kinh doanh của bạn."
+    },
+    "cloud-migration-solutions": {
+      "title": "Giải pháp di chuyển đám mây",
+      "tagline": "Tự tin di chuyển lên đám mây.",
+      "heroBadge": "Chuyển đổi nhiều đám mây",
+      "overview": [
+        "Điện toán đám mây đã trở thành một thành phần quan trọng của cơ sở hạ tầng CNTT hiện đại. Các tổ chức đang chuyển các ứng dụng, cơ sở dữ liệu, khối lượng công việc và cơ sở hạ tầng sang môi trường đám mây để cải thiện khả năng mở rộng, tính sẵn sàng, tính linh hoạt và hiệu quả hoạt động.",
+        "Dịch vụ di chuyển sang đám mây của chúng tôi giúp các tổ chức đánh giá môi trường hiện tại của họ, xác định chiến lược di chuyển, thực hiện di chuyển và tối ưu hóa khối lượng công việc sau khi họ chuyển sang đám mây."
+      ],
+      "transformation": [
+        "Di chuyển sang đám mây không chỉ là di chuyển máy chủ từ môi trường này sang môi trường khác. Việc di chuyển thành công đòi hỏi phải đánh giá cẩn thận các ứng dụng, cơ sở hạ tầng, sự phụ thuộc, yêu cầu bảo mật, dữ liệu, hiệu suất, tính khả dụng và tính liên tục trong kinh doanh.",
+        "Chúng tôi tạo ra các chiến lược di chuyển dựa trên môi trường hiện tại và các mục tiêu trong tương lai của tổ chức, chọn mô hình di chuyển phù hợp cho từng khối lượng công việc."
+      ],
+      "capabilities": [
+        {
+          "title": "Di chuyển cơ sở hạ tầng",
+          "desc": "Chúng tôi di chuyển các máy chủ, bộ lưu trữ, máy ảo và khối lượng công việc truyền thống sang môi trường đám mây hiện đại trên AWS, Azure và GCP."
+        },
+        {
+          "title": "Di chuyển ứng dụng",
+          "desc": "Các ứng dụng có thể được lưu trữ lại, tái cấu trúc hoặc thiết kế lại tùy thuộc vào yêu cầu kinh doanh và kỹ thuật."
+        },
+        {
+          "title": "Di chuyển cơ sở dữ liệu",
+          "desc": "Chúng tôi di chuyển cơ sở dữ liệu trong khi xem xét các yêu cầu về tính toàn vẹn, hiệu suất, khả năng tương thích, tính khả dụng, bảo mật và khôi phục dữ liệu."
+        },
+        {
+          "title": "Hiện đại hóa đám mây",
+          "desc": "Di chuyển trở thành cơ hội để hiện đại hóa các ứng dụng sử dụng bộ chứa, vi dịch vụ, cơ sở dữ liệu được quản lý, dịch vụ không có máy chủ và kiến trúc gốc đám mây."
+        },
+        {
+          "title": "Đám mây lai",
+          "desc": "Các tổ chức cần cả cơ sở hạ tầng tại chỗ và đám mây có thể áp dụng kiến trúc lai giúp kết nối liền mạch các hệ thống hiện có với dịch vụ đám mây."
+        },
+        {
+          "title": "Nhiều đám mây",
+          "desc": "Đối với các tổ chức hoạt động trên nhiều nền tảng đám mây, chúng tôi giúp thiết kế các chiến lược khối lượng công việc nhằm cải thiện tính linh hoạt, khả năng phục hồi và quản trị."
+        }
+      ],
+      "lifecycleSteps": [
+        "Đánh giá",
+        "Khám phá",
+        "Ánh xạ phụ thuộc",
+        "Chiến lược di chuyển",
+        "Thiết kế kiến trúc",
+        "Di chuyển thí điểm",
+        "Di chuyển dữ liệu",
+        "Di chuyển ứng dụng",
+        "Kiểm tra",
+        "Di chuyển sản xuất",
+        "Tối ưu hóa"
+      ],
+      "benefits": [
+        "Khả năng mở rộng linh hoạt và tính sẵn sàng tài nguyên cao",
+        "Cơ sở hạ tầng linh hoạt hơn và linh hoạt hơn trong kinh doanh",
+        "Loại bỏ gánh nặng bảo trì trung tâm dữ liệu vật lý",
+        "Tăng tốc triển khai tính năng ứng dụng",
+        "Khả năng phục hồi sau thảm họa và khả năng phục hồi dự phòng mạnh mẽ",
+        "Truy cập ngay vào AI đám mây hiện đại và các dịch vụ được quản lý",
+        "Tối ưu hóa quản trị FinOps và giảm TCO",
+        "Tuân thủ liên tục và các rào chắn bảo mật tự động"
+      ],
+      "security": "Bảo mật là một phần không thể thiếu trong kế hoạch di chuyển. Chúng tôi xem xét quản lý danh tính và quyền truy cập, bảo mật mạng, mã hóa khi truyền và ở trạng thái nghỉ, bảo vệ dữ liệu, kiểm tra lỗ hổng ứng dụng, giám sát, sao lưu và khắc phục thảm họa.",
+      "ctaHeadline": "Hành trình trên đám mây của bạn được lên kế hoạch hợp lý",
+      "ctaSub": "Hiện đại hóa cơ sở hạ tầng của bạn. Tăng tốc đổi mới. Xây dựng nền tảng đám mây có thể mở rộng."
+    },
+    "data-center-solutions": {
+      "title": "Giải pháp trung tâm dữ liệu",
+      "tagline": "Cơ sở hạ tầng đáng tin cậy cho các hoạt động quan trọng.",
+      "heroBadge": "Cơ sở hạ tầng quan trọng",
+      "overview": [
+        "Trung tâm dữ liệu hình thành nền tảng cho các doanh nghiệp kỹ thuật số hiện đại. Các ứng dụng, cơ sở dữ liệu, hệ thống doanh nghiệp, nền tảng truyền thông và các dịch vụ kinh doanh quan trọng phụ thuộc vào cơ sở hạ tầng đáng tin cậy.",
+        "Các giải pháp trung tâm dữ liệu của chúng tôi tập trung vào việc thiết kế, hiện đại hóa, quản lý và tối ưu hóa môi trường cơ sở hạ tầng được xây dựng để đảm bảo tính sẵn sàng, bảo mật, khả năng mở rộng, hiệu suất và hiệu quả hoạt động."
+      ],
+      "transformation": [
+        "Một trung tâm dữ liệu hiện đại đòi hỏi nhiều thứ hơn ngoài máy chủ và bộ lưu trữ. Nó đòi hỏi cơ sở hạ tầng được thiết kế cẩn thận trên toàn bộ máy tính, mạng, bảo mật, nguồn điện, làm mát, giám sát, sao lưu và khắc phục thảm họa.",
+        "Chúng tôi giúp các tổ chức tạo ra môi trường cơ sở hạ tầng linh hoạt, hỗ trợ khối lượng công việc quan trọng và cung cấp nền tảng cho sự phát triển công nghệ trong tương lai."
+      ],
+      "capabilities": [
+        {
+          "title": "Thiết kế cơ sở hạ tầng",
+          "desc": "Chúng tôi thiết kế môi trường dựa trên yêu cầu khối lượng công việc, năng lực, hiệu suất, tính khả dụng, bảo mật và sự phát triển trong tương lai."
+        },
+        {
+          "title": "Cơ sở hạ tầng máy chủ",
+          "desc": "Chúng tôi hỗ trợ môi trường máy chủ vật lý và ảo cho các ứng dụng và khối lượng công việc quan trọng của doanh nghiệp."
+        },
+        {
+          "title": "Giải pháp lưu trữ",
+          "desc": "Chúng tôi xem xét các yêu cầu về hiệu suất, dung lượng, dự phòng, SAN/NAS tốc độ cao, sao lưu và bảo vệ dữ liệu khi thiết kế môi trường lưu trữ."
+        },
+        {
+          "title": "Hạ tầng mạng",
+          "desc": "Chúng tôi thiết kế môi trường mạng với khả năng phân đoạn, dự phòng, hiệu suất có độ trễ thấp, khả năng kết nối và kiểm soát bảo mật phù hợp."
+        },
+        {
+          "title": "Ảo hóa",
+          "desc": "Ảo hóa cải thiện việc sử dụng tài nguyên, tính linh hoạt của khối lượng công việc và quản lý cơ sở hạ tầng tập trung."
+        },
+        {
+          "title": "Sao lưu và khắc phục thảm họa",
+          "desc": "Chúng tôi giúp các tổ chức thiết lập các chiến lược sao lưu và kiến trúc phục hồi được thiết kế để giảm thiểu thời gian ngừng hoạt động và loại bỏ tình trạng mất dữ liệu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Đánh giá năng lực",
+        "Lập hồ sơ khối lượng công việc",
+        "Bản thiết kế kiến trúc",
+        "Phần cứng & Định cỡ ảo",
+        "Phân đoạn mạng",
+        "Cung cấp lưu trữ",
+        "Kiểm tra dự phòng & DR",
+        "Cắt giảm sản xuất",
+        "Theo dõi sức khỏe 24/7",
+        "Tối ưu hóa liên tục"
+      ],
+      "benefits": [
+        "Đảm bảo 99,999% thời gian hoạt động của cơ sở hạ tầng",
+        "Không có điểm lỗi duy nhất với dự phòng nhiều lớp",
+        "Tối ưu hóa tính toán máy chủ và ảo hóa mật độ cao",
+        "Kiến trúc mạng có độ trễ thấp dưới một phần nghìn giây",
+        "Tăng cường bảo mật vật lý và kỹ thuật số",
+        "Giám sát chủ động và chuyển đổi lỗi tự động",
+        "Bộ lưu trữ mô-đun có thể mở rộng cho dữ liệu ở quy mô petabyte",
+        "Tổng chi phí sở hữu và hiệu suất sử dụng điện có thể dự đoán được"
+      ],
+      "security": "Bảo mật được tích hợp trên toàn bộ lớp cơ sở hạ tầng, bao gồm phân đoạn mạng vi mô, nguồn gốc tin cậy của phần cứng, kiểm soát truy cập không tin cậy, kiểm tra lỗ hổng liên tục, bảo vệ điểm cuối và các chính sách hoạt động nghiêm ngặt.",
+      "ctaHeadline": "Cơ sở hạ tầng sẵn sàng cho tương lai",
+      "ctaSub": "Xây dựng cơ sở hạ tầng đáng tin cậy ngay hôm nay. Tạo nền tảng cho công nghệ của ngày mai."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Phân tích nhận thức & AI",
+      "tagline": "Biến dữ liệu thành thông minh.",
+      "heroBadge": "Thông tin dữ liệu để đưa ra quyết định",
+      "overview": [
+        "Các tổ chức tạo ra lượng thông tin khổng lồ thông qua các ứng dụng, giao dịch, khách hàng, hoạt động, thiết bị và nền tảng kỹ thuật số. Thử thách không còn đơn giản là thu thập dữ liệu nữa; đó là hiểu dữ liệu đó và biến nó thành thông tin tình báo có thể hành động được.",
+        "Các giải pháp Phân tích nhận thức & AI của chúng tôi kết hợp phân tích nâng cao, học máy, trí tuệ nhân tạo, xử lý dữ liệu và trí tuệ kinh doanh để giúp các tổ chức đưa ra quyết định tốt hơn."
+      ],
+      "transformation": [
+        "Báo cáo truyền thống cho các tổ chức biết điều gì đã xảy ra. Phân tích nâng cao có thể giúp giải thích lý do tại sao điều đó xảy ra, xác định điều gì có thể xảy ra tiếp theo và hỗ trợ các quyết định về điều gì sẽ xảy ra.",
+        "Chúng tôi giúp các tổ chức thiết lập môi trường dữ liệu vượt ra ngoài báo cáo tĩnh để hướng tới phân tích thông minh và hỗ trợ quyết định."
+      ],
+      "capabilities": [
+        {
+          "title": "Phân tích mô tả",
+          "desc": "Hiểu hiệu suất lịch sử thông qua các báo cáo tương tác, bảng chỉ số đa chiều, KPI và số liệu kinh doanh."
+        },
+        {
+          "title": "Phân tích chẩn đoán",
+          "desc": "Xác định các mối quan hệ, xu hướng, sự bất thường về mặt thống kê và nguyên nhân sâu xa đằng sau kết quả kinh doanh."
+        },
+        {
+          "title": "Phân tích dự đoán",
+          "desc": "Sử dụng dữ liệu truyền phát lịch sử và thời gian thực với các mô hình thống kê để xác định các kết quả và nhu cầu tiềm năng trong tương lai."
+        },
+        {
+          "title": "Phân tích theo quy định",
+          "desc": "Đánh giá các hành động có thể thực hiện và hỗ trợ các lộ trình ra quyết định tối ưu dựa trên kết quả dự đoán và mục tiêu kinh doanh chiến lược."
+        },
+        {
+          "title": "Mô hình học máy",
+          "desc": "Phát triển các mô hình tùy chỉnh để dự báo, phân loại khách hàng, đề xuất, phát hiện gian lận bất thường và bảo trì dự đoán."
+        },
+        {
+          "title": "Thông tin chi tiết được hỗ trợ bởi AI",
+          "desc": "Áp dụng AI nhận thức cho khối lượng lớn thông tin phi cấu trúc để hiển thị các mẫu ẩn, tóm tắt điều hành và đề xuất."
+        }
+      ],
+      "lifecycleSteps": [
+        "Nguồn dữ liệu",
+        "Tích hợp dữ liệu",
+        "Xử lý dữ liệu",
+        "Lưu trữ dữ liệu",
+        "Phân tích",
+        "Mô hình AI/ML",
+        "Trực quan hóa",
+        "Quyết định kinh doanh"
+      ],
+      "benefits": [
+        "Ra quyết định điều hành dựa trên thực tế, dựa trên dữ liệu",
+        "Dự báo chính xác về nhu cầu, doanh thu và tỷ lệ rời bỏ",
+        "Phát hiện gian lận và bất thường theo thời gian thực",
+        "Hiểu biết sâu sắc về hành vi khách hàng và cá nhân hóa 360°",
+        "Tối ưu hóa chuỗi cung ứng và hiệu quả hoạt động",
+        "Giảm thiểu rủi ro hoạt động và tài chính",
+        "Khám phá các cơ hội doanh thu tiềm ẩn",
+        "Tăng tốc thời gian thu thập thông tin chuyên sâu giữa các đơn vị kinh doanh"
+      ],
+      "security": "Hệ sinh thái phân tích của chúng tôi triển khai mã hóa hai đầu, che giấu dữ liệu tự động, quyền RBAC nghiêm ngặt và quản trị mô hình để bảo vệ dữ liệu độc quyền và duy trì tuân thủ quy định (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Xây dựng chiến lược dữ liệu thông minh",
+      "ctaSub": "Biến thông tin thành cái nhìn sâu sắc. Biến cái nhìn sâu sắc thành hành động."
+    },
+    "information-reporting-systems": {
+      "title": "Hệ thống thông tin & báo cáo",
+      "tagline": "Thông tin phù hợp. Vào Đúng Thời Điểm. Để có quyết định tốt hơn.",
+      "heroBadge": "Thông tin doanh nghiệp hợp nhất",
+      "overview": [
+        "Lãnh đạo doanh nghiệp và đội ngũ vận hành dựa vào thông tin chính xác để đưa ra quyết định hiệu quả. Hệ thống Thông tin & Báo cáo của chúng tôi giúp các tổ chức thu thập, sắp xếp, phân tích và trình bày thông tin doanh nghiệp thông qua hệ thống thông tin có cấu trúc, nền tảng báo cáo, trang tổng quan và quy trình báo cáo tự động.",
+        "Các tổ chức thường có thông tin được phân phối trên các ứng dụng, bảng tính, cơ sở dữ liệu và hệ điều hành. Điều này gây khó khăn cho việc thiết lập một cái nhìn nhất quán về hiệu quả kinh doanh. Chúng tôi giúp tích hợp các nguồn thông tin vào môi trường báo cáo có cấu trúc nhằm cung cấp thông tin kinh doanh đáng tin cậy, dễ tiếp cận và nhất quán."
+      ],
+      "transformation": [
+        "Hệ thống báo cáo không nên chỉ hiển thị các con số. Nó sẽ giúp người dùng hiểu hiệu suất, xác định vấn đề, khám phá cơ hội và đưa ra quyết định sáng suốt.",
+        "Chúng tôi thiết kế môi trường báo cáo xung quanh cách tổ chức của bạn hoạt động, cung cấp hệ sinh thái dữ liệu có cấu trúc để ra quyết định phù hợp với tất cả các cấp quản lý."
+      ],
+      "capabilities": [
+        {
+          "title": "Hệ thống thông tin quản lý (MIS)",
+          "desc": "Phát triển hệ thống thông tin thống nhất cung cấp cho ban quản lý điều hành tầm nhìn chiến lược và hoạt động phù hợp."
+        },
+        {
+          "title": "Báo cáo kinh doanh",
+          "desc": "Chuyển đổi dữ liệu kinh doanh thô từ nhiều kênh thành các báo cáo có cấu trúc, chuẩn hóa để theo dõi hiệu suất liên tục."
+        },
+        {
+          "title": "Bảng điều khiển tương tác",
+          "desc": "Cung cấp khả năng hiển thị tương tác theo thời gian thực hoặc theo lịch trình về các số liệu kinh doanh quan trọng, KPI, xu hướng và hoạt động của bộ phận."
+        },
+        {
+          "title": "Quản lý KPI",
+          "desc": "Xác định, theo dõi và đánh giá các KPI hoạt động có ý nghĩa phù hợp trực tiếp với các mục tiêu tăng trưởng tổng thể của doanh nghiệp."
+        },
+        {
+          "title": "Tích hợp dữ liệu",
+          "desc": "Tích hợp các nguồn dữ liệu phân tán vào kho dữ liệu thống nhất và các lớp ngữ nghĩa để báo cáo một ngăn nhất quán."
+        },
+        {
+          "title": "Báo cáo tự động",
+          "desc": "Tự động tạo và phân phối các báo cáo được cá nhân hóa theo lịch trình, quy tắc kinh doanh và phân cấp người nhận được xác định trước."
+        }
+      ],
+      "lifecycleSteps": [
+        "Hệ thống kinh doanh",
+        "Thu thập dữ liệu",
+        "Tích hợp dữ liệu",
+        "Xử lý dữ liệu",
+        "Kho dữ liệu",
+        "Phân tích",
+        "Báo cáo & Trang tổng quan"
+      ],
+      "benefits": [
+        "Nguồn thông tin đáng tin cậy duy nhất trên toàn bộ doanh nghiệp",
+        "Truy cập nhanh hơn vào các số liệu hoạt động theo thời gian thực",
+        "Loại bỏ hoàn toàn việc lắp ráp bảng tính thủ công",
+        "Các KPI liên bộ phận nhất quán và hài hòa",
+        "Giám sát điều hành và khả năng kiểm toán vượt trội",
+        "Tự động phân phối trực tiếp đến các bên liên quan",
+        "Bảo mật và quyền dữ liệu cấp hàng chi tiết",
+        "Tăng cường tính linh hoạt để ứng phó với các bất thường trong vận hành"
+      ],
+      "security": "Thông tin doanh nghiệp có thể chứa dữ liệu nhạy cảm về hoạt động, tài chính và khách hàng. Các giải pháp báo cáo của chúng tôi nhúng xác thực đa yếu tố, ủy quyền chi tiết dựa trên vai trò, mã hóa và nhật ký kiểm tra vào kiến ​​trúc báo cáo.",
+      "ctaHeadline": "Báo cáo hỗ trợ tăng trưởng",
+      "ctaSub": "Giúp thông tin có thể tiếp cận được. Làm cho hiệu suất hiển thị. Đưa ra quyết định tốt hơn."
+    },
+    "managed-services": {
+      "title": "Dịch vụ được quản lý",
+      "tagline": "Hoạt động công nghệ đáng tin cậy. Hỗ trợ chuyên gia. Cải tiến liên tục.",
+      "heroBadge": "Vận hành & hỗ trợ CNTT 24/7",
+      "overview": [
+        "Môi trường CNTT hiện đại rất phức tạp và thay đổi liên tục. Các tổ chức cần cơ sở hạ tầng, ứng dụng, mạng, bảo mật, giám sát và hỗ trợ kỹ thuật đáng tin cậy để duy trì hoạt động kinh doanh.",
+        "Dịch vụ được quản lý của chúng tôi cung cấp hỗ trợ vận hành và quản lý công nghệ liên tục, cho phép các tổ chức duy trì môi trường CNTT đáng tin cậy trong khi các nhóm nội bộ tập trung vào các sáng kiến ​​chiến lược."
+      ],
+      "transformation": [
+        "Hỗ trợ CNTT truyền thống thường tập trung giải quyết các vấn đề sau khi chúng xảy ra. Các dịch vụ được quản lý có cách tiếp cận chủ động bằng cách liên tục giám sát cơ sở hạ tầng, ứng dụng, hệ thống và môi trường hoạt động.",
+        "Cách tiếp cận này giúp xác định sớm các vấn đề tiềm ẩn, duy trì hiệu suất, cải thiện tính khả dụng và giảm thiểu sự gián đoạn hoạt động có thể tránh được."
+      ],
+      "capabilities": [
+        {
+          "title": "Quản lý cơ sở hạ tầng",
+          "desc": "Hỗ trợ vận hành, vá lỗi và quản lý liên tục các máy chủ, lưu trữ, nền tảng ảo hóa và cơ sở hạ tầng."
+        },
+        {
+          "title": "Quản lý đám mây",
+          "desc": "Quản lý khối lượng công việc trên đám mây, tài nguyên đa đám mây, cấu hình, giám sát, hiệu suất và tối ưu hóa FinOps."
+        },
+        {
+          "title": "Quản lý mạng",
+          "desc": "Cung cấp giám sát 24/7, quản lý hiệu suất, hỗ trợ cấu hình, tối ưu hóa SD-WAN và giải quyết sự cố mạng."
+        },
+        {
+          "title": "Quản lý ứng dụng",
+          "desc": "Hỗ trợ các môi trường ứng dụng quan trọng thông qua việc chủ động giám sát, bảo trì, giải quyết lỗi và nâng cấp hoạt động."
+        },
+        {
+          "title": "Giám sát & Quan sát",
+          "desc": "Cung cấp khả năng hiển thị toàn diện theo thời gian thực về tình trạng hệ thống, độ trễ, thời gian hoạt động, sự phụ thuộc của cơ sở hạ tầng và cảnh báo."
+        },
+        {
+          "title": "Quản lý sao lưu và phục hồi",
+          "desc": "Duy trì lịch sao lưu tự động, kiểm tra các lỗi chuyển đổi thường xuyên và đảm bảo khả năng phục hồi tức thì."
+        },
+        {
+          "title": "Hoạt động bảo mật (SecOps)",
+          "desc": "Cung cấp giám sát bảo mật liên tục, quản lý bản vá, thực thi kiểm soát truy cập và chủ động giảm thiểu mối đe dọa."
+        }
+      ],
+      "lifecycleSteps": [
+        "Làm quen với môi trường",
+        "Khám phá & Đường cơ sở",
+        "Tích hợp đo từ xa",
+        "Định nghĩa SLA",
+        "Giám sát tích cực 24/7",
+        "Phân loại sự cố",
+        "Độ phân giải nhanh",
+        "Phân tích nguyên nhân gốc rễ",
+        "Kỹ thuật phòng ngừa",
+        "Tối ưu hóa liên tục"
+      ],
+      "benefits": [
+        "Giảm đáng kể gánh nặng vận hành nội bộ",
+        "Chủ động phát hiện sự cố trước khi người dùng bị ảnh hưởng",
+        "Đảm bảo 99,99% tính khả dụng và thời gian hoạt động của hệ thống",
+        "Lập ngân sách hoạt động CNTT minh bạch, có thể dự đoán được",
+        "Tiếp cận ngay với các chuyên gia kỹ thuật cấp cao",
+        "Thời gian phản hồi sự cố nhanh chóng được hỗ trợ bởi SLA",
+        "Tự động khắc phục thảm họa và duy trì hoạt động kinh doanh",
+        "Liên tục tối ưu hóa và hiện đại hóa công nghệ"
+      ],
+      "security": "Các hoạt động được quản lý của chúng tôi tuân thủ các khuôn khổ ITIL và ISO nghiêm ngặt, đảm bảo quyền truy cập được mã hóa, nhật ký kiểm tra riêng biệt, lưu trữ thông tin xác thực có đặc quyền tối thiểu và căn chỉnh tuân thủ trên mọi tài nguyên được quản lý.",
+      "ctaHeadline": "Cải tiến liên tục",
+      "ctaSub": "Bạn tập trung vào công việc kinh doanh của mình. Chúng tôi giúp duy trì hoạt động công nghệ của bạn."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Giải pháp công nghệ toàn diện",
+      "tagline": "Một đối tác công nghệ. Nhiều khả năng. Giải pháp kinh doanh hoàn chỉnh.",
+      "heroBadge": "Đối tác doanh nghiệp hợp nhất",
+      "overview": [
+        "Các tổ chức thường làm việc với nhiều nhà cung cấp công nghệ về cơ sở hạ tầng, đám mây, ứng dụng, tự động hóa, phân tích, bảo mật, hỗ trợ và chuyển đổi kỹ thuật số. Việc quản lý nhiều nhà cung cấp có thể tạo ra sự phức tạp, khoảng cách trong giao tiếp, nỗ lực trùng lặp và môi trường công nghệ bị phân mảnh.",
+        "Phương pháp Giải pháp công nghệ toàn diện của chúng tôi tập hợp nhiều khả năng theo mô hình dịch vụ thống nhất, giúp các tổ chức lập kế hoạch, triển khai, tích hợp, vận hành và liên tục cải thiện môi trường công nghệ của họ."
+      ],
+      "transformation": [
+        "Chúng tôi hỗ trợ vòng đời công nghệ hoàn chỉnh—từ việc hiểu các yêu cầu kinh doanh và xác định chiến lược công nghệ đến thiết kế giải pháp, triển khai nền tảng, tích hợp hệ thống, triển khai ứng dụng, giám sát môi trường và cung cấp hỗ trợ liên tục.",
+        "Mục tiêu là tạo ra một hệ sinh thái công nghệ được kết nối chứ không phải là các giải pháp biệt lập."
+      ],
+      "capabilities": [
+        {
+          "title": "Chiến lược & Kiến trúc",
+          "desc": "Hiểu mục tiêu kinh doanh và thiết kế kiến trúc công nghệ có thể mở rộng, an toàn và bảo trì."
+        },
+        {
+          "title": "Triển khai & Xây dựng",
+          "desc": "Triển khai các ứng dụng, cơ sở hạ tầng, tích hợp, tự động hóa và nền tảng kỹ thuật số với sự chặt chẽ của doanh nghiệp."
+        },
+        {
+          "title": "Tích hợp hệ thống",
+          "desc": "Kết nối hệ thống và ứng dụng để thông tin được truyền đi liền mạch trong toàn bộ tổ chức."
+        },
+        {
+          "title": "Triển khai có cấu trúc",
+          "desc": "Thiết lập các quy trình CI/CD và phát hành tự động để đưa các giải pháp vào sản xuất một cách đáng tin cậy và an toàn."
+        },
+        {
+          "title": "Giám sát liên tục",
+          "desc": "Cung cấp khả năng hiển thị toàn diện về cơ sở hạ tầng, ứng dụng, hiệu suất, tính khả dụng và tình trạng hoạt động."
+        },
+        {
+          "title": "Tối ưu hóa & Hỗ trợ",
+          "desc": "Liên tục xem xét môi trường để cải thiện hiệu suất, độ tin cậy, hiệu quả chi phí và khả năng mở rộng."
+        }
+      ],
+      "lifecycleSteps": [
+        "Chiến lược",
+        "Kiến trúc",
+        "Thực hiện",
+        "Tích hợp",
+        "Triển khai",
+        "Giám sát",
+        "Tối ưu hóa",
+        "Hỗ trợ"
+      ],
+      "benefits": [
+        "Giảm độ phức tạp và chi phí quản lý nhà cung cấp",
+        "Phối hợp liền mạch trên tất cả các lớp kiến trúc",
+        "Thực hiện dự án nhanh hơn với độ trễ chuyển giao bằng 0",
+        "Phân bổ ngân sách có thể dự đoán được và phân phối minh bạch",
+        "Thống nhất trách nhiệm doanh nghiệp từ con số 0 đến quy mô",
+        "Các giải pháp có thể mở rộng được thiết kế để phát triển kinh doanh trong tương lai",
+        "Hợp tác công nghệ tin cậy lâu dài",
+        "Chuyển đổi số toàn diện từ đầu đến cuối"
+      ],
+      "security": "Với một đối tác đáng tin cậy duy nhất giám sát kiến trúc, triển khai và vận hành, quản trị bảo mật vẫn không bị gián đoạn ở tất cả các cấp—loại bỏ các điểm mù tích hợp và đảm bảo tuân thủ liên tục.",
+      "ctaHeadline": "Đối tác công nghệ hoàn chỉnh của bạn",
+      "ctaSub": "Một đối tác. Một tầm nhìn. Nhiều công nghệ. Giải pháp hoàn chỉnh."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Tổng quan doanh nghiệp",
+    "overviewTitle": "Công nghệ thông minh cho kết quả có thể đo lường được",
+    "transformationEyebrow": "Chuyển đổi hoạt động",
+    "transformationTitle": "Chuyển đổi doanh nghiệp thông qua quy trình làm việc thông minh",
+    "deliveryEyebrow": "Phương pháp phân phối có cấu trúc",
+    "deliveryTitle": "Thực thi từ đầu đến cuối & Tối ưu hóa liên tục",
+    "deliveryIntro": "Phương pháp triển khai đã được chứng minh của chúng tôi tuân theo vòng đời phân phối nghiêm ngặt:",
+    "deliveryOutro": "Trình tự có cấu trúc này đảm bảo sự liên kết chặt chẽ với các mục tiêu kinh doanh, trạng thái bảo mật mạnh mẽ và điểm chuẩn ROI có thể đo lường được ở mọi giai đoạn.",
+    "securityEyebrow": "An ninh & Quản trị",
+    "securityTitle": "Các biện pháp bảo vệ tuân thủ và độ tin cậy cấp doanh nghiệp",
+    "securityOutro": "Chúng tôi nhúng kiểm soát truy cập dựa trên vai trò nghiêm ngặt, quét lỗ hổng tự động, quản trị mô hình và mã hóa nhiều tầng để đảm bảo môi trường sản xuất của bạn luôn linh hoạt và tuân thủ đầy đủ.",
+    "capabilitiesTitle": "Năng lực công nghệ cốt lõi",
+    "capabilitiesSub": "Năng lực kỹ thuật toàn diện được thiết kế để mở rộng quy mô hoạt động kỹ thuật số của bạn.",
+    "bookDiscovery": "Sách Khám phá công nghệ",
+    "exploreAll": "Khám phá mọi công nghệ",
+    "bookConsultation": "Đặt lịch tư vấn",
+    "coreCapabilities": "Năng lực cốt lõi"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Năng lực cốt lõi",
+    "exploreFramework": "Khám phá khung giải pháp",
+    "bookConsultation": "Đặt lịch tư vấn",
+    "viewCaseStudies": "Xem nghiên cứu điển hình",
+    "provenPillars": "Trụ cột đã được chứng minh",
+    "operationalOutcomes": "Kết quả hoạt động",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Kỹ thuật số toàn diện",
+      "titlePart1": "Khởi đầu tới",
+      "titlePart2": "Triển khai",
+      "description": "Phát triển toàn diện các giải pháp kỹ thuật số mới từ yêu cầu kinh doanh và kiến trúc giải pháp thông qua phát triển, tích hợp, thử nghiệm, triển khai và hỗ trợ liên tục.",
+      "bookConsultation": "Đặt lịch tư vấn",
+      "exploreEngineering": "Khám phá Giải pháp Kỹ thuật",
+      "coreCapabilities": [
+        "Yêu cầu kỹ thuật",
+        "Kiến trúc giải pháp",
+        "Phát triển ứng dụng",
+        "Tích hợp API",
+        "Đảm bảo chất lượng",
+        "DevOps",
+        "Triển khai",
+        "Hỗ trợ & Bảo trì"
+      ],
+      "row1Eyebrow": "Giao hàng trọn đời",
+      "row1Title": "Phát triển toàn diện từ yêu cầu đến quy mô",
+      "row1P1": "Mọi sáng kiến kỹ thuật số mới đều bắt đầu với những yêu cầu, quy trình vận hành và mục tiêu chiến lược riêng biệt mà phần mềm chung không thể đáp ứng được. Chúng tôi chuyên xây dựng các hệ thống phần mềm tùy chỉnh, hiệu suất cao hoàn toàn từ đầu.",
+      "row1P2": "Từ khám phá yêu cầu ban đầu và thiết kế kiến ​​trúc kỹ thuật đến phát triển chạy nước rút linh hoạt, tích hợp hệ sinh thái API, quy trình thử nghiệm mạnh mẽ và triển khai đám mây tự động, nhóm kỹ thuật cấp cao của chúng tôi có toàn quyền sở hữu vòng đời sản phẩm của bạn.",
+      "row2Eyebrow": "Giải pháp Kiến trúc & Kỹ thuật",
+      "row2Title": "Hệ thống có thể mở rộng được xây dựng để phát triển doanh nghiệp",
+      "row2P1": "Chúng tôi thiết kế các kiến trúc phần mềm có khả năng phục hồi phù hợp để chịu được khối lượng sản xuất lớn. Từ các dịch vụ vi mô mô-đun và chương trình phụ trợ theo sự kiện cho đến luồng dữ liệu thông lượng cao và API GraphQL/REST, chúng tôi xây dựng các nền tảng có khả năng mở rộng quy mô một cách dễ dàng.",
+      "row2P2": "Bằng cách thiết lập các cơ sở mã mô-đun rõ ràng kết hợp với thử nghiệm tự động và tuân thủ bảo mật liên tục, chúng tôi đảm bảo nền tảng phần mềm của bạn có thể bảo trì, kiểm tra được và sẵn sàng cho quá trình phát triển lâu dài.",
+      "row3Eyebrow": "Đảm bảo chất lượng & DevOps",
+      "row3Title": "Giao hàng linh hoạt với đường ống tự động",
+      "row3P1": "Mô hình phân phối của chúng tôi nhúng đơn vị tự động, tích hợp và thử nghiệm hồi quy từ đầu đến cuối cùng với quy trình công việc CI/CD được đóng gói (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Với các bản demo chạy nước rút minh bạch, khả năng quan sát theo thời gian thực và vận tốc theo mốc quan trọng, chúng tôi đảm bảo thời gian đưa sản phẩm ra thị trường nhanh chóng mà không ảnh hưởng đến tính bảo mật, tính ổn định hoặc trải nghiệm người dùng.",
+      "row4Eyebrow": "Triển khai & Hỗ trợ",
+      "row4Title": "Hoạt động đáng tin cậy 24/7 và phát triển lâu dài",
+      "row4P1": "Ra mắt trực tiếp chỉ là bước khởi đầu. Chúng tôi cung cấp dịch vụ giám sát chủ động, bảo trì dựa trên SLA, tối ưu hóa cơ sở hạ tầng đám mây, điều chỉnh hiệu suất và triển khai tính năng liên tục.",
+      "row4P2": "Đội ngũ kỹ thuật của chúng tôi hoạt động như một phần mở rộng tự nhiên của tổ chức của bạn, đảm bảo không có thời gian ngừng hoạt động và tính ưu việt về công nghệ liên tục trên thị trường của bạn.",
+      "pillarsTitle": "Năng lực cốt lõi",
+      "pillarsSub": "Toàn bộ khả năng ngăn xếp được thiết kế để đưa ý tưởng của bạn từ con số 0 đến sản xuất.",
+      "pillar1Title": "Yêu cầu kỹ thuật",
+      "pillar1Desc": "Phân tích chuyên sâu về hoạt động kinh doanh, thông số chức năng và lập bản đồ hành trình của người dùng để xác định ranh giới giải pháp chính xác.",
+      "pillar2Title": "Kiến trúc giải pháp",
+      "pillar2Desc": "Kiến trúc gốc đám mây có thể mở rộng, mô hình hóa cơ sở dữ liệu, thiết kế vi dịch vụ và nền tảng bảo mật không tin cậy.",
+      "pillar3Title": "Phát triển ứng dụng",
+      "pillar3Desc": "Các ứng dụng di động và web full-stack hiện đại được thiết kế với mã sạch, an toàn kiểu và tiêu chuẩn giao diện người dùng phản ứng.",
+      "pillar4Title": "Tích hợp API",
+      "pillar4Desc": "API REST/GraphQL thông lượng cao, điều phối webhook, cổng thanh toán và đồng bộ hóa liền mạch ERP/CRM của bên thứ ba.",
+      "ctaTitle": "Bạn đã sẵn sàng xây dựng giải pháp của mình từ khi bắt đầu đến khi triển khai chưa?",
+      "ctaSub": "Hợp tác với Rezonants để kiến ​​trúc, thiết kế và triển khai nền tảng kỹ thuật số tùy chỉnh của bạn từ yêu cầu kinh doanh đến thực tế sản xuất.",
+      "ctaButton": "Đăng ký tư vấn giải pháp",
+      "pillar5Title": "Đảm bảo chất lượng",
+      "pillar5Desc": "Tự động hóa kiểm tra nghiêm ngặt, kiểm tra tải/căng thẳng, quét lỗ hổng và bộ kiểm tra hồi quy.",
+      "pillar6Title": "DevOps & Triển khai",
+      "pillar6Desc": "Quy trình CI/CD tự động, điều phối vùng chứa (Docker/K8), cơ sở hạ tầng dưới dạng mã và bản phát hành không có thời gian ngừng hoạt động.",
+      "pillar7Title": "Hỗ trợ & Bảo trì",
+      "pillar7Desc": "Giám sát chủ động 24/7, đo sức khỏe từ xa, kiểm tra hiệu suất, vá bảo mật và bảo trì SLA liên tục.",
+      "pillar8Title": "Đổi mới liên tục",
+      "pillar8Desc": "Tốc độ tính năng thường xuyên, tích hợp phân tích dữ liệu, nâng cao AI và hiện đại hóa kiến trúc."
+    },
+    "processAutomation": {
+      "eyebrow": "Quy trình vận hành thông minh",
+      "titlePart1": "Quy trình kinh doanh",
+      "titlePart2": "Tự động hóa",
+      "description": "Tự động hóa toàn diện quy trình làm việc của doanh nghiệp, kết hợp tự động hóa quy trình bằng robot (RPA), xử lý tài liệu thông minh, công cụ quy tắc kinh doanh và tích hợp hệ thống.",
+      "bookDiscovery": "Khám phá tự động hóa sách",
+      "exploreFramework": "Khám phá khung giải pháp",
+      "coreCapabilities": [
+        "Tự động hóa quy trình làm việc",
+        "Tự động hóa quy trình bằng robot",
+        "Xử lý văn bản",
+        "Kỹ thuật tích hợp",
+        "Công cụ quy tắc kinh doanh",
+        "Phân tích quy trình",
+        "Tối ưu hóa liên tục",
+        "Tích hợp kế thừa"
+      ],
+      "row1Eyebrow": "Tự động hóa quy trình bằng robot",
+      "row1Title": "Bot thông minh cho hoạt động khối lượng lớn",
+      "row1P1": "Loại bỏ việc nhập dữ liệu thủ công lặp đi lặp lại, đối chiếu giữa các hệ thống và định tuyến tài liệu. Chúng tôi triển khai các bot RPA doanh nghiệp thực thi các tác vụ có cấu trúc 24/7 với tỷ lệ lỗi bằng 0.",
+      "row1P2": "Bằng cách kết nối các giao diện máy tính để bàn cũ, hệ thống phụ trợ SAP/ERP và cơ sở dữ liệu đám mây, bot phần mềm giúp nhóm của bạn có thể tập trung vào các sáng kiến ​​kinh doanh chiến lược.",
+      "row2Eyebrow": "Xử lý tài liệu thông minh",
+      "row2Title": "OCR, Machine Learning & Tài liệu AI",
+      "row2P1": "Tự động nhập, phân loại và trích xuất dữ liệu từ hóa đơn, hợp đồng, chứng từ nhận dạng và khiếu nại. Quy trình do AI điều khiển của chúng tôi xác thực các trường dựa trên cơ sở dữ liệu nội bộ và kích hoạt quy trình phê duyệt tự động.",
+      "row2P2": "Đạt tỷ lệ xử lý xuyên suốt vượt quá 95% đồng thời giảm đáng kể thời gian xử lý từ vài ngày xuống vài giây.",
+      "row3Eyebrow": "Điều phối quy trình",
+      "row3Title": "Đồng bộ hóa đa nền tảng từ đầu đến cuối",
+      "row3P1": "Kết nối các API CRM, ERP, HRMS và ngân hàng thành các luồng dữ liệu thời gian thực thống nhất. Chúng tôi triển khai trình kích hoạt theo hướng sự kiện, hàng đợi tin nhắn và trình xử lý dự phòng tự động.",
+      "row3P2": "Thông tin được truyền đi liền mạch giữa các phòng ban mà không cần sự can thiệp của con người, loại bỏ các rào cản hoạt động và sự chậm trễ trong giao tiếp.",
+      "row4Eyebrow": "Đo từ xa liên tục",
+      "row4Title": "Phân tích quy trình theo thời gian thực & Thông tin chi tiết về Kaizen",
+      "row4P1": "Theo dõi thời gian thực hiện quy trình, bản đồ nhiệt tắc nghẽn, tần suất lỗi và ROI tài chính trong bảng thông tin điều hành theo thời gian thực.",
+      "row4P2": "Chẩn đoán máy học liên tục khám phá các cơ hội tự động hóa mới, giúp doanh nghiệp của bạn hoạt động ở hiệu quả tối đa.",
+      "pillarsTitle": "Trụ cột tự động hóa",
+      "pillarsSub": "Các nền tảng đã được chứng minh cho hoạt động thông minh của doanh nghiệp.",
+      "pillar1Title": "Tự động hóa quy trình làm việc",
+      "pillar1Desc": "Quy trình làm việc kỹ thuật số và con người trong vòng lặp gồm nhiều bước được phối hợp với định tuyến và leo thang tự động.",
+      "pillar2Title": "Tự động hóa quy trình bằng robot",
+      "pillar2Desc": "Các bot phần mềm dựa trên quy tắc thực hiện các tác vụ nhập, đối chiếu và ứng dụng chéo dữ liệu thông thường.",
+      "pillar3Title": "Tự động hóa AI thông minh",
+      "pillar3Desc": "Tác nhân AI nhận thức có khả năng diễn giải ngữ cảnh, tóm tắt văn bản phi cấu trúc và đưa ra quyết định tự động.",
+      "pillar4Title": "Tối ưu hóa quy trình",
+      "pillar4Desc": "Khai thác quy trình, phát hiện tắc nghẽn và quy trình công việc Kaizen liên tục giảm chi phí vận hành.",
+      "ctaTitle": "Bạn đã sẵn sàng tự động hóa quy trình kinh doanh của mình chưa?",
+      "ctaSub": "Kết nối với các kiến ​​trúc sư tự động hóa của chúng tôi để xác định các cơ hội có ROI cao và triển khai quy trình làm việc kỹ thuật số thông minh.",
+      "ctaButton": "Đặt lịch tư vấn tự động hóa"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Tiêu chuẩn kỹ thuật & R&D",
+      "titlePart1": "Trung tâm",
+      "titlePart2": "Xuất sắc",
+      "description": "Một tổ chức tập trung gồm các kiến trúc sư cấp cao và chuyên gia lĩnh vực chuyên tiêu chuẩn hóa các hoạt động kỹ thuật, thúc đẩy đổi mới và thúc đẩy các sáng kiến kỹ thuật số.",
+      "exploreStandards": "Khám phá các tiêu chuẩn kỹ thuật",
+      "initiateAssessment": "Bắt đầu đánh giá CoE",
+      "coreCapabilities": [
+        "Tiêu chuẩn kiến trúc",
+        "Khung có thể tái sử dụng",
+        "Thực tiễn quản trị tốt nhất",
+        "Phát triển kỹ năng",
+        "Đo điểm chuẩn chất lượng",
+        "R&D & Đổi mới",
+        "Đánh giá công nghệ",
+        "Hướng dẫn liên dự án"
+      ],
+      "uptimeLabel": "Thời gian hoạt động của doanh nghiệp",
+      "engineersLabel": "Kỹ sư & Kiến trúc sư",
+      "deploymentsLabel": "Triển khai AI & Đám mây",
+      "satisfactionLabel": "Sự hài lòng của khách hàng",
+      "row1Eyebrow": "Trụ cột 01 — Tiêu chuẩn kỹ thuật",
+      "row1Title": "Kỹ thuật phần mềm hiệu suất cao",
+      "row1P1": "Trung tâm Xuất sắc của chúng tôi thiết lập các mẫu thiết kế được tiêu chuẩn hóa, kiểm tra tự động nghiêm ngặt và thực hành đánh giá mã không có lỗi để đẩy nhanh thời gian đưa ra thị trường trong khi vẫn giữ nợ kỹ thuật ở mức 0.",
+      "row1F1": "Quy trình phát hành CI/CD tự động với phân tích số liệu DORA",
+      "row1F2": "Ban đánh giá kiến trúc & quản trị vi dịch vụ nghiêm ngặt",
+      "row1F3": "Liên tục bảo mật và vá lỗ hổng bảo mật tự động",
+      "row1Btn": "Tìm hiểu Tiêu chuẩn Kỹ thuật",
+      "row1Tag": "DevOps & Kỹ thuật chất lượng",
+      "row2Eyebrow": "Trụ cột 02 — Đổi mới R&D",
+      "row2Title": "Phòng thí nghiệm đổi mới AI & Công nghệ mới nổi",
+      "row2P1": "Chúng tôi thử nghiệm các mô hình máy học tiên tiến, tác nhân AI tùy chỉnh và tự động hóa quy trình làm việc thông minh để xây dựng các sản phẩm doanh nghiệp thế hệ tiếp theo.",
+      "row2F1": "Tích hợp kiến thức AI & RAG sáng tạo dành cho doanh nghiệp",
+      "row2F2": "Quy trình làm việc của tác nhân AI tự động để tự động hóa quy trình kinh doanh",
+      "row2F3": "Tinh chỉnh và tối ưu hóa mô hình học máy tùy chỉnh",
+      "row2Btn": "Khám phá Phòng thí nghiệm AI",
+      "row2Tag": "Trí tuệ nhân tạo & R&D thần kinh",
+      "row3Eyebrow": "Trụ cột 03 — Cơ sở hạ tầng",
+      "row3Title": "Kiến trúc đám mây doanh nghiệp & Bảo mật không tin cậy",
+      "row3P1": "Chúng tôi thiết kế và quản lý các môi trường nhiều đám mây linh hoạt được xây dựng trên khung bảo mật không tin cậy, đảm bảo dữ liệu của bạn vẫn được bảo vệ trước các mối đe dọa mạng toàn cầu ngày càng gia tăng.",
+      "row3F1": "Điều phối cơ sở hạ tầng đa đám mây AWS, Azure và GCP",
+      "row3F2": "Truy cập mạng không tin cậy (ZTNA) và chính sách IAM dựa trên vai trò",
+      "row3F3": "Quét an ninh container tự động & quản lý bí mật",
+      "row3Btn": "Khám phá Đám mây & Bảo mật",
+      "row3Tag": "Kiến trúc đám mây & Zero-Trust",
+      "pillarsTitle": "Khung xuất sắc cốt lõi của chúng tôi",
+      "pillarsSub": "Sách hướng dẫn phát triển được hệ thống hóa hỗ trợ các nền tảng quan trọng.",
+      "pillar1Title": "Hội đồng xét duyệt kiến trúc (ARB)",
+      "pillar1Desc": "Giám sát toàn diện để đảm bảo tất cả các giải pháp doanh nghiệp đều phù hợp với các giao thức tuân thủ, bảo mật và khả năng mở rộng nghiêm ngặt.",
+      "pillar2Title": "Thư viện thành phần và bộ tăng tốc có thể tái sử dụng",
+      "pillar2Desc": "Hệ thống thiết kế độc quyền, bộ khởi động API và các mẫu vi dịch vụ phụ trợ giúp giảm 40% thời gian phát triển ban đầu.",
+      "pillar3Title": "Lập hồ sơ hiệu suất liên tục",
+      "pillar3Desc": "Các đường dẫn có khả năng quan sát theo thời gian thực nâng cao giám sát độ trễ của ứng dụng, tắc nghẽn thông lượng và việc sử dụng tài nguyên đám mây.",
+      "pillar4Title": "Nâng cao nhân tài & Bang hội",
+      "pillar4Desc": "Các hiệp hội nội bộ có cấu trúc và các chứng chỉ trau dồi năng lực kỹ thuật chuyên sâu trên đám mây, DevOps và AI ứng dụng.",
+      "ctaTitle": "Nâng cao tiêu chuẩn kỹ thuật của bạn",
+      "ctaSub": "Hợp tác với Trung tâm xuất sắc của Rezonants để xây dựng kiến trúc đám mây linh hoạt, tự động hóa quy trình làm việc và tăng tốc phân phối sản phẩm kỹ thuật số.",
+      "ctaButton": "Đặt lịch tư vấn điều hành",
+      "badge": "REZONANTS COE",
+      "scroll": "Cuộn",
+      "p1Title": "Quản trị & Khung",
+      "p1Desc": "Thiết lập quản trị kiến trúc toàn doanh nghiệp, các biện pháp bảo vệ chính sách và các tiêu chuẩn tuân thủ.",
+      "p1Tag": "Quản trị",
+      "p2Title": "Tiêu chuẩn công nghệ & kiến trúc",
+      "p2Desc": "Xác định các kiến trúc tham chiếu hiện đại, các nhóm công nghệ đã được hiệu đính và các mẫu vi dịch vụ.",
+      "p2Tag": "Kiến trúc",
+      "p3Title": "Tài sản & Thư viện có thể tái sử dụng",
+      "p3Desc": "Tăng tốc độ phát triển với các thành phần, mẫu, bộ khởi động và hệ thống thiết kế được chia sẻ.",
+      "p3Tag": "Khả năng tái sử dụng",
+      "p4Title": "Phát triển năng lực",
+      "p4Desc": "Đào tạo có cấu trúc, cố vấn công nghệ và hỗ trợ kỹ năng để nâng cao năng lực kỹ thuật của nhóm.",
+      "p4Tag": "Năng lực",
+      "p5Title": "Đổi mới & Công nghệ mới nổi",
+      "p5Desc": "R&D về tác nhân AI, quy trình tự động hóa và khuôn khổ thế hệ tiếp theo để duy trì lợi thế thị trường.",
+      "p5Tag": "Đổi mới",
+      "p6Title": "Cải tiến liên tục",
+      "p6Desc": "Các chỉ số kỹ thuật dựa trên dữ liệu (DORA), điểm chuẩn SLA và tối ưu hóa chất lượng liên tục.",
+      "p6Tag": "Chất lượng"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Kỹ thuật số phù hợp",
+      "titlePart1": "Phát triển tùy chỉnh &",
+      "titlePart2": "Tùy chỉnh",
+      "description": "Phát triển và nâng cao các ứng dụng, nền tảng, quy trình làm việc và giải pháp doanh nghiệp để giải quyết các yêu cầu kinh doanh riêng biệt và cung cấp chức năng phù hợp.",
+      "bookConsultation": "Đặt lịch tư vấn",
+      "exploreCapabilities": "Khám phá khả năng",
+      "coreCapabilities": [
+        "Phát triển tùy chỉnh",
+        "Cấu hình nền tảng",
+        "Tiện ích mở rộng",
+        "Quy trình làm việc tùy chỉnh",
+        "Phát triển API",
+        "Tích hợp hệ thống",
+        "Cải tiến UI/UX",
+        "Tối ưu hóa hiệu suất"
+      ],
+      "row1Eyebrow": "CHỨC NĂNG TÙY CHỈNH",
+      "row1Title": "Các tính năng riêng biệt được xây dựng cho quy trình làm việc của bạn",
+      "row1P1": "Phần mềm doanh nghiệp tiêu chuẩn thường không đáp ứng được nhu cầu nghiệp vụ chuyên biệt. Nhóm kỹ thuật tùy chỉnh của chúng tôi phát triển các mô-đun ứng dụng riêng, quy tắc kinh doanh tùy chỉnh và các tiện ích mở rộng chuyên biệt phù hợp với hoạt động của bạn.",
+      "row1P2": "Từ các cải tiến CRM và ERP tùy chỉnh đến các cổng hoạt động chuyên dụng, chúng tôi xây dựng các tính năng phù hợp liền mạch với các mẫu quy trình làm việc chính xác của nhóm bạn.",
+      "row2Eyebrow": "TÍCH HỢP HỆ THỐNG DOANH NGHIỆP",
+      "row2Title": "Cấu hình nền tảng & Phát triển API",
+      "row2P1": "Kết nối các hệ thống phần mềm khác nhau thành một hệ sinh thái kỹ thuật số thống nhất. Chúng tôi thiết kế các API REST và GraphQL tùy chỉnh, trình xử lý webhook và hàng đợi tin nhắn doanh nghiệp để đảm bảo đồng bộ hóa dữ liệu theo thời gian thực trên tất cả các nền tảng của bạn.",
+      "row2P2": "Cho dù tích hợp các công cụ SaaS của bên thứ ba hay mở rộng nền tảng tại chỗ độc quyền, kiến ​​trúc tích hợp của chúng tôi đều ưu tiên tính toàn vẹn dữ liệu, thông lượng và không có thời gian ngừng hoạt động.",
+      "row3Eyebrow": "UI/UX & HIỆU SUẤT",
+      "row3Title": "Cải tiến UI/UX & Tối ưu hóa hiệu suất",
+      "row3P1": "Nâng cao các giao diện cũ bằng trải nghiệm người dùng hiện đại, phản hồi nhanh, được thiết kế để đảm bảo tốc độ và độ rõ ràng. Chúng tôi tái thiết kế giao diện người dùng bằng các mẫu thiết kế trực quan, tuân thủ khả năng truy cập và các mô hình tương tác hợp lý.",
+      "row3P2": "Song song đó, các kỹ sư hiệu suất của chúng tôi tối ưu hóa các truy vấn cơ sở dữ liệu, chiến lược bộ nhớ đệm và kích thước gói giao diện người dùng để mang lại thời gian phản hồi tức thời trên tất cả các thiết bị.",
+      "pillarsTitle": "Được thiết kế theo thông số kỹ thuật chính xác của bạn",
+      "pillarsSub": "Các phương pháp tùy chỉnh cấp doanh nghiệp được xây dựng để mở rộng quy mô một cách liền mạch.",
+      "pillar1Title": "Quy trình làm việc và tiện ích mở rộng tùy chỉnh",
+      "pillar1Desc": "Logic ứng dụng phù hợp và máy trạng thái tự động được định cấu hình cụ thể xung quanh các quy tắc hoạt động nội bộ của bạn.",
+      "pillar2Title": "Tích hợp API & Hệ thống",
+      "pillar2Desc": "Cầu nối dữ liệu được xác thực, an toàn kết nối các chương trình phụ trợ độc quyền, bộ ERP, cổng thanh toán và dịch vụ đám mây.",
+      "pillar3Title": "Cấu hình nền tảng",
+      "pillar3Desc": "Khả năng thích ứng kiến trúc chuyên sâu giúp sửa đổi phần mềm doanh nghiệp mà không phá vỡ đường dẫn nâng cấp hoặc thỏa thuận hỗ trợ của nhà cung cấp.",
+      "pillar4Title": "Tối ưu hóa hiệu suất",
+      "pillar4Desc": "Lập hồ sơ truy vấn linh hoạt, loại bỏ rò rỉ bộ nhớ và phân phối CDN biên để tải trang dưới giây.",
+      "ctaTitle": "Bạn đã sẵn sàng tùy chỉnh nền tảng doanh nghiệp của mình chưa?",
+      "ctaSub": "Kết nối với các kiến ​​trúc sư giải pháp của chúng tôi để thiết kế và triển khai các mô-đun, quy trình làm việc và tích hợp tùy chỉnh phù hợp với nhu cầu kinh doanh của bạn.",
+      "ctaButton": "Đặt cuộc gọi tùy chỉnh",
+      "badge": "Kỹ thuật số phù hợp",
+      "viewAllServices": "Xem tất cả dịch vụ"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Hiện đại hóa doanh nghiệp",
+      "titlePart1": "Kỹ thuật số",
+      "titlePart2": "Biến đổi",
+      "description": "Hiện đại hóa toàn diện các quy trình kinh doanh, kiến trúc công nghệ và mô hình hoạt động để thúc đẩy sự linh hoạt của tổ chức, hiệu quả hoạt động và tăng trưởng kỹ thuật số bền vững.",
+      "startTransformation": "Bắt đầu chuyển đổi",
+      "exploreStrategy": "Khám phá chiến lược",
+      "coreCapabilities": [
+        "Chiến lược & Lộ trình",
+        "Hiện đại hóa kiến trúc",
+        "Đám mây & Cơ sở hạ tầng",
+        "Dữ liệu & Phân tích",
+        "Số hóa quy trình",
+        "Trải nghiệm khách hàng",
+        "Quản lý thay đổi",
+        "Mô hình vận hành linh hoạt"
+      ],
+      "row1Eyebrow": "Chiến lược & Lộ trình",
+      "row1Title": "Từ tầm nhìn đến lộ trình thực thi",
+      "row1P1": "Chúng tôi hợp tác với các nhà lãnh đạo doanh nghiệp để xác định chiến lược kỹ thuật số, các trường hợp kinh doanh và lộ trình theo từng giai đoạn mang lại chiến thắng nhanh chóng và thực hiện giảm thiểu rủi ro.",
+      "row1P2": "Các sáng kiến ​​ưu tiên, mô hình TCO và KPI đảm bảo mọi nỗ lực hiện đại hóa công nghệ đều gắn trực tiếp với doanh thu, hiệu quả và kết quả làm hài lòng khách hàng.",
+      "row2Eyebrow": "Hiện đại hóa kế thừa",
+      "row2Title": "Hiện đại hóa mà không phá vỡ hoạt động kinh doanh",
+      "row2P1": "Tái lập nền tảng nguyên khối cho các vi dịch vụ, API và các mẫu gốc đám mây với thời gian ngừng hoạt động bằng 0 và xác thực hồi quy tự động.",
+      "row2P2": "Chúng tôi hiện đại hóa các ứng dụng, cơ sở dữ liệu và các lớp tích hợp trong khi vẫn duy trì tình trạng tuân thủ và bảo mật.",
+      "row3Eyebrow": "Đám mây, AI & Dữ liệu",
+      "row3Title": "Áp dụng đám mây và trí tuệ dựa trên dữ liệu",
+      "row3P1": "Áp dụng AWS, Azure và GCP, xây dựng đường dẫn dữ liệu hiện đại và nhúng các tác nhân machine learning để đưa ra các quyết định tự chủ.",
+      "row3P2": "Từ phát trực tiếp sự kiện theo thời gian thực đến bảng thông tin hợp nhất, quá trình chuyển đổi trở nên có thể đo lường được và bền vững.",
+      "row4Eyebrow": "Trải nghiệm khách hàng",
+      "row4Title": "Trải nghiệm đa kênh hiện đại",
+      "row4P1": "Thiết kế lại hành trình của khách hàng trên các cổng web đáp ứng, iOS, Android và cổng tự phục vụ với giao diện được cá nhân hóa.",
+      "row4P2": "Kỹ thuật nền tảng, đo từ xa và các vòng phản hồi tự động giúp cho quá trình đổi mới kỹ thuật số diễn ra liên tục.",
+      "pillarsTitle": "Trụ cột chuyển hóa",
+      "pillarsSub": "Đòn bẩy tập trung vào kết quả để đảm bảo khả năng lãnh đạo kỹ thuật số bền vững.",
+      "pillar1Title": "Chiến lược kỹ thuật số & quản trị",
+      "pillar1Desc": "Kế hoạch chi tiết chuyển đổi theo từng giai đoạn với mô hình hóa trường hợp kinh doanh, quản trị kiến trúc và theo dõi rủi ro theo các mốc quan trọng.",
+      "pillar2Title": "Nền tảng đám mây & dữ liệu",
+      "pillar2Desc": "Nền tảng đa đám mây AWS/Azure/GCP, quy trình tự động và hỗ trợ phân tích dữ liệu doanh nghiệp.",
+      "pillar3Title": "AI & Tự động hóa",
+      "pillar3Desc": "Tự động hóa quy trình thông minh, tác nhân AI nhận thức và đo từ xa dự đoán để tối ưu hóa hoạt động hàng ngày.",
+      "pillar4Title": "Trải nghiệm khách hàng",
+      "pillar4Desc": "Cổng kỹ thuật số đa kênh có khả năng chuyển đổi cao và giao diện được cá nhân hóa được xây dựng để giữ chân người dùng tối đa.",
+      "ctaTitle": "Bạn đã sẵn sàng chuyển đổi doanh nghiệp của mình chưa?",
+      "ctaSub": "Hợp tác với Rezonants để chuyển đổi kỹ thuật số theo từng giai đoạn, giảm rủi ro gắn liền với kết quả kinh doanh có thể đo lường được.",
+      "ctaButton": "Đặt cuộc gọi chuyển đổi số",
+      "bookWorkshop": "Workshop Chuyển Đổi Sách",
+      "exploreFramework": "Khám phá khung giải pháp",
+      "coreCapabilitiesTitle": "Năng lực cốt lõi"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Hoàn thiện vòng đời công nghệ",
+      "titlePart1": "Giải pháp toàn diện",
+      "titlePart2": "Khung",
+      "description": "Khung phân phối có cấu trúc, trọn vòng đời bao gồm các yêu cầu kinh doanh, thiết kế kiến trúc, kỹ thuật, tích hợp, đảm bảo chất lượng, triển khai đám mây và các hoạt động được quản lý.",
+      "startJourney": "Bắt đầu dự án của bạn",
+      "exploreFramework": "Khám phá khung",
+      "coreCapabilities": [
+        "Phân tích yêu cầu",
+        "Thiết kế kiến trúc",
+        "Phát triển toàn diện",
+        "Kỹ thuật tích hợp",
+        "Đảm bảo chất lượng",
+        "Triển khai & triển khai",
+        "Hoạt động đang diễn ra",
+        "Tiến hóa liên tục"
+      ],
+      "row1Eyebrow": "Chiến lược & Kiến trúc",
+      "row1Title": "Yêu cầu Kỹ thuật & Thiết kế Giải pháp",
+      "row1P1": "Hội thảo cộng tác, lập bản đồ miền doanh nghiệp và thông số kỹ thuật kiến trúc đám mây được thiết kế để loại bỏ rủi ro trước khi viết một dòng mã.",
+      "row1P2": "Chúng tôi xác định các mô hình dữ liệu, khung bảo mật và các mốc quan trọng về khả năng mở rộng để tạo nên thành công lâu dài.",
+      "row2Eyebrow": "Kỹ thuật & Chất lượng",
+      "row2Title": "Phát triển Full-Stack & Kiểm tra tự động",
+      "row2P1": "Các vi dịch vụ mô-đun, API an toàn loại và giao diện người dùng đáp ứng kết hợp với quét đơn vị, tích hợp và quét bảo mật tự động.",
+      "row2P2": "Quy trình tích hợp liên tục với GitHub Actions, Terraform và các rào chắn bảo mật tự động.",
+      "row3Eyebrow": "Triển khai & Vận hành",
+      "row3Title": "Triển khai đám mây & Giám sát được quản lý 24/7",
+      "row3P1": "Phối hợp nhiều đám mây trên AWS/Azure/GCP với tính năng khôi phục tự động, cắt giảm thời gian ngừng hoạt động bằng 0 và khả năng quan sát theo thời gian thực.",
+      "row3P2": "Chúng tôi cung cấp dịch vụ bảo trì dựa trên SLA và giám sát đo từ xa liên tục để phát triển sản phẩm của bạn một cách liền mạch.",
+      "row4Eyebrow": "Quản trị doanh nghiệp",
+      "row4Title": "Quản trị thống nhất và hỗ trợ liên tục",
+      "row4P1": "Trách nhiệm giải trình một điểm trên toàn bộ hệ thống kỹ thuật số của bạn — tốc độ chạy nước rút minh bạch, lập ngân sách có thể dự đoán được và đổi mới liên tục.",
+      "row4P2": "Triển khai tính năng thường xuyên và chu kỳ hiện đại hóa giúp doanh nghiệp của bạn dẫn đầu đối thủ cạnh tranh.",
+      "pillarsTitle": "Trụ cột khung vòng đời",
+      "pillarsSub": "Mọi giai đoạn đều được thiết kế nghiêm ngặt theo tiêu chuẩn doanh nghiệp.",
+      "pillar1Title": "Chiến lược & Yêu cầu",
+      "pillar1Desc": "Khám phá tên miền, lộ trình kiến trúc và sự liên kết giữa các bên liên quan để loại bỏ rủi ro thực thi.",
+      "pillar2Title": "Kiến trúc & Xây dựng",
+      "pillar2Desc": "Các vi dịch vụ gốc đám mây có khả năng linh hoạt, tích hợp API và kiểm tra QA liên tục.",
+      "pillar3Title": "Bảo mật & Triển khai",
+      "pillar3Desc": "Tuân thủ bảo mật không tin cậy, phát hành trong vùng chứa và triển khai đám mây tự động.",
+      "pillar4Title": "Quản trị & Hỗ trợ",
+      "pillar4Desc": "Giám sát SLA 24/7, đo từ xa sức khỏe và kỹ thuật tiến hóa đang diễn ra.",
+      "ctaTitle": "Cần một Đối tác trọn đời?",
+      "ctaSub": "Chúng tôi sở hữu toàn bộ vòng đời công nghệ để nhóm của bạn có thể tập trung vào các kết quả kinh doanh cốt lõi.",
+      "ctaButton": "Đối tác cho trọn vòng đời"
+    },
+    "migrationServices": {
+      "eyebrow": "Chuyển đổi đám mây & cơ sở hạ tầng",
+      "titlePart1": "Di chuyển &",
+      "titlePart2": "Hiện đại hóa",
+      "description": "Di chuyển an toàn, có cấu trúc các ứng dụng, cơ sở dữ liệu và cơ sở hạ tầng cũ sang kiến trúc đám mây hiện đại, kết hợp với quá trình hiện đại hóa liên tục để nâng cao tính linh hoạt và hiệu quả.",
+      "bookAssessment": "Đánh giá di chuyển sách",
+      "exploreStrategy": "Khám phá chiến lược đám mây",
+      "coreCapabilities": [
+        "Di chuyển sang đám mây",
+        "Hiện đại hóa ứng dụng",
+        "Di chuyển cơ sở dữ liệu",
+        "Lưu trữ lại cơ sở hạ tầng",
+        "Container hóa",
+        "Chuyển đổi microservice",
+        "Tối ưu hóa hiệu suất",
+        "Bảo mật & Tuân thủ"
+      ],
+      "row1Eyebrow": "Di chuyển sang đám mây",
+      "row1Title": "Chiến lược đa đám mây & Nâng cao và tối ưu hóa",
+      "row1P1": "Di chuyển khối lượng công việc liền mạch trên AWS, Azure và Google Cloud với khả năng phát hiện tự động, lập kế hoạch theo đợt và không bị gián đoạn kinh doanh.",
+      "row1P2": "Chúng tôi cân bằng việc lưu trữ lại, tái cấu trúc và tái cấu trúc để tối ưu hóa tổng chi phí sở hữu (TCO) và tính linh hoạt.",
+      "row2Eyebrow": "Di chuyển dữ liệu & cơ sở dữ liệu",
+      "row2Title": "Bảo mật ETL & Xác thực dữ liệu tự động",
+      "row2P1": "Sao chép cơ sở dữ liệu tự động, dịch lược đồ và đường ống ETL thông lượng cao với xác minh tính toàn vẹn dữ liệu 100%.",
+      "row2P2": "Diễn tập cắt giảm thời gian ngừng hoạt động đảm bảo tính nhất quán của dữ liệu hoàn chỉnh và tính liên tục trong kinh doanh.",
+      "row3Eyebrow": "Hiện đại hóa nền tảng",
+      "row3Title": "Containerization & Điều phối Kubernetes",
+      "row3P1": "Hiện đại hóa các khối nguyên khối cũ thành các vi dịch vụ có thể mở rộng được điều phối thông qua Kubernetes (EKS, AKS, GKE) bằng các bản thiết kế IaC tự động.",
+      "row3P2": "Lập hồ sơ hiệu suất sau di chuyển và tối ưu hóa chi phí đảm bảo ROI ngay lập tức.",
+      "row4Eyebrow": "Lập kế hoạch chuyển đổi",
+      "row4Title": "Lưới an toàn kiểm tra và khôi phục tự động",
+      "row4P1": "Sách hướng dẫn cắt giảm đã được thử nghiệm trong thực tế, bộ hồi quy tự động và cơ chế khôi phục ngay lập tức để bạn hoàn toàn yên tâm.",
+      "row4P2": "Đo từ xa sức khỏe sau di cư và dịch vụ chăm sóc đặc biệt 24/7 đảm bảo sự ổn định sản xuất hoàn hảo.",
+      "pillarsTitle": "Đảm bảo di chuyển",
+      "pillarsSub": "Các động thái giảm thiểu rủi ro được hỗ trợ bởi SLA doanh nghiệp.",
+      "pillar1Title": "Chuyển đổi không ngừng hoạt động",
+      "pillar1Desc": "Bản phát hành Canary và đồng bộ hóa ghi kép cơ sở dữ liệu để đảm bảo quyền truy cập của người dùng không bị gián đoạn.",
+      "pillar2Title": "Xác thực dữ liệu tự động",
+      "pillar2Desc": "So sánh tổng kiểm tra, kiểm tra tính toàn vẹn của lược đồ và đối chiếu ETL tự động.",
+      "pillar3Title": "Lưới an toàn thu hồi",
+      "pillar3Desc": "Các quy trình khắc phục thảm họa nghiêm ngặt và diễn tập nhằm ngăn chặn rủi ro ở mọi giai đoạn.",
+      "pillar4Title": "Tối ưu hóa hiệu suất & chi phí",
+      "pillar4Desc": "Bao gồm chính sách cấp quyền cho đám mây, tự động thay đổi quy mô và bảng điều khiển quản trị chi phí.",
+      "ctaTitle": "Bạn đã sẵn sàng di cư với sự tự tin hoàn toàn chưa?",
+      "ctaSub": "Hợp tác với Rezonants để hiện đại hóa dữ liệu và đám mây có cấu trúc, không rủi ro.",
+      "ctaButton": "Lên kế hoạch cho hội thảo di chuyển của bạn"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Xác thực nhanh chóng và khả thi",
+      "titlePart1": "Bằng chứng về khái niệm (PoC) &",
+      "titlePart2": "Triển khai thí điểm",
+      "description": "Phát triển và xác nhận nhanh chóng các giải pháp công nghệ để đánh giá tính khả thi về mặt kỹ thuật, giá trị kinh doanh, yêu cầu tích hợp, hiệu suất và khả năng mở rộng trước khi triển khai trên quy mô toàn diện.",
+      "initiateDiscovery": "Bắt đầu khám phá PoC",
+      "exploreDevelopment": "Khám phá phát triển tùy chỉnh",
+      "coreCapabilities": [
+        "Phát triển PoC",
+        "Kỹ thuật nguyên mẫu",
+        "Nghiên cứu khả thi",
+        "Xác thực kiến trúc",
+        "Kiểm tra tích hợp",
+        "Đo điểm chuẩn hiệu suất",
+        "Triển khai thí điểm",
+        "Đánh giá giá trị"
+      ],
+      "row1Eyebrow": "Xác thực nhanh",
+      "row1Title": "Từ ý tưởng đến tính khả thi được xác thực",
+      "row1P1": "Biến ý tưởng thành giải pháp quy mô doanh nghiệp đòi hỏi phải xác nhận trước một cách nghiêm ngặt. Dịch vụ PoC & Pilot của chúng tôi đánh giá khả năng tồn tại của công nghệ, kiểm tra sức chịu đựng các móc tích hợp quan trọng và xác thực ROI kinh doanh trước các cam kết vốn lớn.",
+      "row1P2": "Chúng tôi xây dựng các MVP có độ chính xác cao và các thử nghiệm hộp cát tập trung nhằm chứng minh tính khả thi về mặt kỹ thuật, đo lường độ trễ của hệ thống và thu thập sớm xác thực trực tiếp của các bên liên quan.",
+      "row1Cap": "Nguyên mẫu MVP nhanh & Điểm chuẩn kỹ thuật",
+      "row2Eyebrow": "Tạo mẫu linh hoạt",
+      "row2Title": "Xác thực MVP & UX tương tác",
+      "row2P1": "Chúng tôi xây dựng wireframe tương tác, luồng người dùng có thể nhấp và bằng chứng khái niệm chức năng trong vài ngày chứ không phải vài tháng. Kiểm tra tương tác thực của người dùng, tinh chỉnh các mẫu UI/UX và thu thập phản hồi hữu ích từ các bên liên quan.",
+      "row2P2": "Bằng cách rút ngắn các vòng phản hồi trong quá trình phát triển ban đầu, nhóm của bạn giảm thiểu việc làm lại và thiết lập các thông số kỹ thuật rõ ràng trước khi bắt đầu các giai đoạn xây dựng cần nhiều vốn.",
+      "row2Cap": "Nguyên mẫu UX lặp lại nhanh và có thể nhấp",
+      "row3Eyebrow": "Kiểm tra tích hợp và khả năng mở rộng",
+      "row3Title": "Tích hợp hệ thống phức tạp giảm rủi ro",
+      "row3P1": "Khám phá các điểm nghẽn kỹ thuật, hạn chế về API và hạn chế về hiệu suất trước khi cam kết toàn bộ vốn. Nhóm kỹ thuật thí điểm của chúng tôi thực hiện các bài kiểm tra căng thẳng về tích hợp, đường dẫn dữ liệu và API của bên thứ ba trong môi trường hộp cát biệt lập.",
+      "row3P2": "Việc giảm thiểu rủi ro chủ động này đảm bảo tính sẵn sàng cao của hệ thống, tuân thủ bảo mật và các mốc thời gian phát triển có thể dự đoán được khi chuyển PoC của bạn sang sản xuất doanh nghiệp.",
+      "row3Cap": "Tích hợp Sandbox & Kiểm tra sức chịu đựng",
+      "row4Eyebrow": "Thí điểm sản xuất có kiểm soát",
+      "row4Title": "Triển khai thử nghiệm mục tiêu và xác thực trường hợp kinh doanh",
+      "row4P1": "Triển khai các bản phát hành thử nghiệm có mục tiêu cho một phân khúc người dùng được chọn hoặc thị trường thử nghiệm. Theo dõi số liệu hiệu suất, phân tích mức độ chấp nhận của người dùng và phản hồi hoạt động để định lượng giá trị doanh nghiệp và thiết lập trường hợp kinh doanh dựa trên dữ liệu.",
+      "row4P2": "Với những hiểu biết sâu sắc về thí điểm trong thế giới thực, các nhà tài trợ điều hành có được số liệu ROI rõ ràng để chứng minh cho việc triển khai rộng hơn và đầu tư chuyển đổi kỹ thuật số chiến lược.",
+      "row4Cap": "Triển khai có kiểm soát và đo lường hiệu suất từ xa",
+      "pillarsTitle": "Nguyên tắc kỹ thuật thí điểm của chúng tôi",
+      "pillarsSub": "Các nguyên tắc hướng dẫn biến sự không chắc chắn về mặt kỹ thuật thành thành công trong kinh doanh có thể dự đoán được.",
+      "pillar1Title": "Nguyên mẫu PoC & MVP",
+      "pillar1Desc": "Nhanh chóng cung cấp các nguyên mẫu chức năng để sớm xác thực các đề xuất giá trị trong vòng đời.",
+      "pillar2Title": "Tính khả thi & Kiểm chứng",
+      "pillar2Desc": "Xác minh khả năng tương thích API, ngưỡng thông lượng và các ràng buộc tuân thủ trong môi trường hộp cát.",
+      "pillar3Title": "Đánh giá khả năng mở rộng",
+      "pillar3Desc": "Mô phỏng tải sản xuất để thiết lập giới hạn công suất và xác định kích thước kiến trúc đám mây.",
+      "pillar4Title": "Xác thực trường hợp kinh doanh",
+      "pillar4Desc": "Định lượng ROI hữu hình và các số liệu năng suất để hỗ trợ các quyết định triển khai trên toàn doanh nghiệp.",
+      "ctaTitle": "Bạn đã sẵn sàng xác nhận giải pháp kỹ thuật số tiếp theo của mình chưa?",
+      "ctaSub": "Kết nối với nhóm kỹ thuật giải pháp của chúng tôi để khám phá các yêu cầu dự án của bạn, xây dựng nguyên mẫu và kiểm tra tính khả thi mà không gặp rủi ro.",
+      "ctaButton": "Đăng ký tư vấn PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Trung tâm điều hành tập trung",
+      "titlePart1": "Dịch vụ chia sẻ &",
+      "titlePart2": "Quản lý hoạt động",
+      "description": "Cung cấp tập trung công nghệ và năng lực vận hành cho các đơn vị kinh doanh thông qua các quy trình được tiêu chuẩn hóa, nguồn lực có kỹ năng, khung quản trị, quản lý dịch vụ và mức độ dịch vụ có thể đo lường được.",
+      "bookDiscovery": "Sách Khám phá hoạt động quản lý",
+      "exploreFramework": "Khám phá khung giải pháp",
+      "coreCapabilities": [
+        "Dịch vụ được quản lý",
+        "Hoạt động CNTT",
+        "Hỗ trợ ứng dụng",
+        "Quản lý dịch vụ",
+        "Tối ưu hóa tài nguyên",
+        "Quản lý SLA",
+        "Quản trị",
+        "Cải tiến liên tục",
+        "Tối ưu hóa chi phí"
+      ],
+      "row1Eyebrow": "Trung tâm phân phối hợp nhất",
+      "row1Title": "Dịch vụ được tiêu chuẩn hóa trên tất cả các đơn vị kinh doanh",
+      "row1P1": "Hợp nhất CNTT hậu trường, quản lý cơ sở hạ tầng và hỗ trợ kỹ thuật thành một trung tâm phân phối hiệu quả cao duy nhất.",
+      "row1P2": "Bằng cách loại bỏ chi phí chung của nhóm trùng lặp và tiêu chuẩn hóa các mô hình cung cấp dịch vụ, tổ chức của bạn đảm bảo chất lượng ổn định và giảm tổng chi phí hoạt động.",
+      "row2Eyebrow": "Hỗ trợ SRE & Ứng dụng 24/7",
+      "row2Title": "Giám sát chủ động & Giải quyết sự cố nhanh chóng",
+      "row2P1": "Các kỹ sư đảm bảo độ tin cậy tại địa điểm (SRE) chuyên dụng của chúng tôi và các chuyên gia hỗ trợ cung cấp khả năng giám sát từ xa 24/7/365, phân loại cảnh báo tự động và giải quyết vấn đề L1/L2/L3 nhanh chóng.",
+      "row2P2": "Được hỗ trợ bởi các cam kết SLA nghiêm ngặt, chúng tôi đảm bảo độ khả dụng 99,99% cho các ứng dụng quan trọng và cơ sở hạ tầng đám mây của bạn.",
+      "row3Eyebrow": "ITIL Quản trị & Tuân thủ",
+      "row3Title": "Khung quản lý dịch vụ có cấu trúc",
+      "row3P1": "Triển khai các tiêu chuẩn ITSM hàng đầu trong ngành (ServiceNow, Jira Service Management) với tính năng bán vé minh bạch, phân tích nguyên nhân gốc rễ và các biện pháp bảo vệ quản lý thay đổi.",
+      "row3P2": "Quy trình kiểm toán toàn diện và chính sách quản trị đảm bảo hoạt động của bạn luôn tuân thủ các tiêu chuẩn an ninh quốc tế.",
+      "row4Eyebrow": "FinOps & Cải tiến liên tục",
+      "row4Title": "Lập ngân sách và tối ưu hóa nguồn lực có thể dự đoán được",
+      "row4P1": "Loại bỏ lãng phí trên đám mây, tối ưu hóa quy mô điện toán và tự động hóa hoạt động bảo trì vận hành định kỳ bằng các biện pháp thực hành tốt nhất của FinOps.",
+      "row4P2": "Báo cáo minh bạch hàng tháng và dự báo công suất đảm bảo tối ưu hóa chi phí vận hành liên tục và hiệu quả sử dụng vốn cao.",
+      "pillarsTitle": "Trụ cột hoạt động",
+      "pillarsSub": "Đòn bẩy hoạt động đã được chứng minh mang lại khả năng mở rộng đáng tin cậy cho doanh nghiệp.",
+      "pillar1Title": "Quản lý vận hành CNTT 24/7",
+      "pillar1Desc": "Chủ động đo từ xa NOC, vá lỗi máy chủ, bảo trì cơ sở hạ tầng và đảm bảo 99,99% thời gian hoạt động.",
+      "pillar2Title": "ITSM & Bàn dịch vụ",
+      "pillar2Desc": "Bộ phận trợ giúp đa kênh Cấp 1/2/3, định tuyến sự cố và quy trình giải quyết yêu cầu có cấu trúc.",
+      "pillar3Title": "SLA & Kiểm soát hiệu suất",
+      "pillar3Desc": "Thời gian phản hồi được hỗ trợ theo hợp đồng, điểm chuẩn MTTR và kiểm tra hiệu suất minh bạch hàng tháng.",
+      "pillar4Title": "FinOps & Tối ưu hóa chi phí",
+      "pillar4Desc": "Liên tục định cỡ tài nguyên phù hợp, thu hồi giấy phép và giảm chi phí đám mây tự động.",
+      "ctaTitle": "Bạn đã sẵn sàng mở rộng quy mô hoạt động được quản lý của mình chưa?",
+      "ctaSub": "Hợp tác với Rezonants để có các dịch vụ đáng tin cậy, được quản lý 24/7 nhằm tối ưu hóa chi phí và loại bỏ thời gian ngừng hoạt động.",
+      "ctaButton": "Đặt lịch tư vấn vận hành quản lý",
+      "howItWorksHeading": "Con đường đã được chứng minh dẫn đến thành công của dịch vụ chia sẻ"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robot",
+      "eyebrow": "Hệ thống thông minh",
+      "heroHeading": "AI và Robot cùng hợp tác",
+      "intro": "Trí tuệ nhân tạo (AI) và Robotics đang thay đổi cách thức hoạt động của các doanh nghiệp bằng cách kết hợp việc ra quyết định thông minh với tự động hóa tiên tiến. AI cho phép máy móc phân tích dữ liệu, tìm hiểu các mẫu và đưa ra quyết định thông minh, trong khi robot đưa những khả năng này vào thế giới vật lý để thực hiện các nhiệm vụ với tốc độ, độ chính xác và tính nhất quán.",
+      "section1Heading": "Được xây dựng để hợp lý hóa mọi hoạt động",
+      "section1Text": "Các giải pháp AI và Robotics của chúng tôi giúp các tổ chức hợp lý hóa hoạt động, giảm nỗ lực thủ công và cải thiện năng suất trong nhiều ngành khác nhau. Từ tự động hóa quy trình và phân tích dự đoán đến robot thông minh và hệ thống thông minh, chúng tôi cung cấp các công nghệ tiên tiến giúp nâng cao hiệu quả, thúc đẩy tăng trưởng và hỗ trợ chuyển đổi kỹ thuật số.",
+      "section2Heading": "Nơi trí tuệ đáp ứng hành động",
+      "section2Text": "Mọi tương tác, quyết định và chuyển động đều được hỗ trợ bởi một hệ thống được kết nối duy nhất — biến dữ liệu thành kết quả trong thời gian thực.",
+      "footerTag": "Công nghệ tiên tiến cho chuyển đổi kỹ thuật số"
+    },
+    "informationReporting": {
+      "brand": "Nền tảng dữ liệu doanh nghiệp",
+      "heroTitle": "Hệ thống thông tin và báo cáo",
+      "heroSubtitle": "Một nguồn thông tin đáng tin cậy duy nhất cho mọi bộ phận — được xây dựng để biến dữ liệu hoạt động thô thành các quyết định mà doanh nghiệp của bạn có thể hành động ngay hôm nay.",
+      "statusLive": "TRỰC TIẾP",
+      "statusAnalyzed": "PHÂN TÍCH",
+      "statusArchived": "ĐÃ LƯU TRỮ",
+      "statusPending": "Đang chờ xử lý",
+      "metricUptime": "Thời gian hoạt động của hệ thống",
+      "metricSessions": "Phiên hoạt động",
+      "metricReportsPerDay": "Báo cáo / Ngày",
+      "metricEvents": "Sự kiện được nhập hàng ngày",
+      "metricReports": "Báo cáo theo lịch trình",
+      "metricLatency": "Độ trễ API",
+      "unifiedPlatform": "Nền tảng hợp nhất",
+      "analyticsSuite": "Bộ phân tích",
+      "reportingConsole": "Bảng điều khiển báo cáo",
+      "businessOutcome": "Kết quả kinh doanh",
+      "section1Heading": "Một hệ thống tập trung cho mọi số liệu quan trọng",
+      "section1P1": "Hệ thống Thông tin & Báo cáo là giải pháp kinh doanh thiết yếu cho phép các tổ chức thu thập, quản lý và chuyển đổi dữ liệu thành những hiểu biết có ý nghĩa. Các hệ thống này tích hợp thông tin từ nhiều bộ phận, đảm bảo quyền truy cập chính xác, nhất quán và theo thời gian thực vào dữ liệu kinh doanh quan trọng. Bằng cách cung cấp nền tảng tập trung để quản lý thông tin, các tổ chức có thể cải thiện khả năng hiển thị hoạt động, hợp lý hóa quy trình làm việc và hỗ trợ việc ra quyết định chiến lược ở tất cả các cấp trong doanh nghiệp.",
+      "section1P2": "Các hệ thống này sử dụng báo cáo, phân tích và trang tổng quan tự động để theo dõi hiệu suất, giám sát các số liệu chính và tạo báo cáo theo thời gian thực. Bằng cách giảm nỗ lực thủ công và cải thiện độ chính xác của dữ liệu, doanh nghiệp có thể đưa ra quyết định nhanh hơn và hiệu quả hơn.",
+      "section2Heading": "Được xây dựng để có khả năng hiển thị, tuân thủ và mở rộng quy mô",
+      "section2Text": "Với khả năng hiển thị, tuân thủ và cộng tác được nâng cao, Hệ thống Thông tin & Báo cáo cho phép các tổ chức tối ưu hóa quy trình, cải thiện năng suất và thúc đẩy tăng trưởng kinh doanh bền vững trong môi trường cạnh tranh.",
+      "ctaHeading": "Cung cấp cho mỗi nhóm một bức tranh thời gian thực giống nhau về doanh nghiệp.",
+      "ctaText": "Xem cách Hệ thống dữ liệu Nexus có thể hợp nhất báo cáo của bạn thành một nền tảng thông minh.",
+      "footerCopyright": "© 2026 Hệ thống dữ liệu Nexus. Mọi quyền được bảo lưu.",
+      "navOverview": "Tổng quan",
+      "navCapabilities": "Khả năng",
+      "navImpact": "tác động",
+      "navContact": "Liên hệ"
+    },
+    "managedServices": {
+      "subtitle": "Dịch vụ quản lý toàn diện cho doanh nghiệp của bạn"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Hiện đại hóa ứng dụng kinh doanh cho doanh nghiệp dựa trên dữ liệu",
+      "excerpt": "Kiến trúc ứng dụng hiện đại và dữ liệu được kết nối có thể cải thiện hiệu quả hoạt động, khả năng mở rộng và khả năng hiển thị của doanh nghiệp như thế nào.",
+      "tag": "Chuyển đổi doanh nghiệp",
+      "category": "CHUYỂN ĐỔI KINH DOANH",
+      "summary": "Nền tảng ứng dụng và dữ liệu hiện đại có thể giúp doanh nghiệp nâng cao hiệu quả hoạt động, kết nối các hệ thống kinh doanh và tạo ra khả năng hiển thị tốt hơn trong toàn bộ hoạt động của doanh nghiệp."
+    },
+    "artificial-intelligence": {
+      "title": "AI đang định hình lại các ứng dụng doanh nghiệp như thế nào",
+      "excerpt": "Khám phá cách tự động hóa thông minh, phi công phụ AI và trí thông minh dự đoán đang trở thành một phần của các ứng dụng doanh nghiệp mà các doanh nghiệp dựa vào hàng ngày.",
+      "tag": "Trí tuệ nhân tạo",
+      "category": "TRÍ TUỆ NHÂN TẠO",
+      "summary": "Khám phá cách tự động hóa thông minh, phi công phụ AI và trí thông minh dự đoán đang biến phần mềm doanh nghiệp hàng ngày thành nền tảng chủ động, thích ứng."
+    },
+    "modern-erp": {
+      "title": "Tăng tốc chuyển đổi doanh nghiệp với ERP hiện đại",
+      "excerpt": "Khám phá cách các nền tảng ERP hiện đại kết nối tài chính, mua sắm, chuỗi cung ứng và hoạt động kinh doanh thông qua nền tảng kỹ thuật số thống nhất.",
+      "tag": "ERP hiện đại",
+      "category": "ERP HIỆN ĐẠI",
+      "summary": "Nền tảng ERP hiện đại kết nối các hoạt động tài chính, mua sắm, chuỗi cung ứng và kinh doanh thành một mô hình vận hành thống nhất, theo thời gian thực."
+    },
+    "cybersecurity": {
+      "title": "Xây dựng khả năng phục hồi mạng trong một doanh nghiệp được kết nối",
+      "excerpt": "Khám phá cách các tổ chức có thể tăng cường bảo mật, bảo vệ các hệ thống quan trọng và chuẩn bị cho các mối đe dọa trên các môi trường ngày càng được kết nối.",
+      "tag": "An ninh mạng",
+      "category": "AN NINH MẠNG",
+      "summary": "Khi các doanh nghiệp tích hợp nhiều hệ thống đám mây, API và hệ sinh thái đối tác hơn, khả năng phục hồi mạng sẽ đảm bảo các hoạt động quan trọng chống lại các mối đe dọa hiện đại."
+    },
+    "cloud-modernization": {
+      "title": "Hiện đại hóa các ứng dụng cũ cho đám mây",
+      "excerpt": "Khám phá cách tiếp cận thực tế để đánh giá, hiện đại hóa và chuyển các ứng dụng cũ sang kiến trúc đám mây an toàn và có thể mở rộng.",
+      "tag": "Đám mây & Hiện đại hóa",
+      "category": "ĐÁM MÂY & HIỆN ĐẠI HÓA",
+      "summary": "Lộ trình có cấu trúc, thực tế để đánh giá, tái cấu trúc và di chuyển các hệ thống doanh nghiệp nguyên khối sang kiến trúc đám mây linh hoạt, có thể bảo trì."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "CHUYỂN ĐỔI KINH DOANH",
+      "title": "Hiện đại hóa ứng dụng kinh doanh cho doanh nghiệp dựa trên dữ liệu",
+      "subtitle": "Nền tảng ứng dụng và dữ liệu hiện đại có thể giúp doanh nghiệp nâng cao hiệu quả hoạt động, kết nối các hệ thống kinh doanh và tạo ra khả năng hiển thị tốt hơn trong toàn bộ hoạt động của doanh nghiệp.",
+      "date": "Tháng 9 năm 2026",
+      "readTime": "Đọc 7 phút",
+      "imageCaption": "Góc nhìn Công nghệ Doanh nghiệp — Kiến trúc Ứng dụng & Dữ liệu Kết nối",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Ứng dụng kinh doanh",
+          "desc": "Các công cụ CRM, ERP và bộ phận cũ khác nhau đang chạy riêng lẻ."
+        },
+        {
+          "title": "Nhiều nguồn dữ liệu",
+          "desc": "Các bảng hoạt động bị phân mảnh, trích xuất CSV và lược đồ đặc biệt."
+        },
+        {
+          "title": "Cơ sở dữ liệu bị ngắt kết nối",
+          "desc": "Kho dữ liệu đám mây tại chỗ và không phối hợp riêng biệt."
+        },
+        {
+          "title": "Báo cáo & Người dùng doanh nghiệp",
+          "desc": "Đối chiếu thủ công, bảng tính xung đột và báo cáo chậm trễ."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Ứng dụng kinh doanh",
+          "desc": "Nền tảng vận hành cốt lõi và giao diện đáp ứng hiện đại."
+        },
+        {
+          "title": "API/Lớp tích hợp",
+          "desc": "Cổng API an toàn, hướng sự kiện kết nối quy trình làm việc của doanh nghiệp."
+        },
+        {
+          "title": "Dịch vụ dữ liệu",
+          "desc": "Các mô hình dữ liệu tổng thể thống nhất, quy trình và công cụ lưu trữ được tối ưu hóa."
+        },
+        {
+          "title": "Phân tích & Báo cáo",
+          "desc": "Đo từ xa theo thời gian thực, mô hình ngữ nghĩa và báo cáo tự động."
+        },
+        {
+          "title": "Người ra quyết định kinh doanh",
+          "desc": "Bảng thông tin hoạt động trực tiếp cung cấp khả năng hiển thị thống nhất cho người điều hành."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Ứng dụng doanh nghiệp",
+          "purpose": "Quản lý quy trình kinh doanh"
+        },
+        {
+          "area": "API",
+          "purpose": "Tích hợp hệ thống"
+        },
+        {
+          "area": "Cơ sở dữ liệu",
+          "purpose": "Dữ liệu kinh doanh có cấu trúc"
+        },
+        {
+          "area": "Tích hợp dữ liệu",
+          "purpose": "Kết nối nhiều nguồn"
+        },
+        {
+          "area": "Phân tích",
+          "purpose": "Hiểu biết sâu sắc về doanh nghiệp"
+        },
+        {
+          "area": "Cơ sở hạ tầng đám mây",
+          "purpose": "Khả năng mở rộng và linh hoạt"
+        },
+        {
+          "area": "Giám sát",
+          "purpose": "Độ tin cậy và hiệu suất"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Cải thiện khả năng hiển thị hoạt động giữa các đơn vị chức năng chéo",
+        "Tính nhất quán dữ liệu tốt hơn và nguồn thông tin doanh nghiệp duy nhất",
+        "Giảm công sức báo cáo thủ công và tổng hợp dữ liệu tự động",
+        "Cải thiện hiệu suất ứng dụng và giảm độ trễ giao dịch",
+        "Tích hợp hệ thống dễ dàng hơn thông qua các API an toàn, được tiêu chuẩn hóa",
+        "Khả năng mở rộng lớn hơn để hỗ trợ tăng trưởng và mua lại tự nhiên",
+        "Nền tảng tốt hơn cho sự đổi mới và áp dụng trí tuệ trong tương lai"
+      ],
+      "keyPerspectivePoints": [
+        "Hiểu rõ quy trình nghiệp vụ và quy trình vận hành thực tế",
+        "Kết nối hệ thống thông qua các tiêu chuẩn tích hợp đáng tin cậy",
+        "Cải thiện chất lượng dữ liệu, quản trị và mô hình dữ liệu chủ",
+        "Hiện đại hóa các ứng dụng mà không làm mất ổn định hoạt động hàng ngày",
+        "Tạo kiến trúc có thể mở rộng phù hợp cho sự tăng trưởng đàn hồi",
+        "Hỗ trợ tầm nhìn kinh doanh tốt hơn để chủ động đưa ra quyết định"
+      ],
+      "sec1Eyebrow": "THỬ THÁCH KINH DOANH",
+      "sec1Heading": "Điều hướng sự phức tạp trong một doanh nghiệp đang phát triển",
+      "sec1Subtext": "Khi doanh nghiệp mở rộng quy mô, hệ sinh thái công nghệ chắc chắn sẽ mở rộng. Những gì ban đầu là các giải pháp tập trung cho từng bộ phận có thể phát triển thành một mạng lưới phức tạp gồm các hệ thống khác nhau.",
+      "sec2Eyebrow": "TIẾN HÓA HỆ THỐNG",
+      "sec2Heading": "Bối cảnh công nghệ phức tạp",
+      "sec2Subtext": "Dấu chân ứng dụng cũ tạo ra sự phân mảnh trên các kho dữ liệu, trải nghiệm người dùng và khả năng hiển thị hoạt động.",
+      "sec3Eyebrow": "MÔ HÌNH KẾT NỐI",
+      "sec3Heading": "Kiến trúc ứng dụng hiện đại",
+      "sec3Subtext": "Chuyển đổi từ các silo nguyên khối sang các dịch vụ tách rời được kết nối với nhau bằng API an toàn và truyền dữ liệu theo sự kiện.",
+      "sec4Eyebrow": "TRÍ TUỆ & TẦM NHÌN",
+      "sec4Heading": "Dữ liệu & Phân tích được kết nối",
+      "sec4Subtext": "Mở khóa kho dữ liệu để hỗ trợ báo cáo tự động, bảng điều khiển thống nhất và đưa ra các quyết định kinh doanh chủ động.",
+      "sec5Eyebrow": "BẢN KIẾN TRÚC KIẾN TRÚC",
+      "sec5Heading": "Quỹ công nghệ",
+      "sec5Subtext": "Chế độ xem có cấu trúc của các lớp kiến trúc chính cho phép kết nối và mở rộng trên toàn doanh nghiệp.",
+      "sec6Eyebrow": "GIÁ TRỊ CHẤT LƯỢNG",
+      "sec6Heading": "Tác động kinh doanh",
+      "sec6Subtext": "Lợi ích hoạt động có thể đo lường được mang lại thông qua hiện đại hóa ứng dụng và nền tảng dữ liệu được kết nối.",
+      "ctaHeading": "Bạn đã sẵn sàng hiện đại hóa bối cảnh ứng dụng doanh nghiệp của mình chưa?",
+      "ctaDescription": "Khám phá cách Rezonants có thể hợp tác với lãnh đạo của bạn để kiến ​​trúc, xây dựng và triển khai các nền tảng ứng dụng hợp nhất và đường dẫn dữ liệu hiện đại.",
+      "ctaButton": "Trò chuyện với Kiến trúc sư Doanh nghiệp",
+      "sec1P1": "Trong môi trường doanh nghiệp điển hình, sự phát triển thường kéo theo nhiều thế hệ phần mềm. Tài chính, chuỗi cung ứng, dịch vụ khách hàng và hoạt động tại hiện trường thường hoạt động trên các phần mềm riêng biệt được mua hoặc xây dựng tại các thời điểm khác nhau. Qua nhiều năm phát triển hoạt động, các hệ thống này phát triển các định dạng dữ liệu, nhịp độ cập nhật và các yêu cầu tích hợp riêng.",
+      "sec1P2": "Mâu thuẫn thể hiện trên toàn doanh nghiệp thông qua những điểm nghẽn chung trong hoạt động:",
+      "sec1List": [
+        {
+          "bold": "Nhiều ứng dụng kinh doanh bị ngắt kết nối",
+          "text": "yêu cầu nhập dữ liệu trùng lặp và tham khảo chéo thủ công."
+        },
+        {
+          "bold": "Cơ sở dữ liệu bị ngắt kết nối",
+          "text": "hoạt động mà không có sự quản lý tập trung hoặc hồ sơ tổng thể thống nhất."
+        },
+        {
+          "bold": "Chi phí báo cáo thủ công",
+          "text": ", nơi các nhóm phân tích dành nhiều ngày để kết hợp các kết quả xuất khẩu thay vì khám phá những hiểu biết sâu sắc."
+        },
+        {
+          "bold": "Dữ liệu không nhất quán",
+          "text": "giữa các phòng ban, tạo ra những câu trả lời trái ngược nhau cho các câu hỏi vận hành cơ bản."
+        },
+        {
+          "bold": "Chi phí bảo trì ứng dụng và giới hạn khả năng mở rộng",
+          "text": ", khi các kết nối điểm-điểm truyền thống dễ vỡ gặp khó khăn trong việc hỗ trợ khối lượng giao dịch ngày càng tăng."
+        }
+      ],
+      "sec1P3": "Giải quyết những thách thức này đòi hỏi phải xem bối cảnh công nghệ không phải là một tập hợp các giao dịch mua phần mềm biệt lập mà là một nền tảng kinh doanh được kết nối với nhau được thiết kế để hỗ trợ sự linh hoạt về mặt chiến lược.",
+      "legacyLandscapeBadge": "Đường cơ sở cũ",
+      "legacyLandscapeTitle": "Luồng thông tin rời rạc",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silo dữ liệu",
+          "desc": "Dữ liệu quan trọng về khách hàng, tài chính và hàng tồn kho vẫn bị mắc kẹt trong các nền tảng của các phòng ban, ngăn cản một cái nhìn thống nhất về hoạt động kinh doanh."
+        },
+        {
+          "num": "02",
+          "title": "Khoảng cách hội nhập",
+          "desc": "Kết nối điểm-điểm và trích xuất hàng loạt hàng đêm tạo ra độ trễ, tỷ lệ lỗi cao và chi phí bảo trì tốn kém cho các nhóm vận hành."
+        },
+        {
+          "num": "03",
+          "title": "Thông tin bị trì hoãn",
+          "desc": "Khi các giám đốc điều hành phải đợi nhiều ngày để đối chiếu cuối tháng để hiểu rõ hiệu quả hoạt động, việc ra quyết định mang tính phản ứng hơn là dự đoán."
+        }
+      ],
+      "modernArchitectureBadge": "Kiến trúc mục tiêu",
+      "modernArchitectureTitle": "Mô hình ứng dụng doanh nghiệp được kết nối",
+      "sec3P1": "Kiến trúc ứng dụng hiện đại thay thế các kết nối điểm-điểm dễ vỡ bằng một nền tảng linh hoạt, tách rời. Bằng cách thiết lập lớp tích hợp và API mạnh mẽ, các hệ thống tương tác thông qua các điểm cuối an toàn, được quản lý trong khi vẫn duy trì quyền tự chủ của từng đơn vị kinh doanh.",
+      "sec3P2": "Năng lực kỹ thuật chính của quá trình chuyển đổi kiến trúc này bao gồm:",
+      "sec3List": [
+        {
+          "bold": "Hiện đại hóa ứng dụng:",
+          "text": "Tách logic kinh doanh cốt lõi thành các dịch vụ mô-đun có thể mở rộng."
+        },
+        {
+          "bold": "Tích hợp API:",
+          "text": "Thiết lập các giao diện được chuẩn hóa, được ghi thành tài liệu cho khả năng tương tác nội bộ và đối tác."
+        },
+        {
+          "bold": "Tích hợp dữ liệu & tối ưu hóa cơ sở dữ liệu:",
+          "text": "Hợp nhất các đường dẫn dữ liệu vận hành với tối ưu hóa truy vấn thông lượng cao."
+        },
+        {
+          "bold": "Khả năng quan sát & bảo mật:",
+          "text": "Triển khai đo từ xa tập trung, theo dõi kiểm tra và kiểm soát quyền truy cập dựa trên vai trò trên tất cả các dịch vụ."
+        }
+      ],
+      "sec4P1": "Nền tảng dữ liệu tích hợp thay đổi cách các nhóm lãnh đạo và vận hành tương tác với thông tin. Thay vì dựa vào các báo cáo hồi cứu cho thấy những gì đã xảy ra vài tuần trước, các tổ chức có thể đo lường hoạt động từ xa trực tiếp giữa các đơn vị kinh doanh.",
+      "sec4P2": "Dữ liệu và phân tích được kết nối hỗ trợ kết quả kinh doanh bền vững thông qua:",
+      "sec4List": [
+        {
+          "bold": "Tầm nhìn hoạt động:",
+          "text": "Tính minh bạch liên tục trong hoạt động bán hàng, tồn kho, xử lý đơn hàng và hiệu quả tài chính."
+        },
+        {
+          "bold": "Nhịp báo cáo nhanh hơn:",
+          "text": "Tổng hợp dữ liệu theo yêu cầu giúp loại bỏ các bảng tính thủ công lặp đi lặp lại."
+        },
+        {
+          "bold": "Thông tin nhất quán:",
+          "text": "Các định nghĩa đơn lẻ cho các số liệu như tỷ suất lợi nhuận, giá trị trọn đời của khách hàng và tốc độ khách hàng tiềm năng."
+        },
+        {
+          "bold": "Hiểu biết kinh doanh tốt hơn:",
+          "text": "Phát hiện mô hình dự đoán giúp phát hiện trước các rủi ro và cơ hội."
+        },
+        {
+          "bold": "Cải thiện việc ra quyết định:",
+          "text": "Hành động điều hành tự tin được hỗ trợ bởi dòng dữ liệu đã được xác thực và tính minh bạch."
+        }
+      ],
+      "keyPerspectiveEyebrow": "QUAN ĐIỂM CHIẾN LƯỢC",
+      "keyPerspectiveTitle": "Hiện đại hóa không chỉ là thay thế phần mềm",
+      "keyPerspectiveLead": "Hiện đại hóa ứng dụng kinh doanh không chỉ đơn giản là thay thế phần mềm cũ bằng công cụ mới. Đó là sự liên kết có chủ đích của công nghệ với cách doanh nghiệp vận hành, mở rộng quy mô và mang lại giá trị."
+    },
+    "artificialIntelligence": {
+      "category": "TRÍ TUỆ NHÂN TẠO",
+      "title": "AI đang định hình lại các ứng dụng doanh nghiệp như thế nào",
+      "subtitle": "Khám phá cách tự động hóa thông minh, phi công phụ AI và trí thông minh dự đoán đang trở thành một phần của các ứng dụng doanh nghiệp mà các doanh nghiệp sử dụng hàng ngày.",
+      "date": "Tháng 9 năm 2026",
+      "readTime": "Đọc 6 phút",
+      "imageCaption": "Góc nhìn Công nghệ Doanh nghiệp - Trí tuệ bản địa & Quy trình làm việc tự động",
+      "aiUseCases": [
+        {
+          "title": "Dự báo chuỗi cung ứng",
+          "desc": "Dự đoán nhu cầu tăng đột biến và sự chậm trễ trong hậu cần từ dữ liệu đo từ xa của nhà cung cấp trước đây."
+        },
+        {
+          "title": "Kiểm tra hóa đơn tự động",
+          "desc": "Trích xuất các chi tiết đơn hàng và khớp với các đơn đặt hàng không có sự tham gia của con người."
+        },
+        {
+          "title": "Bàn dịch vụ thông minh",
+          "desc": "Phân loại và giải quyết tự động các yêu cầu nhân sự và CNTT của nhân viên Cấp 1."
+        },
+        {
+          "title": "Phòng chống rời bỏ khách hàng",
+          "desc": "Phân cụm hành vi xác định các tín hiệu xung đột sớm để chủ động tiếp cận."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Đưa ra các quyết định vận hành nhanh hơn nhờ các mô hình dự đoán theo thời gian thực",
+        "Giảm việc xử lý dữ liệu lặp đi lặp lại và đối chiếu thủ công",
+        "Năng suất nhân viên cao hơn với sự hỗ trợ của phi công phụ theo ngữ cảnh",
+        "Cải thiện sự hài lòng của khách hàng thông qua trải nghiệm siêu cá nhân hóa",
+        "Tự tối ưu hóa quy trình liên tục dựa trên dữ liệu đo từ xa thực tế",
+        "Giảm thiểu rủi ro theo dõi tuân thủ thông qua kiểm tra nhật ký kiểm tra tự động"
+      ],
+      "governancePoints": [
+        "Quyền truy cập dựa trên vai trò nghiêm ngặt đảm bảo các mô hình AI không bao giờ rò rỉ dữ liệu nhạy cảm",
+        "Dấu vết lý luận minh bạch cho phép con người xem xét các hành động có giá trị cao",
+        "Đánh giá mô hình liên tục để bảo vệ khỏi ảo giác và sai lệch",
+        "Các tiêu chuẩn nghiêm ngặt về xuất xứ dữ liệu phù hợp với GDPR, SOC 2 và HIPAA",
+        "Đường dẫn leo thang của con người trong vòng lặp cho các điều kiện biên không chắc chắn"
+      ],
+      "sec1Eyebrow": "SỰ CHUYỂN ĐỔI SANG TRÍ TUỆ BẢN ĐỒ",
+      "sec1Heading": "AI trong ứng dụng doanh nghiệp",
+      "sec1Subtext": "Trí tuệ nhân tạo đang vượt xa thử nghiệm độc lập để trở thành kết cấu cốt lõi của các hệ thống doanh nghiệp hàng ngày.",
+      "sec2Eyebrow": "TỰ ĐỘNG Ở QUY MÔ",
+      "sec2Heading": "Tự động hóa thông minh",
+      "sec2Subtext": "Thay thế các quy trình dựa trên quy tắc mong manh bằng quy trình làm việc nhận thức để diễn giải tài liệu, định tuyến các ngoại lệ và điều chỉnh.",
+      "sec3Eyebrow": "HỖ TRỢ TÍCH HỢP",
+      "sec3Heading": "Phi công AI doanh nghiệp",
+      "sec3Subtext": "Trợ lý nhận biết ngữ cảnh được nhúng bên trong các ứng dụng kinh doanh để hỗ trợ nhân viên tri thức trong việc phân tích dữ liệu, tài liệu và truy vấn vận hành.",
+      "sec4Eyebrow": "LÝ DO TÌM HIỂU TƯƠNG LAI",
+      "sec4Heading": "Trí tuệ dự đoán",
+      "sec4Subtext": "Chuyển từ các báo cáo hồi cứu lạc hậu sang các công cụ ra quyết định chủ động có thể lường trước được những gián đoạn trong hoạt động.",
+      "sec5Eyebrow": "ỨNG DỤNG THỰC TẾ",
+      "sec5Heading": "Các trường hợp sử dụng AI dành cho doanh nghiệp",
+      "sec5Subtext": "Các ứng dụng đã được chứng minh mang lại mức tăng hiệu quả có thể đo lường được trên các lĩnh vực hoạt động của doanh nghiệp.",
+      "sec6Eyebrow": "GIÁ TRỊ CHIẾN LƯỢC",
+      "sec6Heading": "Lợi ích kinh doanh",
+      "sec6Subtext": "Tăng năng suất rõ ràng và tính linh hoạt trong vận hành được hiện thực hóa thông qua việc áp dụng AI cho doanh nghiệp.",
+      "ctaHeading": "Bạn đã sẵn sàng tích hợp AI gốc vào các ứng dụng kinh doanh của mình chưa?",
+      "ctaDescription": "Kết nối với thực hành AI của Rezonants để kiến ​​trúc, đánh giá và triển khai các phi công AI của doanh nghiệp và các công cụ tự động hóa thông minh.",
+      "ctaButton": "Tham khảo ý kiến chuyên gia AI",
+      "sec1P1": "Trong nhiều năm, trí tuệ nhân tạo của doanh nghiệp được coi như một khả năng bên ngoài: một mô hình được đào tạo riêng biệt, trình diễn hộp cát hoặc một chatbot biệt lập có thể truy cập thông qua một cổng riêng biệt. Ngày nay, mô hình này đã thay đổi căn bản. AI doanh nghiệp có tác động cao được nhúng trực tiếp vào hệ thống hồ sơ—ERP, CRM, nền tảng nguồn nhân lực và công cụ chuỗi cung ứng nơi hoạt động kinh doanh thực sự diễn ra.",
+      "sec1P2": "Khi trí thông minh hoạt động bên trong hệ thống hồ sơ, nó sẽ kế thừa các ranh giới bảo mật, mô hình dữ liệu và logic kinh doanh đã được thiết lập của tổ chức. Nó không chỉ tạo ra những phản hồi chung chung; nó hoạt động theo các đơn đặt hàng trực tiếp, diễn giải các phiếu hỗ trợ mở, đối chiếu hóa đơn của nhà cung cấp và hỗ trợ nhân viên trong các giao diện chính xác mà họ điều hướng hàng ngày.",
+      "sec1P3": "Quá trình chuyển đổi này chuyển phần mềm doanh nghiệp từ cơ sở dữ liệu thụ động chờ thao tác gõ phím của con người sang nền tảng chủ động dự đoán nhu cầu, tự động hóa các bước và đưa ra các đề xuất kịp thời.",
+      "sec2P1": "Tự động hóa quy trình bằng robot truyền thống (RPA) đã xuất sắc trong việc quét màn hình mang tính xác định, lặp đi lặp lại. Tuy nhiên, các bộ quy tắc cứng nhắc sẽ bị hỏng bất cứ khi nào biểu mẫu thay đổi, bố cục tài liệu không mong muốn xuất hiện hoặc xảy ra ngoại lệ. Tự động hóa thông minh thu hẹp sự phân chia này bằng cách kết hợp lý luận nhận thức với việc thực hiện giao dịch:",
+      "sec2List": [
+        {
+          "bold": "Tự động hóa quy trình làm việc:",
+          "text": "Điều phối các hoạt động phức tạp giữa các phòng ban, định tuyến các nhiệm vụ dựa trên các lộ trình giải quyết cấp bách và lịch sử."
+        },
+        {
+          "bold": "Xử lý văn bản thông minh:",
+          "text": "Nhập các tệp PDF, email, bảng kê khai vận chuyển và hợp đồng không có cấu trúc, chuyển đổi chúng thành các giao dịch cơ sở dữ liệu có cấu trúc."
+        },
+        {
+          "bold": "Tự động hóa tác vụ thông minh:",
+          "text": "Tự động hóa quá trình xác thực hoạt động gồm nhiều bước—chẳng hạn như đối chiếu đơn đặt hàng với biên lai và bảng sao kê ngân hàng."
+        },
+        {
+          "bold": "Tối ưu hóa quy trình:",
+          "text": "Liên tục phân tích nhật ký quy trình để xác định các điểm nghẽn trong thời gian của chu kỳ và đề xuất các sàng lọc quy trình làm việc có mục tiêu."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Tìm kiếm thông tin",
+          "desc": "Truy xuất ngữ nghĩa trên các cơ sở kiến thức phân tán, chính sách mạng nội bộ, thông số kỹ thuật của sản phẩm và cách giải quyết yêu cầu lịch sử mà không cần đoán từ khóa."
+        },
+        {
+          "icon": "📝",
+          "title": "Tóm tắt tài liệu",
+          "desc": "Chắt lọc ngay lập tức các RFP dài dòng, thỏa thuận với nhà cung cấp, thông số kỹ thuật và sửa đổi pháp lý thành bản tóm tắt điều hành có thể hành động và danh sách kiểm tra rủi ro."
+        },
+        {
+          "icon": "✨",
+          "title": "Tạo nội dung",
+          "desc": "Hỗ trợ soạn thảo các đề xuất với khách hàng, tài liệu vận hành, quy trình vận hành tiêu chuẩn (SOP) và các bản cập nhật tiêu chuẩn hóa của khách hàng phù hợp với tiêu chuẩn thương hiệu."
+        },
+        {
+          "icon": "📈",
+          "title": "Phân tích dữ liệu",
+          "desc": "Chuyển các câu hỏi hội thoại thành các truy vấn phân tích phức tạp, tạo ra các bản tóm tắt biểu đồ nhanh chóng và nêu bật các ngoại lệ quan trọng dành cho lãnh đạo."
+        },
+        {
+          "icon": "🔄",
+          "title": "Quy trình kinh doanh",
+          "desc": "Bắt đầu giao dịch trực tiếp từ lời nhắc trò chuyện—chẳng hạn như lên lịch tài nguyên, tạo yêu cầu, cập nhật hồ sơ hoặc gửi yêu cầu mua hàng."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Truy cập dựa trên vai trò",
+          "desc": "Đảm bảo phản hồi của phi công phụ tôn trọng nghiêm ngặt mức độ cho phép của người dùng, giữ bí mật về tài chính, hồ sơ nhân sự và tài sản trí tuệ."
+        }
+      ],
+      "sec4P1": "Trong khi các mô hình tổng quát vượt trội trong việc hiểu và tổng hợp ngôn ngữ, trí thông minh dự đoán tập trung vào các mẫu toán học ẩn trong các bộ dữ liệu doanh nghiệp có cấu trúc. Các mô hình dự đoán nhúng trao quyền cho các tổ chức dự đoán các rào cản hoạt động trước khi chúng làm gián đoạn hoạt động:",
+      "sec4List": [
+        {
+          "bold": "Dự báo hoạt động:",
+          "text": "Dự đoán xu hướng doanh thu, tốc độ tồn kho và nhu cầu tài nguyên bằng cách tổng hợp các chỉ số theo mùa với tốc độ đường ống theo thời gian thực."
+        },
+        {
+          "bold": "Phân tích dự đoán:",
+          "text": "Xác định chính xác rủi ro rời bỏ khách hàng, chu kỳ bảo trì xuống cấp và sự chậm trễ của chuỗi cung ứng trong khi vẫn còn thời gian để can thiệp."
+        },
+        {
+          "bold": "Nhận diện rủi ro:",
+          "text": "Gắn cờ những điểm bất thường trong giao dịch tài chính, nhật ký tuân thủ và mô hình mua sắm của nhà cung cấp trước khi chúng leo thang."
+        },
+        {
+          "bold": "Dự đoán nhu cầu:",
+          "text": "Hài hòa dự báo doanh số với năng lực sản xuất và lượng hàng tồn trong kho để bảo vệ vốn lưu động."
+        }
+      ],
+      "keyPerspectiveEyebrow": "QUẢN TRỊ DOANH NGHIỆP",
+      "keyPerspectiveTitle": "Tin tưởng, giám sát và bảo vệ",
+      "keyPerspectiveLead": "AI chỉ đáng tin cậy khi có nền tảng dữ liệu bên dưới nó và khả năng quản trị xung quanh nó. Việc áp dụng doanh nghiệp bền vững đòi hỏi kỷ luật kiến trúc có chủ ý:"
+    },
+    "modernErp": {
+      "category": "ERP HIỆN ĐẠI",
+      "title": "Tăng tốc chuyển đổi doanh nghiệp với ERP hiện đại",
+      "subtitle": "Khám phá cách các nền tảng ERP hiện đại kết nối tài chính, mua sắm, chuỗi cung ứng và hoạt động kinh doanh thông qua nền tảng kỹ thuật số thống nhất.",
+      "date": "Tháng 9 năm 2026",
+      "readTime": "Đọc 7 phút",
+      "imageCaption": "Góc nhìn công nghệ doanh nghiệp — ERP được kết nối và tính linh hoạt trong vận hành",
+      "connectedFunctions": [
+        {
+          "title": "Quản lý tài chính",
+          "desc": "Cập nhật sổ cái theo thời gian thực, ghi nhận doanh thu tự động và đối chiếu nhiều loại tiền tệ ngay lập tức."
+        },
+        {
+          "title": "Chuỗi cung ứng & Hậu cần",
+          "desc": "Khả năng hiển thị hàng tồn kho từ đầu đến cuối, tối ưu hóa kho hàng và đo từ xa hiệu suất của nhà cung cấp."
+        },
+        {
+          "title": "Vốn nhân lực & lực lượng lao động",
+          "desc": "Cổng thông tin nhân viên tự phục vụ, tính lương tự động và lập kế hoạch vòng đời nhân tài tích hợp."
+        },
+        {
+          "title": "Mua sắm & Tìm nguồn cung ứng",
+          "desc": "Phê duyệt mua hàng tự động, tuân thủ hợp đồng với nhà cung cấp và phân tích chi tiêu động."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Kiến trúc Cloud-Native",
+          "desc": "Mở rộng quy mô điện toán linh hoạt mà không cần chi phí cơ sở hạ tầng tại chỗ hoặc khóa phiên bản gây gián đoạn."
+        },
+        {
+          "title": "Hệ sinh thái API mở",
+          "desc": "Trình kết nối dựng sẵn cho phép đồng bộ hóa dữ liệu hai chiều liền mạch với các vi dịch vụ và bộ CRM tùy chỉnh."
+        },
+        {
+          "title": "Phân tích nhúng",
+          "desc": "Xem chi tiết bảng điều khiển trực tiếp từ bảng cân đối kế toán cấp cao vào nhật ký giao dịch riêng lẻ."
+        },
+        {
+          "title": "Trình kích hoạt quy trình làm việc tự động",
+          "desc": "Trình kích hoạt sự kiện theo sự kiện thực hiện các hoạt động liên bộ phận tiêu chuẩn một cách tự động."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Nguồn thông tin chính xác duy nhất loại bỏ các báo cáo phòng ban xung đột",
+        "Giảm mạnh chu kỳ chốt sổ cuối tháng, cuối quý",
+        "Khả năng hiển thị hàng tồn kho và hậu cần theo thời gian thực giúp giảm thiểu tình trạng hết hàng",
+        "Giảm chi phí bảo trì CNTT thông qua các bản cập nhật gốc mô-đun trên nền tảng đám mây",
+        "Theo dõi tuân thủ thống nhất trên các khu vực pháp lý thuế đa khu vực",
+        "Đưa các thực thể được mua lại vào các trụ cột hoạt động chung nhanh hơn"
+      ],
+      "erpStrategyPoints": [
+        "Căn chỉnh kiến trúc ERP với quy trình vận hành cốt lõi trước khi cấu hình",
+        "Lựa chọn mô hình triển khai mô-đun để đạt được các cột mốc thắng lợi nhanh chóng",
+        "Ưu tiên di chuyển và đối chiếu dữ liệu gốc chất lượng cao",
+        "Tích hợp các chương trình đào tạo phù hợp với vai trò và quản lý thay đổi tự động",
+        "Thiết kế cổng API để mở rộng tích hợp trong tương lai một cách dễ dàng"
+      ],
+      "sec1Eyebrow": "NỀN TẢNG HOẠT ĐỘNG",
+      "sec1Heading": "Tại sao ERP hiện đại lại quan trọng",
+      "sec1Subtext": "Hiệu quả của doanh nghiệp phụ thuộc vào việc đồng bộ hóa liền mạch dữ liệu về tài chính, mua sắm, vận hành và nguồn nhân lực.",
+      "sec2Eyebrow": "HỆ SINH THÁI TÍCH HỢP",
+      "sec2Heading": "Chức năng kinh doanh được kết nối",
+      "sec2Subtext": "Phá vỡ các phòng ban truyền thống để cho phép dữ liệu giao dịch được truyền tức thời qua các đơn vị kinh doanh.",
+      "sec3Eyebrow": "HÀI HÒA ĐA CHỨC NĂNG",
+      "sec3Heading": "Hoạt động hợp nhất và luồng thông tin",
+      "sec3Subtext": "Cột sống kỹ thuật số được kết nối đảm bảo rằng các hợp đồng bán hàng cập nhật ngay lập tức các đơn đặt hàng của chuỗi cung ứng và sổ cái tài chính.",
+      "sec4Eyebrow": "ĐO LƯỜNG DOANH NGHIỆP",
+      "sec4Heading": "Hiển thị doanh nghiệp theo thời gian thực",
+      "sec4Subtext": "Thông tin vận hành trực tiếp thay thế các bảng tính hồi cứu bị trì hoãn bằng các chỉ báo hiệu suất ngay lập tức.",
+      "sec5Eyebrow": "KIẾN TRÚC NỀN TẢNG CỐT LÕI",
+      "sec5Heading": "Năng lực ERP hiện đại",
+      "sec5Subtext": "Nền tảng kiến trúc giúp phân biệt nền tảng đám mây linh hoạt với các hệ thống nguyên khối cũ.",
+      "sec6Eyebrow": "TÁC ĐỘNG CHẤT LƯỢNG",
+      "sec6Heading": "Lợi ích kinh doanh",
+      "sec6Subtext": "Tốc độ tổ chức hữu hình, tính minh bạch và hiệu quả chi phí được mở khóa nhờ nền tảng ERP hiện đại.",
+      "ctaHeading": "Bạn đã sẵn sàng hiện đại hóa cốt lõi ERP doanh nghiệp của mình chưa?",
+      "ctaDescription": "Khám phá cách Rezonants có thể giúp bạn xác định phạm vi, định cấu hình và tích hợp các nền tảng ERP mô-đun phù hợp với hoạt động kinh doanh của bạn.",
+      "ctaButton": "Trò chuyện với Kiến trúc sư ERP",
+      "sec1P1": "Trong bối cảnh doanh nghiệp phát triển nhanh chóng, các hệ thống hoạch định nguồn lực doanh nghiệp truyền thống thường gặp khó khăn. Được xây dựng trong thời đại xử lý hàng loạt và các máy chủ cục bộ bị cô lập, các hệ thống ERP truyền thống được tùy chỉnh rất nhiều, khó nâng cấp và không rõ ràng. Các hoạt động kinh doanh quan trọng hoạt động song song, dựa vào hoạt động xuất khẩu qua đêm mong manh để đồng bộ hóa sổ cái với kho hàng.",
+      "sec1P2": "ERP hiện đại, dựa trên đám mây đã xác định lại cơ bản động lực này. Nó hoạt động như xương sống kỹ thuật số thống nhất của doanh nghiệp—một nền tảng sống nơi tài chính, mua sắm, chuỗi cung ứng, hàng tồn kho và nguồn nhân lực giao dịch trên mô hình dữ liệu dùng chung.",
+      "sec1P3": "Bằng cách đưa các hoạt động cốt lõi vào một môi trường hài hòa duy nhất, ERP hiện đại sẽ loại bỏ các điểm mù vận hành làm chậm tốc độ tăng trưởng, cho phép các nhà lãnh đạo định hướng hoạt động kinh doanh bằng cách sử dụng các tín hiệu thời gian thực thay vì các bản tóm tắt lịch sử cũ kỹ.",
+      "sec3P1": "Các silo vận hành hiếm khi gây ra vấn đề cho con người; chúng là những vấn đề kiến ​​trúc. Khi các nhóm dịch vụ khách hàng, mua sắm và kho hàng làm việc trong các ứng dụng bị ngắt kết nối, mọi quá trình chuyển giao đều yêu cầu email, bảng tính và cuộc gọi điện thoại thủ công. Sai sót nhân lên, hóa đơn bị giữ lại và cam kết với khách hàng bị hủy bỏ.",
+      "sec3P2": "ERP hiện đại giải quyết vấn đề này thông qua dòng dữ liệu thống nhất và điều phối quy trình theo sự kiện:",
+      "sec3List": [
+        {
+          "bold": "Đồng bộ hóa đơn hàng thành tiền mặt:",
+          "text": "Khi khách hàng đặt hàng, hàng tồn kho sẽ tự động được lưu trữ, nhãn vận chuyển được tạo và sổ cái thanh toán cập nhật ngay lập tức."
+        },
+        {
+          "bold": "Tính minh bạch từ mua hàng đến thanh toán:",
+          "text": "Đơn đặt hàng, biên lai hàng hóa và hóa đơn của nhà cung cấp tự động khớp với đối chiếu 3 chiều, chỉ gắn cờ các trường hợp ngoại lệ để con người xem xét."
+        },
+        {
+          "bold": "Thống nhất chi phí nhân công và vận hành:",
+          "text": "Bảng chấm công dự án, phân bổ tiền lương và chi tiêu hoạt động trực tiếp ánh xạ trực tiếp đến các trung tâm chi phí trong thời gian thực."
+        }
+      ],
+      "sec4P1": "Điều hành một doanh nghiệp mà không có tầm nhìn thống nhất giống như bay trong sương mù dày đặc mà dụng cụ bị chậm trễ. ERP hiện đại cung cấp khả năng đo từ xa theo thời gian thực trên mọi khía cạnh kinh doanh:",
+      "sec4List": [
+        {
+          "bold": "Bảng thông tin điều hành trực tiếp:",
+          "text": "Xem ngay lập tức về tỷ suất lợi nhuận gộp, dòng tiền hoạt động, nợ phải trả và tồn đọng đơn hàng mà không cần chờ kết thúc kỳ."
+        },
+        {
+          "bold": "Báo cáo hoạt động tự phục vụ:",
+          "text": "Trưởng bộ phận có thể xây dựng các truy vấn tùy chỉnh và đi sâu từ các bản tóm tắt cấp doanh nghiệp đến các mục hàng giao dịch riêng lẻ."
+        },
+        {
+          "bold": "Thông tin tổng thể tập trung:",
+          "text": "Loại bỏ những con số mâu thuẫn bằng cách thiết lập dữ liệu tổng thể được quản lý duy nhất cho khách hàng, nhà cung cấp và danh mục sản phẩm."
+        },
+        {
+          "bold": "Chủ động cảnh báo bất thường:",
+          "text": "Cảnh báo tự động thông báo cho người quản lý ngay lập tức khi tỷ suất lợi nhuận giảm xuống dưới ngưỡng, lượng hàng tồn kho sắp hết hoặc việc giao hàng của nhà cung cấp bị trượt."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TRIẾT LÝ CHUYỂN ĐỔI ERP",
+      "keyPerspectiveTitle": "Hiện đại hóa thực dụng qua đại tu nguyên khối",
+      "keyPerspectiveLead": "Chuyển đổi ERP hiện đại thành công khi các tổ chức coi nó như một bản nâng cấp vận hành mang tính cách mạng thay vì sự gián đoạn CNTT hoàn toàn hoặc không có gì:"
+    },
+    "cybersecurity": {
+      "category": "AN NINH MẠNG",
+      "title": "Xây dựng khả năng phục hồi mạng trong một doanh nghiệp được kết nối",
+      "subtitle": "Khám phá cách các tổ chức có thể tăng cường bảo mật, bảo vệ các hệ thống quan trọng và chuẩn bị cho các mối đe dọa trên các môi trường ngày càng được kết nối.",
+      "date": "Tháng 9 năm 2026",
+      "readTime": "Đọc 8 phút",
+      "imageCaption": "Quan điểm công nghệ doanh nghiệp - Kiến trúc phòng chống mối đe dọa & không tin cậy",
+      "incidentReadinessPhases": [
+        {
+          "title": "Đo từ xa & Phát hiện",
+          "desc": "Nhập nhật ký theo thời gian thực và mối tương quan bất thường của SIEM trên tất cả các điểm cuối và khối lượng công việc trên đám mây."
+        },
+        {
+          "title": "Quản thúc & Cách ly",
+          "desc": "Quy tắc cách ly mạng tự động sẽ cô lập các vùng chứa hoặc thông tin xác thực bị xâm phạm ngay lập tức."
+        },
+        {
+          "title": "Cách khắc phục & nguyên nhân gốc rễ",
+          "desc": "Triển khai bản vá nhanh chóng và điều tra kỹ thuật số xác định chính xác vectơ vi phạm."
+        },
+        {
+          "title": "Khả năng phục hồi & làm cứng",
+          "desc": "Phản hồi liên tục về các bản sao lưu bất biến, rào cản chính sách và mô phỏng nhóm đỏ tự động."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Giảm đáng kể các bề mặt tấn công dễ bị tổn thương trên các tài sản đám mây",
+        "Đảm bảo hoạt động liên tục và khắc phục thảm họa với RTO/RPO tối thiểu",
+        "Độ tin cậy hoàn toàn về tuân thủ trong các cuộc kiểm tra ISO 27001, SOC 2, HIPAA và GDPR",
+        "Bảo vệ tài sản trí tuệ cốt lõi của doanh nghiệp và hồ sơ bí mật của khách hàng",
+        "Quản trị rủi ro của nhà cung cấp và bên thứ ba được hợp lý hóa thông qua các biện pháp kiểm soát truy cập thống nhất",
+        "Nâng cao niềm tin của khách hàng và nhà đầu tư được hỗ trợ bởi các chế độ bảo mật không tin cậy đã được xác minh"
+      ],
+      "zeroTrustPrinciples": [
+        "Không bao giờ tin cậy, luôn xác minh: Yêu cầu xác thực rõ ràng cho mọi giao dịch",
+        "Quyền truy cập ít đặc quyền nhất: Ranh giới vai trò chi tiết hạn chế sự di chuyển của mối đe dọa bên",
+        "Giả định vi phạm: Giám sát mối đe dọa liên tục, mã hóa khi truyền và khi lưu trữ",
+        "Phân đoạn vi mô: Tường lửa mạng cô lập khối lượng công việc ứng dụng riêng lẻ",
+        "Đo từ xa liên tục: Phân tích hành vi tự động gắn cờ các yêu cầu phiên bất thường"
+      ],
+      "sec1Eyebrow": "Chu vi mở rộng",
+      "sec1Heading": "Bối cảnh bảo mật doanh nghiệp được kết nối",
+      "sec1Subtext": "Khi các doanh nghiệp áp dụng dịch vụ đám mây, các nhóm từ xa phân tán và thiết bị IoT, các biên giới bảo mật truyền thống sẽ tan biến.",
+      "sec2Eyebrow": "PHÒNG PHÒNG TOÀN DIỆN",
+      "sec2Heading": "Bảo vệ mối đe dọa nhiều lớp",
+      "sec2Subtext": "Phối hợp thu thập thông tin về mối đe dọa, quét lỗ hổng và ứng phó sự cố tự động trên toàn bộ công nghệ.",
+      "sec3Eyebrow": "BIÊN GIỚI AN NINH MỚI",
+      "sec3Heading": "Quản lý danh tính và quyền truy cập (IAM)",
+      "sec3Subtext": "Danh tính là mặt phẳng điều khiển chính. Quyền truy cập chi tiết, MFA và SSO đảm bảo chỉ những người được ủy quyền mới có quyền truy cập vào hệ thống kinh doanh.",
+      "sec4Eyebrow": "MÔ HÌNH KIẾN TRÚC",
+      "sec4Heading": "Làm sáng tỏ kiến trúc Zero Trust",
+      "sec4Subtext": "Tư duy bảo mật nền tảng dựa trên việc xác minh liên tục, ủy quyền rõ ràng và giả định sự thỏa hiệp.",
+      "sec5Eyebrow": "QUẢN TRỊ HẠ TẦNG",
+      "sec5Heading": "Những cân nhắc về bảo mật đám mây",
+      "sec5Subtext": "Giải quyết các mô hình trách nhiệm chung, Cơ sở hạ tầng dưới dạng rào chắn mã và bảo vệ thời gian chạy Kubernetes.",
+      "sec6Eyebrow": "KHẢ NĂNG KHẢO SÁT KHI HOẠT ĐỘNG",
+      "sec6Heading": "Sẵn sàng cho sự cố: Ngoài khả năng phòng ngừa",
+      "sec6Subtext": "Chuẩn bị các sổ sách có cấu trúc, các cuộc diễn tập ngăn chặn tự động và các bản sao lưu khắc phục thảm họa bất biến để có khả năng phục hồi hoạt động tổng thể.",
+      "sec7Eyebrow": "GIÁ TRỊ CHIẾN LƯỢC",
+      "sec7Heading": "Lợi ích kinh doanh",
+      "sec7Subtext": "Khả năng phục hồi của doanh nghiệp, xác minh tuân thủ và bảo vệ danh tiếng thương hiệu được cung cấp bởi hệ thống phòng thủ mạng hiện đại.",
+      "ctaHeading": "Bạn đã sẵn sàng củng cố khả năng phục hồi mạng của doanh nghiệp mình chưa?",
+      "ctaDescription": "Cộng tác với cơ quan thực hành bảo mật của Rezonants để kiểm tra kiến ​​trúc, triển khai khuôn khổ Zero Trust và bảo vệ các hệ thống quan trọng.",
+      "ctaButton": "Tham khảo ý kiến kiến trúc sư mạng",
+      "sec1P1": "Trong kỷ nguyên kế thừa của CNTT doanh nghiệp, bảo mật hoạt động theo học thuyết lâu đài và hào: mọi thứ bên trong mạng văn phòng công ty được cho là đáng tin cậy, trong khi mọi thứ bên ngoài được coi là không đáng tin cậy. Một tường lửa duy nhất của công ty bảo vệ các máy chủ nội bộ, cơ sở dữ liệu và máy tính để bàn.",
+      "sec1P2": "Doanh nghiệp ngày nay đã vượt xa những bức tường vật lý. Khối lượng công việc nằm trên các môi trường nhiều đám mây (AWS, Azure, GCP), nhân viên truy cập các ứng dụng kinh doanh từ nhiều địa điểm khác nhau và các API liên tục trao đổi dữ liệu vận hành nhạy cảm với các nhà cung cấp dịch vụ hậu cần, tổ chức tài chính và nhà cung cấp SaaS bên ngoài.",
+      "sec1P3": "Mặc dù khả năng siêu kết nối này thúc đẩy sự linh hoạt to lớn trong kinh doanh nhưng nó cũng mở rộng đáng kể bề mặt tấn công doanh nghiệp. Mọi điểm cuối API, mã thông báo nhận dạng, thiết bị di động được kết nối và tích hợp SaaS đều thể hiện một nguy cơ tiềm ẩn. Bảo vệ doanh nghiệp thực sự đòi hỏi phải chuyển từ phòng thủ dựa trên vành đai sang khả năng phục hồi mạng chủ động, toàn diện.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Phát hiện mối đe dọa",
+          "desc": "Thông tin về mối đe dọa được hỗ trợ bởi máy học giúp giám sát các mẫu mạng bất thường, lạm dụng thông tin xác thực và các lỗ hổng zero-day trong thời gian thực."
+        },
+        {
+          "icon": "📡",
+          "title": "Giám sát an ninh",
+          "desc": "Đo từ xa các sự kiện tương quan của Trung tâm Điều hành An ninh Tập trung (SOC) trên các máy chủ, cụm container, nhà cung cấp danh tính và điểm cuối."
+        },
+        {
+          "icon": "🔍",
+          "title": "Quản lý lỗ hổng",
+          "desc": "Quét lỗ hổng tự động liên tục trên cơ sở hạ tầng, kho mã nguồn và cơ quan đăng ký vùng chứa để chủ động khắc phục điểm yếu."
+        },
+        {
+          "icon": "🔒",
+          "title": "Bảo vệ dữ liệu",
+          "desc": "Mã hóa mạnh mẽ khi truyền (TLS 1.3) và ở trạng thái lưu trữ (AES-256), cùng với khả năng quản lý ngăn ngừa mất dữ liệu chi tiết (DLP) để ngăn chặn rò rỉ tài sản trí tuệ."
+        }
+      ],
+      "sec3P1": "Bảo vệ tài sản doanh nghiệp yêu cầu đảm bảo rằng mọi danh tính—dù là người điều hành con người, nhà thầu bên ngoài hay tài khoản dịch vụ phần mềm tự trị—đều có quyền xác thực đối với các tài nguyên chính xác mà nó truy cập.",
+      "sec3List": [
+        {
+          "bold": "Quản lý danh tính tập trung:",
+          "text": "Đăng nhập một lần (SSO) và các tiêu chuẩn nhận dạng liên kết giúp loại bỏ việc lưu trữ mật khẩu rời rạc trên các ứng dụng."
+        },
+        {
+          "bold": "Xác thực đa yếu tố thích ứng (MFA):",
+          "text": "Khóa phần cứng FIDO2 chống lừa đảo và các thách thức theo ngữ cảnh dựa trên rủi ro đối với các chức năng quản trị nhạy cảm."
+        },
+        {
+          "bold": "Kiểm soát truy cập chi tiết:",
+          "text": "Các biện pháp kiểm soát truy cập chi tiết dựa trên vai trò (RBAC) và dựa trên thuộc tính (ABAC) được thực thi ở cấp độ API và cơ sở dữ liệu."
+        },
+        {
+          "bold": "Nguyên tắc ít đặc quyền nhất:",
+          "text": "Cấp quyền truy cập tạm thời, đúng lúc (JIT) và tự động hết hạn khi nhiệm vụ quản trị kết thúc."
+        }
+      ],
+      "keyPerspectiveEyebrow": "HỌC LÝ CỐT LÕI KHÔNG TIN TƯỞNG",
+      "keyPerspectiveTitle": "Xác minh liên tục về niềm tin mù quáng",
+      "keyPerspectiveLead": "Trong kiến trúc Zero Trust, niềm tin ngầm dựa trên vị trí mạng bị loại bỏ hoàn toàn. Mọi giao dịch, truy vấn cơ sở dữ liệu và đăng nhập của người dùng phải liên tục chứng minh tính hợp pháp của nó:",
+      "cloudSecurityCards": [
+        {
+          "title": "Chia sẻ trách nhiệm",
+          "desc": "Quản trị rõ ràng, phân biệt bảo mật cơ sở hạ tầng vật lý của nhà cung cấp đám mây với trách nhiệm của doanh nghiệp về mã hóa dữ liệu, chính sách IAM và mã ứng dụng."
+        },
+        {
+          "title": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+          "desc": "Cấu hình đám mây bất biến, có thể kiểm tra được quản lý thông qua mã. Trình quét chính sách dưới dạng mã tự động chặn các cấu hình sai và các nhóm bị lộ trước khi triển khai."
+        },
+        {
+          "title": "Bảo mật vùng chứa & Kubernetes",
+          "desc": "Thời gian chạy vùng chứa được tăng cường, đăng ký hình ảnh đã ký, phân đoạn vi mô mạng và quản lý bí mật tự động giúp loại bỏ thông tin đăng nhập khỏi kho lưu trữ nguồn."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "ĐÁM MÂY & HIỆN ĐẠI HÓA",
+      "title": "Hiện đại hóa các ứng dụng cũ cho đám mây",
+      "subtitle": "Khám phá cách tiếp cận thực tế để đánh giá, hiện đại hóa và chuyển các ứng dụng cũ sang kiến trúc đám mây an toàn và có thể mở rộng.",
+      "date": "Tháng 9 năm 2026",
+      "readTime": "Đọc 6 phút",
+      "imageCaption": "Quan điểm công nghệ doanh nghiệp - Tái nền tảng và container hóa trên nền tảng đám mây",
+      "modernizationApproaches": [
+        {
+          "title": "Lưu trữ lại (Nâng & Dịch chuyển)",
+          "desc": "Chuyển đổi khối lượng công việc sang máy ảo đám mây một cách nhanh chóng với mức sửa đổi mã tối thiểu."
+        },
+        {
+          "title": "Replatform (Nâng & định hình lại)",
+          "desc": "Nâng cấp khung thời gian chạy, áp dụng cơ sở dữ liệu đám mây được quản lý và hợp lý hóa các hoạt động."
+        },
+        {
+          "title": "Refactor (Xây dựng lại trên nền tảng đám mây)",
+          "desc": "Phân tách các khối nguyên khối thành các vi dịch vụ được đóng gói và các API không máy chủ theo sự kiện."
+        },
+        {
+          "title": "Thay thế (Hiện đại hóa SaaS)",
+          "desc": "Loại bỏ các hệ thống cũ dư thừa để thay thế bằng phần mềm đám mây doanh nghiệp được xây dựng có mục đích."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Đánh giá di sản",
+          "desc": "Tự động hóa ánh xạ phần phụ thuộc, lập danh mục nợ kỹ thuật và tính điểm mức độ sẵn sàng cho đám mây."
+        },
+        {
+          "title": "Kiến trúc mục tiêu",
+          "desc": "Bản thiết kế mô-đun microservice, cấu trúc liên kết vùng chứa và mẫu IaC tự động."
+        },
+        {
+          "title": "Di chuyển theo giai đoạn",
+          "desc": "Bản phát hành Canary, đồng bộ hóa dữ liệu ghi kép và các đợt chuyển đổi không có thời gian ngừng hoạt động."
+        },
+        {
+          "title": "Tối ưu hóa đám mây",
+          "desc": "Quản trị chi phí liên tục, tự động đo từ xa và đánh giá hoạt động FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Giảm chi phí bảo trì cơ sở hạ tầng và làm mới phần cứng theo cấp số nhân",
+        "Độ co giãn điện toán gần như vô hạn xử lý lưu lượng doanh nghiệp cao điểm với độ trễ bằng 0",
+        "Tốc độ phát hành được tăng tốc với quy trình triển khai CI/CD hoàn toàn tự động",
+        "Loại bỏ các điểm lỗi duy nhất cũ với tính sẵn sàng cao của multi-AZ",
+        "Kiến trúc API hiện đại cho phép tích hợp đối tác đa nền tảng nhanh chóng",
+        "Khả năng quan sát thời gian thực nâng cao về hiệu suất ứng dụng và chi tiêu trên đám mây"
+      ],
+      "landscapeAssessmentPoints": [
+        "Ánh xạ các phần phụ thuộc phức tạp giữa các ứng dụng và nhịp đồng bộ hóa dữ liệu",
+        "Xác định cấu hình môi trường được mã hóa cứng và lược đồ cơ sở dữ liệu độc quyền",
+        "Đánh giá việc tuân thủ quy định và các hạn chế về chủ quyền dữ liệu theo khu vực pháp lý",
+        "Tính toán Tổng chi phí sở hữu (TCO) thực tế trên các đường dẫn tái cấu trúc và lưu trữ lại",
+        "Thiết lập các đợt triển khai rõ ràng để bảo vệ hoạt động kinh doanh đang hoạt động hàng ngày"
+      ],
+      "sec1Eyebrow": "THỰC TẾ CỦA HỆ THỐNG DI SẢN",
+      "sec1Heading": "Thử thách kế thừa",
+      "sec1Subtext": "Các khối đá nguyên khối cũ kỹ hạn chế tốc độ đổi mới, làm tăng các lỗ hổng trong hoạt động và làm tăng chi phí bảo trì cơ sở hạ tầng.",
+      "sec2Eyebrow": "ĐÁNH GIÁ & KHÁM PHÁ",
+      "sec2Heading": "Tìm hiểu bối cảnh ứng dụng",
+      "sec2Subtext": "Khám phá kiến trúc nghiêm ngặt để ánh xạ các phần phụ thuộc dữ liệu, phiên bản phần mềm và ROI hiện đại hóa trước khi di chuyển.",
+      "sec3Eyebrow": "4 CON ĐƯỜNG HIỆN ĐẠI HÓA",
+      "sec3Heading": "Phương pháp hiện đại hóa",
+      "sec3Subtext": "Chọn mô hình di chuyển phù hợp cho từng khối lượng công việc: lưu trữ lại, tái cấu trúc, tái cấu trúc hoặc thay thế.",
+      "sec4Eyebrow": "MÔ HÌNH CHUYỂN ĐỔI MỤC TIÊU",
+      "sec4Heading": "Kiến trúc đám mây hiện đại",
+      "sec4Subtext": "Thiết kế các vi dịch vụ linh hoạt, cơ sở dữ liệu được quản lý và quy trình triển khai tự động phù hợp với khả năng mở rộng cao.",
+      "sec5Eyebrow": "KẾT QUẢ CHUYỂN ĐỔI",
+      "sec5Heading": "Lợi ích chính của việc hiện đại hóa",
+      "sec5Subtext": "Lợi ích đáng kể về tính linh hoạt, giảm chi phí và độ tin cậy nhờ chuyển đổi dựa trên nền tảng đám mây.",
+      "ctaHeading": "Bạn đã sẵn sàng hiện đại hóa các ứng dụng cũ của mình cho đám mây chưa?",
+      "ctaDescription": "Hợp tác với các kiến ​​trúc sư đám mây của Rezonants để đánh giá các phần phụ thuộc, xây dựng lộ trình di chuyển và chuyển đổi hệ thống của bạn một cách an toàn.",
+      "ctaButton": "Trò chuyện với chuyên gia đám mây",
+      "sec1P1": "Các ứng dụng quan trọng được xây dựng cách đây một thập kỷ vẫn mang lại hàng tỷ USD doanh thu cho doanh nghiệp, tuy nhiên độ cứng nhắc về kiến ​​trúc của chúng tạo ra rủi ro vận hành ngày càng tăng.",
+      "sec1P2": "Doanh nghiệp nào cũng phải đối mặt với sự căng thẳng giữa ổn định và hiện đại hóa. Các hệ thống cũ được thiết kế để đảm bảo độ bền và hoạt động đáng tin cậy trong nhiều năm. Tuy nhiên, khi các yêu cầu kinh doanh tăng tốc, các kiến trúc cũ này gặp phải các giới hạn về cấu trúc:",
+      "sec1List": [
+        {
+          "bold": "Ngăn xếp phần mềm cũ:",
+          "text": "Cơ sở mã nguyên khối được xây dựng trên các khung không dùng nữa với số lượng nhân tài có sẵn để bảo trì đang giảm dần."
+        },
+        {
+          "bold": "Chu kỳ bảo trì khó khăn:",
+          "text": "Các thành phần được liên kết chặt chẽ khi thay đổi một tính năng duy nhất có nguy cơ phá vỡ các mô-đun vận hành không liên quan."
+        },
+        {
+          "bold": "Khả năng mở rộng hạn chế:",
+          "text": "Giới hạn mở rộng theo chiều dọc yêu cầu mua phần cứng độc quyền đắt tiền để xử lý lưu lượng truy cập tăng đột biến theo mùa."
+        },
+        {
+          "bold": "Thách thức hội nhập:",
+          "text": "Không thể giao tiếp mượt mà với các ứng dụng di động hiện đại, cổng khách hàng hoặc API đối tác nếu không có tập lệnh bó dễ vỡ."
+        },
+        {
+          "bold": "Hạn chế về cơ sở hạ tầng:",
+          "text": "Vòng đời của phòng máy chủ vật lý, các lỗ hổng sao lưu và chi phí vận hành làm mát/điện năng cao."
+        }
+      ],
+      "sec2P1": "Hành trình hiện đại hóa thực dụng bắt đầu bằng việc thiết lập sự rõ ràng hoàn toàn trên khu vực hiện có:",
+      "sec2List": [
+        {
+          "bold": "Ứng dụng:",
+          "text": "Lập danh mục tất cả khối lượng công việc đang hoạt động, mô-đun tùy chỉnh, tập lệnh nền và gói lịch sử của bên thứ ba."
+        },
+        {
+          "bold": "Phụ thuộc:",
+          "text": "Ánh xạ khớp nối thời gian chạy phức tạp, bảng cơ sở dữ liệu dùng chung, lệnh gọi hệ thống tệp trực tiếp và hợp đồng dịch vụ bên ngoài."
+        },
+        {
+          "bold": "Dữ liệu:",
+          "text": "Đánh giá cấu trúc dữ liệu, yêu cầu về tính toàn vẹn giao dịch, nhịp độ sao lưu và các quy tắc chủ quyền quy định."
+        },
+        {
+          "bold": "Cơ sở hạ tầng:",
+          "text": "Kiểm tra CPU, bộ nhớ, mức sử dụng bộ nhớ và thông lượng mạng theo thông số kỹ thuật đám mây mục tiêu có kích thước phù hợp."
+        },
+        {
+          "bold": "Tính quan trọng trong kinh doanh:",
+          "text": "Phân loại ứng dụng thành các tầng để thiết kế các làn sóng di chuyển theo giai đoạn, an toàn với quy trình dự phòng rõ ràng."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Ưu điểm:",
+      "cloudArchitectureBadge": "Vòng đời hiện đại hóa",
+      "cloudArchitectureTitle": "Quy trình hiện đại hóa đám mây từ đầu đến cuối",
+      "sec4P1": "Kiến trúc đích tách các ứng dụng cốt lõi thành các dịch vụ theo mô-đun, được đóng gói trong bộ chứa được lưu trữ trên nền tảng đám mây linh hoạt (chẳng hạn như Kubernetes hoặc thời gian chạy không có máy chủ được quản lý).",
+      "sec4P2": "Bằng cách thiết lập quy trình triển khai CI/CD tự động, chuyển đổi xanh lam tự động và cơ sở hạ tầng dưới dạng mã, quá trình triển khai sẽ chuyển đổi từ các sự kiện cuối tuần căng thẳng thành thói quen hàng ngày liền mạch.",
+      "sec4P3": "Điện toán đàn hồi tự động tăng quy mô khi nhu cầu tăng cao và giảm quy mô trong thời gian tạm lắng, loại bỏ chi phí tài nguyên nhàn rỗi đồng thời đảm bảo thời gian phản hồi dưới giây cho người dùng toàn cầu.",
+      "keyPerspectiveEyebrow": "CÁC PHƯƠNG PHÁP HIỆN ĐẠI HÓA TỐT NHẤT",
+      "keyPerspectiveTitle": "Bốn trụ cột của quá trình di cư thành công",
+      "keyPerspectiveLead": "Kinh nghiệm cho thấy các dự án hiện đại hóa thành công khi được xây dựng dựa trên sự chuẩn bị toàn diện, trình tự làn sóng rõ ràng và thử nghiệm nghiêm ngặt:"
+    }
+  }
+}

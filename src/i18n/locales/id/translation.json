@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "services": "Layanan",
+    "products": "Produk",
+    "perspectives": "Perspektif",
+    "technologies": "Teknologi",
+    "contact": "Hubungi",
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "signOut": "Keluar",
+    "chooseLanguage": "Pilih bahasa Anda",
+    "searchLanguage": "Bahasa pencarian",
+    "resetEnglish": "Setel ulang ke bahasa Inggris",
+    "noResults": "Tidak ada bahasa yang ditemukan",
+    "englishDefault": "Bahasa Inggris (Bawaan)",
+    "english": "bahasa Inggris"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Perangkat lunak, dirancang sesuai dengan cara <em>bisnis Anda</em> berjalan.",
+    "description": "Rezonants adalah perusahaan layanan IT dan produk digital. Kami merancang, membangun, dan menskalakan perangkat lunak khusus, produk web dan seluler, infrastruktur cloud, dan AI — untuk perusahaan yang bersaing dalam hal eksekusi.",
+    "bookConsultation": "Pesan konsultasi gratis",
+    "exploreServices": "Jelajahi layanan",
+    "years": "tahun",
+    "projects": "proyek",
+    "retention": "retensi",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — sejak 2012",
+    "metaStudio": "Studio produk digital",
+    "metaTech": "Web · Seluler · Awan · AI"
+  },
+  "about": {
+    "eyebrow": "Tentang Kami",
+    "title": "Membangun Solusi Digital <em>Yang Memajukan Bisnis</em>",
+    "description": "Rezonants adalah perusahaan solusi teknologi yang berfokus membantu bisnis mengubah ide menjadi pengalaman digital yang bermakna. Kami menggabungkan teknologi, kreativitas, dan pemahaman bisnis untuk memberikan solusi yang dirancang berdasarkan kebutuhan dunia nyata.<br /><br />Dari transformasi digital dan pengembangan perangkat lunak khusus hingga cloud, AI, otomatisasi, dan layanan teknologi terkelola, kami membantu organisasi menyederhanakan kompleksitas, meningkatkan efisiensi, dan menciptakan nilai digital yang bertahan lama.<br /><br /><strong>Pendekatan kami sederhana — memahami bisnis, memecahkan masalah yang tepat, dan membangun teknologi yang memberikan hasil.</strong>",
+    "awardWinning": "Pemenang Penghargaan",
+    "awardText": "Diakui atas keunggulan pengiriman di seluruh rekayasa produk web dan seluler.",
+    "professionalStaff": "Staf Profesional",
+    "staffText": "Insinyur senior dan bertanggung jawab yang memiliki pekerjaan mulai dari panggilan pertama hingga peluncuran langsung.",
+    "support247": "Dukungan 24/7",
+    "supportText": "Layanan terkelola dan jalur dukungan yang menjawab saat Anda membutuhkannya.",
+    "fairPrices": "Harga Wajar",
+    "pricesText": "Estimasi yang jujur ​​dan penagihan yang transparan pada setiap keterlibatan.",
+    "yearsExcellence": "Tahun Keunggulan Perusahaan"
+  },
+  "stats": {
+    "happyClients": "Klien yang bahagia",
+    "projectsDone": "Proyek selesai",
+    "winAwards": "Menangkan penghargaan"
+  },
+  "insights": {
+    "eyebrow": "Perspektif",
+    "title": "Perspektif",
+    "sub": "Mengeksplorasi ide, tren, dan teknologi yang membentuk masa depan.",
+    "filters": {
+      "all": "Semua",
+      "digital-transformation": "Transformasi Digital",
+      "ai": "AI & Otomatisasi",
+      "cloud": "Awan",
+      "data": "Data & Analisis",
+      "software": "Perangkat Lunak",
+      "business": "Bisnis & Teknologi"
+    },
+    "readMore": "Baca Selengkapnya",
+    "close": "Tutup",
+    "keyTakeaways": "Poin Penting Arsitektur",
+    "relatedServices": "Kemampuan & Layanan Terkait",
+    "minRead": "min baca",
+    "item1Date": "Juli 2026",
+    "item1Tag": "Produk & ERP",
+    "item1Title": "Pendekatan ERP modular untuk perusahaan yang sedang berkembang",
+    "item1Text": "Bagaimana kami menyusun keterlibatan ERP sehingga keuangan, inventaris, SDM, dan pengadaan terintegrasi dengan lancar tanpa gangguan selama beberapa tahun.",
+    "item2Date": "Juni 2026",
+    "item2Tag": "Kecerdasan Buatan",
+    "item2Title": "Sistem AI Agen: beralih dari chatbot ke eksekusi otonom",
+    "item2Text": "Merancang sistem LLM multi-agen terkoordinasi yang merencanakan, memvalidasi, dan melaksanakan alur kerja bisnis yang kompleks dengan pengawasan langsung dari manusia.",
+    "item3Date": "Mei 2026",
+    "item3Tag": "Tonggak Sejarah Perusahaan",
+    "item3Title": "Diakui di antara studio inovasi TI terkemuka di Hyderabad",
+    "item3Text": "Studio teknik kami telah diakui atas keunggulan pengiriman, kemampuan teknologi mendalam, dan kepuasan klien di seluruh rekayasa produk global.",
+    "desc": "Jelajahi ide dan perspektif dari Rezonants mengenai transformasi digital, AI, otomatisasi, cloud, data, perangkat lunak, dan masa depan teknologi bisnis.",
+    "categories": {
+      "digitalTransformation": "Transformasi Digital",
+      "ai": "AI & Otomatisasi",
+      "cloud": "Awan",
+      "data": "Data & Analisis",
+      "software": "Perangkat Lunak",
+      "business": "Bisnis & Teknologi"
+    }
+  },
+  "technologies": {
+    "title": "Teknologi & Arsitektur",
+    "headline": "Solusi Teknologi Perusahaan",
+    "sub": "Teknologi Cerdas. Operasi Otomatis. Bisnis yang Lebih Cerdas.",
+    "selectTechnology": "Pilih solusi teknologi…",
+    "options": {
+      "aiRobotics": "Solusi AI & Robotika",
+      "businessAutomation": "Solusi Otomasi Bisnis",
+      "cloudMigrations": "Solusi Migrasi Cloud",
+      "dataCenters": "Solusi Pusat Data",
+      "cognitiveAnalytics": "Analisis Kognitif & AI",
+      "informationReporting": "Sistem Informasi & Pelaporan",
+      "managedServices": "Layanan Terkelola",
+      "oneStopSolutions": "Solusi Teknologi Terpadu"
+    },
+    "explore": "Jelajahi Teknologi",
+    "bookDiscovery": "Penemuan Teknologi Buku",
+    "exploreAll": "Jelajahi Semua Teknologi",
+    "coreCapabilities": "Kemampuan Teknologi Inti",
+    "bookConsultation": "Pesan Konsultasi"
+  },
+  "contact": {
+    "eyebrow": "Hubungi",
+    "title": "Bicaralah dengan insinyur senior, bukan naskah penjualan",
+    "sub": "Bagikan sedikit tentang proyek Anda dan kami akan merespons dalam satu hari kerja.",
+    "reachUs": "Hubungi kami langsung",
+    "preferConversation": "Lebih suka percakapan? Kami hanya berjarak satu panggilan telepon.",
+    "contactLede": "Cara tercepat untuk maju adalah percakapan singkat. Hubungi kami di saluran mana pun di bawah, atau pesan slot dan kami akan mendatangi Anda dengan siap.",
+    "phone": "Telepon",
+    "email": "Surel",
+    "office": "Kantor",
+    "hours": "Jam",
+    "hoursValue": "Senin – Sabtu, 09:30 – 18:30 WIB",
+    "bookSlot": "Pesan slot konsultasi",
+    "sendMessage": "Kirimi kami pesan",
+    "fieldsRequired": "Bidang yang ditandai dengan * wajib diisi.",
+    "fullName": "Nama Lengkap *",
+    "emailLabel": "Surel *",
+    "company": "Perusahaan",
+    "subject": "Subyek",
+    "messageLabel": "Pesan *",
+    "sending": "Mengirim…",
+    "sendBtn": "Kirim pesan",
+    "successMsg": "Pesan terkirim! Salinannya telah dikirimkan ke email Anda.",
+    "errorMsg": "Tidak dapat menyimpan pesan Anda. Periksa apakah tabel contact_messages ada, lalu coba lagi.",
+    "offices": {
+      "vijayawada": "Kantor Vijayawada",
+      "southAfrica": "Kantor Afrika Selatan"
+    },
+    "placeholders": {
+      "fullName": "Nama lengkapmu",
+      "email": "anda@perusahaan.com",
+      "company": "Perusahaan atau organisasi Anda",
+      "subject": "Apa yang bisa kami bantu?",
+      "message": "Ceritakan kepada kami tentang proyek, garis waktu, dan tujuan Anda..."
+    },
+    "validation": {
+      "fullNameRequired": "Silakan masukkan nama lengkap Anda.",
+      "emailRequired": "Silakan masukkan alamat email Anda.",
+      "emailInvalid": "Silakan masukkan alamat email yang valid.",
+      "messageRequired": "Silakan masukkan pesan."
+    }
+  },
+  "services": {
+    "eyebrow": "Layanan",
+    "title": "Apa yang kami lakukan",
+    "sub": "Dari strategi hingga operasi yang dikelola, kami menghadirkan kemitraan teknologi menyeluruh bagi perusahaan yang bersaing dalam hal eksekusi.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Awal Hingga Penerapan",
+        "description": "Pengembangan solusi digital baru secara menyeluruh mulai dari kebutuhan bisnis dan arsitektur solusi melalui pengembangan, integrasi, pengujian, penerapan, dan dukungan berkelanjutan."
+      },
+      "businessProcessAutomation": {
+        "label": "Otomatisasi Proses Bisnis",
+        "description": "Desain dan penerapan solusi otomatisasi cerdas yang menyederhanakan proses bisnis, menghilangkan aktivitas manual yang berulang, meningkatkan efisiensi operasional, dan mempercepat hasil bisnis."
+      },
+      "centerOfExcellence": {
+        "label": "Pusat Keunggulan",
+        "description": "Pembentukan pusat teknologi dan kemampuan bisnis khusus yang menyediakan tata kelola, standar, keahlian, kerangka kerja, aset yang dapat digunakan kembali, dan perbaikan berkelanjutan di seluruh organisasi."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Pengembangan & Kustomisasi Kustom",
+        "description": "Pengembangan dan peningkatan aplikasi, platform, alur kerja, dan solusi perusahaan untuk memenuhi kebutuhan bisnis yang unik dan memberikan fungsionalitas yang disesuaikan."
+      },
+      "digitalTransformation": {
+        "label": "Transformasi Digital",
+        "description": "Modernisasi operasi bisnis, ekosistem teknologi, dan pengalaman pelanggan melalui cloud, AI, otomatisasi, data, dan teknologi aplikasi modern."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Kerangka Solusi End-to-End",
+        "description": "Pendekatan penyampaian komprehensif yang mencakup siklus hidup teknologi secara lengkap—mulai dari strategi, persyaratan, dan arsitektur hingga pengembangan, integrasi, penerapan, tata kelola, pemantauan, dan dukungan."
+      },
+      "migrationModernization": {
+        "label": "Migrasi & Modernisasi",
+        "description": "Migrasi aplikasi, data, platform, infrastruktur, dan beban kerja yang aman dan terstruktur dari lingkungan lama atau yang sudah ada ke platform teknologi yang modern, terukur, dan optimal."
+      },
+      "pocPilotImplementation": {
+        "label": "Bukti Konsep (PoC) & Implementasi Percontohan",
+        "description": "Perkembangan pesat dan validasi solusi teknologi untuk menilai kelayakan teknis, nilai bisnis, persyaratan integrasi, kinerja, dan skalabilitas sebelum implementasi skala penuh."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Layanan Bersama & Operasi Terkelola",
+        "description": "Pengiriman teknologi dan kemampuan operasional yang terpusat di seluruh unit bisnis melalui proses yang terstandarisasi, sumber daya yang terampil, kerangka tata kelola, manajemen layanan, dan tingkat layanan yang terukur."
+      },
+      "customDevelopment": {
+        "label": "Awal Hingga Penerapan",
+        "description": "Pengembangan solusi digital baru secara menyeluruh mulai dari kebutuhan bisnis dan arsitektur solusi melalui pengembangan, integrasi, pengujian, penerapan, dan dukungan berkelanjutan."
+      },
+      "processAutomation": {
+        "label": "Otomatisasi Proses Bisnis",
+        "description": "Desain dan penerapan solusi otomatisasi cerdas yang menyederhanakan proses bisnis, menghilangkan aktivitas manual yang berulang, meningkatkan efisiensi operasional, dan mempercepat hasil bisnis."
+      },
+      "solutionEngineering": {
+        "label": "Pengembangan & Kustomisasi Kustom",
+        "description": "Pengembangan dan peningkatan aplikasi, platform, alur kerja, dan solusi perusahaan untuk memenuhi kebutuhan bisnis yang unik dan memberikan fungsionalitas yang disesuaikan."
+      },
+      "endToEndSolutions": {
+        "label": "Kerangka Solusi End-to-End",
+        "description": "Pendekatan penyampaian komprehensif yang mencakup siklus hidup teknologi secara lengkap—mulai dari strategi, persyaratan, dan arsitektur hingga pengembangan, integrasi, penerapan, tata kelola, pemantauan, dan dukungan."
+      },
+      "migrationServices": {
+        "label": "Migrasi & Modernisasi",
+        "description": "Migrasi aplikasi, data, platform, infrastruktur, dan beban kerja yang aman dan terstruktur dari lingkungan lama atau yang sudah ada ke platform teknologi yang modern, terukur, dan optimal."
+      },
+      "pilotPrototyping": {
+        "label": "Bukti Konsep (PoC) & Implementasi Percontohan",
+        "description": "Perkembangan pesat dan validasi solusi teknologi untuk menilai kelayakan teknis, nilai bisnis, persyaratan integrasi, kinerja, dan skalabilitas sebelum implementasi skala penuh."
+      },
+      "sharedServices": {
+        "label": "Layanan Bersama & Operasi Terkelola",
+        "description": "Pengiriman teknologi dan kemampuan operasional yang terpusat di seluruh unit bisnis melalui proses yang terstandarisasi, sumber daya yang terampil, kerangka tata kelola, manajemen layanan, dan tingkat layanan yang terukur."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Jadwalkan Konsultasi",
+      "exploreFramework": "Jelajahi Kerangka Solusi",
+      "talkSeniorEngineer": "Bicaralah dengan Insinyur Senior",
+      "exploreTechStack": "Jelajahi Tumpukan Teknologi",
+      "bookPocSession": "Pesan Sesi Penemuan PoC",
+      "seeAllServices": "Lihat Semua Layanan",
+      "requestAssessment": "Minta Penilaian Migrasi",
+      "exploreCloudSolutions": "Jelajahi Solusi Cloud"
+    },
+    "sharedServices": {
+      "heroBadge": "LAYANAN BERBAGI & OPERASI TERKELOLA",
+      "heroTitle": "Layanan Bersama Perusahaan & Operasi Terkelola",
+      "heroDesc": "Tingkatkan kemampuan bisnis, sederhanakan alur kerja lintas fungsi, dan raih keunggulan operasional melalui model layanan bersama yang terstandarisasi, aman, dan hemat biaya.",
+      "bookDiscovery": "Buku Penemuan Operasi Terkelola",
+      "exploreFramework": "Jelajahi Kerangka Solusi",
+      "coreCapabilities": "Kemampuan Inti:",
+      "managedServices": "Layanan Terkelola",
+      "itOperations": "Operasi TI",
+      "appSupport": "Dukungan Aplikasi",
+      "serviceManagement": "Manajemen Pelayanan",
+      "resourceOptimization": "Optimasi Sumber Daya",
+      "slaManagement": "Manajemen SLA",
+      "governance": "Tata Kelola",
+      "continuousImprovement": "Perbaikan Berkelanjutan",
+      "costOptimization": "Optimasi Biaya",
+      "readyTitle": "Siap Mengoptimalkan Operasi Anda?",
+      "readyDesc": "Temukan bagaimana kerangka Layanan Bersama & Operasi Terkelola kami dapat meningkatkan kualitas layanan, memastikan kelangsungan operasional, dan mendorong efisiensi biaya berkelanjutan untuk perusahaan Anda.",
+      "scheduleSession": "Jadwalkan Sesi Penemuan"
+    },
+    "solutionEngineering": {
+      "heroBadge": "TEKNIK SOLUSI & ARSITEKTUR",
+      "heroTitle": "Pengembangan & Kustomisasi Kustom",
+      "heroDesc": "Rancang, rekayasa, dan terapkan sistem perangkat lunak berkinerja tinggi yang dirancang khusus untuk alur kerja operasional, jalur data, dan kebutuhan skala Anda."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "INOVASI & EKSPERIMENTASI CEPAT",
+      "heroTitle": "Bukti Konsep (PoC) & Implementasi Percontohan",
+      "heroDesc": "Validasi teknologi baru, kurangi risiko arsitektur kompleks, dan buktikan nilai bisnis dengan prototipe tingkat produksi dalam hitungan minggu, bukan kuartal."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ARSITEKTUR & PENGIRIMAN SIKLUS HIDUP",
+      "heroTitle": "Kerangka Solusi End-to-End",
+      "heroDesc": "Model pengiriman terpadu yang menghubungkan penemuan produk, arsitektur solusi, rekayasa, infrastruktur cloud, dan operasi keandalan 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "MODERNISASI INFRASTRUKTUR & WARISAN",
+      "heroTitle": "Migrasi & Modernisasi",
+      "heroDesc": "Transisikan beban kerja lama, arsitektur monolitik, dan infrastruktur lokal dengan lancar ke platform cloud yang modern, aman, dan dapat diskalakan."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Modernisasi Perusahaan",
+        "titlePart1": "digital",
+        "titlePart2": "Transformasi",
+        "description": "Modernisasi operasi bisnis, ekosistem teknologi, dan pengalaman pelanggan melalui cloud, AI, otomatisasi, data, dan teknologi aplikasi modern.",
+        "bookWorkshop": "Workshop Transformasi Buku",
+        "exploreFramework": "Jelajahi Kerangka Solusi",
+        "startTransformation": "Mulai Transformasi",
+        "exploreStrategy": "Jelajahi Strategi",
+        "coreCapabilitiesTitle": "Kemampuan Inti",
+        "coreCapabilities": [
+          "Strategi Digital",
+          "Transformasi Awan",
+          "AI & Otomatisasi",
+          "Modernisasi Aplikasi",
+          "Modernisasi Warisan",
+          "Data & Analisis",
+          "Pengalaman Pelanggan",
+          "Modernisasi Teknologi"
+        ],
+        "row1Eyebrow": "Strategi & Peta Jalan",
+        "row1Title": "Dari Visi ke Peta Jalan yang Dapat Dieksekusi",
+        "row1P1": "Kami bermitra dengan para pemimpin perusahaan untuk menentukan strategi digital, kasus bisnis, dan peta jalan bertahap dengan kemenangan cepat dan eksekusi tanpa risiko.",
+        "row1P2": "Inisiatif yang diprioritaskan, model TCO, dan KPI memastikan setiap upaya modernisasi teknologi terkait langsung dengan pendapatan, efisiensi, dan hasil kepuasan pelanggan.",
+        "row2Eyebrow": "Modernisasi Warisan",
+        "row2Title": "Modernisasi Tanpa Merusak Bisnis",
+        "row2P1": "Platform ulang monolit ke layanan mikro, API, dan pola cloud-native dengan peralihan tanpa waktu henti dan validasi regresi otomatis.",
+        "row2P2": "Kami memodernisasi aplikasi, database, dan lapisan integrasi sambil menjaga kepatuhan dan postur keamanan.",
+        "row3Eyebrow": "Awan, AI & Data",
+        "row3Title": "Adopsi Cloud & Kecerdasan Berbasis Data",
+        "row3P1": "Gunakan AWS, Azure, dan GCP, bangun pipeline data modern, dan sematkan agen pembelajaran mesin untuk mendorong keputusan yang otonom.",
+        "row3P2": "Dari streaming acara real-time hingga dasbor terpadu, transformasi menjadi terukur dan berkelanjutan.",
+        "row4Eyebrow": "Pengalaman Pelanggan",
+        "row4Title": "Pengalaman Multisaluran Modern",
+        "row4P1": "Mendesain ulang perjalanan pelanggan di web responsif, iOS, Android, dan portal layanan mandiri dengan antarmuka yang dipersonalisasi.",
+        "row4P2": "Rekayasa platform, telemetri, dan putaran umpan balik otomatis menjadikan inovasi digital berkelanjutan.",
+        "pillarsTitle": "Pilar Transformasi",
+        "pillarsSub": "Pengungkit yang berfokus pada hasil yang memastikan kepemimpinan digital berkelanjutan.",
+        "pillar1Title": "Strategi & Tata Kelola Digital",
+        "pillar1Desc": "Cetak biru transformasi bertahap dengan pemodelan kasus bisnis, tata kelola arsitektur, dan pelacakan risiko pencapaian.",
+        "pillar2Title": "Platform Awan & Data",
+        "pillar2Desc": "Fondasi multi-cloud AWS/Azure/GCP, pipeline otomatis, dan pemberdayaan analisis data perusahaan.",
+        "pillar3Title": "AI & Otomatisasi",
+        "pillar3Desc": "Otomatisasi proses cerdas, agen AI kognitif, dan telemetri prediktif untuk mengoptimalkan pengoperasian sehari-hari.",
+        "pillar4Title": "Pengalaman Pelanggan",
+        "pillar4Desc": "Portal digital omnichannel dengan konversi tinggi dan antarmuka yang dipersonalisasi dibangun untuk retensi pengguna maksimum.",
+        "ctaTitle": "Siap Mengubah Perusahaan Anda?",
+        "ctaSub": "Bermitra dengan Rezonants untuk transformasi digital bertahap dan mengurangi risiko yang terkait dengan hasil bisnis yang terukur.",
+        "ctaButton": "Pesan Panggilan Transformasi Digital"
+      },
+      "customDevelopment": {
+        "eyebrow": "Rekayasa Digital Ujung-ke-Ujung",
+        "titlePart1": "Awal Ke",
+        "titlePart2": "Penerapan",
+        "bookConsultation": "Pesan Konsultasi",
+        "exploreEngineering": "Jelajahi Rekayasa Solusi"
+      },
+      "processAutomation": {
+        "eyebrow": "Operasi Proses Cerdas",
+        "titlePart1": "Proses Bisnis",
+        "titlePart2": "Otomatisasi",
+        "bookDiscovery": "Penemuan Otomatisasi Buku",
+        "exploreCoE": "Jelajahi Pusat Keunggulan"
+      },
+      "centreOfExcellence": {
+        "badge": "COE Rezonants",
+        "titlePart1": "Pusat",
+        "titlePart2": "Keunggulan",
+        "bookConsultation": "Konsultasi Buku CoE",
+        "exploreCapabilities": "Jelajahi Kemampuan"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Siklus Hidup Teknologi Lengkap",
+        "titlePart1": "Ujung ke Ujung",
+        "titlePart2": "Kerangka Solusi",
+        "startJourney": "Mulailah Perjalanan Siklus Hidup Anda",
+        "exploreTransformation": "Jelajahi Transformasi"
+      },
+      "migrationServices": {
+        "eyebrow": "Transformasi Cloud & Infrastruktur",
+        "titlePart1": "Migrasi &",
+        "titlePart2": "Modernisasi",
+        "planMigration": "Rencanakan Migrasi Anda",
+        "exploreTransformation": "Jelajahi Transformasi"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Validasi & Kelayakan Cepat",
+        "titlePart1": "Bukti Konsep (PoC) &",
+        "titlePart2": "Implementasi Percontohan",
+        "initiateDiscovery": "Memulai Penemuan PoC",
+        "exploreDevelopment": "Jelajahi Pengembangan Kustom"
+      },
+      "solutionEngineering": {
+        "badge": "Rekayasa Digital yang Disesuaikan",
+        "bookConsultation": "Pesan Konsultasi",
+        "exploreCapabilities": "Jelajahi Kemampuan"
+      },
+      "sharedServices": {
+        "eyebrow": "Pusat Operasi Terpusat",
+        "titlePart1": "Layanan Bersama &",
+        "titlePart2": "Operasi Terkelola",
+        "bookDiscovery": "Buku Penemuan Operasi Terkelola",
+        "exploreFramework": "Jelajahi Kerangka Solusi"
+      }
+    },
+    "coreCapabilities": "Kemampuan Inti"
+  },
+  "products": {
+    "featured": "Produk Unggulan",
+    "featuredSub": "Sederhanakan operasi, hubungkan tim, otomatisasi proses, dan dorong pertumbuhan bisnis yang lebih cerdas.",
+    "seeAll": "Lihat Semua Produk",
+    "featuredProducts": "PRODUK UNGGULAN",
+    "meetAutonomous": "Temui Tenaga Kerja Otonom",
+    "meetAutonomousText": "Ubah operasi Anda dengan agen AI yang bekerja bersama tim Anda untuk menangani tugas yang kompleks dan berulang.",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "erp": {
+      "title": "Satu Platform Siap untuk Apa Pun",
+      "sub": "Memberdayakan bisnis dengan solusi manajemen perusahaan yang terhubung, cerdas, dan terukur.",
+      "explore": "Jelajahi Solusi ERP",
+      "gridTitle": "SOLUSI ERP",
+      "promoTitle": "ERP Modular untuk Pertumbuhan",
+      "promoText": "Terapkan fitur ERP modular dengan cepat tanpa kerumitan sistem multi-tahun tradisional.",
+      "scheduleDemo": "Jadwalkan Demo"
+    },
+    "it": {
+      "title": "Solusi TI",
+      "sub": "Solusi infrastruktur, keamanan, dan DevOps tingkat perusahaan untuk menjaga bisnis Anda tetap berjalan.",
+      "explore": "Jelajahi Solusi TI",
+      "gridTitle": "SOLUSI IT",
+      "promoTitle": "Infrastruktur TI yang Andal",
+      "promoText": "Bangun fondasi teknologi yang tangguh dengan layanan cloud, keamanan, dan DevOps terkelola.",
+      "getStarted": "Memulai"
+    },
+    "crm": {
+      "title": "Solusi CRM",
+      "sub": "Manajemen hubungan pelanggan untuk menyederhanakan alur kerja penjualan, dukungan, dan pemasaran.",
+      "explore": "Jelajahi Solusi CRM",
+      "gridTitle": "SOLUSI CRM",
+      "promoTitle": "Tutup Penawaran Lainnya",
+      "promoText": "Berdayakan tim penjualan dan dukungan Anda dengan data pelanggan terpadu dan otomatisasi cerdas.",
+      "startTrial": "Mulai Uji Coba Gratis"
+    },
+    "hrms": {
+      "title": "Solusi SDM",
+      "sub": "Manajemen sumber daya manusia meliputi penggajian, rekrutmen, kinerja, dan keterlibatan karyawan.",
+      "explore": "Jelajahi Solusi HRMS",
+      "gridTitle": "SOLUSI SDM",
+      "promoTitle": "Sederhanakan Operasi SDM",
+      "promoText": "Otomatiskan alur kerja SDM mulai dari perekrutan hingga pensiun dengan platform modern yang mengutamakan karyawan.",
+      "requestDemo": "Minta Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Produk Unggulan",
+      "erpSolutions": "Solusi ERP",
+      "solutions": "SOLUSI"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Agen dan alat otonom cerdas yang mengotomatiskan alur kerja kompleks dan operasi pelanggan."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Platform manajemen multi-cloud yang mengoptimalkan kinerja, keamanan, kepatuhan, dan biaya."
+      },
+      "workSync": {
+        "title": "Sinkronisasi Kerja",
+        "description": "Kolaborasi hibrid dan pusat produktivitas dengan tugas, obrolan, dan manajemen dokumen terintegrasi."
+      },
+      "dataStream": {
+        "title": "Aliran Data",
+        "description": "Mesin analitik waktu nyata mengubah aliran peristiwa bisnis menjadi wawasan yang dapat ditindaklanjuti."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Inti",
+        "description": "Arsitektur perusahaan terpadu yang menghubungkan keuangan, aset, SDM, pengadaan, dan inventaris."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platform pengalaman karyawan yang mencakup penggajian, tunjangan, tinjauan kinerja, dan layanan mandiri."
+      },
+      "supplyChainIq": {
+        "title": "IQ Rantai Pasokan",
+        "description": "Pelacakan logistik real-time, operasi gudang otomatis, dan perkiraan permintaan."
+      },
+      "financeHub": {
+        "title": "Pusat Keuangan",
+        "description": "Manajemen buku besar tingkat lanjut, alur kerja penagihan, kepatuhan otomatis, dan laporan arus kas waktu nyata."
+      },
+      "cloudInfrastructure": {
+        "title": "Infrastruktur Awan",
+        "description": "Arsitektur, migrasi, dan manajemen cloud yang skalabel di seluruh AWS, Azure, dan GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Rangkaian Keamanan Siber",
+        "description": "Pemantauan keamanan menyeluruh, deteksi ancaman, dan manajemen kepatuhan."
+      },
+      "devopsPipeline": {
+        "title": "Saluran DevOps",
+        "description": "Otomatisasi CI/CD, containerisasi, dan infrastruktur sebagai kode untuk pengiriman yang lebih cepat."
+      },
+      "managedItServices": {
+        "title": "Layanan TI Terkelola",
+        "description": "Pemantauan infrastruktur 24/7, respons insiden, dan pemeliharaan proaktif."
+      },
+      "salesCrm": {
+        "title": "CRM Penjualan",
+        "description": "Manajemen saluran, penilaian prospek, pelacakan kesepakatan, dan perkiraan penjualan dalam satu platform."
+      },
+      "customerSupportHub": {
+        "title": "Pusat Dukungan Pelanggan",
+        "description": "Tiket, basis pengetahuan, obrolan langsung, dan manajemen dukungan omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Otomatisasi Pemasaran",
+        "description": "Orkestrasi kampanye, otomatisasi email, pemeliharaan prospek, dan analitik."
+      },
+      "customer360View": {
+        "title": "Tampilan Pelanggan 360",
+        "description": "Profil pelanggan terpadu yang menggabungkan data penjualan, dukungan, dan interaksi."
+      },
+      "coreHr": {
+        "title": "SDM Inti",
+        "description": "Catatan karyawan, hierarki organisasi, manajemen cuti, dan pelacakan kehadiran."
+      },
+      "payrollCompliance": {
+        "title": "Penggajian & Kepatuhan",
+        "description": "Pemrosesan penggajian otomatis, perhitungan pajak, dan kepatuhan hukum."
+      },
+      "performanceManagement": {
+        "title": "Manajemen Kinerja",
+        "description": "Pelacakan OKR, tinjauan 360°, penetapan tujuan, dan rencana pengembangan karyawan."
+      },
+      "recruitmentPortal": {
+        "title": "Portal Rekrutmen",
+        "description": "Postingan pekerjaan, pelacakan pelamar, penjadwalan wawancara, dan alur kerja orientasi."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Produk Unggulan",
+        "heading": "Produk Unggulan",
+        "sub": "Sederhanakan operasi, hubungkan tim, otomatisasi proses, dan dorong pertumbuhan bisnis yang lebih cerdas.",
+        "promoTitle": "Temui Tenaga Kerja Otonom",
+        "promoText": "Ubah operasi Anda dengan agen AI yang bekerja bersama tim Anda untuk menangani tugas yang kompleks dan berulang.",
+        "items": [
+          {
+            "title": "Otomatisasi AI & Agen Cerdas",
+            "description": "Otomatiskan tugas yang berulang dan terapkan agen AI cerdas yang meningkatkan produktivitas, pengambilan keputusan, dan hasil bisnis."
+          },
+          {
+            "title": "Layanan TI & Dukungan Digital",
+            "description": "Memberikan dukungan TI yang lebih cepat dan cerdas dengan manajemen layanan yang efisien, otomatisasi, dan alur kerja digital."
+          },
+          {
+            "title": "Tata Kelola AI Perusahaan",
+            "description": "Membangun penerapan AI yang bertanggung jawab dengan tata kelola, keamanan, kepatuhan, transparansi, dan pengendalian risiko yang kuat."
+          },
+          {
+            "title": "Operasi TI yang Cerdas",
+            "description": "Transformasikan operasi TI dengan pemantauan berbasis AI, otomatisasi, wawasan prediktif, dan penyelesaian masalah proaktif."
+          },
+          {
+            "title": "Manajemen Pengalaman Pelanggan",
+            "description": "Ciptakan perjalanan pelanggan yang dipersonalisasi dengan keterlibatan cerdas, otomatisasi, analitik, dan pengalaman digital yang lancar."
+          },
+          {
+            "title": "Strategi Bisnis & Optimasi Portofolio",
+            "description": "Menyelaraskan investasi teknologi dengan tujuan bisnis untuk mengoptimalkan portofolio, meningkatkan efisiensi, dan mendorong pertumbuhan berkelanjutan."
+          },
+          {
+            "title": "Siklus Hidup Aset & Teknologi TI",
+            "description": "Kelola aset TI sepanjang siklus hidupnya dengan visibilitas, otomatisasi, pengendalian biaya, dan perencanaan teknologi yang lebih baik."
+          },
+          {
+            "title": "Risiko & Kepatuhan Perusahaan",
+            "description": "Mengidentifikasi, menilai, dan mengelola risiko perusahaan sekaligus memperkuat kepatuhan, kontrol, dan ketahanan organisasi."
+          },
+          {
+            "title": "Keamanan Siber & Operasi Ancaman",
+            "description": "Lindungi lingkungan digital dengan deteksi ancaman proaktif, operasi keamanan, respons insiden, dan pemantauan berkelanjutan."
+          },
+          {
+            "title": "Otomatisasi Tenaga Kerja Lapangan",
+            "description": "Berdayakan tim lapangan dengan penjadwalan cerdas, alur kerja seluler, otomatisasi, dan visibilitas operasional waktu nyata."
+          },
+          {
+            "title": "Pengalaman Karyawan & Layanan SDM",
+            "description": "Sederhanakan layanan karyawan dengan alur kerja digital, solusi layanan mandiri, otomatisasi, dan pengalaman karyawan yang dipersonalisasi."
+          },
+          {
+            "title": "Tempat Kerja Digital Terpadu",
+            "description": "Hubungkan orang, proses, aplikasi, dan alat kolaborasi melalui tempat kerja digital yang aman, cerdas, dan lancar."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Solusi ERP",
+        "heading": "Satu Platform, Siap untuk Apa Pun",
+        "sub": "Memberdayakan bisnis dengan solusi manajemen perusahaan yang terhubung, cerdas, dan terukur.",
+        "promoTitle": "ERP Modular untuk Pertumbuhan",
+        "promoText": "Terapkan fitur ERP modular dengan cepat tanpa kerumitan sistem multi-tahun tradisional.",
+        "items": [
+          {
+            "title": "Otomatisasi Proses Bisnis",
+            "description": "Merampingkan keuangan, SDM, penjualan, pengadaan, dan operasional sehari-hari."
+          },
+          {
+            "title": "Manajemen Bisnis Terintegrasi",
+            "description": "Hubungkan departemen, data, dan alur kerja pada platform terpadu."
+          },
+          {
+            "title": "Keuangan & Akuntansi",
+            "description": "Meningkatkan visibilitas keuangan, pelaporan, penganggaran, dan kepatuhan."
+          },
+          {
+            "title": "SDM & Penggajian",
+            "description": "Menyederhanakan manajemen karyawan, kehadiran, penggajian, dan proses SDM."
+          },
+          {
+            "title": "Manajemen Rantai Pasokan",
+            "description": "Optimalkan pengadaan, inventaris, vendor, dan logistik."
+          },
+          {
+            "title": "Penjualan & Manajemen Pelanggan",
+            "description": "Kelola prospek, pelanggan, pesanan, dan kinerja penjualan secara efisien."
+          },
+          {
+            "title": "Analisis & Pelaporan Waktu Nyata",
+            "description": "Ubah data bisnis menjadi wawasan yang dapat ditindaklanjuti untuk mengambil keputusan lebih cepat."
+          },
+          {
+            "title": "Solusi Cloud ERP",
+            "description": "Memungkinkan manajemen perusahaan yang aman, terukur, dan dapat diakses dari mana saja."
+          }
+        ]
+      },
+      "it": {
+        "title": "Solusi TI",
+        "heading": "Solusi IT Kami",
+        "sub": "Transformasikan operasi TI dengan solusi digital yang cerdas, proaktif, dan terukur yang meningkatkan kinerja, produktivitas, dan kelangsungan bisnis.",
+        "promoTitle": "Infrastruktur TI yang Andal",
+        "promoText": "Bangun fondasi teknologi yang tangguh dengan layanan cloud, keamanan, dan DevOps yang terkelola.",
+        "items": [
+          {
+            "title": "Manajemen Layanan TI",
+            "description": "Sederhanakan layanan TI, insiden, permintaan, dan alur kerja untuk penyelesaian yang lebih cepat."
+          },
+          {
+            "title": "Manajemen Operasi TI",
+            "description": "Pantau infrastruktur dan aplikasi dengan operasi TI yang proaktif dan berbasis data."
+          },
+          {
+            "title": "Manajemen Aset TI",
+            "description": "Kelola aset teknologi secara efisien sekaligus mengurangi biaya, risiko, dan kompleksitas siklus hidup."
+          },
+          {
+            "title": "Arsitektur Perusahaan",
+            "description": "Menyelaraskan strategi bisnis dengan arsitektur teknologi dan investasi yang tepat."
+          },
+          {
+            "title": "Tata Kelola Cloud",
+            "description": "Meningkatkan keamanan cloud, kepatuhan, kinerja, dan manajemen biaya."
+          },
+          {
+            "title": "Operasi Digital",
+            "description": "Otomatiskan proses TI dan dapatkan visibilitas real-time di seluruh lingkungan teknologi Anda."
+          },
+          {
+            "title": "Observabilitas & Pemantauan",
+            "description": "Deteksi masalah kinerja sejak dini dan pertahankan pengalaman digital yang andal."
+          },
+          {
+            "title": "Manajemen Portofolio Strategis",
+            "description": "Hubungkan investasi TI dengan prioritas bisnis dan hasil yang terukur."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Solusi CRM",
+        "heading": "Solusi CRM Kami",
+        "sub": "Memberikan pengalaman pelanggan yang terhubung, terpersonalisasi, dan cerdas di seluruh perjalanan pelanggan.",
+        "promoTitle": "Dapatkan Penawaran Lainnya",
+        "promoText": "Berdayakan tim penjualan dan dukungan Anda dengan data pelanggan terpadu dan otomatisasi cerdas.",
+        "items": [
+          {
+            "title": "Manajemen Layanan Pelanggan",
+            "description": "Tingkatkan dukungan pelanggan dengan resolusi yang lebih cepat, layanan mandiri, dan alur kerja yang cerdas."
+          },
+          {
+            "title": "Otomatisasi Penjualan",
+            "description": "Mengotomatiskan aktivitas penjualan, mengelola prospek, dan membantu tim menutup peluang lebih cepat."
+          },
+          {
+            "title": "Penjualan & Manajemen Pesanan",
+            "description": "Sederhanakan perjalanan dari prospek ke pesanan dan tingkatkan visibilitas pendapatan."
+          },
+          {
+            "title": "Manajemen Pelayanan Lapangan",
+            "description": "Mengoptimalkan operasi lapangan, penjadwalan, pengiriman, dan produktivitas teknisi."
+          },
+          {
+            "title": "Manajemen Pengalaman Pelanggan",
+            "description": "Ciptakan pengalaman yang lancar dan terpersonalisasi di setiap titik kontak pelanggan."
+          },
+          {
+            "title": "Analisis & Wawasan CRM",
+            "description": "Ubah data pelanggan menjadi wawasan yang dapat ditindaklanjuti untuk pengambilan keputusan bisnis yang lebih cerdas."
+          },
+          {
+            "title": "Otomatisasi Pemasaran",
+            "description": "Mengotomatiskan kampanye, keterlibatan pelanggan, dan pemeliharaan prospek."
+          },
+          {
+            "title": "CRM yang Didukung AI",
+            "description": "Gunakan otomatisasi cerdas dan wawasan AI untuk meningkatkan produktivitas dan keterlibatan pelanggan."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Solusi HRMS",
+        "heading": "Solusi HRMS Kami",
+        "sub": "Berdayakan tenaga kerja Anda dengan solusi SDM yang cerdas, terintegrasi, dan otomatis yang menyederhanakan manajemen karyawan dan meningkatkan pengalaman kerja.",
+        "promoTitle": "Menyederhanakan Operasi SDM",
+        "promoText": "Otomatiskan alur kerja SDM mulai dari perekrutan hingga pensiun dengan platform modern yang mengutamakan karyawan.",
+        "items": [
+          {
+            "title": "Manajemen SDM Inti",
+            "description": "Kelola informasi karyawan, struktur organisasi, dan proses SDM secara efisien."
+          },
+          {
+            "title": "Manajemen Penggajian",
+            "description": "Mengotomatiskan penggajian, pemrosesan gaji, pemotongan, dan kepatuhan."
+          },
+          {
+            "title": "Layanan Mandiri Karyawan",
+            "description": "Memberi karyawan akses mudah ke layanan HR, permintaan, dokumen, dan informasi."
+          },
+          {
+            "title": "Manajemen Kehadiran & Cuti",
+            "description": "Menyederhanakan pelacakan kehadiran, permintaan cuti, shift, dan jam kerja."
+          },
+          {
+            "title": "Rekrutmen & Orientasi",
+            "description": "Menyederhanakan perekrutan, manajemen kandidat, orientasi, dan integrasi karyawan."
+          },
+          {
+            "title": "Manajemen Kinerja",
+            "description": "Tetapkan tujuan, lacak kinerja, dan dukung pengembangan karyawan secara berkelanjutan."
+          },
+          {
+            "title": "Pembelajaran & Perkembangan",
+            "description": "Mengelola program pelatihan, pengembangan keterampilan, dan pertumbuhan karyawan."
+          },
+          {
+            "title": "Analisis & Pelaporan SDM",
+            "description": "Ubah data tenaga kerja menjadi wawasan yang dapat ditindaklanjuti untuk pengambilan keputusan SDM yang lebih baik."
+          },
+          {
+            "title": "Otomatisasi SDM yang Didukung AI",
+            "description": "Otomatiskan tugas SDM yang berulang dan berikan pengalaman karyawan yang lebih cepat dan dipersonalisasi."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Pengembangan Aplikasi",
+        "heading": "Layanan Pengembangan Aplikasi Kami",
+        "sub": "Bangun aplikasi yang aman, terukur, dan berkinerja tinggi yang mempercepat pertumbuhan bisnis dan menyederhanakan proses yang kompleks.",
+        "promoTitle": "Bangun Aplikasi yang Disukai Pengguna",
+        "promoText": "Dari ide hingga peluncuran, tim kami merancang dan mengembangkan aplikasi seluler dan web berkualitas tinggi yang dapat diperluas.",
+        "items": [
+          {
+            "title": "Pengembangan Aplikasi Khusus",
+            "description": "Bangun aplikasi khusus yang dirancang berdasarkan kebutuhan unik bisnis Anda."
+          },
+          {
+            "title": "Pengembangan Web & Aplikasi Seluler",
+            "description": "Memberikan pengalaman digital yang lancar di web, seluler, dan beberapa perangkat."
+          },
+          {
+            "title": "Pengembangan Aplikasi Perusahaan",
+            "description": "Kembangkan solusi terukur yang terintegrasi dengan sistem bisnis Anda yang sudah ada."
+          },
+          {
+            "title": "Pengembangan Kode Rendah & Tanpa Kode",
+            "description": "Mempercepat pengiriman aplikasi dengan platform pengembangan kode rendah yang fleksibel."
+          },
+          {
+            "title": "API & Integrasi Sistem",
+            "description": "Hubungkan aplikasi, platform, dan sistem pihak ketiga untuk aliran data yang lancar."
+          },
+          {
+            "title": "Modernisasi Aplikasi",
+            "description": "Ubah aplikasi lama menjadi solusi modern, terukur, dan efisien."
+          },
+          {
+            "title": "Aplikasi yang Didukung AI",
+            "description": "Integrasikan AI, otomatisasi, dan kemampuan cerdas ke dalam aplikasi bisnis."
+          },
+          {
+            "title": "Dukungan & Pemeliharaan Aplikasi",
+            "description": "Pastikan kinerja, keamanan, pembaruan, dan keandalan berkelanjutan."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotika",
+    "businessAutomation": "Otomatisasi Bisnis",
+    "cloudMigrations": "Migrasi Cloud",
+    "dataCenters": "Pusat Data",
+    "cognitiveAnalyticsAi": "Analisis Kognitif & AI",
+    "informationReportingSystems": "Sistem Informasi & Pelaporan",
+    "managedServices": "Layanan Terkelola",
+    "oneStopSolutions": "Solusi Satu Pintu"
+  },
+  "servicePage": {
+    "serviceOverview": "Ikhtisar Layanan",
+    "whatWeOffer": "Yang Kami Tawarkan",
+    "whyChooseRezonants": "Mengapa Memilih Rezonants",
+    "benefitsOfWorking": "Keuntungan bekerja sama dengan kami",
+    "techStack": "Tumpukan Teknologi",
+    "technologiesWeUse": "Teknologi yang kami gunakan",
+    "ourWork": "Pekerjaan Kami",
+    "relatedProjects": "Proyek terkait",
+    "viewCaseStudy": "Lihat studi kasus",
+    "readyToDiscuss": "Siap mendiskusikan proyek {{title}} Anda?",
+    "seniorEngineersReady": "Insinyur senior kami siap membantu Anda merencanakan, merancang, dan membangun solusi Anda.",
+    "startProject": "Mulai proyek Anda",
+    "howItWorks": "Cara Kerja"
+  },
+  "consultation": {
+    "badge": "Pesan Konsultasi Gratis",
+    "title": "Mari Rencanakan Proyek Anda <span class='hero-accent'>Bersama</span>",
+    "description": "Jadwalkan panggilan tanpa kewajiban dengan konsultan kami. Diskusikan kebutuhan Anda, jelajahi pendekatan teknis yang tepat, dan dapatkan penawaran harga yang jelas — semuanya dalam waktu kurang dari 30 menit.",
+    "bookSlot": "Pesan Slot Anda",
+    "howItWorks": "Cara Kerja",
+    "accountRequired": "Diperlukan Akun",
+    "signInToBook": "Masuk untuk memesan konsultasi Anda",
+    "accountRequiredText": "Anda memerlukan akun Rezonants untuk meminta konsultasi. Masuk atau buat akun — hanya membutuhkan waktu kurang dari satu menit.",
+    "signInToContinue": "Masuk untuk Melanjutkan",
+    "newToRezonants": "Baru mengenal Rezonants?",
+    "createAccount": "Buat akun",
+    "requestMeeting": "Minta Rapat",
+    "tellUsAboutProject": "Beritahu Kami Tentang Proyek Anda",
+    "fillDetails": "Isi detail Anda dan kami akan mengonfirmasi slot konsultasi Anda melalui email.",
+    "fullName": "Nama Lengkap *",
+    "email": "Surel *",
+    "phone": "Telepon *",
+    "company": "Perusahaan",
+    "serviceOfInterest": "Layanan Menarik *",
+    "selectService": "Pilih layanan…",
+    "preferredDate": "Tanggal Pilihan *",
+    "preferredTime": "Waktu Pilihan *",
+    "selectTimeSlot": "Pilih slot waktu…",
+    "estimatedBudget": "Perkiraan Anggaran",
+    "selectRange": "Pilih rentang…",
+    "projectRequirements": "Persyaratan Proyek",
+    "booking": "Pemesanan…",
+    "bookFreeConsultation": "Pesan Konsultasi Gratis Saya",
+    "freeNote": "100% gratis dan tidak ada kewajiban. Kami biasanya merespons dalam waktu 24 jam.",
+    "whatToExpect": "Apa yang Diharapkan",
+    "preferToReachUs": "Lebih suka menghubungi kami secara langsung?",
+    "callUs": "Hubungi kami",
+    "emailUs": "Email kami",
+    "visitUs": "Kunjungi kami",
+    "whyBookWithUs": "Mengapa Memesan Dengan Kami",
+    "freeCallTitle": "Nelpon Gratis Yang Sangat Membantu",
+    "freeCallNoPressure": "Panggilan Gratis, Tanpa Tekanan",
+    "freeCallNoPressureText": "Setiap konsultasi pertama gratis. Tidak ada kewajiban untuk membeli — hanya nasihat jujur.",
+    "seniorConsultants": "Hanya Konsultan Senior",
+    "seniorConsultantsText": "Pertemuan Anda dipimpin oleh insinyur senior dan konsultan yang mencari nafkah di bidang pembangunan.",
+    "clearTimelines": "Hapus Garis Waktu & Kutipan",
+    "clearTimelinesText": "Selesaikan dengan langkah berikutnya yang pasti, garis waktu yang realistis, dan harga yang transparan untuk proyek Anda.",
+    "services": {
+      "customSoftware": "Pengembangan Perangkat Lunak Khusus",
+      "webMobile": "Pengembangan Web & Aplikasi Seluler",
+      "cloudDevops": "Solusi Cloud & DevOps",
+      "aiMl": "AI & Pembelajaran Mesin",
+      "itConsulting": "Konsultasi TI",
+      "digitalMarketing": "Pemasaran Digital & SEO",
+      "erpSolutions": "Solusi ERP",
+      "other": "Lainnya / Belum yakin"
+    },
+    "budgets": {
+      "under1L": "Di bawah ₹1L",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Belum diputuskan"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Pahami tujuan Anda",
+        "text": "Kami mendengarkan dulu. Panggilan 30 menit untuk memetakan kebutuhan bisnis Anda, audiens, dan hasil yang diinginkan."
+      },
+      "technicalDirection": {
+        "title": "Dapatkan arahan teknis",
+        "text": "Teknisi kami berbagi arsitektur, tumpukan, dan pendekatan yang tepat untuk proyek Anda."
+      },
+      "clearQuote": {
+        "title": "Dapatkan penawaran yang jelas",
+        "text": "Dapatkan perkiraan, jadwal, dan langkah selanjutnya yang transparan — tanpa kewajiban."
+      }
+    },
+    "validation": {
+      "nameRequired": "Nama lengkap wajib diisi.",
+      "emailRequired": "Email diperlukan.",
+      "emailInvalid": "Masukkan email yang valid.",
+      "phoneRequired": "Nomor telepon diperlukan.",
+      "phoneInvalid": "Masukkan nomor telepon yang valid.",
+      "serviceRequired": "Silakan pilih layanan.",
+      "dateRequired": "Pilih tanggal yang diinginkan.",
+      "timeRequired": "Pilih slot waktu yang diinginkan.",
+      "messageTooShort": "Tambahkan sedikit lebih banyak detail (minimal 10 karakter).",
+      "signInRequired": "Silakan masuk untuk memesan konsultasi Anda.",
+      "couldNotBook": "Tidak dapat memesan konsultasi Anda. Periksa apakah tabel konsultasi ada, lalu coba lagi.",
+      "bookedSuccess": "Konsultasi sudah dipesan! Tim kami akan segera mengonfirmasi slot waktu Anda melalui email."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Selamat Datang Kembali",
+    "createAccount": "Buat Akun",
+    "forgotPassword": "Lupa Kata Sandi",
+    "createNewPassword": "Buat Kata Sandi Baru",
+    "welcomeBackDesc": "Masuk ke akun Rezonants Anda.",
+    "createAccountDesc": "Bergabunglah dengan Rezonants hari ini.",
+    "forgotDesc": "Masukkan email Anda dan kami akan mengirimkan Anda tautan untuk mengatur ulang kata sandi Anda.",
+    "recoveryDesc": "Pilih kata sandi baru yang kuat untuk akun Anda.",
+    "fullName": "Nama Lengkap",
+    "email": "Surel",
+    "password": "Kata sandi",
+    "newPassword": "Kata Sandi Baru",
+    "confirmPassword": "Konfirmasi Kata Sandi",
+    "confirmNewPassword": "Konfirmasi Kata Sandi Baru",
+    "forgotPasswordLink": "Lupa kata sandi?",
+    "privacyPolicy": "Saya menyetujui kebijakan <1>Privasi & Keamanan</1> Rezonants.",
+    "sendResetLink": "Kirim Tautan Reset",
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "pleaseWait": "Mohon tunggu…",
+    "rememberedPassword": "Ingat kata sandi Anda?",
+    "signInLink": "Masuk",
+    "noAccount": "Belum punya akun?",
+    "signUpLink": "Daftar",
+    "hasAccount": "Sudah punya akun?",
+    "changedMind": "Berubah pikiran?",
+    "backToSignIn": "Kembali untuk masuk",
+    "resetSent": "Tautan setel ulang kata sandi terkirim! Periksa email Anda untuk membuat kata sandi baru.",
+    "passwordUpdated": "Kata sandi Anda telah diperbarui. Masuk dengan kata sandi baru Anda.",
+    "accountCreated": "Akun dibuat! Periksa email Anda untuk mengonfirmasi pendaftaran Anda, lalu masuk.",
+    "validation": {
+      "fullNameRequired": "Nama lengkap wajib diisi.",
+      "emailRequired": "Email diperlukan.",
+      "emailInvalid": "Masukkan email yang valid.",
+      "passwordRequired": "Kata sandi diperlukan.",
+      "passwordMinLength": "Kata sandi minimal harus 6 karakter.",
+      "passwordsNoMatch": "Kata sandi tidak cocok.",
+      "acceptTerms": "Harap terima Kebijakan Privasi dan Kebijakan Keamanan Rezonants untuk melanjutkan."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Ngobrol dengan Rezonants AI",
+    "openChatLabel": "Buka obrolan Asisten Rezonants AI",
+    "chatTitle": "Asisten Rezonants AI",
+    "online": "Daring",
+    "expandLabel": "Perluas chatbot",
+    "minimizeLabel": "Minimalkan chatbot",
+    "closeLabel": "Tutup chatbotnya",
+    "expand": "Perluas",
+    "minimize": "Minimalkan",
+    "close": "Tutup",
+    "popularTopics": "Topik populer",
+    "askPlaceholder": "Tanya saya tentang Rezonants...",
+    "messageLabel": "Kirim pesan ke Asisten Rezonants AI",
+    "sendLabel": "Kirim pesan",
+    "sendTitle": "Kirim pesan",
+    "enterToSend": "Enter untuk mengirim · Shift+Enter untuk baris baru",
+    "newChat": "Obrolan baru",
+    "typing": "Rezonants AI sedang mengetik",
+    "menuOptions": "Pilihan menu",
+    "greetingMorning": "Selamat pagi",
+    "greetingAfternoon": "Selamat siang",
+    "greetingEvening": "Selamat malam",
+    "welcomeText": "! 👋 Selamat datang di Rezonants.\nSaya Asisten Rezonants AI. Saya dapat membantu Anda menjelajahi layanan, teknologi, dan informasi kontak kami."
+  },
+  "cookieConsent": {
+    "title": "Kami menghargai privasi Anda",
+    "description": "Kami menggunakan cookie untuk meningkatkan pengalaman penelusuran Anda. Anda dapat menerima semua cookie, menolak cookie yang tidak penting, atau menyesuaikan preferensi Anda. Cookie penting selalu diaktifkan untuk memastikan situs web berfungsi dengan benar.",
+    "acceptAll": "Terima Semua",
+    "rejectNonEssential": "Tolak Tidak Penting",
+    "managePreferences": "Kelola Preferensi",
+    "privacyPolicy": "Kebijakan Privasi"
+  },
+  "cookiePreferences": {
+    "title": "Kelola Preferensi Cookie",
+    "description": "Pilih kategori cookie mana yang Anda izinkan. Cookie penting tetap diaktifkan agar situs web tetap berfungsi.",
+    "essential": "Penting",
+    "essentialDesc": "Diperlukan agar situs web dapat berfungsi (otentikasi, keamanan, penyeimbangan beban). Ini tidak dapat dinonaktifkan.",
+    "analytics": "Analisis",
+    "analyticsDesc": "Bantu kami memahami cara pengunjung menggunakan situs ini sehingga kami dapat memperbaikinya. Dinonaktifkan secara default.",
+    "marketing": "Pemasaran",
+    "marketingDesc": "Digunakan untuk menampilkan penawaran dan kampanye yang relevan kepada Anda. Dinonaktifkan secara default.",
+    "cancel": "Batalkan",
+    "savePreferences": "Simpan Preferensi"
+  },
+  "privacy": {
+    "badge": "Hukum",
+    "title": "Kebijakan Privasi",
+    "description": "Bagaimana Rezonants mengumpulkan, menggunakan, dan melindungi informasi pribadi dan cookie Anda.",
+    "lastUpdated": "Terakhir diperbarui: Agustus 2026",
+    "managingPreferences": "Mengelola preferensi Anda",
+    "managingPreferencesDesc": "Anda dapat meninjau atau mengubah cookie mana yang Anda izinkan kapan saja dari panel preferensi cookie.",
+    "manageCookiePreferences": "Kelola Preferensi Cookie",
+    "section1": {
+      "title": "1. Informasi yang Kami Kumpulkan",
+      "body": [
+        "Kami mengumpulkan informasi yang Anda berikan secara langsung (seperti nama dan alamat email Anda saat Anda mengirimkan formulir kontak atau membuat akun) dan informasi yang dikumpulkan secara otomatis melalui cookie dan teknologi serupa, seperti halaman yang dikunjungi, jenis perangkat, dan perkiraan lokasi."
+      ]
+    },
+    "section2": {
+      "title": "2. Bagaimana Kami Menggunakan Cookie",
+      "body": [
+        "Cookie penting selalu diaktifkan karena situs web tidak dapat berfungsi dengan benar tanpa cookie tersebut. Mereka menyimpan sesi dan status otentikasi dan mengingat preferensi cookie Anda.",
+        "Cookie Analytics membantu kami memahami cara pengunjung menggunakan situs sehingga kami dapat memperbaikinya. Cookie pemasaran digunakan untuk menampilkan penawaran dan kampanye yang relevan kepada Anda. Kategori ini hanya diaktifkan dengan persetujuan Anda dan dapat diubah kapan saja dari panel preferensi cookie."
+      ]
+    },
+    "section3": {
+      "title": "3. Dasar Hukum (GDPR)",
+      "body": [
+        "Kami memproses data pribadi berdasarkan dasar hukum berikut: persetujuan Anda (untuk cookie dan pemasaran yang tidak penting), pelaksanaan kontrak (untuk layanan yang Anda minta), kewajiban hukum, dan kepentingan sah yang tidak mengesampingkan hak Anda. Anda dapat menarik persetujuan kapan saja tanpa mempengaruhi keabsahan pemrosesan yang dilakukan sebelum penarikan."
+      ]
+    },
+    "section4": {
+      "title": "4. Hak Anda",
+      "body": [
+        "Tergantung pada lokasi Anda, Anda mungkin berhak mengakses, memperbaiki, menghapus, atau membatasi pemrosesan data pribadi Anda, menolak pemrosesan, dan portabilitas data. Anda juga dapat mengajukan keluhan kepada otoritas pengawas setempat."
+      ]
+    },
+    "section5": {
+      "title": "5. Retensi & Keamanan Data",
+      "body": [
+        "Kami menyimpan data pribadi hanya selama diperlukan untuk tujuan yang dijelaskan dalam kebijakan ini. Kami menerapkan tindakan teknis dan organisasi yang sesuai untuk melindungi informasi Anda dari akses, perubahan, pengungkapan, atau penghancuran yang tidak sah."
+      ]
+    },
+    "section6": {
+      "title": "6. Layanan Pihak Ketiga",
+      "body": [
+        "Beberapa cookie mungkin disetel oleh penyedia pihak ketiga (seperti analitik atau platform periklanan) yang membantu kami mengoperasikan situs web. Penyedia ini memproses data berdasarkan kebijakan privasi mereka sendiri dan hanya jika Anda menyetujui kategori yang relevan."
+      ]
+    },
+    "contactUs": "7. Hubungi Kami",
+    "contactUsText": "Untuk pertanyaan tentang kebijakan ini atau data pribadi Anda, hubungi kami di <1>info@rezonants.com</1> atau telepon <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Layanan",
+    "title": "Layanan Kami",
+    "sub": "Solusi teknologi menyeluruh yang dirancang untuk membantu bisnis berinovasi, berkembang, dan sukses.",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Awal Hingga Penerapan",
+        "text": "Dari konsep awal hingga penerapan produksi, kami memberikan solusi terukur yang dibangun untuk kebutuhan bisnis dunia nyata."
+      },
+      "businessProcessAutomation": {
+        "title": "Otomatisasi Proses Bisnis",
+        "text": "Sederhanakan proses yang berulang dan tingkatkan efisiensi operasional melalui otomatisasi bisnis yang cerdas."
+      },
+      "centerOfExcellence": {
+        "title": "Pusat Keunggulan",
+        "text": "Membangun kemampuan dan keahlian teknologi khusus untuk mendorong inovasi, kualitas, dan peningkatan berkelanjutan."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Pengembangan & Kustomisasi Kustom",
+        "text": "Solusi perangkat lunak yang dirancang khusus berdasarkan kebutuhan dan alur kerja unik bisnis Anda."
+      },
+      "digitalTransformation": {
+        "title": "Transformasi Digital",
+        "text": "Modernkan bisnis Anda dengan strategi, teknologi, dan solusi digital yang menciptakan dampak terukur."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Kerangka Solusi End-to-End",
+        "text": "Solusi teknologi terintegrasi yang menghubungkan strategi, pengembangan, implementasi, dan operasi berkelanjutan."
+      },
+      "migrationModernization": {
+        "title": "Migrasi & Modernisasi",
+        "text": "Modernisasikan aplikasi lama dan migrasikan sistem ke platform teknologi yang skalabel, aman, dan efisien."
+      },
+      "pocPilotImplementation": {
+        "title": "Bukti Konsep (PoC) & Implementasi Percontohan",
+        "text": "Validasi ide dengan cepat melalui prototipe terfokus dan implementasi percontohan sebelum penerapan skala penuh."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Layanan Bersama & Operasi Terkelola",
+        "text": "Operasi teknologi terkelola yang andal yang meningkatkan kinerja, skalabilitas, dan kelangsungan bisnis."
+      }
+    }
+  },
+  "footer": {
+    "company": "Perusahaan",
+    "about": "Tentang",
+    "perspectives": "Perspektif",
+    "technologies": "Teknologi",
+    "contact": "Hubungi",
+    "services": "Layanan",
+    "getInTouch": "Hubungi",
+    "bookConsultation": "Pesan konsultasi",
+    "copyright": "© {{year}} Rezonants. Semua hak dilindungi undang-undang.",
+    "cookiePreferences": "Preferensi Kue",
+    "privacyPolicy": "Kebijakan Privasi",
+    "description": "Rezonants adalah perusahaan layanan TI dan produk digital di Hyderabad, India. Kami merancang, membangun, dan menskalakan perangkat lunak untuk perusahaan yang bersaing dalam hal eksekusi.",
+    "locations": "Lokasi Kami",
+    "indiaHq": "Hyderabad, India — Kantor Pusat India",
+    "southAfrica": "Afrika Selatan — REZONANTS PVT LTD",
+    "products": "Produk",
+    "followUs": "Ikuti Kami",
+    "aboutUs": "Tentang Kami",
+    "contactUs": "Hubungi Kami",
+    "headline": "Mari kita membangun",
+    "headlineAccent": "apa selanjutnya.",
+    "subheadline": "Bermitra dengan Rezonants untuk mengubah ide menjadi dampak bisnis nyata.",
+    "credoIdeas": "IDE",
+    "credoSolutions": "SOLUSI",
+    "credoPeople": "ORANG",
+    "credoBrighterTomorrow": "BESOK YANG LEBIH CERAH",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Afrika Selatan – REZONANTS PVT LTD",
+    "termsOfUse": "Ketentuan Penggunaan",
+    "accessibility": "Aksesibilitas",
+    "quickLinks": "Tautan Cepat",
+    "explore": "Jelajahi",
+    "vijayawadaOffice": "Kantor Vijayawada",
+    "allRightsReserved": "Semua hak dilindungi undang-undang.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Afrika Selatan"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "retry": "Coba lagi",
+    "close": "Tutup",
+    "backToTop": "Kembali ke atas",
+    "skipToContent": "Lompat ke konten",
+    "scroll": "Gulir",
+    "whatWeOffer": "Apa yang Kami Tawarkan",
+    "howItWorks": "Cara Kerjanya"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Cari negara atau kode…",
+    "noResults": "Tidak ada negara yang ditemukan.",
+    "countryCodeLabel": "Kode panggilan negara",
+    "required": "Nomor telepon diperlukan.",
+    "incomplete": "Nomor telepon harus berisi tepat {{count}} digit.",
+    "tooLong": "Nomor telepon tidak boleh berisi lebih dari {{count}} digit.",
+    "invalid": "Masukkan nomor telepon yang valid untuk {{country}}."
+  },
+  "perspectives": {
+    "topic": "Topik:",
+    "published": "Diterbitkan:",
+    "readingTime": "Waktu Membaca:",
+    "author": "Penulis:",
+    "authorName": "Studio Arsitektur Perusahaan Rezonants",
+    "techArea": "Bidang Teknologi",
+    "purpose": "Tujuan",
+    "talkToExperts": "Bicaralah dengan Pakar Kami",
+    "viewAll": "Lihat Semua Perspektif",
+    "exploreMore": "JELAJAHI LEBIH BANYAK PERSPEKTIF",
+    "continueExploring": "Lanjutkan Menjelajahi Wawasan Teknologi Perusahaan",
+    "readPerspective": "Baca Perspektif"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Solusi AI & Robotika",
+      "tagline": "Teknologi Cerdas. Operasi Otomatis. Bisnis yang Lebih Cerdas.",
+      "heroBadge": "Sistem Otonomi Cerdas",
+      "overview": [
+        "Kecerdasan Buatan dan Robotika mengubah cara organisasi beroperasi, mengambil keputusan, dan memberikan nilai. Solusi AI & Robotika kami membantu bisnis beralih dari otomatisasi tradisional dengan menggabungkan kecerdasan buatan, pembelajaran mesin, visi komputer, otomatisasi proses cerdas, dan robotika untuk memecahkan tantangan bisnis praktis.",
+        "Kami merancang solusi cerdas berdasarkan hasil bisnis yang terukur. Baik persyaratannya adalah mengotomatiskan pekerjaan berulang, menganalisis informasi dalam jumlah besar, mendeteksi pola, mendukung keputusan, atau memperkenalkan robotika ke dalam lingkungan operasional, pendekatan kami berfokus pada keandalan, skalabilitas, keamanan, dan nilai bisnis jangka panjang."
+      ],
+      "transformation": [
+        "Organisasi modern menghasilkan data dalam jumlah besar dan melakukan ribuan aktivitas berulang setiap hari. AI dan robotika dapat mengubah aktivitas ini menjadi alur kerja yang cerdas dan otomatis sehingga meningkatkan produktivitas sekaligus memungkinkan karyawan untuk fokus pada tanggung jawab yang bernilai lebih tinggi.",
+        "Solusi kami dapat membantu organisasi mengotomatiskan operasi berulang, mengurangi intervensi manual, meningkatkan akurasi, menganalisis informasi kompleks, mendukung keputusan lebih cepat, mengoptimalkan pemanfaatan sumber daya, meningkatkan pengalaman pelanggan, dan membangun sistem cerdas yang dapat diskalakan."
+      ],
+      "capabilities": [
+        {
+          "title": "Kecerdasan Buatan",
+          "desc": "Kami mengembangkan solusi berbasis AI yang memungkinkan sistem memahami informasi, mengidentifikasi pola, menghasilkan wawasan, dan mendukung keputusan bisnis."
+        },
+        {
+          "title": "Pembelajaran Mesin",
+          "desc": "Kami mengembangkan model pembelajaran mesin untuk perkiraan, klasifikasi, sistem rekomendasi, deteksi anomali, analisis prediktif, dan dukungan keputusan cerdas."
+        },
+        {
+          "title": "Pemrosesan Bahasa Alami",
+          "desc": "NLP dapat digunakan untuk memproses dokumen, memahami teks, mengklasifikasikan informasi, mengekstraksi konten yang relevan, dan mendukung aplikasi percakapan."
+        },
+        {
+          "title": "Visi Komputer",
+          "desc": "Solusi visi komputer dapat mendukung klasifikasi gambar, deteksi objek, pemeriksaan kualitas, pemrosesan dokumen, pemantauan visual, dan analisis video."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotika menggabungkan kecerdasan perangkat lunak dengan sistem fisik untuk mengotomatiskan aktivitas yang biasanya memerlukan upaya manual. Aplikasi dapat mencakup manufaktur, logistik, pergudangan, inspeksi, penanganan material, dan dukungan operasional."
+        },
+        {
+          "title": "Otomatisasi Proses Cerdas",
+          "desc": "AI dapat dikombinasikan dengan otomatisasi alur kerja untuk menciptakan sistem yang menafsirkan informasi, menerapkan aturan atau model bisnis, dan memulai proses yang sesuai secara otomatis."
+        }
+      ],
+      "lifecycleSteps": [
+        "Penilaian Bisnis",
+        "Analisis Data",
+        "Strategi AI",
+        "Arsitektur Solusi",
+        "Perkembangan",
+        "Integrasi",
+        "Pengujian",
+        "Penerapan",
+        "Pemantauan",
+        "Optimasi"
+      ],
+      "benefits": [
+        "Produktivitas operasional perusahaan yang lebih tinggi",
+        "Pengurangan biaya operasional secara signifikan",
+        "Pemrosesan lebih cepat dan penyelesaian keputusan milidetik",
+        "Peningkatan akurasi data dan alur kerja",
+        "Pemanfaatan sumber daya fisik dan komputasi yang dioptimalkan",
+        "Mengurangi risiko operasional dan kesalahan manusia",
+        "Skalabilitas multi-platform yang mulus",
+        "Peningkatan pengalaman pelanggan dan karyawan"
+      ],
+      "security": "Solusi AI perusahaan harus dirancang dengan keamanan yang tepat, kontrol akses, perlindungan data, pemantauan, tata kelola model, dan pengamanan operasional. Kami mempertimbangkan persyaratan ini mulai dari tahap arsitektur hingga penerapan dan pemeliharaan berkelanjutan untuk memastikan kecerdasan tingkat produksi yang dapat diandalkan.",
+      "ctaHeadline": "Bangun Masa Depan yang Cerdas",
+      "ctaSub": "Jadikan operasional Anda lebih cerdas. Otomatiskan hal yang penting. Membangun untuk masa depan."
+    },
+    "business-automation-solutions": {
+      "title": "Solusi Otomasi Bisnis",
+      "tagline": "Menyederhanakan Proses. Hilangkan Pengulangan. Mempercepat Pertumbuhan.",
+      "heroBadge": "Optimasi Alur Kerja End-to-End",
+      "overview": [
+        "Otomatisasi bisnis memungkinkan organisasi menggantikan aktivitas manual yang berulang dengan alur kerja digital yang disederhanakan. Solusi otomasi bisnis kami membantu perusahaan meningkatkan produktivitas, mengurangi kompleksitas operasional, meminimalkan kesalahan, dan menciptakan proses yang konsisten di seluruh departemen.",
+        "Kami menganalisis alur kerja yang ada, mengidentifikasi hambatan, dan merancang solusi otomatisasi yang menghubungkan manusia, aplikasi, data, dan proses bisnis."
+      ],
+      "transformation": [
+        "Banyak organisasi masih bergantung pada spreadsheet, email, persetujuan manual, entri data berulang, penanganan dokumen, dan aplikasi yang terputus. Proses-proses ini menghabiskan waktu karyawan yang berharga dan dapat menyebabkan penundaan, inkonsistensi, dan kesalahan.",
+        "Pendekatan otomasi kami berfokus pada pemahaman proses secara keseluruhan, menghilangkan langkah-langkah yang tidak perlu, mengintegrasikan sistem, dan mengotomatisasi aktivitas yang memberikan nilai operasional terbesar."
+      ],
+      "capabilities": [
+        {
+          "title": "Otomatisasi Alur Kerja",
+          "desc": "Kami mengotomatiskan proses multi-langkah yang melibatkan karyawan, aplikasi, persetujuan, pemberitahuan, dan data di berbagai departemen."
+        },
+        {
+          "title": "Otomatisasi Proses Robotik",
+          "desc": "Bot perangkat lunak dapat melakukan aktivitas berulang berdasarkan aturan seperti entri data, pembaruan sistem, rekonsiliasi, dan transfer informasi."
+        },
+        {
+          "title": "Otomatisasi Dokumen",
+          "desc": "Alur kerja dokumen otomatis dapat mengekstrak informasi, memvalidasi data, mengklasifikasikan dokumen, mengarahkan permintaan, dan memulai proses hilir."
+        },
+        {
+          "title": "Otomatisasi Persetujuan",
+          "desc": "Alur kerja persetujuan digital secara otomatis mengarahkan permintaan ke pengambil keputusan yang tepat dan memberikan visibilitas real-time ke dalam tindakan yang tertunda."
+        },
+        {
+          "title": "Otomatisasi Integrasi",
+          "desc": "Kami menghubungkan aplikasi bisnis sehingga informasi dapat berpindah secara otomatis antar platform tanpa intervensi manual yang tidak perlu."
+        },
+        {
+          "title": "Otomatisasi Notifikasi",
+          "desc": "Peringatan dan pemberitahuan otomatis membantu karyawan merespons peristiwa penting, tenggat waktu, pengecualian, dan perubahan operasional secara instan."
+        }
+      ],
+      "lifecycleSteps": [
+        "Temukan",
+        "Analisis",
+        "Desain",
+        "Otomatiskan",
+        "Integrasikan",
+        "Tes",
+        "Terapkan",
+        "Pantau",
+        "Optimalkan"
+      ],
+      "benefits": [
+        "Peningkatan hasil tim dan kecepatan operasional",
+        "Pengurangan dramatis dalam kesalahan entri data manual",
+        "Mempersingkat waktu penyelesaian proses end-to-end",
+        "Visibilitas terpadu di seluruh operasi bisnis",
+        "Kepatuhan lintas departemen yang terstandarisasi",
+        "Mengurangi pengeluaran operasional secara signifikan",
+        "Kapasitas elastis untuk menskalakan beban kerja dengan mudah",
+        "Tim yang diberdayakan berfokus pada keterlibatan pelanggan dan pekerjaan strategis"
+      ],
+      "security": "Kami menggabungkan platform alur kerja dan RPA dengan model sadar konteks yang cerdas untuk memastikan kontrol akses berbasis peran, jalur audit yang komprehensif, dan kepatuhan yang ketat di setiap transaksi otomatis.",
+      "ctaHeadline": "Membangun Operasional yang Lebih Efisien",
+      "ctaSub": "Mengotomatiskan pekerjaan berulang. Berdayakan orang-orang Anda. Percepat bisnis Anda."
+    },
+    "cloud-migration-solutions": {
+      "title": "Solusi Migrasi Cloud",
+      "tagline": "Pindah ke Cloud dengan Percaya Diri.",
+      "heroBadge": "Transformasi Multi-Cloud",
+      "overview": [
+        "Komputasi awan telah menjadi komponen penting dalam infrastruktur TI modern. Organisasi memindahkan aplikasi, database, beban kerja, dan infrastruktur ke lingkungan cloud untuk meningkatkan skalabilitas, ketersediaan, fleksibilitas, dan efisiensi operasional.",
+        "Layanan migrasi cloud kami membantu organisasi menilai lingkungan mereka saat ini, menentukan strategi migrasi, melaksanakan migrasi, dan mengoptimalkan beban kerja setelah mereka berpindah ke cloud."
+      ],
+      "transformation": [
+        "Migrasi cloud lebih dari sekadar memindahkan server dari satu lingkungan ke lingkungan lain. Migrasi yang berhasil memerlukan penilaian yang cermat terhadap aplikasi, infrastruktur, ketergantungan, persyaratan keamanan, data, kinerja, ketersediaan, dan kelangsungan bisnis.",
+        "Kami membuat strategi migrasi berdasarkan lingkungan organisasi saat ini dan tujuan masa depan, dengan memilih pola migrasi yang sesuai untuk setiap beban kerja."
+      ],
+      "capabilities": [
+        {
+          "title": "Migrasi Infrastruktur",
+          "desc": "Kami memigrasikan server tradisional, penyimpanan, mesin virtual, dan beban kerja ke lingkungan cloud modern di AWS, Azure, dan GCP."
+        },
+        {
+          "title": "Migrasi Aplikasi",
+          "desc": "Aplikasi dapat dihosting ulang, diplatform ulang, difaktorkan ulang, atau didesain ulang tergantung pada persyaratan bisnis dan teknis."
+        },
+        {
+          "title": "Migrasi Basis Data",
+          "desc": "Kami memigrasikan database sambil mempertimbangkan integritas data, kinerja, kompatibilitas, ketersediaan, keamanan, dan persyaratan pemulihan."
+        },
+        {
+          "title": "Modernisasi Cloud",
+          "desc": "Migrasi menjadi peluang untuk memodernisasi aplikasi menggunakan container, layanan mikro, database terkelola, layanan tanpa server, dan arsitektur cloud-native."
+        },
+        {
+          "title": "Awan Hibrida",
+          "desc": "Organisasi yang membutuhkan infrastruktur lokal dan cloud dapat mengadopsi arsitektur hybrid yang menghubungkan sistem yang ada dengan layanan cloud secara lancar."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Untuk organisasi yang beroperasi di berbagai platform cloud, kami membantu merancang strategi beban kerja yang meningkatkan fleksibilitas, ketahanan, dan tata kelola."
+        }
+      ],
+      "lifecycleSteps": [
+        "Penilaian",
+        "Penemuan",
+        "Pemetaan Ketergantungan",
+        "Strategi Migrasi",
+        "Desain Arsitektur",
+        "Migrasi Percontohan",
+        "Migrasi Data",
+        "Migrasi Aplikasi",
+        "Pengujian",
+        "Migrasi Produksi",
+        "Optimasi"
+      ],
+      "benefits": [
+        "Skalabilitas elastis dan ketersediaan sumber daya yang tinggi",
+        "Fleksibilitas infrastruktur dan kelincahan bisnis yang lebih baik",
+        "Menghilangkan beban pemeliharaan pusat data fisik",
+        "Penerapan fitur aplikasi yang dipercepat",
+        "Pemulihan bencana yang kuat dan ketahanan cadangan",
+        "Akses langsung ke cloud AI modern dan layanan terkelola",
+        "Tata kelola FinOps yang dioptimalkan dan pengurangan TCO",
+        "Kepatuhan berkelanjutan dan pagar keamanan otomatis"
+      ],
+      "security": "Keamanan merupakan bagian integral dari perencanaan migrasi. Kami mempertimbangkan manajemen identitas dan akses, keamanan jaringan, enkripsi saat transit dan saat istirahat, perlindungan data, audit kerentanan aplikasi, pemantauan, pencadangan, dan pemulihan bencana.",
+      "ctaHeadline": "Perjalanan Cloud Anda, Direncanakan dengan Benar",
+      "ctaSub": "Modernkan infrastruktur Anda. Mempercepat inovasi. Bangun fondasi cloud yang skalabel."
+    },
+    "data-center-solutions": {
+      "title": "Solusi Pusat Data",
+      "tagline": "Infrastruktur yang Andal untuk Operasi Penting.",
+      "heroBadge": "Infrastruktur Penting",
+      "overview": [
+        "Pusat data menjadi fondasi bisnis digital modern. Aplikasi, database, sistem perusahaan, platform komunikasi, dan layanan bisnis penting bergantung pada infrastruktur yang andal.",
+        "Solusi pusat data kami berfokus pada perancangan, modernisasi, pengelolaan, dan optimalisasi lingkungan infrastruktur yang dibangun untuk ketersediaan, keamanan, skalabilitas, kinerja, dan efisiensi operasional."
+      ],
+      "transformation": [
+        "Pusat data modern memerlukan lebih dari sekadar server dan penyimpanan. Hal ini memerlukan infrastruktur yang dirancang dengan cermat di bidang komputasi, jaringan, keamanan, daya, pendinginan, pemantauan, pencadangan, dan pemulihan bencana.",
+        "Kami membantu organisasi menciptakan lingkungan infrastruktur tangguh yang mendukung beban kerja penting dan memberikan landasan bagi pertumbuhan teknologi di masa depan."
+      ],
+      "capabilities": [
+        {
+          "title": "Desain Infrastruktur",
+          "desc": "Kami merancang lingkungan berdasarkan kebutuhan beban kerja, kapasitas, kinerja, ketersediaan, keamanan, dan pertumbuhan di masa depan."
+        },
+        {
+          "title": "Infrastruktur Server",
+          "desc": "Kami mendukung lingkungan server fisik dan virtual untuk aplikasi dan beban kerja perusahaan yang sangat penting."
+        },
+        {
+          "title": "Solusi Penyimpanan",
+          "desc": "Kami mempertimbangkan persyaratan kinerja, kapasitas, redundansi, SAN/NAS berkecepatan tinggi, pencadangan, dan perlindungan data saat merancang lingkungan penyimpanan."
+        },
+        {
+          "title": "Infrastruktur Jaringan",
+          "desc": "Kami merancang lingkungan jaringan dengan segmentasi, redundansi, kinerja latensi rendah, konektivitas, dan kontrol keamanan yang sesuai."
+        },
+        {
+          "title": "Virtualisasi",
+          "desc": "Virtualisasi meningkatkan pemanfaatan sumber daya, fleksibilitas beban kerja, dan manajemen infrastruktur terpusat."
+        },
+        {
+          "title": "Pencadangan & Pemulihan Bencana",
+          "desc": "Kami membantu organisasi menetapkan strategi pencadangan dan arsitektur pemulihan yang dirancang untuk meminimalkan waktu henti dan menghilangkan kehilangan data."
+        }
+      ],
+      "lifecycleSteps": [
+        "Penilaian Kapasitas",
+        "Pembuatan Profil Beban Kerja",
+        "Cetak Biru Arsitektur",
+        "Ukuran Perangkat Keras & Virtual",
+        "Segmentasi Jaringan",
+        "Penyediaan Penyimpanan",
+        "Pengujian Redundansi & DR",
+        "Peralihan Produksi",
+        "Pemantauan Kesehatan 24/7",
+        "Optimasi Berkelanjutan"
+      ],
+      "benefits": [
+        "Menjamin 99,999% uptime infrastruktur",
+        "Nol titik kegagalan dengan redundansi berlapis-lapis",
+        "Komputasi server yang dioptimalkan dan virtualisasi kepadatan tinggi",
+        "Arsitektur jaringan latensi rendah sub-milidetik",
+        "Keamanan perimeter fisik dan digital yang diperketat",
+        "Pemantauan proaktif dan kegagalan failover otomatis",
+        "Penyimpanan modular yang dapat diskalakan untuk data berskala petabyte",
+        "Total biaya kepemilikan dan efisiensi daya yang dapat diprediksi"
+      ],
+      "security": "Keamanan terintegrasi di seluruh lapisan infrastruktur, mencakup segmentasi mikro jaringan, root-of-trust perangkat keras, kontrol akses zero-trust, audit kerentanan berkelanjutan, pertahanan titik akhir, dan kebijakan operasional yang ketat.",
+      "ctaHeadline": "Infrastruktur Siap Masa Depan",
+      "ctaSub": "Bangun infrastruktur yang andal sekarang juga. Ciptakan fondasi untuk teknologi masa depan."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Analisis Kognitif & AI",
+      "tagline": "Ubah Data menjadi Intelijen.",
+      "heroBadge": "Kecerdasan Data hingga Keputusan",
+      "overview": [
+        "Organisasi menghasilkan informasi dalam jumlah besar melalui aplikasi, transaksi, pelanggan, operasi, perangkat, dan platform digital. Tantangannya bukan lagi sekadar mengumpulkan data; yaitu memahami data tersebut dan mengubahnya menjadi intelijen yang dapat ditindaklanjuti.",
+        "Solusi Analisis Kognitif & AI kami menggabungkan analisis tingkat lanjut, pembelajaran mesin, kecerdasan buatan, pemrosesan data, dan kecerdasan bisnis untuk membantu organisasi mengambil keputusan yang lebih baik."
+      ],
+      "transformation": [
+        "Pelaporan tradisional memberi tahu organisasi apa yang terjadi. Analisis tingkat lanjut dapat membantu menjelaskan mengapa hal ini terjadi, mengidentifikasi apa yang mungkin terjadi selanjutnya, dan mendukung keputusan tentang apa yang harus terjadi.",
+        "Kami membantu organisasi membangun lingkungan data yang beralih dari pelaporan statis menuju analisis cerdas dan dukungan keputusan."
+      ],
+      "capabilities": [
+        {
+          "title": "Analisis Deskriptif",
+          "desc": "Pahami kinerja historis melalui laporan interaktif, dasbor multidimensi, KPI, dan metrik bisnis."
+        },
+        {
+          "title": "Analisis Diagnostik",
+          "desc": "Identifikasi hubungan mendasar, tren, anomali statistik, dan akar penyebab di balik hasil bisnis."
+        },
+        {
+          "title": "Analisis Prediktif",
+          "desc": "Gunakan data streaming historis dan real-time dengan model statistik untuk mengidentifikasi potensi hasil dan permintaan di masa depan."
+        },
+        {
+          "title": "Analisis Preskriptif",
+          "desc": "Mengevaluasi tindakan yang mungkin dilakukan dan mendukung jalur pengambilan keputusan yang optimal berdasarkan hasil yang diprediksi dan tujuan bisnis strategis."
+        },
+        {
+          "title": "Model Pembelajaran Mesin",
+          "desc": "Kembangkan model khusus untuk perkiraan, klasifikasi pelanggan, rekomendasi, deteksi anomali penipuan, dan pemeliharaan prediktif."
+        },
+        {
+          "title": "Wawasan yang Didukung AI",
+          "desc": "Menerapkan AI kognitif pada informasi tidak terstruktur dalam jumlah besar untuk memunculkan pola tersembunyi, ringkasan eksekutif, dan rekomendasi."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sumber Data",
+        "Integrasi Data",
+        "Pemrosesan Data",
+        "Penyimpanan Data",
+        "Analisis",
+        "Model AI/ML",
+        "Visualisasi",
+        "Keputusan Bisnis"
+      ],
+      "benefits": [
+        "Pengambilan keputusan eksekutif berdasarkan fakta dan berdasarkan data",
+        "Perkiraan permintaan, pendapatan, dan churn yang akurat",
+        "Anomali dan deteksi penipuan waktu nyata",
+        "Wawasan dan personalisasi perilaku pelanggan 360° yang mendalam",
+        "Optimalisasi rantai pasokan dan efisiensi operasional",
+        "Mengurangi risiko operasional dan keuangan",
+        "Penemuan peluang pendapatan tersembunyi",
+        "Mempercepat waktu untuk mendapatkan wawasan di seluruh unit bisnis"
+      ],
+      "security": "Ekosistem analitik kami menerapkan enkripsi ujung ke ujung, penyembunyian data otomatis, izin RBAC yang ketat, dan tata kelola model untuk melindungi data kepemilikan dan menjaga kepatuhan terhadap peraturan (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Bangun Strategi Data Cerdas",
+      "ctaSub": "Ubah informasi menjadi wawasan. Ubah wawasan menjadi tindakan."
+    },
+    "information-reporting-systems": {
+      "title": "Sistem Informasi & Pelaporan",
+      "tagline": "Informasi yang Benar. Pada Saat yang Tepat. Untuk Keputusan yang Lebih Baik.",
+      "heroBadge": "Kecerdasan Perusahaan Terpadu",
+      "overview": [
+        "Pemimpin bisnis dan tim operasional bergantung pada informasi yang akurat untuk membuat keputusan yang efektif. Sistem Informasi & Pelaporan kami membantu organisasi mengumpulkan, mengatur, menganalisis, dan menyajikan informasi bisnis melalui sistem informasi terstruktur, platform pelaporan, dasbor, dan alur kerja pelaporan otomatis.",
+        "Organisasi sering kali memiliki informasi yang didistribusikan ke seluruh aplikasi, spreadsheet, database, dan sistem operasional. Hal ini menyulitkan untuk menetapkan pandangan yang konsisten tentang kinerja bisnis. Kami membantu mengintegrasikan sumber informasi ke dalam lingkungan pelaporan terstruktur yang menyediakan informasi bisnis yang andal, dapat diakses, dan konsisten."
+      ],
+      "transformation": [
+        "Sistem pelaporan tidak boleh sekadar menampilkan angka. Ini harus membantu pengguna memahami kinerja, mengidentifikasi masalah, menemukan peluang, dan membuat keputusan yang tepat.",
+        "Kami merancang lingkungan pelaporan sesuai cara organisasi Anda beroperasi, memberikan ekosistem data-ke-keputusan terstruktur yang disesuaikan untuk semua tingkatan manajemen."
+      ],
+      "capabilities": [
+        {
+          "title": "Sistem Informasi Manajemen (SIM)",
+          "desc": "Mengembangkan sistem informasi terpadu yang memberikan manajemen eksekutif visibilitas operasional dan strategis yang relevan."
+        },
+        {
+          "title": "Pelaporan Bisnis",
+          "desc": "Ubah data bisnis mentah dari berbagai saluran menjadi laporan terstruktur dan terstandar yang memantau kinerja secara terus-menerus."
+        },
+        {
+          "title": "Dasbor Interaktif",
+          "desc": "Memberikan visibilitas interaktif real-time atau terjadwal ke dalam metrik bisnis penting, KPI, tren, dan aktivitas departemen."
+        },
+        {
+          "title": "Manajemen KPI",
+          "desc": "Tentukan, lacak, dan tolok ukur KPI operasional yang bermakna dan selaras langsung dengan target pertumbuhan perusahaan secara menyeluruh."
+        },
+        {
+          "title": "Integrasi Data",
+          "desc": "Integrasikan sumber data terdistribusi ke dalam gudang data terpadu dan lapisan semantik untuk pelaporan satu panel kaca yang konsisten."
+        },
+        {
+          "title": "Pelaporan Otomatis",
+          "desc": "Secara otomatis membuat dan mendistribusikan laporan yang dipersonalisasi sesuai dengan jadwal yang telah ditentukan, aturan bisnis, dan hierarki penerima."
+        }
+      ],
+      "lifecycleSteps": [
+        "Sistem Bisnis",
+        "Pengumpulan Data",
+        "Integrasi Data",
+        "Pemrosesan Data",
+        "Penyimpanan Data",
+        "Analisis",
+        "Laporan & Dasbor"
+      ],
+      "benefits": [
+        "Satu-satunya sumber kebenaran di seluruh perusahaan",
+        "Akses lebih cepat ke metrik operasional waktu nyata",
+        "Penghapusan lengkap perakitan spreadsheet manual",
+        "KPI lintas departemen yang konsisten dan terdamaikan",
+        "Pengawasan eksekutif dan kemampuan audit yang unggul",
+        "Distribusi otomatis langsung ke pemangku kepentingan",
+        "Keamanan dan izin data tingkat baris yang terperinci",
+        "Peningkatan kelincahan untuk merespons anomali operasional"
+      ],
+      "security": "Informasi bisnis dapat berisi data operasional, keuangan, dan pelanggan yang sensitif. Solusi pelaporan kami menyematkan autentikasi multifaktor, otorisasi berbasis peran terperinci, enkripsi, dan log audit ke dalam arsitektur pelaporan.",
+      "ctaHeadline": "Pelaporan yang Mendukung Pertumbuhan",
+      "ctaSub": "Membuat informasi dapat diakses. Jadikan kinerja terlihat. Buat keputusan yang lebih baik."
+    },
+    "managed-services": {
+      "title": "Layanan Terkelola",
+      "tagline": "Pengoperasian Teknologi yang Andal. Dukungan Ahli. Perbaikan Berkelanjutan.",
+      "heroBadge": "Operasi & Dukungan TI 24/7",
+      "overview": [
+        "Lingkungan TI modern sangatlah kompleks dan terus berubah. Organisasi memerlukan infrastruktur, aplikasi, jaringan, keamanan, pemantauan, dan dukungan teknis yang andal untuk menjaga operasi bisnis tetap berjalan.",
+        "Layanan Terkelola kami menyediakan manajemen teknologi dan dukungan operasional berkelanjutan, memungkinkan organisasi mempertahankan lingkungan TI yang dapat diandalkan sementara tim internal fokus pada inisiatif strategis."
+      ],
+      "transformation": [
+        "Dukungan TI tradisional sering kali berfokus pada penyelesaian masalah setelah masalah tersebut terjadi. Layanan terkelola mengambil pendekatan proaktif dengan terus memantau infrastruktur, aplikasi, sistem, dan lingkungan operasional.",
+        "Pendekatan ini membantu mengidentifikasi potensi masalah sejak dini, mempertahankan kinerja, meningkatkan ketersediaan, dan mengurangi gangguan operasional yang dapat dihindari."
+      ],
+      "capabilities": [
+        {
+          "title": "Manajemen Infrastruktur",
+          "desc": "Mendukung operasi berkelanjutan, patching, dan pengelolaan server, penyimpanan, platform virtualisasi, dan infrastruktur."
+        },
+        {
+          "title": "Manajemen Awan",
+          "desc": "Kelola beban kerja cloud, sumber daya multi-cloud, konfigurasi, pemantauan, kinerja, dan pengoptimalan FinOps."
+        },
+        {
+          "title": "Manajemen Jaringan",
+          "desc": "Menyediakan pemantauan 24/7, manajemen kinerja, dukungan konfigurasi, optimalisasi SD-WAN, dan penyelesaian masalah jaringan."
+        },
+        {
+          "title": "Manajemen Aplikasi",
+          "desc": "Mendukung lingkungan aplikasi penting melalui pemantauan proaktif, pemeliharaan, penyelesaian bug, dan peningkatan operasional."
+        },
+        {
+          "title": "Pemantauan & Pengamatan",
+          "desc": "Memberikan visibilitas real-time yang komprehensif mengenai kesehatan sistem, latensi, waktu aktif, ketergantungan infrastruktur, dan peringatan."
+        },
+        {
+          "title": "Manajemen Pencadangan & Pemulihan",
+          "desc": "Pertahankan jadwal pencadangan otomatis, uji failover secara rutin, dan pastikan kemampuan pemulihan instan."
+        },
+        {
+          "title": "Operasi Keamanan (SecOps)",
+          "desc": "Menyediakan pemantauan keamanan berkelanjutan, manajemen patch, penegakan kontrol akses, dan mitigasi ancaman proaktif."
+        }
+      ],
+      "lifecycleSteps": [
+        "Orientasi Lingkungan",
+        "Penemuan & Dasar",
+        "Integrasi Telemetri",
+        "Definisi SLA",
+        "Pemantauan Aktif 24/7",
+        "Klasifikasi Insiden",
+        "Resolusi Cepat",
+        "Analisis Akar Penyebab",
+        "Rekayasa Pencegahan",
+        "Optimasi Berkelanjutan"
+      ],
+      "benefits": [
+        "Mengurangi beban operasional internal secara signifikan",
+        "Deteksi masalah secara proaktif sebelum pengguna terkena dampaknya",
+        "Menjamin 99,99% ketersediaan sistem dan uptime",
+        "Penganggaran operasional TI yang dapat diprediksi dan transparan",
+        "Akses langsung ke spesialis teknik senior",
+        "Waktu respons insiden cepat yang didukung SLA",
+        "Pemulihan bencana otomatis dan kelangsungan bisnis",
+        "Optimalisasi dan modernisasi teknologi berkelanjutan"
+      ],
+      "security": "Operasi terkelola kami mematuhi kerangka kerja ITIL dan ISO yang ketat, memastikan akses terenkripsi, log audit terisolasi, penyimpanan kredensial dengan hak paling rendah, dan penyelarasan kepatuhan di setiap sumber daya yang dikelola.",
+      "ctaHeadline": "Peningkatan Berkelanjutan",
+      "ctaSub": "Anda fokus pada bisnis Anda. Kami membantu menjaga teknologi Anda tetap berjalan."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Solusi Teknologi Terpadu",
+      "tagline": "Salah Satu Mitra Teknologi. Berbagai Kemampuan. Solusi Bisnis Lengkap.",
+      "heroBadge": "Mitra Perusahaan Terpadu",
+      "overview": [
+        "Organisasi sering kali bekerja sama dengan berbagai penyedia teknologi untuk infrastruktur, cloud, aplikasi, otomatisasi, analitik, keamanan, dukungan, dan transformasi digital. Mengelola banyak vendor dapat menciptakan kompleksitas, kesenjangan komunikasi, upaya duplikat, dan lingkungan teknologi yang terfragmentasi.",
+        "Pendekatan Solusi Teknologi Terpadu kami menyatukan berbagai kemampuan di bawah model layanan terpadu, membantu organisasi merencanakan, menerapkan, mengintegrasikan, mengoperasikan, dan terus meningkatkan lingkungan teknologi mereka."
+      ],
+      "transformation": [
+        "Kami mendukung siklus hidup teknologi yang lengkap—mulai dari memahami kebutuhan bisnis dan menentukan strategi teknologi hingga merancang solusi, mengimplementasikan platform, mengintegrasikan sistem, menerapkan aplikasi, memantau lingkungan, dan memberikan dukungan berkelanjutan.",
+        "Tujuannya adalah untuk menciptakan ekosistem teknologi yang terhubung dan bukan solusi yang terisolasi."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategi & Arsitektur",
+          "desc": "Memahami tujuan bisnis dan merancang arsitektur teknologi yang skalabel, aman, dan mudah dipelihara."
+        },
+        {
+          "title": "Implementasi & Pembangunan",
+          "desc": "Menerapkan aplikasi, infrastruktur, integrasi, otomatisasi, dan platform digital dengan ketelitian perusahaan."
+        },
+        {
+          "title": "Integrasi Sistem",
+          "desc": "Menghubungkan sistem dan aplikasi sehingga informasi bergerak dengan lancar ke seluruh organisasi."
+        },
+        {
+          "title": "Penerapan Terstruktur",
+          "desc": "Membangun CI/CD otomatis dan proses rilis untuk memindahkan solusi ke produksi dengan andal dan aman."
+        },
+        {
+          "title": "Pemantauan Berkelanjutan",
+          "desc": "Memberikan visibilitas menyeluruh terhadap infrastruktur, aplikasi, kinerja, ketersediaan, dan kesehatan operasional."
+        },
+        {
+          "title": "Optimasi & Dukungan",
+          "desc": "Terus meninjau lingkungan untuk meningkatkan kinerja, keandalan, efisiensi biaya, dan skalabilitas."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategi",
+        "Arsitektur",
+        "Implementasi",
+        "Integrasi",
+        "Penerapan",
+        "Pemantauan",
+        "Optimasi",
+        "Dukungan"
+      ],
+      "benefits": [
+        "Mengurangi kompleksitas dan overhead manajemen vendor",
+        "Koordinasi yang mulus di seluruh lapisan arsitektur",
+        "Eksekusi proyek lebih cepat tanpa penundaan penyerahan",
+        "Alokasi anggaran yang dapat diprediksi dan penyampaian yang transparan",
+        "Akuntabilitas perusahaan terpadu dari nol hingga skala besar",
+        "Solusi terukur yang dirancang untuk pertumbuhan bisnis di masa depan",
+        "Kemitraan teknologi terpercaya jangka panjang",
+        "Transformasi digital menyeluruh yang komprehensif"
+      ],
+      "security": "Dengan satu mitra tepercaya yang mengawasi arsitektur, implementasi, dan operasi, tata kelola keamanan tetap tidak terputus di semua tingkatan—menghilangkan titik buta integrasi dan memastikan kepatuhan yang berkelanjutan.",
+      "ctaHeadline": "Mitra Teknologi Lengkap Anda",
+      "ctaSub": "Satu pasangan. Satu visi. Berbagai teknologi. Solusi lengkap."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Ikhtisar Perusahaan",
+    "overviewTitle": "Teknologi Cerdas untuk Hasil yang Terukur",
+    "transformationEyebrow": "Transformasi Operasional",
+    "transformationTitle": "Mengubah Bisnis Melalui Alur Kerja Cerdas",
+    "deliveryEyebrow": "Pendekatan Pengiriman Terstruktur",
+    "deliveryTitle": "Eksekusi End-to-End & Optimasi Berkelanjutan",
+    "deliveryIntro": "Pendekatan penerapan kami yang telah terbukti mengikuti siklus pengiriman yang ketat:",
+    "deliveryOutro": "Urutan terstruktur ini memastikan keselarasan yang ketat dengan tujuan bisnis, postur keamanan yang kuat, dan tolok ukur ROI yang terukur di setiap fase.",
+    "securityEyebrow": "Keamanan & Tata Kelola",
+    "securityTitle": "Perlindungan Keandalan & Kepatuhan Tingkat Perusahaan",
+    "securityOutro": "Kami menyematkan kontrol akses berbasis peran yang ketat, pemindaian kerentanan otomatis, tata kelola model, dan enkripsi multi-tingkat untuk memastikan lingkungan produksi Anda tetap tangguh dan sepenuhnya patuh.",
+    "capabilitiesTitle": "Kemampuan Teknologi Inti",
+    "capabilitiesSub": "Kompetensi teknis komprehensif yang dirancang untuk meningkatkan skala operasi digital Anda.",
+    "bookDiscovery": "Penemuan Teknologi Buku",
+    "exploreAll": "Jelajahi Semua Teknologi",
+    "bookConsultation": "Pesan Konsultasi",
+    "coreCapabilities": "Kemampuan Inti"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Kemampuan Inti",
+    "exploreFramework": "Jelajahi Kerangka Solusi",
+    "bookConsultation": "Pesan Konsultasi",
+    "viewCaseStudies": "Lihat Studi Kasus",
+    "provenPillars": "Pilar Terbukti",
+    "operationalOutcomes": "Hasil Operasional",
+    "learnMore": "Pelajari Lebih Lanjut"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Rekayasa Digital End-to-End",
+      "titlePart1": "Awal Ke",
+      "titlePart2": "Penerapan",
+      "description": "Pengembangan solusi digital baru secara menyeluruh mulai dari kebutuhan bisnis dan arsitektur solusi melalui pengembangan, integrasi, pengujian, penerapan, dan dukungan berkelanjutan.",
+      "bookConsultation": "Pesan Konsultasi",
+      "exploreEngineering": "Jelajahi Rekayasa Solusi",
+      "coreCapabilities": [
+        "Rekayasa Persyaratan",
+        "Arsitektur Solusi",
+        "Pengembangan Aplikasi",
+        "Integrasi API",
+        "Jaminan Kualitas",
+        "DevOps",
+        "Penerapan",
+        "Dukungan & Pemeliharaan"
+      ],
+      "row1Eyebrow": "Pengiriman Siklus Hidup Penuh",
+      "row1Title": "Pengembangan End-to-End dari Persyaratan hingga Skala",
+      "row1P1": "Setiap inisiatif digital baru dimulai dengan persyaratan unik, alur kerja operasional, dan tujuan strategis yang tidak dapat dipenuhi oleh perangkat lunak yang universal. Kami berspesialisasi dalam membangun sistem perangkat lunak khusus dan berkinerja tinggi sepenuhnya dari awal.",
+      "row1P2": "Dari penemuan persyaratan awal dan desain arsitektur teknis hingga pengembangan sprint yang tangkas, integrasi ekosistem API, jalur pengujian yang kuat, dan penerapan cloud otomatis, tim teknik senior kami mengambil kepemilikan penuh atas siklus hidup produk Anda.",
+      "row2Eyebrow": "Arsitektur & Rekayasa Solusi",
+      "row2Title": "Sistem Skalabel yang Dibangun untuk Pertumbuhan Perusahaan",
+      "row2P1": "Kami merancang arsitektur perangkat lunak tangguh yang dirancang untuk menahan beban produksi yang berat. Dari layanan mikro modular dan backend berbasis peristiwa hingga aliran data dengan throughput tinggi dan API GraphQL/REST, kami membangun platform yang dapat diskalakan dengan mudah.",
+      "row2P2": "Dengan membangun basis kode yang bersih dan modular yang dipadukan dengan pengujian otomatis dan kepatuhan keamanan berkelanjutan, kami memastikan fondasi perangkat lunak Anda dapat dipelihara, diaudit, dan siap untuk evolusi jangka panjang.",
+      "row3Eyebrow": "Jaminan Kualitas & DevOps",
+      "row3Title": "Pengiriman Agile dengan Saluran Pipa Otomatis",
+      "row3P1": "Model pengiriman kami menyematkan unit otomatis, integrasi, dan pengujian regresi end-to-end bersama alur kerja CI/CD dalam container (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Dengan demo sprint yang transparan, kemampuan observasi real-time, dan kecepatan yang didorong oleh pencapaian, kami memastikan waktu pemasaran yang cepat tanpa mengorbankan keamanan, stabilitas, atau pengalaman pengguna.",
+      "row4Eyebrow": "Penerapan & Dukungan",
+      "row4Title": "Operasi 24/7 yang Andal dan Evolusi Jangka Panjang",
+      "row4P1": "Siaran langsung hanyalah permulaan. Kami menyediakan pemantauan proaktif, pemeliharaan yang didukung SLA, optimalisasi infrastruktur cloud, penyesuaian kinerja, dan peluncuran fitur berkelanjutan.",
+      "row4P2": "Tim teknik kami bertindak sebagai perpanjangan alami organisasi Anda, memastikan tidak adanya downtime dan keunggulan teknologi berkelanjutan di pasar Anda.",
+      "pillarsTitle": "Kemampuan Inti",
+      "pillarsSub": "Kemampuan full-stack lengkap yang dirancang untuk membawa ide Anda dari nol hingga produksi.",
+      "pillar1Title": "Rekayasa Persyaratan",
+      "pillar1Desc": "Analisis bisnis mendalam, spesifikasi fungsional, dan pemetaan perjalanan pengguna untuk menentukan batasan solusi yang tepat.",
+      "pillar2Title": "Arsitektur Solusi",
+      "pillar2Desc": "Arsitektur cloud-native yang skalabel, pemodelan database, desain layanan mikro, dan fondasi keamanan zero-trust.",
+      "pillar3Title": "Pengembangan Aplikasi",
+      "pillar3Desc": "Aplikasi web dan seluler full-stack modern yang dirancang dengan kode bersih, keamanan jenis, dan standar UI reaktif.",
+      "pillar4Title": "Integrasi API",
+      "pillar4Desc": "REST/GraphQL API dengan throughput tinggi, orkestrasi webhook, gateway pembayaran, dan sinkronisasi ERP/CRM pihak ketiga yang lancar.",
+      "ctaTitle": "Siap Membangun Solusi Anda dari Awal hingga Penerapan?",
+      "ctaSub": "Bermitra dengan Rezonants untuk merancang, merekayasa, dan menerapkan platform digital khusus Anda mulai dari kebutuhan bisnis hingga realitas produksi.",
+      "ctaButton": "Pesan Konsultasi Solusi",
+      "pillar5Title": "Jaminan Kualitas",
+      "pillar5Desc": "Otomatisasi pengujian yang ketat, pengujian beban/tekanan, pemindaian kerentanan, dan rangkaian pengujian regresi.",
+      "pillar6Title": "DevOps & Penerapan",
+      "pillar6Desc": "Pipeline CI/CD otomatis, orkestrasi container (Docker/K8s), infrastruktur sebagai kode, dan rilis tanpa downtime.",
+      "pillar7Title": "Dukungan & Pemeliharaan",
+      "pillar7Desc": "Pemantauan proaktif 24/7, telemetri kesehatan, audit kinerja, patch keamanan, dan pemeliharaan SLA berkelanjutan.",
+      "pillar8Title": "Inovasi Berkelanjutan",
+      "pillar8Desc": "Kecepatan fitur reguler, integrasi analisis data, peningkatan AI, dan modernisasi arsitektur."
+    },
+    "processAutomation": {
+      "eyebrow": "Operasi Proses Cerdas",
+      "titlePart1": "Proses Bisnis",
+      "titlePart2": "Otomatisasi",
+      "description": "Otomatisasi alur kerja perusahaan secara menyeluruh, menggabungkan otomatisasi proses robotik (RPA), pemrosesan dokumen cerdas, mesin aturan bisnis, dan integrasi sistem.",
+      "bookDiscovery": "Penemuan Otomatisasi Buku",
+      "exploreFramework": "Jelajahi Kerangka Solusi",
+      "coreCapabilities": [
+        "Otomatisasi Alur Kerja",
+        "Otomatisasi Proses Robotik",
+        "Pemrosesan Dokumen",
+        "Rekayasa Integrasi",
+        "Mesin Aturan Bisnis",
+        "Analisis Proses",
+        "Optimasi Berkelanjutan",
+        "Integrasi Warisan"
+      ],
+      "row1Eyebrow": "Otomatisasi Proses Robotik",
+      "row1Title": "Bot Cerdas untuk Operasi Volume Tinggi",
+      "row1P1": "Hilangkan entri data manual yang berulang, rekonsiliasi lintas sistem, dan perutean dokumen. Kami menerapkan bot RPA perusahaan yang menjalankan tugas terstruktur 24/7 dengan tingkat kesalahan nol.",
+      "row1P2": "Dengan menghubungkan antarmuka desktop lama, backend SAP/ERP, dan database cloud, bot perangkat lunak membebaskan tim Anda untuk fokus pada inisiatif bisnis strategis.",
+      "row2Eyebrow": "Pemrosesan Dokumen Cerdas",
+      "row2Title": "OCR, Pembelajaran Mesin & AI Dokumen",
+      "row2P1": "Secara otomatis menyerap, mengklasifikasikan, dan mengekstrak data dari faktur, kontrak, dokumen identitas, dan klaim. Saluran pipa kami yang digerakkan oleh AI memvalidasi bidang terhadap database internal dan memicu alur kerja persetujuan otomatis.",
+      "row2P2": "Mencapai tingkat pemrosesan langsung melebihi 95% sekaligus mengurangi waktu penyelesaian secara drastis dari hitungan hari ke detik.",
+      "row3Eyebrow": "Proses Orkestrasi",
+      "row3Title": "Sinkronisasi Lintas Platform Ujung-ke-Ujung",
+      "row3P1": "Hubungkan CRM, ERP, HRMS, dan API perbankan ke dalam aliran data real-time terpadu. Kami menerapkan pemicu berbasis peristiwa, antrean pesan, dan penangan fallback otomatis.",
+      "row3P2": "Informasi mengalir lancar antar departemen tanpa campur tangan manusia, menghilangkan silo operasional dan penundaan komunikasi.",
+      "row4Eyebrow": "Telemetri Berkelanjutan",
+      "row4Title": "Analisis Proses & Wawasan Kaizen Waktu Nyata",
+      "row4P1": "Lacak waktu eksekusi proses, peta panas kemacetan, frekuensi kesalahan, dan ROI finansial di dasbor eksekutif waktu nyata.",
+      "row4P2": "Diagnostik pembelajaran mesin berkelanjutan menemukan peluang otomatisasi baru, menjaga perusahaan Anda tetap beroperasi pada efisiensi maksimum.",
+      "pillarsTitle": "Pilar Otomasi",
+      "pillarsSub": "Bahan dasar yang terbukti untuk operasi perusahaan yang cerdas.",
+      "pillar1Title": "Otomatisasi Alur Kerja",
+      "pillar1Desc": "Alur kerja digital dan human-in-the-loop multi-langkah yang diatur dengan perutean dan eskalasi otomatis.",
+      "pillar2Title": "Otomatisasi Proses Robotik",
+      "pillar2Desc": "Bot perangkat lunak berbasis aturan yang menjalankan tugas entri data rutin, rekonsiliasi, dan lintas aplikasi.",
+      "pillar3Title": "Otomatisasi AI Cerdas",
+      "pillar3Desc": "Agen AI kognitif yang menafsirkan konteks, merangkum teks tidak terstruktur, dan membuat keputusan otomatis.",
+      "pillar4Title": "Optimasi Proses",
+      "pillar4Desc": "Proses penambangan, deteksi kemacetan, dan alur kerja Kaizen yang terus mengurangi biaya operasional.",
+      "ctaTitle": "Siap Mengotomatiskan Alur Kerja Bisnis Anda?",
+      "ctaSub": "Terhubung dengan arsitek otomasi kami untuk mengidentifikasi peluang ROI tinggi dan menerapkan alur kerja digital cerdas.",
+      "ctaButton": "Pesan Konsultasi Otomasi"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Standar Teknik & Litbang",
+      "titlePart1": "Pusat",
+      "titlePart2": "Keunggulan",
+      "description": "Sebuah organisasi terpusat yang terdiri dari arsitek senior dan spesialis domain yang berdedikasi untuk menstandardisasi praktik teknik, mendorong inovasi, dan mempercepat inisiatif digital.",
+      "exploreStandards": "Jelajahi Standar Teknik",
+      "initiateAssessment": "Memulai Penilaian CoE",
+      "coreCapabilities": [
+        "Standar Arsitektur",
+        "Kerangka Kerja yang Dapat Digunakan Kembali",
+        "Praktik Tata Kelola Terbaik",
+        "Pengembangan Keterampilan",
+        "Pembandingan Kualitas",
+        "Penelitian & Pengembangan & Inovasi",
+        "Evaluasi Teknologi",
+        "Panduan Lintas Proyek"
+      ],
+      "uptimeLabel": "Waktu Aktif Perusahaan",
+      "engineersLabel": "Insinyur & Arsitek",
+      "deploymentsLabel": "Penerapan AI & Cloud",
+      "satisfactionLabel": "Kepuasan Klien",
+      "row1Eyebrow": "Pilar 01 — Standar Teknik",
+      "row1Title": "Rekayasa Perangkat Lunak Berkinerja Tinggi",
+      "row1P1": "Pusat Keunggulan kami menetapkan pola desain standar, pengujian otomatis yang ketat, dan praktik peninjauan kode tanpa cacat yang mempercepat waktu pemasaran sekaligus menjaga utang teknis tetap nol.",
+      "row1F1": "Saluran rilis CI/CD otomatis dengan analisis metrik DORA",
+      "row1F2": "Dewan peninjau arsitektur & tata kelola layanan mikro yang ketat",
+      "row1F3": "Linting keamanan berkelanjutan dan patching kerentanan otomatis",
+      "row1Btn": "Pelajari Standar Teknik",
+      "row1Tag": "DevOps & Rekayasa Kualitas",
+      "row2Eyebrow": "Pilar 02 — Inovasi Penelitian dan Pengembangan",
+      "row2Title": "Lab Inovasi AI & Teknologi Baru",
+      "row2P1": "Kami bereksperimen dengan model pembelajaran mesin yang canggih, agen AI khusus, dan otomatisasi alur kerja cerdas untuk membangun produk perusahaan generasi berikutnya.",
+      "row2F1": "Integrasi pengetahuan AI & RAG Generatif Perusahaan",
+      "row2F2": "Alur kerja agen AI otonom untuk otomatisasi proses bisnis",
+      "row2F3": "Pengoptimalan & penyempurnaan model pembelajaran mesin khusus",
+      "row2Btn": "Jelajahi Lab AI",
+      "row2Tag": "Kecerdasan Buatan & Penelitian dan Pengembangan Syaraf",
+      "row3Eyebrow": "Pilar 03 — Infrastruktur",
+      "row3Title": "Arsitektur Cloud Perusahaan & Keamanan Zero-Trust",
+      "row3P1": "Kami merancang dan mengelola lingkungan multi-cloud tangguh yang dibangun berdasarkan kerangka keamanan zero-trust, memastikan data Anda tetap terlindungi dari ancaman dunia maya global yang terus berkembang.",
+      "row3F1": "Orkestrasi infrastruktur multi-cloud AWS, Azure, & GCP",
+      "row3F2": "Akses jaringan tanpa kepercayaan (ZTNA) & kebijakan IAM berbasis peran",
+      "row3F3": "Pemindaian keamanan kontainer otomatis & manajemen rahasia",
+      "row3Btn": "Jelajahi Cloud & Keamanan",
+      "row3Tag": "Arsitektur Cloud & Tanpa Kepercayaan",
+      "pillarsTitle": "Kerangka Kerja Keunggulan Inti Kami",
+      "pillarsSub": "Buku pedoman pengembangan sistematis yang mendukung platform yang sangat penting.",
+      "pillar1Title": "Badan Peninjau Arsitektur (ARB)",
+      "pillar1Desc": "Pengawasan komprehensif memastikan semua solusi perusahaan selaras dengan skalabilitas, keamanan, dan protokol kepatuhan yang ketat.",
+      "pillar2Title": "Akselerator & Pustaka Komponen yang Dapat Digunakan Kembali",
+      "pillar2Desc": "Sistem desain eksklusif, starter kit API, dan templat layanan mikro backend mengurangi waktu pengembangan awal sebesar 40%.",
+      "pillar3Title": "Pembuatan Profil Kinerja Berkelanjutan",
+      "pillar3Desc": "Pipeline observabilitas real-time tingkat lanjut yang memantau latensi aplikasi, kemacetan throughput, dan pemanfaatan sumber daya cloud.",
+      "pillar4Title": "Peningkatan Keterampilan Bakat & Serikat",
+      "pillar4Desc": "Serikat internal dan sertifikasi terstruktur yang mengembangkan kemahiran teknis mendalam di cloud, DevOps, dan AI terapan.",
+      "ctaTitle": "Tingkatkan Standar Teknik Anda",
+      "ctaSub": "Bermitra dengan Pusat Keunggulan Rezonants untuk membangun arsitektur cloud yang tangguh, mengotomatiskan alur kerja, dan mempercepat pengiriman produk digital.",
+      "ctaButton": "Jadwalkan Konsultasi Eksekutif",
+      "badge": "COE Rezonants",
+      "scroll": "Gulir",
+      "p1Title": "Tata Kelola & Kerangka Kerja",
+      "p1Desc": "Menetapkan tata kelola arsitektur, pagar kebijakan, dan standar kepatuhan di seluruh perusahaan.",
+      "p1Tag": "Tata Kelola",
+      "p2Title": "Standar & Arsitektur Teknologi",
+      "p2Desc": "Tentukan arsitektur referensi modern, tumpukan teknologi yang diperiksa, dan pola layanan mikro.",
+      "p2Tag": "Arsitektur",
+      "p3Title": "Aset & Perpustakaan yang Dapat Digunakan Kembali",
+      "p3Desc": "Mempercepat kecepatan pengembangan dengan komponen, templat, starter kit, dan sistem desain bersama.",
+      "p3Tag": "Dapat digunakan kembali",
+      "p4Title": "Pengembangan Kompetensi",
+      "p4Desc": "Pelatihan terstruktur, bimbingan teknologi, dan pemberdayaan keterampilan untuk meningkatkan kecakapan teknik tim.",
+      "p4Tag": "Kompetensi",
+      "p5Title": "Inovasi & Teknologi Berkembang",
+      "p5Desc": "Penelitian dan pengembangan pada agen AI, jalur otomasi, dan kerangka kerja generasi berikutnya untuk mempertahankan keunggulan pasar.",
+      "p5Tag": "Inovasi",
+      "p6Title": "Peningkatan Berkelanjutan",
+      "p6Desc": "Metrik teknik berbasis data (DORA), tolok ukur SLA, dan optimalisasi kualitas berkelanjutan.",
+      "p6Tag": "Kualitas"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Rekayasa Digital yang Disesuaikan",
+      "titlePart1": "Pengembangan Kustom &",
+      "titlePart2": "Kustomisasi",
+      "description": "Pengembangan dan peningkatan aplikasi, platform, alur kerja, dan solusi perusahaan untuk memenuhi kebutuhan bisnis yang unik dan memberikan fungsionalitas yang disesuaikan.",
+      "bookConsultation": "Pesan Konsultasi",
+      "exploreCapabilities": "Jelajahi Kemampuan",
+      "coreCapabilities": [
+        "Pengembangan Kustom",
+        "Konfigurasi Platform",
+        "Ekstensi",
+        "Alur Kerja Kustom",
+        "Pengembangan API",
+        "Integrasi Sistem",
+        "Peningkatan UI/UX",
+        "Optimasi Kinerja"
+      ],
+      "row1Eyebrow": "FUNGSIONALITAS YANG DISESUAIKAN",
+      "row1Title": "Fitur Khusus yang Dibuat untuk Alur Kerja Anda",
+      "row1P1": "Perangkat lunak standar perusahaan sering kali gagal memenuhi kebutuhan bisnis khusus. Tim teknik khusus kami mengembangkan modul aplikasi yang dipesan lebih dahulu, aturan bisnis khusus, dan ekstensi khusus yang disesuaikan dengan operasi Anda.",
+      "row1P2": "Dari peningkatan CRM dan ERP khusus hingga portal operasional khusus, kami membangun fitur yang selaras dengan pola alur kerja tim Anda.",
+      "row2Eyebrow": "INTEGRASI SISTEM PERUSAHAAN",
+      "row2Title": "Konfigurasi Platform & Pengembangan API",
+      "row2P1": "Hubungkan sistem perangkat lunak yang berbeda ke dalam ekosistem digital terpadu. Kami merancang API REST dan GraphQL khusus, pengendali webhook, dan antrean pesan perusahaan untuk memastikan sinkronisasi data real-time di seluruh platform Anda.",
+      "row2P2": "Baik mengintegrasikan alat SaaS pihak ketiga atau memperluas platform milik sendiri, arsitektur integrasi kami memprioritaskan integritas data, throughput, dan zero downtime.",
+      "row3Eyebrow": "UI/UX & KINERJA",
+      "row3Title": "Peningkatan UI/UX & Pengoptimalan Kinerja",
+      "row3P1": "Tingkatkan antarmuka lama dengan pengalaman pengguna yang modern dan responsif yang dirancang untuk kecepatan dan kejelasan. Kami merekayasa ulang frontend dengan pola desain yang intuitif, kepatuhan aksesibilitas, dan model interaksi yang disederhanakan.",
+      "row3P2": "Secara paralel, teknisi kinerja kami mengoptimalkan kueri basis data, strategi caching, dan ukuran paket frontend untuk memberikan waktu respons instan di semua perangkat.",
+      "pillarsTitle": "Direkayasa sesuai Spesifikasi Tepat Anda",
+      "pillarsSub": "Metodologi penyesuaian tingkat perusahaan yang dibuat untuk menskalakan dengan lancar.",
+      "pillar1Title": "Alur Kerja & Ekstensi Khusus",
+      "pillar1Desc": "Logika aplikasi yang disesuaikan dan mesin status otomatis yang dikonfigurasikan secara khusus sesuai aturan operasional internal Anda.",
+      "pillar2Title": "API & Integrasi Sistem",
+      "pillar2Desc": "Jembatan data yang aman dan terautentikasi yang menghubungkan backend berpemilik, rangkaian ERP, gateway pembayaran, dan layanan cloud.",
+      "pillar3Title": "Konfigurasi Platform",
+      "pillar3Desc": "Adaptasi arsitektur mendalam yang memodifikasi perangkat lunak perusahaan tanpa merusak jalur pemutakhiran atau perjanjian dukungan vendor.",
+      "pillar4Title": "Optimasi Kinerja",
+      "pillar4Desc": "Pembuatan profil kueri yang agresif, penghapusan kebocoran memori, dan distribusi CDN edge untuk pemuatan halaman sub-detik.",
+      "ctaTitle": "Siap Menyesuaikan Platform Perusahaan Anda?",
+      "ctaSub": "Terhubung dengan arsitek solusi kami untuk merancang dan menerapkan modul khusus, alur kerja, dan integrasi yang disesuaikan dengan kebutuhan bisnis Anda.",
+      "ctaButton": "Pesan Panggilan Kustomisasi",
+      "badge": "Rekayasa Digital yang Disesuaikan",
+      "viewAllServices": "Lihat Semua Layanan"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Modernisasi Perusahaan",
+      "titlePart1": "digital",
+      "titlePart2": "Transformasi",
+      "description": "Modernisasi proses bisnis, arsitektur teknologi, dan model operasional yang komprehensif untuk mendorong ketangkasan organisasi, efisiensi operasional, dan pertumbuhan digital yang berkelanjutan.",
+      "startTransformation": "Mulai Transformasi",
+      "exploreStrategy": "Jelajahi Strategi",
+      "coreCapabilities": [
+        "Strategi & Peta Jalan",
+        "Modernisasi Arsitektur",
+        "Cloud & Infrastruktur",
+        "Data & Analisis",
+        "Proses Digitalisasi",
+        "Pengalaman Pelanggan",
+        "Manajemen Perubahan",
+        "Model Operasi Agile"
+      ],
+      "row1Eyebrow": "Strategi & Peta Jalan",
+      "row1Title": "Dari Visi ke Peta Jalan yang Dapat Dieksekusi",
+      "row1P1": "Kami bermitra dengan para pemimpin perusahaan untuk menentukan strategi digital, kasus bisnis, dan peta jalan bertahap dengan kemenangan cepat dan eksekusi tanpa risiko.",
+      "row1P2": "Inisiatif yang diprioritaskan, model TCO, dan KPI memastikan setiap upaya modernisasi teknologi terkait langsung dengan pendapatan, efisiensi, dan hasil kepuasan pelanggan.",
+      "row2Eyebrow": "Modernisasi Warisan",
+      "row2Title": "Modernisasi Tanpa Merusak Bisnis",
+      "row2P1": "Platform ulang monolit ke layanan mikro, API, dan pola cloud-native dengan peralihan tanpa downtime dan validasi regresi otomatis.",
+      "row2P2": "Kami memodernisasi aplikasi, database, dan lapisan integrasi sambil menjaga kepatuhan dan postur keamanan.",
+      "row3Eyebrow": "Awan, AI & Data",
+      "row3Title": "Adopsi Cloud & Kecerdasan Berbasis Data",
+      "row3P1": "Gunakan AWS, Azure, dan GCP, bangun pipeline data modern, dan sematkan agen pembelajaran mesin untuk mendorong keputusan yang otonom.",
+      "row3P2": "Dari streaming acara real-time hingga dasbor terpadu, transformasi menjadi terukur dan berkelanjutan.",
+      "row4Eyebrow": "Pengalaman Pelanggan",
+      "row4Title": "Pengalaman Multisaluran Modern",
+      "row4P1": "Mendesain ulang perjalanan pelanggan di web responsif, iOS, Android, dan portal layanan mandiri dengan antarmuka yang dipersonalisasi.",
+      "row4P2": "Rekayasa platform, telemetri, dan putaran umpan balik otomatis menjadikan inovasi digital berkelanjutan.",
+      "pillarsTitle": "Pilar Transformasi",
+      "pillarsSub": "Pengungkit yang berfokus pada hasil yang memastikan kepemimpinan digital berkelanjutan.",
+      "pillar1Title": "Strategi & Tata Kelola Digital",
+      "pillar1Desc": "Cetak biru transformasi bertahap dengan pemodelan kasus bisnis, tata kelola arsitektur, dan pelacakan risiko pencapaian.",
+      "pillar2Title": "Platform Awan & Data",
+      "pillar2Desc": "Fondasi multi-cloud AWS/Azure/GCP, pipeline otomatis, dan pemberdayaan analisis data perusahaan.",
+      "pillar3Title": "AI & Otomatisasi",
+      "pillar3Desc": "Otomatisasi proses cerdas, agen AI kognitif, dan telemetri prediktif untuk mengoptimalkan pengoperasian sehari-hari.",
+      "pillar4Title": "Pengalaman Pelanggan",
+      "pillar4Desc": "Portal digital omnichannel dengan konversi tinggi dan antarmuka yang dipersonalisasi dibangun untuk retensi pengguna maksimum.",
+      "ctaTitle": "Siap Mengubah Perusahaan Anda?",
+      "ctaSub": "Bermitra dengan Rezonants untuk transformasi digital bertahap dan mengurangi risiko yang terkait dengan hasil bisnis yang terukur.",
+      "ctaButton": "Pesan Panggilan Transformasi Digital",
+      "bookWorkshop": "Workshop Transformasi Buku",
+      "exploreFramework": "Jelajahi Kerangka Solusi",
+      "coreCapabilitiesTitle": "Kemampuan Inti"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Siklus Hidup Teknologi Lengkap",
+      "titlePart1": "Solusi menyeluruh",
+      "titlePart2": "Kerangka",
+      "description": "Kerangka kerja penyampaian siklus hidup penuh yang terstruktur yang mencakup kebutuhan bisnis, desain arsitektur, teknik, integrasi, jaminan kualitas, penerapan cloud, dan operasi terkelola.",
+      "startJourney": "Mulai Proyek Anda",
+      "exploreFramework": "Jelajahi Kerangka",
+      "coreCapabilities": [
+        "Analisis Persyaratan",
+        "Desain Arsitektur",
+        "Pengembangan Tumpukan Penuh",
+        "Rekayasa Integrasi",
+        "Jaminan Kualitas",
+        "Penerapan & Peluncuran",
+        "Operasi Berkelanjutan",
+        "Evolusi Berkelanjutan"
+      ],
+      "row1Eyebrow": "Strategi & Arsitektur",
+      "row1Title": "Rekayasa Persyaratan & Desain Solusi",
+      "row1P1": "Lokakarya kolaboratif, pemetaan domain bisnis, dan spesifikasi arsitektur cloud yang dirancang untuk menghilangkan risiko sebelum sebaris kode ditulis.",
+      "row1P2": "Kami mendefinisikan model data, kerangka keamanan, dan tonggak skalabilitas yang menyiapkan kesuksesan jangka panjang.",
+      "row2Eyebrow": "Rekayasa & Kualitas",
+      "row2Title": "Pengembangan Full-Stack & Pengujian Otomatis",
+      "row2P1": "Layanan mikro modular, API yang aman untuk tipe, dan frontend responsif dikombinasikan dengan unit otomatis, integrasi, dan pemindaian keamanan.",
+      "row2P2": "Jalur integrasi berkelanjutan dengan GitHub Actions, Terraform, dan pagar keamanan otomatis.",
+      "row3Eyebrow": "Penerapan & Pengoperasian",
+      "row3Title": "Penerapan Cloud & Pemantauan Terkelola 24/7",
+      "row3P1": "Orkestrasi multi-cloud di AWS/Azure/GCP dengan rollback otomatis, peralihan tanpa waktu henti, dan kemampuan observasi waktu nyata.",
+      "row3P2": "Kami menyediakan pemeliharaan yang didukung SLA dan pemantauan telemetri berkelanjutan untuk mengembangkan produk Anda dengan lancar.",
+      "row4Eyebrow": "Tata Kelola Perusahaan",
+      "row4Title": "Tata Kelola Terpadu & Dukungan Berkelanjutan",
+      "row4P1": "Akuntabilitas satu titik di seluruh tumpukan digital Anda — kecepatan sprint yang transparan, penganggaran yang dapat diprediksi, dan inovasi berkelanjutan.",
+      "row4P2": "Peluncuran fitur rutin dan siklus modernisasi menjadikan perusahaan Anda terdepan dalam persaingan.",
+      "pillarsTitle": "Pilar Kerangka Siklus Hidup",
+      "pillarsSub": "Setiap fase dirancang dengan ketelitian perusahaan.",
+      "pillar1Title": "Strategi & Persyaratan",
+      "pillar1Desc": "Penemuan domain, peta jalan arsitektur, dan penyelarasan pemangku kepentingan untuk menghilangkan risiko eksekusi.",
+      "pillar2Title": "Arsitektur & Bangunan",
+      "pillar2Desc": "Layanan mikro cloud-native yang tangguh, integrasi API, dan pengujian QA berkelanjutan.",
+      "pillar3Title": "Keamanan & Penerapan",
+      "pillar3Desc": "Kepatuhan keamanan tanpa kepercayaan, rilis dalam container, dan penerapan cloud otomatis.",
+      "pillar4Title": "Tata Kelola & Dukungan",
+      "pillar4Desc": "Pemantauan SLA 24/7, telemetri kesehatan, dan rekayasa evolusi berkelanjutan.",
+      "ctaTitle": "Butuh Mitra Siklus Hidup Lengkap?",
+      "ctaSub": "Kami memiliki siklus hidup teknologi penuh sehingga tim Anda dapat fokus pada hasil bisnis inti.",
+      "ctaButton": "Mitra untuk Siklus Hidup Penuh"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformasi Cloud & Infrastruktur",
+      "titlePart1": "Migrasi &",
+      "titlePart2": "Modernisasi",
+      "description": "Migrasi aplikasi, database, dan infrastruktur lama yang aman dan terstruktur ke arsitektur cloud modern, dipadukan dengan modernisasi berkelanjutan untuk meningkatkan ketangkasan dan efisiensi.",
+      "bookAssessment": "Penilaian Migrasi Buku",
+      "exploreStrategy": "Jelajahi Strategi Cloud",
+      "coreCapabilities": [
+        "Migrasi Awan",
+        "Modernisasi Aplikasi",
+        "Migrasi Basis Data",
+        "Rehosting Infrastruktur",
+        "Kontainerisasi",
+        "Transisi Layanan Mikro",
+        "Optimasi Kinerja",
+        "Keamanan & Kepatuhan"
+      ],
+      "row1Eyebrow": "Migrasi Awan",
+      "row1Title": "Strategi Multi-Cloud & Peningkatan dan Optimasi",
+      "row1P1": "Migrasi beban kerja yang lancar di AWS, Azure, dan Google Cloud dengan penemuan otomatis, perencanaan gelombang, dan tanpa gangguan bisnis.",
+      "row1P2": "Kami menyeimbangkan rehosting, replatforming, dan refactoring untuk mengoptimalkan total biaya kepemilikan (TCO) dan ketangkasan.",
+      "row2Eyebrow": "Migrasi Data & Basis Data",
+      "row2Title": "ETL Aman & Validasi Data Otomatis",
+      "row2P1": "Replikasi database otomatis, terjemahan skema, dan pipeline ETL throughput tinggi dengan verifikasi integritas data 100%.",
+      "row2P2": "Latihan cutover tanpa waktu henti memastikan konsistensi data lengkap dan kelangsungan bisnis.",
+      "row3Eyebrow": "Modernisasi Platform",
+      "row3Title": "Kontainerisasi & Orkestrasi Kubernetes",
+      "row3P1": "Modernkan monolit lama menjadi layanan mikro terukur yang diatur melalui Kubernetes (EKS, AKS, GKE) dengan cetak biru IaC otomatis.",
+      "row3P2": "Pembuatan profil kinerja pasca-migrasi dan optimalisasi biaya memastikan ROI langsung.",
+      "row4Eyebrow": "Perencanaan Peralihan",
+      "row4Title": "Pengujian Otomatis & Jaring Pengaman Rollback",
+      "row4P1": "Runbook cutover yang telah teruji pertempuran, rangkaian regresi otomatis, dan mekanisme rollback instan untuk ketenangan pikiran.",
+      "row4P2": "Telemetri kesehatan pasca-migrasi dan hypercare 24/7 menjamin stabilitas produksi yang sempurna.",
+      "pillarsTitle": "Jaminan Migrasi",
+      "pillarsSub": "Tindakan yang mengurangi risiko yang didukung oleh SLA perusahaan.",
+      "pillar1Title": "Cutover Tanpa Waktu Henti",
+      "pillar1Desc": "Rilis Canary dan sinkronisasi penulisan ganda database untuk memastikan akses pengguna tanpa gangguan.",
+      "pillar2Title": "Validasi Data Otomatis",
+      "pillar2Desc": "Perbandingan checksum, audit integritas skema, dan rekonsiliasi ETL otomatis.",
+      "pillar3Title": "Jaring Pengaman Rollback",
+      "pillar3Desc": "Protokol pemulihan bencana yang ketat dan latihan latihan untuk membatasi risiko di setiap fase.",
+      "pillar4Title": "Optimasi Kinerja & Biaya",
+      "pillar4Desc": "Termasuk penyesuaian cloud, kebijakan penskalaan otomatis, dan dasbor tata kelola biaya.",
+      "ctaTitle": "Siap Bermigrasi dengan Penuh Percaya Diri?",
+      "ctaSub": "Bermitra dengan Rezonants untuk modernisasi cloud dan data yang terstruktur dan bebas risiko.",
+      "ctaButton": "Rencanakan Lokakarya Migrasi Anda"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Validasi & Kelayakan Cepat",
+      "titlePart1": "Bukti Konsep (PoC) &",
+      "titlePart2": "Implementasi Percontohan",
+      "description": "Perkembangan pesat dan validasi solusi teknologi untuk menilai kelayakan teknis, nilai bisnis, persyaratan integrasi, kinerja, dan skalabilitas sebelum implementasi skala penuh.",
+      "initiateDiscovery": "Memulai Penemuan PoC",
+      "exploreDevelopment": "Jelajahi Pengembangan Kustom",
+      "coreCapabilities": [
+        "Pengembangan PoC",
+        "Rekayasa Prototipe",
+        "Studi Kelayakan",
+        "Validasi Arsitektur",
+        "Pengujian Integrasi",
+        "Tolok Ukur Kinerja",
+        "Penerapan Percontohan",
+        "Penilaian Nilai"
+      ],
+      "row1Eyebrow": "Validasi Cepat",
+      "row1Title": "Dari Konsep hingga Kelayakan yang Tervalidasi",
+      "row1P1": "Mengubah ide menjadi solusi skala perusahaan memerlukan validasi awal yang ketat. Layanan PoC & Percontohan kami mengevaluasi kelayakan teknologi, menguji kaitan integrasi penting, dan memvalidasi ROI bisnis sebelum komitmen modal besar.",
+      "row1P2": "Kami membangun MVP dengan ketelitian tinggi dan uji coba sandbox terfokus yang membuktikan kelayakan teknis, mengukur latensi sistem, dan mengumpulkan validasi langsung dari pemangku kepentingan sejak dini.",
+      "row1Cap": "Pembuatan Prototipe MVP Cepat & Tolok Ukur Teknis",
+      "row2Eyebrow": "Pembuatan Prototipe yang Tangkas",
+      "row2Title": "MVP Interaktif & Validasi UX",
+      "row2P1": "Kami membuat wireframe interaktif, alur pengguna yang dapat diklik, dan bukti konsep yang fungsional dalam hitungan hari, bukan bulan. Uji interaksi pengguna yang sebenarnya, sempurnakan pola UI/UX, dan kumpulkan masukan yang dapat ditindaklanjuti dari pemangku kepentingan.",
+      "row2P2": "Dengan memperpendek putaran umpan balik selama pengembangan awal, tim Anda meminimalkan pengerjaan ulang dan menetapkan spesifikasi teknis yang jelas sebelum fase pembangunan padat modal dimulai.",
+      "row2Cap": "Iterasi Cepat & Prototipe UX yang Dapat Diklik",
+      "row3Eyebrow": "Pengujian Integrasi & Skalabilitas",
+      "row3Title": "Integrasi Sistem Kompleks Mengurangi Risiko",
+      "row3P1": "Temukan hambatan teknis, keterbatasan API, dan kendala kinerja sebelum komitmen modal penuh. Tim teknisi percontohan kami menguji integrasi, pipeline data, dan API pihak ketiga di lingkungan sandbox yang terisolasi.",
+      "row3P2": "Mitigasi risiko proaktif ini memastikan ketersediaan sistem yang tinggi, kepatuhan keamanan, dan jadwal pengembangan yang dapat diprediksi saat mentransisikan PoC Anda ke produksi perusahaan.",
+      "row3Cap": "Integrasi Sandbox & Pengujian Stres",
+      "row4Eyebrow": "Percontohan Produksi Terkendali",
+      "row4Title": "Peluncuran Percontohan & Validasi Kasus Bisnis yang Ditargetkan",
+      "row4P1": "Terapkan rilis percontohan yang ditargetkan ke segmen pengguna tertentu atau pasar uji. Lacak metrik kinerja, analisis adopsi pengguna, dan umpan balik operasional untuk mengukur nilai bisnis dan membangun kasus bisnis yang didukung data.",
+      "row4P2": "Dengan wawasan percontohan di dunia nyata, sponsor eksekutif mendapatkan metrik ROI yang jelas untuk membenarkan penerapan yang lebih luas dan investasi transformasi digital strategis.",
+      "row4Cap": "Penerapan Terkendali & Telemetri Kinerja",
+      "pillarsTitle": "Prinsip Teknik Percontohan Kami",
+      "pillarsSub": "Prinsip panduan yang mengubah ketidakpastian teknis menjadi kesuksesan bisnis yang dapat diprediksi.",
+      "pillar1Title": "Pembuatan Prototipe PoC & MVP",
+      "pillar1Desc": "Memberikan prototipe fungsional dengan cepat untuk memvalidasi proposisi nilai di awal siklus hidup.",
+      "pillar2Title": "Kelayakan & Validasi",
+      "pillar2Desc": "Verifikasi kompatibilitas API, ambang batas throughput, dan batasan kepatuhan di lingkungan sandbox.",
+      "pillar3Title": "Penilaian Skalabilitas",
+      "pillar3Desc": "Simulasikan beban produksi untuk menetapkan batas kapasitas dan menentukan ukuran arsitektur cloud.",
+      "pillar4Title": "Validasi Kasus Bisnis",
+      "pillar4Desc": "Mengukur ROI nyata dan metrik produktivitas untuk mendukung keputusan peluncuran di seluruh perusahaan.",
+      "ctaTitle": "Siap memvalidasi solusi digital Anda berikutnya?",
+      "ctaSub": "Terhubung dengan tim teknik solusi kami untuk mengeksplorasi kebutuhan proyek Anda, membuat prototipe, dan menguji kelayakan tanpa risiko.",
+      "ctaButton": "Pesan Konsultasi PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Pusat Operasi Terpusat",
+      "titlePart1": "Layanan Bersama &",
+      "titlePart2": "Operasi Terkelola",
+      "description": "Pengiriman teknologi dan kemampuan operasional terpusat di seluruh unit bisnis melalui proses terstandarisasi, sumber daya terampil, kerangka tata kelola, manajemen layanan, dan tingkat layanan terukur.",
+      "bookDiscovery": "Buku Penemuan Operasi Terkelola",
+      "exploreFramework": "Jelajahi Kerangka Solusi",
+      "coreCapabilities": [
+        "Layanan Terkelola",
+        "Operasi TI",
+        "Dukungan Aplikasi",
+        "Manajemen Pelayanan",
+        "Optimasi Sumber Daya",
+        "Manajemen SLA",
+        "Tata Kelola",
+        "Peningkatan Berkesinambungan",
+        "Optimasi Biaya"
+      ],
+      "row1Eyebrow": "Pusat Pengiriman Terpadu",
+      "row1Title": "Layanan Terstandar di Semua Unit Bisnis",
+      "row1P1": "Konsolidasikan TI back-office, manajemen infrastruktur, dan dukungan teknis ke dalam satu pusat pengiriman dengan efisiensi tinggi.",
+      "row1P2": "Dengan menghilangkan overhead tim yang duplikat dan menstandardisasi model pemberian layanan, organisasi Anda menjamin kualitas yang konsisten dan menurunkan total pengeluaran operasional.",
+      "row2Eyebrow": "SRE & Dukungan Aplikasi 24/7",
+      "row2Title": "Pemantauan Proaktif & Resolusi Insiden Cepat",
+      "row2P1": "Site Reliability Engineers (SRE) dan spesialis dukungan kami yang berdedikasi menyediakan pemantauan telemetri 24/7/365, triase peringatan otomatis, dan penyelesaian masalah L1/L2/L3 yang cepat.",
+      "row2P2": "Didukung oleh komitmen SLA yang ketat, kami menjamin ketersediaan 99,99% untuk aplikasi penting dan infrastruktur cloud Anda.",
+      "row3Eyebrow": "Tata Kelola & Kepatuhan ITIL",
+      "row3Title": "Kerangka Manajemen Layanan Terstruktur",
+      "row3P1": "Menerapkan standar ITSM terdepan di industri (ServiceNow, Jira Service Management) dengan tiket transparan, analisis akar penyebab, dan pagar pembatas manajemen perubahan.",
+      "row3P2": "Jalur audit dan kebijakan tata kelola yang komprehensif memastikan operasi Anda tetap mematuhi standar keamanan internasional.",
+      "row4Eyebrow": "FinOps & Peningkatan Berkelanjutan",
+      "row4Title": "Penganggaran & Pengoptimalan Sumber Daya yang Dapat Diprediksi",
+      "row4P1": "Hilangkan pemborosan cloud, optimalkan ukuran komputasi, dan otomatisasi pemeliharaan operasional rutin dengan praktik terbaik FinOps.",
+      "row4P2": "Laporan transparansi bulanan dan perkiraan kapasitas memastikan optimalisasi biaya operasional yang berkelanjutan dan efisiensi modal yang tinggi.",
+      "pillarsTitle": "Pilar Operasi",
+      "pillarsSub": "Pengungkit operasional yang terbukti untuk skalabilitas perusahaan yang dapat diandalkan.",
+      "pillar1Title": "Operasi TI Terkelola 24/7",
+      "pillar1Desc": "Telemetri NOC proaktif, patching server, pemeliharaan infrastruktur, dan jaminan uptime 99,99%.",
+      "pillar2Title": "ITSM & Meja Layanan",
+      "pillar2Desc": "Meja bantuan multisaluran tingkat 1/2/3, perutean insiden, dan alur kerja resolusi tiket terstruktur.",
+      "pillar3Title": "SLA & Kontrol Kinerja",
+      "pillar3Desc": "Waktu respons yang didukung kontrak, tolok ukur MTTR, dan audit kinerja bulanan yang transparan.",
+      "pillar4Title": "FinOps & Optimasi Biaya",
+      "pillar4Desc": "Penyesuaian sumber daya berkelanjutan, reklamasi lisensi, dan pengurangan biaya cloud otomatis.",
+      "ctaTitle": "Siap Menskalakan Operasi Terkelola Anda?",
+      "ctaSub": "Bermitra dengan Rezonants untuk layanan terkelola 24/7 yang andal yang mengoptimalkan biaya dan menghilangkan waktu henti operasional.",
+      "ctaButton": "Pesan Konsultasi Operasi Terkelola",
+      "howItWorksHeading": "Jalur yang terbukti menuju kesuksesan layanan bersama"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotika",
+      "eyebrow": "Sistem cerdas",
+      "heroHeading": "AI & Robotika bekerja sama",
+      "intro": "Kecerdasan Buatan (AI) dan Robotika mengubah cara bisnis beroperasi dengan menggabungkan pengambilan keputusan yang cerdas dengan otomatisasi tingkat lanjut. AI memungkinkan mesin menganalisis data, mempelajari pola, dan membuat keputusan cerdas, sementara robotika menghadirkan kemampuan ini ke dunia fisik untuk melakukan tugas dengan cepat, akurat, dan konsisten.",
+      "section1Heading": "Dibangun untuk menyederhanakan setiap operasi",
+      "section1Text": "Solusi AI dan Robotika kami membantu organisasi menyederhanakan operasi, mengurangi upaya manual, dan meningkatkan produktivitas di berbagai industri. Mulai dari otomatisasi proses dan analisis prediktif hingga robotika cerdas dan sistem cerdas, kami menghadirkan teknologi inovatif yang meningkatkan efisiensi, mendorong pertumbuhan, dan mendukung transformasi digital.",
+      "section2Heading": "Dimana kecerdasan bertemu dengan tindakan",
+      "section2Text": "Setiap interaksi, keputusan, dan pergerakan didukung oleh satu sistem yang terhubung — mengubah data menjadi hasil secara real-time.",
+      "footerTag": "Teknologi inovatif untuk transformasi digital"
+    },
+    "informationReporting": {
+      "brand": "Platform Data Perusahaan",
+      "heroTitle": "Sistem Informasi & Pelaporan",
+      "heroSubtitle": "Satu sumber kebenaran untuk setiap departemen — dibuat untuk mengubah data operasional mentah menjadi keputusan yang dapat diambil oleh bisnis Anda saat ini.",
+      "statusLive": "LANGSUNG",
+      "statusAnalyzed": "DIANALISIS",
+      "statusArchived": "DIARSIPKAN",
+      "statusPending": "TERTUNDA",
+      "metricUptime": "Waktu Aktif Sistem",
+      "metricSessions": "Sesi Aktif",
+      "metricReportsPerDay": "Laporan / Hari",
+      "metricEvents": "Peristiwa Tertelan Harian",
+      "metricReports": "Laporan Terjadwal",
+      "metricLatency": "Latensi API",
+      "unifiedPlatform": "Platform Terpadu",
+      "analyticsSuite": "Rangkaian Analisis",
+      "reportingConsole": "Konsol Pelaporan",
+      "businessOutcome": "Hasil Bisnis",
+      "section1Heading": "Satu sistem terpusat untuk setiap metrik yang penting",
+      "section1P1": "Sistem Informasi & Pelaporan adalah solusi bisnis penting yang memungkinkan organisasi mengumpulkan, mengelola, dan mengubah data menjadi wawasan yang bermakna. Sistem ini mengintegrasikan informasi dari berbagai departemen, memastikan akses yang akurat, konsisten, dan real-time ke data bisnis penting. Dengan menyediakan platform terpusat untuk manajemen informasi, organisasi dapat meningkatkan visibilitas operasional, menyederhanakan alur kerja, dan mendukung pengambilan keputusan strategis di semua tingkatan perusahaan.",
+      "section1P2": "Sistem ini menggunakan pelaporan otomatis, analitik, dan dasbor untuk melacak kinerja, memantau metrik utama, dan menghasilkan laporan waktu nyata. Dengan mengurangi upaya manual dan meningkatkan akurasi data, bisnis dapat mengambil keputusan lebih cepat dan efektif.",
+      "section2Heading": "Dibuat untuk visibilitas, kepatuhan, dan skala",
+      "section2Text": "Dengan peningkatan visibilitas, kepatuhan, dan kolaborasi, Sistem Informasi & Pelaporan memungkinkan organisasi mengoptimalkan proses, meningkatkan produktivitas, dan mendorong pertumbuhan bisnis berkelanjutan dalam lingkungan yang kompetitif.",
+      "ctaHeading": "Berikan gambaran bisnis real-time yang sama kepada setiap tim.",
+      "ctaText": "Lihat bagaimana Nexus Data Systems dapat menggabungkan pelaporan Anda ke dalam satu platform cerdas.",
+      "footerCopyright": "© 2026 Sistem Data Nexus. Semua hak dilindungi undang-undang.",
+      "navOverview": "Ikhtisar",
+      "navCapabilities": "Kemampuan",
+      "navImpact": "Dampak",
+      "navContact": "Kontak"
+    },
+    "managedServices": {
+      "subtitle": "Layanan terkelola yang komprehensif untuk bisnis Anda"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernisasi Aplikasi Bisnis untuk Perusahaan Berbasis Data",
+      "excerpt": "Bagaimana arsitektur aplikasi modern dan data yang terhubung dapat meningkatkan efisiensi operasional, skalabilitas, dan visibilitas bisnis.",
+      "tag": "Transformasi Bisnis",
+      "category": "TRANSFORMASI BISNIS",
+      "summary": "Aplikasi modern dan landasan data dapat membantu perusahaan meningkatkan efisiensi operasional, menghubungkan sistem bisnis, dan menciptakan visibilitas yang lebih baik di seluruh operasi mereka."
+    },
+    "artificial-intelligence": {
+      "title": "Bagaimana AI Membentuk Kembali Aplikasi Perusahaan",
+      "excerpt": "Jelajahi bagaimana otomatisasi cerdas, kopilot AI, dan kecerdasan prediktif menjadi bagian dari aplikasi perusahaan yang diandalkan oleh bisnis setiap hari.",
+      "tag": "Kecerdasan Buatan",
+      "category": "KECERDASAN BUATAN",
+      "summary": "Jelajahi bagaimana otomatisasi cerdas, kopilot AI, dan kecerdasan prediktif mengubah perangkat lunak perusahaan sehari-hari menjadi platform yang adaptif dan proaktif."
+    },
+    "modern-erp": {
+      "title": "Mempercepat Transformasi Bisnis dengan ERP Modern",
+      "excerpt": "Jelajahi bagaimana platform ERP modern menghubungkan keuangan, pengadaan, rantai pasokan, dan operasi bisnis melalui landasan digital terpadu.",
+      "tag": "ERP modern",
+      "category": "ERP MODERN",
+      "summary": "Platform ERP modern menghubungkan keuangan, pengadaan, rantai pasokan, dan operasi bisnis ke dalam model operasi real-time yang terpadu."
+    },
+    "cybersecurity": {
+      "title": "Membangun Ketahanan Siber di Perusahaan yang Terhubung",
+      "excerpt": "Jelajahi bagaimana organisasi dapat memperkuat keamanan, melindungi sistem penting, dan bersiap menghadapi ancaman di lingkungan yang semakin terhubung.",
+      "tag": "Keamanan siber",
+      "category": "KEAMANAN SIBER",
+      "summary": "Ketika perusahaan mengintegrasikan lebih banyak sistem cloud, API, dan ekosistem mitra, ketahanan dunia maya memastikan operasi penting dapat bertahan dari ancaman modern."
+    },
+    "cloud-modernization": {
+      "title": "Memodernisasi Aplikasi Lama untuk Cloud",
+      "excerpt": "Jelajahi pendekatan praktis untuk menilai, memodernisasi, dan memindahkan aplikasi lama menuju arsitektur cloud yang skalabel dan aman.",
+      "tag": "Cloud & Modernisasi",
+      "category": "CLOUD & MODERNISASI",
+      "summary": "Peta jalan yang terstruktur dan pragmatis untuk menilai, memfaktorkan ulang, dan memigrasikan sistem perusahaan monolitik ke arsitektur cloud yang elastis dan dapat dipelihara."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "TRANSFORMASI BISNIS",
+      "title": "Modernisasi Aplikasi Bisnis untuk Perusahaan Berbasis Data",
+      "subtitle": "Aplikasi modern dan landasan data dapat membantu perusahaan meningkatkan efisiensi operasional, menghubungkan sistem bisnis, dan menciptakan visibilitas yang lebih baik di seluruh operasi mereka.",
+      "date": "September 2026",
+      "readTime": "7 menit membaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Arsitektur Aplikasi & Data Terhubung",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Aplikasi Bisnis",
+          "desc": "CRM, ERP, dan alat departemen yang berbeda-beda berjalan secara terpisah."
+        },
+        {
+          "title": "Berbagai Sumber Data",
+          "desc": "Tabel operasional terfragmentasi, ekstrak CSV, dan skema ad-hoc."
+        },
+        {
+          "title": "Database Terputus",
+          "desc": "Repositori data cloud lokal yang terisolasi dan tidak terkoordinasi."
+        },
+        {
+          "title": "Laporan & Pengguna Bisnis",
+          "desc": "Rekonsiliasi manual, spreadsheet yang bertentangan, dan pelaporan yang tertunda."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Aplikasi Bisnis",
+          "desc": "Platform operasional inti dan antarmuka responsif modern."
+        },
+        {
+          "title": "API / Lapisan Integrasi",
+          "desc": "Gerbang API yang aman dan berbasis peristiwa yang menghubungkan alur kerja perusahaan."
+        },
+        {
+          "title": "Layanan Data",
+          "desc": "Model data master terpadu, saluran pipa, dan mesin penyimpanan yang dioptimalkan."
+        },
+        {
+          "title": "Analisis & Pelaporan",
+          "desc": "Telemetri waktu nyata, model semantik, dan pelaporan otomatis."
+        },
+        {
+          "title": "Pengambil Keputusan Bisnis",
+          "desc": "Dasbor operasional langsung memberikan visibilitas eksekutif terpadu."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Aplikasi Perusahaan",
+          "purpose": "Manajemen proses bisnis"
+        },
+        {
+          "area": "API",
+          "purpose": "Integrasi sistem"
+        },
+        {
+          "area": "Basis Data",
+          "purpose": "Data bisnis terstruktur"
+        },
+        {
+          "area": "Integrasi Data",
+          "purpose": "Menghubungkan berbagai sumber"
+        },
+        {
+          "area": "Analisis",
+          "purpose": "Wawasan bisnis"
+        },
+        {
+          "area": "Infrastruktur Cloud",
+          "purpose": "Skalabilitas dan fleksibilitas"
+        },
+        {
+          "area": "Pemantauan",
+          "purpose": "Keandalan dan kinerja"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Peningkatan visibilitas operasional di seluruh unit lintas fungsi",
+        "Konsistensi data yang lebih baik dan satu sumber kebenaran perusahaan",
+        "Mengurangi upaya pelaporan manual dan kompilasi data otomatis",
+        "Peningkatan kinerja aplikasi dan pengurangan latensi transaksi",
+        "Integrasi sistem yang lebih mudah melalui API yang terstandarisasi dan aman",
+        "Skalabilitas yang lebih besar untuk mendukung pertumbuhan dan akuisisi organik",
+        "Landasan yang lebih baik untuk inovasi masa depan dan adopsi kecerdasan"
+      ],
+      "keyPerspectivePoints": [
+        "Memahami proses bisnis dan alur kerja operasional nyata",
+        "Menghubungkan sistem melalui standar integrasi yang dapat diandalkan",
+        "Meningkatkan kualitas data, tata kelola, dan model data master",
+        "Memodernisasi aplikasi tanpa mengganggu kestabilan operasional sehari-hari",
+        "Menciptakan arsitektur terukur yang cocok untuk pertumbuhan elastis",
+        "Memungkinkan visibilitas bisnis yang lebih baik untuk pengambilan keputusan yang proaktif"
+      ],
+      "sec1Eyebrow": "TANTANGAN BISNIS",
+      "sec1Heading": "Menavigasi Kompleksitas dalam Perusahaan yang Berkembang",
+      "sec1Subtext": "Seiring dengan berkembangnya bisnis, ekosistem teknologi pasti akan berkembang. Apa yang awalnya merupakan solusi terfokus untuk masing-masing departemen dapat berkembang menjadi jaringan sistem yang berbeda-beda.",
+      "sec2Eyebrow": "EVOLUSI SISTEM",
+      "sec2Heading": "Lanskap Teknologi yang Kompleks",
+      "sec2Subtext": "Jejak aplikasi lama menyebabkan fragmentasi di seluruh penyimpanan data, pengalaman pengguna, dan visibilitas operasional.",
+      "sec3Eyebrow": "MODEL TERHUBUNG",
+      "sec3Heading": "Arsitektur Aplikasi Modern",
+      "sec3Subtext": "Transisi dari silo monolitik ke layanan terpisah yang saling terhubung dengan API aman dan streaming data berbasis peristiwa.",
+      "sec4Eyebrow": "KECERDASAN & VISIBILITAS",
+      "sec4Heading": "Data & Analisis yang Terhubung",
+      "sec4Subtext": "Membuka silo data untuk mendukung pelaporan otomatis, dasbor terpadu, dan keputusan bisnis proaktif.",
+      "sec5Eyebrow": "CETAK BIRU ARSITEKTUR",
+      "sec5Heading": "Yayasan Teknologi",
+      "sec5Subtext": "Tampilan terstruktur dari lapisan arsitektur utama yang memungkinkan konektivitas dan skalabilitas di seluruh perusahaan.",
+      "sec6Eyebrow": "NILAI KUALITATIF",
+      "sec6Heading": "Dampak Bisnis",
+      "sec6Subtext": "Keuntungan operasional terukur yang dihasilkan melalui modernisasi aplikasi dan landasan data yang terhubung.",
+      "ctaHeading": "Siap Memodernisasi Lansekap Aplikasi Perusahaan Anda?",
+      "ctaDescription": "Jelajahi bagaimana Rezonants dapat bermitra dengan pimpinan Anda untuk merancang, membangun, dan menerapkan platform aplikasi terpadu dan saluran data modern.",
+      "ctaButton": "Bicaralah dengan Arsitek Perusahaan",
+      "sec1P1": "Dalam lingkungan perusahaan pada umumnya, pertumbuhan sering kali memperkenalkan beberapa generasi perangkat lunak. Keuangan, rantai pasokan, layanan pelanggan, dan operasi lapangan sering kali beroperasi pada tumpukan perangkat lunak terpisah yang diperoleh atau dibangun pada waktu berbeda. Selama bertahun-tahun evolusi operasional, sistem ini mengembangkan format datanya sendiri, memperbarui irama, dan keunikan integrasi.",
+      "sec1P2": "Permasalahan ini terjadi di seluruh perusahaan melalui hambatan operasional yang umum terjadi:",
+      "sec1List": [
+        {
+          "bold": "Beberapa aplikasi bisnis yang terputus",
+          "text": "yang memerlukan entri data duplikat dan referensi silang manual."
+        },
+        {
+          "bold": "Database terputus",
+          "text": "beroperasi tanpa tata kelola terpusat atau catatan induk terpadu."
+        },
+        {
+          "bold": "Overhead pelaporan manual",
+          "text": ", di mana tim analitis menghabiskan waktu berhari-hari untuk menyatukan ekspor dibandingkan mengungkap wawasan."
+        },
+        {
+          "bold": "Inkonsistensi data",
+          "text": "lintas departemen, menciptakan jawaban yang bertentangan terhadap pertanyaan operasional mendasar."
+        },
+        {
+          "bold": "Batasan overhead dan skalabilitas pemeliharaan aplikasi",
+          "text": ", karena koneksi point-to-point lama yang rapuh berjuang untuk mendukung pertumbuhan volume transaksi."
+        }
+      ],
+      "sec1P3": "Untuk mengatasi tantangan-tantangan ini diperlukan pandangan terhadap lanskap teknologi bukan sebagai kumpulan pembelian perangkat lunak yang terisolasi, namun sebagai platform bisnis yang saling terhubung yang dirancang untuk mendukung ketangkasan strategis.",
+      "legacyLandscapeBadge": "Garis Dasar Warisan",
+      "legacyLandscapeTitle": "Arus Informasi Terfragmentasi",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silo Data",
+          "desc": "Data pelanggan, keuangan, dan inventaris yang penting masih terjebak dalam platform departemen, sehingga menghalangi satu pandangan terpadu mengenai operasi bisnis."
+        },
+        {
+          "num": "02",
+          "title": "Kesenjangan Integrasi",
+          "desc": "Koneksi titik-ke-titik dan ekstrak batch setiap malam menciptakan latensi, tingkat kegagalan yang tinggi, dan overhead pemeliharaan yang mahal di seluruh tim operasional."
+        },
+        {
+          "num": "03",
+          "title": "Informasi Tertunda",
+          "desc": "Ketika para eksekutif harus menunggu berhari-hari untuk melakukan rekonsiliasi di akhir bulan guna memahami kinerja, pengambilan keputusan bersifat reaktif dan bukan prediktif."
+        }
+      ],
+      "modernArchitectureBadge": "Arsitektur Sasaran",
+      "modernArchitectureTitle": "Model Aplikasi Perusahaan yang Terhubung",
+      "sec3P1": "Arsitektur aplikasi modern menggantikan koneksi point-to-point yang rapuh dengan fondasi yang tangkas dan terpisah. Dengan membangun API yang kuat dan lapisan integrasi, sistem berinteraksi melalui titik akhir yang aman dan tertata sambil menjaga otonomi masing-masing unit bisnis.",
+      "sec3P2": "Kemampuan teknis utama dari perubahan arsitektur ini meliputi:",
+      "sec3List": [
+        {
+          "bold": "Modernisasi aplikasi:",
+          "text": "Memisahkan logika bisnis inti ke dalam layanan modular yang dapat diskalakan."
+        },
+        {
+          "bold": "Integrasi API:",
+          "text": "Membangun antarmuka terstandar dan terdokumentasi untuk interoperabilitas internal dan mitra."
+        },
+        {
+          "bold": "Integrasi data & optimalisasi basis data:",
+          "text": "Menyatukan alur data operasional dengan optimalisasi kueri throughput tinggi."
+        },
+        {
+          "bold": "Observabilitas & keamanan:",
+          "text": "Menerapkan telemetri terpusat, jalur audit, dan kontrol akses berbasis peran di seluruh layanan."
+        }
+      ],
+      "sec4P1": "Landasan data terintegrasi mengubah cara tim kepemimpinan dan operasional berinteraksi dengan informasi. Daripada mengandalkan laporan retrospektif yang menunjukkan apa yang terjadi beberapa minggu lalu, organisasi mendapatkan telemetri operasional langsung di seluruh unit bisnis.",
+      "sec4P2": "Data dan analisis yang terhubung mendukung hasil bisnis yang berkelanjutan melalui:",
+      "sec4List": [
+        {
+          "bold": "Visibilitas operasional:",
+          "text": "Transparansi berkelanjutan di seluruh penjualan, inventaris, pemenuhan, dan kinerja keuangan."
+        },
+        {
+          "bold": "Kecepatan pelaporan lebih cepat:",
+          "text": "Agregasi data sesuai permintaan yang menghilangkan spreadsheet manual yang berulang."
+        },
+        {
+          "bold": "Informasi yang konsisten:",
+          "text": "Definisi tunggal untuk metrik seperti margin, nilai umur pelanggan, dan kecepatan prospek."
+        },
+        {
+          "bold": "Wawasan bisnis yang lebih baik:",
+          "text": "Deteksi pola prediktif yang memunculkan risiko dan peluang sebelumnya."
+        },
+        {
+          "bold": "Peningkatan pengambilan keputusan:",
+          "text": "Tindakan eksekutif yang percaya diri didukung oleh silsilah data yang tervalidasi dan transparansi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PERSPEKTIF STRATEGIS",
+      "keyPerspectiveTitle": "Modernisasi Lebih Dari Sekadar Penggantian Perangkat Lunak",
+      "keyPerspectiveLead": "Modernisasi aplikasi bisnis bukan sekadar mengganti perangkat lunak lama dengan alat baru. Ini adalah penyelarasan teknologi yang disengaja dengan cara bisnis beroperasi, berkembang, dan memberikan nilai."
+    },
+    "artificialIntelligence": {
+      "category": "KECERDASAN BUATAN",
+      "title": "Bagaimana AI Membentuk Kembali Aplikasi Perusahaan",
+      "subtitle": "Jelajahi bagaimana otomatisasi cerdas, kopilot AI, dan kecerdasan prediktif menjadi bagian dari aplikasi perusahaan yang diandalkan oleh bisnis setiap hari.",
+      "date": "September 2026",
+      "readTime": "6 menit membaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Kecerdasan Asli & Alur Kerja Otomatis",
+      "aiUseCases": [
+        {
+          "title": "Peramalan Rantai Pasokan",
+          "desc": "Memprediksi lonjakan permintaan dan penundaan logistik dari riwayat telemetri pemasok."
+        },
+        {
+          "title": "Audit Faktur Otomatis",
+          "desc": "Mengekstraksi item baris dan mencocokkannya dengan pesanan pembelian tanpa entri manusia."
+        },
+        {
+          "title": "Meja Layanan Cerdas",
+          "desc": "Triase dan penyelesaian otomatis permintaan TI dan SDM karyawan Tier-1."
+        },
+        {
+          "title": "Pencegahan Churn Pelanggan",
+          "desc": "Pengelompokan perilaku mengidentifikasi sinyal gesekan awal untuk penjangkauan proaktif."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Keputusan operasional yang lebih cepat didorong oleh model prediktif waktu nyata",
+        "Pengurangan pemrosesan data berulang dan rekonsiliasi manual",
+        "Throughput karyawan yang lebih tinggi dengan bantuan kopilot kontekstual",
+        "Meningkatkan kepuasan pelanggan melalui pengalaman yang sangat dipersonalisasi",
+        "Proses optimasi mandiri yang berkelanjutan berdasarkan telemetri nyata",
+        "Pelacakan kepatuhan tidak berisiko melalui pemeriksaan log audit otomatis"
+      ],
+      "governancePoints": [
+        "Akses berbasis peran yang ketat memastikan model AI tidak pernah membocorkan data sensitif",
+        "Jejak penalaran yang transparan memungkinkan peninjauan manusia atas tindakan bernilai tinggi",
+        "Evaluasi model berkelanjutan untuk mencegah halusinasi dan bias",
+        "Standar asal data yang ketat dan selaras dengan GDPR, SOC 2, dan HIPAA",
+        "Jalur eskalasi human-in-the-loop untuk kondisi tepi yang tidak menentu"
+      ],
+      "sec1Eyebrow": "PERGESERAN MENUJU KECERDASAN ASLI",
+      "sec1Heading": "AI dalam Aplikasi Perusahaan",
+      "sec1Subtext": "Kecerdasan buatan bergerak melampaui eksperimen mandiri ke dalam struktur inti sistem perusahaan sehari-hari.",
+      "sec2Eyebrow": "OTOMATISASI DALAM SKALA",
+      "sec2Heading": "Otomatisasi Cerdas",
+      "sec2Subtext": "Mengganti rutinitas berbasis aturan yang rapuh dengan alur kerja kognitif yang menafsirkan dokumen, mengarahkan pengecualian, dan beradaptasi.",
+      "sec3Eyebrow": "BANTUAN TERTANAM",
+      "sec3Heading": "Kopilot AI Perusahaan",
+      "sec3Subtext": "Asisten peka konteks yang tertanam dalam aplikasi bisnis untuk membantu pekerja pengetahuan dalam analisis data, dokumentasi, dan pertanyaan operasional.",
+      "sec4Eyebrow": "ALASAN BERMANFAAT KE DEPAN",
+      "sec4Heading": "Kecerdasan Prediktif",
+      "sec4Subtext": "Peralihan dari laporan retrospektif ke belakang ke mesin pengambilan keputusan proaktif yang mengantisipasi gangguan operasional.",
+      "sec5Eyebrow": "APLIKASI DUNIA NYATA",
+      "sec5Heading": "Kasus Penggunaan AI Perusahaan",
+      "sec5Subtext": "Aplikasi yang terbukti memberikan peningkatan efisiensi terukur di seluruh domain operasional perusahaan.",
+      "sec6Eyebrow": "NILAI STRATEGIS",
+      "sec6Heading": "Keuntungan Bisnis",
+      "sec6Subtext": "Peningkatan produktivitas nyata dan ketangkasan operasional diwujudkan melalui adopsi AI perusahaan.",
+      "ctaHeading": "Siap Mengintegrasikan AI Asli ke dalam Aplikasi Bisnis Anda?",
+      "ctaDescription": "Terhubung dengan praktik AI Rezonants untuk merancang, mengevaluasi, dan menerapkan kopilot AI perusahaan dan mesin otomatisasi cerdas.",
+      "ctaButton": "Konsultasikan dengan Pakar AI",
+      "sec1P1": "Selama bertahun-tahun, kecerdasan buatan perusahaan diperlakukan sebagai kemampuan eksternal: model yang dilatih secara terpisah, demonstrasi sandbox, atau chatbot terisolasi yang dapat diakses melalui portal terpisah. Saat ini, paradigma tersebut telah berubah secara mendasar. AI perusahaan yang berdampak tinggi tertanam langsung di dalam sistem pencatatan—ERP, CRM, platform sumber daya manusia, dan mesin rantai pasokan tempat bisnis nyata berlangsung.",
+      "sec1P2": "Ketika intelijen beroperasi di dalam sistem pencatatan, intelijen mewarisi batasan keamanan, model data, dan logika bisnis yang ditetapkan organisasi. Hal ini tidak hanya menghasilkan tanggapan umum; ia bertindak berdasarkan pesanan langsung, menafsirkan tiket dukungan terbuka, merekonsiliasi faktur pemasok, dan membantu karyawan dalam antarmuka persis seperti yang mereka navigasikan setiap hari.",
+      "sec1P3": "Transformasi ini mengubah perangkat lunak perusahaan dari basis data pasif yang menunggu manusia menekan tombol menjadi platform proaktif yang mengantisipasi kebutuhan, mengotomatiskan langkah-langkah, dan memberikan rekomendasi tepat waktu.",
+      "sec2P1": "Otomatisasi Proses Robotik (RPA) Tradisional unggul dalam pengikisan layar yang deterministik dan berulang. Namun, rangkaian aturan yang kaku akan rusak setiap kali formulir berubah, tata letak dokumen yang tidak terduga muncul, atau terjadi pengecualian. Otomatisasi cerdas menjembatani kesenjangan ini dengan menggabungkan penalaran kognitif dengan eksekusi transaksional:",
+      "sec2List": [
+        {
+          "bold": "Otomatisasi alur kerja:",
+          "text": "Mengatur operasi lintas departemen yang kompleks, mengarahkan tugas berdasarkan urgensi dan jalur penyelesaian historis."
+        },
+        {
+          "bold": "Pemrosesan dokumen yang cerdas:",
+          "text": "Menyerap PDF, email, manifes pengiriman, dan kontrak yang tidak terstruktur, mengubahnya menjadi transaksi database terstruktur."
+        },
+        {
+          "bold": "Otomatisasi tugas cerdas:",
+          "text": "Mengotomatiskan validasi operasional multi-langkah—seperti mencocokkan pesanan pembelian dengan tanda terima dan laporan bank."
+        },
+        {
+          "bold": "Pengoptimalan proses:",
+          "text": "Terus menganalisis log proses untuk mengidentifikasi hambatan waktu siklus dan merekomendasikan penyempurnaan alur kerja yang ditargetkan."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Pencarian Informasi",
+          "desc": "Pengambilan semantik di seluruh basis pengetahuan terdistribusi, kebijakan intranet, spesifikasi produk, dan resolusi tiket historis tanpa menebak-nebak kata kunci."
+        },
+        {
+          "icon": "📝",
+          "title": "Peringkasan Dokumen",
+          "desc": "Penyulingan instan RFP yang panjang, perjanjian vendor, spesifikasi teknis, dan amandemen hukum menjadi ringkasan eksekutif dan daftar periksa risiko yang dapat ditindaklanjuti."
+        },
+        {
+          "icon": "✨",
+          "title": "Pembuatan Konten",
+          "desc": "Membantu penyusunan proposal klien, dokumentasi operasional, prosedur operasi standar (SOP), dan pembaruan pelanggan terstandarisasi yang selaras dengan standar merek."
+        },
+        {
+          "icon": "📈",
+          "title": "Analisis Data",
+          "desc": "Menerjemahkan pertanyaan percakapan menjadi pertanyaan analitis yang kompleks, menghasilkan ringkasan bagan langsung dan menyoroti outlier penting bagi kepemimpinan."
+        },
+        {
+          "icon": "🔄",
+          "title": "Alur Kerja Bisnis",
+          "desc": "Memulai transaksi langsung dari perintah obrolan—seperti menjadwalkan sumber daya, membuat tiket, memperbarui catatan, atau mengirimkan daftar permintaan pembelian."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Akses Berdasarkan Peran",
+          "desc": "Memastikan respons kopilot secara ketat menghormati tingkat izin pengguna, menjaga kerahasiaan keuangan, file SDM, dan kekayaan intelektual dilindungi."
+        }
+      ],
+      "sec4P1": "Meskipun model generatif unggul dalam memahami dan mensintesis bahasa, kecerdasan prediktif berfokus pada pola matematika yang tersembunyi dalam kumpulan data perusahaan terstruktur. Model prediktif yang tertanam memberdayakan organisasi untuk mengantisipasi hambatan operasional sebelum mengganggu operasional:",
+      "sec4List": [
+        {
+          "bold": "Perkiraan operasional:",
+          "text": "Memprediksi tren pendapatan, kecepatan inventaris, dan permintaan sumber daya dengan mensintesis indikator musiman dengan kecepatan jalur pipa secara real-time."
+        },
+        {
+          "bold": "Analisis prediktif:",
+          "text": "Menunjukkan dengan tepat risiko churn pelanggan, siklus penurunan pemeliharaan, dan penundaan rantai pasokan selagi masih ada waktu untuk melakukan intervensi."
+        },
+        {
+          "bold": "Identifikasi risiko:",
+          "text": "Menandai anomali dalam transaksi keuangan, catatan kepatuhan, dan pola pengadaan vendor sebelum hal tersebut meningkat."
+        },
+        {
+          "bold": "Prediksi permintaan:",
+          "text": "Menyelaraskan perkiraan penjualan dengan kapasitas produksi dan tingkat stok gudang untuk melindungi modal kerja."
+        }
+      ],
+      "keyPerspectiveEyebrow": "TATA KELOLA PERUSAHAAN",
+      "keyPerspectiveTitle": "Kepercayaan, Pengawasan & Pagar Pembatas",
+      "keyPerspectiveLead": "AI hanya dapat diandalkan jika fondasi data yang mendasarinya dan tata kelola di sekitarnya dapat diandalkan. Adopsi perusahaan yang berkelanjutan memerlukan disiplin arsitektur yang disengaja:"
+    },
+    "modernErp": {
+      "category": "ERP MODERN",
+      "title": "Mempercepat Transformasi Bisnis dengan ERP Modern",
+      "subtitle": "Jelajahi bagaimana platform ERP modern menghubungkan keuangan, pengadaan, rantai pasokan, dan operasi bisnis melalui landasan digital terpadu.",
+      "date": "September 2026",
+      "readTime": "7 menit membaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — ERP Terhubung & Ketangkasan Operasional",
+      "connectedFunctions": [
+        {
+          "title": "Manajemen Keuangan",
+          "desc": "Pembaruan buku besar secara real-time, pengakuan pendapatan otomatis, dan rekonsiliasi multi-mata uang secara instan."
+        },
+        {
+          "title": "Rantai Pasokan & Logistik",
+          "desc": "Visibilitas inventaris menyeluruh, optimalisasi gudang, dan telemetri kinerja pemasok."
+        },
+        {
+          "title": "Sumber Daya Manusia & Tenaga Kerja",
+          "desc": "Portal karyawan mandiri, proses penggajian otomatis, dan perencanaan siklus hidup talenta terintegrasi."
+        },
+        {
+          "title": "Pengadaan & Pengadaan",
+          "desc": "Persetujuan pembelian otomatis, kepatuhan kontrak vendor, dan analisis pembelanjaan dinamis."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Arsitektur Cloud-Native",
+          "desc": "Penskalaan komputasi elastis tanpa overhead infrastruktur di lokasi atau penguncian versi yang mengganggu."
+        },
+        {
+          "title": "Buka Ekosistem API",
+          "desc": "Konektor siap pakai memungkinkan sinkronisasi data dua arah yang lancar dengan layanan mikro khusus dan rangkaian CRM."
+        },
+        {
+          "title": "Analisis Tertanam",
+          "desc": "Penelusuran dasbor langsung dari neraca tingkat tinggi ke dalam log transaksi individual."
+        },
+        {
+          "title": "Pemicu Alur Kerja Otomatis",
+          "desc": "Peristiwa yang didorong oleh peristiwa memicu pelaksanaan operasi standar lintas departemen secara mandiri."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Sumber kebenaran tunggal yang menghilangkan laporan departemen yang saling bertentangan",
+        "Pengurangan drastis pada siklus penutupan akhir bulan dan akhir kuartal",
+        "Visibilitas inventaris dan logistik real-time meminimalkan kehabisan stok",
+        "Mengurangi overhead pemeliharaan TI melalui pembaruan cloud-native modular",
+        "Pelacakan kepatuhan terpadu di seluruh yurisdiksi pajak multi-regional",
+        "Orientasi entitas yang diakuisisi ke tulang punggung operasional bersama lebih cepat"
+      ],
+      "erpStrategyPoints": [
+        "Menyelaraskan arsitektur ERP dengan alur kerja operasional inti sebelum konfigurasi",
+        "Memilih model penerapan modular untuk mewujudkan pencapaian pencapaian yang cepat",
+        "Memprioritaskan migrasi dan rekonsiliasi data master berkualitas tinggi",
+        "Menanamkan manajemen perubahan otomatis dan program pelatihan yang disesuaikan dengan peran",
+        "Merancang gateway API untuk perluasan integrasi di masa depan tanpa hambatan"
+      ],
+      "sec1Eyebrow": "TULANG PUNGGUNG OPERASIONAL",
+      "sec1Heading": "Mengapa ERP Modern Penting",
+      "sec1Subtext": "Efisiensi perusahaan bergantung pada sinkronisasi data yang lancar di bidang keuangan, pengadaan, operasi, dan sumber daya manusia.",
+      "sec2Eyebrow": "EKOSISTEM TERINTEGRASI",
+      "sec2Heading": "Fungsi Bisnis yang Terhubung",
+      "sec2Subtext": "Menghancurkan silo departemen tradisional untuk memungkinkan data transaksional mengalir secara instan ke seluruh unit bisnis.",
+      "sec3Eyebrow": "HARMONI LINTAS FUNGSIONAL",
+      "sec3Heading": "Operasi Terpadu & Arus Informasi",
+      "sec3Subtext": "Tulang digital yang terhubung memastikan bahwa kontrak penjualan segera memperbarui pesanan rantai pasokan dan buku besar keuangan.",
+      "sec4Eyebrow": "TELEMETRI PERUSAHAAN",
+      "sec4Heading": "Visibilitas Bisnis Real-Time",
+      "sec4Subtext": "Kecerdasan operasional langsung menggantikan spreadsheet retrospektif yang tertunda dengan indikator kinerja langsung.",
+      "sec5Eyebrow": "ARSITEKTUR PLATFORM INTI",
+      "sec5Heading": "Kemampuan ERP Modern",
+      "sec5Subtext": "Fondasi arsitektur yang membedakan platform cloud tangkas dari sistem monolitik lama.",
+      "sec6Eyebrow": "DAMPAK KUALITATIF",
+      "sec6Heading": "Keuntungan Bisnis",
+      "sec6Subtext": "Kecepatan organisasi, transparansi, dan efisiensi biaya yang nyata dapat dicapai melalui platform ERP modern.",
+      "ctaHeading": "Siap Memodernisasi ERP Spine Perusahaan Anda?",
+      "ctaDescription": "Temukan bagaimana Rezonants dapat membantu Anda menjangkau, mengkonfigurasi, dan mengintegrasikan platform ERP modular yang disesuaikan dengan operasi bisnis Anda.",
+      "ctaButton": "Bicaralah dengan Arsitek ERP",
+      "sec1P1": "Dalam lanskap perusahaan yang bergerak cepat, sistem Perencanaan Sumber Daya Perusahaan tradisional sering kali mengalami kesulitan. Dibangun di era pemrosesan batch dan server lokal yang terisolasi, ERP lama sangat disesuaikan, sulit untuk ditingkatkan, dan sangat buram. Operasi bisnis penting berfungsi secara paralel, mengandalkan ekspor semalam yang rapuh untuk menyinkronkan buku besar dengan gudang.",
+      "sec1P2": "ERP cloud-native yang modern secara mendasar mengubah dinamika ini. Ini beroperasi sebagai tulang punggung digital terpadu suatu perusahaan—fondasi hidup di mana keuangan, pengadaan, rantai pasokan, inventaris, dan sumber daya manusia bertransaksi pada model data bersama.",
+      "sec1P3": "Dengan membawa operasi inti ke dalam satu lingkungan yang selaras, ERP modern menghilangkan titik-titik buta operasional yang memperlambat pertumbuhan, memungkinkan para pemimpin untuk mengarahkan bisnis menggunakan sinyal real-time daripada ringkasan sejarah yang membosankan.",
+      "sec3P1": "Silo operasional jarang menimbulkan masalah bagi manusia; itu adalah masalah arsitektur. Saat tim layanan pelanggan, pengadaan, dan gudang bekerja dalam aplikasi yang tidak terhubung, setiap penyerahan memerlukan email manual, spreadsheet, dan panggilan telepon. Kesalahan berlipat ganda, faktur tertahan, dan komitmen pelanggan meleset.",
+      "sec3P2": "ERP modern mengatasi hal ini melalui silsilah data terpadu dan orkestrasi proses berbasis peristiwa:",
+      "sec3List": [
+        {
+          "bold": "Pesanan-ke-tunai yang disinkronkan:",
+          "text": "Saat pesanan pelanggan dilakukan, inventaris akan dicadangkan secara otomatis, label pengiriman dibuat, dan buku besar penagihan diperbarui secara instan."
+        },
+        {
+          "bold": "Transparansi pengadaan hingga pembayaran:",
+          "text": "Pesanan pembelian, kuitansi barang, dan faktur vendor dicocokkan secara otomatis dengan rekonsiliasi 3 arah, hanya menandai pengecualian untuk peninjauan manusia."
+        },
+        {
+          "bold": "Penggabungan biaya tenaga kerja dan operasional:",
+          "text": "Timesheet proyek, alokasi penggajian, dan pengeluaran operasional langsung dipetakan langsung ke pusat biaya secara real time."
+        }
+      ],
+      "sec4P1": "Mengoperasikan suatu perusahaan tanpa visibilitas terpadu seperti terbang dalam kabut tebal dengan instrumen yang tertunda. ERP modern menyediakan telemetri real-time di setiap dimensi bisnis:",
+      "sec4List": [
+        {
+          "bold": "Dasbor eksekutif langsung:",
+          "text": "Tampilan instan atas margin kotor, arus kas operasi, kewajiban terbuka, dan simpanan pesanan tanpa menunggu penutupan akhir periode."
+        },
+        {
+          "bold": "Pelaporan operasional swalayan:",
+          "text": "Kepala departemen dapat membuat kueri khusus dan menelusuri ringkasan tingkat perusahaan hingga item baris transaksi individual."
+        },
+        {
+          "bold": "Informasi master terpusat:",
+          "text": "Menghilangkan angka-angka yang bertentangan dengan menetapkan data master tunggal yang diatur untuk pelanggan, vendor, dan katalog produk."
+        },
+        {
+          "bold": "Peringatan anomali proaktif:",
+          "text": "Peringatan otomatis memberi tahu manajer segera ketika margin turun di bawah ambang batas, persediaan hampir habis, atau pengiriman pemasok menurun."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOSOFI TRANSFORMASI ERP",
+      "keyPerspectiveTitle": "Modernisasi Pragmatis Atas Perombakan Monolitik",
+      "keyPerspectiveLead": "Transformasi ERP modern berhasil ketika organisasi memperlakukannya sebagai peningkatan operasi yang evolusioner dan bukan gangguan TI yang semuanya atau tidak sama sekali:"
+    },
+    "cybersecurity": {
+      "category": "KEAMANAN SIBER",
+      "title": "Membangun Ketahanan Siber di Perusahaan yang Terhubung",
+      "subtitle": "Jelajahi bagaimana organisasi dapat memperkuat keamanan, melindungi sistem penting, dan bersiap menghadapi ancaman di lingkungan yang semakin terhubung.",
+      "date": "September 2026",
+      "readTime": "8 menit membaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Pertahanan Ancaman & Arsitektur Zero-Trust",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetri & Deteksi",
+          "desc": "Penyerapan log waktu nyata dan korelasi anomali SIEM di semua titik akhir dan beban kerja cloud."
+        },
+        {
+          "title": "Penahanan & Isolasi",
+          "desc": "Aturan karantina jaringan otomatis mengisolasi kontainer atau kredensial yang disusupi secara instan."
+        },
+        {
+          "title": "Remediasi & Akar Penyebab",
+          "desc": "Peluncuran patch yang cepat dan forensik digital yang mengidentifikasi vektor pelanggaran yang tepat."
+        },
+        {
+          "title": "Ketahanan & Pengerasan",
+          "desc": "Umpan balik berkelanjutan terhadap cadangan yang tidak dapat diubah, pagar pembatas kebijakan, dan simulasi tim merah otomatis."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Pengurangan substansial dalam serangan kerentanan terjadi di seluruh aset cloud",
+        "Jaminan kelangsungan operasional dan pemulihan bencana dengan RTO/RPO minimal",
+        "Keyakinan kepatuhan total di seluruh audit ISO 27001, SOC 2, HIPAA, dan GDPR",
+        "Perlindungan kekayaan intelektual perusahaan inti dan catatan rahasia pelanggan",
+        "Tata kelola risiko vendor dan pihak ketiga yang disederhanakan melalui kontrol akses terpadu",
+        "Peningkatan kepercayaan klien dan investor yang didukung oleh postur keamanan zero-trust yang terverifikasi"
+      ],
+      "zeroTrustPrinciples": [
+        "Jangan Pernah Percaya, Selalu Verifikasi: Otentikasi eksplisit diperlukan untuk setiap transaksi",
+        "Akses dengan Hak Istimewa Terkecil: Batasan peran yang terperinci membatasi pergerakan ancaman lateral",
+        "Asumsikan Pelanggaran: Pemantauan ancaman berkelanjutan, enkripsi saat transit dan saat istirahat",
+        "Segmentasi Mikro: Firewall jaringan mengisolasi beban kerja aplikasi individual",
+        "Telemetri Berkelanjutan: Analisis perilaku otomatis menandai permintaan sesi yang tidak wajar"
+      ],
+      "sec1Eyebrow": "PERIMETER PERLUASAN",
+      "sec1Heading": "Lanskap Keamanan Perusahaan yang Terhubung",
+      "sec1Subtext": "Ketika perusahaan mengadopsi layanan cloud, tim jarak jauh yang terdistribusi, dan perangkat IoT, batasan keamanan tradisional menjadi hilang.",
+      "sec2Eyebrow": "PERTAHANAN KOMPREHENSIF",
+      "sec2Heading": "Perlindungan Ancaman Berlapis",
+      "sec2Subtext": "Mengkoordinasikan intelijen ancaman, pemindaian kerentanan, dan respons insiden otomatis di seluruh rangkaian teknologi.",
+      "sec3Eyebrow": "PERBATASAN KEAMANAN BARU",
+      "sec3Heading": "Manajemen Identitas & Akses (IAM)",
+      "sec3Subtext": "Identitas adalah bidang kendali utama. Akses granular, MFA, dan SSO memastikan hanya entitas utama yang berwenang yang mengakses sistem bisnis.",
+      "sec4Eyebrow": "PARADIGMA ARSITEKTUR",
+      "sec4Heading": "Mengungkap Misteri Arsitektur Zero Trust",
+      "sec4Subtext": "Pola pikir keamanan dasar yang didasarkan pada verifikasi berkelanjutan, otorisasi eksplisit, dan asumsi kompromi.",
+      "sec5Eyebrow": "TATA KELOLA INFRASTRUKTUR",
+      "sec5Heading": "Pertimbangan Keamanan Cloud",
+      "sec5Subtext": "Mengatasi model tanggung jawab bersama, Infrastruktur sebagai pagar pembatas Kode, dan perlindungan runtime Kubernetes.",
+      "sec6Eyebrow": "KETAHANAN OPERASIONAL",
+      "sec6Heading": "Kesiapan Insiden: Melampaui Pencegahan",
+      "sec6Subtext": "Mempersiapkan runbook terstruktur, latihan penahanan otomatis, dan cadangan pemulihan bencana yang tidak dapat diubah untuk ketahanan operasional total.",
+      "sec7Eyebrow": "NILAI STRATEGIS",
+      "sec7Heading": "Keuntungan Bisnis",
+      "sec7Subtext": "Ketahanan perusahaan, verifikasi kepatuhan, dan perlindungan reputasi merek diwujudkan melalui pertahanan siber modern.",
+      "ctaHeading": "Siap Memperkuat Ketahanan Siber Perusahaan Anda?",
+      "ctaDescription": "Berkolaborasi dengan praktik keamanan Rezonants untuk mengaudit arsitektur, menerapkan kerangka kerja Zero Trust, dan melindungi sistem yang sangat penting.",
+      "ctaButton": "Konsultasikan dengan Arsitek Cyber",
+      "sec1P1": "Di era TI perusahaan yang lama, keamanan beroperasi berdasarkan doktrin kastil dan parit: semua yang ada di dalam jaringan kantor perusahaan dianggap tepercaya, sementara semua yang ada di luar dianggap tidak tepercaya. Firewall perusahaan tunggal melindungi server internal, database, dan komputer desktop.",
+      "sec1P2": "Perusahaan saat ini telah melampaui batas fisiknya. Beban kerja berada di lingkungan multi-cloud (AWS, Azure, GCP), karyawan mengakses aplikasi bisnis dari beragam lokasi, dan API terus-menerus bertukar data operasional sensitif dengan penyedia logistik eksternal, lembaga keuangan, dan vendor SaaS.",
+      "sec1P3": "Meskipun hiperkonektivitas ini mendorong ketangkasan bisnis yang luar biasa, hal ini memperluas jangkauan serangan perusahaan. Setiap titik akhir API, token identitas, perangkat seluler yang terhubung, dan integrasi SaaS mewakili vektor paparan potensial. Perlindungan perusahaan yang sesungguhnya memerlukan peralihan dari pertahanan berbasis perimeter ke ketahanan siber yang proaktif dan menyeluruh.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Deteksi Ancaman",
+          "desc": "Kecerdasan ancaman berbantuan pembelajaran mesin yang memantau pola jaringan anomali, penyalahgunaan kredensial, dan kerentanan zero-day secara real-time."
+        },
+        {
+          "icon": "📡",
+          "title": "Pemantauan Keamanan",
+          "desc": "Telemetri Pusat Operasi Keamanan Terpusat (SOC) yang menghubungkan peristiwa di seluruh server, kluster kontainer, penyedia identitas, dan titik akhir."
+        },
+        {
+          "icon": "🔍",
+          "title": "Manajemen Kerentanan",
+          "desc": "Pemindaian kerentanan otomatis yang berkelanjutan di seluruh infrastruktur, repositori kode sumber, dan registrasi kontainer untuk mengatasi kelemahan secara proaktif."
+        },
+        {
+          "icon": "🔒",
+          "title": "Perlindungan Data",
+          "desc": "Enkripsi yang kuat saat transit (TLS 1.3) dan saat diam (AES-256), serta tata kelola pencegahan kehilangan data granular (DLP) untuk mencegah kebocoran kekayaan intelektual."
+        }
+      ],
+      "sec3P1": "Melindungi aset perusahaan memerlukan kepastian bahwa setiap identitas—baik eksekutif manusia, kontraktor eksternal, atau akun layanan perangkat lunak otonom—telah memvalidasi otorisasi untuk sumber daya yang diaksesnya.",
+      "sec3List": [
+        {
+          "bold": "Manajemen identitas terpusat:",
+          "text": "Sistem Masuk Tunggal (SSO) dan standar identitas gabungan yang menghilangkan penyimpanan kata sandi yang terfragmentasi di seluruh aplikasi."
+        },
+        {
+          "bold": "Autentikasi multifaktor adaptif (MFA):",
+          "text": "Kunci perangkat keras FIDO2 yang tahan phishing dan tantangan kontekstual berbasis risiko untuk fungsi administratif yang sensitif."
+        },
+        {
+          "bold": "Kontrol akses terperinci:",
+          "text": "Kontrol akses Berbasis Peran (RBAC) dan Berbasis Atribut (ABAC) yang terperinci diterapkan di tingkat API dan basis data."
+        },
+        {
+          "bold": "Prinsip dengan hak istimewa paling kecil:",
+          "text": "Memberikan akses just-in-time (JIT) sementara yang habis masa berlakunya secara otomatis ketika tugas administratif selesai."
+        }
+      ],
+      "keyPerspectiveEyebrow": "DOKTRIN INTI NOL KEPERCAYAAN",
+      "keyPerspectiveTitle": "Verifikasi Berkelanjutan Atas Kepercayaan Buta",
+      "keyPerspectiveLead": "Dalam arsitektur Zero Trust, kepercayaan implisit berdasarkan lokasi jaringan dihilangkan seluruhnya. Setiap transaksi, query database, dan login pengguna harus terus membuktikan keabsahannya:",
+      "cloudSecurityCards": [
+        {
+          "title": "Tanggung Jawab Bersama",
+          "desc": "Tata kelola yang jelas membedakan keamanan infrastruktur fisik penyedia cloud dari tanggung jawab perusahaan atas enkripsi data, kebijakan IAM, dan kode aplikasi."
+        },
+        {
+          "title": "Infrastruktur sebagai Kode (IaC)",
+          "desc": "Konfigurasi cloud yang tidak dapat diubah dan diaudit, dikelola melalui kode. Pemindai kebijakan sebagai kode otomatis memblokir kesalahan konfigurasi dan bucket yang terbuka sebelum penerapan."
+        },
+        {
+          "title": "Keamanan Kontainer & Kubernetes",
+          "desc": "Waktu proses container yang diperkeras, registrasi gambar yang ditandatangani, segmentasi mikro jaringan, dan manajemen rahasia otomatis yang menjaga kredensial keluar dari repositori sumber."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "CLOUD & MODERNISASI",
+      "title": "Memodernisasi Aplikasi Lama untuk Cloud",
+      "subtitle": "Jelajahi pendekatan praktis untuk menilai, memodernisasi, dan memindahkan aplikasi lama menuju arsitektur cloud yang skalabel dan aman.",
+      "date": "September 2026",
+      "readTime": "6 menit membaca",
+      "imageCaption": "Perspektif Teknologi Perusahaan — Platforming Ulang & Kontainerisasi Cloud-Native",
+      "modernizationApproaches": [
+        {
+          "title": "Rehosting (Angkat & Geser)",
+          "desc": "Transisi beban kerja ke mesin virtual cloud dengan cepat dengan sedikit modifikasi kode."
+        },
+        {
+          "title": "Replatform (Angkat & Bentuk Ulang)",
+          "desc": "Tingkatkan kerangka runtime, adopsi database cloud terkelola, dan sederhanakan operasi."
+        },
+        {
+          "title": "Pemfaktoran Ulang (Pembuatan Ulang Cloud-Native)",
+          "desc": "Dekonstruksi monolit menjadi layanan mikro dalam container dan API tanpa server yang digerakkan oleh peristiwa."
+        },
+        {
+          "title": "Ganti (Modernisasi SaaS)",
+          "desc": "Hentikan sistem lama yang berlebihan demi mendukung perangkat lunak cloud perusahaan yang dibuat khusus."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Penilaian Warisan",
+          "desc": "Pemetaan ketergantungan otomatis, pembuatan katalog utang teknis, dan penilaian kesiapan cloud."
+        },
+        {
+          "title": "Arsitektur Sasaran",
+          "desc": "Cetak biru layanan mikro modular, topologi container, dan template IaC otomatis."
+        },
+        {
+          "title": "Migrasi Bertahap",
+          "desc": "Rilis Canary, sinkronisasi data penulisan ganda, dan gelombang peralihan tanpa waktu henti."
+        },
+        {
+          "title": "Optimasi Cloud",
+          "desc": "Tata kelola biaya berkelanjutan, telemetri penskalaan otomatis, dan tinjauan operasional FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Mengurangi biaya pemeliharaan infrastruktur dan penyegaran perangkat keras secara eksponensial",
+        "Elastisitas komputasi yang hampir tak terbatas menangani lalu lintas perusahaan puncak dengan latensi nol",
+        "Kecepatan rilis yang dipercepat dengan pipeline penerapan CI/CD yang sepenuhnya otomatis",
+        "Penghapusan titik kegagalan tunggal yang lama dengan ketersediaan tinggi multi-AZ",
+        "Arsitektur API modern memungkinkan integrasi mitra lintas platform dengan cepat",
+        "Kemampuan observasi real-time tingkat lanjut terhadap kinerja aplikasi dan belanja cloud"
+      ],
+      "landscapeAssessmentPoints": [
+        "Memetakan ketergantungan antar aplikasi yang kompleks dan irama sinkronisasi data",
+        "Mengidentifikasi konfigurasi lingkungan hardcode dan skema database kepemilikan",
+        "Menilai kepatuhan terhadap peraturan dan batasan kedaulatan data per yurisdiksi",
+        "Menghitung Total Biaya Kepemilikan (TCO) yang realistis di seluruh jalur refactor versus rehosting",
+        "Membangun gelombang peluncuran yang jelas untuk melindungi operasi bisnis harian yang aktif"
+      ],
+      "sec1Eyebrow": "REALITAS SISTEM WARISAN",
+      "sec1Heading": "Tantangan Warisan",
+      "sec1Subtext": "Monolit yang sudah tua menghambat kecepatan inovasi, meningkatkan kerentanan operasional, dan meningkatkan biaya pemeliharaan infrastruktur.",
+      "sec2Eyebrow": "PENILAIAN & PENEMUAN",
+      "sec2Heading": "Memahami Lanskap Aplikasi",
+      "sec2Subtext": "Penemuan arsitektur yang ketat untuk memetakan ketergantungan data, versi perangkat lunak, dan ROI modernisasi sebelum migrasi.",
+      "sec3Eyebrow": "4 JALUR MODERNISASI",
+      "sec3Heading": "Pendekatan Modernisasi",
+      "sec3Subtext": "Memilih pola migrasi yang tepat untuk setiap beban kerja: rehosting, replatforming, refactoring, atau penggantian.",
+      "sec4Eyebrow": "MODEL TRANSFORMASI TARGET",
+      "sec4Heading": "Arsitektur Cloud Modern",
+      "sec4Subtext": "Merancang layanan mikro yang tangguh, database terkelola, dan jalur penerapan otomatis yang sesuai untuk skalabilitas tinggi.",
+      "sec5Eyebrow": "HASIL TRANSFORMASI",
+      "sec5Heading": "Manfaat Utama Modernisasi",
+      "sec5Subtext": "Keuntungan ketangkasan, pengurangan biaya, dan keandalan yang signifikan dihasilkan oleh transformasi cloud-native.",
+      "ctaHeading": "Siap Memodernisasi Aplikasi Lama Anda untuk Cloud?",
+      "ctaDescription": "Bermitra dengan arsitek cloud Rezonants untuk mengevaluasi ketergantungan, membangun peta jalan migrasi, dan mentransisikan sistem Anda dengan aman.",
+      "ctaButton": "Bicaralah dengan Pakar Cloud",
+      "sec1P1": "Aplikasi-aplikasi penting yang dibangun satu dekade lalu masih menghasilkan miliaran pendapatan perusahaan, namun kekakuan arsitekturalnya menciptakan risiko operasional yang semakin besar.",
+      "sec1P2": "Setiap perusahaan menghadapi ketegangan antara stabilitas dan modernisasi. Sistem lama dirancang untuk ketahanan, dan kinerjanya dapat diandalkan selama bertahun-tahun. Namun, seiring dengan semakin cepatnya kebutuhan bisnis, arsitektur yang menua ini menghadapi batasan struktural:",
+      "sec1List": [
+        {
+          "bold": "Tumpukan perangkat lunak yang menua:",
+          "text": "Basis kode monolitik dibangun di atas kerangka kerja yang tidak digunakan lagi dengan semakin berkurangnya kumpulan talenta yang tersedia untuk pemeliharaan."
+        },
+        {
+          "bold": "Siklus pemeliharaan yang sulit:",
+          "text": "Komponen yang digabungkan secara erat sehingga mengubah satu fitur berisiko merusak modul operasional yang tidak terkait."
+        },
+        {
+          "bold": "Skalabilitas terbatas:",
+          "text": "Batas penskalaan vertikal yang memerlukan pembelian perangkat keras berpemilik yang mahal untuk menangani lonjakan lalu lintas musiman."
+        },
+        {
+          "bold": "Tantangan integrasi:",
+          "text": "Ketidakmampuan untuk berinteraksi dengan lancar dengan aplikasi seluler modern, portal pelanggan, atau API mitra tanpa skrip batch yang rapuh."
+        },
+        {
+          "bold": "Kendala infrastruktur:",
+          "text": "Siklus hidup ruang server fisik, kerentanan cadangan, dan pengeluaran operasional daya/pendinginan yang tinggi."
+        }
+      ],
+      "sec2P1": "Perjalanan modernisasi pragmatis dimulai dengan membangun kejelasan total di seluruh kawasan yang ada:",
+      "sec2List": [
+        {
+          "bold": "Aplikasi:",
+          "text": "Membuat katalog semua beban kerja aktif, modul khusus, skrip latar belakang, dan paket pihak ketiga historis."
+        },
+        {
+          "bold": "Ketergantungan:",
+          "text": "Memetakan penggabungan runtime yang kompleks, tabel database bersama, panggilan sistem file langsung, dan kontrak layanan eksternal."
+        },
+        {
+          "bold": "Data:",
+          "text": "Mengevaluasi struktur data, persyaratan integritas transaksional, irama cadangan, dan aturan kedaulatan peraturan."
+        },
+        {
+          "bold": "Infrastruktur:",
+          "text": "Mengaudit CPU, memori, pemanfaatan penyimpanan, dan throughput jaringan untuk menentukan spesifikasi cloud target dengan ukuran yang tepat."
+        },
+        {
+          "bold": "Kekritisan bisnis:",
+          "text": "Mengkategorikan aplikasi ke dalam tingkatan untuk merancang gelombang migrasi yang aman dan bertahap dengan prosedur fallback yang jelas."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Keuntungan:",
+      "cloudArchitectureBadge": "Siklus Hidup Modernisasi",
+      "cloudArchitectureTitle": "Alur Modernisasi Cloud End-to-End",
+      "sec4P1": "Arsitektur tujuan memisahkan aplikasi inti menjadi layanan modular dan terkontainer yang dihosting pada platform cloud elastis (seperti Kubernetes atau runtime tanpa server terkelola).",
+      "sec4P2": "Dengan menetapkan jalur penerapan CI/CD otomatis, peralihan biru-hijau otomatis, dan infrastruktur sebagai kode, penerapan berubah dari acara akhir pekan yang menegangkan menjadi rutinitas sehari-hari yang lancar.",
+      "sec4P3": "Komputasi elastis secara otomatis ditingkatkan selama lonjakan permintaan dan diturunkan selama jeda, menghilangkan biaya sumber daya yang menganggur sekaligus menjamin waktu respons sub-detik untuk pengguna global.",
+      "keyPerspectiveEyebrow": "PRAKTIK TERBAIK MODERNISASI",
+      "keyPerspectiveTitle": "Empat Pilar Migrasi yang Sukses",
+      "keyPerspectiveLead": "Pengalaman menunjukkan bahwa proyek modernisasi berhasil bila didasarkan pada persiapan yang komprehensif, pengurutan gelombang yang jelas, dan pengujian yang ketat:"
+    }
+  }
+}

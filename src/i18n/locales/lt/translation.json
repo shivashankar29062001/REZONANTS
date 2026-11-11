@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Apie",
+    "services": "Paslaugos",
+    "products": "Produktai",
+    "perspectives": "Perspektyvos",
+    "technologies": "Technologijos",
+    "contact": "Susisiekite",
+    "signIn": "Prisijunkite",
+    "signUp": "Užsiregistruokite",
+    "signOut": "Atsijungti",
+    "chooseLanguage": "Pasirinkite kalbą",
+    "searchLanguage": "Ieškoti kalba",
+    "resetEnglish": "Iš naujo nustatyti į anglų kalbą",
+    "noResults": "Kalbų nerasta",
+    "englishDefault": "anglų (numatytasis)",
+    "english": "anglų kalba"
+  },
+  "hero": {
+    "eyebrow": "„Rezonants“ – Haidarabadas",
+    "title": "Programinė įranga, sukurta taip, kaip veikia <em>jūsų verslas</em>.",
+    "description": "Rezonants yra IT paslaugų ir skaitmeninių produktų įmonė. Kuriame, kuriame ir keičiame pasirinktinę programinę įrangą, žiniatinklio ir mobiliuosius produktus, debesų infrastruktūrą ir dirbtinį intelektą – įmonėms, kurios konkuruoja dėl vykdymo.",
+    "bookConsultation": "Užsisakykite nemokamą konsultaciją",
+    "exploreServices": "Naršykite paslaugas",
+    "years": "metų",
+    "projects": "projektų",
+    "retention": "sulaikymas",
+    "location": "Madhapuras, Haidarabadas",
+    "since": "Rezonants — nuo 2012 m",
+    "metaStudio": "Skaitmeninių gaminių studija",
+    "metaTech": "Žiniatinklis · Mobilusis · Debesis · AI"
+  },
+  "about": {
+    "eyebrow": "Apie mus",
+    "title": "Skaitmeninių sprendimų kūrimas, <em>kurie skatina verslą į priekį</em>",
+    "description": "„Rezonants“ yra technologijų sprendimų įmonė, kurios tikslas – padėti įmonėms idėjas paversti prasminga skaitmenine patirtimi. Sujungiame technologijas, kūrybiškumą ir verslo supratimą, kad pateiktume sprendimus, sukurtus atsižvelgiant į realaus pasaulio poreikius.<br /><br />Nuo skaitmeninės transformacijos ir tinkintos programinės įrangos kūrimo iki debesų, dirbtinio intelekto, automatizavimo ir valdomų technologijų paslaugų, padedame organizacijoms supaprastinti sudėtingumą, pagerinti efektyvumą ir sukurti ilgalaikę skaitmeninę vertę.<br /><br /><strong>Mūsų požiūris yra paprastas – suprasti, kas yra problema, ir kurti technologijas.</strong>",
+    "awardWinning": "Laimėtas apdovanojimas",
+    "awardText": "Pripažinta už nepriekaištingą žiniatinklio ir mobiliųjų produktų inžinerijos kokybę.",
+    "professionalStaff": "Profesionalus personalas",
+    "staffText": "Vyresnieji, atskaitingi inžinieriai, kuriems priklauso darbas nuo pirmojo skambučio iki pat pradžių.",
+    "support247": "Palaikymas visą parą",
+    "supportText": "Valdomos paslaugos ir pagalbos linija, kuri atsakys, kai to prireiks.",
+    "fairPrices": "Sąžiningos kainos",
+    "pricesText": "Sąžiningi įvertinimai ir skaidrus atsiskaitymas už kiekvieną įsipareigojimą.",
+    "yearsExcellence": "Įmonės meistriškumo metai"
+  },
+  "stats": {
+    "happyClients": "Laimingi klientai",
+    "projectsDone": "Projektai atlikti",
+    "winAwards": "Laimėk apdovanojimus"
+  },
+  "insights": {
+    "eyebrow": "Perspektyvos",
+    "title": "Perspektyvos",
+    "sub": "Idėjų, tendencijų ir technologijų, formuojančių ateitį, tyrinėjimas.",
+    "filters": {
+      "all": "Viskas",
+      "digital-transformation": "Skaitmeninė transformacija",
+      "ai": "AI ir automatika",
+      "cloud": "Debesis",
+      "data": "Duomenys ir analizė",
+      "software": "Programinė įranga",
+      "business": "Verslas ir technologijos"
+    },
+    "readMore": "Skaityti daugiau",
+    "close": "Uždaryti",
+    "keyTakeaways": "Pagrindiniai architektūros pasiūlymai",
+    "relatedServices": "Susijusios galimybės ir paslaugos",
+    "minRead": "min",
+    "item1Date": "2026 m. liepos mėn",
+    "item1Tag": "Produktas ir ERP",
+    "item1Title": "Modulinis ERP metodas augančioms įmonėms",
+    "item1Text": "Kaip struktūrizuojame ERP įsipareigojimus, kad finansai, atsargos, žmogiškieji ištekliai ir pirkimai būtų sklandžiai integruoti be kelerių metų trukdžių.",
+    "item2Date": "2026 m. birželio mėn",
+    "item2Tag": "Dirbtinis intelektas",
+    "item2Title": "Agentinės AI sistemos: perėjimas nuo pokalbių robotų prie savarankiško vykdymo",
+    "item2Text": "Sukurti koordinuotas kelių agentų LLM sistemas, kurios planuoja, patvirtina ir vykdo sudėtingas verslo darbo eigas, prižiūrint žmogiškąją grandinę.",
+    "item3Date": "2026 m. gegužės mėn",
+    "item3Tag": "Įmonės etapas",
+    "item3Title": "Pripažinta tarp pirmaujančių IT inovacijų studijų Haidarabade",
+    "item3Text": "Mūsų inžinerijos studija buvo pripažinta už pristatymo meistriškumą, giliųjų technologijų galimybes ir klientų pasitenkinimą visame pasaulyje gaminių inžinerijos srityje.",
+    "desc": "Ištirkite „Rezonants“ idėjas ir perspektyvas apie skaitmeninę transformaciją, dirbtinį intelektą, automatizavimą, debesį, duomenis, programinę įrangą ir verslo technologijų ateitį.",
+    "categories": {
+      "digitalTransformation": "Skaitmeninė transformacija",
+      "ai": "AI ir automatika",
+      "cloud": "Debesis",
+      "data": "Duomenys ir analizė",
+      "software": "Programinė įranga",
+      "business": "Verslas ir technologijos"
+    }
+  },
+  "technologies": {
+    "title": "Technologijos ir architektūra",
+    "headline": "Įmonių technologijų sprendimai",
+    "sub": "Išmanioji technologija. Automatizuotos operacijos. Protingesnis verslas.",
+    "selectTechnology": "Pasirinkite technologinį sprendimą…",
+    "options": {
+      "aiRobotics": "AI ir robotų sprendimai",
+      "businessAutomation": "Verslo automatizavimo sprendimai",
+      "cloudMigrations": "Debesų perkėlimo sprendimai",
+      "dataCenters": "Duomenų centro sprendimai",
+      "cognitiveAnalytics": "Kognityvinė analizė ir AI",
+      "informationReporting": "Informacinės ir ataskaitų teikimo sistemos",
+      "managedServices": "Valdomos paslaugos",
+      "oneStopSolutions": "Vieno langelio technologijos sprendimai"
+    },
+    "explore": "Tyrinėkite technologijas",
+    "bookDiscovery": "Knygų technologijų atradimas",
+    "exploreAll": "Naršykite visas technologijas",
+    "coreCapabilities": "Pagrindinės technologijos galimybės",
+    "bookConsultation": "Užsisakykite konsultaciją"
+  },
+  "contact": {
+    "eyebrow": "Susisiekite",
+    "title": "Kalbėkitės su vyresniuoju inžinieriumi, o ne su pardavimo scenarijumi",
+    "sub": "Pasidalinkite šiek tiek apie savo projektą ir mes atsakysime per vieną darbo dieną.",
+    "reachUs": "Susisiekite su mumis tiesiogiai",
+    "preferConversation": "Norite pokalbio? Esame vieno skambučio atstumu.",
+    "contactLede": "Greičiausias būdas judėti pirmyn yra trumpas pokalbis. Susisiekite su mumis bet kuriuo žemiau esančiu kanalu arba užsisakykite vietą ir mes atvyksime pas jus pasiruošę.",
+    "phone": "Tel",
+    "email": "El",
+    "office": "Biuras",
+    "hours": "Valandos",
+    "hoursValue": "Pirm.–Še., 9:30–18:30 IST",
+    "bookSlot": "Užsisakykite konsultacijos vietą",
+    "sendMessage": "Atsiųskite mums žinutę",
+    "fieldsRequired": "Laukai, pažymėti *, yra privalomi.",
+    "fullName": "Visas vardas *",
+    "emailLabel": "El. paštas *",
+    "company": "Įmonė",
+    "subject": "Tema",
+    "messageLabel": "Žinutė *",
+    "sending": "Siunčiamas…",
+    "sendBtn": "Siųsti žinutę",
+    "successMsg": "Žinutė išsiųsta! Kopija jums išsiųsta el. paštu.",
+    "errorMsg": "Nepavyko išsaugoti jūsų pranešimo. Patikrinkite, ar yra lentelė contact_messages, tada bandykite dar kartą.",
+    "offices": {
+      "vijayawada": "Vijayawada biuras",
+      "southAfrica": "Pietų Afrikos biuras"
+    },
+    "placeholders": {
+      "fullName": "Visas jūsų vardas",
+      "email": "you@company.com",
+      "company": "Jūsų įmonė ar organizacija",
+      "subject": "Kaip galime padėti?",
+      "message": "Papasakokite apie savo projektą, laiko juostą ir tikslus..."
+    },
+    "validation": {
+      "fullNameRequired": "Įveskite savo vardą ir pavardę.",
+      "emailRequired": "Įveskite savo el. pašto adresą.",
+      "emailInvalid": "Įveskite galiojantį el. pašto adresą.",
+      "messageRequired": "Įveskite žinutę."
+    }
+  },
+  "services": {
+    "eyebrow": "Paslaugos",
+    "title": "Ką mes darome",
+    "sub": "Nuo strategijos iki valdomų operacijų – teikiame visapusiškas technologijų partnerystes įmonėms, kurios konkuruoja dėl vykdymo.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Nuo pradžios iki diegimo",
+        "description": "Visiškas naujų skaitmeninių sprendimų kūrimas nuo verslo reikalavimų ir sprendimų architektūros iki kūrimo, integravimo, testavimo, diegimo ir nuolatinio palaikymo."
+      },
+      "businessProcessAutomation": {
+        "label": "Verslo procesų automatizavimas",
+        "description": "Kurti ir įdiegti išmaniuosius automatizavimo sprendimus, kurie supaprastina verslo procesus, pašalina pasikartojančią rankinę veiklą, pagerina veiklos efektyvumą ir pagreitina verslo rezultatus."
+      },
+      "centerOfExcellence": {
+        "label": "Kompetencijos centras",
+        "description": "Specializuotų technologijų ir verslo galimybių centrų, teikiančių valdymą, standartus, kompetenciją, sistemas, daugkartinio naudojimo turtą ir nuolatinį tobulėjimą visoje organizacijoje, steigimas."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Individualizuotas kūrimas ir pritaikymas",
+        "description": "Programų, platformų, darbo eigos ir įmonės sprendimų kūrimas ir tobulinimas, siekiant patenkinti unikalius verslo reikalavimus ir teikti pritaikytas funkcijas."
+      },
+      "digitalTransformation": {
+        "label": "Skaitmeninė transformacija",
+        "description": "Verslo operacijų, technologijų ekosistemų ir klientų patirties modernizavimas naudojant debesis, dirbtinį intelektą, automatizavimą, duomenis ir modernias taikomųjų programų technologijas."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Sprendimų sistema nuo pabaigos iki galo",
+        "description": "Išsamus pristatymo metodas, apimantis visą technologijos gyvavimo ciklą – nuo strategijos, reikalavimų ir architektūros iki kūrimo, integravimo, diegimo, valdymo, stebėjimo ir palaikymo."
+      },
+      "migrationModernization": {
+        "label": "Migracija ir modernizavimas",
+        "description": "Saugus ir struktūrizuotas programų, duomenų, platformų, infrastruktūros ir darbo krūvių perkėlimas iš senos ar esamos aplinkos į modernias, keičiamo dydžio ir optimizuotas technologijų platformas."
+      },
+      "pocPilotImplementation": {
+        "label": "Koncepcijos įrodymas (PoC) ir bandomasis įgyvendinimas",
+        "description": "Spartus technologinių sprendimų kūrimas ir patvirtinimas, siekiant įvertinti technines galimybes, verslo vertę, integracijos reikalavimus, našumą ir mastelio keitimą prieš visapusį įgyvendinimą."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Bendros paslaugos ir valdomos operacijos",
+        "description": "Centralizuotas technologijų ir veiklos pajėgumų pristatymas visuose verslo padaliniuose naudojant standartizuotus procesus, kvalifikuotus išteklius, valdymo sistemas, paslaugų valdymą ir išmatuojamus paslaugų lygius."
+      },
+      "customDevelopment": {
+        "label": "Nuo pradžios iki diegimo",
+        "description": "Visiškas naujų skaitmeninių sprendimų kūrimas nuo verslo reikalavimų ir sprendimų architektūros iki kūrimo, integravimo, testavimo, diegimo ir nuolatinio palaikymo."
+      },
+      "processAutomation": {
+        "label": "Verslo procesų automatizavimas",
+        "description": "Kuriame ir įgyvendiname išmaniuosius automatizavimo sprendimus, kurie supaprastina verslo procesus, pašalina pasikartojančią rankinę veiklą, pagerina veiklos efektyvumą ir pagreitina verslo rezultatus."
+      },
+      "solutionEngineering": {
+        "label": "Individualus kūrimas ir pritaikymas",
+        "description": "Programų, platformų, darbo eigos ir įmonės sprendimų kūrimas ir tobulinimas, siekiant patenkinti unikalius verslo reikalavimus ir teikti pritaikytas funkcijas."
+      },
+      "endToEndSolutions": {
+        "label": "Sprendimų sistema nuo pabaigos iki galo",
+        "description": "Išsamus pristatymo metodas, apimantis visą technologijos gyvavimo ciklą – nuo strategijos, reikalavimų ir architektūros iki kūrimo, integravimo, diegimo, valdymo, stebėjimo ir palaikymo."
+      },
+      "migrationServices": {
+        "label": "Migracija ir modernizavimas",
+        "description": "Saugus ir struktūrizuotas programų, duomenų, platformų, infrastruktūros ir darbo krūvių perkėlimas iš senos arba esamos aplinkos į modernias, keičiamo dydžio ir optimizuotas technologijų platformas."
+      },
+      "pilotPrototyping": {
+        "label": "Koncepcijos įrodymas (PoC) ir bandomasis įgyvendinimas",
+        "description": "Spartus technologinių sprendimų kūrimas ir patvirtinimas, siekiant įvertinti technines galimybes, verslo vertę, integracijos reikalavimus, našumą ir mastelio keitimą prieš visapusį įgyvendinimą."
+      },
+      "sharedServices": {
+        "label": "Bendros paslaugos ir valdomos operacijos",
+        "description": "Centralizuotas technologijų ir veiklos pajėgumų pristatymas visuose verslo padaliniuose naudojant standartizuotus procesus, kvalifikuotus išteklius, valdymo sistemas, paslaugų valdymą ir išmatuojamus paslaugų lygius."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Suplanuokite konsultaciją",
+      "exploreFramework": "Naršykite sprendimų sistemą",
+      "talkSeniorEngineer": "Pasikalbėkite su vyresniuoju inžinieriumi",
+      "exploreTechStack": "Naršykite technologijų krūvą",
+      "bookPocSession": "Užsisakykite „PoC Discovery“ sesiją",
+      "seeAllServices": "Žr. visas paslaugas",
+      "requestAssessment": "Prašykite migracijos įvertinimo",
+      "exploreCloudSolutions": "Naršykite debesies sprendimus"
+    },
+    "sharedServices": {
+      "heroBadge": "BENDROSIOS PASLAUGOS IR VALDOMOS OPERACIJOS",
+      "heroTitle": "Įmonės bendros paslaugos ir valdomos operacijos",
+      "heroDesc": "Padidinkite verslo galimybes, supaprastinkite kelių funkcijų darbo eigą ir pasiekite veiklos tobulumą naudodami standartizuotus, saugius ir ekonomiškus bendrų paslaugų modelius.",
+      "bookDiscovery": "Knygų valdomų operacijų atradimas",
+      "exploreFramework": "Naršykite sprendimų sistemą",
+      "coreCapabilities": "Pagrindinės galimybės:",
+      "managedServices": "Valdomos paslaugos",
+      "itOperations": "IT operacijos",
+      "appSupport": "Programų palaikymas",
+      "serviceManagement": "Paslaugų valdymas",
+      "resourceOptimization": "Išteklių optimizavimas",
+      "slaManagement": "SLA valdymas",
+      "governance": "Valdymas",
+      "continuousImprovement": "Nuolatinis tobulinimas",
+      "costOptimization": "Išlaidų optimizavimas",
+      "readyTitle": "Pasiruošę optimizuoti savo veiklą?",
+      "readyDesc": "Sužinokite, kaip mūsų bendrų paslaugų ir valdomų operacijų sistemos gali pagerinti paslaugų kokybę, užtikrinti veiklos tęstinumą ir tvarų jūsų įmonės sąnaudų efektyvumą.",
+      "scheduleSession": "Suplanuokite atradimo seansą"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SPRENDIMŲ INŽINERIJA IR ARCHITEKTŪRA",
+      "heroTitle": "Individualizuotas kūrimas ir pritaikymas",
+      "heroDesc": "Suprojektuokite, kurkite ir diegkite didelio našumo programinės įrangos sistemas, sukurtas specialiai jūsų darbo eigoms, duomenų srautams ir masto reikalavimams."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "GREITOS INOVACIJOS IR EKSPERIMENTAVIMAS",
+      "heroTitle": "Koncepcijos įrodymas (PoC) ir bandomasis įgyvendinimas",
+      "heroDesc": "Patvirtinkite naujas technologijas, pašalinkite sudėtingų architektūrų riziką ir įrodykite verslo vertę gamybiniais prototipais per savaites, o ne per ketvirčius."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "GYVENIMO CIKLO ARCHITEKTŪRA IR PRISTATYMAS",
+      "heroTitle": "Sprendimų sistema nuo pabaigos iki galo",
+      "heroDesc": "Vieningas pristatymo modelis, jungiantis produktų atradimą, sprendimo architektūrą, inžineriją, debesų infrastruktūrą ir visą parą veikiančias patikimumo operacijas."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTŪRA IR PASLĖDINIMO MODERNIZAVIMAS",
+      "heroTitle": "Migracija ir modernizavimas",
+      "heroDesc": "Sklandžiai perkelkite senus darbo krūvius, monolitinę architektūrą ir vietinę infrastruktūrą į modernias, saugias ir keičiamo dydžio debesų platformas."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Įmonės modernizavimas",
+        "titlePart1": "Skaitmeninis",
+        "titlePart2": "Transformacija",
+        "description": "Verslo operacijų, technologijų ekosistemų ir klientų patirties modernizavimas naudojant debesis, dirbtinį intelektą, automatizavimą, duomenis ir modernias taikomųjų programų technologijas.",
+        "bookWorkshop": "Knygų transformavimo dirbtuvės",
+        "exploreFramework": "Naršykite sprendimų sistemą",
+        "startTransformation": "Pradėti transformaciją",
+        "exploreStrategy": "Naršykite strategiją",
+        "coreCapabilitiesTitle": "Pagrindinės galimybės",
+        "coreCapabilities": [
+          "Skaitmeninė strategija",
+          "Debesų transformacija",
+          "AI ir automatika",
+          "Programų modernizavimas",
+          "Senasis modernizavimas",
+          "Duomenys ir analizė",
+          "Klientų patirtis",
+          "Technologijų modernizavimas"
+        ],
+        "row1Eyebrow": "Strategija ir veiksmų planas",
+        "row1Title": "Nuo vizijos iki vykdomo plano",
+        "row1P1": "Bendradarbiaujame su įmonių vadovais, siekdami apibrėžti skaitmeninę strategiją, verslo atvejus ir etapinius planus su greitais laimėjimais ir nerizikingu vykdymu.",
+        "row1P2": "Prioritetinės iniciatyvos, TCO modeliai ir KPI užtikrina, kad visos technologijos modernizavimo pastangos būtų tiesiogiai susijusios su pajamomis, efektyvumu ir klientų pasitenkinimo rezultatais.",
+        "row2Eyebrow": "Senasis modernizavimas",
+        "row2Title": "Modernizuokite nenutraukdami verslo",
+        "row2P1": "Perkelkite monolitus į mikropaslaugas, API ir vietinius debesies modelius su nulinės prastovos pertraukomis ir automatiniu regresijos patvirtinimu.",
+        "row2P2": "Modernizuojame programas, duomenų bazes ir integravimo sluoksnius, išlaikydami atitiktį ir saugumą.",
+        "row3Eyebrow": "Debesis, AI ir duomenys",
+        "row3Title": "Debesų pritaikymas ir duomenimis pagrįsta žvalgyba",
+        "row3P1": "Priimkite AWS, Azure ir GCP, kurkite modernius duomenų vamzdynus ir įdėkite mašininio mokymosi agentus, kad galėtumėte priimti savarankiškus sprendimus.",
+        "row3P2": "Nuo įvykių srautinio perdavimo realiuoju laiku iki vieningų prietaisų skydelių transformacija tampa išmatuojama ir tvari.",
+        "row4Eyebrow": "Klientų patirtis",
+        "row4Title": "Šiuolaikinės daugiakanalės patirties",
+        "row4P1": "Perkurkite klientų keliones interaktyviuose žiniatinklio, iOS, Android ir savitarnos portaluose naudodami suasmenintas sąsajas.",
+        "row4P2": "Platformos inžinerija, telemetrija ir automatizuotos grįžtamojo ryšio linijos daro skaitmenines naujoves nuolatines.",
+        "pillarsTitle": "Transformacijos ramsčiai",
+        "pillarsSub": "Į rezultatą orientuoti svertai, užtikrinantys tvarią skaitmeninę lyderystę.",
+        "pillar1Title": "Skaitmeninė strategija ir valdymas",
+        "pillar1Desc": "Laipsniškų transformacijų planai su verslo atvejų modeliavimu, architektūros valdymu ir etapų rizikos stebėjimu.",
+        "pillar2Title": "Debesų ir duomenų platforma",
+        "pillar2Desc": "AWS/Azure/GCP kelių debesų pagrindai, automatizuoti vamzdynai ir įmonės duomenų analizės įgalinimas.",
+        "pillar3Title": "AI ir automatizavimas",
+        "pillar3Desc": "Sumanus procesų automatizavimas, kognityviniai AI agentai ir nuspėjamoji telemetrija kasdienėms operacijoms optimizuoti.",
+        "pillar4Title": "Klientų patirtis",
+        "pillar4Desc": "Daug konvertuojantys daugiakanaliai skaitmeniniai portalai ir suasmenintos sąsajos, sukurtos maksimaliam vartotojų išlaikymui.",
+        "ctaTitle": "Pasiruošę pertvarkyti savo įmonę?",
+        "ctaSub": "Bendradarbiaukite su „Rezonants“, kad įgyvendintumėte laipsnišką, nerizikingą skaitmeninę transformaciją, susietą su išmatuojamais verslo rezultatais.",
+        "ctaButton": "Užsisakykite skaitmeninės transformacijos skambutį"
+      },
+      "customDevelopment": {
+        "eyebrow": "Visapusiška skaitmeninė inžinerija",
+        "titlePart1": "Įkūrimo pradžia Iki",
+        "titlePart2": "Diegimas",
+        "bookConsultation": "Užsisakykite konsultaciją",
+        "exploreEngineering": "Naršykite sprendimų inžineriją"
+      },
+      "processAutomation": {
+        "eyebrow": "Pažangios proceso operacijos",
+        "titlePart1": "Verslo procesas",
+        "titlePart2": "Automatika",
+        "bookDiscovery": "Knygų automatizavimo atradimas",
+        "exploreCoE": "Naršykite kompetencijos centrą"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centras",
+        "titlePart2": "Puikybė",
+        "bookConsultation": "Užsisakykite COE konsultaciją",
+        "exploreCapabilities": "Ištirkite galimybes"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Visas technologijos gyvavimo ciklas",
+        "titlePart1": "Nuo galo iki galo",
+        "titlePart2": "Sprendimo struktūra",
+        "startJourney": "Pradėkite savo gyvenimo ciklo kelionę",
+        "exploreTransformation": "Tyrinėkite transformaciją"
+      },
+      "migrationServices": {
+        "eyebrow": "Debesų ir infrastruktūros transformacija",
+        "titlePart1": "Migracija ir",
+        "titlePart2": "Modernizavimas",
+        "planMigration": "Suplanuokite savo migraciją",
+        "exploreTransformation": "Tyrinėkite transformaciją"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Greitas patvirtinimas ir įgyvendinamumas",
+        "titlePart1": "Koncepcijos įrodymas (PoC) ir",
+        "titlePart2": "Bandomasis įgyvendinimas",
+        "initiateDiscovery": "Pradėkite PoC atradimą",
+        "exploreDevelopment": "Naršykite tinkintą kūrimą"
+      },
+      "solutionEngineering": {
+        "badge": "Pritaikyta skaitmeninė inžinerija",
+        "bookConsultation": "Užsisakykite konsultaciją",
+        "exploreCapabilities": "Ištirkite galimybes"
+      },
+      "sharedServices": {
+        "eyebrow": "Centralizuotas operacijų centras",
+        "titlePart1": "Bendros paslaugos ir",
+        "titlePart2": "Valdomos operacijos",
+        "bookDiscovery": "Knygų valdomų operacijų atradimas",
+        "exploreFramework": "Naršykite sprendimų sistemą"
+      }
+    },
+    "coreCapabilities": "Pagrindinės galimybės"
+  },
+  "products": {
+    "featured": "Teminiai produktai",
+    "featuredSub": "Supaprastinkite operacijas, sujunkite komandas, automatizuokite procesus ir skatinkite išmanesnį verslo augimą.",
+    "seeAll": "Žiūrėti visus produktus",
+    "featuredProducts": "TINKAMIEJI PRODUKTAI",
+    "meetAutonomous": "Susipažinkite su autonomine darbo jėga",
+    "meetAutonomousText": "Pakeiskite savo veiklą naudodami AI agentus, kurie dirba kartu su jūsų komanda, kad atliktų sudėtingas, pasikartojančias užduotis.",
+    "learnMore": "Sužinokite daugiau",
+    "erp": {
+      "title": "Viena platforma, paruošta viskam",
+      "sub": "Verslo įgalinimas prijungtais, išmaniais ir keičiamo dydžio įmonių valdymo sprendimais.",
+      "explore": "Naršykite ERP sprendimus",
+      "gridTitle": "ERP SPRENDIMAI",
+      "promoTitle": "Modulinis ERP augimui",
+      "promoText": "Greitai įdiekite modulines ERP funkcijas be tradicinių daugiamečių sistemų sudėtingumo.",
+      "scheduleDemo": "Suplanuokite demonstracinę versiją"
+    },
+    "it": {
+      "title": "IT sprendimai",
+      "sub": "Įmonės lygio infrastruktūra, sauga ir „DevOps“ sprendimai, kad jūsų verslas veiktų.",
+      "explore": "Naršykite IT sprendimus",
+      "gridTitle": "IT SPRENDIMAI",
+      "promoTitle": "Patikima IT infrastruktūra",
+      "promoText": "Sukurkite atsparų technologijų pagrindą su valdomomis debesies, saugos ir DevOps paslaugomis.",
+      "getStarted": "Pradėkite"
+    },
+    "crm": {
+      "title": "CRM sprendimai",
+      "sub": "Ryšių su klientais valdymas, siekiant supaprastinti pardavimo, palaikymo ir rinkodaros darbo eigą.",
+      "explore": "Naršykite CRM sprendimus",
+      "gridTitle": "CRM SPRENDIMAI",
+      "promoTitle": "Uždaryti daugiau pasiūlymų",
+      "promoText": "Įgalinkite savo pardavimų ir palaikymo komandas su vieningais klientų duomenimis ir išmaniąja automatika.",
+      "startTrial": "Pradėkite nemokamą bandomąją versiją"
+    },
+    "hrms": {
+      "title": "HRMS sprendimai",
+      "sub": "Žmogiškųjų išteklių valdymas, apimantis darbo užmokesčio apskaičiavimą, įdarbinimą, veiklos rezultatus ir darbuotojų įtraukimą.",
+      "explore": "Naršykite HRMS sprendimus",
+      "gridTitle": "HRMS SPRENDIMAI",
+      "promoTitle": "Supaprastinkite personalo operacijas",
+      "promoText": "Automatizuokite žmogiškųjų išteklių darbo eigą nuo įdarbinimo iki išėjimo į pensiją naudodami modernią, darbuotojo pirmiausia platformą.",
+      "requestDemo": "Prašyti demonstracinę versiją"
+    },
+    "sidebar": {
+      "featuredProducts": "Teminiai produktai",
+      "erpSolutions": "ERP sprendimai",
+      "solutions": "SPRENDIMAI"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "„Rezonants AI Suite“.",
+        "description": "Pažangūs savarankiški agentai ir įrankiai, automatizuojantys sudėtingas darbo eigas ir klientų operacijas."
+      },
+      "cloudNexus": {
+        "title": "„CloudNexus“.",
+        "description": "Kelių debesų valdymo platforma, optimizuojanti našumą, saugumą, atitiktį ir išlaidas."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hibridinis bendradarbiavimo ir produktyvumo centras su integruotu užduočių, pokalbių ir dokumentų valdymu."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Realaus laiko analizės variklis, verslo įvykių srautus paverčiantis veiksmingomis įžvalgomis."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Vieninga įmonės architektūra, jungianti finansus, turtą, HR, pirkimus ir atsargas."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Darbuotojų patirties platforma, apimanti atlyginimų apskaičiavimą, išmokas, veiklos apžvalgas ir savitarną."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Logistikos sekimas realiu laiku, automatizuotos sandėlio operacijos ir paklausos prognozavimas."
+      },
+      "financeHub": {
+        "title": "Finansų centras",
+        "description": "Išplėstinis DK valdymas, atsiskaitymo darbo eigos, automatizuota atitiktis ir grynųjų pinigų srautų ataskaitos realiuoju laiku."
+      },
+      "cloudInfrastructure": {
+        "title": "Debesų infrastruktūra",
+        "description": "Keičiama debesies architektūra, perkėlimas ir valdymas naudojant AWS, Azure ir GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Kibernetinio saugumo rinkinys",
+        "description": "Visapusiškas saugumo stebėjimas, grėsmių aptikimas ir atitikties valdymas."
+      },
+      "devopsPipeline": {
+        "title": "„DevOps Pipeline“.",
+        "description": "CI/CD automatizavimas, talpinimas ir infrastruktūra kaip kodas greitesniam pristatymui."
+      },
+      "managedItServices": {
+        "title": "Tvarkomos IT paslaugos",
+        "description": "24/7 infrastruktūros stebėjimas, reagavimas į incidentus ir aktyvi priežiūra."
+      },
+      "salesCrm": {
+        "title": "Pardavimo CRM",
+        "description": "Vamzdžių valdymas, potencialių klientų įvertinimas, sandorių stebėjimas ir pardavimų prognozavimas vienoje platformoje."
+      },
+      "customerSupportHub": {
+        "title": "Klientų aptarnavimo centras",
+        "description": "Bilietų pardavimas, žinių bazė, tiesioginis pokalbis ir daugiakanalio palaikymo valdymas."
+      },
+      "marketingAutomation": {
+        "title": "Rinkodaros automatizavimas",
+        "description": "Kampanijos organizavimas, el. pašto automatizavimas, vadovų puoselėjimas ir analizė."
+      },
+      "customer360View": {
+        "title": "Kliento 360 peržiūra",
+        "description": "Suvienodinti klientų profiliai, jungiantys pardavimo, palaikymo ir sąveikos duomenis."
+      },
+      "coreHr": {
+        "title": "Pagrindinis personalas",
+        "description": "Darbuotojų įrašai, organizacijos hierarchija, atostogų valdymas ir lankomumo stebėjimas."
+      },
+      "payrollCompliance": {
+        "title": "Darbo užmokestis ir atitiktis",
+        "description": "Automatizuotas darbo užmokesčio apskaičiavimas, mokesčių apskaičiavimas ir įstatymų laikymasis."
+      },
+      "performanceManagement": {
+        "title": "Veiklos valdymas",
+        "description": "OKR sekimas, 360° apžvalgos, tikslų nustatymas ir darbuotojų tobulėjimo planai."
+      },
+      "recruitmentPortal": {
+        "title": "Įdarbinimo portalas",
+        "description": "Darbo skelbimai, kandidatų sekimas, pokalbių planavimas ir įtraukimo į darbą eigos."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Teminiai produktai",
+        "heading": "Teminiai produktai",
+        "sub": "Supaprastinkite operacijas, sujunkite komandas, automatizuokite procesus ir skatinkite išmanesnį verslo augimą.",
+        "promoTitle": "Susipažinkite su autonomine darbo jėga",
+        "promoText": "Pakeiskite savo veiklą naudodami AI agentus, kurie dirba kartu su jūsų komanda, kad atliktų sudėtingas, pasikartojančias užduotis.",
+        "items": [
+          {
+            "title": "AI automatizavimas ir intelektualūs agentai",
+            "description": "Automatizuokite pasikartojančias užduotis ir įdiekite išmaniuosius AI agentus, kurie pagerina produktyvumą, sprendimų priėmimą ir verslo rezultatus."
+          },
+          {
+            "title": "IT paslaugos ir skaitmeninis palaikymas",
+            "description": "Pateikite greitesnį, išmanesnį IT palaikymą su supaprastintu paslaugų valdymu, automatizavimu ir skaitmeninėmis darbo eigomis."
+          },
+          {
+            "title": "Įmonės AI valdymas",
+            "description": "Kurkite atsakingą dirbtinio intelekto taikymą taikydami tvirtą valdymą, saugumą, atitiktį, skaidrumą ir rizikos kontrolę."
+          },
+          {
+            "title": "Pažangios IT operacijos",
+            "description": "Pakeiskite IT operacijas naudodami dirbtinio intelekto stebėjimą, automatizavimą, nuspėjamąsias įžvalgas ir aktyvų problemų sprendimą."
+          },
+          {
+            "title": "Klientų patirties valdymas",
+            "description": "Kurkite suasmenintas klientų keliones naudodami išmanų įtraukimą, automatizavimą, analizę ir sklandžią skaitmeninę patirtį."
+          },
+          {
+            "title": "Verslo strategija ir portfelio optimizavimas",
+            "description": "Suderinkite investicijas į technologijas su verslo tikslais, kad optimizuotumėte portfelius, pagerintumėte efektyvumą ir paskatintumėte tvarų augimą."
+          },
+          {
+            "title": "IT turto ir technologijų gyvavimo ciklas",
+            "description": "Tvarkykite IT turtą per visą jų gyvavimo ciklą naudodami geresnį matomumą, automatizavimą, išlaidų valdymą ir technologijų planavimą."
+          },
+          {
+            "title": "Įmonės rizika ir atitiktis",
+            "description": "Nustatykite, įvertinkite ir valdykite įmonės rizikas, kartu stiprindami atitiktį, kontrolę ir organizacijos atsparumą."
+          },
+          {
+            "title": "Kibernetinio saugumo ir grėsmių operacijos",
+            "description": "Apsaugokite skaitmeninę aplinką aktyviu grėsmių aptikimu, saugumo operacijomis, reagavimu į incidentus ir nuolatiniu stebėjimu."
+          },
+          {
+            "title": "Lauko darbo jėgos automatizavimas",
+            "description": "Įgalinkite lauko komandas naudodami išmanų planavimą, mobilias darbo eigas, automatizavimą ir veiklos matomumą realiuoju laiku."
+          },
+          {
+            "title": "Darbuotojų patirtis ir personalo paslaugos",
+            "description": "Supaprastinkite darbuotojų paslaugas naudodami skaitmenines darbo eigas, savitarnos sprendimus, automatizavimą ir personalizuotą darbuotojų patirtį."
+          },
+          {
+            "title": "Vieninga skaitmeninė darbo vieta",
+            "description": "Sujunkite žmones, procesus, programas ir bendradarbiavimo įrankius naudodami saugią, išmanią ir vientisą skaitmeninę darbo vietą."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP sprendimai",
+        "heading": "Viena platforma, pasiruošusi viskam",
+        "sub": "Verslo įgalinimas prijungtais, išmaniais ir keičiamo dydžio įmonės valdymo sprendimais.",
+        "promoTitle": "Modulinis ERP augimui",
+        "promoText": "Greitai įdiekite modulines ERP funkcijas be tradicinių daugiamečių sistemų sudėtingumo.",
+        "items": [
+          {
+            "title": "Verslo procesų automatizavimas",
+            "description": "Supaprastinkite finansus, personalą, pardavimą, pirkimus ir kasdienes operacijas."
+          },
+          {
+            "title": "Integruotas verslo valdymas",
+            "description": "Sujunkite skyrius, duomenis ir darbo eigas vieningoje platformoje."
+          },
+          {
+            "title": "Finansai ir apskaita",
+            "description": "Pagerinkite finansinį matomumą, ataskaitų teikimą, biudžeto sudarymą ir atitiktį."
+          },
+          {
+            "title": "Personalas ir darbo užmokestis",
+            "description": "Supaprastinkite darbuotojų valdymo, lankomumo, darbo užmokesčio ir žmogiškųjų išteklių procesus."
+          },
+          {
+            "title": "Tiekimo grandinės valdymas",
+            "description": "Optimizuokite pirkimus, atsargas, tiekėjus ir logistiką."
+          },
+          {
+            "title": "Pardavimas ir klientų valdymas",
+            "description": "Efektyviai valdykite potencialius klientus, klientus, užsakymus ir pardavimų rezultatus."
+          },
+          {
+            "title": "Analizė ir ataskaitų teikimas realiuoju laiku",
+            "description": "Verslo duomenis paverskite veiksmingomis įžvalgomis, kad priimtumėte greitesnius sprendimus."
+          },
+          {
+            "title": "Cloud ERP sprendimai",
+            "description": "Įgalinkite saugų, keičiamo dydžio ir prieinamą įmonės valdymą iš bet kurios vietos."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT sprendimai",
+        "heading": "Mūsų IT sprendimai",
+        "sub": "Pakeiskite IT operacijas naudodami išmaniuosius, iniciatyvius ir keičiamo dydžio skaitmeninius sprendimus, kurie pagerina našumą, našumą ir veiklos tęstinumą.",
+        "promoTitle": "Patikima IT infrastruktūra",
+        "promoText": "Sukurkite atsparų technologijų pagrindą su valdomomis debesies, saugos ir DevOps paslaugomis.",
+        "items": [
+          {
+            "title": "IT paslaugų valdymas",
+            "description": "Supaprastinkite IT paslaugas, incidentus, užklausas ir darbo eigas, kad sprendimas būtų greitesnis."
+          },
+          {
+            "title": "IT operacijų valdymas",
+            "description": "Stebėkite infrastruktūrą ir programas, vykdydami iniciatyvias, duomenimis pagrįstą IT veiklą."
+          },
+          {
+            "title": "IT turto valdymas",
+            "description": "Efektyviai valdykite technologijų turtą, sumažindami išlaidas, riziką ir gyvavimo ciklo sudėtingumą."
+          },
+          {
+            "title": "Įmonės architektūra",
+            "description": "Suderinkite verslo strategiją su tinkama technologijų architektūra ir investicijomis."
+          },
+          {
+            "title": "Debesų valdymas",
+            "description": "Pagerinkite debesų saugą, atitiktį, našumą ir išlaidų valdymą."
+          },
+          {
+            "title": "Skaitmeninės operacijos",
+            "description": "Automatizuokite IT procesus ir gaukite matomumą realiuoju laiku visoje savo technologijų aplinkoje."
+          },
+          {
+            "title": "Stebėjimas ir stebėjimas",
+            "description": "Anksti aptikkite našumo problemas ir palaikykite patikimą skaitmeninę patirtį."
+          },
+          {
+            "title": "Strateginis portfelio valdymas",
+            "description": "Susiekite IT investicijas su verslo prioritetais ir išmatuojamais rezultatais."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM sprendimai",
+        "heading": "Mūsų CRM sprendimai",
+        "sub": "Teikkite susietą, suasmenintą ir išmanią klientų patirtį per visą kliento kelionę.",
+        "promoTitle": "Uždaryti daugiau pasiūlymų",
+        "promoText": "Įgalinkite savo pardavimų ir palaikymo komandas su vieningais klientų duomenimis ir išmaniąja automatika.",
+        "items": [
+          {
+            "title": "Klientų aptarnavimo valdymas",
+            "description": "Pagerinkite klientų aptarnavimą naudodami greitesnę skiriamąją gebą, savitarną ir pažangias darbo eigas."
+          },
+          {
+            "title": "Pardavimų automatizavimas",
+            "description": "Automatizuokite pardavimo veiklą, valdykite potencialius klientus ir padėkite komandoms greičiau uždaryti galimybes."
+          },
+          {
+            "title": "Pardavimų ir užsakymų valdymas",
+            "description": "Supaprastinkite kelionę nuo potencialaus kliento iki užsakymo ir pagerinkite pajamų matomumą."
+          },
+          {
+            "title": "Lauko paslaugų valdymas",
+            "description": "Optimizuokite lauko operacijas, planavimą, išsiuntimą ir techniko produktyvumą."
+          },
+          {
+            "title": "Klientų patirties valdymas",
+            "description": "Kurkite sklandžią ir individualizuotą patirtį kiekviename kliento kontaktiniame taške."
+          },
+          {
+            "title": "CRM analizė ir įžvalgos",
+            "description": "Klientų duomenis paverskite veiksmingomis įžvalgomis, kad galėtumėte priimti protingesnius verslo sprendimus."
+          },
+          {
+            "title": "Rinkodaros automatizavimas",
+            "description": "Automatizuokite kampanijas, klientų įtraukimą ir potencialių klientų ugdymą."
+          },
+          {
+            "title": "AI maitinamas CRM",
+            "description": "Naudokite išmaniąją automatiką ir AI įžvalgas, kad pagerintumėte produktyvumą ir klientų įtraukimą."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS sprendimai",
+        "heading": "Mūsų HRMS sprendimai",
+        "sub": "Įgalinkite savo darbo jėgą naudodami pažangius, integruotus ir automatizuotus žmogiškųjų išteklių sprendimus, kurie supaprastina darbuotojų valdymą ir pagerina darbo patirtį.",
+        "promoTitle": "Supaprastinkite personalo operacijas",
+        "promoText": "Automatizuokite žmogiškųjų išteklių darbo eigą nuo įdarbinimo iki išėjimo į pensiją naudodami modernią, pirmiausia darbuotojo platformą.",
+        "items": [
+          {
+            "title": "Pagrindinis personalo valdymas",
+            "description": "Efektyviai valdykite informaciją apie darbuotojus, organizacines struktūras ir žmogiškųjų išteklių procesus."
+          },
+          {
+            "title": "Darbo užmokesčio valdymas",
+            "description": "Automatizuokite darbo užmokestį, atlyginimų apdorojimą, atskaitymus ir atitiktį."
+          },
+          {
+            "title": "Darbuotojų savitarna",
+            "description": "Suteikite darbuotojams lengvą prieigą prie HR paslaugų, užklausų, dokumentų ir informacijos."
+          },
+          {
+            "title": "Dalyvavimo ir atostogų valdymas",
+            "description": "Supaprastinkite lankomumo stebėjimą, atostogų prašymus, pamainas ir darbo valandas."
+          },
+          {
+            "title": "Įdarbinimas ir įdarbinimas",
+            "description": "Supaprastinkite įdarbinimą, kandidatų valdymą, įtraukimą į darbą ir darbuotojų integravimą."
+          },
+          {
+            "title": "Veiklos valdymas",
+            "description": "Nustatykite tikslus, stebėkite rezultatus ir palaikykite nuolatinį darbuotojų tobulėjimą."
+          },
+          {
+            "title": "Mokymasis ir tobulėjimas",
+            "description": "Tvarkykite mokymo programas, įgūdžių tobulinimą ir darbuotojų augimą."
+          },
+          {
+            "title": "Personalo analizė ir ataskaitų teikimas",
+            "description": "Darbo jėgos duomenis paverskite veiksmingomis įžvalgomis, kad galėtumėte priimti geresnius žmogiškųjų išteklių sprendimus."
+          },
+          {
+            "title": "AI varoma HR automatika",
+            "description": "Automatizuokite pasikartojančias žmogiškųjų išteklių užduotis ir suteikite greitesnę personalizuotą darbuotojų patirtį."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Programėlių kūrimas",
+        "heading": "Mūsų programų kūrimo paslaugos",
+        "sub": "Kurkite saugias, keičiamo dydžio ir didelio našumo programas, kurios pagreitina verslo augimą ir supaprastina sudėtingus procesus.",
+        "promoTitle": "Build Apps Vartotojai mėgsta",
+        "promoText": "Nuo idėjos iki paleidimo mūsų komanda kuria ir kuria aukštos kokybės mobiliąsias ir žiniatinklio programas.",
+        "items": [
+          {
+            "title": "Individualių programų kūrimas",
+            "description": "Kurkite pritaikytas programas, sukurtas atsižvelgiant į jūsų unikalius verslo reikalavimus."
+          },
+          {
+            "title": "Žiniatinklio ir mobiliųjų programų kūrimas",
+            "description": "Pateikite sklandžią skaitmeninę patirtį žiniatinklyje, mobiliuosiuose įrenginiuose ir keliuose įrenginiuose."
+          },
+          {
+            "title": "Įmonių programų kūrimas",
+            "description": "Kurkite keičiamo dydžio sprendimus, kurie integruojasi su esamomis verslo sistemomis."
+          },
+          {
+            "title": "Žemo kodo ir be kodo kūrimas",
+            "description": "Paspartinkite programų pristatymą naudodami lanksčias žemo kodo kūrimo platformas."
+          },
+          {
+            "title": "API ir sistemos integravimas",
+            "description": "Prijunkite programas, platformas ir trečiųjų šalių sistemas, kad būtų užtikrintas sklandus duomenų srautas."
+          },
+          {
+            "title": "Programų modernizavimas",
+            "description": "Paverskite senas programas į modernius, keičiamo dydžio ir efektyvius sprendimus."
+          },
+          {
+            "title": "AI pagrįstos programos",
+            "description": "Integruokite dirbtinį intelektą, automatizavimą ir išmaniąsias galimybes į verslo programas."
+          },
+          {
+            "title": "Programų palaikymas ir priežiūra",
+            "description": "Užtikrinkite nuolatinį veikimą, saugumą, atnaujinimus ir patikimumą."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI ir robotika",
+    "businessAutomation": "Verslo automatizavimas",
+    "cloudMigrations": "Debesų perkėlimas",
+    "dataCenters": "Duomenų centrai",
+    "cognitiveAnalyticsAi": "Kognityvinė analizė ir AI",
+    "informationReportingSystems": "Informacinės ir ataskaitų teikimo sistemos",
+    "managedServices": "Valdomos paslaugos",
+    "oneStopSolutions": "Vieno langelio sprendimai"
+  },
+  "servicePage": {
+    "serviceOverview": "Paslaugų apžvalga",
+    "whatWeOffer": "Ką mes siūlome",
+    "whyChooseRezonants": "Kodėl verta rinktis Rezonants",
+    "benefitsOfWorking": "Darbo su mumis privalumai",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Mūsų naudojamos technologijos",
+    "ourWork": "Mūsų darbas",
+    "relatedProjects": "Susiję projektai",
+    "viewCaseStudy": "Žiūrėti atvejo analizę",
+    "readyToDiscuss": "Pasiruošę aptarti savo {{title}} projektą?",
+    "seniorEngineersReady": "Mūsų vyresnieji inžinieriai yra pasirengę padėti jums suplanuoti, suprojektuoti ir sukurti jūsų sprendimą.",
+    "startProject": "Pradėkite savo projektą",
+    "howItWorks": "Kaip tai veikia"
+  },
+  "consultation": {
+    "badge": "Užsisakykite nemokamą konsultaciją",
+    "title": "Suplanuokime jūsų projektą <span class='hero-accent'>kartu</span>",
+    "description": "Susitarkite su mūsų konsultantais be įsipareigojimų. Aptarkite savo reikalavimus, ištirkite tinkamą techninį požiūrį ir gaukite aiškią kainą – visa tai per mažiau nei 30 minučių.",
+    "bookSlot": "Užsisakykite vietą",
+    "howItWorks": "Kaip tai veikia",
+    "accountRequired": "Reikalinga paskyra",
+    "signInToBook": "Norėdami užsisakyti konsultaciją, prisijunkite",
+    "accountRequiredText": "Jei norite kreiptis dėl konsultacijos, jums reikės Rezonants paskyros. Prisijunkite arba sukurkite – tai užtruks mažiau nei minutę.",
+    "signInToContinue": "Norėdami tęsti, prisijunkite",
+    "newToRezonants": "Pirmą kartą naudojate „Rezonants“?",
+    "createAccount": "Susikurkite paskyrą",
+    "requestMeeting": "Prašyti susitikimo",
+    "tellUsAboutProject": "Papasakokite apie savo projektą",
+    "fillDetails": "Užpildykite savo duomenis ir mes patvirtinsime Jūsų konsultacijos vietą el. paštu.",
+    "fullName": "Visas vardas *",
+    "email": "El. paštas *",
+    "phone": "Telefonas *",
+    "company": "Įmonė",
+    "serviceOfInterest": "Dominanti paslauga *",
+    "selectService": "Pasirinkite paslaugą…",
+    "preferredDate": "Pageidautina data *",
+    "preferredTime": "Pageidaujamas laikas *",
+    "selectTimeSlot": "Pasirinkite laiko tarpą…",
+    "estimatedBudget": "Numatomas biudžetas",
+    "selectRange": "Pasirinkite diapazoną…",
+    "projectRequirements": "Projekto reikalavimai",
+    "booking": "Rezervacija…",
+    "bookFreeConsultation": "Užsisakykite nemokamą konsultaciją",
+    "freeNote": "100% nemokama ir jokių įsipareigojimų. Paprastai atsakome per 24 valandas.",
+    "whatToExpect": "Ko tikėtis",
+    "preferToReachUs": "Norite susisiekti su mumis tiesiogiai?",
+    "callUs": "Paskambinkite mums",
+    "emailUs": "Rašykite mums el",
+    "visitUs": "Aplankykite mus",
+    "whyBookWithUs": "Kodėl verta užsisakyti pas mus",
+    "freeCallTitle": "Nemokamas skambutis, kuris tikrai padeda",
+    "freeCallNoPressure": "Nemokamas skambutis, jokio spaudimo",
+    "freeCallNoPressureText": "Kiekviena pirmoji konsultacija nemokama. Pirkti neprivalote – tik nuoširdus patarimas.",
+    "seniorConsultants": "Tik vyresnieji konsultantai",
+    "seniorConsultantsText": "Jūsų susitikimui vadovauja vyresnieji inžinieriai ir konsultantai, kurie kuria pragyvenimui.",
+    "clearTimelines": "Išvalykite laiko juostas ir citatas",
+    "clearTimelinesText": "Išeikite su apibrėžtu tolesniu žingsniu, realia laiko juosta ir skaidria savo projekto kainodara.",
+    "services": {
+      "customSoftware": "Individualios programinės įrangos kūrimas",
+      "webMobile": "Žiniatinklio ir mobiliųjų programų kūrimas",
+      "cloudDevops": "Cloud & DevOps sprendimai",
+      "aiMl": "AI ir mašininis mokymasis",
+      "itConsulting": "IT konsultacijos",
+      "digitalMarketing": "Skaitmeninė rinkodara ir SEO",
+      "erpSolutions": "ERP sprendimai",
+      "other": "Kita / Dar nesu tikras"
+    },
+    "budgets": {
+      "under1L": "Mažiau nei 1 l",
+      "1to5L": "1L – 5L ₹",
+      "5to10L": "₹ 5 L – 10 L",
+      "above10L": "₹ 10 L+",
+      "notDecided": "Dar nenuspręsta"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Supraskite savo tikslus",
+        "text": "Pirmiausia išklausome. 30 minučių pokalbis, skirtas verslo poreikiams, auditorijai ir norimiems rezultatams nustatyti."
+      },
+      "technicalDirection": {
+        "title": "Gaukite techninę instrukciją",
+        "text": "Mūsų inžinieriai dalijasi tinkama jūsų projekto architektūra, krūva ir požiūriu."
+      },
+      "clearQuote": {
+        "title": "Gaukite aiškią pasiūlymą",
+        "text": "Išeikite su skaidria sąmata, tvarkaraščiu ir tolesniais veiksmais – jokių įsipareigojimų."
+      }
+    },
+    "validation": {
+      "nameRequired": "Reikalingas visas vardas.",
+      "emailRequired": "Būtinas el.",
+      "emailInvalid": "Įveskite galiojantį el.",
+      "phoneRequired": "Reikalingas telefono numeris.",
+      "phoneInvalid": "Įveskite galiojantį telefono numerį.",
+      "serviceRequired": "Pasirinkite paslaugą.",
+      "dateRequired": "Pasirinkite pageidaujamą datą.",
+      "timeRequired": "Pasirinkite pageidaujamą laiko tarpą.",
+      "messageTooShort": "Pridėkite šiek tiek daugiau informacijos (mažiausiai 10 simbolių).",
+      "signInRequired": "Norėdami užsisakyti konsultaciją, prisijunkite.",
+      "couldNotBook": "Nepavyko užsisakyti konsultacijos. Patikrinkite, ar yra konsultacijų lentelė, tada bandykite dar kartą.",
+      "bookedSuccess": "Konsultacija užsakyta! Mūsų komanda netrukus patvirtins jūsų laiką el. paštu."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Sveiki sugrįžę",
+    "createAccount": "Sukurti paskyrą",
+    "forgotPassword": "Pamiršau slaptažodį",
+    "createNewPassword": "Sukurti naują slaptažodį",
+    "welcomeBackDesc": "Prisijunkite prie savo Rezonants paskyros.",
+    "createAccountDesc": "Prisijunkite prie „Rezonants“ šiandien.",
+    "forgotDesc": "Įveskite savo el. pašto adresą ir mes atsiųsime jums nuorodą, kad iš naujo nustatytumėte slaptažodį.",
+    "recoveryDesc": "Pasirinkite naują tvirtą paskyros slaptažodį.",
+    "fullName": "Visas vardas",
+    "email": "El",
+    "password": "Slaptažodis",
+    "newPassword": "Naujas slaptažodis",
+    "confirmPassword": "Patvirtinkite slaptažodį",
+    "confirmNewPassword": "Patvirtinkite naują slaptažodį",
+    "forgotPasswordLink": "Pamiršote slaptažodį?",
+    "privacyPolicy": "Sutinku su Rezonants <1>Privatumo ir saugumo</1> politika.",
+    "sendResetLink": "Siųsti atkūrimo nuorodą",
+    "signIn": "Prisijunkite",
+    "signUp": "Registruotis",
+    "pleaseWait": "Palaukite...",
+    "rememberedPassword": "Prisiminėte slaptažodį?",
+    "signInLink": "Prisijunkite",
+    "noAccount": "Neturite paskyros?",
+    "signUpLink": "Užsiregistruokite",
+    "hasAccount": "Jau turite paskyrą?",
+    "changedMind": "Apsigalvojote?",
+    "backToSignIn": "Grįžti į prisijungimą",
+    "resetSent": "Slaptažodžio nustatymo iš naujo nuoroda išsiųsta! Patikrinkite el. paštą, kad sukurtumėte naują slaptažodį.",
+    "passwordUpdated": "Jūsų slaptažodis buvo atnaujintas. Prisijunkite naudodami naują slaptažodį.",
+    "accountCreated": "Paskyra sukurta! Patikrinkite savo el. paštą, kad patvirtintumėte savo registraciją, tada prisijunkite.",
+    "validation": {
+      "fullNameRequired": "Reikalingas visas vardas.",
+      "emailRequired": "Būtinas el.",
+      "emailInvalid": "Įveskite galiojantį el.",
+      "passwordRequired": "Reikalingas slaptažodis.",
+      "passwordMinLength": "Slaptažodį turi sudaryti mažiausiai 6 simboliai.",
+      "passwordsNoMatch": "Slaptažodžiai nesutampa.",
+      "acceptTerms": "Norėdami tęsti, sutikite su „Rezonants“ privatumo politika ir saugos politika."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Kalbėkitės su Rezonants AI",
+    "openChatLabel": "Atidarykite „Rezonants AI Assistant“ pokalbį",
+    "chatTitle": "Rezonants AI asistentas",
+    "online": "Prisijungę",
+    "expandLabel": "Išplėskite pokalbių robotą",
+    "minimizeLabel": "Sumažinkite pokalbių robotą",
+    "closeLabel": "Uždarykite pokalbių robotą",
+    "expand": "Išskleisti",
+    "minimize": "Sumažinti",
+    "close": "Uždaryti",
+    "popularTopics": "Populiarios temos",
+    "askPlaceholder": "Paklauskite manęs apie Rezonantsą...",
+    "messageLabel": "Išsiųskite pranešimą „Rezonants AI Assistant“.",
+    "sendLabel": "Siųsti žinutę",
+    "sendTitle": "Siųsti žinutę",
+    "enterToSend": "Įveskite, jei norite siųsti · Shift+Enter naujai eilutei",
+    "newChat": "Naujas pokalbis",
+    "typing": "Rezonants AI rašo",
+    "menuOptions": "Meniu parinktys",
+    "greetingMorning": "Labas rytas",
+    "greetingAfternoon": "Laba diena",
+    "greetingEvening": "Labas vakaras",
+    "welcomeText": "! 👋 Sveiki atvykę į „Rezonants“.\nAš esu Rezonants AI padėjėjas. Galiu padėti susipažinti su mūsų paslaugomis, technologijomis ir kontaktine informacija."
+  },
+  "cookieConsent": {
+    "title": "Mes vertiname jūsų privatumą",
+    "description": "Mes naudojame slapukus, kad pagerintume jūsų naršymo patirtį. Galite priimti visus slapukus, atmesti neesminius slapukus arba tinkinti savo nuostatas. Esminiai slapukai visada įjungti, kad būtų užtikrintas tinkamas svetainės veikimas.",
+    "acceptAll": "Priimti viską",
+    "rejectNonEssential": "Atmesti neesminius",
+    "managePreferences": "Tvarkyti nuostatas",
+    "privacyPolicy": "Privatumo politika"
+  },
+  "cookiePreferences": {
+    "title": "Tvarkykite slapukų nuostatas",
+    "description": "Pasirinkite, kurias slapukų kategorijas leidžiate. Esminiai slapukai išlieka įjungti, kad svetainė veiktų.",
+    "essential": "Būtina",
+    "essentialDesc": "Būtina, kad svetainė veiktų (autentifikavimas, sauga, apkrovos balansavimas). Jų negalima išjungti.",
+    "analytics": "Analizė",
+    "analyticsDesc": "Padėkite mums suprasti, kaip lankytojai naudojasi svetaine, kad galėtume ją patobulinti. Išjungta pagal numatytuosius nustatymus.",
+    "marketing": "Rinkodara",
+    "marketingDesc": "Naudojamas atitinkamiems pasiūlymams ir kampanijoms rodyti. Išjungta pagal numatytuosius nustatymus.",
+    "cancel": "Atšaukti",
+    "savePreferences": "Išsaugoti nuostatas"
+  },
+  "privacy": {
+    "badge": "Teisinė",
+    "title": "Privatumo politika",
+    "description": "Kaip „Rezonants“ renka, naudoja ir saugo jūsų asmeninę informaciją ir slapukus.",
+    "lastUpdated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio mėn",
+    "managingPreferences": "Jūsų nuostatų tvarkymas",
+    "managingPreferencesDesc": "Slapukų nuostatų skydelyje galite bet kada peržiūrėti arba pakeisti, kuriuos slapukus leidžiate.",
+    "manageCookiePreferences": "Tvarkykite slapukų nuostatas",
+    "section1": {
+      "title": "1. Informacija, kurią renkame",
+      "body": [
+        "Mes renkame informaciją, kurią pateikiate tiesiogiai (pvz., Jūsų vardas ir el. pašto adresas, kai pateikiate kontaktinę formą arba sukuriate paskyrą), ir informaciją, automatiškai renkamą naudojant slapukus ir panašias technologijas, pvz., aplankytus puslapius, įrenginio tipą ir apytikslę vietą."
+      ]
+    },
+    "section2": {
+      "title": "2. Kaip naudojame slapukus",
+      "body": [
+        "Esminiai slapukai visada įjungti, nes be jų svetainė negali tinkamai veikti. Jie išsaugo seanso ir autentifikavimo būseną ir prisimena jūsų slapukų nuostatas.",
+        "Analitikos slapukai padeda suprasti, kaip lankytojai naudojasi svetaine, kad galėtume ją patobulinti. Rinkodaros slapukai naudojami atitinkamiems pasiūlymams ir kampanijoms parodyti. Šios kategorijos įjungiamos tik gavus jūsų sutikimą ir gali būti bet kada pakeistos slapukų nuostatų skydelyje."
+      ]
+    },
+    "section3": {
+      "title": "3. Teisinis pagrindas (BDAR)",
+      "body": [
+        "Asmens duomenis tvarkome šiais teisiniais pagrindais: Jūsų sutikimu (dėl neesminių slapukų ir rinkodaros), sutarties vykdymo (dėl Jūsų prašomų paslaugų), teisinių įsipareigojimų ir teisėtų interesų, kai Jūsų teisės jų nenusveria. Jūs galite bet kada atšaukti sutikimą, nepaveikdami prieš atšaukimą atlikto tvarkymo teisėtumo."
+      ]
+    },
+    "section4": {
+      "title": "4. Jūsų teisės",
+      "body": [
+        "Priklausomai nuo jūsų buvimo vietos, galite turėti teisę susipažinti su savo asmens duomenimis, juos ištaisyti, ištrinti arba apriboti jų tvarkymą, nesutikti su tvarkymu ir duomenų perkeliamumu. Taip pat galite pateikti skundą vietos priežiūros institucijai."
+      ]
+    },
+    "section5": {
+      "title": "5. Duomenų saugojimas ir saugumas",
+      "body": [
+        "Asmens duomenis saugome tik tiek, kiek reikia šioje politikoje aprašytiems tikslams pasiekti. Taikome tinkamas technines ir organizacines priemones, kad apsaugotume jūsų informaciją nuo neteisėtos prieigos, pakeitimo, atskleidimo ar sunaikinimo."
+      ]
+    },
+    "section6": {
+      "title": "6. Trečiųjų šalių paslaugos",
+      "body": [
+        "Kai kuriuos slapukus gali nustatyti trečiųjų šalių teikėjai (pvz., analizės ar reklamos platformos), kurie padeda mums valdyti svetainę. Šie teikėjai tvarko duomenis pagal savo privatumo politiką ir tik tada, kai sutinkate su atitinkama kategorija."
+      ]
+    },
+    "contactUs": "7. Susisiekite su mumis",
+    "contactUsText": "Jei turite klausimų apie šią politiką arba savo asmeninius duomenis, susisiekite su mumis <1>info@rezonants.com</1> arba skambinkite <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Paslaugos",
+    "title": "Mūsų paslaugos",
+    "sub": "Technologiniai sprendimai, sukurti siekiant padėti įmonėms diegti naujoves, didinti mastą ir siekti sėkmės.",
+    "learnMore": "Sužinokite daugiau",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Nuo pradžios iki diegimo",
+        "text": "Nuo pradinės koncepcijos iki gamybos diegimo mes pristatome keičiamo dydžio sprendimus, sukurtus realiems verslo poreikiams."
+      },
+      "businessProcessAutomation": {
+        "title": "Verslo procesų automatizavimas",
+        "text": "Supaprastinkite pasikartojančius procesus ir pagerinkite veiklos efektyvumą pasitelkdami pažangų verslo automatizavimą."
+      },
+      "centerOfExcellence": {
+        "title": "Kompetencijos centras",
+        "text": "Kurkite specializuotas technologijų galimybes ir patirtį, kad paskatintumėte naujoves, kokybę ir nuolatinį tobulėjimą."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Individualizuotas kūrimas ir pritaikymas",
+        "text": "Pritaikytos programinės įrangos sprendimai, sukurti atsižvelgiant į jūsų unikalius verslo reikalavimus ir darbo eigą."
+      },
+      "digitalTransformation": {
+        "title": "Skaitmeninė transformacija",
+        "text": "Modernizuokite savo verslą naudodami skaitmenines strategijas, technologijas ir sprendimus, kurie sukuria išmatuojamą poveikį."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Sprendimų sistema nuo pabaigos iki galo",
+        "text": "Integruoti technologijų sprendimai, jungiantys strategiją, kūrimą, įgyvendinimą ir vykdomas operacijas."
+      },
+      "migrationModernization": {
+        "title": "Migracija ir modernizavimas",
+        "text": "Modernizuokite senas programas ir perkelkite sistemas į keičiamo dydžio, saugias ir efektyvias technologijų platformas."
+      },
+      "pocPilotImplementation": {
+        "title": "Koncepcijos įrodymas (PoC) ir bandomasis įgyvendinimas",
+        "text": "Greitai patvirtinkite idėjas naudodami tikslinius prototipus ir bandomuosius diegimus prieš visapusį diegimą."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Bendros paslaugos ir valdomos operacijos",
+        "text": "Patikimos valdomos technologijos operacijos, pagerinančios našumą, mastelį ir veiklos tęstinumą."
+      }
+    }
+  },
+  "footer": {
+    "company": "Įmonė",
+    "about": "Apie",
+    "perspectives": "Perspektyvos",
+    "technologies": "Technologijos",
+    "contact": "Susisiekite",
+    "services": "Paslaugos",
+    "getInTouch": "Susisiekite",
+    "bookConsultation": "Užsisakykite konsultaciją",
+    "copyright": "© {{year}} Rezonants. Visos teisės saugomos.",
+    "cookiePreferences": "Slapukų nuostatos",
+    "privacyPolicy": "Privatumo politika",
+    "description": "„Rezonants“ yra IT paslaugų ir skaitmeninių produktų įmonė Haidarabade, Indijoje. Kuriame, kuriame ir keičiame programinę įrangą įmonėms, kurios konkuruoja dėl vykdymo.",
+    "locations": "Mūsų vietos",
+    "indiaHq": "Haidarabadas, Indija – Indijos būstinė",
+    "southAfrica": "Pietų Afrika — REZONANTS PVT LTD",
+    "products": "Produktai",
+    "followUs": "Sekite mus",
+    "aboutUs": "Apie mus",
+    "contactUs": "Susisiekite su mumis",
+    "headline": "Statykime",
+    "headlineAccent": "kas toliau.",
+    "subheadline": "Bendradarbiaukite su „Rezonants“, kad idėjos paverstumėte realiu verslo poveikiu.",
+    "credoIdeas": "IDĖJOS",
+    "credoSolutions": "SPRENDIMAI",
+    "credoPeople": "ŽMONĖS",
+    "credoBrighterTomorrow": "ŠVIEŠESNIS RYTOJAS",
+    "hyderabadLocation": "Haidarabadas, Indija",
+    "vijayawadaLocation": "Vijayawada, Andra Pradešas",
+    "southAfricaLocation": "Pietų Afrika – REZONANTS PVT LTD",
+    "termsOfUse": "Naudojimo sąlygos",
+    "accessibility": "Prieinamumas",
+    "quickLinks": "Greitos nuorodos",
+    "explore": "Naršyti",
+    "vijayawadaOffice": "Vijayawada biuras",
+    "allRightsReserved": "Visos teisės saugomos.",
+    "hyderabadPin": "Haidarabadas, Indija",
+    "southAfricaPin": "Pietų Afrika"
+  },
+  "common": {
+    "loading": "Įkeliama...",
+    "error": "Klaida",
+    "retry": "Bandykite dar kartą",
+    "close": "Uždaryti",
+    "backToTop": "Grįžti į viršų",
+    "skipToContent": "Pereiti prie turinio",
+    "scroll": "Slinkite",
+    "whatWeOffer": "Ką Siūlome",
+    "howItWorks": "Kaip tai veikia"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Ieškokite šalies arba kodo...",
+    "noResults": "Šalių nerasta.",
+    "countryCodeLabel": "Šalies skambinimo kodas",
+    "required": "Reikalingas telefono numeris.",
+    "incomplete": "Telefono numerį turi sudaryti tiksliai {{count}} skaitmenys.",
+    "tooLong": "Telefono numerį negali sudaryti daugiau nei {{count}} skaitmenų.",
+    "invalid": "Įveskite galiojantį {{country}} telefono numerį."
+  },
+  "perspectives": {
+    "topic": "Tema:",
+    "published": "Paskelbta:",
+    "readingTime": "Skaitymo laikas:",
+    "author": "Autorius:",
+    "authorName": "„Rezonants Enterprise Architecture Studio“.",
+    "techArea": "Technologijų sritis",
+    "purpose": "Paskirtis",
+    "talkToExperts": "Pasikalbėkite su mūsų ekspertais",
+    "viewAll": "Žiūrėti visas perspektyvas",
+    "exploreMore": "TYRINTI DAUGIAU PERSPEKTYVŲ",
+    "continueExploring": "Toliau tyrinėkite įmonės technologijų įžvalgas",
+    "readPerspective": "Skaityti perspektyvą"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI ir robotų sprendimai",
+      "tagline": "Išmanioji technologija. Automatizuotos operacijos. Protingesnis verslas.",
+      "heroBadge": "Pažangios autonominės sistemos",
+      "overview": [
+        "Dirbtinis intelektas ir robotika keičia organizacijų veiklą, priima sprendimus ir teikia vertę. Mūsų dirbtinio intelekto ir robotikos sprendimai padeda įmonėms pereiti nuo tradicinio automatizavimo, derindami dirbtinį intelektą, mašininį mokymąsi, kompiuterinę viziją, išmanųjį procesų automatizavimą ir robotiką, kad išspręstų praktinius verslo iššūkius.",
+        "Kuriame intelektualius sprendimus, atsižvelgdami į išmatuojamus verslo rezultatus. Nesvarbu, ar reikia automatizuoti pasikartojantį darbą, analizuoti didelius informacijos kiekius, aptikti modelius, priimti sprendimus ar įdiegti robotiką į darbo aplinką, mūsų požiūris orientuotas į patikimumą, mastelį, saugumą ir ilgalaikę verslo vertę."
+      ],
+      "transformation": [
+        "Šiuolaikinės organizacijos kasdien generuoja milžiniškus duomenų kiekius ir atlieka tūkstančius pasikartojančių veiklų. Dirbtinis intelektas ir robotika gali paversti šią veiklą išmaniomis, automatizuotomis darbo eigomis, kurios pagerina produktyvumą ir leidžia darbuotojams sutelkti dėmesį į didesnės vertės pareigas.",
+        "Mūsų sprendimai gali padėti organizacijoms automatizuoti pasikartojančias operacijas, sumažinti rankinį įsikišimą, pagerinti tikslumą, analizuoti sudėtingą informaciją, palaikyti greitesnius sprendimus, optimizuoti išteklių panaudojimą, pagerinti klientų patirtį ir kurti išmaniąsias sistemas, kurias galima keisti."
+      ],
+      "capabilities": [
+        {
+          "title": "Dirbtinis intelektas",
+          "desc": "Kuriame dirbtiniu intelektu pagrįstus sprendimus, leidžiančius sistemoms suprasti informaciją, nustatyti modelius, generuoti įžvalgas ir palaikyti verslo sprendimus."
+        },
+        {
+          "title": "Mašininis mokymasis",
+          "desc": "Kuriame mašininio mokymosi modelius, skirtus prognozavimui, klasifikavimui, rekomendacijų sistemoms, anomalijų aptikimui, nuspėjamajai analizei ir pažangiam sprendimų palaikymui."
+        },
+        {
+          "title": "Natūralios kalbos apdorojimas",
+          "desc": "NLP gali būti naudojamas dokumentams apdoroti, tekstui suprasti, informacijai klasifikuoti, atitinkamam turiniui išgauti ir pokalbio programoms palaikyti."
+        },
+        {
+          "title": "Kompiuterinė vizija",
+          "desc": "Kompiuterinės vizijos sprendimai gali palaikyti vaizdų klasifikavimą, objektų aptikimą, kokybės tikrinimą, dokumentų apdorojimą, vizualinį stebėjimą ir vaizdo analizę."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotika sujungia programinės įrangos intelektą su fizinėmis sistemomis, kad automatizuotų veiklą, kuriai tradiciškai reikia rankų pastangų. Programos gali apimti gamybą, logistiką, sandėliavimą, tikrinimą, medžiagų tvarkymą ir veiklos palaikymą."
+        },
+        {
+          "title": "Pažangi procesų automatizacija",
+          "desc": "AI gali būti derinamas su darbo eigos automatizavimu, siekiant sukurti sistemas, kurios interpretuoja informaciją, taiko verslo taisykles ar modelius ir automatiškai inicijuoja atitinkamą procesą."
+        }
+      ],
+      "lifecycleSteps": [
+        "Verslo vertinimas",
+        "Duomenų analizė",
+        "AI strategija",
+        "Sprendimo architektūra",
+        "Plėtra",
+        "Integracija",
+        "Testavimas",
+        "Diegimas",
+        "Stebėjimas",
+        "Optimizavimas"
+      ],
+      "benefits": [
+        "Didesnis įmonės veiklos našumas",
+        "Esminis veiklos sąnaudų sumažinimas",
+        "Greitesnis apdorojimas ir sprendimo priėmimas per milisekundę",
+        "Patobulintas duomenų ir darbo eigos tikslumas",
+        "Optimizuotas fizinių ir skaičiavimo išteklių panaudojimas",
+        "Sumažėjusi veiklos rizika ir žmogiškosios klaidos",
+        "Sklandus kelių platformų mastelio keitimas",
+        "Geresnė klientų ir darbuotojų patirtis"
+      ],
+      "security": "Įmonės AI sprendimai turi būti sukurti su atitinkama apsauga, prieigos kontrole, duomenų apsauga, stebėjimu, modelio valdymu ir veikimo apsauga. Atsižvelgiame į šiuos reikalavimus nuo architektūros etapo iki diegimo ir nuolatinės priežiūros, kad užtikrintume patikimą gamybos lygio intelektą.",
+      "ctaHeadline": "Kurkite protingą ateitį",
+      "ctaSub": "Padarykite savo operacijas protingesnes. Automatizuokite tai, kas svarbu. Kurti ateičiai."
+    },
+    "business-automation-solutions": {
+      "title": "Verslo automatizavimo sprendimai",
+      "tagline": "Supaprastinkite procesus. Pašalinkite pasikartojimą. Paspartinti augimą.",
+      "heroBadge": "Visapusiškas darbo eigos optimizavimas",
+      "overview": [
+        "Verslo automatizavimas leidžia organizacijoms pakeisti pasikartojančią rankinę veiklą supaprastintomis skaitmeninėmis darbo eigomis. Mūsų verslo automatizavimo sprendimai padeda įmonėms pagerinti produktyvumą, sumažinti veiklos sudėtingumą, sumažinti klaidų skaičių ir kurti nuoseklius procesus visuose skyriuose.",
+        "Analizuojame esamas darbo eigas, nustatome kliūtis ir projektuojame automatizavimo sprendimus, jungiančius žmones, programas, duomenis ir verslo procesus."
+      ],
+      "transformation": [
+        "Daugelis organizacijų vis dar priklauso nuo skaičiuoklių, el. laiškų, patvirtinimų rankiniu būdu, pasikartojančio duomenų įvedimo, dokumentų tvarkymo ir atjungtų programų. Šie procesai užima brangų darbuotojų laiką ir gali sukelti vėlavimų, neatitikimų ir klaidų.",
+        "Mūsų automatizavimo metodas orientuotas į viso proceso supratimą, nereikalingų žingsnių pašalinimą, sistemų integravimą ir didžiausią veiklos vertę teikiančių veiklų automatizavimą."
+      ],
+      "capabilities": [
+        {
+          "title": "Darbo eigos automatizavimas",
+          "desc": "Automatizuojame kelių etapų procesus, kuriuose dalyvauja darbuotojai, paraiškos, patvirtinimai, pranešimai ir duomenys skirtinguose skyriuose."
+        },
+        {
+          "title": "Robotų procesų automatizavimas",
+          "desc": "Programinės įrangos robotai gali atlikti pasikartojančius, taisyklėmis pagrįstus veiksmus, tokius kaip duomenų įvedimas, sistemos atnaujinimas, suderinimas ir informacijos perdavimas."
+        },
+        {
+          "title": "Dokumentų automatizavimas",
+          "desc": "Automatinės dokumentų darbo eigos gali išgauti informaciją, patvirtinti duomenis, klasifikuoti dokumentus, nukreipti užklausas ir inicijuoti tolesnius procesus."
+        },
+        {
+          "title": "Patvirtinimo automatizavimas",
+          "desc": "Skaitmeninio patvirtinimo darbo eigos automatiškai nukreipia užklausas teisingiems sprendimus priimantiems asmenims ir užtikrina laukiančių veiksmų matomumą realiuoju laiku."
+        },
+        {
+          "title": "Integracijos automatizavimas",
+          "desc": "Sujungiame verslo programas, kad informacija galėtų automatiškai judėti tarp platformų be nereikalingo rankinio įsikišimo."
+        },
+        {
+          "title": "Pranešimų automatizavimas",
+          "desc": "Automatiniai įspėjimai ir pranešimai padeda darbuotojams akimirksniu reaguoti į svarbius įvykius, terminus, išimtis ir veiklos pokyčius."
+        }
+      ],
+      "lifecycleSteps": [
+        "Atraskite",
+        "Analizuoti",
+        "Dizainas",
+        "Automatizuoti",
+        "Integruoti",
+        "Testas",
+        "Diegti",
+        "Monitorius",
+        "Optimizuokite"
+      ],
+      "benefits": [
+        "Padidėjęs komandos pralaidumas ir veiklos greitis",
+        "Dramatiškai sumažėjo rankinio duomenų įvedimo klaidų",
+        "Sutrumpintas procesų apyvartos laikas iki galo",
+        "Vieningas verslo operacijų matomumas",
+        "Standartizuotas tarpžinybinis atitikimas",
+        "Žymiai sumažintos veiklos išlaidos",
+        "Elastingas pajėgumas be pastangų padidinti darbo krūvį",
+        "Įgalintos komandos, orientuotos į klientų įtraukimą ir strateginį darbą"
+      ],
+      "security": "Sujungiame darbo eigos platformas ir RPA su intelektualiais kontekstą suvokiančiais modeliais, kad užtikrintume vaidmenimis pagrįstą prieigos kontrolę, išsamias audito sekas ir griežtą kiekvienos automatizuotos operacijos atitiktį.",
+      "ctaHeadline": "Sukurkite efektyvesnes operacijas",
+      "ctaSub": "Automatizuokite pasikartojančius darbus. Įgalinkite savo žmones. Paspartinkite savo verslą."
+    },
+    "cloud-migration-solutions": {
+      "title": "Debesų perkėlimo sprendimai",
+      "tagline": "Eikite į debesį su pasitikėjimu.",
+      "heroBadge": "Kelių debesų transformacija",
+      "overview": [
+        "Debesų kompiuterija tapo svarbia šiuolaikinės IT infrastruktūros dalimi. Organizacijos perkelia programas, duomenų bazes, darbo krūvius ir infrastruktūrą į debesų aplinką, kad pagerintų mastelį, pasiekiamumą, lankstumą ir veiklos efektyvumą.",
+        "Mūsų debesų perkėlimo paslaugos padeda organizacijoms įvertinti jų dabartinę aplinką, apibrėžti perkėlimo strategijas, vykdyti perkėlimą ir optimizuoti darbo krūvius perėjus į debesį."
+      ],
+      "transformation": [
+        "Debesų perkėlimas yra daugiau nei serverių perkėlimas iš vienos aplinkos į kitą. Kad perkėlimas būtų sėkmingas, reikia atidžiai įvertinti programas, infrastruktūrą, priklausomybes, saugos reikalavimus, duomenis, našumą, pasiekiamumą ir veiklos tęstinumą.",
+        "Kuriame migracijos strategijas pagal esamą organizacijos aplinką ir ateities tikslus, kiekvienam darbo krūviui parinkdami tinkamą migracijos modelį."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktūros perkėlimas",
+          "desc": "Perkeliame tradicinius serverius, saugyklą, virtualias mašinas ir darbo krūvius į modernias debesų aplinkas AWS, Azure ir GCP."
+        },
+        {
+          "title": "Programų perkėlimas",
+          "desc": "Priklausomai nuo verslo ir techninių reikalavimų, programos gali būti pertvarkytos, pertvarkomos, pertvarkytos arba perkurtos."
+        },
+        {
+          "title": "Duomenų bazės perkėlimas",
+          "desc": "Perkeliame duomenų bazes atsižvelgdami į duomenų vientisumo, našumo, suderinamumo, prieinamumo, saugumo ir atkūrimo reikalavimus."
+        },
+        {
+          "title": "Debesų modernizavimas",
+          "desc": "Migracija tampa galimybe modernizuoti programas naudojant konteinerius, mikropaslaugas, valdomas duomenų bazes, paslaugas be serverių ir debesies architektūrą."
+        },
+        {
+          "title": "Hibridinis debesis",
+          "desc": "Organizacijos, kurioms reikia tiek vietinės, tiek debesų infrastruktūros, gali pritaikyti hibridines architektūras, kurios sklandžiai susieja esamas sistemas su debesijos paslaugomis."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Organizacijoms, veikiančioms keliose debesijos platformose, padedame sukurti darbo krūvio strategijas, kurios pagerintų lankstumą, atsparumą ir valdymą."
+        }
+      ],
+      "lifecycleSteps": [
+        "Vertinimas",
+        "Atradimas",
+        "Priklausomybės atvaizdavimas",
+        "Migracijos strategija",
+        "Architektūros projektavimas",
+        "Bandomoji migracija",
+        "Duomenų perkėlimas",
+        "Programų perkėlimas",
+        "Testavimas",
+        "Gamybos migracija",
+        "Optimizavimas"
+      ],
+      "benefits": [
+        "Elastingas mastelio keitimas ir didelis išteklių prieinamumas",
+        "Didesnis infrastruktūros lankstumas ir verslo judrumas",
+        "Panaikinta fizinio duomenų centro priežiūros našta",
+        "Pagreitintas programos funkcijų diegimas",
+        "Tvirtas atkūrimas po nelaimių ir atsarginis atsparumas",
+        "Skubi prieiga prie šiuolaikinės debesies AI ir valdomų paslaugų",
+        "Optimizuotas FinOps valdymas ir TCO mažinimas",
+        "Nuolatinis atitikimas ir automatizuoti apsauginiai turėklai"
+      ],
+      "security": "Saugumas yra neatsiejama migracijos planavimo dalis. Atsižvelgiame į tapatybės ir prieigos valdymą, tinklo saugumą, šifravimą siuntimo metu ir ramybės būsenoje, duomenų apsaugą, programų pažeidžiamumo auditą, stebėjimą, atsarginę kopiją ir atkūrimą įvykus nelaimei.",
+      "ctaHeadline": "Jūsų kelionė debesyje, tinkamai suplanuota",
+      "ctaSub": "Modernizuokite savo infrastruktūrą. Paspartinkite naujovių diegimą. Sukurkite keičiamo dydžio debesies pagrindą."
+    },
+    "data-center-solutions": {
+      "title": "Duomenų centro sprendimai",
+      "tagline": "Patikima infrastruktūra svarbioms operacijoms.",
+      "heroBadge": "Misijai svarbi infrastruktūra",
+      "overview": [
+        "Duomenų centrai sudaro šiuolaikinio skaitmeninio verslo pagrindą. Programos, duomenų bazės, įmonės sistemos, ryšių platformos ir svarbios verslo paslaugos priklauso nuo patikimos infrastruktūros.",
+        "Mūsų duomenų centro sprendimai orientuoti į infrastruktūros aplinkos, sukurtos prieinamumui, saugumui, mastelio keitimui, našumui ir veiklos efektyvumui, projektavimą, modernizavimą, valdymą ir optimizavimą."
+      ],
+      "transformation": [
+        "Šiuolaikiniam duomenų centrui reikia daugiau nei serverių ir saugyklos. Tam reikia kruopščiai suprojektuotos kompiuterijos, tinklų, saugos, maitinimo, aušinimo, stebėjimo, atsarginių kopijų kūrimo ir atkūrimo po nelaimių infrastruktūros.",
+        "Mes padedame organizacijoms sukurti atsparią infrastruktūros aplinką, kuri palaiko kritinius darbo krūvius ir sudaro pagrindą būsimam technologijų augimui."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktūros projektavimas",
+          "desc": "Kuriame aplinkas atsižvelgdami į darbo krūvio reikalavimus, pajėgumą, našumą, prieinamumą, saugumą ir būsimą augimą."
+        },
+        {
+          "title": "Serverio infrastruktūra",
+          "desc": "Mes palaikome fizines ir virtualias serverių aplinkas, skirtas svarbioms įmonės programoms ir darbo krūviams."
+        },
+        {
+          "title": "Saugojimo sprendimai",
+          "desc": "Kurdami saugojimo aplinkas atsižvelgiame į našumą, talpą, dubliavimą, didelės spartos SAN/NAS, atsarginę kopiją ir duomenų apsaugos reikalavimus."
+        },
+        {
+          "title": "Tinklo infrastruktūra",
+          "desc": "Kuriame tinklo aplinkas su tinkamu segmentavimu, dubliavimu, mažu našumu, ryšiu ir saugos valdikliais."
+        },
+        {
+          "title": "Virtualizacija",
+          "desc": "Virtualizacija pagerina išteklių panaudojimą, darbo krūvio lankstumą ir centralizuotą infrastruktūros valdymą."
+        },
+        {
+          "title": "Atsarginis kopijavimas ir atkūrimas ištikus nelaimei",
+          "desc": "Padedame organizacijoms sukurti atsargines strategijas ir atkūrimo architektūras, skirtas sumažinti prastovos laiką ir pašalinti duomenų praradimą."
+        }
+      ],
+      "lifecycleSteps": [
+        "Pajėgumų įvertinimas",
+        "Darbo krūvio profiliavimas",
+        "Architektūros projektas",
+        "Aparatinė įranga ir virtualus dydžio nustatymas",
+        "Tinklo segmentavimas",
+        "Saugyklos aprūpinimas",
+        "Atleidimo ir DR testavimas",
+        "Gamybos sumažinimas",
+        "Sveikatos stebėjimas visą parą",
+        "Nuolatinis optimizavimas"
+      ],
+      "benefits": [
+        "Garantuojamas 99,999 % infrastruktūros veikimo laikas",
+        "Nulis pavienių gedimo taškų su daugiasluoksniu pertekliumi",
+        "Optimizuotas serverio skaičiavimas ir didelio tankio virtualizavimas",
+        "Submilisekundžių mažo vėlavimo tinklo architektūros",
+        "Griežta fizinė ir skaitmeninė perimetro apsauga",
+        "Aktyvus stebėjimas ir automatinis gedimų pertvarkymas",
+        "Keičiama modulinė saugykla petabaitų masto duomenims",
+        "Numatomos bendros nuosavybės išlaidos ir energijos vartojimo efektyvumas"
+      ],
+      "security": "Saugumas integruotas visame infrastruktūros lygmenyje, apimantis tinklo mikrosegmentavimą, aparatinės įrangos pagrindinį pasitikėjimą, prieigos kontrolę be pasitikėjimo, nuolatinį pažeidžiamumo auditą, galutinio taško apsaugą ir griežtą veiklos politiką.",
+      "ctaHeadline": "Ateičiai paruošta infrastruktūra",
+      "ctaSub": "Sukurkite patikimą infrastruktūrą šiandien. Sukurkite rytojaus technologijų pagrindą."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognityvinė analizė ir AI",
+      "tagline": "Paverskite duomenis į intelektą.",
+      "heroBadge": "Duomenų iki sprendimo žvalgyba",
+      "overview": [
+        "Organizacijos generuoja milžiniškus kiekius informacijos naudodamos programas, sandorius, klientus, operacijas, įrenginius ir skaitmenines platformas. Iššūkis nebėra tik duomenų rinkimas; tai yra tų duomenų supratimas ir pavertimas veiksmingu intelektu.",
+        "Mūsų Kognityvinės analizės ir AI sprendimai sujungia pažangią analizę, mašininį mokymąsi, dirbtinį intelektą, duomenų apdorojimą ir verslo intelektą, kad padėtų organizacijoms priimti geresnius sprendimus."
+      ],
+      "transformation": [
+        "Tradicinis ataskaitų teikimas praneša organizacijoms, kas atsitiko. Išplėstinė analizė gali padėti paaiškinti, kodėl taip atsitiko, nustatyti, kas gali nutikti toliau, ir padėti priimti sprendimus, kas turėtų nutikti.",
+        "Padedame organizacijoms sukurti duomenų aplinką, kuri ne tik statinių ataskaitų teikimą, bet ir pažangią analizę ir sprendimų palaikymą."
+      ],
+      "capabilities": [
+        {
+          "title": "Aprašomoji analizė",
+          "desc": "Supraskite našumo istoriją naudodami interaktyvias ataskaitas, daugiamačius prietaisų skydelius, KPI ir verslo metriką."
+        },
+        {
+          "title": "Diagnostinė analizė",
+          "desc": "Nustatykite pagrindinius ryšius, tendencijas, statistines anomalijas ir pagrindines verslo rezultatų priežastis."
+        },
+        {
+          "title": "Nuspėjamoji analizė",
+          "desc": "Naudokite istorinius ir realaus laiko srautinio perdavimo duomenis su statistiniais modeliais, kad nustatytumėte galimus ateities rezultatus ir poreikius."
+        },
+        {
+          "title": "Preskriptyvi analizė",
+          "desc": "Įvertinkite galimus veiksmus ir palaikykite optimalius sprendimų būdus, pagrįstus numatomais rezultatais ir strateginiais verslo tikslais."
+        },
+        {
+          "title": "Mašininio mokymosi modeliai",
+          "desc": "Kurkite pasirinktinius prognozavimo, klientų klasifikavimo, rekomendacijų, sukčiavimo anomalijų aptikimo ir numatomos priežiūros modelius."
+        },
+        {
+          "title": "AI pagrįstos įžvalgos",
+          "desc": "Taikykite kognityvinį AI dideliems nestruktūrizuotos informacijos kiekiams, kad atskleistumėte paslėptus modelius, santraukas ir rekomendacijas."
+        }
+      ],
+      "lifecycleSteps": [
+        "Duomenų šaltiniai",
+        "Duomenų integravimas",
+        "Duomenų apdorojimas",
+        "Duomenų saugykla",
+        "Analizė",
+        "AI/ML modeliai",
+        "Vizualizacija",
+        "Verslo sprendimai"
+      ],
+      "benefits": [
+        "Faktais pagrįstas, duomenimis pagrįstas vykdomųjų sprendimų priėmimas",
+        "Tikslus paklausos, pajamų ir nuosmukio prognozavimas",
+        "Anomalijų ir sukčiavimo aptikimas realiuoju laiku",
+        "Gilios 360° klientų elgesio įžvalgos ir personalizavimas",
+        "Optimizuota tiekimo grandinė ir veiklos efektyvumas",
+        "Sumažinta veiklos ir finansinė rizika",
+        "Paslėptų pajamų galimybių atradimas",
+        "Pagreitintas laikas iki įžvalgos verslo padaliniuose"
+      ],
+      "security": "Mūsų analizės ekosistemos įgyvendina visišką šifravimą, automatizuotą duomenų maskavimą, griežtus RBAC leidimus ir modelio valdymą, kad apsaugotų nuosavybės teise priklausančius duomenis ir atitiktų teisės aktus (BDAR, HIPAA, SOC 2).",
+      "ctaHeadline": "Sukurkite pažangią duomenų strategiją",
+      "ctaSub": "Paverskite informaciją įžvalga. Įžvalgą paverskite veiksmais."
+    },
+    "information-reporting-systems": {
+      "title": "Informacinės ir ataskaitų teikimo sistemos",
+      "tagline": "Teisinga informacija. Tinkamu laiku. Dėl geresnių sprendimų.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Verslo vadovai ir veiklos komandos priklauso nuo tikslios informacijos, kad galėtų priimti veiksmingus sprendimus. Mūsų informacinės ir ataskaitų teikimo sistemos padeda organizacijoms rinkti, tvarkyti, analizuoti ir pateikti verslo informaciją naudojant struktūrizuotas informacines sistemas, ataskaitų teikimo platformas, prietaisų skydelius ir automatizuotas ataskaitų teikimo darbo eigas.",
+        "Organizacijose informacija dažnai paskirstoma programose, skaičiuoklėse, duomenų bazėse ir operacinėse sistemose. Dėl to sunku susidaryti nuoseklų požiūrį į verslo rezultatus. Padedame integruoti informacijos šaltinius į struktūrizuotas ataskaitų teikimo aplinkas, kurios teikia patikimą, prieinamą ir nuoseklią verslo informaciją."
+      ],
+      "transformation": [
+        "Ataskaitų teikimo sistema neturėtų tiesiog rodyti skaičių. Tai turėtų padėti vartotojams suprasti našumą, nustatyti problemas, atrasti galimybes ir priimti pagrįstus sprendimus.",
+        "Kuriame ataskaitų teikimo aplinkas atsižvelgiant į jūsų organizacijos veiklą, teikdami struktūrizuotas duomenų ekosistemas, pritaikytas visoms valdymo pakopoms."
+      ],
+      "capabilities": [
+        {
+          "title": "Valdymo informacinės sistemos (MIS)",
+          "desc": "Sukurti vieningas informacines sistemas, užtikrinančias vykdomajai vadovybei atitinkamą veiklos ir strateginį matomumą."
+        },
+        {
+          "title": "Verslo ataskaitos",
+          "desc": "Paverskite neapdorotus verslo duomenis iš kelių kanalų į struktūrizuotas, standartizuotas ataskaitas, kurios nuolat stebi našumą."
+        },
+        {
+          "title": "Interaktyvios informacijos suvestinės",
+          "desc": "Teikti realiu laiku arba suplanuotą interaktyvų kritinės verslo metrikos, KPI, tendencijų ir padalinių veiklos matomumą."
+        },
+        {
+          "title": "KPI valdymas",
+          "desc": "Apibrėžkite, stebėkite ir palyginkite reikšmingus veiklos KPI, tiesiogiai suderintus su pagrindiniais įmonės augimo tikslais."
+        },
+        {
+          "title": "Duomenų integravimas",
+          "desc": "Integruokite paskirstytus duomenų šaltinius į suvienodintas duomenų saugyklas ir semantinius sluoksnius, kad galėtumėte nuosekliai teikti ataskaitas per vieną stiklo plokštę."
+        },
+        {
+          "title": "Automatinis ataskaitų teikimas",
+          "desc": "Automatiškai generuokite ir platinkite personalizuotas ataskaitas pagal iš anksto nustatytus grafikus, verslo taisykles ir gavėjų hierarchijas."
+        }
+      ],
+      "lifecycleSteps": [
+        "Verslo sistemos",
+        "Duomenų rinkimas",
+        "Duomenų integravimas",
+        "Duomenų apdorojimas",
+        "Duomenų saugykla",
+        "Analizė",
+        "Ataskaitos ir prietaisų skydeliai"
+      ],
+      "benefits": [
+        "Vienintelis tiesos šaltinis visoje įmonėje",
+        "Greitesnė prieiga prie operatyvinės metrikos realiuoju laiku",
+        "Visiškai pašalintas rankinis skaičiuoklės surinkimas",
+        "Nuosekli, suderinti įvairių skyrių KPI",
+        "Aukščiausia vadovų priežiūra ir auditas",
+        "Automatizuotas platinimas tiesiogiai suinteresuotosioms šalims",
+        "Detali eilutės lygio duomenų sauga ir leidimai",
+        "Padidintas judrumas reaguojant į veikimo anomalijas"
+      ],
+      "security": "Verslo informacijoje gali būti neskelbtinų veiklos, finansinių ir klientų duomenų. Mūsų ataskaitų teikimo sprendimai į ataskaitų teikimo architektūrą įtraukia kelių veiksnių autentifikavimą, detalų vaidmenimis pagrįstą autorizavimą, šifravimą ir audito žurnalus.",
+      "ctaHeadline": "Ataskaitų teikimas, skatinantis augimą",
+      "ctaSub": "Padarykite informaciją prieinamą. Padarykite našumą matomą. Priimkite geresnius sprendimus."
+    },
+    "managed-services": {
+      "title": "Valdomos paslaugos",
+      "tagline": "Patikimos technologijos operacijos. Ekspertų pagalba. Nuolatinis tobulėjimas.",
+      "heroBadge": "IT operacijos ir palaikymas visą parą",
+      "overview": [
+        "Šiuolaikinės IT aplinkos yra sudėtingos ir nuolat kinta. Organizacijoms reikia patikimos infrastruktūros, taikomųjų programų, tinklų, saugos, stebėjimo ir techninės pagalbos, kad verslas veiktų.",
+        "Mūsų valdomos paslaugos teikia nuolatinį technologijų valdymą ir veiklos palaikymą, leidžiančią organizacijoms išlaikyti patikimą IT aplinką, o vidinės komandos sutelkia dėmesį į strategines iniciatyvas."
+      ],
+      "transformation": [
+        "Tradicinė IT pagalba dažnai yra skirta problemų sprendimui joms iškilus. Valdomos paslaugos laikosi iniciatyvaus požiūrio, nuolat stebint infrastruktūrą, programas, sistemas ir veiklos aplinką.",
+        "Šis metodas padeda anksti nustatyti galimas problemas, palaikyti našumą, pagerinti pasiekiamumą ir sumažinti išvengiamus veikimo sutrikimus."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktūros valdymas",
+          "desc": "Palaikykite nuolatinį serverių, saugyklos, virtualizacijos platformų ir infrastruktūros veikimą, pataisymą ir valdymą."
+        },
+        {
+          "title": "Debesų valdymas",
+          "desc": "Tvarkykite debesų darbo krūvius, kelių debesų išteklius, konfigūracijas, stebėjimą, našumą ir FinOps optimizavimą."
+        },
+        {
+          "title": "Tinklo valdymas",
+          "desc": "Teikti 24/7 stebėjimą, našumo valdymą, konfigūracijos palaikymą, SD-WAN optimizavimą ir tinklo problemų sprendimą."
+        },
+        {
+          "title": "Programų valdymas",
+          "desc": "Palaikykite svarbias taikomųjų programų aplinkas aktyviai stebėdami, prižiūrėdami, sprendžiant klaidas ir atnaujindami veiklą."
+        },
+        {
+          "title": "Stebėjimas ir stebėjimas",
+          "desc": "Pateikite visapusišką sistemos būklės, delsos, veikimo laiko, infrastruktūros priklausomybių ir įspėjimų matomumą realiuoju laiku."
+        },
+        {
+          "title": "Atsarginės kopijos ir atkūrimo valdymas",
+          "desc": "Tvarkykite automatinius atsarginių kopijų kūrimo grafikus, reguliariai tikrinkite pertrūkius ir užtikrinkite momentines atkūrimo galimybes."
+        },
+        {
+          "title": "Apsaugos operacijos (SecOps)",
+          "desc": "Teikti nuolatinį saugumo stebėjimą, pataisų valdymą, prieigos kontrolės vykdymą ir aktyvų grėsmių mažinimą."
+        }
+      ],
+      "lifecycleSteps": [
+        "Aplinkos mokymas",
+        "Atradimas ir pradinė padėtis",
+        "Telemetrijos integravimas",
+        "SLA apibrėžimas",
+        "Aktyvus stebėjimas visą parą",
+        "Incidentų klasifikacija",
+        "Greitas sprendimas",
+        "Pagrindinės priežasties analizė",
+        "Prevencinė inžinerija",
+        "Nuolatinis optimizavimas"
+      ],
+      "benefits": [
+        "Žymiai sumažinta vidinė veiklos našta",
+        "Aktyvus problemų aptikimas prieš paveikiant vartotojus",
+        "Garantuojamas 99,99 % sistemos prieinamumas ir veikimo laikas",
+        "Nuspėjamas, skaidrus IT veiklos biudžeto sudarymas",
+        "Greita prieiga prie vyresniųjų inžinerinių specialistų",
+        "Greitas SLA paremtas reagavimo į incidentus laikas",
+        "Automatizuotas atkūrimas po nelaimių ir veiklos tęstinumas",
+        "Nuolatinis technologijų optimizavimas ir modernizavimas"
+      ],
+      "security": "Mūsų valdomos operacijos atitinka griežtas ITIL ir ISO sistemas, užtikrinančias šifruotą prieigą, izoliuotus audito žurnalus, mažiausiai privilegijų kredencialų saugyklą ir atitikties suderinimą visuose valdomuose šaltiniuose.",
+      "ctaHeadline": "Nuolatinis tobulinimas",
+      "ctaSub": "Jūs sutelkiate dėmesį į savo verslą. Mes padedame išlaikyti jūsų technologiją."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Vieno langelio technologijų sprendimai",
+      "tagline": "Vienas technologijų partneris. Kelios galimybės. Išsamūs verslo sprendimai.",
+      "heroBadge": "Vieningas įmonės partneris",
+      "overview": [
+        "Organizacijos dažnai bendradarbiauja su keliais infrastruktūros, debesų, taikomųjų programų, automatizavimo, analizės, saugumo, palaikymo ir skaitmeninės transformacijos technologijų tiekėjais. Kelių tiekėjų valdymas gali sukurti sudėtingumą, komunikacijos spragas, pasikartojančias pastangas ir suskaidytą technologijų aplinką.",
+        "Mūsų „vieno langelio“ technologijų sprendimų metodas sujungia kelias galimybes į vieningą paslaugų modelį, padeda organizacijoms planuoti, įgyvendinti, integruoti, veikti ir nuolat tobulinti savo technologijų aplinką."
+      ],
+      "transformation": [
+        "Mes palaikome visą technologijos gyvavimo ciklą – nuo ​​verslo reikalavimų supratimo ir technologijos strategijos apibrėžimo iki sprendimų kūrimo, platformų diegimo, sistemų integravimo, taikomųjų programų diegimo, aplinkos stebėjimo ir nuolatinio palaikymo.",
+        "Tikslas yra sukurti sujungtą technologijų ekosistemą, o ne atskirus sprendimus."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategija ir architektūra",
+          "desc": "Supraskite verslo tikslus ir kurkite keičiamo dydžio, saugias ir prižiūrimas technologijų architektūras."
+        },
+        {
+          "title": "Diegimas ir kūrimas",
+          "desc": "Įdiekite programas, infrastruktūrą, integracijas, automatizavimą ir skaitmenines platformas su įmonės griežtumu."
+        },
+        {
+          "title": "Sistemos integravimas",
+          "desc": "Sujunkite sistemas ir programas, kad informacija sklandžiai judėtų visoje organizacijoje."
+        },
+        {
+          "title": "Struktūrinis diegimas",
+          "desc": "Sukurkite automatizuotus CI/CD ir išleidimo procesus, kad sprendimai būtų patikimai ir saugiai perkelti į gamybą."
+        },
+        {
+          "title": "Nuolatinis stebėjimas",
+          "desc": "Teikti infrastruktūros, taikomųjų programų, našumo, pasiekiamumo ir veikimo būklės matomumą iki galo."
+        },
+        {
+          "title": "Optimizavimas ir palaikymas",
+          "desc": "Nuolat peržiūrėkite aplinkas, kad pagerintumėte našumą, patikimumą, ekonomiškumą ir mastelio keitimą."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategija",
+        "Architektūra",
+        "Įgyvendinimas",
+        "Integracija",
+        "Diegimas",
+        "Stebėjimas",
+        "Optimizavimas",
+        "Palaikymas"
+      ],
+      "benefits": [
+        "Sumažėjo tiekėjo valdymo sudėtingumas ir papildomos išlaidos",
+        "Sklandus visų architektūrinių sluoksnių derinimas",
+        "Greitesnis projekto vykdymas be nulinio perdavimo delsos",
+        "Nuspėjamas biudžeto paskirstymas ir skaidrus pristatymas",
+        "Vieninga įmonės atskaitomybė nuo nulio iki masto",
+        "Keičiami sprendimai, skirti verslo augimui ateityje",
+        "Ilgalaikė patikima technologijų partnerystė",
+        "Visapusiška skaitmeninė transformacija iki galo"
+      ],
+      "security": "Kai vienas patikimas partneris prižiūri architektūrą, įgyvendinimą ir operacijas, saugumo valdymas išlieka nepakitęs visose pakopose – pašalinamos integracijos aklos zonos ir užtikrinamas nuolatinis atitikimas.",
+      "ctaHeadline": "Jūsų visas technologijų partneris",
+      "ctaSub": "Vienas partneris. Viena vizija. Kelios technologijos. Išbaigti sprendimai."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Įmonės apžvalga",
+    "overviewTitle": "Pažangi technologija išmatuojamiems rezultatams",
+    "transformationEyebrow": "Operatyvinė transformacija",
+    "transformationTitle": "Verslo transformavimas naudojant išmaniąsias darbo eigas",
+    "deliveryEyebrow": "Struktūrinis pristatymo metodas",
+    "deliveryTitle": "Nuo galo iki galo vykdymas ir nuolatinis optimizavimas",
+    "deliveryIntro": "Mūsų patikrintas diegimo metodas atitinka griežtą pristatymo gyvavimo ciklą:",
+    "deliveryOutro": "Ši struktūrinė seka užtikrina glaudų derinimą su verslo tikslais, tvirtą saugumo laikyseną ir išmatuojamus IG etalonus kiekviename etape.",
+    "securityEyebrow": "Saugumas ir valdymas",
+    "securityTitle": "Įmonės lygio patikimumo ir atitikties apsaugos priemonės",
+    "securityOutro": "Įdiegiame griežtą vaidmenimis pagrįstą prieigos kontrolę, automatinį pažeidžiamumo nuskaitymą, modelio valdymą ir kelių pakopų šifravimą, kad jūsų gamybos aplinka išliktų atspari ir visiškai atitiktų reikalavimus.",
+    "capabilitiesTitle": "Pagrindinės technologijos galimybės",
+    "capabilitiesSub": "Išsamios techninės kompetencijos, sukurtos siekiant išplėsti jūsų skaitmenines operacijas.",
+    "bookDiscovery": "Knygų technologijų atradimas",
+    "exploreAll": "Naršykite visas technologijas",
+    "bookConsultation": "Užsisakykite konsultaciją",
+    "coreCapabilities": "Pagrindinės galimybės"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Pagrindinės galimybės",
+    "exploreFramework": "Naršykite sprendimų sistemą",
+    "bookConsultation": "Užsisakykite konsultaciją",
+    "viewCaseStudies": "Peržiūrėkite atvejų tyrimus",
+    "provenPillars": "Patvirtinti stulpai",
+    "operationalOutcomes": "Veiklos rezultatai",
+    "learnMore": "Sužinokite daugiau"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Visapusiška skaitmeninė inžinerija",
+      "titlePart1": "Įkūrimo pradžia Iki",
+      "titlePart2": "Diegimas",
+      "description": "Visiškas naujų skaitmeninių sprendimų kūrimas nuo verslo reikalavimų ir sprendimų architektūros iki kūrimo, integravimo, testavimo, diegimo ir nuolatinio palaikymo.",
+      "bookConsultation": "Užsisakykite konsultaciją",
+      "exploreEngineering": "Naršykite sprendimų inžineriją",
+      "coreCapabilities": [
+        "Reikalavimai Inžinerija",
+        "Sprendimo architektūra",
+        "Programų kūrimas",
+        "API integravimas",
+        "Kokybės užtikrinimas",
+        "DevOps",
+        "Diegimas",
+        "Pagalba ir priežiūra"
+      ],
+      "row1Eyebrow": "Viso gyvavimo ciklo pristatymas",
+      "row1Title": "Visapusiškas kūrimas nuo reikalavimų iki masto",
+      "row1P1": "Kiekviena nauja skaitmeninė iniciatyva prasideda nuo unikalių reikalavimų, darbo eigos ir strateginių tikslų, kurių neįmanoma pasiekti naudojant visiems tinkančią programinę įrangą. Mes specializuojamės kurdami pasirinktines, aukštos kokybės programinės įrangos sistemas visiškai nuo nulio.",
+      "row1P2": "Nuo pradinių reikalavimų nustatymo ir techninės architektūros projektavimo iki judraus sprinto kūrimo, API ekosistemų integravimo, patikimų testavimo vamzdynų ir automatizuoto debesies diegimo – mūsų vyresniosios inžinierių komandos visiškai prisiima jūsų produkto gyvavimo ciklą.",
+      "row2Eyebrow": "Sprendimų architektūra ir inžinerija",
+      "row2Title": "Keičiamos sistemos, sukurtos įmonės augimui",
+      "row2P1": "Kuriame atsparias programinės įrangos architektūras, pritaikytas atlaikyti dideles gamybos apkrovas. Nuo modulinių mikropaslaugų ir įvykiais pagrįstų užpakalinių sistemų iki didelio našumo duomenų srautų ir GraphQL/REST API – kuriame platformas, kurios lengvai keičiasi.",
+      "row2P2": "Sukurdami švarias, modulines kodų bazes, suporuotas su automatizuotu testavimu ir nuolatiniu saugos laikymusi, užtikriname, kad jūsų programinės įrangos pagrindas yra prižiūrimas, audituojamas ir paruoštas ilgalaikei evoliucijai.",
+      "row3Eyebrow": "Kokybės užtikrinimas ir DevOps",
+      "row3Title": "Judrus pristatymas su automatizuotais vamzdynais",
+      "row3P1": "Mūsų pristatymo modelis apima automatinį vienetą, integravimą ir visišką regresijos testavimą kartu su konteinerinėmis CI / CD darbo eigomis („Docker“, „Kubernetes“, AWS / Azure / GCP).",
+      "row3P2": "Naudodami skaidrias sprinto demonstracines versijas, stebėjimą realiuoju laiku ir gairių lemiamą greitį užtikriname greitą pateikimą į rinką nepakenkdami saugumui, stabilumui ar naudotojo patirčiai.",
+      "row4Eyebrow": "Diegimas ir palaikymas",
+      "row4Title": "Patikimas darbas 24 valandas per parą ir 7 dienas per savaitę ir ilgalaikė raida",
+      "row4P1": "Tiesioginis transliavimas yra tik pradžia. Teikiame aktyvų stebėjimą, SLA palaikomą priežiūrą, debesų infrastruktūros optimizavimą, našumo derinimą ir nuolatinį funkcijų diegimą.",
+      "row4P2": "Mūsų inžinierių komanda veikia kaip natūralus jūsų organizacijos tęsinys, užtikrinantis nulinę prastovą ir nuolatinį technologinį pranašumą jūsų rinkoje.",
+      "pillarsTitle": "Pagrindinės galimybės",
+      "pillarsSub": "Visos pilno krūvos galimybės, sukurtos taip, kad jūsų idėjos nuo nulio iki gamybos būtų perkeltos.",
+      "pillar1Title": "Reikalavimai Inžinerija",
+      "pillar1Desc": "Išsami verslo analizė, funkcinės specifikacijos ir vartotojo kelionės žemėlapis, siekiant apibrėžti tikslias sprendimo ribas.",
+      "pillar2Title": "Sprendimo architektūra",
+      "pillar2Desc": "Keičiamos debesies architektūros, duomenų bazių modeliavimas, mikropaslaugų projektavimas ir nulinio pasitikėjimo saugumo pagrindai.",
+      "pillar3Title": "Programų kūrimas",
+      "pillar3Desc": "Šiuolaikinės visos žiniatinklio ir mobiliosios programos, sukurtos naudojant švarų kodą, tipo saugos ir reaktyviosios vartotojo sąsajos standartus.",
+      "pillar4Title": "API integravimas",
+      "pillar4Desc": "Didelio našumo REST/GraphQL API, webhook orkestruotės, mokėjimo šliuzai ir sklandus trečiųjų šalių ERP/CRM sinchronizavimas.",
+      "ctaTitle": "Pasiruošę sukurti savo sprendimą nuo pradžios iki diegimo?",
+      "ctaSub": "Bendradarbiaukite su „Rezonants“, kad sukurtumėte, sukurtumėte ir diegtumėte savo pasirinktinę skaitmeninę platformą nuo verslo reikalavimų iki gamybos realybės.",
+      "ctaButton": "Užsisakykite sprendimo konsultaciją",
+      "pillar5Title": "Kokybės užtikrinimas",
+      "pillar5Desc": "Griežtas testavimo automatizavimas, apkrovos/streso testavimas, pažeidžiamumo nuskaitymai ir regresijos testų rinkiniai.",
+      "pillar6Title": "DevOps ir diegimas",
+      "pillar6Desc": "Automatizuoti CI/CD vamzdynai, konteinerių orkestravimas (Docker/K8s), infrastruktūra kaip kodas ir išleidimai be prastovų.",
+      "pillar7Title": "Pagalba ir priežiūra",
+      "pillar7Desc": "Proaktyvus stebėjimas visą parą, sveikatos telemetrija, veiklos auditas, saugos pataisymai ir nuolatinė SLA priežiūra.",
+      "pillar8Title": "Nuolatinės naujovės",
+      "pillar8Desc": "Reguliarus funkcijų greitis, duomenų analizės integravimas, AI tobulinimas ir architektūros modernizavimas."
+    },
+    "processAutomation": {
+      "eyebrow": "Pažangios proceso operacijos",
+      "titlePart1": "Verslo procesas",
+      "titlePart2": "Automatika",
+      "description": "Visapusiškas įmonės darbo eigos automatizavimas, derinant robotizuotą procesų automatizavimą (RPA), intelektualų dokumentų apdorojimą, verslo taisyklių variklius ir sistemų integravimą.",
+      "bookDiscovery": "Knygų automatizavimo atradimas",
+      "exploreFramework": "Naršykite sprendimų sistemą",
+      "coreCapabilities": [
+        "Darbo eigos automatizavimas",
+        "Robotų procesų automatizavimas",
+        "Dokumentų apdorojimas",
+        "Integracijos inžinerija",
+        "Verslo taisyklės Varikliai",
+        "Apdorokite analizę",
+        "Nuolatinis optimizavimas",
+        "Senasis integravimas"
+      ],
+      "row1Eyebrow": "Robotų procesų automatizavimas",
+      "row1Title": "Išmanieji robotai didelės apimties operacijoms",
+      "row1P1": "Pašalinkite pasikartojantį rankinį duomenų įvedimą, kelių sistemų suderinimą ir dokumentų nukreipimą. Diegiame įmonės RPA robotus, kurie atlieka struktūrizuotas užduotis 24 valandas per parą, 7 dienas per savaitę su nuliniu klaidų lygiu.",
+      "row1P2": "Sujungę senas darbalaukio sąsajas, SAP/ERP vidines sistemas ir debesų duomenų bazes, programinės įrangos robotai leidžia jūsų komandai sutelkti dėmesį į strategines verslo iniciatyvas.",
+      "row2Eyebrow": "Pažangus dokumentų apdorojimas",
+      "row2Title": "OCR, mašininis mokymasis ir dokumentų AI",
+      "row2P1": "Automatiškai gaukite, klasifikuokite ir ištraukite duomenis iš sąskaitų faktūrų, sutarčių, asmens dokumentų ir pretenzijų. Mūsų dirbtinio intelekto pagrįsti vamzdynai patvirtina laukus pagal vidines duomenų bazes ir suaktyvina automatines patvirtinimo darbo eigas.",
+      "row2P2": "Pasiekite tiesioginio apdorojimo greitį, viršijantį 95%, tuo pačiu drastiškai sumažindami apdorojimo laiką nuo dienų iki sekundžių.",
+      "row3Eyebrow": "Proceso orkestravimas",
+      "row3Title": "Ištisinis kelių platformų sinchronizavimas",
+      "row3P1": "Sujunkite CRM, ERP, HRMS ir bankininkystės API į vieningus realaus laiko duomenų srautus. Diegiame įvykiais pagrįstus aktyviklius, pranešimų eiles ir automatines atsargines tvarkykles.",
+      "row3P2": "Informacija sklandžiai perduodama skyriuose be žmogaus įsikišimo, pašalinant eksploatacinius silosus ir ryšio vėlavimus.",
+      "row4Eyebrow": "Nuolatinė telemetrija",
+      "row4Title": "Procesų analizė realiuoju laiku ir Kaizen įžvalgos",
+      "row4P1": "Stebėkite procesų vykdymo laiką, kliūčių karščio žemėlapius, klaidų dažnumą ir finansinę investicijų grąžą realiuoju laiku vykdomosiose informacijos suvestinėse.",
+      "row4P2": "Nuolatinė mašininio mokymosi diagnostika atranda naujų automatizavimo galimybių, kad jūsų įmonė veiktų maksimaliai efektyviai.",
+      "pillarsTitle": "Automatikos ramsčiai",
+      "pillarsSub": "Patikrintos išmaniosios įmonės veiklos kūrimo blokai.",
+      "pillar1Title": "Darbo eigos automatizavimas",
+      "pillar1Desc": "Daugiapakopis žmogaus ciklas ir skaitmeninės darbo eigos, suderintos su automatizuotu maršruto parinkimu ir eskalavimu.",
+      "pillar2Title": "Robotų procesų automatizavimas",
+      "pillar2Desc": "Taisyklėmis pagrįsti programinės įrangos robotai, vykdantys įprastines duomenų įvedimo, derinimo ir kryžminių programų užduotis.",
+      "pillar3Title": "Pažangi AI automatizacija",
+      "pillar3Desc": "Kognityviniai AI agentai, kurie interpretuoja kontekstą, apibendrina nestruktūruotą tekstą ir priima automatizuotus sprendimus.",
+      "pillar4Title": "Proceso optimizavimas",
+      "pillar4Desc": "Procesų gavyba, kliūčių aptikimas ir Kaizen darbo eigos, kurios nuolat mažina veiklos išlaidas.",
+      "ctaTitle": "Pasiruošę automatizuoti savo verslo darbo eigą?",
+      "ctaSub": "Susisiekite su mūsų automatikos architektais, kad nustatytumėte didelės IG galimybes ir įdiegtumėte išmaniąsias skaitmenines darbo eigas.",
+      "ctaButton": "Užsisakykite automatikos konsultaciją"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Inžinerijos standartas ir moksliniai tyrimai ir plėtra",
+      "titlePart1": "Centras",
+      "titlePart2": "Puikybė",
+      "description": "Centralizuota vyresniųjų architektų ir srities specialistų organizacija, skirta inžinerinės praktikos standartizavimui, inovacijų skatinimui ir skaitmeninių iniciatyvų spartinimui.",
+      "exploreStandards": "Naršykite inžinerinius standartus",
+      "initiateAssessment": "Inicijuoti COE vertinimą",
+      "coreCapabilities": [
+        "Architektūros standartai",
+        "Daugkartiniai karkasai",
+        "Geriausios praktikos valdymas",
+        "Įgūdžių ugdymas",
+        "Kokybės lyginamoji analizė",
+        "Moksliniai tyrimai ir plėtra bei inovacijos",
+        "Technologijų įvertinimas",
+        "Vadovavimas tarp projektų"
+      ],
+      "uptimeLabel": "Įmonės veikimo laikas",
+      "engineersLabel": "Inžinieriai ir architektai",
+      "deploymentsLabel": "AI ir debesų diegimas",
+      "satisfactionLabel": "Klientų pasitenkinimas",
+      "row1Eyebrow": "01 ramstis – inžinerinis standartas",
+      "row1Title": "Didelio našumo programinės įrangos inžinerija",
+      "row1P1": "Mūsų kompetencijos centras nustato standartizuotus projektavimo modelius, griežtą automatizuotą testavimą ir kodo peržiūros be defektų praktiką, kuri pagreitina pateikimą į rinką ir tuo pačiu sumažina technines skolas iki nulio.",
+      "row1F1": "Automatiniai CI / CD išleidimo vamzdynai su DORA metrikos analize",
+      "row1F2": "Griežtos architektūros peržiūros tarybos ir mikropaslaugų valdymas",
+      "row1F3": "Nuolatinis saugos šukavimas ir automatizuotas pažeidžiamumo pataisymas",
+      "row1Btn": "Išmokite inžinerinių standartų",
+      "row1Tag": "DevOps ir kokybės inžinerija",
+      "row2Eyebrow": "02 ramstis – MTTP naujovės",
+      "row2Title": "AI inovacijų laboratorija ir naujos technologijos",
+      "row2P1": "Eksperimentuojame su naujausiais mašininio mokymosi modeliais, pasirinktiniais AI agentais ir išmaniuoju darbo eigos automatizavimu, kad sukurtume naujos kartos įmonės produktus.",
+      "row2F1": "Įmonių generuojantis AI ir RAG žinių integravimas",
+      "row2F2": "Autonominės AI agento darbo eigos verslo procesų automatizavimui",
+      "row2F3": "Pasirinktinis mašininio mokymosi modelio optimizavimas ir koregavimas",
+      "row2Btn": "Naršykite AI laboratoriją",
+      "row2Tag": "Dirbtinis intelektas ir neuroniniai tyrimai ir plėtra",
+      "row3Eyebrow": "03 ramstis – Infrastruktūra",
+      "row3Title": "„Enterprise Cloud Architecture“ ir „Zero-Trust Security“.",
+      "row3P1": "Kuriame ir valdome atsparias kelių debesų aplinkas, pagrįstas nulinio pasitikėjimo saugumo sistemomis, užtikrinančiomis, kad jūsų duomenys būtų apsaugoti nuo besivystančių pasaulinių kibernetinių grėsmių.",
+      "row3F1": "AWS, Azure ir GCP kelių debesų infrastruktūros orkestravimas",
+      "row3F2": "Nulinio pasitikėjimo tinklo prieiga (ZTNA) ir vaidmenimis pagrįsta IAM politika",
+      "row3F3": "Automatizuotas konteinerių saugos nuskaitymas ir slaptas valdymas",
+      "row3Btn": "Naršykite debesį ir saugą",
+      "row3Tag": "Debesų architektūra ir nulinis pasitikėjimas",
+      "pillarsTitle": "Mūsų pagrindinės kompetencijos sistemos",
+      "pillarsSub": "Susisteminti kūrimo žaidimai, aprūpinantys itin svarbias platformas.",
+      "pillar1Title": "Architektūros peržiūros taryba (ARB)",
+      "pillar1Desc": "Visapusiška priežiūra, užtikrinanti, kad visi įmonės sprendimai atitiktų griežtus mastelio keitimo, saugos ir atitikties protokolus.",
+      "pillar2Title": "Daugkartinio naudojimo greitintuvai ir komponentų biblioteka",
+      "pillar2Desc": "Patentuotos dizaino sistemos, API pradiniai rinkiniai ir užpakalinių mikro paslaugų šablonai sumažina pradinio kūrimo laiką 40%.",
+      "pillar3Title": "Nuolatinis našumo profiliavimas",
+      "pillar3Desc": "Pažangūs stebėjimo realiuoju laiku vamzdynai stebi programos delsą, pralaidumo kliūtis ir debesies išteklių panaudojimą.",
+      "pillar4Title": "Talentų ugdymas ir gildijos",
+      "pillar4Desc": "Struktūrizuotos vidinės gildijos ir sertifikatai, ugdantys gilius techninius debesies, DevOps ir taikomojo AI įgūdžius.",
+      "ctaTitle": "Padidinkite savo inžinerijos standartą",
+      "ctaSub": "Bendradarbiaukite su „Rezonants“ kompetencijos centru, kad sukurtumėte atsparias debesų architektūras, automatizuotumėte darbo eigą ir paspartintumėte skaitmeninių produktų pristatymą.",
+      "ctaButton": "Suplanuokite vadovo konsultaciją",
+      "badge": "REZONANTS COE",
+      "scroll": "Slinkite",
+      "p1Title": "Valdymas ir sistemos",
+      "p1Desc": "Nustatyti visos įmonės architektūrinį valdymą, politikos apsauginius turėklus ir atitikties standartus.",
+      "p1Tag": "Valdymas",
+      "p2Title": "Technologijų standartai ir architektūra",
+      "p2Desc": "Apibrėžkite modernias etalonines architektūras, patikrintų technologijų krūvas ir mikropaslaugų modelius.",
+      "p2Tag": "Architektūra",
+      "p3Title": "Daugkartinis turtas ir bibliotekos",
+      "p3Desc": "Paspartinkite kūrimo greitį naudodami bendrus komponentus, šablonus, pradinius rinkinius ir projektavimo sistemas.",
+      "p3Tag": "Pakartotinis naudojimas",
+      "p4Title": "Kompetencijos ugdymas",
+      "p4Desc": "Struktūrinis mokymas, technologijų mentorystė ir įgūdžių ugdymas, siekiant pakelti komandos inžinerinį meistriškumą.",
+      "p4Tag": "Kompetencija",
+      "p5Title": "Inovacijos ir naujos technologijos",
+      "p5Desc": "DI agentų, automatizavimo vamzdynų ir naujos kartos sistemų moksliniai tyrimai ir plėtra, siekiant išlaikyti pranašumą rinkoje.",
+      "p5Tag": "Inovacijos",
+      "p6Title": "Nuolatinis tobulinimas",
+      "p6Desc": "Duomenimis pagrįsta inžinerinė metrika (DORA), SLA lyginamoji analizė ir nuolatinis kokybės optimizavimas.",
+      "p6Tag": "Kokybė"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Pritaikyta skaitmeninė inžinerija",
+      "titlePart1": "Individualizuotas kūrimas ir",
+      "titlePart2": "Pritaikymas",
+      "description": "Programų, platformų, darbo eigos ir įmonės sprendimų kūrimas ir tobulinimas, siekiant patenkinti unikalius verslo reikalavimus ir teikti pritaikytas funkcijas.",
+      "bookConsultation": "Užsisakykite konsultaciją",
+      "exploreCapabilities": "Ištirkite galimybes",
+      "coreCapabilities": [
+        "Individualizuotas kūrimas",
+        "Platformos konfigūracija",
+        "Plėtiniai",
+        "Pasirinktinės darbo eigos",
+        "API kūrimas",
+        "Sistemos integravimas",
+        "UI/UX patobulinimas",
+        "Našumo optimizavimas"
+      ],
+      "row1Eyebrow": "PRITAIKYTAS FUNKCIONALIMAS",
+      "row1Title": "Specialios funkcijos, sukurtos jūsų darbo eigai",
+      "row1P1": "Standartinė įmonės programinė įranga dažnai neatitinka specializuotų verslo poreikių. Mūsų inžinierių komanda kuria pagal užsakymą pritaikytus programų modulius, tinkintas verslo taisykles ir specializuotus plėtinius, pritaikytus jūsų veiklai.",
+      "row1P2": "Nuo tinkintų CRM ir ERP patobulinimų iki specializuotų operatyvinių portalų, kuriame funkcijas, kurios sklandžiai derinamos su tiksliais jūsų komandos darbo eigos modeliais.",
+      "row2Eyebrow": "ĮMONĖS SISTEMOS INTEGRAVIMAS",
+      "row2Title": "Platformos konfigūravimas ir API kūrimas",
+      "row2P1": "Sujunkite skirtingas programinės įrangos sistemas į vieningą skaitmeninę ekosistemą. Sukuriame tinkintas REST ir GraphQL API, webhook tvarkykles ir įmonės pranešimų eiles, kad užtikrintume duomenų sinchronizavimą realiuoju laiku visose jūsų platformose.",
+      "row2P2": "Nesvarbu, ar integruojame trečiųjų šalių SaaS įrankius, ar plečiame patentuotas vietines platformas, mūsų integravimo architektūrose pirmenybė teikiama duomenų vientisumui, pralaidumui ir nuliui prastovų.",
+      "row3Eyebrow": "UI/UX IR VEIKSMAI",
+      "row3Title": "UI/UX patobulinimai ir našumo optimizavimas",
+      "row3P1": "Patobulinkite pasenusias sąsajas su moderniomis, reaguojančiomis naudotojo patirtimi, sukurta siekiant greitumo ir aiškumo. Perkuriame sąsajas su intuityviais dizaino modeliais, pritaikymo neįgaliesiems atitikimu ir supaprastintais sąveikos modeliais.",
+      "row3P2": "Lygiagrečiai mūsų našumo inžinieriai optimizuoja duomenų bazių užklausas, talpyklos strategijas ir sąsajos paketų dydžius, kad užtikrintų momentinį atsako laiką visuose įrenginiuose.",
+      "pillarsTitle": "Sukurta pagal jūsų tikslias specifikacijas",
+      "pillarsSub": "Įmonės lygio tinkinimo metodikos, sukurtos sklandžiai keisti mastelį.",
+      "pillar1Title": "Pasirinktinės darbo eigos ir plėtiniai",
+      "pillar1Desc": "Pritaikyta programų logika ir automatizuotos būsenos mašinos, sukonfigūruotos konkrečiai pagal jūsų vidines veiklos taisykles.",
+      "pillar2Title": "API ir sistemos integravimas",
+      "pillar2Desc": "Saugūs, autentifikuoti duomenų tiltai, jungiantys patentuotas vidines sistemas, ERP rinkinius, mokėjimo šliuzus ir debesies paslaugas.",
+      "pillar3Title": "Platformos konfigūracija",
+      "pillar3Desc": "Gilios architektūrinės adaptacijos, kurios modifikuoja įmonės programinę įrangą nepažeidžiant atnaujinimo kelių ar pardavėjo palaikymo sutarčių.",
+      "pillar4Title": "Našumo optimizavimas",
+      "pillar4Desc": "Agresyvus užklausų profiliavimas, atminties nutekėjimo pašalinimas ir kraštinis CDN paskirstymas, kai įkeliami po sekundės puslapiai.",
+      "ctaTitle": "Pasiruošę tinkinti savo įmonės platformą?",
+      "ctaSub": "Susisiekite su mūsų sprendimų architektais, kad sukurtumėte ir įdiegtumėte pasirinktinius modulius, darbo eigas ir integracijas, pritaikytas jūsų verslo poreikiams.",
+      "ctaButton": "Užsisakykite pritaikymo skambutį",
+      "badge": "Pritaikyta skaitmeninė inžinerija",
+      "viewAllServices": "Peržiūrėti visas paslaugas"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Įmonės modernizavimas",
+      "titlePart1": "Skaitmeninis",
+      "titlePart2": "Transformacija",
+      "description": "Visapusiškas verslo procesų, technologijų architektūros ir veiklos modelių modernizavimas, siekiant paskatinti organizacijos judrumą, veiklos efektyvumą ir tvarų skaitmeninį augimą.",
+      "startTransformation": "Pradėti transformaciją",
+      "exploreStrategy": "Naršykite strategiją",
+      "coreCapabilities": [
+        "Strategija ir veiksmų planas",
+        "Architektūros modernizavimas",
+        "Debesis ir infrastruktūra",
+        "Duomenys ir analizė",
+        "Proceso skaitmeninimas",
+        "Klientų patirtis",
+        "Pokyčių valdymas",
+        "Judrūs veikimo modeliai"
+      ],
+      "row1Eyebrow": "Strategija ir veiksmų planas",
+      "row1Title": "Nuo vizijos iki vykdomo plano",
+      "row1P1": "Bendradarbiaujame su įmonių vadovais, siekdami apibrėžti skaitmeninę strategiją, verslo atvejus ir laipsniškus gaires su greitais laimėjimais ir nerizikingu vykdymu.",
+      "row1P2": "Prioritetinės iniciatyvos, TCO modeliai ir KPI užtikrina, kad visos technologijos modernizavimo pastangos būtų tiesiogiai susijusios su pajamomis, efektyvumu ir klientų pasitenkinimo rezultatais.",
+      "row2Eyebrow": "Senasis modernizavimas",
+      "row2Title": "Modernizuokite nenutraukdami verslo",
+      "row2P1": "Perkelkite monolitus į mikropaslaugas, API ir vietinius debesies šablonus su nulinės prastovos pertraukomis ir automatiniu regresijos patvirtinimu.",
+      "row2P2": "Modernizuojame programas, duomenų bazes ir integravimo sluoksnius, išlaikydami atitiktį ir saugumą.",
+      "row3Eyebrow": "Debesis, AI ir duomenys",
+      "row3Title": "Debesų pritaikymas ir duomenimis pagrįsta žvalgyba",
+      "row3P1": "Priimkite AWS, Azure ir GCP, kurkite modernius duomenų vamzdynus ir įdėkite mašininio mokymosi agentus, kad galėtumėte priimti savarankiškus sprendimus.",
+      "row3P2": "Nuo įvykių srautinio perdavimo realiuoju laiku iki vieningų prietaisų skydelių transformacija tampa išmatuojama ir tvari.",
+      "row4Eyebrow": "Klientų patirtis",
+      "row4Title": "Šiuolaikinės daugiakanalės patirties",
+      "row4P1": "Perkurkite klientų keliones interaktyviuose žiniatinklio, iOS, Android ir savitarnos portaluose naudodami suasmenintas sąsajas.",
+      "row4P2": "Platformos inžinerija, telemetrija ir automatizuotos grįžtamojo ryšio linijos daro skaitmenines naujoves nuolatines.",
+      "pillarsTitle": "Transformacijos ramsčiai",
+      "pillarsSub": "Į rezultatą orientuoti svertai, užtikrinantys tvarią skaitmeninę lyderystę.",
+      "pillar1Title": "Skaitmeninė strategija ir valdymas",
+      "pillar1Desc": "Laipsniški transformacijos planai su verslo atvejų modeliavimu, architektūros valdymu ir etapų rizikos stebėjimu.",
+      "pillar2Title": "Debesų ir duomenų platforma",
+      "pillar2Desc": "AWS/Azure/GCP kelių debesų pagrindai, automatizuoti vamzdynai ir įmonės duomenų analizės įgalinimas.",
+      "pillar3Title": "AI ir automatika",
+      "pillar3Desc": "Sumanus procesų automatizavimas, kognityviniai AI agentai ir nuspėjamoji telemetrija kasdienėms operacijoms optimizuoti.",
+      "pillar4Title": "Klientų patirtis",
+      "pillar4Desc": "Daug konvertuojantys daugiakanaliai skaitmeniniai portalai ir suasmenintos sąsajos, sukurtos maksimaliam vartotojų išlaikymui.",
+      "ctaTitle": "Pasiruošę pertvarkyti savo įmonę?",
+      "ctaSub": "Bendradarbiaukite su „Rezonants“, siekdami palaipsniui, nerizikingos skaitmeninės transformacijos, susietos su išmatuojamais verslo rezultatais.",
+      "ctaButton": "Užsisakykite skaitmeninės transformacijos skambutį",
+      "bookWorkshop": "Knygų transformavimo dirbtuvės",
+      "exploreFramework": "Naršykite sprendimų sistemą",
+      "coreCapabilitiesTitle": "Pagrindinės galimybės"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Visas technologijos gyvavimo ciklas",
+      "titlePart1": "Nuo galo iki galo sprendimas",
+      "titlePart2": "Karkasas",
+      "description": "Struktūrizuota, viso gyvavimo ciklo pristatymo sistema, apimanti verslo reikalavimus, architektūros projektavimą, inžineriją, integraciją, kokybės užtikrinimą, debesų diegimą ir valdomas operacijas.",
+      "startJourney": "Pradėkite savo projektą",
+      "exploreFramework": "Naršyti Framework",
+      "coreCapabilities": [
+        "Reikalavimų analizė",
+        "Architektūros projektavimas",
+        "Full-Stack kūrimas",
+        "Integracijos inžinerija",
+        "Kokybės užtikrinimas",
+        "Diegimas ir išleidimas",
+        "Vykdomos operacijos",
+        "Nuolatinė raida"
+      ],
+      "row1Eyebrow": "Strategija ir architektūra",
+      "row1Title": "Reikalavimai Inžinerija ir sprendimų projektavimas",
+      "row1P1": "Bendradarbiavimo seminarai, verslo domenų atvaizdavimas ir debesų architektūros specifikacijos, skirtos pašalinti riziką prieš parašant kodo eilutę.",
+      "row1P2": "Mes nustatome duomenų modelius, saugos sistemas ir mastelio gaires, kurios užtikrina ilgalaikę sėkmę.",
+      "row2Eyebrow": "Inžinerija ir kokybė",
+      "row2Title": "„Full Stack“ kūrimas ir automatizuotas testavimas",
+      "row2P1": "Modulinės mikropaslaugos, tipo saugios API ir reaguojančios sąsajos kartu su automatizuotu įrenginiu, integracija ir saugos nuskaitymais.",
+      "row2P2": "Nuolatinės integracijos vamzdynai su GitHub Actions, Terraform ir automatizuotais apsauginiais turėklais.",
+      "row3Eyebrow": "Diegimas ir operacijos",
+      "row3Title": "Debesų diegimas ir 24/7 valdomas stebėjimas",
+      "row3P1": "Kelių debesų orkestravimas naudojant AWS/Azure/GCP su automatiniu atšaukimu, nulinės prastovos pertraukimais ir stebėjimu realiuoju laiku.",
+      "row3P2": "Teikiame SLA palaikomą techninę priežiūrą ir nuolatinį telemetrijos stebėjimą, kad jūsų gaminys būtų tobulinamas sklandžiai.",
+      "row4Eyebrow": "Įmonės valdymas",
+      "row4Title": "Vieningas valdymas ir nuolatinis palaikymas",
+      "row4P1": "Vieno taško atskaitomybė visame skaitmeniniame pakete – skaidrus sprinto greitis, nuspėjamas biudžeto sudarymas ir nuolatinės naujovės.",
+      "row4P2": "Reguliarus funkcijų diegimas ir modernizavimo ciklai išlaiko jūsų įmonę prieš konkurentus.",
+      "pillarsTitle": "Gyvenimo ciklo pagrindų ramsčiai",
+      "pillarsSub": "Kiekvienas etapas sukurtas su įmonės griežtumu.",
+      "pillar1Title": "Strategija ir reikalavimai",
+      "pillar1Desc": "Domeno atradimas, architektūriniai planai ir suinteresuotųjų šalių suderinimas, siekiant pašalinti vykdymo riziką.",
+      "pillar2Title": "Architektūra ir statyba",
+      "pillar2Desc": "Atsparios debesies mikropaslaugos, API integracijos ir nuolatinis kokybės užtikrinimo testavimas.",
+      "pillar3Title": "Sauga ir diegimas",
+      "pillar3Desc": "Nulinio pasitikėjimo saugos atitiktis, konteineriniai leidimai ir automatizuotas debesų diegimas.",
+      "pillar4Title": "Valdymas ir parama",
+      "pillar4Desc": "24/7 SLA stebėjimas, sveikatos telemetrija ir nuolatinė evoliucinė inžinerija.",
+      "ctaTitle": "Reikia viso gyvenimo ciklo partnerio?",
+      "ctaSub": "Mums priklauso visas technologijos gyvavimo ciklas, kad jūsų komanda galėtų sutelkti dėmesį į pagrindinius verslo rezultatus.",
+      "ctaButton": "Viso gyvenimo ciklo partneris"
+    },
+    "migrationServices": {
+      "eyebrow": "Debesų ir infrastruktūros transformacija",
+      "titlePart1": "Migracija ir",
+      "titlePart2": "Modernizavimas",
+      "description": "Saugus, struktūrizuotas pasenusių programų, duomenų bazių ir infrastruktūros perkėlimas į modernias debesų architektūras kartu su nuolatiniu modernizavimu, siekiant padidinti judrumą ir efektyvumą.",
+      "bookAssessment": "Knygų migracijos vertinimas",
+      "exploreStrategy": "Naršykite debesies strategiją",
+      "coreCapabilities": [
+        "Debesų perkėlimas",
+        "Programų modernizavimas",
+        "Duomenų bazės perkėlimas",
+        "Infrastruktūros pertvarkymas",
+        "Konteineris",
+        "Mikropaslaugų perėjimas",
+        "Našumo optimizavimas",
+        "Sauga ir atitiktis"
+      ],
+      "row1Eyebrow": "Debesų perkėlimas",
+      "row1Title": "Kelių debesų strategija ir kelkite ir optimizuokite",
+      "row1P1": "Sklandus darbo krūvio perkėlimas per AWS, Azure ir Google Cloud su automatiniu aptikimu, bangų planavimu ir nuliniu verslo pertraukimu.",
+      "row1P2": "Siekdami optimizuoti bendrąsias nuosavybės išlaidas (TCO) ir judrumą, suderiname pakartotinį prieglobą, platformos keitimą ir pertvarkymą.",
+      "row2Eyebrow": "Duomenų ir duomenų bazių perkėlimas",
+      "row2Title": "Saugus ETL ir automatinis duomenų patvirtinimas",
+      "row2P1": "Automatizuotas duomenų bazės replikavimas, schemų vertimas ir didelio našumo ETL vamzdynai su 100 % duomenų vientisumo patikra.",
+      "row2P2": "Nulinės prastovos pertraukos repeticija užtikrina visišką duomenų nuoseklumą ir veiklos tęstinumą.",
+      "row3Eyebrow": "Platformos modernizavimas",
+      "row3Title": "Konteineris ir Kubernetes orkestravimas",
+      "row3P1": "Modernizuokite senus monolitus į keičiamo dydžio mikropaslaugas, organizuojamas per Kubernetes (EKS, AKS, GKE) su automatizuotais IaC brėžiniais.",
+      "row3P2": "Veiklos profiliavimas po migracijos ir išlaidų optimizavimas užtikrina greitą IG.",
+      "row4Eyebrow": "Iškirpimo planavimas",
+      "row4Title": "Automatinis testavimas ir atšaukimo saugos tinklai",
+      "row4P1": "Mūšio metu patikrintos perjungimo knygos, automatiniai regresijos rinkiniai ir momentiniai atšaukimo mechanizmai, užtikrinantys visišką ramybę.",
+      "row4P2": "Sveikatos telemetrija po migracijos ir 24 valandas per parą, 7 dienas per savaitę veikianti priežiūra garantuoja nepriekaištingą gamybos stabilumą.",
+      "pillarsTitle": "Migracijos garantijos",
+      "pillarsSub": "Nerizikingi žingsniai, paremti įmonės SLA.",
+      "pillar1Title": "Nulinės prastovos pertrauka",
+      "pillar1Desc": "Kanarų leidimai ir duomenų bazės dvigubo rašymo sinchronizavimas, užtikrinantis nepertraukiamą vartotojo prieigą.",
+      "pillar2Title": "Automatizuotas duomenų patvirtinimas",
+      "pillar2Desc": "Kontrolinių sumų palyginimai, schemų vientisumo auditai ir automatizuotas ETL suderinimas.",
+      "pillar3Title": "Atšaukiami apsauginiai tinklai",
+      "pillar3Desc": "Griežti atkūrimo po nelaimių protokolai ir repeticijos, kad būtų išvengta rizikos kiekviename etape.",
+      "pillar4Title": "Našumo ir išlaidų optimizavimas",
+      "pillar4Desc": "Įtrauktas debesų teisių nustatymas, automatinio mastelio keitimo politika ir išlaidų valdymo prietaisų skydeliai.",
+      "ctaTitle": "Pasiruošę migruoti su visišku pasitikėjimu?",
+      "ctaSub": "Bendradarbiaukite su „Rezonants“, siekdami struktūrizuoto, nerizikingo debesų ir duomenų modernizavimo.",
+      "ctaButton": "Suplanuokite savo migracijos seminarą"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Greitas patvirtinimas ir įgyvendinamumas",
+      "titlePart1": "Koncepcijos įrodymas (PoC) ir",
+      "titlePart2": "Bandomasis įgyvendinimas",
+      "description": "Spartus technologinių sprendimų kūrimas ir patvirtinimas, siekiant įvertinti technines galimybes, verslo vertę, integracijos reikalavimus, našumą ir mastelio keitimą prieš visapusį įgyvendinimą.",
+      "initiateDiscovery": "Pradėkite PoC atradimą",
+      "exploreDevelopment": "Naršykite tinkintą kūrimą",
+      "coreCapabilities": [
+        "PoC kūrimas",
+        "Prototipų inžinerija",
+        "Galimybių studijos",
+        "Architektūros patvirtinimas",
+        "Integracijos testavimas",
+        "Veiklos lyginamoji analizė",
+        "Bandomasis diegimas",
+        "Vertės įvertinimas"
+      ],
+      "row1Eyebrow": "Greitas patvirtinimas",
+      "row1Title": "Nuo koncepcijos iki patvirtintos galimybės",
+      "row1P1": "Norint idėją paversti įmonės masto sprendimu, reikia kruopštaus išankstinio patvirtinimo. Mūsų „PoC & Pilot“ paslauga įvertina technologijų gyvybingumą, išbando svarbiausius integravimo kabliukus ir patvirtina verslo IG prieš priimant didelius kapitalo įsipareigojimus.",
+      "row1P2": "Kuriame didelio tikslumo MVP ir tikslinius smėlio dėžės bandomuosius įrenginius, kurie įrodo techninį įgyvendinamumą, įvertina sistemos delsą ir anksti renka tiesioginį suinteresuotųjų šalių patvirtinimą.",
+      "row1Cap": "Greitas MVP prototipų kūrimas ir techniniai etalonai",
+      "row2Eyebrow": "Judrus prototipų kūrimas",
+      "row2Title": "Interaktyvūs MVP ir UX patvirtinimas",
+      "row2P1": "Kuriame interaktyvius rėmelius, spustelėjamus naudotojų srautus ir funkcinius koncepcijų įrodymus per dienas, o ne mėnesius. Išbandykite tikrą naudotojo sąveiką, patikslinkite UI / UX modelius ir surinkite suinteresuotųjų šalių atsiliepimus.",
+      "row2P2": "Ankstyvojo kūrimo metu sutrumpindama grįžtamojo ryšio kilpas, jūsų komanda sumažina pertvarkymą ir nustato aiškias technines specifikacijas prieš pradedant daug kapitalo reikalaujančius kūrimo etapus.",
+      "row2Cap": "Greita iteracija ir paspaudžiami UX prototipai",
+      "row3Eyebrow": "Integracijos ir mastelio testavimas",
+      "row3Title": "Rizikos mažinimas sudėtingas sistemų integravimas",
+      "row3P1": "Prieš įsipareigodami visą kapitalą, atskleiskite technines kliūtis, API apribojimus ir veikimo apribojimus. Mūsų bandomoji inžinierių komanda testuoja integracijas, duomenų srautus ir trečiųjų šalių API izoliuotose smėlio dėžės aplinkose nepalankiausiomis sąlygomis.",
+      "row3P2": "Šis aktyvus rizikos mažinimas užtikrina aukštą sistemos prieinamumą, saugumo atitiktį ir nuspėjamus kūrimo terminus, kai jūsų PoC perkeliamas į įmonės gamybą.",
+      "row3Cap": "Smėlio dėžės integravimas ir testavimas nepalankiausiomis sąlygomis",
+      "row4Eyebrow": "Kontroliuojamos gamybos pilotas",
+      "row4Title": "Tikslinis bandomasis paleidimas ir verslo atvejo patvirtinimas",
+      "row4P1": "Įdiekite tikslinius bandomuosius leidimus pasirinktam vartotojų segmentui arba bandomajai rinkai. Stebėkite našumo metriką, naudotojų priėmimo analizę ir veiklos grįžtamąjį ryšį, kad įvertintumėte verslo vertę ir sukurtumėte duomenimis pagrįstą verslo modelį.",
+      "row4P2": "Turėdami realių bandomųjų įžvalgų, vykdomieji rėmėjai gauna aiškią IG metriką, kad pateisintų platesnį diegimą ir strategines skaitmeninės transformacijos investicijas.",
+      "row4Cap": "Kontroliuojamas diegimas ir našumo telemetrija",
+      "pillarsTitle": "Mūsų pilotinės inžinerijos principai",
+      "pillarsSub": "Pagrindiniai principai, kurie techninį neapibrėžtumą paverčia nuspėjama verslo sėkme.",
+      "pillar1Title": "PoC ir MVP prototipų kūrimas",
+      "pillar1Desc": "Greitai pristatykite funkcinius prototipus, kad patvirtintumėte vertės pasiūlymus ankstyvame gyvavimo ciklo etape.",
+      "pillar2Title": "Galimybės ir patvirtinimas",
+      "pillar2Desc": "Patikrinkite API suderinamumą, pralaidumo slenksčius ir atitikties apribojimus smėlio dėžės aplinkoje.",
+      "pillar3Title": "Mastelio įvertinimas",
+      "pillar3Desc": "Imituokite gamybos apkrovą, kad nustatytumėte pajėgumų ribas ir debesų architektūros dydį.",
+      "pillar4Title": "Verslo atvejo patvirtinimas",
+      "pillar4Desc": "Kiekybiškai įvertinkite apčiuopiamą IG ir produktyvumo metriką, kad palaikytumėte diegimo sprendimus visoje įmonėje.",
+      "ctaTitle": "Pasiruošę patvirtinti kitą skaitmeninį sprendimą?",
+      "ctaSub": "Susisiekite su mūsų sprendimų inžinierių komanda, kad išsiaiškintumėte savo projekto reikalavimus, sukurtumėte prototipą ir išbandytumėte galimybes be jokios rizikos.",
+      "ctaButton": "Užsisakykite PoC konsultaciją"
+    },
+    "sharedServices": {
+      "eyebrow": "Centralizuotas operacijų centras",
+      "titlePart1": "Bendros paslaugos ir",
+      "titlePart2": "Valdomos operacijos",
+      "description": "Centralizuotas technologijų ir veiklos pajėgumų pristatymas visuose verslo padaliniuose naudojant standartizuotus procesus, kvalifikuotus išteklius, valdymo sistemas, paslaugų valdymą ir išmatuojamus paslaugų lygius.",
+      "bookDiscovery": "Knygų valdomų operacijų atradimas",
+      "exploreFramework": "Naršykite sprendimų sistemą",
+      "coreCapabilities": [
+        "Tvarkomos paslaugos",
+        "IT operacijos",
+        "Programų palaikymas",
+        "Paslaugų valdymas",
+        "Išteklių optimizavimas",
+        "SLA valdymas",
+        "Valdymas",
+        "Nuolatinis tobulinimas",
+        "Išlaidų optimizavimas"
+      ],
+      "row1Eyebrow": "Vieningas pristatymo centras",
+      "row1Title": "Standartizuotos paslaugos visuose verslo padaliniuose",
+      "row1P1": "Sujunkite back-office IT, infrastruktūros valdymą ir techninę pagalbą į vieną efektyvų pristatymo centrą.",
+      "row1P2": "Pašalinus besidubliuojančias komandos išlaidas ir standartizavus paslaugų teikimo modelius, jūsų organizacija užtikrina pastovią kokybę ir sumažina bendras veiklos išlaidas.",
+      "row2Eyebrow": "SRE ir programų palaikymas visą parą",
+      "row2Title": "Aktyvus stebėjimas ir greitas incidentų sprendimas",
+      "row2P1": "Mūsų atsidavę Svetainės patikimumo inžinieriai (SRE) ir palaikymo specialistai teikia 24/7/365 telemetrijos stebėjimą, automatinį įspėjimų skirstymą ir greitą L1/L2/L3 problemų sprendimą.",
+      "row2P2": "Remdamiesi griežtais SLA įsipareigojimais, garantuojame 99,99 % pasiekiamumą jūsų misijai svarbioms programoms ir debesų infrastruktūrai.",
+      "row3Eyebrow": "ITIL valdymas ir atitiktis",
+      "row3Title": "Struktūrinės paslaugų valdymo sistemos",
+      "row3P1": "Įdiekite pramonėje pirmaujančius ITSM standartus („ServiceNow“, „Jira Service Management“) su skaidriu bilietų pardavimu, pagrindinių priežasčių analize ir pakeitimų valdymo apsauginiais turėklais.",
+      "row3P2": "Išsamios audito sekos ir valdymo strategijos užtikrina, kad jūsų veikla atitiktų tarptautinius saugumo standartus.",
+      "row4Eyebrow": "FinOps ir nuolatinis tobulinimas",
+      "row4Title": "Nuspėjamas biudžeto sudarymas ir išteklių optimizavimas",
+      "row4P1": "Pašalinkite debesų atliekas, optimizuokite skaičiavimo dydį ir automatizuokite įprastą eksploatacinę priežiūrą naudodami geriausią „FinOps“ praktiką.",
+      "row4P2": "Mėnesinės skaidrumo ataskaitos ir pajėgumų prognozės užtikrina nuolatinį veiklos sąnaudų optimizavimą ir aukštą kapitalo efektyvumą.",
+      "pillarsTitle": "Operacijų ramsčiai",
+      "pillarsSub": "Patikimi veikimo svertai, užtikrinantys patikimą įmonės mastelį.",
+      "pillar1Title": "24/7 Valdomos IT operacijos",
+      "pillar1Desc": "Proaktyvi NOC telemetrija, serverio pataisymas, infrastruktūros priežiūra ir 99,99 % veikimo laiko garantija.",
+      "pillar2Title": "ITSM ir aptarnavimo skyrius",
+      "pillar2Desc": "1/2/3 pakopos kelių kanalų pagalbos tarnyba, incidentų maršruto parinkimas ir struktūrinės bilietų sprendimo darbo eigos.",
+      "pillar3Title": "SLA ir našumo kontrolė",
+      "pillar3Desc": "Sutartimi pagrįsti atsakymų terminai, MTTR gairės ir skaidrūs mėnesiniai veiklos auditai.",
+      "pillar4Title": "FinOps ir išlaidų optimizavimas",
+      "pillar4Desc": "Nuolatinis išteklių tinkamo dydžio keitimas, licencijų grąžinimas ir automatizuotas debesų sąnaudų mažinimas.",
+      "ctaTitle": "Pasiruošę išplėsti savo valdomas operacijas?",
+      "ctaSub": "Bendradarbiaukite su „Rezonants“, kad gautumėte patikimas, 24 valandas per parą, 7 dienas per savaitę valdomas paslaugas, kurios optimizuoja išlaidas ir pašalina veiklos prastovą.",
+      "ctaButton": "Užsisakykite valdomų operacijų konsultaciją",
+      "howItWorksHeading": "Įrodytas kelias į bendrų paslaugų sėkmę"
+    },
+    "aiRobotics": {
+      "brand": "AI ir robotika",
+      "eyebrow": "Išmaniosios sistemos",
+      "heroHeading": "Dirbtinis intelektas ir robotai dirba kartu",
+      "intro": "Dirbtinis intelektas (AI) ir robotika keičia įmonių veiklą derindamos protingą sprendimų priėmimą su pažangia automatizacija. Dirbtinis intelektas įgalina mašinas analizuoti duomenis, išmokti modelius ir priimti protingus sprendimus, o robotika perkelia šias galimybes į fizinį pasaulį, kad būtų galima greitai, tiksliai ir nuosekliai atlikti užduotis.",
+      "section1Heading": "Sukurta taip, kad supaprastintų kiekvieną operaciją",
+      "section1Text": "Mūsų AI ir robotikos sprendimai padeda organizacijoms supaprastinti veiklą, sumažinti rankų darbo pastangas ir pagerinti produktyvumą įvairiose pramonės šakose. Nuo procesų automatizavimo ir nuspėjamosios analizės iki išmaniosios robotikos ir išmaniųjų sistemų – pristatome novatoriškas technologijas, kurios didina efektyvumą, skatina augimą ir palaiko skaitmeninę transformaciją.",
+      "section2Heading": "Kur intelektas susitinka su veiksmais",
+      "section2Text": "Kiekvieną sąveiką, sprendimą ir judėjimą skatina viena prijungta sistema – duomenys paverčiami rezultatais realiuoju laiku.",
+      "footerTag": "Inovatyvi technologija skaitmeninei transformacijai"
+    },
+    "informationReporting": {
+      "brand": "Įmonės duomenų platforma",
+      "heroTitle": "Informacijos ir ataskaitų teikimo sistemos",
+      "heroSubtitle": "Vienintelis tiesos šaltinis kiekvienam skyriui – sukurtas tam, kad neapdorotus veiklos duomenis paverstų sprendimais, pagal kuriuos jūsų įmonė gali veikti šiandien.",
+      "statusLive": "GYVAI",
+      "statusAnalyzed": "ANALIZUOTA",
+      "statusArchived": "ARCHYVUOTA",
+      "statusPending": "LAUKIAMA",
+      "metricUptime": "Sistemos veikimo laikas",
+      "metricSessions": "Aktyvūs užsiėmimai",
+      "metricReportsPerDay": "Ataskaitos / diena",
+      "metricEvents": "Kasdien gaunami įvykiai",
+      "metricReports": "Suplanuotos ataskaitos",
+      "metricLatency": "API delsa",
+      "unifiedPlatform": "Vieninga platforma",
+      "analyticsSuite": "„Analytics Suite“.",
+      "reportingConsole": "Ataskaitų teikimo pultas",
+      "businessOutcome": "Verslo rezultatas",
+      "section1Heading": "Viena centralizuota sistema kiekvienai svarbiai metrikai",
+      "section1P1": "Informacijos ir ataskaitų teikimo sistemos yra esminiai verslo sprendimai, leidžiantys organizacijoms rinkti, valdyti ir paversti duomenis reikšmingomis įžvalgomis. Šios sistemos integruoja informaciją iš kelių skyrių, užtikrindamos tikslią, nuoseklią ir realiu laiku prieigą prie svarbių verslo duomenų. Suteikdamos centralizuotą informacijos valdymo platformą, organizacijos gali pagerinti veiklos matomumą, supaprastinti darbo eigą ir palaikyti strateginių sprendimų priėmimą visuose įmonės lygiuose.",
+      "section1P2": "Šios sistemos naudoja automatines ataskaitas, analizę ir prietaisų skydelius, kad galėtų stebėti našumą, stebėti pagrindinę metriką ir generuoti ataskaitas realiuoju laiku. Sumažinus rankų darbą ir pagerinus duomenų tikslumą, įmonės gali priimti greitesnius ir efektyvesnius sprendimus.",
+      "section2Heading": "Sukurtas siekiant užtikrinti matomumą, atitiktį ir mastelį",
+      "section2Text": "Dėl geresnio matomumo, atitikties ir bendradarbiavimo informacijos ir ataskaitų teikimo sistemos leidžia organizacijoms optimizuoti procesus, pagerinti produktyvumą ir skatinti tvarų verslo augimą konkurencinėje aplinkoje.",
+      "ctaHeading": "Suteikite kiekvienai komandai tokį patį verslo vaizdą realiuoju laiku.",
+      "ctaText": "Sužinokite, kaip „Nexus Data Systems“ gali sujungti jūsų ataskaitas į vieną išmaniąją platformą.",
+      "footerCopyright": "© „Nexus Data Systems“, 2026 m. Visos teisės saugomos.",
+      "navOverview": "Apžvalga",
+      "navCapabilities": "Pajėgumai",
+      "navImpact": "Poveikis",
+      "navContact": "Susisiekite"
+    },
+    "managedServices": {
+      "subtitle": "Visapusiškos valdomos paslaugos jūsų verslui"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Verslo taikomųjų programų modernizavimas duomenimis pagrįstai įmonei",
+      "excerpt": "Kaip moderni programų architektūra ir prijungti duomenys gali pagerinti veiklos efektyvumą, mastelį ir verslo matomumą.",
+      "tag": "Verslo transformacija",
+      "category": "VERSLO TRANSFORMACIJA",
+      "summary": "Šiuolaikinės programos ir duomenų pagrindas gali padėti įmonėms pagerinti veiklos efektyvumą, sujungti verslo sistemas ir sukurti geresnį veiklos matomumą."
+    },
+    "artificial-intelligence": {
+      "title": "Kaip AI keičia įmonės taikomąsias programas",
+      "excerpt": "Sužinokite, kaip išmanusis automatizavimas, dirbtinio intelekto antrieji pilotai ir nuspėjamasis intelektas tampa verslo taikomųjų programų, kuriomis kasdien pasitiki įmonės, dalimi.",
+      "tag": "Dirbtinis intelektas",
+      "category": "DIRBTINIS INTELEKTAS",
+      "summary": "Ištirkite, kaip intelektualioji automatizacija, AI kopilotai ir nuspėjamasis intelektas kasdienę įmonės programinę įrangą paverčia prisitaikančiomis, iniciatyviomis platformomis."
+    },
+    "modern-erp": {
+      "title": "Verslo transformacijos spartinimas naudojant modernią ERP",
+      "excerpt": "Sužinokite, kaip šiuolaikinės ERP platformos sujungia finansus, pirkimus, tiekimo grandinę ir verslo operacijas per vieningą skaitmeninį pagrindą.",
+      "tag": "Šiuolaikinė ERP",
+      "category": "MODERNUS ERP",
+      "summary": "Šiuolaikinė ERP platforma sujungia finansus, pirkimus, tiekimo grandinę ir verslo operacijas į vieningą, realaus laiko veikimo modelį."
+    },
+    "cybersecurity": {
+      "title": "Kibernetinio atsparumo kūrimas prijungtoje įmonėje",
+      "excerpt": "Sužinokite, kaip organizacijos gali sustiprinti saugumą, apsaugoti svarbiausias sistemas ir pasiruošti grėsmėms vis labiau susietose aplinkose.",
+      "tag": "Kibernetinis saugumas",
+      "category": "KIBERTINĖ SAUGA",
+      "summary": "Įmonėms integruojant daugiau debesų sistemų, API ir partnerių ekosistemų, kibernetinis atsparumas užtikrina, kad itin svarbios operacijos atlaikytų šiuolaikines grėsmes."
+    },
+    "cloud-modernization": {
+      "title": "Senesnių debesies programų modernizavimas",
+      "excerpt": "Išbandykite praktinį požiūrį į senų taikomųjų programų įvertinimą, modernizavimą ir perkėlimą į keičiamo dydžio, saugias debesų architektūras.",
+      "tag": "Debesis ir modernizavimas",
+      "category": "DEBESIS IR MODERNIZAVIMAS",
+      "summary": "Struktūrizuotas, pragmatiškas planas, skirtas įvertinti, pertvarkyti ir perkelti monolitines įmonės sistemas į elastingas, prižiūrimas debesų architektūras."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "VERSLO TRANSFORMACIJA",
+      "title": "Verslo taikomųjų programų modernizavimas duomenimis pagrįstai įmonei",
+      "subtitle": "Šiuolaikinės programos ir duomenų pagrindas gali padėti įmonėms pagerinti veiklos efektyvumą, sujungti verslo sistemas ir sukurti geresnį veiklos matomumą.",
+      "date": "2026 m. rugsėjo mėn",
+      "readTime": "7 min",
+      "imageCaption": "Įmonės technologijų perspektyva – taikomųjų programų architektūra ir prijungti duomenys",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Verslo programos",
+          "desc": "Skirtingi pasenę CRM, ERP ir padalinių įrankiai, veikiantys silosuose."
+        },
+        {
+          "title": "Keli duomenų šaltiniai",
+          "desc": "Suskaidytos operacinės lentelės, CSV ištraukos ir ad-hoc schemos."
+        },
+        {
+          "title": "Atjungtos duomenų bazės",
+          "desc": "Izoliuotos vietinės ir nekoordinuotos debesų duomenų saugyklos."
+        },
+        {
+          "title": "Ataskaitos ir verslo vartotojai",
+          "desc": "Rankinis suderinimas, prieštaringos skaičiuoklės ir atidėtos ataskaitos."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Verslo programos",
+          "desc": "Pagrindinės operacinės platformos ir modernios reaguojančios sąsajos."
+        },
+        {
+          "title": "API / integravimo sluoksnis",
+          "desc": "Saugus, įvykiais pagrįstas API šliuzas, jungiantis įmonės darbo eigas."
+        },
+        {
+          "title": "Duomenų paslaugos",
+          "desc": "Suvienodinti pagrindinių duomenų modeliai, vamzdynai ir optimizuoti saugojimo varikliai."
+        },
+        {
+          "title": "Analizė ir ataskaitų teikimas",
+          "desc": "Realaus laiko telemetrija, semantiniai modeliai ir automatizuotos ataskaitos."
+        },
+        {
+          "title": "Verslo sprendimų priėmėjai",
+          "desc": "Tiesioginės operatyvinės informacijos suvestinės, užtikrinančios vieningą vykdomojo matomumą."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Įmonės programos",
+          "purpose": "Verslo procesų valdymas"
+        },
+        {
+          "area": "API",
+          "purpose": "Sistemos integravimas"
+        },
+        {
+          "area": "Duomenų bazės",
+          "purpose": "Struktūriniai verslo duomenys"
+        },
+        {
+          "area": "Duomenų integravimas",
+          "purpose": "Kelių šaltinių prijungimas"
+        },
+        {
+          "area": "Analizė",
+          "purpose": "Verslo įžvalgos"
+        },
+        {
+          "area": "Debesų infrastruktūra",
+          "purpose": "Mastelio keitimas ir lankstumas"
+        },
+        {
+          "area": "Stebėjimas",
+          "purpose": "Patikimumas ir našumas"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Pagerintas veiklos matomumas tarp funkcinių vienetų",
+        "Geresnis duomenų nuoseklumas ir vienintelis įmonės tiesos šaltinis",
+        "Sumažėjo rankinio ataskaitų teikimo pastangos ir automatizuotas duomenų rinkimas",
+        "Patobulintas programos našumas ir sumažinta operacijų delsa",
+        "Lengvesnis sistemos integravimas naudojant standartizuotas, saugias API",
+        "Didesnis mastelio keitimas siekiant palaikyti organinį augimą ir įsigijimą",
+        "Geresnis pagrindas būsimoms naujovėms ir žvalgybos pritaikymui"
+      ],
+      "keyPerspectivePoints": [
+        "Verslo procesų ir realių darbo eigos supratimas",
+        "Sistemų sujungimas naudojant patikimus integravimo standartus",
+        "Duomenų kokybės, valdymo ir pagrindinių duomenų modelių gerinimas",
+        "Programų modernizavimas nedestabilizuojant kasdienės veiklos",
+        "Sukurti keičiamo dydžio architektūrą, tinkančią elastingam augimui",
+        "Suteikia geresnį verslo matomumą, kad būtų galima aktyviai priimti sprendimus"
+      ],
+      "sec1Eyebrow": "VERSLO IŠŠŪKIS",
+      "sec1Heading": "Sudėtingumas augančioje įmonėje",
+      "sec1Subtext": "Verslui plečiantis, technologijų ekosistemos neišvengiamai plečiasi. Tai, kas prasideda kaip tiksliniai sprendimai atskiriems skyriams, gali išsivystyti į susivėlusį skirtingų sistemų tinklą.",
+      "sec2Eyebrow": "SISTEMOS EVOLIUCIJA",
+      "sec2Heading": "Sudėtingas technologijų kraštovaizdis",
+      "sec2Subtext": "Kai verslo programos, duomenų bazės ir operacinės sistemos vystosi nepriklausomai, informacijos srautai susiskaido. Šio susiskaidymo supratimas yra svarbus pirmasis žingsnis.",
+      "sec3Eyebrow": "PRIJUNGTAS MODELIS",
+      "sec3Heading": "Šiuolaikinė taikomųjų programų architektūra",
+      "sec3Subtext": "Įmonės pereina prie įvykiais pagrįstos, pirmiausia API architektūros, kurioje duomenys patikimai perduodami pagrindinėse platformose ir sprendimus priimančius asmenis pasiekia realiuoju laiku.",
+      "sec4Eyebrow": "INTELEKTAS IR MATOMUMAS",
+      "sec4Heading": "Susieti duomenys ir analizė",
+      "sec4Subtext": "Kai verslo programos sklandžiai bendrauja, duomenys nustoja būti ataskaitų teikimo šalutinis produktas ir tampa pagrindiniu operatyvumo varikliu.",
+      "sec5Eyebrow": "ARCHITEKTŪROS BRĖŽAS",
+      "sec5Heading": "Technologijų fondas",
+      "sec5Subtext": "Išsamus pagrindinių technologijų sričių, kurios sudaro šiuolaikišką, keičiamo dydžio įmonės pagrindą, vaizdas.",
+      "sec6Eyebrow": "KOKYBINĖ VERTĖ",
+      "sec6Heading": "Įtaka verslui",
+      "sec6Subtext": "Programų architektūros modernizavimas ir suskaidytų duomenų sujungimas užtikrina apčiuopiamus veiklos patobulinimus visoje organizacijoje.",
+      "ctaHeading": "Pasiruošę modernizuoti savo technologijų aplinką?",
+      "ctaDescription": "Išsiaiškinkite, kaip moderni programų architektūra, prijungti duomenys ir keičiamo dydžio technologija gali padėti organizacijoms pagerinti efektyvumą ir pasiruošti būsimam augimui.",
+      "ctaButton": "Pasikalbėkite su mūsų ekspertais",
+      "sec1P1": "Įprastoje įmonės aplinkoje augimas dažnai sukuria kelias programinės įrangos kartas. Finansai, tiekimo grandinė, klientų aptarnavimas ir lauko operacijos dažnai veikia naudojant atskirus programinės įrangos paketus, įsigytus ar sukurtus skirtingu laiku. Per daugelį veiklos evoliucijos metų šios sistemos kuria savo duomenų formatus, atnaujina kadencijas ir integravimo ypatumus.",
+      "sec1P2": "Trintis pasireiškia visoje įmonėje dėl bendrų veiklos kliūčių:",
+      "sec1List": [
+        {
+          "bold": "Kelios atjungtos verslo programos",
+          "text": ", kurioms reikalingas pasikartojantis duomenų įvedimas ir rankinis kryžminės nuorodos."
+        },
+        {
+          "bold": "Atjungtos duomenų bazės",
+          "text": "veikia be centralizuoto valdymo ar vieningų pagrindinių įrašų."
+        },
+        {
+          "bold": "Rankinis ataskaitų teikimas",
+          "text": ", kur analitinės komandos praleidžia dienas derindamos eksportą, o ne atskleisdamos įžvalgas."
+        },
+        {
+          "bold": "Duomenų neatitikimai",
+          "text": "skyriuose, sukuriant prieštaringus atsakymus į esminius veiklos klausimus."
+        },
+        {
+          "bold": "Programos priežiūros pridėtinės išlaidos ir mastelio ribos",
+          "text": ", nes trapūs senieji tiesioginiai ryšiai stengiasi palaikyti augančias sandorių apimtis."
+        }
+      ],
+      "sec1P3": "Sprendžiant šiuos iššūkius reikia žiūrėti į technologijų aplinką ne kaip į atskirų programinės įrangos pirkimų rinkinį, o kaip į tarpusavyje susijusią verslo platformą, skirtą strateginiam judrumui palaikyti.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Suskaidytas informacijos srautas",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Duomenų talpyklos",
+          "desc": "Svarbūs klientų, finansų ir atsargų duomenys lieka įstrigę skyrių platformose, neleidžiantys susidaryti vieningam verslo operacijų vaizdui."
+        },
+        {
+          "num": "02",
+          "title": "Integracijos spragos",
+          "desc": "Tiesioginiai ryšiai ir naktiniai paketiniai ekstraktai sukuria delsą, didelį gedimų skaičių ir brangias priežiūros išlaidas visose veikiančiose komandose."
+        },
+        {
+          "num": "03",
+          "title": "Pavėluota informacija",
+          "desc": "Kai vadovai turi laukti kelias dienas, kol mėnesio pabaigoje bus atliktas suderinimas, kad suprastų veiklos rezultatus, sprendimų priėmimas yra reaktyvus, o ne nuspėjamas."
+        }
+      ],
+      "modernArchitectureBadge": "Tikslinė architektūra",
+      "modernArchitectureTitle": "Prijungtos įmonės programos modelis",
+      "sec3P1": "Šiuolaikinė taikomųjų programų architektūra trapius tiesioginius ryšius pakeičia judriu, atsietu pagrindu. Sukūrus patikimą API ir integravimo lygmenį, sistemos sąveikauja per valdomus saugius galutinius taškus, kartu išsaugant atskirų verslo padalinių savarankiškumą.",
+      "sec3P2": "Pagrindinės šio architektūrinio poslinkio techninės galimybės:",
+      "sec3List": [
+        {
+          "bold": "Taikymo modernizavimas:",
+          "text": "Pagrindinės verslo logikos atsiejimas nuo keičiamo dydžio modulinių paslaugų."
+        },
+        {
+          "bold": "API integravimas:",
+          "text": "Standartizuotų, dokumentais pagrįstų sąsajų, skirtų vidinei ir partnerių sąveikai, sukūrimas."
+        },
+        {
+          "bold": "Duomenų integravimas ir duomenų bazių optimizavimas:",
+          "text": "Eksploatacinių duomenų vamzdynų suvienijimas su didelio našumo užklausų optimizavimu."
+        },
+        {
+          "bold": "Stebimumas ir saugumas:",
+          "text": "Centralizuotos telemetrijos, audito sekų ir vaidmenimis pagrįstos prieigos kontrolės įdiegimas visose paslaugose."
+        }
+      ],
+      "sec4P1": "Integruoti duomenų pamatai keičia vadovybės ir operatyvinių komandų sąveiką su informacija. Užuot pasikliavę retrospektyvinėmis ataskaitomis, kurios parodo, kas įvyko prieš kelias savaites, organizacijos gauna tiesioginę operatyvinę telemetriją visuose verslo padaliniuose.",
+      "sec4P2": "Susieti duomenys ir analizė palaiko tvarius verslo rezultatus:",
+      "sec4List": [
+        {
+          "bold": "Veikimo matomumas:",
+          "text": "Nuolatinis pardavimo, atsargų, vykdymo ir finansinių rezultatų skaidrumas."
+        },
+        {
+          "bold": "Greitesnis ataskaitų teikimo dažnis:",
+          "text": "Duomenų kaupimas pagal poreikį, pašalinantis pasikartojančias rankines skaičiuokles."
+        },
+        {
+          "bold": "Nuosekli informacija:",
+          "text": "Vienos metrikos, pvz., maržos, kliento trukmės vertės ir pristatymo greičio, apibrėžimai."
+        },
+        {
+          "bold": "Geresnės verslo įžvalgos:",
+          "text": "Nuspėjamas modelio aptikimas, kuris iš anksto atskleidžia rizikas ir galimybes."
+        },
+        {
+          "bold": "Patobulintas sprendimų priėmimas:",
+          "text": "Patikimas vykdomasis veiksmas, paremtas patvirtinta duomenų linija ir skaidrumu."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGINĖ PERSPEKTYVA",
+      "keyPerspectiveTitle": "Modernizavimas yra daugiau nei programinės įrangos pakeitimas",
+      "keyPerspectiveLead": "Verslo taikomųjų programų modernizavimas nėra tiesiog senos programinės įrangos pakeitimas naujais įrankiais. Tai sąmoningas technologijų derinimas su tuo, kaip verslas veikia, plečiasi ir teikia vertę."
+    },
+    "artificialIntelligence": {
+      "category": "DIRBTINIS INTELEKTAS",
+      "title": "Kaip AI keičia įmonės taikomąsias programas",
+      "subtitle": "Išsiaiškinkite, kaip išmanusis automatizavimas, dirbtinio intelekto antrieji pilotai ir nuspėjamasis intelektas tampa įmonių taikomųjų programų, kuriomis įmonės kasdien pasitiki, dalimi.",
+      "date": "2026 m. rugsėjo mėn",
+      "readTime": "6 min skaitymas",
+      "imageCaption": "Įmonės technologijų perspektyva – dirbtinis intelektas ir įmonės sistemos",
+      "aiUseCases": [
+        {
+          "title": "Tiekimo grandinės prognozavimas",
+          "desc": "Paklausos šuolių ir logistikos vėlavimų prognozavimas pagal istorinę tiekėjo telemetriją."
+        },
+        {
+          "title": "Automatizuotas sąskaitų faktūrų auditas",
+          "desc": "Eilučių elementų ištraukimas ir suderinimas su pirkimo užsakymais, kai nėra žmogaus."
+        },
+        {
+          "title": "Išmanieji aptarnavimo stalai",
+          "desc": "1 pakopos darbuotojų IT ir personalo užklausų rūšiavimas ir automatizuotas sprendimas."
+        },
+        {
+          "title": "Klientų kreipimosi prevencija",
+          "desc": "Elgesio klasterizavimas, identifikuojantis ankstyvus trinties signalus, siekiant aktyvaus informavimo."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Greitesni operatyviniai sprendimai, kuriuos lemia nuspėjamieji realaus laiko modeliai",
+        "Pasikartojančio duomenų apdorojimo ir rankinio suderinimo mažinimas",
+        "Didesnis darbuotojų pralaidumas su kontekstine kopiloto pagalba",
+        "Didesnis klientų pasitenkinimas per itin suasmenintą patirtį",
+        "Nuolatinis proceso optimizavimas, pagrįstas realia telemetrija",
+        "Rizikos atitikties stebėjimas naudojant automatinį audito žurnalo patikrinimą"
+      ],
+      "governancePoints": [
+        "Griežta vaidmenimis pagrįsta prieiga, užtikrinanti, kad dirbtinio intelekto modeliai niekada nenutekėtų jautrių duomenų",
+        "Skaidrūs samprotavimų pėdsakai, leidžiantys žmogui peržiūrėti didelės vertės veiksmus",
+        "Nuolatinis modelio vertinimas siekiant apsisaugoti nuo haliucinacijų ir šališkumo",
+        "Griežti duomenų kilmės standartai, atitinkantys GDPR, SOC 2 ir HIPAA",
+        "Žmogaus kilpoje eskalavimo keliai neapibrėžtoms krašto sąlygoms"
+      ],
+      "sec1Eyebrow": "PERĖJIMAS Į GIMTAJĄjį intelektą",
+      "sec1Heading": "AI įmonės programose",
+      "sec1Subtext": "Dirbtinis intelektas pereina iš eksperimentinių šalutinių projektų į pagrindines operacines programas, kuriomis įmonės naudojasi kiekvieną dieną.",
+      "sec2Eyebrow": "AUTOMATIZAVIMAS MASTELIU",
+      "sec2Heading": "Pažangi automatizacija",
+      "sec2Subtext": "Pereinant už tradicinių taisyklėmis pagrįstų scenarijų, pereinant prie pažintinių darbo eigų, kurios supranta nestruktūruotą turinį, prisitaiko prie variantų ir dinamiškai optimizuoja procesus.",
+      "sec3Eyebrow": "Įterptoji PAGALBA",
+      "sec3Heading": "Įmonės AI Copilots",
+      "sec3Subtext": "Pagrįsti organizacinėmis žiniomis ir įmonės saugumu, dirbtinio intelekto padėjėjai dirba kaip specializuoti partneriai kasdienėse verslo darbo eigose.",
+      "sec4Eyebrow": "Į priekį žvelgiantys samprotavimai",
+      "sec4Heading": "Nuspėjamasis intelektas",
+      "sec4Subtext": "Istorinių įmonių žurnalų ir realaus laiko operatyvinių duomenų pavertimas veiksmingu numatymu.",
+      "sec5Eyebrow": "PROGRAMOS REALIOJE PASAULYJE",
+      "sec5Heading": "Įmonės AI naudojimo atvejai",
+      "sec5Subtext": "Praktiniai būdai, kuriais vadovaujančios organizacijos pritaiko dirbtinį intelektą visose pagrindinėse verslo funkcijose.",
+      "sec6Eyebrow": "STRATEGINĖ VERTĖ",
+      "sec6Heading": "Verslo nauda",
+      "sec6Subtext": "Kruopščiai įdiegus valdomus įmonės duomenis, dirbtinis intelektas atskleidžia didelių kokybinių pranašumų.",
+      "ctaHeading": "Ištirkite AI galimybes savo verslui",
+      "ctaDescription": "Sužinokite, kaip išmanusis automatizavimas, įmonės antrieji pilotai ir nuspėjamieji modeliai gali padidinti jūsų pagrindinių sistemų veikimo efektyvumą.",
+      "ctaButton": "Pasikalbėkite su mūsų ekspertais",
+      "sec1P1": "Daugelį metų įmonės dirbtinis intelektas buvo traktuojamas kaip išorinė galimybė: modelis, treniruojamas atskirai, demonstravimas smėlio dėžėje arba izoliuotas pokalbių robotas, pasiekiamas per atskirą portalą. Šiandien paradigma iš esmės pasikeitė. Didelio poveikio įmonės AI yra įterptas tiesiai į įrašų sistemas – ERP, CRM, žmogiškojo kapitalo platformas ir tiekimo grandinės variklius, kur vyksta tikras verslas.",
+      "sec1P2": "Kai žvalgyba veikia įrašų sistemoje, ji paveldi organizacijos nustatytas saugumo ribas, duomenų modelius ir verslo logiką. Tai ne tik generuoja bendrus atsakymus; ji veikia pagal tiesioginius užsakymus, interpretuoja atvirus palaikymo bilietus, suderina tiekėjų sąskaitas faktūras ir padeda darbuotojams tiksliose sąsajose, kuriose jie naršo kiekvieną dieną.",
+      "sec1P3": "Ši transformacija perkelia įmonės programinę įrangą iš pasyvių duomenų bazių, laukiančių žmogaus klavišų paspaudimų, į aktyvias platformas, kurios numato poreikius, automatizuoja veiksmus ir pateikia laiku rekomendacijas.",
+      "sec2P1": "Tradicinė robotų procesų automatizacija (RPA) puikiai tinka deterministiniam, pasikartojančiam ekrano grandymui. Tačiau griežti taisyklių rinkiniai nutrūksta, kai keičiasi forma, gaunamas netikėtas dokumento išdėstymas arba atsiranda išimtis. Pažangi automatizacija panaikina šią atskirtį, derindama pažintinį mąstymą su operacijų vykdymu:",
+      "sec2List": [
+        {
+          "bold": "Darbo eigos automatizavimas:",
+          "text": "Sudėtingų tarpžinybinių operacijų, maršrutų parinkimo užduočių, pagrįstų skubos ir istorinių sprendimų keliais, organizavimas."
+        },
+        {
+          "bold": "Pažangus dokumentų apdorojimas:",
+          "text": "Nestruktūruotų PDF failų, el. laiškų, siuntimo aprašų ir sutarčių priėmimas, paverčiant juos struktūrinėmis duomenų bazės operacijomis."
+        },
+        {
+          "bold": "Pažangus užduočių automatizavimas:",
+          "text": "Kelių etapų operatyvinio patvirtinimo automatizavimas, pvz., pirkimo užsakymų suderinimas su kvitais ir banko ataskaitomis."
+        },
+        {
+          "bold": "Proceso optimizavimas:",
+          "text": "Nuolat analizuojami proceso žurnalai, siekiant nustatyti ciklo laiko trukdžius ir rekomenduoti tikslingus darbo eigos patobulinimus."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Informacijos paieška",
+          "desc": "Semantinė paieška iš paskirstytų žinių bazių, intraneto politikos, produktų specifikacijų ir istorinių bilietų sprendimų neatspėjant raktinių žodžių."
+        },
+        {
+          "icon": "📝",
+          "title": "Dokumento apibendrinimas",
+          "desc": "Greitas ilgų užklausų, pardavėjų sutarčių, techninių specifikacijų ir teisinių pakeitimų distiliavimas į įgyvendinamus vadovų pranešimus ir rizikos kontrolinius sąrašus."
+        },
+        {
+          "icon": "✨",
+          "title": "Turinio generavimas",
+          "desc": "Padėjo rengti klientų pasiūlymų, veiklos dokumentacijos, standartinių veiklos procedūrų (SOP) ir standartizuotų klientų atnaujinimų, suderintų su prekės ženklo standartais, rengimą."
+        },
+        {
+          "icon": "📈",
+          "title": "Duomenų analizė",
+          "desc": "Pokalbio užklausų pavertimas sudėtingomis analitinėmis užklausomis, greitųjų diagramų suvestinių generavimas ir svarbiausių vadovavimo nuokrypių išryškinimas."
+        },
+        {
+          "icon": "🔄",
+          "title": "Verslo darbo eigos",
+          "desc": "Operacijų inicijavimas tiesiai iš pokalbių raginimų, pvz., planuoti išteklius, kurti bilietus, atnaujinti įrašus arba pateikti pirkimo paraiškas."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Vaidmenimis pagrįsta prieiga",
+          "desc": "Užtikrinant antrojo piloto atsakymus griežtai laikomasi naudotojo leidimų lygio, konfidencialūs finansiniai duomenys, HR failai ir intelektinė nuosavybė."
+        }
+      ],
+      "sec4P1": "Nors generatyvieji modeliai puikiai supranta ir sintezuoja kalbą, nuspėjamasis intelektas sutelkia dėmesį į matematinius modelius, paslėptus struktūrizuotuose įmonės duomenų rinkiniuose. Įterptieji nuspėjamieji modeliai suteikia organizacijoms galimybę numatyti veiklos kliūtis prieš joms sutrikdant veiklą:",
+      "sec4List": [
+        {
+          "bold": "Operatyvinis prognozavimas:",
+          "text": "Pajamų tendencijų, atsargų greičio ir išteklių poreikio numatymas sintezuojant sezoninius rodiklius su realiuoju laiku vykstančiomis dujotiekio greičiu."
+        },
+        {
+          "bold": "Nuspėjamoji analizė:",
+          "text": "Tiksliai nustatyti klientų netekimo riziką, techninės priežiūros pablogėjimo ciklus ir tiekimo grandinės vėlavimus, kol dar yra laiko įsikišti."
+        },
+        {
+          "bold": "Rizikos nustatymas:",
+          "text": "Finansinių operacijų, atitikties žurnalų ir tiekėjo pirkimų modelių anomalijų žymėjimas, kol jos nepadidėjo."
+        },
+        {
+          "bold": "Paklausos numatymas:",
+          "text": "Pardavimų prognozių derinimas su gamybos pajėgumais ir sandėlio atsargų lygiu, siekiant apsaugoti apyvartinį kapitalą."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ĮMONĖS VALDYMAS",
+      "keyPerspectiveTitle": "Pasitikėjimas, priežiūra ir apsauga",
+      "keyPerspectiveLead": "DI yra tiek patikimas, kiek yra po juo esantis duomenų pagrindas ir jį supantis valdymas. Tvariam verslui priimti reikia apgalvotos architektūrinės disciplinos:"
+    },
+    "modernErp": {
+      "category": "MODERNUS ERP",
+      "title": "Verslo transformacijos spartinimas naudojant modernią ERP",
+      "subtitle": "Sužinokite, kaip šiuolaikinės ERP platformos sujungia finansus, pirkimus, tiekimo grandinę ir verslo operacijas per vieningą skaitmeninį pagrindą.",
+      "date": "2026 m. rugpjūčio mėn",
+      "readTime": "6 min",
+      "imageCaption": "Įmonės technologijų perspektyva – ERP ir prijungtos verslo operacijos",
+      "connectedFunctions": [
+        {
+          "title": "Finansų valdymas",
+          "desc": "Didžiosios knygos atnaujinimai realiuoju laiku, automatinis pajamų pripažinimas ir momentinis kelių valiutų suderinimas."
+        },
+        {
+          "title": "Tiekimo grandinė ir logistika",
+          "desc": "Atsargų matomumas nuo galo iki galo, sandėlio optimizavimas ir tiekėjo našumo telemetrija."
+        },
+        {
+          "title": "Žmogiškasis kapitalas ir darbo jėga",
+          "desc": "Savitarnos darbuotojų portalai, automatizuotas darbo užmokesčio skaičiavimas ir integruotas talentų gyvenimo ciklo planavimas."
+        },
+        {
+          "title": "Pirkimai ir tiekimas",
+          "desc": "Automatinis pirkimo patvirtinimas, pardavėjo sutarčių laikymasis ir dinaminė išlaidų analizė."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-native architektūra",
+          "desc": "Elastingas skaičiavimo mastelio keitimas be vietinės infrastruktūros papildomų išlaidų ar trikdančio versijos užrakinimo."
+        },
+        {
+          "title": "Atvira API ekosistema",
+          "desc": "Iš anksto sukurtos jungtys, leidžiančios sklandų dvipusį duomenų sinchronizavimą su tinkintomis mikropaslaugomis ir CRM rinkiniais."
+        },
+        {
+          "title": "Įterptoji analizė",
+          "desc": "Tiesioginis prietaisų skydelio gilinimasis iš aukšto lygio balansų į atskirus operacijų žurnalus."
+        },
+        {
+          "title": "Automatizuoti darbo eigos aktyvikliai",
+          "desc": "Įvykiu pagrįsti įvykiai suaktyvina standartines tarpžinybines operacijas savarankiškai."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Vienas tiesos šaltinis, pašalinantis prieštaringas departamentų ataskaitas",
+        "Drastiškas mėnesio pabaigos ir ketvirčio pabaigos uždarymo ciklas",
+        "Realaus laiko atsargų ir logistikos matomumas, sumažinantis atsargas",
+        "Sumažėjo IT priežiūros išlaidos dėl modulinių debesies savųjų naujinimų",
+        "Vieningas atitikties stebėjimas kelių regionų mokesčių jurisdikcijose",
+        "Greitesnis įsigytų subjektų įtraukimas į bendrus veiklos pagrindus"
+      ],
+      "erpStrategyPoints": [
+        "ERP architektūros suderinimas su pagrindinėmis darbo eigomis prieš konfigūravimą",
+        "Modulinių diegimo modelių pasirinkimas, norint pasiekti greitus etapus",
+        "Pirmenybė teikiama aukštos kokybės pagrindinių duomenų perkėlimui ir suderinimui",
+        "Automatizuoto pokyčių valdymo ir vaidmeniui pritaikytų mokymo programų įdiegimas",
+        "API šliuzų kūrimas be trinties integracijos plėtrai ateityje"
+      ],
+      "sec1Eyebrow": "OPERACINIS NUGARAS",
+      "sec1Heading": "Kodėl šiuolaikinė ERP svarbi",
+      "sec1Subtext": "ERP nebėra tik buhalterinė apskaita. Tai šiuolaikinės įmonės veikimo modelis, išreikštas programine įranga.",
+      "sec2Eyebrow": "INTEGRUOTA EKOSISTEMA",
+      "sec2Heading": "Susietos verslo funkcijos",
+      "sec2Subtext": "Tikroji organizacinė vertė atsiranda, kai pagrindinės verslo funkcijos veikia kartu bendru skaitmeniniu pagrindu.",
+      "sec3Eyebrow": "KRYPTIFUNKCINĖ ARMONIJA",
+      "sec3Heading": "Vieningos operacijos ir informacijos srautas",
+      "sec3Subtext": "Ryšio sienų tarp skyrių suardymas, kad būtų galima sklandžiai, sinchronizuoti įmonės darbo eigas.",
+      "sec4Eyebrow": "ĮMONĖS TELEMETRIJA",
+      "sec4Heading": "Verslo matomumas realiuoju laiku",
+      "sec4Subtext": "Veiklos metrikų konsolidavimas į skaidrias vadovų prietaisų skydelius, atspindinčias dabartinę verslo realybę.",
+      "sec5Eyebrow": "PAGRINDINĖ PLATFORMOS ARCHITEKTŪRA",
+      "sec5Heading": "Šiuolaikinės ERP galimybės",
+      "sec5Subtext": "Architektūriniai atributai, atskiriantys šiuolaikines ERP platformas nuo senų įrenginių.",
+      "sec6Eyebrow": "KOKYBINIS POVEIKIS",
+      "sec6Heading": "Verslo nauda",
+      "sec6Subtext": "Sujungus pagrindines verslo operacijas į vieningą skaitmeninį pagrindą, gaunamas išmatuojamas organizacijos atsparumas.",
+      "ctaHeading": "Modernizuokite savo įmonės veiklą",
+      "ctaDescription": "Sužinokite, kaip šiuolaikinės ERP platformos sujungia finansus, pirkimus, tiekimo grandinę ir verslo operacijas per vieningą skaitmeninį pagrindą.",
+      "ctaButton": "Pasikalbėkite su mūsų ekspertais",
+      "sec1P1": "Sparčiai besikeičiančiose įmonėse tradicinės įmonės išteklių planavimo sistemos dažnai susiduria su sunkumais. Sukurtos paketinio apdorojimo ir izoliuotų vietinių serverių eroje, senosios ERP buvo labai pritaikytos, sunkiai atnaujinamos ir skausmingai nepermatomos. Svarbiausios verslo operacijos buvo vykdomos lygiagrečiuose silosuose, kurie priklausė nuo trapios vienos nakties eksporto, kad būtų sinchronizuojamos knygos su sandėliais.",
+      "sec1P2": "Šiuolaikinė debesies ERP iš esmės iš naujo apibrėžia šią dinamiką. Jis veikia kaip vieningas skaitmeninis įmonės pagrindas – gyvas pagrindas, kuriame finansai, pirkimai, tiekimo grandinė, atsargos ir žmogiškieji ištekliai atlieka sandorius pagal bendrą duomenų modelį.",
+      "sec1P3": "Sujungdama pagrindines operacijas į vieną suderintą aplinką, šiuolaikinė ERP pašalina veiklos akląsias zonas, kurios lėtina augimą, todėl lyderiai gali valdyti verslą naudodami realiojo laiko signalus, o ne pasenusias istorines suvestines.",
+      "sec3P1": "Eksploataciniai silosai retai būna žmonių problema; tai yra architektūrinės problemos. Kai klientų aptarnavimo, pirkimų ir sandėlio komandos dirba atjungtose programose, kiekvienam perdavimui reikia neautomatinių el. laiškų, skaičiuoklių ir telefono skambučių. Klaidų daugėja, sąskaitos faktūros uždelstos, o klientų įsipareigojimai praslysta.",
+      "sec3P2": "Šiuolaikinė ERP tai sprendžia per vieningą duomenų liniją ir įvykiais pagrįstą proceso orkestravimą:",
+      "sec3List": [
+        {
+          "bold": "Sinchronizuotas užsakymas į grynuosius pinigus:",
+          "text": "Pateikus kliento užsakymą, atsargos rezervuojamos automatiškai, sugeneruojamos siuntimo etiketės, o sąskaitų knygos atnaujinamos akimirksniu."
+        },
+        {
+          "bold": "Pirkimo iki apmokėjimo skaidrumas:",
+          "text": "Pirkimo užsakymai, prekių kvitai ir tiekėjo sąskaitos faktūros automatiškai sutampa su trijų krypčių suderinimu, pažymint tik išimtis, kurias gali peržiūrėti žmogus."
+        },
+        {
+          "bold": "Vieninga darbo ir veiklos sąnaudų apskaičiavimas:",
+          "text": "Projektų darbo laiko apskaitos žiniaraščiai, darbo užmokesčio paskirstymai ir tiesioginės veiklos išlaidos realiuoju laiku pateikiamos tiesiogiai išlaidų centruose."
+        }
+      ],
+      "sec4P1": "Veikti įmonėje be vieningo matomumo prilygsta skrydžiui tankiame rūke su uždelstais instrumentais. Šiuolaikinė ERP teikia realaus laiko telemetriją visais verslo aspektais:",
+      "sec4List": [
+        {
+          "bold": "Tiesioginės vadovų informacijos suvestinės:",
+          "text": "Momentinis bendrosios maržos, veiklos pinigų srautų, neapmokėtų įsipareigojimų ir užsakymų likučių vaizdas nelaukiant laikotarpio pabaigos."
+        },
+        {
+          "bold": "Savitarnos veiklos ataskaitų teikimas:",
+          "text": "Skyrių vadovai gali kurti pasirinktines užklausas ir gilintis nuo įmonės lygio suvestinių iki atskirų operacijų eilutės elementų."
+        },
+        {
+          "bold": "Centralizuota pagrindinė informacija:",
+          "text": "Prieštaringų skaičių pašalinimas sukuriant vieningus valdomus pagrindinius duomenis klientams, pardavėjams ir produktų katalogams."
+        },
+        {
+          "bold": "Proaktyvūs įspėjimai apie anomalijas:",
+          "text": "Automatiniai įspėjimai nedelsdami praneša vadovams, kai maržos nukrenta žemiau slenksčio, atsargos baigiasi arba tiekėjų pristatymai slysta."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMACIJOS FILOSOFIJA",
+      "keyPerspectiveTitle": "Pragmatiškas modernizavimas per monolitinį kapitalinį remontą",
+      "keyPerspectiveLead": "Šiuolaikinė ERP transformacija sėkminga, kai organizacijos ją traktuoja kaip evoliucinį veiklos atnaujinimą, o ne kaip „viskas arba nieko“ IT sutrikimą:"
+    },
+    "cybersecurity": {
+      "category": "KIBERTINĖ SAUGA",
+      "title": "Kibernetinio atsparumo kūrimas prijungtoje įmonėje",
+      "subtitle": "Sužinokite, kaip organizacijos gali sustiprinti saugumą, apsaugoti svarbiausias sistemas ir pasiruošti grėsmėms vis labiau susietose aplinkose.",
+      "date": "2026 m. rugsėjo mėn",
+      "readTime": "8 min skaitymas",
+      "imageCaption": "Įmonės technologijų perspektyva – grėsmių apsauga ir nulinio pasitikėjimo architektūra",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrija ir aptikimas",
+          "desc": "Realaus laiko registravimas ir SIEM anomalijų koreliacija visuose debesies galutiniuose taškuose ir darbo krūviuose."
+        },
+        {
+          "title": "Apribojimas ir izoliacija",
+          "desc": "Automatinės tinklo karantino taisyklės, iš karto išskiriančios pažeistus konteinerius arba kredencialus."
+        },
+        {
+          "title": "Ištaisymas ir pagrindinė priežastis",
+          "desc": "Greitas pataisų įdiegimas ir skaitmeninė kriminalistika, nustatanti tikslų pažeidimo vektorių."
+        },
+        {
+          "title": "Atsparumas ir grūdinimas",
+          "desc": "Nuolatinis grįžtamasis ryšys į nekintamas atsargines kopijas, politikos apsauginius turėklus ir automatizuotą raudonosios komandos modeliavimą."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Žymiai sumažintas pažeidžiamumo atakų skaičius debesyje",
+        "Garantuotas veiklos tęstinumas ir atkūrimas po nelaimės su minimaliu RTO/RPO",
+        "Visiškas atitikties ISO 27001, SOC 2, HIPAA ir GDPR auditų patikimumas",
+        "Pagrindinės įmonės intelektinės nuosavybės ir konfidencialių klientų įrašų apsauga",
+        "Supaprastintas tiekėjo ir trečiųjų šalių rizikos valdymas naudojant vieningą prieigos kontrolę",
+        "Didesnis klientų ir investuotojų pasitikėjimas, paremtas patikrintomis nulinio pasitikėjimo saugumo pozicijomis"
+      ],
+      "zeroTrustPrinciples": [
+        "Niekada nepasitikėk, visada patikrink: kiekvienai operacijai reikalingas aiškus autentifikavimas",
+        "Mažiausių privilegijų prieiga: detalios vaidmenų ribos, ribojančios šoninį grėsmės judėjimą",
+        "Tarkime, kad pažeidimas: nuolatinis grėsmės stebėjimas, šifravimas siuntimo metu ir ramybės būsenoje",
+        "Mikrosegmentavimas: tinklo ugniasienės, izoliuojančios atskirų programų darbo krūvius",
+        "Nuolatinė telemetrija: automatinė elgsenos analizė, pažyminti anomalias seanso užklausas"
+      ],
+      "sec1Eyebrow": "Plečiantis perimetras",
+      "sec1Heading": "Susietos įmonės saugos peizažas",
+      "sec1Subtext": "Šiuolaikinėms organizacijoms jungiant daugiau programų, debesų aplinkos, nuotolinių darbuotojų, mobiliųjų įrenginių ir trečiųjų šalių partnerių, tradicinis saugos perimetras nustoja egzistuoti.",
+      "sec2Eyebrow": "VISUOMENĖ GYNYBĖ",
+      "sec2Heading": "Daugiasluoksnė apsauga nuo grėsmių",
+      "sec2Subtext": "Aktyvios apsaugos priemonės, apsaugančios kritinę infrastruktūrą, jautrius įmonės duomenis ir operacines sistemas.",
+      "sec3Eyebrow": "NAUJA SAUGUMO SIENA",
+      "sec3Heading": "Tapatybės ir prieigos valdymas (IAM)",
+      "sec3Subtext": "Tapatybė yra pagrindinė šiuolaikinio saugumo valdymo plokštuma. Beveik visi rimti saugumo pažeidimai prasideda nuo pažeistų kredencialų, o ne nuo programinės įrangos išnaudojimo.",
+      "sec4Eyebrow": "ARCHITEKTŪRINĖ PARADIGMA",
+      "sec4Heading": "Nulinio pasitikėjimo architektūros demistifikavimas",
+      "sec4Subtext": "Zero Trust nėra vienas produktas ar įrankis. Tai architektūrinė strategija, pagrįsta paprastu principu: pagal numatytuosius nustatymus nepasitikite jokiu subjektu tinkle ar už jo ribų.",
+      "sec5Eyebrow": "INFRASTRUKTŪROS VALDYMAS",
+      "sec5Heading": "Debesų saugos svarstymai",
+      "sec5Subtext": "Apsaugokite darbo krūvius viešajame debesyje, hibridinėse architektūrose ir paskirstytose konteinerių aplinkose.",
+      "sec6Eyebrow": "OPERACINIS ATSPARUMAS",
+      "sec6Heading": "Pasirengimas incidentams: ne tik prevencija",
+      "sec6Subtext": "Tikras kibernetinis atsparumas pripažįsta, kad gali įvykti incidentai. Pasirengimas sutelktas į greitą izoliavimą, minimalų verslo sutrikdymą ir patikrintą atkūrimą.",
+      "sec7Eyebrow": "STRATEGINĖ VERTĖ",
+      "sec7Heading": "Verslo nauda",
+      "sec7Subtext": "Sukūrus kibernetinėms reikmėms atsparią įmonę, saugoma organizacijos vertė, teisinė padėtis ir reputacija rinkoje.",
+      "ctaHeading": "Sustiprinkite savo įmonės saugumą",
+      "ctaDescription": "Sužinokite, kaip organizacijos gali sustiprinti saugumą, apsaugoti svarbiausias sistemas ir pasiruošti grėsmėms vis labiau susietose aplinkose.",
+      "ctaButton": "Pasikalbėkite su mūsų ekspertais",
+      "sec1P1": "Įmonių IT epochoje saugumas veikė pagal pilies ir griovio doktriną: viskas, kas buvo įmonės biurų tinkle, buvo laikoma patikima, o viskas, kas yra išorėje, buvo laikoma nepatikima. Viena įmonės ugniasienė apsaugojo vidinius serverius, duomenų bazes ir stalinius kompiuterius.",
+      "sec1P2": "Šiandieninė įmonė peraugo fizines sienas. Darbo krūviai tenka kelių debesų aplinkoms (AWS, Azure, GCP), darbuotojai pasiekia verslo programas iš įvairių vietų, o API nuolat keičiasi jautriais veiklos duomenimis su išoriniais logistikos tiekėjais, finansų įstaigomis ir SaaS pardavėjais.",
+      "sec1P3": "Nors šis hiperjungiamumas skatina didžiulį verslo judrumą, jis labai išplečia įmonės atakų paviršių. Kiekvienas API galutinis taškas, tapatybės prieigos raktas, prijungtas mobilusis įrenginys ir SaaS integracija yra potencialus poveikio vektorius. Tikra įmonės apsauga reikalauja nuo perimetro pagrįstos gynybos pereiti prie iniciatyvaus, visapusiško kibernetinio atsparumo.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Grėsmių aptikimas",
+          "desc": "Mašininio mokymosi pagalba grėsmių žvalgyba, kuri realiuoju laiku stebi anomalinius tinklo modelius, piktnaudžiavimą kredencialais ir nulinės dienos pažeidžiamumą."
+        },
+        {
+          "icon": "📡",
+          "title": "Saugumo stebėjimas",
+          "desc": "Centralizuoto saugos operacijų centro (SOC) telemetrija, koreliuojanti įvykius tarp serverių, konteinerių grupių, tapatybės teikėjų ir galinių taškų."
+        },
+        {
+          "icon": "🔍",
+          "title": "Pažeidžiamumo valdymas",
+          "desc": "Nuolatinis automatizuotas infrastruktūros, šaltinio kodo saugyklų ir konteinerių registrų pažeidžiamumo nuskaitymas, siekiant aktyviai pašalinti trūkumus."
+        },
+        {
+          "icon": "🔒",
+          "title": "Duomenų apsauga",
+          "desc": "Tvirtas šifravimas siunčiant (TLS 1.3) ir ramybės būsenoje (AES-256), kartu su detaliojo duomenų praradimo prevencijos (DLP) valdymu, siekiant užkirsti kelią intelektinės nuosavybės nutekėjimui."
+        }
+      ],
+      "sec3P1": "Norint apsaugoti įmonės turtą, reikia užtikrinti, kad kiekviena tapatybė – ar tai būtų vykdomasis asmuo, ar išorinis rangovas, ar savarankiškos programinės įrangos paslaugos paskyra – turėtų patvirtintą autorizaciją tiksliems ištekliams, kuriuos ji pasiekia.",
+      "sec3List": [
+        {
+          "bold": "Centralizuotas tapatybės valdymas:",
+          "text": "Vienkartinis prisijungimas (SSO) ir sujungti tapatybės standartai, kurie pašalina suskaidytas slaptažodžių saugyklas įvairiose programose."
+        },
+        {
+          "bold": "Adaptyvusis kelių veiksnių autentifikavimas (MFA):",
+          "text": "Sukčiavimui atsparūs FIDO2 aparatinės įrangos raktai ir rizika pagrįsti kontekstiniai iššūkiai jautrioms administracinėms funkcijoms."
+        },
+        {
+          "bold": "Granuliuotas prieigos valdymas:",
+          "text": "Tikslūs vaidmenimis pagrįsti (RBAC) ir atributais pagrįsti (ABAC) prieigos valdikliai, taikomi API ir duomenų bazės lygiais."
+        },
+        {
+          "bold": "Mažiausių privilegijų principai:",
+          "text": "Laikinos tiesioginės prieigos (JIT) suteikimas, kurios galiojimas baigiasi automatiškai pasibaigus administracinėms užduotims."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PAGRINDINĖ PASIKĖJIMO DOKTRINA",
+      "keyPerspectiveTitle": "Nuolatinis aklo pasitikėjimo patikrinimas",
+      "keyPerspectiveLead": "Nulinio pasitikėjimo architektūroje numanomas pasitikėjimas, pagrįstas tinklo vieta, yra visiškai išardomas. Kiekviena operacija, duomenų bazės užklausa ir vartotojo prisijungimas turi nuolat įrodyti savo teisėtumą:",
+      "cloudSecurityCards": [
+        {
+          "title": "Bendra atsakomybė",
+          "desc": "Aiškus valdymas, atskiriantis debesijos paslaugų teikėjo fizinės infrastruktūros saugumą nuo įmonės atsakomybės už duomenų šifravimą, IAM politiką ir programos kodą."
+        },
+        {
+          "title": "Infrastruktūra kaip kodas (IaC)",
+          "desc": "Nekintamos, tikrinamos debesies konfigūracijos, valdomos naudojant kodą. Automatiniai politikos kaip kodo skaitytuvai blokuoja netinkamas konfigūracijas ir rodomus segmentus prieš įdiegiant."
+        },
+        {
+          "title": "Konteinerių ir „Kubernetes“ sauga",
+          "desc": "Sustiprintas konteinerio vykdymo laikas, pasirašyti vaizdų registrai, tinklo mikrosegmentavimas ir automatizuotas paslapčių valdymas, neleidžiantis kredencialams patekti į šaltinio saugyklas."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "DEBESIS IR MODERNIZAVIMAS",
+      "title": "Senovinių debesies programų modernizavimas",
+      "subtitle": "Ištirkite praktinį požiūrį į senų taikomųjų programų įvertinimą, modernizavimą ir perkėlimą į keičiamo dydžio, saugias debesų architektūras.",
+      "date": "2026 m. rugsėjo mėn",
+      "readTime": "6 min skaitymas",
+      "imageCaption": "Įmonės technologijų perspektyva – debesies savosios platformos pertvarkymas ir talpinimas",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (pakėlimas ir perkėlimas)",
+          "desc": "Greitai perkelkite darbo krūvius į debesies virtualias mašinas, atlikdami minimalius kodo pakeitimus."
+        },
+        {
+          "title": "Pakeisti platformą (pakėlimas ir pertvarkymas)",
+          "desc": "Atnaujinkite vykdymo sistemas, priimkite valdomas debesų duomenų bazes ir supaprastinkite operacijas."
+        },
+        {
+          "title": "Refaktorius (debesies savosios atkūrimas)",
+          "desc": "Dekonstruoti monolitus į konteinerines mikropaslaugas ir įvykiais pagrįstas be serverio API."
+        },
+        {
+          "title": "Pakeisti (SaaS modernizavimas)",
+          "desc": "Pasitraukite perteklines senas sistemas ir naudokite specialiai sukurtą įmonės debesies programinę įrangą."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Palikimo vertinimas",
+          "desc": "Automatizuotas priklausomybės žemėlapių sudarymas, techninis skolų katalogavimas ir parengties debesims vertinimas."
+        },
+        {
+          "title": "Tikslinė architektūra",
+          "desc": "Moduliniai mikro paslaugų brėžiniai, konteinerių topologijos ir automatizuoti IaC šablonai."
+        },
+        {
+          "title": "Laipsniška migracija",
+          "desc": "Canary leidimai, dvigubo rašymo duomenų sinchronizavimas ir nulinės prastovos perjungimo bangos."
+        },
+        {
+          "title": "Debesų optimizavimas",
+          "desc": "Nuolatinis išlaidų valdymas, automatinio mastelio keitimo telemetrija ir FinOps veiklos peržiūros."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponentiškai mažesnės infrastruktūros priežiūros ir techninės įrangos atnaujinimo išlaidos",
+        "Beveik begalinis skaičiavimo elastingumas, valdantis didžiausią įmonės srautą su nuline delsa",
+        "Pagreitintas išleidimo greitis su visiškai automatizuotais CI / CD diegimo vamzdynais",
+        "Pasenusių pavienių gedimo taškų pašalinimas naudojant aukštą kelių AZ prieinamumą",
+        "Šiuolaikinės API architektūros, leidžiančios greitą kelių platformų partnerių integraciją",
+        "Išplėstinis stebėjimas realiuoju laiku, atsižvelgiant į programos našumą ir debesų išlaidas"
+      ],
+      "landscapeAssessmentPoints": [
+        "Sudėtingų tarp taikomųjų programų priklausomybių ir duomenų sinchronizavimo dažnių atvaizdavimas",
+        "Kietojo kodo aplinkos konfigūracijų ir patentuotų duomenų bazių schemų identifikavimas",
+        "Teisės aktų laikymosi ir duomenų suverenumo apribojimų įvertinimas pagal jurisdikciją",
+        "Realių bendrųjų nuosavybės sąnaudų (TCO) apskaičiavimas visuose reaktoriaus ir naujos prieglobos keliuose",
+        "Aiškių diegimo bangų nustatymas, siekiant apsaugoti aktyvias kasdienes verslo operacijas"
+      ],
+      "sec1Eyebrow": "PASELĖTŲ SISTEMŲ REALYBĖ",
+      "sec1Heading": "Palikimo iššūkis",
+      "sec1Subtext": "Senstantys monolitai riboja inovacijų greitį, padidina veiklos pažeidžiamumą ir padidina infrastruktūros priežiūros išlaidas.",
+      "sec2Eyebrow": "ĮVERTINIMAS IR ATRADIMAS",
+      "sec2Heading": "Programos kraštovaizdžio supratimas",
+      "sec2Subtext": "Sėkmingas debesų modernizavimas prasideda nuo kruopštaus įvertinimo. Tiesioginis perkėlimas be taikomųjų programų priklausomybių audito yra pagrindinė vėluojančių perjungimų priežastis.",
+      "sec3Eyebrow": "4 MODERNIZACIJOS KELIAI",
+      "sec3Heading": "Modernizacijos požiūriai",
+      "sec3Subtext": "Nėra vienos visiems tinkamos migracijos strategijos. Pirmaujančios įmonės pritaiko tinkamą modernizavimo modelį kiekvienam konkrečiam darbo krūviui, atsižvelgdamos į verslo vertę, skubumą ir technines skolas.",
+      "sec4Eyebrow": "TIKSLINIO TRANSFORMACIJOS MODELIS",
+      "sec4Heading": "Šiuolaikinė debesų architektūra",
+      "sec4Subtext": "Struktūrinis planas, kuris senus monolitus paverčia elastingomis, saugiomis ir prižiūrimomis debesijos paslaugomis.",
+      "sec5Eyebrow": "TRANSFORMACIJOS REZULTATAI",
+      "sec5Heading": "Pagrindiniai modernizavimo privalumai",
+      "sec5Subtext": "Pasenusių sistemų perkėlimas į šiuolaikines debesų architektūras užtikrina apčiuopiamą veiklos judrumą ir išlaidų nuspėjamumą.",
+      "ctaHeading": "Modernizuokite savo senąsias programas",
+      "ctaDescription": "Išbandykite praktinį požiūrį į senų taikomųjų programų įvertinimą, modernizavimą ir perkėlimą į keičiamo dydžio, saugias debesų architektūras.",
+      "ctaButton": "Pasikalbėkite su mūsų ekspertais",
+      "sec1P1": "Prieš dešimtmetį sukurtos misijai svarbios programos vis dar atneša milijardus įmonių pajamų, tačiau jų architektūrinis nelankstumas kelia didėjančią veiklos riziką.",
+      "sec1P2": "Kiekviena įmonė susiduria su įtampa tarp stabilumo ir modernizavimo. Senosios sistemos buvo sukurtos taip, kad būtų patvarios, ir jos patikimai veikė daugelį metų. Tačiau verslo reikalavimams didėjant, šios senstančios architektūros susiduria su struktūrinėmis ribomis:",
+      "sec1List": [
+        {
+          "bold": "Senstančios programinės įrangos krūvos:",
+          "text": "Monolitinės kodų bazės, sukurtos pagal pasenusias sistemas su mažėjančiais talentų telkiniais, kuriuos galima prižiūrėti."
+        },
+        {
+          "bold": "Sudėtingi priežiūros ciklai:",
+          "text": "Tvirtai sujungti komponentai, kai keičiant vieną ypatybę, kyla pavojus sulaužyti nesusijusius veikimo modulius."
+        },
+        {
+          "bold": "Ribotas mastelio keitimas:",
+          "text": "Vertikalios mastelio ribos, dėl kurių reikia įsigyti brangią patentuotą aparatinę įrangą, kad būtų galima valdyti sezoninius srauto šuolius."
+        },
+        {
+          "bold": "Integracijos iššūkiai:",
+          "text": "Nesugebėjimas sklandžiai prisijungti prie šiuolaikinių mobiliųjų programėlių, klientų portalų ar partnerių API be pažeidžiamų paketinių scenarijų."
+        },
+        {
+          "bold": "Infrastruktūros apribojimai:",
+          "text": "Fizinės serverio patalpos gyvavimo ciklai, atsarginės kopijos pažeidžiamumas ir didelės energijos / aušinimo eksploatacinės išlaidos."
+        }
+      ],
+      "sec2P1": "Pragmatiška modernizavimo kelionė prasideda sukuriant visišką esamą valdą:",
+      "sec2List": [
+        {
+          "bold": "Paraiškos:",
+          "text": "Kataloguoja visus aktyvius darbo krūvius, pasirinktinius modulius, foninius scenarijus ir istorinius trečiųjų šalių paketus."
+        },
+        {
+          "bold": "Priklausomybės:",
+          "text": "Sudėtingo vykdymo laiko susiejimo, bendrinamų duomenų bazių lentelių, tiesioginių failų sistemos iškvietimų ir išorinių paslaugų sutarčių atvaizdavimas."
+        },
+        {
+          "bold": "Duomenys:",
+          "text": "Duomenų struktūrų, operacijų vientisumo reikalavimų, atsarginių kopijų dažnio ir reguliavimo suverenumo taisyklių įvertinimas."
+        },
+        {
+          "bold": "Infrastruktūra:",
+          "text": "CPU, atminties, saugyklos naudojimo ir tinklo pralaidumo auditas pagal tinkamo dydžio tikslines debesies specifikacijas."
+        },
+        {
+          "bold": "Verslo kritiškumas:",
+          "text": "Programų skirstymas į pakopas, kad būtų sukurtos saugios, etapinės migracijos bangos su aiškiomis atsarginėmis procedūromis."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Privalumas:",
+      "cloudArchitectureBadge": "Modernizacijos gyvavimo ciklas",
+      "cloudArchitectureTitle": "Visapusiškas debesų modernizavimo srautas",
+      "sec4P1": "Paskirties architektūra atskiria pagrindines programas į modulines konteinerines paslaugas, priglobtas elastingose debesų platformose (pvz., „Kubernetes“ arba valdomose be serverių vykdymo sistemos).",
+      "sec4P2": "Sukūrus automatizuotus CI/CD diegimo vamzdynus, automatizuotus mėlynai žalius perjungimus ir infrastruktūrą kaip kodą, diegimas iš nervus erzinančių savaitgalio įvykių paverčiamas sklandžia kasdiene rutina.",
+      "sec4P3": "Elastingas skaičiavimas automatiškai padidina mastelį padidėjus paklausai ir sumažina mastelį esant užliūliui, pašalindamas nenaudojamų išteklių sąnaudas, o pasauliniams vartotojams garantuoja trumpesnį atsakymo laiką.",
+      "keyPerspectiveEyebrow": "GERIAUSIA MODERNIZAVIMO PRAKTIKA",
+      "keyPerspectiveTitle": "Keturi sėkmingos migracijos ramsčiai",
+      "keyPerspectiveLead": "Patirtis rodo, kad modernizavimo projektai sėkmingi, kai jie grindžiami visapusišku pasirengimu, aiškia bangų seka ir griežtu testavimu:"
+    }
+  }
+}

@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "关于我们",
+    "services": "服务",
+    "products": "产品",
+    "perspectives": "观点",
+    "technologies": "技术",
+    "contact": "联系我们",
+    "signIn": "登录",
+    "signUp": "注册",
+    "signOut": "退出",
+    "chooseLanguage": "选择您的语言",
+    "searchLanguage": "搜索语言",
+    "resetEnglish": "重置为英语",
+    "noResults": "未找到语言",
+    "englishDefault": "英语（默认）",
+    "english": "英语"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — 海得拉巴",
+    "title": "软件，为您的<em>业务</em>方式而设计。",
+    "description": "Rezonants 是一家数字产品和IT服务公司。我们为在执行中竞争的公司设计、构建和扩展定制软件、Web和移动产品、云基础设施和AI。",
+    "bookConsultation": "预约免费咨询",
+    "exploreServices": "探索服务",
+    "years": "年",
+    "projects": "个项目",
+    "retention": "留存率",
+    "location": "海得拉巴，马德哈普尔",
+    "since": "Rezonants — 始于2012年",
+    "metaStudio": "数字产品工作室",
+    "metaTech": "Web · 移动 · 云 · AI"
+  },
+  "about": {
+    "eyebrow": "关于我们",
+    "title": "最佳IT解决方案 — <em>Rezonants</em>",
+    "description": "Rezonants是一家印度子公司IT公司，也是印度领先的网页设计和Web应用开发公司之一。我们精通内容管理系统和移动应用开发，包括iPhone、iPad和Android应用开发。我们提供专注于网站设计和开发的各种服务——建立在信任、质量和长期合作的基础上。",
+    "awardWinning": "获奖企业",
+    "awardText": "在Web和移动产品工程交付方面获得认可。",
+    "professionalStaff": "专业团队",
+    "staffText": "资深、负责的工程师，从第一次沟通到上线全程负责。",
+    "support247": "全天候支持",
+    "supportText": "托管服务和支持热线，在您需要时随时响应。",
+    "fairPrices": "公平价格",
+    "pricesText": "每次合作都提供诚实的报价和透明的计费。",
+    "yearsExcellence": "多年的企业卓越"
+  },
+  "stats": {
+    "happyClients": "满意客户",
+    "projectsDone": "完成项目",
+    "winAwards": "获奖数量"
+  },
+  "insights": {
+    "eyebrow": "观点",
+    "title": "工作室的观点与思考",
+    "sub": "由我们的技术专家带来的深度技术解析、架构蓝图与工程洞察。",
+    "filters": {
+      "all": "全部观点",
+      "digital-transformation": "数字化转型",
+      "ai": "人工智能",
+      "cloud": "云与安全",
+      "data": "数据与分析",
+      "software": "软件",
+      "business": "商业与技术"
+    },
+    "readMore": "阅读完整观点",
+    "close": "关闭",
+    "keyTakeaways": "核心架构要点",
+    "relatedServices": "相关能力与服务",
+    "minRead": "分钟阅读",
+    "item1Date": "2026年7月",
+    "item1Tag": "产品与ERP",
+    "item1Title": "面向成长型企业的模块化ERP方案",
+    "item1Text": "我们如何构建ERP项目，使财务、库存、HR和采购在无需耗费多年周期的前提下实现无缝集成。",
+    "item2Date": "2026年6月",
+    "item2Tag": "人工智能",
+    "item2Title": "智能体AI系统：从聊天机器人迈向自主执行",
+    "item2Text": "构建协同的多智能体LLM系统，支持在人工监督下规划、验证和执行复杂的企业业务流程。",
+    "item3Date": "2026年5月",
+    "item3Tag": "公司里程碑",
+    "item3Title": "被评为海得拉巴领先的IT创新工作室之一",
+    "item3Text": "我们的工程团队因在全球数字产品工程中的卓越交付质量和客户满意度而获得高度认可。",
+    "desc": "探索 Rezonants 关于数字化转型、人工智能、自动化、云计算、数据、软件以及商业技术未来的洞见与见解。",
+    "categories": {
+      "digitalTransformation": "数字化转型",
+      "ai": "人工智能与自动化",
+      "cloud": "云计算",
+      "data": "数据与分析",
+      "software": "软件",
+      "business": "商业与技术"
+    }
+  },
+  "technologies": {
+    "title": "技术",
+    "headline": "驱动全球业务的技术",
+    "sub": "以智能、可扩展和创新的技术解决方案赋能全球组织。",
+    "selectTechnology": "选择技术",
+    "options": {
+      "aiRobotics": "AI与机器人",
+      "businessAutomation": "业务自动化",
+      "cloudMigrations": "云迁移",
+      "dataCenters": "数据中心",
+      "cognitiveAnalytics": "认知分析与AI",
+      "informationReporting": "信息与报告系统",
+      "managedServices": "托管服务",
+      "oneStopSolutions": "一站式解决方案"
+    },
+    "explore": "探索技术",
+    "bookDiscovery": "图书技术探索",
+    "exploreAll": "探索所有技术",
+    "coreCapabilities": "核心技术能力",
+    "bookConsultation": "预约咨询"
+  },
+  "contact": {
+    "eyebrow": "联系我们",
+    "title": "与资深工程师对话，而非销售话术",
+    "sub": "分享一些关于您项目的信息，我们将在一个工作日内回复。",
+    "reachUs": "直接联系我们",
+    "preferConversation": "更喜欢对话？我们一通电话即可。",
+    "contactLede": "推进的最佳方式是简短的对话。通过以下任何渠道联系我们，或预约时段，我们将做好准备来与您沟通。",
+    "phone": "电话",
+    "email": "邮箱",
+    "office": "办公室",
+    "hours": "工作时间",
+    "hoursValue": "周一至周六，9:30 – 18:30 IST",
+    "bookSlot": "预约咨询时段",
+    "sendMessage": "给我们发消息",
+    "fieldsRequired": "带 * 的字段为必填项。",
+    "fullName": "全名 *",
+    "emailLabel": "邮箱 *",
+    "company": "公司",
+    "subject": "主题",
+    "messageLabel": "消息 *",
+    "sending": "发送中…",
+    "sendBtn": "发送消息",
+    "successMsg": "消息已发送！副本已发送到您的邮箱。",
+    "errorMsg": "无法保存您的消息。请检查contact_messages表是否存在，然后重试。",
+    "offices": {
+      "vijayawada": "维杰亚瓦达办公室",
+      "southAfrica": "南非办事处"
+    },
+    "placeholders": {
+      "fullName": "你的全名",
+      "email": "你@company.com",
+      "company": "您的公司或组织",
+      "subject": "我们能提供什么帮助？",
+      "message": "告诉我们您的项目、时间表和目标..."
+    },
+    "validation": {
+      "fullNameRequired": "请输入您的全名。",
+      "emailRequired": "请输入您的电子邮件地址。",
+      "emailInvalid": "请输入有效的电子邮件地址。",
+      "messageRequired": "请输入留言。"
+    }
+  },
+  "services": {
+    "eyebrow": "服务",
+    "title": "我们做什么",
+    "sub": "从战略到托管运营，我们为在执行中竞争的公司提供端到端的技术合作。",
+    "items": {
+      "buildFromScratch": {
+        "label": "从构想到部署 (Inception To Deployment)",
+        "description": "从业务需求和方案架构到开发、集成、测试、部署及持续支持的全流程数字化解决方案开发。"
+      },
+      "businessProcessAutomation": {
+        "label": "流程自动化",
+        "description": "通过智能自动化简化工作流程，消除手动操作。"
+      },
+      "centerOfExcellence": {
+        "label": "卓越中心",
+        "description": "建立共享标准和复用的高性能工程中心。"
+      },
+      "customDevelopmentCustomization": {
+        "label": "解决方案工程",
+        "description": "从发现到生产，构建弹性、可扩展的系统架构。"
+      },
+      "digitalTransformation": {
+        "label": "数字化转型",
+        "description": "现代化技术、流程和文化，在数字优先的世界中竞争。"
+      },
+      "endToEndSolutionFramework": {
+        "label": "端到端解决方案",
+        "description": "从战略设计到24/7运营的全生命周期交付。"
+      },
+      "migrationModernization": {
+        "label": "迁移服务",
+        "description": "安全且经济高效地将应用程序、数据和基础设施迁移到云端。"
+      },
+      "pocPilotImplementation": {
+        "label": "试点与原型",
+        "description": "通过低风险试点和生产级原型快速验证想法。"
+      },
+      "sharedServicesManagedOperations": {
+        "label": "共享服务",
+        "description": "可跨团队扩展的集中化平台和托管服务。"
+      },
+      "customDevelopment": {
+        "label": "定制开发",
+        "description": "根据您的确切需求构建的定制Web、移动和API产品。"
+      },
+      "processAutomation": {
+        "label": "流程自动化",
+        "description": "通过智能自动化简化工作流程，消除手动操作。"
+      },
+      "solutionEngineering": {
+        "label": "解决方案工程",
+        "description": "从发现到生产，构建弹性、可扩展的系统架构。"
+      },
+      "endToEndSolutions": {
+        "label": "端到端解决方案",
+        "description": "从战略设计到24/7运营的全生命周期交付。"
+      },
+      "migrationServices": {
+        "label": "迁移服务",
+        "description": "安全且经济高效地将应用程序、数据和基础设施迁移到云端。"
+      },
+      "pilotPrototyping": {
+        "label": "试点与原型",
+        "description": "通过低风险试点和生产级原型快速验证想法。"
+      },
+      "sharedServices": {
+        "label": "共享服务",
+        "description": "可跨团队扩展的集中化平台和托管服务。"
+      }
+    },
+    "common": {
+      "scheduleConsultation": "安排咨询",
+      "exploreFramework": "探索解决方案框架",
+      "talkSeniorEngineer": "与高级工程师交谈",
+      "exploreTechStack": "探索技术堆栈",
+      "bookPocSession": "预订 PoC 探索课程",
+      "seeAllServices": "查看所有服务",
+      "requestAssessment": "请求迁移评估",
+      "exploreCloudSolutions": "探索云解决方案"
+    },
+    "sharedServices": {
+      "heroBadge": "共享服务和托管运营",
+      "heroTitle": "企业共享服务和托管运营",
+      "heroDesc": "通过标准化、安全且经济高效的共享服务模型扩展业务能力、简化跨职能工作流程并实现卓越运营。",
+      "bookDiscovery": "预订托管操作发现",
+      "exploreFramework": "探索解决方案框架",
+      "coreCapabilities": "核心能力：",
+      "managedServices": "托管服务",
+      "itOperations": "IT 运营",
+      "appSupport": "应用支持",
+      "serviceManagement": "服务管理",
+      "resourceOptimization": "资源优化",
+      "slaManagement": "SLA 管理",
+      "governance": "治理",
+      "continuousImprovement": "持续改进",
+      "costOptimization": "成本优化",
+      "readyTitle": "准备好优化您的运营了吗？",
+      "readyDesc": "了解我们的共享服务和托管运营框架如何提高服务质量、确保运营连续性并为您的企业带来可持续的成本效率。",
+      "scheduleSession": "安排探索会议"
+    },
+    "solutionEngineering": {
+      "heroBadge": "解决方案工程与架构",
+      "heroTitle": "定制开发与定制",
+      "heroDesc": "架构、设计和部署专为您的操作工作流程、数据管道和规模要求而设计的高性能软件系统。"
+    },
+    "pilotPrototyping": {
+      "heroBadge": "快速创新和实验",
+      "heroTitle": "概念验证 (PoC) 和试点实施",
+      "heroDesc": "在几周而不是几个季度内验证新兴技术、降低复杂架构的风险并通过生产级原型证明业务价值。"
+    },
+    "endToEndSolutions": {
+      "heroBadge": "生命周期架构和交付",
+      "heroTitle": "端到端解决方案框架",
+      "heroDesc": "连接产品发现、解决方案架构、工程、云基础设施和 24/7 可靠性运营的统一交付​​模型。"
+    },
+    "migrationServices": {
+      "heroBadge": "基础设施和遗留现代化",
+      "heroTitle": "迁移与现代化",
+      "heroDesc": "将遗留工作负载、整体架构和本地基础设施无缝过渡到现代、安全且可扩展的云平台。"
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "企业现代化",
+        "titlePart1": "数字",
+        "titlePart2": "转型",
+        "description": "通过云、人工智能、自动化、数据和现代应用技术实现业务运营、技术生态系统和客户体验的现代化。",
+        "bookWorkshop": "书籍转型工作坊",
+        "exploreFramework": "探索解决方案框架",
+        "startTransformation": "开始转型",
+        "exploreStrategy": "探索策略",
+        "coreCapabilitiesTitle": "核心能力",
+        "coreCapabilities": [
+          "数字化战略",
+          "云转型",
+          "人工智能与自动化",
+          "应用程序现代化",
+          "遗留现代化",
+          "数据与分析",
+          "客户体验",
+          "技术现代化"
+        ],
+        "row1Eyebrow": "战略与路线图",
+        "row1Title": "从愿景到可执行路线图",
+        "row1P1": "我们与企业领导者合作，定义数字战略、业务案例和分阶段路线图，以实现快速获胜和低风险执行。",
+        "row1P2": "优先计划、TCO 模型和 KPI 确保每一项技术现代化工作都与收入、效率和客户满意度结果直接相关。",
+        "row2Eyebrow": "遗留现代化",
+        "row2Title": "在不破坏业务的情况下实现现代化",
+        "row2P1": "通过零停机切换和自动回归验证，将单体重新构建为微服务、API 和云原生模式。",
+        "row2P2": "我们对应用程序、数据库和集成层进行现代化改造，同时保持合规性和安全态势。",
+        "row3Eyebrow": "云、人工智能和数据",
+        "row3Title": "云采用和数据驱动的智能",
+        "row3P1": "采用 AWS、Azure 和 GCP，构建现代数据管道，并嵌入机器学习代理来推动自主决策。",
+        "row3P2": "从实时事件流到统一仪表板，转型变得可衡量且可持续。",
+        "row4Eyebrow": "客户体验",
+        "row4Title": "现代全渠道体验",
+        "row4P1": "通过个性化界面，跨响应式 Web、iOS、Android 和自助服务门户重新设计客户旅程。",
+        "row4P2": "平台工程、遥测和自动反馈循环使数字创新持续不断。",
+        "pillarsTitle": "转型支柱",
+        "pillarsSub": "以结果为中心的杠杆，确保可持续的数字领导力。",
+        "pillar1Title": "数字化战略与治理",
+        "pillar1Desc": "分阶段转型蓝图，包括业务案例建模、架构治理和里程碑风险跟踪。",
+        "pillar2Title": "云数据平台",
+        "pillar2Desc": "AWS/Azure/GCP 多云基础、自动化管道和企业数据分析支持。",
+        "pillar3Title": "人工智能与自动化",
+        "pillar3Desc": "智能流程自动化、认知人工智能代理和预测遥测，以优化日常运营。",
+        "pillar4Title": "客户体验",
+        "pillar4Desc": "高转化全渠道数字门户和个性化界面，旨在最大程度地保留用户。",
+        "ctaTitle": "准备好转型您的企业了吗？",
+        "ctaSub": "与 Rezonants 合作，进行与可衡量的业务成果相关的分阶段、去风险的数字化转型。",
+        "ctaButton": "预约数字化转型通话"
+      },
+      "customDevelopment": {
+        "eyebrow": "端到端数字工程",
+        "titlePart1": "成立至",
+        "titlePart2": "部署",
+        "bookConsultation": "预约咨询",
+        "exploreEngineering": "探索解决方案工程"
+      },
+      "processAutomation": {
+        "eyebrow": "智能流程操作",
+        "titlePart1": "业务流程",
+        "titlePart2": "自动化",
+        "bookDiscovery": "图书自动化发现",
+        "exploreCoE": "探索卓越中心"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS 技术 COE",
+        "titlePart1": "中心",
+        "titlePart2": "的中心卓越",
+        "bookConsultation": "预订 CoE 咨询",
+        "exploreCapabilities": "探索功能"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "完整的技术生命周期",
+        "titlePart1": "端到端",
+        "titlePart2": "解决方案框架",
+        "startJourney": "开始您的生命周期之旅",
+        "exploreTransformation": "探索转型"
+      },
+      "migrationServices": {
+        "eyebrow": "云和基础设施转型",
+        "titlePart1": "迁移&",
+        "titlePart2": "现代化",
+        "planMigration": "规划您的迁移",
+        "exploreTransformation": "探索转型"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "快速验证和可行性",
+        "titlePart1": "概念验证 (PoC) &",
+        "titlePart2": "试点实施",
+        "initiateDiscovery": "启动 PoC 发现",
+        "exploreDevelopment": "探索定制开发"
+      },
+      "solutionEngineering": {
+        "badge": "量身定制的数字工程",
+        "bookConsultation": "预约咨询",
+        "exploreCapabilities": "探索功能"
+      },
+      "sharedServices": {
+        "eyebrow": "集中运营中心",
+        "titlePart1": "共享服务 &",
+        "titlePart2": "托管运营",
+        "bookDiscovery": "预订托管操作发现",
+        "exploreFramework": "探索解决方案框架"
+      }
+    },
+    "coreCapabilities": "核心能力"
+  },
+  "products": {
+    "featured": "精选产品",
+    "featuredSub": "简化运营、连接团队、自动化流程，推动更智能的业务增长。",
+    "seeAll": "查看所有产品",
+    "featuredProducts": "精选产品",
+    "meetAutonomous": "认识自主工作力",
+    "meetAutonomousText": "用与团队并肩工作的AI代理转变您的运营，处理复杂、重复的任务。",
+    "learnMore": "了解更多",
+    "erp": {
+      "title": "一个万能平台",
+      "sub": "以连接、智能和可扩展的企业管理解决方案赋能企业。",
+      "explore": "探索ERP解决方案",
+      "gridTitle": "ERP解决方案",
+      "promoTitle": "面向增长的模块化ERP",
+      "promoText": "无需传统多年系统的复杂性，快速部署模块化ERP功能。",
+      "scheduleDemo": "预约演示"
+    },
+    "it": {
+      "title": "IT解决方案",
+      "sub": "企业级基础设施、安全和DevOps解决方案，保持您的业务运转。",
+      "explore": "探索IT解决方案",
+      "gridTitle": "IT解决方案",
+      "promoTitle": "可靠的IT基础设施",
+      "promoText": "通过托管云、安全和DevOps服务构建弹性技术基础。",
+      "getStarted": "开始使用"
+    },
+    "crm": {
+      "title": "CRM解决方案",
+      "sub": "简化销售、支持和营销工作流程的客户关系管理。",
+      "explore": "探索CRM解决方案",
+      "gridTitle": "CRM解决方案",
+      "promoTitle": "达成更多交易",
+      "promoText": "以统一的客户数据和智能自动化赋能您的销售和支持团队。",
+      "startTrial": "开始免费试用"
+    },
+    "hrms": {
+      "title": "HRMS解决方案",
+      "sub": "涵盖薪资、招聘、绩效和员工参与的人力资源管理。",
+      "explore": "探索HRMS解决方案",
+      "gridTitle": "HRMS解决方案",
+      "promoTitle": "简化HR运营",
+      "promoText": "通过现代的、员工优先的平台自动化从招聘到退休的HR工作流程。",
+      "requestDemo": "请求演示"
+    },
+    "sidebar": {
+      "featuredProducts": "精选产品",
+      "erpSolutions": "ERP解决方案",
+      "solutions": "解决方案"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI套件",
+        "description": "智能自主代理和工具，自动化复杂工作流和客户运营。"
+      },
+      "cloudNexus": {
+        "title": "云联结",
+        "description": "优化性能、安全、合规性和成本的多云管理平台。"
+      },
+      "workSync": {
+        "title": "工作同步",
+        "description": "集成任务、聊天和文档管理的混合协作与生产力中心。"
+      },
+      "dataStream": {
+        "title": "数据流",
+        "description": "将业务事件流转化为可操作洞察的实时分析引擎。"
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP 核心",
+        "description": "连接财务、资产、HR、采购和库存的统一企业架构。"
+      },
+      "hrmsPro": {
+        "title": "人力资源管理系统专业版",
+        "description": "涵盖薪资、福利、绩效评估和自助服务的员工体验平台。"
+      },
+      "supplyChainIq": {
+        "title": "供应链智商",
+        "description": "实时物流跟踪、自动化仓储运营和需求预测。"
+      },
+      "financeHub": {
+        "title": "金融中心",
+        "description": "高级账本管理、计费工作流、自动化合规和实时现金流报告。"
+      },
+      "cloudInfrastructure": {
+        "title": "云基础设施",
+        "description": "跨AWS、Azure和GCP的可扩展云架构、迁移和管理。"
+      },
+      "cybersecuritySuite": {
+        "title": "网络安全套件",
+        "description": "端到端安全监控、威胁检测和合规管理。"
+      },
+      "devopsPipeline": {
+        "title": "DevOps流水线",
+        "description": "CI/CD自动化、容器化和基础设施即代码，加速交付。"
+      },
+      "managedItServices": {
+        "title": "托管IT服务",
+        "description": "24/7基础设施监控、事件响应和主动维护。"
+      },
+      "salesCrm": {
+        "title": "销售CRM",
+        "description": "一个平台中的管道管理、线索评分、交易跟踪和销售预测。"
+      },
+      "customerSupportHub": {
+        "title": "客户支持中心",
+        "description": "工单、知识库、实时聊天和全渠道支持管理。"
+      },
+      "marketingAutomation": {
+        "title": "营销自动化",
+        "description": "活动编排、邮件自动化、线索培育和分析。"
+      },
+      "customer360View": {
+        "title": "客户360视图",
+        "description": "结合销售、支持和交互数据的统一客户档案。"
+      },
+      "coreHr": {
+        "title": "核心HR",
+        "description": "员工记录、组织架构、假期管理和考勤跟踪。"
+      },
+      "payrollCompliance": {
+        "title": "薪资与合规",
+        "description": "自动化薪资处理、税务计算和法定合规。"
+      },
+      "performanceManagement": {
+        "title": "绩效管理",
+        "description": "OKR跟踪、360°评估、目标设定和员工发展计划。"
+      },
+      "recruitmentPortal": {
+        "title": "招聘门户",
+        "description": "职位发布、候选人跟踪、面试安排和入职工作流。"
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "特色产品",
+        "heading": "特色产品",
+        "sub": "简化运营、连接团队、自动化流程并推动更智能的业务增长。",
+        "promoTitle": "认识自主劳动力",
+        "promoText": "利用人工智能代理改变您的运营方式，与您的团队一起处理复杂、重复的任务。",
+        "items": [
+          {
+            "title": "人工智能自动化与智能代理",
+            "description": "自动执行重复性任务并部署智能 AI 代理，以提高生产力、决策制定和业务成果。"
+          },
+          {
+            "title": "IT 服务和数字支持",
+            "description": "通过简化的服务管理、自动化和数字工作流程提供更快、更智能的 IT 支持。"
+          },
+          {
+            "title": "企业人工智能治理",
+            "description": "通过强有力的治理、安全性、合规性、透明度和风险控制，建立负责任的人工智能采用。"
+          },
+          {
+            "title": "智能IT运营",
+            "description": "通过 AI 驱动的监控、自动化、预测性见解和主动问题解决来转变 IT 运营。"
+          },
+          {
+            "title": "客户体验管理",
+            "description": "通过智能参与、自动化、分析和无缝数字体验创建个性化客户旅程。"
+          },
+          {
+            "title": "业务战略和投资组合优化",
+            "description": "将技术投资与业务目标结合起来，以优化产品组合、提高效率并推动可持续增长。"
+          },
+          {
+            "title": "IT 资产和技术生命周期",
+            "description": "通过更好的可视性、自动化、成本控制和技术规划来管理 IT 资产的整个生命周期。"
+          },
+          {
+            "title": "企业风险与合规",
+            "description": "识别、评估和管理企业风险，同时加强合规性、控制和组织弹性。"
+          },
+          {
+            "title": "网络安全与威胁行动",
+            "description": "通过主动威胁检测、安全操作、事件响应和持续监控来保护数字环境。"
+          },
+          {
+            "title": "现场劳动力自动化",
+            "description": "为现场团队提供智能调度、移动工作流程、自动化和实时操作可见性。"
+          },
+          {
+            "title": "员工体验和人力资源服务",
+            "description": "通过数字工作流程、自助服务解决方案、自动化和个性化员工体验简化员工服务。"
+          },
+          {
+            "title": "统一数字工作场所",
+            "description": "通过安全、智能和无缝的数字工作场所连接人员、流程、应用程序和协作工具。"
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP解决方案",
+        "heading": "一个平台，应对一切",
+        "sub": "为企业提供互联、智能且可扩展的企业管理解决方案。",
+        "promoTitle": "模块化 ERP 促进增长",
+        "promoText": "快速部署模块化 ERP 功能，无需传统的多年系统的复杂性。",
+        "items": [
+          {
+            "title": "业务流程自动化",
+            "description": "简化财务、人力资源、销售、采购和日常运营。"
+          },
+          {
+            "title": "综合业务管理",
+            "description": "在统一平台上连接部门、数据和工作流程。"
+          },
+          {
+            "title": "财务与会计",
+            "description": "提高财务可见性、报告、预算和合规性。"
+          },
+          {
+            "title": "人力资源和薪资",
+            "description": "简化员工管理、考勤、薪资和人力资源流程。"
+          },
+          {
+            "title": "供应链管理",
+            "description": "优化采购、库存、供应商和物流。"
+          },
+          {
+            "title": "销售和客户管理",
+            "description": "有效管理销售线索、客户、订单和销售业绩。"
+          },
+          {
+            "title": "实时分析和报告",
+            "description": "将业务数据转化为可操作的见解，以更快地做出决策。"
+          },
+          {
+            "title": "云 ERP 解决方案",
+            "description": "从任何地方实现安全、可扩展且可访问的企业管理。"
+          }
+        ]
+      },
+      "it": {
+        "title": "IT解决方案",
+        "heading": "我们的 IT 解决方案",
+        "sub": "通过智能、主动且可扩展的数字解决方案转变 IT 运营，提高性能、生产力和业务连续性。",
+        "promoTitle": "可靠的 IT 基础设施",
+        "promoText": "通过托管云、安全性和 DevOps 服务构建弹性技术基础。",
+        "items": [
+          {
+            "title": "IT服务管理",
+            "description": "简化 IT 服务、事件、请求和工作流程，以更快地解决问题。"
+          },
+          {
+            "title": "IT 运营管理",
+            "description": "通过主动、数据驱动的 IT 运营来监控基础设施和应用程序。"
+          },
+          {
+            "title": "IT 资产管理",
+            "description": "高效管理技术资产，同时降低成本、风险和生命周期复杂性。"
+          },
+          {
+            "title": "企业架构",
+            "description": "将业务战略与正确的技术架构和投资相结合。"
+          },
+          {
+            "title": "云治理",
+            "description": "提高云安全性、合规性、性能和成本管理。"
+          },
+          {
+            "title": "数字化操作",
+            "description": "自动化 IT 流程并获得整个技术环境的实时可见性。"
+          },
+          {
+            "title": "可观察性和监控",
+            "description": "尽早发现性能问题并保持可靠的数字体验。"
+          },
+          {
+            "title": "战略投资组合管理",
+            "description": "将 IT 投资与业务优先级和可衡量的成果联系起来。"
+          }
+        ]
+      },
+      "crm": {
+        "title": "客户关系管理解决方案",
+        "heading": "我们的 CRM 解决方案",
+        "sub": "在整个客户旅程中提供互联、个性化和智能的客户体验。",
+        "promoTitle": "关闭更多优惠",
+        "promoText": "通过统一的客户数据和智能自动化为您的销售和支持团队提供支持。",
+        "items": [
+          {
+            "title": "客户服务管理",
+            "description": "通过更快的解决方案、自助服务和智能工作流程改善客户支持。"
+          },
+          {
+            "title": "销售自动化",
+            "description": "自动化销售活动、管理销售线索并帮助团队更快地抓住机会。"
+          },
+          {
+            "title": "销售和订单管理",
+            "description": "简化从销售线索到订单的流程并提高收入可见性。"
+          },
+          {
+            "title": "现场服务管理",
+            "description": "优化现场操作、调度、调度和技术人员生产力。"
+          },
+          {
+            "title": "客户体验管理",
+            "description": "在每个客户接触点创建无缝且个性化的体验。"
+          },
+          {
+            "title": "CRM 分析和见解",
+            "description": "将客户数据转化为可操作的见解，以做出更明智的业务决策。"
+          },
+          {
+            "title": "营销自动化",
+            "description": "自动化营销活动、客户参与和潜在客户培育。"
+          },
+          {
+            "title": "人工智能驱动的 CRM",
+            "description": "使用智能自动化和人工智能见解来提高生产力和客户参与度。"
+          }
+        ]
+      },
+      "hrms": {
+        "title": "人力资源管理系统解决方案",
+        "heading": "我们的人力资源管理系统解决方案",
+        "sub": "通过智能、集成和自动化的人力资源解决方案为您的员工提供支持，从而简化员工管理并改善工作场所体验。",
+        "promoTitle": "简化人力资源运营",
+        "promoText": "通过员工至上的现代化平台实现从招聘到退休的人力资源工作流程自动化。",
+        "items": [
+          {
+            "title": "核心人力资源管理",
+            "description": "高效管理员工信息、组织结构和人力资源流程。"
+          },
+          {
+            "title": "薪资管理",
+            "description": "自动化工资单、工资处理、扣除和合规性。"
+          },
+          {
+            "title": "员工自助服务",
+            "description": "让员工轻松访问人力资源服务、请求、文档和信息。"
+          },
+          {
+            "title": "考勤、请假管理",
+            "description": "简化出勤跟踪、休假申请、轮班和工作时间。"
+          },
+          {
+            "title": "招聘和入职",
+            "description": "简化招聘、候选人管理、入职和员工整合。"
+          },
+          {
+            "title": "绩效管理",
+            "description": "设定目标、跟踪绩效并支持员工的持续发展。"
+          },
+          {
+            "title": "学习与发展",
+            "description": "管理培训计划、技能开发和员工成长。"
+          },
+          {
+            "title": "人力资源分析和报告",
+            "description": "将劳动力数据转化为可行的见解，以做出更好的人力资源决策。"
+          },
+          {
+            "title": "人工智能驱动的人力资源自动化",
+            "description": "自动执行重复性人力资源任务并提供更快、个性化的员工体验。"
+          }
+        ]
+      },
+      "appdev": {
+        "title": "应用程序开发",
+        "heading": "我们的应用程序开发服务",
+        "sub": "构建安全、可扩展且高性能的应用程序，以加速业务增长并简化复杂流程。",
+        "promoTitle": "构建用户喜爱的应用程序",
+        "promoText": "从构思到发布，我们的团队设计和开发可扩展的高质量移动和 Web 应用程序。",
+        "items": [
+          {
+            "title": "定制应用程序开发",
+            "description": "围绕您独特的业务需求构建定制的应用程序。"
+          },
+          {
+            "title": "网络和移动应用程序开发",
+            "description": "跨网络、移动设备和多种设备提供无缝数字体验。"
+          },
+          {
+            "title": "企业应用开发",
+            "description": "开发与您现有业务系统集成的可扩展解决方案。"
+          },
+          {
+            "title": "低代码和无代码开发",
+            "description": "通过灵活的低代码开发平台加速应用程序交付。"
+          },
+          {
+            "title": "API与系统集成",
+            "description": "连接应用程序、平台和第三方系统以实现无缝数据流。"
+          },
+          {
+            "title": "应用程序现代化",
+            "description": "将遗留应用程序转变为现代、可扩展且高效的解决方案。"
+          },
+          {
+            "title": "人工智能驱动的应用程序",
+            "description": "将AI、自动化、智能化能力融入业务应用。"
+          },
+          {
+            "title": "应用支持与维护",
+            "description": "确保持续的性能、安全性、更新和可靠性。"
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI与机器人",
+    "businessAutomation": "业务自动化",
+    "cloudMigrations": "云迁移",
+    "dataCenters": "数据中心",
+    "cognitiveAnalyticsAi": "认知分析与AI",
+    "informationReportingSystems": "信息与报告系统",
+    "managedServices": "托管服务",
+    "oneStopSolutions": "一站式解决方案"
+  },
+  "servicePage": {
+    "serviceOverview": "服务概述",
+    "whatWeOffer": "我们的服务",
+    "whyChooseRezonants": "为什么选择Rezonants",
+    "benefitsOfWorking": "与我们合作的优势",
+    "techStack": "技术栈",
+    "technologiesWeUse": "我们使用的技术",
+    "ourWork": "我们的作品",
+    "relatedProjects": "相关项目",
+    "viewCaseStudy": "查看案例研究",
+    "readyToDiscuss": "准备好讨论您的{{title}}项目了吗？",
+    "seniorEngineersReady": "我们的资深工程师已准备好帮助您规划、设计和构建解决方案。",
+    "startProject": "开始您的项目",
+    "howItWorks": "运作方式"
+  },
+  "consultation": {
+    "badge": "预约免费咨询",
+    "title": "让我们一起规划您的项目",
+    "description": "与我们的顾问预约无义务电话。讨论您的需求，探索合适的技术方案，获得清晰的报价——全部在30分钟内完成。",
+    "bookSlot": "预约您的时段",
+    "howItWorks": "运作方式",
+    "accountRequired": "需要账户",
+    "signInToBook": "登录以预约咨询",
+    "accountRequiredText": "您需要一个Rezonants账户来请求咨询。登录或创建一个——只需不到一分钟。",
+    "signInToContinue": "登录以继续",
+    "newToRezonants": "新用户？",
+    "createAccount": "创建账户",
+    "requestMeeting": "预约会议",
+    "tellUsAboutProject": "告诉我们您的项目",
+    "fillDetails": "填写您的详细信息，我们将通过电子邮件确认您的咨询时段。",
+    "fullName": "全名 *",
+    "email": "邮箱 *",
+    "phone": "电话 *",
+    "company": "公司",
+    "serviceOfInterest": "感兴趣的服务 *",
+    "selectService": "选择服务…",
+    "preferredDate": "首选日期 *",
+    "preferredTime": "首选时间 *",
+    "selectTimeSlot": "选择时间段…",
+    "estimatedBudget": "预估预算",
+    "selectRange": "选择范围…",
+    "projectRequirements": "项目需求",
+    "booking": "预约中…",
+    "bookFreeConsultation": "预约我的免费咨询",
+    "freeNote": "100%免费且无义务。我们通常在24小时内回复。",
+    "whatToExpect": "期待什么",
+    "preferToReachUs": "更喜欢直接联系我们？",
+    "callUs": "致电我们",
+    "emailUs": "发邮件给我们",
+    "visitUs": "访问我们",
+    "whyBookWithUs": "为什么选择我们",
+    "freeCallTitle": "真正有帮助的免费电话",
+    "freeCallNoPressure": "免费电话，无压力",
+    "freeCallNoPressureText": "每次首次咨询都是免费的。没有购买义务——只有诚实的建议。",
+    "seniorConsultants": "仅限资深顾问",
+    "seniorConsultantsText": "您的会议由资深工程师和顾问主持，他们以构建为生。",
+    "clearTimelines": "清晰的时间线和报价",
+    "clearTimelinesText": "获得明确的下一步、现实的时间表和透明的项目定价。",
+    "services": {
+      "customSoftware": "定制软件开发",
+      "webMobile": "Web和移动应用开发",
+      "cloudDevops": "云和DevOps解决方案",
+      "aiMl": "AI和机器学习",
+      "itConsulting": "IT咨询",
+      "digitalMarketing": "数字营销和SEO",
+      "erpSolutions": "ERP解决方案",
+      "other": "其他 / 还不确定"
+    },
+    "budgets": {
+      "under1L": "低于₹1L",
+      "1to5L": "1 升 – 5 升",
+      "5to10L": "5 升 – 10 升",
+      "above10L": "₹10L以上",
+      "notDecided": "尚未决定"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "了解您的目标",
+        "text": "我们先倾听。30分钟的电话来了解您的业务需求、受众和期望成果。"
+      },
+      "technicalDirection": {
+        "title": "获得技术方向",
+        "text": "我们的工程师分享适合您项目的架构、技术栈和方法。"
+      },
+      "clearQuote": {
+        "title": "获得清晰报价",
+        "text": "获得透明的估算、时间表和后续步骤——无义务。"
+      }
+    },
+    "validation": {
+      "nameRequired": "全名是必填项。",
+      "emailRequired": "邮箱是必填项。",
+      "emailInvalid": "请输入有效的邮箱。",
+      "phoneRequired": "电话号码是必填项。",
+      "phoneInvalid": "请输入有效的电话号码。",
+      "serviceRequired": "请选择一项服务。",
+      "dateRequired": "请选择首选日期。",
+      "timeRequired": "请选择首选时间段。",
+      "messageTooShort": "请添加更多详细信息（至少10个字符）。",
+      "signInRequired": "请登录以预约咨询。",
+      "couldNotBook": "无法预约您的咨询。请检查consultations表是否存在，然后重试。",
+      "bookedSuccess": "咨询已预约！我们的团队将很快通过电子邮件确认您的时间段。"
+    }
+  },
+  "auth": {
+    "welcomeBack": "欢迎回来",
+    "createAccount": "创建账户",
+    "forgotPassword": "忘记密码",
+    "createNewPassword": "创建新密码",
+    "welcomeBackDesc": "登录您的Rezonants账户。",
+    "createAccountDesc": "立即加入Rezonants科技。",
+    "forgotDesc": "输入您的邮箱，我们将向您发送重置密码的链接。",
+    "recoveryDesc": "为您的账户选择一个强密码。",
+    "fullName": "全名",
+    "email": "邮箱",
+    "password": "密码",
+    "newPassword": "新密码",
+    "confirmPassword": "确认密码",
+    "confirmNewPassword": "确认新密码",
+    "forgotPasswordLink": "忘记密码？",
+    "privacyPolicy": "我接受Rezonants的<1>隐私与安全</1>政策。",
+    "sendResetLink": "发送重置链接",
+    "signIn": "登录",
+    "signUp": "注册",
+    "pleaseWait": "请稍候…",
+    "rememberedPassword": "想起密码了？",
+    "signInLink": "登录",
+    "noAccount": "没有账户？",
+    "signUpLink": "注册",
+    "hasAccount": "已有账户？",
+    "changedMind": "改变主意了？",
+    "backToSignIn": "返回登录",
+    "resetSent": "密码重置链接已发送！请检查您的邮箱以创建新密码。",
+    "passwordUpdated": "您的密码已更新。请使用新密码登录。",
+    "accountCreated": "账户已创建！请检查您的邮箱确认注册，然后登录。",
+    "validation": {
+      "fullNameRequired": "全名是必填项。",
+      "emailRequired": "邮箱是必填项。",
+      "emailInvalid": "请输入有效的邮箱。",
+      "passwordRequired": "密码是必填项。",
+      "passwordMinLength": "密码必须至少6个字符。",
+      "passwordsNoMatch": "密码不匹配。",
+      "acceptTerms": "请接受Rezonants隐私和安全政策以继续。"
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "与Rezonants AI聊天",
+    "openChatLabel": "打开Rezonants AI助手聊天",
+    "chatTitle": "Rezonants AI助手",
+    "online": "在线",
+    "expandLabel": "展开聊天机器人",
+    "minimizeLabel": "最小化聊天机器人",
+    "closeLabel": "关闭聊天机器人",
+    "expand": "展开",
+    "minimize": "最小化",
+    "close": "关闭",
+    "popularTopics": "热门话题",
+    "askPlaceholder": "问我关于Rezonants的问题...",
+    "messageLabel": "给Rezonants AI助手发消息",
+    "sendLabel": "发送消息",
+    "sendTitle": "发送消息",
+    "enterToSend": "按回车发送 · Shift+Enter换行",
+    "newChat": "新对话",
+    "typing": "Rezonants AI 正在输入",
+    "menuOptions": "菜单选项",
+    "greetingMorning": "早上好",
+    "greetingAfternoon": "下午好",
+    "greetingEvening": "晚上好",
+    "welcomeText": "！ 👋 欢迎来到 Rezonants。\n我是 Rezonants 人工智能助手。我可以帮助您探索我们的服务、技术和联系信息。"
+  },
+  "cookieConsent": {
+    "title": "我们重视您的隐私",
+    "description": "我们使用cookies来改善您的浏览体验。您可以接受所有cookies、拒绝非必要的cookies或自定义偏好。始终启用必要的cookies以确保网站正常运行。",
+    "acceptAll": "全部接受",
+    "rejectNonEssential": "拒绝非必要",
+    "managePreferences": "管理偏好",
+    "privacyPolicy": "隐私政策"
+  },
+  "cookiePreferences": {
+    "title": "管理Cookie偏好",
+    "description": "选择您允许的cookie类别。必要的cookie保持启用以维持网站功能。",
+    "essential": "必要",
+    "essentialDesc": "网站运行所需（身份验证、安全、负载均衡）。无法禁用。",
+    "analytics": "分析",
+    "analyticsDesc": "帮助我们了解访客如何使用网站以进行改进。默认禁用。",
+    "marketing": "营销",
+    "marketingDesc": "用于向您展示相关的优惠和活动。默认禁用。",
+    "cancel": "取消",
+    "savePreferences": "保存偏好"
+  },
+  "privacy": {
+    "badge": "法律",
+    "title": "隐私政策",
+    "description": "Rezonants科技如何收集、使用和保护您的个人信息和cookies。",
+    "lastUpdated": "最后更新：2026年8月",
+    "managingPreferences": "管理您的偏好",
+    "managingPreferencesDesc": "您可以随时从cookie偏好面板查看或更改允许的cookies。",
+    "manageCookiePreferences": "管理Cookie偏好",
+    "section1": {
+      "title": "1. 我们收集的信息",
+      "body": [
+        "我们收集您直接提供的信息（如提交联系表单或创建账户时的姓名和电子邮件地址），以及通过cookies和类似技术自动收集的信息，如访问的页面、设备类型和大致位置。"
+      ]
+    },
+    "section2": {
+      "title": "2. 我们如何使用Cookies",
+      "body": [
+        "必要的cookies始终启用，因为没有它们网站无法正常运行。它们存储会话和身份验证状态，并记住您的cookie偏好。",
+        "分析cookies帮助我们了解访客如何使用网站以进行改进。营销cookies用于向您展示相关的优惠和活动。这些类别仅在您同意后启用，可随时从cookie偏好面板更改。"
+      ]
+    },
+    "section3": {
+      "title": "3. 法律依据（GDPR）",
+      "body": [
+        "我们基于以下法律依据处理个人数据：您的同意（用于非必要cookies和营销）、合同履行（用于您请求的服务）、法律义务，以及您的权利不优先于的合法利益。您可以随时撤回同意，不影响撤回前进行的处理的合法性。"
+      ]
+    },
+    "section4": {
+      "title": "4. 您的权利",
+      "body": [
+        "根据您的位置，您可能有权访问、更正、删除或限制处理您的个人数据，反对处理，以及数据可携带权。您还可以向当地的监管机构投诉。"
+      ]
+    },
+    "section5": {
+      "title": "5. 数据保留与安全",
+      "body": [
+        "我们仅在本政策所述目的所需的时间内保留个人数据。我们应用适当的技术和组织措施来保护您的信息免受未经授权的访问、更改、披露或销毁。"
+      ]
+    },
+    "section6": {
+      "title": "6. 第三方服务",
+      "body": [
+        "某些cookies可能由第三方提供商（如分析或广告平台）设置，它们帮助我们运营网站。这些提供商根据其自己的隐私政策处理数据，仅在您同意相关类别时才启用。"
+      ]
+    },
+    "contactUs": "7. 联系我们",
+    "contactUsText": "如有任何关于本政策或您的个人数据的问题，请通过<1>info@rezonants.com</1>联系我们或致电<3>18004103299</3>。"
+  },
+  "ourServices": {
+    "eyebrow": "服务",
+    "title": "我们的服务",
+    "sub": "端到端技术解决方案，助力企业创新、扩展并取得成功。",
+    "learnMore": "了解更多",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "启动到部署",
+        "text": "从初步构想到生产部署，我们提供满足实际业务需求的可扩展解决方案。"
+      },
+      "businessProcessAutomation": {
+        "title": "业务流程自动化",
+        "text": "通过智能业务自动化简化重复流程并提高运营效率。"
+      },
+      "centerOfExcellence": {
+        "title": "卓越中心",
+        "text": "构建专业技术能力，推动创新、质量与持续改进。"
+      },
+      "customDevelopmentCustomization": {
+        "title": "定制开发与定制",
+        "text": "围绕您独特的业务需求和工作流程量身定制的软件解决方案。"
+      },
+      "digitalTransformation": {
+        "title": "数字化转型",
+        "text": "以数字战略、技术和解决方案实现业务现代化，创造可衡量的影响。"
+      },
+      "endToEndSolutionFramework": {
+        "title": "端到端解决方案框架",
+        "text": "整合的技术解决方案，连接战略、开发、实施与持续运营。"
+      },
+      "migrationModernization": {
+        "title": "迁移与现代化",
+        "text": "将遗留应用现代化，并迁移到可扩展、安全高效的技术平台。"
+      },
+      "pocPilotImplementation": {
+        "title": "概念验证 (PoC) 和试点实施",
+        "text": "在大规模部署之前，通过聚焦的原型快速验证想法。"
+      },
+      "sharedServicesManagedOperations": {
+        "title": "共享服务和托管运营",
+        "text": "可靠的托管技术运营，提升性能、可扩展性与业务连续性。"
+      }
+    }
+  },
+  "footer": {
+    "company": "公司",
+    "about": "关于我们",
+    "perspectives": "观点",
+    "technologies": "技术",
+    "contact": "联系我们",
+    "services": "服务",
+    "getInTouch": "联系我们",
+    "bookConsultation": "预约咨询",
+    "copyright": "© {{year}} Rezonants科技。保留所有权利。",
+    "cookiePreferences": "Cookie偏好",
+    "privacyPolicy": "隐私政策",
+    "description": "Rezonants科技是印度海得拉巴的数字产品和IT服务公司。我们为在执行中竞争的公司设计、构建和扩展软件。",
+    "locations": "我们的办公室",
+    "indiaHq": "海得拉巴, 印度 — 印度总部",
+    "southAfrica": "南非 — REZONANTS PVT LTD",
+    "products": "产品",
+    "followUs": "关注我们",
+    "aboutUs": "关于我们",
+    "contactUs": "联系我们",
+    "headline": "让我们共同构建",
+    "headlineAccent": "未来。",
+    "subheadline": "与 Rezonants 携手合作，将创意转化为切实的商业价值。",
+    "credoIdeas": "创意",
+    "credoSolutions": "解决方案",
+    "credoPeople": "人才",
+    "credoBrighterTomorrow": "创造更美好的明天",
+    "hyderabadLocation": "海得拉巴，印度",
+    "vijayawadaLocation": "维杰亚瓦达，安得拉邦",
+    "southAfricaLocation": "南非 – REZONANTS PVT LTD",
+    "termsOfUse": "使用条款",
+    "accessibility": "无障碍访问",
+    "quickLinks": "快速链接",
+    "explore": "探索",
+    "vijayawadaOffice": "维杰亚瓦达办事处",
+    "allRightsReserved": "保留所有权利。",
+    "hyderabadPin": "印度海得拉巴",
+    "southAfricaPin": "南非"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "retry": "重试",
+    "close": "关闭",
+    "backToTop": "返回顶部",
+    "skipToContent": "跳转到内容",
+    "scroll": "滚动",
+    "whatWeOffer": "我们提供什么",
+    "howItWorks": "它是如何运作的"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "搜索国家或区号…",
+    "noResults": "未找到国家。",
+    "countryCodeLabel": "国家电话区号",
+    "required": "电话号码是必填项。",
+    "incomplete": "电话号码必须恰好包含 {{count}} 位数字。",
+    "tooLong": "电话号码不能超过 {{count}} 位数字。",
+    "invalid": "请输入适用于 {{country}} 的有效电话号码。"
+  },
+  "perspectives": {
+    "topic": "主题：",
+    "published": "发布：",
+    "readingTime": "阅读时间：",
+    "author": "作者：",
+    "authorName": "Rezonants 企业架构工作室",
+    "techArea": "技术区",
+    "purpose": "目的",
+    "talkToExperts": "与我们的专家交谈",
+    "viewAll": "查看所有观点",
+    "exploreMore": "探索更多观点",
+    "continueExploring": "继续探索企业技术洞察",
+    "readPerspective": "阅读观点"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "人工智能和机器人解决方案",
+      "tagline": "智能技术。自动化操作。更智能的业务。",
+      "heroBadge": "智能自治系统",
+      "overview": [
+        "人工智能和机器人技术正在改变组织运营、决策和交付价值的方式。我们的人工智能和机器人解决方案通过结合人工智能、机器学习、计算机视觉、智能流程自动化和机器人技术，帮助企业超越传统自动化，解决实际的业务挑战。",
+        "我们围绕可衡量的业务成果设计智能解决方案。无论需求是自动化重复性工作、分析大量信息、检测模式、支持决策，还是将机器人引入操作环境，我们的方法都侧重于可靠性、可扩展性、安全性和长期业务价值。"
+      ],
+      "transformation": [
+        "现代组织每天都会生成大量数据并执行数千项重复活动。人工智能和机器人技术可以将这些活动转变为智能、自动化的工作流程，从而提高生产力，同时让员工专注于更高价值的职责。",
+        "我们的解决方案可以帮助组织自动化重复操作、减少人工干预、提高准确性、分析复杂信息、支持更快的决策、优化资源利用率、增强客户体验并构建可扩展的智能系统。"
+      ],
+      "capabilities": [
+        {
+          "title": "人工智能",
+          "desc": "我们开发人工智能驱动的解决方案，使系统能够理解信息、识别模式、生成见解并支持业务决策。"
+        },
+        {
+          "title": "机器学习",
+          "desc": "我们开发用于预测、分类、推荐系统、异常检测、预测分析和智能决策支持的机器学习模型。"
+        },
+        {
+          "title": "自然语言处理",
+          "desc": "NLP 可用于处理文档、理解文本、对信息进行分类、提取相关内容以及支持会话应用程序。"
+        },
+        {
+          "title": "计算机视觉",
+          "desc": "计算机视觉解决方案可以支持图像分类、目标检测、质量检查、文档处理、视觉监控和视频分析。"
+        },
+        {
+          "title": "机器人",
+          "desc": "机器人技术将软件智能与物理系统相结合，使传统上需要手动操作的活动实现自动化。应用程序可包括制造、物流、仓储、检验、材料处理和运营支持。"
+        },
+        {
+          "title": "智能过程自动化",
+          "desc": "人工智能可以与工作流程自动化相结合，创建解释信息、应用业务规则或模型并自动启动适当流程的系统。"
+        }
+      ],
+      "lifecycleSteps": [
+        "业务评估",
+        "数据分析",
+        "人工智能策略",
+        "解决方案架构",
+        "发展",
+        "集成",
+        "测试",
+        "部署",
+        "监控",
+        "优化"
+      ],
+      "benefits": [
+        "更高的企业运营生产力",
+        "运营成本大幅降低",
+        "更快的处理速度和毫秒级的决策周转",
+        "提高数据和工作流程的准确性",
+        "优化物理和计算资源利用率",
+        "减少运营风险和人为错误",
+        "无缝的多平台可扩展性",
+        "增强客户和员工体验"
+      ],
+      "security": "企业人工智能解决方案的设计必须具有适当的安全性、访问控制、数据保护、监控、模型治理和操作保障。我们从架构阶段到部署和持续维护都会考虑这些要求，以确保可靠的生产级智能。",
+      "ctaHeadline": "构建智能未来",
+      "ctaSub": "让您的运营更加智能。自动化重要的事情。为未来而建。"
+    },
+    "business-automation-solutions": {
+      "title": "业务自动化解决方案",
+      "tagline": "简化流程。消除重复。加速增长。",
+      "heroBadge": "端到端工作流程优化",
+      "overview": [
+        "业务自动化使组织能够用简化的数字工作流程取代重复的手动活动。我们的业务自动化解决方案可帮助公司提高生产力、降低运营复杂性、最大限度地减少错误并创建跨部门的一致流程。",
+        "我们分析现有工作流程，识别瓶颈，并设计连接人员、应用程序、数据和业务流程的自动化解决方案。"
+      ],
+      "transformation": [
+        "许多组织仍然依赖电子表格、电子邮件、手动审批、重复数据输入、文档处理和断开连接的应用程序。这些流程会消耗员工宝贵的时间，并可能导致延迟、不一致和错误。",
+        "我们的自动化方法侧重于了解完整的流程、删除不必要的步骤、集成系统以及自动化提供最大运营价值的活动。"
+      ],
+      "capabilities": [
+        {
+          "title": "工作流程自动化",
+          "desc": "我们自动化涉及不同部门的员工、申请、审批、通知和数据的多步骤流程。"
+        },
+        {
+          "title": "机器人过程自动化",
+          "desc": "软件机器人可以执行重复的、基于规则的活动，例如数据输入、系统更新、协调和信息传输。"
+        },
+        {
+          "title": "文档自动化",
+          "desc": "自动化文档工作流程可以提取信息、验证数据、对文档进行分类、路由请求并启动下游流程。"
+        },
+        {
+          "title": "审批自动化",
+          "desc": "数字审批工作流程自动将请求发送给正确的决策者，并提供待处理操作的实时可见性。"
+        },
+        {
+          "title": "集成自动化",
+          "desc": "我们连接业务应用程序，以便信息可以在平台之间自动移动，而无需不必要的手动干预。"
+        },
+        {
+          "title": "通知自动化",
+          "desc": "自动警报和通知可帮助员工立即响应重要事件、截止日期、异常情况和运营变更。"
+        }
+      ],
+      "lifecycleSteps": [
+        "发现",
+        "分析",
+        "设计",
+        "自动化",
+        "整合",
+        "测试",
+        "部署",
+        "监视器",
+        "优化"
+      ],
+      "benefits": [
+        "提高团队吞吐量和运营速度",
+        "手动数据输入错误大幅减少",
+        "缩短端到端流程周转时间",
+        "跨业务运营的统一可见性",
+        "标准化跨部门合规",
+        "运营支出大幅减少",
+        "轻松扩展工作负载的弹性能力",
+        "授权团队专注于客户参与和战略工作"
+      ],
+      "security": "我们将工作流程平台和 RPA 与智能上下文感知模型相结合，以确保基于角色的访问控制、全面的审计跟踪以及每笔自动化交易的严格合规性。",
+      "ctaHeadline": "建立更高效的运营",
+      "ctaSub": "自动执行重复性工作。赋予您的员工权力。加速您的业务。"
+    },
+    "cloud-migration-solutions": {
+      "title": "云迁移解决方案",
+      "tagline": "充满信心地迁移到云端。",
+      "heroBadge": "多云转型",
+      "overview": [
+        "云计算已成为现代IT基础设施的重要组成部分。组织正在将应用程序、数据库、工作负载和基础设施迁移到云环境，以提高可扩展性、可用性、灵活性和运营效率。",
+        "我们的云迁移服务可帮助组织评估其当前环境、定义迁移策略、执行迁移以及在迁移到云后优化工作负载。"
+      ],
+      "transformation": [
+        "云迁移不仅仅是将服务器从一个环境移动到另一个环境。成功的迁移需要仔细评估应用程序、基础设施、依赖关系、安全要求、数据、性能、可用​​性和业务连续性。",
+        "我们根据组织当前环境和未来目标创建迁移策略，为每个工作负载选择适当的迁移模式。"
+      ],
+      "capabilities": [
+        {
+          "title": "基础设施迁移",
+          "desc": "我们将传统服务器、存储、虚拟机和工作负载迁移到 AWS、Azure 和 GCP 上的现代云环境。"
+        },
+        {
+          "title": "应用程序迁移",
+          "desc": "应用程序可以根据业务和技术要求进行重新托管、重新平台化、重构或重新设计。"
+        },
+        {
+          "title": "数据库迁移",
+          "desc": "我们在迁移数据库时会考虑数据完整性、性能、兼容性、可用性、安全性和恢复要求。"
+        },
+        {
+          "title": "云现代化",
+          "desc": "迁移成为使用容器、微服务、托管数据库、无服务器服务和云原生架构实现应用程序现代化的机会。"
+        },
+        {
+          "title": "混合云",
+          "desc": "同时需要本地和云基础设施的组织可以采用混合架构，将现有系统与云服务无缝连接。"
+        },
+        {
+          "title": "多云",
+          "desc": "对于跨多个云平台运营的组织，我们帮助设计可提高灵活性、弹性和治理的工作负载策略。"
+        }
+      ],
+      "lifecycleSteps": [
+        "评估",
+        "发现",
+        "依赖关系映射",
+        "迁移策略",
+        "架构设计",
+        "试点迁移",
+        "数据迁移",
+        "应用程序迁移",
+        "测试",
+        "生产迁移",
+        "优化"
+      ],
+      "benefits": [
+        "弹性扩展和高资源可用性",
+        "更高的基础设施灵活性和业务敏捷性",
+        "消除物理数据中心维护负担",
+        "加速应用程序功能部署",
+        "强大的灾难恢复和备份弹性",
+        "立即访问现代云人工智能和托管服务",
+        "优化 FinOps 治理并降低 TCO",
+        "持续合规和自动化安全护栏"
+      ],
+      "security": "安全性是迁移规划的一个组成部分。我们考虑身份和访问管理、网络安全、传输中和静态加密、数据保护、应用程序漏洞审核、监控、备份和灾难恢复。",
+      "ctaHeadline": "妥善规划您的云之旅",
+      "ctaSub": "实现基础设施现代化。加速创新。构建可扩展的云基础。"
+    },
+    "data-center-solutions": {
+      "title": "数据中心解决方案",
+      "tagline": "用于关键任务操作的可靠基础设施。",
+      "heroBadge": "关键任务基础设施",
+      "overview": [
+        "数据中心构成了现代数字业务的基础。应用程序、数据库、企业系统、通信平台和关键业务服务都依赖于可靠的基础设施。",
+        "我们的数据中心解决方案专注于设计、现代化、管理和优化基础设施环境，以实现可用性、安全性、可扩展性、性能和运营效率。"
+      ],
+      "transformation": [
+        "现代数据中心需要的不仅仅是服务器和存储。它需要精心设计的计算、网络、安全、电力、冷却、监控、备份和灾难恢复基础设施。",
+        "我们帮助组织创建弹性基础设施环境，支持关键工作负载并为未来技术发展奠定基础。"
+      ],
+      "capabilities": [
+        {
+          "title": "基础设施设计",
+          "desc": "我们根据工作负载要求、容量、性能、可用性、安全性和未来增长来设计环境。"
+        },
+        {
+          "title": "服务器基础设施",
+          "desc": "我们为任务关键型企业应用程序和工作负载提供物理和虚拟服务器环境支持。"
+        },
+        {
+          "title": "存储解决方案",
+          "desc": "在设计存储环境时，我们会考虑性能、容量、冗余、高速 SAN/NAS、备份和数据保护要求。"
+        },
+        {
+          "title": "网络基础设施",
+          "desc": "我们设计的网络环境具有适当的分段、冗余、低延迟性能、连接性和安全控制。"
+        },
+        {
+          "title": "虚拟化",
+          "desc": "虚拟化提高了资源利用率、工作负载灵活性和集中式基础设施管理。"
+        },
+        {
+          "title": "备份与灾难恢复",
+          "desc": "我们帮助组织建立备份策略和恢复架构，旨在最大限度地减少停机时间并消除数据丢失。"
+        }
+      ],
+      "lifecycleSteps": [
+        "能力评估",
+        "工作负载分析",
+        "架构蓝图",
+        "硬件和虚拟尺寸调整",
+        "网络分段",
+        "存储配置",
+        "冗余和灾难恢复测试",
+        "生产切换",
+        "24/7 健康监测",
+        "持续优化"
+      ],
+      "benefits": [
+        "保证 99.999% 的基础设施正常运行时间",
+        "零单点故障，多层冗余",
+        "优化的服务器计算和高密度虚拟化",
+        "亚毫秒级低延迟网络架构",
+        "强化物理和数字周边安全",
+        "主动监控和自动故障转移",
+        "用于 PB 级数据的可扩展模块化存储",
+        "可预测的总拥有成本和电源效率"
+      ],
+      "security": "安全性集成在基础设施层，涵盖网络微分段、硬件信任根、零信任访问控制、持续漏洞审计、端点防御和严格的运营策略。",
+      "ctaHeadline": "面向未来的基础设施",
+      "ctaSub": "立即构建可靠的基础设施。为明天的技术奠定基础。"
+    },
+    "cognitive-analytics-ai": {
+      "title": "认知分析与人工智能",
+      "tagline": "将数据转化为情报。",
+      "heroBadge": "数据到决策智能",
+      "overview": [
+        "组织通过应用程序、交易、客户、运营、设备和数字平台生成大量信息。挑战不再是简单地收集数据；而是。它是理解数据并将其转化为可操作的情报。",
+        "我们的认知分析和人工智能解决方案结合了高级分析、机器学习、人工智能、数据处理和商业智能，帮助组织做出更好的决策。"
+      ],
+      "transformation": [
+        "传统报告告诉组织发生了什么。高级分析可以帮助解释发生的原因，确定接下来可能发生的情况，并支持有关应该发生的情况的决策。",
+        "我们帮助组织建立超越静态报告的数据环境，转向智能分析和决策支持。"
+      ],
+      "capabilities": [
+        {
+          "title": "描述性分析",
+          "desc": "通过交互式报告、多维仪表板、KPI 和业务指标了解历史绩效。"
+        },
+        {
+          "title": "诊断分析",
+          "desc": "识别业务成果背后的潜在关系、趋势、统计异常和根本原因。"
+        },
+        {
+          "title": "预测分析",
+          "desc": "使用历史和实时流数据以及统计模型来确定未来潜在的结果和需求。"
+        },
+        {
+          "title": "规范性分析",
+          "desc": "根据预测结果和战略业务目标评估可能的行动并支持最佳决策路径。"
+        },
+        {
+          "title": "机器学习模型",
+          "desc": "开发用于预测、客户分类、建议、欺诈异常检测和预测性维护的自定义模型。"
+        },
+        {
+          "title": "人工智能驱动的见解",
+          "desc": "将认知人工智能应用于大量非结构化信息，以显示隐藏的模式、执行摘要和建议。"
+        }
+      ],
+      "lifecycleSteps": [
+        "数据源",
+        "数据集成",
+        "数据处理",
+        "数据存储",
+        "分析",
+        "AI/ML 模型",
+        "可视化",
+        "业务决策"
+      ],
+      "benefits": [
+        "基于事实、数据驱动的执行决策",
+        "准确的需求、收入和客户流失预测",
+        "实时异常和欺诈检测",
+        "360°深度客户行为洞察和个性化",
+        "优化供应链和运营效率",
+        "降低运营和财务风险",
+        "发现隐藏的收入机会",
+        "加快跨业务部门的洞察时间"
+      ],
+      "security": "我们的分析生态系统实施端到端加密、自动数据脱敏、严格的 RBAC 权限和模型治理，以保护专有数据并保持法规遵从性（GDPR、HIPAA、SOC 2）。",
+      "ctaHeadline": "构建智能数据战略",
+      "ctaSub": "将信息转化为洞察力。将洞察力转化为行动。"
+    },
+    "information-reporting-systems": {
+      "title": "信息和报告系统",
+      "tagline": "正确的信息。在正确的时间。为了更好的决策。",
+      "heroBadge": "统一企业智能",
+      "overview": [
+        "业务领导者和运营团队依靠准确的信息来做出有效的决策。我们的信息和报告系统帮助组织通过结构化信息系统、报告平台、仪表板和自动化报告工作流程收集、组织、分析和呈现业务信息。",
+        "组织通常拥有跨应用程序、电子表格、数据库和操作系统分布的信息。这使得很难对业务绩效建立一致的看法。我们帮助将信息源集成到结构化报告环境中，从而提供可靠、可访问且一致的业务信息。"
+      ],
+      "transformation": [
+        "报告系统不应简单地显示数字。它应该帮助用户了解性能、识别问题、发现机会并做出明智的决策。",
+        "我们围绕您的组织运营方式设计报告环境，提供为所有管理层量身定制的结构化数据到决策生态系统。"
+      ],
+      "capabilities": [
+        {
+          "title": "管理信息系统 (MIS)",
+          "desc": "开发统一的信息系统，为执行管理层提供相关的运营和战略可见性。"
+        },
+        {
+          "title": "业务报告",
+          "desc": "将来自多个渠道的原始业务数据转换为结构化、标准化的报告，以持续监控绩效。"
+        },
+        {
+          "title": "交互式仪表板",
+          "desc": "提供关键业务指标、KPI、趋势和部门活动的实时或计划交互式可见性。"
+        },
+        {
+          "title": "关键绩效指标管理",
+          "desc": "定义、跟踪和基准化与总体企业增长目标直接相关的有意义的运营 KPI。"
+        },
+        {
+          "title": "数据集成",
+          "desc": "将分布式数据源集成到统一的数据仓库和语义层中，以实现一致的单一管理平台报告。"
+        },
+        {
+          "title": "自动报告",
+          "desc": "根据预定义的计划、业务规则和收件人层次结构自动生成和分发个性化报告。"
+        }
+      ],
+      "lifecycleSteps": [
+        "业务系统",
+        "数据收集",
+        "数据集成",
+        "数据处理",
+        "数据存储库",
+        "分析",
+        "报告和仪表板"
+      ],
+      "benefits": [
+        "整个企业的单一事实来源",
+        "更快地访问实时运营指标",
+        "完全消除手动电子表格组装",
+        "一致、一致的跨部门 KPI",
+        "高级执行监督和审计",
+        "自动直接分发给利益相关者",
+        "细粒度的行级数据安全和权限",
+        "增强响应操作异常的敏捷性"
+      ],
+      "security": "业务信息可能包含敏感的运营、财务和客户数据。我们的报告解决方案将多因素身份验证、基于角色的精细授权、加密和审核日志嵌入到报告架构中。",
+      "ctaHeadline": "支持增长的报告",
+      "ctaSub": "使信息易于访问。让绩效可见。做出更好的决定。"
+    },
+    "managed-services": {
+      "title": "托管服务",
+      "tagline": "可靠的技术运营。专家支持。持续改进。",
+      "heroBadge": "24/7 IT 运营与支持",
+      "overview": [
+        "现代 IT 环境非常复杂且不断变化。组织需要可靠的基础设施、应用程序、网络、安全、监控和技术支持来保持业务运营。",
+        "我们的托管服务提供持续的技术管理和运营支持，使组织能够维护可靠的 IT 环境，同时内部团队专注于战略计划。"
+      ],
+      "transformation": [
+        "传统 IT 支持通常侧重于在问题发生后解决问题。托管服务通过持续监控基础设施、应用程序、系统和操作环境，采取主动的方法。",
+        "此方法有助于及早发现潜在问题、保持性能、提高可用性并减少可避免的运营中断。"
+      ],
+      "capabilities": [
+        {
+          "title": "基础设施管理",
+          "desc": "支持服务器、存储、虚拟化平台和基础设施的持续运行、修补和管理。"
+        },
+        {
+          "title": "云端管理",
+          "desc": "管理云工作负载、多云资源、配置、监控、性能和 FinOps 优化。"
+        },
+        {
+          "title": "网络管理",
+          "desc": "提供 24/7 监控、性能管理、配置支持、SD-WAN 优化和网络问题解决。"
+        },
+        {
+          "title": "应用管理",
+          "desc": "通过主动监控、维护、错误解决和操作升级来支持关键应用程序环境。"
+        },
+        {
+          "title": "监控和可观察性",
+          "desc": "提供对系统运行状况、延迟、正常运行时间、基础设施依赖性和警报的全面实时可见性。"
+        },
+        {
+          "title": "备份与恢复管理",
+          "desc": "维护自动备份计划、定期测试故障转移并确保即时恢复能力。"
+        },
+        {
+          "title": "安全操作 (SecOps)",
+          "desc": "提供持续的安全监控、补丁管理、访问控制实施和主动威胁缓解。"
+        }
+      ],
+      "lifecycleSteps": [
+        "环境入门",
+        "发现与基线",
+        "遥测集成",
+        "SLA 定义",
+        "24/7 主动监控",
+        "事件分类",
+        "快速解决",
+        "根本原因分析",
+        "预防工程",
+        "持续优化"
+      ],
+      "benefits": [
+        "显着减轻内部运营负担",
+        "在用户受到影响之前主动检测问题",
+        "保证 99.99% 的系统可用性和正常运行时间",
+        "可预测、透明的 IT 运营预算",
+        "立即联系高级工程专家",
+        "SLA 支持的快速事件响应时间",
+        "自动化灾难恢复和业务连续性",
+        "持续的技术优化和现代化"
+      ],
+      "security": "我们的托管运营遵循严格的 ITIL 和 ISO 框架，确保每个托管资源的加密访问、隔离审核日志、最低权限凭证存储以及合规性一致性。",
+      "ctaHeadline": "持续改进",
+      "ctaSub": "您专注于您的业务。我们帮助您保持技术正常运行。"
+    },
+    "one-stop-technology-solutions": {
+      "title": "一站式技术解决方案",
+      "tagline": "一名技术合作伙伴。多种功能。完整的业务解决方案。",
+      "heroBadge": "统一企业合作伙伴",
+      "overview": [
+        "组织经常与多个技术提供商合作，以实现基础设施、云、应用程序、自动化、分析、安全、支持和数字化转型。管理多个供应商可能会造成复杂性、沟通差距、重复工作和分散的技术环境。",
+        "我们的一站式技术解决方案方法将多种功能整合在统一的服务模式下，帮助组织规划、实施、集成、运营和持续改进其技术环境。"
+      ],
+      "transformation": [
+        "我们支持完整的技术生命周期 - 从了解业务需求和定义技术策略到设计解决方案、实施平台、集成系统、部署应用程序、监控环境以及提供持续支持。",
+        "目标是创建一个互联的技术生态系统，而不是孤立的解决方案。"
+      ],
+      "capabilities": [
+        {
+          "title": "策略与架构",
+          "desc": "了解业务目标并设计可扩展、安全且可维护的技术架构。"
+        },
+        {
+          "title": "实施与构建",
+          "desc": "以企业严谨性实施应用程序、基础设施、集成、自动化和数字平台。"
+        },
+        {
+          "title": "系统集成",
+          "desc": "连接系统和应用程序，以便信息在整个组织中无缝移动。"
+        },
+        {
+          "title": "结构化部署",
+          "desc": "建立自动化 CI/CD 和发布流程，将解决方案可靠、安全地投入生产。"
+        },
+        {
+          "title": "连续监测",
+          "desc": "提供基础设施、应用程序、性能、可用性和操作运行状况的端到端可见性。"
+        },
+        {
+          "title": "优化与支持",
+          "desc": "持续审查环境以提高性能、可靠性、成本效率和可扩展性。"
+        }
+      ],
+      "lifecycleSteps": [
+        "策略",
+        "架构",
+        "实施",
+        "整合",
+        "部署",
+        "监控",
+        "优化",
+        "支持"
+      ],
+      "benefits": [
+        "降低供应商管理复杂性和开销",
+        "跨所有架构层的无缝协调",
+        "更快的项目执行，零切换延迟",
+        "可预测的预算分配和透明的交付",
+        "从零到规模统一企业问责",
+        "专为未来业务增长而设计的可扩展解决方案",
+        "长期值得信赖的技术合作伙伴",
+        "全面的端到端数字化转型"
+      ],
+      "security": "通过单一值得信赖的合作伙伴来监督架构、实施和运营，安全治理在所有层级上保持不间断，消除集成盲点并确保持续合规性。",
+      "ctaHeadline": "您完整的技术合作伙伴",
+      "ctaSub": "一位伙伴。一个愿景。多种技术。完整的解决方案。"
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "企业概况",
+    "overviewTitle": "智能技术带来可衡量的成果",
+    "transformationEyebrow": "运营转型",
+    "transformationTitle": "通过智能工作流程实现业务转型",
+    "deliveryEyebrow": "结构化交付方法",
+    "deliveryTitle": "端到端执行和持续优化",
+    "deliveryIntro": "我们经过验证的实施方法遵循严格的交付生命周期：",
+    "deliveryOutro": "这种结构化序列可确保每个阶段与业务目标、稳健的安全态势以及可衡量的 ROI 基准紧密结合。",
+    "securityEyebrow": "安全与治理",
+    "securityTitle": "企业级可靠性和合规性保障",
+    "securityOutro": "我们嵌入了严格的基于角色的访问控制、自动漏洞扫描、模型治理和多层加密，以确保您的生产环境保持弹性且完全合规。",
+    "capabilitiesTitle": "核心技术能力",
+    "capabilitiesSub": "旨在扩展您的数字运营的综合技术能力。",
+    "bookDiscovery": "图书技术发现",
+    "exploreAll": "探索所有技术",
+    "bookConsultation": "预约咨询",
+    "coreCapabilities": "核心能力"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "核心能力",
+    "exploreFramework": "探索解决方案框架",
+    "bookConsultation": "预约咨询",
+    "viewCaseStudies": "查看案例研究",
+    "provenPillars": "经过验证的支柱",
+    "operationalOutcomes": "运营成果",
+    "learnMore": "了解更多"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "端到端数字工程",
+      "titlePart1": "起始至",
+      "titlePart2": "部署",
+      "description": "从业务需求和解决方案架构到开发、集成、测试、部署和持续支持，端到端开发新的数字解决方案。",
+      "bookConsultation": "预约咨询",
+      "exploreEngineering": "探索解决方案工程",
+      "coreCapabilities": [
+        "需求工程",
+        "解决方案架构",
+        "应用程序开发",
+        "API 集成",
+        "质量保证",
+        "开发运营",
+        "部署",
+        "支持与维护"
+      ],
+      "row1Eyebrow": "全生命周期交付",
+      "row1Title": "从需求到规模的端到端开发",
+      "row1P1": "每一项新的数字计划都始于独特的要求、操作工作流程和战略目标，而这些是一刀切的软件无法满足的。我们专注于完全从头开始构建定制的高性能软件系统。",
+      "row1P2": "从最初的需求发现和技术架构设计到敏捷冲刺开发、API 生态系统集成、强大的测试管道和自动化云部署，我们的高级工程团队完全掌控您的产品生命周期。",
+      "row2Eyebrow": "解决方案架构与工程",
+      "row2Title": "为企业发展而构建的可扩展系统",
+      "row2P1": "我们设计弹性软件架构，专为承受繁重的生产负载而设计。从模块化微服务和事件驱动后端到高吞吐量数据流和 GraphQL/REST API，我们构建了可轻松扩展的平台。",
+      "row2P2": "通过建立干净、模块化的代码库，并结合自动化测试和持续的安全合规性，我们确保您的软件基础可维护、可审计，并为长期发展做好准备。",
+      "row3Eyebrow": "质量保证和开发运营",
+      "row3Title": "自动化管道敏捷交付",
+      "row3P1": "我们的交付模型嵌入了自动化单元、集成和端到端回归测试以及容器化 CI/CD 工作流程（Docker、Kubernetes、AWS/Azure/GCP）。",
+      "row3P2": "凭借透明的冲刺演示、实时可观察性和里程碑驱动的速度，我们确保快速上市，而不影响安全性、稳定性或用户体验。",
+      "row4Eyebrow": "部署与支持",
+      "row4Title": "可靠的 24/7 运营和长期演进",
+      "row4P1": "上线只是一个开始。我们提供主动监控、SLA 支持的维护、云基础设施优化、性能调整和持续的功能推出。",
+      "row4P2": "我们的工程团队是您组织的自然延伸，确保零停机时间并在您的市场中保持持续的技术优势。",
+      "pillarsTitle": "核心能力",
+      "pillarsSub": "完整的全栈功能，旨在将您的想法从零变为生产。",
+      "pillar1Title": "需求工程",
+      "pillar1Desc": "深入的业务分析、功能规范和用户旅程映射，以定义准确的解决方案边界。",
+      "pillar2Title": "解决方案架构",
+      "pillar2Desc": "可扩展的云原生架构、数据库建模、微服务设计和零信任安全基础。",
+      "pillar3Title": "应用程序开发",
+      "pillar3Desc": "采用简洁代码、类型安全和响应式 UI 标准设计的现代全栈 Web 和移动应用程序。",
+      "pillar4Title": "API集成",
+      "pillar4Desc": "高吞吐量 REST/GraphQL API、Webhook 编排、支付网关和无缝第三方 ERP/CRM 同步。",
+      "ctaTitle": "准备好构建从启动到部署的解决方案了吗？",
+      "ctaSub": "与 Rezonants 合作，从业务需求到生产现实，构建、设计和部署您的定制数字平台。",
+      "ctaButton": "预约解决方案咨询",
+      "pillar5Title": "质量保证",
+      "pillar5Desc": "严格的测试自动化、负载/压力测试、漏洞扫描和回归测试套件。",
+      "pillar6Title": "开发运营和部署",
+      "pillar6Desc": "自动化 CI/CD 管道、容器编排 (Docker/K8s)、基础设施即代码和零停机发布。",
+      "pillar7Title": "支持与维护",
+      "pillar7Desc": "24/7 主动监控、运行状况遥测、性能审核、安全补丁和持续的 SLA 维护。",
+      "pillar8Title": "持续创新",
+      "pillar8Desc": "常规功能速度、数据分析集成、人工智能增强和架构现代化。"
+    },
+    "processAutomation": {
+      "eyebrow": "智能流程操作",
+      "titlePart1": "业务流程",
+      "titlePart2": "自动化",
+      "description": "企业工作流程的端到端自动化，结合机器人流程自动化 (RPA)、智能文档处理、业务规则引擎和系统集成。",
+      "bookDiscovery": "图书自动化发现",
+      "exploreFramework": "探索解决方案框架",
+      "coreCapabilities": [
+        "工作流程自动化",
+        "机器人过程自动化",
+        "文件处理",
+        "集成工程",
+        "业务规则引擎",
+        "过程分析",
+        "持续优化",
+        "遗留集成"
+      ],
+      "row1Eyebrow": "机器人过程自动化",
+      "row1Title": "用于大批量操作的智能机器人",
+      "row1P1": "消除重复的手动数据输入、跨系统对账和文档传送。我们部署企业 RPA 机器人，以零错误率 24/7 执行结构化任务。",
+      "row1P2": "通过连接传统桌面界面、SAP/ERP 后端和云数据库，软件机器人使您的团队能够专注于战略业务计划。",
+      "row2Eyebrow": "智能文档处理",
+      "row2Title": "OCR、机器学习和文档人工智能",
+      "row2P1": "自动从发票、合同、身份证件和索赔中提取、分类和提取数据。我们的人工智能驱动的管道根据内部数据库验证字段并触发自动审批工作流程。",
+      "row2P2": "实现超过 95% 的直通处理率，同时将周转时间从几天缩短到几秒钟。",
+      "row3Eyebrow": "流程编排",
+      "row3Title": "端到端跨平台同步",
+      "row3P1": "将 CRM、ERP、HRMS 和银行 API 连接到统一的实时数据流中。我们实现事件驱动的触发器、消息队列和自动回退处理程序。",
+      "row3P2": "信息跨部门无缝流动，无需人工干预，消除了运营孤岛和通信延迟。",
+      "row4Eyebrow": "连续遥测",
+      "row4Title": "实时流程分析和 Kaizen 见解",
+      "row4P1": "在实时执行仪表板中跟踪流程执行时间、瓶颈热图、错误频率和财务投资回报率。",
+      "row4P2": "持续的机器学习诊断发现新的自动化机会，使您的企业保持最高效率运营。",
+      "pillarsTitle": "自动化支柱",
+      "pillarsSub": "经过验证的智能企业运营构建模块。",
+      "pillar1Title": "工作流程自动化",
+      "pillar1Desc": "通过自动路由和升级精心编排的多步骤人机交互和数字工作流程。",
+      "pillar2Title": "机器人过程自动化",
+      "pillar2Desc": "基于规则的软件机器人执行例行数据输入、协调和跨应用程序任务。",
+      "pillar3Title": "智能AI自动化",
+      "pillar3Desc": "认知人工智能代理，可以解释上下文、总结非结构化文本并做出自动决策。",
+      "pillar4Title": "流程优化",
+      "pillar4Desc": "流程挖掘、瓶颈检测和 Kaizen 工作流程不断降低运营成本。",
+      "ctaTitle": "准备好自动化您的业务工作流程了吗？",
+      "ctaSub": "与我们的自动化架构师联系，以确定高投资回报率机会并部署智能数字工作流程。",
+      "ctaButton": "预约自动化咨询"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "工程标准与研发",
+      "titlePart1": "中心",
+      "titlePart2": "卓越",
+      "description": "一个由高级架构师和领域专家组成的集中组织，致力于标准化工程实践、推动创新和加速数字化计划。",
+      "exploreStandards": "探索工程标准",
+      "initiateAssessment": "启动 CoE 评估",
+      "coreCapabilities": [
+        "架构标准",
+        "可重用框架",
+        "最佳实践治理",
+        "技能发展",
+        "质量基准",
+        "研发与创新",
+        "技术评价",
+        "跨项目指导"
+      ],
+      "uptimeLabel": "企业正常运行时间",
+      "engineersLabel": "工程师和建筑师",
+      "deploymentsLabel": "人工智能和云部署",
+      "satisfactionLabel": "客户满意度",
+      "row1Eyebrow": "支柱 01 — 工程标准",
+      "row1Title": "高性能软件工程",
+      "row1P1": "我们的卓越中心建立了标准化设计模式、严格的自动化测试和零缺陷代码审查实践，可加快上市时间，同时将技术债务保持为零。",
+      "row1F1": "具有 DORA 指标分析功能的自动化 CI/CD 发布管道",
+      "row1F2": "严格的架构审查委员会和微服务治理",
+      "row1F3": "持续安全检查和自动漏洞修补",
+      "row1Btn": "学习工程标准",
+      "row1Tag": "DevOps 和质量工程",
+      "row2Eyebrow": "支柱 02 — 研发创新",
+      "row2Title": "人工智能创新实验室与新兴技术",
+      "row2P1": "我们尝试使用最先进的机器学习模型、自定义人工智能代理和智能工作流程自动化来构建下一代企业产品。",
+      "row2F1": "企业生成式AI与RAG知识整合",
+      "row2F2": "用于业务流程自动化的自主人工智能代理工作流程",
+      "row2F3": "定制机器学习模型优化和微调",
+      "row2Btn": "探索人工智能实验室",
+      "row2Tag": "人工智能与神经研发",
+      "row3Eyebrow": "支柱 03 — 基础设施",
+      "row3Title": "企业云架构与零信任安全",
+      "row3P1": "我们设计和管理基于零信任安全框架的弹性多云环境，确保您的数据免受不断变化的全球网络威胁的影响。",
+      "row3F1": "AWS、Azure 和 GCP 多云基础架构编排",
+      "row3F2": "零信任网络访问 (ZTNA) 和基于角色的 IAM 策略",
+      "row3F3": "自动化集装箱安全扫描和秘密管理",
+      "row3Btn": "探索云与安全",
+      "row3Tag": "云架构与零信任",
+      "pillarsTitle": "我们的核心卓越框架",
+      "pillarsSub": "为关键任务平台提供支持的系统化开发手册。",
+      "pillar1Title": "建筑审查委员会 (ARB)",
+      "pillar1Desc": "全面监督，确保所有企业解决方案符合严格的可扩展性、安全性和合规性协议。",
+      "pillar2Title": "可重复使用的加速器和组件库",
+      "pillar2Desc": "专有设计系统、API 入门套件和后端微服务模板将初始开发时间缩短 40%。",
+      "pillar3Title": "持续性能分析",
+      "pillar3Desc": "高级实时可观测性管道，用于监控应用程序延迟、吞吐量瓶颈和云资源利用率。",
+      "pillar4Title": "人才技能提升和公会",
+      "pillar4Desc": "结构化的内部协会和认证，培养跨云、DevOps 和应用人工智能的深厚技术能力。",
+      "ctaTitle": "提升您的工程标准",
+      "ctaSub": "与 Rezonants 的卓越中心合作，构建弹性云架构、自动化工作流程并加速数字产品交付。",
+      "ctaButton": "安排行政咨询",
+      "badge": "REZONANTS 技术中心",
+      "scroll": "滚动",
+      "p1Title": "治理与框架",
+      "p1Desc": "建立企业范围的架构治理、政策护栏和合规标准。",
+      "p1Tag": "治理",
+      "p2Title": "技术标准与架构",
+      "p2Desc": "定义现代参考架构、经过审查的技术堆栈和微服务模式。",
+      "p2Tag": "架构",
+      "p3Title": "可重用资产和库",
+      "p3Desc": "通过共享组件、模板、入门套件和设计系统加快开发速度。",
+      "p3Tag": "可重用性",
+      "p4Title": "能力发展",
+      "p4Desc": "结构化培训、技术指导和技能支持，以提升团队工程能力。",
+      "p4Tag": "能力",
+      "p5Title": "创新与新兴技术",
+      "p5Desc": "研发人工智能代理、自动化管道和下一代框架，以保持市场优势。",
+      "p5Tag": "创新",
+      "p6Title": "持续改进",
+      "p6Desc": "数据驱动的工程指标 (DORA)、SLA 基准测试和持续的质量优化。",
+      "p6Tag": "质量"
+    },
+    "solutionEngineering": {
+      "eyebrow": "量身定制的数字工程",
+      "titlePart1": "定制开发 &",
+      "titlePart2": "定制",
+      "description": "开发和增强应用程序、平台、工作流程和企业解决方案，以满足独特的业务需求并提供定制功能。",
+      "bookConsultation": "预约咨询",
+      "exploreCapabilities": "探索功能",
+      "coreCapabilities": [
+        "定制开发",
+        "平台配置",
+        "扩展",
+        "自定义工作流程",
+        "API开发",
+        "系统集成",
+        "UI/UX 增强",
+        "性能优化"
+      ],
+      "row1Eyebrow": "定制功能",
+      "row1Title": "专为您的工作流程打造的定制功能",
+      "row1P1": "标准企业软件往往无法满足专门的业务需求。我们的定制工程团队开发定制应用程序模块、定制业务规则和适合您运营的专业扩展。",
+      "row1P2": "从定制 CRM 和 ERP 增强功能到专门的运营门户，我们构建的功能可与您团队的确切工作流程模式无缝匹配。",
+      "row2Eyebrow": "企业系统集成",
+      "row2Title": "平台配置和API开发",
+      "row2P1": "将不同的软件系统连接到统一的数字生态系统中。我们设计了自定义 REST 和 GraphQL API、Webhook 处理程序和企业消息队列，以确保跨所有平台的实时数据同步。",
+      "row2P2": "无论是集成第三方 SaaS 工具还是扩展专有的本地平台，我们的集成架构都会优先考虑数据完整性、吞吐量和零停机时间。",
+      "row3Eyebrow": "UI/UX 和性能",
+      "row3Title": "UI/UX 增强和性能优化",
+      "row3P1": "通过专为速度和清晰度而设计的现代、响应式用户体验来提升传统界面。我们通过直观的设计模式、可访问性合规性和简化的交互模型重新设计了前端。",
+      "row3P2": "同时，我们的性能工程师优化数据库查询、缓存策略和前端包大小，以在所有设备上提供即时响应时间。",
+      "pillarsTitle": "根据您的具体规格而设计",
+      "pillarsSub": "企业级定制方法旨在无缝扩展。",
+      "pillar1Title": "自定义工作流程和扩展",
+      "pillar1Desc": "专门围绕您的内部操作规则配置的定制应用程序逻辑和自动化状态机。",
+      "pillar2Title": "API与系统集成",
+      "pillar2Desc": "连接专有后端、ERP 套件、支付网关和云服务的安全、经过身份验证的数据桥。",
+      "pillar3Title": "平台配置",
+      "pillar3Desc": "深度架构调整，可在不破坏升级路径或供应商支持协议的情况下修改企业软件。",
+      "pillar4Title": "性能优化",
+      "pillar4Desc": "积极的查询分析、内存泄漏消除和亚秒级页面加载的边缘 CDN 分发。",
+      "ctaTitle": "准备好定制您的企业平台了吗？",
+      "ctaSub": "与我们的解决方案架构师联系，设计和部署根据您的业务需求量身定制的自定义模块、工作流程和集成。",
+      "ctaButton": "预约定制电话",
+      "badge": "量身定制的数字工程",
+      "viewAllServices": "查看所有服务"
+    },
+    "digitalTransformation": {
+      "eyebrow": "企业现代化",
+      "titlePart1": "数字",
+      "titlePart2": "转型",
+      "description": "业务流程、技术架构和运营模型的全面现代化，以推动组织敏捷性、运营效率和可持续数字增长。",
+      "startTransformation": "开始转型",
+      "exploreStrategy": "探索策略",
+      "coreCapabilities": [
+        "战略与路线图",
+        "建筑现代化",
+        "云与基础设施",
+        "数据与分析",
+        "流程数字化",
+        "客户体验",
+        "变更管理",
+        "敏捷运营模式"
+      ],
+      "row1Eyebrow": "战略与路线图",
+      "row1Title": "从愿景到可执行路线图",
+      "row1P1": "我们与企业领导者合作，定义数字战略、业务案例和分阶段路线图，以实现快速获胜和低风险执行。",
+      "row1P2": "优先计划、TCO 模型和 KPI 确保每一项技术现代化工作都与收入、效率和客户满意度结果直接相关。",
+      "row2Eyebrow": "遗留现代化",
+      "row2Title": "在不破坏业务的情况下实现现代化",
+      "row2P1": "通过零停机切换和自动回归验证，将单体平台重新构建为微服务、API 和云原生模式。",
+      "row2P2": "我们对应用程序、数据库和集成层进行现代化改造，同时保持合规性和安全态势。",
+      "row3Eyebrow": "云、人工智能和数据",
+      "row3Title": "云采用和数据驱动的智能",
+      "row3P1": "采用 AWS、Azure 和 GCP，构建现代数据管道，并嵌入机器学习代理来推动自主决策。",
+      "row3P2": "从实时事件流到统一仪表板，转型变得可衡量且可持续。",
+      "row4Eyebrow": "客户体验",
+      "row4Title": "现代全渠道体验",
+      "row4P1": "通过响应式 Web、iOS、Android 和具有个性化界面的自助服务门户重新设计客户旅程。",
+      "row4P2": "平台工程、遥测和自动反馈循环使数字创新持续不断。",
+      "pillarsTitle": "转型支柱",
+      "pillarsSub": "以结果为中心的杠杆，确保可持续的数字领导力。",
+      "pillar1Title": "数字化战略与治理",
+      "pillar1Desc": "具有业务案例建模、架构治理和里程碑风险跟踪的分阶段转型蓝图。",
+      "pillar2Title": "云与数据平台",
+      "pillar2Desc": "AWS/Azure/GCP 多云基础、自动化管道和企业数据分析支持。",
+      "pillar3Title": "人工智能与自动化",
+      "pillar3Desc": "智能流程自动化、认知人工智能代理和预测遥测，以优化日常运营。",
+      "pillar4Title": "客户体验",
+      "pillar4Desc": "高转化全渠道数字门户和个性化界面，旨在最大程度地保留用户。",
+      "ctaTitle": "准备好转型您的企业了吗？",
+      "ctaSub": "与 Rezonants 合作，进行与可衡量的业务成果相关的分阶段、去风险的数字化转型。",
+      "ctaButton": "预约数字化转型通话",
+      "bookWorkshop": "书籍改造工作坊",
+      "exploreFramework": "探索解决方案框架",
+      "coreCapabilitiesTitle": "核心能力"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "完整的技术生命周期",
+      "titlePart1": "端到端解决方案",
+      "titlePart2": "框架",
+      "description": "一个结构化的全生命周期交付框架，涵盖业务需求、架构设计、工程、集成、质量保证、云部署和托管运营。",
+      "startJourney": "开始你的项目",
+      "exploreFramework": "探索框架",
+      "coreCapabilities": [
+        "需求分析",
+        "架构设计",
+        "全栈开发",
+        "集成工程",
+        "质量保证",
+        "部署和推出",
+        "持续运营",
+        "持续进化"
+      ],
+      "row1Eyebrow": "战略与架构",
+      "row1Title": "需求工程和解决方案设计",
+      "row1P1": "协作研讨会、业务领域映射和云架构规范，旨在在编写一行代码之前消除风险。",
+      "row1P2": "我们定义数据模型、安全框架和可扩展性里程碑，以建立长期成功。",
+      "row2Eyebrow": "工程与质量",
+      "row2Title": "全栈开发和自动化测试",
+      "row2P1": "模块化微服务、类型安全 API 和响应式前端与自动化单元、集成和安全扫描相结合。",
+      "row2P2": "与 GitHub Actions、Terraform 和自动安全护栏的持续集成管道。",
+      "row3Eyebrow": "部署和操作",
+      "row3Title": "云部署和 24/7 托管监控",
+      "row3P1": "AWS/Azure/GCP 上的多云编排，具有自动回滚、零停机切换和实时可观察性。",
+      "row3P2": "我们提供 SLA 支持的维护和持续遥测监控，以无缝改进您的产品。",
+      "row4Eyebrow": "企业治理",
+      "row4Title": "统一治理和持续支持",
+      "row4P1": "整个数字堆栈的单点责任 — 透明的冲刺速度、可预测的预算和持续创新。",
+      "row4P2": "定期功能推出和现代化周期使您的企业在竞争中保持领先。",
+      "pillarsTitle": "生命周期框架支柱",
+      "pillarsSub": "每个阶段都经过严格的设计。",
+      "pillar1Title": "策略与要求",
+      "pillar1Desc": "领域发现、架构路线图和利益相关者协调，以消除执行风险。",
+      "pillar2Title": "架构与构建",
+      "pillar2Desc": "弹性的云原生微服务、API 集成和持续的 QA 测试。",
+      "pillar3Title": "安全与部署",
+      "pillar3Desc": "零信任安全合规性、容器化发布和自动化云部署。",
+      "pillar4Title": "治理与支持",
+      "pillar4Desc": "24/7 SLA 监控、运行状况遥测和持续的进化工程。",
+      "ctaTitle": "需要一个完整的生命周期合作伙伴？",
+      "ctaSub": "我们拥有完整的技术生命周期，因此您的团队可以专注于核心业务成果。",
+      "ctaButton": "全生命周期合作伙伴"
+    },
+    "migrationServices": {
+      "eyebrow": "云和基础设施转型",
+      "titlePart1": "迁移 &",
+      "titlePart2": "现代化",
+      "description": "将遗留应用程序、数据库和基础设施安全、结构化地迁移到现代云架构，并结合持续现代化以增强敏捷性和效率。",
+      "bookAssessment": "图书迁移评估",
+      "exploreStrategy": "探索云战略",
+      "coreCapabilities": [
+        "云迁移",
+        "应用程序现代化",
+        "数据库迁移",
+        "基础设施重新托管",
+        "容器化",
+        "微服务转型",
+        "性能优化",
+        "安全与合规性"
+      ],
+      "row1Eyebrow": "云迁移",
+      "row1Title": "多云策略与提升和优化",
+      "row1P1": "跨 AWS、Azure 和 Google Cloud 无缝工作负载迁移，具有自动发现、波次规划和零业务中断。",
+      "row1P2": "我们平衡重新托管、重新平台和重构，以优化总拥有成本 (TCO) 和敏捷性。",
+      "row2Eyebrow": "数据和数据库迁移",
+      "row2Title": "安全 ETL 和自动数据验证",
+      "row2P1": "自动数据库复制、模式转换和高吞吐量 ETL 管道，具有 100% 数据完整性验证。",
+      "row2P2": "零停机割接演练，确保数据完全一致性和业务连续性。",
+      "row3Eyebrow": "平台现代化",
+      "row3Title": "容器化和 Kubernetes 编排",
+      "row3P1": "将遗留单体现代化为通过 Kubernetes（EKS、AKS、GKE）和自动化 IaC 蓝图编排的可扩展微服务。",
+      "row3P2": "迁移后性能分析和成本优化可确保立即获得投资回报。",
+      "row4Eyebrow": "割接规划",
+      "row4Title": "自动化测试和回滚安全网",
+      "row4P1": "经过实战检验的切换操作手册、自动回归套件和即时回滚机制，让您完全放心。",
+      "row4P2": "迁移后健康遥测和 24/7 超级护理保证完美的生产稳定性。",
+      "pillarsTitle": "迁移保证",
+      "pillarsSub": "由企业 SLA 支持的去风险举措。",
+      "pillar1Title": "零停机切换",
+      "pillar1Desc": "金丝雀发布和数据库双写同步，保证用户访问不中断。",
+      "pillar2Title": "自动数据验证",
+      "pillar2Desc": "校验和比较、模式完整性审核和自动 ETL 协调。",
+      "pillar3Title": "回滚安全网",
+      "pillar3Desc": "严格的灾难恢复协议和演练，以控制每个阶段的风险。",
+      "pillar4Title": "性能和成本优化",
+      "pillar4Desc": "包括云规模调整、自动扩展策略和成本治理仪表板。",
+      "ctaTitle": "准备好充满信心地迁移了吗？",
+      "ctaSub": "与 Rezonants 合作实现结构化、无风险的云和数据现代化。",
+      "ctaButton": "规划您的迁移研讨会"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "快速验证和可行性",
+      "titlePart1": "概念验证 (PoC) &",
+      "titlePart2": "试点实施",
+      "description": "快速开发和验证技术解决方案，以在全面实施之前评估技术可行性、业务价值、集成要求、性能和可扩展性。",
+      "initiateDiscovery": "启动 PoC 发现",
+      "exploreDevelopment": "探索定制开发",
+      "coreCapabilities": [
+        "PoC开发",
+        "原型工程",
+        "可行性研究",
+        "架构验证",
+        "集成测试",
+        "性能基准测试",
+        "试点部署",
+        "价值评估"
+      ],
+      "row1Eyebrow": "快速验证",
+      "row1Title": "从概念到验证可行性",
+      "row1P1": "将想法转变为企业规模的解决方案需要严格的前期验证。我们的 PoC 和试点服务评估技术可行性，对关键集成挂钩进行压力测试，并在重大资本承诺之前验证业务投资回报率。",
+      "row1P2": "我们构建高保真 MVP 和重点沙箱试点，以证明技术可行性、测量系统延迟并尽早收集直接利益相关者验证。",
+      "row1Cap": "快速 MVP 原型设计和技术基准",
+      "row2Eyebrow": "敏捷原型设计",
+      "row2Title": "交互式 MVP 和 UX 验证",
+      "row2P1": "我们在几天而不是几个月内构建交互式线框、可点击的用户流程和功能概念验证。测试真实的用户交互，完善 UI/UX 模式，并从利益相关者那里收集可操作的反馈。",
+      "row2P2": "通过缩短早期开发期间的反馈循环，您的团队可以最大限度地减少返工，并在资本密集型构建阶段开始之前建立明确的技术规范。",
+      "row2Cap": "快速迭代和可点击的用户体验原型",
+      "row3Eyebrow": "集成和可扩展性测试",
+      "row3Title": "降低复杂系统集成的风险",
+      "row3P1": "在全额投入资金之前发现技术瓶颈、API 限制和性能限制。我们的试点工程团队在隔离的沙箱环境中对集成、数据管道和第三方 API 进行压力测试。",
+      "row3P2": "在将 PoC 过渡到企业生产时，这种主动的风险缓解可确保系统的高可用性、安全合规性和可预测的开发时间表。",
+      "row3Cap": "沙箱集成和压力测试",
+      "row4Eyebrow": "受控生产试点",
+      "row4Title": "有针对性的试点启动和商业案例验证",
+      "row4P1": "将有针对性的试点版本部署到选定的用户群体或测试市场。跟踪性能指标、用户采用分析和运营反馈，以量化业务价值并建立数据支持的业务案例。",
+      "row4P2": "通过现实世界的试点洞察，执行发起人可以获得明确的投资回报率指标，以证明更广泛的部署和战略数字转型投资的合理性。",
+      "row4Cap": "受控部署和性能遥测",
+      "pillarsTitle": "我们的试点工程原则",
+      "pillarsSub": "将技术不确定性转化为可预测的业务成功的指导原则。",
+      "pillar1Title": "PoC 和 MVP 原型设计",
+      "pillar1Desc": "快速交付功能原型，以在生命周期的早期验证价值主张。",
+      "pillar2Title": "可行性与验证",
+      "pillar2Desc": "验证沙盒环境中的 API 兼容性、吞吐量阈值和合规性约束。",
+      "pillar3Title": "可扩展性评估",
+      "pillar3Desc": "模拟生产负载以确定容量限制并确定云架构规模。",
+      "pillar4Title": "业务案例验证",
+      "pillar4Desc": "量化有形的投资回报率和生产力指标，以支持企业范围内的部署决策。",
+      "ctaTitle": "准备好验证您的下一个数字解决方案了吗？",
+      "ctaSub": "与我们的解决方案工程团队联系，探索您的项目需求、构建原型并以零风险测试可行性。",
+      "ctaButton": "预约 PoC 咨询"
+    },
+    "sharedServices": {
+      "eyebrow": "集中运营中心",
+      "titlePart1": "共享服务 &",
+      "titlePart2": "托管运营",
+      "description": "通过标准化流程、熟练资源、治理框架、服务管理和可衡量的服务水平，跨业务部门集中交付技术和运营能力。",
+      "bookDiscovery": "图书托管操作发现",
+      "exploreFramework": "探索解决方案框架",
+      "coreCapabilities": [
+        "托管服务",
+        "IT 运营",
+        "应用支持",
+        "服务管理",
+        "资源优化",
+        "SLA 管理",
+        "治理",
+        "持续改进",
+        "成本优化"
+      ],
+      "row1Eyebrow": "统一交付中心",
+      "row1Title": "所有业务部门的标准化服务",
+      "row1P1": "将后台 IT、基础设施管理和技术支持整合到一个高效的交付中心。",
+      "row1P2": "通过消除重复的团队管理费用和标准化服务交付模型，您的组织可以确保一致的质量并降低总运营支出。",
+      "row2Eyebrow": "24/7 SRE 和应用程序支持",
+      "row2Title": "主动监控和快速解决事件",
+      "row2P1": "我们的专业站点可靠性工程师 (SRE) 和支持专家提供 24/7/365 遥测监控、自动警报分类和快速 L1/L2/L3 问题解决。",
+      "row2P2": "以严格的 SLA 承诺为后盾，我们保证您的关键任务应用程序和云基础设施具有 99.99% 的可用性。",
+      "row3Eyebrow": "ITIL 治理与合规性",
+      "row3Title": "结构化服务管理框架",
+      "row3P1": "通过透明的票务、根本原因分析和变更管理护栏来实施行业领先的 ITSM 标准（ServiceNow、Jira Service Management）。",
+      "row3P2": "全面的审计跟踪和治理政策可确保您的运营符合国际安全标准。",
+      "row4Eyebrow": "金融运营与持续改进",
+      "row4Title": "可预测的预算和资源优化",
+      "row4P1": "利用 FinOps 最佳实践消除云浪费、优化计算规模并自动执行日常运营维护。",
+      "row4P2": "每月透明度报告和产能预测确保持续的运营成本优化和高资本效率。",
+      "pillarsTitle": "运营支柱",
+      "pillarsSub": "经过验证的操作杠杆，可实现可靠的企业可扩展性。",
+      "pillar1Title": "24/7 托管 IT 运营",
+      "pillar1Desc": "主动 NOC 遥测、服务器修补、基础设施维护和 99.99% 的正常运行时间保证。",
+      "pillar2Title": "ITSM 和服务台",
+      "pillar2Desc": "第 1/2/3 层多渠道帮助台、事件路由和结构化工单解决工作流程。",
+      "pillar3Title": "SLA 和性能控制",
+      "pillar3Desc": "合同支持的响应时间、MTTR 基准和透明的每月绩效审计。",
+      "pillar4Title": "财务运营和成本优化",
+      "pillar4Desc": "持续调整资源规模、许可证回收和自动降低云成本。",
+      "ctaTitle": "准备好扩展您的托管运营了吗？",
+      "ctaSub": "与 Rezonants 合作，提供可靠的 24/7 托管服务，从而优化成本并消除运营停机时间。",
+      "ctaButton": "预约托管运营咨询",
+      "howItWorksHeading": "共享服务成功的行之有效的途径"
+    },
+    "aiRobotics": {
+      "brand": "人工智能与机器人",
+      "eyebrow": "智能系统",
+      "heroHeading": "人工智能与机器人协同工作",
+      "intro": "人工智能 (AI) 和机器人技术将智能决策与先进自动化相结合，正在改变企业的运营方式。人工智能使机器能够分析数据、学习模式并做出明智的决策，而机器人技术将这些功能带入物理世界，以快速、准确和一致地执行任务。",
+      "section1Heading": "旨在简化每项操作",
+      "section1Text": "我们的人工智能和机器人解决方案可帮助组织简化运营、减少人工工作并提高各行业的生产力。从流程自动化和预测分析到智能机器人和智能系统，我们提供可提高效率、推动增长和支持数字化转型的创新技术。",
+      "section2Heading": "智慧与行动的结合",
+      "section2Text": "每一次互动、决策和行动都由一个连接的系统提供支持——将数据实时转化为结果。",
+      "footerTag": "数字化转型的创新技术"
+    },
+    "informationReporting": {
+      "brand": "企业数据平台",
+      "heroTitle": "信息和报告系统",
+      "heroSubtitle": "每个部门的单一事实来源 - 旨在将原始运营数据转化为您的企业今天可以采取行动的决策。",
+      "statusLive": "现场直播",
+      "statusAnalyzed": "分析",
+      "statusArchived": "存档",
+      "statusPending": "待定",
+      "metricUptime": "系统正常运行时间",
+      "metricSessions": "活跃会话",
+      "metricReportsPerDay": "报告/天",
+      "metricEvents": "每日摄取事件",
+      "metricReports": "预定报告",
+      "metricLatency": "API延迟",
+      "unifiedPlatform": "统一平台",
+      "analyticsSuite": "分析套件",
+      "reportingConsole": "报告控制台",
+      "businessOutcome": "业务成果",
+      "section1Heading": "每个重要指标都有一个集中式系统",
+      "section1P1": "信息和报告系统是重要的业务解决方案，使组织能够收集、管理数据并将其转换为有意义的见解。这些系统集成了多个部门的信息，确保对关键业务数据的准确、一致和实时访问。通过提供集中式信息管理平台，组织可以提高运营可视性、简化工作流程并支持企业各个级别的战略决策。",
+      "section1P2": "这些系统使用自动报告、分析和仪表板来跟踪性能、监控关键指标并生成实时报告。通过减少人工工作并提高数据准确性，企业可以做出更快、更有效的决策。",
+      "section2Heading": "专为可见性、合规性和规模而构建",
+      "section2Text": "通过增强可见性、合规性和协作，信息和报告系统使组织能够在竞争环境中优化流程、提高生产力并推动可持续业务增长。",
+      "ctaHeading": "为每个团队提供相同的实时业务情况。",
+      "ctaText": "了解 Nexus Data Systems 如何将您的报告整合到一个智能平台中。",
+      "footerCopyright": "© 2026 Nexus 数据系统。版权所有。",
+      "navOverview": "概述",
+      "navCapabilities": "能力",
+      "navImpact": "影响",
+      "navContact": "联系方式"
+    },
+    "managedServices": {
+      "subtitle": "为您的企业提供全面的托管服务"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "数据驱动型企业的业务应用程序现代化",
+      "excerpt": "现代应用程序架构和互联数据如何提高运营效率、可扩展性和业务可见性。",
+      "tag": "业务转型",
+      "category": "业务转型",
+      "summary": "现代应用程序和数据基础可以帮助企业提高运营效率、连接业务系统并创建更好的运营可见性。"
+    },
+    "artificial-intelligence": {
+      "title": "人工智能如何重塑企业应用",
+      "excerpt": "探索智能自动化、人工智能副驾驶和预测智能如何成为企业日常依赖的企业应用程序的一部分。",
+      "tag": "人工智能",
+      "category": "人工智能",
+      "summary": "探索智能自动化、人工智能副驾驶和预测智能如何将日常企业软件转变为自适应、主动的平台。"
+    },
+    "modern-erp": {
+      "title": "利用现代 ERP 加速业务转型",
+      "excerpt": "探索现代 ERP 平台如何通过统一的数字基础连接财务、采购、供应链和业务运营。",
+      "tag": "现代 ERP",
+      "category": "现代 ERP",
+      "summary": "现代 ERP 平台将财务、采购、供应链和业务运营连接到一个统一的实时运营模型中。"
+    },
+    "cybersecurity": {
+      "title": "在互联企业中构建网络弹性",
+      "excerpt": "探索组织如何在日益互联的环境中增强安全性、保护关键系统并为应对威胁做好准备。",
+      "tag": "网络安全",
+      "category": "网络安全",
+      "summary": "随着企业集成更多的云系统、API 和合作伙伴生态系统，网络弹性可确保关键任务运营抵御现代威胁。"
+    },
+    "cloud-modernization": {
+      "title": "云遗留应用程序的现代化",
+      "excerpt": "探索一种实用方法来评估、现代化遗留应用程序并将其迁移到可扩展、安全的云架构。",
+      "tag": "云与现代化",
+      "category": "云与现代化",
+      "summary": "结构化、实用的路线图，用于评估、重构整体企业系统并将其迁移到弹性、可维护的云架构。"
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "业务转型",
+      "title": "数据驱动型企业的业务应用程序现代化",
+      "subtitle": "现代应用程序和数据基础可以帮助企业提高运营效率、连接业务系统并创建更好的运营可见性。",
+      "date": "2026 年 9 月",
+      "readTime": "7 分钟阅读",
+      "imageCaption": "企业技术视角——应用架构和互联数据",
+      "legacyLandscapeFlow": [
+        {
+          "title": "业务应用",
+          "desc": "不同的旧版 CRM、ERP 和部门工具各自运行。"
+        },
+        {
+          "title": "多种数据源",
+          "desc": "碎片化的操作表、CSV 提取和临时模式。"
+        },
+        {
+          "title": "断开数据库连接",
+          "desc": "隔离的本地和不协调的云数据存储库。"
+        },
+        {
+          "title": "报告和业务用户",
+          "desc": "手动调节、电子表格冲突和延迟报告。"
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "业务应用",
+          "desc": "核心操作平台和现代响应式界面。"
+        },
+        {
+          "title": "API/集成层",
+          "desc": "连接企业工作流程的安全、事件驱动的 API 网关。"
+        },
+        {
+          "title": "数据服务",
+          "desc": "统一的主数据模型、管道和优化的存储引擎。"
+        },
+        {
+          "title": "分析和报告",
+          "desc": "实时遥测、语义模型和自动报告。"
+        },
+        {
+          "title": "业务决策者",
+          "desc": "实时操作仪表板提供统一的执行可视性。"
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "企业应用",
+          "purpose": "业务流程管理"
+        },
+        {
+          "area": "API",
+          "purpose": "系统集成"
+        },
+        {
+          "area": "数据库",
+          "purpose": "结构化业务数据"
+        },
+        {
+          "area": "数据整合",
+          "purpose": "连接多个源"
+        },
+        {
+          "area": "分析",
+          "purpose": "业务洞察"
+        },
+        {
+          "area": "云基础设施",
+          "purpose": "可扩展性和灵活性"
+        },
+        {
+          "area": "监控",
+          "purpose": "可靠性和性能"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "提高跨职能部门的运营可视性",
+        "更好的数据一致性和企业事实的单一来源",
+        "减少手动报告工作并自动进行数据编译",
+        "提高应用程序性能并减少事务延迟",
+        "通过标准化、安全的 API 更轻松地进行系统集成",
+        "更大的可扩展性以支持有机增长和收购",
+        "为未来创新和智能采用奠定更好的基础"
+      ],
+      "keyPerspectivePoints": [
+        "了解业务流程和实际操作工作流程",
+        "通过可靠的集成标准连接系统",
+        "改进数据质量、治理和主数据模型",
+        "在不破坏日常运营稳定性的情况下实现应用程序现代化",
+        "创建适合弹性增长的可扩展架构",
+        "为主动决策提供更好的业务可见性"
+      ],
+      "sec1Eyebrow": "业务挑战",
+      "sec1Heading": "应对成长型企业的复杂性",
+      "sec1Subtext": "随着业务规模的扩大，技术生态系统不可避免地会扩大。最初为各个部门提供的集中解决方案可能会演变成一个由不同系统组成的错综复杂的网络。",
+      "sec2Eyebrow": "系统演变",
+      "sec2Heading": "复杂的技术格局",
+      "sec2Subtext": "遗留应用程序足迹引入了跨数据存储、用户体验和操作可见性的碎片。",
+      "sec3Eyebrow": "连接模型",
+      "sec3Heading": "现代应用架构",
+      "sec3Subtext": "从单一孤岛过渡到通过安全 API 和事件驱动的数据流互连的解耦服务。",
+      "sec4Eyebrow": "智能与可见性",
+      "sec4Heading": "互联数据与分析",
+      "sec4Subtext": "解锁数据孤岛以支持自动化报告、统一仪表板和主动业务决策。",
+      "sec5Eyebrow": "架构蓝图",
+      "sec5Heading": "技术基础",
+      "sec5Subtext": "关键架构层的结构化视图，支持企业范围的连接和可扩展性。",
+      "sec6Eyebrow": "定性价值",
+      "sec6Heading": "业务影响",
+      "sec6Subtext": "通过应用程序现代化和互联数据基础实现可衡量的运营收益。",
+      "ctaHeading": "准备好实现企业应用程序环境现代化了吗？",
+      "ctaDescription": "探索 Rezonants 如何与您的领导层合作，设计、构建和部署统一的应用程序平台和现代数据管道。",
+      "ctaButton": "与企业架构师交谈",
+      "sec1P1": "在典型的企业环境中，增长通常会引入多代软件。财务、供应链、客户服务和现场运营通常在不同时间购买或构建的单独软件堆栈上运行。经过多年的运营演变，这些系统开发了自己的数据格式、更新节奏和集成怪癖。",
+      "sec1P2": "摩擦通过常见的运营瓶颈在整个企业中体现出来：",
+      "sec1List": [
+        {
+          "bold": "多个断开连接的业务应用程序",
+          "text": "需要重复数据输入和手动交叉引用。"
+        },
+        {
+          "bold": "断开数据库连接",
+          "text": "在没有集中治理或统一主记录的情况下运行。"
+        },
+        {
+          "bold": "手动报告开销",
+          "text": "，分析团队花费数天时间将导出内容拼接在一起，而不是发现见解。"
+        },
+        {
+          "bold": "数据不一致",
+          "text": "跨部门，对基本运营问题产生相互矛盾的答案。"
+        },
+        {
+          "bold": "应用程序维护开销和可扩展性限制",
+          "text": "，因为脆弱的传统点对点连接难以支持不断增长的交易量。"
+        }
+      ],
+      "sec1P3": "应对这些挑战需要将技术前景视为一个旨在支持战略敏捷性的互连业务平台，而不是孤立的软件购买的集合。",
+      "legacyLandscapeBadge": "旧版基线",
+      "legacyLandscapeTitle": "碎片化的信息流",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "数据孤岛",
+          "desc": "关键的客户、财务和库存数据仍然被困在部门平台中，阻碍了业务运营的单一统一视图。"
+        },
+        {
+          "num": "02",
+          "title": "集成差距",
+          "desc": "点对点连接和夜间批量提取会在运营团队中造成延迟、高故障率和昂贵的维护开销。"
+        },
+        {
+          "num": "03",
+          "title": "延迟信息",
+          "desc": "当管理人员必须等待数天的月末核对才能了解绩效时，决策是被动的而不是预测的。"
+        }
+      ],
+      "modernArchitectureBadge": "目标架构",
+      "modernArchitectureTitle": "互联企业应用模型",
+      "sec3P1": "现代应用程序架构用敏捷、解耦的基础取代了脆弱的点对点连接。通过建立强大的 API 和集成层，系统可以通过受监管的安全端点进行交互，同时保留各个业务部门的自主权。",
+      "sec3P2": "这一架构转变的关键技术能力包括：",
+      "sec3List": [
+        {
+          "bold": "应用程序现代化：",
+          "text": "将核心业务逻辑解耦为可扩展的模块化服务。"
+        },
+        {
+          "bold": "API 集成：",
+          "text": "建立标准化、文档化的接口，以实现内部和合作伙伴的互操作性。"
+        },
+        {
+          "bold": "数据集成&数据库优化：",
+          "text": "将操作数据管道与高吞吐量查询优化相统一。"
+        },
+        {
+          "bold": "可观察性和安全性：",
+          "text": "在所有服务中实施集中式遥测、审计跟踪和基于角色的访问控制。"
+        }
+      ],
+      "sec4P1": "集成数据基础改变了领导层和运营团队与信息交互的方式。组织不再依赖显示几周前发生的情况的回顾性报告，而是获得跨业务部门的实时运营遥测。",
+      "sec4P2": "互联数据和分析通过以下方式支持可持续的业务成果：",
+      "sec4List": [
+        {
+          "bold": "运营可见性：",
+          "text": "销售、库存、履行和财务绩效持续透明。"
+        },
+        {
+          "bold": "更快的报告节奏：",
+          "text": "按需数据聚合，消除重复的手动电子表格。"
+        },
+        {
+          "bold": "一致信息：",
+          "text": "利润率、客户生命周期价值和销售线索速度等指标的单一定义。"
+        },
+        {
+          "bold": "更好的业务洞察：",
+          "text": "预测模式检测，提前发现风险和机遇。"
+        },
+        {
+          "bold": "改进决策：",
+          "text": "由经过验证的数据沿袭和透明度支持的自信的执行行动。"
+        }
+      ],
+      "keyPerspectiveEyebrow": "战略视角",
+      "keyPerspectiveTitle": "现代化不仅仅是软件替换",
+      "keyPerspectiveLead": "业务应用程序现代化并不是简单地用新工具替换旧软件。这是技术与业务运营、扩展和交付价值方式的有意结合。"
+    },
+    "artificialIntelligence": {
+      "category": "人工智能",
+      "title": "人工智能如何重塑企业应用",
+      "subtitle": "探索智能自动化、人工智能副驾驶和预测智能如何成为企业日常依赖的企业应用程序的一部分。",
+      "date": "2026 年 9 月",
+      "readTime": "阅读 6 分钟",
+      "imageCaption": "企业技术视角 — 原生智能和自动化工作流程",
+      "aiUseCases": [
+        {
+          "title": "供应链预测",
+          "desc": "根据历史供应商遥测数据预测需求高峰和物流延误。"
+        },
+        {
+          "title": "自动发票审核",
+          "desc": "提取行项目并与零人工输入的采购订单进行匹配。"
+        },
+        {
+          "title": "智能服务台",
+          "desc": "对一级员工 IT 和 HR 请求进行分类和自动解决。"
+        },
+        {
+          "title": "预防客户流失",
+          "desc": "行为聚类识别早期摩擦信号以进行主动外展。"
+        }
+      ],
+      "aiBusinessBenefits": [
+        "由实时预测模型驱动的更快的运营决策",
+        "减少重复数据处理和手动对账",
+        "通过情境副驾驶协助提高员工吞吐量",
+        "通过超个性化体验提高客户满意度",
+        "基于真实遥测的持续流程自我优化",
+        "通过自动审核日志检查降低合规性跟踪风险"
+      ],
+      "governancePoints": [
+        "严格的基于角色的访问确保人工智能模型永远不会泄露敏感数据",
+        "透明的推理痕迹允许对高价值操作进行人工审查",
+        "持续模型评估，防止幻觉和偏见",
+        "符合 GDPR、SOC 2 和 HIPAA 的严格数据来源标准",
+        "不确定边缘条件的人机交互升级路径"
+      ],
+      "sec1Eyebrow": "向原生智能的转变",
+      "sec1Heading": "人工智能在企业应用中的应用",
+      "sec1Subtext": "人工智能正在超越独立实验，进入日常企业系统的核心结构。",
+      "sec2Eyebrow": "大规模自动化",
+      "sec2Heading": "智能自动化",
+      "sec2Subtext": "用解释文档、路由异常和适应的认知工作流程取代脆弱的基于规则的例程。",
+      "sec3Eyebrow": "嵌入式协助",
+      "sec3Heading": "企业人工智能副驾驶",
+      "sec3Subtext": "嵌入业务应用程序中的上下文感知助手，可帮助知识工作者进行数据分析、文档编制和操作查询。",
+      "sec4Eyebrow": "前瞻性推理",
+      "sec4Heading": "预测智能",
+      "sec4Subtext": "从回顾性回顾报告转向预测运营中断的主动决策引擎。",
+      "sec5Eyebrow": "实际应用",
+      "sec5Heading": "企业人工智能用例",
+      "sec5Subtext": "演示的应用程序可在整个运营企业领域提供可衡量的效率提升。",
+      "sec6Eyebrow": "战略价值",
+      "sec6Heading": "商业效益",
+      "sec6Subtext": "通过企业人工智能的采用，实现了切实的生产力提升和运营敏捷性。",
+      "ctaHeading": "准备好将原生 AI 集成到您的业务应用程序中了吗？",
+      "ctaDescription": "与 Rezonants 人工智能实践联系，构建、评估和部署企业人工智能副驾驶员和智能自动化引擎。",
+      "ctaButton": "咨询人工智能专家",
+      "sec1P1": "多年来，企业人工智能被视为一种外部能力：隔离训练的模型、沙箱演示或通过单独门户访问的隔离聊天机器人。如今，范式已经发生根本性转变。高影响力的企业人工智能直接嵌入记录系统中——ERP、CRM、人力资本平台和实际业务发生的供应链引擎。",
+      "sec1P2": "当情报在记录系统内部运行时，它继承了组织已建立的安全边界、数据模型和业务逻辑。它不仅仅生成通用响应；它根据实时订单进行操作，解释开放的支持票证，核对供应商发票，并在员工每天浏览的确切界面中为他们提供帮助。",
+      "sec1P3": "这种转变将企业软件从等待人类击键的被动数据库转移到预测需求、自动化步骤并及时提出建议的主动平台。",
+      "sec2P1": "传统机器人流程自动化 (RPA) 擅长确定性、重复性屏幕抓取。然而，每当表单发生变化、出现意外的文档布局或发生异常时，严格的规则集就会被破坏。智能自动化通过将认知推理与事务执行相结合来弥合这一鸿沟：",
+      "sec2List": [
+        {
+          "bold": "工作流程自动化：",
+          "text": "协调复杂的跨部门操作，根据紧急程度和历史解决路径路由任务。"
+        },
+        {
+          "bold": "智能文档处理：",
+          "text": "提取非结构化 PDF、电子邮件、货运清单和合同，将其转换为结构化数据库事务。"
+        },
+        {
+          "bold": "智能任务自动化：",
+          "text": "自动执行多步骤操作验证，例如将采购订单与收据和银行对账单进行匹配。"
+        },
+        {
+          "bold": "流程优化：",
+          "text": "持续分析流程日志以识别周期瓶颈并提出有针对性的工作流程改进建议。"
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "信息搜索",
+          "desc": "跨分布式知识库、内联网策略、产品规格和历史票证解决方案进行语义检索，无需猜测关键字。"
+        },
+        {
+          "icon": "📝",
+          "title": "文档摘要",
+          "desc": "将冗长的 RFP、供应商协议、技术规范和法律修正案即时提炼为可操作的执行摘要和风险清单。"
+        },
+        {
+          "icon": "✨",
+          "title": "内容生成",
+          "desc": "协助起草客户提案、运营文件、标准操作程序 (SOP) 以及符合品牌标准的标准化客户更新。"
+        },
+        {
+          "icon": "📈",
+          "title": "数据分析",
+          "desc": "将对话式查询转化为复杂的分析查询，生成动态图表摘要并突出显示领导层的关键异常值。"
+        },
+        {
+          "icon": "🔄",
+          "title": "业务流程",
+          "desc": "直接从聊天提示发起交易，例如调度资源、创建票证、更新记录或提交采购申请。"
+        },
+        {
+          "icon": "🛡️",
+          "title": "基于角色的访问",
+          "desc": "确保副驾驶响应严格尊重用户权限级别，保护机密财务、人力资源文件和知识产权。"
+        }
+      ],
+      "sec4P1": "虽然生成模型擅长理解和合成语言，但预测智能侧重于隐藏在结构化企业数据集中的数学模式。嵌入式预测模型使组织能够在扰乱运营之前预测运营障碍：",
+      "sec4List": [
+        {
+          "bold": "运营预测：",
+          "text": "通过综合季节性指标与实时管道速度来预测收入趋势、库存速度和资源需求。"
+        },
+        {
+          "bold": "预测分析：",
+          "text": "在仍有时间进行干预的情况下查明客户流失风险、维护降级周期和供应链延迟。"
+        },
+        {
+          "bold": "风险识别：",
+          "text": "在金融交易、合规日志和供应商采购模式中的异常升级之前对其进行标记。"
+        },
+        {
+          "bold": "需求预测：",
+          "text": "将销售预测与制造能力和仓库库存水平相协调，以保护营运资金。"
+        }
+      ],
+      "keyPerspectiveEyebrow": "企业治理",
+      "keyPerspectiveTitle": "信任、监督和护栏",
+      "keyPerspectiveLead": "人工智能的可靠性取决于其背后的数据基础及其周围的治理。可持续的企业采用需要经过深思熟虑的架构纪律："
+    },
+    "modernErp": {
+      "category": "现代 ERP",
+      "title": "利用现代 ERP 加速业务转型",
+      "subtitle": "探索现代 ERP 平台如何通过统一的数字基础连接财务、采购、供应链和业务运营。",
+      "date": "2026 年 9 月",
+      "readTime": "阅读 7 分钟",
+      "imageCaption": "企业技术视角 — 互联 ERP 和运营敏捷性",
+      "connectedFunctions": [
+        {
+          "title": "财务管理",
+          "desc": "实时账本更新、自动收入确认和即时多货币对账。"
+        },
+        {
+          "title": "供应链与物流",
+          "desc": "端到端库存可视性、仓库优化和供应商绩效遥测。"
+        },
+        {
+          "title": "人力资本与劳动力",
+          "desc": "自助员工门户、自动化薪资运行以及集成的人才生命周期规划。"
+        },
+        {
+          "title": "采购",
+          "desc": "自动采购批准、供应商合同合规性和动态支出分析。"
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "云原生架构",
+          "desc": "弹性计算扩展，无需本地基础设施开销或破坏性版本锁定。"
+        },
+        {
+          "title": "开放API生态系统",
+          "desc": "预构建连接器可实现与自定义微服务和 CRM 套件的无缝双向数据同步。"
+        },
+        {
+          "title": "嵌入式分析",
+          "desc": "从高级资产负债表直接仪表板深入到各个交易日志。"
+        },
+        {
+          "title": "自动化工作流程触发器",
+          "desc": "事件驱动的事件触发器自主执行标准的跨部门操作。"
+        }
+      ],
+      "erpBusinessBenefits": [
+        "单一事实来源，消除相互冲突的部门报告",
+        "月末和季末结账周期大幅减少",
+        "实时库存和物流可见性，最大限度地减少缺货",
+        "通过模块化云原生更新减少 IT 维护开销",
+        "跨多区域税务管辖区的统一合规跟踪",
+        "更快地将收购的实体纳入共享运营骨干"
+      ],
+      "erpStrategyPoints": [
+        "在配置之前将 ERP 架构与核心运营工作流程保持一致",
+        "选择模块化部署模型以实现快速里程碑胜利",
+        "优先考虑高质量的主数据迁移和对账",
+        "嵌入自动化变更管理和针对角色的培训计划",
+        "设计 API 网关以实现未来无缝集成扩展"
+      ],
+      "sec1Eyebrow": "运营骨干",
+      "sec1Heading": "为什么现代 ERP 很重要",
+      "sec1Subtext": "企业效率取决于财务、采购、运营和人力资本之间数据的无缝同步。",
+      "sec2Eyebrow": "综合生态系统",
+      "sec2Heading": "互联业务功能",
+      "sec2Subtext": "打破传统的部门孤岛，使事务数据能够在业务部门之间即时流动。",
+      "sec3Eyebrow": "跨职能和谐",
+      "sec3Heading": "统一操作和信息流",
+      "sec3Subtext": "连接的数字主干确保销售合同立即更新供应链订单和财务分类账。",
+      "sec4Eyebrow": "企业遥测",
+      "sec4Heading": "实时业务可见性",
+      "sec4Subtext": "实时运营智能用即时绩效指标取代延迟的回顾电子表格。",
+      "sec5Eyebrow": "核心平台架构",
+      "sec5Heading": "现代 ERP 功能",
+      "sec5Subtext": "将敏捷云平台与传统单体系统区分开来的架构基础。",
+      "sec6Eyebrow": "质量影响",
+      "sec6Heading": "商业效益",
+      "sec6Subtext": "现代 ERP 平台释放出有形的组织速度、透明度和成本效率。",
+      "ctaHeading": "准备好实现企业 ERP 主干现代化了吗？",
+      "ctaDescription": "了解 Rezonants 如何帮助您确定、配置和集成适合您业务运营的模块化 ERP 平台。",
+      "ctaButton": "与 ERP 架构师交谈",
+      "sec1P1": "在快速发展的企业环境中，传统的企业资源规划系统常常举步维艰。传统 ERP 是在批处理和孤立的本地服务器时代构建的，高度定制、难以升级且极其不透明。关键的业务运营在平行的孤岛中运作，依靠脆弱的隔夜出口来同步账本和仓库。",
+      "sec1P2": "现代云原生 ERP 从根本上重新定义了这种动态。它作为企业的统一数字主干——一个活生生的基础，财务、采购、供应链、库存和人力资源在共享数据模型上进行交易。",
+      "sec1P3": "通过将核心运营纳入单一协调环境中，现代 ERP 消除了减缓增长的运营盲点，使领导者能够使用实时信号而不是过时的历史摘要来引导业务。",
+      "sec3P1": "运营孤岛很少是人的问题；它们是建筑问题。当客户服务、采购和仓库团队在离线应用程序中工作时，每次交接都需要手动发送电子邮件、电子表格和电话。错误成倍增加，发票被搁置，客户承诺也被取消。",
+      "sec3P2": "现代 ERP 通过统一的数据沿袭和事件驱动的流程编排解决了这个问题：",
+      "sec3List": [
+        {
+          "bold": "同步订单到现金：",
+          "text": "当客户下订单时，库存会自动保留，运输标签会生成，帐单会立即更新。"
+        },
+        {
+          "bold": "采购到付款的透明度：",
+          "text": "采购订单、收货和供应商发票会自动与三向对账进行匹配，仅标记例外情况以供人工审核。"
+        },
+        {
+          "bold": "统一劳动力和运营成本核算：",
+          "text": "项目时间表、工资分配和直接运营支出直接实时映射到成本中心。"
+        }
+      ],
+      "sec4P1": "经营一个没有统一可视性的企业就像在浓雾中飞行，仪表迟缓。现代 ERP 提供跨每个业务维度的实时遥测：",
+      "sec4List": [
+        {
+          "bold": "实时执行仪表板：",
+          "text": "即时查看毛利率、经营现金流、未清负债和订单积压，无需等待期末结算。"
+        },
+        {
+          "bold": "自助运营报告：",
+          "text": "部门负责人可以构建自定义查询并从企业级摘要深入到各个交易行项目。"
+        },
+        {
+          "bold": "集中主信息：",
+          "text": "通过为客户、供应商和产品目录建立单一受管理的主数据来消除矛盾的数字。"
+        },
+        {
+          "bold": "主动异常警报：",
+          "text": "当利润低于阈值、库存不足或供应商交货下滑时，自动警报会立即通知经理。"
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP 转型理念",
+      "keyPerspectiveTitle": "务实现代化而非整体检修",
+      "keyPerspectiveLead": "当组织将其视为渐进式运营升级而不是全有或全无的 IT 颠覆时，现代 ERP 转型就会成功："
+    },
+    "cybersecurity": {
+      "category": "网络安全",
+      "title": "在互联企业中构建网络弹性",
+      "subtitle": "探索组织如何在日益互联的环境中增强安全性、保护关键系统并为应对威胁做好准备。",
+      "date": "2026 年 9 月",
+      "readTime": "8 分钟阅读",
+      "imageCaption": "企业技术视角——威胁防御与零信任架构",
+      "incidentReadinessPhases": [
+        {
+          "title": "遥测与检测",
+          "desc": "所有云端点和工作负载的实时日志摄取和 SIEM 异常关联。"
+        },
+        {
+          "title": "收容与隔离",
+          "desc": "自动网络隔离规则可立即隔离受损的容器或凭据。"
+        },
+        {
+          "title": "补救措施和根本原因",
+          "desc": "快速补丁推出和数字取证识别确切的漏洞向量。"
+        },
+        {
+          "title": "弹性和强化",
+          "desc": "对不可变备份、策略护栏和自动化红队模拟的持续反馈。"
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "云资产中的漏洞攻击面大幅减少",
+        "以最低的 RTO/RPO 保证运营连续性和灾难恢复",
+        "ISO 27001、SOC 2、HIPAA 和 GDPR 审核的总体合规信心",
+        "保护企业核心知识产权和客户机密记录",
+        "通过统一访问控制简化供应商和第三方风险治理",
+        "通过经过验证的零信任安全态势增强客户和投资者的信任"
+      ],
+      "zeroTrustPrinciples": [
+        "永不信任，始终验证：每笔交易都需要显式身份验证",
+        "最低权限访问：限制横向威胁移动的细粒度角色边界",
+        "假设违规：持续威胁监控、传输中和静态加密",
+        "微分段：网络防火墙隔离各个应用程序工作负载",
+        "连续遥测：自动行为分析标记异常会话请求"
+      ],
+      "sec1Eyebrow": "不断扩大的边界",
+      "sec1Heading": "互联企业安全格局",
+      "sec1Subtext": "随着企业采用云服务、分布式远程团队和物联网设备，传统的安全边界逐渐消失。",
+      "sec2Eyebrow": "全面防御",
+      "sec2Heading": "多层威胁防护",
+      "sec2Subtext": "在整个技术堆栈中协调威胁情报、漏洞扫描和自动事件响应。",
+      "sec3Eyebrow": "新的安全边界",
+      "sec3Heading": "身份和访问管理 (IAM)",
+      "sec3Subtext": "身份是主要控制平面。精细访问、MFA 和 SSO 确保只有授权主体才能访问业务系统。",
+      "sec4Eyebrow": "架构范式",
+      "sec4Heading": "揭秘零信任架构",
+      "sec4Subtext": "基于持续验证、显式授权和假设妥协的基本安全思维。",
+      "sec5Eyebrow": "基础设施治理",
+      "sec5Heading": "云安全注意事项",
+      "sec5Subtext": "解决共享责任模型、基础设施即代码护栏和 Kubernetes 运行时保护。",
+      "sec6Eyebrow": "运营弹性",
+      "sec6Heading": "事件准备：超越预防",
+      "sec6Subtext": "准备结构化运行手册、自动遏制演习和不可变的灾难恢复备份，以实现总体运营弹性。",
+      "sec7Eyebrow": "战略价值",
+      "sec7Heading": "商业效益",
+      "sec7Subtext": "现代网络防御提供的企业弹性、合规性验证和品牌声誉保障。",
+      "ctaHeading": "准备好巩固您的企业网络弹性了吗？",
+      "ctaDescription": "与 Rezonants 安全实践合作来审核架构、实施零信任框架并保护关键任务系统。",
+      "ctaButton": "咨询网络架构师",
+      "sec1P1": "在企业 IT 的传统时代，安全性遵循城堡和护城河原则：公司办公网络内部的所有内容都被认为是可信的，而外部的所有内容都被认为是不可信的。单个公司防火墙保护内部服务器、数据库和台式计算机。",
+      "sec1P2": "当今的企业已经超出了物理围墙的范围。工作负载驻留在多云环境（AWS、Azure、GCP）中，员工从不同位置访问业务应用程序，API 不断与外部物流提供商、金融机构和 SaaS 供应商交换敏感运营数据。",
+      "sec1P3": "虽然这种超连接性极大地提高了业务敏捷性，但它也极大地扩展了企业的攻击面。每个 API 端点、身份令牌、连接的移动设备和 SaaS 集成都代表了潜在的暴露向量。真正的企业保护需要从基于边界的防御转向主动的、端到端的网络弹性。",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "威胁检测",
+          "desc": "机器学习辅助威胁情报，实时监控异常网络模式、凭证滥用和零日漏洞。"
+        },
+        {
+          "icon": "📡",
+          "title": "安全监控",
+          "desc": "集中式安全运营中心 (SOC) 遥测关联服务器、容器集群、身份提供商和端点之间的事件。"
+        },
+        {
+          "icon": "🔍",
+          "title": "漏洞管理",
+          "desc": "跨基础设施、源代码存储库和容器注册表进行持续自动漏洞扫描，以主动修复漏洞。"
+        },
+        {
+          "icon": "🔒",
+          "title": "数据保护",
+          "desc": "强大的传输中加密 (TLS 1.3) 和静态加密 (AES-256)，以及精细的数据丢失防护 (DLP) 治理，以防止知识产权泄露。"
+        }
+      ],
+      "sec3P1": "保护企业资产需要确保每个身份（无论是人类主管、外部承包商还是自主软件服务帐户）都对其访问的确切资源进行了验证授权。",
+      "sec3List": [
+        {
+          "bold": "集中身份管理：",
+          "text": "单点登录 (SSO) 和联合身份标准，消除了跨应用程序的分散密码存储。"
+        },
+        {
+          "bold": "自适应多重身份验证 (MFA)：",
+          "text": "针对敏感管理功能的防网络钓鱼 FIDO2 硬件密钥和基于风险的上下文挑战。"
+        },
+        {
+          "bold": "精细访问控制：",
+          "text": "在 API 和数据库级别实施细粒度的基于角色 (RBAC) 和基于属性 (ABAC) 的访问控制。"
+        },
+        {
+          "bold": "最小权限原则：",
+          "text": "授予临时、即时 (JIT) 访问权限，该访问权限在管理任务结束时自动过期。"
+        }
+      ],
+      "keyPerspectiveEyebrow": "零信任核心原则",
+      "keyPerspectiveTitle": "盲目信任的持续验证",
+      "keyPerspectiveLead": "在零信任架构中，基于网络位置的隐式信任被完全拆除。每笔交易、数据库查询、用户登录都必须不断证明其合法性：",
+      "cloudSecurityCards": [
+        {
+          "title": "共同责任",
+          "desc": "清晰的治理将云提供商的物理基础设施安全与企业的数据加密、IAM 策略和应用程序代码责任区分开来。"
+        },
+        {
+          "title": "基础设施即代码 (IaC)",
+          "desc": "通过代码管理的不可变、可审核的云配置。自动策略即代码扫描器可在部署之前阻止错误配置和暴露的存储桶。"
+        },
+        {
+          "title": "容器和 Kubernetes 安全",
+          "desc": "强化的容器运行时、签名的映像注册表、网络微分段和自动秘密管理，使凭据远离源存储库。"
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "云与现代化",
+      "title": "云遗留应用程序现代化",
+      "subtitle": "探索一种实用方法来评估、现代化遗留应用程序并将其迁移到可扩展、安全的云架构。",
+      "date": "2026 年 9 月",
+      "readTime": "6 分钟阅读",
+      "imageCaption": "企业技术视角——云原生平台重构和容器化",
+      "modernizationApproaches": [
+        {
+          "title": "重新托管（提升和移位）",
+          "desc": "只需进行最少的代码修改即可将工作负载快速转移到云虚拟机。"
+        },
+        {
+          "title": "重塑平台（提升和重塑）",
+          "desc": "升级运行时框架，采用托管云数据库，简化操作。"
+        },
+        {
+          "title": "重构（云原生重建）",
+          "desc": "将单体解构为容器化微服务和事件驱动的无服务器 API。"
+        },
+        {
+          "title": "替换（SaaS 现代化）",
+          "desc": "淘汰冗余的遗留系统，转而使用专门构建的企业云软件。"
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "遗留评估",
+          "desc": "自动依赖关系映射、技术债务编目和云就绪评分。"
+        },
+        {
+          "title": "目标架构",
+          "desc": "模块化微服务蓝图、容器拓扑和自动化 IaC 模板。"
+        },
+        {
+          "title": "分阶段迁移",
+          "desc": "金丝雀发布，双写数据同步，零宕机割接波。"
+        },
+        {
+          "title": "云优化",
+          "desc": "持续成本治理、自动扩展遥测和 FinOps 运营审查。"
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "显着降低基础设施维护和硬件更新费用",
+        "近乎无限的计算弹性以零延迟处理峰值企业流量",
+        "通过全自动 CI/CD 部署管道加快发布速度",
+        "通过多可用区高可用性消除遗留单点故障",
+        "现代 API 架构可实现快速跨平台合作伙伴集成",
+        "对应用程序性能和云支出的高级实时观察"
+      ],
+      "landscapeAssessmentPoints": [
+        "映射复杂的应用程序间依赖关系和数据同步节奏",
+        "识别硬编码环境配置和专有数据库模式",
+        "评估每个司法管辖区的监管合规性和数据主权约束",
+        "跨重构与重新托管路径计算实际总拥有成本 (TCO)",
+        "建立明确的推出浪潮以保护活跃的日常业务运营"
+      ],
+      "sec1Eyebrow": "遗留系统的现实",
+      "sec1Heading": "传统挑战",
+      "sec1Subtext": "老化的庞然大物限制了创新速度，增加了运营漏洞，并增加了基础设施维护成本。",
+      "sec2Eyebrow": "评估与发现",
+      "sec2Heading": "了解应用程序格局",
+      "sec2Subtext": "在迁移之前进行严格的架构发现以映射数据依赖性、软件版本和现代化投资回报率。",
+      "sec3Eyebrow": "4条现代化路径",
+      "sec3Heading": "现代化方法",
+      "sec3Subtext": "为每个工作负载选择正确的迁移模式：重新托管、重新平台、重构或替换。",
+      "sec4Eyebrow": "目标转换模型",
+      "sec4Heading": "现代云架构",
+      "sec4Subtext": "设计适合高可扩展性的弹性微服务、托管数据库和自动化部署管道。",
+      "sec5Eyebrow": "转型成果",
+      "sec5Heading": "主要现代化优势",
+      "sec5Subtext": "云原生转型带来了显着的敏捷性、成本降低和可靠性红利。",
+      "ctaHeading": "准备好对云中的旧应用程序进行现代化改造了吗？",
+      "ctaDescription": "与 Rezonants 云架构师合作，评估依赖关系、构建迁移路线图并安全地过渡您的系统。",
+      "ctaButton": "与云专家交谈",
+      "sec1P1": "十年前构建的关键任务应用程序仍然为企业带来数十亿美元的收入，但其架构僵化带来了越来越大的运营风险。",
+      "sec1P2": "每个企业都面临着稳定与现代化之间的张力。传统系统经过精心设计，经久耐用，多年来一直可靠运行。然而，随着业务需求的加速，这些老化的架构遇到了结构性限制：",
+      "sec1List": [
+        {
+          "bold": "老化的软件堆栈：",
+          "text": "基于已弃用的框架构建的整体代码库，可用于维护的人才库不断减少。"
+        },
+        {
+          "bold": "维护周期困难：",
+          "text": "紧密耦合的组件，更改单个功能可能会破坏不相关的操作模块。"
+        },
+        {
+          "bold": "可扩展性有限：",
+          "text": "垂直扩展限制，需要购买昂贵的专有硬件来处理季节性流量峰值。"
+        },
+        {
+          "bold": "集成挑战：",
+          "text": "如果没有脆弱的批处理脚本，则无法与现代移动应用程序、客户门户或合作伙伴 API 顺利交互。"
+        },
+        {
+          "bold": "基础设施限制：",
+          "text": "物理服务器机房生命周期、备份漏洞以及高电力/冷却运营支出。"
+        }
+      ],
+      "sec2P1": "务实的现代化之旅始于对现有产业的全面清晰化：",
+      "sec2List": [
+        {
+          "bold": "应用：",
+          "text": "对所有活动工作负载、自定义模块、后台脚本和历史第三方包进行编目。"
+        },
+        {
+          "bold": "依赖关系：",
+          "text": "映射复杂的运行时耦合、共享数据库表、直接文件系统调用和外部服务契约。"
+        },
+        {
+          "bold": "数据：",
+          "text": "评估数据结构、事务完整性要求、备份节奏和监管主权规则。"
+        },
+        {
+          "bold": "基础设施：",
+          "text": "审核 CPU、内存、存储利用率和网络吞吐量，以调整目标云规格。"
+        },
+        {
+          "bold": "业务关键性：",
+          "text": "将应用程序分类为不同的层，以设计安全、分阶段的迁移波，并具有明确的后备程序。"
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "优点：",
+      "cloudArchitectureBadge": "现代化生命周期",
+      "cloudArchitectureTitle": "端到端云现代化流程",
+      "sec4P1": "目标架构将核心应用程序解耦为托管在弹性云平台（例如 Kubernetes 或托管无服务器运行时）上的模块化容器化服务。",
+      "sec4P2": "通过建立自动化 CI/CD 部署管道、自动化蓝绿切换和基础设施即代码，部署可以从令人紧张的周末活动转变为无缝的日常工作。",
+      "sec4P3": "弹性计算在需求激增时自动扩展，在需求平静时自动缩小，消除闲置资源成本，同时保证全球用户的亚秒级响应时间。",
+      "keyPerspectiveEyebrow": "现代化最佳实践",
+      "keyPerspectiveTitle": "成功迁移的四大支柱",
+      "keyPerspectiveLead": "经验表明，现代化项目只有建立在全面的准备、清晰的波次排序和严格的测试的基础上才能成功："
+    }
+  }
+}

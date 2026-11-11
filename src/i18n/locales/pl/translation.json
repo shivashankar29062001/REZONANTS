@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "O",
+    "services": "Usługi",
+    "products": "Produkty",
+    "perspectives": "Perspektywy",
+    "technologies": "Technologie",
+    "contact": "Kontakt",
+    "signIn": "Zaloguj się",
+    "signUp": "Zarejestruj się",
+    "signOut": "Wyloguj się",
+    "chooseLanguage": "Wybierz swój język",
+    "searchLanguage": "Szukaj w języku",
+    "resetEnglish": "Zresetuj do języka angielskiego",
+    "noResults": "Nie znaleziono języków",
+    "englishDefault": "Angielski (domyślny)",
+    "english": "Angielski"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Oprogramowanie zaprojektowane z myślą o sposobie prowadzenia <em>Twojej firmy</em>.",
+    "description": "Rezonants to firma świadcząca usługi IT i produkty cyfrowe. Projektujemy, budujemy i skalujemy niestandardowe oprogramowanie, produkty internetowe i mobilne, infrastrukturę chmurową i sztuczną inteligencję – dla firm konkurujących pod względem wykonania.",
+    "bookConsultation": "Zarezerwuj bezpłatną konsultację",
+    "exploreServices": "Poznaj usługi",
+    "years": "lata",
+    "projects": "projekty",
+    "retention": "zatrzymanie",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — od 2012",
+    "metaStudio": "Studio produktów cyfrowych",
+    "metaTech": "Sieć · Mobilność · Chmura · Sztuczna inteligencja"
+  },
+  "about": {
+    "eyebrow": "O nas",
+    "title": "Tworzenie rozwiązań cyfrowych <em>które popychają firmy do przodu</em>",
+    "description": "Rezonants to firma zajmująca się rozwiązaniami technologicznymi, której celem jest pomaganie przedsiębiorstwom w przekształcaniu pomysłów w znaczące doświadczenia cyfrowe. Łączymy technologię, kreatywność i zrozumienie biznesu, aby dostarczać rozwiązania zaprojektowane z myślą o rzeczywistych potrzebach.<br /><br />Od transformacji cyfrowej i tworzenia oprogramowania na zamówienie po usługi w chmurze, sztucznej inteligencji, automatyzacji i technologii zarządzanych – pomagamy organizacjom uprościć złożoność, poprawić wydajność i stworzyć trwałą wartość cyfrową.<br /><br /><strong>Nasze podejście jest proste — zrozumieć biznes, rozwiązać właściwy problem i zbudować technologię, która zapewnia.</strong>",
+    "awardWinning": "Nagradzany",
+    "awardText": "Uznany za doskonałość w zakresie inżynierii produktów internetowych i mobilnych.",
+    "professionalStaff": "Profesjonalna kadra",
+    "staffText": "Starsi, odpowiedzialni inżynierowie, którzy są właścicielami pracy od pierwszego połączenia do uruchomienia.",
+    "support247": "Wsparcie 24/7",
+    "supportText": "Usługi zarządzane i linia wsparcia, która odpowiada, gdy jej potrzebujesz.",
+    "fairPrices": "Uczciwe ceny",
+    "pricesText": "Uczciwe szacunki i przejrzyste rozliczenia przy każdym zleceniu.",
+    "yearsExcellence": "Lata doskonałości przedsiębiorstwa"
+  },
+  "stats": {
+    "happyClients": "Zadowoleni klienci",
+    "projectsDone": "Wykonane projekty",
+    "winAwards": "Zdobywaj nagrody"
+  },
+  "insights": {
+    "eyebrow": "Perspektywy",
+    "title": "Perspektywy",
+    "sub": "Odkrywanie pomysłów, trendów i technologii kształtujących przyszłość.",
+    "filters": {
+      "all": "Wszystko",
+      "digital-transformation": "Transformacja cyfrowa",
+      "ai": "Sztuczna inteligencja i automatyzacja",
+      "cloud": "Chmura",
+      "data": "Dane i analityka",
+      "software": "Oprogramowanie",
+      "business": "Biznes i technologia"
+    },
+    "readMore": "Czytaj więcej",
+    "close": "Zamknij",
+    "keyTakeaways": "Kluczowe wnioski architektoniczne",
+    "relatedServices": "Powiązane możliwości i usługi",
+    "minRead": "przeczytaj przez chwilę",
+    "item1Date": "lipiec 2026 r.",
+    "item1Tag": "Produkt i ERP",
+    "item1Title": "Modułowe podejście ERP dla rozwijających się przedsiębiorstw",
+    "item1Text": "Jak strukturyzujemy zadania ERP, aby finanse, zapasy, zasoby ludzkie i zaopatrzenie płynnie integrowały się bez wieloletnich zakłóceń.",
+    "item2Date": "czerwiec 2026 r.",
+    "item2Tag": "Sztuczna inteligencja",
+    "item2Title": "Agentyczne systemy AI: przejście od chatbotów do autonomicznego wykonywania",
+    "item2Text": "Projektowanie skoordynowanych, wieloagentowych systemów LLM, które planują, weryfikują i realizują złożone przepływy pracy biznesowej pod nadzorem człowieka w pętli.",
+    "item3Date": "maj 2026",
+    "item3Tag": "Kamień milowy firmy",
+    "item3Title": "Uznany za jedno z wiodących studiów innowacji IT w Hyderabad",
+    "item3Text": "Nasze studio inżynieryjne zostało docenione za doskonałość dostaw, zaawansowane możliwości technologiczne i satysfakcję klientów w zakresie globalnej inżynierii produktów.",
+    "desc": "Poznaj pomysły i perspektywy Rezonants dotyczące transformacji cyfrowej, sztucznej inteligencji, automatyzacji, chmury, danych, oprogramowania i przyszłości technologii biznesowych.",
+    "categories": {
+      "digitalTransformation": "Transformacja cyfrowa",
+      "ai": "Sztuczna inteligencja i automatyzacja",
+      "cloud": "Chmura",
+      "data": "Dane i analityka",
+      "software": "Oprogramowanie",
+      "business": "Biznes i technologia"
+    }
+  },
+  "technologies": {
+    "title": "Technologie i architektura",
+    "headline": "Rozwiązania technologiczne dla przedsiębiorstw",
+    "sub": "Inteligentna technologia. Zautomatyzowane operacje. Inteligentniejszy biznes.",
+    "selectTechnology": "Wybierz rozwiązanie technologiczne…",
+    "options": {
+      "aiRobotics": "Rozwiązania AI i robotyki",
+      "businessAutomation": "Rozwiązania z zakresu automatyzacji biznesu",
+      "cloudMigrations": "Rozwiązania do migracji do chmury",
+      "dataCenters": "Rozwiązania dla centrów danych",
+      "cognitiveAnalytics": "Analityka kognitywna i sztuczna inteligencja",
+      "informationReporting": "Systemy informacyjne i raportowania",
+      "managedServices": "Usługi zarządzane",
+      "oneStopSolutions": "Kompleksowe rozwiązania technologiczne"
+    },
+    "explore": "Poznaj technologię",
+    "bookDiscovery": "Książka Odkrycie technologii",
+    "exploreAll": "Poznaj wszystkie technologie",
+    "coreCapabilities": "Podstawowe możliwości technologiczne",
+    "bookConsultation": "Zarezerwuj konsultację"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Porozmawiaj ze starszym inżynierem, a nie ze scenariuszem sprzedaży",
+    "sub": "Podziel się informacjami na temat swojego projektu, a my odpowiemy w ciągu jednego dnia roboczego.",
+    "reachUs": "Skontaktuj się z nami bezpośrednio",
+    "preferConversation": "Wolisz rozmowę? Jesteśmy o jeden telefon dalej.",
+    "contactLede": "Najszybszym sposobem na posunięcie się do przodu jest krótka rozmowa. Skontaktuj się z nami na dowolnym kanale poniżej lub zarezerwuj miejsce, a my przyjedziemy do Ciebie przygotowani.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "office": "Biuro",
+    "hours": "Godziny",
+    "hoursValue": "Pon. – Sob., 9:30 – 18:30 czasu wschodniego",
+    "bookSlot": "Zarezerwuj termin konsultacji",
+    "sendMessage": "Wyślij nam wiadomość",
+    "fieldsRequired": "Pola oznaczone * są wymagane.",
+    "fullName": "Imię i nazwisko *",
+    "emailLabel": "E-mail *",
+    "company": "Firma",
+    "subject": "Temat",
+    "messageLabel": "Wiadomość *",
+    "sending": "Wysyłam…",
+    "sendBtn": "Wyślij wiadomość",
+    "successMsg": "Wiadomość wysłana! Kopia została wysłana do Ciebie e-mailem.",
+    "errorMsg": "Nie udało się zapisać Twojej wiadomości. Sprawdź, czy tabela contact_messages istnieje, a następnie spróbuj ponownie.",
+    "offices": {
+      "vijayawada": "Biuro Widżajawady",
+      "southAfrica": "Biuro w Republice Południowej Afryki"
+    },
+    "placeholders": {
+      "fullName": "Twoje pełne imię i nazwisko",
+      "email": "ty@firma.com",
+      "company": "Twoja firma lub organizacja",
+      "subject": "Jak możemy pomóc?",
+      "message": "Opowiedz nam o swoim projekcie, harmonogramie i celach..."
+    },
+    "validation": {
+      "fullNameRequired": "Proszę wpisać swoje pełne imię i nazwisko.",
+      "emailRequired": "Proszę podać swój adres e-mail.",
+      "emailInvalid": "Proszę podać prawidłowy adres e-mail.",
+      "messageRequired": "Proszę wpisać wiadomość."
+    }
+  },
+  "services": {
+    "eyebrow": "Usługi",
+    "title": "Co robimy",
+    "sub": "Od strategii po zarządzane operacje – zapewniamy kompleksowe partnerstwa technologiczne dla firm konkurujących pod względem realizacji.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Od początku do wdrożenia",
+        "description": "Kompleksowy rozwój nowych rozwiązań cyfrowych, począwszy od wymagań biznesowych i architektury rozwiązań, poprzez rozwój, integrację, testowanie, wdrożenie i bieżące wsparcie."
+      },
+      "businessProcessAutomation": {
+        "label": "Automatyzacja procesów biznesowych",
+        "description": "Projektowanie i wdrażanie inteligentnych rozwiązań automatyzacyjnych, które usprawniają procesy biznesowe, eliminują powtarzalne czynności ręczne, poprawiają efektywność operacyjną i przyspieszają wyniki biznesowe."
+      },
+      "centerOfExcellence": {
+        "label": "Centrum Doskonałości",
+        "description": "Utworzenie wyspecjalizowanych centrów technologii i możliwości biznesowych, które zapewniają zarządzanie, standardy, wiedzę specjalistyczną, ramy, zasoby nadające się do ponownego wykorzystania i ciągłe doskonalenie w całej organizacji."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Niestandardowy rozwój i dostosowywanie",
+        "description": "Tworzenie i udoskonalanie aplikacji, platform, przepływów pracy i rozwiązań dla przedsiębiorstw w celu spełnienia unikalnych wymagań biznesowych i zapewnienia dostosowanej funkcjonalności."
+      },
+      "digitalTransformation": {
+        "label": "Transformacja cyfrowa",
+        "description": "Modernizacja operacji biznesowych, ekosystemów technologicznych i doświadczeń klientów poprzez chmurę, sztuczną inteligencję, automatyzację, dane i nowoczesne technologie aplikacyjne."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Ramy kompleksowych rozwiązań",
+        "description": "Kompleksowe podejście do dostarczania obejmujące cały cykl życia technologii — od strategii, wymagań i architektury po rozwój, integrację, wdrożenie, zarządzanie, monitorowanie i wsparcie."
+      },
+      "migrationModernization": {
+        "label": "Migracja i modernizacja",
+        "description": "Bezpieczna i uporządkowana migracja aplikacji, danych, platform, infrastruktury i obciążeń ze starszych lub istniejących środowisk do nowoczesnych, skalowalnych i zoptymalizowanych platform technologicznych."
+      },
+      "pocPilotImplementation": {
+        "label": "Weryfikacja koncepcji (PoC) i wdrożenie pilotażowe",
+        "description": "Szybki rozwój i walidacja rozwiązań technologicznych w celu oceny wykonalności technicznej, wartości biznesowej, wymagań integracyjnych, wydajności i skalowalności przed wdrożeniem na pełną skalę."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Usługi wspólne i operacje zarządzane",
+        "description": "Scentralizowane dostarczanie technologii i możliwości operacyjnych pomiędzy jednostkami biznesowymi poprzez ustandaryzowane procesy, wykwalifikowane zasoby, ramy zarządzania, zarządzanie usługami i mierzalne poziomy usług."
+      },
+      "customDevelopment": {
+        "label": "Od początku do wdrożenia",
+        "description": "Kompleksowy rozwój nowych rozwiązań cyfrowych, począwszy od wymagań biznesowych i architektury rozwiązań, poprzez rozwój, integrację, testowanie, wdrożenie i bieżące wsparcie."
+      },
+      "processAutomation": {
+        "label": "Automatyzacja procesów biznesowych",
+        "description": "Projektowanie i wdrażanie inteligentnych rozwiązań automatyzacyjnych, które usprawniają procesy biznesowe, eliminują powtarzalne czynności ręczne, poprawiają efektywność operacyjną i przyspieszają wyniki biznesowe."
+      },
+      "solutionEngineering": {
+        "label": "Niestandardowy rozwój i dostosowywanie",
+        "description": "Tworzenie i udoskonalanie aplikacji, platform, przepływów pracy i rozwiązań dla przedsiębiorstw w celu spełnienia unikalnych wymagań biznesowych i zapewnienia dostosowanej funkcjonalności."
+      },
+      "endToEndSolutions": {
+        "label": "Ramy kompleksowych rozwiązań",
+        "description": "Kompleksowe podejście do dostarczania obejmujące cały cykl życia technologii — od strategii, wymagań i architektury po rozwój, integrację, wdrożenie, zarządzanie, monitorowanie i wsparcie."
+      },
+      "migrationServices": {
+        "label": "Migracja i modernizacja",
+        "description": "Bezpieczna i uporządkowana migracja aplikacji, danych, platform, infrastruktury i obciążeń ze starszych lub istniejących środowisk do nowoczesnych, skalowalnych i zoptymalizowanych platform technologicznych."
+      },
+      "pilotPrototyping": {
+        "label": "Weryfikacja koncepcji (PoC) i wdrożenie pilotażowe",
+        "description": "Szybki rozwój i walidacja rozwiązań technologicznych w celu oceny wykonalności technicznej, wartości biznesowej, wymagań integracyjnych, wydajności i skalowalności przed wdrożeniem na pełną skalę."
+      },
+      "sharedServices": {
+        "label": "Usługi wspólne i operacje zarządzane",
+        "description": "Scentralizowane dostarczanie technologii i możliwości operacyjnych pomiędzy jednostkami biznesowymi poprzez ustandaryzowane procesy, wykwalifikowane zasoby, ramy zarządzania, zarządzanie usługami i mierzalne poziomy usług."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Umów się na konsultację",
+      "exploreFramework": "Poznaj strukturę rozwiązań",
+      "talkSeniorEngineer": "Porozmawiaj ze starszym inżynierem",
+      "exploreTechStack": "Poznaj stos technologii",
+      "bookPocSession": "Zarezerwuj sesję odkrywania PoC",
+      "seeAllServices": "Zobacz wszystkie usługi",
+      "requestAssessment": "Poproś o ocenę migracji",
+      "exploreCloudSolutions": "Poznaj rozwiązania chmurowe"
+    },
+    "sharedServices": {
+      "heroBadge": "USŁUGI WSPÓLNE I OPERACJE ZARZĄDZANE",
+      "heroTitle": "Wspólne usługi dla przedsiębiorstw i operacje zarządzane",
+      "heroDesc": "Skaluj możliwości biznesowe, usprawniaj wielofunkcyjne przepływy pracy i osiągaj doskonałość operacyjną dzięki standaryzowanym, bezpiecznym i opłacalnym modelom usług wspólnych.",
+      "bookDiscovery": "Zarezerwuj odkrycie operacji zarządzanych",
+      "exploreFramework": "Poznaj strukturę rozwiązań",
+      "coreCapabilities": "Podstawowe możliwości:",
+      "managedServices": "Usługi zarządzane",
+      "itOperations": "Operacje IT",
+      "appSupport": "Wsparcie aplikacji",
+      "serviceManagement": "Zarządzanie usługami",
+      "resourceOptimization": "Optymalizacja zasobów",
+      "slaManagement": "Zarządzanie SLA",
+      "governance": "Zarządzanie",
+      "continuousImprovement": "Ciągłe doskonalenie",
+      "costOptimization": "Optymalizacja kosztów",
+      "readyTitle": "Gotowy do optymalizacji swoich operacji?",
+      "readyDesc": "Odkryj, w jaki sposób nasze ramy usług wspólnych i operacji zarządzanych mogą poprawić jakość usług, zapewnić ciągłość operacyjną i zapewnić trwałą efektywność kosztową Twojego przedsiębiorstwa.",
+      "scheduleSession": "Zaplanuj sesję odkrywczą"
+    },
+    "solutionEngineering": {
+      "heroBadge": "INŻYNIERIA I ARCHITEKTURA ROZWIĄZAŃ",
+      "heroTitle": "Niestandardowy rozwój i dostosowywanie",
+      "heroDesc": "Projektuj, konstruuj i wdrażaj wysokowydajne systemy oprogramowania zaprojektowane specjalnie pod kątem operacyjnych przepływów pracy, potoków danych i wymagań dotyczących skali."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "SZYBKIE INNOWACJE I EKSPERYMENTY",
+      "heroTitle": "Weryfikacja koncepcji (PoC) i wdrożenie pilotażowe",
+      "heroDesc": "Weryfikuj nowe technologie, eliminuj ryzyko złożonych architektur i udowadniaj wartość biznesową dzięki prototypom klasy produkcyjnej w ciągu tygodni, a nie kwartałów."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "ARCHITEKTURA CYKLU ŻYCIA I DOSTAWA",
+      "heroTitle": "Ramy kompleksowych rozwiązań",
+      "heroDesc": "Ujednolicony model dostarczania łączący odkrywanie produktów, architekturę rozwiązań, inżynierię, infrastrukturę chmurową i niezawodność działania 24 godziny na dobę, 7 dni w tygodniu."
+    },
+    "migrationServices": {
+      "heroBadge": "MODERNIZACJA INFRASTRUKTURY I DZIEDZICTWA",
+      "heroTitle": "Migracja i modernizacja",
+      "heroDesc": "Bezproblemowo przenoś starsze obciążenia, architektury monolityczne i infrastrukturę lokalną na nowoczesne, bezpieczne i skalowalne platformy chmurowe."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Modernizacja przedsiębiorstw",
+        "titlePart1": "Cyfrowe",
+        "titlePart2": "Transformacja",
+        "description": "Modernizacja operacji biznesowych, ekosystemów technologicznych i doświadczeń klientów poprzez chmurę, sztuczną inteligencję, automatyzację, dane i nowoczesne technologie aplikacyjne.",
+        "bookWorkshop": "Warsztaty Transformacji Książki",
+        "exploreFramework": "Poznaj strukturę rozwiązań",
+        "startTransformation": "Rozpocznij transformację",
+        "exploreStrategy": "Poznaj strategię",
+        "coreCapabilitiesTitle": "Podstawowe możliwości",
+        "coreCapabilities": [
+          "Strategia cyfrowa",
+          "Transformacja chmury",
+          "Sztuczna inteligencja i automatyzacja",
+          "Modernizacja aplikacji",
+          "Starsza modernizacja",
+          "Dane i analityka",
+          "Doświadczenie klienta",
+          "Modernizacja technologii"
+        ],
+        "row1Eyebrow": "Strategia i plan działania",
+        "row1Title": "Od wizji do wykonalnego planu działania",
+        "row1P1": "Współpracujemy z liderami przedsiębiorstw w celu zdefiniowania strategii cyfrowej, uzasadnień biznesowych i etapowych planów działania zapewniających szybkie zwycięstwa i realizację bez ryzyka.",
+        "row1P2": "Inicjatywy z priorytetami, modele całkowitego kosztu posiadania i wskaźniki KPI zapewniają, że każdy wysiłek w zakresie modernizacji technologii jest bezpośrednio powiązany z przychodami, wydajnością i wynikami w zakresie zadowolenia klientów.",
+        "row2Eyebrow": "Starsza modernizacja",
+        "row2Title": "Modernizuj bez niszczenia biznesu",
+        "row2P1": "Przekształć monolity w platformy na mikrousługi, interfejsy API i wzorce natywne w chmurze z przestojami bez przestojów i automatyczną walidacją regresji.",
+        "row2P2": "Modernizujemy aplikacje, bazy danych i warstwy integracyjne, zachowując jednocześnie zgodność i stan bezpieczeństwa.",
+        "row3Eyebrow": "Chmura, sztuczna inteligencja i dane",
+        "row3Title": "Wdrożenie chmury i inteligencja oparta na danych",
+        "row3P1": "Zastosuj platformy AWS, Azure i GCP, twórz nowoczesne potoki danych i osadzaj agentów uczenia maszynowego, aby podejmować autonomiczne decyzje.",
+        "row3P2": "Od strumieniowego przesyłania wydarzeń w czasie rzeczywistym po ujednolicone pulpity nawigacyjne – transformacja staje się wymierna i trwała.",
+        "row4Eyebrow": "Doświadczenie klienta",
+        "row4Title": "Nowoczesne doświadczenia omnichannel",
+        "row4P1": "Przeprojektuj podróże klientów w responsywnych portalach internetowych, iOS i Android oraz portalach samoobsługowych ze spersonalizowanymi interfejsami.",
+        "row4P2": "Inżynieria platform, telemetria i zautomatyzowane pętle sprzężenia zwrotnego sprawiają, że innowacje cyfrowe są ciągłe.",
+        "pillarsTitle": "Filary Transformacji",
+        "pillarsSub": "Dźwignie zorientowane na wyniki, które zapewniają zrównoważone przywództwo cyfrowe.",
+        "pillar1Title": "Strategia cyfrowa i zarządzanie",
+        "pillar1Desc": "Plany etapowej transformacji z modelowaniem uzasadnienia biznesowego, zarządzaniem architekturą i śledzeniem ryzyka kamieni milowych.",
+        "pillar2Title": "Platforma chmurowa i danych",
+        "pillar2Desc": "Podstawy wielochmurowe AWS/Azure/GCP, zautomatyzowane potoki i możliwość analityki danych przedsiębiorstwa.",
+        "pillar3Title": "Sztuczna inteligencja i automatyzacja",
+        "pillar3Desc": "Inteligentna automatyzacja procesów, kognitywni agenci AI i predykcyjna telemetria w celu optymalizacji codziennych operacji.",
+        "pillar4Title": "Doświadczenie klienta",
+        "pillar4Desc": "Wielokanałowe portale cyfrowe o wysokiej konwersji i spersonalizowane interfejsy stworzone z myślą o maksymalnym utrzymaniu użytkowników.",
+        "ctaTitle": "Gotowy na transformację swojego przedsiębiorstwa?",
+        "ctaSub": "Partner Rezonants w zakresie stopniowej, pozbawionej ryzyka transformacji cyfrowej powiązanej z mierzalnymi wynikami biznesowymi.",
+        "ctaButton": "Zarezerwuj rozmowę telefoniczną dotyczącą transformacji cyfrowej"
+      },
+      "customDevelopment": {
+        "eyebrow": "Kompleksowa inżynieria cyfrowa",
+        "titlePart1": "Początek Do",
+        "titlePart2": "Wdrożenie",
+        "bookConsultation": "Zarezerwuj konsultację",
+        "exploreEngineering": "Poznaj inżynierię rozwiązań"
+      },
+      "processAutomation": {
+        "eyebrow": "Inteligentne operacje procesowe",
+        "titlePart1": "Proces Biznesowy",
+        "titlePart2": "Automatyzacja",
+        "bookDiscovery": "Książka Odkrycie automatyzacji",
+        "exploreCoE": "Poznaj Centrum Doskonałości"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centrum",
+        "titlePart2": "Doskonałość",
+        "bookConsultation": "Zarezerwuj Konsultacje CoE",
+        "exploreCapabilities": "Poznaj możliwości"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Pełny cykl życia technologii",
+        "titlePart1": "Kompleksowo",
+        "titlePart2": "Ramy rozwiązań",
+        "startJourney": "Rozpocznij swoją podróż w cyklu życia",
+        "exploreTransformation": "Poznaj transformację"
+      },
+      "migrationServices": {
+        "eyebrow": "Transformacja chmury i infrastruktury",
+        "titlePart1": "Migracja &",
+        "titlePart2": "Modernizacja",
+        "planMigration": "Zaplanuj migrację",
+        "exploreTransformation": "Poznaj transformację"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Szybka weryfikacja i wykonalność",
+        "titlePart1": "Weryfikacja koncepcji (PoC) i",
+        "titlePart2": "Wdrożenie pilotażowe",
+        "initiateDiscovery": "Rozpocznij wykrywanie PoC",
+        "exploreDevelopment": "Poznaj rozwój niestandardowy"
+      },
+      "solutionEngineering": {
+        "badge": "Dopasowana inżynieria cyfrowa",
+        "bookConsultation": "Zarezerwuj konsultację",
+        "exploreCapabilities": "Poznaj możliwości"
+      },
+      "sharedServices": {
+        "eyebrow": "Scentralizowane centrum operacyjne",
+        "titlePart1": "Usługi wspólne i",
+        "titlePart2": "Operacje zarządzane",
+        "bookDiscovery": "Zarezerwuj odkrycie operacji zarządzanych",
+        "exploreFramework": "Poznaj strukturę rozwiązań"
+      }
+    },
+    "coreCapabilities": "Podstawowe możliwości"
+  },
+  "products": {
+    "featured": "Polecane produkty",
+    "featuredSub": "Uprość operacje, łącz zespoły, automatyzuj procesy i kieruj inteligentniejszym rozwojem firmy.",
+    "seeAll": "Zobacz wszystkie produkty",
+    "featuredProducts": "WYRÓŻNIONE PRODUKTY",
+    "meetAutonomous": "Poznaj autonomiczną siłę roboczą",
+    "meetAutonomousText": "Przekształć swoje operacje dzięki agentom AI, którzy współpracują z Twoim zespołem, aby wykonywać złożone, powtarzalne zadania.",
+    "learnMore": "Dowiedz się więcej",
+    "erp": {
+      "title": "Jedna platforma gotowa na wszystko",
+      "sub": "Zwiększanie możliwości przedsiębiorstw dzięki połączonym, inteligentnym i skalowalnym rozwiązaniom do zarządzania przedsiębiorstwem.",
+      "explore": "Poznaj rozwiązania ERP",
+      "gridTitle": "ROZWIĄZANIA ERP",
+      "promoTitle": "Modułowy ERP dla wzrostu",
+      "promoText": "Szybko wdrażaj modułowe funkcje ERP, bez złożoności tradycyjnych systemów wieloletnich.",
+      "scheduleDemo": "Zaplanuj demonstrację"
+    },
+    "it": {
+      "title": "Rozwiązania IT",
+      "sub": "Infrastruktura klasy korporacyjnej, zabezpieczenia i rozwiązania DevOps, które pozwolą Twojej firmie działać.",
+      "explore": "Poznaj rozwiązania IT",
+      "gridTitle": "ROZWIĄZANIA IT",
+      "promoTitle": "Niezawodna infrastruktura informatyczna",
+      "promoText": "Zbuduj odporny fundament technologiczny dzięki zarządzanej chmurze, zabezpieczeniom i usługom DevOps.",
+      "getStarted": "Rozpocznij"
+    },
+    "crm": {
+      "title": "Rozwiązania CRM",
+      "sub": "Zarządzanie relacjami z klientami w celu usprawnienia procesów sprzedaży, wsparcia i marketingu.",
+      "explore": "Poznaj rozwiązania CRM",
+      "gridTitle": "ROZWIĄZANIA CRM",
+      "promoTitle": "Zamknij więcej ofert",
+      "promoText": "Wzmocnij swoje zespoły sprzedaży i wsparcia dzięki ujednoliconym danym klientów i inteligentnej automatyzacji.",
+      "startTrial": "Rozpocznij bezpłatny okres próbny"
+    },
+    "hrms": {
+      "title": "Rozwiązania HRMS",
+      "sub": "Zarządzanie zasobami ludzkimi obejmujące płace, rekrutację, wyniki i zaangażowanie pracowników.",
+      "explore": "Poznaj rozwiązania HRMS",
+      "gridTitle": "ROZWIĄZANIA HRMS",
+      "promoTitle": "Uprość operacje kadrowe",
+      "promoText": "Zautomatyzuj przepływy pracy HR od rekrutacji po emeryturę za pomocą nowoczesnej platformy skupiającej się przede wszystkim na pracownikach.",
+      "requestDemo": "Poproś o demonstrację"
+    },
+    "sidebar": {
+      "featuredProducts": "Polecane produkty",
+      "erpSolutions": "Rozwiązania ERP",
+      "solutions": "ROZWIĄZANIA"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Inteligentni autonomiczni agenci i narzędzia automatyzujące złożone przepływy pracy i operacje klientów."
+      },
+      "cloudNexus": {
+        "title": "ChmuraNexus",
+        "description": "Platforma zarządzania wieloma chmurami optymalizująca wydajność, bezpieczeństwo, zgodność i koszty."
+      },
+      "workSync": {
+        "title": "PracaSync",
+        "description": "Hybrydowe centrum współpracy i produktywności ze zintegrowanym zarządzaniem zadaniami, czatem i dokumentami."
+      },
+      "dataStream": {
+        "title": "Strumień Danych",
+        "description": "Silnik analityczny działający w czasie rzeczywistym, przekształcający strumienie zdarzeń biznesowych w przydatne informacje."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Ujednolicona architektura korporacyjna łącząca finanse, aktywa, HR, zaopatrzenie i zapasy."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Platforma doświadczeń pracowników obejmująca płace, świadczenia, przeglądy wyników i samoobsługę."
+      },
+      "supplyChainIq": {
+        "title": "IQ łańcucha dostaw",
+        "description": "Śledzenie logistyki w czasie rzeczywistym, zautomatyzowane operacje magazynowe i prognozowanie popytu."
+      },
+      "financeHub": {
+        "title": "Centrum finansowe",
+        "description": "Zaawansowane zarządzanie księgami, przepływy pracy związane z rozliczeniami, zautomatyzowana zgodność i raporty przepływów pieniężnych w czasie rzeczywistym."
+      },
+      "cloudInfrastructure": {
+        "title": "Infrastruktura chmurowa",
+        "description": "Skalowalna architektura chmury, migracja i zarządzanie w ramach AWS, Azure i GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Pakiet Cyberbezpieczeństwa",
+        "description": "Kompleksowe monitorowanie bezpieczeństwa, wykrywanie zagrożeń i zarządzanie zgodnością."
+      },
+      "devopsPipeline": {
+        "title": "Potok DevOps",
+        "description": "Automatyzacja CI/CD, konteneryzacja i infrastruktura jako kod w celu szybszego dostarczania."
+      },
+      "managedItServices": {
+        "title": "Zarządzane usługi IT",
+        "description": "Całodobowe monitorowanie infrastruktury, reagowanie na incydenty i proaktywna konserwacja."
+      },
+      "salesCrm": {
+        "title": "CRM sprzedaży",
+        "description": "Zarządzanie rurociągami, punktacja potencjalnych klientów, śledzenie transakcji i prognozowanie sprzedaży na jednej platformie."
+      },
+      "customerSupportHub": {
+        "title": "Centrum obsługi klienta",
+        "description": "Sprzedaż biletów, baza wiedzy, czat na żywo i zarządzanie wsparciem wielokanałowym."
+      },
+      "marketingAutomation": {
+        "title": "Automatyzacja marketingu",
+        "description": "Koordynacja kampanii, automatyzacja poczty e-mail, pielęgnowanie leadów i analityka."
+      },
+      "customer360View": {
+        "title": "Widok klienta 360 stopni",
+        "description": "Ujednolicone profile klientów łączące dane dotyczące sprzedaży, wsparcia i interakcji."
+      },
+      "coreHr": {
+        "title": "Podstawowy HR",
+        "description": "Dokumentacja pracowników, hierarchia organizacyjna, zarządzanie urlopami i śledzenie obecności."
+      },
+      "payrollCompliance": {
+        "title": "Płace i zgodność",
+        "description": "Zautomatyzowane przetwarzanie płac, obliczanie podatków i zgodność z przepisami."
+      },
+      "performanceManagement": {
+        "title": "Zarządzanie wydajnością",
+        "description": "Śledzenie OKR, przeglądy 360°, wyznaczanie celów i plany rozwoju pracowników."
+      },
+      "recruitmentPortal": {
+        "title": "Portal Rekrutacyjny",
+        "description": "Oferty pracy, śledzenie kandydatów, planowanie rozmów kwalifikacyjnych i przepływy pracy związane z wdrożeniem."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Polecane produkty",
+        "heading": "Polecane produkty",
+        "sub": "Uprość operacje, łącz zespoły, automatyzuj procesy i kieruj inteligentniejszym rozwojem firmy.",
+        "promoTitle": "Poznaj autonomicznych pracowników",
+        "promoText": "Przekształć swoje operacje dzięki agentom AI, którzy współpracują z Twoim zespołem, aby wykonywać złożone, powtarzalne zadania.",
+        "items": [
+          {
+            "title": "Automatyzacja AI i inteligentni agenci",
+            "description": "Automatyzuj powtarzalne zadania i wdrażaj inteligentnych agentów AI, którzy poprawiają produktywność, proces podejmowania decyzji i wyniki biznesowe."
+          },
+          {
+            "title": "Usługi IT i wsparcie cyfrowe",
+            "description": "Zapewnij szybsze i inteligentniejsze wsparcie IT dzięki usprawnionemu zarządzaniu usługami, automatyzacji i cyfrowym przepływom pracy."
+          },
+          {
+            "title": "Zarządzanie sztuczną inteligencją w przedsiębiorstwie",
+            "description": "Buduj odpowiedzialne wdrażanie sztucznej inteligencji dzięki silnemu zarządzaniu, bezpieczeństwu, zgodności, przejrzystości i kontroli ryzyka."
+          },
+          {
+            "title": "Inteligentne operacje IT",
+            "description": "Przekształć operacje IT dzięki monitorowaniu opartemu na sztucznej inteligencji, automatyzacji, analizom predykcyjnym i proaktywnemu rozwiązywaniu problemów."
+          },
+          {
+            "title": "Zarządzanie doświadczeniem klienta",
+            "description": "Twórz spersonalizowane podróże klientów dzięki inteligentnemu zaangażowaniu, automatyzacji, analizom i płynnym doświadczeniom cyfrowym."
+          },
+          {
+            "title": "Strategia biznesowa i optymalizacja portfela",
+            "description": "Dostosuj inwestycje technologiczne do celów biznesowych, aby zoptymalizować portfele, poprawić wydajność i zapewnić zrównoważony wzrost."
+          },
+          {
+            "title": "Cykl życia zasobów IT i technologii",
+            "description": "Zarządzaj zasobami IT przez cały ich cykl życia dzięki lepszej widoczności, automatyzacji, kontroli kosztów i planowaniu technologii."
+          },
+          {
+            "title": "Ryzyko przedsiębiorstwa i zgodność",
+            "description": "Identyfikuj, oceniaj i zarządzaj ryzykami przedsiębiorstwa, jednocześnie wzmacniając zgodność, kontrole i odporność organizacji."
+          },
+          {
+            "title": "Cyberbezpieczeństwo i operacje związane z zagrożeniami",
+            "description": "Chroń środowiska cyfrowe za pomocą proaktywnego wykrywania zagrożeń, operacji związanych z bezpieczeństwem, reagowania na incydenty i ciągłego monitorowania."
+          },
+          {
+            "title": "Automatyzacja pracy w terenie",
+            "description": "Zwiększ możliwości zespołów terenowych dzięki inteligentnemu planowaniu, mobilnym przepływom pracy, automatyzacji i widoczności operacyjnej w czasie rzeczywistym."
+          },
+          {
+            "title": "Doświadczenie pracowników i usługi HR",
+            "description": "Uprość obsługę pracowników dzięki cyfrowym przepływom pracy, rozwiązaniom samoobsługowym, automatyzacji i spersonalizowanym doświadczeniom pracowników."
+          },
+          {
+            "title": "Ujednolicone cyfrowe miejsce pracy",
+            "description": "Łącz ludzi, procesy, aplikacje i narzędzia do współpracy w bezpiecznym, inteligentnym i płynnie działającym cyfrowym miejscu pracy."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Rozwiązania ERP",
+        "heading": "Jedna platforma, gotowa na wszystko",
+        "sub": "Zwiększanie możliwości przedsiębiorstw dzięki połączonym, inteligentnym i skalowalnym rozwiązaniom do zarządzania przedsiębiorstwem.",
+        "promoTitle": "Modułowy ERP dla wzrostu",
+        "promoText": "Szybkie wdrażanie modułowych funkcji ERP bez złożoności tradycyjnych, wieloletnich systemów.",
+        "items": [
+          {
+            "title": "Automatyzacja procesów biznesowych",
+            "description": "Usprawnij finanse, HR, sprzedaż, zaopatrzenie i codzienne operacje."
+          },
+          {
+            "title": "Zintegrowane zarządzanie przedsiębiorstwem",
+            "description": "Połącz działy, dane i przepływy pracy na ujednoliconej platformie."
+          },
+          {
+            "title": "Finanse i księgowość",
+            "description": "Popraw widoczność finansową, raportowanie, budżetowanie i zgodność."
+          },
+          {
+            "title": "Kadry i płace",
+            "description": "Uprość zarządzanie pracownikami, frekwencją, płacami i procesami kadrowymi."
+          },
+          {
+            "title": "Zarządzanie łańcuchem dostaw",
+            "description": "Optymalizuj zaopatrzenie, zapasy, dostawców i logistykę."
+          },
+          {
+            "title": "Sprzedaż i zarządzanie klientami",
+            "description": "Efektywnie zarządzaj potencjalnymi klientami, klientami, zamówieniami i wynikami sprzedaży."
+          },
+          {
+            "title": "Analityka i raportowanie w czasie rzeczywistym",
+            "description": "Zamień dane biznesowe w przydatne informacje, które pozwolą szybciej podejmować decyzje."
+          },
+          {
+            "title": "Rozwiązania ERP w chmurze",
+            "description": "Umożliwia bezpieczne, skalowalne i dostępne zarządzanie przedsiębiorstwem z dowolnego miejsca."
+          }
+        ]
+      },
+      "it": {
+        "title": "Rozwiązania IT",
+        "heading": "Nasze rozwiązania IT",
+        "sub": "Przekształć operacje IT dzięki inteligentnym, proaktywnym i skalowalnym rozwiązaniom cyfrowym, które poprawiają wydajność, produktywność i ciągłość biznesową.",
+        "promoTitle": "Niezawodna infrastruktura IT",
+        "promoText": "Zbuduj odporny fundament technologiczny dzięki zarządzanej chmurze, zabezpieczeniom i usługom DevOps.",
+        "items": [
+          {
+            "title": "Zarządzanie usługami IT",
+            "description": "Usprawnij usługi IT, incydenty, żądania i przepływy pracy w celu szybszego rozwiązywania problemów."
+          },
+          {
+            "title": "Zarządzanie operacjami IT",
+            "description": "Monitoruj infrastrukturę i aplikacje za pomocą proaktywnych operacji IT opartych na danych."
+          },
+          {
+            "title": "Zarządzanie zasobami IT",
+            "description": "Efektywnie zarządzaj zasobami technologicznymi, redukując jednocześnie koszty, ryzyko i złożoność cyklu życia."
+          },
+          {
+            "title": "Architektura korporacyjna",
+            "description": "Dostosuj strategię biznesową do odpowiedniej architektury technologicznej i inwestycji."
+          },
+          {
+            "title": "Zarządzanie chmurą",
+            "description": "Popraw bezpieczeństwo chmury, zgodność, wydajność i zarządzanie kosztami."
+          },
+          {
+            "title": "Operacje cyfrowe",
+            "description": "Zautomatyzuj procesy IT i uzyskaj wgląd w środowisko technologiczne w czasie rzeczywistym."
+          },
+          {
+            "title": "Obserwacja i monitorowanie",
+            "description": "Wcześnie wykrywaj problemy z wydajnością i utrzymuj niezawodne cyfrowe doświadczenia."
+          },
+          {
+            "title": "Strategiczne zarządzanie portfelem",
+            "description": "Połącz inwestycje IT z priorytetami biznesowymi i mierzalnymi wynikami."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Rozwiązania CRM",
+        "heading": "Nasze rozwiązania CRM",
+        "sub": "Zapewniaj klientom połączone, spersonalizowane i inteligentne doświadczenia na wszystkich etapach ich podróży.",
+        "promoTitle": "Zamknij więcej ofert",
+        "promoText": "Wzmocnij swoje zespoły sprzedaży i wsparcia dzięki ujednoliconym danym klientów i inteligentnej automatyzacji.",
+        "items": [
+          {
+            "title": "Zarządzanie obsługą klienta",
+            "description": "Popraw obsługę klienta dzięki szybszemu rozwiązywaniu problemów, samoobsłudze i inteligentnym przepływom pracy."
+          },
+          {
+            "title": "Automatyzacja sprzedaży",
+            "description": "Automatyzuj działania sprzedażowe, zarządzaj potencjalnymi klientami i pomagaj zespołom szybciej zamykać szanse sprzedaży."
+          },
+          {
+            "title": "Zarządzanie sprzedażą i zamówieniami",
+            "description": "Usprawnij drogę od potencjalnego klienta do zamówienia i popraw widoczność przychodów."
+          },
+          {
+            "title": "Zarządzanie usługami terenowymi",
+            "description": "Optymalizuj działania w terenie, planowanie, wysyłkę i produktywność techników."
+          },
+          {
+            "title": "Zarządzanie doświadczeniem klienta",
+            "description": "Twórz płynne i spersonalizowane doświadczenia w każdym punkcie kontaktu z klientem."
+          },
+          {
+            "title": "Analityka i statystyki CRM",
+            "description": "Zamień dane klientów w przydatne informacje, które pozwolą podejmować mądrzejsze decyzje biznesowe."
+          },
+          {
+            "title": "Automatyzacja marketingu",
+            "description": "Automatyzuj kampanie, zaangażowanie klientów i pielęgnowanie leadów."
+          },
+          {
+            "title": "CRM oparty na sztucznej inteligencji",
+            "description": "Wykorzystaj inteligentną automatyzację i spostrzeżenia AI, aby poprawić produktywność i zaangażowanie klientów."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Rozwiązania HRMS",
+        "heading": "Nasze rozwiązania HRMS",
+        "sub": "Zwiększ możliwości swoich pracowników dzięki inteligentnym, zintegrowanym i zautomatyzowanym rozwiązaniom HR, które upraszczają zarządzanie pracownikami i poprawiają komfort pracy.",
+        "promoTitle": "Uprość operacje HR",
+        "promoText": "Zautomatyzuj przepływy pracy HR od rekrutacji do przejścia na emeryturę za pomocą nowoczesnej platformy skupiającej się przede wszystkim na pracownikach.",
+        "items": [
+          {
+            "title": "Podstawowe zarządzanie zasobami ludzkimi",
+            "description": "Efektywnie zarządzaj informacjami pracowniczymi, strukturami organizacyjnymi i procesami HR."
+          },
+          {
+            "title": "Zarządzanie płacami",
+            "description": "Zautomatyzuj płace, przetwarzanie wynagrodzeń, potrącenia i zgodność."
+          },
+          {
+            "title": "Samoobsługa pracownicza",
+            "description": "Zapewnij pracownikom łatwy dostęp do usług HR, wniosków, dokumentów i informacji."
+          },
+          {
+            "title": "Zarządzanie obecnością i urlopami",
+            "description": "Uprość śledzenie obecności, wniosków o urlop, zmian i godzin pracy."
+          },
+          {
+            "title": "Rekrutacja i wdrożenie",
+            "description": "Usprawnij zatrudnianie, zarządzanie kandydatami, wdrażanie i integrację pracowników."
+          },
+          {
+            "title": "Zarządzanie wydajnością",
+            "description": "Wyznaczaj cele, śledź wyniki i wspieraj ciągły rozwój pracowników."
+          },
+          {
+            "title": "Nauka i rozwój",
+            "description": "Zarządzaj programami szkoleniowymi, rozwojem umiejętności i rozwojem pracowników."
+          },
+          {
+            "title": "Analityka i raportowanie HR",
+            "description": "Zamień dane dotyczące pracowników w przydatne informacje, które pozwolą podejmować lepsze decyzje kadrowe."
+          },
+          {
+            "title": "Automatyzacja HR oparta na sztucznej inteligencji",
+            "description": "Automatyzuj powtarzalne zadania HR i zapewniaj pracownikom szybsze, spersonalizowane doświadczenia."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Tworzenie aplikacji",
+        "heading": "Nasze usługi tworzenia aplikacji",
+        "sub": "Twórz bezpieczne, skalowalne i wydajne aplikacje, które przyspieszają rozwój firmy i upraszczają złożone procesy.",
+        "promoTitle": "Twórz aplikacje, które użytkownicy uwielbiają",
+        "promoText": "Od pomysłu do uruchomienia, nasz zespół projektuje i rozwija wysokiej jakości aplikacje mobilne i internetowe, które można skalować.",
+        "items": [
+          {
+            "title": "Tworzenie aplikacji niestandardowych",
+            "description": "Twórz aplikacje dostosowane do Twoich unikalnych wymagań biznesowych."
+          },
+          {
+            "title": "Tworzenie aplikacji internetowych i mobilnych",
+            "description": "Zapewniaj bezproblemowe cyfrowe doświadczenia w Internecie, na urządzeniach mobilnych i na wielu urządzeniach."
+          },
+          {
+            "title": "Tworzenie aplikacji dla przedsiębiorstw",
+            "description": "Twórz skalowalne rozwiązania integrujące się z istniejącymi systemami biznesowymi."
+          },
+          {
+            "title": "Tworzenie z małą ilością kodu i bez kodu",
+            "description": "Przyspiesz dostarczanie aplikacji dzięki elastycznym platformom programistycznym o niskim kodzie."
+          },
+          {
+            "title": "Integracja API i systemu",
+            "description": "Połącz aplikacje, platformy i systemy innych firm, aby zapewnić płynny przepływ danych."
+          },
+          {
+            "title": "Modernizacja aplikacji",
+            "description": "Przekształcaj starsze aplikacje w nowoczesne, skalowalne i wydajne rozwiązania."
+          },
+          {
+            "title": "Aplikacje wykorzystujące sztuczną inteligencję",
+            "description": "Integruj sztuczną inteligencję, automatyzację i inteligentne możliwości z aplikacjami biznesowymi."
+          },
+          {
+            "title": "Wsparcie i konserwacja aplikacji",
+            "description": "Zapewnij ciągłą wydajność, bezpieczeństwo, aktualizacje i niezawodność."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "Sztuczna inteligencja i robotyka",
+    "businessAutomation": "Automatyzacja Biznesu",
+    "cloudMigrations": "Migracje do chmury",
+    "dataCenters": "Centra danych",
+    "cognitiveAnalyticsAi": "Analityka kognitywna i sztuczna inteligencja",
+    "informationReportingSystems": "Systemy informacyjne i raportowania",
+    "managedServices": "Usługi zarządzane",
+    "oneStopSolutions": "Kompleksowe rozwiązania"
+  },
+  "servicePage": {
+    "serviceOverview": "Przegląd usług",
+    "whatWeOffer": "Co oferujemy",
+    "whyChooseRezonants": "Dlaczego warto wybrać Rezonants",
+    "benefitsOfWorking": "Korzyści ze współpracy z nami",
+    "techStack": "Stos technologii",
+    "technologiesWeUse": "Technologie, z których korzystamy",
+    "ourWork": "Nasza praca",
+    "relatedProjects": "Powiązane projekty",
+    "viewCaseStudy": "Zobacz studium przypadku",
+    "readyToDiscuss": "Gotowy do omówienia swojego projektu {{title}}?",
+    "seniorEngineersReady": "Nasi starsi inżynierowie są gotowi pomóc Ci zaplanować, zaprojektować i zbudować rozwiązanie.",
+    "startProject": "Rozpocznij swój projekt",
+    "howItWorks": "Jak to działa"
+  },
+  "consultation": {
+    "badge": "Zarezerwuj bezpłatną konsultację",
+    "title": "Zaplanujmy Twój projekt <span class='hero-accent'>Wspólnie</span>",
+    "description": "Umów się na niezobowiązującą rozmowę z naszymi konsultantami. Omów swoje wymagania, zbadaj właściwe podejście techniczne i uzyskaj jasną wycenę — a wszystko to w czasie krótszym niż 30 minut.",
+    "bookSlot": "Zarezerwuj swój slot",
+    "howItWorks": "Jak to działa",
+    "accountRequired": "Wymagane konto",
+    "signInToBook": "Zaloguj się, aby zarezerwować konsultację",
+    "accountRequiredText": "Aby poprosić o konsultację, potrzebujesz konta w Rezonants. Zaloguj się lub utwórz konto — zajmuje to mniej niż minutę.",
+    "signInToContinue": "Zaloguj się, aby kontynuować",
+    "newToRezonants": "Nowy użytkownik Rezonantsa?",
+    "createAccount": "Utwórz konto",
+    "requestMeeting": "Poproś o spotkanie",
+    "tellUsAboutProject": "Opowiedz nam o swoim projekcie",
+    "fillDetails": "Podaj swoje dane, a my potwierdzimy termin konsultacji e-mailem.",
+    "fullName": "Imię i nazwisko *",
+    "email": "E-mail *",
+    "phone": "Telefon *",
+    "company": "Firma",
+    "serviceOfInterest": "Usługa zainteresowania *",
+    "selectService": "Wybierz usługę…",
+    "preferredDate": "Preferowana data *",
+    "preferredTime": "Preferowany czas *",
+    "selectTimeSlot": "Wybierz przedział czasowy…",
+    "estimatedBudget": "Szacowany budżet",
+    "selectRange": "Wybierz zakres…",
+    "projectRequirements": "Wymagania projektu",
+    "booking": "Rezerwacja…",
+    "bookFreeConsultation": "Zarezerwuj moją bezpłatną konsultację",
+    "freeNote": "100% za darmo i bez zobowiązań. Zwykle odpowiadamy w ciągu 24 godzin.",
+    "whatToExpect": "Czego się spodziewać",
+    "preferToReachUs": "Wolisz skontaktować się z nami bezpośrednio?",
+    "callUs": "Zadzwoń do nas",
+    "emailUs": "Napisz do nas",
+    "visitUs": "Odwiedź nas",
+    "whyBookWithUs": "Dlaczego warto rezerwować u nas",
+    "freeCallTitle": "Bezpłatna rozmowa, która faktycznie pomaga",
+    "freeCallNoPressure": "Bezpłatna rozmowa, bez presji",
+    "freeCallNoPressureText": "Każda pierwsza konsultacja jest bezpłatna. Nie ma obowiązku zakupu – wystarczy szczera rada.",
+    "seniorConsultants": "Tylko starsi konsultanci",
+    "seniorConsultantsText": "Spotkanie prowadzą starsi inżynierowie i konsultanci, którzy zarabiają na życie tworzeniem.",
+    "clearTimelines": "Wyczyść ramy czasowe i cytaty",
+    "clearTimelinesText": "Wyjdź ze zdefiniowanym kolejnym krokiem, realistycznym harmonogramem i przejrzystą wyceną swojego projektu.",
+    "services": {
+      "customSoftware": "Tworzenie oprogramowania na zamówienie",
+      "webMobile": "Tworzenie aplikacji internetowych i mobilnych",
+      "cloudDevops": "Rozwiązania chmurowe i DevOps",
+      "aiMl": "Sztuczna inteligencja i uczenie maszynowe",
+      "itConsulting": "Doradztwo IT",
+      "digitalMarketing": "Marketing cyfrowy i SEO",
+      "erpSolutions": "Rozwiązania ERP",
+      "other": "Inne / Jeszcze nie wiem"
+    },
+    "budgets": {
+      "under1L": "Poniżej 1 l",
+      "1to5L": "₹1L – ₹5L",
+      "5to10L": "5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Jeszcze nie zdecydowałem"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Zrozum swoje cele",
+        "text": "Najpierw słuchamy. 30-minutowa rozmowa telefoniczna w celu ustalenia potrzeb biznesowych, odbiorców i pożądanych wyników."
+      },
+      "technicalDirection": {
+        "title": "Uzyskaj wskazówki techniczne",
+        "text": "Nasi inżynierowie dzielą się odpowiednią architekturą, stosem i podejściem do Twojego projektu."
+      },
+      "clearQuote": {
+        "title": "Otrzymaj jasną wycenę",
+        "text": "Otrzymaj przejrzysty kosztorys, harmonogram i kolejne kroki – bez zobowiązań."
+      }
+    },
+    "validation": {
+      "nameRequired": "Wymagane jest pełne imię i nazwisko.",
+      "emailRequired": "Adres e-mail jest wymagany.",
+      "emailInvalid": "Wpisz prawidłowy adres e-mail.",
+      "phoneRequired": "Numer telefonu jest wymagany.",
+      "phoneInvalid": "Wpisz prawidłowy numer telefonu.",
+      "serviceRequired": "Proszę wybrać usługę.",
+      "dateRequired": "Wybierz preferowaną datę.",
+      "timeRequired": "Wybierz preferowany przedział czasowy.",
+      "messageTooShort": "Dodaj trochę więcej szczegółów (co najmniej 10 znaków).",
+      "signInRequired": "Proszę zalogować się aby zarezerwować konsultację.",
+      "couldNotBook": "Nie można zarezerwować konsultacji. Sprawdź, czy tabela konsultacji istnieje, a następnie spróbuj ponownie.",
+      "bookedSuccess": "Konsultacja zarezerwowana! Nasz zespół wkrótce potwierdzi Twój przedział czasowy e-mailem."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Witamy z powrotem",
+    "createAccount": "Utwórz konto",
+    "forgotPassword": "Zapomniałem hasła",
+    "createNewPassword": "Utwórz nowe hasło",
+    "welcomeBackDesc": "Zaloguj się na swoje konto Rezonants.",
+    "createAccountDesc": "Dołącz do Rezonants już dziś.",
+    "forgotDesc": "Podaj swój adres e-mail, a my wyślemy Ci link umożliwiający zresetowanie hasła.",
+    "recoveryDesc": "Wybierz nowe, silne hasło do swojego konta.",
+    "fullName": "Imię i nazwisko",
+    "email": "E-mail",
+    "password": "Hasło",
+    "newPassword": "Nowe hasło",
+    "confirmPassword": "Potwierdź hasło",
+    "confirmNewPassword": "Potwierdź nowe hasło",
+    "forgotPasswordLink": "Zapomniałeś hasła?",
+    "privacyPolicy": "Akceptuję politykę Rezonants <1>Prywatność i bezpieczeństwo</1>.",
+    "sendResetLink": "Wyślij link resetujący",
+    "signIn": "Zalogować się",
+    "signUp": "Zarejestruj się",
+    "pleaseWait": "Proszę czekać…",
+    "rememberedPassword": "Pamiętasz swoje hasło?",
+    "signInLink": "Zaloguj się",
+    "noAccount": "Nie masz konta?",
+    "signUpLink": "Zarejestruj się",
+    "hasAccount": "Masz już konto?",
+    "changedMind": "Zmieniłeś zdanie?",
+    "backToSignIn": "Powrót do logowania",
+    "resetSent": "Link do resetowania hasła został wysłany! Sprawdź swoją pocztę e-mail, aby utworzyć nowe hasło.",
+    "passwordUpdated": "Twoje hasło zostało zaktualizowane. Zaloguj się przy użyciu nowego hasła.",
+    "accountCreated": "Konto utworzone! Sprawdź swoją pocztę e-mail, aby potwierdzić rejestrację, a następnie zaloguj się.",
+    "validation": {
+      "fullNameRequired": "Wymagane jest pełne imię i nazwisko.",
+      "emailRequired": "Adres e-mail jest wymagany.",
+      "emailInvalid": "Wpisz prawidłowy adres e-mail.",
+      "passwordRequired": "Hasło jest wymagane.",
+      "passwordMinLength": "Hasło musi mieć co najmniej 6 znaków.",
+      "passwordsNoMatch": "Hasła nie pasują.",
+      "acceptTerms": "Aby kontynuować, zaakceptuj Politykę prywatności i Politykę bezpieczeństwa Rezonants."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Czatuj z Rezonants AI",
+    "openChatLabel": "Otwórz czat Rezonants AI Assistant",
+    "chatTitle": "Asystent AI Rezonantsa",
+    "online": "W Internecie",
+    "expandLabel": "Rozwiń chatbota",
+    "minimizeLabel": "Zminimalizuj chatbota",
+    "closeLabel": "Zamknij chatbota",
+    "expand": "Rozwiń",
+    "minimize": "Minimalizuj",
+    "close": "Zamknij",
+    "popularTopics": "Popularne tematy",
+    "askPlaceholder": "Zapytaj mnie o Rezonants...",
+    "messageLabel": "Wyślij wiadomość do Asystenta AI Rezonants",
+    "sendLabel": "Wyślij wiadomość",
+    "sendTitle": "Wyślij wiadomość",
+    "enterToSend": "Enter, aby wysłać · Shift+Enter, aby dodać nową linię",
+    "newChat": "Nowy czat",
+    "typing": "Rezonants AI pisze",
+    "menuOptions": "Opcje menu",
+    "greetingMorning": "Dzień dobry",
+    "greetingAfternoon": "Dzień dobry",
+    "greetingEvening": "Dobry wieczór",
+    "welcomeText": "! 👋 Witamy w Rezonants.\nJestem Asystentem AI Rezonants. Mogę pomóc Ci poznać nasze usługi, technologie i dane kontaktowe."
+  },
+  "cookieConsent": {
+    "title": "Cenimy Twoją prywatność",
+    "description": "Używamy plików cookie, aby poprawić jakość przeglądania. Możesz zaakceptować wszystkie pliki cookie, odrzucić niepotrzebne pliki cookie lub dostosować swoje preferencje. Niezbędne pliki cookie są zawsze włączone, aby zapewnić prawidłowe działanie witryny.",
+    "acceptAll": "Zaakceptuj wszystko",
+    "rejectNonEssential": "Odrzuć niepotrzebne",
+    "managePreferences": "Zarządzaj preferencjami",
+    "privacyPolicy": "Polityka prywatności"
+  },
+  "cookiePreferences": {
+    "title": "Zarządzaj preferencjami dotyczącymi plików cookie",
+    "description": "Wybierz, na jakie kategorie plików cookie zezwalasz. Niezbędne pliki cookie pozostają włączone, aby zapewnić funkcjonowanie witryny.",
+    "essential": "Niezbędne",
+    "essentialDesc": "Wymagane do działania witryny (uwierzytelnianie, bezpieczeństwo, równoważenie obciążenia). Nie można ich wyłączyć.",
+    "analytics": "Analityka",
+    "analyticsDesc": "Pomóż nam zrozumieć, w jaki sposób odwiedzający korzystają z witryny, abyśmy mogli ją ulepszyć. Domyślnie wyłączone.",
+    "marketing": "Marketing",
+    "marketingDesc": "Służy do wyświetlania odpowiednich ofert i kampanii. Domyślnie wyłączone.",
+    "cancel": "Anuluj",
+    "savePreferences": "Zapisz preferencje"
+  },
+  "privacy": {
+    "badge": "Legalne",
+    "title": "Polityka prywatności",
+    "description": "W jaki sposób Rezonants gromadzi, wykorzystuje i chroni Twoje dane osobowe i pliki cookie.",
+    "lastUpdated": "Ostatnia aktualizacja: sierpień 2026 r.",
+    "managingPreferences": "Zarządzanie preferencjami",
+    "managingPreferencesDesc": "W dowolnym momencie możesz sprawdzić lub zmienić dozwolone pliki cookie w panelu preferencji plików cookie.",
+    "manageCookiePreferences": "Zarządzaj preferencjami dotyczącymi plików cookie",
+    "section1": {
+      "title": "1. Informacje, które zbieramy",
+      "body": [
+        "Gromadzimy informacje, które podajesz bezpośrednio (takie jak imię i nazwisko oraz adres e-mail podczas przesyłania formularza kontaktowego lub zakładania konta) oraz informacje zbierane automatycznie za pomocą plików cookie i podobnych technologii, takie jak odwiedzane strony, typ urządzenia i przybliżona lokalizacja."
+      ]
+    },
+    "section2": {
+      "title": "2. Jak używamy plików cookie",
+      "body": [
+        "Niezbędne pliki cookie są zawsze włączone, ponieważ bez nich witryna nie może poprawnie działać. Przechowują stan sesji i uwierzytelnienia oraz zapamiętują Twoje preferencje dotyczące plików cookie.",
+        "Analityczne pliki cookie pomagają nam zrozumieć, w jaki sposób odwiedzający korzystają z witryny, dzięki czemu możemy ją ulepszyć. Marketingowe pliki cookie służą do wyświetlania odpowiednich ofert i kampanii. Kategorie te są włączone wyłącznie za Twoją zgodą i można je zmienić w dowolnym momencie w panelu preferencji plików cookie."
+      ]
+    },
+    "section3": {
+      "title": "3. Podstawa prawna (RODO)",
+      "body": [
+        "Przetwarzamy dane osobowe w oparciu o następujące podstawy prawne: Twoja zgoda (w przypadku nieistotnych plików cookie i marketingu), wykonanie umowy (w przypadku usług, o które prosisz), obowiązek prawny oraz uzasadnione interesy, o ile Twoje prawa nie są nadrzędne. Zgodę możesz wycofać w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano przed jej wycofaniem."
+      ]
+    },
+    "section4": {
+      "title": "4. Twoje prawa",
+      "body": [
+        "W zależności od Twojej lokalizacji możesz mieć prawo dostępu do swoich danych osobowych, ich sprostowania, usunięcia lub ograniczenia przetwarzania, wniesienia sprzeciwu wobec przetwarzania i przenoszenia danych. Możesz także złożyć skargę do lokalnego organu nadzorczego."
+      ]
+    },
+    "section5": {
+      "title": "5. Przechowywanie i bezpieczeństwo danych",
+      "body": [
+        "Przechowujemy dane osobowe tylko tak długo, jak jest to konieczne do celów opisanych w niniejszej polityce. Stosujemy odpowiednie środki techniczne i organizacyjne, aby chronić Twoje dane przed nieuprawnionym dostępem, zmianą, ujawnieniem lub zniszczeniem."
+      ]
+    },
+    "section6": {
+      "title": "6. Usługi stron trzecich",
+      "body": [
+        "Niektóre pliki cookie mogą być ustawiane przez zewnętrznych dostawców (takich jak platformy analityczne lub reklamowe), którzy pomagają nam w obsłudze witryny. Dostawcy ci przetwarzają dane zgodnie z własną polityką prywatności i tylko wtedy, gdy wyrazili Państwo zgodę na odpowiednią kategorię."
+      ]
+    },
+    "contactUs": "7. Skontaktuj się z nami",
+    "contactUsText": "W przypadku pytań dotyczących tej polityki lub Twoich danych osobowych, skontaktuj się z nami pod adresem <1>info@rezonants.com</1> lub zadzwoń pod numer <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Usługi",
+    "title": "Nasze usługi",
+    "sub": "Kompleksowe rozwiązania technologiczne zaprojektowane, aby pomóc firmom wprowadzać innowacje, skalować i odnosić sukcesy.",
+    "learnMore": "Dowiedz się więcej",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Od początku do wdrożenia",
+        "text": "Od wstępnej koncepcji po wdrożenie produkcyjne – dostarczamy skalowalne rozwiązania stworzone z myślą o rzeczywistych potrzebach biznesowych."
+      },
+      "businessProcessAutomation": {
+        "title": "Automatyzacja procesów biznesowych",
+        "text": "Usprawnij powtarzalne procesy i popraw wydajność operacyjną dzięki inteligentnej automatyzacji biznesu."
+      },
+      "centerOfExcellence": {
+        "title": "Centrum Doskonałości",
+        "text": "Buduj wyspecjalizowane możliwości technologiczne i wiedzę specjalistyczną, aby napędzać innowacje, jakość i ciągłe doskonalenie."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Niestandardowy rozwój i dostosowywanie",
+        "text": "Dostosowane rozwiązania programowe zaprojektowane z myślą o Twoich unikalnych wymaganiach biznesowych i przepływach pracy."
+      },
+      "digitalTransformation": {
+        "title": "Transformacja cyfrowa",
+        "text": "Zmodernizuj swoją firmę dzięki cyfrowym strategiom, technologiom i rozwiązaniom, które wywierają wymierny wpływ."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Ramy kompleksowych rozwiązań",
+        "text": "Zintegrowane rozwiązania technologiczne, które łączą strategię, rozwój, wdrażanie i bieżącą działalność."
+      },
+      "migrationModernization": {
+        "title": "Migracja i modernizacja",
+        "text": "Modernizuj starsze aplikacje i migruj systemy na skalowalne, bezpieczne i wydajne platformy technologiczne."
+      },
+      "pocPilotImplementation": {
+        "title": "Weryfikacja koncepcji (PoC) i wdrożenie pilotażowe",
+        "text": "Szybko weryfikuj pomysły za pomocą ukierunkowanych prototypów i wdrożeń pilotażowych przed wdrożeniem na pełną skalę."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Usługi wspólne i operacje zarządzane",
+        "text": "Niezawodne zarządzane operacje technologiczne, które poprawiają wydajność, skalowalność i ciągłość biznesową."
+      }
+    }
+  },
+  "footer": {
+    "company": "Firma",
+    "about": "O",
+    "perspectives": "Perspektywy",
+    "technologies": "Technologie",
+    "contact": "Kontakt",
+    "services": "Usługi",
+    "getInTouch": "Skontaktuj się",
+    "bookConsultation": "Umów się na konsultację",
+    "copyright": "© {{year}} Rezonants. Wszelkie prawa zastrzeżone.",
+    "cookiePreferences": "Preferencje dotyczące plików cookie",
+    "privacyPolicy": "Polityka prywatności",
+    "description": "Rezonants to firma świadcząca usługi IT i produkty cyfrowe z siedzibą w Hyderabad w Indiach. Projektujemy, budujemy i skalujemy oprogramowanie dla firm konkurujących wykonaniem.",
+    "locations": "Nasze lokalizacje",
+    "indiaHq": "Hyderabad, Indie — siedziba główna w Indiach",
+    "southAfrica": "Republika Południowej Afryki — REZONANTS PVT LTD",
+    "products": "Produkty",
+    "followUs": "Obserwuj nas",
+    "aboutUs": "O nas",
+    "contactUs": "Skontaktuj się z nami",
+    "headline": "Budujmy",
+    "headlineAccent": "co dalej.",
+    "subheadline": "Nawiąż współpracę z Rezonants, aby przekształcić pomysły w realny wpływ na biznes.",
+    "credoIdeas": "POMYSŁY",
+    "credoSolutions": "ROZWIĄZANIA",
+    "credoPeople": "LUDZIE",
+    "credoBrighterTomorrow": "JASNE JUTRO",
+    "hyderabadLocation": "Hyderabad, Indie",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Republika Południowej Afryki – REZONANTS PVT LTD",
+    "termsOfUse": "Warunki użytkowania",
+    "accessibility": "Dostępność",
+    "quickLinks": "Szybkie linki",
+    "explore": "Badać",
+    "vijayawadaOffice": "Biuro Widźajawady",
+    "allRightsReserved": "Wszelkie prawa zastrzeżone.",
+    "hyderabadPin": "Hyderabad, Indie",
+    "southAfricaPin": "Południowa Afryka"
+  },
+  "common": {
+    "loading": "Ładowanie...",
+    "error": "Błąd",
+    "retry": "Spróbuj ponownie",
+    "close": "Zamknij",
+    "backToTop": "Powrót do góry",
+    "skipToContent": "Przejdź do treści",
+    "scroll": "Przewiń",
+    "whatWeOffer": "Co oferujemy",
+    "howItWorks": "Jak to działa"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Wyszukaj kraj lub kod…",
+    "noResults": "Nie znaleziono krajów.",
+    "countryCodeLabel": "Numer kierunkowy kraju",
+    "required": "Numer telefonu jest wymagany.",
+    "incomplete": "Numer telefonu musi zawierać dokładnie {{count}} cyfr.",
+    "tooLong": "Numer telefonu nie może zawierać więcej niż {{count}} cyfr.",
+    "invalid": "Wprowadź prawidłowy numer telefonu dla {{country}}."
+  },
+  "perspectives": {
+    "topic": "Temat:",
+    "published": "Opublikowany:",
+    "readingTime": "Czas czytania:",
+    "author": "Autor:",
+    "authorName": "Pracownia Architektury Korporacyjnej Rezonants",
+    "techArea": "Obszar Technologii",
+    "purpose": "Zamiar",
+    "talkToExperts": "Porozmawiaj z naszymi ekspertami",
+    "viewAll": "Zobacz wszystkie perspektywy",
+    "exploreMore": "ODKRYJ WIĘCEJ PERSPEKTYW",
+    "continueExploring": "Kontynuuj poznawanie technologii korporacyjnych",
+    "readPerspective": "Przeczytaj Perspektywa"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Rozwiązania AI i robotyki",
+      "tagline": "Inteligentna technologia. Zautomatyzowane operacje. Inteligentniejszy biznes.",
+      "heroBadge": "Inteligentne Systemy Autonomiczne",
+      "overview": [
+        "Sztuczna inteligencja i robotyka zmieniają sposób, w jaki organizacje działają, podejmują decyzje i dostarczają wartość. Nasze rozwiązania w zakresie sztucznej inteligencji i robotyki pomagają firmom wyjść poza tradycyjną automatyzację, łącząc sztuczną inteligencję, uczenie maszynowe, wizję komputerową, inteligentną automatyzację procesów i robotykę w celu rozwiązywania praktycznych wyzwań biznesowych.",
+        "Projektujemy inteligentne rozwiązania wokół mierzalnych efektów biznesowych. Niezależnie od tego, czy wymaganiem jest automatyzacja powtarzalnej pracy, analiza dużych ilości informacji, wykrywanie wzorców, wspomaganie decyzji, czy też wprowadzenie robotyki do środowisk operacyjnych, nasze podejście koncentruje się na niezawodności, skalowalności, bezpieczeństwie i długoterminowej wartości biznesowej."
+      ],
+      "transformation": [
+        "Współczesne organizacje generują każdego dnia ogromne ilości danych i wykonują tysiące powtarzalnych czynności. Sztuczna inteligencja i robotyka mogą przekształcić te działania w inteligentne, zautomatyzowane przepływy pracy, które poprawiają produktywność, jednocześnie umożliwiając pracownikom skupienie się na obowiązkach o większej wartości.",
+        "Nasze rozwiązania mogą pomóc organizacjom zautomatyzować powtarzalne operacje, ograniczyć interwencję ręczną, poprawić dokładność, analizować złożone informacje, wspierać szybsze decyzje, optymalizować wykorzystanie zasobów, poprawiać doświadczenia klientów i budować skalowalne inteligentne systemy."
+      ],
+      "capabilities": [
+        {
+          "title": "Sztuczna inteligencja",
+          "desc": "Tworzymy rozwiązania oparte na sztucznej inteligencji, które umożliwiają systemom rozumienie informacji, identyfikowanie wzorców, generowanie wniosków i wspieranie decyzji biznesowych."
+        },
+        {
+          "title": "Uczenie maszynowe",
+          "desc": "Tworzymy modele uczenia maszynowego na potrzeby prognozowania, klasyfikacji, systemów rekomendacji, wykrywania anomalii, analizy predykcyjnej i inteligentnego wspomagania decyzji."
+        },
+        {
+          "title": "Przetwarzanie języka naturalnego",
+          "desc": "NLP można wykorzystać do przetwarzania dokumentów, rozumienia tekstu, klasyfikowania informacji, wydobywania odpowiednich treści i wspierania aplikacji konwersacyjnych."
+        },
+        {
+          "title": "Wizja komputerowa",
+          "desc": "Rozwiązania z zakresu wizji komputerowej mogą wspierać klasyfikację obrazu, wykrywanie obiektów, kontrolę jakości, przetwarzanie dokumentów, monitorowanie wizualne i analizę wideo."
+        },
+        {
+          "title": "Robotyka",
+          "desc": "Robotyka łączy inteligencję oprogramowania z systemami fizycznymi, aby automatyzować czynności, które tradycyjnie wymagają wysiłku ręcznego. Zastosowania mogą obejmować produkcję, logistykę, magazynowanie, inspekcję, obsługę materiałów i wsparcie operacyjne."
+        },
+        {
+          "title": "Inteligentna automatyzacja procesów",
+          "desc": "AI można połączyć z automatyzacją przepływu pracy, aby stworzyć systemy interpretujące informacje, stosujące reguły lub modele biznesowe i automatycznie inicjujące odpowiedni proces."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ocena biznesowa",
+        "Analiza danych",
+        "Strategia AI",
+        "Architektura rozwiązań",
+        "Rozwój",
+        "Integracja",
+        "Testowanie",
+        "Wdrożenie",
+        "Monitorowanie",
+        "Optymalizacja"
+      ],
+      "benefits": [
+        "Wyższa produktywność operacyjna przedsiębiorstwa",
+        "Znacząca redukcja kosztów operacyjnych",
+        "Szybsze przetwarzanie i czas podejmowania decyzji w milisekundach",
+        "Większa dokładność danych i przepływu pracy",
+        "Zoptymalizowane wykorzystanie zasobów fizycznych i obliczeniowych",
+        "Zmniejszone ryzyko operacyjne i błędy ludzkie",
+        "Bezproblemowa skalowalność na wielu platformach",
+        "Lepsze doświadczenia klientów i pracowników"
+      ],
+      "security": "Rozwiązania AI dla przedsiębiorstw muszą być zaprojektowane z uwzględnieniem odpowiednich zabezpieczeń, kontroli dostępu, ochrony danych, monitorowania, zarządzania modelami i zabezpieczeń operacyjnych. Rozważamy te wymagania od etapu architektury, poprzez wdrożenie i bieżącą konserwację, aby zapewnić niezawodną inteligencję na poziomie produkcyjnym.",
+      "ctaHeadline": "Buduj inteligentną przyszłość",
+      "ctaSub": "Spraw, aby Twoje działania były mądrzejsze. Zautomatyzuj to, co ważne. Buduj na przyszłość."
+    },
+    "business-automation-solutions": {
+      "title": "Rozwiązania z zakresu automatyzacji biznesu",
+      "tagline": "Uprość procesy. Wyeliminuj powtórzenia. Przyspiesz rozwój.",
+      "heroBadge": "Kompleksowa optymalizacja przepływu pracy",
+      "overview": [
+        "Automatyzacja biznesu umożliwia organizacjom zastąpienie powtarzalnych czynności wykonywanych ręcznie usprawnionymi cyfrowymi przepływami pracy. Nasze rozwiązania do automatyzacji biznesu pomagają firmom zwiększać produktywność, zmniejszać złożoność operacyjną, minimalizować błędy i tworzyć spójne procesy we wszystkich działach.",
+        "Analizujemy istniejące przepływy pracy, identyfikujemy wąskie gardła i projektujemy rozwiązania automatyzujące, które łączą ludzi, aplikacje, dane i procesy biznesowe."
+      ],
+      "transformation": [
+        "Wiele organizacji w dalszym ciągu polega na arkuszach kalkulacyjnych, e-mailach, ręcznych zatwierdzaniach, powtarzalnym wprowadzaniu danych, obsłudze dokumentów i odłączonych aplikacjach. Procesy te pochłaniają cenny czas pracowników i mogą powodować opóźnienia, niespójności i błędy.",
+        "Nasze podejście do automatyzacji koncentruje się na zrozumieniu całego procesu, usunięciu zbędnych kroków, integracji systemów i automatyzacji działań, które zapewniają największą wartość operacyjną."
+      ],
+      "capabilities": [
+        {
+          "title": "Automatyzacja przepływu pracy",
+          "desc": "Automatyzujemy wieloetapowe procesy obejmujące pracowników, wnioski, zatwierdzenia, powiadomienia i dane w różnych działach."
+        },
+        {
+          "title": "Robotyczna automatyzacja procesów",
+          "desc": "Boty programowe mogą wykonywać powtarzalne czynności oparte na regułach, takie jak wprowadzanie danych, aktualizacje systemu, uzgadnianie i przesyłanie informacji."
+        },
+        {
+          "title": "Automatyzacja dokumentów",
+          "desc": "Zautomatyzowany obieg dokumentów może wyodrębniać informacje, weryfikować dane, klasyfikować dokumenty, kierować żądania i inicjować dalsze procesy."
+        },
+        {
+          "title": "Automatyzacja zatwierdzania",
+          "desc": "Cyfrowe procesy zatwierdzania automatycznie kierują żądania do właściwych decydentów i zapewniają wgląd w czasie rzeczywistym w oczekujące działania."
+        },
+        {
+          "title": "Automatyzacja integracji",
+          "desc": "Łączymy aplikacje biznesowe, aby informacje mogły automatycznie przepływać pomiędzy platformami, bez niepotrzebnej ręcznej interwencji."
+        },
+        {
+          "title": "Automatyzacja powiadomień",
+          "desc": "Automatyczne alerty i powiadomienia pomagają pracownikom natychmiast reagować na ważne zdarzenia, terminy, wyjątki i zmiany operacyjne."
+        }
+      ],
+      "lifecycleSteps": [
+        "Odkryj",
+        "Analizuj",
+        "Projektowanie",
+        "Automatyzuj",
+        "Integruj",
+        "Testuj",
+        "Wdróż",
+        "Monitoruj",
+        "Optymalizuj"
+      ],
+      "benefits": [
+        "Zwiększona przepustowość zespołu i prędkość operacyjna",
+        "Znaczna redukcja błędów ręcznego wprowadzania danych",
+        "Skrócone czasy realizacji procesów od początku do końca",
+        "Ujednolicona widoczność wszystkich operacji biznesowych",
+        "Standaryzowana zgodność międzywydziałowa",
+        "Znacząco zmniejszone wydatki operacyjne",
+        "Elastyczna zdolność do łatwego skalowania obciążeń",
+        "Wzmocnione zespoły skupione na zaangażowaniu klientów i pracy strategicznej"
+      ],
+      "security": "Łączymy platformy przepływu pracy i RPA z inteligentnymi, kontekstowymi modelami, aby zapewnić kontrolę dostępu opartą na rolach, kompleksowe ścieżki audytu i ścisłą zgodność każdej zautomatyzowanej transakcji.",
+      "ctaHeadline": "Twórz bardziej wydajne operacje",
+      "ctaSub": "Automatyzuj powtarzalną pracę. Wzmocnij pozycję swoich ludzi. Przyspiesz swój biznes."
+    },
+    "cloud-migration-solutions": {
+      "title": "Rozwiązania do migracji do chmury",
+      "tagline": "Pewne przejście do chmury.",
+      "heroBadge": "Transformacja wielu chmur",
+      "overview": [
+        "Przetwarzanie w chmurze stało się krytycznym elementem nowoczesnej infrastruktury IT. Organizacje przenoszą aplikacje, bazy danych, obciążenia i infrastrukturę do środowisk chmurowych, aby poprawić skalowalność, dostępność, elastyczność i wydajność operacyjną.",
+        "Nasze usługi migracji do chmury pomagają organizacjom ocenić ich obecne środowiska, zdefiniować strategie migracji, przeprowadzić migracje i zoptymalizować obciążenia po przejściu do chmury."
+      ],
+      "transformation": [
+        "Migracja do chmury to coś więcej niż przeniesienie serwerów z jednego środowiska do drugiego. Pomyślna migracja wymaga dokładnej oceny aplikacji, infrastruktury, zależności, wymagań bezpieczeństwa, danych, wydajności, dostępności i ciągłości działania.",
+        "Tworzymy strategie migracji w oparciu o obecne środowisko organizacji i przyszłe cele, dobierając odpowiedni wzorzec migracji dla każdego obciążenia."
+      ],
+      "capabilities": [
+        {
+          "title": "Migracja infrastruktury",
+          "desc": "Migrujemy tradycyjne serwery, pamięci masowe, maszyny wirtualne i obciążenia do nowoczesnych środowisk chmurowych na AWS, Azure i GCP."
+        },
+        {
+          "title": "Migracja aplikacji",
+          "desc": "Aplikacje można ponownie hostować, zmieniać platformę, refaktoryzować lub przeprojektowywać w zależności od wymagań biznesowych i technicznych."
+        },
+        {
+          "title": "Migracja baz danych",
+          "desc": "Migrujemy bazy danych, biorąc pod uwagę wymagania dotyczące integralności danych, wydajności, kompatybilności, dostępności, bezpieczeństwa i odzyskiwania."
+        },
+        {
+          "title": "Modernizacja chmury",
+          "desc": "Migracja staje się okazją do modernizacji aplikacji przy użyciu kontenerów, mikrousług, zarządzanych baz danych, usług bezserwerowych i architektur natywnych w chmurze."
+        },
+        {
+          "title": "Chmura hybrydowa",
+          "desc": "Organizacje potrzebujące zarówno infrastruktury lokalnej, jak i chmurowej, mogą przyjąć architektury hybrydowe, które płynnie łączą istniejące systemy z usługami w chmurze."
+        },
+        {
+          "title": "Wiele chmur",
+          "desc": "Organizacjom działającym na wielu platformach chmurowych pomagamy projektować strategie obciążenia, które poprawiają elastyczność, odporność i zarządzanie."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ocena",
+        "Odkrycie",
+        "Mapowanie zależności",
+        "Strategia migracji",
+        "Projekt Architektoniczny",
+        "Migracja pilotażowa",
+        "Migracja danych",
+        "Migracja aplikacji",
+        "Testowanie",
+        "Migracja produkcyjna",
+        "Optymalizacja"
+      ],
+      "benefits": [
+        "Elastyczna skalowalność i wysoka dostępność zasobów",
+        "Większa elastyczność infrastruktury i sprawność biznesowa",
+        "Wyeliminowane obciążenie związane z konserwacją fizycznego centrum danych",
+        "Przyspieszone wdrażanie funkcji aplikacji",
+        "Solidne odzyskiwanie po awarii i odporność na kopie zapasowe",
+        "Natychmiastowy dostęp do nowoczesnej sztucznej inteligencji w chmurze i usług zarządzanych",
+        "Zoptymalizowane zarządzanie FinOps i redukcja całkowitego kosztu posiadania",
+        "Ciągła zgodność i zautomatyzowane poręcze zabezpieczające"
+      ],
+      "security": "Bezpieczeństwo jest integralną częścią planowania migracji. Rozważamy zarządzanie tożsamością i dostępem, bezpieczeństwo sieci, szyfrowanie podczas przesyłania i przechowywania, ochronę danych, audyty podatności aplikacji, monitorowanie, tworzenie kopii zapasowych i odzyskiwanie danych po awarii.",
+      "ctaHeadline": "Twoja podróż do chmury, odpowiednio zaplanowana",
+      "ctaSub": "Zmodernizuj swoją infrastrukturę. Przyspiesz innowacje. Zbuduj skalowalny fundament chmury."
+    },
+    "data-center-solutions": {
+      "title": "Rozwiązania dla centrów danych",
+      "tagline": "Niezawodna infrastruktura dla operacji o znaczeniu krytycznym.",
+      "heroBadge": "Infrastruktura o znaczeniu krytycznym",
+      "overview": [
+        "Centra danych stanowią podstawę nowoczesnych cyfrowych przedsiębiorstw. Aplikacje, bazy danych, systemy korporacyjne, platformy komunikacyjne i krytyczne usługi biznesowe zależą od niezawodnej infrastruktury.",
+        "Nasze rozwiązania dla centrów danych skupiają się na projektowaniu, modernizacji, zarządzaniu i optymalizacji środowisk infrastrukturalnych zbudowanych z myślą o dostępności, bezpieczeństwie, skalowalności, wydajności i efektywności operacyjnej."
+      ],
+      "transformation": [
+        "Nowoczesne centrum danych wymaga czegoś więcej niż tylko serwerów i pamięci masowej. Wymaga starannie zaprojektowanej infrastruktury obejmującej przetwarzanie danych, sieć, bezpieczeństwo, zasilanie, chłodzenie, monitorowanie, tworzenie kopii zapasowych i przywracanie danych po awarii.",
+        "Pomagamy organizacjom tworzyć odporne środowiska infrastrukturalne, które obsługują krytyczne obciążenia i stanowią podstawę przyszłego rozwoju technologii."
+      ],
+      "capabilities": [
+        {
+          "title": "Projektowanie infrastruktury",
+          "desc": "Projektujemy środowiska w oparciu o wymagania dotyczące obciążenia, pojemności, wydajności, dostępności, bezpieczeństwa i przyszłego rozwoju."
+        },
+        {
+          "title": "Infrastruktura serwerowa",
+          "desc": "Obsługujemy fizyczne i wirtualne środowiska serwerów dla aplikacji i obciążeń korporacyjnych o znaczeniu krytycznym."
+        },
+        {
+          "title": "Rozwiązania w zakresie przechowywania",
+          "desc": "Projektując środowiska pamięci masowej, bierzemy pod uwagę wymagania dotyczące wydajności, pojemności, nadmiarowości, szybkich sieci SAN/NAS, tworzenia kopii zapasowych i ochrony danych."
+        },
+        {
+          "title": "Infrastruktura sieciowa",
+          "desc": "Projektujemy środowiska sieciowe z odpowiednią segmentacją, redundancją, wydajnością o niskim opóźnieniu, łącznością i kontrolą bezpieczeństwa."
+        },
+        {
+          "title": "Wirtualizacja",
+          "desc": "Wirtualizacja poprawia wykorzystanie zasobów, elastyczność obciążenia i scentralizowane zarządzanie infrastrukturą."
+        },
+        {
+          "title": "Kopia zapasowa i odzyskiwanie po awarii",
+          "desc": "Pomagamy organizacjom w ustaleniu strategii tworzenia kopii zapasowych i architektur odzyskiwania zaprojektowanych w celu minimalizacji przestojów i wyeliminowania utraty danych."
+        }
+      ],
+      "lifecycleSteps": [
+        "Ocena wydajności",
+        "Profilowanie obciążenia",
+        "Plan Architektury",
+        "Sprzęt i wirtualne rozmiary",
+        "Segmentacja sieci",
+        "Udostępnianie pamięci masowej",
+        "Redundancja i testowanie DR",
+        "Przerwa w produkcji",
+        "Całodobowe monitorowanie stanu zdrowia",
+        "Ciągła optymalizacja"
+      ],
+      "benefits": [
+        "Gwarantowany czas sprawności infrastruktury na poziomie 99,999%.",
+        "Zero pojedynczych punktów awarii dzięki wielowarstwowej redundancji",
+        "Zoptymalizowane obliczenia serwerów i wirtualizacja o dużej gęstości",
+        "Architektury sieciowe o niskim opóźnieniu wynoszącym mniej niż milisekundę",
+        "Wzmocnione zabezpieczenia fizyczne i cyfrowe",
+        "Proaktywne monitorowanie i automatyczne przełączanie awaryjne",
+        "Skalowalna modułowa pamięć masowa na dane w skali petabajtów",
+        "Przewidywalny całkowity koszt posiadania i efektywność energetyczna"
+      ],
+      "security": "Bezpieczeństwo jest zintegrowane w całej warstwie infrastruktury i obejmuje mikrosegmentację sieci, sprzętowy root-of-trust, kontrolę dostępu o zerowym zaufaniu, ciągłe audyty podatności na ataki, ochronę punktów końcowych i rygorystyczne zasady operacyjne.",
+      "ctaHeadline": "Infrastruktura gotowa na przyszłość",
+      "ctaSub": "Zbuduj niezawodną infrastrukturę już dziś. Stwórz fundament pod technologię jutra."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Analityka kognitywna i sztuczna inteligencja",
+      "tagline": "Zamień dane w inteligencję.",
+      "heroBadge": "Inteligencja przekształcająca dane w decyzję",
+      "overview": [
+        "Organizacje generują ogromne ilości informacji poprzez aplikacje, transakcje, klientów, operacje, urządzenia i platformy cyfrowe. Wyzwaniem nie jest już zwykłe gromadzenie danych; polega na zrozumieniu tych danych i przekształceniu ich w przydatne informacje.",
+        "Nasze rozwiązania Cognitive Analytics i AI łączą zaawansowaną analitykę, uczenie maszynowe, sztuczną inteligencję, przetwarzanie danych i analizę biznesową, aby pomóc organizacjom podejmować lepsze decyzje."
+      ],
+      "transformation": [
+        "Tradycyjne raportowanie informuje organizacje, co się wydarzyło. Zaawansowane analizy mogą pomóc wyjaśnić, dlaczego tak się stało, określić, co może się wydarzyć dalej, i wesprzeć decyzje dotyczące tego, co powinno się wydarzyć.",
+        "Pomagamy organizacjom w tworzeniu środowisk danych, które wykraczają poza raportowanie statyczne w kierunku inteligentnych analiz i wspomagania decyzji."
+      ],
+      "capabilities": [
+        {
+          "title": "Analityka opisowa",
+          "desc": "Poznaj wyniki historyczne dzięki interaktywnym raportom, wielowymiarowym dashboardom, wskaźnikom KPI i metrykom biznesowym."
+        },
+        {
+          "title": "Analityka diagnostyczna",
+          "desc": "Identyfikuj podstawowe powiązania, trendy, anomalie statystyczne i podstawowe przyczyny stojące za wynikami biznesowymi."
+        },
+        {
+          "title": "Analityka predykcyjna",
+          "desc": "Wykorzystaj dane historyczne i dane przesyłane strumieniowo w czasie rzeczywistym wraz z modelami statystycznymi, aby zidentyfikować potencjalne przyszłe wyniki i wymagania."
+        },
+        {
+          "title": "Analityka preskryptywna",
+          "desc": "Oceń możliwe działania i wspieraj optymalne ścieżki decyzyjne w oparciu o przewidywane wyniki i strategiczne cele biznesowe."
+        },
+        {
+          "title": "Modele uczenia maszynowego",
+          "desc": "Opracuj niestandardowe modele prognozowania, klasyfikacji klientów, rekomendacji, wykrywania anomalii oszustw i konserwacji predykcyjnej."
+        },
+        {
+          "title": "Spostrzeżenia oparte na sztucznej inteligencji",
+          "desc": "Zastosuj kognitywną sztuczną inteligencję do ogromnych ilości nieustrukturyzowanych informacji, aby odkryć ukryte wzorce, streszczenia dla kadry kierowniczej i rekomendacje."
+        }
+      ],
+      "lifecycleSteps": [
+        "Źródła danych",
+        "Integracja danych",
+        "Przetwarzanie danych",
+        "Przechowywanie danych",
+        "Analityka",
+        "Modele AI/ML",
+        "Wizualizacja",
+        "Decyzje biznesowe"
+      ],
+      "benefits": [
+        "Podejmowanie decyzji wykonawczych w oparciu o fakty i dane",
+        "Dokładne prognozowanie popytu, przychodów i rezygnacji",
+        "Wykrywanie anomalii i oszustw w czasie rzeczywistym",
+        "Szczegółowy wgląd w zachowania klientów i personalizacja w zakresie 360°",
+        "Zoptymalizowany łańcuch dostaw i wydajność operacyjna",
+        "Ograniczone ryzyko operacyjne i finansowe",
+        "Odkrycie ukrytych możliwości zarobku",
+        "Krótszy czas uzyskiwania informacji we wszystkich jednostkach biznesowych"
+      ],
+      "security": "Nasze ekosystemy analityczne wdrażają kompleksowe szyfrowanie, automatyczne maskowanie danych, rygorystyczne uprawnienia RBAC i zarządzanie modelami, aby chronić zastrzeżone dane i zachować zgodność z przepisami (RODO, HIPAA, SOC 2).",
+      "ctaHeadline": "Zbuduj inteligentną strategię dotyczącą danych",
+      "ctaSub": "Zamień informacje w wiedzę. Zamień wiedzę w działanie."
+    },
+    "information-reporting-systems": {
+      "title": "Systemy informacyjne i raportowe",
+      "tagline": "Właściwa informacja. We właściwym czasie. Dla lepszych decyzji.",
+      "heroBadge": "Ujednolicona inteligencja przedsiębiorstwa",
+      "overview": [
+        "Liderzy biznesowi i zespoły operacyjne polegają na dokładnych informacjach, aby podejmować skuteczne decyzje. Nasze systemy informacyjne i raportowe pomagają organizacjom gromadzić, organizować, analizować i prezentować informacje biznesowe za pośrednictwem ustrukturyzowanych systemów informacyjnych, platform raportowania, pulpitów nawigacyjnych i zautomatyzowanych przepływów pracy związanych z raportowaniem.",
+        "W organizacjach często informacje są rozproszone w aplikacjach, arkuszach kalkulacyjnych, bazach danych i systemach operacyjnych. Utrudnia to ustalenie spójnego obrazu wyników biznesowych. Pomagamy integrować źródła informacji ze strukturalizowanymi środowiskami raportowania, które dostarczają wiarygodnych, dostępnych i spójnych informacji biznesowych."
+      ],
+      "transformation": [
+        "System raportowania nie powinien po prostu wyświetlać liczb. Powinno pomóc użytkownikom zrozumieć wydajność, zidentyfikować problemy, odkryć możliwości i podejmować świadome decyzje.",
+        "Projektujemy środowiska raportowania w oparciu o sposób działania Twojej organizacji, dostarczając ustrukturyzowane ekosystemy prowadzące od danych do decyzji, dostosowane do wszystkich poziomów zarządzania."
+      ],
+      "capabilities": [
+        {
+          "title": "Systemy Informacji Zarządczej (MIS)",
+          "desc": "Opracuj ujednolicone systemy informacyjne, które zapewnią kierownictwu wykonawczemu odpowiednią widoczność operacyjną i strategiczną."
+        },
+        {
+          "title": "Raportowanie biznesowe",
+          "desc": "Przekształcaj surowe dane biznesowe z wielu kanałów w ustrukturyzowane, standardowe raporty, które stale monitorują wydajność."
+        },
+        {
+          "title": "Interaktywne dashboardy",
+          "desc": "Zapewniaj interaktywny wgląd w krytyczne wskaźniki biznesowe, KPI, trendy i działania działów w czasie rzeczywistym lub według harmonogramu."
+        },
+        {
+          "title": "Zarządzanie KPI",
+          "desc": "Definiuj, śledź i porównaj znaczące operacyjne KPI powiązane bezpośrednio z nadrzędnymi celami rozwoju przedsiębiorstwa."
+        },
+        {
+          "title": "Integracja danych",
+          "desc": "Integruj rozproszone źródła danych z ujednoliconymi hurtowniami danych i warstwami semantycznymi, aby uzyskać spójne raportowanie z jednego panelu."
+        },
+        {
+          "title": "Automatyczne raportowanie",
+          "desc": "Automatycznie generuj i dystrybuuj spersonalizowane raporty zgodnie z predefiniowanymi harmonogramami, regułami biznesowymi i hierarchiami odbiorców."
+        }
+      ],
+      "lifecycleSteps": [
+        "Systemy biznesowe",
+        "Gromadzenie danych",
+        "Integracja danych",
+        "Przetwarzanie danych",
+        "Repozytorium Danych",
+        "Analityka",
+        "Raporty i dashboardy"
+      ],
+      "benefits": [
+        "Jedno źródło prawdy w całym przedsiębiorstwie",
+        "Szybszy dostęp do wskaźników operacyjnych w czasie rzeczywistym",
+        "Całkowite wyeliminowanie ręcznego składania arkusza kalkulacyjnego",
+        "Spójne, uzgodnione międzywydziałowe KPI",
+        "Doskonały nadzór wykonawczy i audytowalność",
+        "Zautomatyzowana dystrybucja bezpośrednio do interesariuszy",
+        "Szczegółowa ochrona danych i uprawnienia na poziomie wiersza",
+        "Większa elastyczność umożliwiająca reagowanie na anomalie operacyjne"
+      ],
+      "security": "Informacje biznesowe mogą zawierać wrażliwe dane operacyjne, finansowe i klientów. Nasze rozwiązania w zakresie raportowania obejmują uwierzytelnianie wieloskładnikowe, szczegółową autoryzację opartą na rolach, szyfrowanie i dzienniki audytu w architekturze raportowania.",
+      "ctaHeadline": "Raportowanie wspierające rozwój",
+      "ctaSub": "Udostępnij informacje. Spraw, aby wydajność była widoczna. Podejmuj lepsze decyzje."
+    },
+    "managed-services": {
+      "title": "Usługi zarządzane",
+      "tagline": "Niezawodna technologia działania. Wsparcie ekspertów. Ciągłe doskonalenie.",
+      "heroBadge": "Operacje i wsparcie IT 24 godziny na dobę, 7 dni w tygodniu",
+      "overview": [
+        "Współczesne środowiska IT są złożone i podlegają ciągłym zmianom. Organizacje potrzebują niezawodnej infrastruktury, aplikacji, sieci, zabezpieczeń, monitorowania i wsparcia technicznego, aby zapewnić ciągłość działalności biznesowej.",
+        "Nasze usługi zarządzane zapewniają ciągłe zarządzanie technologią i wsparcie operacyjne, umożliwiając organizacjom utrzymanie niezawodnych środowisk IT, podczas gdy wewnętrzne zespoły skupiają się na inicjatywach strategicznych."
+      ],
+      "transformation": [
+        "Tradycyjne wsparcie IT często skupia się na rozwiązywaniu problemów już po ich wystąpieniu. Usługi zarządzane przyjmują podejście proaktywne poprzez ciągłe monitorowanie infrastruktury, aplikacji, systemów i środowisk operacyjnych.",
+        "Takie podejście pomaga wcześnie zidentyfikować potencjalne problemy, utrzymać wydajność, poprawić dostępność i ograniczyć możliwe do uniknięcia zakłócenia operacyjne."
+      ],
+      "capabilities": [
+        {
+          "title": "Zarządzanie infrastrukturą",
+          "desc": "Wsparcie bieżącej obsługi, instalowania poprawek i zarządzania serwerami, pamięcią masową, platformami wirtualizacji i infrastrukturą."
+        },
+        {
+          "title": "Zarządzanie w chmurze",
+          "desc": "Zarządzaj obciążeniami w chmurze, zasobami wielu chmur, konfiguracjami, monitorowaniem, wydajnością i optymalizacją FinOps."
+        },
+        {
+          "title": "Zarządzanie siecią",
+          "desc": "Zapewnij monitorowanie 24 godziny na dobę, 7 dni w tygodniu, zarządzanie wydajnością, wsparcie konfiguracji, optymalizację SD-WAN i rozwiązywanie problemów z siecią."
+        },
+        {
+          "title": "Zarządzanie aplikacjami",
+          "desc": "Wsparcie krytycznych środowisk aplikacji poprzez proaktywne monitorowanie, konserwację, rozwiązywanie błędów i aktualizacje operacyjne."
+        },
+        {
+          "title": "Monitorowanie i obserwowalność",
+          "desc": "Zapewnij kompleksowy wgląd w czasie rzeczywistym w stan systemu, opóźnienia, czas pracy, zależności infrastruktury i alerty."
+        },
+        {
+          "title": "Zarządzanie kopiami zapasowymi i odzyskiwaniem",
+          "desc": "Utrzymuj automatyczne harmonogramy tworzenia kopii zapasowych, regularnie testuj przełączanie awaryjne i zapewniaj możliwości natychmiastowego odzyskiwania."
+        },
+        {
+          "title": "Operacje bezpieczeństwa (SecOps)",
+          "desc": "Zapewnij ciągłe monitorowanie bezpieczeństwa, zarządzanie poprawkami, egzekwowanie kontroli dostępu i proaktywne łagodzenie zagrożeń."
+        }
+      ],
+      "lifecycleSteps": [
+        "Wprowadzenie do środowiska",
+        "Odkrycie i linia bazowa",
+        "Integracja telemetrii",
+        "Definicja SLA",
+        "Aktywne monitorowanie 24/7",
+        "Klasyfikacja incydentów",
+        "Szybka rozdzielczość",
+        "Analiza przyczyn źródłowych",
+        "Inżynieria zapobiegawcza",
+        "Ciągła optymalizacja"
+      ],
+      "benefits": [
+        "Znacząco zmniejszone wewnętrzne obciążenie operacyjne",
+        "Proaktywne wykrywanie problemów, zanim będą one miały wpływ na użytkowników",
+        "Gwarantowana dostępność i czas pracy systemu na poziomie 99,99%.",
+        "Przewidywalne, przejrzyste budżetowanie operacyjne IT",
+        "Natychmiastowy dostęp do starszych specjalistów inżynieryjnych",
+        "Szybki czas reakcji na incydenty objęty umową SLA",
+        "Zautomatyzowane odzyskiwanie po awarii i ciągłość działania",
+        "Ciągła optymalizacja i modernizacja technologii"
+      ],
+      "security": "Nasze zarządzane operacje są zgodne ze ścisłymi ramami ITIL i ISO, zapewniając szyfrowany dostęp, izolowane dzienniki audytu, przechowywanie danych uwierzytelniających o najniższych uprawnieniach i zgodność z przepisami w przypadku każdego zarządzanego zasobu.",
+      "ctaHeadline": "Ciągłe doskonalenie",
+      "ctaSub": "Skupiasz się na swoim biznesie. Pomagamy utrzymać ciągłość działania Twojej technologii."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Kompleksowe rozwiązania technologiczne",
+      "tagline": "Jeden partner technologiczny. Wiele możliwości. Kompletne rozwiązania biznesowe.",
+      "heroBadge": "Ujednolicony partner korporacyjny",
+      "overview": [
+        "Organizacje często współpracują z wieloma dostawcami technologii w zakresie infrastruktury, chmury, aplikacji, automatyzacji, analiz, bezpieczeństwa, wsparcia i transformacji cyfrowej. Zarządzanie wieloma dostawcami może powodować złożoność, luki w komunikacji, powielanie wysiłków i fragmentację środowisk technologicznych.",
+        "Nasze podejście oparte na kompleksowych rozwiązaniach technologicznych łączy wiele możliwości w ramach ujednoliconego modelu usług, pomagając organizacjom planować, wdrażać, integrować, obsługiwać i stale ulepszać środowisko technologiczne."
+      ],
+      "transformation": [
+        "Obsługujemy pełny cykl życia technologii – od zrozumienia wymagań biznesowych i zdefiniowania strategii technologicznej po projektowanie rozwiązań, wdrażanie platform, integrację systemów, wdrażanie aplikacji, monitorowanie środowisk i zapewnianie bieżącego wsparcia.",
+        "Celem jest stworzenie połączonego ekosystemu technologicznego, a nie izolowanych rozwiązań."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategia i architektura",
+          "desc": "Zrozum cele biznesowe i projektuj skalowalne, bezpieczne i łatwe w utrzymaniu architektury technologiczne."
+        },
+        {
+          "title": "Implementacja i budowa",
+          "desc": "Wdrażaj aplikacje, infrastrukturę, integracje, automatyzację i platformy cyfrowe z zachowaniem rygoru korporacyjnego."
+        },
+        {
+          "title": "Integracja systemu",
+          "desc": "Połącz systemy i aplikacje, aby informacje przepływały płynnie w całej organizacji."
+        },
+        {
+          "title": "Wdrożenie strukturalne",
+          "desc": "Ustanów zautomatyzowane procesy CI/CD i wydawania, aby niezawodnie i bezpiecznie wprowadzać rozwiązania do produkcji."
+        },
+        {
+          "title": "Ciągłe monitorowanie",
+          "desc": "Zapewnij kompleksowy wgląd w infrastrukturę, aplikacje, wydajność, dostępność i stan operacyjny."
+        },
+        {
+          "title": "Optymalizacja i wsparcie",
+          "desc": "Ciągłe przeglądanie środowisk w celu poprawy wydajności, niezawodności, efektywności kosztowej i skalowalności."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategia",
+        "Architektura",
+        "Wdrożenie",
+        "Integracja",
+        "Wdrożenie",
+        "Monitorowanie",
+        "Optymalizacja",
+        "Wsparcie"
+      ],
+      "benefits": [
+        "Mniejsza złożoność i obciążenie związane z zarządzaniem dostawcami",
+        "Bezproblemowa koordynacja wszystkich warstw architektonicznych",
+        "Szybsza realizacja projektu przy zerowych opóźnieniach w przekazaniu",
+        "Przewidywalny podział budżetu i przejrzysta realizacja",
+        "Ujednolicona odpowiedzialność przedsiębiorstwa od zera do skali",
+        "Skalowalne rozwiązania zaprojektowane z myślą o przyszłym rozwoju biznesu",
+        "Długoterminowe partnerstwo technologiczne oparte na zaufaniu",
+        "Kompleksowa, kompleksowa transformacja cyfrowa"
+      ],
+      "security": "Dzięki jednemu zaufanemu partnerowi nadzorującemu architekturę, wdrażanie i operacje zarządzanie bezpieczeństwem pozostaje nieprzerwane na wszystkich poziomach, eliminując martwe punkty integracji i zapewniając ciągłą zgodność.",
+      "ctaHeadline": "Twój kompletny partner technologiczny",
+      "ctaSub": "Jeden partner. Jedna wizja. Wiele technologii. Kompletne rozwiązania."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Przegląd przedsiębiorstwa",
+    "overviewTitle": "Inteligentna technologia zapewniająca wymierne rezultaty",
+    "transformationEyebrow": "Transformacja operacyjna",
+    "transformationTitle": "Transformacja biznesu poprzez inteligentne przepływy pracy",
+    "deliveryEyebrow": "Strukturalne podejście do dostawy",
+    "deliveryTitle": "Kompleksowe wykonanie i ciągła optymalizacja",
+    "deliveryIntro": "Nasze sprawdzone podejście do wdrażania opiera się na rygorystycznym cyklu życia dostawy:",
+    "deliveryOutro": "Ta uporządkowana sekwencja zapewnia ścisłą zgodność z celami biznesowymi, solidny stan zabezpieczeń i mierzalne wskaźniki ROI na każdym etapie.",
+    "securityEyebrow": "Bezpieczeństwo i zarządzanie",
+    "securityTitle": "Zabezpieczenia dotyczące niezawodności i zgodności na poziomie korporacyjnym",
+    "securityOutro": "Wprowadzamy ścisłą kontrolę dostępu opartą na rolach, automatyczne skanowanie podatności na zagrożenia, zarządzanie modelami i wielopoziomowe szyfrowanie, aby zapewnić odporność i pełną zgodność środowiska produkcyjnego.",
+    "capabilitiesTitle": "Podstawowe możliwości technologiczne",
+    "capabilitiesSub": "Wszechstronne kompetencje techniczne zaprojektowane z myślą o skalowaniu Twoich operacji cyfrowych.",
+    "bookDiscovery": "Książka Odkrycie technologii",
+    "exploreAll": "Poznaj wszystkie technologie",
+    "bookConsultation": "Umów się na konsultację",
+    "coreCapabilities": "Podstawowe możliwości"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Podstawowe możliwości",
+    "exploreFramework": "Poznaj strukturę rozwiązań",
+    "bookConsultation": "Zarezerwuj konsultację",
+    "viewCaseStudies": "Zobacz studia przypadków",
+    "provenPillars": "Sprawdzone filary",
+    "operationalOutcomes": "Wyniki operacyjne",
+    "learnMore": "Dowiedz się więcej"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Kompleksowa inżynieria cyfrowa",
+      "titlePart1": "Początek Do",
+      "titlePart2": "Wdrożenie",
+      "description": "Kompleksowy rozwój nowych rozwiązań cyfrowych, począwszy od wymagań biznesowych i architektury rozwiązań, poprzez rozwój, integrację, testowanie, wdrożenie i bieżące wsparcie.",
+      "bookConsultation": "Zarezerwuj konsultację",
+      "exploreEngineering": "Poznaj inżynierię rozwiązań",
+      "coreCapabilities": [
+        "Inżynieria wymagań",
+        "Architektura rozwiązań",
+        "Tworzenie aplikacji",
+        "Integracja API",
+        "Zapewnienie jakości",
+        "DevOps",
+        "Wdrożenie",
+        "Wsparcie i konserwacja"
+      ],
+      "row1Eyebrow": "Dostawa w pełnym cyklu życia",
+      "row1Title": "Kompleksowy rozwój od wymagań do skali",
+      "row1P1": "Każda nowa inicjatywa cyfrowa zaczyna się od unikalnych wymagań, procesów operacyjnych i celów strategicznych, których nie można osiągnąć za pomocą jednego oprogramowania dla wszystkich. Specjalizujemy się w budowaniu niestandardowych, wysokowydajnych systemów oprogramowania całkowicie od podstaw.",
+      "row1P2": "Od odkrywania wstępnych wymagań i projektowania architektury technicznej po zwinne opracowywanie sprintów, integrację ekosystemu API, niezawodne potoki testowe i zautomatyzowane wdrożenia w chmurze — nasze starsze zespoły inżynieryjne przejmują pełną odpowiedzialność za cykl życia produktu.",
+      "row2Eyebrow": "Architektura rozwiązań i inżynieria",
+      "row2Title": "Skalowalne systemy stworzone z myślą o rozwoju przedsiębiorstwa",
+      "row2P1": "Projektujemy odporne architektury oprogramowania dostosowane do dużych obciążeń produkcyjnych. Od modułowych mikrousług i backendów sterowanych zdarzeniami po strumienie danych o dużej przepustowości i interfejsy API GraphQL/REST – budujemy platformy, które można łatwo skalować.",
+      "row2P2": "Tworząc czyste, modułowe bazy kodu w połączeniu z automatycznymi testami i ciągłą zgodnością z bezpieczeństwem, zapewniamy, że podstawy oprogramowania są łatwe w utrzymaniu, podlegają audytowi i są gotowe do długoterminowej ewolucji.",
+      "row3Eyebrow": "Zapewnienie jakości i DevOps",
+      "row3Title": "Sprawna dostawa dzięki zautomatyzowanym rurociągom",
+      "row3P1": "Nasz model dostarczania obejmuje zautomatyzowane testy jednostkowe, integrację i kompleksowe testy regresyjne wraz z konteneryzowanymi przepływami pracy CI/CD (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Dzięki przejrzystym demonstracjom sprintów, możliwości obserwacji w czasie rzeczywistym i szybkości opartej na kamieniach milowych zapewniamy szybkie wprowadzenie produktu na rynek bez uszczerbku dla bezpieczeństwa, stabilności i wygody użytkownika.",
+      "row4Eyebrow": "Wdrożenie i wsparcie",
+      "row4Title": "Niezawodne działanie 24 godziny na dobę, 7 dni w tygodniu i długoterminowa ewolucja",
+      "row4P1": "Transmisja na żywo to dopiero początek. Zapewniamy proaktywne monitorowanie, konserwację w ramach umowy SLA, optymalizację infrastruktury chmurowej, dostrajanie wydajności i ciągłe wdrażanie funkcji.",
+      "row4P2": "Nasz zespół inżynierów działa jako naturalne przedłużenie Twojej organizacji, zapewniając zero przestojów i ciągłą przewagę technologiczną na Twoim rynku.",
+      "pillarsTitle": "Podstawowe możliwości",
+      "pillarsSub": "Kompletne, kompleksowe możliwości zaprojektowane tak, aby przenieść Twoje pomysły od zera do produkcji.",
+      "pillar1Title": "Inżynieria wymagań",
+      "pillar1Desc": "Dogłębna analiza biznesowa, specyfikacje funkcjonalne i mapowanie podróży użytkownika w celu dokładnego zdefiniowania granic rozwiązania.",
+      "pillar2Title": "Architektura rozwiązań",
+      "pillar2Desc": "Skalowalne architektury natywne w chmurze, modelowanie baz danych, projektowanie mikrousług i podstawy bezpieczeństwa o zerowym zaufaniu.",
+      "pillar3Title": "Tworzenie aplikacji",
+      "pillar3Desc": "Nowoczesne, kompleksowe aplikacje internetowe i mobilne zaprojektowane przy użyciu czystego kodu, bezpieczeństwa typów i standardów reaktywnego interfejsu użytkownika.",
+      "pillar4Title": "Integracja API",
+      "pillar4Desc": "Wysokoprzepustowe interfejsy API REST/GraphQL, orkiestracje webhook, bramki płatnicze i płynna synchronizacja systemów ERP/CRM innych firm.",
+      "ctaTitle": "Gotowy do zbudowania rozwiązania od pomysłu do wdrożenia?",
+      "ctaSub": "Nawiąż współpracę z Rezonants, aby zaprojektować, zaprojektować i wdrożyć niestandardową platformę cyfrową od wymagań biznesowych po rzeczywistość produkcyjną.",
+      "ctaButton": "Zarezerwuj konsultację dotyczącą rozwiązania",
+      "pillar5Title": "Zapewnienie jakości",
+      "pillar5Desc": "Rygorystyczna automatyzacja testów, testy obciążenia/stresu, skanowanie podatności i zestawy testów regresyjnych.",
+      "pillar6Title": "DevOps i wdrożenie",
+      "pillar6Desc": "Zautomatyzowane potoki CI/CD, orkiestracja kontenerów (Docker/K8), infrastruktura w postaci kodu i wydania bez przestojów.",
+      "pillar7Title": "Wsparcie i konserwacja",
+      "pillar7Desc": "Proaktywne monitorowanie 24 godziny na dobę, 7 dni w tygodniu, telemetria stanu, audyty wydajności, poprawki zabezpieczeń i bieżąca konserwacja SLA.",
+      "pillar8Title": "Ciągłe innowacje",
+      "pillar8Desc": "Regularna prędkość funkcji, integracja analityki danych, ulepszenia AI i modernizacje architektury."
+    },
+    "processAutomation": {
+      "eyebrow": "Inteligentne operacje procesowe",
+      "titlePart1": "Proces Biznesowy",
+      "titlePart2": "Automatyzacja",
+      "description": "Kompleksowa automatyzacja przepływów pracy w przedsiębiorstwie, łącząca robotyczną automatyzację procesów (RPA), inteligentne przetwarzanie dokumentów, silniki reguł biznesowych i integrację systemów.",
+      "bookDiscovery": "Zarezerwuj odkrycie automatyzacji",
+      "exploreFramework": "Poznaj strukturę rozwiązań",
+      "coreCapabilities": [
+        "Automatyzacja przepływu pracy",
+        "Robotyczna automatyzacja procesów",
+        "Przetwarzanie dokumentów",
+        "Inżynieria Integracji",
+        "Silniki reguł biznesowych",
+        "Analityka procesów",
+        "Ciągła optymalizacja",
+        "Integracja ze starszymi wersjami"
+      ],
+      "row1Eyebrow": "Robotyczna automatyzacja procesów",
+      "row1Title": "Inteligentne boty do operacji o dużej objętości",
+      "row1P1": "Wyeliminuj powtarzalne ręczne wprowadzanie danych, uzgadnianie między systemami i przesyłanie dokumentów. Wdrażamy boty RPA dla przedsiębiorstw, które wykonują ustrukturyzowane zadania 24 godziny na dobę, 7 dni w tygodniu, z zerową stopą błędów.",
+      "row1P2": "Łącząc starsze interfejsy komputerów stacjonarnych, backendy SAP/ERP i bazy danych w chmurze, boty programowe uwalniają Twój zespół i mogą skupić się na strategicznych inicjatywach biznesowych.",
+      "row2Eyebrow": "Inteligentne przetwarzanie dokumentów",
+      "row2Title": "OCR, uczenie maszynowe i sztuczna inteligencja dokumentów",
+      "row2P1": "Automatycznie pozyskuj, klasyfikuj i wyodrębniaj dane z faktur, umów, dokumentów tożsamości i roszczeń. Nasze potoki oparte na sztucznej inteligencji weryfikują pola w oparciu o wewnętrzne bazy danych i uruchamiają automatyczne przepływy pracy zatwierdzające.",
+      "row2P2": "Osiągnij szybkość przetwarzania bezpośredniego przekraczającą 95%, jednocześnie drastycznie skracając czas realizacji z dni do sekund.",
+      "row3Eyebrow": "Orkiestracja procesów",
+      "row3Title": "Kompleksowa synchronizacja między platformami",
+      "row3P1": "Połącz interfejsy API CRM, ERP, HRMS i bankowości w ujednolicony przepływ danych w czasie rzeczywistym. Wdrażamy wyzwalacze sterowane zdarzeniami, kolejki komunikatów i automatyczne procedury obsługi awaryjnej.",
+      "row3P2": "Informacje płynnie przepływają pomiędzy działami bez interwencji człowieka, eliminując silosy operacyjne i opóźnienia w komunikacji.",
+      "row4Eyebrow": "Ciągła telemetria",
+      "row4Title": "Analiza procesów w czasie rzeczywistym i spostrzeżenia Kaizen",
+      "row4P1": "Śledź czas realizacji procesów, mapy cieplne wąskich gardeł, częstotliwości błędów i finansowy zwrot z inwestycji w pulpitach menedżerskich działających w czasie rzeczywistym.",
+      "row4P2": "Ciągła diagnostyka uczenia maszynowego odkrywa nowe możliwości automatyzacji, utrzymując maksymalną wydajność przedsiębiorstwa.",
+      "pillarsTitle": "Filary automatyzacji",
+      "pillarsSub": "Sprawdzone elementy składowe inteligentnych działań przedsiębiorstwa.",
+      "pillar1Title": "Automatyzacja przepływu pracy",
+      "pillar1Desc": "Wieloetapowe, cyfrowe przepływy pracy realizowane w pętli, zorganizowane za pomocą automatycznego wyznaczania tras i eskalacji.",
+      "pillar2Title": "Robotyczna automatyzacja procesów",
+      "pillar2Desc": "Oparte na regułach boty programowe wykonujące rutynowe wprowadzanie danych, uzgadnianie i zadania międzyaplikacyjne.",
+      "pillar3Title": "Inteligentna automatyzacja AI",
+      "pillar3Desc": "Kognitywni agenci AI, którzy interpretują kontekst, podsumowują nieustrukturyzowany tekst i podejmują zautomatyzowane decyzje.",
+      "pillar4Title": "Optymalizacja procesów",
+      "pillar4Desc": "Eksploracja procesów, wykrywanie wąskich gardeł i przepływy pracy Kaizen, które stale obniżają koszty operacyjne.",
+      "ctaTitle": "Chcesz zautomatyzować przepływ pracy w swojej firmie?",
+      "ctaSub": "Połącz się z naszymi architektami automatyzacji, aby zidentyfikować możliwości zapewniające wysoki zwrot z inwestycji i wdrożyć inteligentne cyfrowe przepływy pracy.",
+      "ctaButton": "Zarezerwuj konsultację w zakresie automatyki"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Standardy inżynieryjne oraz prace badawczo-rozwojowe",
+      "titlePart1": "Centrum",
+      "titlePart2": "Doskonałość",
+      "description": "Scentralizowana organizacja zrzeszająca starszych architektów i specjalistów dziedzinowych, której zadaniem jest standaryzacja praktyk inżynieryjnych, wspieranie innowacji i przyspieszanie inicjatyw cyfrowych.",
+      "exploreStandards": "Poznaj standardy inżynieryjne",
+      "initiateAssessment": "Rozpocznij ocenę CoE",
+      "coreCapabilities": [
+        "Standardy architektoniczne",
+        "Struktury wielokrotnego użytku",
+        "Najlepsze praktyki zarządzania",
+        "Rozwój umiejętności",
+        "Benchmarking jakości",
+        "Badania, rozwój i innowacje",
+        "Ocena technologii",
+        "Wytyczne międzyprojektowe"
+      ],
+      "uptimeLabel": "Czas sprawności przedsiębiorstwa",
+      "engineersLabel": "Inżynierowie i architekci",
+      "deploymentsLabel": "Wdrożenia AI i chmury",
+      "satisfactionLabel": "Satysfakcja Klienta",
+      "row1Eyebrow": "Filar 01 – Norma Inżynierska",
+      "row1Title": "Inżynieria oprogramowania o wysokiej wydajności",
+      "row1P1": "Nasze Centrum Doskonałości ustanawia ustandaryzowane wzorce projektowe, rygorystyczne automatyczne testy i praktyki przeglądu kodu pozbawione defektów, które przyspieszają czas wprowadzenia produktu na rynek, jednocześnie utrzymując dług techniczny na poziomie zerowym.",
+      "row1F1": "Zautomatyzowane potoki wydawania CI/CD z analizą metryk DORA",
+      "row1F2": "Ścisłe komisje recenzyjne dotyczące architektury i zarządzanie mikrousługami",
+      "row1F3": "Ciągłe poprawianie zabezpieczeń i automatyczne łatanie luk w zabezpieczeniach",
+      "row1Btn": "Poznaj standardy inżynieryjne",
+      "row1Tag": "DevOps i inżynieria jakości",
+      "row2Eyebrow": "Filar 02 — Innowacje B+R",
+      "row2Title": "Laboratorium innowacji AI i powstające technologie",
+      "row2P1": "Eksperymentujemy z najnowocześniejszymi modelami uczenia maszynowego, niestandardowymi agentami AI i inteligentną automatyzacją przepływu pracy, aby tworzyć produkty dla przedsiębiorstw nowej generacji.",
+      "row2F1": "Integracja wiedzy generatywnej AI i RAG w przedsiębiorstwie",
+      "row2F2": "Autonomiczne przepływy pracy agentów AI do automatyzacji procesów biznesowych",
+      "row2F3": "Optymalizacja i dostrajanie niestandardowego modelu uczenia maszynowego",
+      "row2Btn": "Poznaj laboratorium AI",
+      "row2Tag": "Badania i rozwój w zakresie sztucznej inteligencji i neuronów",
+      "row3Eyebrow": "Filar 03 — Infrastruktura",
+      "row3Title": "Architektura chmury korporacyjnej i bezpieczeństwo typu Zero-Trust",
+      "row3P1": "Projektujemy i zarządzamy odpornymi środowiskami wielochmurowymi zbudowanymi w oparciu o ramy bezpieczeństwa o zerowym zaufaniu, zapewniając ochronę Twoich danych przed ewoluującymi globalnymi zagrożeniami cybernetycznymi.",
+      "row3F1": "Orkiestracja infrastruktury wielochmurowej AWS, Azure i GCP",
+      "row3F2": "Dostęp do sieci o zerowym zaufaniu (ZTNA) i zasady IAM oparte na rolach",
+      "row3F3": "Zautomatyzowane skanowanie bezpieczeństwa kontenerów i zarządzanie sekretami",
+      "row3Btn": "Poznaj chmurę i bezpieczeństwo",
+      "row3Tag": "Architektura chmurowa i zero zaufania",
+      "pillarsTitle": "Nasze podstawowe ramy doskonałości",
+      "pillarsSub": "Usystematyzowane podręczniki programowania obsługujące platformy o znaczeniu krytycznym.",
+      "pillar1Title": "Komisja Rewizyjna Architektury (ARB)",
+      "pillar1Desc": "Kompleksowy nadzór zapewniający zgodność wszystkich rozwiązań dla przedsiębiorstw ze ścisłymi protokołami skalowalności, bezpieczeństwa i zgodności.",
+      "pillar2Title": "Akceleratory wielokrotnego użytku i biblioteka komponentów",
+      "pillar2Desc": "Własne systemy projektowe, zestawy startowe API i szablony mikrousług backendu skracające początkowy czas programowania o 40%.",
+      "pillar3Title": "Ciągłe profilowanie wydajności",
+      "pillar3Desc": "Zaawansowane potoki obserwacji w czasie rzeczywistym monitorujące opóźnienia aplikacji, wąskie gardła w przepustowości i wykorzystanie zasobów chmury.",
+      "pillar4Title": "Podnoszenie umiejętności i gildie",
+      "pillar4Desc": "Ustrukturyzowane wewnętrzne gildie i certyfikaty kultywujące głęboką biegłość techniczną w chmurze, DevOps i stosowanej sztucznej inteligencji.",
+      "ctaTitle": "Podnieś swój standard inżynieryjny",
+      "ctaSub": "Współpracuj z Centrum Doskonałości Rezonants, aby budować odporne architektury chmurowe, automatyzować przepływy pracy i przyspieszać dostarczanie produktów cyfrowych.",
+      "ctaButton": "Zaplanuj konsultacje wykonawcze",
+      "badge": "REZONANTS COE",
+      "scroll": "Przewiń",
+      "p1Title": "Zarządzanie i ramy",
+      "p1Desc": "Ustanów zarządzanie architekturą w całym przedsiębiorstwie, poręcze polityczne i standardy zgodności.",
+      "p1Tag": "Zarządzanie",
+      "p2Title": "Standardy technologiczne i architektura",
+      "p2Desc": "Zdefiniuj nowoczesne architektury referencyjne, sprawdzone stosy technologii i wzorce mikrousług.",
+      "p2Tag": "Architektura",
+      "p3Title": "Zasoby i biblioteki wielokrotnego użytku",
+      "p3Desc": "Przyspiesz rozwój dzięki udostępnionym komponentom, szablonom, zestawom startowym i systemom projektowym.",
+      "p3Tag": "Możliwość ponownego użycia",
+      "p4Title": "Rozwój kompetencji",
+      "p4Desc": "Ustrukturyzowane szkolenia, mentoring technologiczny i rozwijanie umiejętności w celu podniesienia sprawności inżynierskiej zespołu.",
+      "p4Tag": "Kompetencja",
+      "p5Title": "Innowacje i wschodzące technologie",
+      "p5Desc": "Badania i rozwój w zakresie agentów AI, procesów automatyzacji i platform nowej generacji w celu utrzymania przewagi rynkowej.",
+      "p5Tag": "Innowacje",
+      "p6Title": "Ciągłe doskonalenie",
+      "p6Desc": "Wskaźniki inżynieryjne oparte na danych (DORA), testy porównawcze SLA i ciągła optymalizacja jakości.",
+      "p6Tag": "Jakość"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Inżynieria cyfrowa szyta na miarę",
+      "titlePart1": "Rozwój niestandardowy i",
+      "titlePart2": "Personalizacja",
+      "description": "Rozwój i ulepszanie aplikacji, platform, przepływów pracy i rozwiązań dla przedsiębiorstw w celu spełnienia unikalnych wymagań biznesowych i zapewnienia dostosowanej funkcjonalności.",
+      "bookConsultation": "Umów się na konsultację",
+      "exploreCapabilities": "Poznaj możliwości",
+      "coreCapabilities": [
+        "Rozwój niestandardowy",
+        "Konfiguracja platformy",
+        "Rozszerzenia",
+        "Niestandardowe przepływy pracy",
+        "Rozwój API",
+        "Integracja systemu",
+        "Udoskonalenie interfejsu użytkownika/UX",
+        "Optymalizacja wydajności"
+      ],
+      "row1Eyebrow": "FUNKCJONALNOŚĆ DOSTOSOWANA DO ZAMÓWIENIA",
+      "row1Title": "Funkcje dostosowane do Twojego przepływu pracy",
+      "row1P1": "Standardowe oprogramowanie dla przedsiębiorstw często nie spełnia specjalistycznych potrzeb biznesowych. Nasz niestandardowy zespół inżynierów opracowuje dostosowane do indywidualnych potrzeb moduły aplikacji, niestandardowe reguły biznesowe i specjalistyczne rozszerzenia dostosowane do Twoich działań.",
+      "row1P2": "Od niestandardowych ulepszeń CRM i ERP po wyspecjalizowane portale operacyjne – tworzymy funkcje, które płynnie dopasowują się do dokładnych wzorców przepływu pracy Twojego zespołu.",
+      "row2Eyebrow": "INTEGRACJA SYSTEMÓW KORPORACYJNYCH",
+      "row2Title": "Konfiguracja platformy i rozwój API",
+      "row2P1": "Połącz różne systemy oprogramowania w zunifikowany ekosystem cyfrowy. Projektujemy niestandardowe interfejsy API REST i GraphQL, moduły obsługi webhook i korporacyjne kolejki komunikatów, aby zapewnić synchronizację danych w czasie rzeczywistym na wszystkich platformach.",
+      "row2P2": "Niezależnie od tego, czy integrujesz narzędzia SaaS innych firm, czy rozszerzasz własne platformy lokalne, nasze architektury integracyjne traktują priorytetowo integralność danych, przepustowość i zero przestojów.",
+      "row3Eyebrow": "Interfejs użytkownika/UX i WYDAJNOŚĆ",
+      "row3Title": "Ulepszenia interfejsu użytkownika/UX i optymalizacja wydajności",
+      "row3P1": "Ulepsz starsze interfejsy dzięki nowoczesnym, responsywnym interfejsom użytkownika zaprojektowanym z myślą o szybkości i przejrzystości. Reengineering frontendów zapewniamy intuicyjne wzorce projektowe, zgodność z dostępnością i usprawnione modele interakcji.",
+      "row3P2": "Równolegle nasi inżynierowie wydajności optymalizują zapytania do baz danych, strategie buforowania i rozmiary pakietów frontendowych, aby zapewnić natychmiastowy czas reakcji na wszystkich urządzeniach.",
+      "pillarsTitle": "Zaprojektowane według Twoich dokładnych specyfikacji",
+      "pillarsSub": "Metodologie dostosowywania klasy korporacyjnej stworzone z myślą o płynnym skalowaniu.",
+      "pillar1Title": "Niestandardowe przepływy pracy i rozszerzenia",
+      "pillar1Desc": "Dostosowana logika aplikacji i zautomatyzowane maszyny stanu skonfigurowane specjalnie pod kątem wewnętrznych reguł operacyjnych.",
+      "pillar2Title": "Integracja API i systemu",
+      "pillar2Desc": "Bezpieczne, uwierzytelnione mosty danych łączące zastrzeżone backendy, pakiety ERP, bramki płatnicze i usługi w chmurze.",
+      "pillar3Title": "Konfiguracja platformy",
+      "pillar3Desc": "Głębokie adaptacje architektury, które modyfikują oprogramowanie dla przedsiębiorstw bez przerywania ścieżek aktualizacji lub umów wsparcia dostawców.",
+      "pillar4Title": "Optymalizacja wydajności",
+      "pillar4Desc": "Agresywne profilowanie zapytań, eliminacja wycieków pamięci i dystrybucja brzegowa sieci CDN w przypadku wczytywania stron poniżej sekundy.",
+      "ctaTitle": "Chcesz dostosować swoją platformę korporacyjną?",
+      "ctaSub": "Połącz się z naszymi architektami rozwiązań, aby zaprojektować i wdrożyć niestandardowe moduły, przepływy pracy i integracje dostosowane do potrzeb biznesowych.",
+      "ctaButton": "Zarezerwuj rozmowę personalizacyjną",
+      "badge": "Inżynieria cyfrowa szyta na miarę",
+      "viewAllServices": "Zobacz wszystkie usługi"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Modernizacja przedsiębiorstwa",
+      "titlePart1": "Cyfrowe",
+      "titlePart2": "Transformacja",
+      "description": "Kompleksowa modernizacja procesów biznesowych, architektur technologicznych i modeli operacyjnych w celu zwiększenia sprawności organizacyjnej, wydajności operacyjnej i zrównoważonego rozwoju cyfrowego.",
+      "startTransformation": "Rozpocznij transformację",
+      "exploreStrategy": "Poznaj strategię",
+      "coreCapabilities": [
+        "Strategia i plan działania",
+        "Modernizacja Architektury",
+        "Chmura i infrastruktura",
+        "Dane i analityka",
+        "Cyfryzacja procesów",
+        "Doświadczenie klienta",
+        "Zarządzanie zmianami",
+        "Zwinne modele operacyjne"
+      ],
+      "row1Eyebrow": "Strategia i plan działania",
+      "row1Title": "Od wizji do wykonalnego planu działania",
+      "row1P1": "Współpracujemy z liderami przedsiębiorstw w celu zdefiniowania strategii cyfrowej, uzasadnień biznesowych i etapowych planów działania zapewniających szybkie zwycięstwa i realizację bez ryzyka.",
+      "row1P2": "Inicjatywy z priorytetami, modele całkowitego kosztu posiadania i wskaźniki KPI zapewniają, że każdy wysiłek w zakresie modernizacji technologii jest bezpośrednio powiązany z przychodami, wydajnością i wynikami w zakresie zadowolenia klientów.",
+      "row2Eyebrow": "Starsza modernizacja",
+      "row2Title": "Modernizuj bez niszczenia biznesu",
+      "row2P1": "Przekształć monolity w platformy na mikrousługi, interfejsy API i wzorce natywne w chmurze z przestojami bez przestojów i automatyczną walidacją regresji.",
+      "row2P2": "Modernizujemy aplikacje, bazy danych i warstwy integracyjne, zachowując jednocześnie zgodność i stan bezpieczeństwa.",
+      "row3Eyebrow": "Chmura, sztuczna inteligencja i dane",
+      "row3Title": "Wdrożenie chmury i inteligencja oparta na danych",
+      "row3P1": "Wykorzystaj AWS, Azure i GCP, twórz nowoczesne potoki danych i osadzaj agentów uczenia maszynowego, aby podejmować autonomiczne decyzje.",
+      "row3P2": "Od strumieniowego przesyłania zdarzeń w czasie rzeczywistym po ujednolicone pulpity nawigacyjne – transformacja staje się wymierna i trwała.",
+      "row4Eyebrow": "Doświadczenie klienta",
+      "row4Title": "Nowoczesne doświadczenia omnichannel",
+      "row4P1": "Przeprojektuj podróże klientów w responsywnych portalach internetowych, iOS i Android oraz portalach samoobsługowych ze spersonalizowanymi interfejsami.",
+      "row4P2": "Inżynieria platform, telemetria i zautomatyzowane pętle sprzężenia zwrotnego sprawiają, że innowacje cyfrowe są ciągłe.",
+      "pillarsTitle": "Filary Transformacji",
+      "pillarsSub": "Dźwignie zorientowane na wyniki, które zapewniają zrównoważone przywództwo cyfrowe.",
+      "pillar1Title": "Strategia cyfrowa i zarządzanie",
+      "pillar1Desc": "Plany etapowej transformacji z modelowaniem uzasadnienia biznesowego, zarządzaniem architekturą i śledzeniem ryzyka kamieni milowych.",
+      "pillar2Title": "Platforma chmurowa i danych",
+      "pillar2Desc": "Podstawy wielochmurowe AWS/Azure/GCP, zautomatyzowane potoki i możliwość analityki danych przedsiębiorstwa.",
+      "pillar3Title": "Sztuczna inteligencja i automatyzacja",
+      "pillar3Desc": "Inteligentna automatyzacja procesów, kognitywni agenci AI i predykcyjna telemetria w celu optymalizacji codziennych operacji.",
+      "pillar4Title": "Doświadczenie klienta",
+      "pillar4Desc": "Wielokanałowe portale cyfrowe o wysokiej konwersji i spersonalizowane interfejsy stworzone z myślą o maksymalnym utrzymaniu użytkowników.",
+      "ctaTitle": "Gotowy na transformację swojego przedsiębiorstwa?",
+      "ctaSub": "Partner Rezonants na rzecz stopniowej, pozbawionej ryzyka transformacji cyfrowej powiązanej z mierzalnymi wynikami biznesowymi.",
+      "ctaButton": "Zamów rozmowę telefoniczną dotyczącą transformacji cyfrowej",
+      "bookWorkshop": "Warsztaty Transformacji Książki",
+      "exploreFramework": "Poznaj strukturę rozwiązań",
+      "coreCapabilitiesTitle": "Podstawowe możliwości"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Kompletny cykl życia technologii",
+      "titlePart1": "Kompleksowe rozwiązanie",
+      "titlePart2": "Ramy",
+      "description": "Ustrukturyzowana struktura dostarczania obejmująca cały cykl życia, obejmująca wymagania biznesowe, projektowanie architektury, inżynierię, integrację, zapewnienie jakości, wdrażanie w chmurze i zarządzane operacje.",
+      "startJourney": "Rozpocznij swój projekt",
+      "exploreFramework": "Poznaj Framework",
+      "coreCapabilities": [
+        "Analiza wymagań",
+        "Projekt Architektoniczny",
+        "Pełny rozwój",
+        "Inżynieria Integracji",
+        "Zapewnienie jakości",
+        "Wdrożenie i wdrożenie",
+        "Operacje bieżące",
+        "Ciągła ewolucja"
+      ],
+      "row1Eyebrow": "Strategia i architektura",
+      "row1Title": "Inżynieria wymagań i projektowanie rozwiązań",
+      "row1P1": "Wspólne warsztaty, mapowanie domen biznesowych i specyfikacje architektury chmury zaprojektowane w celu wyeliminowania ryzyka przed napisaniem wiersza kodu.",
+      "row1P2": "Definiujemy modele danych, ramy bezpieczeństwa i kamienie milowe skalowalności, które zapewniają długoterminowy sukces.",
+      "row2Eyebrow": "Inżynieria i jakość",
+      "row2Title": "Pełny rozwój i automatyczne testowanie",
+      "row2P1": "Modułowe mikrousługi, interfejsy API z bezpiecznym typem i responsywne frontendy w połączeniu ze zautomatyzowanymi jednostkami, integracją i skanowaniem bezpieczeństwa.",
+      "row2P2": "Potoki ciągłej integracji z GitHub Actions, Terraform i automatycznymi barierami bezpieczeństwa.",
+      "row3Eyebrow": "Wdrożenie i eksploatacja",
+      "row3Title": "Wdrożenie w chmurze i monitorowanie zarządzane 24 godziny na dobę, 7 dni w tygodniu",
+      "row3P1": "Orkiestracja w wielu chmurach na platformie AWS/Azure/GCP z automatycznym wycofywaniem zmian, przełączaniem bez przestojów i możliwością obserwacji w czasie rzeczywistym.",
+      "row3P2": "Zapewniamy konserwację w ramach umowy SLA i ciągłe monitorowanie telemetryczne, aby zapewnić płynny rozwój produktu.",
+      "row4Eyebrow": "Zarządzanie przedsiębiorstwem",
+      "row4Title": "Ujednolicone zarządzanie i ciągłe wsparcie",
+      "row4P1": "Pojedyncza odpowiedzialność za cały cyfrowy stos — przejrzysta prędkość sprintu, przewidywalne budżetowanie i ciągłe innowacje.",
+      "row4P2": "Regularne cykle wdrażania funkcji i modernizacji pozwalają Twojemu przedsiębiorstwu wyprzedzić konkurencję.",
+      "pillarsTitle": "Filary ram cyklu życia",
+      "pillarsSub": "Każda faza zaprojektowana z zachowaniem rygoru korporacyjnego.",
+      "pillar1Title": "Strategia i wymagania",
+      "pillar1Desc": "Odkrywanie domen, plany architektoniczne i dostosowywanie interesariuszy w celu wyeliminowania ryzyka realizacji.",
+      "pillar2Title": "Architektura i budownictwo",
+      "pillar2Desc": "Odporne mikrousługi natywne dla chmury, integracje API i ciągłe testowanie kontroli jakości.",
+      "pillar3Title": "Bezpieczeństwo i wdrażanie",
+      "pillar3Desc": "Zgodność z zabezpieczeniami typu zero-trust, wersje kontenerowe i zautomatyzowane wdrożenia w chmurze.",
+      "pillar4Title": "Zarządzanie i wsparcie",
+      "pillar4Desc": "Całodobowe monitorowanie SLA, telemetria stanu i ciągła inżynieria ewolucyjna.",
+      "ctaTitle": "Potrzebujesz kompletnego partnera w zakresie cyklu życia?",
+      "ctaSub": "Posiadamy pełny cykl życia technologii, dzięki czemu Twój zespół może skupić się na kluczowych wynikach biznesowych.",
+      "ctaButton": "Partner w całym cyklu życia"
+    },
+    "migrationServices": {
+      "eyebrow": "Transformacja chmury i infrastruktury",
+      "titlePart1": "Migracja i",
+      "titlePart2": "Modernizacja",
+      "description": "Bezpieczna, ustrukturyzowana migracja starszych aplikacji, baz danych i infrastruktury do nowoczesnych architektur chmurowych w połączeniu z ciągłą modernizacją w celu zwiększenia elastyczności i wydajności.",
+      "bookAssessment": "Ocena migracji książek",
+      "exploreStrategy": "Poznaj strategię dotyczącą chmury",
+      "coreCapabilities": [
+        "Migracja do chmury",
+        "Modernizacja aplikacji",
+        "Migracja baz danych",
+        "Rehosting infrastruktury",
+        "Konteneryzacja",
+        "Przejście na mikrousługi",
+        "Optymalizacja wydajności",
+        "Bezpieczeństwo i zgodność"
+      ],
+      "row1Eyebrow": "Migracja do chmury",
+      "row1Title": "Strategia wielu chmur oraz podnoszenie i optymalizacja",
+      "row1P1": "Bezproblemowa migracja zadań między platformami AWS, Azure i Google Cloud dzięki automatycznemu wykrywaniu, planowaniu fal i zerowym przerwom w działalności.",
+      "row1P2": "Równoważymy rehosting, replatforming i refaktoryzację, aby zoptymalizować całkowity koszt posiadania (TCO) i elastyczność.",
+      "row2Eyebrow": "Migracja danych i baz danych",
+      "row2Title": "Bezpieczne ETL i automatyczna weryfikacja danych",
+      "row2P1": "Zautomatyzowana replikacja baz danych, translacja schematów i wysokoprzepustowe potoki ETL ze 100% weryfikacją integralności danych.",
+      "row2P2": "Próba przełączania bez przestojów zapewnia pełną spójność danych i ciągłość działania.",
+      "row3Eyebrow": "Modernizacja Platformy",
+      "row3Title": "Konteneryzacja i orkiestracja Kubernetes",
+      "row3P1": "Zmodernizuj dotychczasowe monolity w skalowalne mikrousługi zarządzane za pośrednictwem Kubernetes (EKS, AKS, GKE) za pomocą zautomatyzowanych planów IaC.",
+      "row3P2": "Profilowanie wydajności po migracji i optymalizacja kosztów zapewniają natychmiastowy zwrot z inwestycji.",
+      "row4Eyebrow": "Planowanie przestojów",
+      "row4Title": "Automatyczne testowanie i siatki zabezpieczające",
+      "row4P1": "Przetestowane w boju elementy Runbook do przełączania, zautomatyzowane zestawy regresji i mechanizmy natychmiastowego wycofywania danych, zapewniające całkowity spokój ducha.",
+      "row4P2": "Telemetria stanu zdrowia po migracji i całodobowa hiperopieka gwarantują doskonałą stabilność produkcji.",
+      "pillarsTitle": "Gwarancje migracji",
+      "pillarsSub": "Ruchy pozbawione ryzyka, objęte umowami SLA dla przedsiębiorstw.",
+      "pillar1Title": "Przełączanie bez przestojów",
+      "pillar1Desc": "Wersje Canary i synchronizacja podwójnego zapisu w bazie danych w celu zapewnienia nieprzerwanego dostępu użytkowników.",
+      "pillar2Title": "Automatyczna weryfikacja danych",
+      "pillar2Desc": "Porównania sum kontrolnych, audyty integralności schematu i automatyczne uzgadnianie ETL.",
+      "pillar3Title": "Siatki zabezpieczające przed wywróceniem",
+      "pillar3Desc": "Ścisłe protokoły odtwarzania po awarii i ćwiczenia próbne mające na celu ograniczenie ryzyka na każdym etapie.",
+      "pillar4Title": "Optymalizacja wydajności i kosztów",
+      "pillar4Desc": "Uwzględniono prawa do zmiany rozmiaru chmury, zasady automatycznego skalowania i pulpity nawigacyjne zarządzania kosztami.",
+      "ctaTitle": "Gotowy do migracji z całkowitą pewnością?",
+      "ctaSub": "Współpracuj z Rezonants w zakresie ustrukturyzowanej, pozbawionej ryzyka modernizacji chmury i danych.",
+      "ctaButton": "Zaplanuj warsztaty dotyczące migracji"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Szybka weryfikacja i wykonalność",
+      "titlePart1": "Weryfikacja koncepcji (PoC) i",
+      "titlePart2": "Wdrożenie pilotażowe",
+      "description": "Szybki rozwój i walidacja rozwiązań technologicznych w celu oceny wykonalności technicznej, wartości biznesowej, wymagań integracyjnych, wydajności i skalowalności przed wdrożeniem na pełną skalę.",
+      "initiateDiscovery": "Rozpocznij wykrywanie PoC",
+      "exploreDevelopment": "Poznaj rozwój niestandardowy",
+      "coreCapabilities": [
+        "Rozwój PoC",
+        "Inżynieria prototypów",
+        "Studia wykonalności",
+        "Walidacja architektury",
+        "Testowanie integracyjne",
+        "Testowanie wydajności",
+        "Wdrożenie pilotażowe",
+        "Ocena wartości"
+      ],
+      "row1Eyebrow": "Szybka weryfikacja",
+      "row1Title": "Od koncepcji do potwierdzonej wykonalności",
+      "row1P1": "Przekształcenie pomysłu w rozwiązanie na skalę przedsiębiorstwa wymaga rygorystycznej wstępnej weryfikacji. Nasza usługa PoC i pilotażowa ocenia rentowność technologii, testuje warunki skrajne krytyczne punkty integracji i weryfikuje zwrot z inwestycji w biznes przed większymi zobowiązaniami kapitałowymi.",
+      "row1P2": "Konstruujemy wysokiej jakości MVP i ukierunkowane pilotaże piaskownicy, które potwierdzają techniczną wykonalność, mierzą opóźnienia systemu i wcześnie zbierają bezpośrednią weryfikację od interesariuszy.",
+      "row1Cap": "Szybkie prototypowanie MVP i testy techniczne",
+      "row2Eyebrow": "Zwinne prototypowanie",
+      "row2Title": "Interaktywni MVP i weryfikacja UX",
+      "row2P1": "Tworzymy interaktywne makiety, klikalne przepływy użytkowników i funkcjonalne weryfikacje koncepcji w ciągu dni, a nie miesięcy. Testuj rzeczywiste interakcje użytkowników, udoskonalaj wzorce UI/UX i zbieraj przydatne opinie od interesariuszy.",
+      "row2P2": "Skracając pętlę informacji zwrotnych na wczesnym etapie programowania, Twój zespół minimalizuje liczbę przeróbek i ustala jasne specyfikacje techniczne przed rozpoczęciem kapitałochłonnych faz budowy.",
+      "row2Cap": "Szybka iteracja i klikalne prototypy UX",
+      "row3Eyebrow": "Testowanie integracji i skalowalności",
+      "row3Title": "Ogranicz ryzyko integracji złożonych systemów",
+      "row3P1": "Odkryj wąskie gardła techniczne, ograniczenia API i ograniczenia wydajności przed pełnym zaangażowaniem kapitału. Nasz pilotażowy zespół inżynierów testuje integracje, potoki danych i interfejsy API innych firm w izolowanych środowiskach piaskownicy.",
+      "row3P2": "To proaktywne ograniczanie ryzyka zapewnia wysoką dostępność systemu, zgodność z bezpieczeństwem i przewidywalne harmonogramy rozwoju podczas przenoszenia PoC do produkcji w przedsiębiorstwie.",
+      "row3Cap": "Integracja piaskownicy i testy obciążeniowe",
+      "row4Eyebrow": "Kontrolowana produkcja pilotażowa",
+      "row4Title": "Ukierunkowane uruchomienie pilotażu i weryfikacja uzasadnienia biznesowego",
+      "row4P1": "Wdrażaj ukierunkowane wersje pilotażowe w wybranym segmencie użytkowników lub na rynku testowym. Śledź wskaźniki wydajności, analizy dotyczące przyjęcia przez użytkowników i informacje zwrotne operacyjne, aby określić ilościowo wartość biznesową i ustalić uzasadnienie biznesowe poparte danymi.",
+      "row4P2": "Dzięki wnioskom pilotażowym z rzeczywistego świata sponsorzy kadry kierowniczej zyskują jasne wskaźniki ROI uzasadniające szersze wdrożenia i strategiczne inwestycje w transformację cyfrową.",
+      "row4Cap": "Kontrolowana telemetria wdrażania i wydajności",
+      "pillarsTitle": "Nasze zasady inżynierii pilotażowej",
+      "pillarsSub": "Zasady przewodnie, które zmieniają niepewność techniczną w przewidywalny sukces biznesowy.",
+      "pillar1Title": "Prototypowanie PoC i MVP",
+      "pillar1Desc": "Szybkie dostarczanie funkcjonalnych prototypów w celu sprawdzenia propozycji wartości na wczesnym etapie cyklu życia.",
+      "pillar2Title": "Wykonalność i walidacja",
+      "pillar2Desc": "Sprawdź zgodność API, progi przepustowości i ograniczenia zgodności w środowiskach piaskownicy.",
+      "pillar3Title": "Ocena skalowalności",
+      "pillar3Desc": "Symuluj obciążenie produkcyjne, aby ustalić limity wydajności i określić rozmiar architektury chmury.",
+      "pillar4Title": "Walidacja uzasadnienia biznesowego",
+      "pillar4Desc": "Określ ilościowo wymierne wskaźniki zwrotu z inwestycji i produktywności, aby wesprzeć decyzje dotyczące wdrożenia w całym przedsiębiorstwie.",
+      "ctaTitle": "Gotowy do sprawdzenia swojego kolejnego rozwiązania cyfrowego?",
+      "ctaSub": "Połącz się z naszym zespołem inżynierów rozwiązań, aby poznać wymagania projektu, zbudować prototyp i przetestować wykonalność przy zerowym ryzyku.",
+      "ctaButton": "Zarezerwuj konsultację PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Scentralizowane centrum operacyjne",
+      "titlePart1": "Usługi wspólne i",
+      "titlePart2": "Operacje zarządzane",
+      "description": "Scentralizowane dostarczanie technologii i możliwości operacyjnych pomiędzy jednostkami biznesowymi poprzez ustandaryzowane procesy, wykwalifikowane zasoby, ramy zarządzania, zarządzanie usługami i mierzalne poziomy usług.",
+      "bookDiscovery": "Zarezerwuj wykrywanie operacji zarządzanych",
+      "exploreFramework": "Poznaj strukturę rozwiązań",
+      "coreCapabilities": [
+        "Usługi zarządzane",
+        "Operacje IT",
+        "Wsparcie aplikacji",
+        "Zarządzanie usługami",
+        "Optymalizacja zasobów",
+        "Zarządzanie SLA",
+        "Zarządzanie",
+        "Ciągłe doskonalenie",
+        "Optymalizacja kosztów"
+      ],
+      "row1Eyebrow": "Ujednolicone centrum dostaw",
+      "row1Title": "Standardowe usługi we wszystkich jednostkach biznesowych",
+      "row1P1": "Skonsoliduj zaplecze IT, zarządzanie infrastrukturą i wsparcie techniczne w jednym, wysokowydajnym centrum dostaw.",
+      "row1P2": "Eliminując powielanie kosztów ogólnych zespołu i standaryzując modele świadczenia usług, Twoja organizacja zapewnia stałą jakość i obniża całkowite wydatki operacyjne.",
+      "row2Eyebrow": "Całodobowe wsparcie SRE i aplikacji",
+      "row2Title": "Proaktywne monitorowanie i szybkie rozwiązywanie incydentów",
+      "row2P1": "Nasi oddani inżynierowie ds. niezawodności lokalizacji (SRE) i specjaliści ds. wsparcia zapewniają monitorowanie telemetryczne 24 godziny na dobę, 7 dni w tygodniu, 365 dni w tygodniu, automatyczną selekcję alertów i szybkie rozwiązywanie problemów L1/L2/L3.",
+      "row2P2": "Dzięki rygorystycznym zobowiązaniom SLA gwarantujemy dostępność na poziomie 99,99% dla aplikacji i infrastruktury chmurowej o znaczeniu krytycznym.",
+      "row3Eyebrow": "Zarządzanie i zgodność z ITIL",
+      "row3Title": "Strukturalne ramy zarządzania usługami",
+      "row3P1": "Wdrażaj wiodące w branży standardy ITSM (ServiceNow, Jira Service Management) z przejrzystymi zgłoszeniami, analizami przyczyn źródłowych i barierami zarządzania zmianami.",
+      "row3P2": "Kompleksowe ścieżki audytu i zasady zarządzania zapewniają zgodność Twoich operacji z międzynarodowymi standardami bezpieczeństwa.",
+      "row4Eyebrow": "FinOps i ciągłe doskonalenie",
+      "row4Title": "Przewidywalne budżetowanie i optymalizacja zasobów",
+      "row4P1": "Wyeliminuj straty w chmurze, zoptymalizuj wielkość zasobów obliczeniowych i zautomatyzuj rutynową konserwację operacyjną dzięki najlepszym praktykom FinOps.",
+      "row4P2": "Miesięczne raporty przejrzystości i prognozy wydajności zapewniają ciągłą optymalizację kosztów operacyjnych i wysoką efektywność kapitałową.",
+      "pillarsTitle": "Filary operacyjne",
+      "pillarsSub": "Sprawdzone dźwignie operacyjne zapewniające niezawodną skalowalność przedsiębiorstwa.",
+      "pillar1Title": "Zarządzanie operacjami IT 24 godziny na dobę, 7 dni w tygodniu",
+      "pillar1Desc": "Proaktywna telemetria NOC, instalowanie poprawek serwerów, konserwacja infrastruktury i gwarancja dostępności na poziomie 99,99%.",
+      "pillar2Title": "ITSM i biuro obsługi",
+      "pillar2Desc": "Wielokanałowe centrum pomocy technicznej poziomu 1/2/3, kierowanie incydentów i ustrukturyzowane przepływy pracy związane z rozwiązywaniem zgłoszeń.",
+      "pillar3Title": "SLA i kontrola wydajności",
+      "pillar3Desc": "Czasy reakcji określone w umowie, wskaźniki MTTR i przejrzyste comiesięczne audyty wydajności.",
+      "pillar4Title": "FinOps i optymalizacja kosztów",
+      "pillar4Desc": "Ciągłe dopasowywanie rozmiaru zasobów, odzyskiwanie licencji i automatyczna redukcja kosztów chmury.",
+      "ctaTitle": "Gotowy do skalowania zarządzanych operacji?",
+      "ctaSub": "Współpracuj z Rezonants, aby uzyskać niezawodne, zarządzane usługi 24/7, które optymalizują koszty i eliminują przestoje operacyjne.",
+      "ctaButton": "Zarezerwuj konsultację dotyczącą zarządzanych operacji",
+      "howItWorksHeading": "Sprawdzona droga do sukcesu usług wspólnych"
+    },
+    "aiRobotics": {
+      "brand": "Sztuczna inteligencja i robotyka",
+      "eyebrow": "Inteligentne systemy",
+      "heroHeading": "Sztuczna inteligencja i robotyka współpracują ze sobą",
+      "intro": "Sztuczna inteligencja (AI) i robotyka zmieniają sposób działania przedsiębiorstw, łącząc inteligentne podejmowanie decyzji z zaawansowaną automatyzacją. Sztuczna inteligencja umożliwia maszynom analizowanie danych, uczenie się wzorców i podejmowanie mądrych decyzji, podczas gdy robotyka przenosi te możliwości do świata fizycznego, aby wykonywać zadania z szybkością, dokładnością i konsekwencją.",
+      "section1Heading": "Zbudowany, aby usprawnić każdą operację",
+      "section1Text": "Nasze rozwiązania w zakresie sztucznej inteligencji i robotyki pomagają organizacjom usprawnić operacje, zmniejszyć wysiłek ręczny i poprawić produktywność w różnych branżach. Od automatyzacji procesów i analiz predykcyjnych po inteligentną robotykę i inteligentne systemy – dostarczamy innowacyjne technologie, które zwiększają wydajność, napędzają rozwój i wspierają transformację cyfrową.",
+      "section2Heading": "Gdzie inteligencja spotyka się z działaniem",
+      "section2Text": "Każda interakcja, decyzja i ruch są obsługiwane przez jeden połączony system, który przekształca dane w wyniki w czasie rzeczywistym.",
+      "footerTag": "Innowacyjna technologia transformacji cyfrowej"
+    },
+    "informationReporting": {
+      "brand": "Platforma danych korporacyjnych",
+      "heroTitle": "Systemy informacyjne i raportowania",
+      "heroSubtitle": "Jedno źródło prawdy dla każdego działu — stworzone, aby przekształcać surowe dane operacyjne w decyzje, na podstawie których Twoja firma może podjąć działania już dziś.",
+      "statusLive": "NA ŻYWO",
+      "statusAnalyzed": "ANALIZOWANE",
+      "statusArchived": "Zarchiwizowane",
+      "statusPending": "OCZEKUJĄCE",
+      "metricUptime": "Czas działania systemu",
+      "metricSessions": "Aktywne sesje",
+      "metricReportsPerDay": "Raporty / Dzień",
+      "metricEvents": "Codzienne przetwarzane zdarzenia",
+      "metricReports": "Zaplanowane raporty",
+      "metricLatency": "Opóźnienie interfejsu API",
+      "unifiedPlatform": "Zunifikowana platforma",
+      "analyticsSuite": "Pakiet analityczny",
+      "reportingConsole": "Konsola raportowania",
+      "businessOutcome": "Wynik biznesowy",
+      "section1Heading": "Jeden scentralizowany system dla wszystkich istotnych wskaźników",
+      "section1P1": "Systemy informacyjne i raportowe to niezbędne rozwiązania biznesowe, które umożliwiają organizacjom gromadzenie, zarządzanie i przekształcanie danych w znaczące wnioski. Systemy te integrują informacje z wielu działów, zapewniając dokładny, spójny dostęp w czasie rzeczywistym do kluczowych danych biznesowych. Zapewniając scentralizowaną platformę do zarządzania informacjami, organizacje mogą poprawić widoczność operacyjną, usprawnić przepływy pracy i wspierać podejmowanie strategicznych decyzji na wszystkich poziomach przedsiębiorstwa.",
+      "section1P2": "Systemy te korzystają z automatycznych raportów, analiz i pulpitów nawigacyjnych do śledzenia wydajności, monitorowania kluczowych wskaźników i generowania raportów w czasie rzeczywistym. Ograniczając wysiłek ręczny i poprawiając dokładność danych, firmy mogą podejmować szybsze i skuteczniejsze decyzje.",
+      "section2Heading": "Stworzone z myślą o widoczności, zgodności i skali",
+      "section2Text": "Dzięki lepszej widoczności, zgodności i współpracy systemy informacyjne i raportowania umożliwiają organizacjom optymalizację procesów, poprawę produktywności i stymulowanie zrównoważonego wzrostu biznesowego w konkurencyjnym środowisku.",
+      "ctaHeading": "Daj każdemu zespołowi ten sam obraz firmy w czasie rzeczywistym.",
+      "ctaText": "Zobacz, jak Nexus Data Systems może skonsolidować Twoje raporty w jedną inteligentną platformę.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Wszelkie prawa zastrzeżone.",
+      "navOverview": "Przegląd",
+      "navCapabilities": "Możliwości",
+      "navImpact": "Wpływ",
+      "navContact": "Kontakt"
+    },
+    "managedServices": {
+      "subtitle": "Kompleksowe usługi zarządzane dla Twojej firmy"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernizacja aplikacji biznesowych dla przedsiębiorstwa opartego na danych",
+      "excerpt": "Jak nowoczesna architektura aplikacji i połączone dane mogą poprawić efektywność operacyjną, skalowalność i widoczność biznesową.",
+      "tag": "Transformacja biznesowa",
+      "category": "TRANSFORMACJA BIZNESU",
+      "summary": "Nowoczesne aplikacje i podstawy danych mogą pomóc przedsiębiorstwom poprawić efektywność operacyjną, połączyć systemy biznesowe i zapewnić lepszą widoczność całej ich działalności."
+    },
+    "artificial-intelligence": {
+      "title": "Jak sztuczna inteligencja zmienia aplikacje korporacyjne",
+      "excerpt": "Dowiedz się, w jaki sposób inteligentna automatyzacja, drugi pilot AI i inteligencja predykcyjna stają się częścią aplikacji dla przedsiębiorstw, na których codziennie korzystają firmy.",
+      "tag": "Sztuczna inteligencja",
+      "category": "SZTUCZNA INTELIGENCJA",
+      "summary": "Dowiedz się, jak inteligentna automatyzacja, drugi pilot AI i inteligencja predykcyjna przekształcają codzienne oprogramowanie dla przedsiębiorstw w adaptacyjne, proaktywne platformy."
+    },
+    "modern-erp": {
+      "title": "Przyspieszenie transformacji biznesu dzięki nowoczesnemu systemowi ERP",
+      "excerpt": "Dowiedz się, jak nowoczesne platformy ERP łączą finanse, zaopatrzenie, łańcuch dostaw i operacje biznesowe w ramach ujednoliconej podstawy cyfrowej.",
+      "tag": "Nowoczesny ERP",
+      "category": "NOWOCZESNY ERP",
+      "summary": "Nowoczesna platforma ERP łączy finanse, zaopatrzenie, łańcuch dostaw i operacje biznesowe w ujednolicony model operacyjny działający w czasie rzeczywistym."
+    },
+    "cybersecurity": {
+      "title": "Budowanie odporności cybernetycznej w połączonym przedsiębiorstwie",
+      "excerpt": "Dowiedz się, w jaki sposób organizacje mogą wzmocnić bezpieczeństwo, chronić krytyczne systemy i przygotować się na zagrożenia w coraz bardziej połączonych środowiskach.",
+      "tag": "Cyberbezpieczeństwo",
+      "category": "CYBERBEZPIECZEŃSTWO",
+      "summary": "W miarę jak przedsiębiorstwa integrują coraz więcej systemów chmurowych, interfejsów API i ekosystemów partnerów, odporność cybernetyczna zapewnia, że operacje o znaczeniu krytycznym są odporne na współczesne zagrożenia."
+    },
+    "cloud-modernization": {
+      "title": "Modernizacja starszych aplikacji dla chmury",
+      "excerpt": "Poznaj praktyczne podejście do oceny, modernizacji i przenoszenia starszych aplikacji w kierunku skalowalnych, bezpiecznych architektur chmurowych.",
+      "tag": "Chmura i modernizacja",
+      "category": "CHMURA I MODERNIZACJA",
+      "summary": "Ustrukturyzowany, pragmatyczny plan działania umożliwiający ocenę, refaktoryzację i migrację monolitycznych systemów korporacyjnych do elastycznych, łatwych w utrzymaniu architektur chmurowych."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "TRANSFORMACJA BIZNESU",
+      "title": "Modernizacja aplikacji biznesowych dla przedsiębiorstwa opartego na danych",
+      "subtitle": "Nowoczesne aplikacje i podstawy danych mogą pomóc przedsiębiorstwom poprawić efektywność operacyjną, połączyć systemy biznesowe i zapewnić lepszą widoczność całej ich działalności.",
+      "date": "wrzesień 2026",
+      "readTime": "7 minut czytania",
+      "imageCaption": "Perspektywa technologii korporacyjnej — architektura aplikacji i połączone dane",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Aplikacje biznesowe",
+          "desc": "Różne starsze narzędzia CRM, ERP i narzędzia działowe działające w silosach."
+        },
+        {
+          "title": "Wiele źródeł danych",
+          "desc": "Fragmentaryczne tabele operacyjne, ekstrakty CSV i schematy ad hoc."
+        },
+        {
+          "title": "Rozłączone bazy danych",
+          "desc": "Izolowane, lokalne i nieskoordynowane repozytoria danych w chmurze."
+        },
+        {
+          "title": "Raporty i użytkownicy biznesowi",
+          "desc": "Ręczne uzgodnienia, sprzeczne arkusze kalkulacyjne i opóźnione raportowanie."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Aplikacje biznesowe",
+          "desc": "Podstawowe platformy operacyjne i nowoczesne, responsywne interfejsy."
+        },
+        {
+          "title": "API / Warstwa integracyjna",
+          "desc": "Bezpieczna, sterowana zdarzeniami brama API łącząca przepływy pracy w przedsiębiorstwie."
+        },
+        {
+          "title": "Usługi danych",
+          "desc": "Ujednolicone modele danych głównych, potoki i zoptymalizowane silniki pamięci masowej."
+        },
+        {
+          "title": "Analityka i raportowanie",
+          "desc": "Telemetria w czasie rzeczywistym, modele semantyczne i automatyczne raportowanie."
+        },
+        {
+          "title": "Decydenci biznesowi",
+          "desc": "Działające na żywo pulpity operacyjne zapewniające ujednoliconą widoczność dla kadry kierowniczej."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Aplikacje dla przedsiębiorstw",
+          "purpose": "Zarządzanie procesami biznesowymi"
+        },
+        {
+          "area": "API",
+          "purpose": "Integracja systemu"
+        },
+        {
+          "area": "Bazy danych",
+          "purpose": "Ustrukturyzowane dane biznesowe"
+        },
+        {
+          "area": "Integracja danych",
+          "purpose": "Podłączanie wielu źródeł"
+        },
+        {
+          "area": "Analityka",
+          "purpose": "Spostrzeżenia biznesowe"
+        },
+        {
+          "area": "Infrastruktura chmurowa",
+          "purpose": "Skalowalność i elastyczność"
+        },
+        {
+          "area": "Monitorowanie",
+          "purpose": "Niezawodność i wydajność"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Lepsza widoczność operacyjna w jednostkach wielofunkcyjnych",
+        "Lepsza spójność danych i jedno źródło prawdy korporacyjnej",
+        "Mniejszy wysiłek związany z ręcznym raportowaniem i zautomatyzowana kompilacja danych",
+        "Poprawiona wydajność aplikacji i zmniejszone opóźnienia w transakcjach",
+        "Łatwiejsza integracja systemu dzięki ustandaryzowanym, bezpiecznym interfejsom API",
+        "Większa skalowalność wspierająca rozwój organiczny i przejęcia",
+        "Lepsza podstawa dla przyszłych innowacji i wykorzystania inteligencji"
+      ],
+      "keyPerspectivePoints": [
+        "Zrozumienie procesów biznesowych i rzeczywistych przepływów pracy",
+        "Łączenie systemów poprzez niezawodne standardy integracji",
+        "Poprawa jakości danych, zarządzania i modeli danych podstawowych",
+        "Modernizacja aplikacji bez destabilizacji codziennego funkcjonowania",
+        "Tworzenie skalowalnej architektury dostosowanej do elastycznego wzrostu",
+        "Lepsza widoczność firmy w celu proaktywnego podejmowania decyzji"
+      ],
+      "sec1Eyebrow": "WYZWANIE BIZNESOWE",
+      "sec1Heading": "Radzenie sobie ze złożonością w rozwijającym się przedsiębiorstwie",
+      "sec1Subtext": "W miarę skalowania przedsiębiorstw ekosystemy technologiczne nieuchronnie się rozszerzają. To, co zaczyna się jako ukierunkowane rozwiązania dla poszczególnych działów, może przekształcić się w splątaną sieć odrębnych systemów.",
+      "sec2Eyebrow": "EWOLUCJA SYSTEMU",
+      "sec2Heading": "Złożony krajobraz technologiczny",
+      "sec2Subtext": "Ślady starszych aplikacji powodują fragmentację magazynów danych, doświadczeń użytkowników i widoczności operacyjnej.",
+      "sec3Eyebrow": "PODŁĄCZONY MODEL",
+      "sec3Heading": "Nowoczesna architektura aplikacji",
+      "sec3Subtext": "Przejście z monolitycznych silosów na oddzielone usługi połączone ze sobą bezpiecznymi interfejsami API i strumieniowaniem danych sterowanym zdarzeniami.",
+      "sec4Eyebrow": "INTELIGENCJA I WIDOCZNOŚĆ",
+      "sec4Heading": "Połączone dane i analizy",
+      "sec4Subtext": "Odblokowanie silosów danych w celu umożliwienia automatycznego raportowania, ujednoliconych pulpitów nawigacyjnych i proaktywnych decyzji biznesowych.",
+      "sec5Eyebrow": "PLAN ARCHITEKTURY",
+      "sec5Heading": "Fundacja Technologii",
+      "sec5Subtext": "Ustrukturyzowany widok kluczowych warstw architektury umożliwiający łączność i skalowalność w całym przedsiębiorstwie.",
+      "sec6Eyebrow": "WARTOŚĆ JAKOŚCIOWA",
+      "sec6Heading": "Wpływ na biznes",
+      "sec6Subtext": "Wymierne korzyści operacyjne osiągnięte dzięki modernizacji aplikacji i połączonym podstawom danych.",
+      "ctaHeading": "Chcesz zmodernizować środowisko aplikacji w swoim przedsiębiorstwie?",
+      "ctaDescription": "Dowiedz się, jak Rezonants może współpracować z Twoim kierownictwem w zakresie projektowania, budowania i wdrażania ujednoliconych platform aplikacji i nowoczesnych potoków danych.",
+      "ctaButton": "Porozmawiaj z architektem korporacyjnym",
+      "sec1P1": "W typowym środowisku przedsiębiorstwa rozwój często wiąże się z pojawieniem się wielu generacji oprogramowania. Finanse, łańcuch dostaw, obsługa klienta i operacje terenowe często działają na oddzielnych stosach oprogramowania nabytych lub zbudowanych w różnym czasie. Przez lata ewolucji operacyjnej systemy te opracowują własne formaty danych, częstotliwość aktualizacji i dziwactwa związane z integracją.",
+      "sec1P2": "Konflikty objawiają się w całym przedsiębiorstwie poprzez typowe wąskie gardła operacyjne:",
+      "sec1List": [
+        {
+          "bold": "Wiele odłączonych aplikacji biznesowych",
+          "text": "wymagające podwójnego wprowadzania danych i ręcznego powiązania."
+        },
+        {
+          "bold": "Rozłączone bazy danych",
+          "text": "działanie bez scentralizowanego zarządzania lub ujednoliconych rejestrów głównych."
+        },
+        {
+          "bold": "Narzut związany z ręcznym raportowaniem",
+          "text": ", gdzie zespoły analityczne spędzają dni na łączeniu eksportów, zamiast na odkrywaniu spostrzeżeń."
+        },
+        {
+          "bold": "Niespójności danych",
+          "text": "w różnych działach, tworząc sprzeczne odpowiedzi na podstawowe pytania operacyjne."
+        },
+        {
+          "bold": "Koszty utrzymania aplikacji i limity skalowalności",
+          "text": ", ponieważ kruche, starsze połączenia typu punkt-punkt mają trudności z obsługą rosnącego wolumenu transakcji."
+        }
+      ],
+      "sec1P3": "Sprostanie tym wyzwaniom wymaga postrzegania krajobrazu technologicznego nie jako zbioru izolowanych zakupów oprogramowania, ale jako połączonej platformy biznesowej zaprojektowanej w celu wspierania strategicznej elastyczności.",
+      "legacyLandscapeBadge": "Starsza linia bazowa",
+      "legacyLandscapeTitle": "Fragmentaryczny przepływ informacji",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silosy danych",
+          "desc": "Kluczowe dane dotyczące klientów, finansów i zapasów pozostają uwięzione na platformach oddziałowych, uniemożliwiając uzyskanie jednego, ujednoliconego obrazu operacji biznesowych."
+        },
+        {
+          "num": "02",
+          "title": "Luki integracyjne",
+          "desc": "Połączenia punkt-punkt i nocne ekstrakty wsadowe powodują opóźnienia, wysoki wskaźnik awaryjności i kosztowne koszty utrzymania w zespołach operacyjnych."
+        },
+        {
+          "num": "03",
+          "title": "Opóźniona informacja",
+          "desc": "Kiedy kadra kierownicza musi czekać kilka dni na uzgodnienie końca miesiąca, aby poznać wyniki, podejmowanie decyzji ma charakter reaktywny, a nie przewidywalny."
+        }
+      ],
+      "modernArchitectureBadge": "Architektura docelowa",
+      "modernArchitectureTitle": "Połączony model aplikacji korporacyjnych",
+      "sec3P1": "Nowoczesna architektura aplikacji zastępuje kruche połączenia punkt-punkt elastycznym, oddzielonym fundamentem. Ustanawiając solidną warstwę API i integrację, systemy wchodzą w interakcję za pośrednictwem zarządzanych, bezpiecznych punktów końcowych, zachowując jednocześnie autonomię poszczególnych jednostek biznesowych.",
+      "sec3P2": "Kluczowe możliwości techniczne tej zmiany architektonicznej obejmują:",
+      "sec3List": [
+        {
+          "bold": "Modernizacja aplikacji:",
+          "text": "Oddzielenie podstawowej logiki biznesowej w skalowalne usługi modułowe."
+        },
+        {
+          "bold": "Integracja API:",
+          "text": "Utworzenie standardowych, udokumentowanych interfejsów zapewniających interoperacyjność wewnętrzną i partnerską."
+        },
+        {
+          "bold": "Integracja danych i optymalizacja baz danych:",
+          "text": "Ujednolicenie potoków danych operacyjnych dzięki optymalizacji zapytań o dużej przepustowości."
+        },
+        {
+          "bold": "Obserwowalność i bezpieczeństwo:",
+          "text": "Wdrażanie scentralizowanej telemetrii, ścieżek audytu i kontroli dostępu opartej na rolach we wszystkich usługach."
+        }
+      ],
+      "sec4P1": "Zintegrowane podstawy danych zmieniają sposób, w jaki zespoły kierownicze i operacyjne wchodzą w interakcję z informacjami. Zamiast polegać na raportach retrospektywnych, które pokazują, co wydarzyło się kilka tygodni temu, organizacje uzyskują telemetrię operacyjną na żywo pomiędzy jednostkami biznesowymi.",
+      "sec4P2": "Połączone dane i analizy wspierają zrównoważone wyniki biznesowe poprzez:",
+      "sec4List": [
+        {
+          "bold": "Widoczność operacyjna:",
+          "text": "Ciągła przejrzystość sprzedaży, zapasów, realizacji zamówień i wyników finansowych."
+        },
+        {
+          "bold": "Szybsze rytmy raportowania:",
+          "text": "Agregacja danych na żądanie, która eliminuje konieczność ręcznego tworzenia arkuszy kalkulacyjnych."
+        },
+        {
+          "bold": "Spójne informacje:",
+          "text": "Pojedyncze definicje wskaźników, takich jak marża, długoterminowa wartość klienta i prędkość leada."
+        },
+        {
+          "bold": "Lepsze spostrzeżenia biznesowe:",
+          "text": "Predykcyjne wykrywanie wzorców, które z wyprzedzeniem ujawnia ryzyko i możliwości."
+        },
+        {
+          "bold": "Lepsze podejmowanie decyzji:",
+          "text": "Pewne działanie wykonawcze poparte sprawdzonym pochodzeniem danych i przejrzystością."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PERSPEKTYWA STRATEGICZNA",
+      "keyPerspectiveTitle": "Modernizacja to coś więcej niż tylko wymiana oprogramowania",
+      "keyPerspectiveLead": "Modernizacja aplikacji biznesowych to nie tylko wymiana starego oprogramowania na nowe narzędzia. Jest to celowe dostosowanie technologii do sposobu, w jaki firma działa, skaluje się i dostarcza wartość."
+    },
+    "artificialIntelligence": {
+      "category": "SZTUCZNA INTELIGENCJA",
+      "title": "Jak sztuczna inteligencja zmienia aplikacje korporacyjne",
+      "subtitle": "Dowiedz się, w jaki sposób inteligentna automatyzacja, drugi pilot AI i inteligencja predykcyjna stają się częścią aplikacji dla przedsiębiorstw, na których codziennie korzystają firmy.",
+      "date": "wrzesień 2026",
+      "readTime": "6 min czytania",
+      "imageCaption": "Perspektywa technologii korporacyjnej — natywna inteligencja i zautomatyzowane przepływy pracy",
+      "aiUseCases": [
+        {
+          "title": "Prognozowanie łańcucha dostaw",
+          "desc": "Przewidywanie skoków popytu i opóźnień logistycznych na podstawie historycznych danych telemetrycznych dostawców."
+        },
+        {
+          "title": "Automatyczny audyt faktur",
+          "desc": "Wyodrębnianie pozycji pojedynczych i dopasowywanie do zamówień zakupu bez konieczności wprowadzania danych przez człowieka."
+        },
+        {
+          "title": "Inteligentne Biura Obsługi",
+          "desc": "Segregacja i automatyczne rozpatrywanie wniosków IT i HR pracowników poziomu 1."
+        },
+        {
+          "title": "Zapobieganie odejściu klientów",
+          "desc": "Grupowanie behawioralne identyfikujące wczesne sygnały tarcia w celu proaktywnego docierania."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Szybsze decyzje operacyjne na podstawie modeli predykcyjnych działających w czasie rzeczywistym",
+        "Ograniczenie powtarzalnego przetwarzania danych i ręcznych uzgadniań",
+        "Większa przepustowość pracowników dzięki kontekstowej pomocy drugiego pilota",
+        "Większa satysfakcja klientów dzięki hiperspersonalizowanym doświadczeniom",
+        "Ciągła samooptymalizacja procesów w oparciu o rzeczywistą telemetrię",
+        "Śledzenie zgodności bez ryzyka poprzez automatyczną kontrolę dziennika audytu"
+      ],
+      "governancePoints": [
+        "Ścisły dostęp oparty na rolach gwarantuje, że modele AI nigdy nie wyciekną wrażliwych danych",
+        "Przejrzyste ślady rozumowania umożliwiające ludzką ocenę działań o dużej wartości",
+        "Ciągła ocena modelu w celu ochrony przed halucynacjami i uprzedzeniami",
+        "Rygorystyczne standardy pochodzenia danych zgodne z RODO, SOC 2 i HIPAA",
+        "Ścieżki eskalacji typu „człowiek w pętli” dla niepewnych warunków brzegowych"
+      ],
+      "sec1Eyebrow": "PRZEJŚCIE NA NATYWNĄ INTELIGENCJĘ",
+      "sec1Heading": "AI w zastosowaniach korporacyjnych",
+      "sec1Subtext": "Sztuczna inteligencja wykracza poza samodzielne eksperymenty i trafia do rdzenia codziennych systemów korporacyjnych.",
+      "sec2Eyebrow": "AUTOMATYZACJA NA SKALĘ",
+      "sec2Heading": "Inteligentna automatyzacja",
+      "sec2Subtext": "Zastąpienie delikatnych procedur opartych na regułach kognitywnymi przepływami pracy, które interpretują dokumenty, kierują wyjątki i dostosowują się.",
+      "sec3Eyebrow": "WBUDOWANA POMOC",
+      "sec3Heading": "Drugi pilot AI w przedsiębiorstwie",
+      "sec3Subtext": "Asystenci kontekstowi osadzeni w aplikacjach biznesowych, którzy pomagają pracownikom wiedzy w analizie danych, dokumentacji i zapytaniach operacyjnych.",
+      "sec4Eyebrow": "ROZUMOWANIE WYCZERPUJĄCE W PRZYSZŁOŚĆ",
+      "sec4Heading": "Inteligencja predykcyjna",
+      "sec4Subtext": "Przejście od retrospektywnych raportów retrospektywnych do proaktywnych mechanizmów decyzyjnych, które przewidują zakłócenia operacyjne.",
+      "sec5Eyebrow": "ZASTOSOWANIA W RZECZYWISTYM ŚWIECIE",
+      "sec5Heading": "Przypadki użycia sztucznej inteligencji w przedsiębiorstwach",
+      "sec5Subtext": "Zademonstrowane aplikacje zapewniające wymierny wzrost wydajności we wszystkich obszarach operacyjnych przedsiębiorstwa.",
+      "sec6Eyebrow": "WARTOŚĆ STRATEGICZNA",
+      "sec6Heading": "Korzyści biznesowe",
+      "sec6Subtext": "Wymierny wzrost produktywności i elastyczność operacyjna uzyskana dzięki przyjęciu sztucznej inteligencji w przedsiębiorstwie.",
+      "ctaHeading": "Chcesz zintegrować natywną sztuczną inteligencję ze swoimi aplikacjami biznesowymi?",
+      "ctaDescription": "Połącz się z praktyką AI Rezonants, aby projektować, oceniać i wdrażać drugich pilotów AI w przedsiębiorstwie oraz inteligentne silniki automatyzacji.",
+      "ctaButton": "Skonsultuj się ze specjalistą AI",
+      "sec1P1": "Przez lata sztuczną inteligencję przedsiębiorstw traktowano jako zdolność zewnętrzną: model wyszkolony w izolacji, demonstracja w piaskownicy lub wyizolowany chatbot dostępny za pośrednictwem osobnego portalu. Dziś paradygmat uległ zasadniczej zmianie. Wysoce efektywna sztuczna inteligencja dla przedsiębiorstw jest osadzona bezpośrednio w systemach rejestracji — systemach ERP, CRM, platformach kapitału ludzkiego i silnikach łańcucha dostaw, w których toczy się prawdziwy biznes.",
+      "sec1P2": "Kiedy inteligencja działa w systemie rekordów, dziedziczy ustalone przez organizację granice bezpieczeństwa, modele danych i logikę biznesową. Nie generuje po prostu ogólnych odpowiedzi; działa na bieżących zamówieniach, interpretuje otwarte zgłoszenia wsparcia, uzgadnia faktury dostawców i pomaga pracownikom dokładnie w ramach interfejsów, z którymi poruszają się na co dzień.",
+      "sec1P3": "Ta transformacja przenosi oprogramowanie dla przedsiębiorstw z pasywnych baz danych czekających na naciśnięcia klawiszy przez człowieka do proaktywnych platform, które przewidują potrzeby, automatyzują kroki i ukazują na czas rekomendacje.",
+      "sec2P1": "Tradycyjna zrobotyzowana automatyzacja procesów (RPA) wyróżniała się pod względem deterministycznego, powtarzalnego skrobania ekranu. Jednak sztywne zestawy reguł pękają przy każdej zmianie formularza, pojawieniu się nieoczekiwanego układu dokumentu lub wystąpieniu wyjątku. Inteligentna automatyzacja niweluje tę przepaść, łącząc rozumowanie poznawcze z realizacją transakcyjną:",
+      "sec2List": [
+        {
+          "bold": "Automatyzacja pracy:",
+          "text": "Koordynowanie złożonych operacji międzywydziałowych, kierowanie zadań w oparciu o pilność i historyczne ścieżki rozwiązania."
+        },
+        {
+          "bold": "Inteligentne przetwarzanie dokumentów:",
+          "text": "Przyjmowanie nieustrukturyzowanych plików PDF, e-maili, listów wysyłkowych i umów, przekształcanie ich w transakcje w ustrukturyzowanej bazie danych."
+        },
+        {
+          "bold": "Inteligentna automatyzacja zadań:",
+          "text": "Automatyzacja wieloetapowych walidacji operacyjnych — takich jak dopasowywanie zamówień zakupu do paragonów i wyciągów bankowych."
+        },
+        {
+          "bold": "Optymalizacja procesów:",
+          "text": "Ciągłe analizowanie dzienników procesów w celu identyfikacji wąskich gardeł w czasie cyklu i rekomendowanie ukierunkowanych udoskonaleń przepływu pracy."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Wyszukiwanie informacji",
+          "desc": "Wyszukiwanie semantyczne w rozproszonych bazach wiedzy, politykach intranetowych, specyfikacjach produktów i historycznych rozwiązaniach zgłoszeń bez zgadywania słów kluczowych."
+        },
+        {
+          "icon": "📝",
+          "title": "Podsumowanie dokumentu",
+          "desc": "Natychmiastowa destylacja długich zapytań ofertowych, umów z dostawcami, specyfikacji technicznych i poprawek prawnych do postaci praktycznych briefów dla kadry kierowniczej i list kontrolnych ryzyka."
+        },
+        {
+          "icon": "✨",
+          "title": "Generowanie treści",
+          "desc": "Pomoc w opracowywaniu propozycji klientów, dokumentacji operacyjnej, standardowych procedur operacyjnych (SOP) i standardowych aktualizacji dla klientów zgodnych ze standardami marki."
+        },
+        {
+          "icon": "📈",
+          "title": "Analiza danych",
+          "desc": "Przekładanie zapytań konwersacyjnych na złożone zapytania analityczne, generowanie na bieżąco podsumowań wykresów i podkreślanie krytycznych wartości odstających dla przywództwa."
+        },
+        {
+          "icon": "🔄",
+          "title": "Przepływy pracy w biznesie",
+          "desc": "Inicjowanie transakcji bezpośrednio z komunikatów czatu — na przykład planowanie zasobów, tworzenie biletów, aktualizowanie rekordów lub przesyłanie zapotrzebowań na zakup."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Dostęp oparty na rolach",
+          "desc": "Zapewnienie, że odpowiedzi drugiego pilota ściśle przestrzegają poziomów uprawnień użytkowników, zachowując poufność danych finansowych, plików HR i własności intelektualnej."
+        }
+      ],
+      "sec4P1": "Podczas gdy modele generatywne doskonale rozumieją i syntetyzują język, inteligencja predykcyjna skupia się na wzorcach matematycznych ukrytych w ustrukturyzowanych zbiorach danych przedsiębiorstwa. Wbudowane modele predykcyjne umożliwiają organizacjom przewidywanie przeszkód operacyjnych, zanim zakłócą one działalność:",
+      "sec4List": [
+        {
+          "bold": "Prognozowanie operacyjne:",
+          "text": "Przewidywanie trendów przychodów, szybkości zapasów i zapotrzebowania na zasoby poprzez syntezę wskaźników sezonowych z prędkością rurociągu w czasie rzeczywistym."
+        },
+        {
+          "bold": "Analityka predykcyjna:",
+          "text": "Określanie ryzyka odejścia klientów, cykli pogorszenia jakości konserwacji i opóźnień w łańcuchu dostaw, dopóki jest jeszcze czas na interwencję."
+        },
+        {
+          "bold": "Identyfikacja ryzyka:",
+          "text": "Oznaczanie anomalii w transakcjach finansowych, dziennikach zgodności i wzorcach zakupów dostawców, zanim ulegną eskalacji."
+        },
+        {
+          "bold": "Prognoza popytu:",
+          "text": "Harmonizacja prognoz sprzedaży z mocami produkcyjnymi i stanami magazynowymi w celu ochrony kapitału obrotowego."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ZARZĄDZANIE PRZEDSIĘBIORSTWEM",
+      "keyPerspectiveTitle": "Zaufanie, nadzór i poręcze",
+      "keyPerspectiveLead": "Sztuczna inteligencja jest tak niezawodna, jak baza danych, która się pod nią kryje i otaczające ją zarządzanie. Zrównoważone przyjęcie w przedsiębiorstwie wymaga przemyślanej dyscypliny architektonicznej:"
+    },
+    "modernErp": {
+      "category": "NOWOCZESNY ERP",
+      "title": "Przyspieszenie transformacji biznesowej dzięki nowoczesnemu systemowi ERP",
+      "subtitle": "Dowiedz się, jak nowoczesne platformy ERP łączą finanse, zaopatrzenie, łańcuch dostaw i operacje biznesowe w ramach ujednoliconej podstawy cyfrowej.",
+      "date": "wrzesień 2026",
+      "readTime": "7 minut czytania",
+      "imageCaption": "Perspektywa technologii korporacyjnej — połączony system ERP i elastyczność operacyjna",
+      "connectedFunctions": [
+        {
+          "title": "Zarządzanie finansami",
+          "desc": "Aktualizacje ksiąg w czasie rzeczywistym, automatyczne rozpoznawanie przychodów i natychmiastowe uzgadnianie wielu walut."
+        },
+        {
+          "title": "Łańcuch dostaw i logistyka",
+          "desc": "Kompleksowa widoczność zapasów, optymalizacja magazynu i telemetria wydajności dostawców."
+        },
+        {
+          "title": "Kapitał ludzki i siła robocza",
+          "desc": "Samoobsługowe portale pracownicze, automatyczne prowadzenie list płac i zintegrowane planowanie cyklu życia talentów."
+        },
+        {
+          "title": "Zaopatrzenie i zaopatrzenie",
+          "desc": "Automatyczne zatwierdzanie zakupów, zgodność z umową dostawcy i dynamiczna analiza wydatków."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Architektura natywna dla chmury",
+          "desc": "Elastyczne skalowanie obliczeń bez narzutów na infrastrukturę lokalną i zakłócającego blokowanie wersji."
+        },
+        {
+          "title": "Otwarty ekosystem API",
+          "desc": "Wstępnie zbudowane konektory umożliwiające bezproblemową dwukierunkową synchronizację danych z niestandardowymi mikrousługami i pakietami CRM."
+        },
+        {
+          "title": "Wbudowane analizy",
+          "desc": "Bezpośrednie przeglądanie dashboardów z bilansów wysokiego poziomu do poszczególnych dzienników transakcji."
+        },
+        {
+          "title": "Automatyczne wyzwalacze przepływu pracy",
+          "desc": "Zdarzenie sterowane zdarzeniami wyzwala autonomiczne wykonywanie standardowych operacji międzywydziałowych."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Jedno źródło prawdy eliminujące sprzeczne raporty wydziałowe",
+        "Drastyczne skrócenie cykli zamknięcia miesiąca i kwartału",
+        "Widoczność zapasów i logistyki w czasie rzeczywistym, minimalizująca braki w magazynie",
+        "Zmniejszone koszty utrzymania IT dzięki modułowym aktualizacjom natywnym w chmurze",
+        "Ujednolicone śledzenie zgodności w wieloregionalnych jurysdykcjach podatkowych",
+        "Szybsze wdrażanie przejętych podmiotów do współdzielonych szkieletów operacyjnych"
+      ],
+      "erpStrategyPoints": [
+        "Dopasowanie architektury ERP do podstawowych procesów operacyjnych przed konfiguracją",
+        "Wybór modułowych modeli wdrażania w celu szybkiego osiągnięcia kluczowych wyników",
+        "Priorytetowe traktowanie wysokiej jakości migracji i uzgadniania danych podstawowych",
+        "Wbudowanie programów szkoleniowych z zakresu automatycznego zarządzania zmianami i dostosowanych do ról",
+        "Projektowanie bramek API w celu bezproblemowego przyszłego rozwoju integracji"
+      ],
+      "sec1Eyebrow": "SCHEMAT OPERACYJNY",
+      "sec1Heading": "Dlaczego nowoczesny ERP ma znaczenie",
+      "sec1Subtext": "Wydajność przedsiębiorstwa zależy od płynnej synchronizacji danych w obszarze finansów, zaopatrzenia, operacji i kapitału ludzkiego.",
+      "sec2Eyebrow": "ZINTEGROWANY EKOSYSTEM",
+      "sec2Heading": "Połączone funkcje biznesowe",
+      "sec2Subtext": "Rozbicie tradycyjnych silosów działowych, aby umożliwić natychmiastowy przepływ danych transakcyjnych pomiędzy jednostkami biznesowymi.",
+      "sec3Eyebrow": "HARMONIA MIĘDZYFUNKCYJNA",
+      "sec3Heading": "Ujednolicone operacje i przepływ informacji",
+      "sec3Subtext": "Połączony cyfrowy kręgosłup zapewniający, że umowy sprzedaży natychmiastowo aktualizują zamówienia w łańcuchu dostaw i księgi finansowe.",
+      "sec4Eyebrow": "TELEMETRIA PRZEDSIĘBIORSTWA",
+      "sec4Heading": "Widoczność firmy w czasie rzeczywistym",
+      "sec4Subtext": "Bieżąca inteligencja operacyjna zastępująca opóźnione retrospektywne arkusze kalkulacyjne natychmiastowymi wskaźnikami wydajności.",
+      "sec5Eyebrow": "PODSTAWOWA ARCHITEKTURA PLATFORMY",
+      "sec5Heading": "Nowoczesne możliwości ERP",
+      "sec5Subtext": "Podstawy architektoniczne, które odróżniają zwinne platformy chmurowe od starszych systemów monolitycznych.",
+      "sec6Eyebrow": "WPŁYW JAKOŚCIOWY",
+      "sec6Heading": "Korzyści biznesowe",
+      "sec6Subtext": "Wymierna szybkość organizacyjna, przejrzystość i efektywność kosztowa możliwe do osiągnięcia dzięki nowoczesnym platformom ERP.",
+      "ctaHeading": "Chcesz zmodernizować kręgosłup ERP swojego przedsiębiorstwa?",
+      "ctaDescription": "Odkryj, jak Rezonants może pomóc Ci w zakresie, konfiguracji i integracji modułowych platform ERP dostosowanych do Twojej działalności biznesowej.",
+      "ctaButton": "Porozmawiaj z Architektem ERP",
+      "sec1P1": "W szybko zmieniających się środowiskach przedsiębiorstw tradycyjne systemy planowania zasobów przedsiębiorstwa często borykają się z trudnościami. Zbudowane w epoce przetwarzania wsadowego i izolowanych serwerów lokalnych, starsze systemy ERP były w dużym stopniu dostosowywane, trudne do aktualizacji i niezwykle nieprzejrzyste. Kluczowe operacje biznesowe funkcjonowały w równoległych silosach, opierając się na delikatnym jednodniowym eksporcie w celu synchronizacji ksiąg rachunkowych z magazynami.",
+      "sec1P2": "Nowoczesny, natywny dla chmury system ERP zasadniczo na nowo definiuje tę dynamikę. Działa jako ujednolicony cyfrowy szkielet przedsiębiorstwa — żywy fundament, w którym finanse, zaopatrzenie, łańcuch dostaw, zapasy i zasoby ludzkie dokonują transakcji w oparciu o wspólny model danych.",
+      "sec1P3": "Łącząc podstawowe operacje w jedno zharmonizowane środowisko, nowoczesny system ERP eliminuje operacyjne martwe punkty, które spowalniają rozwój, umożliwiając liderom kierowanie firmą przy użyciu sygnałów w czasie rzeczywistym, a nie nieaktualnych podsumowań historycznych.",
+      "sec3P1": "Silosy operacyjne rzadko są problemem dla ludzi; są to problemy architektoniczne. Gdy zespoły obsługi klienta, zaopatrzenia i magazynu pracują w niepołączonych aplikacjach, każde przekazanie wymaga ręcznego wysyłania wiadomości e-mail, arkuszy kalkulacyjnych i rozmów telefonicznych. Mnożą się błędy, faktury wstrzymują się, a zobowiązania klientów spadają.",
+      "sec3P2": "Nowoczesny system ERP rozwiązuje ten problem poprzez ujednoliconą linię danych i orkiestrację procesów sterowaną zdarzeniami:",
+      "sec3List": [
+        {
+          "bold": "Zsynchronizowane zamówienie do gotówki:",
+          "text": "Po złożeniu zamówienia przez klienta następuje automatyczna rezerwacja zapasów, generowane są etykiety wysyłkowe i natychmiastowa aktualizacja ksiąg rozliczeniowych."
+        },
+        {
+          "bold": "Przejrzystość od zamówienia do zapłaty:",
+          "text": "Zamówienia zakupu, przyjęcia towarów i faktury od dostawców są automatycznie dopasowywane przy użyciu uzgadniania trójstronnego, oznaczając jedynie wyjątki do przeglądu ręcznego."
+        },
+        {
+          "bold": "Ujednolicony koszt pracy i kosztów operacyjnych:",
+          "text": "Karty czasu pracy projektów, przydziały płac i bezpośrednie wydatki operacyjne są mapowane bezpośrednio do miejsc powstawania kosztów w czasie rzeczywistym."
+        }
+      ],
+      "sec4P1": "Prowadzenie przedsiębiorstwa bez ujednoliconej widoczności jest jak latanie w gęstej mgle z opóźnionymi instrumentami. Nowoczesny ERP zapewnia telemetrię w czasie rzeczywistym w każdym wymiarze biznesowym:",
+      "sec4List": [
+        {
+          "bold": "Pulpity menedżerskie na żywo:",
+          "text": "Natychmiastowy podgląd marży brutto, przepływów pieniężnych z działalności operacyjnej, otwartych zobowiązań i zaległości w zamówieniach bez czekania na zamknięcie okresu."
+        },
+        {
+          "bold": "Samoobsługowe raportowanie operacyjne:",
+          "text": "Kierownicy działów mogą tworzyć niestandardowe zapytania i drążyć od podsumowań na poziomie przedsiębiorstwa do poszczególnych pozycji transakcji."
+        },
+        {
+          "bold": "Scentralizowana informacja główna:",
+          "text": "Eliminacja sprzecznych liczb poprzez ustanowienie jednolitych danych podstawowych dla klientów, dostawców i katalogów produktów."
+        },
+        {
+          "bold": "Proaktywne alerty o anomaliach:",
+          "text": "Automatyczne alerty natychmiast powiadamiają menedżerów, gdy marże spadną poniżej progu, wyczerpią się zapasy lub pogorszą się dostawy od dostawców."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOZOFIA TRANSFORMACJI ERP",
+      "keyPerspectiveTitle": "Pragmatyczna modernizacja zamiast remontu monolitycznego",
+      "keyPerspectiveLead": "Nowoczesna transformacja ERP kończy się sukcesem, jeśli organizacje traktują ją jako ewolucyjne ulepszenie operacyjne, a nie zakłócenie IT typu „wszystko albo nic”:"
+    },
+    "cybersecurity": {
+      "category": "CYBERBEZPIECZEŃSTWO",
+      "title": "Budowanie odporności cybernetycznej w połączonym przedsiębiorstwie",
+      "subtitle": "Dowiedz się, w jaki sposób organizacje mogą wzmocnić bezpieczeństwo, chronić krytyczne systemy i przygotować się na zagrożenia w coraz bardziej połączonych środowiskach.",
+      "date": "wrzesień 2026",
+      "readTime": "8 min czytania",
+      "imageCaption": "Perspektywa technologii korporacyjnej — ochrona przed zagrożeniami i architektura zerowego zaufania",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetria i detekcja",
+          "desc": "Pozyskiwanie logów w czasie rzeczywistym i korelacja anomalii SIEM we wszystkich punktach końcowych i obciążeniach w chmurze."
+        },
+        {
+          "title": "Ochrona i izolacja",
+          "desc": "Zautomatyzowane reguły kwarantanny sieciowej, które natychmiast izolują zainfekowane kontenery lub dane uwierzytelniające."
+        },
+        {
+          "title": "Usuwanie i przyczyna źródłowa",
+          "desc": "Szybkie wdrażanie poprawek i cyfrowa analiza kryminalistyczna identyfikująca dokładny wektor naruszenia."
+        },
+        {
+          "title": "Odporność i hartowanie",
+          "desc": "Ciągłe informacje zwrotne na temat niezmiennych kopii zapasowych, barier ochronnych i zautomatyzowanych symulacji zespołu czerwonego."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Znacząca redukcja powierzchni ataków związanych z lukami w zabezpieczeniach w zasobach chmurowych",
+        "Gwarantowana ciągłość operacyjna i odzyskiwanie danych po awarii przy minimalnym RTO/RPO",
+        "Całkowita pewność zgodności wynikająca z audytów ISO 27001, SOC 2, HIPAA i RODO",
+        "Ochrona podstawowej własności intelektualnej przedsiębiorstwa i poufnych danych klientów",
+        "Usprawnione zarządzanie ryzykiem dostawców i stron trzecich dzięki ujednoliconej kontroli dostępu",
+        "Większe zaufanie klientów i inwestorów poparte zweryfikowanymi zabezpieczeniami o zerowym zaufaniu"
+      ],
+      "zeroTrustPrinciples": [
+        "Nigdy nie ufaj, zawsze sprawdzaj: dla każdej transakcji wymagane jest jawne uwierzytelnienie",
+        "Dostęp z najniższymi uprawnieniami: szczegółowe granice ról ograniczające boczne przemieszczanie się zagrożeń",
+        "Załóżmy, że doszło do naruszenia: ciągłe monitorowanie zagrożeń, szyfrowanie podczas przesyłania i przechowywania",
+        "Mikrosegmentacja: zapory sieciowe izolujące obciążenia poszczególnych aplikacji",
+        "Ciągła telemetria: automatyczna analiza behawioralna oznaczająca nieprawidłowe żądania sesji"
+      ],
+      "sec1Eyebrow": "ROZSZERZAJĄCY SIĘ OBWÓD",
+      "sec1Heading": "Krajobraz bezpieczeństwa połączonego przedsiębiorstwa",
+      "sec1Subtext": "W miarę wdrażania przez przedsiębiorstwa usług w chmurze, rozproszonych zdalnych zespołów i urządzeń IoT tradycyjne granice bezpieczeństwa zanikają.",
+      "sec2Eyebrow": "KOMPLEKSOWA OBRONA",
+      "sec2Heading": "Wielowarstwowa ochrona przed zagrożeniami",
+      "sec2Subtext": "Koordynacja analizy zagrożeń, skanowania podatności i automatycznej reakcji na incydenty w ramach pełnego stosu technologii.",
+      "sec3Eyebrow": "NOWA GRANICA BEZPIECZEŃSTWA",
+      "sec3Heading": "Zarządzanie tożsamością i dostępem (IAM)",
+      "sec3Subtext": "Tożsamość jest podstawową płaszczyzną kontroli. Dostęp szczegółowy, MFA i SSO zapewniają dostęp do systemów biznesowych tylko autoryzowanym podmiotom zabezpieczeń.",
+      "sec4Eyebrow": "PARADYGMAT ARCHITEKTONICZNY",
+      "sec4Heading": "Demytyfikacja architektury zerowego zaufania",
+      "sec4Subtext": "Podstawowy sposób myślenia o bezpieczeństwie oparty na ciągłej weryfikacji, wyraźnej autoryzacji i założonym kompromisie.",
+      "sec5Eyebrow": "ZARZĄDZANIE INFRASTRUKTUREM",
+      "sec5Heading": "Względy bezpieczeństwa chmury",
+      "sec5Subtext": "Modele współdzielonej odpowiedzialności, infrastruktura jako bariery ochronne kodu i ochrona środowiska wykonawczego Kubernetes.",
+      "sec6Eyebrow": "WYTRZYMAŁOŚĆ OPERACYJNA",
+      "sec6Heading": "Gotowość na wypadek incydentu: wykraczająca poza zapobieganie",
+      "sec6Subtext": "Przygotowywanie ustrukturyzowanych elementów Runbook, zautomatyzowanych ćwiczeń zabezpieczających i niezmiennych kopii zapasowych odzyskiwania po awarii w celu zapewnienia całkowitej odporności operacyjnej.",
+      "sec7Eyebrow": "WARTOŚĆ STRATEGICZNA",
+      "sec7Heading": "Korzyści biznesowe",
+      "sec7Subtext": "Odporność przedsiębiorstwa, weryfikacja zgodności i ochrona reputacji marki zapewniana przez nowoczesną cyberobronę.",
+      "ctaHeading": "Chcesz wzmocnić odporność cybernetyczną swojego przedsiębiorstwa?",
+      "ctaDescription": "Współpraca z praktyką bezpieczeństwa Rezonants w celu audytowania architektur, wdrażania frameworków Zero Trust i zabezpieczania systemów o znaczeniu krytycznym.",
+      "ctaButton": "Skonsultuj się z architektem cybernetycznym",
+      "sec1P1": "W epoce IT dla przedsiębiorstw bezpieczeństwo opierało się na zasadzie zamku i fosy: zakładano, że wszystko wewnątrz sieci biur korporacyjnych jest zaufane, podczas gdy wszystko na zewnątrz uznawano za niezaufane. Pojedyncza zapora sieciowa chroniła wewnętrzne serwery, bazy danych i komputery stacjonarne.",
+      "sec1P2": "Dzisiejsze przedsiębiorstwo wyrosło z fizycznych murów. Obciążenia znajdują się w środowiskach wielochmurowych (AWS, Azure, GCP), pracownicy uzyskują dostęp do aplikacji biznesowych z różnych lokalizacji, a interfejsy API stale wymieniają poufne dane operacyjne z zewnętrznymi dostawcami usług logistycznych, instytucjami finansowymi i dostawcami SaaS.",
+      "sec1P3": "Chociaż ta hiperłączność zapewnia ogromną elastyczność biznesową, znacznie zwiększa powierzchnię ataku przedsiębiorstwa. Każdy punkt końcowy interfejsu API, token tożsamości, podłączone urządzenie mobilne i integracja SaaS stanowią potencjalny wektor narażenia. Prawdziwa ochrona przedsiębiorstwa wymaga przejścia od obrony obwodowej do proaktywnej, kompleksowej odporności cybernetycznej.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Wykrywanie zagrożeń",
+          "desc": "Analiza zagrożeń wspomagana uczeniem maszynowym, która monitoruje w czasie rzeczywistym anomalne wzorce sieci, nadużycia danych uwierzytelniających i luki typu zero-day."
+        },
+        {
+          "icon": "📡",
+          "title": "Monitorowanie bezpieczeństwa",
+          "desc": "Telemetria Scentralizowanego Security Operations Center (SOC) korelująca zdarzenia na serwerach, klastrach kontenerów, dostawcach tożsamości i punktach końcowych."
+        },
+        {
+          "icon": "🔍",
+          "title": "Zarządzanie lukami w zabezpieczeniach",
+          "desc": "Ciągłe, automatyczne skanowanie pod kątem luk w infrastrukturze, repozytoriach kodu źródłowego i rejestrach kontenerów w celu proaktywnego eliminowania słabych punktów."
+        },
+        {
+          "icon": "🔒",
+          "title": "Ochrona danych",
+          "desc": "Solidne szyfrowanie podczas przesyłania (TLS 1.3) i przechowywania (AES-256) wraz ze szczegółowym zarządzaniem zapobieganiem utracie danych (DLP) w celu zapobiegania wyciekom własności intelektualnej."
+        }
+      ],
+      "sec3P1": "Ochrona zasobów przedsiębiorstwa wymaga zapewnienia, że ​​każda tożsamość — niezależnie od tego, czy jest to człowiek na stanowisku kierowniczym, zewnętrzny wykonawca, czy autonomiczne konto usługi oprogramowania — ma zweryfikowaną autoryzację w odniesieniu do dokładnie tych zasobów, do których uzyskuje dostęp.",
+      "sec3List": [
+        {
+          "bold": "Scentralizowane zarządzanie tożsamością:",
+          "text": "Pojedyncze logowanie (SSO) i standardy tożsamości federacyjnej, które eliminują fragmentaryczne magazyny haseł w aplikacjach."
+        },
+        {
+          "bold": "Adaptacyjne uwierzytelnianie wieloskładnikowe (MFA):",
+          "text": "Klucze sprzętowe FIDO2 odporne na phishing i wyzwania kontekstowe oparte na ryzyku dla wrażliwych funkcji administracyjnych."
+        },
+        {
+          "bold": "Szczegółowa kontrola dostępu:",
+          "text": "Szczegółowa kontrola dostępu oparta na rolach (RBAC) i atrybutach (ABAC) wymuszana na poziomie interfejsu API i bazy danych."
+        },
+        {
+          "bold": "Zasady najmniejszych przywilejów:",
+          "text": "Przyznawanie tymczasowego dostępu just-in-time (JIT), który wygasa automatycznie po zakończeniu zadań administracyjnych."
+        }
+      ],
+      "keyPerspectiveEyebrow": "PODSTAWOWA DOKTRYNA ZEROWEGO ZAUFANIA",
+      "keyPerspectiveTitle": "Ciągła weryfikacja zamiast ślepego zaufania",
+      "keyPerspectiveLead": "W architekturze Zero Trust ukryte zaufanie oparte na lokalizacji sieciowej jest całkowicie wyeliminowane. Każda transakcja, zapytanie do bazy danych i login użytkownika muszą stale potwierdzać swoją legalność:",
+      "cloudSecurityCards": [
+        {
+          "title": "Wspólna odpowiedzialność",
+          "desc": "Jasne zarządzanie odróżniające bezpieczeństwo infrastruktury fizycznej dostawcy chmury od odpowiedzialności przedsiębiorstwa za szyfrowanie danych, zasady IAM i kod aplikacji."
+        },
+        {
+          "title": "Infrastruktura jako kod (IaC)",
+          "desc": "Niezmienne, kontrolowalne konfiguracje chmur zarządzane za pomocą kodu. Zautomatyzowane skanery typu polityka jako kod blokują błędne konfiguracje i odsłonięte zasobniki przed wdrożeniem."
+        },
+        {
+          "title": "Bezpieczeństwo kontenerów i Kubernetes",
+          "desc": "Wzmocnione środowisko wykonawcze kontenerów, podpisane rejestry obrazów, mikrosegmentacja sieci i automatyczne zarządzanie sekretami, które utrzymuje dane uwierzytelniające poza repozytoriami źródłowymi."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "CHMURA I MODERNIZACJA",
+      "title": "Modernizacja starszych aplikacji dla chmury",
+      "subtitle": "Poznaj praktyczne podejście do oceny, modernizacji i przenoszenia starszych aplikacji w kierunku skalowalnych, bezpiecznych architektur chmurowych.",
+      "date": "wrzesień 2026",
+      "readTime": "6 minut czytania",
+      "imageCaption": "Perspektywa technologii korporacyjnej — ponowne tworzenie platform i konteneryzacja natywne w chmurze",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (podnieś i przesuń)",
+          "desc": "Szybkie przenoszenie obciążeń do maszyn wirtualnych w chmurze przy minimalnych modyfikacjach kodu."
+        },
+        {
+          "title": "Replatforma (lifting i zmiana kształtu)",
+          "desc": "Aktualizuj środowiska wykonawcze, wdrażaj zarządzane bazy danych w chmurze i usprawniaj operacje."
+        },
+        {
+          "title": "Refaktoryzacja (przebudowa natywna dla chmury)",
+          "desc": "Dekonstruuj monolity na skonteneryzowane mikrousługi i sterowane zdarzeniami bezserwerowe interfejsy API."
+        },
+        {
+          "title": "Zamień (modernizacja SaaS)",
+          "desc": "Wycofaj starsze systemy na rzecz specjalnie zaprojektowanego oprogramowania w chmurze dla przedsiębiorstw."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Ocena dziedzictwa",
+          "desc": "Zautomatyzowane mapowanie zależności, katalogowanie długów technicznych i ocenianie gotowości do pracy w chmurze."
+        },
+        {
+          "title": "Architektura docelowa",
+          "desc": "Modułowe plany mikrousług, topologie kontenerów i zautomatyzowane szablony IaC."
+        },
+        {
+          "title": "Migracja etapowa",
+          "desc": "Wersje Canary, synchronizacja danych z podwójnym zapisem i fale przełączania bez przestojów."
+        },
+        {
+          "title": "Optymalizacja chmury",
+          "desc": "Ciągłe zarządzanie kosztami, telemetria automatycznego skalowania i przeglądy operacyjne FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Wykładniczo niższe koszty utrzymania infrastruktury i odświeżania sprzętu",
+        "Niemal nieskończona elastyczność obliczeniowa obsługująca szczytowy ruch w przedsiębiorstwie przy zerowych opóźnieniach",
+        "Szybsze udostępnianie dzięki w pełni zautomatyzowanym procesom wdrażania CI/CD",
+        "Eliminacja starszych pojedynczych punktów awarii dzięki wysokiej dostępności wielu AZ",
+        "Nowoczesne architektury API umożliwiające szybką integrację partnerów między platformami",
+        "Zaawansowana możliwość obserwacji w czasie rzeczywistym wydajności aplikacji i wydatków na chmurę"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mapowanie złożonych zależności między aplikacjami i rytmów synchronizacji danych",
+        "Identyfikacja zakodowanych na stałe konfiguracji środowiskowych i zastrzeżonych schematów baz danych",
+        "Ocena zgodności z przepisami i ograniczeń suwerenności danych w poszczególnych jurysdykcjach",
+        "Obliczanie realistycznego całkowitego kosztu posiadania (TCO) dla ścieżek refaktoryzacji i ponownego hostowania",
+        "Ustalenie wyraźnych fal wdrażania w celu ochrony aktywnych codziennych operacji biznesowych"
+      ],
+      "sec1Eyebrow": "RZECZYWISTOŚĆ STARYCH SYSTEMÓW",
+      "sec1Heading": "Wyzwanie Dziedzictwa",
+      "sec1Subtext": "Starzejące się monolity ograniczają tempo innowacji, zwiększają podatności operacyjne i zwiększają koszty utrzymania infrastruktury.",
+      "sec2Eyebrow": "OCENA I ODKRYCIE",
+      "sec2Heading": "Zrozumienie krajobrazu aplikacji",
+      "sec2Subtext": "Rygorystyczne odkrywanie architektury w celu mapowania zależności danych, wersji oprogramowania i ROI modernizacji przed migracją.",
+      "sec3Eyebrow": "4 ŚCIEŻKI MODERNIZACJI",
+      "sec3Heading": "Podejścia modernizacyjne",
+      "sec3Subtext": "Wybór odpowiedniego wzorca migracji dla każdego obciążenia: rehosting, replatformowanie, refaktoryzacja lub wymiana.",
+      "sec4Eyebrow": "DOCELOWY MODEL TRANSFORMACJI",
+      "sec4Heading": "Nowoczesna architektura chmurowa",
+      "sec4Subtext": "Projektowanie odpornych mikrousług, zarządzanych baz danych i zautomatyzowanych procesów wdrażania dostosowanych do wysokiej skalowalności.",
+      "sec5Eyebrow": "WYNIKI TRANSFORMACJI",
+      "sec5Heading": "Kluczowe korzyści z modernizacji",
+      "sec5Subtext": "Znacząca elastyczność, redukcja kosztów i niezawodność, które można uzyskać dzięki transformacji natywnej w chmurze.",
+      "ctaHeading": "Chcesz zmodernizować swoje starsze aplikacje dla chmury?",
+      "ctaDescription": "Współpracuj z architektami chmury Rezonants, aby oceniać zależności, tworzyć plany migracji i bezpiecznie przenosić systemy.",
+      "ctaButton": "Porozmawiaj ze specjalistą ds. chmury",
+      "sec1P1": "Aplikacje o znaczeniu krytycznym, zbudowane dziesięć lat temu, nadal generują miliardowe przychody przedsiębiorstw, jednak ich sztywność architektoniczna stwarza rosnące ryzyko operacyjne.",
+      "sec1P2": "Każde przedsiębiorstwo stoi przed napięciem pomiędzy stabilnością a modernizacją. Starsze systemy zostały zaprojektowane z myślą o trwałości i działają niezawodnie przez lata. Jednak w miarę zwiększania się wymagań biznesowych te starzejące się architektury napotykają ograniczenia strukturalne:",
+      "sec1List": [
+        {
+          "bold": "Starzejące się stosy oprogramowania:",
+          "text": "Monolityczne bazy kodu zbudowane na przestarzałych frameworkach z malejącymi pulami talentów dostępnymi do konserwacji."
+        },
+        {
+          "bold": "Trudne cykle konserwacyjne:",
+          "text": "Ściśle powiązane komponenty, w przypadku których zmiana pojedynczej funkcji grozi uszkodzeniem niepowiązanych modułów operacyjnych."
+        },
+        {
+          "bold": "Ograniczona skalowalność:",
+          "text": "Limity skalowania pionowego wymagające zakupu drogiego, własnego sprzętu do obsługi sezonowych skoków ruchu."
+        },
+        {
+          "bold": "Wyzwania integracyjne:",
+          "text": "Brak możliwości płynnego współdziałania z nowoczesnymi aplikacjami mobilnymi, portalami klientów lub interfejsami API partnerów bez delikatnych skryptów wsadowych."
+        },
+        {
+          "bold": "Ograniczenia infrastrukturalne:",
+          "text": "Cykle życia serwerowni fizycznej, luki w zabezpieczeniach kopii zapasowych i wysokie wydatki operacyjne na energię/chłodzenie."
+        }
+      ],
+      "sec2P1": "Pragmatyczna podróż modernizacyjna rozpoczyna się od ustalenia całkowitej przejrzystości istniejącego osiedla:",
+      "sec2List": [
+        {
+          "bold": "Zastosowania:",
+          "text": "Katalogowanie wszystkich aktywnych obciążeń, modułów niestandardowych, skryptów działających w tle i historycznych pakietów innych firm."
+        },
+        {
+          "bold": "Zależności:",
+          "text": "Mapowanie złożonego sprzężenia środowiska wykonawczego, współdzielonych tabel bazy danych, bezpośrednich wywołań systemu plików i zewnętrznych kontraktów usługowych."
+        },
+        {
+          "bold": "Dane:",
+          "text": "Ocena struktur danych, wymagań dotyczących integralności transakcji, częstotliwości tworzenia kopii zapasowych i zasad suwerenności regulacyjnej."
+        },
+        {
+          "bold": "Infrastruktura:",
+          "text": "Audyt procesora, pamięci, wykorzystania pamięci masowej i przepustowości sieci pod kątem specyfikacji docelowej chmury o odpowiedniej wielkości."
+        },
+        {
+          "bold": "Krytyczność biznesowa:",
+          "text": "Kategoryzacja aplikacji na warstwy w celu zaprojektowania bezpiecznych, etapowych fal migracji z przejrzystymi procedurami awaryjnymi."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Zaleta:",
+      "cloudArchitectureBadge": "Cykl życia modernizacji",
+      "cloudArchitectureTitle": "Kompleksowy proces modernizacji chmury",
+      "sec4P1": "Architektura docelowa oddziela podstawowe aplikacje w modułowe, kontenerowe usługi hostowane na elastycznych platformach chmurowych (takich jak Kubernetes lub zarządzane bezserwerowe środowiska wykonawcze).",
+      "sec4P2": "Dzięki ustanowieniu zautomatyzowanych procesów wdrażania CI/CD, automatycznych przełączeń niebiesko-zielonych oraz infrastruktury w postaci kodu, wdrożenia przekształcają się z stresujących weekendowych wydarzeń w płynną codzienną rutynę.",
+      "sec4P3": "Elastyczne obliczenia automatycznie skalują się w górę podczas wzrostów zapotrzebowania i skalują w dół podczas przerw, eliminując koszty niewykorzystanych zasobów, gwarantując jednocześnie użytkownikom na całym świecie czas reakcji poniżej sekundy.",
+      "keyPerspectiveEyebrow": "DOBRE PRAKTYKI MODERNIZACYJNE",
+      "keyPerspectiveTitle": "Cztery filary udanej migracji",
+      "keyPerspectiveLead": "Doświadczenie pokazuje, że projekty modernizacyjne kończą się sukcesem, jeśli opierają się na kompleksowym przygotowaniu, przejrzystym sekwencjonowaniu fal i rygorystycznych testach:"
+    }
+  }
+}

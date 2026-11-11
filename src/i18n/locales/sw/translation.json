@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Kuhusu",
+    "services": "Huduma",
+    "products": "Bidhaa",
+    "perspectives": "Mitazamo",
+    "technologies": "Teknolojia",
+    "contact": "Wasiliana",
+    "signIn": "Ingia",
+    "signUp": "Jisajili",
+    "signOut": "Ondoka",
+    "chooseLanguage": "Chagua lugha yako",
+    "searchLanguage": "Lugha ya utafutaji",
+    "resetEnglish": "Rudisha kwa Kiingereza",
+    "noResults": "Hakuna lugha zilizopatikana",
+    "englishDefault": "Kiingereza (Chaguomsingi)",
+    "english": "Kiingereza"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Programu, iliyoundwa kwa ajili ya jinsi <em>biashara yako</em> inavyoendeshwa.",
+    "description": "Rezonants ni kampuni ya huduma za IT na bidhaa za kidijitali. Tunaunda, kuunda na kuongeza programu maalum, bidhaa za wavuti na simu, miundombinu ya wingu na AI - kwa kampuni zinazoshindana katika utekelezaji.",
+    "bookConsultation": "Weka miadi ya mashauriano bila malipo",
+    "exploreServices": "Chunguza huduma",
+    "years": "miaka",
+    "projects": "miradi",
+    "retention": "uhifadhi",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — tangu 2012",
+    "metaStudio": "Studio ya bidhaa za kidijitali",
+    "metaTech": "Wavuti · Simu · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Kuhusu Sisi",
+    "title": "Kujenga Suluhu za Kidijitali <em>Zinazosogeza Biashara Mbele</em>",
+    "description": "Rezonants ni kampuni ya ufumbuzi wa teknolojia inayolenga kusaidia biashara kubadilisha mawazo kuwa matumizi ya kidijitali yenye maana. Tunachanganya teknolojia, ubunifu na uelewa wa biashara ili kutoa masuluhisho ambayo yameundwa kulingana na mahitaji ya ulimwengu halisi.<br /><br />Kutoka kwa mabadiliko ya kidijitali na uundaji wa programu maalum hadi wingu, AI, uendeshaji otomatiki na huduma za teknolojia zinazodhibitiwa, tunasaidia mashirika kurahisisha uchangamano, kuboresha ufanisi na kuunda thamani ya kudumu ya kidijitali.<br /><br /><strong>Mtazamo wetu ni rahisi — elewa matatizo sahihi ya biashara, suluhisha teknolojia hiyo.",
+    "awardWinning": "Mshindi wa Tuzo",
+    "awardText": "Inatambulika kwa ubora wa utoaji kwenye wavuti na uhandisi wa bidhaa za simu.",
+    "professionalStaff": "Wafanyakazi wa Kitaalam",
+    "staffText": "Wahandisi waandamizi, wanaowajibika ambao wanamiliki kazi kutoka kwa simu ya kwanza kwenda moja kwa moja.",
+    "support247": "Usaidizi wa 24/7",
+    "supportText": "Huduma zinazosimamiwa na laini ya usaidizi inayojibu unapoihitaji.",
+    "fairPrices": "Bei Zinazofaa",
+    "pricesText": "Makadirio ya uaminifu na malipo ya uwazi kwa kila shughuli moja.",
+    "yearsExcellence": "Miaka ya Ubora wa Biashara"
+  },
+  "stats": {
+    "happyClients": "Wateja wenye furaha",
+    "projectsDone": "Miradi imefanywa",
+    "winAwards": "Shinda tuzo"
+  },
+  "insights": {
+    "eyebrow": "Mitazamo",
+    "title": "Mitazamo",
+    "sub": "Kuchunguza mawazo, mitindo na teknolojia inayounda siku zijazo.",
+    "filters": {
+      "all": "Wote",
+      "digital-transformation": "Mabadiliko ya Dijitali",
+      "ai": "AI na Uendeshaji",
+      "cloud": "Wingu",
+      "data": "Data & Analytics",
+      "software": "Programu",
+      "business": "Biashara na Teknolojia"
+    },
+    "readMore": "Soma Zaidi",
+    "close": "Funga",
+    "keyTakeaways": "Njia Muhimu za Usanifu",
+    "relatedServices": "Uwezo & Huduma Zinazohusiana",
+    "minRead": "dk soma",
+    "item1Date": "Julai 2026",
+    "item1Tag": "Bidhaa na ERP",
+    "item1Title": "Mbinu ya kawaida ya ERP kwa biashara zinazokua",
+    "item1Text": "Jinsi tunavyopanga ushirikiano wa ERP ili fedha, orodha, Utumishi na ununuzi ziunganishwe bila usumbufu bila usumbufu wa miaka mingi.",
+    "item2Date": "Juni 2026",
+    "item2Tag": "Akili Bandia",
+    "item2Title": "Mifumo ya AI ya Kiajenti: kuhama kutoka kwa gumzo hadi utekelezaji wa uhuru",
+    "item2Text": "Mifumo ya usanifu iliyoratibiwa ya mawakala wengi ya LLM ambayo inapanga, kuhalalisha, na kutekeleza mtiririko changamano wa biashara kwa uangalizi wa kibinadamu.",
+    "item3Date": "Mei 2026",
+    "item3Tag": "Milestone ya Kampuni",
+    "item3Title": "Inatambulika miongoni mwa studio zinazoongoza za uvumbuzi wa TEHAMA mjini Hyderabad",
+    "item3Text": "Studio yetu ya uhandisi imekubaliwa kwa ubora wa uwasilishaji, uwezo wa kina wa teknolojia, na kuridhika kwa mteja kote ulimwenguni kwa uhandisi wa bidhaa.",
+    "desc": "Gundua mawazo na mitazamo kutoka kwa Rezonants kuhusu mageuzi ya kidijitali, AI, otomatiki, wingu, data, programu na mustakabali wa teknolojia ya biashara.",
+    "categories": {
+      "digitalTransformation": "Mabadiliko ya Dijiti",
+      "ai": "AI na Uendeshaji",
+      "cloud": "Wingu",
+      "data": "Data & Analytics",
+      "software": "Programu",
+      "business": "Biashara na Teknolojia"
+    }
+  },
+  "technologies": {
+    "title": "Teknolojia na Usanifu",
+    "headline": "Ufumbuzi wa Teknolojia ya Biashara",
+    "sub": "Teknolojia ya Akili. Operesheni za Kiotomatiki. Biashara Nadhifu.",
+    "selectTechnology": "Chagua suluhisho la teknolojia…",
+    "options": {
+      "aiRobotics": "Suluhu za AI na Roboti",
+      "businessAutomation": "Suluhisho za Uendeshaji wa Biashara",
+      "cloudMigrations": "Suluhu za Uhamiaji wa Wingu",
+      "dataCenters": "Ufumbuzi wa Kituo cha Data",
+      "cognitiveAnalytics": "Uchanganuzi wa Utambuzi na AI",
+      "informationReporting": "Taarifa na Mifumo ya Kuripoti",
+      "managedServices": "Huduma Zinazosimamiwa",
+      "oneStopSolutions": "Masuluhisho ya Teknolojia ya Njia Moja"
+    },
+    "explore": "Gundua Teknolojia",
+    "bookDiscovery": "Ugunduzi wa Teknolojia ya Vitabu",
+    "exploreAll": "Gundua Teknolojia Zote",
+    "coreCapabilities": "Uwezo wa Msingi wa Teknolojia",
+    "bookConsultation": "Weka Kitabu cha Mashauriano"
+  },
+  "contact": {
+    "eyebrow": "Wasiliana",
+    "title": "Zungumza na mhandisi mkuu, si hati ya mauzo",
+    "sub": "Shiriki machache kuhusu mradi wako na tutakujibu ndani ya siku moja ya kazi.",
+    "reachUs": "Tufikie moja kwa moja",
+    "preferConversation": "Unapendelea mazungumzo? Sisi ni wito mmoja mbali.",
+    "contactLede": "Njia ya haraka zaidi ya kusonga mbele ni mazungumzo mafupi. Wasiliana nasi kwenye chaneli yoyote hapa chini, au uweke nafasi na tutakuja kwako tukiwa tayari.",
+    "phone": "Simu",
+    "email": "Barua pepe",
+    "office": "Ofisi",
+    "hours": "Saa",
+    "hoursValue": "Jumatatu - Jumamosi, 9:30 - 18:30 IST",
+    "bookSlot": "Weka nafasi ya mashauriano",
+    "sendMessage": "Tutumie ujumbe",
+    "fieldsRequired": "Nyuga zilizotiwa alama ya * zinahitajika.",
+    "fullName": "Jina Kamili *",
+    "emailLabel": "Barua pepe *",
+    "company": "Kampuni",
+    "subject": "Somo",
+    "messageLabel": "Ujumbe *",
+    "sending": "Inatuma...",
+    "sendBtn": "Tuma ujumbe",
+    "successMsg": "Ujumbe umetumwa! Nakala imetumwa kwako.",
+    "errorMsg": "Haikuweza kuhifadhi ujumbe wako. Hakikisha kuwa jedwali la contact_messages lipo, kisha ujaribu tena.",
+    "offices": {
+      "vijayawada": "Ofisi ya Vijayawada",
+      "southAfrica": "Ofisi ya Afrika Kusini"
+    },
+    "placeholders": {
+      "fullName": "Jina lako kamili",
+      "email": "wewe@company.com",
+      "company": "Kampuni au shirika lako",
+      "subject": "Tunawezaje kusaidia?",
+      "message": "Tuambie kuhusu mradi wako, kalenda ya matukio, na malengo..."
+    },
+    "validation": {
+      "fullNameRequired": "Tafadhali weka jina lako kamili.",
+      "emailRequired": "Tafadhali weka barua pepe yako.",
+      "emailInvalid": "Tafadhali weka barua pepe halali.",
+      "messageRequired": "Tafadhali weka ujumbe."
+    }
+  },
+  "services": {
+    "eyebrow": "Huduma",
+    "title": "Tunachofanya",
+    "sub": "Kuanzia mikakati hadi shughuli zinazodhibitiwa, tunatoa ushirikiano wa kiteknolojia wa mwisho hadi mwisho kwa kampuni zinazoshindana katika utekelezaji.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Kuanzishwa kwa Upelekaji",
+        "description": "Utengenezaji wa mwisho hadi mwisho wa suluhu mpya za kidijitali kutoka kwa mahitaji ya biashara na usanifu wa suluhisho kupitia uundaji, ujumuishaji, majaribio, utumaji na usaidizi unaoendelea."
+      },
+      "businessProcessAutomation": {
+        "label": "Uendeshaji wa Mchakato wa Biashara",
+        "description": "Kubuni na utekelezaji wa ufumbuzi wa akili wa otomatiki ambao hurahisisha michakato ya biashara, kuondoa shughuli za kujirudia-rudia, kuboresha utendakazi, na kuharakisha matokeo ya biashara."
+      },
+      "centerOfExcellence": {
+        "label": "Kituo cha Ubora",
+        "description": "Kuanzishwa kwa vituo maalum vya teknolojia na uwezo wa biashara ambavyo vinatoa utawala, viwango, utaalam, mifumo, rasilimali zinazoweza kutumika tena na uboreshaji unaoendelea kote katika shirika."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Ukuzaji Maalum na Kubinafsisha",
+        "description": "Ukuzaji na uboreshaji wa programu, majukwaa, utendakazi, na suluhu za biashara ili kushughulikia mahitaji ya kipekee ya biashara na kutoa utendakazi unaolengwa."
+      },
+      "digitalTransformation": {
+        "label": "Mabadiliko ya Dijiti",
+        "description": "Uboreshaji wa shughuli za biashara, mifumo ikolojia ya teknolojia na uzoefu wa wateja kupitia cloud, AI, automatisering, data, na teknolojia za kisasa za matumizi."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Mfumo wa Suluhisho la Mwisho-hadi-Mwisho",
+        "description": "Mbinu ya kina ya uwasilishaji inayojumuisha mzunguko kamili wa maisha wa teknolojia—kutoka kwa mkakati, mahitaji, na usanifu hadi uendelezaji, ujumuishaji, uwekaji, utawala, ufuatiliaji na usaidizi."
+      },
+      "migrationModernization": {
+        "label": "Uhamiaji na Usasa",
+        "description": "Uhamishaji salama na uliopangwa wa programu, data, majukwaa, miundombinu, na mizigo ya kazi kutoka urithi au mazingira yaliyopo hadi majukwaa ya teknolojia ya kisasa, makubwa na yaliyoboreshwa."
+      },
+      "pocPilotImplementation": {
+        "label": "Uthibitisho wa Dhana (PoC) & Utekelezaji wa Majaribio",
+        "description": "Ukuzaji na uthibitishaji wa haraka wa masuluhisho ya teknolojia ili kutathmini uwezekano wa kiufundi, thamani ya biashara, mahitaji ya ujumuishaji, utendakazi, na uimara kabla ya utekelezaji kamili."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Huduma za Pamoja na Uendeshaji Unaosimamiwa",
+        "description": "Utoaji wa kati wa teknolojia na uwezo wa kiutendaji katika vitengo vya biashara kupitia michakato sanifu, rasilimali zenye ujuzi, mifumo ya utawala, usimamizi wa huduma, na viwango vya huduma vinavyopimika."
+      },
+      "customDevelopment": {
+        "label": "Kuanzishwa kwa Usambazaji",
+        "description": "Utengenezaji wa mwisho hadi mwisho wa suluhu mpya za kidijitali kutoka kwa mahitaji ya biashara na usanifu wa suluhisho kupitia uundaji, ujumuishaji, majaribio, utumaji na usaidizi unaoendelea."
+      },
+      "processAutomation": {
+        "label": "Uendeshaji wa Mchakato wa Biashara",
+        "description": "Kubuni na utekelezaji wa masuluhisho ya kiotomatiki ya kiakili ambayo yanarahisisha michakato ya biashara, kuondoa shughuli za kujirudia-rudia, kuboresha ufanisi wa utendakazi, na kuharakisha matokeo ya biashara."
+      },
+      "solutionEngineering": {
+        "label": "Ukuzaji Maalum na Kubinafsisha",
+        "description": "Ukuzaji na uboreshaji wa programu, majukwaa, utendakazi, na suluhu za biashara ili kushughulikia mahitaji ya kipekee ya biashara na kutoa utendakazi unaolengwa."
+      },
+      "endToEndSolutions": {
+        "label": "Mfumo wa Suluhisho la Mwisho-hadi-Mwisho",
+        "description": "Mbinu ya kina ya uwasilishaji inayohusu mzunguko kamili wa maisha wa teknolojia—kutoka kwa mkakati, mahitaji, na usanifu hadi uendelezaji, ujumuishaji, uwekaji matumizi, utawala, ufuatiliaji na usaidizi."
+      },
+      "migrationServices": {
+        "label": "Uhamiaji na Usasa",
+        "description": "Uhamishaji salama na uliopangwa wa programu, data, majukwaa, miundombinu, na mizigo ya kazi kutoka urithi au mazingira yaliyopo hadi majukwaa ya teknolojia ya kisasa, makubwa na yaliyoboreshwa."
+      },
+      "pilotPrototyping": {
+        "label": "Uthibitisho wa Dhana (PoC) & Utekelezaji wa Majaribio",
+        "description": "Ukuzaji na uthibitishaji wa haraka wa masuluhisho ya teknolojia ili kutathmini uwezekano wa kiufundi, thamani ya biashara, mahitaji ya ujumuishaji, utendakazi, na uimara kabla ya utekelezaji kamili."
+      },
+      "sharedServices": {
+        "label": "Huduma za Pamoja na Uendeshaji Unaosimamiwa",
+        "description": "Utoaji wa kati wa teknolojia na uwezo wa kiutendaji katika vitengo vya biashara kupitia michakato sanifu, rasilimali zenye ujuzi, mifumo ya utawala, usimamizi wa huduma, na viwango vya huduma vinavyopimika."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Panga Mashauriano",
+      "exploreFramework": "Gundua Mfumo wa Suluhisho",
+      "talkSeniorEngineer": "Zungumza na Mhandisi Mwandamizi",
+      "exploreTechStack": "Gundua Rafu ya Teknolojia",
+      "bookPocSession": "Agiza Kipindi cha Ugunduzi cha PoC",
+      "seeAllServices": "Tazama Huduma Zote",
+      "requestAssessment": "Omba Tathmini ya Uhamiaji",
+      "exploreCloudSolutions": "Gundua Suluhu za Wingu"
+    },
+    "sharedServices": {
+      "heroBadge": "HUDUMA ILIVYOSHIRIKIWA NA UENDESHAJI UNAODHIBITIWA",
+      "heroTitle": "Huduma za Pamoja za Biashara na Uendeshaji Unaosimamiwa",
+      "heroDesc": "Kuongeza uwezo wa biashara, kurahisisha utendakazi wa sehemu mbalimbali, na kufikia ubora wa kiutendaji kupitia miundo ya huduma iliyoshirikiwa iliyosanifiwa, salama na ya gharama nafuu.",
+      "bookDiscovery": "Kitabu cha Ugunduzi wa Uendeshaji Unaosimamiwa",
+      "exploreFramework": "Gundua Mfumo wa Suluhisho",
+      "coreCapabilities": "Uwezo Muhimu:",
+      "managedServices": "Huduma Zinazosimamiwa",
+      "itOperations": "Uendeshaji wa IT",
+      "appSupport": "Usaidizi wa Maombi",
+      "serviceManagement": "Usimamizi wa Huduma",
+      "resourceOptimization": "Uboreshaji wa Rasilimali",
+      "slaManagement": "Usimamizi wa SLA",
+      "governance": "Utawala",
+      "continuousImprovement": "Uboreshaji Unaoendelea",
+      "costOptimization": "Uboreshaji wa Gharama",
+      "readyTitle": "Je, uko tayari Kuboresha Uendeshaji Wako?",
+      "readyDesc": "Gundua jinsi Huduma zetu Zilizoshirikiwa na Mifumo ya Uendeshaji Zinazodhibitiwa inaweza kuimarisha ubora wa huduma, kuhakikisha uendelevu wa uendeshaji, na kuendesha utendakazi wa gharama endelevu kwa biashara yako.",
+      "scheduleSession": "Panga Kikao cha Ugunduzi"
+    },
+    "solutionEngineering": {
+      "heroBadge": "UHANDISI WA SULUHISHO NA USANIFU",
+      "heroTitle": "Ukuzaji Maalum na Kubinafsisha",
+      "heroDesc": "Mbunifu, mhandisi, na tumia mifumo ya programu yenye utendakazi wa hali ya juu iliyoundwa mahususi kwa ajili ya utendakazi wako, mabomba ya data na mahitaji ya vipimo."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "UBUNIFU WA HARAKA NA MAJARIBU",
+      "heroTitle": "Uthibitisho wa Dhana (PoC) & Utekelezaji wa Majaribio",
+      "heroDesc": "Thibitisha teknolojia zinazoibuka, usanifu changamano wa kuondoa hatari, na uthibitishe thamani ya biashara kwa mifano ya kiwango cha uzalishaji katika wiki, si robo."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "USANIFU WA MAISHA NA UTOAJI",
+      "heroTitle": "Mfumo wa Suluhisho la Mwisho-hadi-Mwisho",
+      "heroDesc": "Muundo wa uwasilishaji uliounganishwa unaounganisha ugunduzi wa bidhaa, usanifu wa suluhisho, uhandisi, miundombinu ya wingu, na utendakazi wa kutegemewa 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "UKISASA WA MIUNDOMBINU NA URITHI",
+      "heroTitle": "Uhamiaji na Usasa",
+      "heroDesc": "Badilisha kwa urahisi upakiaji wa urithi wa mpito, usanifu wa kipekee, na miundombinu ya ndani ya majengo hadi majukwaa ya kisasa, salama na yanayoweza kupanuka ya wingu."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Uboreshaji wa Biashara",
+        "titlePart1": "Dijitali",
+        "titlePart2": "Mabadiliko",
+        "description": "Uboreshaji wa shughuli za biashara, mifumo ikolojia ya teknolojia, na uzoefu wa wateja kupitia wingu, AI, otomatiki, data na teknolojia za kisasa za utumizi.",
+        "bookWorkshop": "Warsha ya Mabadiliko ya Vitabu",
+        "exploreFramework": "Gundua Mfumo wa Suluhisho",
+        "startTransformation": "Anza Mabadiliko",
+        "exploreStrategy": "Chunguza Mbinu",
+        "coreCapabilitiesTitle": "Uwezo wa Msingi",
+        "coreCapabilities": [
+          "Mkakati wa Kidijitali",
+          "Mabadiliko ya Wingu",
+          "AI na Uendeshaji",
+          "Uboreshaji wa Maombi",
+          "Uboreshaji wa Urithi",
+          "Data & Analytics",
+          "Uzoefu wa Mteja",
+          "Teknolojia ya kisasa"
+        ],
+        "row1Eyebrow": "Mkakati na Ramani ya Barabara",
+        "row1Title": "Kutoka Maono hadi Ramani ya Barabara Inayotekelezeka",
+        "row1P1": "Tunashirikiana na viongozi wa biashara ili kufafanua mkakati wa kidijitali, kesi za biashara, na ramani za barabara zilizopangwa kwa hatua kwa mafanikio ya haraka na utekelezaji usio na hatari.",
+        "row1P2": "Mipango iliyopewa kipaumbele, miundo ya TCO, na KPIs huhakikisha kila juhudi za uboreshaji wa teknolojia zinahusiana moja kwa moja na mapato, ufanisi na matokeo ya kuridhika kwa wateja.",
+        "row2Eyebrow": "Uboreshaji wa Urithi",
+        "row2Title": "Fanya Kisasa Bila Kuvunja Biashara",
+        "row2P1": "Weka upya mifumo ya monoliths kwa huduma ndogo, API, na mifumo ya asili ya wingu yenye vipunguzi vya muda wa sifuri na uthibitishaji wa urejeshaji kiotomatiki.",
+        "row2P2": "Tunaboresha programu, hifadhidata na tabaka za ujumuishaji za kisasa huku tukihifadhi utiifu na mkao wa usalama.",
+        "row3Eyebrow": "Wingu, AI na Data",
+        "row3Title": "Uasili wa Wingu na Ushauri Unaoendeshwa na Data",
+        "row3P1": "Kupitisha AWS, Azure na GCP, tengeneza mabomba ya kisasa ya data, na upachike mawakala wa mashine kujifunza ili kuendesha maamuzi ya kujitegemea.",
+        "row3P2": "Kutoka kwa utiririshaji wa tukio la wakati halisi hadi dashibodi zilizounganishwa, mabadiliko yanakuwa ya kupimika na endelevu.",
+        "row4Eyebrow": "Uzoefu wa Wateja",
+        "row4Title": "Uzoefu wa Kisasa wa Chaneli zote",
+        "row4P1": "Sanifu upya safari za wateja kwenye wavuti, iOS, Android na tovuti za huduma binafsi zenye violesura vilivyobinafsishwa.",
+        "row4P2": "Uhandisi wa mfumo, telemetry, na misururu ya maoni ya kiotomatiki hufanya uvumbuzi wa kidijitali uendelee.",
+        "pillarsTitle": "Nguzo za Mabadiliko",
+        "pillarsSub": "Vigezo vinavyolenga matokeo vinavyohakikisha uongozi endelevu wa kidijitali.",
+        "pillar1Title": "Mkakati na Utawala wa Kidijitali",
+        "pillar1Desc": "Miongozo ya mabadiliko ya hatua kwa hatua na muundo wa kesi za biashara, usimamizi wa usanifu, na ufuatiliaji wa hatari.",
+        "pillar2Title": "Wingu na Jukwaa la Data",
+        "pillar2Desc": "AWS/Azure/GCP misingi ya wingu nyingi, mabomba ya kiotomatiki na kuwezesha uchanganuzi wa data ya biashara.",
+        "pillar3Title": "AI na Uendeshaji",
+        "pillar3Desc": "Michakato otomatiki yenye akili, mawakala wa utambuzi wa AI, na telemetry ya ubashiri ili kuboresha shughuli za kila siku.",
+        "pillar4Title": "Uzoefu wa Wateja",
+        "pillar4Desc": "Lango za dijiti zenye ubadilishaji wa hali ya juu wa chaneli zote na violesura vilivyobinafsishwa vilivyoundwa ili kuhifadhi watumiaji wengi zaidi.",
+        "ctaTitle": "Je, uko tayari Kubadilisha Biashara Yako?",
+        "ctaSub": "Shirikiana na Rezonants kwa mabadiliko ya kidijitali ya hatua kwa hatua, yasiyohatarisha yanayohusiana na matokeo ya biashara yanayoweza kupimika.",
+        "ctaButton": "Agiza Simu ya Kubadilisha Dijitali"
+      },
+      "customDevelopment": {
+        "eyebrow": "Uhandisi wa Dijitali wa Mwisho-hadi-Mwisho",
+        "titlePart1": "Kuanzishwa Kwa",
+        "titlePart2": "Usambazaji",
+        "bookConsultation": "Weka Kitabu cha Mashauriano",
+        "exploreEngineering": "Gundua Uhandisi wa Suluhisho"
+      },
+      "processAutomation": {
+        "eyebrow": "Uendeshaji wa Mchakato wa Akili",
+        "titlePart1": "Mchakato wa Biashara",
+        "titlePart2": "Otomatiki",
+        "bookDiscovery": "Ugunduzi wa Uendeshaji wa Kitabu",
+        "exploreCoE": "Gundua Kituo cha Ubora"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Kituo cha",
+        "titlePart2": "Ubora",
+        "bookConsultation": "Ushauri wa Kitabu CoE",
+        "exploreCapabilities": "Gundua Uwezo"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Mzunguko kamili wa Maisha ya Teknolojia",
+        "titlePart1": "Mwisho-hadi-Mwisho",
+        "titlePart2": "Mfumo wa Suluhisho",
+        "startJourney": "Anzisha Safari Yako ya Mzunguko wa Maisha",
+        "exploreTransformation": "Chunguza Mabadiliko"
+      },
+      "migrationServices": {
+        "eyebrow": "Ubadilishaji wa Wingu na Miundombinu",
+        "titlePart1": "Uhamiaji &",
+        "titlePart2": "Uboreshaji",
+        "planMigration": "Panga Uhamiaji Wako",
+        "exploreTransformation": "Chunguza Mabadiliko"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Uthibitishaji na Uwezekano wa Haraka",
+        "titlePart1": "Uthibitisho wa Dhana (PoC) &",
+        "titlePart2": "Utekelezaji wa Majaribio",
+        "initiateDiscovery": "Anzisha Ugunduzi wa PoC",
+        "exploreDevelopment": "Gundua Ukuzaji Maalum"
+      },
+      "solutionEngineering": {
+        "badge": "Uhandisi wa Dijitali Uliolengwa",
+        "bookConsultation": "Weka Kitabu cha Ushauri",
+        "exploreCapabilities": "Gundua Uwezo"
+      },
+      "sharedServices": {
+        "eyebrow": "Kituo Kikuu cha Uendeshaji",
+        "titlePart1": "Huduma za Pamoja &",
+        "titlePart2": "Operesheni Zinazosimamiwa",
+        "bookDiscovery": "Kitabu cha Ugunduzi wa Uendeshaji Unaosimamiwa",
+        "exploreFramework": "Gundua Mfumo wa Suluhisho"
+      }
+    },
+    "coreCapabilities": "Uwezo wa Msingi"
+  },
+  "products": {
+    "featured": "Bidhaa Zilizoangaziwa",
+    "featuredSub": "Rahisisha utendakazi, unganisha timu, rekebisha michakato kiotomatiki na uendeshe ukuaji wa biashara nadhifu.",
+    "seeAll": "Tazama Bidhaa Zote",
+    "featuredProducts": "BIDHAA ZILIZOAngaziwa",
+    "meetAutonomous": "Kutana na Wafanyakazi Wanaojitegemea",
+    "meetAutonomousText": "Badilisha utendakazi wako na mawakala wa AI wanaofanya kazi pamoja na timu yako kushughulikia majukumu magumu na yanayojirudia.",
+    "learnMore": "Jifunze Zaidi",
+    "erp": {
+      "title": "Jukwaa Moja Tayari kwa Lolote",
+      "sub": "Kuwezesha biashara na suluhu zilizounganishwa, za akili na za usimamizi wa biashara.",
+      "explore": "Gundua Masuluhisho ya ERP",
+      "gridTitle": "SULUHU ZA ERP",
+      "promoTitle": "ERP ya Msimu kwa Ukuaji",
+      "promoText": "Tekeleza vipengele vya moduli vya ERP kwa haraka bila ugumu wa mifumo ya kitamaduni ya miaka mingi.",
+      "scheduleDemo": "Panga Onyesho"
+    },
+    "it": {
+      "title": "Ufumbuzi wa IT",
+      "sub": "Miundombinu ya daraja la biashara, usalama, na suluhisho za DevOps ili kufanya biashara yako iendelee.",
+      "explore": "Chunguza Suluhu za IT",
+      "gridTitle": "SULUHU ZA IT",
+      "promoTitle": "Miundombinu ya kuaminika ya IT",
+      "promoText": "Unda msingi wa teknolojia thabiti kwa kutumia huduma za wingu, usalama na DevOps zinazodhibitiwa.",
+      "getStarted": "Anza"
+    },
+    "crm": {
+      "title": "Ufumbuzi wa CRM",
+      "sub": "Usimamizi wa uhusiano wa Wateja ili kurahisisha mauzo, usaidizi, na mtiririko wa kazi wa uuzaji.",
+      "explore": "Gundua Suluhu za CRM",
+      "gridTitle": "SULUHU ZA CRM",
+      "promoTitle": "Funga Ofa Zaidi",
+      "promoText": "Wezesha timu zako za mauzo na usaidizi kwa data iliyounganishwa ya wateja na uwekaji kiotomatiki mahiri.",
+      "startTrial": "Anza Jaribio Bila Malipo"
+    },
+    "hrms": {
+      "title": "Ufumbuzi wa HRMS",
+      "sub": "Usimamizi wa rasilimali watu unaojumuisha malipo, uajiri, utendakazi, na ushiriki wa wafanyakazi.",
+      "explore": "Gundua Suluhu za HRMS",
+      "gridTitle": "SULUHU ZA HRMS",
+      "promoTitle": "Rahisisha Uendeshaji wa Utumishi",
+      "promoText": "Rekebisha mtiririko wa kazi wa HR kutoka kuajiri hadi kustaafu kwa jukwaa la kisasa, la kwanza la mfanyakazi.",
+      "requestDemo": "Omba Onyesho"
+    },
+    "sidebar": {
+      "featuredProducts": "Bidhaa Zilizoangaziwa",
+      "erpSolutions": "Suluhisho la ERP",
+      "solutions": "SULUHU"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Mawakala na zana mahiri zinazojiendesha zinazoendesha utendakazi tata na utendakazi wa wateja kiotomatiki."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Mfumo wa usimamizi wa wingu nyingi unaoboresha utendaji, usalama, utii na gharama."
+      },
+      "workSync": {
+        "title": "Usawazishaji Kazi",
+        "description": "Ushirikiano mseto na kitovu cha tija chenye kazi iliyojumuishwa, gumzo na usimamizi wa hati."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Injini ya uchanganuzi wa wakati halisi inayobadilisha mitiririko ya matukio ya biashara kuwa maarifa yanayotekelezeka."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Msingi",
+        "description": "Usanifu wa umoja wa biashara unaounganisha fedha, mali, HR, ununuzi na orodha."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Mfumo wa tajriba ya mfanyakazi unaojumuisha malipo, manufaa, hakiki za utendakazi na huduma binafsi."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Ufuatiliaji wa vifaa katika wakati halisi, shughuli za kiotomatiki za ghala, na utabiri wa mahitaji."
+      },
+      "financeHub": {
+        "title": "Kitovu cha Fedha",
+        "description": "Udhibiti wa hali ya juu wa daftari, utendakazi wa bili, utiifu kiotomatiki na ripoti za mtiririko wa pesa za wakati halisi."
+      },
+      "cloudInfrastructure": {
+        "title": "Miundombinu ya Wingu",
+        "description": "Usanifu wa wingu unaoweza kuongezeka, uhamaji na usimamizi katika AWS, Azure na GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Suite ya Usalama wa Mtandao",
+        "description": "Ufuatiliaji wa usalama hadi mwisho, ugunduzi wa vitisho, na udhibiti wa kufuata."
+      },
+      "devopsPipeline": {
+        "title": "Bomba la DevOps",
+        "description": "Uendeshaji otomatiki wa CI/CD, uwekaji vyombo, na muundo msingi kama msimbo kwa uwasilishaji haraka."
+      },
+      "managedItServices": {
+        "title": "Huduma za IT zinazosimamiwa",
+        "description": "24/7 ufuatiliaji wa miundombinu, majibu ya matukio, na matengenezo ya haraka."
+      },
+      "salesCrm": {
+        "title": "CRM ya Mauzo",
+        "description": "Usimamizi wa bomba, bao la kuongoza, ufuatiliaji wa mikataba na utabiri wa mauzo katika jukwaa moja."
+      },
+      "customerSupportHub": {
+        "title": "Kituo cha Usaidizi kwa Wateja",
+        "description": "Tikiti, msingi wa maarifa, gumzo la moja kwa moja na usimamizi wa usaidizi wa kila kituo."
+      },
+      "marketingAutomation": {
+        "title": "Marketing Automation",
+        "description": "Okesheni ya kampeni, utumaji otomatiki wa barua pepe, ukuzaji wa viongozi, na uchanganuzi."
+      },
+      "customer360View": {
+        "title": "Mwonekano wa Mteja 360",
+        "description": "Maelezo mafupi ya wateja yanayochanganya mauzo, usaidizi na data ya mwingiliano."
+      },
+      "coreHr": {
+        "title": "Msingi wa Utumishi",
+        "description": "Rekodi za wafanyikazi, uongozi wa shirika, usimamizi wa likizo, na ufuatiliaji wa mahudhurio."
+      },
+      "payrollCompliance": {
+        "title": "Malipo na Uzingatiaji",
+        "description": "Usindikaji wa mishahara otomatiki, ukokotoaji wa kodi, na kufuata sheria."
+      },
+      "performanceManagement": {
+        "title": "Usimamizi wa Utendaji",
+        "description": "Ufuatiliaji wa OKR, hakiki za 360°, kuweka malengo na mipango ya maendeleo ya mfanyakazi."
+      },
+      "recruitmentPortal": {
+        "title": "Tovuti ya Kuajiri",
+        "description": "Machapisho ya kazi, ufuatiliaji wa mwombaji, ratiba ya mahojiano, na mtiririko wa kazi."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Bidhaa Zilizoangaziwa",
+        "heading": "Bidhaa Zilizoangaziwa",
+        "sub": "Rahisisha utendakazi, unganisha timu, rekebisha michakato kiotomatiki na uendeshe ukuaji wa biashara nadhifu.",
+        "promoTitle": "Kutana na Wafanyakazi Wanaojitegemea",
+        "promoText": "Badilisha utendakazi wako na mawakala wa AI wanaofanya kazi pamoja na timu yako kushughulikia majukumu magumu na yanayojirudia.",
+        "items": [
+          {
+            "title": "AI Automation & Mawakala Akili",
+            "description": "Rekebisha kazi zinazojirudia na utumie mawakala mahiri wa AI ambao huboresha tija, kufanya maamuzi na matokeo ya biashara."
+          },
+          {
+            "title": "Huduma ya IT na Usaidizi wa Dijitali",
+            "description": "Toa usaidizi wa IT wa haraka na bora zaidi kwa usimamizi ulioboreshwa wa huduma, uendeshaji otomatiki na mtiririko wa kazi dijitali."
+          },
+          {
+            "title": "Utawala wa AI wa Biashara",
+            "description": "Jenga utumiaji wa AI unaowajibika kwa utawala thabiti, usalama, uzingatiaji, uwazi na udhibiti wa hatari."
+          },
+          {
+            "title": "Uendeshaji wa Akili wa IT",
+            "description": "Badilisha utendakazi wa TEHAMA kwa ufuatiliaji unaoendeshwa na AI, uwekaji kiotomatiki, maarifa ya ubashiri na utatuzi wa suala makini."
+          },
+          {
+            "title": "Usimamizi wa Uzoefu wa Wateja",
+            "description": "Unda safari za mteja zilizobinafsishwa kwa ushirikishwaji wa akili, uwekaji kiotomatiki, uchanganuzi na utumiaji wa kidijitali usio na mshono."
+          },
+          {
+            "title": "Mkakati wa Biashara na Uboreshaji wa Portfolio",
+            "description": "Pangilia uwekezaji wa teknolojia na malengo ya biashara ili kuboresha portfolios, kuboresha ufanisi, na kuendeleza ukuaji endelevu."
+          },
+          {
+            "title": "Malipo ya IT na Teknolojia ya Maisha",
+            "description": "Dhibiti vipengee vya TEHAMA katika kipindi chote cha maisha yao kwa mwonekano bora, uotomatiki, udhibiti wa gharama na upangaji wa teknolojia."
+          },
+          {
+            "title": "Hatari na Uzingatiaji wa Biashara",
+            "description": "Tambua, tathmini, na udhibiti hatari za biashara huku ukiimarisha utiifu, udhibiti na uthabiti wa shirika."
+          },
+          {
+            "title": "Usalama wa Mtandao na Operesheni za Tishio",
+            "description": "Linda mazingira ya kidijitali kwa ugunduzi wa tishio kwa makini, utendakazi wa usalama, mwitikio wa matukio na ufuatiliaji unaoendelea."
+          },
+          {
+            "title": "Uendeshaji wa Nguvu Kazi ya Uwandani",
+            "description": "Wezesha timu za uga kwa upangaji ratiba mahiri, utendakazi wa vifaa vya mkononi, uwekaji kiotomatiki, na mwonekano wa utendaji wa wakati halisi."
+          },
+          {
+            "title": "Uzoefu wa Mfanyakazi & Huduma za Utumishi",
+            "description": "Rahisisha huduma za wafanyakazi kwa utiririshaji wa kazi wa kidijitali, masuluhisho ya kujihudumia, uwekaji kiotomatiki, na uzoefu maalum wa mfanyakazi."
+          },
+          {
+            "title": "Sehemu ya Kazi Iliyounganishwa ya Dijiti",
+            "description": "Unganisha watu, michakato, programu na zana za ushirikiano kupitia mahali pa kazi pa kidijitali salama, chenye akili na kisicho na imefumwa."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Suluhisho la ERP",
+        "heading": "Jukwaa Moja, Tayari kwa Lolote",
+        "sub": "Kuwezesha biashara na suluhu zilizounganishwa, za akili na za usimamizi wa biashara.",
+        "promoTitle": "ERP ya Msimu kwa Ukuaji",
+        "promoText": "Weka vipengele vya moduli vya ERP kwa haraka bila ugumu wa mifumo ya kitamaduni ya miaka mingi.",
+        "items": [
+          {
+            "title": "Uendeshaji wa Mchakato wa Biashara",
+            "description": "Kuhuisha fedha, HR, mauzo, ununuzi, na shughuli za kila siku."
+          },
+          {
+            "title": "Usimamizi Jumuishi wa Biashara",
+            "description": "Unganisha idara, data na mtiririko wa kazi kwenye jukwaa lililounganishwa."
+          },
+          {
+            "title": "Fedha na Uhasibu",
+            "description": "Boresha mwonekano wa kifedha, kuripoti, kupanga bajeti, na kufuata."
+          },
+          {
+            "title": "HR & Payroll",
+            "description": "Rahisisha usimamizi wa wafanyikazi, mahudhurio, malipo, na michakato ya Utumishi."
+          },
+          {
+            "title": "Usimamizi wa Mnyororo wa Ugavi",
+            "description": "Boresha ununuzi, hesabu, wachuuzi, na vifaa."
+          },
+          {
+            "title": "Mauzo na Usimamizi wa Wateja",
+            "description": "Dhibiti viongozi, wateja, maagizo na utendaji wa mauzo kwa ufanisi."
+          },
+          {
+            "title": "Uchanganuzi na Kuripoti kwa Wakati Halisi",
+            "description": "Geuza data ya biashara kuwa maarifa yanayotekelezeka kwa maamuzi ya haraka."
+          },
+          {
+            "title": "Ufumbuzi wa Cloud ERP",
+            "description": "Washa usimamizi wa biashara salama, unaoweza kuongezeka na unaoweza kufikiwa kutoka popote."
+          }
+        ]
+      },
+      "it": {
+        "title": "Ufumbuzi wa IT",
+        "heading": "Ufumbuzi wetu wa IT",
+        "sub": "Badilisha utendakazi wa TEHAMA kwa masuluhisho ya kidijitali mahiri, makini na makubwa ambayo yanaboresha utendakazi, tija na mwendelezo wa biashara.",
+        "promoTitle": "Miundombinu ya kuaminika ya IT",
+        "promoText": "Unda msingi wa teknolojia thabiti kwa kutumia huduma za wingu, usalama na DevOps zinazodhibitiwa.",
+        "items": [
+          {
+            "title": "Usimamizi wa Huduma ya IT",
+            "description": "Rahisisha huduma za TEHAMA, matukio, maombi, na mtiririko wa kazi kwa utatuzi wa haraka."
+          },
+          {
+            "title": "Usimamizi wa Uendeshaji wa IT",
+            "description": "Fuatilia miundombinu na programu kwa utendakazi makini, unaoendeshwa na data."
+          },
+          {
+            "title": "Usimamizi wa Mali ya IT",
+            "description": "Dhibiti mali ya teknolojia kwa ufanisi huku ukipunguza gharama, hatari na utata wa mzunguko wa maisha."
+          },
+          {
+            "title": "Usanifu wa Biashara",
+            "description": "Pangilia mkakati wa biashara na usanifu sahihi wa teknolojia na uwekezaji."
+          },
+          {
+            "title": "Utawala wa Wingu",
+            "description": "Boresha usalama wa wingu, utiifu, utendakazi na usimamizi wa gharama."
+          },
+          {
+            "title": "Operesheni za Kidijitali",
+            "description": "Badilisha michakato ya TEHAMA kiotomatiki na upate mwonekano wa wakati halisi katika mazingira yako yote ya teknolojia."
+          },
+          {
+            "title": "Kuzingatiwa na Ufuatiliaji",
+            "description": "Gundua masuala ya utendakazi mapema na udumishe matumizi ya kuaminika ya kidijitali."
+          },
+          {
+            "title": "Usimamizi wa Mkakati wa Portfolio",
+            "description": "Unganisha uwekezaji wa IT na vipaumbele vya biashara na matokeo yanayoweza kupimika."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Ufumbuzi wa CRM",
+        "heading": "Ufumbuzi wetu wa CRM",
+        "sub": "Toa hali za utumiaji zilizounganishwa, zilizobinafsishwa, na mahiri za wateja katika safari nzima ya wateja.",
+        "promoTitle": "Funga Ofa Zaidi",
+        "promoText": "Wezesha timu zako za mauzo na usaidizi kwa data iliyounganishwa ya wateja na uwekaji otomatiki mahiri.",
+        "items": [
+          {
+            "title": "Usimamizi wa Huduma kwa Wateja",
+            "description": "Boresha usaidizi kwa wateja kwa ubora wa haraka, huduma binafsi, na utendakazi mahiri."
+          },
+          {
+            "title": "Mauzo Automation",
+            "description": "Badilisha shughuli za mauzo kiotomatiki, dhibiti viongozi na usaidie timu kufunga fursa kwa haraka zaidi."
+          },
+          {
+            "title": "Usimamizi wa Mauzo na Agizo",
+            "description": "Rahisisha safari kutoka risasi hadi kuagiza na uboresha mwonekano wa mapato."
+          },
+          {
+            "title": "Usimamizi wa Utumishi wa shambani",
+            "description": "Boresha utendakazi wa uga, upangaji, utumaji, na tija ya ufundi."
+          },
+          {
+            "title": "Usimamizi wa Uzoefu wa Wateja",
+            "description": "Unda hali ya utumiaji isiyo imefumwa na iliyobinafsishwa katika kila sehemu ya mteja ya kugusa."
+          },
+          {
+            "title": "Uchanganuzi wa CRM na Maarifa",
+            "description": "Geuza data ya mteja kuwa maarifa yanayotekelezeka kwa maamuzi bora ya biashara."
+          },
+          {
+            "title": "Marketing Automation",
+            "description": "Weka kampeni otomatiki, ushirikishwaji wa wateja, na malezi bora."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Tumia maarifa ya kiotomatiki na AI ili kuboresha tija na ushirikiano wa wateja."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Ufumbuzi wa HRMS",
+        "heading": "Suluhu zetu za HRMS",
+        "sub": "Wawezeshe wafanyikazi wako kwa masuluhisho ya Utumishi yenye akili, yaliyounganishwa na ya kiotomatiki ambayo hurahisisha usimamizi wa wafanyikazi na kuboresha uzoefu wa mahali pa kazi.",
+        "promoTitle": "Rahisisha Uendeshaji wa Utumishi",
+        "promoText": "Rekebisha mtiririko wa kazi wa HR kutoka kwa kuajiri hadi kustaafu kwa jukwaa la kisasa, la kwanza la mfanyakazi.",
+        "items": [
+          {
+            "title": "Usimamizi wa Msingi wa Utumishi",
+            "description": "Dhibiti taarifa za mfanyakazi, miundo ya shirika na michakato ya Utumishi kwa ufanisi."
+          },
+          {
+            "title": "Usimamizi wa Mishahara",
+            "description": "Otomatiki malipo, usindikaji wa mishahara, makato, na kufuata."
+          },
+          {
+            "title": "Kujihudumia kwa Mfanyakazi",
+            "description": "Wape wafanyikazi ufikiaji rahisi wa huduma za HR, maombi, hati na habari."
+          },
+          {
+            "title": "Mahudhurio na Usimamizi wa Likizo",
+            "description": "Rahisisha ufuatiliaji wa mahudhurio, maombi ya likizo, zamu, na saa za kazi."
+          },
+          {
+            "title": "Kuajiri na Kupanda",
+            "description": "Kuhuisha uajiri, usimamizi wa mgombea, upandaji, na ujumuishaji wa wafanyikazi."
+          },
+          {
+            "title": "Usimamizi wa Utendaji",
+            "description": "Weka malengo, fuatilia utendakazi na usaidie maendeleo endelevu ya wafanyikazi."
+          },
+          {
+            "title": "Kujifunza na Maendeleo",
+            "description": "Dhibiti programu za mafunzo, ukuzaji wa ujuzi, na ukuaji wa wafanyikazi."
+          },
+          {
+            "title": "Uchanganuzi wa HR na Kuripoti",
+            "description": "Geuza data ya wafanyikazi kuwa maarifa yanayotekelezeka kwa maamuzi bora ya Utumishi."
+          },
+          {
+            "title": "AI-Powered HR Automation",
+            "description": "Rekebisha majukumu ya Utumishi yanayojirudiarudia na utoe uzoefu wa haraka, uliobinafsishwa wa mfanyakazi."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Maendeleo ya Programu",
+        "heading": "Huduma zetu za Kukuza Programu",
+        "sub": "Unda programu salama, zinazoweza kuongezeka, na zenye utendakazi wa hali ya juu zinazoharakisha ukuaji wa biashara na kurahisisha michakato changamano.",
+        "promoTitle": "Jenga Programu Watumiaji Wanapenda",
+        "promoText": "Kuanzia wazo hadi kuzinduliwa, timu yetu husanifu na kutengeneza programu za rununu na wavuti za ubora wa juu kwa kiwango hicho.",
+        "items": [
+          {
+            "title": "Ukuzaji wa Maombi Maalum",
+            "description": "Unda programu zilizoundwa kulingana na mahitaji yako ya kipekee ya biashara."
+          },
+          {
+            "title": "Maendeleo ya Wavuti na Programu ya Simu",
+            "description": "Toa hali ya matumizi ya kidijitali isiyo na kifani kwenye wavuti, rununu na vifaa vingi."
+          },
+          {
+            "title": "Maendeleo ya Maombi ya Biashara",
+            "description": "Tengeneza suluhu zinazoweza kuunganishwa na mifumo yako iliyopo ya biashara."
+          },
+          {
+            "title": "Msimbo wa Chini na Utengenezaji wa Msimbo Usio na Msimbo",
+            "description": "Ongeza kasi ya uwasilishaji wa programu ukitumia mifumo inayoweza kunyumbulika ya ukuzaji wa nambari za chini."
+          },
+          {
+            "title": "API & Muunganisho wa Mfumo",
+            "description": "Unganisha programu, mifumo na mifumo ya wahusika wengine kwa mtiririko wa data usio na mshono."
+          },
+          {
+            "title": "Uboreshaji wa Maombi",
+            "description": "Badilisha maombi ya urithi kuwa masuluhisho ya kisasa, makubwa na yenye ufanisi."
+          },
+          {
+            "title": "Programu Zinazoendeshwa na AI",
+            "description": "Unganisha AI, otomatiki, na uwezo wa akili katika matumizi ya biashara."
+          },
+          {
+            "title": "Usaidizi wa Maombi na Matengenezo",
+            "description": "Hakikisha utendakazi endelevu, usalama, masasisho na kutegemewa."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotiki",
+    "businessAutomation": "Biashara Automation",
+    "cloudMigrations": "Uhamiaji wa Wingu",
+    "dataCenters": "Vituo vya Data",
+    "cognitiveAnalyticsAi": "Uchanganuzi wa Utambuzi na AI",
+    "informationReportingSystems": "Taarifa na Mifumo ya Kuripoti",
+    "managedServices": "Huduma Zinazosimamiwa",
+    "oneStopSolutions": "Masuluhisho ya Njia Moja"
+  },
+  "servicePage": {
+    "serviceOverview": "Muhtasari wa Huduma",
+    "whatWeOffer": "Tunachotoa",
+    "whyChooseRezonants": "Kwa Nini Uchague Rezonants",
+    "benefitsOfWorking": "Faida za kufanya kazi nasi",
+    "techStack": "Stack ya Tech",
+    "technologiesWeUse": "Teknolojia tunazotumia",
+    "ourWork": "Kazi Yetu",
+    "relatedProjects": "Miradi inayohusiana",
+    "viewCaseStudy": "Tazama kifani",
+    "readyToDiscuss": "Je, uko tayari kujadili mradi wako wa {{title}}?",
+    "seniorEngineersReady": "Wahandisi wetu wakuu wako tayari kukusaidia kupanga, kubuni na kuunda suluhisho lako.",
+    "startProject": "Anzisha mradi wako",
+    "howItWorks": "Jinsi Inavyofanya Kazi"
+  },
+  "consultation": {
+    "badge": "Agiza Ushauri Bila Malipo",
+    "title": "Hebu Tupange Mradi Wako <span class='hero-accent'>Pamoja</span>",
+    "description": "Panga simu isiyo na wajibu na washauri wetu. Jadili mahitaji yako, chunguza mbinu sahihi ya kiufundi na upate nukuu inayoeleweka - yote ndani ya dakika 30.",
+    "bookSlot": "Weka Nafasi Yako",
+    "howItWorks": "Jinsi Inavyofanya Kazi",
+    "accountRequired": "Akaunti Inahitajika",
+    "signInToBook": "Ingia ili uweke nafasi ya mashauriano yako",
+    "accountRequiredText": "Utahitaji akaunti ya Rezonants ili kuomba mashauriano. Ingia au uunde moja - inachukua chini ya dakika moja.",
+    "signInToContinue": "Ingia ili Kuendelea",
+    "newToRezonants": "Mpya kwa Rezonants?",
+    "createAccount": "Fungua akaunti",
+    "requestMeeting": "Omba Mkutano",
+    "tellUsAboutProject": "Tuambie Kuhusu Mradi Wako",
+    "fillDetails": "Jaza maelezo yako na tutathibitisha nafasi yako ya mashauriano kwa barua pepe.",
+    "fullName": "Jina Kamili *",
+    "email": "Barua pepe *",
+    "phone": "Simu *",
+    "company": "Kampuni",
+    "serviceOfInterest": "Huduma ya Maslahi *",
+    "selectService": "Chagua huduma...",
+    "preferredDate": "Tarehe Inayopendekezwa *",
+    "preferredTime": "Muda Unaopendelea *",
+    "selectTimeSlot": "Chagua muda...",
+    "estimatedBudget": "Makadirio ya Bajeti",
+    "selectRange": "Chagua masafa…",
+    "projectRequirements": "Mahitaji ya Mradi",
+    "booking": "Inahifadhi...",
+    "bookFreeConsultation": "Weka Kitabu Cha Ushauri Wangu Bila Malipo",
+    "freeNote": "100% bure na hakuna wajibu. Kwa kawaida tunajibu ndani ya saa 24.",
+    "whatToExpect": "Nini cha Kutarajia",
+    "preferToReachUs": "Je, Unapendelea Kutufikia Moja kwa Moja?",
+    "callUs": "Tupigie simu",
+    "emailUs": "Tutumie barua pepe",
+    "visitUs": "Tutembelee",
+    "whyBookWithUs": "Kwanini Uhifadhi Nasi",
+    "freeCallTitle": "Simu Bila Malipo Ambayo Kwa Kweli Inasaidia",
+    "freeCallNoPressure": "Simu Bila Malipo, Hakuna Shinikizo",
+    "freeCallNoPressureText": "Kila mashauriano ya kwanza ni bure. Hakuna wajibu wa kununua - ushauri wa uaminifu tu.",
+    "seniorConsultants": "Washauri Wakuu Pekee",
+    "seniorConsultantsText": "Mkutano wako unaongozwa na wahandisi wakuu na washauri ambao hujenga maisha.",
+    "clearTimelines": "Futa Ratiba na Manukuu",
+    "clearTimelinesText": "Ondoka na hatua inayofuata iliyobainishwa, rekodi ya matukio halisi na uwekaji bei wazi wa mradi wako.",
+    "services": {
+      "customSoftware": "Ukuzaji wa Programu Maalum",
+      "webMobile": "Maendeleo ya Wavuti na Programu ya Simu",
+      "cloudDevops": "Cloud & DevOps Solutions",
+      "aiMl": "AI & Mafunzo ya Mashine",
+      "itConsulting": "Ushauri wa IT",
+      "digitalMarketing": "Uuzaji wa Dijiti & SEO",
+      "erpSolutions": "Suluhisho la ERP",
+      "other": "Nyingine / Sina uhakika bado"
+    },
+    "budgets": {
+      "under1L": "Chini ya ₹1L",
+      "1to5L": "₹1L - ₹5L",
+      "5to10L": "₹5L – ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Bado haijaamuliwa"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Fahamu malengo yako",
+        "text": "Tunasikiliza kwanza. Simu ya dakika 30 ili kupanga mahitaji ya biashara yako, hadhira na matokeo unayotaka."
+      },
+      "technicalDirection": {
+        "title": "Pata mwelekeo wa kiufundi",
+        "text": "Wahandisi wetu wanashiriki usanifu, mpangilio na mbinu sahihi ya mradi wako."
+      },
+      "clearQuote": {
+        "title": "Pokea nukuu iliyo wazi",
+        "text": "Ondoka kwa makadirio ya uwazi, kalenda ya matukio na hatua zinazofuata — hakuna wajibu."
+      }
+    },
+    "validation": {
+      "nameRequired": "Jina kamili linahitajika.",
+      "emailRequired": "Barua pepe inahitajika.",
+      "emailInvalid": "Weka barua pepe halali.",
+      "phoneRequired": "Nambari ya simu inahitajika.",
+      "phoneInvalid": "Weka nambari halali ya simu.",
+      "serviceRequired": "Tafadhali chagua huduma.",
+      "dateRequired": "Chagua tarehe unayopendelea.",
+      "timeRequired": "Chagua muda unaopendelea zaidi.",
+      "messageTooShort": "Ongeza maelezo zaidi kidogo (angalau vibambo 10).",
+      "signInRequired": "Tafadhali ingia ili uweke nafasi ya mashauriano yako.",
+      "couldNotBook": "Haikuweza kuweka nafasi ya mashauriano yako. Hakikisha kuwa jedwali la mashauriano lipo, kisha ujaribu tena.",
+      "bookedSuccess": "Ushauri umehifadhiwa! Timu yetu itathibitisha muda wako kupitia barua pepe hivi karibuni."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Karibu Tena",
+    "createAccount": "Unda Akaunti",
+    "forgotPassword": "Umesahau Nenosiri",
+    "createNewPassword": "Unda Nenosiri Jipya",
+    "welcomeBackDesc": "Ingia kwenye akaunti yako ya Rezonants.",
+    "createAccountDesc": "Jiunge na Rezonants leo.",
+    "forgotDesc": "Weka barua pepe yako na tutakutumia kiungo ili kuweka upya nenosiri lako.",
+    "recoveryDesc": "Chagua nenosiri jipya thabiti la akaunti yako.",
+    "fullName": "Jina Kamili",
+    "email": "Barua pepe",
+    "password": "Nenosiri",
+    "newPassword": "Nenosiri Jipya",
+    "confirmPassword": "Thibitisha Nenosiri",
+    "confirmNewPassword": "Thibitisha Nenosiri Jipya",
+    "forgotPasswordLink": "Umesahau nywila?",
+    "privacyPolicy": "Ninakubali sera ya Rezonants <1>Faragha na Usalama</1>.",
+    "sendResetLink": "Tuma Kiungo cha Kuweka Upya",
+    "signIn": "Ingia",
+    "signUp": "Jisajili",
+    "pleaseWait": "Tafadhali subiri...",
+    "rememberedPassword": "Je, umekumbuka nenosiri lako?",
+    "signInLink": "Ingia",
+    "noAccount": "Je, huna akaunti?",
+    "signUpLink": "Jisajili",
+    "hasAccount": "Je, tayari una akaunti?",
+    "changedMind": "Umebadilisha mawazo yako?",
+    "backToSignIn": "Rudi ili kuingia",
+    "resetSent": "Kiungo cha kuweka upya nenosiri kimetumwa! Angalia barua pepe yako ili kuunda nenosiri jipya.",
+    "passwordUpdated": "Nenosiri lako limesasishwa. Ingia kwa kutumia nenosiri lako jipya.",
+    "accountCreated": "Akaunti imeundwa! Angalia barua pepe yako ili kuthibitisha kujisajili kwako, kisha ingia.",
+    "validation": {
+      "fullNameRequired": "Jina kamili linahitajika.",
+      "emailRequired": "Barua pepe inahitajika.",
+      "emailInvalid": "Weka barua pepe halali.",
+      "passwordRequired": "Nenosiri linahitajika.",
+      "passwordMinLength": "Nenosiri lazima liwe na angalau vibambo 6.",
+      "passwordsNoMatch": "Manenosiri hayalingani.",
+      "acceptTerms": "Tafadhali kubali Sera ya Faragha ya Rezonants na Sera ya Usalama ili kuendelea."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Sogoa na Rezonants AI",
+    "openChatLabel": "Fungua gumzo la Msaidizi wa AI wa Rezonants",
+    "chatTitle": "Msaidizi wa Rezonants AI",
+    "online": "Mtandaoni",
+    "expandLabel": "Panua chatbot",
+    "minimizeLabel": "Punguza chatbot",
+    "closeLabel": "Funga chatbot",
+    "expand": "Panua",
+    "minimize": "Punguza",
+    "close": "Funga",
+    "popularTopics": "Mada maarufu",
+    "askPlaceholder": "Niulize kuhusu Rezonants...",
+    "messageLabel": "Tuma ujumbe kwa Msaidizi wa AI wa Rezonants",
+    "sendLabel": "Tuma ujumbe",
+    "sendTitle": "Tuma ujumbe",
+    "enterToSend": "Ingiza kutuma · Shift+Enter kwa laini mpya",
+    "newChat": "Gumzo jipya",
+    "typing": "Rezonants AI anaandika",
+    "menuOptions": "Chaguzi za menyu",
+    "greetingMorning": "Habari za asubuhi",
+    "greetingAfternoon": "Habari za mchana",
+    "greetingEvening": "Habari za jioni",
+    "welcomeText": "! 👋 Karibu kwenye Rezonants.\nMimi ni Msaidizi wa Rezonants AI. Ninaweza kukusaidia kuchunguza huduma zetu, teknolojia na maelezo ya mawasiliano."
+  },
+  "cookieConsent": {
+    "title": "Tunathamini usiri wako",
+    "description": "Tunatumia vidakuzi kuboresha matumizi yako ya kuvinjari. Unaweza kukubali vidakuzi vyote, kukataa vidakuzi visivyo vya lazima, au kubinafsisha mapendeleo yako. Vidakuzi muhimu huwashwa kila wakati ili kuhakikisha tovuti inafanya kazi ipasavyo.",
+    "acceptAll": "Kubali Yote",
+    "rejectNonEssential": "Kataa Yasiyo Muhimu",
+    "managePreferences": "Dhibiti Mapendeleo",
+    "privacyPolicy": "Sera ya Faragha"
+  },
+  "cookiePreferences": {
+    "title": "Dhibiti Mapendeleo ya Vidakuzi",
+    "description": "Chagua ni aina gani za vidakuzi unazoruhusu. Vidakuzi muhimu vinasalia kuwezeshwa ili kuweka tovuti kufanya kazi.",
+    "essential": "Muhimu",
+    "essentialDesc": "Inahitajika kwa tovuti kufanya kazi (uthibitishaji, usalama, kusawazisha mzigo). Hizi haziwezi kuzimwa.",
+    "analytics": "Uchanganuzi",
+    "analyticsDesc": "Tusaidie kuelewa jinsi wageni wanavyotumia tovuti ili tuweze kuiboresha. Imezimwa kwa chaguomsingi.",
+    "marketing": "Masoko",
+    "marketingDesc": "Hutumika kukuonyesha matoleo na kampeni zinazofaa. Imezimwa kwa chaguomsingi.",
+    "cancel": "Ghairi",
+    "savePreferences": "Hifadhi Mapendeleo"
+  },
+  "privacy": {
+    "badge": "Kisheria",
+    "title": "Sera ya Faragha",
+    "description": "Jinsi Rezonants hukusanya, kutumia, na kulinda taarifa zako za kibinafsi na vidakuzi.",
+    "lastUpdated": "Ilisasishwa mwisho: Agosti 2026",
+    "managingPreferences": "Kusimamia mapendeleo yako",
+    "managingPreferencesDesc": "Unaweza kukagua au kubadilisha ni vidakuzi vipi unavyoruhusu wakati wowote kutoka kwa paneli ya mapendeleo ya vidakuzi.",
+    "manageCookiePreferences": "Dhibiti Mapendeleo ya Vidakuzi",
+    "section1": {
+      "title": "1. Taarifa Tunazozikusanya",
+      "body": [
+        "Tunakusanya maelezo unayotoa moja kwa moja (kama vile jina na anwani yako ya barua pepe unapowasilisha fomu ya mawasiliano au kufungua akaunti) na maelezo yanayokusanywa kiotomatiki kupitia vidakuzi na teknolojia kama hizo, kama vile kurasa zilizotembelewa, aina ya kifaa na eneo linalokadiriwa."
+      ]
+    },
+    "section2": {
+      "title": "2. Jinsi Tunavyotumia Vidakuzi",
+      "body": [
+        "Vidakuzi muhimu huwashwa kila wakati kwa sababu tovuti haiwezi kufanya kazi ipasavyo bila wao. Wanahifadhi kipindi na hali ya uthibitishaji na kukumbuka mapendeleo yako ya vidakuzi.",
+        "Vidakuzi vya uchanganuzi hutusaidia kuelewa jinsi wageni wanavyotumia tovuti ili tuweze kuiboresha. Vidakuzi vya uuzaji hutumiwa kukuonyesha matoleo na kampeni zinazofaa. Kategoria hizi zimewashwa tu kwa idhini yako na zinaweza kubadilishwa wakati wowote kutoka kwa paneli ya mapendeleo ya vidakuzi."
+      ]
+    },
+    "section3": {
+      "title": "3. Msingi wa Kisheria (GDPR)",
+      "body": [
+        "Tunachakata data ya kibinafsi kwa misingi ifuatayo ya kisheria: kibali chako (kwa vidakuzi na uuzaji usio muhimu), utendakazi wa mkataba (kwa huduma unazoomba), wajibu wa kisheria, na maslahi halali ambapo haki zako hazizibatili. Unaweza kuondoa idhini wakati wowote bila kuathiri uhalali wa uchakataji unaofanywa kabla ya kujiondoa."
+      ]
+    },
+    "section4": {
+      "title": "4. Haki Zako",
+      "body": [
+        "Kulingana na eneo lako, unaweza kuwa na haki ya kufikia, kurekebisha, kufuta, au kuzuia uchakataji wa data yako ya kibinafsi, kupinga kuchakatwa, na kubebeka kwa data. Unaweza pia kuwasilisha malalamiko kwa mamlaka ya usimamizi ya eneo lako."
+      ]
+    },
+    "section5": {
+      "title": "5. Uhifadhi na Usalama wa Data",
+      "body": [
+        "Tunahifadhi data ya kibinafsi mradi tu inahitajika kwa madhumuni yaliyofafanuliwa katika sera hii. Tunatumia hatua zinazofaa za kiufundi na shirika ili kulinda maelezo yako dhidi ya ufikiaji, mabadiliko, ufichuzi au uharibifu usioidhinishwa."
+      ]
+    },
+    "section6": {
+      "title": "6. Huduma za Watu wa Tatu",
+      "body": [
+        "Baadhi ya vidakuzi vinaweza kuwekwa na watoa huduma wengine (kama vile takwimu au mifumo ya utangazaji) ambayo hutusaidia kuendesha tovuti. Watoa huduma hawa huchakata data chini ya sera zao za faragha na wakati tu umeidhinisha aina husika."
+      ]
+    },
+    "contactUs": "7. Wasiliana Nasi",
+    "contactUsText": "Kwa maswali kuhusu sera hii au data yako ya kibinafsi, wasiliana nasi kupitia <1>info@rezonants.com</1> au piga simu <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Huduma",
+    "title": "Huduma Zetu",
+    "sub": "Masuluhisho ya teknolojia ya mwisho-hadi-mwisho yaliyoundwa ili kusaidia biashara kuvumbua, kuongeza ukubwa na kufanikiwa.",
+    "learnMore": "Jifunze Zaidi",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Kuanzishwa kwa Usambazaji",
+        "text": "Kuanzia dhana ya awali hadi usambazaji wa uzalishaji, tunatoa masuluhisho makubwa yaliyoundwa kwa mahitaji ya biashara ya ulimwengu halisi."
+      },
+      "businessProcessAutomation": {
+        "title": "Uendeshaji wa Mchakato wa Biashara",
+        "text": "Kuhuisha michakato inayojirudia na kuboresha ufanisi wa utendakazi kupitia uendeshaji otomatiki wa biashara wenye akili."
+      },
+      "centerOfExcellence": {
+        "title": "Kituo cha Ubora",
+        "text": "Jenga uwezo maalum wa teknolojia na utaalamu ili kuendeleza uvumbuzi, ubora na uboreshaji unaoendelea."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Ukuzaji Maalum na Kubinafsisha",
+        "text": "Masuluhisho ya programu yaliyoundwa yaliyoundwa kulingana na mahitaji yako ya kipekee ya biashara na mtiririko wa kazi."
+      },
+      "digitalTransformation": {
+        "title": "Mabadiliko ya Dijitali",
+        "text": "Boresha biashara yako kwa mikakati ya kidijitali, teknolojia na masuluhisho ambayo yanaleta athari inayoweza kupimika."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Mfumo wa Suluhisho la Mwisho-hadi-Mwisho",
+        "text": "Suluhu za teknolojia zilizojumuishwa zinazounganisha mkakati, maendeleo, utekelezaji, na shughuli zinazoendelea."
+      },
+      "migrationModernization": {
+        "title": "Uhamiaji na Usasa",
+        "text": "Badilisha utumizi wa urithi kuwa wa kisasa na uhamishe mifumo hadi kwenye majukwaa ya teknolojia yanayoweza kuenea, salama na yenye ufanisi."
+      },
+      "pocPilotImplementation": {
+        "title": "Uthibitisho wa Dhana (PoC) & Utekelezaji wa Majaribio",
+        "text": "Thibitisha mawazo haraka kupitia mifano inayolengwa na utekelezeji wa majaribio kabla ya kutumwa kwa kiwango kamili."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Huduma za Pamoja na Uendeshaji Unaosimamiwa",
+        "text": "Operesheni za teknolojia zinazodhibitiwa zinazotegemewa ambazo huboresha utendakazi, ukubwa na mwendelezo wa biashara."
+      }
+    }
+  },
+  "footer": {
+    "company": "Kampuni",
+    "about": "Kuhusu",
+    "perspectives": "Mitazamo",
+    "technologies": "Teknolojia",
+    "contact": "Wasiliana",
+    "services": "Huduma",
+    "getInTouch": "Wasiliana",
+    "bookConsultation": "Kitabu cha mashauriano",
+    "copyright": "© {{year}} Rezonants. Haki zote zimehifadhiwa.",
+    "cookiePreferences": "Mapendeleo ya Vidakuzi",
+    "privacyPolicy": "Sera ya Faragha",
+    "description": "Rezonants ni kampuni ya huduma za IT na bidhaa za kidijitali huko Hyderabad, India. Tunaunda, kuunda na kuongeza programu kwa kampuni zinazoshindana katika utekelezaji.",
+    "locations": "Maeneo Yetu",
+    "indiaHq": "Hyderabad, India - Makao Makuu ya India",
+    "southAfrica": "Afrika Kusini — REZONANTS PVT LTD",
+    "products": "Bidhaa",
+    "followUs": "Tufuate",
+    "aboutUs": "Kuhusu Sisi",
+    "contactUs": "Wasiliana Nasi",
+    "headline": "Hebu tujenge",
+    "headlineAccent": "nini kinafuata.",
+    "subheadline": "Shirikiana na Rezonants ili kubadilisha mawazo kuwa matokeo halisi ya biashara.",
+    "credoIdeas": "MAWAZO",
+    "credoSolutions": "SULUHU",
+    "credoPeople": "WATU",
+    "credoBrighterTomorrow": "KESHO KUNG'AA",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "Afrika Kusini – REZONANTS PVT LTD",
+    "termsOfUse": "Masharti ya Matumizi",
+    "accessibility": "Upatikanaji",
+    "quickLinks": "Viungo vya Haraka",
+    "explore": "Gundua",
+    "vijayawadaOffice": "Ofisi ya Vijayawada",
+    "allRightsReserved": "Haki zote zimehifadhiwa.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "Afrika Kusini"
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Hitilafu",
+    "retry": "Jaribu tena",
+    "close": "Funga",
+    "backToTop": "Rudi juu",
+    "skipToContent": "Ruka hadi kwenye maudhui",
+    "scroll": "Tembeza",
+    "whatWeOffer": "Tunachotoa",
+    "howItWorks": "Jinsi Inavyofanya Kazi"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Tafuta nchi au msimbo…",
+    "noResults": "Hakuna nchi zilizopatikana.",
+    "countryCodeLabel": "Msimbo wa nchi wa kupiga simu",
+    "required": "Nambari ya simu inahitajika.",
+    "incomplete": "Nambari ya simu lazima iwe na tarakimu {{count}} haswa.",
+    "tooLong": "Nambari ya simu haiwezi kuwa na zaidi ya tarakimu {{count}}.",
+    "invalid": "Weka nambari sahihi ya simu ya {{country}}."
+  },
+  "perspectives": {
+    "topic": "Mada:",
+    "published": "Iliyochapishwa:",
+    "readingTime": "Wakati wa Kusoma:",
+    "author": "Mwandishi:",
+    "authorName": "Studio ya Usanifu wa Rezonants Enterprise",
+    "techArea": "Eneo la Teknolojia",
+    "purpose": "Kusudi",
+    "talkToExperts": "Zungumza na Wataalam Wetu",
+    "viewAll": "Tazama Mitazamo Yote",
+    "exploreMore": "GUNDUA MITAZAMO ZAIDI",
+    "continueExploring": "Endelea Kugundua Maarifa ya Teknolojia ya Biashara",
+    "readPerspective": "Mtazamo wa Kusoma"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "Suluhu za AI na Roboti",
+      "tagline": "Teknolojia ya Akili. Operesheni za Kiotomatiki. Biashara Nadhifu.",
+      "heroBadge": "Mifumo ya Akili ya Kujiendesha",
+      "overview": [
+        "Akili Bandia na Roboti zinabadilisha jinsi mashirika yanavyofanya kazi, kufanya maamuzi na kutoa thamani. Suluhu zetu za AI na Roboti husaidia biashara kuvuka kiotomatiki asilia kwa kuchanganya akili bandia, kujifunza kwa mashine, maono ya kompyuta, mchakato wa kiakili wa otomatiki, na roboti ili kutatua changamoto za kibiashara.",
+        "Tunatengeneza masuluhisho ya akili kuhusu matokeo ya biashara yanayoweza kupimika. Ikiwa hitaji ni kufanya kazi inayorudiwa kiotomatiki, kuchanganua idadi kubwa ya habari, kugundua ruwaza, kusaidia maamuzi, au kuanzisha robotiki katika mazingira ya utendakazi, mbinu yetu inazingatia kutegemewa, hatari, usalama na thamani ya muda mrefu ya biashara."
+      ],
+      "transformation": [
+        "Mashirika ya kisasa yanazalisha kiasi kikubwa cha data na kufanya maelfu ya shughuli zinazojirudia kila siku. AI na robotiki zinaweza kubadilisha shughuli hizi kuwa utiririshaji wa akili, wa kiotomatiki ambao huboresha tija huku ukiruhusu wafanyikazi kuzingatia majukumu ya thamani ya juu.",
+        "Suluhisho zetu zinaweza kusaidia mashirika kufanya utendakazi unaorudiwa kiotomatiki, kupunguza uingiliaji kati wa mtu mwenyewe, kuboresha usahihi, kuchanganua maelezo changamano, kuunga mkono maamuzi ya haraka, kuboresha matumizi ya rasilimali, kuboresha hali ya utumiaji wa wateja, na kuunda mifumo mahiri ya kupita kiasi."
+      ],
+      "capabilities": [
+        {
+          "title": "Akili Bandia",
+          "desc": "Tunatengeneza suluhu zinazoendeshwa na AI ambazo huwezesha mifumo kuelewa taarifa, kutambua mifumo, kutoa maarifa, na kusaidia maamuzi ya biashara."
+        },
+        {
+          "title": "Mafunzo ya Mashine",
+          "desc": "Tunatengeneza miundo ya mashine ya kujifunza kwa utabiri, uainishaji, mifumo ya mapendekezo, ugunduzi wa hitilafu, uchanganuzi wa kubashiri, na usaidizi wa busara wa maamuzi."
+        },
+        {
+          "title": "Usindikaji wa Lugha Asilia",
+          "desc": "NLP inaweza kutumika kuchakata hati, kuelewa maandishi, kuainisha habari, kutoa maudhui muhimu, na kusaidia maombi ya mazungumzo."
+        },
+        {
+          "title": "Maono ya Kompyuta",
+          "desc": "Ufumbuzi wa maono ya kompyuta unaweza kusaidia uainishaji wa picha, utambuzi wa vitu, ukaguzi wa ubora, uchakataji wa hati, ufuatiliaji wa kuona, na uchanganuzi wa video."
+        },
+        {
+          "title": "Roboti",
+          "desc": "Roboti huchanganya akili ya programu na mifumo ya kimwili ili kufanyia shughuli otomatiki ambazo kwa kawaida zinahitaji juhudi za mikono. Maombi yanaweza kujumuisha utengenezaji, vifaa, ghala, ukaguzi, utunzaji wa nyenzo, na usaidizi wa uendeshaji."
+        },
+        {
+          "title": "Uendeshaji wa Mchakato wa Akili",
+          "desc": "AI inaweza kuunganishwa na utendakazi otomatiki ili kuunda mifumo inayotafsiri maelezo, kutumia sheria au miundo ya biashara, na kuanzisha mchakato unaofaa kiotomatiki."
+        }
+      ],
+      "lifecycleSteps": [
+        "Tathmini ya Biashara",
+        "Uchambuzi wa Data",
+        "Mkakati wa AI",
+        "Usanifu wa Suluhisho",
+        "Maendeleo",
+        "Ushirikiano",
+        "Upimaji",
+        "Usambazaji",
+        "Ufuatiliaji",
+        "Uboreshaji"
+      ],
+      "benefits": [
+        "Tija ya juu ya uendeshaji wa biashara",
+        "Kupungua kwa kiasi kikubwa kwa gharama za uendeshaji",
+        "Uchakataji wa haraka na ugeuzaji uamuzi wa milisekunde",
+        "Data iliyoboreshwa na usahihi wa mtiririko wa kazi",
+        "Utumiaji ulioboreshwa wa rasilimali halisi na hesabu",
+        "Kupunguza hatari za uendeshaji na makosa ya kibinadamu",
+        "Ubora usio na mshono wa majukwaa mengi",
+        "Uzoefu ulioimarishwa wa mteja na mfanyakazi"
+      ],
+      "security": "Suluhu za Enterprise AI lazima ziundwe kwa usalama ufaao, vidhibiti vya ufikiaji, ulinzi wa data, ufuatiliaji, usimamizi wa kielelezo, na ulinzi wa uendeshaji. Tunazingatia mahitaji haya kutoka kwa hatua ya usanifu kupitia usambazaji na matengenezo yanayoendelea ili kuhakikisha akili inayotegemewa, ya kiwango cha uzalishaji.",
+      "ctaHeadline": "Jenga Wakati Ujao Wenye Akili",
+      "ctaSub": "Fanya shughuli zako kuwa bora zaidi. Otomatiki mambo muhimu. Jenga kwa siku zijazo."
+    },
+    "business-automation-solutions": {
+      "title": "Suluhisho za Uendeshaji wa Biashara",
+      "tagline": "Rahisisha Michakato. Ondoa Kurudia. Kuharakisha Ukuaji.",
+      "heroBadge": "Uboreshaji wa Mtiririko wa Kazi wa Mwisho-hadi-Mwisho",
+      "overview": [
+        "Uendeshaji otomatiki wa biashara huwezesha mashirika kuchukua nafasi ya shughuli zinazojirudia-rudia na utiririshaji wa kazi wa dijitali. Suluhu zetu za otomatiki za biashara husaidia kampuni kuboresha tija, kupunguza utata wa utendakazi, kupunguza makosa, na kuunda michakato thabiti katika idara zote.",
+        "Tunachanganua utendakazi uliopo, kutambua vikwazo, na kubuni suluhu za kiotomatiki zinazounganisha watu, programu, data na michakato ya biashara."
+      ],
+      "transformation": [
+        "Mashirika mengi bado yanategemea lahajedwali, barua pepe, uidhinishaji wa mikono, uwekaji data unaorudiwa, kushughulikia hati na programu zilizokatwa. Michakato hii hutumia muda muhimu wa mfanyakazi na inaweza kuanzisha ucheleweshaji, kutofautiana, na makosa.",
+        "Mbinu yetu ya otomatiki inalenga katika kuelewa mchakato kamili, kuondoa hatua zisizo za lazima, kuunganisha mifumo, na kufanya shughuli otomatiki zinazotoa thamani kubwa zaidi ya uendeshaji."
+      ],
+      "capabilities": [
+        {
+          "title": "Uendeshaji wa Mtiririko wa Kazi",
+          "desc": "Tunabadilisha kiotomatiki michakato ya hatua nyingi inayohusisha wafanyikazi, maombi, idhini, arifa na data katika idara tofauti."
+        },
+        {
+          "title": "Uendeshaji wa Mchakato wa Roboti",
+          "desc": "Boti za programu zinaweza kufanya shughuli zinazojirudia, kulingana na sheria kama vile kuingiza data, masasisho ya mfumo, upatanisho na uhamishaji taarifa."
+        },
+        {
+          "title": "Uendeshaji wa Hati",
+          "desc": "Mitiririko ya hati otomatiki inaweza kutoa maelezo, kuthibitisha data, kuainisha hati, maombi ya njia, na kuanzisha michakato ya chini."
+        },
+        {
+          "title": "Uidhinishaji Otomatiki",
+          "desc": "Mtiririko wa kazi wa uidhinishaji wa kidijitali huelekeza maombi kiotomatiki kwa watoa maamuzi sahihi na kutoa mwonekano wa wakati halisi katika vitendo vinavyosubiri."
+        },
+        {
+          "title": "Integration Automation",
+          "desc": "Tunaunganisha programu za biashara ili maelezo yaweze kusogezwa kiotomatiki kati ya mifumo bila uingiliaji kati wa kibinafsi usio wa lazima."
+        },
+        {
+          "title": "Taarifa Otomatiki",
+          "desc": "Arifa na arifa za kiotomatiki huwasaidia wafanyakazi kujibu papo hapo kwa matukio muhimu, makataa, vighairi na mabadiliko ya uendeshaji."
+        }
+      ],
+      "lifecycleSteps": [
+        "Gundua",
+        "Chambua",
+        "Ubunifu",
+        "Otomatiki",
+        "Unganisha",
+        "Mtihani",
+        "Tekeleza",
+        "Kufuatilia",
+        "Boresha"
+      ],
+      "benefits": [
+        "Kuongezeka kwa matokeo ya timu na kasi ya uendeshaji",
+        "Kupungua kwa kiasi kikubwa kwa hitilafu za uwekaji data mwenyewe",
+        "Muda mfupi wa kubadilisha mchakato wa mwisho hadi mwisho",
+        "Mwonekano mmoja katika shughuli za biashara",
+        "Uzingatiaji sanifu wa idara mbalimbali",
+        "Imepunguza kwa kiasi kikubwa matumizi ya uendeshaji",
+        "Uwezo elastic wa kuongeza mzigo wa kazi bila kujitahidi",
+        "Timu zilizowezeshwa zilizingatia ushiriki wa wateja na kazi ya kimkakati"
+      ],
+      "security": "Tunachanganya mifumo ya mtiririko wa kazi na RPA na miundo mahiri inayofahamu muktadha ili kuhakikisha udhibiti wa ufikiaji unaotegemea dhima, njia za kina za ukaguzi na utiifu kamili katika kila shughuli ya kiotomatiki.",
+      "ctaHeadline": "Jenga Uendeshaji Bora Zaidi",
+      "ctaSub": "Weka otomatiki kazi inayorudiwa. Wawezeshe watu wako. Ongeza kasi ya biashara yako."
+    },
+    "cloud-migration-solutions": {
+      "title": "Suluhu za Uhamiaji wa Wingu",
+      "tagline": "Nenda kwa Wingu kwa Ujasiri.",
+      "heroBadge": "Mabadiliko ya Wingu nyingi",
+      "overview": [
+        "Kompyuta ya wingu imekuwa sehemu muhimu ya miundombinu ya kisasa ya IT. Mashirika yanahamisha programu, hifadhidata, mzigo wa kazi na miundombinu hadi kwenye mazingira ya wingu ili kuboresha uboreshaji, upatikanaji, kunyumbulika na ufanisi wa uendeshaji.",
+        "Huduma zetu za uhamiaji wa wingu husaidia mashirika kutathmini mazingira yao ya sasa, kufafanua mikakati ya uhamiaji, kutekeleza uhamaji na kuboresha mzigo wa kazi baada ya kuhamia kwenye wingu."
+      ],
+      "transformation": [
+        "Uhamiaji wa wingu ni zaidi ya kuhamisha seva kutoka kwa mazingira moja hadi nyingine. Uhamiaji wenye mafanikio unahitaji tathmini makini ya programu, miundombinu, vitegemezi, mahitaji ya usalama, data, utendakazi, upatikanaji na mwendelezo wa biashara.",
+        "Tunaunda mikakati ya uhamiaji kulingana na mazingira ya sasa ya shirika na malengo ya siku zijazo, na kuchagua muundo unaofaa wa uhamiaji kwa kila mzigo wa kazi."
+      ],
+      "capabilities": [
+        {
+          "title": "Uhamiaji wa Miundombinu",
+          "desc": "Tunahamisha seva za kawaida, hifadhi, mashine pepe, na mizigo ya kazi hadi katika mazingira ya kisasa ya wingu kwenye AWS, Azure na GCP."
+        },
+        {
+          "title": "Uhamiaji wa Maombi",
+          "desc": "Programu zinaweza kupangishwa upya, kubadilishwa, kubadilishwa, au kusanifiwa upya kulingana na mahitaji ya biashara na kiufundi."
+        },
+        {
+          "title": "Uhamiaji wa Hifadhidata",
+          "desc": "Tunahamisha hifadhidata huku tukizingatia uadilifu wa data, utendakazi, uoanifu, upatikanaji, usalama na mahitaji ya urejeshaji."
+        },
+        {
+          "title": "Uboreshaji wa Wingu",
+          "desc": "Uhamiaji huwa fursa ya kusasisha programu kwa kutumia kontena, huduma ndogo, hifadhidata zinazodhibitiwa, huduma zisizo na seva na usanifu wa asili wa wingu."
+        },
+        {
+          "title": "Wingu Mseto",
+          "desc": "Mashirika ambayo yanahitaji miundombinu ya ndani ya majengo na ya wingu yanaweza kutumia usanifu mseto unaounganisha kwa urahisi mifumo iliyopo na huduma za wingu."
+        },
+        {
+          "title": "Wingu nyingi",
+          "desc": "Kwa mashirika yanayofanya kazi kwenye mifumo mingi ya wingu, tunasaidia kubuni mikakati ya mzigo ambayo inaboresha unyumbufu, uthabiti na utawala."
+        }
+      ],
+      "lifecycleSteps": [
+        "Tathmini",
+        "Ugunduzi",
+        "Ramani ya Utegemezi",
+        "Mkakati wa Uhamiaji",
+        "Usanifu wa Usanifu",
+        "Uhamiaji wa Majaribio",
+        "Uhamiaji wa Data",
+        "Uhamiaji wa Maombi",
+        "Upimaji",
+        "Uhamiaji wa Uzalishaji",
+        "Uboreshaji"
+      ],
+      "benefits": [
+        "Uboreshaji wa elastic na upatikanaji wa juu wa rasilimali",
+        "Unyumbufu mkubwa wa miundombinu na wepesi wa biashara",
+        "Iliondoa mzigo wa matengenezo ya kituo cha data",
+        "Usambazaji wa kipengele cha programu ulioharakishwa",
+        "Ahueni thabiti ya maafa na ustahimilivu wa chelezo",
+        "Ufikiaji wa haraka wa AI ya kisasa ya wingu na huduma zinazodhibitiwa",
+        "Iliboresha utawala wa FinOps na kupunguza TCO",
+        "Utiifu unaoendelea na njia za ulinzi za kiotomatiki"
+      ],
+      "security": "Usalama ni sehemu muhimu ya upangaji wa uhamiaji. Tunazingatia utambulisho na udhibiti wa ufikiaji, usalama wa mtandao, usimbaji fiche ndani ya usafiri na wakati wa kupumzika, ulinzi wa data, ukaguzi wa kuathirika kwa programu, ufuatiliaji, hifadhi rudufu na uokoaji wa maafa.",
+      "ctaHeadline": "Safari Yako ya Wingu, Imepangwa Vizuri",
+      "ctaSub": "Fanya miundombinu yako iwe ya kisasa. Kuongeza kasi ya uvumbuzi. Jenga msingi wa wingu unaoweza kuenea."
+    },
+    "data-center-solutions": {
+      "title": "Ufumbuzi wa Kituo cha Data",
+      "tagline": "Miundombinu Inayoaminika kwa Shughuli Muhimu za Misheni.",
+      "heroBadge": "Miundombinu Muhimu ya Dhamira",
+      "overview": [
+        "Vituo vya data vinaunda msingi wa biashara za kisasa za kidijitali. Maombi, hifadhidata, mifumo ya biashara, majukwaa ya mawasiliano, na huduma muhimu za biashara hutegemea miundombinu ya kuaminika.",
+        "Masuluhisho yetu ya kituo cha data yanalenga katika kubuni, kusasisha, kudhibiti na kuboresha mazingira ya miundombinu yaliyojengwa kwa ajili ya upatikanaji, usalama, ukubwa, utendakazi na ufanisi wa uendeshaji."
+      ],
+      "transformation": [
+        "Kituo cha kisasa cha data kinahitaji zaidi ya seva na hifadhi. Inahitaji miundombinu iliyosanifiwa kwa uangalifu katika kompyuta, mitandao, usalama, nishati, upoaji, ufuatiliaji, chelezo, na uokoaji wa maafa.",
+        "Tunasaidia mashirika kuunda mazingira ya miundombinu thabiti ambayo yanasaidia mzigo muhimu wa kazi na kutoa msingi wa ukuaji wa teknolojia ya siku zijazo."
+      ],
+      "capabilities": [
+        {
+          "title": "Usanifu wa Miundombinu",
+          "desc": "Tunaunda mazingira kulingana na mahitaji ya mzigo wa kazi, uwezo, utendaji, upatikanaji, usalama na ukuaji wa siku zijazo."
+        },
+        {
+          "title": "Miundombinu ya Seva",
+          "desc": "Tunaauni mazingira halisi na pepe ya seva kwa ajili ya maombi muhimu ya biashara na mizigo ya kazi."
+        },
+        {
+          "title": "Ufumbuzi wa Hifadhi",
+          "desc": "Tunazingatia utendakazi, uwezo, kutohitajika tena, SAN/NAS ya kasi ya juu, mahitaji ya kuhifadhi nakala na ulinzi wa data tunapounda mazingira ya kuhifadhi."
+        },
+        {
+          "title": "Miundombinu ya Mtandao",
+          "desc": "Tunasanifu mazingira ya mtandao yenye sehemu zinazofaa, zisizohitajika, utendakazi wa kusubiri muda wa chini, muunganisho na vidhibiti vya usalama."
+        },
+        {
+          "title": "Uboreshaji",
+          "desc": "Usanifu huboresha utumiaji wa rasilimali, kubadilika kwa mzigo wa kazi, na usimamizi wa miundo msingi."
+        },
+        {
+          "title": "Hifadhi Nakala na Urejeshaji Maafa",
+          "desc": "Tunasaidia mashirika kuanzisha mikakati ya kuhifadhi nakala na usanifu wa urejeshaji iliyoundwa ili kupunguza muda wa kupungua na kuondoa upotezaji wa data."
+        }
+      ],
+      "lifecycleSteps": [
+        "Tathmini ya Uwezo",
+        "Uchambuzi wa Mzigo wa Kazi",
+        "Mchoro wa Usanifu",
+        "Maunzi na Ukubwa wa Mtandaoni",
+        "Sehemu ya Mtandao",
+        "Utoaji wa Hifadhi",
+        "Upungufu na Upimaji wa DR",
+        "Uzalishaji Cutover",
+        "24/7 Ufuatiliaji wa Afya",
+        "Uboreshaji Unaoendelea"
+      ],
+      "benefits": [
+        "Imehakikishwa 99.999% ya uboreshaji wa miundombinu",
+        "Alama sifuri za kutofaulu na upunguzaji wa tabaka nyingi",
+        "Kokotoo iliyoboreshwa ya seva na uboreshaji wa mtandao wenye msongamano wa juu",
+        "Milisekunde ndogo ya usanifu wa mitandao ya latency ya chini",
+        "Usalama ulioimarishwa wa mzunguko wa kimwili na wa kidijitali",
+        "Ufuatiliaji makini na kushindwa kiotomatiki kushindwa",
+        "Hifadhi inayoweza kuongezwa ya moduli ya data ya mizani ya petabyte",
+        "Gharama ya jumla inayotabirika ya umiliki na ufanisi wa nguvu"
+      ],
+      "security": "Usalama umeunganishwa katika safu ya miundombinu, inayojumuisha sehemu ndogo za mtandao, mizizi ya uaminifu ya maunzi, vidhibiti vya ufikiaji bila uaminifu, ukaguzi unaoendelea wa kuathirika, ulinzi wa mwisho na sera kali za utendakazi.",
+      "ctaHeadline": "Miundombinu Iliyo Tayari Kwa Baadaye",
+      "ctaSub": "Jenga miundombinu ya uhakika leo. Unda msingi wa teknolojia ya kesho."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Uchanganuzi wa Utambuzi na AI",
+      "tagline": "Geuza Data kuwa Akili.",
+      "heroBadge": "Akili ya Data-to-Decision",
+      "overview": [
+        "Mashirika huzalisha kiasi kikubwa cha taarifa kupitia programu, miamala, wateja, uendeshaji, vifaa na mifumo ya kidijitali. Changamoto sio tena kukusanya data tu; ni kuelewa data hiyo na kuigeuza kuwa akili inayoweza kutekelezeka.",
+        "Suluhu zetu za Uchanganuzi wa Utambuzi na AI huchanganya uchanganuzi wa hali ya juu, kujifunza kwa mashine, akili bandia, kuchakata data na akili ya biashara ili kusaidia mashirika kufanya maamuzi bora."
+      ],
+      "transformation": [
+        "Ripoti za kitamaduni huambia mashirika kile kilichotokea. Uchanganuzi wa hali ya juu unaweza kusaidia kueleza ni kwa nini ilitokea, kutambua kile kinachoweza kutokea baadaye, na kuunga mkono maamuzi kuhusu kile kinachopaswa kutokea.",
+        "Tunasaidia mashirika kuanzisha mazingira ya data ambayo yanapita zaidi ya kuripoti tuli kuelekea uchanganuzi wa akili na usaidizi wa maamuzi."
+      ],
+      "capabilities": [
+        {
+          "title": "Uchanganuzi wa Maelezo",
+          "desc": "Fahamu utendaji wa kihistoria kupitia ripoti shirikishi, dashibodi zenye sura nyingi, KPI na vipimo vya biashara."
+        },
+        {
+          "title": "Uchanganuzi wa Uchunguzi",
+          "desc": "Tambua mahusiano ya kimsingi, mitindo, hitilafu za takwimu na visababishi vikuu vya matokeo ya biashara."
+        },
+        {
+          "title": "Uchanganuzi wa Kutabiri",
+          "desc": "Tumia data ya utiririshaji ya kihistoria na ya wakati halisi yenye miundo ya takwimu ili kutambua matokeo na mahitaji yanayoweza kutokea siku zijazo."
+        },
+        {
+          "title": "Uchanganuzi wa Maagizo",
+          "desc": "Tathmini hatua zinazowezekana na usaidie njia bora za uamuzi kulingana na matokeo yaliyotabiriwa na malengo ya kimkakati ya biashara."
+        },
+        {
+          "title": "Miundo ya Kujifunza kwa Mashine",
+          "desc": "Tengeneza miundo maalum ya utabiri, uainishaji wa wateja, mapendekezo, ugunduzi wa hitilafu, na matengenezo ya ubashiri."
+        },
+        {
+          "title": "Maarifa Yanayoendeshwa na AI",
+          "desc": "Tumia AI ya utambuzi kwa wingi wa maelezo ambayo hayajaundwa ili kuibua mifumo iliyofichwa, muhtasari mkuu na mapendekezo."
+        }
+      ],
+      "lifecycleSteps": [
+        "Vyanzo vya Data",
+        "Ujumuishaji wa Takwimu",
+        "Usindikaji wa Data",
+        "Hifadhi ya Data",
+        "Uchanganuzi",
+        "Miundo ya AI/ML",
+        "Taswira",
+        "Maamuzi ya Biashara"
+      ],
+      "benefits": [
+        "Uamuzi wa kiutendaji unaotokana na ukweli, unaoendeshwa na data",
+        "Mahitaji sahihi, mapato, na utabiri wa hali ya juu",
+        "Tatizo la wakati halisi na utambuzi wa ulaghai",
+        "Maarifa ya kina ya 360° ya tabia ya mteja na ubinafsishaji",
+        "Iliyoboreshwa ya ugavi na ufanisi wa uendeshaji",
+        "Hatari iliyopunguzwa ya kiutendaji na kifedha",
+        "Ugunduzi wa fursa zilizofichwa za mapato",
+        "Ufahamu ulioharakishwa wa wakati hadi-katika vitengo vya biashara"
+      ],
+      "security": "Mifumo yetu ya uchanganuzi hutekeleza usimbaji fiche kutoka mwisho hadi mwisho, ufichaji data kiotomatiki, ruhusa kali za RBAC, na usimamizi wa kielelezo ili kulinda data ya wamiliki na kudumisha utiifu wa udhibiti (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Tengeneza Mkakati wa Akili wa Data",
+      "ctaSub": "Geuza habari kuwa utambuzi. Geuza maarifa kuwa vitendo."
+    },
+    "information-reporting-systems": {
+      "title": "Taarifa na Mifumo ya Kuripoti",
+      "tagline": "Taarifa Sahihi. Kwa Wakati Ufaao. Kwa Maamuzi Bora.",
+      "heroBadge": "Ujasusi wa Umoja wa Biashara",
+      "overview": [
+        "Viongozi wa biashara na timu za uendeshaji hutegemea taarifa sahihi ili kufanya maamuzi yenye ufanisi. Mifumo yetu ya Taarifa na Kuripoti husaidia mashirika kukusanya, kupanga, kuchanganua na kuwasilisha taarifa za biashara kupitia mifumo ya taarifa iliyopangwa, mifumo ya kuripoti, dashibodi na utiririshaji kazi wa kuripoti kiotomatiki.",
+        "Mashirika mara nyingi huwa na taarifa iliyosambazwa katika programu, lahajedwali, hifadhidata na mifumo ya uendeshaji. Hii inafanya kuwa vigumu kuanzisha mtazamo thabiti wa utendaji wa biashara. Tunasaidia kujumuisha vyanzo vya habari katika mazingira yaliyopangwa ya kuripoti ambayo hutoa maelezo ya biashara ya kuaminika, yanayofikiwa na thabiti."
+      ],
+      "transformation": [
+        "Mfumo wa kuripoti haupaswi kuonyesha nambari tu. Inapaswa kuwasaidia watumiaji kuelewa utendakazi, kutambua matatizo, kugundua fursa na kufanya maamuzi sahihi.",
+        "Tunaunda mazingira ya kuripoti kuhusu jinsi shirika lako linavyofanya kazi, tukitoa mifumo ikolojia iliyopangwa iliyoundwa kwa ajili ya viwango vyote vya usimamizi."
+      ],
+      "capabilities": [
+        {
+          "title": "Mifumo ya Taarifa za Usimamizi (MIS)",
+          "desc": "Kuunda mifumo ya habari iliyounganishwa ambayo hutoa usimamizi wa utendaji na mwonekano unaofaa wa kiutendaji na wa kimkakati."
+        },
+        {
+          "title": "Taarifa za Biashara",
+          "desc": "Badilisha data ghafi ya biashara kutoka kwa vituo vingi hadi ripoti zilizopangwa, zilizosanifiwa ambazo hufuatilia utendakazi kila mara."
+        },
+        {
+          "title": "Dashibodi Zinazoingiliana",
+          "desc": "Toa mwonekano wa mwingiliano wa wakati halisi au ulioratibiwa katika vipimo muhimu vya biashara, KPIs, mitindo na shughuli za idara."
+        },
+        {
+          "title": "Usimamizi wa KPI",
+          "desc": "Fafanua, fuatilia, na ulinganishe KPIs za uendeshaji zenye maana zilizoambatanishwa moja kwa moja na malengo makuu ya ukuaji wa biashara."
+        },
+        {
+          "title": "Ujumuishaji wa Takwimu",
+          "desc": "Unganisha vyanzo vya data vilivyosambazwa katika maghala ya data yaliyounganishwa na tabaka za kisemantiki kwa ripoti thabiti ya kidirisha-kioo."
+        },
+        {
+          "title": "Kuripoti Kiotomatiki",
+          "desc": "Tengeneza na usambaze kiotomatiki ripoti zilizobinafsishwa kulingana na ratiba zilizobainishwa, sheria za biashara na madaraja ya wapokeaji."
+        }
+      ],
+      "lifecycleSteps": [
+        "Mifumo ya Biashara",
+        "Ukusanyaji wa Data",
+        "Ujumuishaji wa Takwimu",
+        "Usindikaji wa Data",
+        "Hifadhi ya Data",
+        "Uchanganuzi",
+        "Ripoti na Dashibodi"
+      ],
+      "benefits": [
+        "Chanzo kimoja cha ukweli katika biashara nzima",
+        "Ufikiaji wa haraka wa vipimo vya uendeshaji katika wakati halisi",
+        "Uondoaji kamili wa mkusanyiko wa lahajedwali mwenyewe",
+        "KPIs za idara mbalimbali zinazolingana, zilizopatanishwa",
+        "Uangalizi wa hali ya juu na ukaguzi wa mtendaji",
+        "Usambazaji wa kiotomatiki moja kwa moja kwa wadau",
+        "Usalama na ruhusa za data ya kiwango cha safu mlalo",
+        "Wepesi ulioimarishwa wa kukabiliana na hitilafu za kiutendaji"
+      ],
+      "security": "Taarifa za biashara zinaweza kuwa na data nyeti ya uendeshaji, kifedha na mteja. Suluhu zetu za kuripoti hupachika uthibitishaji wa vipengele vingi, uidhinishaji wa msingi wa granular, usimbaji fiche na kumbukumbu za ukaguzi katika usanifu wa kuripoti.",
+      "ctaHeadline": "Ripoti Inayosaidia Ukuaji",
+      "ctaSub": "Fanya taarifa ipatikane. Fanya utendaji uonekane. Fanya maamuzi bora."
+    },
+    "managed-services": {
+      "title": "Huduma Zinazosimamiwa",
+      "tagline": "Operesheni za Kutegemewa za Teknolojia. Usaidizi wa Mtaalam. Uboreshaji wa Kuendelea.",
+      "heroBadge": "24/7 Uendeshaji na Usaidizi wa IT",
+      "overview": [
+        "Mazingira ya kisasa ya IT ni magumu na yanabadilika kila mara. Mashirika yanahitaji miundombinu ya kuaminika, programu, mitandao, usalama, ufuatiliaji na usaidizi wa kiufundi ili kufanya shughuli za biashara ziendelee.",
+        "Huduma Zetu Zinazosimamiwa hutoa usimamizi unaoendelea wa teknolojia na usaidizi wa uendeshaji, kuruhusu mashirika kudumisha mazingira ya kutegemewa ya TEHAMA huku timu za ndani zikizingatia mipango ya kimkakati."
+      ],
+      "transformation": [
+        "Usaidizi wa jadi wa TEHAMA mara nyingi hulenga katika kutatua matatizo baada ya kutokea. Huduma zinazodhibitiwa huchukua mkabala makini kwa kuendelea kufuatilia miundombinu, programu, mifumo na mazingira ya uendeshaji.",
+        "Mbinu hii husaidia kutambua matatizo yanayoweza kutokea mapema, kudumisha utendakazi, kuboresha upatikanaji na kupunguza usumbufu unaoweza kuepukika."
+      ],
+      "capabilities": [
+        {
+          "title": "Usimamizi wa Miundombinu",
+          "desc": "Saidia utendakazi unaoendelea, kuweka viraka na usimamizi wa seva, uhifadhi, mifumo ya uboreshaji na miundombinu."
+        },
+        {
+          "title": "Usimamizi wa Wingu",
+          "desc": "Dhibiti mizigo ya kazi ya wingu, rasilimali za wingu nyingi, usanidi, ufuatiliaji, utendakazi na uboreshaji wa FinOps."
+        },
+        {
+          "title": "Usimamizi wa Mtandao",
+          "desc": "Toa ufuatiliaji wa 24/7, udhibiti wa utendakazi, usaidizi wa usanidi, uboreshaji wa SD-WAN na utatuzi wa tatizo la mtandao."
+        },
+        {
+          "title": "Usimamizi wa Maombi",
+          "desc": "Inaauni mazingira muhimu ya utumaji programu kupitia ufuatiliaji makini, matengenezo, utatuzi wa hitilafu na uboreshaji wa uendeshaji."
+        },
+        {
+          "title": "Ufuatiliaji na Kuzingatiwa",
+          "desc": "Toa mwonekano wa kina wa wakati halisi katika afya ya mfumo, muda wa kusubiri, muda wa ziada, utegemezi wa miundombinu na arifa."
+        },
+        {
+          "title": "Hifadhi Nakala na Usimamizi wa Urejeshaji",
+          "desc": "Dumisha ratiba za kuhifadhi nakala kiotomatiki, jaribu walioshindwa mara kwa mara, na uhakikishe uwezo wa uokoaji papo hapo."
+        },
+        {
+          "title": "Operesheni za Usalama (SecOps)",
+          "desc": "Kutoa ufuatiliaji endelevu wa usalama, usimamizi wa viraka, utekelezaji wa udhibiti wa ufikiaji, na upunguzaji wa vitisho unaoendelea."
+        }
+      ],
+      "lifecycleSteps": [
+        "Upandaji wa Mazingira",
+        "Ugunduzi & Msingi",
+        "Ushirikiano wa Telemetry",
+        "Ufafanuzi wa SLA",
+        "Ufuatiliaji Inayotumika 24/7",
+        "Uainishaji wa Tukio",
+        "Azimio la Haraka",
+        "Uchambuzi wa Chanzo Chanzo",
+        "Uhandisi wa Kinga",
+        "Uboreshaji Unaoendelea"
+      ],
+      "benefits": [
+        "Imepunguza kwa kiasi kikubwa mzigo wa uendeshaji wa ndani",
+        "Ugunduzi wa tatizo kabla ya watumiaji kuathiriwa",
+        "Imehakikishiwa upatikanaji wa mfumo wa 99.99%.",
+        "Bajeti inayotabirika na ya uwazi ya uendeshaji wa IT",
+        "Upatikanaji wa haraka kwa wataalamu wakuu wa uhandisi",
+        "Nyakati za majibu ya matukio ya haraka yanayoungwa mkono na SLA",
+        "Ahueni ya maafa ya kiotomatiki na mwendelezo wa biashara",
+        "Uboreshaji na uboreshaji wa teknolojia endelevu"
+      ],
+      "security": "Shughuli zetu zinazosimamiwa hufuata mifumo madhubuti ya ITIL na ISO, kuhakikisha ufikiaji uliosimbwa kwa njia fiche, kumbukumbu za ukaguzi zilizotengwa, uwekaji hati miliki usio na upendeleo, na upatanishi wa kufuata katika kila rasilimali inayodhibitiwa.",
+      "ctaHeadline": "Uboreshaji Unaoendelea",
+      "ctaSub": "Unazingatia biashara yako. Tunakusaidia kuendeleza teknolojia yako."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Masuluhisho ya Teknolojia ya Njia Moja",
+      "tagline": "Mshirika Mmoja wa Teknolojia. Uwezo Nyingi. Suluhisho kamili za Biashara.",
+      "heroBadge": "Mshirika Mmoja wa Biashara",
+      "overview": [
+        "Mashirika mara nyingi hufanya kazi na watoa huduma wengi wa teknolojia kwa ajili ya miundombinu, wingu, programu, otomatiki, uchanganuzi, usalama, usaidizi na mabadiliko ya kidijitali. Kusimamia wachuuzi wengi kunaweza kuleta utata, mapungufu ya mawasiliano, juhudi zilizorudiwa, na mazingira ya teknolojia yaliyogawanyika.",
+        "Mbinu yetu ya Masuluhisho ya Teknolojia ya Kukomesha Mara Moja huleta uwezo mbalimbali pamoja chini ya muundo wa huduma uliounganishwa, kusaidia mashirika kupanga, kutekeleza, kuunganisha, kuendesha na kuboresha mazingira yao ya teknolojia kila mara."
+      ],
+      "transformation": [
+        "Tunaunga mkono mzunguko kamili wa maisha wa teknolojia—kutoka kuelewa mahitaji ya biashara na kufafanua mkakati wa teknolojia hadi kubuni suluhu, kutekeleza majukwaa, kuunganisha mifumo, kupeleka programu, kufuatilia mazingira na kutoa usaidizi unaoendelea.",
+        "Lengo ni kuunda mfumo wa teknolojia uliounganishwa badala ya suluhu zilizotengwa."
+      ],
+      "capabilities": [
+        {
+          "title": "Mkakati na Usanifu",
+          "desc": "Fahamu malengo ya biashara na usanifu usanifu wa teknolojia unaoweza kupanuka, salama na unaoweza kudumishwa."
+        },
+        {
+          "title": "Utekelezaji & Kujenga",
+          "desc": "Tekeleza programu, miundomsingi, miunganisho, mitambo otomatiki na mifumo ya kidijitali kwa ukali wa biashara."
+        },
+        {
+          "title": "Uunganishaji wa Mfumo",
+          "desc": "Unganisha mifumo na programu ili maelezo yasogee kwa urahisi katika shirika zima."
+        },
+        {
+          "title": "Uwekaji Muundo",
+          "desc": "Anzisha michakato ya kiotomatiki ya CI/CD na uchapishe ili kusogeza suluhu katika uzalishaji kwa uhakika na kwa usalama."
+        },
+        {
+          "title": "Ufuatiliaji Unaoendelea",
+          "desc": "Toa mwonekano wa mwisho hadi mwisho katika miundombinu, programu, utendaji, upatikanaji, na afya ya uendeshaji."
+        },
+        {
+          "title": "Uboreshaji na Usaidizi",
+          "desc": "Endelea kukagua mazingira ili kuboresha utendakazi, kutegemewa, ufanisi wa gharama na uimara."
+        }
+      ],
+      "lifecycleSteps": [
+        "Mkakati",
+        "Usanifu",
+        "Utekelezaji",
+        "Ushirikiano",
+        "Usambazaji",
+        "Ufuatiliaji",
+        "Uboreshaji",
+        "Msaada"
+      ],
+      "benefits": [
+        "Imepunguza utata wa usimamizi wa muuzaji na uendeshaji",
+        "Uratibu usio na mshono katika tabaka zote za usanifu",
+        "Utekelezaji wa haraka wa mradi na ucheleweshaji wa kupeana sifuri",
+        "Ugawaji wa bajeti unaotabirika na utoaji wa uwazi",
+        "Uwajibikaji uliounganishwa wa biashara kutoka sifuri hadi kiwango",
+        "Masuluhisho makubwa yaliyoundwa kwa ajili ya ukuaji wa biashara wa siku zijazo",
+        "Ushirikiano wa teknolojia unaoaminika wa muda mrefu",
+        "Ubadilishaji wa kina wa mwisho hadi mwisho wa kidijitali"
+      ],
+      "security": "Kukiwa na mshirika mmoja anayeaminika anayesimamia usanifu, utekelezaji, na uendeshaji, usimamizi wa usalama bado haujavunjwa katika viwango vyote—kuondoa mapungufu ya ujumuishaji na kuhakikisha utiifu unaoendelea.",
+      "ctaHeadline": "Mshirika Wako Kamili wa Teknolojia",
+      "ctaSub": "Mshirika mmoja. Maono moja. Teknolojia nyingi. Suluhisho kamili."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Muhtasari wa Biashara",
+    "overviewTitle": "Teknolojia Akili kwa Matokeo Yanayopimika",
+    "transformationEyebrow": "Mabadiliko ya Uendeshaji",
+    "transformationTitle": "Kubadilisha Biashara Kupitia Mitiririko ya Akili ya Kazi",
+    "deliveryEyebrow": "Mbinu ya Uwasilishaji Iliyoundwa",
+    "deliveryTitle": "Utekelezaji wa Mwisho-hadi-Mwisho na Uboreshaji Unaoendelea",
+    "deliveryIntro": "Mbinu yetu ya utekelezaji iliyothibitishwa inafuata mzunguko wa maisha ya uwasilishaji:",
+    "deliveryOutro": "Msururu huu uliopangwa huhakikisha upatanishi mkali na malengo ya biashara, mkao thabiti wa usalama, na vigezo vinavyopimika vya ROI katika kila awamu.",
+    "securityEyebrow": "Usalama na Utawala",
+    "securityTitle": "Kuegemea kwa Kiwango cha Biashara na Ulinzi wa Kuzingatia",
+    "securityOutro": "Tulipachika udhibiti madhubuti wa ufikiaji unaotegemea dhima, uchanganuzi otomatiki wa uwezekano, usimamizi wa miundo na usimbaji fiche wa viwango vingi ili kuhakikisha mazingira yako ya utayarishaji yanaendelea kuwa thabiti na yanatii kikamilifu.",
+    "capabilitiesTitle": "Uwezo wa Msingi wa Teknolojia",
+    "capabilitiesSub": "Ustadi wa kina wa kiufundi ulioundwa ili kuongeza shughuli zako za kidijitali.",
+    "bookDiscovery": "Ugunduzi wa Teknolojia ya Vitabu",
+    "exploreAll": "Gundua Teknolojia Zote",
+    "bookConsultation": "Weka Kitabu cha Mashauriano",
+    "coreCapabilities": "Uwezo wa Msingi"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Uwezo wa Msingi",
+    "exploreFramework": "Gundua Mfumo wa Suluhisho",
+    "bookConsultation": "Weka Kitabu cha Mashauriano",
+    "viewCaseStudies": "Tazama Uchunguzi",
+    "provenPillars": "Nguzo Zilizothibitishwa",
+    "operationalOutcomes": "Matokeo ya Uendeshaji",
+    "learnMore": "Jifunze Zaidi"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Uhandisi wa Dijitali wa Mwisho-hadi-Mwisho",
+      "titlePart1": "Kuanzishwa Kwa",
+      "titlePart2": "Usambazaji",
+      "description": "Utengenezaji wa mwisho hadi mwisho wa suluhu mpya za kidijitali kutoka kwa mahitaji ya biashara na usanifu wa suluhisho kupitia uundaji, ujumuishaji, majaribio, utumaji na usaidizi unaoendelea.",
+      "bookConsultation": "Weka Kitabu cha Ushauri",
+      "exploreEngineering": "Gundua Uhandisi wa Suluhisho",
+      "coreCapabilities": [
+        "Mahitaji ya Uhandisi",
+        "Usanifu wa Suluhisho",
+        "Maendeleo ya Maombi",
+        "Ujumuishaji wa API",
+        "Uhakikisho wa Ubora",
+        "DevOps",
+        "Usambazaji",
+        "Usaidizi na Matengenezo"
+      ],
+      "row1Eyebrow": "Utoaji Kamili wa Mzunguko wa Maisha",
+      "row1Title": "Maendeleo ya Mwisho-hadi-Mwisho kutoka kwa Mahitaji hadi Mizani",
+      "row1P1": "Kila mpango mpya wa kidijitali huanza na mahitaji ya kipekee, mtiririko wa kazi, na malengo ya kimkakati ambayo hayawezi kufikiwa na programu ya ukubwa mmoja. Sisi utaalam katika kujenga desturi, mifumo ya programu ya utendaji wa juu kabisa kuanzia mwanzo.",
+      "row1P2": "Kuanzia ugunduzi wa mahitaji ya awali na muundo wa usanifu wa kiufundi hadi ukuzaji wa mbio fupi, uunganishaji wa mfumo ikolojia wa API, mabomba thabiti ya majaribio, na usambazaji wa kiotomatiki wa wingu, timu zetu kuu za uhandisi huchukua umiliki kamili wa mzunguko wa maisha wa bidhaa yako.",
+      "row2Eyebrow": "Usanifu wa Suluhisho na Uhandisi",
+      "row2Title": "Mifumo Inayoweza Kuongezeka Iliyoundwa kwa Ukuaji wa Biashara",
+      "row2P1": "Tunasanifu usanifu wa programu thabiti iliyoundwa iliyoundwa kuhimili mizigo mizito ya uzalishaji. Kuanzia huduma ndogo ndogo za kawaida na mandharinyuma zinazoendeshwa na matukio hadi mitiririko ya data ya upitishaji wa hali ya juu na API za GraphQL/REST, tunaunda majukwaa ambayo yanafanya kazi kwa urahisi.",
+      "row2P2": "Kwa kuanzisha misingi safi, ya kawaida ya msimbo iliyooanishwa na majaribio ya kiotomatiki na utiifu endelevu wa usalama, tunahakikisha kwamba msingi wa programu yako unadumishwa, unaweza kukaguliwa na uko tayari kwa mabadiliko ya muda mrefu.",
+      "row3Eyebrow": "Uhakikisho wa Ubora & DevOps",
+      "row3Title": "Uwasilishaji wa Agile na Mabomba ya Kiotomatiki",
+      "row3P1": "Muundo wetu wa uwasilishaji hupachika kitengo cha kiotomatiki, ujumuishaji, na majaribio ya kurejesha kumbukumbu ya mwisho hadi mwisho pamoja na mtiririko wa kazi wa CI/CD (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Kwa maonyesho ya mbio za uwazi, uangalizi wa wakati halisi, na kasi inayoendeshwa na hatua kuu, tunahakikisha kuwa kuna soko kwa haraka bila kuathiri usalama, uthabiti au matumizi ya mtumiaji.",
+      "row4Eyebrow": "Usambazaji na Usaidizi",
+      "row4Title": "Operesheni Zinazotegemewa za 24/7 na Mageuzi ya Muda Mrefu",
+      "row4P1": "Kuenda moja kwa moja ni mwanzo tu. Tunatoa ufuatiliaji makini, matengenezo yanayoungwa mkono na SLA, uboreshaji wa miundombinu ya wingu, urekebishaji wa utendaji na uchapishaji wa vipengele unaoendelea.",
+      "row4P2": "Timu yetu ya wahandisi hufanya kazi kama upanuzi wa asili wa shirika lako, ikihakikisha kutokuwepo kwa wakati na ubora unaoendelea wa kiteknolojia katika soko lako.",
+      "pillarsTitle": "Uwezo Muhimu",
+      "pillarsSub": "Kamilisha uwezo kamili ulioundwa ili kuchukua mawazo yako kutoka sufuri hadi uzalishaji.",
+      "pillar1Title": "Mahitaji ya Uhandisi",
+      "pillar1Desc": "Uchanganuzi wa kina wa biashara, vipimo vya utendakazi, na uchoraji ramani wa safari ya mtumiaji ili kufafanua mipaka halisi ya suluhisho.",
+      "pillar2Title": "Usanifu wa Suluhisho",
+      "pillar2Desc": "Usanifu wa asili wa wingu unaoweza kuongezeka, uundaji wa hifadhidata, muundo wa huduma ndogo, na misingi ya usalama isiyoaminika.",
+      "pillar3Title": "Maendeleo ya Maombi",
+      "pillar3Desc": "Programu za kisasa za rundo kamili za wavuti na simu zilizoundwa kwa msimbo safi, usalama wa aina na viwango tendaji vya UI.",
+      "pillar4Title": "Ujumuishaji wa API",
+      "pillar4Desc": "API za REST/GraphQL za hali ya juu, okestra za webhook, lango la malipo, na usawazishaji wa wahusika wengine wa ERP/CRM.",
+      "ctaTitle": "Je, uko tayari Kuunda Suluhisho Lako kutoka Kuanzishwa hadi Kupelekwa?",
+      "ctaSub": "Shirikiana na Rezonants ili kuunda, kuhandisi, na kusambaza mfumo wako maalum wa kidijitali kutoka kwa mahitaji ya biashara hadi uhalisia wa uzalishaji.",
+      "ctaButton": "Agiza Ushauri wa Suluhisho",
+      "pillar5Title": "Uhakikisho wa Ubora",
+      "pillar5Desc": "Majaribio makali ya kiotomatiki, upimaji wa mzigo/mfadhaiko, uchanganuzi wa uwezekano wa kuathiriwa, na vyumba vya majaribio ya urekebishaji.",
+      "pillar6Title": "DevOps & Usambazaji",
+      "pillar6Desc": "Mabomba ya kiotomatiki ya CI/CD, upangaji wa makontena (Docker/K8s), miundombinu kama msimbo, na matoleo ya muda usiopungua.",
+      "pillar7Title": "Usaidizi na Matengenezo",
+      "pillar7Desc": "Ufuatiliaji makini wa 24/7, telemetry ya afya, ukaguzi wa utendakazi, kuweka viraka vya usalama, na matengenezo yanayoendelea ya SLA.",
+      "pillar8Title": "Ubunifu Unaoendelea",
+      "pillar8Desc": "Kasi ya kipengele cha kawaida, ujumuishaji wa uchanganuzi wa data, uboreshaji wa AI, na usanifu wa kisasa."
+    },
+    "processAutomation": {
+      "eyebrow": "Uendeshaji wa Mchakato wa Akili",
+      "titlePart1": "Mchakato wa Biashara",
+      "titlePart2": "Otomatiki",
+      "description": "Uendeshaji otomatiki wa mwisho-hadi-mwisho wa mtiririko wa kazi wa biashara, unaochanganya uendeshaji wa mchakato wa roboti (RPA), uchakataji wa hati mahiri, injini za sheria za biashara na ujumuishaji wa mfumo.",
+      "bookDiscovery": "Ugunduzi wa Uendeshaji wa Kitabu",
+      "exploreFramework": "Gundua Mfumo wa Suluhisho",
+      "coreCapabilities": [
+        "Uendeshaji wa Mtiririko wa Kazi",
+        "Uendeshaji wa Mchakato wa Roboti",
+        "Uchakataji wa Hati",
+        "Uhandisi wa Kuunganisha",
+        "Injini za Kanuni za Biashara",
+        "Uchanganuzi wa Mchakato",
+        "Uboreshaji Unaoendelea",
+        "Ushirikiano wa Urithi"
+      ],
+      "row1Eyebrow": "Uendeshaji wa Mchakato wa Roboti",
+      "row1Title": "Boti Akili kwa Uendeshaji wa Kiwango cha Juu",
+      "row1P1": "Ondoa uwekaji data unaojirudiarudia, upatanisho wa mifumo mbalimbali, na uelekezaji wa hati. Tunatumia roboti za RPA za biashara ambazo hutekeleza majukumu yaliyopangwa 24/7 bila kiwango cha makosa sifuri.",
+      "row1P2": "Kwa kuunganisha violesura vya zamani vya eneo-kazi, violesura vya nyuma vya SAP/ERP, na hifadhidata za wingu, roboti za programu huiwezesha timu yako kuangazia mipango ya kimkakati ya biashara.",
+      "row2Eyebrow": "Uchakataji wa Hati Akili",
+      "row2Title": "OCR, Mafunzo ya Mashine & Hati AI",
+      "row2P1": "Ingiza, ainisha, na utoe data kiotomatiki kutoka kwa ankara, mikataba, hati za utambulisho na madai. Mabomba yetu yanayoendeshwa na AI yanathibitisha uga dhidi ya hifadhidata za ndani na kusababisha utiririshaji wa kiotomatiki wa kuidhinisha.",
+      "row2P2": "Fikia viwango vya usindikaji vya moja kwa moja vinavyozidi 95% huku ukipunguza kwa kiasi kikubwa nyakati za kubadilisha kutoka siku hadi sekunde.",
+      "row3Eyebrow": "Mchakato wa Orchestration",
+      "row3Title": "Usawazishaji wa Mfumo Mtambuka hadi Mwisho",
+      "row3P1": "Unganisha CRM, ERP, HRMS, na API za benki katika mtiririko wa data wa wakati halisi. Tunatekeleza vichochezi vinavyoendeshwa na matukio, foleni za ujumbe, na vidhibiti vya kurudi nyuma kiotomatiki.",
+      "row3P2": "Taarifa hutiririka bila mshono katika idara zote bila uingiliaji wa kibinadamu, na kuondoa silo za uendeshaji na ucheleweshaji wa mawasiliano.",
+      "row4Eyebrow": "Telemetry inayoendelea",
+      "row4Title": "Uchanganuzi wa Mchakato wa Wakati Halisi na Maarifa ya Kaizen",
+      "row4P1": "Fuatilia muda wa utekelezaji wa mchakato, ramani za joto za kuzuia, masafa ya hitilafu na ROI ya kifedha katika dashibodi za utendaji za wakati halisi.",
+      "row4P2": "Uchunguzi unaoendelea wa kujifunza kwa mashine hugundua fursa mpya za kiotomatiki, na kuifanya biashara yako kufanya kazi kwa ufanisi wa hali ya juu.",
+      "pillarsTitle": "Nguzo za kujiendesha",
+      "pillarsSub": "Vitalu vya ujenzi vilivyothibitishwa kwa shughuli za biashara zenye akili.",
+      "pillar1Title": "Uendeshaji wa Mtiririko wa Kazi",
+      "pillar1Desc": "Mitiririko ya hatua nyingi ya binadamu-katika-kitanzi na utiririshaji wa kazi dijitali ulioratibiwa kwa uelekezaji wa kiotomatiki na upandaji.",
+      "pillar2Title": "Uendeshaji wa Mchakato wa Roboti",
+      "pillar2Desc": "Boti za programu zinazozingatia sheria zinazotekeleza uwekaji data wa kawaida, upatanisho na majukumu ya utumaji maombi mtambuka.",
+      "pillar3Title": "Akili AI Automation",
+      "pillar3Desc": "Ajenti Tambuzi za AI ambazo hufasiri muktadha, muhtasari wa maandishi yasiyo na muundo, na kufanya maamuzi ya kiotomatiki.",
+      "pillar4Title": "Uboreshaji wa Mchakato",
+      "pillar4Desc": "Mchakato wa uchimbaji madini, ugunduzi wa vikwazo, na utendakazi wa Kaizen ambao unaendelea kupunguza gharama za uendeshaji.",
+      "ctaTitle": "Je, uko tayari Kuendesha Biashara Yako Kiotomatiki?",
+      "ctaSub": "Ungana na wasanifu wetu wa otomatiki ili kutambua fursa za ROI za juu na kupeleka mitiririko mahiri ya kidijitali.",
+      "ctaButton": "Agiza Mashauriano ya Kiotomatiki"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Uhandisi Standard & R&D",
+      "titlePart1": "Kituo cha",
+      "titlePart2": "Ubora",
+      "description": "Shirika kuu la wasanifu waandamizi na wataalamu wa kikoa waliojitolea kusanifisha mbinu za uhandisi, kuendeleza uvumbuzi na kuharakisha mipango ya kidijitali.",
+      "exploreStandards": "Chunguza Viwango vya Uhandisi",
+      "initiateAssessment": "Anzisha Tathmini ya CoE",
+      "coreCapabilities": [
+        "Viwango vya Usanifu",
+        "Mifumo inayoweza kutumika tena",
+        "Utawala Bora kwa Utendaji",
+        "Ukuzaji wa Ujuzi",
+        "Uwekaji alama wa Ubora",
+        "R&D & Innovation",
+        "Tathmini ya Teknolojia",
+        "Mwongozo wa Miradi Mtambuka"
+      ],
+      "uptimeLabel": "Biashara Uptime",
+      "engineersLabel": "Wahandisi na Wasanifu Majengo",
+      "deploymentsLabel": "AI & Utumiaji wa Wingu",
+      "satisfactionLabel": "Kuridhika kwa Mteja",
+      "row1Eyebrow": "Nguzo 01 - Kiwango cha Uhandisi",
+      "row1Title": "Uhandisi wa Programu wa Utendaji Kazi wa Juu",
+      "row1P1": "Kituo chetu cha Ubora huanzisha miundo sanifu ya muundo, majaribio makali ya kiotomatiki, na mazoea ya kukagua msimbo usio na dosari ambayo huharakisha muda hadi soko huku deni la kiufundi likibaki sifuri.",
+      "row1F1": "Mabomba ya kutoa otomatiki ya CI/CD yenye uchanganuzi wa vipimo vya DORA",
+      "row1F2": "Bodi kali za ukaguzi wa usanifu na utawala wa huduma ndogo ndogo",
+      "row1F3": "Uwekaji usalama unaoendelea na uwekaji viraka otomatiki wa kuathiriwa",
+      "row1Btn": "Jifunze Viwango vya Uhandisi",
+      "row1Tag": "DevOps & Quality Engineering",
+      "row2Eyebrow": "Nguzo 02 - Ubunifu wa R&D",
+      "row2Title": "Maabara ya Ubunifu ya AI na Teknolojia Inayochipuka",
+      "row2P1": "Tunajaribu miundo ya kisasa ya kujifunza mashine, mawakala maalum wa AI, na utendakazi mahiri wa utendakazi ili kuunda bidhaa za biashara za kizazi kijacho.",
+      "row2F1": "Enterprise Generative AI & RAG ujumuishaji wa maarifa",
+      "row2F2": "Mtiririko wa kazi wa wakala wa AI unaojiendesha kwa mchakato wa kiotomatiki wa biashara",
+      "row2F3": "Uboreshaji na urekebishaji wa muundo maalum wa mashine ya kujifunza",
+      "row2Btn": "Gundua Maabara ya AI",
+      "row2Tag": "Akili Bandia & Neural R&D",
+      "row3Eyebrow": "Nguzo 03 - Miundombinu",
+      "row3Title": "Usanifu wa Wingu la Biashara na Usalama wa Zero-Trust",
+      "row3P1": "Tunabuni na kudhibiti mazingira thabiti ya wingu nyingi yaliyojengwa juu ya mifumo ya usalama isiyoaminika, na kuhakikisha kwamba data yako inaendelea kulindwa dhidi ya vitisho vya kimataifa vinavyobadilika.",
+      "row3F1": "AWS, Azure, & GCP ochestra ya miundombinu ya wingu nyingi",
+      "row3F2": "Ufikiaji wa mtandao wa Zero-trust (ZTNA) na sera za IAM zenye dhima",
+      "row3F3": "Uchanganuzi wa usalama wa kontena otomatiki na usimamizi wa siri",
+      "row3Btn": "Gundua Wingu na Usalama",
+      "row3Tag": "Usanifu wa Wingu & Zero-Trust",
+      "pillarsTitle": "Mifumo Yetu ya Ubora Muhimu",
+      "pillarsSub": "Vitabu vya michezo vya ukuzaji vilivyoratibiwa vinavyoendesha majukwaa muhimu ya dhamira.",
+      "pillar1Title": "Bodi ya Ukaguzi wa Usanifu (ARB)",
+      "pillar1Desc": "Uangalizi wa kina unaohakikisha masuluhisho yote ya biashara yanapatana na viwango vikali, usalama na itifaki za uzingatiaji.",
+      "pillar2Title": "Vichapishi Vinavyoweza Kutumika Tena & Maktaba ya Vipengele",
+      "pillar2Desc": "Mifumo ya usanifu wa wamiliki, vifaa vya kuanzisha API, na violezo vya huduma ndogo za nyuma vinavyopunguza muda wa uundaji wa awali kwa 40%.",
+      "pillar3Title": "Uwekaji Wasifu Unaoendelea wa Utendaji",
+      "pillar3Desc": "Bomba za hali ya juu za uangalizi wa muda halisi wa ufuatiliaji wa muda wa maombi, vikwazo vya upitishaji na utumiaji wa rasilimali za wingu.",
+      "pillar4Title": "Ukuzaji wa Vipaji & Vyama",
+      "pillar4Desc": "Mashirika ya ndani na vyeti vilivyoundwa vinavyokuza ustadi wa kina wa kiufundi kwenye wingu, DevOps, na AI inayotumika.",
+      "ctaTitle": "Ongeza Kiwango chako cha Uhandisi",
+      "ctaSub": "Shirikiana na Kituo cha Ubora cha Rezonants ili kujenga usanifu thabiti wa wingu, kufanyia kazi kiotomatiki, na kuharakisha utoaji wa bidhaa dijitali.",
+      "ctaButton": "Ratiba ya Mashauriano ya Mtendaji",
+      "badge": "REZONANTS COE",
+      "scroll": "Sogeza",
+      "p1Title": "Utawala na Mifumo",
+      "p1Desc": "Anzisha usimamizi wa usanifu wa biashara kote, kanuni za sera na viwango vya kufuata.",
+      "p1Tag": "Utawala",
+      "p2Title": "Viwango vya Teknolojia na Usanifu",
+      "p2Desc": "Fafanua usanifu wa marejeleo wa kisasa, rundo la teknolojia iliyohakikiwa, na mifumo ya huduma ndogo ndogo.",
+      "p2Tag": "Usanifu",
+      "p3Title": "Vipengee & Maktaba Zinazoweza Kutumika Tena",
+      "p3Desc": "Ongeza kasi ya uendelezaji kwa kutumia vipengele vilivyoshirikiwa, violezo, vifaa vya kuanzia na mifumo ya usanifu.",
+      "p3Tag": "Inaweza kutumika tena",
+      "p4Title": "Ukuzaji wa Uwezo",
+      "p4Desc": "Mafunzo yaliyoundwa, ushauri wa kiufundi, na uwezeshaji wa ujuzi ili kuinua ustadi wa uhandisi wa timu.",
+      "p4Tag": "Umahiri",
+      "p5Title": "Innovation & Emerging Tech",
+      "p5Desc": "R&D kwenye mawakala wa AI, mabomba ya kiotomatiki, na mifumo ya kizazi kijacho ili kudumisha makali ya soko.",
+      "p5Tag": "Ubunifu",
+      "p6Title": "Uboreshaji Unaoendelea",
+      "p6Desc": "Vipimo vya uhandisi vinavyoendeshwa na data (DORA), uwekaji alama wa SLA, na uboreshaji wa ubora unaoendelea.",
+      "p6Tag": "Ubora"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Uhandisi wa Dijitali Uliolengwa",
+      "titlePart1": "Ukuzaji Maalum &",
+      "titlePart2": "Kubinafsisha",
+      "description": "Ukuzaji na uboreshaji wa programu, majukwaa, mtiririko wa kazi, na suluhu za biashara ili kushughulikia mahitaji ya kipekee ya biashara na kutoa utendakazi unaolengwa.",
+      "bookConsultation": "Weka Kitabu cha Ushauri",
+      "exploreCapabilities": "Gundua Uwezo",
+      "coreCapabilities": [
+        "Ukuzaji Maalum",
+        "Usanidi wa Jukwaa",
+        "Viendelezi",
+        "Mitiririko Maalum ya Kazi",
+        "Ukuzaji wa API",
+        "Uunganishaji wa Mfumo",
+        "Uboreshaji wa UI/UX",
+        "Uboreshaji wa Utendaji"
+      ],
+      "row1Eyebrow": "UTEKELEZAJI ULIOLENGWA",
+      "row1Title": "Vipengele Vilivyoboreshwa Vilivyoundwa kwa Mtiririko wako wa Kazi",
+      "row1P1": "Programu za kawaida za biashara mara nyingi hushindwa kukidhi mahitaji maalum ya biashara. Timu yetu maalum ya uhandisi hutengeneza moduli za programu zilizothibitishwa, sheria maalum za biashara, na viendelezi maalum vinavyolenga shughuli zako.",
+      "row1P2": "Kuanzia uboreshaji wa CRM na ERP hadi lango maalum za uendeshaji, tunaunda vipengele ambavyo vinapatana kwa urahisi na mifumo kamili ya utendakazi ya timu yako.",
+      "row2Eyebrow": "UTENGENEZAJI WA MFUMO WA UJASIRIAMALI",
+      "row2Title": "Usanidi wa Mfumo na Ukuzaji wa API",
+      "row2P1": "Unganisha mifumo tofauti ya programu kwenye mfumo ikolojia wa kidijitali uliounganishwa. Tunatengeneza API maalum za REST na GraphQL, vidhibiti vya wavuti, na foleni za ujumbe wa biashara ili kuhakikisha usawazishaji wa data katika wakati halisi kwenye mifumo yako yote.",
+      "row2P2": "Iwe ni kuunganisha zana za SaaS za wahusika wengine au kupanua mifumo ya umiliki ya tovuti, usanifu wetu wa ujumuishaji hutanguliza uadilifu wa data, matumizi na muda usiopungua wa data.",
+      "row3Eyebrow": "UI/UX & UTENDAJI",
+      "row3Title": "Maboresho ya UI/UX & Uboreshaji wa Utendaji",
+      "row3P1": "Kuinua violesura vya urithi kwa hali ya utumiaji ya kisasa, inayoitikia iliyoundwa kwa kasi na uwazi. Tunaunda upya sehemu za mbele kwa miundo angavu ya kubuni, uzingatiaji wa ufikivu, na miundo iliyoratibiwa ya mwingiliano.",
+      "row3P2": "Sambamba na hilo, wahandisi wetu wa utendakazi huboresha hoja za hifadhidata, mikakati ya kuhifadhi akiba, na ukubwa wa vifurushi vya mbele ili kuwasilisha nyakati za majibu papo hapo kwenye vifaa vyote.",
+      "pillarsTitle": "Imeundwa kwa Vigezo vyako Halisi",
+      "pillarsSub": "Mbinu za ubinafsishaji za kiwango cha biashara zilizoundwa ili kuongeza kiwango bila mshono.",
+      "pillar1Title": "Mitiririko Maalum ya Kazi na Viendelezi",
+      "pillar1Desc": "Mantiki ya programu iliyolengwa na mashine za hali otomatiki zilizosanidiwa mahususi kulingana na sheria zako za ndani za uendeshaji.",
+      "pillar2Title": "API na Uunganishaji wa Mfumo",
+      "pillar2Desc": "Madaraja salama, yaliyoidhinishwa ya data yanayounganisha sehemu za nyuma za wamiliki, vyumba vya ERP, lango la malipo na huduma za wingu.",
+      "pillar3Title": "Usanidi wa Jukwaa",
+      "pillar3Desc": "Marekebisho ya kina ya usanifu ambayo hurekebisha programu za biashara bila kuvunja njia za kuboresha au makubaliano ya usaidizi wa wauzaji.",
+      "pillar4Title": "Uboreshaji wa Utendaji",
+      "pillar4Desc": "Uwekaji wasifu wa hoja kwa nguvu, uondoaji wa uvujaji wa kumbukumbu, na usambazaji wa CDN wa makali kwa upakiaji wa ukurasa mdogo wa pili.",
+      "ctaTitle": "Je, uko tayari Kubinafsisha Mfumo Wako wa Biashara?",
+      "ctaSub": "Ungana na wasanifu wetu wa suluhu ili kubuni na kupeleka moduli maalum, mtiririko wa kazi, na miunganisho inayolenga mahitaji yako ya biashara.",
+      "ctaButton": "Agiza Simu ya Kubinafsisha",
+      "badge": "Uhandisi wa Dijitali Uliolengwa",
+      "viewAllServices": "Tazama Huduma Zote"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Uboreshaji wa Biashara",
+      "titlePart1": "Dijitali",
+      "titlePart2": "Mabadiliko",
+      "description": "Uboreshaji wa kina wa michakato ya biashara, usanifu wa teknolojia, na miundo ya uendeshaji ili kuendesha wepesi wa shirika, ufanisi wa kiutendaji na ukuaji endelevu wa kidijitali.",
+      "startTransformation": "Anza Mabadiliko",
+      "exploreStrategy": "Chunguza Mbinu",
+      "coreCapabilities": [
+        "Mikakati na Upangaji Barabara",
+        "Usanifu wa kisasa",
+        "Wingu na Miundombinu",
+        "Data & Analytics",
+        "Uwekaji Dijiti wa Mchakato",
+        "Uzoefu wa Wateja",
+        "Badilisha Usimamizi",
+        "Miundo ya Uendeshaji Agile"
+      ],
+      "row1Eyebrow": "Mkakati na Ramani ya Barabara",
+      "row1Title": "Kutoka Maono hadi Ramani ya Barabara Inayotekelezeka",
+      "row1P1": "Tunashirikiana na viongozi wa biashara kufafanua mkakati wa kidijitali, kesi za biashara, na ramani za barabara zilizopangwa kwa mafanikio ya haraka na utekelezaji usio na hatari.",
+      "row1P2": "Mipango iliyopewa kipaumbele, miundo ya TCO, na KPIs huhakikisha kila juhudi za uboreshaji wa teknolojia zinahusiana moja kwa moja na mapato, ufanisi na matokeo ya kuridhika kwa wateja.",
+      "row2Eyebrow": "Uboreshaji wa Urithi",
+      "row2Title": "Fanya Kisasa Bila Kuvunja Biashara",
+      "row2P1": "Weka upya mfumo wa monoliths kwa huduma ndogo, API, na mifumo ya asili ya wingu yenye vipunguzi vya muda wa sifuri na uthibitishaji wa urejeshaji kiotomatiki.",
+      "row2P2": "Tunaboresha programu, hifadhidata na tabaka za ujumuishaji za kisasa huku tukihifadhi utiifu na mkao wa usalama.",
+      "row3Eyebrow": "Wingu, AI na Data",
+      "row3Title": "Uasili wa Wingu & Akili Inayoendeshwa na Data",
+      "row3P1": "Kupitisha AWS, Azure na GCP, tengeneza mabomba ya kisasa ya data, na upachike mawakala wa mashine kujifunza ili kuendesha maamuzi ya kujitegemea.",
+      "row3P2": "Kutoka kwa utiririshaji wa tukio la wakati halisi hadi dashibodi zilizounganishwa, mabadiliko huwa ya kupimika na endelevu.",
+      "row4Eyebrow": "Uzoefu wa Wateja",
+      "row4Title": "Uzoefu wa Kisasa wa Chaneli zote",
+      "row4P1": "Sanifu upya safari za wateja kwenye wavuti, iOS, Android na tovuti za huduma binafsi zenye violesura vilivyobinafsishwa.",
+      "row4P2": "Uhandisi wa mfumo, telemetry, na misururu ya maoni ya kiotomatiki hufanya uvumbuzi wa kidijitali uendelee.",
+      "pillarsTitle": "Nguzo za Mabadiliko",
+      "pillarsSub": "Vigezo vinavyolenga matokeo vinavyohakikisha uongozi endelevu wa kidijitali.",
+      "pillar1Title": "Mkakati na Utawala wa Kidijitali",
+      "pillar1Desc": "Miongozo ya mabadiliko ya hatua kwa hatua na muundo wa kesi za biashara, usimamizi wa usanifu, na ufuatiliaji wa hatari.",
+      "pillar2Title": "Wingu na Jukwaa la Data",
+      "pillar2Desc": "AWS/Azure/GCP misingi ya wingu nyingi, mabomba ya kiotomatiki na kuwezesha uchanganuzi wa data ya biashara.",
+      "pillar3Title": "AI na Uendeshaji",
+      "pillar3Desc": "Michakato otomatiki yenye akili, mawakala wa utambuzi wa AI, na telemetry ya ubashiri ili kuboresha shughuli za kila siku.",
+      "pillar4Title": "Uzoefu wa Wateja",
+      "pillar4Desc": "Lango za dijiti zenye ubadilishaji wa hali ya juu na violesura vilivyobinafsishwa vilivyoundwa ili kuhifadhi watumiaji wengi zaidi.",
+      "ctaTitle": "Je, uko tayari Kubadilisha Biashara Yako?",
+      "ctaSub": "Shirikiana na Rezonants kwa mabadiliko ya kidijitali ya hatua kwa hatua, yasiyohatarisha yanayohusiana na matokeo ya biashara yanayoweza kupimika.",
+      "ctaButton": "Agiza Simu ya Kubadilisha Dijitali",
+      "bookWorkshop": "Warsha ya Mabadiliko ya Vitabu",
+      "exploreFramework": "Gundua Mfumo wa Suluhisho",
+      "coreCapabilitiesTitle": "Uwezo wa Msingi"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Mzunguko kamili wa Maisha ya Teknolojia",
+      "titlePart1": "Suluhisho la Mwisho-hadi-Mwisho",
+      "titlePart2": "Mfumo",
+      "description": "Mfumo wa uwasilishaji ulioundwa, wa maisha kamili unaojumuisha mahitaji ya biashara, muundo wa usanifu, uhandisi, ujumuishaji, uhakikisho wa ubora, utumiaji wa wingu na shughuli zinazodhibitiwa.",
+      "startJourney": "Anzisha Mradi Wako",
+      "exploreFramework": "Gundua Mfumo",
+      "coreCapabilities": [
+        "Uchambuzi wa Mahitaji",
+        "Usanifu wa Usanifu",
+        "Ukuzaji wa Rafu Kamili",
+        "Uhandisi wa Kuunganisha",
+        "Uhakikisho wa Ubora",
+        "Usambazaji na Usambazaji",
+        "Operesheni Zinazoendelea",
+        "Mageuzi Endelevu"
+      ],
+      "row1Eyebrow": "Mkakati na Usanifu",
+      "row1Title": "Mahitaji ya Ubunifu wa Uhandisi na Suluhisho",
+      "row1P1": "Warsha shirikishi, uchoraji ramani wa kikoa cha biashara, na maelezo ya usanifu wa wingu yaliyoundwa ili kuondoa hatari kabla ya mstari wa msimbo kuandikwa.",
+      "row1P2": "Tunafafanua miundo ya data, mifumo ya usalama, na hatua muhimu zinazoweka mafanikio ya muda mrefu.",
+      "row2Eyebrow": "Uhandisi na Ubora",
+      "row2Title": "Ukuzaji wa Rafu Kamili na Jaribio la Kiotomatiki",
+      "row2P1": "Huduma ndogo ndogo za kawaida, API za aina-salama, na sehemu za mbele zinazoitikia pamoja na kitengo cha kiotomatiki, ujumuishaji na ukaguzi wa usalama.",
+      "row2P2": "Njia za kuunganisha zinazoendelea na GitHub Actions, Terraform, na reli za ulinzi za kiotomatiki.",
+      "row3Eyebrow": "Usambazaji na Uendeshaji",
+      "row3Title": "Utumiaji wa Wingu na Ufuatiliaji Unaosimamiwa 24/7",
+      "row3P1": "Okestration ya mawingu mengi kwenye AWS/Azure/GCP yenye urejeshaji kiotomatiki, vipunguzi vya muda wa sifuri, na uangalizi wa wakati halisi.",
+      "row3P2": "Tunatoa matengenezo yanayoungwa mkono na SLA na ufuatiliaji endelevu wa telemetry ili kuboresha bidhaa yako kwa urahisi.",
+      "row4Eyebrow": "Utawala wa Biashara",
+      "row4Title": "Utawala Mmoja na Usaidizi Unaoendelea",
+      "row4P1": "Uwajibikaji wa hatua moja kwenye msururu wako wote wa kidijitali - kasi ya uwazi ya mbio, upangaji bajeti unaotabirika, na ubunifu endelevu.",
+      "row4P2": "Utoaji wa vipengele vya kawaida na mizunguko ya kisasa huweka biashara yako mbele ya shindano.",
+      "pillarsTitle": "Nguzo za Mfumo wa Maisha",
+      "pillarsSub": "Kila awamu iliundwa kwa ukali wa biashara.",
+      "pillar1Title": "Mkakati na Mahitaji",
+      "pillar1Desc": "Ugunduzi wa kikoa, ramani za usanifu, na upatanishi wa washikadau ili kuondoa hatari za utekelezaji.",
+      "pillar2Title": "Usanifu & Kujenga",
+      "pillar2Desc": "Huduma ndogo zinazostahimili wingu asilia, miunganisho ya API na majaribio ya mara kwa mara ya QA.",
+      "pillar3Title": "Usalama na Usambazaji",
+      "pillar3Desc": "Utiifu wa usalama wa Zero-trust, matoleo yaliyo na vyombo, na utumiaji wa kiotomatiki wa wingu.",
+      "pillar4Title": "Utawala na Usaidizi",
+      "pillar4Desc": "Ufuatiliaji wa 24/7 wa SLA, telemetry ya afya, na uhandisi wa mabadiliko unaoendelea.",
+      "ctaTitle": "Je, unahitaji Mshirika Kamili wa Mzunguko wa Maisha?",
+      "ctaSub": "Tunamiliki mzunguko kamili wa maisha wa teknolojia ili timu yako iweze kuzingatia matokeo ya biashara.",
+      "ctaButton": "Mshirika wa Mzunguko Kamili wa Maisha"
+    },
+    "migrationServices": {
+      "eyebrow": "Mageuzi ya Wingu na Miundombinu",
+      "titlePart1": "Uhamiaji &",
+      "titlePart2": "Usasa",
+      "description": "Uhamishaji salama, uliopangwa wa programu zilizopitwa na wakati, hifadhidata na miundombinu hadi kwa usanifu wa kisasa wa wingu, uliooanishwa na uboreshaji unaoendelea kwa wepesi na ufanisi ulioimarishwa.",
+      "bookAssessment": "Tathmini ya Uhamiaji wa Vitabu",
+      "exploreStrategy": "Gundua Mbinu ya Wingu",
+      "coreCapabilities": [
+        "Uhamiaji wa Wingu",
+        "Uboreshaji wa Maombi",
+        "Uhamiaji wa Hifadhidata",
+        "Upangishaji Upya wa Miundombinu",
+        "Kuweka vyombo",
+        "Mpito wa Microservices",
+        "Uboreshaji wa Utendaji",
+        "Usalama na Uzingatiaji"
+      ],
+      "row1Eyebrow": "Uhamiaji wa Wingu",
+      "row1Title": "Mkakati wa Wingu Nyingi & Inua-na-Kuboresha",
+      "row1P1": "Uhamishaji wa mzigo wa kazi bila suluhu kwenye AWS, Azure, na Wingu la Google kwa ugunduzi wa kiotomatiki, upangaji wa mawimbi na kukatizwa sifuri kwa biashara.",
+      "row1P2": "Tunasawazisha upangishaji upya, uundaji upya, na urekebishaji upya ili kuboresha jumla ya gharama ya umiliki (TCO) na wepesi.",
+      "row2Eyebrow": "Uhamishaji wa Data na Hifadhidata",
+      "row2Title": "Linda ETL & Uthibitishaji wa Data Otomatiki",
+      "row2P1": "Uigaji wa hifadhidata otomatiki, tafsiri ya taratibu, na mabomba ya ETL yenye ubora wa juu yenye uthibitishaji wa 100% wa uadilifu wa data.",
+      "row2P2": "Mazoezi ya kupunguza muda usiopungua huhakikisha uthabiti kamili wa data na mwendelezo wa biashara.",
+      "row3Eyebrow": "Uboreshaji wa Jukwaa",
+      "row3Title": "Uwekaji vyombo & Okestration ya Kubernetes",
+      "row3P1": "Badilisha muundo wa urithi wa kisasa kuwa huduma ndogo ndogo zinazoratibiwa kupitia Kubernetes (EKS, AKS, GKE) kwa michoro ya kiotomatiki ya IaC.",
+      "row3P2": "Uwekaji wasifu wa utendaji baada ya uhamiaji na uboreshaji wa gharama huhakikisha ROI ya haraka.",
+      "row4Eyebrow": "Mipango ya Kukata",
+      "row4Title": "Majaribio ya Kiotomatiki & Neti za Usalama za Kurudisha nyuma",
+      "row4P1": "Vitabu vya kukatisha vilivyojaribiwa kwa vita, vyumba vya urejeshaji kiotomatiki, na mbinu za kurejesha papo hapo za utulivu kamili wa akili.",
+      "row4P2": "Telemetry ya afya baada ya uhamiaji na 24/7 hypercare huhakikisha uthabiti wa uzalishaji usio na dosari.",
+      "pillarsTitle": "Uhakikisho wa Uhamiaji",
+      "pillarsSub": "Hatua za kuondoa hatarishi zinazoungwa mkono na SLA za biashara.",
+      "pillar1Title": "Kipunguza Muda Sifuri",
+      "pillar1Desc": "Matoleo ya Canary na usawazishaji wa maandishi mawili ya hifadhidata ili kuhakikisha ufikiaji usiokatizwa wa mtumiaji.",
+      "pillar2Title": "Uthibitishaji wa Data Kiotomatiki",
+      "pillar2Desc": "Ulinganisho wa Checksum, ukaguzi wa uadilifu wa schema, na upatanisho otomatiki wa ETL.",
+      "pillar3Title": "Neti za Usalama za Kurudisha nyuma",
+      "pillar3Desc": "Itifaki kali za uokoaji maafa na mazoezi ya mazoezi ili kudhibiti hatari katika kila awamu.",
+      "pillar4Title": "Utendaji & Uboreshaji Gharama",
+      "pillar4Desc": "Uwekaji haki za wingu, sera za kuongeza kiotomatiki, na dashibodi za usimamizi wa gharama zimejumuishwa.",
+      "ctaTitle": "Je, uko tayari Kuhama kwa Ujasiri Kamili?",
+      "ctaSub": "Shirikiana na Rezonants kwa uboreshaji wa data na muundo, usio na hatari.",
+      "ctaButton": "Panga Warsha yako ya Uhamiaji"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Uthibitishaji na Uwezekano wa Haraka",
+      "titlePart1": "Uthibitisho wa Dhana (PoC) &",
+      "titlePart2": "Utekelezaji wa Majaribio",
+      "description": "Ukuzaji na uthibitishaji wa haraka wa masuluhisho ya teknolojia ili kutathmini uwezekano wa kiufundi, thamani ya biashara, mahitaji ya ujumuishaji, utendakazi, na uimara kabla ya utekelezaji kamili.",
+      "initiateDiscovery": "Anzisha Ugunduzi wa PoC",
+      "exploreDevelopment": "Gundua Ukuzaji Maalum",
+      "coreCapabilities": [
+        "Maendeleo ya PoC",
+        "Uhandisi wa Mfano",
+        "Upembuzi Yakinifu",
+        "Uthibitishaji wa Usanifu",
+        "Jaribio la Ujumuishaji",
+        "Uwekaji alama wa Utendaji",
+        "Usambazaji wa Majaribio",
+        "Tathmini ya Thamani"
+      ],
+      "row1Eyebrow": "Uthibitishaji wa Haraka",
+      "row1Title": "Kutoka Dhana hadi Uwezekano Uliothibitishwa",
+      "row1P1": "Kugeuza wazo kuwa suluhisho la kiwango cha biashara kunahitaji uthibitisho wa mapema. Huduma yetu ya PoC & Majaribio hutathmini uwezekano wa teknolojia, hutathmini mivutano muhimu ya kuunganisha ndoano, na kuthibitisha ROI ya biashara kabla ya ahadi kuu za mtaji.",
+      "row1P2": "Tunaunda MVP za uaminifu wa hali ya juu na marubani makini wa sanduku la mchanga ambao huthibitisha upembuzi yakinifu wa kiufundi, kupima muda wa mfumo, na kukusanya uthibitishaji wa moja kwa moja wa wadau mapema.",
+      "row1Cap": "Utoaji wa Haraka wa MVP na Vigezo vya Kiufundi",
+      "row2Eyebrow": "Prototyping Agile",
+      "row2Title": "MVP zinazoingiliana na Uthibitishaji wa UX",
+      "row2P1": "Tunaunda fremu wasilianifu, mtiririko wa mtumiaji unaobofya, na uthibitishaji wa dhana tendaji kwa siku, si miezi. Jaribu mwingiliano halisi wa watumiaji, boresha mifumo ya UI/UX, na kukusanya maoni yanayoweza kutekelezwa kutoka kwa washikadau.",
+      "row2P2": "Kwa kufupisha misururu ya maoni wakati wa utayarishaji wa mapema, timu yako itapunguza urekebishaji upya na kubainisha ubainifu wa kiufundi kabla ya awamu za ujenzi zinazohitaji mtaji kuanza.",
+      "row2Cap": "Urudufu wa Haraka na Prototypes za UX Zinazobofya",
+      "row3Eyebrow": "Upimaji wa Ujumuishaji na Ubora",
+      "row3Title": "Muunganisho wa Mfumo wa De-Risk Complex",
+      "row3P1": "Fichua vikwazo vya kiufundi, vikwazo vya API, na vikwazo vya utendaji kabla ya ahadi kamili ya mtaji. Timu yetu ya majaribio ya uhandisi hujaribu miunganisho ya mkazo, mabomba ya data na API za wahusika wengine katika mazingira yaliyotengwa ya sanduku la mchanga.",
+      "row3P2": "Udhibiti huu wa haraka wa hatari huhakikisha upatikanaji wa juu wa mfumo, utiifu wa usalama, na kalenda za matukio zinazotabirika za maendeleo wakati wa kubadilisha PoC yako hadi uzalishaji wa biashara.",
+      "row3Cap": "Ujumuishaji wa Sandbox & Jaribio la Mkazo",
+      "row4Eyebrow": "Jaribio la Uzalishaji Lililodhibitiwa",
+      "row4Title": "Uzinduzi Unaolengwa wa Majaribio na Uthibitishaji wa Kesi ya Biashara",
+      "row4P1": "Tekeleza matoleo ya majaribio yaliyolengwa kwa sehemu iliyochaguliwa ya watumiaji au soko la majaribio. Fuatilia vipimo vya utendakazi, uchanganuzi wa kupitishwa kwa watumiaji na maoni ya uendeshaji ili kuhesabu thamani ya biashara na kuanzisha kesi ya biashara inayoungwa mkono na data.",
+      "row4P2": "Kwa maarifa ya majaribio ya ulimwengu halisi, wafadhili wakuu hupata metriki wazi za ROI ili kuhalalisha usambazaji mpana na uwekezaji wa kimkakati wa mabadiliko ya kidijitali.",
+      "row4Cap": "Usambazaji Unaodhibitiwa na Utendaji wa Telemetry",
+      "pillarsTitle": "Kanuni Zetu za Uhandisi wa Majaribio",
+      "pillarsSub": "Kanuni elekezi zinazogeuza kutokuwa na uhakika wa kiufundi kuwa mafanikio ya biashara yanayotabirika.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Toa prototypes zinazofanya kazi haraka ili kuthibitisha mapendekezo ya thamani mapema katika mzunguko wa maisha.",
+      "pillar2Title": "Yakinifu na Uthibitishaji",
+      "pillar2Desc": "Thibitisha uoanifu wa API, vizingiti vya kupita, na vikwazo vya kufuata katika mazingira ya kisanduku cha mchanga.",
+      "pillar3Title": "Tathmini ya Ubora",
+      "pillar3Desc": "Iga mzigo wa uzalishaji ili kuweka vikomo vya uwezo na kubainisha ukubwa wa usanifu wa wingu.",
+      "pillar4Title": "Uthibitishaji wa Kesi ya Biashara",
+      "pillar4Desc": "Kadiria ROI inayoonekana na vipimo vya tija ili kusaidia maamuzi ya uchapishaji wa biashara kote.",
+      "ctaTitle": "Je, uko tayari kuhalalisha suluhisho lako lijalo la kidijitali?",
+      "ctaSub": "Ungana na timu yetu ya uhandisi wa suluhisho ili kuchunguza mahitaji ya mradi wako, kuunda mfano, na kujaribu uwezekano bila hatari yoyote.",
+      "ctaButton": "Agiza Ushauri wa PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Kituo Kikuu cha Uendeshaji",
+      "titlePart1": "Huduma Zilizoshirikiwa &",
+      "titlePart2": "Operesheni Zinazosimamiwa",
+      "description": "Utoaji wa kati wa teknolojia na uwezo wa kiutendaji katika vitengo vya biashara kupitia michakato sanifu, rasilimali zenye ujuzi, mifumo ya utawala, usimamizi wa huduma, na viwango vya huduma vinavyopimika.",
+      "bookDiscovery": "Kitabu cha Ugunduzi wa Uendeshaji Unaosimamiwa",
+      "exploreFramework": "Gundua Mfumo wa Suluhisho",
+      "coreCapabilities": [
+        "Huduma Zinazosimamiwa",
+        "Uendeshaji wa IT",
+        "Usaidizi wa Maombi",
+        "Usimamizi wa Huduma",
+        "Uboreshaji wa Rasilimali",
+        "Usimamizi wa SLA",
+        "Utawala",
+        "Uboreshaji Unaoendelea",
+        "Uboreshaji wa Gharama"
+      ],
+      "row1Eyebrow": "Kitovu cha Uwasilishaji cha Umoja",
+      "row1Title": "Huduma Sanifu Katika Vitengo Vyote vya Biashara",
+      "row1P1": "Kuunganisha IT ya ofisi ya nyuma, usimamizi wa miundombinu, na usaidizi wa kiufundi katika kituo kimoja cha uwasilishaji chenye ufanisi wa hali ya juu.",
+      "row1P2": "Kwa kuondoa rudufu za timu na kusawazisha miundo ya utoaji huduma, shirika lako hulinda ubora thabiti na kupunguza jumla ya matumizi ya uendeshaji.",
+      "row2Eyebrow": "24/7 SRE & Usaidizi wa Maombi",
+      "row2Title": "Ufuatiliaji Makini na Utatuzi wa Matukio ya Haraka",
+      "row2P1": "Wahandisi wetu waliojitolea wa Kuegemea kwa Tovuti (SRE) na wataalamu wa usaidizi hutoa ufuatiliaji wa telemetry 24/7/365, uchunguzi wa otomatiki wa arifa na utatuzi wa haraka wa suala la L1/L2/L3.",
+      "row2P2": "Kwa kuungwa mkono na ahadi kali za SLA, tunakuhakikishia upatikanaji wa 99.99% kwa programu zako muhimu za dhamira na miundombinu ya wingu.",
+      "row3Eyebrow": "Utawala na Uzingatiaji wa ITIL",
+      "row3Title": "Mifumo Iliyoundwa ya Usimamizi wa Huduma",
+      "row3P1": "Tekeleza viwango vya ITSM vinavyoongoza katika tasnia (ServiceNow, Jira Service Management) kwa ukataji tiketi kwa uwazi, uchanganuzi wa visababishi vya mizizi na mihimili ya usimamizi wa mabadiliko.",
+      "row3P2": "Mbinu za ukaguzi wa kina na sera za utawala zinahakikisha utendakazi wako unaendelea kutii viwango vya usalama vya kimataifa.",
+      "row4Eyebrow": "FinOps & Uboreshaji Unaoendelea",
+      "row4Title": "Bajeti Inayotabirika & Uboreshaji Rasilimali",
+      "row4P1": "Ondoa upotevu wa wingu, boresha ukubwa wa kompyuta, na ubadilishe urekebishaji wa kawaida wa utendaji kwa mbinu bora za FinOps.",
+      "row4P2": "Ripoti za uwazi za kila mwezi na utabiri wa uwezo huhakikisha uboreshaji wa gharama za uendeshaji na ufanisi wa juu wa mtaji.",
+      "pillarsTitle": "Nguzo za Uendeshaji",
+      "pillarsSub": "Viingilio vilivyothibitishwa vya utendakazi kwa upanuzi unaotegemewa wa biashara.",
+      "pillar1Title": "24/7 Uendeshaji wa IT uliosimamiwa",
+      "pillar1Desc": "Telemetry inayotumika ya NOC, kuweka viraka kwenye seva, matengenezo ya miundombinu, na hakikisho la 99.99% la muda wa ziada.",
+      "pillar2Title": "ITSM & Dawati la Huduma",
+      "pillar2Desc": "Dawati la usaidizi la Ngazi 1/2/3 la vituo vingi, uelekezaji wa matukio, na mtiririko wa kazi wa utatuzi wa tikiti uliopangwa.",
+      "pillar3Title": "SLA & Udhibiti wa Utendaji",
+      "pillar3Desc": "Nyakati za majibu zinazoungwa mkono na mkataba, viwango vya MTTR, na ukaguzi wa uwazi wa utendaji wa kila mwezi.",
+      "pillar4Title": "FinOps & Uboreshaji Gharama",
+      "pillar4Desc": "Usawazishaji wa kulia wa rasilimali unaoendelea, uchukuaji wa leseni, na upunguzaji wa gharama ya wingu kiotomatiki.",
+      "ctaTitle": "Je, uko tayari Kuongeza Uendeshaji Wako Unaosimamiwa?",
+      "ctaSub": "Shirikiana na Rezonants kwa huduma za kuaminika, zinazodhibitiwa 24/7 ambazo huongeza gharama na kuondoa muda wa kufanya kazi.",
+      "ctaButton": "Agiza Ushauri wa Uendeshaji Unaosimamiwa",
+      "howItWorksHeading": "Njia iliyothibitishwa ya mafanikio ya huduma za pamoja"
+    },
+    "aiRobotics": {
+      "brand": "AI & Roboti",
+      "eyebrow": "Mifumo yenye akili",
+      "heroHeading": "AI na Roboti zikifanya kazi pamoja",
+      "intro": "Akili Bandia (AI) na Roboti zinabadilisha jinsi biashara zinavyofanya kazi kwa kuchanganya kufanya maamuzi kwa akili na uwekaji otomatiki wa hali ya juu. AI huwezesha mashine kuchanganua data, kujifunza ruwaza, na kufanya maamuzi mahiri, huku robotiki huleta uwezo huu katika ulimwengu halisi ili kufanya kazi kwa kasi, usahihi na uthabiti.",
+      "section1Heading": "Imeundwa ili kurahisisha kila operesheni",
+      "section1Text": "Suluhu zetu za AI na Roboti husaidia mashirika kurahisisha shughuli, kupunguza juhudi za mikono, na kuboresha tija katika tasnia mbalimbali. Kuanzia utayarishaji kiotomatiki na uchanganuzi wa kubashiri hadi robotiki mahiri na mifumo mahiri, tunatoa teknolojia bunifu zinazoboresha ufanisi, kukuza ukuaji na kusaidia mabadiliko ya kidijitali.",
+      "section2Heading": "Ambapo akili hukutana na hatua",
+      "section2Text": "Kila mwingiliano, uamuzi na harakati huendeshwa na mfumo mmoja uliounganishwa - kubadilisha data kuwa matokeo kwa wakati halisi.",
+      "footerTag": "Teknolojia ya ubunifu kwa mabadiliko ya kidijitali"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Mifumo ya Taarifa na Kuripoti",
+      "heroSubtitle": "Chanzo kimoja cha ukweli kwa kila idara - kilichoundwa ili kubadilisha data ghafi ya uendeshaji kuwa maamuzi ambayo biashara yako inaweza kuyafanyia kazi leo.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "IMECHAMBUWA",
+      "statusArchived": "IMEWEKA NDANI",
+      "statusPending": "INASUBIRI",
+      "metricUptime": "Muda wa Mfumo",
+      "metricSessions": "Vipindi Amilifu",
+      "metricReportsPerDay": "Ripoti / Siku",
+      "metricEvents": "Matukio Yanayoingizwa Kila Siku",
+      "metricReports": "Ripoti Zilizopangwa",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Jukwaa Iliyounganishwa",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Kuripoti Console",
+      "businessOutcome": "Matokeo ya Biashara",
+      "section1Heading": "Mfumo mmoja wa kati kwa kila kipimo muhimu",
+      "section1P1": "Mifumo ya Taarifa na Kuripoti ni suluhu muhimu za biashara zinazowezesha mashirika kukusanya, kudhibiti na kubadilisha data kuwa maarifa yenye maana. Mifumo hii huunganisha taarifa kutoka idara nyingi, kuhakikisha ufikiaji sahihi, thabiti na wa wakati halisi wa data muhimu ya biashara. Kwa kutoa jukwaa kuu la usimamizi wa habari, mashirika yanaweza kuboresha mwonekano wa utendaji, kurahisisha mtiririko wa kazi, na kusaidia ufanyaji maamuzi wa kimkakati katika viwango vyote vya biashara.",
+      "section1P2": "Mifumo hii hutumia kuripoti otomatiki, uchanganuzi na dashibodi kufuatilia utendakazi, kufuatilia vipimo muhimu na kutoa ripoti za wakati halisi. Kwa kupunguza juhudi za mikono na kuboresha usahihi wa data, biashara zinaweza kufanya maamuzi ya haraka na bora zaidi.",
+      "section2Heading": "Imeundwa kwa mwonekano, utiifu na kiwango",
+      "section2Text": "Kwa mwonekano ulioimarishwa, utiifu na ushirikiano, Mifumo ya Taarifa na Kuripoti huwezesha mashirika kuboresha michakato, kuboresha tija, na kuendeleza ukuaji endelevu wa biashara katika mazingira ya ushindani.",
+      "ctaHeading": "Ipe kila timu picha ya wakati halisi ya biashara.",
+      "ctaText": "Angalia jinsi Mifumo ya Data ya Nexus inavyoweza kuunganisha ripoti yako katika mfumo mmoja mahiri.",
+      "footerCopyright": "© 2026 Mifumo ya Data ya Nexus. Haki zote zimehifadhiwa.",
+      "navOverview": "Muhtasari",
+      "navCapabilities": "Uwezo",
+      "navImpact": "Athari",
+      "navContact": "Wasiliana"
+    },
+    "managedServices": {
+      "subtitle": "Huduma za kina zinazosimamiwa kwa biashara yako"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Kuboresha Maombi ya Biashara kwa Biashara Inayoendeshwa na Data",
+      "excerpt": "Jinsi usanifu wa kisasa wa programu na data iliyounganishwa inaweza kuboresha ufanisi wa kazi, uboreshaji na mwonekano wa biashara.",
+      "tag": "Mabadiliko ya Biashara",
+      "category": "MABADILIKO YA BIASHARA",
+      "summary": "Programu ya kisasa na msingi wa data inaweza kusaidia makampuni kuboresha ufanisi wa kazi, kuunganisha mifumo ya biashara na kuunda mwonekano bora katika shughuli zao zote."
+    },
+    "artificial-intelligence": {
+      "title": "Jinsi AI Inatengeneza Upya Maombi ya Biashara",
+      "excerpt": "Chunguza jinsi utumiaji otomatiki wa akili, waendeshaji nakala wa AI na akili ya kutabiri zinavyokuwa sehemu ya programu za biashara zinazotegemea kila siku.",
+      "tag": "Akili Bandia",
+      "category": "AKILI BANDIA",
+      "summary": "Chunguza jinsi utumiaji otomatiki wa akili, waendeshaji nakala wa AI na akili ya kubashiri wanavyobadilisha programu za kila siku za biashara kuwa mifumo inayobadilika na inayotumika."
+    },
+    "modern-erp": {
+      "title": "Kuharakisha Mabadiliko ya Biashara kwa kutumia ERP ya Kisasa",
+      "excerpt": "Gundua jinsi mifumo ya kisasa ya ERP inavyounganisha fedha, ununuzi, ugavi na shughuli za biashara kupitia msingi uliounganishwa wa kidijitali.",
+      "tag": "ERP ya kisasa",
+      "category": "ERP YA KISASA",
+      "summary": "Mfumo wa kisasa wa ERP huunganisha fedha, ununuzi, ugavi na shughuli za biashara kuwa muundo wa uendeshaji uliounganishwa wa wakati halisi."
+    },
+    "cybersecurity": {
+      "title": "Kujenga Ustahimilivu wa Mtandao katika Biashara Iliyounganishwa",
+      "excerpt": "Chunguza jinsi mashirika yanaweza kuimarisha usalama, kulinda mifumo muhimu na kujiandaa kwa vitisho katika mazingira yanayozidi kushikamana.",
+      "tag": "Usalama wa Mtandao",
+      "category": "CYBERSECURITY",
+      "summary": "Biashara zinapojumuisha mifumo zaidi ya wingu, API, na mifumo ikolojia ya washirika, uthabiti wa mtandao huhakikisha shughuli muhimu za dhamira kuhimili vitisho vya kisasa."
+    },
+    "cloud-modernization": {
+      "title": "Kuboresha Maombi ya Urithi kwa Wingu",
+      "excerpt": "Gundua mbinu ya vitendo ya kutathmini, kusasisha na kusogeza maombi ya urithi kuelekea usanifu wa wingu unaoweza kusambaratika na salama.",
+      "tag": "Wingu na Uboreshaji",
+      "category": "WINGU NA KISASA",
+      "summary": "Ramani ya barabara iliyobuniwa na ya kisayansi ya kutathmini, kigezo upya, na kuhamisha mifumo ya biashara ya monolitiki hadi usanifu nyumbufu, unaoweza kudumishwa wa wingu."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "MABADILIKO YA BIASHARA",
+      "title": "Kuboresha Maombi ya Biashara kwa Biashara Inayoendeshwa na Data",
+      "subtitle": "Programu ya kisasa na msingi wa data inaweza kusaidia makampuni kuboresha ufanisi wa kazi, kuunganisha mifumo ya biashara na kuunda mwonekano bora katika shughuli zao zote.",
+      "date": "Septemba 2026",
+      "readTime": "7 dakika kusoma",
+      "imageCaption": "Mtazamo wa Teknolojia ya Biashara — Usanifu wa Matumizi na Data Iliyounganishwa",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Maombi ya Biashara",
+          "desc": "CRM, ERP, na zana za idara zinazotumika kwenye ghala."
+        },
+        {
+          "title": "Vyanzo Nyingi vya Data",
+          "desc": "Majedwali ya utendaji yaliyogawanyika, dondoo za CSV na miundo ya dharula."
+        },
+        {
+          "title": "Hifadhidata Zilizotenganishwa",
+          "desc": "Hazina za data za wingu zilizotengwa kwenye msingi na zisizoratibiwa."
+        },
+        {
+          "title": "Ripoti na Watumiaji Biashara",
+          "desc": "Upatanisho wa Mwongozo, lahajedwali zinazokinzana, na kuchelewa kuripoti."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Maombi ya Biashara",
+          "desc": "Mifumo kuu ya uendeshaji na violesura vya kisasa vinavyoitikia."
+        },
+        {
+          "title": "API / Tabaka la Kuunganisha",
+          "desc": "Lango salama la API, linaloendeshwa na tukio linalounganisha mtiririko wa kazi wa biashara."
+        },
+        {
+          "title": "Huduma za Data",
+          "desc": "Miundo kuu ya data iliyounganishwa, mabomba na injini za kuhifadhi zilizoboreshwa."
+        },
+        {
+          "title": "Uchanganuzi na Kuripoti",
+          "desc": "Telemetry ya wakati halisi, miundo ya kisemantiki, na kuripoti otomatiki."
+        },
+        {
+          "title": "Watoa Maamuzi ya Biashara",
+          "desc": "Dashibodi za uendeshaji za moja kwa moja zinazotoa mwonekano mmoja wa utendaji."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Maombi ya Biashara",
+          "purpose": "Usimamizi wa mchakato wa biashara"
+        },
+        {
+          "area": "API",
+          "purpose": "Muunganisho wa mfumo"
+        },
+        {
+          "area": "Hifadhidata",
+          "purpose": "Data ya biashara iliyopangwa"
+        },
+        {
+          "area": "Ujumuishaji wa Takwimu",
+          "purpose": "Kuunganisha vyanzo vingi"
+        },
+        {
+          "area": "Uchanganuzi",
+          "purpose": "Maarifa ya biashara"
+        },
+        {
+          "area": "Miundombinu ya Wingu",
+          "purpose": "Scalability na kunyumbulika"
+        },
+        {
+          "area": "Ufuatiliaji",
+          "purpose": "Kuegemea na utendaji"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Mwonekano ulioboreshwa wa utendaji kazi katika vitengo vinavyofanya kazi mbalimbali",
+        "Uthabiti bora wa data na chanzo kimoja cha ukweli wa biashara",
+        "Imepunguza juhudi za kuripoti kwa mikono na ujumuishaji wa data kiotomatiki",
+        "Utendaji ulioboreshwa wa programu na kupunguza muda wa kusubiri wa malipo",
+        "Uunganishaji rahisi wa mfumo kupitia API zilizosanifiwa na salama",
+        "Uwezo mkubwa zaidi wa kusaidia ukuaji na upataji wa kikaboni",
+        "Msingi bora wa uvumbuzi wa siku zijazo na utumiaji wa akili"
+      ],
+      "keyPerspectivePoints": [
+        "Kuelewa michakato ya biashara na mtiririko halisi wa uendeshaji",
+        "Kuunganisha mifumo kupitia viwango vinavyotegemewa vya ujumuishaji",
+        "Kuboresha ubora wa data, utawala na miundo bora ya data",
+        "Kuboresha programu bila kuyumbisha shughuli za kila siku",
+        "Kuunda usanifu scalable inafaa kwa ukuaji elastic",
+        "Kuwezesha mwonekano bora wa biashara kwa ajili ya kufanya maamuzi makini"
+      ],
+      "sec1Eyebrow": "CHANGAMOTO YA BIASHARA",
+      "sec1Heading": "Utata wa Kusogeza katika Biashara Inayokua",
+      "sec1Subtext": "Kadiri biashara inavyokua, mifumo ikolojia ya teknolojia itapanuka. Kinachoanza kama masuluhisho mahususi kwa idara binafsi kinaweza kubadilika na kuwa mtandao uliochanganyikiwa wa mifumo tofauti.",
+      "sec2Eyebrow": "MABADILIKO YA MFUMO",
+      "sec2Heading": "Mazingira Changamano ya Teknolojia",
+      "sec2Subtext": "Wakati maombi ya biashara, hifadhidata, na mifumo ya uendeshaji inabadilika kivyake, mtiririko wa taarifa hugawanyika. Kuelewa mgawanyiko huu ni hatua muhimu ya kwanza.",
+      "sec3Eyebrow": "MFANO ULIOUNGANISHWA",
+      "sec3Heading": "Usanifu wa Kisasa wa Maombi",
+      "sec3Subtext": "Biashara husogea kuelekea usanifu unaoendeshwa na matukio, API-kwanza ambapo data hutiririka kwa njia ya kuaminika kwenye mifumo ya msingi na kuwafikia watoa maamuzi kwa wakati halisi.",
+      "sec4Eyebrow": "AKILI NA KUONEKANA",
+      "sec4Heading": "Data & Analytics Zilizounganishwa",
+      "sec4Subtext": "Wakati maombi ya biashara yanawasiliana kwa urahisi, data hukoma kuwa bidhaa ya kuripoti na inakuwa kichocheo kikuu cha wepesi wa kufanya kazi.",
+      "sec5Eyebrow": "USANIFU WA BLUEPRINT",
+      "sec5Heading": "Msingi wa Teknolojia",
+      "sec5Subtext": "Mtazamo wa kina wa maeneo ya msingi ya teknolojia ambayo yanaunda msingi wa kisasa wa biashara.",
+      "sec6Eyebrow": "THAMANI YA UBORA",
+      "sec6Heading": "Athari za Biashara",
+      "sec6Subtext": "Kuboresha usanifu wa programu na kuunganisha data iliyogawanyika hutoa maboresho yanayoonekana ya kiutendaji katika shirika zima.",
+      "ctaHeading": "Je, uko tayari Kurekebisha Mazingira Yako ya Teknolojia?",
+      "ctaDescription": "Chunguza jinsi usanifu wa kisasa wa programu, data iliyounganishwa na teknolojia inayoweza kubadilika inaweza kusaidia mashirika kuboresha ufanisi na kujiandaa kwa ukuaji wa siku zijazo.",
+      "ctaButton": "Zungumza na Wataalam Wetu",
+      "sec1P1": "Katika mazingira ya kawaida ya biashara, ukuaji mara nyingi huleta vizazi vingi vya programu. Fedha, msururu wa ugavi, huduma kwa wateja, na shughuli za uga mara nyingi hufanya kazi kwenye rafu tofauti za programu zilizopatikana au kujengwa kwa nyakati tofauti. Kwa miaka mingi ya mageuzi ya utendakazi, mifumo hii hutengeneza fomati zake za data, kusasisha miadi, na mambo ya ujumuishaji.",
+      "sec1P2": "Msuguano unajidhihirisha kote katika biashara kupitia vikwazo vya kawaida vya uendeshaji:",
+      "sec1List": [
+        {
+          "bold": "Programu nyingi za biashara ambazo hazijaunganishwa",
+          "text": "ambayo yanahitaji uwekaji nakala wa data na urejeleaji mtambuka mwenyewe."
+        },
+        {
+          "bold": "Hifadhidata zilizotenganishwa",
+          "text": "inayofanya kazi bila utawala mkuu au rekodi kuu zilizounganishwa."
+        },
+        {
+          "bold": "Kuripoti kwa Mwongozo",
+          "text": ", ambapo timu za uchanganuzi hutumia siku kuunganisha pamoja mauzo ya nje badala ya kufichua maarifa."
+        },
+        {
+          "bold": "Kutowiana kwa data",
+          "text": "katika idara zote, na hivyo kutengeneza majibu yanayokinzana kwa maswali ya kimsingi ya kiutendaji."
+        },
+        {
+          "bold": "Urekebishaji wa ombi la juu na vikomo vya scalability",
+          "text": ", huku miunganisho ya hatua kwa hatua ikitatizika kusaidia kuongezeka kwa idadi ya miamala."
+        }
+      ],
+      "sec1P3": "Kushughulikia changamoto hizi kunahitaji kutazama mandhari ya teknolojia si kama mkusanyiko wa ununuzi wa programu pekee, lakini kama jukwaa la biashara lililounganishwa lililoundwa ili kusaidia wepesi wa kimkakati.",
+      "legacyLandscapeBadge": "Msingi wa Urithi",
+      "legacyLandscapeTitle": "Mtiririko wa Taarifa Iliyogawanyika",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Silo za Data",
+          "desc": "Data muhimu ya mteja, fedha na hesabu inasalia kukwama katika mifumo ya idara, na hivyo kuzuia mtazamo mmoja wa shughuli za biashara."
+        },
+        {
+          "num": "02",
+          "title": "Mapungufu ya Kuunganisha",
+          "desc": "Miunganisho ya hatua kwa hatua na dondoo za bechi za kila usiku huunda muda wa kusubiri, viwango vya juu vya kushindwa kufanya kazi na matengenezo ya gharama kubwa katika timu zote za uendeshaji."
+        },
+        {
+          "num": "03",
+          "title": "Taarifa zilizochelewa",
+          "desc": "Wakati watendaji wanapaswa kusubiri siku kwa maridhiano ya mwisho wa mwezi ili kuelewa utendakazi, kufanya maamuzi ni tendaji badala ya kutabiri."
+        }
+      ],
+      "modernArchitectureBadge": "Usanifu Unaolengwa",
+      "modernArchitectureTitle": "Muundo wa Maombi ya Biashara Iliyounganishwa",
+      "sec3P1": "Usanifu wa kisasa wa programu unachukua nafasi ya miunganisho ya uhakika-kwa-point na msingi mwepesi, uliotenganishwa. Kwa kuanzisha API thabiti na safu ya ujumuishaji, mifumo huingiliana kupitia miisho inayodhibitiwa, salama huku ikihifadhi uhuru wa vitengo vya biashara binafsi.",
+      "sec3P2": "Uwezo muhimu wa kiufundi wa mabadiliko haya ya usanifu ni pamoja na:",
+      "sec3List": [
+        {
+          "bold": "Uboreshaji wa programu:",
+          "text": "Kutenganisha mantiki ya msingi ya biashara katika huduma za msimu zinazoweza kusambazwa."
+        },
+        {
+          "bold": "Ujumuishaji wa API:",
+          "text": "Kuanzisha miingiliano sanifu, iliyorekodiwa kwa ushirikiano wa ndani na wa washirika."
+        },
+        {
+          "bold": "Ujumuishaji wa data na uboreshaji wa hifadhidata:",
+          "text": "Kuunganisha mabomba ya data ya uendeshaji na uboreshaji wa hoja ya juu."
+        },
+        {
+          "bold": "Kuonekana na usalama:",
+          "text": "Utekelezaji wa telemetry kuu, njia za ukaguzi, na udhibiti wa ufikiaji kulingana na jukumu katika huduma zote."
+        }
+      ],
+      "sec4P1": "Misingi ya data iliyojumuishwa hubadilisha jinsi uongozi na timu za utendaji zinavyoingiliana na habari. Badala ya kutegemea ripoti za rejea zinazoonyesha kile kilichotokea wiki zilizopita, mashirika yanapata telemetry ya utendaji ya moja kwa moja katika vitengo vya biashara.",
+      "sec4P2": "Data iliyounganishwa na uchanganuzi inasaidia matokeo endelevu ya biashara kupitia:",
+      "sec4List": [
+        {
+          "bold": "Mwonekano wa kiutendaji:",
+          "text": "Uwazi unaoendelea katika mauzo, orodha, utimilifu na utendaji wa kifedha."
+        },
+        {
+          "bold": "Miadi ya kuripoti kwa haraka zaidi:",
+          "text": "Ukusanyaji wa data unapohitajiwa ambao huondoa lahajedwali za kujirudia rudia."
+        },
+        {
+          "bold": "Taarifa thabiti:",
+          "text": "Ufafanuzi mmoja wa vipimo kama vile ukingo, thamani ya maisha ya mteja na kasi kuu."
+        },
+        {
+          "bold": "Maarifa bora ya biashara:",
+          "text": "Ugunduzi wa muundo tabiri ambao unakabili hatari na fursa kabla ya wakati."
+        },
+        {
+          "bold": "Uamuzi ulioboreshwa:",
+          "text": "Kitendo cha kiutendaji cha uhakika kinachoungwa mkono na nasaba ya data iliyoidhinishwa na uwazi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "MTAZAMO WA KIMKAKATI",
+      "keyPerspectiveTitle": "Usasishaji Ni Zaidi ya Ubadilishaji wa Programu",
+      "keyPerspectiveLead": "Kuboresha programu za biashara sio tu kuchukua nafasi ya programu ya zamani na zana mpya. Ni upatanishi wa kimakusudi wa teknolojia na jinsi biashara inavyofanya kazi, mizani, na kutoa thamani."
+    },
+    "artificialIntelligence": {
+      "category": "AKILI BANDIA",
+      "title": "Jinsi AI Inatengeneza Upya Maombi ya Biashara",
+      "subtitle": "Chunguza jinsi utumiaji otomatiki wa akili, waendeshaji nakala wa AI na akili ya kutabiri zinavyokuwa sehemu ya programu za biashara zinazotegemea kila siku.",
+      "date": "Septemba 2026",
+      "readTime": "6 dakika kusoma",
+      "imageCaption": "Mtazamo wa Teknolojia ya Biashara — Akili Bandia na Mifumo ya Biashara",
+      "aiUseCases": [
+        {
+          "title": "Utabiri wa Mnyororo wa Ugavi",
+          "desc": "Kutabiri ongezeko la mahitaji na ucheleweshaji wa vifaa kutoka kwa telemetry ya kihistoria ya wasambazaji."
+        },
+        {
+          "title": "Ukaguzi wa Ankara Kiotomatiki",
+          "desc": "Kuchimbua bidhaa za laini na kulinganisha dhidi ya maagizo ya ununuzi bila kuingia kwa binadamu."
+        },
+        {
+          "title": "Madawati ya Huduma ya Akili",
+          "desc": "Jaribio na utatuzi wa kiotomatiki wa maombi ya IT na HR ya mfanyakazi wa Tier-1."
+        },
+        {
+          "title": "Uzuiaji wa Churn kwa Wateja",
+          "desc": "Mkusanyiko wa kitabia unaobainisha ishara za mapema za msuguano kwa ajili ya kuwafikia kwa makini."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Maamuzi ya haraka ya utendaji yanayoendeshwa na miundo ya kubashiri ya wakati halisi",
+        "Kupunguzwa kwa usindikaji wa data unaorudiwa na upatanisho wa mikono",
+        "Kazi ya juu ya mfanyakazi kwa usaidizi wa nakala ya muktadha",
+        "Kutosheka kwa mteja kumeboreshwa kupitia hali ya utumiaji iliyobinafsishwa sana",
+        "Mchakato unaoendelea wa uboreshaji binafsi kulingana na telemetry halisi",
+        "Ufuatiliaji usiohatarisha wa kufuata kupitia ukaguzi wa kiotomatiki wa kumbukumbu za ukaguzi"
+      ],
+      "governancePoints": [
+        "Ufikiaji madhubuti wa msingi wa dhima unaohakikisha miundo ya AI kamwe haivuji data nyeti",
+        "Ufuatiliaji wa hoja za uwazi unaoruhusu ukaguzi wa kibinadamu kuhusu vitendo vya thamani ya juu",
+        "Tathmini ya modeli inayoendelea ili kujikinga dhidi ya maono na upendeleo",
+        "Viwango vikali vya uthibitisho wa data vinavyolingana na GDPR, SOC 2 na HIPAA",
+        "Njia za kupanda kwa binadamu katika kitanzi kwa hali zisizo uhakika za ukingo"
+      ],
+      "sec1Eyebrow": "MABADILIKO YA AKILI ZA ASILI",
+      "sec1Heading": "AI katika Programu za Biashara",
+      "sec1Subtext": "Upelelezi wa Bandia unabadilika kutoka kwa miradi ya kando ya majaribio hadi programu kuu za uendeshaji ambazo biashara hutegemea kila siku.",
+      "sec2Eyebrow": "UENDESHAJI KWA KIWANGO",
+      "sec2Heading": "Intelligent Automation",
+      "sec2Subtext": "Kusonga zaidi ya hati zinazotegemea kanuni za kitamaduni kuelekea mtiririko wa kazi tambuzi ambao unaelewa maudhui ambayo hayajapangiliwa, kukabiliana na tofauti, na kuboresha michakato kwa nguvu.",
+      "sec3Eyebrow": "MSAADA ULIOINGIWA",
+      "sec3Heading": "Copilots ya Enterprise AI",
+      "sec3Subtext": "Kwa kuzingatia maarifa ya shirika na usalama wa biashara, wasaidizi wa AI hufanya kama washirika maalum katika mtiririko wa kila siku wa biashara.",
+      "sec4Eyebrow": "HOJA YA KUTAZAMA MBELE",
+      "sec4Heading": "Akili ya Kutabiri",
+      "sec4Subtext": "Kubadilisha kumbukumbu za kihistoria za biashara na milisho ya wakati halisi kuwa uwezo wa kuona mbele.",
+      "sec5Eyebrow": "MATUMIZI HALISI YA ULIMWENGU",
+      "sec5Heading": "Kesi za Matumizi ya Enterprise AI",
+      "sec5Subtext": "Njia za kivitendo zinazoongoza mashirika yanatumia akili bandia katika utendaji kazi mkuu wa biashara.",
+      "sec6Eyebrow": "THAMANI YA KIMKAKATI",
+      "sec6Heading": "Manufaa ya Biashara",
+      "sec6Subtext": "Inapotekelezwa kwa uangalifu na data ya biashara inayosimamiwa, AI hufungua faida kubwa za ubora.",
+      "ctaHeading": "Gundua Fursa za AI kwa Biashara Yako",
+      "ctaDescription": "Gundua jinsi uendeshaji otomatiki mahiri, nakala za biashara na miundo ya kubashiri inavyoweza kufungua ufanisi wa utendaji kazi katika mifumo yako kuu.",
+      "ctaButton": "Zungumza na Wataalam Wetu",
+      "sec1P1": "Kwa miaka mingi, akili bandia ya biashara ilichukuliwa kama uwezo wa nje: kielelezo kilichofunzwa kutengwa, onyesho la kisanduku cha mchanga au chatbot iliyojitenga inayopatikana kupitia lango tofauti. Leo, dhana imebadilika kimsingi. AI ya biashara yenye athari kubwa imepachikwa moja kwa moja ndani ya mifumo ya kumbukumbu—ERPs, CRMs, majukwaa ya rasilimali watu, na injini za ugavi ambapo biashara halisi hutokea.",
+      "sec1P2": "Upelelezi unapofanya kazi ndani ya mfumo wa rekodi, hurithi mipaka ya usalama iliyoanzishwa ya shirika, miundo ya data na mantiki ya biashara. Haitoi majibu ya jumla tu; hufanya kazi kwa maagizo ya moja kwa moja, hutafsiri tikiti zilizofunguliwa za usaidizi, hupatanisha ankara za wasambazaji, na kusaidia wafanyikazi ndani ya miingiliano mahususi wanayopitia kila siku.",
+      "sec1P3": "Mabadiliko haya huhamisha programu za biashara kutoka kwa hifadhidata tulizoziweka ambazo husubiri mibofyo ya binadamu hadi mifumo tendaji inayotarajia mahitaji, hatua za kiotomatiki na kutoa mapendekezo kwa wakati unaofaa.",
+      "sec2P1": "Uendeshaji wa Mchakato wa Roboti wa Jadi (RPA) ulifanya kazi kwa ubora katika kukwarua skrini inayojirudiarudia. Walakini, sheria ngumu huweka kuvunja wakati wowote fomu inabadilika, mpangilio wa hati usiyotarajiwa unafika, au ubaguzi hutokea. Uendeshaji otomatiki wenye akili huunganisha mgawanyiko huu kwa kuchanganya hoja za utambuzi na utekelezaji wa shughuli:",
+      "sec2List": [
+        {
+          "bold": "Uendeshaji otomatiki wa mtiririko wa kazi:",
+          "text": "Kupanga shughuli changamano za idara mbalimbali, kazi za kuelekeza kwa kuzingatia udharura na njia za utatuzi wa kihistoria."
+        },
+        {
+          "bold": "Uchakataji wa hati mahiri:",
+          "text": "Kuingiza PDFs ambazo hazijaundwa, barua pepe, maonyesho ya usafirishaji, na kandarasi, kuzibadilisha kuwa miamala iliyopangwa ya hifadhidata."
+        },
+        {
+          "bold": "Uendeshaji wa kazi ya akili:",
+          "text": "Kuboresha uthibitishaji wa utendaji wa hatua nyingi kiotomatiki—kama vile kulinganisha maagizo ya ununuzi dhidi ya stakabadhi na taarifa za benki."
+        },
+        {
+          "bold": "Uboreshaji wa mchakato:",
+          "text": "Kuendelea kuchanganua kumbukumbu za mchakato ili kubaini vikwazo vya muda wa mzunguko na kupendekeza uboreshaji unaolengwa wa mtiririko wa kazi."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Utafutaji wa Taarifa",
+          "desc": "Urejeshaji wa kisemantiki katika misingi iliyosambazwa ya maarifa, sera za intraneti, vipimo vya bidhaa, na maazimio ya kihistoria ya tikiti bila kubahatisha maneno muhimu."
+        },
+        {
+          "icon": "📝",
+          "title": "Muhtasari wa Hati\n.",
+          "desc": "Uboreshaji wa papo hapo wa RFPs ndefu, makubaliano ya wauzaji, vipimo vya kiufundi, na marekebisho ya kisheria katika muhtasari wa kiutendaji unaoweza kutekelezeka na orodha hakiki za hatari."
+        },
+        {
+          "icon": "✨",
+          "title": "Kizazi cha Maudhui",
+          "desc": "Usaidizi wa utayarishaji wa mapendekezo ya mteja, hati za uendeshaji, taratibu za kawaida za uendeshaji (SOPs), na masasisho sanifu ya wateja yanayolingana na viwango vya chapa."
+        },
+        {
+          "icon": "📈",
+          "title": "Uchambuzi wa Data",
+          "desc": "Kutafsiri maswali ya mazungumzo katika maswali changamano ya uchanganuzi, kutoa muhtasari wa chati ya hewani na kuangazia mambo muhimu ya uongozi."
+        },
+        {
+          "icon": "🔄",
+          "title": "Mitiririko ya Kazi ya Biashara",
+          "desc": "Kuanzisha miamala moja kwa moja kutoka kwa vidokezo vya gumzo—kama vile kuratibu rasilimali, kuunda tikiti, kusasisha rekodi, au kuwasilisha matakwa ya ununuzi."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Ufikiaji Wenye Wajibu",
+          "desc": "Kuhakikisha majibu ya majaribio yanaheshimu kikamilifu viwango vya ruhusa za mtumiaji, kuweka fedha za siri, faili za Utumishi na haki miliki kulindwa."
+        }
+      ],
+      "sec4P1": "Ingawa miundo zalishaji hufaulu katika kuelewa na kusanisi lugha, akili ya kubashiri inaangazia mifumo ya hisabati iliyofichwa ndani ya hifadhidata zilizopangwa za biashara. Miundo ya ubashiri iliyopachikwa huwezesha mashirika kutarajia vikwazo vya kiutendaji kabla ya kutatiza shughuli:",
+      "sec4List": [
+        {
+          "bold": "Utabiri wa kiutendaji:",
+          "text": "Kutabiri mwelekeo wa mapato, kasi ya hesabu, na mahitaji ya rasilimali kwa kuunganisha viashirio vya msimu na kasi ya bomba la wakati halisi."
+        },
+        {
+          "bold": "Uchanganuzi wa kubashiri:",
+          "text": "Kubainisha hatari za kuzorota kwa wateja, mizunguko ya uharibifu wa matengenezo, na ucheleweshaji wa ugavi wakati bado kuna muda wa kuingilia kati."
+        },
+        {
+          "bold": "Utambulisho wa hatari:",
+          "text": "Kuripoti hitilafu katika miamala ya fedha, kumbukumbu za utiifu na mifumo ya ununuzi wa wauzaji kabla hazijaongezeka."
+        },
+        {
+          "bold": "Dai utabiri:",
+          "text": "Kuoanisha utabiri wa mauzo na uwezo wa utengenezaji na viwango vya hisa vya ghala ili kulinda mtaji wa kufanya kazi."
+        }
+      ],
+      "keyPerspectiveEyebrow": "UTAWALA WA USHIRIKA",
+      "keyPerspectiveTitle": "Uaminifu, Uangalizi & Walinzi",
+      "keyPerspectiveLead": "AI inategemewa tu kama msingi wa data ulio chini yake na utawala unaoizunguka. Kupitishwa kwa biashara endelevu kunahitaji nidhamu ya kimakusudi ya usanifu:"
+    },
+    "modernErp": {
+      "category": "ERP YA KISASA",
+      "title": "Kuharakisha Mabadiliko ya Biashara kwa kutumia ERP ya Kisasa",
+      "subtitle": "Gundua jinsi mifumo ya kisasa ya ERP inavyounganisha fedha, ununuzi, ugavi na shughuli za biashara kupitia msingi uliounganishwa wa kidijitali.",
+      "date": "Agosti 2026",
+      "readTime": "6 dakika kusoma",
+      "imageCaption": "Mtazamo wa Teknolojia ya Biashara — ERP & Uendeshaji wa Biashara Ulizounganishwa",
+      "connectedFunctions": [
+        {
+          "title": "Usimamizi wa Fedha",
+          "desc": "Masasisho ya daftari katika wakati halisi, utambuzi wa mapato otomatiki, na upatanisho wa papo hapo wa sarafu nyingi."
+        },
+        {
+          "title": "Msururu wa Ugavi & Logistics",
+          "desc": "Mwonekano wa hesabu wa mwisho hadi mwisho, uboreshaji wa ghala na telemetry ya utendaji wa wasambazaji."
+        },
+        {
+          "title": "Rasilimali Watu na Nguvu Kazi",
+          "desc": "Tovuti za wafanyikazi wanaojihudumia, malipo ya kiotomatiki na upangaji wa mzunguko wa maisha ya talanta."
+        },
+        {
+          "title": "Ununuzi na Upataji",
+          "desc": "Uidhinishaji wa ununuzi wa kiotomatiki, kufuata mkataba wa muuzaji, na uchanganuzi wa matumizi unaobadilika."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Usanifu wa Wingu-Asili",
+          "desc": "Uongezaji wa kasi wa kukokotoa bila kichwa cha juu cha miundombinu ya juu ya majengo au kufuli kwa toleo gumu."
+        },
+        {
+          "title": "Fungua Mfumo wa Ikolojia wa API",
+          "desc": "Viunganishi vilivyoundwa mapema vinavyowezesha usawazishaji wa data wa njia mbili kwa kutumia huduma ndogo ndogo maalum na vyumba vya CRM."
+        },
+        {
+          "title": "Takwimu Zilizopachikwa",
+          "desc": "Michanganuo ya moja kwa moja ya dashibodi kutoka laha za kiwango cha juu hadi kumbukumbu za miamala binafsi."
+        },
+        {
+          "title": "Vichochezi vya Mtiririko wa Kazi Kiotomatiki",
+          "desc": "Tukio linaloendeshwa na tukio huanzisha kutekeleza shughuli za kawaida za idara mbalimbali kwa uhuru."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Chanzo kimoja cha ukweli kikiondoa ripoti zinazokinzana za idara",
+        "Kupunguzwa kwa kasi kwa mizunguko ya mwisho ya mwezi na mwisho wa robo",
+        "Orodha ya muda halisi na mwonekano wa vifaa na kupunguza uhaba wa bidhaa",
+        "Imepunguza matengenezo ya TEHAMA kupitia masasisho ya kawaida ya asili ya wingu",
+        "Ufuatiliaji wa utiifu kwa umoja katika eneo la mamlaka ya kodi",
+        "Uingizaji wa haraka wa huluki zilizopatikana katika mihimili ya uendeshaji iliyoshirikiwa"
+      ],
+      "erpStrategyPoints": [
+        "Kulinganisha usanifu wa ERP na utiririshaji wa kazi kuu kabla ya usanidi",
+        "Kuchagua miundo ya uwekaji ya msimu ili kufikia mafanikio ya haraka",
+        "Kuweka kipaumbele uhamishaji wa data mkuu na upatanisho",
+        "Kupachika usimamizi wa mabadiliko ya kiotomatiki na programu za mafunzo zilizolengwa dhima",
+        "Kubuni lango la API kwa upanuzi wa ujumuishaji usio na msuguano wa siku zijazo"
+      ],
+      "sec1Eyebrow": "MGONGO WA UENDESHAJI",
+      "sec1Heading": "Kwa Nini ERP ya Kisasa Ni Muhimu",
+      "sec1Subtext": "ERP sio uhasibu wa ofisi ya nyuma tu. Ni mfano wa uendeshaji wa biashara ya kisasa iliyoonyeshwa kwenye programu.",
+      "sec2Eyebrow": "MFUMO ULIOHUSIKA ULIOHUSIKA",
+      "sec2Heading": "Kazi Zilizounganishwa za Biashara",
+      "sec2Subtext": "Thamani halisi ya shirika hujitokeza wakati shughuli kuu za biashara zinaposhirikiana kwenye msingi wa kidijitali ulioshirikiwa.",
+      "sec3Eyebrow": "MAWAZO YA MSALAMA",
+      "sec3Heading": "Uendeshaji na Mtiririko wa Taarifa kwa Pamoja",
+      "sec3Subtext": "Kuvunja kuta za mawasiliano kati ya idara ili kuwezesha mtiririko wa kazi wa biashara uliosawazishwa.",
+      "sec4Eyebrow": "ENTERPRISE TELEMETRI",
+      "sec4Heading": "Mwonekano wa Biashara wa Wakati Halisi",
+      "sec4Subtext": "Kuunganisha vipimo vya uendeshaji katika dashibodi za utendaji zinazoonyesha uwazi zinazoakisi hali halisi ya sasa ya biashara.",
+      "sec5Eyebrow": "USANIFU WA JUKWAA KUBWA",
+      "sec5Heading": "Uwezo wa Kisasa wa ERP",
+      "sec5Subtext": "Sifa za usanifu zinazotenganisha mifumo ya kisasa ya ERP na usakinishaji dhabiti wa zamani.",
+      "sec6Eyebrow": "ATHARI YA UBORA",
+      "sec6Heading": "Manufaa ya Biashara",
+      "sec6Subtext": "Kuunganisha shughuli za msingi za biashara kwenye msingi wa kidijitali huleta uthabiti unaopimika wa shirika.",
+      "ctaHeading": "Boresha Uendeshaji wa Biashara Yako",
+      "ctaDescription": "Gundua jinsi mifumo ya kisasa ya ERP inavyounganisha fedha, ununuzi, ugavi na shughuli za biashara kupitia msingi uliounganishwa wa kidijitali.",
+      "ctaButton": "Zungumza na Wataalam Wetu",
+      "sec1P1": "Katika mandhari ya biashara inayosonga haraka, mifumo ya jadi ya Upangaji Rasilimali za Biashara mara nyingi inatatizika. Iliyoundwa katika enzi ya uchakataji wa bechi na seva za ndani zilizotengwa, ERP zilizopitwa na wakati ziliboreshwa kwa kiasi kikubwa, ni vigumu kusasisha, na kutoweka wazi kwa uchungu. Shughuli muhimu za biashara zilifanya kazi katika hazina sambamba, zikitegemea usafirishaji dhaifu wa usiku kucha ili kusawazisha leja na maghala.",
+      "sec1P2": "ERP ya kisasa, ya asili ya wingu kimsingi inafafanua upya hali hii inayobadilika. Inafanya kazi kama uti wa mgongo wa kidijitali wa biashara—msingi hai ambapo fedha, ununuzi, ugavi, orodha na rasilimali watu hutumika kwenye muundo wa data ulioshirikiwa.",
+      "sec1P3": "Kwa kuleta utendakazi wa kimsingi katika mazingira moja yaliyooanishwa, ERP ya kisasa huondoa sehemu zisizo wazi za uendeshaji zinazopunguza kasi ya ukuaji, kuwezesha viongozi kuendesha biashara kwa kutumia ishara za wakati halisi badala ya mihtasari ya kihistoria iliyochakaa.",
+      "sec3P1": "Silo za uendeshaji mara chache huwa ni matatizo ya watu; ni matatizo ya usanifu. Wakati timu za huduma kwa wateja, ununuzi na ghala zinafanya kazi katika programu ambazo hazijaunganishwa, kila mkono huhitaji barua pepe, lahajedwali na simu za mikono. Hitilafu huongezeka, ankara huhifadhiwa, na ahadi za wateja huteleza.",
+      "sec3P2": "ERP ya kisasa inashughulikia hili kupitia nasaba ya data iliyounganishwa na uandaaji wa mchakato unaoendeshwa na tukio:",
+      "sec3List": [
+        {
+          "bold": "Iliyooanishwa-kwa-pesa:",
+          "text": "Wakati agizo la mteja linapowekwa, orodha huhifadhiwa kiotomatiki, lebo za usafirishaji hutengeneza, na leja za bili zinasasishwa mara moja."
+        },
+        {
+          "bold": "Uwazi wa kununua-ili-kulipa:",
+          "text": "Maagizo ya ununuzi, stakabadhi za bidhaa na ankara za muuzaji zinalingana kiotomatiki na upatanisho wa njia 3, zikiripoti isipokuwa tu kwa ukaguzi wa kibinadamu."
+        },
+        {
+          "bold": "Gharama ya umoja wa kazi na uendeshaji:",
+          "text": "Ratiba za mradi, mgao wa malipo, na matumizi ya moja kwa moja ya uendeshaji ramani moja kwa moja kwenye vituo vya gharama kwa wakati halisi."
+        }
+      ],
+      "sec4P1": "Kuendesha biashara bila mwonekano mmoja ni kama kuruka kwenye ukungu mnene na vyombo vilivyochelewa. ERP ya kisasa hutoa telemetry ya wakati halisi katika kila nyanja ya biashara:",
+      "sec4List": [
+        {
+          "bold": "Dashibodi za utendaji za moja kwa moja:",
+          "text": "Maoni ya papo hapo ya kiasi cha jumla, mtiririko wa fedha za uendeshaji, madeni ya wazi, na marejeleo ya kuagiza bila kusubiri kufungwa kwa mwisho wa kipindi."
+        },
+        {
+          "bold": "Taarifa za uendeshaji wa huduma binafsi:",
+          "text": "Wakuu wa idara wanaweza kuunda hoja maalum na kutoa mihtasari ya kiwango cha biashara hadi vipengee vya moja kwa moja vya miamala."
+        },
+        {
+          "bold": "Taarifa kuu za kati:",
+          "text": "Kuondoa nambari zinazokinzana kwa kuanzisha data kuu inayodhibitiwa kwa wateja, wachuuzi na katalogi za bidhaa."
+        },
+        {
+          "bold": "Arifa za hitilafu zinazoendelea:",
+          "text": "Arifa za kiotomatiki huarifu wasimamizi mara moja wakati kambi zinaposhuka chini ya kiwango, hesabu inapungua, au hati ya kuwasilisha wasambazaji."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FALSAFA YA MABADILIKO YA ERP",
+      "keyPerspectiveTitle": "Uboreshaji wa Kipragmatiki Juu ya Urekebishaji wa Monolithic",
+      "keyPerspectiveLead": "Mabadiliko ya kisasa ya ERP hufaulu wakati mashirika yanaichukulia kama uboreshaji wa uendeshaji badala ya usumbufu wa IT wa kila kitu au chochote:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Kujenga Ustahimilivu wa Mtandao katika Biashara Iliyounganishwa",
+      "subtitle": "Chunguza jinsi mashirika yanaweza kuimarisha usalama, kulinda mifumo muhimu na kujiandaa kwa vitisho katika mazingira yanayozidi kushikamana.",
+      "date": "Septemba 2026",
+      "readTime": "8 dakika kusoma",
+      "imageCaption": "Mtazamo wa Teknolojia ya Biashara — Ulinzi wa Tishio na Usanifu Usioaminika",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Utambuzi",
+          "desc": "Uingizaji wa kumbukumbu katika wakati halisi na uunganisho usio wa kawaida wa SIEM kwenye sehemu zote za wingu na mizigo ya kazi."
+        },
+        {
+          "title": "Udhibiti na Kutengwa",
+          "desc": "Sheria za kiotomatiki za karantini za mtandao zinazotenga makontena au vitambulisho vilivyoathiriwa papo hapo."
+        },
+        {
+          "title": "Remediation & Root-Sababu",
+          "desc": "Utoaji wa haraka wa viraka na uchunguzi wa kidijitali unaobainisha vekta halisi ya ukiukaji."
+        },
+        {
+          "title": "Ustahimilivu & Ugumu",
+          "desc": "Maoni yanayoendelea kuhusu nakala rudufu zisizobadilika, mihimili ya sera, na uigaji otomatiki wa timu nyekundu."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Kupungua kwa kiasi kikubwa kwa nyuso za mashambulizi ya athari kwenye rasilimali za wingu",
+        "Uendeshaji uliohakikishwa wa mwendelezo na uokoaji wa maafa kwa kutumia RTO/RPO ndogo",
+        "Uaminifu wa jumla wa utiifu katika ukaguzi wa ISO 27001, SOC 2, HIPAA na GDPR",
+        "Ulinzi wa haki miliki ya biashara na rekodi za siri za mteja",
+        "Udhibiti wa hatari wa wachuuzi na wa wahusika wengine kupitia vidhibiti vilivyounganishwa vya ufikiaji",
+        "Imani iliyoimarishwa ya mteja na mwekezaji inayoungwa mkono na misimamo iliyothibitishwa ya usalama ya sifuri"
+      ],
+      "zeroTrustPrinciples": [
+        "Usiamini Kamwe, Thibitisha Kila Wakati: Uthibitishaji wa wazi unahitajika kwa kila shughuli",
+        "Ufikiaji wa Upendeleo mdogo: Mipaka ya jukumu la punjepunje inayozuia harakati za tishio la upande",
+        "Chukulia Ukiukaji: Ufuatiliaji wa vitisho unaoendelea, usimbaji fiche katika usafiri na katika mapumziko",
+        "Mgawanyiko Mdogo: Ngome za mtandao zinazotenga mzigo wa programu mahususi",
+        "Telemetry Endelevu: Uchanganuzi otomatiki wa tabia unaoashiria maombi ya kikao kisicho cha kawaida"
+      ],
+      "sec1Eyebrow": "KIPINDI KINACHOPANUA",
+      "sec1Heading": "Mazingira ya Usalama ya Biashara Iliyounganishwa",
+      "sec1Subtext": "Mashirika ya kisasa yanapounganisha programu zaidi, mazingira ya wingu, wafanyikazi wa mbali, vifaa vya rununu, na washirika wengine, eneo la kawaida la usalama hukoma kuwepo.",
+      "sec2Eyebrow": "ULINZI WA KINA",
+      "sec2Heading": "Ulinzi wa Tishio la Tabaka nyingi",
+      "sec2Subtext": "Ulinzi thabiti unaolinda miundombinu muhimu, data nyeti ya shirika na mifumo ya uendeshaji.",
+      "sec3Eyebrow": "MPAKA MPYA WA USALAMA",
+      "sec3Heading": "Utambulisho na Usimamizi wa Ufikiaji (IAM)",
+      "sec3Subtext": "Utambulisho ndio njia kuu ya udhibiti wa usalama wa kisasa. Takriban ukiukaji mkubwa wa usalama huanza na vitambulisho vilivyoathiriwa badala ya matumizi mabaya ya programu.",
+      "sec4Eyebrow": "PARADIGM YA USANIFU",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust si bidhaa au zana moja. Ni mkakati wa usanifu unaozingatia kanuni moja kwa moja: usiamini huluki ndani au nje ya mtandao kwa chaguomsingi.",
+      "sec5Eyebrow": "UTAWALA WA MIUNDOMBINU",
+      "sec5Heading": "Mazingatio ya Usalama wa Wingu",
+      "sec5Subtext": "Kulinda mizigo ya kazi kwenye wingu la umma, usanifu mseto, na mazingira ya kontena iliyosambazwa.",
+      "sec6Eyebrow": "USTAHILI WA UENDESHAJI",
+      "sec6Heading": "Utayari wa Tukio: Zaidi ya Kinga",
+      "sec6Subtext": "Ustahimilivu wa kweli wa mtandao unakubali kwamba matukio yanaweza kutokea. Kujitayarisha kunalenga kuzuia haraka, usumbufu mdogo wa biashara, na urejeshaji uliothibitishwa.",
+      "sec7Eyebrow": "THAMANI YA KIMKAKATI",
+      "sec7Heading": "Manufaa ya Biashara",
+      "sec7Subtext": "Kujenga biashara inayostahimili mtandao hulinda thamani ya shirika, hadhi ya udhibiti na sifa ya soko.",
+      "ctaHeading": "Imarisha Usalama Wako wa Biashara",
+      "ctaDescription": "Chunguza jinsi mashirika yanavyoweza kuimarisha usalama, kulinda mifumo muhimu na kujiandaa kwa vitisho katika mazingira yanayozidi kushikamana.",
+      "ctaButton": "Zungumza na Wataalam Wetu",
+      "sec1P1": "Katika enzi ya urithi wa IT ya biashara, usalama uliendeshwa kwa fundisho la ngome-na-moat: kila kitu ndani ya mtandao wa ofisi ya shirika kilidhaniwa kuwa cha kuaminiwa, huku kila kitu cha nje kilichukuliwa kuwa hakiaminiki. Ngome moja ya shirika ililinda seva za ndani, hifadhidata na kompyuta za mezani.",
+      "sec1P2": "Biashara ya leo imezidi kuta za kimwili. Mzigo wa kazi hukaa katika mazingira ya wingu nyingi (AWS, Azure, GCP), wafanyakazi hufikia programu za biashara kutoka maeneo mbalimbali, na API hubadilishana kila mara data nyeti ya uendeshaji na watoa huduma wa vifaa vya nje, taasisi za fedha, na wachuuzi wa SaaS.",
+      "sec1P3": "Ingawa muunganisho huu mkubwa unasukuma wepesi mkubwa wa biashara, huongeza kwa kiasi kikubwa eneo la mashambulizi ya biashara. Kila sehemu ya mwisho ya API, tokeni ya utambulisho, kifaa cha mkononi kilichounganishwa, na muunganisho wa SaaS huwakilisha vekta inayoweza kudhihirishwa. Ulinzi wa kweli wa biashara unahitaji kuhama kutoka kwa ulinzi unaotegemea mzunguko hadi uthabiti wa mtandao wa mwisho hadi mwisho.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Utambuzi wa Tishio",
+          "desc": "Akili tishio inayosaidiwa na mashine kujifunza ambayo hufuatilia mifumo isiyo ya kawaida ya mtandao, matumizi mabaya ya vitambulisho na udhaifu wa siku sifuri kwa wakati halisi."
+        },
+        {
+          "icon": "📡",
+          "title": "Ufuatiliaji wa Usalama",
+          "desc": "Kituo Kikuu cha Uendeshaji wa Usalama (SOC) kinachoratibu matukio ya telemetry kwenye seva, makundi ya makontena, watoa huduma za vitambulisho na sehemu za mwisho."
+        },
+        {
+          "icon": "🔍",
+          "title": "Usimamizi wa Athari",
+          "desc": "Uchanganuzi unaoendelea wa kuathiriwa otomatiki katika miundombinu yote, hazina za misimbo ya vyanzo, na sajili za makontena ili kurekebisha udhaifu kwa vitendo."
+        },
+        {
+          "icon": "🔒",
+          "title": "Ulinzi wa Data",
+          "desc": "Usimbaji fiche thabiti katika usafiri (TLS 1.3) na wakati wa mapumziko (AES-256), pamoja na udhibiti wa punjepunje wa kuzuia upotevu wa data (DLP) ili kuzuia uvujaji wa uvumbuzi."
+        }
+      ],
+      "sec3P1": "Kulinda mali ya biashara kunahitaji kuhakikisha kwamba kila utambulisho—iwe ni mtendaji mkuu, mkandarasi wa nje, au akaunti ya huduma ya programu inayojiendesha—imeidhinisha uidhinishaji wa rasilimali mahususi inazofikia.",
+      "sec3List": [
+        {
+          "bold": "Usimamizi wa utambulisho wa kati:",
+          "text": "Kuingia Moja kwa Moja (SSO) na viwango vya utambulisho vilivyoshirikishwa ambavyo vinaondoa maduka ya nenosiri yaliyogawanyika katika programu zote."
+        },
+        {
+          "bold": "Uthibitishaji wa Adaptive wa vipengele vingi (MFA):",
+          "text": "Funguo za maunzi zinazostahimili hadaa za FIDO2 na changamoto za muktadha kulingana na hatari kwa utendaji nyeti wa usimamizi."
+        },
+        {
+          "bold": "Udhibiti wa ufikiaji wa punjepunje:",
+          "text": "Vidhibiti vya ufikiaji vya Wajibu-Fine-grained (RBAC) na Sifa (ABAC) vinavyotekelezwa katika viwango vya API na hifadhidata."
+        },
+        {
+          "bold": "Kanuni za upendeleo mdogo:",
+          "text": "Kutoa ufikiaji wa muda, kwa wakati (JIT) ambao muda wake unaisha kiotomatiki kazi za usimamizi zinapokamilika."
+        }
+      ],
+      "keyPerspectiveEyebrow": "MAFUNDISHO YA ZERO TRUST CORE",
+      "keyPerspectiveTitle": "Uthibitishaji Unaoendelea Juu ya Uaminifu wa Blind",
+      "keyPerspectiveLead": "Katika usanifu wa Zero Trust, uaminifu kamili kulingana na eneo la mtandao umeondolewa kabisa. Kila muamala, hoja ya hifadhidata, na kuingia kwa mtumiaji lazima daima kudhibitisha uhalali wake:",
+      "cloudSecurityCards": [
+        {
+          "title": "Wajibu wa Pamoja",
+          "desc": "Futa utawala unaotofautisha usalama wa miundombinu halisi ya mtoa huduma wa wingu na jukumu la biashara la usimbaji fiche wa data, sera za IAM na msimbo wa programu."
+        },
+        {
+          "title": "Miundombinu kama Kanuni (IaC)",
+          "desc": "Mipangilio ya wingu isiyobadilika, inayoweza kukaguliwa inayodhibitiwa kupitia msimbo. Vichanganuzi vya kiotomatiki vya sera-kama-misimbo huzuia usanidi usiofaa na ndoo zilizofichuliwa kabla ya kutumwa."
+        },
+        {
+          "title": "Kontena na Usalama wa Kubernetes",
+          "desc": "Nyakati za utendakazi za kontena ngumu, sajili za picha zilizotiwa saini, sehemu ndogo za mtandao, na usimamizi wa siri otomatiki ambao huhifadhi hati tambulishi kwenye hazina za vyanzo."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "WINGU NA KISASA",
+      "title": "Kuboresha Maombi ya Urithi kwa Wingu",
+      "subtitle": "Gundua mbinu ya vitendo ya kutathmini, kusasisha na kusogeza maombi ya urithi kuelekea usanifu wa wingu unaoweza kusambaratika na salama.",
+      "date": "Septemba 2026",
+      "readTime": "6 dakika kusoma",
+      "imageCaption": "Mtazamo wa Teknolojia ya Biashara — Uwekaji upya wa jukwaa la Wingu-Asili & Uwekaji Vyombo",
+      "modernizationApproaches": [
+        {
+          "title": "Pandisha upya (Lift & Shift)",
+          "desc": "Badilisha mizigo ya kazi ili kuweka wingu mashine pepe kwa haraka na urekebishaji mdogo wa misimbo."
+        },
+        {
+          "title": "Jukwaa Jipya (Inua na Uunde Upya)",
+          "desc": "Boresha mifumo ya muda wa utekelezaji, utumie hifadhidata za wingu zinazodhibitiwa, na uhusishe utendakazi."
+        },
+        {
+          "title": "Kirekebishaji (Ujenzi wa Asili wa Wingu)",
+          "desc": "Tenganisha monoliths kuwa huduma ndogo zilizo na vyombo na API zisizo na seva zinazoendeshwa na tukio."
+        },
+        {
+          "title": "Badilisha (SaaS Modernization)",
+          "desc": "Rejesha mifumo ya urithi isiyohitajika kwa ajili ya programu ya wingu ya biashara iliyojengwa kwa makusudi."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Tathmini ya Urithi",
+          "desc": "Uchoraji kiotomatiki wa ramani ya utegemezi, uorodheshaji wa madeni ya kiufundi, na alama za utayari wa wingu."
+        },
+        {
+          "title": "Usanifu Unaolengwa",
+          "desc": "Miundo ya kawaida ya huduma ndogo, topolojia za vyombo na violezo otomatiki vya IaC."
+        },
+        {
+          "title": "Uhamiaji wa Awamu",
+          "desc": "Matoleo ya Canary, usawazishaji wa data ya kuandika-mbili, na mawimbi ya kukatika kwa muda wa sifuri."
+        },
+        {
+          "title": "Uboreshaji wa Wingu",
+          "desc": "Udhibiti wa gharama endelevu, telemetry ya kupima kiotomatiki, na ukaguzi wa uendeshaji wa FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Gharama za matengenezo ya miundombinu na uboreshaji wa maunzi zimepungua sana",
+        "Kukokotoa unyumbufu wa karibu usio na kikomo wa kushughulikia kilele cha trafiki ya biashara na utulivu wa sifuri",
+        "Kasi ya uchapishaji iliyoharakishwa na mabomba ya kusambaza ya CI/CD otomatiki kabisa",
+        "Kuondolewa kwa pointi moja ya urithi ya kushindwa na upatikanaji wa juu wa AZ nyingi",
+        "Miundo ya kisasa ya API inayowezesha miunganisho ya haraka ya washirika wa jukwaa",
+        "Uangalizi wa hali ya juu wa wakati halisi katika utendakazi wa programu na matumizi ya wingu"
+      ],
+      "landscapeAssessmentPoints": [
+        "Kuchora utegemezi changamano baina ya programu-tumizi na midondoko ya kusawazisha data",
+        "Kutambua usanidi wa mazingira wenye misimbo ngumu na miundo ya hifadhidata ya wamiliki",
+        "Kutathmini utiifu wa udhibiti na vikwazo vya uhuru wa data kwa kila mamlaka",
+        "Kukokotoa Jumla ya Gharama halisi ya Umiliki (TCO) kwenye kiashiria dhidi ya njia za mwenyeji",
+        "Kuanzisha mawimbi wazi ya uchapishaji ili kulinda shughuli zinazoendelea za biashara za kila siku"
+      ],
+      "sec1Eyebrow": "HALI HALISI YA MIFUMO YA URITHI",
+      "sec1Heading": "Changamoto ya Urithi",
+      "sec1Subtext": "Uzee wa monoliths huzuia kasi ya uvumbuzi, huongeza udhaifu wa kiutendaji, na kuongeza gharama za matengenezo ya miundombinu.",
+      "sec2Eyebrow": "TATHMINI NA UGUNDUZI",
+      "sec2Heading": "Kuelewa Mazingira ya Maombi",
+      "sec2Subtext": "Uboreshaji wa kisasa wa mawingu wenye mafanikio huanza na tathmini kali. Kuruka moja kwa moja kwenye uhamiaji bila kukagua utegemezi wa maombi ndio sababu kuu ya kucheleweshwa kwa vipunguzo.",
+      "sec3Eyebrow": "NJIA 4 ZA KISASA",
+      "sec3Heading": "Mbinu za Uboreshaji",
+      "sec3Subtext": "Hakuna mkakati wa uhamiaji wa ukubwa mmoja. Biashara zinazoongoza zinalingana na muundo sahihi wa kisasa kwa kila mzigo mahususi wa kazi kulingana na thamani ya biashara, udharura na deni la kiufundi.",
+      "sec4Eyebrow": "MFANO WA KUBADILISHA LENGO",
+      "sec4Heading": "Usanifu wa Kisasa wa Wingu",
+      "sec4Subtext": "Ramani ya barabara iliyoundwa ambayo inabadilisha monoliths zilizopitwa na wakati kuwa huduma za wingu nyumbufu, salama na zinazoweza kudumishwa.",
+      "sec5Eyebrow": "MATOKEO YA MABADILIKO",
+      "sec5Heading": "Manufaa Muhimu ya Uboreshaji",
+      "sec5Subtext": "Kuhamishia mifumo ya urithi kwenye usanifu wa kisasa wa wingu hutoa wepesi unaoonekana wa kufanya kazi na utabiri wa gharama.",
+      "ctaHeading": "Boresha Maombi Yako ya Urithi",
+      "ctaDescription": "Chunguza mbinu ya vitendo ya kutathmini, kusasisha na kusogeza maombi ya urithi kuelekea usanifu wa wingu unaoweza kusambaa na salama.",
+      "ctaButton": "Zungumza na Wataalam Wetu",
+      "sec1P1": "Programu muhimu za dhamira zilizoundwa muongo mmoja uliopita bado zinaingiza mabilioni ya mapato ya biashara, lakini uthabiti wao wa usanifu husababisha kuongezeka kwa hatari ya utendaji.",
+      "sec1P2": "Kila biashara inakabiliwa na mvutano kati ya utulivu na kisasa. Mifumo ya urithi iliundwa kwa kudumu, na imefanya kazi kwa uaminifu kwa miaka. Walakini, mahitaji ya biashara yanapoongezeka, usanifu huu wa uzee hukutana na mipaka ya kimuundo:",
+      "sec1List": [
+        {
+          "bold": "Rafu za programu za kuzeeka:",
+          "text": "Misimbo ya kanuni ya monolitiki iliyojengwa juu ya mifumo iliyoacha kutumika na vikundi vya talanta vinavyopungua vinavyopatikana kwa matengenezo."
+        },
+        {
+          "bold": "Mizunguko migumu ya matengenezo:",
+          "text": "Vipengee vilivyounganishwa sana ambapo kubadilisha kipengele kimoja kunahatarisha kuvunja moduli za uendeshaji zisizohusiana."
+        },
+        {
+          "bold": "Uwezo mdogo:",
+          "text": "Vikomo vya kuongeza wima ambavyo vinahitaji kununua maunzi ya wamiliki wa ghali ili kushughulikia ongezeko la trafiki la msimu."
+        },
+        {
+          "bold": "Changamoto za ujumuishaji:",
+          "text": "Kutoweza kusawazisha kwa urahisi na programu za kisasa za simu, lango la wateja, au API za washirika bila hati za bechi dhaifu."
+        },
+        {
+          "bold": "Vikwazo vya miundombinu:",
+          "text": "Mizunguko ya maisha ya chumba cha seva halisi, udhaifu wa chelezo, na matumizi ya juu ya nishati/ubaridi wa uendeshaji."
+        }
+      ],
+      "sec2P1": "Safari ya kisasa ya pragmatiki huanza kwa kuweka uwazi kamili katika eneo lililopo:",
+      "sec2List": [
+        {
+          "bold": "Maombi:",
+          "text": "Kuorodhesha mzigo wote wa kazi unaotumika, moduli maalum, hati za usuli, na vifurushi vya kihistoria vya watu wengine."
+        },
+        {
+          "bold": "Mategemeo:",
+          "text": "Kuchora muunganisho changamano wa wakati wa utekelezaji, majedwali ya hifadhidata yaliyoshirikiwa, simu za moja kwa moja za mfumo wa faili na mikataba ya huduma za nje."
+        },
+        {
+          "bold": "Data:",
+          "text": "Kutathmini miundo ya data, mahitaji ya uadilifu wa shughuli, uwekaji chelezo, na sheria za udhibiti za mamlaka."
+        },
+        {
+          "bold": "Miundombinu:",
+          "text": "Kukagua CPU, kumbukumbu, matumizi ya hifadhi, na upitishaji wa mtandao kwa vipimo vya ukubwa wa kulia vya wingu lengwa."
+        },
+        {
+          "bold": "Umuhimu wa biashara:",
+          "text": "Kupanga programu katika viwango ili kuunda mawimbi salama ya uhamiaji kwa hatua kwa taratibu za kurudi nyuma."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Faida:",
+      "cloudArchitectureBadge": "Mzunguko wa Maisha ya kisasa",
+      "cloudArchitectureTitle": "Mtiririko wa Uboreshaji wa Wingu wa Mwisho-hadi-Mwisho",
+      "sec4P1": "Usanifu lengwa hutenganisha programu-tumizi kuu katika huduma za msimu, zilizo na kontena zinazopangishwa kwenye majukwaa ya wingu nyumbufu (kama vile Kubernetes au nyakati za uendeshaji zisizo na seva zinazodhibitiwa).",
+      "sec4P2": "Kwa kuanzisha mabomba ya kiotomatiki ya kusambaza CI/CD, vipandikizi otomatiki vya rangi ya samawati-kijani, na miundombinu kama msimbo, utumaji hubadilika kutoka matukio ya wikendi yenye kusumbua hadi kuwa taratibu za kila siku zisizo na mshono.",
+      "sec4P3": "Kokotoo laini huongezeka kiotomatiki wakati mahitaji yanaongezeka na kupungua wakati wa utulivu, hivyo basi kuondoa gharama za rasilimali huku kikihakikisha muda wa mwitikio wa sekunde ndogo kwa watumiaji wa kimataifa.",
+      "keyPerspectiveEyebrow": "UTENDAJI BORA WA KISASA",
+      "keyPerspectiveTitle": "Nguzo Nne za Kuhama kwa Mafanikio",
+      "keyPerspectiveLead": "Uzoefu unaonyesha kuwa miradi ya kisasa hufaulu inapoanzishwa kwa utayarishaji wa kina, mpangilio wazi wa mawimbi, na majaribio makali:"
+    }
+  }
+}

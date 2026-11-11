@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Za",
+    "services": "Ntchito",
+    "products": "Zogulitsa",
+    "perspectives": "Malingaliro",
+    "technologies": "Tekinoloje",
+    "contact": "Lumikizanani",
+    "signIn": "Lowani",
+    "signUp": "Lowani",
+    "signOut": "Tulukani",
+    "chooseLanguage": "Sankhani chinenero chanu",
+    "searchLanguage": "Fufuzani chinenero",
+    "resetEnglish": "Bwezerani ku Chingerezi",
+    "noResults": "Palibe zilankhulo zomwe zapezeka",
+    "englishDefault": "Chingerezi (Chofikira)",
+    "english": "Chingerezi"
+  },
+  "hero": {
+    "eyebrow": "Rezonants - Hyderabad",
+    "title": "Mapulogalamu, opangidwira momwe <em>bizinesi yanu</em> imayendera.",
+    "description": "Rezonants ndi kampani ya IT ndi zinthu za digito. Timapanga, kupanga ndi kukulitsa mapulogalamu amtundu, intaneti ndi mafoni, zomangamanga zamtambo ndi AI - zamakampani omwe amapikisana pakuphedwa.",
+    "bookConsultation": "sungani maupangiri aulere",
+    "exploreServices": "Onani mautumiki",
+    "years": "zaka",
+    "projects": "ntchito",
+    "retention": "kusunga",
+    "location": "Madhapur, Hyderabad",
+    "since": "Rezonants — kuyambira 2012",
+    "metaStudio": "Situdiyo yazinthu zama digito",
+    "metaTech": "Webusaiti · Mobile · Cloud · AI"
+  },
+  "about": {
+    "eyebrow": "Za Ife",
+    "title": "Kumanga Mayankho a Digital <em>Zomwe Zimapititsa Mabizinesi Patsogolo</em>",
+    "description": "Rezonants ndi kampani yopanga mayankho aukadaulo omwe amayang'ana kwambiri kuthandiza mabizinesi kusintha malingaliro kukhala zokumana nazo za digito. Timaphatikiza ukadaulo, ukadaulo, ndi kumvetsetsa kwamabizinesi kuti tipereke mayankho omwe amapangidwa molingana ndi zosowa zenizeni padziko lapansi.<br /><br />Kuchokera pakusintha kwa digito ndi kukonza mapulogalamu amwambo kupita ku cloud, AI, automation, ndi ntchito zaukadaulo zoyendetsedwa, timathandizira mabungwe kupangitsa kuti zinthu zizivuta, kukonza bwino, ndikupanga phindu la digito lokhalitsa.<br /><br /><strong>Njira yathu ndi yosavuta — kumvetsetsa zovuta, ndi kukonza ukadaulo.",
+    "awardWinning": "Kupambana Mphotho",
+    "awardText": "Wodziwika chifukwa chopereka bwino kwambiri pa intaneti komanso uinjiniya wazinthu zam'manja.",
+    "professionalStaff": "Akatswiri Ogwira Ntchito",
+    "staffText": "Mainjiniya akuluakulu, odalirika omwe eni ake a ntchitoyi kuyambira pakuyimba koyamba kuti apite.",
+    "support247": "24/7 Thandizo",
+    "supportText": "Ntchito zoyendetsedwa ndi chingwe chothandizira chomwe chimayankha mukachifuna.",
+    "fairPrices": "Mitengo Yabwino",
+    "pricesText": "Kuyerekeza moona mtima ndi kulipira kowonekera pachinkhoswe chilichonse.",
+    "yearsExcellence": "Zaka Zochita Zabwino Kwambiri"
+  },
+  "stats": {
+    "happyClients": "Makasitomala okondwa",
+    "projectsDone": "Ntchito zachitika",
+    "winAwards": "Pezani mphoto"
+  },
+  "insights": {
+    "eyebrow": "Malingaliro",
+    "title": "Malingaliro",
+    "sub": "Kuwunika malingaliro, machitidwe, ndi ukadaulo wopanga tsogolo.",
+    "filters": {
+      "all": "Zonse",
+      "digital-transformation": "Kusintha kwa digito",
+      "ai": "AI & Automation",
+      "cloud": "Mtambo",
+      "data": "Data & Analytics",
+      "software": "Mapulogalamu",
+      "business": "Business & Technology"
+    },
+    "readMore": "Werengani Zambiri",
+    "close": "Tsekani",
+    "keyTakeaways": "Zotengera Zomangamanga Zofunikira",
+    "relatedServices": "Mphamvu Zofananira & Ntchito",
+    "minRead": "mphindi kuwerenga",
+    "item1Date": "Jul 2026",
+    "item1Tag": "Zogulitsa & ERP",
+    "item1Title": "Njira yokhazikika ya ERP yamabizinesi omwe akukulirakulira",
+    "item1Text": "Momwe timapangira ma ERP kuti ndalama, zosungira, HR ndi zogula zigwirizane popanda kusokoneza kwa zaka zambiri.",
+    "item2Date": "Jun 2026",
+    "item2Tag": "Nzeru zochita kupanga",
+    "item2Title": "Machitidwe a Agetic AI: kusuntha kuchoka ku ma chatbots kupita kukudziphatika",
+    "item2Text": "Zomangamanga zogwirizanitsa makina a LLM ambiri omwe amakonzekera, kutsimikizira, ndikuchita ntchito zovuta zamalonda ndi kuyang'anira anthu.",
+    "item3Date": "Meyi 2026",
+    "item3Tag": "Kampani Milestone",
+    "item3Title": "Amadziwika pakati pa masitudiyo otsogola a IT ku Hyderabad",
+    "item3Text": "Situdiyo yathu ya uinjiniya ndiyodziwikiratu chifukwa chaukadaulo wopereka, luso lakuya laukadaulo, komanso kukhutitsidwa kwamakasitomala padziko lonse lapansi.",
+    "desc": "Onani malingaliro ndi malingaliro kuchokera ku Rezonants pakusintha kwa digito, AI, automation, mtambo, data, mapulogalamu, ndi tsogolo laukadaulo wamabizinesi.",
+    "categories": {
+      "digitalTransformation": "Kusintha kwa digito",
+      "ai": "AI & Automation",
+      "cloud": "Mtambo",
+      "data": "Data & Analytics",
+      "software": "Mapulogalamu",
+      "business": "Business & Technology"
+    }
+  },
+  "technologies": {
+    "title": "Technologies & Architecture",
+    "headline": "Enterprise Technology Solutions",
+    "sub": "Zaukadaulo Zanzeru. Zochita Zokha. Bizinesi Yanzeru.",
+    "selectTechnology": "Sankhani njira yaukadaulo…",
+    "options": {
+      "aiRobotics": "AI & Robotic Solutions",
+      "businessAutomation": "Business Automation Solutions",
+      "cloudMigrations": "Cloud Migration Solutions",
+      "dataCenters": "Data Center Solutions",
+      "cognitiveAnalytics": "Cognitive Analytics & AI",
+      "informationReporting": "Information & Reporting Systems",
+      "managedServices": "Ntchito Zoyendetsedwa",
+      "oneStopSolutions": "One-Stop Technology Solutions"
+    },
+    "explore": "Onani Zaukadaulo",
+    "bookDiscovery": "Buku la Technology Discovery",
+    "exploreAll": "Onani Matekinoloje Onse",
+    "coreCapabilities": "Mphamvu Zamakono Zamakono",
+    "bookConsultation": "Bweretsani Kukambirana"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Lankhulani ndi injiniya wamkulu, osati zolemba zogulitsa",
+    "sub": "Gawani pang'ono za polojekiti yanu ndipo tikuyankhani mkati mwa tsiku limodzi lantchito.",
+    "reachUs": "Tifikireni mwachindunji",
+    "preferConversation": "Mumakonda kucheza? Ndife kuyitana kumodzi.",
+    "contactLede": "Njira yofulumira kwambiri yopitira patsogolo ndi kukambirana mwachidule. Tifikireni pa njira iliyonse pansipa, kapena sungani malo ndipo tibwera kwa inu okonzeka.",
+    "phone": "Foni",
+    "email": "Imelo",
+    "office": "Ofesi",
+    "hours": "Maola",
+    "hoursValue": "Lolemba - Loweruka, 9:30 - 18:30 IST",
+    "bookSlot": "Sungani malo ochezera",
+    "sendMessage": "Titumizireni uthenga",
+    "fieldsRequired": "Minda yolembedwa ndi * ndiyofunika.",
+    "fullName": "Dzina Lathunthu *",
+    "emailLabel": "Imelo *",
+    "company": "Kampani",
+    "subject": "Mutu",
+    "messageLabel": "Uthenga *",
+    "sending": "Kutumiza…",
+    "sendBtn": "Tumizani uthenga",
+    "successMsg": "Uthenga watumizidwa! Tsamba latumizidwa kwa inu.",
+    "errorMsg": "Sindinathe kusunga uthenga wanu. Onani ngati tebulo la contact_messages lilipo, kenako yesaninso.",
+    "offices": {
+      "vijayawada": "Vijayawada Office",
+      "southAfrica": "Ofesi yaku South Africa"
+    },
+    "placeholders": {
+      "fullName": "Dzina lanu lonse",
+      "email": "inu@company.com",
+      "company": "Kampani kapena bungwe lanu",
+      "subject": "Tingathandize bwanji?",
+      "message": "Tiuzeni za ntchito yanu, nthawi, ndi zolinga zanu..."
+    },
+    "validation": {
+      "fullNameRequired": "Chonde lembani dzina lanu lonse.",
+      "emailRequired": "Chonde lowetsani imelo adilesi yanu.",
+      "emailInvalid": "Chonde lowetsani imelo adilesi yolondola.",
+      "messageRequired": "Chonde lowetsani uthenga."
+    }
+  },
+  "services": {
+    "eyebrow": "Ntchito",
+    "title": "Zomwe timachita",
+    "sub": "Kuchokera ku njira zoyendetsera ntchito, timapereka mgwirizano waumisiri womaliza mpaka kumapeto kwa makampani omwe amapikisana pakuphedwa.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Kuyamba Kutumiza",
+        "description": "Kutha-kutha-kumapeto kwa mayankho atsopano a digito kuchokera ku zofunikira zamabizinesi ndi mamangidwe a mayankho kudzera mu chitukuko, kuphatikiza, kuyesa, kutumiza, ndi chithandizo chopitilira."
+      },
+      "businessProcessAutomation": {
+        "label": "Business Process Automation",
+        "description": "Kupanga ndi kukhazikitsa njira zothetsera ma automation anzeru zomwe zimathandizira mabizinesi, kuthetsa zochita mobwerezabwereza, kukonza magwiridwe antchito, ndikufulumizitsa zotulukapo zamabizinesi."
+      },
+      "centerOfExcellence": {
+        "label": "Center of Excellence",
+        "description": "Kukhazikitsidwa kwa malo apadera aukadaulo ndi luso labizinesi omwe amapereka utsogoleri, miyezo, ukatswiri, zomanga, katundu wogwiritsidwanso ntchito, ndikusintha kosalekeza ku bungwe lonse."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Kupanga Mwamakonda & Kusintha Mwamakonda",
+        "description": "Kupititsa patsogolo ndi kupititsa patsogolo mapulogalamu, mapulaneti, kayendetsedwe ka ntchito, ndi njira zamabizinesi kuti athe kuthana ndi zofunikira zapadera zamabizinesi ndikupereka magwiridwe antchito oyenera."
+      },
+      "digitalTransformation": {
+        "label": "Kusintha kwa digito",
+        "description": "Kupititsa patsogolo kachitidwe ka bizinesi, kachitidwe kaukadaulo, komanso zokumana nazo zamakasitomala kudzera mumtambo, AI, automation, data, ndi matekinoloje amakono ogwiritsira ntchito."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Njira Yothetsera Mapeto-pamapeto",
+        "description": "Njira yobweretsera yokwanira yokhudzana ndi moyo waukadaulo wathunthu-kuchokera pamalingaliro, zofunikira, ndi zomangamanga mpaka chitukuko, kuphatikiza, kutumiza, kulamulira, kuyang'anira, ndi chithandizo."
+      },
+      "migrationModernization": {
+        "label": "Kusamuka & Zamakono",
+        "description": "Kusamuka kotetezedwa ndi koyenera kwa mapulogalamu, deta, nsanja, zomangamanga, ndi zolemetsa zogwirira ntchito kuchokera kuzinthu zakale kapena malo omwe alipo kale kupita ku nsanja zamakono, zowonjezedwa, komanso zokongoletsedwa."
+      },
+      "pocPilotImplementation": {
+        "label": "Umboni wa Concept (PoC) & Pilot Implementation",
+        "description": "Chitukuko chofulumira ndi kutsimikizika kwa mayankho aukadaulo kuti awone kuthekera kwaukadaulo, mtengo wabizinesi, zofunikira zophatikizira, magwiridwe antchito, ndi scalability musanayambe kukhazikitsidwa kwathunthu."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Ntchito Zogawana & Ntchito Zoyendetsedwa",
+        "description": "Kupereka kwapakati kwaukadaulo ndi kuthekera kogwirira ntchito m'magawo onse abizinesi kudzera munjira zofananira, zida zaluso, maulamuliro, kasamalidwe ka ntchito, ndi milingo yoyezera ntchito."
+      },
+      "customDevelopment": {
+        "label": "Kuyamba Kutumiza",
+        "description": "Kutha-kutha-kumapeto kwa zothetsera zatsopano za digito kuchokera ku zofunikira zabizinesi ndi mamangidwe a mayankho kudzera mu chitukuko, kuphatikiza, kuyesa, kutumiza, ndi kuthandizira kosalekeza."
+      },
+      "processAutomation": {
+        "label": "Business Process Automation",
+        "description": "Kupanga ndi kukhazikitsa njira zothetsera ma automation anzeru zomwe zimathandizira mabizinesi, kuthetsa zochita mobwerezabwereza, kukonza magwiridwe antchito, ndikufulumizitsa zotulukapo zamabizinesi."
+      },
+      "solutionEngineering": {
+        "label": "Kupanga Mwamakonda & Kusintha Mwamakonda",
+        "description": "Kupititsa patsogolo ndi kupititsa patsogolo ntchito, nsanja, kayendetsedwe ka ntchito, ndi zothetsera mabizinesi kuti akwaniritse zofunikira zapadera zamabizinesi ndikupereka magwiridwe antchito oyenera."
+      },
+      "endToEndSolutions": {
+        "label": "Njira Yothetsera Mapeto ndi Mapeto",
+        "description": "Njira yobweretsera yokwanira yokhudzana ndi moyo waukadaulo wathunthu-kuchokera pamalingaliro, zofunikira, ndi zomangamanga mpaka chitukuko, kuphatikiza, kutumiza, kulamulira, kuyang'anira, ndi chithandizo."
+      },
+      "migrationServices": {
+        "label": "Kusamuka & Zamakono",
+        "description": "Kusamuka kotetezedwa ndi koyenera kwa mapulogalamu, deta, nsanja, zomangamanga, ndi zolemetsa zogwirira ntchito kuchokera kuzinthu zakale kapena malo omwe alipo kale kupita ku nsanja zamakono, zowopsa, komanso zokongoletsedwa."
+      },
+      "pilotPrototyping": {
+        "label": "Umboni wa Concept (PoC) & Pilot Implementation",
+        "description": "Chitukuko chofulumira ndi kutsimikizika kwa mayankho aukadaulo kuti awone kuthekera kwaukadaulo, mtengo wabizinesi, zofunikira zophatikizira, magwiridwe antchito, ndi scalability musanayambe kukhazikitsidwa kwathunthu."
+      },
+      "sharedServices": {
+        "label": "Ntchito Zogawana & Ntchito Zoyendetsedwa",
+        "description": "Kupereka kwapakati kwaukadaulo ndi kuthekera kogwirira ntchito m'magawo onse abizinesi kudzera munjira zofananira, zida zaluso, machitidwe olamulira, kasamalidwe ka ntchito, ndi milingo yoyezera ntchito."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Konzani Zokambirana",
+      "exploreFramework": "Onani Njira Yayankho",
+      "talkSeniorEngineer": "Lankhulani ndi Engineer wamkulu",
+      "exploreTechStack": "Onani Technology Stack",
+      "bookPocSession": "Sungani PoC Discovery Session",
+      "seeAllServices": "Onani Ntchito Zonse",
+      "requestAssessment": "Pemphani Kuyesa Kusamuka",
+      "exploreCloudSolutions": "Onani Cloud Solutions"
+    },
+    "sharedServices": {
+      "heroBadge": "NTCHITO ZOGAWANA NDI NTCHITO ZONSE",
+      "heroTitle": "Ntchito Zogawana Mabizinesi & Ntchito Zoyendetsedwa",
+      "heroDesc": "Kuthekera kwamabizinesi, kuwongolera magwiridwe antchito, ndikukwaniritsa magwiridwe antchito kudzera mumitundu yokhazikika, yotetezeka, komanso yotsika mtengo yogawana nawo.",
+      "bookDiscovery": "Kupezeka kwa Ntchito Zoyendetsedwa ndi Mabuku",
+      "exploreFramework": "Onani Njira Yayankho",
+      "coreCapabilities": "Zofunika Kwambiri:",
+      "managedServices": "Ntchito Zoyendetsedwa",
+      "itOperations": "Ntchito za IT",
+      "appSupport": "Thandizo la Ntchito",
+      "serviceManagement": "Utumiki Wothandizira",
+      "resourceOptimization": "Kukhathamiritsa Kwazinthu",
+      "slaManagement": "SLA Management",
+      "governance": "Ulamuliro",
+      "continuousImprovement": "Kupititsa patsogolo Kupititsa patsogolo",
+      "costOptimization": "Kukhathamiritsa Mtengo",
+      "readyTitle": "Mwakonzeka Kuwonjeza Ntchito Zanu?",
+      "readyDesc": "Dziwani momwe Ntchito Zathu Zogawana & Zoyang'anira Ntchito zingathandizire kuti ntchito zanu ziziyenda bwino, kuwonetsetsa kuti ntchito zikuyenda bwino, ndikupangitsa kuti bizinesi yanu ikhale yotsika mtengo.",
+      "scheduleSession": "Konzani Gawo Lopeza"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SOLUTION ENGINEERING & ARCHITECTURE",
+      "heroTitle": "Kukula Mwamakonda & Kusintha Mwamakonda Anu",
+      "heroDesc": "Wopanga mapulani, mainjiniya, ndikugwiritsa ntchito mapulogalamu apamwamba kwambiri omwe amapangidwa makamaka kuti azigwira ntchito, mapaipi a data, ndi masikelo."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "KUPANGA KWAMBIRI NDIKUYESA",
+      "heroTitle": "Umboni wa Concept (PoC) & Pilot Implementation",
+      "heroDesc": "Tsimikizirani matekinoloje omwe akubwera, zomanga zochotsa pachiwopsezo, ndikutsimikizira phindu labizinesi ndi ma prototypes opangidwa m'masabata, osati kotala."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "KANJIRA WA MOYO NDI KUTUMIKIRA",
+      "heroTitle": "Njira Yothetsera Mapeto ndi Mapeto",
+      "heroDesc": "Mtundu wolumikizana wotumizira wolumikiza kutulukira kwa zinthu, kamangidwe ka mayankho, uinjiniya, zomangamanga zamtambo, ndi magwiridwe antchito odalirika a 24/7."
+    },
+    "migrationServices": {
+      "heroBadge": "ZINTHU ZOPHUNZITSIRA NDI ZOCHITIKA ZONSE",
+      "heroTitle": "Kusamuka & Zamakono",
+      "heroDesc": "Sinthani mosadukiza zolemetsa zolowa, zomanga za monolithic, ndi zomangamanga zapamalo kupita kumapulatifomu amakono, otetezeka, komanso owopsa."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Enterprise Modernization",
+        "titlePart1": "Za digito",
+        "titlePart2": "Kusintha",
+        "description": "Kupititsa patsogolo kachitidwe ka bizinesi, kachitidwe kaukadaulo, komanso zokumana nazo zamakasitomala kudzera mumtambo, AI, automation, data, ndi matekinoloje amakono ogwiritsira ntchito.",
+        "bookWorkshop": "Msonkhano Wosintha Mabuku",
+        "exploreFramework": "Onani Njira Yayankho",
+        "startTransformation": "Yambani Kusintha",
+        "exploreStrategy": "Onani Njira",
+        "coreCapabilitiesTitle": "Zofunika Kwambiri",
+        "coreCapabilities": [
+          "Digital Strategy",
+          "Kusintha Kwamtambo",
+          "AI & Automation",
+          "Kugwiritsa Ntchito Masiku Ano",
+          "Legacy Modernization",
+          "Data & Analytics",
+          "Zochitika Makasitomala",
+          "Technology Modernization"
+        ],
+        "row1Eyebrow": "Strategy & Roadmap",
+        "row1Title": "Kuchokera Masomphenya kupita ku Mapu Ogwirika",
+        "row1P1": "Timathandizana ndi atsogoleri amabizinesi kuti tifotokozere njira za digito, nkhani zamabizinesi, ndi misewu yapang'onopang'ono ndikupambana mwachangu komanso kuphedwa kopanda chiopsezo.",
+        "row1P2": "Zochita zotsogola, zitsanzo za TCO, ndi ma KPIs zimawonetsetsa kuti ukadaulo wamakono uliwonse umagwirizana mwachindunji ndi ndalama, zogwira mtima, komanso zokhutiritsa makasitomala.",
+        "row2Eyebrow": "Legacy Modernization",
+        "row2Title": "Sinthani Bwino Popanda Kuswa Bizinesi",
+        "row2P1": "Bwezeraninso nsanja za monoliths ku ma microservices, ma API, ndi machitidwe amtundu wamtambo okhala ndi zero-downtime cutovers ndi kutsimikizika kokhazikika.",
+        "row2P2": "Timasintha mapulogalamu, nkhokwe, ndi magawo ophatikizira pomwe tikusunga kutsata ndi chitetezo.",
+        "row3Eyebrow": "Cloud, AI & Data",
+        "row3Title": "Cloud Adoption & Data-Driven Intelligence",
+        "row3P1": "Adopt AWS, Azure, ndi GCP, pangani mapaipi amakono a data, ndikuyika othandizira ophunzirira makina kuti aziyendetsa zisankho zodziyimira pawokha.",
+        "row3P2": "Kuchokera pa zochitika zenizeni zenizeni kupita ku ma dashboard ogwirizana, kusintha kumakhala koyezeka komanso kokhazikika.",
+        "row4Eyebrow": "Zochitikira Makasitomala",
+        "row4Title": "Zochitika Zamakono za Omnichannel",
+        "row4P1": "Konzaninso maulendo amakasitomala pa intaneti yomvera, iOS, Android, ndi ma portal odzichitira okha okhala ndi makonda anu.",
+        "row4P2": "Uinjiniya wa mapulaneti, telemetry, ndi ma loops ongodzipangira okha zimapangitsa luso la digito kupitilirabe.",
+        "pillarsTitle": "Zipilala Zosintha",
+        "pillarsSub": "Zowongolera zomwe zimayang'ana pazotsatira zomwe zimatsimikizira utsogoleri wokhazikika wa digito.",
+        "pillar1Title": "Digital Strategy & Governance",
+        "pillar1Desc": "Zosintha zosintha pang'onopang'ono zokhala ndi zitsanzo zamabizinesi, kuwongolera kamangidwe, komanso kutsata ziwopsezo zazikulu.",
+        "pillar2Title": "Cloud & Data Platform",
+        "pillar2Desc": "AWS/Azure/GCP maziko a mitambo yambiri, mapaipi odzipangira okha, ndikuthandizira kusanthula deta yamabizinesi.",
+        "pillar3Title": "AI & Automation",
+        "pillar3Desc": "Njira zodzipangira mwanzeru, othandizira ozindikira a AI, ndi telemetry yolosera kuti mukwaniritse ntchito za tsiku ndi tsiku.",
+        "pillar4Title": "Zochitika Makasitomala",
+        "pillar4Desc": "Zipata za digito za omnichannel zapamwamba komanso zolumikizira makonda zomwe zimapangidwira kuti azisunga ogwiritsa ntchito kwambiri.",
+        "ctaTitle": "Mwakonzeka Kusintha Bizinesi Yanu?",
+        "ctaSub": "Gwirizanani ndi Rezonants pakusintha kwa digito kwapang'onopang'ono, kopanda chiopsezo chogwirizana ndi zotulukapo zamabizinesi.",
+        "ctaButton": "Sungitsani kuyimba kwa Digital Transformation"
+      },
+      "customDevelopment": {
+        "eyebrow": "Mapeto-pa-Mapeto Zomangamanga Za digito",
+        "titlePart1": "Chiyambi Kuti",
+        "titlePart2": "Kutumiza",
+        "bookConsultation": "Bweretsani Kukambirana",
+        "exploreEngineering": "Onani Njira Zothetsera Mavuto"
+      },
+      "processAutomation": {
+        "eyebrow": "Zochita Zanzeru",
+        "titlePart1": "Business Process",
+        "titlePart2": "Zodzichitira zokha",
+        "bookDiscovery": "Book Automation Discovery",
+        "exploreCoE": "Onani Center of Excellence"
+      },
+      "centreOfExcellence": {
+        "badge": "Malingaliro a kampani REZONANTS COE",
+        "titlePart1": "Pakati pa",
+        "titlePart2": "Zabwino kwambiri",
+        "bookConsultation": "Book CoE Consultation",
+        "exploreCapabilities": "Onani Zokhoza"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Complete Technology Lifecycle",
+        "titlePart1": "Mapeto mpaka Mapeto",
+        "titlePart2": "Solution Framework",
+        "startJourney": "Yambitsani Ulendo Wanu Wamoyo",
+        "exploreTransformation": "Onani Kusintha"
+      },
+      "migrationServices": {
+        "eyebrow": "Kusintha kwa Cloud & Infrastructure",
+        "titlePart1": "Kusamuka &",
+        "titlePart2": "Zamakono",
+        "planMigration": "Konzekerani Kusamuka Kwanu",
+        "exploreTransformation": "Onani Kusintha"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Kutsimikizika Kwachangu & Kutheka",
+        "titlePart1": "Umboni wa Lingaliro (PoC) &",
+        "titlePart2": "Kukwaniritsa Koyendetsa",
+        "initiateDiscovery": "Yambitsani PoC Kupeza",
+        "exploreDevelopment": "Onani Zachitukuko Cha Mwambo"
+      },
+      "solutionEngineering": {
+        "badge": "Tailored Digital Engineering",
+        "bookConsultation": "Bweretsani Kukambirana",
+        "exploreCapabilities": "Onani Zotha"
+      },
+      "sharedServices": {
+        "eyebrow": "Centralized Operations Hub",
+        "titlePart1": "Ntchito Zogawana &",
+        "titlePart2": "Ntchito Zoyendetsedwa",
+        "bookDiscovery": "Kupezeka kwa Ntchito Zoyendetsedwa ndi Mabuku",
+        "exploreFramework": "Onani Njira Yayankho"
+      }
+    },
+    "coreCapabilities": "Zofunika Kwambiri"
+  },
+  "products": {
+    "featured": "Zamgululi",
+    "featuredSub": "Kufewetsa magwiridwe antchito, kulumikiza magulu, kusintha njira, ndikuwongolera kukula kwabizinesi mwanzeru.",
+    "seeAll": "Onani Zogulitsa Zonse",
+    "featuredProducts": "ZINTHU ZONSE",
+    "meetAutonomous": "Kumanani ndi Ogwira Ntchito Odziyimira Pawokha",
+    "meetAutonomousText": "Sinthani magwiridwe antchito anu ndi othandizira a AI omwe amagwira ntchito limodzi ndi gulu lanu kuti agwire ntchito zovuta, zobwerezabwereza.",
+    "learnMore": "Dziwani Zambiri",
+    "erp": {
+      "title": "Pulatifomu Imodzi Yokonzekera Chilichonse",
+      "sub": "Kupatsa mphamvu mabizinesi okhala ndi mayankho olumikizana, anzeru, komanso owopsa.",
+      "explore": "Onani Mayankho a ERP",
+      "gridTitle": "ZOTHANDIZA ZA ERP",
+      "promoTitle": "Modular ERP for Growth",
+      "promoText": "Gwiritsani ntchito mawonekedwe a ERP modula mwachangu popanda zovuta zamachitidwe azaka zambiri.",
+      "scheduleDemo": "Konzani Chiwonetsero"
+    },
+    "it": {
+      "title": "IT Solutions",
+      "sub": "Zomangamanga zamabizinesi, chitetezo, ndi mayankho a DevOps kuti bizinesi yanu iziyenda.",
+      "explore": "Onani Mayankho a IT",
+      "gridTitle": "ZOTHANDIZA ZOTHANDIZA",
+      "promoTitle": "Zodalirika za IT Infrastructure",
+      "promoText": "Pangani maziko olimba aukadaulo okhala ndi mtambo woyendetsedwa, chitetezo, ndi ntchito za DevOps.",
+      "getStarted": "Yambani"
+    },
+    "crm": {
+      "title": "Mayankho a CRM",
+      "sub": "Kuwongolera ubale wamakasitomala kuti muchepetse malonda, kuthandizira, ndi kutsatsa kwantchito.",
+      "explore": "Onani Mayankho a CRM",
+      "gridTitle": "ZOTHANDIZA ZA CRM",
+      "promoTitle": "Tsekani Zotsatsa Zambiri",
+      "promoText": "Limbikitsani magulu anu ogulitsa ndi othandizira omwe ali ndi data yamakasitomala ogwirizana komanso makina anzeru.",
+      "startTrial": "Yambitsani Mayesero Aulere"
+    },
+    "hrms": {
+      "title": "Mayankho a HRMS",
+      "sub": "Kasamalidwe ka anthu okhudza malipiro, kulembera anthu ntchito, kagwiridwe ka ntchito, ndi kutengapo mbali kwa antchito.",
+      "explore": "Onani Mayankho a HRMS",
+      "gridTitle": "ZOTHANDIZA ZA HRMS",
+      "promoTitle": "Salirani Ntchito za HR",
+      "promoText": "Automate HR workflows from recrument to retire with a modern, work-first platforms.",
+      "requestDemo": "Pemphani Chiwonetsero"
+    },
+    "sidebar": {
+      "featuredProducts": "Zamgululi",
+      "erpSolutions": "Mayankho a ERP",
+      "solutions": "ZOTHANDIZA"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Othandizira anzeru odziyimira pawokha ndi zida zomwe zimasinthira mayendedwe ovuta komanso ntchito zamakasitomala."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Multi-cloud management platform kukhathamiritsa ntchito, chitetezo, kutsata, ndi ndalama."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Mgwirizano wa Hybrid ndi zokolola zokhala ndi ntchito yophatikizika, macheza, ndi kasamalidwe ka zolemba."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Injini yowunikira zenizeni zenizeni ikusintha mitsinje yamabizinesi kukhala chidziwitso chotheka."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Core",
+        "description": "Zomangamanga zolumikizana zamabizinesi zolumikiza zachuma, katundu, HR, kugula zinthu, ndi zosungira."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "pulatifomu ya ogwira ntchito yomwe imakhudza malipiro, mapindu, kuwunika kwa magwiridwe antchito, komanso kudzithandizira."
+      },
+      "supplyChainIq": {
+        "title": "Mtengo wa magawo SupplyChain IQ",
+        "description": "Kutsata kwanthawi yeniyeni, magwiridwe antchito anyumba yosungiramo zinthu, komanso kulosera zamtsogolo."
+      },
+      "financeHub": {
+        "title": "Finance Hub",
+        "description": "Kasamalidwe kabwino ka ma ledger, kayendetsedwe ka ndalama zolipirira, kutsata pawokha, komanso malipoti a nthawi yeniyeni ya cashflow."
+      },
+      "cloudInfrastructure": {
+        "title": "Cloud Infrastructure",
+        "description": "Zomangamanga zamtambo zowopsa, kusamuka, ndi kasamalidwe ku AWS, Azure, ndi GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Kuwunika komaliza mpaka kumapeto kwa chitetezo, kuzindikira ziwopsezo, ndikuwongolera kutsatira."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD automation, containerization, and infrastructure-as-code kuti atumize mwachangu."
+      },
+      "managedItServices": {
+        "title": "Ntchito zoyendetsedwa ndi IT",
+        "description": "24/7 kuwunika kwa zomangamanga, kuyankha zochitika, ndi kukonza mwachangu."
+      },
+      "salesCrm": {
+        "title": "Zogulitsa CRM",
+        "description": "Kasamalidwe ka mapaipi, zigoli zotsogola, kutsata malonda, ndi kulosera zamalonda papulatifomu imodzi."
+      },
+      "customerSupportHub": {
+        "title": "Customer Support Hub",
+        "description": "Matikiti, maziko a chidziwitso, macheza amoyo, ndi kasamalidwe ka chithandizo cha omnichannel."
+      },
+      "marketingAutomation": {
+        "title": "Marketing Automation",
+        "description": "Kampeni ya orchestration, maimelo automation, kuledzera kutsogolera, ndi analytics."
+      },
+      "customer360View": {
+        "title": "Makasitomala 360 View",
+        "description": "Mbiri zamakasitomala ogwirizana kuphatikiza malonda, chithandizo, ndi data yolumikizana."
+      },
+      "coreHr": {
+        "title": "HR",
+        "description": "Zolemba za ogwira ntchito, utsogoleri wamagulu, kasamalidwe ka tchuthi, ndi kutsata opezekapo."
+      },
+      "payrollCompliance": {
+        "title": "Malipiro & Kutsatira",
+        "description": "Kukonza zolipira zokha, kuwerengera msonkho, ndi kutsata malamulo."
+      },
+      "performanceManagement": {
+        "title": "Kasamalidwe Kachitidwe",
+        "description": "Kutsata kwa OKR, kuwunika kwa 360°, kukhazikitsa zolinga, ndi mapulani opititsa patsogolo antchito."
+      },
+      "recruitmentPortal": {
+        "title": "Recruitment Portal",
+        "description": "Zolemba ntchito, kutsata ofunsira, ndandanda yofunsa mafunso, ndi mayendedwe oyambira."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Zamgululi",
+        "heading": "Zamgululi",
+        "sub": "Kufewetsa magwiridwe antchito, kulumikiza magulu, kusintha njira, ndikuwongolera kukula kwabizinesi mwanzeru.",
+        "promoTitle": "Kumanani ndi Ogwira Ntchito Odziyimira Pawokha",
+        "promoText": "Sinthani magwiridwe antchito anu ndi othandizira a AI omwe amagwira ntchito limodzi ndi gulu lanu kuti agwire ntchito zovuta, zobwerezabwereza.",
+        "items": [
+          {
+            "title": "AI Automation & Intelligent Agents",
+            "description": "Sinthani ntchito zobwerezabwereza ndikuyika othandizira anzeru a AI omwe amapititsa patsogolo zokolola, kupanga zisankho, ndi zotsatira zabizinesi."
+          },
+          {
+            "title": "IT Service & Digital Support",
+            "description": "Kupereka chithandizo chachangu cha IT chachangu, chanzeru ndi kasamalidwe kautumiki kowongolera, makina opangira okha, ndi kayendedwe ka digito."
+          },
+          {
+            "title": "Enterprise AI Governance",
+            "description": "Pangani kutengera kwa AI moyenera ndi ulamuliro wamphamvu, chitetezo, kutsata, kuwonekera, komanso kuwongolera zoopsa."
+          },
+          {
+            "title": "Ntchito Zanzeru za IT",
+            "description": "Sinthani machitidwe a IT ndi kuyang'anira koyendetsedwa ndi AI, makina, zidziwitso zolosera, ndi kuthetsa nkhani mwachangu."
+          },
+          {
+            "title": "Kuwongolera Kwamakasitomala",
+            "description": "Pangani maulendo amakasitomala omwe ali ndi chidwi chochita zinthu mwanzeru, zongochitika zokha, zowerengera, komanso zokumana nazo za digito."
+          },
+          {
+            "title": "Business Strategy & Portfolio Optimization",
+            "description": "Gwirizanitsani mabizinesi aukadaulo ndi zolinga zamabizinesi kuti mukwaniritse bwino ntchito, kuwongolera magwiridwe antchito, ndikuyendetsa kukula kosatha."
+          },
+          {
+            "title": "IT Asset & Technology Lifecycle",
+            "description": "Yang'anirani katundu wa IT pa nthawi yonse ya moyo wawo ndikuwoneka bwino, makina odzipangira okha, kuwongolera mtengo, komanso kukonza ukadaulo."
+          },
+          {
+            "title": "Zowopsa za Bizinesi & Kutsata",
+            "description": "Dziwani, fufuzani, ndikuwongolera zoopsa zamabizinesi ndikulimbitsa kutsata, kuwongolera, ndi kulimba mtima kwa bungwe."
+          },
+          {
+            "title": "Cybersecurity & Threat Operations",
+            "description": "Tetezani madera a digito ndi kuzindikira koopsa, ntchito zachitetezo, kuyankha kwa zochitika, ndi kuyang'anitsitsa mosalekeza."
+          },
+          {
+            "title": "Ntchito Yogwira Ntchito Kumunda",
+            "description": "Limbikitsani magulu am'munda omwe ali ndi ndondomeko yanzeru, kayendedwe ka mafoni, makina, ndi mawonekedwe a nthawi yeniyeni."
+          },
+          {
+            "title": "Zomwe Ogwira Ntchito & Ntchito za HR",
+            "description": "Salirani ntchito za ogwira ntchito ndi kayendedwe ka digito, njira zodzithandizira, zodzipangira nokha, komanso zokumana nazo zamunthu payekha."
+          },
+          {
+            "title": "Malo Ogwirira Ntchito Ogwirizana a Digital",
+            "description": "Lumikizani anthu, njira, ntchito, ndi zida zothandizirana kudzera pa malo ogwirira ntchito a digito otetezeka, anzeru, komanso opanda msoko."
+          }
+        ]
+      },
+      "erp": {
+        "title": "Mayankho a ERP",
+        "heading": "Pulatifomu Imodzi, Yokonzekera Chilichonse",
+        "sub": "Kupatsa mphamvu mabizinesi okhala ndi mayankho olumikizana, anzeru, komanso owopsa.",
+        "promoTitle": "Modular ERP for Growth",
+        "promoText": "Tumizani mawonekedwe a ERP modula mwachangu popanda zovuta zamachitidwe azaka zambiri.",
+        "items": [
+          {
+            "title": "Business Process Automation",
+            "description": "Sungani ndalama, HR, malonda, kugula zinthu, ndi ntchito za tsiku ndi tsiku."
+          },
+          {
+            "title": "Integrated Business Management",
+            "description": "Lumikizani madipatimenti, deta, ndi kayendedwe ka ntchito pa nsanja yogwirizana."
+          },
+          {
+            "title": "Finance & Accounting",
+            "description": "Sinthani maonekedwe a zachuma, malipoti, bajeti, ndi kutsata."
+          },
+          {
+            "title": "HR & Payroll",
+            "description": "Kuchepetsa kasamalidwe ka antchito, kupezeka, malipiro, ndi njira za HR."
+          },
+          {
+            "title": "Kayang'aniridwe kazogulula",
+            "description": "Konzani zogula, zosungira, mavenda, ndi mayendedwe."
+          },
+          {
+            "title": "Zogulitsa & Kuwongolera Makasitomala",
+            "description": "Sinthani kutsogolera, makasitomala, maoda, ndi magwiridwe antchito bwino."
+          },
+          {
+            "title": "Real-Time Analytics & Reporting",
+            "description": "Sinthani zambiri zamabizinesi kukhala zidziwitso zotheka kuti musankhe mwachangu."
+          },
+          {
+            "title": "Cloud ERP Solutions",
+            "description": "Yambitsani kuyang'anira mabizinesi otetezeka, owopsa, komanso opezeka kulikonse."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT Solutions",
+        "heading": "Mayankho athu a IT",
+        "sub": "Sinthani magwiridwe antchito a IT ndi njira zanzeru, zotsogola, komanso zowopsa zomwe zimapititsa patsogolo magwiridwe antchito, zokolola, ndi kupitiliza kwa bizinesi.",
+        "promoTitle": "Zodalirika za IT Infrastructure",
+        "promoText": "Pangani maziko olimba aukadaulo okhala ndi mtambo woyendetsedwa, chitetezo, ndi ntchito za DevOps.",
+        "items": [
+          {
+            "title": "IT Service Management",
+            "description": "Sakanizani mautumiki a IT, zochitika, zopempha, ndi kayendedwe ka ntchito kuti muthetse msanga."
+          },
+          {
+            "title": "IT Operations Management",
+            "description": "Yang'anirani zomangamanga ndi mapulogalamu ndi ntchito za IT zoyendetsedwa ndi data."
+          },
+          {
+            "title": "IT Asset Management",
+            "description": "Yang'anirani chuma chaukadaulo moyenera ndikuchepetsa mtengo, zoopsa, ndi zovuta za moyo."
+          },
+          {
+            "title": "Enterprise Architecture",
+            "description": "Gwirizanitsani njira zamabizinesi ndi kamangidwe koyenera kaukadaulo ndi ndalama."
+          },
+          {
+            "title": "Ulamuliro Wamtambo",
+            "description": "Kupititsa patsogolo chitetezo cha mtambo, kutsata, ntchito, ndi kayendetsedwe ka ndalama."
+          },
+          {
+            "title": "Ntchito Zapa digito",
+            "description": "Sinthani njira za IT ndikupeza mawonekedwe enieni munthawi yonse yaukadaulo wanu."
+          },
+          {
+            "title": "Kuwonetsetsa & Kuwunika",
+            "description": "Zindikirani zovuta zogwirira ntchito mwachangu ndikusunga zokumana nazo zodalirika zama digito."
+          },
+          {
+            "title": "Strategic Portfolio Management",
+            "description": "Lumikizani mabizinesi a IT ndi zinthu zofunika kwambiri pabizinesi ndi zotulukapo zoyezeka."
+          }
+        ]
+      },
+      "crm": {
+        "title": "Mayankho a CRM",
+        "heading": "Mayankho athu a CRM",
+        "sub": "Perekani zokumana nazo zamakasitomala zolumikizidwa, makonda anu, komanso zanzeru paulendo wonse wamakasitomala.",
+        "promoTitle": "Tsekani Zotsatsa Zambiri",
+        "promoText": "Limbikitsani magulu anu ogulitsa ndi othandizira omwe ali ndi data yolumikizana yamakasitomala komanso makina anzeru.",
+        "items": [
+          {
+            "title": "Utumiki Wothandizira Makasitomala",
+            "description": "Limbikitsani chithandizo chamakasitomala ndikusintha mwachangu, kudzipangira nokha, komanso kuyenda mwanzeru."
+          },
+          {
+            "title": "Zochita Zogulitsa",
+            "description": "Sinthani zochita zogulitsa zokha, wongolerani otsogolera, ndikuthandizira magulu kutseka mwayi mwachangu."
+          },
+          {
+            "title": "Zogulitsa & Kuwongolera Madongosolo",
+            "description": "Yang'anirani ulendo kuchokera ku chiwongolero kupita ku dongosolo ndikusintha mawonekedwe a ndalama."
+          },
+          {
+            "title": "Kasamalidwe ka Utumiki Wakumunda",
+            "description": "Konzani magwiridwe antchito am'munda, kukonza, kutumiza, ndi luso laukadaulo."
+          },
+          {
+            "title": "Kuwongolera Kwamakasitomala",
+            "description": "Pangani zokumana nazo zopanda msoko komanso makonda pa kasitomala aliyense."
+          },
+          {
+            "title": "CRM Analytics & Insights",
+            "description": "Sinthani zambiri zamakasitomala kukhala zidziwitso zotheka kuti musankhe mwanzeru bizinesi."
+          },
+          {
+            "title": "Marketing Automation",
+            "description": "Ingogwiritsani ntchito makampeni, kuchitapo kanthu kwamakasitomala, ndi kulera otsogolera."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Gwiritsani ntchito zidziwitso zanzeru ndi AI kuti muwongolere zokolola komanso kukhudzidwa kwamakasitomala."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "Mayankho a HRMS",
+        "heading": "Mayankho athu a HRMS",
+        "sub": "Limbikitsani ogwira ntchito anu ndi mayankho anzeru, ophatikizika, komanso okhazikika a HR omwe amathandizira kasamalidwe ka antchito mosavuta ndikuwongolera luso lantchito.",
+        "promoTitle": "Salirani Ntchito za HR",
+        "promoText": "Automate HR workflows from recrument to retire with a modern, work-first platforms.",
+        "items": [
+          {
+            "title": "Core HR Management",
+            "description": "Yang'anirani zidziwitso za ogwira ntchito, kapangidwe ka mabungwe, ndi njira za HR moyenera."
+          },
+          {
+            "title": "Kuwongolera Malipiro",
+            "description": "Ingosinthani malipiro, kukonza malipiro, kuchotsera, ndi kutsatira."
+          },
+          {
+            "title": "Ntchito Yogwira Ntchito",
+            "description": "Apatseni antchito mwayi wosavuta wopeza ntchito za HR, zopempha, zolemba, ndi chidziwitso."
+          },
+          {
+            "title": "Kupezeka ndi Kuwongolera Kutuluka",
+            "description": "Yambitsani kutsata kwa opezekapo, zopempha zatchuthi, masinthidwe, ndi nthawi yogwira ntchito."
+          },
+          {
+            "title": "Kulembetsa & Kukwera",
+            "description": "Kuwongolera ntchito, kasamalidwe ka anthu, kukwera, ndi kuphatikiza antchito."
+          },
+          {
+            "title": "Kasamalidwe Kachitidwe",
+            "description": "Khazikitsani zolinga, tsatirani ntchito, ndikuthandizira chitukuko cha ogwira ntchito mosalekeza."
+          },
+          {
+            "title": "Kuphunzira & Chitukuko",
+            "description": "Yang'anirani mapulogalamu a maphunziro, chitukuko cha luso, ndi kukula kwa antchito."
+          },
+          {
+            "title": "HR Analytics & Reporting",
+            "description": "Sinthani zidziwitso za ogwira ntchito kukhala zidziwitso zotheka kuti zisankho zabwino za HR."
+          },
+          {
+            "title": "AI-Powered HR Automation",
+            "description": "Sinthani ntchito zobwerezabwereza za HR ndikupereka mwachangu, zokumana nazo zamunthu payekha."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Kukula kwa Mapulogalamu",
+        "heading": "Ntchito Zathu Zopanga Mapulogalamu",
+        "sub": "Pangani zotetezedwa, zowonjezedwa, komanso zogwira ntchito kwambiri zomwe zimathandizira kukula kwa bizinesi ndikuchepetsa zovuta.",
+        "promoTitle": "Pangani Mapulogalamu Ogwiritsa Ntchito Chikondi",
+        "promoText": "Kuchokera pamalingaliro mpaka kukhazikitsidwa, gulu lathu limapanga ndikupanga mapulogalamu apamwamba kwambiri am'manja ndi pa intaneti mokulirapo.",
+        "items": [
+          {
+            "title": "Kupititsa patsogolo Ntchito Mwamakonda",
+            "description": "Pangani mapulogalamu opangidwa mogwirizana ndi zofunikira zanu zamabizinesi."
+          },
+          {
+            "title": "Web & Mobile App Development",
+            "description": "Limbikitsani zokumana nazo za digito pa intaneti, mafoni, ndi zida zingapo."
+          },
+          {
+            "title": "Kupititsa patsogolo Ntchito Zamakampani",
+            "description": "Pangani njira zothanirana ndi mabizinesi anu omwe alipo."
+          },
+          {
+            "title": "Low-Code & No-Code Development",
+            "description": "Fulumizirani kutumiza mapulogalamu ndi nsanja zosinthika zamakhodi otsika."
+          },
+          {
+            "title": "API & System Integration",
+            "description": "Lumikizani mapulogalamu, nsanja, ndi machitidwe a chipani chachitatu kuti muzitha kuyenda movutikira."
+          },
+          {
+            "title": "Kugwiritsa Ntchito Masiku Ano",
+            "description": "Sinthani zomwe zalembedwa kale kukhala njira zamakono, zowongoka, komanso zogwira mtima."
+          },
+          {
+            "title": "Mapulogalamu a AI-Powered",
+            "description": "Phatikizani AI, automation, ndi luso lanzeru muzochita zamabizinesi."
+          },
+          {
+            "title": "Thandizo la Ntchito & Kusamalira",
+            "description": "Onetsetsani kuti mukugwira ntchito mosalekeza, chitetezo, zosintha, ndi kudalirika."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotics",
+    "businessAutomation": "Business Automation",
+    "cloudMigrations": "Kusamuka kwa Mitambo",
+    "dataCenters": "Ma Data Center",
+    "cognitiveAnalyticsAi": "Cognitive Analytics & AI",
+    "informationReportingSystems": "Information & Reporting Systems",
+    "managedServices": "Ntchito Zoyendetsedwa",
+    "oneStopSolutions": "One-Stop Solutions"
+  },
+  "servicePage": {
+    "serviceOverview": "Chidule cha Ntchito",
+    "whatWeOffer": "Zomwe Timapereka",
+    "whyChooseRezonants": "Chifukwa Chosankha Rezonants",
+    "benefitsOfWorking": "Ubwino wogwira ntchito nafe",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Matekinoloje omwe timagwiritsa ntchito",
+    "ourWork": "Ntchito Yathu",
+    "relatedProjects": "Ntchito zofananira",
+    "viewCaseStudy": "Onani nkhani yophunzira",
+    "readyToDiscuss": "Mwakonzeka kukambirana {{title}} pulojekiti yanu?",
+    "seniorEngineersReady": "Mainjiniya athu akuluakulu ndi okonzeka kukuthandizani kukonzekera, kupanga, ndi kupanga yankho lanu.",
+    "startProject": "Yambitsani ntchito yanu",
+    "howItWorks": "Mmene Zimagwirira Ntchito"
+  },
+  "consultation": {
+    "badge": "Lembani Kufunsira Kwaulere",
+    "title": "Tiyeni Tikonzekere Ntchito Yanu <span class='hero-accent'>Pamodzi</span>",
+    "description": "Konzani kuyimbana kopanda udindo ndi alangizi athu. Kambiranani zomwe mukufuna, fufuzani njira yoyenera yaukadaulo ndikupeza mawu omveka bwino - zonse pasanathe mphindi 30.",
+    "bookSlot": "Sungani Malo Anu",
+    "howItWorks": "Momwe Zimagwirira Ntchito",
+    "accountRequired": "Akaunti Yofunika",
+    "signInToBook": "Lowani kuti musungitse zokambirana zanu",
+    "accountRequiredText": "Mufunika akaunti ya Rezonants kuti mufunse mafunso. Lowani kapena pangani imodzi - zimatenga nthawi yosakwana miniti imodzi.",
+    "signInToContinue": "Lowani Kuti Mupitilize",
+    "newToRezonants": "Zatsopano kwa Rezonants?",
+    "createAccount": "Pangani akaunti",
+    "requestMeeting": "Pemphani Msonkhano",
+    "tellUsAboutProject": "Tiuzeni Za Ntchito Yanu",
+    "fillDetails": "Lembani zambiri zanu ndipo tidzatsimikizira kagawo kanu ndi imelo.",
+    "fullName": "Dzina Lonse *",
+    "email": "Imelo *",
+    "phone": "Foni *",
+    "company": "Kampani",
+    "serviceOfInterest": "Utumiki Wachidwi *",
+    "selectService": "Sankhani ntchito…",
+    "preferredDate": "Tsiku Lokonda *",
+    "preferredTime": "Nthawi Yokonda *",
+    "selectTimeSlot": "Sankhani nthawi...",
+    "estimatedBudget": "Bajeti Yoyerekeza",
+    "selectRange": "Sankhani osiyanasiyana…",
+    "projectRequirements": "Zofunikira za Pulojekiti",
+    "booking": "Kusungitsa…",
+    "bookFreeConsultation": "Book My Free Consultation",
+    "freeNote": "100% yaulere ndipo palibe chifukwa. Nthawi zambiri timayankha mkati mwa maola 24.",
+    "whatToExpect": "Zomwe Muyenera Kuyembekezera",
+    "preferToReachUs": "Mumakonda Kutifikira Mwachindunji?",
+    "callUs": "Tiyimbireni",
+    "emailUs": "Titumizireni imelo",
+    "visitUs": "Tiyendereni",
+    "whyBookWithUs": "Bwanji Buku Nafe",
+    "freeCallTitle": "Kuyimba Kwaulere Komwe Kumathandiza",
+    "freeCallNoPressure": "Kuyimba Kwaulere, Palibe Kupanikizika",
+    "freeCallNoPressureText": "Kukambirana koyamba kulikonse ndi kwaulere. Palibe chifukwa chogula - upangiri wowona mtima.",
+    "seniorConsultants": "Senior Consultants Only",
+    "seniorConsultantsText": "Msonkhano wanu umatsogozedwa ndi mainjiniya akuluakulu ndi alangizi omwe amamanga kuti azipeza ndalama.",
+    "clearTimelines": "Chotsani Nthawi ndi Mawu",
+    "clearTimelinesText": "Chokani ndi sitepe yotsatira yomwe yafotokozedwa, nthawi yeniyeni komanso mitengo yowonekera ya polojekiti yanu.",
+    "services": {
+      "customSoftware": "Kupanga Mapulogalamu Mwamakonda",
+      "webMobile": "Web & Mobile App Development",
+      "cloudDevops": "Cloud & DevOps Solutions",
+      "aiMl": "AI & Kuphunzira Pamakina",
+      "itConsulting": "IT Consulting",
+      "digitalMarketing": "Digital Marketing & SEO",
+      "erpSolutions": "Mayankho a ERP",
+      "other": "Zina / Sindikudziwa"
+    },
+    "budgets": {
+      "under1L": "Pansi pa ₹1L",
+      "1to5L": "1L - 5L",
+      "5to10L": "₹5L - ₹10L",
+      "above10L": "₹10L+",
+      "notDecided": "Sizinaganizidwebe"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Dziwani zolinga zanu",
+        "text": "Timamvetsera kaye. Kuyimba kwa mphindi 30 kuti mulembe zosowa zabizinesi yanu, omvera ndi zomwe mukufuna."
+      },
+      "technicalDirection": {
+        "title": "Pezani malangizo aukadaulo",
+        "text": "Mainjiniya athu amagawana zomanga zoyenera, kuchulukana ndi njira ya polojekiti yanu."
+      },
+      "clearQuote": {
+        "title": "Landirani mawu omveka bwino",
+        "text": "Yendani ndi chiyerekezo chowonekera, nthawi ndi masitepe otsatira - palibe chifukwa."
+      }
+    },
+    "validation": {
+      "nameRequired": "Dzina lonse likufunika.",
+      "emailRequired": "Imelo ndiyofunika.",
+      "emailInvalid": "Lowetsani imelo yolondola.",
+      "phoneRequired": "Nambala yafoni ndiyofunika.",
+      "phoneInvalid": "Lowetsani nambala yafoni yolondola.",
+      "serviceRequired": "Chonde sankhani ntchito.",
+      "dateRequired": "Sankhani tsiku lomwe mukufuna.",
+      "timeRequired": "Sankhani nthawi yomwe mumakonda.",
+      "messageTooShort": "Onjezani zambiri pang'ono (osachepera zilembo 10).",
+      "signInRequired": "Chonde lowani kuti musungitse zokambirana zanu.",
+      "couldNotBook": "Sindinathe kusungitsa zokambirana zanu. Yang'anani ngati tebulo la zokambirana lilipo, ndiye yesaninso.",
+      "bookedSuccess": "Kukambirana kwasungitsidwa! Gulu lathu lidzatsimikizira nthawi yanu kudzera pa imelo posachedwa."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Takulandiraninso",
+    "createAccount": "Pangani Akaunti",
+    "forgotPassword": "Mwayiwala Mawu Achinsinsi",
+    "createNewPassword": "Pangani Mawu Achinsinsi Atsopano",
+    "welcomeBackDesc": "Lowani muakaunti yanu ya Rezonants.",
+    "createAccountDesc": "Lowani nawo Rezonants lero.",
+    "forgotDesc": "Lowetsani imelo yanu ndipo tikutumizirani ulalo kuti mukonzenso password yanu.",
+    "recoveryDesc": "Sankhani mawu achinsinsi amphamvu a akaunti yanu.",
+    "fullName": "Dzina Lathunthu",
+    "email": "Imelo",
+    "password": "Mawu achinsinsi",
+    "newPassword": "Mawu Achinsinsi Atsopano",
+    "confirmPassword": "Tsimikizani Achinsinsi",
+    "confirmNewPassword": "Tsimikizani Mawu Achinsinsi Atsopano",
+    "forgotPasswordLink": "Mwayiwala mawu achinsinsi?",
+    "privacyPolicy": "Ndikuvomereza mfundo za Rezonants <1>Zazinsinsi & Chitetezo</1>.",
+    "sendResetLink": "Tumizani Bwezerani Ulalo",
+    "signIn": "Lowani",
+    "signUp": "Lowani",
+    "pleaseWait": "Chonde dikirani…",
+    "rememberedPassword": "Mwakumbukira mawu anu achinsinsi?",
+    "signInLink": "Lowani",
+    "noAccount": "Mulibe akaunti?",
+    "signUpLink": "Lowani",
+    "hasAccount": "Kodi muli ndi akaunti kale?",
+    "changedMind": "Mwasintha maganizo anu?",
+    "backToSignIn": "Bwererani kuti mulowe",
+    "resetSent": "Ulalo wokhazikitsanso mawu achinsinsi watumizidwa! Chongani imelo yanu kuti mupange mawu achinsinsi atsopano.",
+    "passwordUpdated": "Mawu anu achinsinsi asinthidwa. Lowani ndi mawu achinsinsi anu atsopano.",
+    "accountCreated": "Akaunti idapangidwa! Onani imelo yanu kuti mutsimikizire kuti mwalembetsa, kenako lowani.",
+    "validation": {
+      "fullNameRequired": "Dzina lonse likufunika.",
+      "emailRequired": "Imelo ndiyofunika.",
+      "emailInvalid": "Lowetsani imelo yolondola.",
+      "passwordRequired": "Mawu achinsinsi amafunikira.",
+      "passwordMinLength": "Mawu achinsinsi akuyenera kukhala osachepera zilembo 6.",
+      "passwordsNoMatch": "Mawu achinsinsi sakufanana.",
+      "acceptTerms": "Chonde vomerezani Zazinsinsi za Rezonants ndi Mfundo Zachitetezo kuti mupitilize."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Chezani ndi Rezonants AI",
+    "openChatLabel": "Tsegulani macheza a Rezonants AI Assistant",
+    "chatTitle": "Rezonants AI Wothandizira",
+    "online": "Pa intaneti",
+    "expandLabel": "Wonjezerani ma chatbot",
+    "minimizeLabel": "Chepetsani ma chatbot",
+    "closeLabel": "Tsekani chatbot",
+    "expand": "Wonjezerani",
+    "minimize": "Chepetsani",
+    "close": "Tsekani",
+    "popularTopics": "Mitu yotchuka",
+    "askPlaceholder": "Ndifunseni za Rezonants...",
+    "messageLabel": "Tumizani uthenga kwa Rezonants AI Assistant",
+    "sendLabel": "Tumizani uthenga",
+    "sendTitle": "Tumizani uthenga",
+    "enterToSend": "Lowani kuti mutumize · Shift+Enter kuti mupeze mzere watsopano",
+    "newChat": "Macheza atsopano",
+    "typing": "Rezonants AI akulemba",
+    "menuOptions": "Zosankha za menyu",
+    "greetingMorning": "Mmawa wabwino",
+    "greetingAfternoon": "Masana abwino",
+    "greetingEvening": "Madzulo abwino",
+    "welcomeText": "! 👋 Takulandirani ku Rezonants.\nNdine Wothandizira wa Rezonants AI. Nditha kukuthandizani kuti mufufuze ntchito zathu, matekinoloje, ndi mauthenga athu."
+  },
+  "cookieConsent": {
+    "title": "Timayamikira zachinsinsi chanu",
+    "description": "Timagwiritsa ntchito makeke kukonza kusakatula kwanu. Mutha kuvomereza ma cookie onse, kukana ma cookie osafunikira, kapena kusintha zomwe mumakonda. Ma cookie ofunikira amayatsidwa nthawi zonse kuti tsamba lawebusayiti lizigwira ntchito moyenera.",
+    "acceptAll": "Landirani Zonse",
+    "rejectNonEssential": "Kukana Zosafunikira",
+    "managePreferences": "Sinthani Zokonda",
+    "privacyPolicy": "Zazinsinsi"
+  },
+  "cookiePreferences": {
+    "title": "Sinthani Zokonda za Cookie",
+    "description": "Sankhani magulu a makeke omwe mumalola. Ma cookie ofunikira amakhalabe oyatsidwa kuti tsambalo lizigwira ntchito.",
+    "essential": "Zofunikira",
+    "essentialDesc": "Zofunikira kuti tsamba lawebusayiti lizigwira ntchito (kutsimikizika, chitetezo, kusanja katundu). Izi sizingalephereke.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Tithandizeni kumvetsetsa momwe alendo amagwiritsira ntchito malowa kuti tiwongolere. Zayimitsidwa mwachisawawa.",
+    "marketing": "Kutsatsa",
+    "marketingDesc": "Amagwiritsidwa ntchito kukuwonetsani zotsatsa zoyenera ndi makampeni. Zayimitsidwa mwachisawawa.",
+    "cancel": "Letsani",
+    "savePreferences": "Sungani Zokonda"
+  },
+  "privacy": {
+    "badge": "Zovomerezeka",
+    "title": "Zazinsinsi",
+    "description": "Momwe Rezonants imasonkhanitsira, kugwiritsa ntchito, ndikuteteza zambiri zanu ndi makeke.",
+    "lastUpdated": "Zasinthidwa komaliza: Ogasiti 2026",
+    "managingPreferences": "Kuwongolera zomwe mumakonda",
+    "managingPreferencesDesc": "Mutha kuwunikanso kapena kusintha ma cookie omwe mumalola nthawi iliyonse kuchokera pagulu lokonda ma cookie.",
+    "manageCookiePreferences": "Sinthani Zokonda za Cookie",
+    "section1": {
+      "title": "1. Chidziwitso chomwe Timachisonkhanitsa",
+      "body": [
+        "Timasonkhanitsa zidziwitso zomwe mumapereka mwachindunji (monga dzina lanu ndi imelo adilesi mukatumiza fomu yolumikizirana kapena kupanga akaunti) komanso zomwe zimasonkhanitsidwa zokha kudzera m'macookie ndi matekinoloje ofananira nawo, monga masamba omwe adachezera, mtundu wa chipangizocho komanso pafupifupi malo."
+      ]
+    },
+    "section2": {
+      "title": "2. Momwe Timagwiritsira Ntchito Ma cookie",
+      "body": [
+        "Ma cookie ofunikira amakhala oyatsidwa nthawi zonse chifukwa tsamba silingagwire bwino ntchito popanda iwo. Amasunga gawo ndi chitsimikiziro ndikukumbukira zomwe mumakonda ma cookie.",
+        "Ma cookies a Analytics amatithandiza kumvetsetsa momwe alendo amagwiritsira ntchito tsambali kuti tiwongolere. Ma cookie otsatsa amagwiritsidwa ntchito kukuwonetsani zomwe mukufuna komanso makampeni. Magawowa amangoyatsidwa ndi chilolezo chanu ndipo mutha kusinthidwa nthawi iliyonse kuchokera pagulu lokonda ma cookie."
+      ]
+    },
+    "section3": {
+      "title": "3. Maziko azamalamulo (GDPR)",
+      "body": [
+        "Timakonza zidziwitso zaumwini pazifukwa zotsatirazi zazamalamulo: kuvomereza kwanu (kwa makeke osafunikira ndi kutsatsa), magwiridwe antchito (pantchito zomwe mwapempha), zomwe mumafunikira pazamalamulo, ndi zokonda zovomerezeka pomwe maufulu anu sapitilira. Mutha kuchotsa chilolezo nthawi iliyonse popanda kukhudza kuvomerezeka kwazomwe zimachitika musanachoke."
+      ]
+    },
+    "section4": {
+      "title": "4. Ufulu Wanu",
+      "body": [
+        "Kutengera ndi komwe muli, mutha kukhala ndi ufulu wopeza, kukonza, kufufuta, kapena kuletsa kukonzedwa kwa data yanu, kukana kukonzedwa, komanso kusuntha kwa data. Mukhozanso kudandaula ndi oyang'anira dera lanu."
+      ]
+    },
+    "section5": {
+      "title": "5. Kusunga Deta & Chitetezo",
+      "body": [
+        "Timasunga zambiri zaumwini pokhapokha ngati kuli kofunikira pazifukwa zomwe zafotokozedwa mu ndondomekoyi. Timagwiritsa ntchito njira zoyenera zaukadaulo ndi bungwe kuti titeteze zambiri zanu kuti zisapezeke, kusinthidwa, kuwululidwa kapena kuwonongedwa."
+      ]
+    },
+    "section6": {
+      "title": "6. Ntchito Zachipani Chachitatu",
+      "body": [
+        "Ma cookie ena atha kukhazikitsidwa ndi othandizira ena (monga ma analytics kapena nsanja zotsatsa) zomwe zimatithandiza kugwiritsa ntchito tsambalo. Othandizirawa amakonza deta pansi pa ndondomeko zawo zachinsinsi komanso pokhapokha ngati mwavomereza gulu loyenera."
+      ]
+    },
+    "contactUs": "7. Lumikizanani nafe",
+    "contactUsText": "Pamafunso okhudza lamuloli kapena zachinsinsi chanu, lemberani pa <1>info@rezonants.com</1> kapena imbani <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Ntchito",
+    "title": "Ntchito Zathu",
+    "sub": "Mayankho aukadaulo omaliza mpaka kumapeto opangidwa kuti athandizire mabizinesi kupanga zatsopano, kukulitsa, ndikuchita bwino.",
+    "learnMore": "Dziwani zambiri",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Kuyamba Kutumiza",
+        "text": "Kuchokera pamalingaliro oyambira mpaka kutumizidwa kwa zopanga, timapereka mayankho owopsa omwe amapangidwira zosowa zenizeni zabizinesi."
+      },
+      "businessProcessAutomation": {
+        "title": "Business Process Automation",
+        "text": "Sinthani njira zobwerezabwereza ndikuwongolera magwiridwe antchito kudzera mwanzeru zamabizinesi."
+      },
+      "centerOfExcellence": {
+        "title": "Center of Excellence",
+        "text": "Pangani luso laukadaulo lapadera ndi ukatswiri kuti mutsogolere zatsopano, zabwino, ndikusintha mosalekeza."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Kupanga Mwamakonda & Kusintha Mwamakonda Anu",
+        "text": "Mayankho apulogalamu opangidwa opangidwa molingana ndi zofunikira zanu zamabizinesi ndi kayendetsedwe ka ntchito."
+      },
+      "digitalTransformation": {
+        "title": "Kusintha kwa digito",
+        "text": "Sinthani bizinesi yanu ndi njira zama digito, matekinoloje, ndi mayankho omwe amakupatsani mwayi woyezeka."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Njira Yothetsera Mapeto ndi Mapeto",
+        "text": "Mayankho aukadaulo ophatikizika omwe amalumikiza njira, chitukuko, kukhazikitsa, ndi ntchito zopitilira."
+      },
+      "migrationModernization": {
+        "title": "Kusamuka & Zamakono",
+        "text": "Sinthani ntchito zakale ndikusamutsa makina kupita ku nsanja zowongoka, zotetezeka, komanso zaukadaulo."
+      },
+      "pocPilotImplementation": {
+        "title": "Umboni wa Concept (PoC) & Pilot Implementation",
+        "text": "Tsimikizirani malingaliro mwachangu kudzera m'ma prototypes ndikukhazikitsa koyendetsa musanayambe kutumizidwa kwathunthu."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Ntchito Zogawana & Ntchito Zoyendetsedwa",
+        "text": "Ntchito zamaukadaulo zodalirika zoyendetsedwa bwino zomwe zimakweza magwiridwe antchito, scalability, ndi kupitiliza kwa bizinesi."
+      }
+    }
+  },
+  "footer": {
+    "company": "Kampani",
+    "about": "Za",
+    "perspectives": "Malingaliro",
+    "technologies": "Tekinoloje",
+    "contact": "Contact",
+    "services": "Ntchito",
+    "getInTouch": "Lumikizanani",
+    "bookConsultation": "lemberani zokambilana",
+    "copyright": "© {{year}} Rezonants. Maumwini onse ndi otetezedwa.",
+    "cookiePreferences": "Zokonda za Ma cookie",
+    "privacyPolicy": "Zazinsinsi",
+    "description": "Rezonants ndi kampani ya IT ndi zinthu za digito ku Hyderabad, India. Timapanga, timapanga ndikukulitsa mapulogalamu amakampani omwe amapikisana pakuphedwa.",
+    "locations": "Malo Athu",
+    "indiaHq": "Hyderabad, India — Likulu la India",
+    "southAfrica": "South Africa — REZONANTS PVT LTD",
+    "products": "Zogulitsa",
+    "followUs": "Titsatireni",
+    "aboutUs": "Za Ife",
+    "contactUs": "Lumikizanani Nafe",
+    "headline": "Tiyeni timange",
+    "headlineAccent": "chitani chotsatira.",
+    "subheadline": "Gwirizanani ndi Rezonants kuti musinthe malingaliro kukhala mabizinesi enieni.",
+    "credoIdeas": "MALANGIZO",
+    "credoSolutions": "ZOTHANDIZA",
+    "credoPeople": "ANTHU",
+    "credoBrighterTomorrow": "MAWA ABWINO",
+    "hyderabadLocation": "Hyderabad, India",
+    "vijayawadaLocation": "Vijayawada, Andhra Pradesh",
+    "southAfricaLocation": "South Africa – REZONANTS PVT LTD",
+    "termsOfUse": "Migwirizano Yogwiritsiridwa Ntchito",
+    "accessibility": "Kufikika",
+    "quickLinks": "Maulalo Ofulumira",
+    "explore": "Onani",
+    "vijayawadaOffice": "Vijayawada Office",
+    "allRightsReserved": "Ufulu wonse ndiwotetezedwa.",
+    "hyderabadPin": "Hyderabad, India",
+    "southAfricaPin": "South Africa"
+  },
+  "common": {
+    "loading": "Kutsegula...",
+    "error": "Zolakwika",
+    "retry": "Yesaninso",
+    "close": "Tsekani",
+    "backToTop": "Bwererani pamwamba",
+    "skipToContent": "Pitani ku zomwe zili",
+    "scroll": "Mpukutu",
+    "whatWeOffer": "Zimene Timapereka",
+    "howItWorks": "Momwe Imagwirira Ntchito"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Sakani dziko kapena kodi…",
+    "noResults": "Palibe mayiko omwe apezeka.",
+    "countryCodeLabel": "Nambala yoyimba dziko",
+    "required": "Nambala yafoni ndiyofunika.",
+    "incomplete": "Nambala yafoni ikuyenera kukhala ndi manambala {{count}} ndendende.",
+    "tooLong": "Nambala yafoni singakhale ndi manambala oposa {{count}}.",
+    "invalid": "Lowetsani nambala yafoni yolondola ya {{country}}."
+  },
+  "perspectives": {
+    "topic": "Mutu:",
+    "published": "Lofalitsidwa:",
+    "readingTime": "Nthawi Yowerenga:",
+    "author": "Wolemba:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Technology Area",
+    "purpose": "Cholinga",
+    "talkToExperts": "Kambiranani ndi Akatswiri Athu",
+    "viewAll": "Onani Mawonedwe Onse",
+    "exploreMore": "ONANI ZOONA ZAMBIRI",
+    "continueExploring": "Pitirizani Kuwona Enterprise Technology Insights",
+    "readPerspective": "Werengani Mawonedwe"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotic Solutions",
+      "tagline": "Zaukadaulo Zanzeru. Zochita Zokha. Bizinesi Yanzeru.",
+      "heroBadge": "Makina anzeru a Autonomous",
+      "overview": [
+        "Artificial Intelligence ndi Robotic akusintha momwe mabungwe amagwirira ntchito, kupanga zisankho, ndikupereka phindu. Mayankho athu a AI & Robotic amathandizira mabizinesi kupitilira zongochitika zokha mwa kuphatikiza luntha lochita kupanga, kuphunzira pamakina, masomphenya apakompyuta, makina anzeru, ndi ma robotiki kuti athetse zovuta zamabizinesi.",
+        "Timapanga mayankho anzeru potengera zotsatira zabizinesi. Kaya chofunikira ndikungopanga ntchito yobwerezabwereza, kusanthula zidziwitso zambiri, kuzindikira mawonekedwe, zisankho zothandizira, kapena kuyambitsa ma robotiki m'malo ogwirira ntchito, njira yathu imayang'ana kwambiri kudalirika, scalability, chitetezo, komanso kufunikira kwabizinesi kwanthawi yayitali."
+      ],
+      "transformation": [
+        "Mabungwe amakono amapanga deta yochuluka kwambiri ndipo amachita zinthu zambirimbiri zobwerezabwereza tsiku lililonse. AI ndi ma robotiki amatha kusintha izi kukhala zanzeru, zoyenda zokha zomwe zimakulitsa zokolola pomwe zimalola antchito kuyang'ana kwambiri maudindo apamwamba.",
+        "Mayankho athu angathandize mabungwe kuti azigwira ntchito mobwerezabwereza, kuchepetsa kulowererapo pamanja, kukonza zolondola, kusanthula zidziwitso zovuta, kuthandizira zisankho mwachangu, kukhathamiritsa kagwiritsidwe ntchito kazinthu, kukulitsa zomwe makasitomala akumana nazo, ndikupanga machitidwe anzeru owopsa."
+      ],
+      "capabilities": [
+        {
+          "title": "Nzeru zochita kupanga",
+          "desc": "Timapanga mayankho oyendetsedwa ndi AI omwe amathandizira machitidwe kumvetsetsa zambiri, kuzindikira mawonekedwe, kupanga zidziwitso, ndikuthandizira zisankho zamabizinesi."
+        },
+        {
+          "title": "Maphunziro a Makina",
+          "desc": "Timapanga makina ophunzirira makina olosera, m'magulu, makina opangira, kuzindikira zolakwika, kusanthula molosera, ndikuthandizira zisankho zanzeru."
+        },
+        {
+          "title": "Kukonza Zinenero Zachilengedwe",
+          "desc": "NLP ikhoza kugwiritsidwa ntchito kukonza zikalata, kumvetsetsa zolemba, kugawa zidziwitso, kuchotsa zofunikira, ndikuthandizira zokambirana."
+        },
+        {
+          "title": "Kompyuta Vision",
+          "desc": "Mayankho a masomphenya apakompyuta amatha kuthandizira kugawa kwazithunzi, kufufuza zinthu, kuyang'anitsitsa khalidwe, kukonza zolemba, kuyang'anitsitsa mavidiyo, ndi mavidiyo."
+        },
+        {
+          "title": "Maloboti",
+          "desc": "Ma robotiki amaphatikiza luntha la mapulogalamu ndi machitidwe akuthupi kuti azitha kuchita zomwe nthawi zambiri zimafunikira kuchitapo kanthu pamanja. Mapulogalamu angaphatikizepo kupanga, kukonza zinthu, kusungirako katundu, kuyang'anira, kusamalira zinthu, ndi chithandizo chogwirira ntchito."
+        },
+        {
+          "title": "Intelligent Process Automation",
+          "desc": "AI ikhoza kuphatikizidwa ndi makina oyendetsera ntchito kuti apange machitidwe omwe amatanthauzira zambiri, kugwiritsa ntchito malamulo a bizinesi kapena zitsanzo, ndikuyambitsa njira yoyenera yokha."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kuwunika kwa Bizinesi",
+        "Kusanthula Zambiri",
+        "AI Strategy",
+        "Zomangamanga Zothetsera",
+        "Chitukuko",
+        "Kuphatikiza",
+        "Kuyesedwa",
+        "Kutumiza",
+        "Kuwunika",
+        "Kukhathamiritsa"
+      ],
+      "benefits": [
+        "Zochita zamabizinesi apamwamba kwambiri",
+        "Kuchepetsa kwakukulu kwa ndalama zogwirira ntchito",
+        "Kukonza mwachangu ndikusintha chisankho cha millisecond",
+        "Kuwongolera bwino kwa data ndi kayendedwe ka ntchito",
+        "Kugwiritsa ntchito bwino zinthu zakuthupi komanso zowerengera",
+        "Kuchepetsa zoopsa zogwirira ntchito ndi zolakwika za anthu",
+        "Kusasinthika kwa nsanja zambiri",
+        "Zokumana nazo zamakasitomala ndi antchito"
+      ],
+      "security": "Mayankho a Enterprise AI ayenera kupangidwa ndi chitetezo choyenera, zowongolera zolowera, chitetezo cha data, kuyang'anira, kasamalidwe kachitsanzo, ndi chitetezo chogwirira ntchito. Timaganizira zofunikira izi kuyambira pa kamangidwe kake kupyolera mu kutumizidwa ndi kukonzanso kosalekeza kuti tiwonetsetse kuti pali nzeru zodalirika, zopanga kupanga.",
+      "ctaHeadline": "Pangani Tsogolo Lanzeru",
+      "ctaSub": "Pangani zochita zanu mwanzeru. Sinthani zomwe zili zofunika. Mangani tsogolo."
+    },
+    "business-automation-solutions": {
+      "title": "Business Automation Solutions",
+      "tagline": "Salirani Njira. Pewani Kubwerezabwereza. Limbikitsani Kukula.",
+      "heroBadge": "Kukhathamiritsa kwa Mayendedwe Antchito",
+      "overview": [
+        "Zosintha zamabizinesi zimathandizira mabungwe kuti asinthe mayendedwe amanja obwerezabwereza ndikuwongolera magwiridwe antchito a digito. Mayankho athu opangira mabizinesi amathandizira makampani kukonza zokolola, kuchepetsa zovuta zogwirira ntchito, kuchepetsa zolakwika, ndikupanga njira zokhazikika m'madipatimenti onse.",
+        "Timasanthula mayendedwe omwe alipo kale, timazindikira zolepheretsa, ndikupanga njira zopangira zokha zomwe zimagwirizanitsa anthu, mapulogalamu, deta, ndi njira zamabizinesi."
+      ],
+      "transformation": [
+        "Mabungwe ambiri amadalirabe ma spreadsheets, maimelo, kuvomereza pamanja, kulowetsa deta mobwerezabwereza, kusamalira zolemba, ndi mapulogalamu ochotsedwa. Njirazi zimawononga nthawi yofunikira ya ogwira ntchito ndipo zimatha kuyambitsa kuchedwa, kusagwirizana, ndi zolakwika.",
+        "Njira yathu yodzipangira yokha imayang'ana pakumvetsetsa njira yonse, kuchotsa masitepe osafunikira, kuphatikiza machitidwe, ndikusinthiratu ntchito zomwe zimapereka phindu lalikulu kwambiri logwirira ntchito."
+      ],
+      "capabilities": [
+        {
+          "title": "Kuyenda kwa ntchito",
+          "desc": "Timakonza njira zingapo zophatikizira ogwira ntchito, mapulogalamu, zivomerezo, zidziwitso, ndi data m'madipatimenti osiyanasiyana."
+        },
+        {
+          "title": "Robotic Process Automation",
+          "desc": "Mapulogalamu a mapulogalamu amatha kuchita zinthu zobwerezabwereza, zozikidwa pa malamulo monga kulowetsa deta, kukonzanso dongosolo, kuyanjanitsa, ndi kutumiza mauthenga."
+        },
+        {
+          "title": "Document Automation",
+          "desc": "Mayendedwe a zikalata zongochitika zokha amatha kutulutsa zambiri, kutsimikizira deta, kugawa zikalata, zopempha zanjira, ndikuyambitsa njira zakutsika."
+        },
+        {
+          "title": "Kuvomereza Automation",
+          "desc": "Digital approval workflows imangotumiza zopempha kwa omwe amapanga zisankho zolondola ndikupereka mawonekedwe anthawi yeniyeni pazomwe akudikirira."
+        },
+        {
+          "title": "Integration Automation",
+          "desc": "Timalumikiza ntchito zamabizinesi kuti chidziwitso chiziyenda zokha pakati pa nsanja popanda kulowererapo pamanja kosafunikira."
+        },
+        {
+          "title": "Zidziwitso zokha",
+          "desc": "Zidziwitso ndi zidziwitso zokha zimathandiza ogwira ntchito kuyankha nthawi yomweyo kuzochitika zofunika, masiku omaliza, kupatula, ndi kusintha kwa magwiridwe antchito."
+        }
+      ],
+      "lifecycleSteps": [
+        "Dziwani",
+        "Unikani",
+        "Kupanga",
+        "Muzidzichitira nokha",
+        "Gwirizanitsani",
+        "Mayeso",
+        "Ikani",
+        "Woyang'anira",
+        "Konzani"
+      ],
+      "benefits": [
+        "Kuchulukirachulukira kwa timu komanso kuthamanga kwa ntchito",
+        "Kuchepetsa kwakukulu kwa zolakwika zolowera pamanja",
+        "Kufupikitsa nthawi yosinthira kumapeto mpaka kumapeto",
+        "Kuwoneka kogwirizana pamabizinesi onse",
+        "Kutsatira kokhazikika m'madipatimenti osiyanasiyana",
+        "Kuchepetsa kwambiri ndalama zogwirira ntchito",
+        "Kuthekera kotha kukulitsa ntchito mosavutikira",
+        "Magulu opatsidwa mphamvu amayang'ana kwambiri pakuchitapo kanthu kwamakasitomala ndi ntchito zaukadaulo"
+      ],
+      "security": "Timaphatikiza mapulaneti a kayendedwe ka ntchito ndi RPA yokhala ndi zitsanzo zanzeru zomwe zimadziwika bwino ndi zomwe zikuchitika kuti tiwonetsetse kuti anthu omwe ali ndi mwayi wopezekapo ali ndi udindo, njira zowunikira bwino, komanso kutsatira mosamalitsa pazochitika zilizonse zongochitika zokha.",
+      "ctaHeadline": "Pangani Zochita Zambiri Mwachangu",
+      "ctaSub": "Sinthani ntchito yobwerezabwereza. Limbikitsani anthu anu. Limbikitsani bizinesi yanu."
+    },
+    "cloud-migration-solutions": {
+      "title": "Cloud Migration Solutions",
+      "tagline": "Pitani kumtambo ndi Chidaliro.",
+      "heroBadge": "Kusintha Kwa Mitambo Yambiri",
+      "overview": [
+        "Cloud computing yakhala chigawo chofunikira kwambiri cha zomangamanga zamakono za IT. Mabungwe akusuntha mapulogalamu, nkhokwe, kuchuluka kwa ntchito, ndi zomangamanga kumadera amtambo kuti apititse patsogolo scalability, kupezeka, kusinthasintha, ndi magwiridwe antchito.",
+        "Ntchito zathu zosamukira kumtambo zimathandizira mabungwe kuti awone momwe alili, kutanthauzira njira zakusamuka, kusamuka, ndi kukhathamiritsa ntchito atasamukira kumtambo."
+      ],
+      "transformation": [
+        "Kusamuka kwa mtambo ndikoposa kusuntha ma seva kuchokera kudera lina kupita ku lina. Kusamuka kochita bwino kumafuna kuunika mozama kwa ntchito, zomangamanga, zodalira, zofunikira zachitetezo, deta, magwiridwe antchito, kupezeka, ndi kupitiliza kwa bizinesi.",
+        "Timapanga njira zosamukira kudziko lina malinga ndi momwe bungwe likuyendera komanso zolinga zamtsogolo, ndikusankha njira yoyenera yosamukira kuntchito iliyonse."
+      ],
+      "capabilities": [
+        {
+          "title": "Kusamuka kwa Zomangamanga",
+          "desc": "Timasamutsa ma seva achikhalidwe, malo osungira, makina owoneka bwino, ndi zolemetsa zogwira ntchito kupita kumalo amakono amtambo pa AWS, Azure, ndi GCP."
+        },
+        {
+          "title": "Kugwiritsa Ntchito Migration",
+          "desc": "Mapulogalamu amatha kukonzedwanso, kusinthidwa, kusinthidwa, kapena kukonzedwanso malinga ndi zofunikira zabizinesi ndi luso."
+        },
+        {
+          "title": "Kusamuka kwa Database",
+          "desc": "Timasamuka nkhokwe pamene tikulingalira za kukhulupirika kwa deta, kagwiridwe kake, kagwiritsidwe ntchito ka zinthu, kupezeka, chitetezo, ndi zofunika kuchira."
+        },
+        {
+          "title": "Cloud Modernization",
+          "desc": "Kusamuka kumakhala mwayi wokonza mapulogalamu amakono pogwiritsa ntchito makontena, ma microservices, nkhokwe zosungidwa, ntchito zopanda seva, ndi zomangamanga zamtambo."
+        },
+        {
+          "title": "Mtambo Wophatikiza",
+          "desc": "Mabungwe omwe amafunikira zonse pamalopo komanso pamtambo amatha kutengera zomangamanga zosakanizidwa zomwe zimalumikiza mosasunthika machitidwe omwe alipo ndi mautumiki amtambo."
+        },
+        {
+          "title": "Mitambo Yambiri",
+          "desc": "Kwa mabungwe omwe amagwira ntchito pamapulatifomu angapo amtambo, timathandizira kupanga njira zolemetsa zogwirira ntchito zomwe zimathandizira kusinthasintha, kulimba mtima, komanso kuwongolera."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kuwunika",
+        "Kupeza",
+        "Kudalira Mapu",
+        "Njira Zosamuka",
+        "Zomangamanga Zomangamanga",
+        "Kusamuka kwa Oyendetsa ndege",
+        "Kusamuka kwa Data",
+        "Kugwiritsa Ntchito Migration",
+        "Kuyesedwa",
+        "Kusamuka Kupanga",
+        "Kukhathamiritsa"
+      ],
+      "benefits": [
+        "Elastic scalability ndi kupezeka kwazinthu zambiri",
+        "Kusinthasintha kwakukulu kwa zomangamanga ndi kusinthasintha kwa bizinesi",
+        "Yathetsa katundu wokonza datacenter",
+        "Kutumiza mwachangu kwa ntchito",
+        "Kubwezeretsa kwamphamvu pakagwa masoka ndi kupirira zosunga zobwezeretsera",
+        "Kufikira mwachangu ku AI yamakono yamtambo ndi ntchito zoyendetsedwa",
+        "Ulamuliro Wabwino wa FinOps ndi kuchepetsa TCO",
+        "Kutsatira mosalekeza komanso zodzitetezera zokha"
+      ],
+      "security": "Chitetezo ndi gawo lofunikira pakukonzekera kusamuka. Timaganizira zozindikiritsa ndi kuyang'anira mwayi wofikira, chitetezo chamanetiweki, kubisa mawu popita ndi popuma, kutetezedwa kwa data, kuunika kwachiwopsezo cha pulogalamu, kuyang'anira, kusunga zosunga zobwezeretsera, ndi kuchira pakagwa masoka.",
+      "ctaHeadline": "Ulendo Wanu Wamtambo, Wokonzedwa Moyenera",
+      "ctaSub": "Sinthani zomangamanga zanu. Limbikitsani zatsopano. Pangani maziko amtambo owopsa."
+    },
+    "data-center-solutions": {
+      "title": "Data Center Solutions",
+      "tagline": "Zomangamanga Zodalirika za Ntchito Zofunika Kwambiri.",
+      "heroBadge": "Mission-Critical Infrastructure",
+      "overview": [
+        "Malo opangira data amapanga maziko a mabizinesi amakono a digito. Mapulogalamu, nkhokwe, machitidwe amabizinesi, nsanja zoyankhulirana, ndi ntchito zofunikira zamabizinesi zimadalira maziko odalirika.",
+        "Mayankho athu apakati pa data amayang'ana pakupanga, kukonzanso, kuyang'anira, ndi kukhathamiritsa malo opangira zida zomwe zimapangidwira kupezeka, chitetezo, scalability, magwiridwe antchito, ndi magwiridwe antchito."
+      ],
+      "transformation": [
+        "Deta yamakono imafuna zambiri kuposa ma seva ndi kusungirako. Imafunika zida zopangidwa mwaluso pamakompyuta, maukonde, chitetezo, mphamvu, kuziziritsa, kuwunika, kusunga zosunga zobwezeretsera, ndikubwezeretsa masoka.",
+        "Timathandiza mabungwe kupanga malo okhazikika omwe amathandizira ntchito zofunika kwambiri ndikupereka maziko a kukula kwaukadaulo wamtsogolo."
+      ],
+      "capabilities": [
+        {
+          "title": "Kapangidwe kazomangamanga",
+          "desc": "Timapanga malo potengera zofunikira za ntchito, mphamvu, ntchito, kupezeka, chitetezo, ndi kukula kwamtsogolo."
+        },
+        {
+          "title": "Zomangamanga za Seva",
+          "desc": "Timathandizira ma seva akuthupi komanso owoneka bwino pamabizinesi ofunikira kwambiri komanso kuchuluka kwa ntchito."
+        },
+        {
+          "title": "Njira Zosungirako",
+          "desc": "Timalingalira ntchito, mphamvu, kuperewera, kuthamanga kwambiri kwa SAN/NAS, zosunga zobwezeretsera, ndi zoteteza deta popanga malo osungira."
+        },
+        {
+          "title": "Network Infrastructure",
+          "desc": "Timapanga malo ochezera a pa intaneti okhala ndi magawo oyenerera, ocheperako, magwiridwe antchito ocheperako, kulumikizana, ndi kuwongolera chitetezo."
+        },
+        {
+          "title": "Zowona",
+          "desc": "Virtualization imathandizira kagwiritsidwe ntchito kazinthu, kusinthasintha kwa ntchito, komanso kasamalidwe kazinthu zapakati."
+        },
+        {
+          "title": "Zosunga zobwezeretsera & Kubwezeretsa Masoka",
+          "desc": "Timathandizira mabungwe kukhazikitsa njira zosunga zobwezeretsera ndi zomanga zobwezeretsera zomwe zimapangidwira kuchepetsa kutsika ndikuchotsa kutayika kwa data."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kuwunika kwa Mphamvu",
+        "Mbiri Yantchito",
+        "Zomangamanga Zomangamanga",
+        "Hardware & Virtual Kukula",
+        "Gawo la Network",
+        "Kusungirako Zosungirako",
+        "Redundancy & DR Kuyesa",
+        "Kupanga Cutover",
+        "24/7 Health Monitoring",
+        "Kukhathamiritsa Kopitirira"
+      ],
+      "benefits": [
+        "Yotsimikizika 99.999% yokhazikika yokhazikika",
+        "Zero mfundo imodzi yolephera yokhala ndi kusanjikiza kosiyanasiyana",
+        "Makompyuta okhathamiritsa a seva ndi mawonekedwe apamwamba kwambiri",
+        "Zomangamanga zapansi pa millisecond low-latency networking",
+        "Chitetezo cholimba chakuthupi ndi digito",
+        "Kuyang'anira mwachidwi ndi zolephera zolephera zokha",
+        "Kusungirako kosinthika kwa data ya petabyte-scale",
+        "Zonenedweratu mtengo wokwanira wa umwini ndi mphamvu zamagetsi"
+      ],
+      "security": "Chitetezo chimaphatikizidwira kudera lonse lachitukuko, kuphimba magawo ang'onoang'ono a network, hardware root-of-trust, ziro-trust access controls, kuwunika kwachiwopsezo kosalekeza, chitetezo cha endpoint, ndi ndondomeko zolimba zogwirira ntchito.",
+      "ctaHeadline": "Future-Ready Infrastructure",
+      "ctaSub": "Pangani zomangamanga zodalirika lero. Pangani maziko aukadaulo wamawa."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Cognitive Analytics & AI",
+      "tagline": "Sinthani Deta kukhala Luntha.",
+      "heroBadge": "Data-to-Decision Intelligence",
+      "overview": [
+        "Mabungwe amapanga zidziwitso zochuluka kwambiri kudzera m'mapulogalamu, ma transaction, makasitomala, machitidwe, zida, ndi nsanja zama digito. Vuto silirinso kusonkhanitsa deta; ndikumvetsetsa zomwe datayo ndikuisintha kukhala luntha lotheka.",
+        "Mayankho athu a Cognitive Analytics & AI amaphatikiza ma analytics apamwamba, kuphunzira pamakina, luntha lopanga, kukonza ma data, ndi luntha lazamalonda kuti zithandizire mabungwe kupanga zisankho zabwino."
+      ],
+      "transformation": [
+        "Malipoti achikhalidwe amauza mabungwe zomwe zidachitika. Ma analytics apamwamba angathandize kufotokoza chifukwa chake zidachitika, kuzindikira zomwe zingachitike kenako, ndikuthandizira zisankho zomwe ziyenera kuchitika.",
+        "Timathandiza mabungwe kukhazikitsa malo opangira deta omwe amapitilira kupereka malipoti osasunthika kupita kusanthula mwanzeru ndikuthandizira zisankho."
+      ],
+      "capabilities": [
+        {
+          "title": "Zofotokozera Zofotokozera",
+          "desc": "Mvetsetsani momwe mbiri yakale ikuyendera kudzera m'malipoti, ma dashboards osiyanasiyana, ma KPI, ndi ma metric abizinesi."
+        },
+        {
+          "title": "Diagnostic Analytics",
+          "desc": "Dziwani maubale, zomwe zikuchitika, zosokoneza pamawerengero, ndi zomwe zimayambitsa bizinesi."
+        },
+        {
+          "title": "Predictive Analytics",
+          "desc": "Gwiritsani ntchito mbiri yakale komanso nthawi yeniyeni yotsatsira deta yokhala ndi zitsanzo zowerengera kuti muzindikire zomwe zingatheke mtsogolomu ndi zofuna."
+        },
+        {
+          "title": "Prescriptive Analytics",
+          "desc": "Unikani zochita zomwe zingatheke ndikuthandizira njira zabwino zomwe zingasankhidwe potengera zomwe zanenedweratu komanso zolinga zabizinesi."
+        },
+        {
+          "title": "Makina Ophunzirira Makina",
+          "desc": "Kupanga zitsanzo zolosera zam'tsogolo, gulu lamakasitomala, malingaliro, kuzindikira zachinyengo, ndi kukonza molosera."
+        },
+        {
+          "title": "AI-Powered Kuzindikira",
+          "desc": "Gwiritsani ntchito chidziwitso cha AI pazambiri zambiri zosalongosoka kuti muwone mawonekedwe obisika, chidule chazolemba zazikulu, ndi malingaliro."
+        }
+      ],
+      "lifecycleSteps": [
+        "Magwero a Data",
+        "Kuphatikiza kwa Data",
+        "Kusintha kwa Data",
+        "Kusungirako Data",
+        "Analytics",
+        "Mitundu ya AI/ML",
+        "Kuwona",
+        "Zosankha Zamalonda"
+      ],
+      "benefits": [
+        "Kupanga zisankho zotsogozedwa ndi zowona, zoyendetsedwa ndi data",
+        "Kufuna kolondola, ndalama, ndi kulosera kwachurn",
+        "Zochitika zenizeni zenizeni komanso kuzindikira zachinyengo",
+        "Kuzama kwamakasitomala 360° kuzindikira ndi makonda",
+        "Kukhathamiritsa kwaunyolo ndi magwiridwe antchito",
+        "Chiwopsezo chochepa pantchito ndi zachuma",
+        "Kupeza mwayi wopeza ndalama zobisika",
+        "Kupititsa patsogolo nthawi yowunikira mabizinesi"
+      ],
+      "security": "Ma analytics athu achilengedwe amagwiritsa ntchito kubisa komaliza mpaka kumapeto, kusinjirira kokhazikika kwa data, zilolezo zokhwima za RBAC, ndi ulamuliro wachitsanzo kuteteza deta ya eni ake ndikusunga kutsata malamulo (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Pangani Njira Yanzeru ya Data",
+      "ctaSub": "Sinthani zambiri kukhala luntha. Sinthani luntha kukhala zochita."
+    },
+    "information-reporting-systems": {
+      "title": "Information & Reporting Systems",
+      "tagline": "Chidziwitso Cholondola. Pa Nthawi Yoyenera. Zosankha Zabwino.",
+      "heroBadge": "Unified Enterprise Intelligence",
+      "overview": [
+        "Atsogoleri amalonda ndi magulu ogwira ntchito amadalira chidziwitso cholondola kuti apange zisankho zogwira mtima. Information & Reporting Systems yathu imathandizira mabungwe kusonkhanitsa, kukonza, kusanthula, ndi kupereka zidziwitso zamabizinesi kudzera pamakina azidziwitso okhazikika, nsanja zoperekera malipoti, ma dashboards, ndi mayendedwe ochitira malipoti otopa.",
+        "Mabungwe nthawi zambiri amakhala ndi zidziwitso zomwe zimagawidwa pamapulogalamu, ma spreadsheets, databases, ndi machitidwe ogwirira ntchito. Izi zimapangitsa kuti zikhale zovuta kukhazikitsa malingaliro ofanana a momwe bizinesi ikugwirira ntchito. Timathandizira kuphatikiza magwero azidziwitso kukhala malo ochitira malipoti okhazikika omwe amapereka chidziwitso chodalirika, chofikirika, komanso chosasintha."
+      ],
+      "transformation": [
+        "Dongosolo loperekera malipoti siliyenera kungowonetsa manambala. Iyenera kuthandiza ogwiritsa ntchito kumvetsetsa momwe amagwirira ntchito, kuzindikira zovuta, kupeza mwayi, ndikupanga zisankho zanzeru.",
+        "Timapanga malo ochitira malipoti mozungulira momwe bungwe lanu limagwirira ntchito, kuperekera zida za data to-zigamulo zomwe zimapangidwira magawo onse oyang'anira."
+      ],
+      "capabilities": [
+        {
+          "title": "Management Information Systems (MIS)",
+          "desc": "Kupanga machitidwe ogwirizana omwe amapereka kasamalidwe kabwino ka magwiridwe antchito komanso mwanzeru."
+        },
+        {
+          "title": "Malipoti a Bizinesi",
+          "desc": "Sinthani deta yabizinesi kuchokera kumayendedwe angapo kukhala malipoti okhazikika, okhazikika omwe amayang'anira magwiridwe antchito mosalekeza."
+        },
+        {
+          "title": "Interactive Dashboards",
+          "desc": "Perekani mawonekedwe a nthawi yeniyeni kapena yokonzedwa muzochita zamabizinesi, ma KPI, machitidwe, ndi zochitika zamadipatimenti."
+        },
+        {
+          "title": "KPI Management",
+          "desc": "Tanthauzirani, tsatirani, ndi kufananiza ma KPIs atanthauzo ogwirira ntchito omwe amagwirizana mwachindunji ndi zolinga zazikuluzikulu zamabizinesi."
+        },
+        {
+          "title": "Kuphatikiza kwa Data",
+          "desc": "Gwirizanitsani magwero a deta omwe amagawidwa kukhala malo osungiramo deta ogwirizana ndi zigawo za semantic kuti mupereke malipoti amtundu umodzi wa galasi."
+        },
+        {
+          "title": "Zolemba Zokha",
+          "desc": "Pangani zokha ndikugawa malipoti anu malinga ndi ndandanda yodziwikiratu, malamulo abizinesi, ndi magawo olandila."
+        }
+      ],
+      "lifecycleSteps": [
+        "Business Systems",
+        "Zosonkhanitsa Zambiri",
+        "Kuphatikiza kwa Data",
+        "Kukonza Data",
+        "Data Repository",
+        "Analytics",
+        "Malipoti & Dashboards"
+      ],
+      "benefits": [
+        "Gwero limodzi la chowonadi pabizinesi yonse",
+        "Kufikira mwachangu kumayendedwe anthawi yeniyeni",
+        "Kuchotsa kwathunthu kwa gulu la spreadsheet",
+        "Ma KPI ogwirizana, ogwirizana a m'madipatimenti osiyanasiyana",
+        "Kuyang'anira ndi kuwerengera kwapamwamba",
+        "Kugawa mokhazikika kwa okhudzidwa",
+        "Chitetezo cha data pamlingo wokulirapo ndi zilolezo",
+        "Kupititsa patsogolo luso loyankhira zovuta zantchito"
+      ],
+      "security": "Zambiri zamabizinesi zitha kukhala ndi chidziwitso chokhudza magwiridwe antchito, ndalama, ndi kasitomala. Mayankho athu opereka malipoti akuphatikiza kutsimikizika kwazinthu zambiri, kuvomereza kotengera gawo la granular, kubisa, ndi zolemba zowunikira muzomangamanga zoperekera malipoti.",
+      "ctaHeadline": "Malipoti Amene Amathandizira Kukula",
+      "ctaSub": "Pangani zidziwitso kupezeka. Pangani mawonekedwe. Pangani zisankho zabwino."
+    },
+    "managed-services": {
+      "title": "Ntchito Zoyendetsedwa",
+      "tagline": "Ntchito Zodalirika Zamakono. Thandizo la Katswiri. Kupititsa patsogolo Mopitiriza.",
+      "heroBadge": "24/7 IT Operations & Support",
+      "overview": [
+        "Malo amakono a IT ndi ovuta komanso akusintha nthawi zonse. Mabungwe amafunikira zida zodalirika, mapulogalamu, maukonde, chitetezo, kuyang'anira, ndi chithandizo chaukadaulo kuti mabizinesi aziyenda.",
+        "Ntchito Zathu Zoyang'anira zimapereka kasamalidwe kaukadaulo ndi chithandizo chopitilira, kulola mabungwe kukhalabe ndi malo odalirika a IT pomwe magulu amkati amayang'ana kwambiri zoyeserera."
+      ],
+      "transformation": [
+        "Thandizo lachikhalidwe cha IT nthawi zambiri limayang'ana kwambiri kuthetsa mavuto pambuyo pake. Ntchito zoyang'aniridwa zimatenga njira yachangu poyang'anira mosalekeza zomangamanga, ntchito, machitidwe, ndi momwe amagwirira ntchito.",
+        "Njirayi imathandizira kuzindikira zovuta zomwe zingachitike msanga, kusunga magwiridwe antchito, kupititsa patsogolo kupezeka, komanso kuchepetsa kusokonezeka kwa magwiridwe antchito komwe kungapeweke."
+      ],
+      "capabilities": [
+        {
+          "title": "Kasamalidwe ka Infrastructure",
+          "desc": "Thandizani ntchito yomwe ikupitilira, kuyika, ndi kasamalidwe ka ma seva, kusungirako, nsanja zowonera, ndi zomangamanga."
+        },
+        {
+          "title": "Kuwongolera Kwamtambo",
+          "desc": "Sinthani kuchuluka kwa ntchito zamtambo, zothandizira zamtambo zambiri, masinthidwe, kuyang'anira, magwiridwe antchito, ndi kukhathamiritsa kwa FinOps."
+        },
+        {
+          "title": "Network Management",
+          "desc": "Perekani kuwunika kwa 24/7, kasamalidwe ka magwiridwe antchito, kuthandizira masinthidwe, kukhathamiritsa kwa SD-WAN, ndi kuthetsa vuto la netiweki."
+        },
+        {
+          "title": "Kugwiritsa Ntchito Ntchito",
+          "desc": "Thandizani malo ovuta kugwiritsa ntchito pogwiritsa ntchito kuyang'anira mwachidwi, kukonza, kuthetsa zolakwika, ndi kukonzanso kachitidwe."
+        },
+        {
+          "title": "Kuyang'anira & Kuwona",
+          "desc": "Perekani mawonekedwe enieni a nthawi yeniyeni muumoyo wamakina, latency, uptime, kudalira kwa zomangamanga, ndi zidziwitso."
+        },
+        {
+          "title": "Kusunga zosunga zobwezeretsera & Kubwezeretsa Kasamalidwe",
+          "desc": "Sungani ndandanda zosunga zobwezeretsera zokha, yesani zolephera pafupipafupi, ndikuwonetsetsa kuti zitha kuchira nthawi yomweyo."
+        },
+        {
+          "title": "Ntchito Zachitetezo (SecOps)",
+          "desc": "Perekani kuwunika kosalekeza kwachitetezo, kasamalidwe ka zigamba, kuwongolera njira zolowera, komanso kuchepetsa ziwopsezo mwachangu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Environment Onboarding",
+        "Kupeza & Zoyambira",
+        "Telemetry Integration",
+        "SLA Tanthauzo",
+        "24/7 Kuwunika Kwachangu",
+        "Gulu la Zochitika",
+        "Kukhazikika Kwachangu",
+        "Kusanthula Zomwe Zimayambitsa Mizu",
+        "Kuteteza Engineering",
+        "Kukhathamiritsa Kopitilira"
+      ],
+      "benefits": [
+        "Kuchepetsa kwambiri katundu wamkati",
+        "Kuzindikira kwanthawi yayitali ogwiritsa ntchito asanakhudzidwe",
+        "Kutsimikizika kwa 99.99% kupezeka kwadongosolo ndi nthawi yake",
+        "Zolosera, zowonekera bwino za IT zogwirira ntchito",
+        "Kufikira mwachangu kwa akatswiri akuluakulu a uinjiniya",
+        "Nthawi zoyankha mwachangu za SLA",
+        "Kubwezeretsa masoka ndi kupitiliza kwa bizinesi",
+        "Kukhathamiritsa kwaukadaulo kosalekeza komanso kusinthika kwamakono"
+      ],
+      "security": "Ntchito zathu zomwe timayang'anira zimatsata ndondomeko zokhwima za ITIL ndi ISO, kuwonetsetsa kuti anthu ali ndi mwayi wofikira, zolemba zowerengera zapayekha, malo ochezera a pawokha, komanso kutsata malamulo pazida zilizonse zoyendetsedwa.",
+      "ctaHeadline": "Kupititsa patsogolo Kupititsa patsogolo",
+      "ctaSub": "Mumayang'ana kwambiri bizinesi yanu. Timakuthandizani kuti ukadaulo wanu ugwire ntchito."
+    },
+    "one-stop-technology-solutions": {
+      "title": "One-Stop Technology Solutions",
+      "tagline": "One Technology Partner. Maluso Angapo. Complete Business Solutions.",
+      "heroBadge": "Mgwirizano Wamabizinesi Wogwirizana",
+      "overview": [
+        "Mabungwe nthawi zambiri amagwira ntchito ndi opereka ukadaulo angapo opangira zida, mtambo, mapulogalamu, makina opangira, analytics, chitetezo, chithandizo, ndikusintha kwa digito. Kuwongolera mavenda angapo kumatha kupangitsa kuti pakhale zovuta, zosokoneza kulumikizana, kuyesetsa kobwerezabwereza, komanso magawo aukadaulo aukadaulo.",
+        "Njira yathu ya One-Stop Technology Solutions imabweretsa mphamvu zingapo pamodzi pansi pa chitsanzo chogwirizana chautumiki, kuthandiza mabungwe kukonzekera, kukhazikitsa, kugwirizanitsa, kugwira ntchito, ndi kupitiriza kukonza malo awo aukadaulo."
+      ],
+      "transformation": [
+        "Timathandizira moyo waukadaulo wathunthu-kuchokera pakumvetsetsa zofunikira zamabizinesi ndikutanthauzira njira yaukadaulo popanga mayankho, kukhazikitsa nsanja, kuphatikiza machitidwe, kutumiza ntchito, kuyang'anira malo, ndikupereka chithandizo chopitilira.",
+        "Cholinga chake ndi kupanga ukadaulo wolumikizana ndi chilengedwe m'malo mwa njira zodzipatula."
+      ],
+      "capabilities": [
+        {
+          "title": "Njira & Zomangamanga",
+          "desc": "Mvetsetsani zolinga zamabizinesi ndikupangira mamangidwe osavuta, otetezeka, komanso osungika."
+        },
+        {
+          "title": "Kukhazikitsa & Kumanga",
+          "desc": "Yambitsani ntchito, zomangamanga, zophatikizira, zongopanga zokha, ndi nsanja zama digito zolimba zamabizinesi."
+        },
+        {
+          "title": "Kuphatikiza System",
+          "desc": "Lumikizani machitidwe ndi mapulogalamu kuti chidziwitso chiziyenda bwino pagulu lonse."
+        },
+        {
+          "title": "Kuyika Kwadongosolo",
+          "desc": "Khazikitsani makina a CI/CD ndi njira zotulutsa kuti musunthire mayankho pakupanga modalirika komanso motetezeka."
+        },
+        {
+          "title": "Kuwunika Mopitilira",
+          "desc": "Perekani mawonekedwe omaliza mpaka kumapeto muzomangamanga, ntchito, magwiridwe antchito, kupezeka, ndi thanzi la magwiridwe antchito."
+        },
+        {
+          "title": "Kukhathamiritsa & Thandizo",
+          "desc": "Pitilizani kuyang'ana malo kuti muwongolere magwiridwe antchito, odalirika, okwera mtengo, komanso osavuta."
+        }
+      ],
+      "lifecycleSteps": [
+        "Njira",
+        "Zomangamanga",
+        "Kukhazikitsa",
+        "Kuphatikiza",
+        "Kutumiza",
+        "Kuwunika",
+        "Kukhathamiritsa",
+        "Thandizo"
+      ],
+      "benefits": [
+        "Kuchepetsa kasamalidwe ka mavenda ovuta komanso apamwamba",
+        "Kulumikizana kosasunthika pamagawo onse omanga",
+        "Kugwira ntchito mwachangu popanda kuchedwetsa",
+        "Kugawika kwa bajeti zoloseredwa ndi kutumiza mowonekera",
+        "Kuyankha kwa mabizinesi ogwirizana kuyambira ziro mpaka sikelo",
+        "Mayankho osinthika opangidwira kukula kwa bizinesi yamtsogolo",
+        "Mgwirizano waukadaulo wodalirika wanthawi yayitali",
+        "Kusintha kwa digito kumapeto mpaka kumapeto"
+      ],
+      "security": "Ndi mthandizi m'modzi wodalirika yemwe amayang'anira zomanga, kukhazikitsa, ndi magwiridwe antchito, ulamuliro wachitetezo umakhalabe wosasweka m'magulu onse-kuchotsa malo osawona ophatikizana ndikuwonetsetsa kutsatira mosalekeza.",
+      "ctaHeadline": "Wothandizira Wanu Wathunthu Waukadaulo",
+      "ctaSub": "Wokondedwa m'modzi. Masomphenya amodzi. Tekinoloje zingapo. Mayankho athunthu."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Enterprise Overview",
+    "overviewTitle": "Ukadaulo Wanzeru Pazotsatira Zoyezera",
+    "transformationEyebrow": "Kusintha kwa Ntchito",
+    "transformationTitle": "Kusintha Bizinesi Kupyolera mu Mayendedwe Anzeru Antchito",
+    "deliveryEyebrow": "Njira Yobweretsera Yokonzedwa",
+    "deliveryTitle": "Kumaliza-Kumapeto & Kukhathamiritsa Kosalekeza",
+    "deliveryIntro": "Njira yathu yotsimikizirika yoyendetsera ntchito ikutsatira njira yobweretsera yokhazikika:",
+    "deliveryOutro": "Kutsatizana kokonzedwaku kumatsimikizira kulumikizana kolimba ndi zolinga zamabizinesi, kaimidwe kolimba kotetezedwa, ndi ma benchmarks oyezeka a ROI pagawo lililonse.",
+    "securityEyebrow": "Chitetezo & Ulamuliro",
+    "securityTitle": "Kudalirika kwa Enterprise-Grade & Kuteteza Kugwirizana",
+    "securityOutro": "Tidakhazikitsa njira zoyendetsera mwayi wofikira anthu, kuyang'ana pachiwopsezo, kuyang'anira zitsanzo, ndi kubisa kwamagulu angapo kuti tiwonetsetse kuti malo anu opangira zinthu amakhalabe olimba komanso ogwirizana kwathunthu.",
+    "capabilitiesTitle": "Mphamvu Zamakono Zamakono",
+    "capabilitiesSub": "Luso laukadaulo lathunthu lopangidwa kuti liwonjeze ntchito zanu zama digito.",
+    "bookDiscovery": "Buku la Technology Discovery",
+    "exploreAll": "Onani Matekinoloje Onse",
+    "bookConsultation": "Bweretsani Kukambirana",
+    "coreCapabilities": "Zofunika Kwambiri"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Zofunika Kwambiri",
+    "exploreFramework": "Onani Njira Yothetsera",
+    "bookConsultation": "Bweretsani Kukambirana",
+    "viewCaseStudies": "Onani Nkhani Zophunzira",
+    "provenPillars": "Mizati yotsimikiziridwa",
+    "operationalOutcomes": "Zotsatira Zantchito",
+    "learnMore": "Dziwani Zambiri"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Mapeto-Kumapeto Zomangamanga Za digito",
+      "titlePart1": "Chiyambi Kuti",
+      "titlePart2": "Kutumizidwa",
+      "description": "Kutha-kumapeto kwa njira zatsopano za digito kuchokera ku zofunikira zabizinesi ndi mamangidwe a mayankho kudzera mu chitukuko, kuphatikiza, kuyesa, kutumiza, ndi kuthandizira kosalekeza.",
+      "bookConsultation": "Bweretsani Kukambirana",
+      "exploreEngineering": "Onani Njira Zothetsera Mavuto",
+      "coreCapabilities": [
+        "Zofunikira Zomangamanga",
+        "Zomangamanga Zothetsera",
+        "Kupititsa patsogolo Ntchito",
+        "API Integration",
+        "Chitsimikizo Chabwino",
+        "DevOps",
+        "Kutumiza",
+        "Thandizo & Kusamalira"
+      ],
+      "row1Eyebrow": "Kutumiza kwa Moyo Wathunthu",
+      "row1Title": "Kupititsa patsogolo Kumapeto-Kumapeto kuchokera ku Zofunikira mpaka Pamlingo",
+      "row1P1": "Njira iliyonse yatsopano ya digito imayamba ndi zofunikira zapadera, mayendedwe ogwirira ntchito, ndi zolinga zanzeru zomwe sizingakwaniritsidwe ndi pulogalamu yamtundu umodzi. Timakhazikika pakumanga machitidwe, mapulogalamu apamwamba kwambiri kuyambira pachiyambi.",
+      "row1P2": "Kuyambira pa zofunika zoyamba zotulukira ndi kamangidwe ka luso la zomangamanga mpaka pa chitukuko cha liwiro lothamanga, kuphatikizika kwa API ecosystem, mapaipi oyesera amphamvu, ndi kutumiza mitambo paotomatiki, magulu athu akuluakulu a uinjiniya amatenga umwini wonse wa moyo wazinthu zanu.",
+      "row2Eyebrow": "Zomangamanga Zothetsera & Zomangamanga",
+      "row2Title": "Scalable Systems Zopangidwira Kukula kwa Bizinesi",
+      "row2P1": "Timapanga mapulogalamu olimba olimba kuti athe kupirira katundu wolemetsa. Kuchokera ku ma modular microservices ndi ma backends oyendetsedwa ndi zochitika kupita kumayendedwe apamwamba a data ndi GraphQL/REST APIs, timapanga nsanja zomwe zimakulirakulirabe.",
+      "row2P2": "Pokhazikitsa ma codebase oyera, ophatikizidwa ndi kuyezetsa kodziwikiratu komanso kutsatira mosalekeza chitetezo, timaonetsetsa kuti pulogalamu yanu ya pulogalamuyo ndiyokhazikika, yowerengeka, komanso yokonzeka kusinthika kwakanthawi.",
+      "row3Eyebrow": "Chitsimikizo Chabwino & DevOps",
+      "row3Title": "Kutumiza kwa Agile ndi Mapaipi Odzichitira",
+      "row3P1": "Mtundu wathu wobweretsera umayika makina odzichitira okha, kuphatikiza, ndikuyesa komaliza mpaka kumapeto pamodzi ndi ma CI/CD workflows (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Ndi ma demos owonekera bwino, kuwonetsetsa kwa nthawi yeniyeni, ndi liwiro loyendetsedwa ndi zochitika zazikulu, timatsimikizira nthawi yopita kumsika popanda kusokoneza chitetezo, kukhazikika, kapena chidziwitso cha ogwiritsa ntchito.",
+      "row4Eyebrow": "Kutumiza & Thandizo",
+      "row4Title": "Ntchito Zodalirika za 24/7 ndi Kusintha Kwanthawi Yaitali",
+      "row4P1": "Kukhala moyo ndi chiyambi chabe. Timapereka kuwunika kokhazikika, kukonza mothandizidwa ndi SLA, kukhathamiritsa kwazinthu zamtambo, kukonza magwiridwe antchito, ndi kutulutsa kosalekeza.",
+      "row4P2": "Gulu lathu la mainjiniya limagwira ntchito ngati chiwonjezeko chachilengedwe cha bungwe lanu, kuwonetsetsa kuti palibe nthawi yopumira komanso kupitilira patsogolo kwaukadaulo pamsika wanu.",
+      "pillarsTitle": "Zofunika Kwambiri",
+      "pillarsSub": "Maluso athunthu opangidwa kuti atenge malingaliro anu kuchokera paziro mpaka kupanga.",
+      "pillar1Title": "Zofunikira Zomangamanga",
+      "pillar1Desc": "Kusanthula kwamabizinesi mozama, mawonekedwe ogwirira ntchito, ndi mapu aulendo wa ogwiritsa ntchito kuti afotokozere malire ake.",
+      "pillar2Title": "Zomangamanga Zothetsera",
+      "pillar2Desc": "Zomangamanga zowoneka bwino pamtambo, ma modeling database, kapangidwe ka microservices, ndi maziko achitetezo a zero-trust.",
+      "pillar3Title": "Kupititsa patsogolo Ntchito",
+      "pillar3Desc": "Mapulogalamu amakono a intaneti ndi mafoni am'manja opangidwa ndi ma code aukhondo, chitetezo chamtundu, komanso miyezo yokhazikika ya UI.",
+      "pillar4Title": "API Integration",
+      "pillar4Desc": "High-throughput REST/GraphQL APIs, orchestrations webhook, zipata zolipira, ndi kulunzanitsa kwachitatu kwa ERP/CRM.",
+      "ctaTitle": "Mwakonzeka Kupanga Njira Yanu Yothetsera Vuto Lanu Kuyambira Pakuyambira Mpaka Kutumizidwa?",
+      "ctaSub": "Gwirizanani ndi Rezonants kuti mupange mapulani, mainjiniya, ndi kutumiza nsanja yanu ya digito kuyambira pazamalonda mpaka zenizeni zopanga.",
+      "ctaButton": "Sungani Kukambirana Mayankho",
+      "pillar5Title": "Chitsimikizo Chabwino",
+      "pillar5Desc": "Mayeso odziyimira pawokha, kuyezetsa katundu/kupsinjika, masikani osatetezeka, ndi ma suites oyeserera.",
+      "pillar6Title": "DevOps & Deployment",
+      "pillar6Desc": "Mapaipi odziyimira pawokha a CI/CD, orchestration (Docker/K8s), zomangamanga monga ma code, ndi kutulutsa zero-downtime.",
+      "pillar7Title": "Thandizo & Kusamalira",
+      "pillar7Desc": "24/7 kuyang'anitsitsa mosamala, telemetry zaumoyo, kufufuza ntchito, kuyika chitetezo, ndi kukonza kwa SLA kosalekeza.",
+      "pillar8Title": "Kupanga Kwatsopano",
+      "pillar8Desc": "Kuthamanga kwanthawi zonse, kuphatikizika kwa data analytics, kukulitsa kwa AI, ndi kukonzanso kamangidwe kamakono."
+    },
+    "processAutomation": {
+      "eyebrow": "Zochita Zanzeru",
+      "titlePart1": "Business Process",
+      "titlePart2": "Zochita zokha",
+      "description": "Kumapeto-kumapeto kwa ntchito zamabizinesi, kuphatikiza ma robotic process automation (RPA), kukonza zolemba mwanzeru, injini zamalamulo zamabizinesi, ndi kuphatikiza dongosolo.",
+      "bookDiscovery": "Book Automation Discovery",
+      "exploreFramework": "Onani Njira Yayankho",
+      "coreCapabilities": [
+        "Zochita Zoyenda Ntchito",
+        "Robotic Process Automation",
+        "Kukonza Zolemba",
+        "Integration Engineering",
+        "Bizinesi Malamulo Engine",
+        "Njira Analytics",
+        "Kukhathamiritsa Kopitirira",
+        "Cholowa Chophatikizana"
+      ],
+      "row1Eyebrow": "Robotic Process Automation",
+      "row1Title": "Maboti Anzeru Ogwira Ntchito Zapamwamba",
+      "row1P1": "Chotsani kulowetsa deta mobwerezabwereza, kuyanjanitsa kwadongosolo, ndi njira zolembera. Timagwiritsa ntchito ma RPA bots omwe amagwira ntchito zokhazikika 24/7 ndi ziro zolakwika.",
+      "row1P2": "Mwa kulumikiza mawonekedwe apakompyuta a cholowa, ma SAP/ERP backends, ndi ma database amtambo, ma software bots amamasula gulu lanu kuti liziyang'ana kwambiri zoyambira bizinesi.",
+      "row2Eyebrow": "Intelligent Document Processing",
+      "row2Title": "OCR, Machine Learning & Document AI",
+      "row2P1": "Lowetsani, sinthani, ndikuchotsani ma invoice, makontrakitala, zikalata, ndi zodandaula. Mapaipi athu oyendetsedwa ndi AI amatsimikizira minda motsutsana ndi nkhokwe zamkati ndikuyambitsa mayendedwe ovomerezeka okha.",
+      "row2P2": "Fikirani mitengo yowongoka yopitilira 95% pomwe mumachepetsa kwambiri nthawi yosinthira kuyambira masiku kupita masekondi.",
+      "row3Eyebrow": "Njira ya Orchestration",
+      "row3Title": "Kulunzanitsa-Kumapeto-Kumapeto-Platform",
+      "row3P1": "Lumikizani CRM, ERP, HRMS, ndi ma API aku banki kuti muyendetse deta yogwirizana munthawi yeniyeni. Timagwiritsa ntchito zoyambitsa zochitika zoyendetsedwa ndi zochitika, mizere ya mauthenga, ndi zowongolera zobwerera zokha.",
+      "row3P2": "Chidziwitso chimayenda bwino m'madipatimenti onse popanda kulowererapo kwa anthu, kuthetsa ma silo ogwirira ntchito komanso kuchedwa kwa kulumikizana.",
+      "row4Eyebrow": "Kupitilira Telemetry",
+      "row4Title": "Real-Time Process Analytics & Kaizen Insights",
+      "row4P1": "Tsatani nthawi zogwirira ntchito, mamapu otentha a botolo, ma frequency olakwika, ndi ROI yandalama muma dashboard akuluakulu a nthawi yeniyeni.",
+      "row4P2": "Kusanthula kosalekeza kwa makina ophunzirira kumapeza mwayi watsopano wodzipangira okha, kupangitsa kuti bizinesi yanu igwire bwino ntchito.",
+      "pillarsTitle": "Mizati yodzichitira yokha",
+      "pillarsSub": "Zomangira zotsimikizika zamabizinesi anzeru.",
+      "pillar1Title": "Kuyenda kwa ntchito",
+      "pillar1Desc": "Multi-step human-in-the-loop and digital workflows orchested with automated routing and kukwera.",
+      "pillar2Title": "Robotic Process Automation",
+      "pillar2Desc": "Bots yokhazikitsidwa ndi malamulo yomwe ikuchita chizolowezi cholowa, kuyanjanitsa, ndi ntchito zosiyanasiyana.",
+      "pillar3Title": "Intelligent AI Automation",
+      "pillar3Desc": "Othandizira ozindikira a AI omwe amamasulira nkhani, kufotokoza mwachidule mawu osalongosoka, ndikupanga zisankho zokha.",
+      "pillar4Title": "Kukhathamiritsa kwa Njira",
+      "pillar4Desc": "Njira za migodi, kuzindikira kwa botolo, ndi kayendedwe ka ntchito ka Kaizen komwe kumachepetsa ndalama zogwirira ntchito mosalekeza.",
+      "ctaTitle": "Mwakonzeka Kungosintha Mayendedwe Abizinesi Anu?",
+      "ctaSub": "Lumikizanani ndi okonza makina athu kuti muzindikire mwayi wa ROI wapamwamba ndikuyika mayendedwe anzeru a digito.",
+      "ctaButton": "Sungitsani Kufunsira kwa Automation"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Engineering Standard & R&D",
+      "titlePart1": "Pakati pa",
+      "titlePart2": "Zabwino kwambiri",
+      "description": "Bungwe lapakati la akatswiri omanga mapulani akuluakulu ndi akatswiri a madera odzipereka kuti akhazikitse machitidwe a uinjiniya, kuyendetsa zatsopano, komanso kufulumizitsa zoyambitsa digito.",
+      "exploreStandards": "Onani Miyezo Yaumisiri",
+      "initiateAssessment": "Yambitsani Kuwunika kwa CoE",
+      "coreCapabilities": [
+        "Miyezo Yomangamanga",
+        "Zosintha Zosinthika",
+        "Ulamuliro Wabwino Kwambiri",
+        "Kupititsa patsogolo luso",
+        "Benchmarking Yabwino",
+        "R&D & Innovation",
+        "Technology Evaluation",
+        "Chitsogozo cha Ntchito Yodutsa"
+      ],
+      "uptimeLabel": "Enterprise Uptime",
+      "engineersLabel": "Akatswiri & Omangamanga",
+      "deploymentsLabel": "AI & Cloud Deployments",
+      "satisfactionLabel": "Kukhutitsidwa kwa Makasitomala",
+      "row1Eyebrow": "Mzati 01 - Engineering Standard",
+      "row1Title": "Umisiri Wamapulogalamu Wapamwamba",
+      "row1P1": "Center of Excellence yathu imakhazikitsa mapangidwe okhazikika, kuyezetsa makina mokhazikika, ndi machitidwe owunika ma code opanda vuto omwe amafulumizitsa kugulitsa nthawi ndikusunga ngongole zaukadaulo mpaka ziro.",
+      "row1F1": "Mapaipi otulutsa a CI/CD okhala ndi ma analytics a DORA",
+      "row1F2": "Ma board okhwima owunikira komanso maulamuliro a microservices",
+      "row1F3": "Kukhazikika kosalekeza kwachitetezo ndikuyika pachiwopsezo chokhazikika",
+      "row1Btn": "Phunzirani Miyezo ya Uinjiniya",
+      "row1Tag": "DevOps & Quality Engineering",
+      "row2Eyebrow": "Mzati 02 - R&D Innovation",
+      "row2Title": "AI Innovation Lab & Emerging Technology",
+      "row2P1": "Timayesa makina apamwamba kwambiri ophunzirira makina, othandizira a AI, ndi makina anzeru opangira makina opangira mabizinesi am'badwo wotsatira.",
+      "row2F1": "Enterprise Generative AI & RAG kuphatikiza chidziwitso",
+      "row2F2": "Autonomous AI wothandizila mayendedwe abizinesi akupanga zokha",
+      "row2F3": "Kukhathamiritsa kwa makina ophunzirira makina & kukonza bwino",
+      "row2Btn": "Onani AI Lab",
+      "row2Tag": "Artificial Intelligence & Neural R&D",
+      "row3Eyebrow": "Mzati 03 - Zomangamanga",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Timapanga ndi kukonza malo okhazikika a mitambo yambiri omangidwa pazida zotetezedwa, kuwonetsetsa kuti deta yanu ikhala yotetezedwa ku ziwopsezo zapadziko lonse lapansi.",
+      "row3F1": "AWS, Azure, & GCP multi-cloud infrastructure orchestration",
+      "row3F2": "Zero-trust network access (ZTNA) & mfundo za IAM zotengera maudindo",
+      "row3F3": "Kusanthula kwachitetezo cha zida zodziwikiratu & kasamalidwe kachinsinsi",
+      "row3Btn": "Onani Cloud & Chitetezo",
+      "row3Tag": "Cloud Architecture & Zero-Trust",
+      "pillarsTitle": "Mipangidwe Yathu Yopambana Kwambiri",
+      "pillarsSub": "Ma playbook otukuka mwadongosolo omwe amathandizira nsanja zofunikira kwambiri.",
+      "pillar1Title": "Bungwe Loyang'anira Zomangamanga (ARB)",
+      "pillar1Desc": "Kuyang'anira kwathunthu kuwonetsetsa kuti mayankho onse amabizinesi akugwirizana ndi kukhazikika, chitetezo, ndi kutsatira malamulo.",
+      "pillar2Title": "Ma Accelerator Ogwiritsanso Ntchito & Component Library",
+      "pillar2Desc": "Machitidwe opangira umwini, zida zoyambira za API, ndi ma tempuleti a microservice a backend kuchepetsa nthawi yoyambira yachitukuko ndi 40%.",
+      "pillar3Title": "Mbiri Yantchito Yopitilira",
+      "pillar3Desc": "Mapaipi apamwamba kwambiri omwe amawunikira nthawi yeniyeni yowunikira kuchedwa kwa ntchito, zolepheretsa, komanso kugwiritsa ntchito mtambo.",
+      "pillar4Title": "Kupititsa patsogolo Maluso & Magulu",
+      "pillar4Desc": "Mabungwe opangidwa ndi ziphaso zamkati zomwe zimakulitsa luso lakuya pamtambo, DevOps, ndikugwiritsa ntchito AI.",
+      "ctaTitle": "Kwezani Mulingo Wanu Waumisiri",
+      "ctaSub": "Gwirizanani ndi Rezonants's Center of Excellence kuti mupange zomanga zamtambo zolimba, kuyendetsa ntchito, ndikufulumizitsa kutumiza zinthu pakompyuta.",
+      "ctaButton": "Konzani Zokambirana za Executive",
+      "badge": "Malingaliro a kampani REZONANTS COE",
+      "scroll": "Mpukutu",
+      "p1Title": "Ulamuliro & Zikhazikiko",
+      "p1Desc": "Khazikitsani ulamuliro wa mabizinesi onse, zosunga malamulo, ndi mfundo zotsatiridwa.",
+      "p1Tag": "Ulamuliro",
+      "p2Title": "Miyezo Yaukadaulo & Zomangamanga",
+      "p2Desc": "Tanthauzirani kamangidwe kamakono, masanjidwe aukadaulo, ndi ma microservices.",
+      "p2Tag": "Zomangamanga",
+      "p3Title": "Katundu Wogwiritsanso Ntchito & Malaibulale",
+      "p3Desc": "Fulumizani liwiro lachitukuko ndi zigawo zogawana, ma tempulo, zida zoyambira, ndi machitidwe opangira.",
+      "p3Tag": "Reusability",
+      "p4Title": "Kupititsa patsogolo luso",
+      "p4Desc": "Maphunziro okhazikika, upangiri waukadaulo, ndi kupatsa mwayi luso kukweza luso la uinjiniya wamagulu.",
+      "p4Tag": "Kukhoza",
+      "p5Title": "Innovation & Emerging Tech",
+      "p5Desc": "R&D pa othandizira a AI, mapaipi odzipangira okha, ndi machitidwe am'badwo wotsatira kuti asunge msika.",
+      "p5Tag": "Zatsopano",
+      "p6Title": "Kupititsa patsogolo Kupititsa patsogolo",
+      "p6Desc": "Ma metrics a engineering oyendetsedwa ndi data (DORA), benchmarking ya SLA, ndi kukhathamiritsa kopitilira muyeso.",
+      "p6Tag": "Ubwino"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Tailored Digital Engineering",
+      "titlePart1": "Kupanga Mwamakonda &",
+      "titlePart2": "Kusintha Mwamakonda Anu",
+      "description": "Kupititsa patsogolo ndi kupititsa patsogolo ntchito, nsanja, kayendetsedwe ka ntchito, ndi zothetsera mabizinesi kuti athe kuthana ndi zofunikira zapadera zamabizinesi ndikupereka magwiridwe antchito oyenera.",
+      "bookConsultation": "Bweretsani Kukambirana",
+      "exploreCapabilities": "Onani Zotha",
+      "coreCapabilities": [
+        "Chitukuko cha Mwambo",
+        "Kusintha kwa Platform",
+        "Zowonjezera",
+        "Mayendedwe Mwamakonda Ntchito",
+        "Kukula kwa API",
+        "Kuphatikiza System",
+        "Kupititsa patsogolo UI/UX",
+        "Kukhathamiritsa Kwantchito"
+      ],
+      "row1Eyebrow": "NTCHITO YOPHUNZITSIDWA",
+      "row1Title": "Zinthu Za Bespoke Zomwe Zimapangidwira Pantchito Yanu",
+      "row1P1": "Mapulogalamu okhazikika abizinesi nthawi zambiri amalephera kukwaniritsa zofunikira zamabizinesi. Gulu lathu laukatswiri waukadaulo limapanga ma module ogwiritsira ntchito bespoke, malamulo amabizinesi okhazikika, ndi zowonjezera zapadera zogwirizana ndi ntchito zanu.",
+      "row1P2": "Kuchokera pa zokometsera za CRM ndi ERP kupita kumalo apadera ogwirira ntchito, timapanga zinthu zomwe zimagwirizana bwino ndi momwe gulu lanu limayendera.",
+      "row2Eyebrow": "ENTERPRISE SYSTEM INTEGRATION",
+      "row2Title": "Kusintha kwa Platform & Development API",
+      "row2P1": "Lumikizani mapulogalamu osiyanasiyana kuti mugwirizane ndi chilengedwe cha digito. Timakonza ma REST ndi ma GraphQL API, ma webhook, ndi mizere ya mauthenga abizinesi kuti muwonetsetse kulumikizana kwa data munthawi yeniyeni pamapulatifomu anu onse.",
+      "row2P2": "Kaya tikuphatikiza zida za SaaS za chipani chachitatu kapena kukulitsa nsanja za eni ake, zomanga zathu zophatikizira zimayika patsogolo kukhulupirika kwa data, kutulutsa, ndi kutsika kwa ziro.",
+      "row3Eyebrow": "UI/UX & PERFORMANCE",
+      "row3Title": "Zowonjezera UI/UX & Kukhathamiritsa Kwantchito",
+      "row3P1": "Kwezani zolumikizirana ndi zokumana nazo zamakono, zomvera zomwe zimapangidwira mwachangu komanso momveka bwino. Timakonzanso kutsogolo ndi mapangidwe anzeru, kutsata zopezeka, ndi mitundu yolumikizirana yowongoka.",
+      "row3P2": "Mofananamo, mainjiniya athu amawongolera mafunso ankhokwe, njira zosungira, ndi kukula kwa ma bandle akutsogolo kuti apereke mayankho pompopompo pazida zonse.",
+      "pillarsTitle": "Zopangidwa ndi Zomwe Mumakonda",
+      "pillarsSub": "Njira zosinthira mabizinesi kuti ziwonjezeke mopanda malire.",
+      "pillar1Title": "Mayendedwe Antchito & Zowonjezera",
+      "pillar1Desc": "Malingaliro ogwiritsiridwa ntchito ogwirizana ndi makina odzipangira okha opangidwa mozungulira malamulo anu amkati.",
+      "pillar2Title": "API & System Integration",
+      "pillar2Desc": "Otetezedwa, milatho yotsimikizika ya data yolumikiza ma backend eni eni, ma suites a ERP, zipata zolipirira, ndi ntchito zamtambo.",
+      "pillar3Title": "Kusintha kwa Platform",
+      "pillar3Desc": "Zosintha zakuya zomwe zimasintha mapulogalamu abizinesi popanda kuphwanya njira zokwezera kapena mapangano othandizira ogulitsa.",
+      "pillar4Title": "Kukhathamiritsa Kwantchito",
+      "pillar4Desc": "Mafunso aukali, kuchotsa kukumbukira kutayikira, ndi kugawa kwapambali kwa CDN kwa katundu watsamba lachiwiri.",
+      "ctaTitle": "Mwakonzeka Kusintha Bizinesi Yanu Mwamakonda Anu?",
+      "ctaSub": "Lumikizanani ndi omanga mayankho athu kuti mupange ndi kutumiza ma module achizolowezi, mayendedwe a ntchito, ndi kuphatikiza kogwirizana ndi zosowa zanu zamabizinesi.",
+      "ctaButton": "Sungitsani Kuyimba Mwamakonda Anu",
+      "badge": "Tailored Digital Engineering",
+      "viewAllServices": "Onani Ntchito Zonse"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Enterprise Modernization",
+      "titlePart1": "Za digito",
+      "titlePart2": "Kusintha",
+      "description": "Kupititsa patsogolo kwamakono kwa njira zamabizinesi, zomangamanga zamakono, ndi zitsanzo zogwirira ntchito kuti ziyendetse kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe ka kayendetsedwe kake.",
+      "startTransformation": "Yambani Kusintha",
+      "exploreStrategy": "Onani Njira",
+      "coreCapabilities": [
+        "Strategy & Roadmapping",
+        "Zomangamanga Zamakono",
+        "Cloud & Infrastructure",
+        "Data & Analytics",
+        "Njira Digitization",
+        "Zochitikira Makasitomala",
+        "Kusintha Kasamalidwe",
+        "Ma Model Ogwiritsa Ntchito Agile"
+      ],
+      "row1Eyebrow": "Strategy & Roadmap",
+      "row1Title": "Kuchokera Masomphenya kupita ku Mapu Ogwirika",
+      "row1P1": "Timagwirizana ndi atsogoleri amabizinesi kuti tifotokozere njira za digito, milandu yamabizinesi, ndi misewu yokhazikika ndikupambana mwachangu komanso kuphedwa kopanda chiopsezo.",
+      "row1P2": "Zochita zotsogola, zitsanzo za TCO, ndi ma KPIs zimawonetsetsa kuti ukadaulo wamakono uliwonse umagwirizana mwachindunji ndi ndalama, zogwira mtima, komanso zokhutiritsa makasitomala.",
+      "row2Eyebrow": "Legacy Modernization",
+      "row2Title": "Sinthani Bwino Popanda Kuphwanya Bizinesi",
+      "row2P1": "Bwezeraninso nsanja za monoliths ku ma microservices, ma API, ndi machitidwe amtundu wamtambo okhala ndi zero-downtime cutovers ndi kutsimikizika kokhazikika.",
+      "row2P2": "Timasintha mapulogalamu, nkhokwe, ndi magawo ophatikizira pomwe tikusunga kutsata ndi chitetezo.",
+      "row3Eyebrow": "Cloud, AI & Data",
+      "row3Title": "Cloud Adoption & Data-Driven Intelligence",
+      "row3P1": "Adopt AWS, Azure, ndi GCP, pangani mapaipi amakono a data, ndikuyika othandizira ophunzirira makina kuti aziyendetsa zisankho zodziyimira pawokha.",
+      "row3P2": "Kuchokera pa zochitika zenizeni zenizeni kupita ku ma dashboard ogwirizana, kusintha kumakhala koyezeka komanso kokhazikika.",
+      "row4Eyebrow": "Zochitika Makasitomala",
+      "row4Title": "Zochitika Zamakono za Omnichannel",
+      "row4P1": "Konzaninso maulendo amakasitomala pa intaneti yomvera, iOS, Android, ndi ma portal odzichitira okha okhala ndi makonda anu.",
+      "row4P2": "Uinjiniya wa nsanja, telemetry, ndi ma loops ongodzipangira okha zimapangitsa luso la digito kupitiliza.",
+      "pillarsTitle": "Zipilala Zosintha",
+      "pillarsSub": "Zowongolera zomwe zimayang'ana pazotsatira zomwe zimatsimikizira utsogoleri wokhazikika wa digito.",
+      "pillar1Title": "Digital Strategy & Governance",
+      "pillar1Desc": "Zosintha zosintha pang'onopang'ono zokhala ndi zitsanzo zamabizinesi, kayendetsedwe ka kamangidwe, komanso kutsata ziwopsezo zazikulu.",
+      "pillar2Title": "Cloud & Data Platform",
+      "pillar2Desc": "AWS/Azure/GCP maziko a mitambo yambiri, mapaipi odzipangira okha, ndikuthandizira kusanthula deta yamabizinesi.",
+      "pillar3Title": "AI & Automation",
+      "pillar3Desc": "Njira zodzichitira mwanzeru, ma AI othandizira, ndi telemetry yolosera kuti mukwaniritse ntchito za tsiku ndi tsiku.",
+      "pillar4Title": "Zochitika Makasitomala",
+      "pillar4Desc": "Zipata za digito za omnichannel zosinthika kwambiri komanso zolumikizira makonda zomwe zimapangidwira kuti azisunga ogwiritsa ntchito kwambiri.",
+      "ctaTitle": "Mwakonzeka Kusintha Bizinesi Yanu?",
+      "ctaSub": "Gwirizanani ndi Rezonants pakusintha kwa digito kwapang'onopang'ono, kopanda chiwopsezo cholumikizidwa ndi zotulukapo zoyezeka zamabizinesi.",
+      "ctaButton": "Sungitsani Kuyimba kwa Digital Transformation",
+      "bookWorkshop": "Msonkhano Wosintha Mabuku",
+      "exploreFramework": "Onani Njira Yothetsera",
+      "coreCapabilitiesTitle": "Zofunika Kwambiri"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Complete Technology Lifecycle",
+      "titlePart1": "Yankho Lakumapeto-kumapeto",
+      "titlePart2": "Chikhazikitso",
+      "description": "Dongosolo lokhazikika, lothandizira moyo wonse lomwe limatengera zofunikira zamabizinesi, kamangidwe kamangidwe, uinjiniya, kuphatikiza, kutsimikizira kwabwino, kutumiza mitambo, ndi ntchito zoyendetsedwa.",
+      "startJourney": "Yambitsani Ntchito Yanu",
+      "exploreFramework": "Onani Zomangamanga",
+      "coreCapabilities": [
+        "Kusanthula Zofunikira",
+        "Zomangamanga Zomangamanga",
+        "Chitukuko Chokwanira Chokwanira",
+        "Integration Engineering",
+        "Chitsimikizo Chabwino",
+        "Kutumiza & Kutulutsa",
+        "Ntchito Zopitilira",
+        "Chisinthiko Chopitilira"
+      ],
+      "row1Eyebrow": "Njira & Zomangamanga",
+      "row1Title": "Zofunika Engineering & Solution Design",
+      "row1P1": "Zokambirana zogwirira ntchito, kupanga mapu a bizinesi, ndi zomangamanga zamtambo zomwe zimapangidwira kuthetsa chiopsezo chisanalembedwe mzere wa code.",
+      "row1P2": "Timatanthawuza zitsanzo za data, zotetezera, ndi zochitika zazikulu zomwe zimakhazikitsa kupambana kwa nthawi yaitali.",
+      "row2Eyebrow": "Engineering & Quality",
+      "row2Title": "Chitukuko Chokwanira Chokwanira & Kuyesa Mwadzidzidzi",
+      "row2P1": "Modular microservices, ma API otetezeka amtundu, ndi ma frontend omvera ophatikizidwa ndi ma unit automated, kuphatikiza, ndi masikani achitetezo.",
+      "row2P2": "Mapaipi ophatikizika mosalekeza ndi GitHub Actions, Terraform, ndi makina oteteza chitetezo.",
+      "row3Eyebrow": "Kutumiza & Ntchito",
+      "row3Title": "Cloud Deployment & 24/7 Managed Monitoring",
+      "row3P1": "Kuimba kwa mitambo yambiri pa AWS/Azure/GCP yokhala ndi makina obweza kumbuyo, zodulira zero-downtime, komanso kuwonera nthawi yeniyeni.",
+      "row3P2": "Timapereka chisamaliro chochirikizidwa ndi SLA ndikuwunika mosalekeza pa telemetry kuti tisinthe malonda anu mosasinthika.",
+      "row4Eyebrow": "Ulamuliro wa Makampani",
+      "row4Title": "Ulamuliro Wogwirizana & Thandizo Lopitirira",
+      "row4P1": "Kuyankha pamfundo imodzi pamtundu wanu wonse wa digito - kuthamanga kwa liwiro lowonekera, bajeti yodziwikiratu, komanso ukadaulo wopitilira.",
+      "row4P2": "Kutulutsa pafupipafupi komanso kusintha kwamakono kumapangitsa kuti bizinesi yanu ikhale patsogolo pa mpikisano.",
+      "pillarsTitle": "Mizati ya Lifecycle Framework",
+      "pillarsSub": "Gawo lililonse limapangidwa mokhazikika pamabizinesi.",
+      "pillar1Title": "Njira & Zofunikira",
+      "pillar1Desc": "Kupezeka kwa malo, misewu yomanga, ndi kulumikizana kwa omwe akukhudzidwa kuti athetse ziwopsezo zakupha.",
+      "pillar2Title": "Zomangamanga & Kumanga",
+      "pillar2Desc": "Resilient cloud-native microservices, kuphatikiza API, ndi kuyesa kosalekeza kwa QA.",
+      "pillar3Title": "Chitetezo & Kutumiza",
+      "pillar3Desc": "Kutsata chitetezo cha Zero-trust, zotulutsa zokhala ndi zida, komanso kutumiza mitambo pawokha.",
+      "pillar4Title": "Ulamuliro & Thandizo",
+      "pillar4Desc": "Kuwunika kwa 24/7 SLA, telemetry yaumoyo, ndi uinjiniya wopitilira chisinthiko.",
+      "ctaTitle": "Mukufuna Mnzanu Wathunthu Wozungulira Moyo Wanu?",
+      "ctaSub": "Ndife eni ake aukadaulo wanthawi zonse kuti gulu lanu liziyang'ana pazotsatira zazikulu zabizinesi.",
+      "ctaButton": "Partner for Full Lifecycle"
+    },
+    "migrationServices": {
+      "eyebrow": "Kusintha kwa Cloud & Infrastructure",
+      "titlePart1": "Kusamuka &",
+      "titlePart2": "Zamakono",
+      "description": "Kusamuka kotetezedwa, kolongosoka kwa ntchito zakale, nkhokwe zosungiramo zinthu zakale, ndi zomangamanga kupita kumapangidwe amakono amtambo, ophatikizidwa ndi kusinthika kosalekeza kuti azitha kuchita bwino komanso kuchita bwino.",
+      "bookAssessment": "Kuwunika kwa Kusamuka kwa Mabuku",
+      "exploreStrategy": "Onani Cloud Strategy",
+      "coreCapabilities": [
+        "Kusamuka kwa Mitambo",
+        "Kugwiritsa Ntchito Masiku Ano",
+        "Kusamuka kwa Database",
+        "Infrastructure Rehosting",
+        "Containerization",
+        "Kusintha kwa Microservices",
+        "Kukhathamiritsa Kwantchito",
+        "Chitetezo & Kutsata"
+      ],
+      "row1Eyebrow": "Kusamuka kwa Mitambo",
+      "row1Title": "Multi-Cloud Strategy & Lift-and-Optimize",
+      "row1P1": "Kusamuka kosasunthika kwa ntchito kudutsa AWS, Azure, ndi Google Cloud ndi zodziwikiratu, kukonza mafunde, komanso kusokoneza bizinesi.",
+      "row1P2": "Timalinganiza rehosting, replatforming, ndi refactoring kuti tikwaniritse mtengo wonse wa umwini (TCO) ndi mphamvu.",
+      "row2Eyebrow": "Kusamuka kwa Data & Database",
+      "row2Title": "Tetezani ETL & Kutsimikizira Zodziwikiratu",
+      "row2P1": "Kubwereza kobwerezabwereza kwa database, kumasulira kwa schema, ndi mapaipi apamwamba a ETL ndi 100% yotsimikizira kukhulupirika kwa data.",
+      "row2P2": "Zero-downtime cutover rehearsal zimatsimikizira kusasinthika kwa data ndi kupitiliza kwa bizinesi.",
+      "row3Eyebrow": "Platform Modernization",
+      "row3Title": "Containerization & Kubernetes Orchestration",
+      "row3P1": "Sinthani ma monoliths amakono kukhala ma microservices owopsa opangidwa kudzera Kubernetes (EKS, AKS, GKE) okhala ndi mapulani a IaC.",
+      "row3P2": "Mbiri ya ntchito yosamukira pambuyo pa kusamuka ndi kukhathamiritsa kwa mtengo zimatsimikizira ROI yanthawi yayitali.",
+      "row4Eyebrow": "Cutover Planning",
+      "row4Title": "Mayeso Odzichitira okha & Rollback Safety Nets",
+      "row4P1": "Ma cutover runbook oyeserera nkhondo, ma automated regression suites, ndi njira zobweza pompopompo kuti mukhale ndi mtendere wamumtima.",
+      "row4P2": "Telemetry yaumoyo wapambuyo-kusamuka ndi 24/7 hypercare zimatsimikizira kukhazikika kopanga kopanda cholakwika.",
+      "pillarsTitle": "Zitsimikizo Zakusamuka",
+      "pillarsSub": "Mayendedwe ochotsedwa pachiwopsezo mothandizidwa ndi ma SLA amabizinesi.",
+      "pillar1Title": "Zero-Downtime Cutover",
+      "pillar1Desc": "Kutulutsa kwa Canary ndi kulunzanitsa kwapawiri-kulemba kuti muwonetsetse kuti ogwiritsa ntchito sangasokonezeke.",
+      "pillar2Title": "Kutsimikizika kwa Data Yokha",
+      "pillar2Desc": "Kufananitsa kwa Checksum, kuwunika kwa schema integrity, ndi kuyanjanitsa kwa ETL.",
+      "pillar3Title": "Rollback Safety Nets",
+      "pillar3Desc": "Ndondomeko zolimba zobwezeretsa masoka ndi zoyeserera kuti zikhale ndi chiopsezo pagawo lililonse.",
+      "pillar4Title": "Kuchita & Kukhathamiritsa Mtengo",
+      "pillar4Desc": "Kuyika ufulu wamtambo, ndondomeko za autoscaling, ndi ma dashboards oyendetsera ndalama akuphatikizidwa.",
+      "ctaTitle": "Mwakonzeka Kusamuka Ndi Chidaliro Chonse?",
+      "ctaSub": "Gwirizanani ndi Rezonants pamtambo wokhazikika, wopanda chiwopsezo komanso kusintha kwa data.",
+      "ctaButton": "Konzani Msonkhano Wanu Wosamuka"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Kutsimikizika Kwachangu & Kutheka",
+      "titlePart1": "Umboni wa Lingaliro (PoC) &",
+      "titlePart2": "Kukwaniritsa Koyendetsa",
+      "description": "Kupititsa patsogolo mofulumira ndi kutsimikiziridwa kwa mayankho aukadaulo kuti awone kuthekera kwaukadaulo, mtengo wabizinesi, zofunika kuphatikiza, magwiridwe antchito, ndi scalability musanayambe kukhazikitsidwa kwathunthu.",
+      "initiateDiscovery": "Yambitsani PoC Discovery",
+      "exploreDevelopment": "Onani Zachitukuko Cha Mwambo",
+      "coreCapabilities": [
+        "PoC Development",
+        "Zomangamanga za Prototype",
+        "Maphunziro Otheka",
+        "Kutsimikizira Zomangamanga",
+        "Kuyesa kwa Kuphatikiza",
+        "Magwiridwe Benchmarking",
+        "Kutumiza Oyendetsa",
+        "Kuwunika kwa Mtengo"
+      ],
+      "row1Eyebrow": "Kutsimikizika Kwachangu",
+      "row1Title": "Kuchokera ku Lingaliro kupita ku Zotheka Zovomerezeka",
+      "row1P1": "Kusintha lingaliro kukhala yankho labizinesi kumafuna kutsimikizika koyambirira. Ntchito yathu ya PoC & Pilot imawunika luso laukadaulo, kuyesa kupsinjika kophatikizana kofunikira, ndikutsimikizira ROI yabizinesi isanapereke ndalama zazikulu.",
+      "row1P2": "Timapanga ma MVP odalirika kwambiri komanso oyendetsa sandbox olunjika omwe amatsimikizira kuthekera kwaukadaulo, kuyeza kuchedwa kwadongosolo, ndikusonkhanitsa zotsimikizira mwachindunji za omwe akukhudzidwa nawo posachedwa.",
+      "row1Cap": "Kujambula Kwachangu kwa MVP & Benchmarks Zaukadaulo",
+      "row2Eyebrow": "Agile Prototyping",
+      "row2Title": "Ma MVP Ogwiritsa & Kutsimikizika kwa UX",
+      "row2P1": "Timamanga ma wireframe olumikizirana, mayendedwe osavuta ogwiritsira ntchito, komanso malingaliro otsimikizira m'masiku, osati miyezi. Yesani kuyanjana kwenikweni kwa ogwiritsa ntchito, yengani mawonekedwe a UI/UX, ndikupeza mayankho okhudzidwa kuchokera kwa omwe akukhudzidwa nawo.",
+      "row2P2": "Pofupikitsa malingaliro awo panthawi yopititsa patsogolo, gulu lanu limachepetsa kukonzanso ndikukhazikitsa zomveka bwino magawo omanga otengera ndalama zambiri asanayambe.",
+      "row2Cap": "Rapid Iteration & Clickable UX Prototypes",
+      "row3Eyebrow": "Kuphatikiza & Kuyesa kwa Scalability",
+      "row3Title": "De-Risk Complex System Integration",
+      "row3P1": "Zindikirani zolepheretsa zaukadaulo, malire a API, ndi zovuta zogwirira ntchito musanapereke ndalama zonse. Gulu lathu loyendetsa ndege limayesa kuphatikiza, mapaipi a data, ndi ma API a gulu lachitatu m'malo a sandbox akutali.",
+      "row3P2": "Kuchepetsa kwachiwopsezo kumeneku kumawonetsetsa kupezeka kwadongosolo, kutsata chitetezo, komanso nthawi yodziwikiratu yachitukuko mukasintha PoC yanu kukhala bizinesi.",
+      "row3Cap": "Kuphatikiza kwa Sandbox & Kuyesa Kupanikizika",
+      "row4Eyebrow": "Woyendetsa Woyendetsa Wopanga",
+      "row4Title": "Kukhazikitsa Oyendetsa Omwe Akuwatsogolera & Kutsimikizira Nkhani Yabizinesi",
+      "row4P1": "Tumizani zotulutsidwa za oyendetsa omwe akutsata kugawo losankhidwa la ogwiritsa ntchito kapena msika woyesera. Tsatirani ma metrics ogwirira ntchito, kusanthula kwa ogwiritsa ntchito, ndi mayankho ogwirira ntchito kuti muyese kuchuluka kwabizinesi ndikukhazikitsa bizinesi yochirikizidwa ndi data.",
+      "row4P2": "Ndi zidziwitso zenizeni za oyendetsa dziko lapansi, othandizira akuluakulu amapeza ma metrics omveka bwino a ROI kuti atsimikizire kutumizidwa kokulirapo komanso ndalama zosinthira digito.",
+      "row4Cap": "Kutumiza Kwadongosolo & Magwiridwe a Telemetry",
+      "pillarsTitle": "Mfundo Zathu Zoyendetsa Zoyendetsa",
+      "pillarsSub": "Mfundo zotsogola zomwe zimasintha kusatsimikizika kwaukadaulo kukhala kuchita bwino kwabizinesi.",
+      "pillar1Title": "PoC & MVP Prototyping",
+      "pillar1Desc": "Perekani ma prototypes ogwira ntchito mwachangu kuti atsimikizire malingaliro amtengo wapatali kumayambiriro kwa moyo.",
+      "pillar2Title": "Kutheka & Kutsimikizika",
+      "pillar2Desc": "Tsimikizirani kuyenderana kwa API, malire opitilira muyeso, ndi zolepheretsa kutsatira m'malo a sandbox.",
+      "pillar3Title": "Kuwunika kwa Scalability",
+      "pillar3Desc": "Tsanzirani kuchuluka kwa kupanga kuti mukhazikitse malire a mphamvu ndikuzindikira kukula kwa kamangidwe ka mitambo.",
+      "pillar4Title": "Kutsimikizika kwa Bizinesi",
+      "pillar4Desc": "Kuwerengera ROI zogwirika ndi zokolola kuti zithandizire zisankho zamakampani onse.",
+      "ctaTitle": "Mwakonzeka kutsimikizira yankho lanu lotsatira la digito?",
+      "ctaSub": "Lumikizanani ndi gulu lathu la mainjiniya kuti mufufuze zomwe mukufuna pulojekiti yanu, pangani chitsanzo, ndikuyesa kutheka popanda chiopsezo chilichonse.",
+      "ctaButton": "Sungani Kukambirana ndi PoC"
+    },
+    "sharedServices": {
+      "eyebrow": "Centralized Operations Hub",
+      "titlePart1": "Ntchito Zogawana &",
+      "titlePart2": "Ntchito Zoyendetsedwa",
+      "description": "Kupereka kwapakati kwaukadaulo ndi kuthekera kogwirira ntchito m'magawo onse abizinesi kudzera munjira zofananira, zida zaluso, maulamuliro, kasamalidwe ka ntchito, ndi kuchuluka kwa ntchito zoyezera.",
+      "bookDiscovery": "Kupezeka kwa Ntchito Zoyendetsedwa ndi Mabuku",
+      "exploreFramework": "Onani Njira Yayankho",
+      "coreCapabilities": [
+        "Ntchito Zoyendetsedwa",
+        "Ntchito za IT",
+        "Thandizo la Ntchito",
+        "Utumiki Wothandizira",
+        "Kukhathamiritsa Kwazinthu",
+        "SLA Management",
+        "Ulamuliro",
+        "Kupititsa patsogolo Kupititsa patsogolo",
+        "Kukhathamiritsa Mtengo"
+      ],
+      "row1Eyebrow": "Unified Delivery Hub",
+      "row1Title": "Ntchito Zokhazikika Pamagawo Onse Abizinesi",
+      "row1P1": "Gwirizanitsani IT ya back-office, kasamalidwe ka zomangamanga, ndi chithandizo chaukadaulo kukhala malo amodzi operekera bwino kwambiri.",
+      "row1P2": "Pochotsa zobwerezabwereza zamagulu ndi kulinganiza njira zoyendetsera ntchito, bungwe lanu limakhala lokhazikika komanso limatsitsa ndalama zonse zogwirira ntchito.",
+      "row2Eyebrow": "24/7 SRE & Thandizo la Ntchito",
+      "row2Title": "Kuyang'anira Mwachidwi & Kuthana ndi Zochitika Mwachangu",
+      "row2P1": "Akatswiri athu odzipereka a Site Reliability Engineers (SRE) ndi akatswiri othandizira amapereka 24/7/365 telemetry monitoring, automated alert triage, ndi kuthetsa mwamsanga L1/L2/L3.",
+      "row2P2": "Mothandizidwa ndi malonjezano okhwima a SLA, tikukutsimikizirani kupezeka kwa 99.99% pamapulogalamu anu ofunikira kwambiri komanso zomangamanga zamtambo.",
+      "row3Eyebrow": "ITIL Governance & Compliance",
+      "row3Title": "Zomangamanga Zoyang'anira Utumiki",
+      "row3P1": "Tsatirani miyezo ya ITSM yotsogola m'makampani (ServiceNow, Jira Service Management) yokhala ndi matikiti owonekera, kusanthula kwazomwe zimayambitsa, ndi kusintha koyang'anira kasamalidwe.",
+      "row3P2": "Njira zowerengera bwino komanso malamulo oyendetsera ntchito zimatsimikizira kuti ntchito zanu zikugwirizana ndi miyezo yapadziko lonse lapansi yachitetezo.",
+      "row4Eyebrow": "FinOps & Kupititsa patsogolo Kupitilira",
+      "row4Title": "Bajeti Yolosera & Kukhathamiritsa Kwazinthu",
+      "row4P1": "Chotsani zinyalala za mitambo, konzani masanjidwe a compute, ndikusintha kachitidwe kachitidwe kanthawi zonse ndi njira zabwino za FinOps.",
+      "row4P2": "Malipoti owonekera pamwezi ndi zoneneratu za kuchuluka kwa ntchito zimatsimikizira kukhathamiritsa kwa ndalama zogwirira ntchito mosalekeza komanso kugwiritsa ntchito ndalama zambiri.",
+      "pillarsTitle": "Mizati ya Ntchito",
+      "pillarsSub": "Zoyeserera zotsimikizika zamabizinesi odalirika.",
+      "pillar1Title": "24/7 Anayang'anira Ntchito za IT",
+      "pillar1Desc": "Proactive NOC telemetry, patching server, kukonza zomangamanga, ndi 99.99% uptime chitsimikizo.",
+      "pillar2Title": "ITSM & Service Desk",
+      "pillar2Desc": "Tier 1/2/3 desiki yothandizira ma tchanelo ambiri, mayendedwe a zochitika, ndi mayendedwe okonzekera matikiti.",
+      "pillar3Title": "SLA & Performance Control",
+      "pillar3Desc": "Nthawi zoyankhira mothandizidwa ndi makontrakitala, ma benchmark a MTTR, ndi zowunikira zowunikira mwezi uliwonse.",
+      "pillar4Title": "FinOps & Cost Optimization",
+      "pillar4Desc": "Kukula kosalekeza kwa gwero, kubwezanso ziphaso, ndi kuchepetsa mtengo wamtambo.",
+      "ctaTitle": "Mwakonzeka Kuwonjeza Mayendetsedwe Anu Oyang'anira?",
+      "ctaSub": "Gwirizanani ndi Rezonants pazantchito zodalirika, zoyendetsedwa ndi 24/7 zomwe zimakulitsa mtengo ndikuchotsa kutha kwa ntchito.",
+      "ctaButton": "Lembani Kukambirana Kwa Ntchito Zoyendetsedwa",
+      "howItWorksHeading": "Njira yotsimikiziridwa yochitira bwino ntchito zogawana"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotics",
+      "eyebrow": "Machitidwe anzeru",
+      "heroHeading": "AI & Robotics amagwira ntchito limodzi",
+      "intro": "Artificial Intelligence (AI) ndi Robotic akusintha momwe mabizinesi amagwirira ntchito pophatikiza kupanga zisankho mwanzeru ndi makina apamwamba kwambiri. AI imathandizira makina kusanthula deta, kuphunzira machitidwe, ndi kupanga zisankho zanzeru, pomwe ma robotiki amabweretsa izi kudziko lapansi kuti agwire ntchito mwachangu, molondola, komanso mosasinthasintha.",
+      "section1Heading": "Zapangidwa kuti ziwongolere ntchito iliyonse",
+      "section1Text": "Mayankho athu a AI ndi Robotic amathandizira mabungwe kukonza magwiridwe antchito, kuchepetsa zoyeserera, komanso kukonza zokolola m'mafakitale osiyanasiyana. Kuchokera pakupanga makina ndi ma analytics olosera mpaka ma robotiki anzeru ndi machitidwe anzeru, timapereka matekinoloje apamwamba omwe amapititsa patsogolo luso, kulimbikitsa kukula, ndikuthandizira kusintha kwa digito.",
+      "section2Heading": "Kumene nzeru zimachitapo kanthu",
+      "section2Text": "Kuyanjana kulikonse, chisankho, ndi kuyenda kumayendetsedwa ndi dongosolo limodzi lolumikizidwa - kutembenuza deta kukhala zotsatira mu nthawi yeniyeni.",
+      "footerTag": "Tekinoloje yatsopano yosinthira digito"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Data Platform",
+      "heroTitle": "Information & Reporting Systems",
+      "heroSubtitle": "Gwero limodzi lachowonadi ku dipatimenti iliyonse - yopangidwa kuti isandutse deta yosasinthika kukhala zisankho zomwe bizinesi yanu ingachite lero.",
+      "statusLive": "MOYO",
+      "statusAnalyzed": "KUSANKHA",
+      "statusArchived": "ZOKHALA",
+      "statusPending": "KUPIRIRA",
+      "metricUptime": "System Uptime",
+      "metricSessions": "Magawo Ogwira Ntchito",
+      "metricReportsPerDay": "Malipoti / Tsiku",
+      "metricEvents": "Zochitika Zatsiku ndi Tsiku",
+      "metricReports": "Malipoti Okhazikika",
+      "metricLatency": "API Latency",
+      "unifiedPlatform": "Pulogalamu Yogwirizana",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Report Console",
+      "businessOutcome": "Zotsatira Zamalonda",
+      "section1Heading": "Dongosolo limodzi lapakati pa metric iliyonse yomwe ili yofunika",
+      "section1P1": "Information & Reporting Systems ndi mayankho ofunikira amabizinesi omwe amathandizira mabungwe kusonkhanitsa, kuyang'anira, ndikusintha zidziwitso kukhala zidziwitso zomveka. Machitidwewa amaphatikiza mauthenga ochokera m'madipatimenti angapo, kuonetsetsa kuti ali ndi chidziwitso cholondola, chokhazikika, komanso nthawi yeniyeni ku deta yovuta yamalonda. Popereka nsanja yapakati yoyendetsera zidziwitso, mabungwe amatha kukonza mawonekedwe ogwirira ntchito, kuwongolera kayendetsedwe ka ntchito, ndikuthandizira kupanga zisankho zanzeru pamagawo onse abizinesi.",
+      "section1P2": "Makinawa amagwiritsa ntchito malipoti odzichitira okha, ma analytics, ndi ma dashboards kuti azitha kuyang'anira magwiridwe antchito, kuyang'anira ma metrics ofunikira, ndikupanga malipoti anthawi yeniyeni. Pochepetsa kuyeserera pamanja ndikuwongolera kulondola kwa data, mabizinesi amatha kupanga zisankho mwachangu komanso zogwira mtima.",
+      "section2Heading": "Zapangidwa kuti ziwoneke, kutsata, ndi kukula",
+      "section2Text": "Ndi mawonekedwe owoneka bwino, kutsata, ndi mgwirizano, Information & Reporting Systems imathandizira mabungwe kukhathamiritsa njira, kupititsa patsogolo zokolola, ndikuyendetsa bizinesi yokhazikika m'malo ampikisano.",
+      "ctaHeading": "Perekani gulu lirilonse chithunzi cha nthawi yeniyeni cha bizinesi.",
+      "ctaText": "Onani momwe Nexus Data Systems ingagwirizanitse malipoti anu kukhala nsanja imodzi yanzeru.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Maumwini onse ndi otetezedwa.",
+      "navOverview": "Mwachidule",
+      "navCapabilities": "Luso",
+      "navImpact": "Zotsatira",
+      "navContact": "Contact"
+    },
+    "managedServices": {
+      "subtitle": "Ntchito zoyendetsedwa bwino zabizinesi yanu"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Kupititsa patsogolo Ntchito Za Bizinesi Yamakono Kwa Bizinesi Yoyendetsedwa Ndi Data",
+      "excerpt": "Momwe mamangidwe amakono ogwiritsira ntchito ndi deta yolumikizidwa ingathandizire bwino ntchito, scalability ndi mawonekedwe abizinesi.",
+      "tag": "Kusintha kwa Bizinesi",
+      "category": "KUSINTHA KWA Bzinesi",
+      "summary": "Kugwiritsa ntchito kwamakono ndi maziko a data kungathandize mabizinesi kukonza magwiridwe antchito, kulumikiza machitidwe abizinesi ndikupanga mawonekedwe owoneka bwino pantchito zawo zonse."
+    },
+    "artificial-intelligence": {
+      "title": "Momwe AI Ikusinthiranso Ntchito Zamakampani",
+      "excerpt": "Onani momwe ma automation anzeru, oyendetsa ndege a AI ndi luntha lolosera akukhala gawo la mabizinesi ogwiritsira ntchito mabizinesi amadalira tsiku lililonse.",
+      "tag": "Nzeru zochita kupanga",
+      "category": "NZEru zopanga",
+      "summary": "Onani momwe ma automation anzeru, oyendetsa ndege a AI ndi luntha lolosera akusintha mapulogalamu amabizinesi atsiku ndi tsiku kukhala nsanja zosinthika, zokhazikika."
+    },
+    "modern-erp": {
+      "title": "Kupititsa patsogolo Kusintha kwa Bizinesi ndi ERP Yamakono",
+      "excerpt": "Onani momwe nsanja zamakono za ERP zimalumikizirana ndi zachuma, zogula, zogulitsira ndi ntchito zamabizinesi kudzera pamaziko olumikizana a digito.",
+      "tag": "ERP Yamakono",
+      "category": "MASIKU ANO ERP",
+      "summary": "Pulatifomu yamakono ya ERP imagwirizanitsa ndalama, zogula, zogulitsira katundu, ndi ntchito zamalonda kukhala njira yogwirizana, yogwiritsira ntchito nthawi yeniyeni."
+    },
+    "cybersecurity": {
+      "title": "Kumanga Kulimba kwa cyber mu Bizinesi Yolumikizidwa",
+      "excerpt": "Onani momwe mabungwe angalimbikitsire chitetezo, kuteteza machitidwe ovuta ndikukonzekera ziwopsezo pamadera omwe akuchulukirachulukira olumikizidwa.",
+      "tag": "Cybersecurity",
+      "category": "CYBERSECURITY",
+      "summary": "Pamene mabizinesi akuphatikiza makina ochulukirapo amtambo, ma API, ndi chilengedwe chothandizana nawo, kulimba mtima kwa cyber kumatsimikizira kuti ntchito zofunika kwambiri zimalimbana ndi ziwopsezo zamakono."
+    },
+    "cloud-modernization": {
+      "title": "Kupititsa patsogolo Ntchito Zazolowa Zamakono za Cloud",
+      "excerpt": "Onani njira zothandiza zowunika, kusinthiratu ndikusuntha zomwe zidachitika kale kuti zikhale zolimba, zotetezedwa zamtambo.",
+      "tag": "Cloud & Modernization",
+      "category": "MITALA NDI MASIKU ANO",
+      "summary": "Msewu wokonzedwa bwino, wowunikira, wowunikira, ndi kusamutsa machitidwe abizinesi a monolithic kupita ku zomangamanga zokhazikika zamtambo."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "KUSINTHA KWA Bzinesi",
+      "title": "Kupititsa patsogolo Ntchito Zabizinesi Yamakono Kwa Bizinesi Yoyendetsedwa Ndi Data",
+      "subtitle": "Kugwiritsa ntchito kwamakono ndi maziko a data kungathandize mabizinesi kuwongolera magwiridwe antchito, kulumikiza machitidwe abizinesi ndikupanga mawonekedwe owoneka bwino pantchito zawo zonse.",
+      "date": "Seputembara 2026",
+      "readTime": "7 min werengani",
+      "imageCaption": "Enterprise Technology Perspective — Kapangidwe ka Ntchito & Zambiri Zolumikizidwa",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Zofunsira Bizinesi",
+          "desc": "Zosiyana za CRM, ERP, ndi zida zamadipatimenti zomwe zikuyenda mu silos."
+        },
+        {
+          "title": "Zopezeka Zambiri",
+          "desc": "Matebulo ogwira ntchito ogawika, zolemba za CSV, ndi ma schema ad-hoc."
+        },
+        {
+          "title": "Zosungidwa Zosalumikizidwa",
+          "desc": "Malo akutali komanso osalumikizidwa amtambo."
+        },
+        {
+          "title": "Malipoti & Ogwiritsa Ntchito Bizinesi",
+          "desc": "Kuyanjanitsa pamanja, ma spreadsheets osagwirizana, ndikuchedwa kupereka malipoti."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Zofunsira Bizinesi",
+          "desc": "Mapulatifomu oyambira komanso mawonekedwe amakono omvera."
+        },
+        {
+          "title": "API / Integration Layer",
+          "desc": "Njira yotetezeka, yoyendetsedwa ndi zochitika ya API yolumikiza mayendedwe abizinesi."
+        },
+        {
+          "title": "Ntchito Zothandizira",
+          "desc": "Mitundu yolumikizana ya data, mapaipi, ndi mainjini osungira bwino."
+        },
+        {
+          "title": "Analytics & Reporting",
+          "desc": "Ma telemetry anthawi yeniyeni, mitundu ya semantic, ndi malipoti odzipangira okha."
+        },
+        {
+          "title": "Opanga zisankho zamabizinesi",
+          "desc": "Ma dashboards ogwira ntchito omwe amapereka mawonekedwe ogwirizana."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Mapulogalamu a Enterprise",
+          "purpose": "Kasamalidwe ka bizinesi"
+        },
+        {
+          "area": "APIs",
+          "purpose": "Kuphatikiza kwadongosolo"
+        },
+        {
+          "area": "Zosungira",
+          "purpose": "Zambiri zamabizinesi"
+        },
+        {
+          "area": "Kuphatikiza kwa Data",
+          "purpose": "Kulumikiza magwero angapo"
+        },
+        {
+          "area": "Analytics",
+          "purpose": "Malingaliro abizinesi"
+        },
+        {
+          "area": "Cloud Infrastructure",
+          "purpose": "Scalability ndi kusinthasintha"
+        },
+        {
+          "area": "Kuwunika",
+          "purpose": "Kudalirika ndi ntchito"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Kuwoneka bwino kwa magwiridwe antchito pamagawo osiyanasiyana",
+        "Kusasinthika kwa data komanso gwero limodzi lachowonadi chabizinesi",
+        "Kuchepetsa kuyesayesa kwa malipoti pamanja ndi kusonkhanitsa deta",
+        "Kupititsa patsogolo kagwiritsidwe ntchito ka ntchito ndikuchepetsa kuchedwa kwapang'onopang'ono",
+        "Kuphatikizana kosavuta kwadongosolo kudzera mu ma API okhazikika, otetezeka",
+        "Kuchulukirachulukira kothandizira kukula kwa organic ndi kupeza",
+        "Maziko abwinoko a mtsogolo mwanzeru komanso kutengera nzeru"
+      ],
+      "keyPerspectivePoints": [
+        "Kumvetsetsa njira zamabizinesi ndi kayendetsedwe ka ntchito zenizeni",
+        "Kulumikiza machitidwe kudzera muzitsulo zodalirika zogwirizanitsa",
+        "Kupititsa patsogolo khalidwe la deta, utsogoleri, ndi zitsanzo za data",
+        "Kupititsa patsogolo ntchito popanda kusokoneza ntchito za tsiku ndi tsiku",
+        "Kupanga zomanga scalable zoyenera kukula zotanuka",
+        "Kupangitsa kuti bizinesi iwoneke bwino popanga zisankho mwachangu"
+      ],
+      "sec1Eyebrow": "VUTO LA BUSINESS",
+      "sec1Heading": "Navigation Complexity in Growing Enterprise",
+      "sec1Subtext": "Momwe mabizinesi amakulira, ukadaulo waukadaulo ukukula. Zomwe zimayamba ngati mayankho okhazikika a dipatimenti iliyonse zitha kusinthika kukhala ukonde wosakanikirana wa machitidwe osiyanasiyana.",
+      "sec2Eyebrow": "KUSINTHA KWA ZINTHU",
+      "sec2Heading": "A Complex Technology Landscape",
+      "sec2Subtext": "Pamene ntchito zamabizinesi, nkhokwe, ndi machitidwe ogwirira ntchito asintha paokha, kufalikira kwa chidziwitso kumagawika. Kumvetsetsa kugawika uku ndi gawo loyamba lofunikira.",
+      "sec3Eyebrow": "CHITSANZO CHOlumikizidwa",
+      "sec3Heading": "Zomangamanga Zamakono Zamakono",
+      "sec3Subtext": "Mabizinesi amapita ku kamangidwe koyendetsedwa ndi zochitika, koyambirira kwa API komwe deta imayenda modalirika pamapulatifomu oyambira ndikufikira opanga zisankho munthawi yeniyeni.",
+      "sec4Eyebrow": "NZERU NDIKUONEKA",
+      "sec4Heading": "Data Yolumikizidwa & Analytics",
+      "sec4Subtext": "Ntchito zamabizinesi zikamalumikizana mosadukiza, deta imasiya kukhala yongopereka malipoti ndipo imakhala dalaivala wamkulu wa luso la magwiridwe antchito.",
+      "sec5Eyebrow": "ARCHITECTURE BLUEPRINT",
+      "sec5Heading": "Technology Foundation",
+      "sec5Subtext": "Kuwona mwatsatanetsatane madera akuluakulu aukadaulo omwe amapanga maziko amakono, owopsa.",
+      "sec6Eyebrow": "MULONGO WONSE",
+      "sec6Heading": "Zokhudza Bizinesi",
+      "sec6Subtext": "Kupititsa patsogolo kamangidwe ka ntchito ndi kulumikiza deta yogawika kumapereka kusintha kowoneka bwino m'bungwe lonse.",
+      "ctaHeading": "Mwakonzeka Kusintha Malo Anu Aukadaulo?",
+      "ctaDescription": "Onani momwe zomangamanga zamakono zogwiritsira ntchito, deta yolumikizidwa ndi teknoloji yowonjezereka ingathandizire mabungwe kukonza bwino ndikukonzekera kukula kwamtsogolo.",
+      "ctaButton": "Kambiranani ndi Akatswiri Athu",
+      "sec1P1": "M'malo abizinesi, kukula nthawi zambiri kumayambitsa mibadwo ingapo yamapulogalamu. Zachuma, chain chain, ntchito zamakasitomala, ndi ntchito zakumunda nthawi zambiri zimagwira ntchito pamapulogalamu osiyanasiyana omwe amapezedwa kapena kumangidwa nthawi zosiyanasiyana. Kwa zaka zambiri zakusintha kwa magwiridwe antchito, makinawa amapanga mawonekedwe awoawo a data, ma cadences osinthika, ndi zina zophatikizira.",
+      "sec1P2": "Kukangana kumawonekera pamabizinesi onse kudzera m'zovuta zomwe zimachitika kawirikawiri:",
+      "sec1List": [
+        {
+          "bold": "Mapulogalamu angapo osalumikizidwa",
+          "text": "zomwe zimafuna kubwereza deta komanso kubwereza pamanja."
+        },
+        {
+          "bold": "Zosungidwa zosalumikizidwa",
+          "text": "ikugwira ntchito popanda ulamuliro wapakati kapena mbiri yogwirizana."
+        },
+        {
+          "bold": "Kupereka malipoti pamanja",
+          "text": ", pomwe magulu owunika amathera masiku akusoka pamodzi zotumiza kunja m'malo moulula zidziwitso."
+        },
+        {
+          "bold": "Zosagwirizana ndi data",
+          "text": "m'madipatimenti onse, kupanga mayankho otsutsana ku mafunso ofunikira ogwirira ntchito."
+        },
+        {
+          "bold": "Kukonzekera kwa ntchito ndi malire a scalability",
+          "text": ", monga brittle legacy point-to-point malumikizidwe akuvutikira kuthandizira kuchuluka kwa ma transaction."
+        }
+      ],
+      "sec1P3": "Kuthana ndi zovutazi kumafuna kuwona momwe ukadaulo waukadaulo osati kusonkhanitsa kwapaokha kugula mapulogalamu, koma ngati nsanja yolumikizidwa yabizinesi yomwe idapangidwa kuti izithandizira luso laukadaulo.",
+      "legacyLandscapeBadge": "Legacy Baseline",
+      "legacyLandscapeTitle": "Kuyenda Kwazidziwitso Zogawika",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Data Silos",
+          "desc": "Makasitomala ofunikira, azachuma, ndi zinthu zomwe zidasungidwa amakhalabe m'mapulatifomu am'madipatimenti, kuletsa malingaliro amodzi ogwirizana abizinesi."
+        },
+        {
+          "num": "02",
+          "title": "Mipata Yophatikiza",
+          "desc": "Malumikizidwe olunjika ndi ma batch ausiku amapanga latency, kulephera kwakukulu, komanso kukonza zokwera mtengo m'magulu onse ogwira ntchito."
+        },
+        {
+          "num": "03",
+          "title": "Chidziwitso Chachedwa",
+          "desc": "Pamene akuluakulu akuyenera kudikirira masiku kuti agwirizanenso kumapeto kwa mwezi kuti amvetsetse momwe ntchito ikugwirira ntchito, kupanga zisankho kumakhala kokhazikika m'malo molosera."
+        }
+      ],
+      "modernArchitectureBadge": "Zomangamanga Zolinga",
+      "modernArchitectureTitle": "Connected Enterprise Application Model",
+      "sec3P1": "Zomangamanga zamakono zamakono zimalowa m'malo mwa brittle point-to-point kugwirizana ndi maziko agile, osakanikirana. Pokhazikitsa API yolimba ndi kusanjikiza kophatikizana, machitidwe amalumikizana kudzera m'malo olamulidwa, otetezeka pomwe akusunga kudziyimira pawokha kwa magawo abizinesi.",
+      "sec3P2": "Zofunikira zaukadaulo pakusintha komanga uku zikuphatikiza:",
+      "sec3List": [
+        {
+          "bold": "Kusintha kwa ntchito:",
+          "text": "Kuphatikizira malingaliro abizinesi kukhala ma scalable modular services."
+        },
+        {
+          "bold": "Kuphatikiza kwa API:",
+          "text": "Kukhazikitsa zolumikizana zokhazikika, zolembedwa kuti zizigwirizana mkati ndi abwenzi."
+        },
+        {
+          "bold": "Kuphatikiza kwa data & kukhathamiritsa kwa database:",
+          "text": "Kugwirizanitsa mapaipi a data ogwira ntchito ndi kukhathamiritsa kwamafunso apamwamba."
+        },
+        {
+          "bold": "Kuwoneka ndi chitetezo:",
+          "text": "Kukhazikitsa ma telemetry apakati, njira zowerengera, ndi njira zolumikizirana ndi anthu pazantchito zonse."
+        }
+      ],
+      "sec4P1": "Maziko ophatikizika a data amasintha momwe utsogoleri ndi magulu ogwirira ntchito amalumikizirana ndi chidziwitso. M'malo modalira malipoti obwereza omwe akuwonetsa zomwe zidachitika masabata apitawa, mabungwe amapeza ma telemetry omwe amagwira ntchito pamabizinesi onse.",
+      "sec4P2": "Deta yolumikizidwa ndi ma analytics amathandizira zotulukapo zokhazikika zamabizinesi kudzera:",
+      "sec4List": [
+        {
+          "bold": "Kuwonekera kwa ntchito:",
+          "text": "Kuwonekera mosalekeza pazogulitsa, zosungira, kukwaniritsa, ndi momwe ndalama zikuyendera."
+        },
+        {
+          "bold": "Kutulutsa lipoti mwachangu:",
+          "text": "Kusonkhanitsa deta pakufunika komwe kumachotsa maspredishiti amanja obwerezabwereza."
+        },
+        {
+          "bold": "Zambiri zofananira:",
+          "text": "Matanthauzo amodzi a ma metrics ngati malire, mtengo wanthawi zonse wamakasitomala, komanso kuthamanga kwanthawi yayitali."
+        },
+        {
+          "bold": "Malingaliro abwino abizinesi:",
+          "text": "Kuzindikira kwamtsogolo komwe kumawonetsa zoopsa ndi mwayi pasadakhale."
+        },
+        {
+          "bold": "Kupanga zisankho zabwino:",
+          "text": "Zochita zodalirika zotsogola zothandizidwa ndi mzere wovomerezeka wa data komanso kuwonekera."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGAL PERSPECTIVE",
+      "keyPerspectiveTitle": "Zamakono Ndi Zambiri Kuposa Kusintha Kwa Mapulogalamu",
+      "keyPerspectiveLead": "Kupititsa patsogolo ntchito zamabizinesi sikungosintha mapulogalamu akale ndi zida zatsopano. Ndiko kulumikizana mwadala kwaukadaulo ndi momwe bizinesi imagwirira ntchito, masikelo, ndikupereka mtengo."
+    },
+    "artificialIntelligence": {
+      "category": "ARTIFICIAL NTELLIGENCE",
+      "title": "Momwe AI Ikusinthiranso Ntchito Zamakampani",
+      "subtitle": "Onani momwe ma automation anzeru, oyendetsa ndege a AI ndi luntha lolosera akukhalira gawo la mabizinesi ogwiritsira ntchito mabizinesi amadalira tsiku lililonse.",
+      "date": "Seputembara 2026",
+      "readTime": "6 min werengani",
+      "imageCaption": "Enterprise Technology Perspective - Artificial Intelligence & Enterprise Systems",
+      "aiUseCases": [
+        {
+          "title": "Zoneneratu za Supply Chain",
+          "desc": "Kulosera kukwera kwa kufunikira ndi kuchedwa kwapang'onopang'ono kuchokera ku telemetry yopereka zinthu zakale."
+        },
+        {
+          "title": "Automated Invoice Auditing",
+          "desc": "Kuchotsa zinthu za mzere ndikufananiza motsutsana ndi maoda ogula ndi ziro zolowa ndi munthu."
+        },
+        {
+          "title": "Ma Desk Anzeru a Utumiki",
+          "desc": "Kuyesa ndikuwongolera kodziwikiratu kwa ntchito za Tier-1 za IT ndi HR zopempha."
+        },
+        {
+          "title": "Kupewa kwa Makasitomala Churn",
+          "desc": "Kuphatikizika kwamakhalidwe kumazindikiritsa zizindikiro zoyambilira za mikangano yofikira mwachangu."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Zosankha zogwira ntchito mwachangu motsogozedwa ndi zitsanzo zolosera zanthawi yeniyeni",
+        "Kuchepetsa kubwereza mobwerezabwereza deta ndi kuyanjanitsa pamanja",
+        "Kupititsa patsogolo kwa ogwira ntchito mothandizidwa ndi wowongolera",
+        "Kupititsa patsogolo kukhutitsidwa kwamakasitomala kudzera pazokumana nazo zamunthu",
+        "Kupitiliza kudzikonza nokha kutengera telemetry yeniyeni",
+        "Kutsata kutsata kochotsa pachiwopsezo kudzera pakuwunika kwa chipika chowerengera"
+      ],
+      "governancePoints": [
+        "Kufikira mokhazikika kuwonetsetsa kuti mitundu ya AI isadutse deta yachinsinsi",
+        "Malingaliro omveka bwino omwe amalola kuunikanso kwamunthu pazochita zamtengo wapatali",
+        "Kuwunika mosalekeza kwachitsanzo kuti mupewe kutengeka ndi kukondera",
+        "Miyezo yolimba ya data yolumikizana ndi GDPR, SOC 2, ndi HIPAA",
+        "Njira zokwerera anthu m'mphepete mwa mikhalidwe yosadziwika bwino"
+      ],
+      "sec1Eyebrow": "KUSINTHA KWA NZERU ZAMbadwa",
+      "sec1Heading": "AI mu Enterprise Applications",
+      "sec1Subtext": "Artificial intelligence ikusintha kuchoka pamapulojekiti ammbali kupita kuzinthu zazikulu zomwe mabizinesi amadalira tsiku lililonse.",
+      "sec2Eyebrow": "ZOSANGALALA PA Skelo",
+      "sec2Heading": "Intelligent Automation",
+      "sec2Subtext": "Kupitilira zolembedwa zozikidwa pachikhalidwe kupita kumayendedwe azidziwitso omwe amamvetsetsa zomwe sizinapangike, kusintha kusiyanasiyana, ndikusintha njira mwachangu.",
+      "sec3Eyebrow": "ZOTHANDIZA ZOTHANDIZA",
+      "sec3Heading": "Makampani AI Copilots",
+      "sec3Subtext": "Mozikidwa pa chidziwitso cha bungwe ndi chitetezo chamabizinesi, othandizira a AI amakhala ngati othandizana nawo apadera pamayendedwe abizinesi atsiku ndi tsiku.",
+      "sec4Eyebrow": "ZOYANG’ANIRA Mtsogolo",
+      "sec4Heading": "Predictive Intelligence",
+      "sec4Subtext": "Kusintha zipika zamabizinesi akale komanso ma feed a nthawi yeniyeni kuti azitha kuwoneratu zam'tsogolo.",
+      "sec5Eyebrow": "ZOCHITIKA ZONSE ZA DZIKO LAPANSI",
+      "sec5Heading": "Makampani AI Ogwiritsa Ntchito Milandu",
+      "sec5Subtext": "Njira zenizeni zotsogola mabungwe akugwiritsira ntchito luntha lochita kupanga pazantchito zazikulu zamabizinesi.",
+      "sec6Eyebrow": "STRATEGIC VALUE",
+      "sec6Heading": "Zopindulitsa Zamalonda",
+      "sec6Subtext": "Ikakhazikitsidwa moganizira ndi data yamabizinesi, AI imatsegula zabwino zambiri.",
+      "ctaHeading": "Onani Mwayi wa AI pa Bizinesi Yanu",
+      "ctaDescription": "Dziwani momwe makina anzeru, oyendetsa mabizinesi ndi zitsanzo zolosera zingatsegulire magwiridwe antchito pamakina anu onse.",
+      "ctaButton": "Kambiranani ndi Akatswiri Athu",
+      "sec1P1": "Kwa zaka zambiri, luntha lochita kupanga lamakampani linkawonedwa ngati luso lakunja: chitsanzo chophunzitsidwa kudzipatula, chiwonetsero cha sandbox, kapena chatbot yapayokha yopezeka kudzera pa portal ina. Masiku ano, paradigm yasintha kwambiri. AI yamabizinesi apamwamba kwambiri imayikidwa mwachindunji mkati mwa machitidwe ojambulira - ma ERP, ma CRM, nsanja za anthu, ndi ma injini ogulitsa komwe bizinesi yeniyeni imachitika.",
+      "sec1P2": "Pamene nzeru zimagwira ntchito mkati mwa kalembedwe, zimatengera malire a chitetezo cha bungwe, zitsanzo za deta, ndi malingaliro abizinesi. Sichimangopanga mayankho achibadwa; imagwira ntchito motsatira madongosolo amoyo, imatanthauzira matikiti otseguka, imayanjanitsa ma invoice ogulitsa, ndikuthandizira ogwira ntchito m'malo omwe amayendera tsiku lililonse.",
+      "sec1P3": "Kusinthaku kumasuntha mapulogalamu abizinesi kuchokera pazosungidwa zomwe zimadikirira makiyi a anthu kukhala nsanja zomwe zimayembekezera zosowa, masitepe odzipangira okha, ndi malingaliro apanthawi yake.",
+      "sec2P1": "Traditional Robotic Process Automation (RPA) idachita bwino kwambiri pakujambula, kubwereza bwereza. Komabe, malamulo okhwima amatha kusweka nthawi iliyonse mawonekedwe akusintha, mawonekedwe osayembekezeka a chikalata akafika, kapena zosiyana zimachitika. Intelligent automation imagwirizanitsa magawano awa pophatikiza kulingalira kwachidziwitso ndi kuchitapo kanthu:",
+      "sec2List": [
+        {
+          "bold": "Zosintha zokha:",
+          "text": "Kukonza ntchito zovuta m'madipatimenti osiyanasiyana, kuwongolera ntchito potengera kufulumira komanso njira zosinthira mbiri yakale."
+        },
+        {
+          "bold": "Kukonza zikalata mwanzeru:",
+          "text": "Kulowetsa ma PDF osakhazikika, maimelo, ziwonetsero zotumizira, ndi makontrakitala, kuwasintha kukhala ma database opangidwa mwadongosolo."
+        },
+        {
+          "bold": "Zochita mwanzeru:",
+          "text": "Kudzipangira zokha zotsimikizira za ntchito zambiri—monga kufananiza maoda ogula ndi malisiti ndi masitatimendi akubanki."
+        },
+        {
+          "bold": "Kukhathamiritsa kwa ndondomeko:",
+          "text": "Kusanthula mosalekeza zipika kuti muzindikire zopinga za nthawi yozungulira ndikupangira kuwongolera komwe kumayendera."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Kusaka Zambiri",
+          "desc": "Kubwezeredwa kwa semantic pazidziwitso zogawidwa, mfundo za intraneti, zomwe zagulitsidwa, komanso kutsimikiza kwa matikiti am'mbiri popanda kulosera mawu osafunikira."
+        },
+        {
+          "icon": "📝",
+          "title": "Chidule cha Document",
+          "desc": "Kusungunula pompopompo kwa ma RFP aatali, mapangano a ogulitsa, mafotokozedwe aukadaulo, ndi zosintha zamalamulo kukhala mafotokozedwe oyendetsera ntchito ndi mindandanda yazowopsa."
+        },
+        {
+          "icon": "✨",
+          "title": "Zopanga Zam'kati",
+          "desc": "Kuthandizira kukonza malingaliro a kasitomala, zolemba zogwirira ntchito, njira zogwirira ntchito (SOPs), ndi zosintha zokhazikika zamakasitomala zogwirizana ndi miyezo yamtundu."
+        },
+        {
+          "icon": "📈",
+          "title": "Kusanthula Zambiri",
+          "desc": "Kumasulira mafunso okambitsirana kukhala mafunso ovuta kusanthula, kupanga chidule cha ma chart pa ntchentche ndikuwunikira zofunikira za utsogoleri."
+        },
+        {
+          "icon": "🔄",
+          "title": "Mayendedwe a Bizinesi",
+          "desc": "Kuyambitsa zochitika mwachindunji kuchokera pazambiri zochezera-monga kukonza zothandizira, kupanga matikiti, kukonza marekodi, kapena kutumiza zofunikila zogula."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Kufikira Mwamaudindo",
+          "desc": "Kuwonetsetsa kuti mayankho a oyendetsa ndege akulemekeza kwambiri zilolezo za ogwiritsa ntchito, kusunga chinsinsi chandalama, mafayilo a HR, ndi luntha lotetezedwa."
+        }
+      ],
+      "sec4P1": "Ngakhale njira zopangira zimapambana pakumvetsetsa ndi kuphatikizira zilankhulo, luntha lolosera limayang'ana masamu obisika mkati mwazosunga zosungidwa zamabizinesi. Zolosera zophatikizidwa zimathandizira mabungwe kuti aziyembekezera zovuta zomwe zingachitike asanasokoneze ntchito:",
+      "sec4List": [
+        {
+          "bold": "Zolosera za ntchito:",
+          "text": "Kulosera momwe ndalama zidzakhalire, kuthamanga kwa zinthu, ndi zofuna zazinthu popanga zizindikiro za nyengo ndi kuthamanga kwa mapaipi a nthawi yeniyeni."
+        },
+        {
+          "bold": "Zolosera zam'tsogolo:",
+          "text": "Kulozera kuopsa kwa kasitomala churn, mayendedwe akuwonongeka, ndi kuchedwa kwa chain chain pakadali nthawi yoti alowererepo."
+        },
+        {
+          "bold": "Chidziwitso chowopsa:",
+          "text": "Kuyimilira zolakwika pazachuma, zolemba zamalamulo, ndi njira zogulira mavenda zisanachuluke."
+        },
+        {
+          "bold": "Fufuzani kulosera:",
+          "text": "Kuyanjanitsa zolosera za malonda ndi mphamvu zopangira komanso kuchuluka kwa masheya osungiramo katundu kuti ateteze ndalama zogwirira ntchito."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ULAMULIRO WA ENTERPRISE",
+      "keyPerspectiveTitle": "Kudalira, Kuyang'anira & Guardrails",
+      "keyPerspectiveLead": "AI ndiyodalirika monga maziko a data pansi pake ndi maulamuliro ozungulira. Kukhazikitsidwa kokhazikika kwabizinesi kumafuna kuwongolera mwadala:"
+    },
+    "modernErp": {
+      "category": "MASIKU ANO ERP",
+      "title": "Kupititsa patsogolo Kusintha kwa Bizinesi ndi ERP Yamakono",
+      "subtitle": "Onani momwe nsanja zamakono za ERP zimalumikizirana ndi zachuma, zogula, zogulitsira ndi ntchito zamabizinesi kudzera pamaziko olumikizana a digito.",
+      "date": "Ogasiti 2026",
+      "readTime": "6 min werengani",
+      "imageCaption": "Enterprise Technology Perspective - ERP & Connected Business Operations",
+      "connectedFunctions": [
+        {
+          "title": "Kasamalidwe ka Zachuma",
+          "desc": "Zosintha zamaleja mu nthawi yeniyeni, kuzindikira ndalama zongochitika zokha, komanso kuyanjanitsa ndalama zambiri pompopompo."
+        },
+        {
+          "title": "Supply Chain & Logistics",
+          "desc": "Mawonekedwe azinthu zomaliza mpaka kumapeto, kukhathamiritsa kwa nyumba yosungiramo zinthu, ndi telemetry ya othandizira."
+        },
+        {
+          "title": "Human Capital & Workforce",
+          "desc": "Ma portal ogwira ntchito odzichitira okha, olipira okhawo, komanso kukonza talente yophatikizika."
+        },
+        {
+          "title": "Kugula & Kupeza",
+          "desc": "Zivomerezo zogulira zokha, kutsata kontrakitala wa ogulitsa, ndi kusanthula kwachangu kwa ndalama."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-Native Architecture",
+          "desc": "Kuchulukitsa kokhazikika kopanda malo opangira zida zapamwamba kapena zosokoneza zotsekera."
+        },
+        {
+          "title": "Tsegulani API Ecosystem",
+          "desc": "Zolumikizira zomangidwiratu zomwe zimathandiza kulunzanitsa kwanjira ziwiri kosasinthika ndi ma microservices ndi ma CRM suites."
+        },
+        {
+          "title": "Zowerengera Zophatikizidwa",
+          "desc": "Kubowola kwachindunji kwa dashboard kuchokera pamasamba apamwamba kupita kumalo osungiramo zinthu."
+        },
+        {
+          "title": "Zoyambitsa Mayendedwe Okhazikika",
+          "desc": "Chochitika choyendetsedwa ndi zochitika chimayambitsa kuchita ntchito zokhazikika m'madipatimenti osiyanasiyana mosadalira."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Gwero limodzi la chowonadi chochotsa malipoti osagwirizana m'madipatimenti",
+        "Kuchepetsa kwambiri kumapeto kwa mwezi ndi kumapeto kwa kotala",
+        "Kuwona kwa nthawi yeniyeni ndi kuwonekera kwa katundu kumachepetsa kutha",
+        "Kuchepetsa kukonza kwa IT kudzera muzosintha zamtundu wamtambo",
+        "Kutsata malamulo ogwirizana m'madera ambiri amisonkho",
+        "Kukwera mwachangu kwa mabungwe omwe agulidwa kuti akhale ogawana nawo"
+      ],
+      "erpStrategyPoints": [
+        "Kuyanjanitsa kamangidwe ka ERP ndi mayendedwe oyambira ogwirira ntchito musanasinthidwe",
+        "Kusankha ma modular deployment kuti mupambane mwachangu",
+        "Kuika patsogolo kusamuka kwa data kwapamwamba komanso kuyanjanitsa",
+        "Kuyika kasamalidwe kakusintha kosintha ndi mapulogalamu ophunzitsira omwe amagwirizana nawo",
+        "Kupanga zipata za API zokulitsa kusamvana kwamtsogolo"
+      ],
+      "sec1Eyebrow": "NTCHITO YAKUGWIRITSA NTCHITO",
+      "sec1Heading": "Chifukwa Chake ERP Yamakono Ikufunika",
+      "sec1Subtext": "ERP sikulinso ma accounting akuofesi. Ndilo njira yoyendetsera bizinesi yamakono yowonetsedwa mu mapulogalamu.",
+      "sec2Eyebrow": "ZOPHUNZITSIDWA ZA ECOSYSTEM",
+      "sec2Heading": "Zogwirizana Zamalonda",
+      "sec2Subtext": "Mtengo weniweni wabungwe umawonekera pomwe ntchito zazikulu zamabizinesi zimayendera limodzi pamaziko a digito.",
+      "sec3Eyebrow": "KUGWIRITSA NTCHITO KWAMBIRI",
+      "sec3Heading": "Ntchito Zogwirizana & Kuyenda Kwachidziwitso",
+      "sec3Subtext": "Kugwetsa mipanda yolumikizirana pakati pa madipatimenti kuti athandizire kuyenda kwamadzimadzi, kolumikizana ndi mabizinesi.",
+      "sec4Eyebrow": "ENTERPRISE TELEMETRY",
+      "sec4Heading": "Kuwonekera Kwa Bizinesi Yeniyeni",
+      "sec4Subtext": "Kuphatikiza ma metric ogwirira ntchito kukhala ma dashboard owonekera omwe amawonetsa zenizeni zamabizinesi.",
+      "sec5Eyebrow": "KORE PLATFORM ARCHITECTURE",
+      "sec5Heading": "Maluso Amakono a ERP",
+      "sec5Subtext": "Zomangamanga zomwe zimalekanitsa nsanja za ERP zamasiku ano ndi zokhazikika zokhazikika.",
+      "sec6Eyebrow": "QUALITATIVE IMPACT",
+      "sec6Heading": "Zopindulitsa Zamalonda",
+      "sec6Subtext": "Kulumikiza mabizinesi akuluakulu kukhala maziko olumikizana a digito kumabweretsa kulimba mtima kwa bungwe.",
+      "ctaHeading": "Sinthani Mayendedwe Amakampani Anu Amakono",
+      "ctaDescription": "Onani momwe nsanja zamakono za ERP zimalumikizirana ndi zachuma, zogula, zogulitsira ndi ntchito zamabizinesi kudzera pamaziko olumikizana a digito.",
+      "ctaButton": "Kambiranani ndi Akatswiri Athu",
+      "sec1P1": "M'mabizinesi omwe akuyenda mwachangu, machitidwe achikhalidwe a Enterprise Resource Planning nthawi zambiri amakhala ovuta. Zomangidwa munthawi yokonza ma batch ndi ma seva akutali, ma ERP adasinthidwa mwamakonda, ovuta kukweza, komanso opaque mopweteka. Mabizinesi ofunikira amagwirira ntchito m'malo ofananirako, kudalira zotumiza kunja usiku umodzi kuti alumikizitse ma leja ndi malo osungira.",
+      "sec1P2": "ERP yamakono, yamtundu wamtambo imatanthauziranso izi. Imagwira ntchito ngati msana wa digito wabizinesi - maziko amoyo pomwe ndalama, zogula, zogulitsira, zowerengera, ndi zinthu za anthu zimayenderana ndi data yogawana.",
+      "sec1P3": "Mwa kubweretsa ntchito zazikuluzikulu mu malo amodzi ogwirizana, ERP yamakono imachotsa malo osawona ogwira ntchito omwe amachepetsa kukula, zomwe zimathandiza atsogoleri kuyendetsa bizinesi pogwiritsa ntchito zizindikiro zenizeni m'malo mofotokoza mwachidule mbiri yakale.",
+      "sec3P1": "Silo zogwirira ntchito nthawi zambiri zimakhala zovuta za anthu; iwo ndi zovuta zomanga. Pamene magulu othandizira makasitomala, ogula zinthu, ndi osungira katundu amagwira ntchito m'mapulogalamu osalumikizidwa, ntchito iliyonse imafuna maimelo apamanja, ma spreadsheets, ndi mafoni. Zolakwa zikuchulukirachulukira, ma invoice amasungidwa, ndipo kulonjeza kwamakasitomala kumachepa.",
+      "sec3P2": "ERP yamakono imayankha izi kudzera mumzere wolumikizana wa data ndi kuyimba koyendetsedwa ndi zochitika:",
+      "sec3List": [
+        {
+          "bold": "Kulunzanitsidwa kwa ndalama:",
+          "text": "Oda yamakasitomala ikayikidwa, zosungira zimasungidwa zokha, zolemba zotumizira zimapanga, ndipo zolemba zolipira zimasinthidwa nthawi yomweyo."
+        },
+        {
+          "bold": "Pezani kuwonekera poyera kuti mulipire:",
+          "text": "Maoda ogulira, malisiti a katundu, ndi ma invoice a ogulitsa zimangofanana ndi kuyanjanitsa kwa njira zitatu, zomwe zimangosonyeza kuti anthu sangaunikenso."
+        },
+        {
+          "bold": "Mtengo wogwirizana wantchito ndi ntchito:",
+          "text": "Zolemba zanthawi ya polojekiti, kugawika kwa malipiro, ndi ndalama zoyendetsera ntchito zolunjika ku malo opangira ndalama munthawi yeniyeni."
+        }
+      ],
+      "sec4P1": "Kuyendetsa bizinesi popanda mawonekedwe ogwirizana kuli ngati kuwuluka muufunga ndi zida zochedwa. ERP yamakono imapereka telemetry yeniyeni pa bizinesi iliyonse:",
+      "sec4List": [
+        {
+          "bold": "Ma dashboard apamwamba amoyo:",
+          "text": "Kuwona nthawi yomweyo kwa ndalama zonse, kuyendetsa ndalama, mangawa otseguka, ndi kuyitanitsa zotsalira popanda kuyembekezera kutseka kwa nthawi."
+        },
+        {
+          "bold": "Malipoti odzichitira okha:",
+          "text": "Akuluakulu a m’madipatimenti atha kupanga mafunso okhazikika ndikuyang’ana pansi kuchokera pa chidule cha mabizinesi kupita ku zinthu zamtundu uliwonse."
+        },
+        {
+          "bold": "Zambiri zazikuluzikulu zapakati:",
+          "text": "Kuchotsa manambala otsutsana pokhazikitsa deta imodzi yoyendetsedwa ndi makasitomala, ogulitsa, ndi makatalogu azinthu."
+        },
+        {
+          "bold": "Zidziwitso zaposachedwa:",
+          "text": "Zidziwitso zodziwikiratu zimadziwitsa oyang'anira nthawi yomweyo mizere ikatsika, kuchuluka kwa zinthu kutsika, kapena kutsika kwa ma supplier delivery."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NZERU YOSINTHA YA ERP",
+      "keyPerspectiveTitle": "Pragmatic Modernization Pamwamba pa Monolithic Overhaul",
+      "keyPerspectiveLead": "Kusintha kwamakono kwa ERP kumayenda bwino mabungwe akamaona ngati kusintha kosinthika m'malo mosokoneza chilichonse kapena chilichonse cha IT:"
+    },
+    "cybersecurity": {
+      "category": "CYBERSECURITY",
+      "title": "Kumanga Kulimba kwa cyber mu Bizinesi Yolumikizidwa",
+      "subtitle": "Onani momwe mabungwe angalimbikitsire chitetezo, kuteteza machitidwe ovuta ndikukonzekera ziwopsezo pamadera omwe akuchulukirachulukira olumikizidwa.",
+      "date": "Seputembara 2026",
+      "readTime": "8 min werengani",
+      "imageCaption": "Enterprise Technology Perspective - Chitetezo Chowopsa & Zero-Trust Architecture",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetry & Kuzindikira",
+          "desc": "Kulowetsedwa kwa log-nthawi yeniyeni ndi kulumikizana mosagwirizana ndi SIEM pamitundu yonse yamtambo ndi ntchito."
+        },
+        {
+          "title": "Kusunga & Kudzipatula",
+          "desc": "Malamulo okhazikika okhala ndi ma netiweki odzipatula opatula zotengera zomwe zasokonekera kapena zidziwitso nthawi yomweyo."
+        },
+        {
+          "title": "Kukonzanso & Choyambitsa",
+          "desc": "Kutulutsa kofulumira kwa zigamba ndi maumboni a digito omwe amazindikiritsa vector yophwanya."
+        },
+        {
+          "title": "Kupirira & Kuwumitsa",
+          "desc": "Ndemanga mosalekeza muzosunga zosunga zobwezeretsera zosasinthika, zolondera zamalamulo, ndi zoyeserera zamagulu ofiira."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Kuchepetsa kwakukulu pakuwukira pachiwopsezo pamitengo yamtambo",
+        "Kutsimikizika kopitilira ntchito ndikubwezeretsa masoka ndi RTO/RPO yochepa",
+        "Chikhulupiriro chonse chotsatira ISO 27001, SOC 2, HIPAA, ndi GDPR",
+        "Kutetezedwa kwa chidziwitso chazachuma komanso mbiri yachinsinsi yamakasitomala",
+        "Ulamuliro wowongolera wamabizinesi ndi chipani chachitatu kudzera muulamuliro wolumikizana",
+        "Kudalirika kwa kasitomala ndi Investor mothandizidwa ndi zotsimikizika zachitetezo cha zero-trust"
+      ],
+      "zeroTrustPrinciples": [
+        "Osakhulupirira, Tsimikizani Nthawi Zonse: Kutsimikizika kwatsatanetsatane kumafunika pakuchita kulikonse",
+        "Kufikira Mwamwayi Wochepa: Malire ang'onoang'ono omwe amalepheretsa kusuntha koopsa",
+        "Tangoganizani Kuphwanya: Kuwunika kosalekeza kuwopseza, kubisalira poyenda komanso popuma",
+        "Micro-Segmentation: Zozimitsa moto pamaneti zomwe zimalekanitsa ntchito zamtundu uliwonse",
+        "Telemetry Yopitilira: Kusanthula kwamakhalidwe kodziwikiratu komwe kumawonetsa zopempha zapagawo zosasangalatsa"
+      ],
+      "sec1Eyebrow": "NTCHITO YOKULIRA",
+      "sec1Heading": "The Connected Enterprise Security Landscape",
+      "sec1Subtext": "Pamene mabungwe amakono akugwirizanitsa ntchito zambiri, malo osungira mitambo, ogwira ntchito akutali, mafoni a m'manja, ndi mabwenzi a chipani chachitatu, chigawo cha chitetezo chachikhalidwe chimasiya kukhalapo.",
+      "sec2Eyebrow": "KUTETEZA KWAMBIRI",
+      "sec2Heading": "Chitetezo cha Multi-Layered Threat",
+      "sec2Subtext": "Chitetezo chokhazikika chomwe chimateteza zida zofunika kwambiri, chidziwitso chamakampani, ndi machitidwe ogwirira ntchito.",
+      "sec3Eyebrow": "Mmalire ATSOPANO A CHITETEZO",
+      "sec3Heading": "Identity & Access Management (IAM)",
+      "sec3Subtext": "Identity ndiye maziko oyendetsera chitetezo chamakono. Pafupifupi kuphwanya kwakukulu kwachitetezo kumayamba ndi zidziwitso zosokoneza m'malo mogwiritsa ntchito mapulogalamu.",
+      "sec4Eyebrow": "ARCHITECTURAL PARADIGM",
+      "sec4Heading": "Demystifying Zero Trust Architecture",
+      "sec4Subtext": "Zero Trust si chinthu chimodzi kapena chida. Ndi njira yomanga yozikidwa pa mfundo yowongoka: musakhulupirire gulu mkati kapena kunja kwa netiweki mwachisawawa.",
+      "sec5Eyebrow": "ULAMULIRO WA NTCHITO ZONSE",
+      "sec5Heading": "Malingaliro a Chitetezo cha Mtambo",
+      "sec5Subtext": "Kuteteza zochulukira pamtambo wapagulu, zomangamanga zosakanizidwa, ndi malo ogawa.",
+      "sec6Eyebrow": "KUPIRIRA KWA NTCHITO",
+      "sec6Heading": "Kukonzekera Zochitika: Kupitirira Kupewa",
+      "sec6Subtext": "Kulimba mtima kwenikweni kwa pa intaneti kumavomereza kuti zochitika zitha kuchitika. Kukonzekera kumayang'ana pakusunga mwachangu, kusokoneza pang'ono kwa bizinesi, ndikutsimikizira kuchira.",
+      "sec7Eyebrow": "STRATEGIC VALUE",
+      "sec7Heading": "Zopindulitsa Zamalonda",
+      "sec7Subtext": "Kumanga bizinesi yolimbana ndi intaneti kumateteza kufunikira kwa bungwe, kaimidwe ka kayendetsedwe kake, komanso mbiri ya msika.",
+      "ctaHeading": "Limbitsani Chitetezo Chanu cha Bizinesi",
+      "ctaDescription": "Onani momwe mabungwe angalimbikitsire chitetezo, kuteteza machitidwe ovuta ndikukonzekera ziwopsezo m'malo olumikizana kwambiri.",
+      "ctaButton": "Kambiranani ndi Akatswiri Athu",
+      "sec1P1": "Munthawi yabizinesi ya IT, chitetezo chinkagwiritsidwa ntchito pa chiphunzitso cha castle-and-moat: chilichonse chomwe chili mkati mwa ofesi yamakampani chimaonedwa kuti ndi chodalirika, pomwe chilichonse chakunja chimawonedwa ngati chosadalirika. Chowotcha moto chamakampani chimateteza ma seva amkati, ma database, ndi makompyuta apakompyuta.",
+      "sec1P2": "Mabizinesi amasiku ano ali ndi makoma akuthupi. Ntchito zambiri zimakhala m'malo okhala ndi mitambo yambiri (AWS, Azure, GCP), ogwira ntchito amapeza mabizinesi kuchokera kumadera osiyanasiyana, ndipo ma API amasinthasintha mosalekeza zomwe zimagwira ntchito ndi opereka zida zakunja, mabungwe azachuma, ndi ogulitsa SaaS.",
+      "sec1P3": "Ngakhale kulumikizana kwa hyperku kumapangitsa kuti bizinesi ikhale yolimba, imakulitsa kwambiri kuukira kwa mabizinesi. Mapeto aliwonse a API, chizindikiro cha chizindikiritso, foni yam'manja yolumikizidwa, ndi kuphatikiza kwa SaaS kumayimira vector yowonekera. Kutetezedwa kowona kwa mabizinesi kumafuna kusintha kuchoka pachitetezo chokhazikika kupita kuchitetezo chokhazikika, chakumapeto mpaka kumapeto kwa cyber.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Kuzindikira Zowopsa",
+          "desc": "Kuphunzira pogwiritsa ntchito makina kumawopseza nzeru zomwe zimayang'anira machitidwe odabwitsa a netiweki, nkhanza zodziwika bwino, komanso kusatetezeka kwamasiku angapo munthawi yeniyeni."
+        },
+        {
+          "icon": "📡",
+          "title": "Kuwunika Chitetezo",
+          "desc": "Centralized Security Operations Center (SOC) telemetry yolumikizana zochitika pamaseva, magulu a zotengera, opereka zidziwitso, ndi ma endpoints."
+        },
+        {
+          "icon": "🔍",
+          "title": "Vulnerability Management",
+          "desc": "Kusanthula mosalekeza za chiwopsezo pazipangizo zonse, nkhokwe zosungira, ndi zolembera zotengera kuti muthetse zofooka mwachangu."
+        },
+        {
+          "icon": "🔒",
+          "title": "Chitetezo cha Data",
+          "desc": "Robust encryption in transit (TLS 1.3) ndi popuma (AES-256), pamodzi ndi granular data loss prevention (DLP) ulamuliro kuteteza kutayikira kwaluntha."
+        }
+      ],
+      "sec3P1": "Kuteteza katundu wabizinesi kumafuna kuwonetsetsa kuti chizindikiritso chilichonse—kaya ndi munthu wamkulu, kontrakitala wakunja, kapena akaunti yodziyimira payokha yamapulogalamu apulogalamu—chatsimikizira chilolezo chazinthu zenizeni zomwe amapeza.",
+      "sec3List": [
+        {
+          "bold": "Kasamalidwe ka zidziwitso chapakati:",
+          "text": "Single Sign-On (SSO) ndi mfundo zodziwika bwino zomwe zimachotsa masitolo achinsinsi ogawanika pamapulogalamu onse."
+        },
+        {
+          "bold": "Kutsimikizika kwa zinthu zambiri (MFA):",
+          "text": "Makiyi a hardware a FIDO2 osagwiritsa ntchito Phishing ndi zovuta zokhudzana ndi chiopsezo pazantchito zowunikira."
+        },
+        {
+          "bold": "Kuwongolera kolowera kwa granular:",
+          "text": "Fine-grained Role-Based (RBAC) ndi Attribute-Based (ABAC) maulamuliro ofikira omwe amatsatiridwa pa API ndi ma database."
+        },
+        {
+          "bold": "Mfundo Zochepa:",
+          "text": "Kupereka mwayi wofikira kwakanthawi, munthawi yake (JIT) womwe umatha ntchito zikangotha ntchito zoyang'anira."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ZERO TRUST CORE DOCTRIN",
+      "keyPerspectiveTitle": "Kutsimikizika Kopitilira Pamaso pa Blind Trust",
+      "keyPerspectiveLead": "Mu kamangidwe ka Zero Trust, kudalira kotheratu kutengera malo a netiweki kumathetsedwa. Kuchitika kulikonse, funso la database, ndi kulowa kwa ogwiritsa ntchito ziyenera kutsimikizira kulondola kwake:",
+      "cloudSecurityCards": [
+        {
+          "title": "Udindo Wogawana",
+          "desc": "Ulamuliro womveka bwino womwe umasiyanitsa chitetezo chakuthupi cha opereka mtambo ndiudindo wabizinesi pakubisa deta, mfundo za IAM, ndi ma code ogwiritsira ntchito."
+        },
+        {
+          "title": "Infrastructure as Code (IaC)",
+          "desc": "Zosasinthika, zosinthika zamtambo zomwe zimayendetsedwa ndi code. Makina ojambulira a policy-as-code amaletsa kusasinthika ndi zidebe zowonekera asanatumizidwe."
+        },
+        {
+          "title": "Container & Kubernetes Security",
+          "desc": "Nthawi zoyendetsera ziwiya zolimba, zolembetsa zazithunzi zosayinidwa, magawo ang'onoang'ono a netiweki, ndi kasamalidwe kachinsinsi komwe kamapangitsa kuti mbiri isatuluke."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "MITALA NDI MASIKU ANO",
+      "title": "Kupititsa patsogolo Ntchito Zazolowa Zamakono za Cloud",
+      "subtitle": "Onani njira zothandiza zowunika, kusinthiratu ndikusuntha zomwe zidachitika kale kuti zigwirizane ndi mamangidwe otetezeka a mitambo.",
+      "date": "Seputembara 2026",
+      "readTime": "6 min werengani",
+      "imageCaption": "Enterprise Technology Perspective - Cloud-Native Re-platforming & Containerization",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (Kwezani & Shift)",
+          "desc": "Kusintha kwa ntchito zosinthira makina owoneka bwino mwachangu ndikusinthidwa pang'ono."
+        },
+        {
+          "title": "Replatform (Nyamulani & Reshape)",
+          "desc": "Sinthani zoyendetsera nthawi yoyendetsera ntchito, gwiritsani ntchito nkhokwe zosungidwa zamtambo, ndikuwongolera magwiridwe antchito."
+        },
+        {
+          "title": "Refactor (Cloud-Native Rebuild)",
+          "desc": "Pangani ma monoliths kukhala ma microservices okhala ndi ma API opanda seva."
+        },
+        {
+          "title": "Bwezerani (SaaS Modernization)",
+          "desc": "Retire regacy systems mokomera mapulogalamu opangira mabizinesi amtambo."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Kuwunika kwa Cholowa",
+          "desc": "Mapu odalira pawokha, kulemba ngongole zaukadaulo, ndi zigoli zokonzekera mitambo."
+        },
+        {
+          "title": "Zomangamanga Zolinga",
+          "desc": "Mapulani a Microservice Modular, topology ya ziwiya, ndi ma tempuleti a IaC."
+        },
+        {
+          "title": "Kusamuka Kwapang'onopang'ono",
+          "desc": "Kutulutsa kwa Canary, kulunzanitsa kwa data yolemba-pawiri, ndi mafunde odulira zero-downtime cutover."
+        },
+        {
+          "title": "Kukhathamiritsa Kwamtambo",
+          "desc": "Ulamuliro wamtengo wapatali, autoscaling telemetry, ndi ndemanga za FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Zotsika mtengo kwambiri zokonzetsera zomangamanga ndi zotsitsimutsa za hardware",
+        "Pafupi-infinite compute elasticity yosamalira kuchuluka kwa mabizinesi omwe ali ndi zero latency",
+        "Kuthamanga kwachangu kotulutsa ndi mapaipi odzipangira okha a CI/CD",
+        "Kuchotsa mfundo zolephera za cholowa chimodzi ndi kupezeka kwakukulu kwa AZ",
+        "Zomangamanga zamakono za API zomwe zimathandizira kuphatikizika kwa ma pulatifomu mwachangu",
+        "Kuwoneka kwapamwamba pa nthawi yeniyeni pakugwiritsa ntchito ntchito komanso kugwiritsa ntchito mtambo"
+      ],
+      "landscapeAssessmentPoints": [
+        "Kupanga mapu kudalira kwapakati-mapulogalamu ndi ma cadence olumikizana ndi data",
+        "Kuzindikiritsa masanjidwe achilengedwe okhazikika komanso madongosolo a database",
+        "Kuyang'anira kutsata malamulo ndi zopinga zaulamuliro wa data paulamuliro uliwonse",
+        "Kuwerengera zenizeni Mtengo Wonse wa Mwini (TCO) kudutsa njira zofananira ndi rehost",
+        "Kukhazikitsa mafunde omveka bwino kuti ateteze mabizinesi ogwira ntchito tsiku ndi tsiku"
+      ],
+      "sec1Eyebrow": "ZINTHU ZOONA ZA ZINTHU ZOCHOKERA",
+      "sec1Heading": "The Legacy Challenge",
+      "sec1Subtext": "Ma monoliths okalamba amachepetsa kuthamanga kwazinthu zatsopano, amawonjezera zovuta zogwirira ntchito, ndikukweza mtengo wokonza zomangamanga.",
+      "sec2Eyebrow": "KUYESA & KUPEZEKA",
+      "sec2Heading": "Kumvetsetsa Mawonekedwe a Ntchito",
+      "sec2Subtext": "Kuchita bwino kwamakono kwamtambo kumayamba ndikuwunika mozama. Kudumphira molunjika kukusamuka popanda kuyang'anira kudalira kwa mapulogalamu ndiye chifukwa chachikulu cha kuchedwetsedwa kwa ma cutovers.",
+      "sec3Eyebrow": "NJIRA 4 ZA makono",
+      "sec3Heading": "Njira Zamakono",
+      "sec3Subtext": "Palibe njira imodzi yofanana ndi kusamuka. Mabizinesi otsogola amafananiza njira yoyenera yosinthira pantchito iliyonse kutengera mtengo wabizinesi, changu, ndi ngongole zaukadaulo.",
+      "sec4Eyebrow": "TARGET TRANSFORMATION MODEL",
+      "sec4Heading": "Zomangamanga Zamakono Zamtambo",
+      "sec4Subtext": "Msewu wokonzedwa bwino womwe umasintha ma monoliths kukhala zotanuka, zotetezeka, komanso zosungika zamtambo.",
+      "sec5Eyebrow": "ZOTSATIRA ZAKE",
+      "sec5Heading": "Mapindu Ofunika Amakono",
+      "sec5Subtext": "Kusuntha machitidwe olowa m'malo opangira mitambo yamakono kumapereka mphamvu yowoneka bwino yogwirira ntchito komanso kulosera mtengo.",
+      "ctaHeading": "Sinthani Mapulogalamu Anu a Cholowa Chanu",
+      "ctaDescription": "Onani njira yothandiza yowunika, kusinthiratu ndikusuntha zomwe zidachitika kale kuti zigwirizane ndi mamangidwe otetezeka a mitambo.",
+      "ctaButton": "Kambiranani ndi Akatswili Athu",
+      "sec1P1": "Mapulogalamu ofunikira kwambiri omwe adamangidwa zaka khumi zapitazo amayendetsabe mabiliyoni ambiri pamabizinesi, komabe kusakhazikika kwawo pamapangidwe kumabweretsa chiwopsezo chokulirapo.",
+      "sec1P2": "Bizinesi iliyonse imayang'anizana ndi kusamvana pakati pa kukhazikika ndi kusinthika. Machitidwe obadwa nawo adapangidwa kuti azikhala olimba, ndipo akhala akugwira ntchito modalirika kwa zaka zambiri. Komabe, momwe zofunikira zamabizinesi zikuchulukira, zomanga zokalambazi zimakumana ndi malire:",
+      "sec1List": [
+        {
+          "bold": "Mapulogalamu okalamba:",
+          "text": "Ma codebases a monolithic omangidwa pazifukwa zomwe zidasiyidwa zokhala ndi dziwe la talente lochepera lomwe likupezeka kuti likonze."
+        },
+        {
+          "bold": "Zovuta kukonza:",
+          "text": "Zigawo zolumikizidwa mwamphamvu pomwe kusintha gawo limodzi kumatha kuswa ma module osagwirizana."
+        },
+        {
+          "bold": "Kukhazikika kochepa:",
+          "text": "Malire okwera omwe amafunikira kugula zida zodula kuti athe kuthana ndi kuchuluka kwa magalimoto pakanthawi."
+        },
+        {
+          "bold": "Zovuta zophatikiza:",
+          "text": "Kulephera kulumikizana bwino ndi mapulogalamu am'manja amakono, ma portal amakasitomala, kapena ma API othandizana nawo opanda ma batch script osalimba."
+        },
+        {
+          "bold": "Zovuta pazantchito:",
+          "text": "Zozungulira zapachipinda cha seva, zofooka zosunga zobwezeretsera, komanso kugwiritsa ntchito mphamvu zambiri / kuzirala."
+        }
+      ],
+      "sec2P1": "Ulendo wamakono wamakono umayamba ndikukhazikitsa zomveka bwino pa malo omwe alipo:",
+      "sec2List": [
+        {
+          "bold": "Mapulogalamu:",
+          "text": "Kuwerengera zonse zomwe zikugwira ntchito, ma module achikhalidwe, zolemba zakumbuyo, ndi phukusi lambiri la chipani chachitatu."
+        },
+        {
+          "bold": "Zodalira:",
+          "text": "Kupanga mapu ovuta kulumikiza nthawi yothamanga, matebulo a database omwe amagawana, kuyimba kwa mafayilo achindunji, ndi makontrakitala akunja."
+        },
+        {
+          "bold": "Zambiri:",
+          "text": "Kuunikira kapangidwe ka data, zofunikira pazantchito, kusungitsa zosunga zobwezeretsera, ndi malamulo owongolera."
+        },
+        {
+          "bold": "Zomangamanga:",
+          "text": "Auditing CPU, kukumbukira, kagwiritsidwe ntchito kakusungirako, ndi ma network kudzera pamiyeso yamtambo yomwe mukufuna."
+        },
+        {
+          "bold": "Zovuta zabizinesi:",
+          "text": "Kugawa mapulogalamu m'magulu kuti apange mafunde otetezeka, osasunthika omwe ali ndi njira zobwerera m'mbuyo."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Ubwino:",
+      "cloudArchitectureBadge": "Zosintha Zamakono",
+      "cloudArchitectureTitle": "Kutha-ku-Mapeto Kuyenda Kwamakono Kwamtambo",
+      "sec4P1": "Zomangamanga zomwe mukupita zimagawaniza ntchito zazikuluzikulu kukhala ma modular, ntchito zokhala ndi zotengera zomwe zimachitika pamapulatifomu amtambo (monga Kubernetes kapena nthawi zoyendetsedwa zopanda seva).",
+      "sec4P2": "Pokhazikitsa mapaipi otumizira a CI/CD odzipangira okha, zodula zobiriwira zabuluu, ndi zomangamanga monga ma code, kutumizidwa kumasintha kuchokera ku zochitika zakumapeto za sabata kukhala zochitika zatsiku ndi tsiku zopanda msoko.",
+      "sec4P3": "Compute yokhuthala imangodzikweza yokha pakufunika kwa kukwera ndi kutsika panthawi yaphokoso, ndikuchotsa mtengo wazinthu zopanda ntchito ndikutsimikizira kuyankha kwa mphindi yachiwiri kwa ogwiritsa ntchito padziko lonse lapansi.",
+      "keyPerspectiveEyebrow": "NTCHITO ZABWINO ZA MASIKU ANO",
+      "keyPerspectiveTitle": "Nsanamira Zinayi Zosamuka Mopambana",
+      "keyPerspectiveLead": "Zochitika zikuwonetsa kuti ntchito zamakono zimayenda bwino zikakhazikitsidwa pakukonzekera kwathunthu, kutsata mafunde momveka bwino, komanso kuyesa mwamphamvu:"
+    }
+  }
+}

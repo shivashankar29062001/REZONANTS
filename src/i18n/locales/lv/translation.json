@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Par",
+    "services": "Pakalpojumi",
+    "products": "Produkti",
+    "perspectives": "Perspektīvas",
+    "technologies": "Tehnoloģijas",
+    "contact": "Sazināties",
+    "signIn": "Pierakstieties",
+    "signUp": "Reģistrēties",
+    "signOut": "Izrakstīties",
+    "chooseLanguage": "Izvēlieties valodu",
+    "searchLanguage": "Meklēt valodu",
+    "resetEnglish": "Atiestatīt uz angļu valodu",
+    "noResults": "Nav atrasta neviena valoda",
+    "englishDefault": "angļu (noklusējums)",
+    "english": "angļu valoda"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hyderabad",
+    "title": "Programmatūra, kas izstrādāta <em>jūsu uzņēmuma</em> darbībai.",
+    "description": "Rezonants ir IT pakalpojumu un digitālo produktu uzņēmums. Mēs projektējam, veidojam un mērogojam pielāgotu programmatūru, tīmekļa un mobilos produktus, mākoņa infrastruktūru un AI — uzņēmumiem, kas konkurē izpildes ziņā.",
+    "bookConsultation": "Piesakieties bezmaksas konsultācijai",
+    "exploreServices": "Izpētiet pakalpojumus",
+    "years": "gadi",
+    "projects": "projekti",
+    "retention": "saglabāšana",
+    "location": "Madhapura, Haidarabada",
+    "since": "Rezonants — kopš 2012. gada",
+    "metaStudio": "Digitālo produktu studija",
+    "metaTech": "Tīmeklis · Mobilais · Mākonis · AI"
+  },
+  "about": {
+    "eyebrow": "Par mums",
+    "title": "Digitālo risinājumu izveide, <em>kas virza uzņēmumus uz priekšu</em>",
+    "description": "Rezonants ir tehnoloģiju risinājumu uzņēmums, kura mērķis ir palīdzēt uzņēmumiem pārvērst idejas nozīmīgā digitālā pieredzē. Mēs apvienojam tehnoloģijas, radošumu un biznesa izpratni, lai sniegtu risinājumus, kas izstrādāti, ņemot vērā reālās pasaules vajadzības.<br /><br />No digitālās transformācijas un pielāgotas programmatūras izstrādes līdz mākoņa, mākslīgā intelekta, automatizācijas un pārvaldītu tehnoloģiju pakalpojumiem mēs palīdzam organizācijām vienkāršot sarežģītību, uzlabot efektivitāti un radīt paliekošu digitālo vērtību.<br /><br /><strong>Mūsu pieeja ir vienkārša — izprotiet problēmu, biznesu un atrisiniet</strong>.",
+    "awardWinning": "Godalgots",
+    "awardText": "Atzīts par izcilu piegādi tīmekļa un mobilo produktu inženierijā.",
+    "professionalStaff": "Profesionāls personāls",
+    "staffText": "Vecāki, atbildīgi inženieri, kuriem pieder darbs no pirmā zvana līdz sākšanai.",
+    "support247": "24/7 atbalsts",
+    "supportText": "Pārvaldīti pakalpojumi un atbalsta līnija, kas atbild, kad tas ir nepieciešams.",
+    "fairPrices": "Godīgas cenas",
+    "pricesText": "Godīgi aprēķini un pārskatāmi rēķini par katru vienošanos.",
+    "yearsExcellence": "Uzņēmuma izcilības gadi"
+  },
+  "stats": {
+    "happyClients": "Laimīgi klienti",
+    "projectsDone": "Projekti pabeigti",
+    "winAwards": "Iegūstiet balvas"
+  },
+  "insights": {
+    "eyebrow": "Perspektīvas",
+    "title": "Perspektīvas",
+    "sub": "Ideju, tendenču un tehnoloģiju izpēte, kas veido nākotni.",
+    "filters": {
+      "all": "Viss",
+      "digital-transformation": "Digitālā transformācija",
+      "ai": "AI un automatizācija",
+      "cloud": "Mākonis",
+      "data": "Dati un analīze",
+      "software": "Programmatūra",
+      "business": "Bizness un tehnoloģijas"
+    },
+    "readMore": "Lasīt vairāk",
+    "close": "Aizvērt",
+    "keyTakeaways": "Galvenie arhitektūras piedāvājumi",
+    "relatedServices": "Saistītās iespējas un pakalpojumi",
+    "minRead": "min lasīt",
+    "item1Date": "2026. gada jūlijs",
+    "item1Tag": "Produkts un ERP",
+    "item1Title": "Modulāra ERP pieeja augošiem uzņēmumiem",
+    "item1Text": "Kā mēs strukturējam ERP iesaistīšanos, lai finanses, krājumi, HR un iepirkumi tiktu integrēti nemanāmi bez vairāku gadu pārtraukumiem.",
+    "item2Date": "2026. gada jūnijs",
+    "item2Tag": "Mākslīgais intelekts",
+    "item2Title": "Aģentiskās AI sistēmas: pāreja no tērzēšanas robotiem uz autonomu izpildi",
+    "item2Text": "Koordinētu vairāku aģentu LLM sistēmu arhitektūra, kas plāno, apstiprina un izpilda sarežģītas biznesa darbplūsmas ar cilvēka cilpas uzraudzību.",
+    "item3Date": "2026. gada maijs",
+    "item3Tag": "Uzņēmuma pagrieziena punkts",
+    "item3Title": "Atzīts starp vadošajām IT inovāciju studijām Haidarabadā",
+    "item3Text": "Mūsu inženieru studija ir saņēmusi atzinību par piegādes izcilību, padziļinātām tehnoloģijām un klientu apmierinātību visā globālajā produktu inženierijā.",
+    "desc": "Izpētiet idejas un perspektīvas no Rezonants par digitālo transformāciju, mākslīgo intelektu, automatizāciju, mākoni, datiem, programmatūru un biznesa tehnoloģiju nākotni.",
+    "categories": {
+      "digitalTransformation": "Digitālā transformācija",
+      "ai": "AI un automatizācija",
+      "cloud": "Mākonis",
+      "data": "Dati un analīze",
+      "software": "Programmatūra",
+      "business": "Bizness un tehnoloģijas"
+    }
+  },
+  "technologies": {
+    "title": "Tehnoloģijas un arhitektūra",
+    "headline": "Uzņēmumu tehnoloģiju risinājumi",
+    "sub": "Inteliģentā tehnoloģija. Automatizētās operācijas. Gudrāks bizness.",
+    "selectTechnology": "Izvēlieties tehnoloģisko risinājumu…",
+    "options": {
+      "aiRobotics": "AI un robotikas risinājumi",
+      "businessAutomation": "Biznesa automatizācijas risinājumi",
+      "cloudMigrations": "Mākoņu migrācijas risinājumi",
+      "dataCenters": "Datu centra risinājumi",
+      "cognitiveAnalytics": "Kognitīvā analīze un AI",
+      "informationReporting": "Informācijas un ziņošanas sistēmas",
+      "managedServices": "Pārvaldīti pakalpojumi",
+      "oneStopSolutions": "Vienas pieturas tehnoloģiju risinājumi"
+    },
+    "explore": "Izpētiet tehnoloģijas",
+    "bookDiscovery": "Grāmatu tehnoloģiju atklāšana",
+    "exploreAll": "Izpētiet visas tehnoloģijas",
+    "coreCapabilities": "Tehnoloģiju pamatiespējas",
+    "bookConsultation": "Piesakieties konsultācijai"
+  },
+  "contact": {
+    "eyebrow": "Sazināties",
+    "title": "Runājiet ar vecāko inženieri, nevis ar pārdošanas skriptu",
+    "sub": "Dalieties nedaudz par savu projektu, un mēs atbildēsim vienas darba dienas laikā.",
+    "reachUs": "Sazinieties ar mums tieši",
+    "preferConversation": "Vai vēlaties sarunai? Mēs esam viena zvana attālumā.",
+    "contactLede": "Ātrākais veids, kā virzīties uz priekšu, ir īsa saruna. Sazinieties ar mums jebkurā tālāk norādītajā kanālā vai rezervējiet vietu, un mēs pie jums ieradīsimies gatavi.",
+    "phone": "Tālr",
+    "email": "E-pasts",
+    "office": "Birojs",
+    "hours": "Stundas",
+    "hoursValue": "P.–S., 9:30–18:30 IST",
+    "bookSlot": "Rezervējiet konsultācijas vietu",
+    "sendMessage": "Nosūtiet mums ziņu",
+    "fieldsRequired": "Lauki, kas atzīmēti ar *, ir obligāti.",
+    "fullName": "Pilns vārds *",
+    "emailLabel": "E-pasts *",
+    "company": "Uzņēmums",
+    "subject": "Tēma",
+    "messageLabel": "Ziņa *",
+    "sending": "Sūta…",
+    "sendBtn": "Sūtīt ziņu",
+    "successMsg": "Ziņa nosūtīta! Kopija jums ir nosūtīta pa e-pastu.",
+    "errorMsg": "Nevarēja saglabāt jūsu ziņojumu. Pārbaudiet, vai pastāv tabula contact_messages, un pēc tam mēģiniet vēlreiz.",
+    "offices": {
+      "vijayawada": "Vijayawada birojs",
+      "southAfrica": "Dienvidāfrikas birojs"
+    },
+    "placeholders": {
+      "fullName": "Jūsu pilns vārds",
+      "email": "you@company.com",
+      "company": "Jūsu uzņēmums vai organizācija",
+      "subject": "Kā mēs varam palīdzēt?",
+      "message": "Pastāstiet mums par savu projektu, laika grafiku un mērķiem..."
+    },
+    "validation": {
+      "fullNameRequired": "Lūdzu, ievadiet savu pilno vārdu.",
+      "emailRequired": "Lūdzu, ievadiet savu e-pasta adresi.",
+      "emailInvalid": "Lūdzu, ievadiet derīgu e-pasta adresi.",
+      "messageRequired": "Lūdzu, ievadiet ziņojumu."
+    }
+  },
+  "services": {
+    "eyebrow": "Pakalpojumi",
+    "title": "Ko mēs darām",
+    "sub": "No stratēģijas līdz pārvaldītām darbībām mēs piedāvājam visaptverošas tehnoloģiju partnerības uzņēmumiem, kas konkurē izpildē.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Sākums līdz izvietošanai",
+        "description": "Jaunu digitālo risinājumu pilnīga izstrāde no biznesa prasībām un risinājumu arhitektūras, izmantojot izstrādi, integrāciju, testēšanu, izvietošanu un pastāvīgu atbalstu."
+      },
+      "businessProcessAutomation": {
+        "label": "Biznesa procesu automatizācija",
+        "description": "Inteliģentu automatizācijas risinājumu izstrāde un ieviešana, kas racionalizē biznesa procesus, novērš atkārtotas manuālas darbības, uzlabo darbības efektivitāti un paātrina biznesa rezultātus."
+      },
+      "centerOfExcellence": {
+        "label": "Izcilības centrs",
+        "description": "Specializētu tehnoloģiju un biznesa iespēju centru izveide, kas nodrošina pārvaldību, standartus, zināšanas, ietvarus, atkārtoti izmantojamus līdzekļus un nepārtrauktus uzlabojumus visā organizācijā."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Pielāgota izstrāde un pielāgošana",
+        "description": "Lietojumprogrammu, platformu, darbplūsmu un uzņēmuma risinājumu izstrāde un uzlabošana, lai apmierinātu unikālas biznesa prasības un nodrošinātu pielāgotu funkcionalitāti."
+      },
+      "digitalTransformation": {
+        "label": "Digitālā transformācija",
+        "description": "Uzņēmējdarbības operāciju, tehnoloģiju ekosistēmu un klientu pieredzes modernizācija, izmantojot mākoni, AI, automatizāciju, datus un modernas lietojumprogrammu tehnoloģijas."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Pilnīga risinājumu sistēma",
+        "description": "Visaptveroša piegādes pieeja, kas aptver visu tehnoloģiju dzīves ciklu — no stratēģijas, prasībām un arhitektūras līdz izstrādei, integrācijai, izvietošanai, pārvaldībai, uzraudzībai un atbalstam."
+      },
+      "migrationModernization": {
+        "label": "Migrācija un modernizācija",
+        "description": "Droša un strukturēta lietojumprogrammu, datu, platformu, infrastruktūras un darba slodzes migrācija no mantotās vai esošās vides uz modernām, mērogojamām un optimizētām tehnoloģiju platformām."
+      },
+      "pocPilotImplementation": {
+        "label": "Koncepcijas pierādījums (PoC) un izmēģinājuma ieviešana",
+        "description": "Tehnoloģiju risinājumu ātra izstrāde un apstiprināšana, lai pirms pilna mēroga ieviešanas novērtētu tehnisko iespējamību, biznesa vērtību, integrācijas prasības, veiktspēju un mērogojamību."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Kopīgi pakalpojumi un pārvaldītās darbības",
+        "description": "Centralizēta tehnoloģiju un darbības iespēju piegāde biznesa vienībās, izmantojot standartizētus procesus, kvalificētus resursus, pārvaldības sistēmas, pakalpojumu pārvaldību un izmērāmus pakalpojumu līmeņus."
+      },
+      "customDevelopment": {
+        "label": "Sākums līdz izvietošanai",
+        "description": "Jaunu digitālo risinājumu pilnīga izstrāde no biznesa prasībām un risinājumu arhitektūras, izmantojot izstrādi, integrāciju, testēšanu, izvietošanu un pastāvīgu atbalstu."
+      },
+      "processAutomation": {
+        "label": "Biznesa procesu automatizācija",
+        "description": "Inteliģentu automatizācijas risinājumu izstrāde un ieviešana, kas racionalizē biznesa procesus, novērš atkārtotas manuālas darbības, uzlabo darbības efektivitāti un paātrina biznesa rezultātus."
+      },
+      "solutionEngineering": {
+        "label": "Pielāgota izstrāde un pielāgošana",
+        "description": "Lietojumprogrammu, platformu, darbplūsmu un uzņēmuma risinājumu izstrāde un uzlabošana, lai apmierinātu unikālas biznesa prasības un nodrošinātu pielāgotu funkcionalitāti."
+      },
+      "endToEndSolutions": {
+        "label": "Pilnīga risinājumu sistēma",
+        "description": "Visaptveroša piegādes pieeja, kas aptver visu tehnoloģiju dzīves ciklu — no stratēģijas, prasībām un arhitektūras līdz izstrādei, integrācijai, izvietošanai, pārvaldībai, uzraudzībai un atbalstam."
+      },
+      "migrationServices": {
+        "label": "Migrācija un modernizācija",
+        "description": "Droša un strukturēta lietojumprogrammu, datu, platformu, infrastruktūras un darba slodzes migrācija no mantotās vai esošās vides uz modernām, mērogojamām un optimizētām tehnoloģiju platformām."
+      },
+      "pilotPrototyping": {
+        "label": "Koncepcijas pierādījums (PoC) un izmēģinājuma ieviešana",
+        "description": "Tehnoloģiju risinājumu ātra izstrāde un apstiprināšana, lai pirms pilna mēroga ieviešanas novērtētu tehnisko iespējamību, biznesa vērtību, integrācijas prasības, veiktspēju un mērogojamību."
+      },
+      "sharedServices": {
+        "label": "Kopīgi pakalpojumi un pārvaldītās darbības",
+        "description": "Centralizēta tehnoloģiju un darbības iespēju piegāde biznesa vienībās, izmantojot standartizētus procesus, kvalificētus resursus, pārvaldības sistēmas, pakalpojumu pārvaldību un izmērāmus pakalpojumu līmeņus."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Ieplānojiet konsultāciju",
+      "exploreFramework": "Izpētiet risinājumu ietvaru",
+      "talkSeniorEngineer": "Runājiet ar vecāko inženieri",
+      "exploreTechStack": "Izpētiet Technology Stack",
+      "bookPocSession": "Rezervējiet PoC atklāšanas sesiju",
+      "seeAllServices": "Skatīt visus pakalpojumus",
+      "requestAssessment": "Pieprasiet migrācijas novērtējumu",
+      "exploreCloudSolutions": "Izpētiet mākoņa risinājumus"
+    },
+    "sharedServices": {
+      "heroBadge": "KOPĪGIE PAKALPOJUMI UN PĀRVALDĪTAS DARBĪBAS",
+      "heroTitle": "Uzņēmuma koplietotie pakalpojumi un pārvaldītās darbības",
+      "heroDesc": "Palieliniet biznesa iespējas, racionalizējiet starpfunkcionālās darbplūsmas un panākiet darbības izcilību, izmantojot standartizētus, drošus un rentablus koplietojamo pakalpojumu modeļus.",
+      "bookDiscovery": "Grāmatu pārvaldīto operāciju atklāšana",
+      "exploreFramework": "Izpētiet risinājumu ietvaru",
+      "coreCapabilities": "Galvenās iespējas:",
+      "managedServices": "Pārvaldīti pakalpojumi",
+      "itOperations": "IT darbības",
+      "appSupport": "Lietojumprogrammu atbalsts",
+      "serviceManagement": "Pakalpojumu pārvaldība",
+      "resourceOptimization": "Resursu optimizācija",
+      "slaManagement": "SLA vadība",
+      "governance": "Pārvaldība",
+      "continuousImprovement": "Pastāvīga uzlabošana",
+      "costOptimization": "Izmaksu optimizācija",
+      "readyTitle": "Vai esat gatavs optimizēt savas darbības?",
+      "readyDesc": "Uzziniet, kā mūsu koplietojamo pakalpojumu un pārvaldīto operāciju ietvari var uzlabot pakalpojumu kvalitāti, nodrošināt darbības nepārtrauktību un nodrošināt ilgtspējīgu izmaksu efektivitāti jūsu uzņēmumam.",
+      "scheduleSession": "Ieplānojiet atklāšanas sesiju"
+    },
+    "solutionEngineering": {
+      "heroBadge": "RISINĀJUMU INŽENERIJA UN ARHITEKTŪRA",
+      "heroTitle": "Pielāgota izstrāde un pielāgošana",
+      "heroDesc": "Arhitektējiet, izstrādājiet un izvietojiet augstas veiktspējas programmatūras sistēmas, kas īpaši izstrādātas jūsu darbības darbplūsmām, datu konveijeriem un mēroga prasībām."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "ĀTRA INOVĀCIJA UN EKSPERIMENTĀCIJA",
+      "heroTitle": "Koncepcijas pierādījums (PoC) un izmēģinājuma ieviešana",
+      "heroDesc": "Apstipriniet jaunās tehnoloģijas, samaziniet sarežģītu arhitektūru risku un pierādiet biznesa vērtību ar ražošanas līmeņa prototipiem nedēļās, nevis ceturkšņos."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "DZĪVES CIKLA ARHITEKTŪRA UN PIEGĀDE",
+      "heroTitle": "Pilnīga risinājumu sistēma",
+      "heroDesc": "Vienots piegādes modelis, kas savieno produktu atklāšanu, risinājumu arhitektūru, inženieriju, mākoņa infrastruktūru un 24/7 uzticamības darbības."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTŪRA UN MANTOTO MODERNIZĀCIJA",
+      "heroTitle": "Migrācija un modernizācija",
+      "heroDesc": "Nemanāmi pārslēdziet mantotās darba slodzes, monolītas arhitektūras un lokālo infrastruktūru uz modernām, drošām un mērogojamām mākoņu platformām."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Uzņēmuma modernizācija",
+        "titlePart1": "Digitālais",
+        "titlePart2": "Transformācija",
+        "description": "Uzņēmējdarbības operāciju, tehnoloģiju ekosistēmu un klientu pieredzes modernizācija, izmantojot mākoni, AI, automatizāciju, datus un modernas lietojumprogrammu tehnoloģijas.",
+        "bookWorkshop": "Grāmatu pārveidošanas darbnīca",
+        "exploreFramework": "Izpētiet risinājumu sistēmu",
+        "startTransformation": "Sākt transformāciju",
+        "exploreStrategy": "Izpētiet stratēģiju",
+        "coreCapabilitiesTitle": "Galvenās iespējas",
+        "coreCapabilities": [
+          "Digitālā stratēģija",
+          "Mākoņu transformācija",
+          "AI un automatizācija",
+          "Lietojumprogrammu modernizācija",
+          "Mantotā modernizācija",
+          "Dati un analīze",
+          "Klientu pieredze",
+          "Tehnoloģiju modernizācija"
+        ],
+        "row1Eyebrow": "Stratēģija un ceļvedis",
+        "row1Title": "No vīzijas līdz izpildāmam ceļvedim",
+        "row1P1": "Mēs sadarbojamies ar uzņēmumu vadītājiem, lai definētu digitālo stratēģiju, biznesa gadījumus un pakāpeniskus ceļvežus ar ātriem panākumiem un bezriska izpildi.",
+        "row1P2": "Prioritārās iniciatīvas, TCO modeļi un KPI nodrošina, ka visi tehnoloģiju modernizācijas centieni ir tieši saistīti ar ieņēmumiem, efektivitāti un klientu apmierinātības rezultātiem.",
+        "row2Eyebrow": "Mantotā modernizācija",
+        "row2Title": "Modernizējiet, nepārkāpjot biznesu",
+        "row2P1": "Pārveidojiet monolītus uz mikropakalpojumiem, API un mākoņdatošanas modeļiem ar nulles dīkstāves pārtraukšanu un automātisku regresijas validāciju.",
+        "row2P2": "Mēs modernizējam lietojumprogrammas, datu bāzes un integrācijas slāņus, vienlaikus saglabājot atbilstību un drošības stāvokli.",
+        "row3Eyebrow": "Mākonis, AI un dati",
+        "row3Title": "Mākoņa ieviešana un uz datiem balstīta informācija",
+        "row3P1": "Pieņemiet AWS, Azure un GCP, izveidojiet modernus datu cauruļvadus un ieguliet mašīnmācīšanās aģentus, lai pieņemtu autonomus lēmumus.",
+        "row3P2": "No reāllaika notikumu straumēšanas līdz vienotiem informācijas paneļiem transformācija kļūst izmērāma un ilgtspējīga.",
+        "row4Eyebrow": "Klientu pieredze",
+        "row4Title": "Mūsdienu daudzkanālu pieredze",
+        "row4P1": "Pārveidojiet klientu ceļus adaptīvos tīmekļa, iOS, Android un pašapkalpošanās portālos ar personalizētām saskarnēm.",
+        "row4P2": "Platformas inženierija, telemetrija un automatizētas atgriezeniskās saites cilpas padara digitālās inovācijas nepārtrauktas.",
+        "pillarsTitle": "Transformācijas pīlāri",
+        "pillarsSub": "Uz rezultātu vērstas sviras, kas nodrošina ilgtspējīgu digitālo vadību.",
+        "pillar1Title": "Digitālā stratēģija un pārvaldība",
+        "pillar1Desc": "Pakāpeniskas transformācijas shēmas ar biznesa gadījuma modelēšanu, arhitektūras pārvaldību un pavērsiena riska izsekošanu.",
+        "pillar2Title": "Mākoņu un datu platforma",
+        "pillar2Desc": "AWS/Azure/GCP vairāku mākoņu pamati, automatizēti cauruļvadi un uzņēmuma datu analīzes iespējošana.",
+        "pillar3Title": "AI un automatizācija",
+        "pillar3Desc": "Inteliģenta procesu automatizācija, kognitīvie AI aģenti un paredzamā telemetrija ikdienas darbību optimizēšanai.",
+        "pillar4Title": "Klientu pieredze",
+        "pillar4Desc": "Augsti konvertējoši daudzkanālu digitālie portāli un personalizētas saskarnes, kas izveidotas maksimālai lietotāju noturēšanai.",
+        "ctaTitle": "Vai esat gatavs pārveidot savu uzņēmumu?",
+        "ctaSub": "Sadarbojieties ar Rezonants pakāpeniskai, bezriska digitālai transformācijai, kas saistīta ar izmērāmiem biznesa rezultātiem.",
+        "ctaButton": "Rezervējiet digitālās transformācijas zvanu"
+      },
+      "customDevelopment": {
+        "eyebrow": "Pilnīga digitālā inženierija",
+        "titlePart1": "Sākums Līdz",
+        "titlePart2": "Izvietošana",
+        "bookConsultation": "Piesakieties konsultācijai",
+        "exploreEngineering": "Izpētiet risinājumu inženieriju"
+      },
+      "processAutomation": {
+        "eyebrow": "Inteliģentas procesa darbības",
+        "titlePart1": "Biznesa process",
+        "titlePart2": "Automatizācija",
+        "bookDiscovery": "Grāmatu automatizācijas atklāšana",
+        "exploreCoE": "Izpētiet izcilības centru"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centrs",
+        "titlePart2": "Izcilība",
+        "bookConsultation": "Grāmatu CoE konsultācija",
+        "exploreCapabilities": "Izpētiet iespējas"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Pilnīgs tehnoloģiju dzīves cikls",
+        "titlePart1": "No gala līdz galam",
+        "titlePart2": "Risinājumu ietvars",
+        "startJourney": "Sāciet savu dzīves cikla ceļojumu",
+        "exploreTransformation": "Izpētiet transformāciju"
+      },
+      "migrationServices": {
+        "eyebrow": "Mākoņu un infrastruktūras transformācija",
+        "titlePart1": "Migrācija un",
+        "titlePart2": "Modernizācija",
+        "planMigration": "Plānojiet savu migrāciju",
+        "exploreTransformation": "Izpētiet transformāciju"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Ātra apstiprināšana un iespējamība",
+        "titlePart1": "Koncepcijas pierādījums (PoC) &",
+        "titlePart2": "Izmēģinājuma ieviešana",
+        "initiateDiscovery": "Sāciet PoC atklāšanu",
+        "exploreDevelopment": "Izpētiet pielāgoto izstrādi"
+      },
+      "solutionEngineering": {
+        "badge": "Pielāgota digitālā inženierija",
+        "bookConsultation": "Piesakieties konsultācijai",
+        "exploreCapabilities": "Izpētiet iespējas"
+      },
+      "sharedServices": {
+        "eyebrow": "Centralizētais operāciju centrs",
+        "titlePart1": "Kopīgi pakalpojumi un",
+        "titlePart2": "Pārvaldītās darbības",
+        "bookDiscovery": "Grāmatu pārvaldīto operāciju atklāšana",
+        "exploreFramework": "Izpētiet risinājumu ietvaru"
+      }
+    },
+    "coreCapabilities": "Galvenās iespējas"
+  },
+  "products": {
+    "featured": "Piedāvātie produkti",
+    "featuredSub": "Vienkāršojiet darbības, savienojiet komandas, automatizējiet procesus un veiciniet gudrāku biznesa izaugsmi.",
+    "seeAll": "Skatīt visus produktus",
+    "featuredProducts": "IZVĒLĒTIE PRODUKTI",
+    "meetAutonomous": "Iepazīstieties ar autonomo darbaspēku",
+    "meetAutonomousText": "Pārveidojiet savas darbības, izmantojot AI aģentus, kas strādā kopā ar jūsu komandu, lai veiktu sarežģītus, atkārtotus uzdevumus.",
+    "learnMore": "Uzziniet vairāk",
+    "erp": {
+      "title": "Viena platforma, kas ir gatava jebkam",
+      "sub": "Pilnvarot uzņēmumus ar savienotiem, viediem un mērogojamiem uzņēmuma pārvaldības risinājumiem.",
+      "explore": "Izpētiet ERP risinājumus",
+      "gridTitle": "ERP RISINĀJUMI",
+      "promoTitle": "Modulāra ERP izaugsmei",
+      "promoText": "Ātri izvietojiet modulāras ERP funkcijas bez tradicionālo daudzgadu sistēmu sarežģītības.",
+      "scheduleDemo": "Ieplānot demonstrāciju"
+    },
+    "it": {
+      "title": "IT risinājumi",
+      "sub": "Uzņēmuma līmeņa infrastruktūra, drošība un DevOps risinājumi, lai nodrošinātu jūsu uzņēmuma darbību.",
+      "explore": "Izpētiet IT risinājumus",
+      "gridTitle": "IT RISINĀJUMI",
+      "promoTitle": "Uzticama IT infrastruktūra",
+      "promoText": "Izveidojiet noturīgu tehnoloģiju pamatu ar pārvaldītiem mākoņa, drošības un DevOps pakalpojumiem.",
+      "getStarted": "Sāciet darbu"
+    },
+    "crm": {
+      "title": "CRM risinājumi",
+      "sub": "Klientu attiecību pārvaldība, lai racionalizētu pārdošanas, atbalsta un mārketinga darbplūsmas.",
+      "explore": "Izpētiet CRM risinājumus",
+      "gridTitle": "CRM RISINĀJUMI",
+      "promoTitle": "Aizvērt citus piedāvājumus",
+      "promoText": "Pilnvarojiet savas pārdošanas un atbalsta komandas ar vienotiem klientu datiem un inteliģentu automatizāciju.",
+      "startTrial": "Sāciet bezmaksas izmēģinājuma versiju"
+    },
+    "hrms": {
+      "title": "HRMS risinājumi",
+      "sub": "Cilvēkresursu vadība, kas aptver algu sarakstu, pieņemšanu darbā, sniegumu un darbinieku iesaistīšanu.",
+      "explore": "Izpētiet HRMS risinājumus",
+      "gridTitle": "HRMS RISINĀJUMI",
+      "promoTitle": "Vienkāršojiet personāla darbības",
+      "promoText": "Automatizējiet cilvēkresursu darbplūsmas no personāla atlases līdz aiziešanai pensijā, izmantojot modernu platformu, kas vispirms paredzēta darbiniekiem.",
+      "requestDemo": "Pieprasīt demonstrāciju"
+    },
+    "sidebar": {
+      "featuredProducts": "Piedāvātie produkti",
+      "erpSolutions": "ERP risinājumi",
+      "solutions": "RISINĀJUMI"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Inteliģenti autonomi aģenti un rīki, kas automatizē sarežģītas darbplūsmas un klientu darbības."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Vairāku mākoņu pārvaldības platforma, kas optimizē veiktspēju, drošību, atbilstību un izmaksas."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hibrīds sadarbības un produktivitātes centrs ar integrētu uzdevumu, tērzēšanas un dokumentu pārvaldību."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Reāllaika analītikas dzinējs, kas biznesa notikumu plūsmas pārvērš praktiski izmantojamos ieskatos."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP kodols",
+        "description": "Vienota uzņēmuma arhitektūra, kas savieno finanses, aktīvus, cilvēkresursus, iepirkumus un krājumus."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Darbinieku pieredzes platforma, kas aptver algas, pabalstus, darbības pārskatus un pašapkalpošanos."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Loģistikas izsekošana reāllaikā, automatizētas noliktavas darbības un pieprasījuma prognozēšana."
+      },
+      "financeHub": {
+        "title": "Finanšu centrs",
+        "description": "Uzlabota virsgrāmatas pārvaldība, norēķinu darbplūsmas, automatizēta atbilstība un reāllaika naudas plūsmas pārskati."
+      },
+      "cloudInfrastructure": {
+        "title": "Mākoņu infrastruktūra",
+        "description": "Mērogojama mākoņa arhitektūra, migrācija un pārvaldība AWS, Azure un GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Kiberdrošības komplekts",
+        "description": "Pilnīga drošības uzraudzība, draudu noteikšana un atbilstības pārvaldība."
+      },
+      "devopsPipeline": {
+        "title": "DevOps cauruļvads",
+        "description": "CI/CD automatizācija, konteinerizācija un infrastruktūra kā kods ātrākai piegādei."
+      },
+      "managedItServices": {
+        "title": "Pārvaldīti IT pakalpojumi",
+        "description": "24/7 infrastruktūras uzraudzība, reaģēšana uz incidentiem un proaktīva apkope."
+      },
+      "salesCrm": {
+        "title": "Pārdošanas CRM",
+        "description": "Cauruļvadu vadība, potenciālo pirkumu noteikšana, darījumu izsekošana un pārdošanas prognozēšana vienā platformā."
+      },
+      "customerSupportHub": {
+        "title": "Klientu atbalsta centrs",
+        "description": "Biļešu iegāde, zināšanu bāze, tiešsaistes tērzēšana un daudzkanālu atbalsta pārvaldība."
+      },
+      "marketingAutomation": {
+        "title": "Mārketinga automatizācija",
+        "description": "Kampaņu organizēšana, e-pasta automatizācija, potenciālo klientu piesaistīšana un analītika."
+      },
+      "customer360View": {
+        "title": "Klients 360 Skats",
+        "description": "Vienoti klientu profili, kas apvieno pārdošanas, atbalsta un mijiedarbības datus."
+      },
+      "coreHr": {
+        "title": "HR",
+        "description": "Darbinieku ieraksti, organizācijas hierarhija, atvaļinājumu pārvaldība un apmeklējumu uzskaite."
+      },
+      "payrollCompliance": {
+        "title": "Algu uzskaite un atbilstība",
+        "description": "Automatizēta algu apstrāde, nodokļu aprēķini un likuma atbilstība."
+      },
+      "performanceManagement": {
+        "title": "Veiktspējas vadība",
+        "description": "OKR izsekošana, 360° pārskati, mērķu noteikšana un darbinieku attīstības plāni."
+      },
+      "recruitmentPortal": {
+        "title": "Personāla atlases portāls",
+        "description": "Darba sludinājumi, pretendentu izsekošana, interviju plānošana un iekļaušanas darbplūsmas."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Piedāvātie produkti",
+        "heading": "Piedāvātie produkti",
+        "sub": "Vienkāršojiet darbības, savienojiet komandas, automatizējiet procesus un veiciniet gudrāku biznesa izaugsmi.",
+        "promoTitle": "Iepazīstieties ar autonomo darbaspēku",
+        "promoText": "Pārveidojiet savas darbības, izmantojot AI aģentus, kas strādā kopā ar jūsu komandu, lai veiktu sarežģītus, atkārtotus uzdevumus.",
+        "items": [
+          {
+            "title": "AI automatizācija un inteliģentie aģenti",
+            "description": "Automatizējiet atkārtotus uzdevumus un izvietojiet viedos AI aģentus, kas uzlabo produktivitāti, lēmumu pieņemšanu un biznesa rezultātus."
+          },
+          {
+            "title": "IT pakalpojumi un digitālais atbalsts",
+            "description": "Nodrošiniet ātrāku, viedāku IT atbalstu, izmantojot racionalizētu pakalpojumu pārvaldību, automatizāciju un digitālās darbplūsmas."
+          },
+          {
+            "title": "Uzņēmuma AI pārvaldība",
+            "description": "Veidojiet atbildīgu AI ieviešanu ar spēcīgu pārvaldību, drošību, atbilstību, pārredzamību un riska kontroli."
+          },
+          {
+            "title": "Inteliģentas IT darbības",
+            "description": "Pārveidojiet IT darbības, izmantojot AI vadītu uzraudzību, automatizāciju, paredzamus ieskatus un proaktīvu problēmu risināšanu."
+          },
+          {
+            "title": "Klientu pieredzes pārvaldība",
+            "description": "Izveidojiet personalizētus klientu ceļojumus, izmantojot inteliģentu iesaisti, automatizāciju, analīzi un nevainojamu digitālo pieredzi."
+          },
+          {
+            "title": "Biznesa stratēģija un portfeļa optimizācija",
+            "description": "Saskaņojiet ieguldījumus tehnoloģijās ar biznesa mērķiem, lai optimizētu portfeļus, uzlabotu efektivitāti un veicinātu ilgtspējīgu izaugsmi."
+          },
+          {
+            "title": "IT līdzekļu un tehnoloģiju dzīves cikls",
+            "description": "Pārvaldiet IT līdzekļus visā to dzīves ciklā, nodrošinot labāku redzamību, automatizāciju, izmaksu kontroli un tehnoloģiju plānošanu."
+          },
+          {
+            "title": "Uzņēmuma risks un atbilstība",
+            "description": "Identificējiet, novērtējiet un pārvaldiet uzņēmuma riskus, vienlaikus stiprinot atbilstību, kontroli un organizācijas noturību."
+          },
+          {
+            "title": "Kiberdrošības un draudu operācijas",
+            "description": "Aizsargājiet digitālo vidi ar proaktīvu draudu noteikšanu, drošības darbībām, reaģēšanu uz incidentiem un nepārtrauktu uzraudzību."
+          },
+          {
+            "title": "Lauka darbaspēka automatizācija",
+            "description": "Nodrošiniet darba komandas ar inteliģentu plānošanu, mobilajām darbplūsmām, automatizāciju un reāllaika darbības redzamību."
+          },
+          {
+            "title": "Darbinieku pieredze un personāla pakalpojumi",
+            "description": "Vienkāršojiet darbinieku pakalpojumus, izmantojot digitālās darbplūsmas, pašapkalpošanās risinājumus, automatizāciju un personalizētu darbinieku pieredzi."
+          },
+          {
+            "title": "Vienota digitālā darba vieta",
+            "description": "Savienojiet cilvēkus, procesus, lietojumprogrammas un sadarbības rīkus, izmantojot drošu, inteliģentu un netraucētu digitālo darba vietu."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP risinājumi",
+        "heading": "Viena platforma, gatava jebkam",
+        "sub": "Nodrošiniet uzņēmumus ar savienotiem, viediem un mērogojamiem uzņēmuma pārvaldības risinājumiem.",
+        "promoTitle": "Modulāra ERP izaugsmei",
+        "promoText": "Ātri izvietojiet modulāras ERP funkcijas bez tradicionālo daudzgadu sistēmu sarežģītības.",
+        "items": [
+          {
+            "title": "Biznesa procesu automatizācija",
+            "description": "Racionalizējiet finanses, cilvēkresursus, pārdošanu, iepirkumus un ikdienas darbības."
+          },
+          {
+            "title": "Integrētā biznesa vadība",
+            "description": "Savienojiet nodaļas, datus un darbplūsmas vienotā platformā."
+          },
+          {
+            "title": "Finanses un grāmatvedība",
+            "description": "Uzlabojiet finanšu pārskatāmību, pārskatu sniegšanu, budžeta plānošanu un atbilstību."
+          },
+          {
+            "title": "HR un algas",
+            "description": "Vienkāršojiet darbinieku pārvaldību, apmeklējumu, algu un personāla procesus."
+          },
+          {
+            "title": "Piegādes ķēdes vadība",
+            "description": "Optimizējiet iepirkumu, krājumus, pārdevējus un loģistiku."
+          },
+          {
+            "title": "Pārdošana un klientu vadība",
+            "description": "Efektīvi pārvaldiet potenciālos pirkumus, klientus, pasūtījumus un pārdošanas rezultātus."
+          },
+          {
+            "title": "Reāllaika analīze un pārskati",
+            "description": "Pārvērtiet biznesa datus praktiskā ieskatā ātrākai lēmumu pieņemšanai."
+          },
+          {
+            "title": "Cloud ERP risinājumi",
+            "description": "Iespējojiet drošu, mērogojamu un pieejamu uzņēmuma pārvaldību no jebkuras vietas."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT risinājumi",
+        "heading": "Mūsu IT risinājumi",
+        "sub": "Pārveidojiet IT darbības, izmantojot viedus, proaktīvus un mērogojamus digitālos risinājumus, kas uzlabo veiktspēju, produktivitāti un darbības nepārtrauktību.",
+        "promoTitle": "Uzticama IT infrastruktūra",
+        "promoText": "Izveidojiet noturīgu tehnoloģiju pamatu ar pārvaldītiem mākoņa, drošības un DevOps pakalpojumiem.",
+        "items": [
+          {
+            "title": "IT pakalpojumu vadība",
+            "description": "Racionalizējiet IT pakalpojumus, incidentus, pieprasījumus un darbplūsmas ātrākai atrisināšanai."
+          },
+          {
+            "title": "IT operāciju vadība",
+            "description": "Pārraugiet infrastruktūru un lietojumprogrammas, izmantojot proaktīvas, uz datiem balstītas IT darbības."
+          },
+          {
+            "title": "IT līdzekļu pārvaldība",
+            "description": "Efektīvi pārvaldiet tehnoloģiju aktīvus, vienlaikus samazinot izmaksas, riskus un dzīves cikla sarežģītību."
+          },
+          {
+            "title": "Uzņēmuma arhitektūra",
+            "description": "Saskaņojiet biznesa stratēģiju ar pareizo tehnoloģiju arhitektūru un investīcijām."
+          },
+          {
+            "title": "Mākoņu pārvaldība",
+            "description": "Uzlabojiet mākoņa drošību, atbilstību, veiktspēju un izmaksu pārvaldību."
+          },
+          {
+            "title": "Digitālās darbības",
+            "description": "Automatizējiet IT procesus un iegūstiet reāllaika redzamību savā tehnoloģiju vidē."
+          },
+          {
+            "title": "Novērojamība un uzraudzība",
+            "description": "Agri nosakiet veiktspējas problēmas un uzturiet uzticamu digitālo pieredzi."
+          },
+          {
+            "title": "Stratēģiskā portfeļa pārvaldība",
+            "description": "Savienojiet IT investīcijas ar biznesa prioritātēm un izmērāmiem rezultātiem."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM risinājumi",
+        "heading": "Mūsu CRM risinājumi",
+        "sub": "Nodrošiniet savienotu, personalizētu un inteliģentu klientu pieredzi visā klienta ceļojumā.",
+        "promoTitle": "Aizvērt citus piedāvājumus",
+        "promoText": "Pilnvarojiet savas pārdošanas un atbalsta komandas ar vienotiem klientu datiem un inteliģentu automatizāciju.",
+        "items": [
+          {
+            "title": "Klientu apkalpošanas vadība",
+            "description": "Uzlabojiet klientu atbalstu, izmantojot ātrāku izšķirtspēju, pašapkalpošanos un viedās darbplūsmas."
+          },
+          {
+            "title": "Pārdošanas automatizācija",
+            "description": "Automatizējiet pārdošanas aktivitātes, pārvaldiet potenciālos pirkumus un palīdziet komandām ātrāk slēgt iespējas."
+          },
+          {
+            "title": "Pārdošanas un pasūtījumu vadība",
+            "description": "Uzlabojiet ceļu no potenciālā pirkuma līdz pasūtījumam un uzlabojiet ieņēmumu redzamību."
+          },
+          {
+            "title": "Lauka pakalpojumu pārvaldība",
+            "description": "Optimizējiet lauka darbības, plānošanu, nosūtīšanu un tehniķa produktivitāti."
+          },
+          {
+            "title": "Klientu pieredzes pārvaldība",
+            "description": "Izveidojiet vienmērīgu un personalizētu pieredzi katrā klienta saskarsmes punktā."
+          },
+          {
+            "title": "CRM Analytics un ieskati",
+            "description": "Pārvērtiet klientu datus praktiskā ieskatā gudrākiem biznesa lēmumiem."
+          },
+          {
+            "title": "Mārketinga automatizācija",
+            "description": "Automatizējiet kampaņas, klientu piesaisti un potenciālo pircēju audzināšanu."
+          },
+          {
+            "title": "Ar AI darbināms CRM",
+            "description": "Izmantojiet viedo automatizāciju un AI ieskatus, lai uzlabotu produktivitāti un klientu iesaisti."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS risinājumi",
+        "heading": "Mūsu HRMS risinājumi",
+        "sub": "Nodrošiniet savu darbaspēku ar inteliģentiem, integrētiem un automatizētiem personāla risinājumiem, kas vienkāršo darbinieku pārvaldību un uzlabo darba pieredzi.",
+        "promoTitle": "Vienkāršojiet personāla darbības",
+        "promoText": "Automatizējiet cilvēkresursu darbplūsmas no personāla atlases līdz aiziešanai pensijā, izmantojot modernu platformu, kas vispirms paredzēta darbiniekiem.",
+        "items": [
+          {
+            "title": "Galvenā personāla vadība",
+            "description": "Efektīvi pārvaldiet darbinieku informāciju, organizatoriskās struktūras un HR procesus."
+          },
+          {
+            "title": "Algu pārvaldība",
+            "description": "Automatizējiet algas, algu apstrādi, atskaitījumus un atbilstību."
+          },
+          {
+            "title": "Darbinieku pašapkalpošanās",
+            "description": "Nodrošiniet darbiniekiem ērtu piekļuvi HR pakalpojumiem, pieprasījumiem, dokumentiem un informācijai."
+          },
+          {
+            "title": "Apmeklējumu un atvaļinājumu pārvaldība",
+            "description": "Vienkāršojiet apmeklējumu uzskaiti, atvaļinājumu pieprasījumus, maiņas un darba laiku."
+          },
+          {
+            "title": "Personāla atlase un uzņemšana",
+            "description": "Uzlabojiet darbā pieņemšanu, kandidātu pārvaldību, iestāšanos un darbinieku integrāciju."
+          },
+          {
+            "title": "Veiktspējas vadība",
+            "description": "Nosakiet mērķus, izsekojiet sniegumu un atbalstiet nepārtrauktu darbinieku attīstību."
+          },
+          {
+            "title": "Mācīšanās un attīstība",
+            "description": "Pārvaldiet apmācības programmas, prasmju attīstību un darbinieku izaugsmi."
+          },
+          {
+            "title": "HR Analytics un atskaites",
+            "description": "Pārvērtiet darbaspēka datus praktiskā ieskatā, lai pieņemtu labākus personāla lēmumus."
+          },
+          {
+            "title": "Ar AI darbināma HR automatizācija",
+            "description": "Automatizējiet atkārtotus HR uzdevumus un nodrošiniet ātrāku, personalizētu darbinieku pieredzi."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Lietojumprogrammu izstrāde",
+        "heading": "Mūsu lietotņu izstrādes pakalpojumi",
+        "sub": "Izveidojiet drošas, mērogojamas un augstas veiktspējas lietojumprogrammas, kas paātrina biznesa izaugsmi un vienkāršo sarežģītus procesus.",
+        "promoTitle": "Build Apps lietotājiem patīk",
+        "promoText": "No idejas līdz izlaišanai mūsu komanda izstrādā un izstrādā augstas kvalitātes mobilās un tīmekļa lietojumprogrammas, kas ir mērogotas.",
+        "items": [
+          {
+            "title": "Pielāgota lietojumprogrammu izstrāde",
+            "description": "Veidojiet pielāgotas lietojumprogrammas, kas izstrādātas atbilstoši jūsu unikālajām biznesa prasībām."
+          },
+          {
+            "title": "Tīmekļa un mobilo lietotņu izstrāde",
+            "description": "Nodrošiniet netraucētu digitālo pieredzi tīmeklī, mobilajās ierīcēs un vairākās ierīcēs."
+          },
+          {
+            "title": "Uzņēmuma lietojumprogrammu izstrāde",
+            "description": "Izstrādājiet mērogojamus risinājumus, kas integrējas ar jūsu esošajām biznesa sistēmām."
+          },
+          {
+            "title": "Zema koda un bezkoda izstrāde",
+            "description": "Paātriniet lietojumprogrammu piegādi, izmantojot elastīgas zema koda izstrādes platformas."
+          },
+          {
+            "title": "API un sistēmas integrācija",
+            "description": "Savienojiet lietojumprogrammas, platformas un trešo pušu sistēmas netraucētai datu plūsmai."
+          },
+          {
+            "title": "Lietojumprogrammu modernizācija",
+            "description": "Pārveidojiet mantotās lietojumprogrammas mūsdienīgos, mērogojamos un efektīvos risinājumos."
+          },
+          {
+            "title": "Ar AI darbināmas lietojumprogrammas",
+            "description": "Integrējiet AI, automatizāciju un viedās iespējas biznesa lietojumprogrammās."
+          },
+          {
+            "title": "Lietojumprogrammu atbalsts un apkope",
+            "description": "Nodrošiniet nepārtrauktu veiktspēju, drošību, atjauninājumus un uzticamību."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI un robotika",
+    "businessAutomation": "Biznesa automatizācija",
+    "cloudMigrations": "Mākoņu migrācija",
+    "dataCenters": "Datu centri",
+    "cognitiveAnalyticsAi": "Kognitīvā analīze un AI",
+    "informationReportingSystems": "Informācijas un ziņošanas sistēmas",
+    "managedServices": "Pārvaldīti pakalpojumi",
+    "oneStopSolutions": "Vienas pieturas risinājumi"
+  },
+  "servicePage": {
+    "serviceOverview": "Pakalpojuma pārskats",
+    "whatWeOffer": "Mūsu piedāvājums",
+    "whyChooseRezonants": "Kāpēc izvēlēties Rezonants",
+    "benefitsOfWorking": "Ieguvumi no darba ar mums",
+    "techStack": "Tech Stack",
+    "technologiesWeUse": "Mūsu izmantotās tehnoloģijas",
+    "ourWork": "Mūsu darbs",
+    "relatedProjects": "Saistītie projekti",
+    "viewCaseStudy": "Skatīt gadījuma izpēti",
+    "readyToDiscuss": "Vai esat gatavs apspriest savu {{title}} projektu?",
+    "seniorEngineersReady": "Mūsu vecākie inženieri ir gatavi jums palīdzēt plānot, izstrādāt un izveidot jūsu risinājumu.",
+    "startProject": "Sāciet savu projektu",
+    "howItWorks": "Kā tas darbojas"
+  },
+  "consultation": {
+    "badge": "Rezervējiet bezmaksas konsultāciju",
+    "title": "Plānosim jūsu projektu <span class='hero-accent'>kopā</span>",
+    "description": "Ieplānojiet bezsaistību zvanu ar mūsu konsultantiem. Apspriediet savas prasības, izpētiet pareizo tehnisko pieeju un saņemiet skaidru piedāvājumu — viss mazāk nekā 30 minūšu laikā.",
+    "bookSlot": "Rezervējiet savu vietu",
+    "howItWorks": "Kā tas darbojas",
+    "accountRequired": "Nepieciešams konts",
+    "signInToBook": "Pierakstieties, lai rezervētu konsultāciju",
+    "accountRequiredText": "Lai pieprasītu konsultāciju, jums būs nepieciešams Rezonants konts. Pierakstieties vai izveidojiet to — tas aizņem mazāk nekā minūti.",
+    "signInToContinue": "Pierakstieties, lai turpinātu",
+    "newToRezonants": "Vai esat jauns Rezonantsā?",
+    "createAccount": "Izveidojiet kontu",
+    "requestMeeting": "Pieprasiet tikšanos",
+    "tellUsAboutProject": "Pastāstiet mums par savu projektu",
+    "fillDetails": "Aizpildiet savus datus, un mēs apstiprināsim jūsu konsultācijas vietu pa e-pastu.",
+    "fullName": "Pilns vārds *",
+    "email": "E-pasts *",
+    "phone": "Tālrunis *",
+    "company": "Uzņēmums",
+    "serviceOfInterest": "Interešu pakalpojums *",
+    "selectService": "Izvēlieties pakalpojumu…",
+    "preferredDate": "Vēlamais datums *",
+    "preferredTime": "Vēlamais laiks *",
+    "selectTimeSlot": "Izvēlieties laika posmu…",
+    "estimatedBudget": "Paredzamais budžets",
+    "selectRange": "Atlasiet diapazonu…",
+    "projectRequirements": "Projekta prasības",
+    "booking": "Rezervācija…",
+    "bookFreeConsultation": "Rezervējiet manu bezmaksas konsultāciju",
+    "freeNote": "100% bez maksas un bez saistībām. Mēs parasti atbildam 24 stundu laikā.",
+    "whatToExpect": "Ko gaidīt",
+    "preferToReachUs": "Vai vēlaties sazināties ar mums tieši?",
+    "callUs": "Zvaniet mums",
+    "emailUs": "Nosūtiet mums e-pastu",
+    "visitUs": "Apmeklējiet mūs",
+    "whyBookWithUs": "Kāpēc rezervēt pie mums",
+    "freeCallTitle": "Bezmaksas zvans, kas patiešām palīdz",
+    "freeCallNoPressure": "Bezmaksas zvans, bez spiediena",
+    "freeCallNoPressureText": "Katra pirmā konsultācija ir bezmaksas. Nav pienākuma pirkt — tikai godīgs padoms.",
+    "seniorConsultants": "Tikai vecākie konsultanti",
+    "seniorConsultantsText": "Jūsu sanāksmi vada vecākie inženieri un konsultanti, kuri būvē, lai nodrošinātu iztiku.",
+    "clearTimelines": "Notīriet laika grafikus un citātus",
+    "clearTimelinesText": "Dodieties prom ar noteiktu nākamo soli, reālistisku laika grafiku un pārskatāmu sava projekta cenu.",
+    "services": {
+      "customSoftware": "Pielāgota programmatūras izstrāde",
+      "webMobile": "Tīmekļa un mobilo lietotņu izstrāde",
+      "cloudDevops": "Cloud & DevOps risinājumi",
+      "aiMl": "AI un mašīnmācīšanās",
+      "itConsulting": "IT konsultācijas",
+      "digitalMarketing": "Digitālais mārketings un SEO",
+      "erpSolutions": "ERP risinājumi",
+      "other": "Cits / Vēl neesmu pārliecināts"
+    },
+    "budgets": {
+      "under1L": "Mazāk nekā 1 l",
+      "1to5L": "₹ 1L – ₹ 5L",
+      "5to10L": "₹ 5L – ₹ 10L",
+      "above10L": "₹ 10 L+",
+      "notDecided": "Vēl nav izlemts"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Izprotiet savus mērķus",
+        "text": "Mēs vispirms klausāmies. 30 minūšu zvans, lai kartētu jūsu biznesa vajadzības, auditoriju un vēlamos rezultātus."
+      },
+      "technicalDirection": {
+        "title": "Saņemiet tehnisko norādījumu",
+        "text": "Mūsu inženieri dalās ar pareizo arhitektūru, kopu un pieeju jūsu projektam."
+      },
+      "clearQuote": {
+        "title": "Saņemiet skaidru piedāvājumu",
+        "text": "Dodieties prom ar caurspīdīgu tāmi, laika grafiku un turpmākajām darbībām — bez saistībām."
+      }
+    },
+    "validation": {
+      "nameRequired": "Jānorāda pilns vārds.",
+      "emailRequired": "Nepieciešams e-pasts.",
+      "emailInvalid": "Ievadiet derīgu e-pasta adresi.",
+      "phoneRequired": "Nepieciešams tālruņa numurs.",
+      "phoneInvalid": "Ievadiet derīgu tālruņa numuru.",
+      "serviceRequired": "Lūdzu, izvēlieties pakalpojumu.",
+      "dateRequired": "Izvēlieties vēlamo datumu.",
+      "timeRequired": "Izvēlieties vēlamo laika posmu.",
+      "messageTooShort": "Pievienojiet nedaudz sīkāku informāciju (vismaz 10 rakstzīmes).",
+      "signInRequired": "Lūdzu, pierakstieties, lai rezervētu konsultāciju.",
+      "couldNotBook": "Nevarēja rezervēt konsultāciju. Pārbaudiet, vai pastāv konsultāciju tabula, un pēc tam mēģiniet vēlreiz.",
+      "bookedSuccess": "Konsultācija rezervēta! Mūsu komanda drīzumā apstiprinās jūsu laiku pa e-pastu."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Laipni lūdzam atpakaļ",
+    "createAccount": "Izveidot kontu",
+    "forgotPassword": "Aizmirsu paroli",
+    "createNewPassword": "Izveidot jaunu paroli",
+    "welcomeBackDesc": "Pierakstieties savā Rezonants kontā.",
+    "createAccountDesc": "Pievienojieties Rezonants jau šodien.",
+    "forgotDesc": "Ievadiet savu e-pastu, un mēs jums nosūtīsim saiti paroles atiestatīšanai.",
+    "recoveryDesc": "Izvēlieties savam kontam jaunu spēcīgu paroli.",
+    "fullName": "Pilns vārds",
+    "email": "E-pasts",
+    "password": "Parole",
+    "newPassword": "Jauna parole",
+    "confirmPassword": "Apstipriniet paroli",
+    "confirmNewPassword": "Apstipriniet jauno paroli",
+    "forgotPasswordLink": "Aizmirsāt paroli?",
+    "privacyPolicy": "Es piekrītu Rezonants <1>Privātuma un drošības</1> politikai.",
+    "sendResetLink": "Nosūtīt atiestatīšanas saiti",
+    "signIn": "Pierakstīties",
+    "signUp": "Reģistrēties",
+    "pleaseWait": "Lūdzu, uzgaidiet…",
+    "rememberedPassword": "Vai atcerējāties savu paroli?",
+    "signInLink": "Pierakstieties",
+    "noAccount": "Jums nav konta?",
+    "signUpLink": "Reģistrēties",
+    "hasAccount": "Vai jums jau ir konts?",
+    "changedMind": "Vai mainījāt savas domas?",
+    "backToSignIn": "Atpakaļ, lai pierakstītos",
+    "resetSent": "Paroles atiestatīšanas saite nosūtīta! Pārbaudiet savu e-pastu, lai izveidotu jaunu paroli.",
+    "passwordUpdated": "Jūsu parole ir atjaunināta. Pierakstieties ar savu jauno paroli.",
+    "accountCreated": "Konts izveidots! Pārbaudiet savu e-pastu, lai apstiprinātu reģistrēšanos, un pēc tam pierakstieties.",
+    "validation": {
+      "fullNameRequired": "Jānorāda pilns vārds.",
+      "emailRequired": "Nepieciešams e-pasts.",
+      "emailInvalid": "Ievadiet derīgu e-pasta adresi.",
+      "passwordRequired": "Nepieciešama parole.",
+      "passwordMinLength": "Parolei ir jābūt vismaz 6 rakstzīmēm.",
+      "passwordsNoMatch": "Paroles nesakrīt.",
+      "acceptTerms": "Lai turpinātu, lūdzu, piekrītiet Rezonants konfidencialitātes politikai un drošības politikai."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Tērzējiet ar Rezonants AI",
+    "openChatLabel": "Atveriet Rezonants AI Assistant tērzēšanu",
+    "chatTitle": "Rezonants AI palīgs",
+    "online": "Tiešsaistē",
+    "expandLabel": "Paplašiniet tērzēšanas robotu",
+    "minimizeLabel": "Samaziniet tērzēšanas robotu",
+    "closeLabel": "Aizveriet tērzēšanas robotu",
+    "expand": "Izvērst",
+    "minimize": "Samazināt",
+    "close": "Aizvērt",
+    "popularTopics": "Populāras tēmas",
+    "askPlaceholder": "Jautājiet man par Rezonantsu...",
+    "messageLabel": "Nosūtiet ziņojumu Rezonants AI palīgam",
+    "sendLabel": "Sūtīt ziņu",
+    "sendTitle": "Sūtīt ziņu",
+    "enterToSend": "Ievadiet, lai nosūtītu · Shift+Enter jaunai rindai",
+    "newChat": "Jauna tērzēšana",
+    "typing": "Rezonants AI raksta",
+    "menuOptions": "Izvēlnes opcijas",
+    "greetingMorning": "Labrīt",
+    "greetingAfternoon": "Labdien",
+    "greetingEvening": "Labvakar",
+    "welcomeText": "! 👋 Laipni lūdzam Rezonants.\nEs esmu Rezonants AI palīgs. Es varu jums palīdzēt izpētīt mūsu pakalpojumus, tehnoloģijas un kontaktinformāciju."
+  },
+  "cookieConsent": {
+    "title": "Mēs augstu vērtējam jūsu privātumu",
+    "description": "Mēs izmantojam sīkfailus, lai uzlabotu jūsu pārlūkošanas pieredzi. Jūs varat pieņemt visus sīkfailus, noraidīt nebūtiskos sīkfailus vai pielāgot savas preferences. Būtiskās sīkdatnes vienmēr ir iespējotas, lai nodrošinātu vietnes pareizu darbību.",
+    "acceptAll": "Pieņemt visu",
+    "rejectNonEssential": "Noraidīt nebūtisku",
+    "managePreferences": "Pārvaldīt preferences",
+    "privacyPolicy": "Privātuma politika"
+  },
+  "cookiePreferences": {
+    "title": "Pārvaldīt sīkfailu preferences",
+    "description": "Izvēlieties, kuras sīkfailu kategorijas atļaujat. Būtiski sīkfaili joprojām ir iespējoti, lai nodrošinātu vietnes darbību.",
+    "essential": "Būtiski",
+    "essentialDesc": "Nepieciešams, lai vietne darbotos (autentifikācija, drošība, slodzes balansēšana). Tos nevar atspējot.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Palīdziet mums saprast, kā apmeklētāji izmanto vietni, lai mēs varētu to uzlabot. Atspējots pēc noklusējuma.",
+    "marketing": "Mārketings",
+    "marketingDesc": "Izmanto, lai parādītu atbilstošus piedāvājumus un kampaņas. Atspējots pēc noklusējuma.",
+    "cancel": "Atcelt",
+    "savePreferences": "Saglabāt preferences"
+  },
+  "privacy": {
+    "badge": "Juridiskais",
+    "title": "Privātuma politika",
+    "description": "Kā Rezonants apkopo, izmanto un aizsargā jūsu personisko informāciju un sīkfailus.",
+    "lastUpdated": "Pēdējo reizi atjaunināts: 2026. gada augustā",
+    "managingPreferences": "Jūsu preferenču pārvaldība",
+    "managingPreferencesDesc": "Sīkdatņu preferenču panelī jebkurā laikā varat pārskatīt vai mainīt atļautos sīkfailus.",
+    "manageCookiePreferences": "Pārvaldīt sīkfailu preferences",
+    "section1": {
+      "title": "1. Informācija, ko mēs apkopojam",
+      "body": [
+        "Mēs apkopojam informāciju, ko sniedzat tieši (piemēram, jūsu vārdu un e-pasta adresi, kad iesniedzat saziņas veidlapu vai izveidojat kontu), un informāciju, kas tiek automātiski savākta, izmantojot sīkfailus un līdzīgas tehnoloģijas, piemēram, apmeklētās lapas, ierīces veidu un aptuveno atrašanās vietu."
+      ]
+    },
+    "section2": {
+      "title": "2. Kā mēs izmantojam sīkfailus",
+      "body": [
+        "Būtiski sīkfaili vienmēr ir iespējoti, jo bez tiem vietne nevar pareizi darboties. Tie saglabā sesijas un autentifikācijas stāvokli un atceras jūsu sīkfailu preferences.",
+        "Analytics sīkfaili palīdz mums saprast, kā apmeklētāji izmanto vietni, lai mēs varētu to uzlabot. Mārketinga sīkfaili tiek izmantoti, lai parādītu jums atbilstošus piedāvājumus un kampaņas. Šīs kategorijas ir iespējotas tikai ar jūsu piekrišanu, un tās jebkurā laikā var mainīt sīkfailu preferenču panelī."
+      ]
+    },
+    "section3": {
+      "title": "3. Juridiskais pamats (VDAR)",
+      "body": [
+        "Mēs apstrādājam personas datus, pamatojoties uz šādiem juridiskajiem pamatiem: jūsu piekrišana (nebūtiskām sīkdatnēm un mārketingam), līguma izpilde (jūsu pieprasītajiem pakalpojumiem), juridiskas saistības un likumīgas intereses, ja jūsu tiesības tām nav svarīgākas. Jūs varat atsaukt piekrišanu jebkurā laikā, neietekmējot pirms atsaukšanas veiktās apstrādes likumību."
+      ]
+    },
+    "section4": {
+      "title": "4. Jūsu tiesības",
+      "body": [
+        "Atkarībā no jūsu atrašanās vietas jums var būt tiesības piekļūt saviem personas datiem, tos labot, dzēst vai ierobežot to apstrādi, iebilst pret apstrādi un datu pārnesamību. Varat arī iesniegt sūdzību vietējai uzraudzības iestādei."
+      ]
+    },
+    "section5": {
+      "title": "5. Datu saglabāšana un drošība",
+      "body": [
+        "Mēs saglabājam personas datus tikai tik ilgi, cik tas ir nepieciešams šajā politikā aprakstītajiem mērķiem. Mēs piemērojam atbilstošus tehniskos un organizatoriskos pasākumus, lai aizsargātu jūsu informāciju pret nesankcionētu piekļuvi, pārveidošanu, izpaušanu vai iznīcināšanu."
+      ]
+    },
+    "section6": {
+      "title": "6. Trešo pušu pakalpojumi",
+      "body": [
+        "Dažus sīkfailus var iestatīt trešo pušu pakalpojumu sniedzēji (piemēram, analītikas vai reklāmas platformas), kas palīdz mums pārvaldīt vietni. Šie pakalpojumu sniedzēji apstrādā datus saskaņā ar savām privātuma politikām un tikai tad, ja esat piekritis attiecīgajai kategorijai."
+      ]
+    },
+    "contactUs": "7. Sazinieties ar mums",
+    "contactUsText": "Ja jums ir jautājumi par šo politiku vai jūsu personas datiem, sazinieties ar mums pa e-pastu <1>info@rezonants.com</1> vai zvaniet pa tālruni <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Pakalpojumi",
+    "title": "Mūsu pakalpojumi",
+    "sub": "Pilnīgi tehnoloģiski risinājumi, kas izstrādāti, lai palīdzētu uzņēmumiem ieviest jauninājumus, mērogot un gūt panākumus.",
+    "learnMore": "Uzziniet vairāk",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Sākums līdz izvietošanai",
+        "text": "No sākotnējās koncepcijas līdz ražošanas ieviešanai mēs piegādājam mērogojamus risinājumus, kas izstrādāti reālām biznesa vajadzībām."
+      },
+      "businessProcessAutomation": {
+        "title": "Biznesa procesu automatizācija",
+        "text": "Racionalizējiet atkārtotus procesus un uzlabojiet darbības efektivitāti, izmantojot viedo biznesa automatizāciju."
+      },
+      "centerOfExcellence": {
+        "title": "Izcilības centrs",
+        "text": "Izveidojiet specializētas tehnoloģiju iespējas un zināšanas, lai veicinātu inovācijas, kvalitāti un nepārtrauktus uzlabojumus."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Pielāgota izstrāde un pielāgošana",
+        "text": "Pielāgoti programmatūras risinājumi, kas izstrādāti atbilstoši jūsu unikālajām biznesa prasībām un darbplūsmām."
+      },
+      "digitalTransformation": {
+        "title": "Digitālā transformācija",
+        "text": "Modernizējiet savu biznesu, izmantojot digitālās stratēģijas, tehnoloģijas un risinājumus, kas rada izmērāmu ietekmi."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Pilnīga risinājumu sistēma",
+        "text": "Integrēti tehnoloģiju risinājumi, kas savieno stratēģiju, izstrādi, ieviešanu un notiekošās darbības."
+      },
+      "migrationModernization": {
+        "title": "Migrācija un modernizācija",
+        "text": "Modernizējiet mantotās lietojumprogrammas un migrējiet sistēmas uz mērogojamām, drošām un efektīvām tehnoloģiju platformām."
+      },
+      "pocPilotImplementation": {
+        "title": "Koncepcijas pierādījums (PoC) un izmēģinājuma ieviešana",
+        "text": "Pirms pilna mēroga izvietošanas ātri apstipriniet idejas, izmantojot mērķtiecīgus prototipus un izmēģinājuma ieviešanu."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Kopīgi pakalpojumi un pārvaldītās darbības",
+        "text": "Uzticamas pārvaldītas tehnoloģiju darbības, kas uzlabo veiktspēju, mērogojamību un darbības nepārtrauktību."
+      }
+    }
+  },
+  "footer": {
+    "company": "Uzņēmums",
+    "about": "Par",
+    "perspectives": "Perspektīvas",
+    "technologies": "Tehnoloģijas",
+    "contact": "Sazināties",
+    "services": "Pakalpojumi",
+    "getInTouch": "Sazinieties",
+    "bookConsultation": "Piesakieties konsultācijai",
+    "copyright": "© {{year}} Rezonants. Visas tiesības paturētas.",
+    "cookiePreferences": "Sīkfailu preferences",
+    "privacyPolicy": "Privātuma politika",
+    "description": "Rezonants ir IT pakalpojumu un digitālo produktu uzņēmums Haidarabadā, Indijā. Mēs projektējam, veidojam un mērogojam programmatūru uzņēmumiem, kas konkurē izpildes ziņā.",
+    "locations": "Mūsu atrašanās vietas",
+    "indiaHq": "Hyderabad, Indija — Indijas galvenā mītne",
+    "southAfrica": "Dienvidāfrika — REZONANTS PVT LTD",
+    "products": "Produkti",
+    "followUs": "Seko mums",
+    "aboutUs": "Par mums",
+    "contactUs": "Sazinieties ar mums",
+    "headline": "Būvēsim",
+    "headlineAccent": "kas tālāk.",
+    "subheadline": "Sadarbojieties ar Rezonants, lai idejas pārvērstu reālā biznesa iespaidā.",
+    "credoIdeas": "IDEJAS",
+    "credoSolutions": "RISINĀJUMI",
+    "credoPeople": "CILVĒKI",
+    "credoBrighterTomorrow": "GAIDĀKA RĪT",
+    "hyderabadLocation": "Haidarabada, Indija",
+    "vijayawadaLocation": "Vijayawada, Andra Pradeša",
+    "southAfricaLocation": "Dienvidāfrika – REZONANTS PVT LTD",
+    "termsOfUse": "Lietošanas noteikumi",
+    "accessibility": "Pieejamība",
+    "quickLinks": "Ātrās saites",
+    "explore": "Izpētiet",
+    "vijayawadaOffice": "Vijayawada birojs",
+    "allRightsReserved": "Visas tiesības paturētas.",
+    "hyderabadPin": "Hyderabad, Indija",
+    "southAfricaPin": "Dienvidāfrika"
+  },
+  "common": {
+    "loading": "Notiek ielāde...",
+    "error": "Kļūda",
+    "retry": "Mēģiniet vēlreiz",
+    "close": "Aizvērt",
+    "backToTop": "Atpakaļ uz augšu",
+    "skipToContent": "Pāriet uz saturu",
+    "scroll": "Ritiniet",
+    "whatWeOffer": "Ko mēs piedāvājam",
+    "howItWorks": "Kā tas darbojas"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Meklēt valsti vai kodu…",
+    "noResults": "Nav atrasta neviena valsts.",
+    "countryCodeLabel": "Valsts zvanīšanas kods",
+    "required": "Nepieciešams tālruņa numurs.",
+    "incomplete": "Tālruņa numuram jāsatur precīzi {{count}} cipari.",
+    "tooLong": "Tālruņa numurs nedrīkst saturēt vairāk par {{count}} cipariem.",
+    "invalid": "Ievadiet derīgu tālruņa numuru {{country}}."
+  },
+  "perspectives": {
+    "topic": "Tēma:",
+    "published": "Publicēts:",
+    "readingTime": "Lasīšanas laiks:",
+    "author": "Autors:",
+    "authorName": "Rezonants uzņēmuma arhitektūras studija",
+    "techArea": "Tehnoloģiju joma",
+    "purpose": "Mērķis",
+    "talkToExperts": "Sazinieties ar mūsu ekspertiem",
+    "viewAll": "Skatīt visas perspektīvas",
+    "exploreMore": "IZPĒTIET VAIRĀK PERSPEKTYVU",
+    "continueExploring": "Turpiniet izpētīt uzņēmuma tehnoloģiju ieskatus",
+    "readPerspective": "Lasīt perspektīvu"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI un robotikas risinājumi",
+      "tagline": "Inteliģentā tehnoloģija. Automatizētās operācijas. Gudrāks bizness.",
+      "heroBadge": "Inteliģentas autonomās sistēmas",
+      "overview": [
+        "Mākslīgais intelekts un robotika pārveido veidu, kā organizācijas darbojas, pieņem lēmumus un sniedz vērtību. Mūsu AI un robotikas risinājumi palīdz uzņēmumiem iziet ārpus tradicionālās automatizācijas, apvienojot mākslīgo intelektu, mašīnmācīšanos, datorredzi, viedo procesu automatizāciju un robotiku, lai atrisinātu praktiskas uzņēmējdarbības problēmas.",
+        "Mēs izstrādājam viedus risinājumus, kas balstīti uz izmērāmiem biznesa rezultātiem. Neatkarīgi no tā, vai ir nepieciešams automatizēt atkārtotu darbu, analizēt lielu informācijas apjomu, noteikt modeļus, atbalstīt lēmumus vai ieviest robotiku darbības vidēs, mūsu pieeja koncentrējas uz uzticamību, mērogojamību, drošību un ilgtermiņa biznesa vērtību."
+      ],
+      "transformation": [
+        "Mūsdienu organizācijas katru dienu ģenerē milzīgus datu apjomus un veic tūkstošiem atkārtotu darbību. AI un robotika var pārveidot šīs darbības viedās, automatizētās darbplūsmās, kas uzlabo produktivitāti, vienlaikus ļaujot darbiniekiem koncentrēties uz augstākas vērtības pienākumiem.",
+        "Mūsu risinājumi var palīdzēt organizācijām automatizēt atkārtotas darbības, samazināt manuālo iejaukšanos, uzlabot precizitāti, analizēt sarežģītu informāciju, atbalstīt ātrākus lēmumus, optimizēt resursu izmantošanu, uzlabot klientu pieredzi un izveidot mērogojamas inteliģentas sistēmas."
+      ],
+      "capabilities": [
+        {
+          "title": "Mākslīgais intelekts",
+          "desc": "Mēs izstrādājam uz AI balstītus risinājumus, kas ļauj sistēmām izprast informāciju, identificēt modeļus, ģenerēt ieskatus un atbalstīt biznesa lēmumus."
+        },
+        {
+          "title": "Mašīnmācīšanās",
+          "desc": "Mēs izstrādājam mašīnmācīšanās modeļus prognozēšanai, klasifikācijai, ieteikumu sistēmām, anomāliju noteikšanai, prognozējošai analīzei un viedam lēmumu atbalstam."
+        },
+        {
+          "title": "Dabiskās valodas apstrāde",
+          "desc": "NLP var izmantot, lai apstrādātu dokumentus, saprastu tekstu, klasificētu informāciju, izvilktu atbilstošu saturu un atbalstītu sarunvalodas lietojumprogrammas."
+        },
+        {
+          "title": "Datorredze",
+          "desc": "Datorredzes risinājumi var atbalstīt attēlu klasifikāciju, objektu noteikšanu, kvalitātes pārbaudi, dokumentu apstrādi, vizuālo uzraudzību un video analīzi."
+        },
+        {
+          "title": "Robotika",
+          "desc": "Robotika apvieno programmatūras intelektu ar fiziskām sistēmām, lai automatizētu darbības, kas tradicionāli prasa roku piepūli. Lietojumprogrammas var ietvert ražošanu, loģistiku, noliktavu, pārbaudes, materiālu apstrādi un darbības atbalstu."
+        },
+        {
+          "title": "Inteliģenta procesu automatizācija",
+          "desc": "AI var apvienot ar darbplūsmas automatizāciju, lai izveidotu sistēmas, kas interpretē informāciju, piemēro biznesa noteikumus vai modeļus un automātiski uzsāk atbilstošu procesu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Uzņēmējdarbības novērtējums",
+        "Datu analīze",
+        "AI stratēģija",
+        "Risinājumu arhitektūra",
+        "Attīstība",
+        "Integrācija",
+        "Pārbaude",
+        "Izvietošana",
+        "Uzraudzība",
+        "Optimizācija"
+      ],
+      "benefits": [
+        "Augstāka uzņēmuma darbības produktivitāte",
+        "Būtisks darbības izmaksu samazinājums",
+        "Ātrāka apstrāde un milisekundes lēmumu pieņemšana",
+        "Uzlabota datu un darbplūsmas precizitāte",
+        "Optimizēta fizisko un skaitļošanas resursu izmantošana",
+        "Samazināti darbības riski un cilvēku kļūdas",
+        "Nevainojama vairāku platformu mērogojamība",
+        "Uzlabota klientu un darbinieku pieredze"
+      ],
+      "security": "Uzņēmuma AI risinājumiem jābūt izstrādātiem ar atbilstošu drošību, piekļuves kontroli, datu aizsardzību, uzraudzību, modeļu pārvaldību un darbības drošības pasākumiem. Mēs ņemam vērā šīs prasības no arhitektūras posma līdz izvietošanai un pastāvīgai apkopei, lai nodrošinātu uzticamu, ražošanas līmeņa inteliģenci.",
+      "ctaHeadline": "Veidojiet saprātīgu nākotni",
+      "ctaSub": "Padariet savas darbības gudrākas. Automatizējiet to, kas ir svarīgi. Veidot nākotnei."
+    },
+    "business-automation-solutions": {
+      "title": "Biznesa automatizācijas risinājumi",
+      "tagline": "Vienkāršojiet procesus. Novērst atkārtošanos. Paātrināt izaugsmi.",
+      "heroBadge": "Pilnīga darbplūsmas optimizācija",
+      "overview": [
+        "Uzņēmējdarbības automatizācija ļauj organizācijām aizstāt atkārtotas manuālas darbības ar racionalizētām digitālajām darbplūsmām. Mūsu biznesa automatizācijas risinājumi palīdz uzņēmumiem uzlabot produktivitāti, samazināt darbības sarežģītību, samazināt kļūdas un izveidot konsekventus procesus dažādās nodaļās.",
+        "Mēs analizējam esošās darbplūsmas, identificējam vājās vietas un izstrādājam automatizācijas risinājumus, kas savieno cilvēkus, lietojumprogrammas, datus un biznesa procesus."
+      ],
+      "transformation": [
+        "Daudzas organizācijas joprojām ir atkarīgas no izklājlapām, e-pastiem, manuāliem apstiprinājumiem, atkārtotas datu ievades, dokumentu apstrādes un atvienotām lietojumprogrammām. Šie procesi patērē vērtīgu darbinieku laiku un var izraisīt kavēšanos, neatbilstības un kļūdas.",
+        "Mūsu automatizācijas pieeja koncentrējas uz visa procesa izpratni, nevajadzīgu darbību novēršanu, sistēmu integrāciju un darbību automatizēšanu, kas nodrošina vislielāko darbības vērtību."
+      ],
+      "capabilities": [
+        {
+          "title": "Darbplūsmas automatizācija",
+          "desc": "Mēs automatizējam daudzpakāpju procesus, kas ietver darbiniekus, lietojumprogrammas, apstiprinājumus, paziņojumus un datus dažādās nodaļās."
+        },
+        {
+          "title": "Robotu procesu automatizācija",
+          "desc": "Programmatūras robotprogrammatūras var veikt atkārtotas, uz noteikumiem balstītas darbības, piemēram, datu ievadi, sistēmas atjaunināšanu, saskaņošanu un informācijas pārsūtīšanu."
+        },
+        {
+          "title": "Dokumentu automatizācija",
+          "desc": "Automatizētās dokumentu darbplūsmas var iegūt informāciju, apstiprināt datus, klasificēt dokumentus, maršrutēt pieprasījumus un uzsākt pakārtotos procesus."
+        },
+        {
+          "title": "Apstiprināšanas automatizācija",
+          "desc": "Digitālās apstiprināšanas darbplūsmas automātiski novirza pieprasījumus pareizajiem lēmumu pieņēmējiem un nodrošina reāllaika redzamību par gaidāmajām darbībām."
+        },
+        {
+          "title": "Integrācijas automatizācija",
+          "desc": "Mēs savienojam biznesa lietojumprogrammas, lai informācija varētu automātiski pārvietoties starp platformām bez nevajadzīgas manuālas iejaukšanās."
+        },
+        {
+          "title": "Paziņojumu automatizācija",
+          "desc": "Automatizēti brīdinājumi un paziņojumi palīdz darbiniekiem nekavējoties reaģēt uz svarīgiem notikumiem, termiņiem, izņēmumiem un darbības izmaiņām."
+        }
+      ],
+      "lifecycleSteps": [
+        "Atklājiet",
+        "Analizēt",
+        "Dizains",
+        "Automatizēt",
+        "Integrēt",
+        "Pārbaude",
+        "Izvietot",
+        "Monitors",
+        "Optimizēt"
+      ],
+      "benefits": [
+        "Palielināta komandas caurlaidspēja un darbības ātrums",
+        "Manuālās datu ievades kļūdu dramatisks samazinājums",
+        "Saīsināts visa procesa izpildes laiks",
+        "Vienota redzamība visās uzņēmējdarbības operācijās",
+        "Standartizēta starpnozaru atbilstība",
+        "Ievērojami samazināti ekspluatācijas izdevumi",
+        "Elastīga spēja bez piepūles palielināt darba slodzi",
+        "Pilnvarotas komandas, kas koncentrējas uz klientu iesaisti un stratēģisku darbu"
+      ],
+      "security": "Mēs apvienojam darbplūsmas platformas un RPA ar inteliģentiem kontekstuāliem modeļiem, lai nodrošinātu uz lomām balstītu piekļuves kontroli, visaptverošas audita pēdas un stingru atbilstību katrā automatizētajā darījumā.",
+      "ctaHeadline": "Veidojiet efektīvākas darbības",
+      "ctaSub": "Automatizējiet atkārtotu darbu. Pilnvarojiet savus cilvēkus. Paātriniet savu biznesu."
+    },
+    "cloud-migration-solutions": {
+      "title": "Mākoņu migrācijas risinājumi",
+      "tagline": "Pārejiet uz mākoni ar pārliecību.",
+      "heroBadge": "Vairāku mākoņu transformācija",
+      "overview": [
+        "Mākoņdatošana ir kļuvusi par mūsdienu IT infrastruktūras būtisku sastāvdaļu. Organizācijas pārvieto lietojumprogrammas, datu bāzes, darba slodzes un infrastruktūru uz mākoņa vidi, lai uzlabotu mērogojamību, pieejamību, elastību un darbības efektivitāti.",
+        "Mūsu mākoņa migrācijas pakalpojumi palīdz organizācijām novērtēt to pašreizējo vidi, definēt migrācijas stratēģijas, veikt migrācijas un optimizēt darba slodzi pēc pārejas uz mākoni."
+      ],
+      "transformation": [
+        "Mākoņu migrācija ir vairāk nekā serveru pārvietošana no vienas vides uz citu. Veiksmīgai migrācijai ir rūpīgi jāizvērtē lietojumprogrammas, infrastruktūra, atkarības, drošības prasības, dati, veiktspēja, pieejamība un darbības nepārtrauktība.",
+        "Mēs veidojam migrācijas stratēģijas, pamatojoties uz organizācijas pašreizējo vidi un nākotnes mērķiem, katrai darba slodzei izvēloties atbilstošu migrācijas modeli."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktūras migrācija",
+          "desc": "Mēs migrējam tradicionālos serverus, krātuvi, virtuālās mašīnas un darba slodzes uz modernām mākoņa vidēm AWS, Azure un GCP."
+        },
+        {
+          "title": "Lietojumprogrammu migrācija",
+          "desc": "Lietojumprogrammas var atkārtoti mitināt, pārveidot platformā, pārveidot vai pārveidot atkarībā no biznesa un tehniskajām prasībām."
+        },
+        {
+          "title": "Datu bāzes migrācija",
+          "desc": "Mēs migrējam datu bāzes, ņemot vērā datu integritātes, veiktspējas, saderības, pieejamības, drošības un atkopšanas prasības."
+        },
+        {
+          "title": "Mākoņu modernizācija",
+          "desc": "Migrācija kļūst par iespēju modernizēt lietojumprogrammas, izmantojot konteinerus, mikropakalpojumus, pārvaldītas datu bāzes, pakalpojumus bez serveriem un mākoņdatošanas arhitektūras."
+        },
+        {
+          "title": "Hibrīds mākonis",
+          "desc": "Organizācijas, kurām nepieciešama gan lokālā, gan mākoņa infrastruktūra, var pieņemt hibrīda arhitektūru, kas nemanāmi savieno esošās sistēmas ar mākoņpakalpojumiem."
+        },
+        {
+          "title": "Multi-Cloud",
+          "desc": "Organizācijām, kas darbojas vairākās mākoņu platformās, mēs palīdzam izstrādāt darba slodzes stratēģijas, kas uzlabo elastību, noturību un pārvaldību."
+        }
+      ],
+      "lifecycleSteps": [
+        "Novērtējums",
+        "Atklājums",
+        "Atkarības kartēšana",
+        "Migrācijas stratēģija",
+        "Arhitektūras projektēšana",
+        "Pilotu migrācija",
+        "Datu migrācija",
+        "Lietojumprogrammu migrācija",
+        "Pārbaude",
+        "Ražošanas migrācija",
+        "Optimizācija"
+      ],
+      "benefits": [
+        "Elastīga mērogojamība un augsta resursu pieejamība",
+        "Lielāka infrastruktūras elastība un biznesa veiklība",
+        "Likvidēts fiziskās datu centra uzturēšanas slogs",
+        "Paātrināta lietojumprogrammu līdzekļu izvietošana",
+        "Izturīga avārijas atkopšana un rezerves noturība",
+        "Tūlītēja piekļuve mūsdienu mākoņa AI un pārvaldītajiem pakalpojumiem",
+        "Optimizēta FinOps pārvaldība un TCO samazināšana",
+        "Nepārtraukta atbilstība un automatizētas apsardzes margas"
+      ],
+      "security": "Drošība ir neatņemama migrācijas plānošanas sastāvdaļa. Mēs ņemam vērā identitātes un piekļuves pārvaldību, tīkla drošību, šifrēšanu pārvietošanas laikā un miera stāvoklī, datu aizsardzību, lietojumprogrammu ievainojamības auditus, uzraudzību, dublēšanu un avāriju atkopšanu.",
+      "ctaHeadline": "Jūsu mākoņa ceļojums, pareizi izplānots",
+      "ctaSub": "Modernizējiet savu infrastruktūru. Paātrināt inovācijas. Izveidojiet mērogojamu mākoņu pamatu."
+    },
+    "data-center-solutions": {
+      "title": "Datu centru risinājumi",
+      "tagline": "Uzticama infrastruktūra misijai kritiskām operācijām.",
+      "heroBadge": "Misijai kritiskā infrastruktūra",
+      "overview": [
+        "Datu centri veido mūsdienu digitālā biznesa pamatu. Lietojumprogrammas, datu bāzes, uzņēmuma sistēmas, sakaru platformas un svarīgi biznesa pakalpojumi ir atkarīgi no uzticamas infrastruktūras.",
+        "Mūsu datu centru risinājumi koncentrējas uz tādas infrastruktūras vides projektēšanu, modernizāciju, pārvaldību un optimizēšanu, kas izveidotas, lai nodrošinātu pieejamību, drošību, mērogojamību, veiktspēju un darbības efektivitāti."
+      ],
+      "transformation": [
+        "Mūsdienīgs datu centrs prasa vairāk nekā tikai serverus un krātuvi. Tam nepieciešama rūpīgi izstrādāta skaitļošanas, tīklu, drošības, enerģijas, dzesēšanas, uzraudzības, dublēšanas un avārijas atkopšanas infrastruktūra.",
+        "Mēs palīdzam organizācijām izveidot elastīgu infrastruktūras vidi, kas atbalsta kritiskas darba slodzes un nodrošina pamatu turpmākai tehnoloģiju izaugsmei."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktūras projektēšana",
+          "desc": "Mēs izstrādājam vidi, pamatojoties uz darba slodzes prasībām, jaudu, veiktspēju, pieejamību, drošību un turpmāko izaugsmi."
+        },
+        {
+          "title": "Servera infrastruktūra",
+          "desc": "Mēs atbalstām fiziskās un virtuālās serveru vides misijai kritiskām uzņēmuma lietojumprogrammām un darba slodzēm."
+        },
+        {
+          "title": "Uzglabāšanas risinājumi",
+          "desc": "Veidojot uzglabāšanas vides, mēs ņemam vērā veiktspējas, ietilpības, dublēšanas, ātrgaitas SAN/NAS, dublēšanas un datu aizsardzības prasības."
+        },
+        {
+          "title": "Tīkla infrastruktūra",
+          "desc": "Mēs izstrādājam tīkla vides ar atbilstošu segmentāciju, dublēšanu, zemu latentuma veiktspēju, savienojamību un drošības kontroli."
+        },
+        {
+          "title": "Virtualizācija",
+          "desc": "Virtualizācija uzlabo resursu izmantošanu, darba slodzes elastību un centralizētu infrastruktūras pārvaldību."
+        },
+        {
+          "title": "Dublēšana un atkopšana pēc avārijas",
+          "desc": "Mēs palīdzam organizācijām izveidot rezerves stratēģijas un atkopšanas arhitektūras, kas paredzētas dīkstāves samazināšanai un datu zuduma novēršanai."
+        }
+      ],
+      "lifecycleSteps": [
+        "Jaudas novērtējums",
+        "Darba slodzes profilēšana",
+        "Arhitektūras projekts",
+        "Aparatūra un virtuālie izmēri",
+        "Tīkla segmentācija",
+        "Krātuves nodrošināšana",
+        "Atlaišanas un DR pārbaude",
+        "Ražošanas pārtraukšana",
+        "Diennakts veselības uzraudzība",
+        "Nepārtraukta optimizācija"
+      ],
+      "benefits": [
+        "Garantēts 99,999% infrastruktūras darbības laiks",
+        "Nulle atsevišķu atteices punktu ar daudzslāņu dublēšanu",
+        "Optimizēta servera aprēķins un augsta blīvuma virtualizācija",
+        "Submilisekundes zema latentuma tīkla arhitektūras",
+        "Rūdīta fiziskā un digitālā perimetra apsardze",
+        "Proaktīva uzraudzība un automatizēta kļūmju pārslēgšanās",
+        "Mērogojama modulāra krātuve petabaitu mēroga datiem",
+        "Paredzamas kopējās īpašuma izmaksas un enerģijas efektivitāte"
+      ],
+      "security": "Drošība ir integrēta visā infrastruktūras līmenī, aptverot tīkla mikrosegmentāciju, aparatūras uzticamības saknes, nulles uzticamības piekļuves kontroli, nepārtrauktas ievainojamības pārbaudes, galapunkta aizsardzību un stingras darbības politikas.",
+      "ctaHeadline": "Nākotnei gatava infrastruktūra",
+      "ctaSub": "Izveidojiet uzticamu infrastruktūru jau šodien. Izveidojiet pamatu rītdienas tehnoloģijām."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kognitīvā analīze un AI",
+      "tagline": "Pārvērtiet datus izlūkošanā.",
+      "heroBadge": "Informācija par datu pārņemšanu lēmumu pieņemšanā",
+      "overview": [
+        "Organizācijas ģenerē milzīgu daudzumu informācijas, izmantojot lietojumprogrammas, darījumus, klientus, operācijas, ierīces un digitālās platformas. Izaicinājums vairs nav tikai datu vākšana; tā ir datu izpratne un pārvēršana darbībā izmantojamā izlūkošanā.",
+        "Mūsu kognitīvās analīzes un mākslīgā intelekta risinājumi apvieno progresīvu analīzi, mašīnmācīšanos, mākslīgo intelektu, datu apstrādi un biznesa inteliģenci, lai palīdzētu organizācijām pieņemt labākus lēmumus."
+      ],
+      "transformation": [
+        "Tradicionālā ziņošana organizācijām stāsta par notikušo. Uzlabota analīze var palīdzēt izskaidrot, kāpēc tas notika, noteikt, kas var notikt pēc tam, un atbalstīt lēmumus par to, kam būtu jānotiek.",
+        "Mēs palīdzam organizācijām izveidot datu vidi, kas pāriet no statiskās atskaites uz viedo analīzi un lēmumu atbalstu."
+      ],
+      "capabilities": [
+        {
+          "title": "Aprakstošā analīze",
+          "desc": "Izprotiet vēsturisko veiktspēju, izmantojot interaktīvus pārskatus, daudzdimensiju informācijas paneļus, KPI un biznesa metriku."
+        },
+        {
+          "title": "Diagnostikas analīze",
+          "desc": "Nosakiet pamatā esošās attiecības, tendences, statistikas anomālijas un pamatcēloņus, kas slēpjas aiz uzņēmējdarbības rezultātiem."
+        },
+        {
+          "title": "Paredzamā analīze",
+          "desc": "Izmantojiet vēsturiskos un reāllaika straumēšanas datus ar statistikas modeļiem, lai noteiktu iespējamos nākotnes rezultātus un prasības."
+        },
+        {
+          "title": "Preskriptīvā analīze",
+          "desc": "Novērtējiet iespējamās darbības un atbalstiet optimālus lēmumu pieņemšanas ceļus, pamatojoties uz prognozētajiem rezultātiem un stratēģiskajiem biznesa mērķiem."
+        },
+        {
+          "title": "Mašīnmācīšanās modeļi",
+          "desc": "Izstrādājiet pielāgotus modeļus prognozēšanai, klientu klasifikācijai, ieteikumiem, krāpšanas anomāliju noteikšanai un paredzamajai apkopei."
+        },
+        {
+          "title": "Ar AI darbināms ieskats",
+          "desc": "Lietojiet kognitīvo AI milzīgiem nestrukturētas informācijas apjomiem, lai atklātu slēptos modeļus, kopsavilkumus un ieteikumus."
+        }
+      ],
+      "lifecycleSteps": [
+        "Datu avoti",
+        "Datu integrācija",
+        "Datu apstrāde",
+        "Datu glabāšana",
+        "Analytics",
+        "AI/ML modeļi",
+        "Vizualizācija",
+        "Uzņēmējdarbības lēmumi"
+      ],
+      "benefits": [
+        "Uz faktiem balstīta, uz datiem balstīta izpildvaras lēmumu pieņemšana",
+        "Precīza pieprasījuma, ieņēmumu un atteikšanās prognozēšana",
+        "Anomāliju un krāpšanas atklāšana reāllaikā",
+        "Padziļināts 360° ieskats klientu uzvedībā un personalizācija",
+        "Optimizēta piegādes ķēde un darbības efektivitāte",
+        "Samazināts operacionālais un finanšu risks",
+        "Slēptu ieņēmumu iespēju atklāšana",
+        "Paātrināts laiks līdz ieskatam visās biznesa vienībās"
+      ],
+      "security": "Mūsu analītikas ekosistēmas ievieš pilnīgu šifrēšanu, automatizētu datu maskēšanu, stingras RBAC atļaujas un modeļu pārvaldību, lai aizsargātu patentētos datus un uzturētu atbilstību normatīvajiem aktiem (VDAR, HIPAA, SOC 2).",
+      "ctaHeadline": "Izveidojiet viedo datu stratēģiju",
+      "ctaSub": "Pārvērtiet informāciju ieskatā. Pārvērtiet ieskatu darbībā."
+    },
+    "information-reporting-systems": {
+      "title": "Informācijas un ziņošanas sistēmas",
+      "tagline": "Pareizā informācija. Īstajā laikā. Labākiem lēmumiem.",
+      "heroBadge": "Vienotā uzņēmuma informācija",
+      "overview": [
+        "Uzņēmumu vadītāji un operatīvās komandas ir atkarīgas no precīzas informācijas, lai pieņemtu efektīvus lēmumus. Mūsu informācijas un atskaišu sistēmas palīdz organizācijām vākt, kārtot, analizēt un prezentēt biznesa informāciju, izmantojot strukturētas informācijas sistēmas, pārskatu platformas, informācijas paneļus un automatizētas atskaišu darbplūsmas.",
+        "Organizācijām bieži ir informācija, kas tiek izplatīta lietojumprogrammās, izklājlapās, datu bāzēs un operētājsistēmās. Tas apgrūtina konsekventa priekšstata izveidi par uzņēmējdarbības rezultātiem. Mēs palīdzam integrēt informācijas avotus strukturētās pārskatu vidēs, kas nodrošina uzticamu, pieejamu un konsekventu biznesa informāciju."
+      ],
+      "transformation": [
+        "Ziņošanas sistēmai nevajadzētu vienkārši parādīt skaitļus. Tam vajadzētu palīdzēt lietotājiem izprast veiktspēju, identificēt problēmas, atklāt iespējas un pieņemt apzinātus lēmumus.",
+        "Mēs veidojam pārskatu sniegšanas vides atbilstoši jūsu organizācijas darbības veidam, nodrošinot strukturētas datu ekosistēmas, kas pielāgotas visiem pārvaldības līmeņiem."
+      ],
+      "capabilities": [
+        {
+          "title": "Vadības informācijas sistēmas (MIS)",
+          "desc": "Izstrādāt vienotas informācijas sistēmas, kas nodrošina izpildvadībai atbilstošu operatīvo un stratēģisko redzamību."
+        },
+        {
+          "title": "Biznesa ziņojumi",
+          "desc": "Pārveidojiet neapstrādātus biznesa datus no vairākiem kanāliem strukturētos, standartizētos pārskatos, kas nepārtraukti uzrauga veiktspēju."
+        },
+        {
+          "title": "Interaktīvie informācijas paneļi",
+          "desc": "Nodrošiniet reāllaika vai ieplānotu interaktīvu kritisko biznesa rādītāju, KPI, tendenču un departamentu darbību redzamību."
+        },
+        {
+          "title": "KPI pārvaldība",
+          "desc": "Definējiet, izsekojiet un novērtējiet nozīmīgus darbības KPI, kas ir tieši saskaņoti ar vispārējiem uzņēmuma izaugsmes mērķiem."
+        },
+        {
+          "title": "Datu integrācija",
+          "desc": "Integrējiet sadalītos datu avotus vienotās datu noliktavās un semantiskajos slāņos, lai nodrošinātu konsekventu vienas stikla rūts atskaiti."
+        },
+        {
+          "title": "Automatizētā ziņošana",
+          "desc": "Automātiski ģenerējiet un izplatiet personalizētus pārskatus saskaņā ar iepriekš noteiktiem grafikiem, biznesa noteikumiem un adresātu hierarhijām."
+        }
+      ],
+      "lifecycleSteps": [
+        "Biznesa sistēmas",
+        "Datu vākšana",
+        "Datu integrācija",
+        "Datu apstrāde",
+        "Datu krātuve",
+        "Analytics",
+        "Pārskati un informācijas paneļi"
+      ],
+      "benefits": [
+        "Viens patiesības avots visā uzņēmumā",
+        "Ātrāka piekļuve reāllaika darbības rādītājiem",
+        "Pilnīga manuālas izklājlapu montāžas likvidēšana",
+        "Konsekventi, saskaņoti starpnozaru KPI",
+        "Augstākā izpildvaras uzraudzība un auditējamība",
+        "Automatizēta izplatīšana tieši ieinteresētajām pusēm",
+        "Detalizēta rindas līmeņa datu drošība un atļaujas",
+        "Uzlabota veiklība, reaģējot uz darbības anomālijām"
+      ],
+      "security": "Uzņēmuma informācija var saturēt sensitīvus darbības, finanšu un klientu datus. Mūsu atskaišu veidošanas risinājumi atskaišu arhitektūrā iestrādā daudzfaktoru autentifikāciju, detalizētu uz lomu balstītu autorizāciju, šifrēšanu un audita žurnālus.",
+      "ctaHeadline": "Pārskati, kas atbalsta izaugsmi",
+      "ctaSub": "Padariet informāciju pieejamu. Padariet sniegumu redzamu. Pieņemiet labākus lēmumus."
+    },
+    "managed-services": {
+      "title": "Pārvaldīti pakalpojumi",
+      "tagline": "Uzticamas tehnoloģiju darbības. Ekspertu atbalsts. Nepārtraukta pilnveidošanās.",
+      "heroBadge": "Diennakts IT operācijas un atbalsts",
+      "overview": [
+        "Mūsdienu IT vide ir sarežģīta un pastāvīgi mainās. Organizācijām ir nepieciešama uzticama infrastruktūra, lietojumprogrammas, tīkli, drošība, uzraudzība un tehniskais atbalsts, lai nodrošinātu uzņēmējdarbības darbību.",
+        "Mūsu pārvaldītie pakalpojumi nodrošina pastāvīgu tehnoloģiju pārvaldību un darbības atbalstu, ļaujot organizācijām uzturēt uzticamu IT vidi, kamēr iekšējās komandas koncentrējas uz stratēģiskām iniciatīvām."
+      ],
+      "transformation": [
+        "Tradicionālais IT atbalsts bieži ir vērsts uz problēmu atrisināšanu pēc to rašanās. Pārvaldītie pakalpojumi izmanto proaktīvu pieeju, nepārtraukti uzraugot infrastruktūru, lietojumprogrammas, sistēmas un darbības vidi.",
+        "Šī pieeja palīdz laikus identificēt iespējamās problēmas, uzturēt veiktspēju, uzlabot pieejamību un samazināt darbības traucējumus, no kuriem iespējams izvairīties."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktūras pārvaldība",
+          "desc": "Atbalstiet serveru, krātuves, virtualizācijas platformu un infrastruktūras pastāvīgu darbību, ielāpu un pārvaldību."
+        },
+        {
+          "title": "Mākoņu pārvaldība",
+          "desc": "Pārvaldiet mākoņa darba slodzi, vairāku mākoņu resursus, konfigurācijas, uzraudzību, veiktspēju un FinOps optimizāciju."
+        },
+        {
+          "title": "Tīkla pārvaldība",
+          "desc": "Nodrošina diennakts uzraudzību, veiktspējas pārvaldību, konfigurācijas atbalstu, SD-WAN optimizāciju un tīkla problēmu risināšanu."
+        },
+        {
+          "title": "Lietojumprogrammu pārvaldība",
+          "desc": "Atbalstiet kritiskās lietojumprogrammu vides, izmantojot proaktīvu uzraudzību, apkopi, kļūdu novēršanu un darbības jauninājumus."
+        },
+        {
+          "title": "Uzraudzība un novērojamība",
+          "desc": "Nodrošiniet visaptverošu reāllaika redzamību par sistēmas stāvokli, latentumu, darbspējas laiku, infrastruktūras atkarībām un brīdinājumiem."
+        },
+        {
+          "title": "Dublēšanas un atkopšanas pārvaldība",
+          "desc": "Uzturiet automatizētus dublēšanas grafikus, regulāri pārbaudiet kļūmjpārlēces un nodrošiniet tūlītējas atkopšanas iespējas."
+        },
+        {
+          "title": "Drošības operācijas (SecOps)",
+          "desc": "Nodrošiniet nepārtrauktu drošības uzraudzību, ielāpu pārvaldību, piekļuves kontroles izpildi un proaktīvu draudu mazināšanu."
+        }
+      ],
+      "lifecycleSteps": [
+        "Vides apmācība",
+        "Atklāšana un sākumstāvoklis",
+        "Telemetrijas integrācija",
+        "SLA definīcija",
+        "24/7 Aktīvā uzraudzība",
+        "Incidentu klasifikācija",
+        "Ātra izšķirtspēja",
+        "Pamatcēloņu analīze",
+        "Profilaktiskā inženierija",
+        "Nepārtraukta optimizācija"
+      ],
+      "benefits": [
+        "Ievērojami samazināts iekšējais darbības slogs",
+        "Proaktīva problēmu noteikšana, pirms tiek ietekmēti lietotāji",
+        "Garantēta 99,99% sistēmas pieejamība un darbības laiks",
+        "Paredzama, caurspīdīga IT darbības budžeta plānošana",
+        "Tūlītēja pieeja vecākajiem inženieru speciālistiem",
+        "Ātri SLA nodrošināti incidentu reaģēšanas laiki",
+        "Automatizēta avārijas seku novēršana un darbības nepārtrauktība",
+        "Nepārtraukta tehnoloģiju optimizācija un modernizācija"
+      ],
+      "security": "Mūsu pārvaldītās darbības atbilst stingriem ITIL un ISO ietvariem, nodrošinot šifrētu piekļuvi, izolētus audita žurnālus, vismazāko privilēģiju akreditācijas datu glabāšanu un atbilstības saskaņošanu visos pārvaldītajos resursos.",
+      "ctaHeadline": "Pastāvīga uzlabošana",
+      "ctaSub": "Jūs koncentrējaties uz savu biznesu. Mēs palīdzam jūsu tehnoloģijai darboties."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Vienas pieturas tehnoloģiju risinājumi",
+      "tagline": "Viens tehnoloģiju partneris. Vairākas iespējas. Pilnīgi biznesa risinājumi.",
+      "heroBadge": "Vienotais uzņēmuma partneris",
+      "overview": [
+        "Organizācijas bieži sadarbojas ar vairākiem tehnoloģiju nodrošinātājiem infrastruktūras, mākoņa, lietojumprogrammu, automatizācijas, analītikas, drošības, atbalsta un digitālās transformācijas jomā. Vairāku piegādātāju pārvaldīšana var radīt sarežģītību, komunikācijas nepilnības, dublētu darbu un sadrumstalotu tehnoloģiju vidi.",
+        "Mūsu vienas pieturas tehnoloģiju risinājumu pieeja apvieno vairākas iespējas vienotā pakalpojumu modelī, palīdzot organizācijām plānot, ieviest, integrēt, darboties un nepārtraukti uzlabot savu tehnoloģiju vidi."
+      ],
+      "transformation": [
+        "Mēs atbalstām visu tehnoloģiju dzīves ciklu — no biznesa prasību izpratnes un tehnoloģiju stratēģijas noteikšanas līdz risinājumu izstrādei, platformu ieviešanai, sistēmu integrēšanai, lietojumprogrammu izvietošanai, vides pārraudzībai un pastāvīga atbalsta nodrošināšanai.",
+        "Mērķis ir izveidot saistītu tehnoloģiju ekosistēmu, nevis izolētus risinājumus."
+      ],
+      "capabilities": [
+        {
+          "title": "Stratēģija un arhitektūra",
+          "desc": "Izprotiet biznesa mērķus un izstrādājiet mērogojamu, drošu un uzturējamu tehnoloģiju arhitektūru."
+        },
+        {
+          "title": "Ieviešana un izveide",
+          "desc": "Ieviesiet lietojumprogrammas, infrastruktūru, integrācijas, automatizāciju un digitālās platformas ar uzņēmuma stingrību."
+        },
+        {
+          "title": "Sistēmas integrācija",
+          "desc": "Savienojiet sistēmas un lietojumprogrammas, lai informācija vienmērīgi pārvietotos visā organizācijā."
+        },
+        {
+          "title": "Strukturēta izvietošana",
+          "desc": "Izveidojiet automatizētus CI/CD un izlaidiet procesus, lai uzticami un droši pārvietotu risinājumus ražošanā."
+        },
+        {
+          "title": "Nepārtraukta uzraudzība",
+          "desc": "Nodrošiniet pilnīgu infrastruktūras, lietojumprogrammu, veiktspējas, pieejamības un darbības stāvokļa redzamību."
+        },
+        {
+          "title": "Optimizācija un atbalsts",
+          "desc": "Pastāvīgi pārskatiet vidi, lai uzlabotu veiktspēju, uzticamību, izmaksu efektivitāti un mērogojamību."
+        }
+      ],
+      "lifecycleSteps": [
+        "Stratēģija",
+        "Arhitektūra",
+        "Īstenošana",
+        "Integrācija",
+        "Izvietošana",
+        "Uzraudzība",
+        "Optimizācija",
+        "Atbalsts"
+      ],
+      "benefits": [
+        "Samazināta piegādātāja pārvaldības sarežģītība un pieskaitāmās izmaksas",
+        "Nevainojama koordinācija visos arhitektūras slāņos",
+        "Ātrāka projekta izpilde ar nulles nodošanas aizkavi",
+        "Paredzams budžeta sadalījums un caurspīdīga piegāde",
+        "Vienota uzņēmuma atbildība no nulles līdz mērogam",
+        "Mērogojami risinājumi, kas paredzēti biznesa izaugsmei nākotnē",
+        "Ilgtermiņa uzticama tehnoloģiju partnerība",
+        "Visaptveroša pilnīga digitālā transformācija"
+      ],
+      "security": "Ar vienu uzticamu partneri, kas pārrauga arhitektūru, ieviešanu un darbības, drošības pārvaldība paliek nemainīga visos līmeņos, novēršot integrācijas aklās zonas un nodrošinot nepārtrauktu atbilstību.",
+      "ctaHeadline": "Jūsu pilnīgais tehnoloģiju partneris",
+      "ctaSub": "Viens partneris. Viena vīzija. Vairākas tehnoloģijas. Pilnīgi risinājumi."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Uzņēmuma pārskats",
+    "overviewTitle": "Inteliģenta tehnoloģija izmērāmiem rezultātiem",
+    "transformationEyebrow": "Operatīvā transformācija",
+    "transformationTitle": "Biznesa pārveide, izmantojot viedās darbplūsmas",
+    "deliveryEyebrow": "Strukturētas piegādes pieeja",
+    "deliveryTitle": "Pilnīga izpilde un nepārtraukta optimizācija",
+    "deliveryIntro": "Mūsu pārbaudītā ieviešanas pieeja ievēro stingru piegādes dzīves ciklu:",
+    "deliveryOutro": "Šī strukturētā secība nodrošina ciešu saskaņošanu ar biznesa mērķiem, stabilu drošības pozīciju un izmērāmus IA etalonus katrā fāzē.",
+    "securityEyebrow": "Drošība un pārvaldība",
+    "securityTitle": "Uzņēmuma līmeņa uzticamības un atbilstības garantijas",
+    "securityOutro": "Mēs iegultām stingru, uz lomām balstītu piekļuves kontroli, automatizētu ievainojamību skenēšanu, modeļu pārvaldību un vairāku līmeņu šifrēšanu, lai nodrošinātu, ka jūsu ražošanas vide joprojām ir elastīga un pilnībā atbilst prasībām.",
+    "capabilitiesTitle": "Tehnoloģiju pamatiespējas",
+    "capabilitiesSub": "Visaptverošas tehniskās kompetences, kas izstrādātas, lai mērogotu jūsu digitālās darbības.",
+    "bookDiscovery": "Grāmatu tehnoloģiju atklāšana",
+    "exploreAll": "Izpētiet visas tehnoloģijas",
+    "bookConsultation": "Piesakiet konsultāciju",
+    "coreCapabilities": "Galvenās iespējas"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Galvenās iespējas",
+    "exploreFramework": "Izpētiet risinājumu sistēmu",
+    "bookConsultation": "Piesakieties konsultācijai",
+    "viewCaseStudies": "Skatiet gadījumu izpēti",
+    "provenPillars": "Pārbaudīti pīlāri",
+    "operationalOutcomes": "Darbības rezultāti",
+    "learnMore": "Uzziniet vairāk"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Pilnīga digitālā inženierija",
+      "titlePart1": "Sākums Līdz",
+      "titlePart2": "Izvietošana",
+      "description": "Jaunu digitālo risinājumu pilnīga izstrāde no biznesa prasībām un risinājumu arhitektūras, izmantojot izstrādi, integrāciju, testēšanu, izvietošanu un pastāvīgu atbalstu.",
+      "bookConsultation": "Piesakieties konsultācijai",
+      "exploreEngineering": "Izpētiet risinājumu inženieriju",
+      "coreCapabilities": [
+        "Prasības Inženierzinātnes",
+        "Risinājumu arhitektūra",
+        "Lietojumprogrammu izstrāde",
+        "API integrācija",
+        "Kvalitātes nodrošināšana",
+        "DevOps",
+        "Izvietošana",
+        "Atbalsts un apkope"
+      ],
+      "row1Eyebrow": "Pilna dzīves cikla piegāde",
+      "row1Title": "Pilnīga izstrāde no prasībām līdz mērogam",
+      "row1P1": "Katra jauna digitālā iniciatīva sākas ar unikālām prasībām, darbības darbplūsmām un stratēģiskiem mērķiem, kurus nevar sasniegt ar universālu programmatūru. Mēs specializējamies pielāgotu augstas veiktspējas programmatūras sistēmu izveidē pilnībā no nulles.",
+      "row1P2": "No sākotnējās prasību noteikšanas un tehniskās arhitektūras projektēšanas līdz veiklai sprinta izstrādei, API ekosistēmu integrācijai, stabiliem testēšanas cauruļvadiem un automatizētai mākoņa izvietošanai, mūsu vecākās inženieru komandas pilnībā pārņem jūsu produkta dzīves ciklu.",
+      "row2Eyebrow": "Risinājumu arhitektūra un inženierija",
+      "row2Title": "Mērogojamas sistēmas, kas paredzētas uzņēmuma izaugsmei",
+      "row2P1": "Mēs izstrādājam elastīgas programmatūras arhitektūras, kas pielāgotas lielai ražošanas slodzei. No modulāriem mikropakalpojumiem un uz notikumiem balstītiem aizmugursistēmām līdz augstas caurlaidspējas datu plūsmām un GraphQL/REST API mēs veidojam platformas, kuras mērogojas bez piepūles.",
+      "row2P2": "Izveidojot tīras, modulāras kodu bāzes, kas savienotas ar automatizētu testēšanu un nepārtrauktu drošības atbilstību, mēs nodrošinām, ka jūsu programmatūras pamats ir apkopjams, pārbaudāms un gatavs ilgtermiņa attīstībai.",
+      "row3Eyebrow": "Kvalitātes nodrošināšana un DevOps",
+      "row3Title": "Agile piegāde ar automatizētiem cauruļvadiem",
+      "row3P1": "Mūsu piegādes modelī ir iekļauta automatizēta vienība, integrācija un pilnīga regresijas pārbaude kopā ar konteinerizētām CI/CD darbplūsmām (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Izmantojot caurspīdīgas sprinta demonstrācijas, reāllaika novērojamību un pagrieziena punktu virzītu ātrumu, mēs nodrošinām ātru nonākšanu tirgū, neapdraudot drošību, stabilitāti vai lietotāja pieredzi.",
+      "row4Eyebrow": "Izvietošana un atbalsts",
+      "row4Title": "Uzticama 24/7 darbība un ilgtermiņa attīstība",
+      "row4P1": "Tiešraides sākšana ir tikai sākums. Mēs nodrošinām proaktīvu uzraudzību, SLA nodrošināto apkopi, mākoņa infrastruktūras optimizāciju, veiktspējas regulēšanu un pastāvīgu funkciju izlaišanu.",
+      "row4P2": "Mūsu inženieru komanda darbojas kā dabisks jūsu organizācijas paplašinājums, nodrošinot nulles dīkstāves un nepārtrauktu tehnoloģisko pārākumu jūsu tirgū.",
+      "pillarsTitle": "Galvenās iespējas",
+      "pillarsSub": "Pilnīgas pilnas kaudzes iespējas, kas izstrādātas, lai jūsu idejas no nulles pārvērstu ražošanā.",
+      "pillar1Title": "Prasības Inženierzinātnes",
+      "pillar1Desc": "Padziļināta biznesa analīze, funkcionālās specifikācijas un lietotāja ceļa kartēšana, lai noteiktu precīzas risinājumu robežas.",
+      "pillar2Title": "Risinājumu arhitektūra",
+      "pillar2Desc": "Mērogojamas mākoņdatošanas arhitektūras, datu bāzes modelēšana, mikropakalpojumu dizains un nulles uzticamības drošības pamati.",
+      "pillar3Title": "Lietojumprogrammu izstrāde",
+      "pillar3Desc": "Mūsdienīgas pilnas tīmekļa un mobilās lietojumprogrammas, kas izstrādātas ar tīru kodu, tipa drošības un reaktīvo lietotāja interfeisa standartiem.",
+      "pillar4Title": "API integrācija",
+      "pillar4Desc": "Augstas caurlaidības REST/GraphQL API, tīmekļa aizķeres orķestrācijas, maksājumu vārtejas un netraucēta trešās puses ERP/CRM sinhronizācija.",
+      "ctaTitle": "Vai esat gatavs izstrādāt savu risinājumu no sākuma līdz ieviešanai?",
+      "ctaSub": "Sadarbojieties ar Rezonants, lai izveidotu, izstrādātu un ieviestu savu pielāgoto digitālo platformu no biznesa prasībām līdz ražošanas realitātei.",
+      "ctaButton": "Piesakiet risinājuma konsultāciju",
+      "pillar5Title": "Kvalitātes nodrošināšana",
+      "pillar5Desc": "Stingra testēšanas automatizācija, slodzes/sprieguma testēšana, ievainojamības skenēšana un regresijas testu komplekti.",
+      "pillar6Title": "DevOps un izvietošana",
+      "pillar6Desc": "Automatizēti CI/CD cauruļvadi, konteineru orķestrēšana (Docker/K8s), infrastruktūra kā kods un izlaidumi bez dīkstāves.",
+      "pillar7Title": "Atbalsts un apkope",
+      "pillar7Desc": "24/7 proaktīva uzraudzība, veselības telemetrija, veiktspējas auditi, drošības ielāpi un pastāvīga SLA uzturēšana.",
+      "pillar8Title": "Nepārtraukta inovācija",
+      "pillar8Desc": "Regulārs funkciju ātrums, datu analīzes integrācija, mākslīgā intelekta uzlabošana un arhitektūras modernizācija."
+    },
+    "processAutomation": {
+      "eyebrow": "Inteliģentas procesa darbības",
+      "titlePart1": "Biznesa process",
+      "titlePart2": "Automatizācija",
+      "description": "Uzņēmuma darbplūsmu pilnīga automatizācija, apvienojot robotizēto procesu automatizāciju (RPA), viedo dokumentu apstrādi, biznesa noteikumu dzinējus un sistēmu integrāciju.",
+      "bookDiscovery": "Grāmatu automatizācijas atklāšana",
+      "exploreFramework": "Izpētiet risinājumu sistēmu",
+      "coreCapabilities": [
+        "Darbplūsmas automatizācija",
+        "Robotu procesu automatizācija",
+        "Dokumentu apstrāde",
+        "Integrācijas inženierija",
+        "Biznesa noteikumi Dzinēji",
+        "Procesu analīze",
+        "Nepārtraukta optimizācija",
+        "Mantotā integrācija"
+      ],
+      "row1Eyebrow": "Robotu procesu automatizācija",
+      "row1Title": "Viedie robotprogrammatūras liela apjoma operācijām",
+      "row1P1": "Novērsiet atkārtotu manuālu datu ievadi, starpsistēmu saskaņošanu un dokumentu maršrutēšanu. Mēs izvietojam uzņēmuma RPA robotprogrammatūras, kas veic strukturētus uzdevumus 24/7 ar nulles kļūdu līmeni.",
+      "row1P2": "Savienojot mantotās darbvirsmas saskarnes, SAP/ERP aizmugursistēmas un mākoņdatu bāzes, programmatūras roboti ļauj jūsu komandai koncentrēties uz stratēģiskām biznesa iniciatīvām.",
+      "row2Eyebrow": "Inteliģenta dokumentu apstrāde",
+      "row2Title": "OCR, mašīnmācīšanās un dokumentu AI",
+      "row2P1": "Automātiski pārņem, klasificē un iegūst datus no rēķiniem, līgumiem, personu apliecinošiem dokumentiem un prasībām. Mūsu mākslīgā intelekta vadītie cauruļvadi validē laukus attiecībā pret iekšējām datu bāzēm un aktivizē automatizētas apstiprināšanas darbplūsmas.",
+      "row2P2": "Sasniedziet tiešās apstrādes ātrumu, kas pārsniedz 95%, vienlaikus krasi samazinot apstrādes laiku no dienām līdz sekundēm.",
+      "row3Eyebrow": "Procesa orķestrēšana",
+      "row3Title": "Pilnīga starpplatformu sinhronizācija",
+      "row3P1": "Savienojiet CRM, ERP, HRMS un banku API vienotās reāllaika datu plūsmās. Mēs ieviešam uz notikumiem balstītus aktivizētājus, ziņojumu rindas un automatizētus atkāpšanās apdarinātājus.",
+      "row3P2": "Informācija nemanāmi plūst pa departamentiem bez cilvēka iejaukšanās, novēršot darbības tvertni un sakaru kavējumus.",
+      "row4Eyebrow": "Nepārtraukta telemetrija",
+      "row4Title": "Reāllaika procesu analīze un Kaizen ieskati",
+      "row4P1": "Sekojiet procesa izpildes laikam, vājo vietu siltuma kartēm, kļūdu biežumam un finanšu IA reāllaika vadības informācijas paneļos.",
+      "row4P2": "Nepārtraukta mašīnmācīšanās diagnostika atklāj jaunas automatizācijas iespējas, saglabājot jūsu uzņēmuma darbību maksimāli efektīvi.",
+      "pillarsTitle": "Automatizācijas balsti",
+      "pillarsSub": "Pārbaudīti elementi inteliģentai uzņēmuma darbībai.",
+      "pillar1Title": "Darbplūsmas automatizācija",
+      "pillar1Desc": "Daudzpakāpju cilvēku lokā un digitālās darbplūsmas, kas organizētas ar automatizētu maršrutēšanu un eskalāciju.",
+      "pillar2Title": "Robotu procesu automatizācija",
+      "pillar2Desc": "Uz kārtulām balstīti programmatūras roboti, kas veic ikdienas datu ievades, saskaņošanas un starplietojumprogrammu uzdevumus.",
+      "pillar3Title": "Inteliģenta AI automatizācija",
+      "pillar3Desc": "Kognitīvie AI aģenti, kas interpretē kontekstu, apkopo nestrukturētu tekstu un pieņem automatizētus lēmumus.",
+      "pillar4Title": "Procesa optimizācija",
+      "pillar4Desc": "Procesu ieguve, vājo vietu noteikšana un Kaizen darbplūsmas, kas nepārtraukti samazina darbības izmaksas.",
+      "ctaTitle": "Vai esat gatavs automatizēt sava uzņēmuma darbplūsmas?",
+      "ctaSub": "Sazinieties ar mūsu automatizācijas arhitektiem, lai noteiktu iespējas ar augstu IA un ieviestu viedas digitālās darbplūsmas.",
+      "ctaButton": "Rezervējiet automatizācijas konsultāciju"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Inženiertehniskais standarts un pētniecība un attīstība",
+      "titlePart1": "Centrs",
+      "titlePart2": "Izcilība",
+      "description": "Centralizēta vecāko arhitektu un jomu speciālistu organizācija, kuras mērķis ir standartizēt inženierijas praksi, veicināt inovācijas un paātrināt digitālās iniciatīvas.",
+      "exploreStandards": "Izpētiet inženiertehniskos standartus",
+      "initiateAssessment": "Uzsākt Eiropas Padomes novērtējumu",
+      "coreCapabilities": [
+        "Arhitektūras standarti",
+        "Atkārtoti lietojami ietvari",
+        "Labākās prakses pārvaldība",
+        "Prasmju attīstība",
+        "Kvalitātes salīdzinošā novērtēšana",
+        "P&A un inovācijas",
+        "Tehnoloģiju novērtējums",
+        "Vairāku projektu vadlīnijas"
+      ],
+      "uptimeLabel": "Uzņēmuma darbības laiks",
+      "engineersLabel": "Inženieri un arhitekti",
+      "deploymentsLabel": "AI un mākoņa izvietošana",
+      "satisfactionLabel": "Klientu apmierinātība",
+      "row1Eyebrow": "01. pīlārs — inženiertehniskais standarts",
+      "row1Title": "Augstas veiktspējas programmatūras inženierija",
+      "row1P1": "Mūsu izcilības centrs izveido standartizētus dizaina modeļus, stingru automatizētu testēšanu un bezdefektu koda pārskatīšanas praksi, kas paātrina laiku līdz tirdzniecībai, vienlaikus saglabājot tehniskos parādus līdz nullei.",
+      "row1F1": "Automatizēti CI/CD izlaišanas cauruļvadi ar DORA metrikas analīzi",
+      "row1F2": "Stingras arhitektūras pārskatīšanas padomes un mikropakalpojumu pārvaldība",
+      "row1F3": "Nepārtraukta drošības uzlikšana un automatizēta ievainojamību labošana",
+      "row1Btn": "Apgūstiet inženiertehniskos standartus",
+      "row1Tag": "DevOps un kvalitātes inženierija",
+      "row2Eyebrow": "02. pīlārs — pētniecības un attīstības inovācijas",
+      "row2Title": "AI inovāciju laboratorija un jaunās tehnoloģijas",
+      "row2P1": "Mēs eksperimentējam ar vismodernākajiem mašīnmācīšanās modeļiem, pielāgotiem AI aģentiem un viedo darbplūsmas automatizāciju, lai izveidotu nākamās paaudzes uzņēmumu produktus.",
+      "row2F1": "Uzņēmuma ģeneratīvā AI un RAG zināšanu integrācija",
+      "row2F2": "Autonomās AI aģentu darbplūsmas biznesa procesu automatizācijai",
+      "row2F3": "Pielāgota mašīnmācīšanās modeļa optimizācija un precizēšana",
+      "row2Btn": "Izpētiet AI Lab",
+      "row2Tag": "Mākslīgais intelekts un neironu pētniecība un attīstība",
+      "row3Eyebrow": "03. pīlārs — Infrastruktūra",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Mēs izstrādājam un pārvaldām elastīgas vairāku mākoņu vides, kas balstītas uz nulles uzticamības drošības sistēmām, nodrošinot jūsu datu aizsardzību pret mainīgiem globāliem kiberdraudiem.",
+      "row3F1": "AWS, Azure un GCP vairāku mākoņu infrastruktūras orķestrēšana",
+      "row3F2": "Nulles uzticamības tīkla piekļuve (ZTNA) un uz lomu balstītas IAM politikas",
+      "row3F3": "Automatizēta konteineru drošības skenēšana un slepeno pārvaldību",
+      "row3Btn": "Izpētiet mākoņdatošanu un drošību",
+      "row3Tag": "Mākoņu arhitektūra un nulles uzticēšanās",
+      "pillarsTitle": "Mūsu galvenās izcilības ietvarstruktūras",
+      "pillarsSub": "Sistematizētas izstrādes rokasgrāmatas, kas darbina misijai kritiskās platformas.",
+      "pillar1Title": "Arhitektūras pārbaudes padome (ARB)",
+      "pillar1Desc": "Visaptveroša pārraudzība, kas nodrošina visu uzņēmuma risinājumu atbilstību stingriem mērogojamības, drošības un atbilstības protokoliem.",
+      "pillar2Title": "Atkārtoti lietojami paātrinātāji un komponentu bibliotēka",
+      "pillar2Desc": "Patentētas dizaina sistēmas, API sākuma komplekti un aizmugursistēmas mikropakalpojumu veidnes samazina sākotnējās izstrādes laiku par 40%.",
+      "pillar3Title": "Nepārtraukta veiktspējas profilēšana",
+      "pillar3Desc": "Uzlaboti reāllaika novērojamības cauruļvadi, kas pārrauga lietojumprogrammu latentumu, caurlaidspējas vājās vietas un mākoņa resursu izmantošanu.",
+      "pillar4Title": "Talantu uzlabošana un ģildes",
+      "pillar4Desc": "Strukturētas iekšējās ģildes un sertifikāti, kas attīsta dziļas tehniskās prasmes mākoņpakalpojumos, DevOps un lietotajā AI.",
+      "ctaTitle": "Paaugstiniet savu inženiertehnisko standartu",
+      "ctaSub": "Sadarbojieties ar Rezonants izcilības centru, lai izveidotu elastīgas mākoņu arhitektūras, automatizētu darbplūsmas un paātrinātu digitālo produktu piegādi.",
+      "ctaButton": "Ieplānojiet vadības konsultācijas",
+      "badge": "REZONANTS COE",
+      "scroll": "Ritiniet",
+      "p1Title": "Pārvaldība un ietvari",
+      "p1Desc": "Izveidojiet uzņēmuma mēroga arhitektūras pārvaldību, politikas aizsargmargas un atbilstības standartus.",
+      "p1Tag": "Pārvaldība",
+      "p2Title": "Tehnoloģiju standarti un arhitektūra",
+      "p2Desc": "Definējiet modernas atsauces arhitektūras, pārbaudītas tehnoloģiju kopas un mikropakalpojumu modeļus.",
+      "p2Tag": "Arhitektūra",
+      "p3Title": "Atkārtoti lietojami līdzekļi un bibliotēkas",
+      "p3Desc": "Paātriniet izstrādes ātrumu, izmantojot koplietotus komponentus, veidnes, sākuma komplektus un dizaina sistēmas.",
+      "p3Tag": "Atkārtota izmantošana",
+      "p4Title": "Kompetences attīstība",
+      "p4Desc": "Strukturēta apmācība, tehnoloģiju mentorings un prasmju nodrošināšana, lai paaugstinātu komandas inženieru spējas.",
+      "p4Tag": "Kompetence",
+      "p5Title": "Inovācijas un jaunās tehnoloģijas",
+      "p5Desc": "AI aģentu, automatizācijas cauruļvadu un nākamās paaudzes sistēmu pētniecība un izstrāde, lai saglabātu tirgus priekšrocības.",
+      "p5Tag": "Inovācijas",
+      "p6Title": "Pastāvīga uzlabošana",
+      "p6Desc": "Datu vadīta inženiertehniskā metrika (DORA), SLA etalonuzdevumi un nepārtraukta kvalitātes optimizācija.",
+      "p6Tag": "Kvalitāte"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Pielāgota digitālā inženierija",
+      "titlePart1": "Pielāgota izstrāde un",
+      "titlePart2": "Pielāgošana",
+      "description": "Lietojumprogrammu, platformu, darbplūsmu un uzņēmuma risinājumu izstrāde un uzlabošana, lai apmierinātu unikālas biznesa prasības un nodrošinātu pielāgotu funkcionalitāti.",
+      "bookConsultation": "Piesakieties konsultācijai",
+      "exploreCapabilities": "Izpētiet iespējas",
+      "coreCapabilities": [
+        "Pielāgota izstrāde",
+        "Platformas konfigurācija",
+        "Paplašinājumi",
+        "Pielāgotas darbplūsmas",
+        "API izstrāde",
+        "Sistēmas integrācija",
+        "UI/UX uzlabojumi",
+        "Veiktspējas optimizācija"
+      ],
+      "row1Eyebrow": "PIELĀGOTA FUNKCIONALITĀTE",
+      "row1Title": "Jūsu darbplūsmai pielāgotas funkcijas",
+      "row1P1": "Standarta uzņēmuma programmatūra bieži vien neatbilst specializētām biznesa vajadzībām. Mūsu pielāgoto inženieru komanda izstrādā īpaši pielāgotus lietojumprogrammu moduļus, pielāgotus biznesa noteikumus un specializētus paplašinājumus, kas pielāgoti jūsu darbībām.",
+      "row1P2": "No pielāgotiem CRM un ERP uzlabojumiem līdz specializētiem darbības portāliem mēs veidojam līdzekļus, kas nemanāmi saskaņojas ar jūsu komandas precīziem darbplūsmas modeļiem.",
+      "row2Eyebrow": "UZŅĒMUMU SISTĒMU INTEGRĀCIJA",
+      "row2Title": "Platformas konfigurācija un API izstrāde",
+      "row2P1": "Savienojiet dažādas programmatūras sistēmas vienotā digitālā ekosistēmā. Mēs izstrādājam pielāgotas REST un GraphQL API, tīmekļa aizķeres apstrādātājus un uzņēmuma ziņojumu rindas, lai nodrošinātu reāllaika datu sinhronizāciju visās jūsu platformās.",
+      "row2P2": "Neatkarīgi no tā, vai tiek integrēti trešās puses SaaS rīki vai paplašinātas patentētas lokālas platformas, mūsu integrācijas arhitektūrā prioritāte ir datu integritāte, caurlaidspēja un bez dīkstāves.",
+      "row3Eyebrow": "UI/UX UN PERFORMANCE",
+      "row3Title": "UI/UX uzlabojumi un veiktspējas optimizācija",
+      "row3P1": "Uzlabojiet mantotās saskarnes ar modernu, atsaucīgu lietotāja pieredzi, kas paredzēta ātrumam un skaidrībai. Mēs pārveidojam saskarnes ar intuitīviem dizaina modeļiem, pieejamības atbilstību un racionalizētiem mijiedarbības modeļiem.",
+      "row3P2": "Paralēli mūsu veiktspējas inženieri optimizē datu bāzes vaicājumus, kešatmiņas stratēģijas un priekšgala komplektu izmērus, lai nodrošinātu tūlītēju atbildes laiku visās ierīcēs.",
+      "pillarsTitle": "Izstrādāts atbilstoši jūsu specifikācijām",
+      "pillarsSub": "Uzņēmuma līmeņa pielāgošanas metodoloģijas, kas izveidotas, lai nodrošinātu nevainojamu mērogošanu.",
+      "pillar1Title": "Pielāgotas darbplūsmas un paplašinājumi",
+      "pillar1Desc": "Pielāgota lietojumprogrammu loģika un automatizētas stāvokļa iekārtas, kas konfigurētas īpaši atbilstoši jūsu iekšējiem darbības noteikumiem.",
+      "pillar2Title": "API un sistēmas integrācija",
+      "pillar2Desc": "Droši, autentificēti datu tilti, kas savieno patentētas aizmugursistēmas, ERP komplektus, maksājumu vārtejas un mākoņpakalpojumus.",
+      "pillar3Title": "Platformas konfigurācija",
+      "pillar3Desc": "Padziļināti arhitektūras pielāgojumi, kas pārveido uzņēmuma programmatūru, nepārkāpjot jaunināšanas ceļus vai pārdevēja atbalsta līgumus.",
+      "pillar4Title": "Veiktspējas optimizācija",
+      "pillar4Desc": "Agresīva vaicājumu profilēšana, atmiņas noplūdes novēršana un malu CDN sadale, lai ielādētu lapas, kas ir mazākas par otro.",
+      "ctaTitle": "Vai esat gatavs pielāgot savu uzņēmuma platformu?",
+      "ctaSub": "Sazinieties ar mūsu risinājumu arhitektiem, lai izstrādātu un ieviestu pielāgotus moduļus, darbplūsmas un integrācijas, kas pielāgotas jūsu biznesa vajadzībām.",
+      "ctaButton": "Rezervējiet pielāgošanas zvanu",
+      "badge": "Pielāgota digitālā inženierija",
+      "viewAllServices": "Skatīt visus pakalpojumus"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Uzņēmuma modernizācija",
+      "titlePart1": "Digitālais",
+      "titlePart2": "Transformācija",
+      "description": "Visaptveroša biznesa procesu, tehnoloģiju arhitektūru un darbības modeļu modernizācija, lai veicinātu organizācijas veiklību, darbības efektivitāti un ilgtspējīgu digitālo izaugsmi.",
+      "startTransformation": "Sākt transformāciju",
+      "exploreStrategy": "Izpētiet stratēģiju",
+      "coreCapabilities": [
+        "Stratēģija un ceļvedis",
+        "Arhitektūras modernizācija",
+        "Mākonis un infrastruktūra",
+        "Dati un analīze",
+        "Procesu digitalizācija",
+        "Klientu pieredze",
+        "Izmaiņu vadība",
+        "Veikli darbības modeļi"
+      ],
+      "row1Eyebrow": "Stratēģija un ceļvedis",
+      "row1Title": "No vīzijas līdz izpildāmam ceļvedim",
+      "row1P1": "Mēs sadarbojamies ar uzņēmumu vadītājiem, lai definētu digitālo stratēģiju, biznesa gadījumus un pakāpeniskus ceļvežus ar ātriem panākumiem un bezriska izpildi.",
+      "row1P2": "Prioritārās iniciatīvas, TCO modeļi un KPI nodrošina, ka katrs tehnoloģiju modernizācijas darbs ir tieši saistīts ar ieņēmumiem, efektivitāti un klientu apmierinātības rezultātiem.",
+      "row2Eyebrow": "Mantotā modernizācija",
+      "row2Title": "Modernizējiet, nepārkāpjot biznesu",
+      "row2P1": "Pārveidojiet monolītus uz mikropakalpojumiem, API un mākoņdatošanas modeļiem ar nulles dīkstāves pārtraukšanu un automātisku regresijas validāciju.",
+      "row2P2": "Mēs modernizējam lietojumprogrammas, datu bāzes un integrācijas slāņus, vienlaikus saglabājot atbilstību un drošības stāvokli.",
+      "row3Eyebrow": "Mākonis, AI un dati",
+      "row3Title": "Mākoņa pielāgošana un uz datiem balstīta informācija",
+      "row3P1": "Pieņemiet AWS, Azure un GCP, izveidojiet modernus datu cauruļvadus un ieguliet mašīnmācīšanās aģentus, lai pieņemtu autonomus lēmumus.",
+      "row3P2": "No notikumu straumēšanas reāllaikā līdz vienotiem informācijas paneļiem transformācija kļūst izmērāma un ilgtspējīga.",
+      "row4Eyebrow": "Klientu pieredze",
+      "row4Title": "Mūsdienu daudzkanālu pieredze",
+      "row4P1": "Pārveidojiet klientu ceļus adaptīvos tīmekļa, iOS, Android un pašapkalpošanās portālos ar personalizētām saskarnēm.",
+      "row4P2": "Platformas inženierija, telemetrija un automatizētās atgriezeniskās saites cilpas padara digitālās inovācijas nepārtrauktas.",
+      "pillarsTitle": "Transformācijas pīlāri",
+      "pillarsSub": "Uz rezultātu vērstas sviras, kas nodrošina ilgtspējīgu digitālo vadību.",
+      "pillar1Title": "Digitālā stratēģija un pārvaldība",
+      "pillar1Desc": "Pakāpeniskas transformācijas shēmas ar biznesa gadījuma modelēšanu, arhitektūras pārvaldību un pavērsiena riska izsekošanu.",
+      "pillar2Title": "Mākoņu un datu platforma",
+      "pillar2Desc": "AWS/Azure/GCP vairāku mākoņu pamati, automatizēti cauruļvadi un uzņēmuma datu analīzes iespējošana.",
+      "pillar3Title": "AI un automatizācija",
+      "pillar3Desc": "Inteliģenta procesu automatizācija, kognitīvie AI aģenti un paredzamā telemetrija ikdienas darbību optimizēšanai.",
+      "pillar4Title": "Klientu pieredze",
+      "pillar4Desc": "Augsti konvertējoši daudzkanālu digitālie portāli un personalizētas saskarnes, kas izveidotas maksimālai lietotāju noturēšanai.",
+      "ctaTitle": "Vai esat gatavs pārveidot savu uzņēmumu?",
+      "ctaSub": "Sadarbojieties ar Rezonants, lai veiktu pakāpenisku, bezriska digitālu transformāciju, kas saistīta ar izmērāmiem biznesa rezultātiem.",
+      "ctaButton": "Rezervējiet digitālās transformācijas zvanu",
+      "bookWorkshop": "Grāmatu pārveidošanas darbnīca",
+      "exploreFramework": "Izpētiet risinājumu sistēmu",
+      "coreCapabilitiesTitle": "Galvenās iespējas"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Pilnīgs tehnoloģiju dzīves cikls",
+      "titlePart1": "Pilnīgs risinājums",
+      "titlePart2": "Ietvars",
+      "description": "Strukturēta, pilna dzīves cikla piegādes sistēma, kas aptver biznesa prasības, arhitektūras projektēšanu, inženieriju, integrāciju, kvalitātes nodrošināšanu, mākoņa izvietošanu un pārvaldītas darbības.",
+      "startJourney": "Sāciet savu projektu",
+      "exploreFramework": "Izpētiet Framework",
+      "coreCapabilities": [
+        "Prasību analīze",
+        "Arhitektūras projektēšana",
+        "Full-Stack izstrāde",
+        "Integrācijas inženierija",
+        "Kvalitātes nodrošināšana",
+        "Izvietošana un izlaišana",
+        "Notiekošās darbības",
+        "Nepārtraukta attīstība"
+      ],
+      "row1Eyebrow": "Stratēģija un arhitektūra",
+      "row1Title": "Prasības Inženierzinātnes un risinājumu projektēšana",
+      "row1P1": "Sadarbības semināri, biznesa domēnu kartēšana un mākoņa arhitektūras specifikācijas, kas izstrādātas, lai novērstu risku pirms koda rindas rakstīšanas.",
+      "row1P2": "Mēs definējam datu modeļus, drošības sistēmas un mērogojamības atskaites punktus, kas nodrošina ilgtermiņa panākumus.",
+      "row2Eyebrow": "Inženierzinātnes un kvalitāte",
+      "row2Title": "Pilna komplekta izstrāde un automatizētā testēšana",
+      "row2P1": "Modulāri mikropakalpojumi, tipam drošas API un reaģējošas frontends apvienojumā ar automatizētu vienību, integrāciju un drošības skenēšanu.",
+      "row2P2": "Nepārtrauktas integrācijas cauruļvadi ar GitHub Actions, Terraform un automatizētām drošības margām.",
+      "row3Eyebrow": "Izvietošana un darbības",
+      "row3Title": "Mākoņa izvietošana un 24/7 pārvaldīta uzraudzība",
+      "row3P1": "Vairāku mākoņu orķestrēšana AWS/Azure/GCP ar automātisku atcelšanu, nulles dīkstāves pārtraukšanu un reāllaika novērojamību.",
+      "row3P2": "Mēs nodrošinām ar SLA nodrošinātu apkopi un nepārtrauktu telemetrijas uzraudzību, lai nevainojami attīstītu jūsu produktu.",
+      "row4Eyebrow": "Uzņēmumu pārvaldība",
+      "row4Title": "Vienota pārvaldība un pastāvīgs atbalsts",
+      "row4P1": "Viena punkta atbildība visā jūsu digitālajā kaudzē — caurspīdīgs sprinta ātrums, paredzama budžeta plānošana un nepārtraukta inovācija.",
+      "row4P2": "Regulāra funkciju izlaišana un modernizācijas cikli nodrošina, ka jūsu uzņēmums ir konkurentu priekšā.",
+      "pillarsTitle": "Dzīves cikla ietvara pīlāri",
+      "pillarsSub": "Katrs posms ir izstrādāts ar uzņēmuma stingrību.",
+      "pillar1Title": "Stratēģija un prasības",
+      "pillar1Desc": "Domēna atklāšana, arhitektūras ceļveži un ieinteresēto personu saskaņošana, lai novērstu izpildes riskus.",
+      "pillar2Title": "Arhitektūra un celtniecība",
+      "pillar2Desc": "Elastīgi mākoņdatošanas mikropakalpojumi, API integrācijas un nepārtraukta kvalitātes nodrošināšanas pārbaude.",
+      "pillar3Title": "Drošība un izvietošana",
+      "pillar3Desc": "Nulles uzticamības drošības atbilstība, konteineru izlaidumi un automatizēta mākoņa izvietošana.",
+      "pillar4Title": "Pārvaldība un atbalsts",
+      "pillar4Desc": "24/7 SLA uzraudzība, veselības telemetrija un nepārtraukta evolūcijas inženierija.",
+      "ctaTitle": "Nepieciešams pilnīgs dzīves cikla partneris?",
+      "ctaSub": "Mums pieder pilns tehnoloģiju dzīves cikls, lai jūsu komanda varētu koncentrēties uz galvenajiem biznesa rezultātiem.",
+      "ctaButton": "Partneris visam dzīves ciklam"
+    },
+    "migrationServices": {
+      "eyebrow": "Mākoņu un infrastruktūras transformācija",
+      "titlePart1": "Migrācija un",
+      "titlePart2": "Modernizācija",
+      "description": "Droša, strukturēta mantoto lietojumprogrammu, datu bāzu un infrastruktūras migrēšana uz modernām mākoņa arhitektūrām, kas apvienota ar nepārtrauktu modernizāciju, lai uzlabotu veiklību un efektivitāti.",
+      "bookAssessment": "Grāmatu migrācijas novērtējums",
+      "exploreStrategy": "Izpētiet mākoņa stratēģiju",
+      "coreCapabilities": [
+        "Mākoņu migrācija",
+        "Lietojumprogrammu modernizācija",
+        "Datu bāzes migrācija",
+        "Infrastruktūras pārmitināšana",
+        "Konteiners",
+        "Mikropakalpojumu pāreja",
+        "Veiktspējas optimizācija",
+        "Drošība un atbilstība"
+      ],
+      "row1Eyebrow": "Mākoņu migrācija",
+      "row1Title": "Vairāku mākoņu stratēģija un uzlabošana un optimizācija",
+      "row1P1": "Nevainojama darba slodzes migrēšana pa AWS, Azure un Google Cloud ar automātisku atklāšanu, viļņu plānošanu un bez pārtraukuma biznesā.",
+      "row1P2": "Mēs līdzsvarojam rehosting, replatforming un refaktoring, lai optimizētu kopējās izmaksas par īpašumtiesībām (TCO) un veiklību.",
+      "row2Eyebrow": "Datu un datu bāzu migrācija",
+      "row2Title": "Droša ETL un automatizēta datu validācija",
+      "row2P1": "Automatizēta datu bāzes replikācija, shēmu tulkošana un augstas caurlaidības ETL konveijeri ar 100% datu integritātes pārbaudi.",
+      "row2P2": "Nulles dīkstāves pārtraukšanas mēģinājums nodrošina pilnīgu datu konsekvenci un darbības nepārtrauktību.",
+      "row3Eyebrow": "Platformas modernizācija",
+      "row3Title": "Konteinerizācija un Kubernetes orķestrēšana",
+      "row3P1": "Modernizējiet mantotos monolītus mērogojamos mikropakalpojumos, kas organizēti, izmantojot Kubernetes (EKS, AKS, GKE) ar automatizētiem IaC projektiem.",
+      "row3P2": "Veiktspējas profilēšana pēc migrācijas un izmaksu optimizācija nodrošina tūlītēju ROI.",
+      "row4Eyebrow": "Pārgriešanas plānošana",
+      "row4Title": "Automatizētā testēšana un atcelšanas drošības tīkli",
+      "row4P1": "Cīņā pārbaudītas pārgriezuma rokasgrāmatas, automatizētas regresijas komplekti un tūlītēji atcelšanas mehānismi pilnīgam sirdsmieram.",
+      "row4P2": "Veselības telemetrija pēc migrācijas un 24/7 hiperaprūpe garantē nevainojamu ražošanas stabilitāti.",
+      "pillarsTitle": "Migrācijas garantijas",
+      "pillarsSub": "Bezriska pārcelšanās, ko nodrošina uzņēmuma SLA.",
+      "pillar1Title": "Zero-Downtime Cutover",
+      "pillar1Desc": "Kanāriju izlaidumi un datu bāzes divkāršās rakstīšanas sinhronizācija, lai nodrošinātu nepārtrauktu lietotāju piekļuvi.",
+      "pillar2Title": "Automatizēta datu validācija",
+      "pillar2Desc": "Kontrolsummu salīdzinājumi, shēmas integritātes auditi un automatizēta ETL saskaņošana.",
+      "pillar3Title": "Atgriešanas drošības tīkli",
+      "pillar3Desc": "Stingri avārijas seku novēršanas protokoli un mēģinājumi, lai ierobežotu risku katrā posmā.",
+      "pillar4Title": "Veiktspējas un izmaksu optimizācija",
+      "pillar4Desc": "Iekļauta mākoņa tiesību noteikšana, automātiskās mērogošanas politikas un izmaksu pārvaldības informācijas paneļi.",
+      "ctaTitle": "Vai esat gatavs migrēt ar pilnīgu pārliecību?",
+      "ctaSub": "Sadarbojieties ar Rezonants strukturētai, bezriska mākoņdatošanas un datu modernizācijai.",
+      "ctaButton": "Plānojiet savu migrācijas semināru"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Ātra validācija un iespējamība",
+      "titlePart1": "Koncepcijas pierādījums (PoC) &",
+      "titlePart2": "Izmēģinājuma ieviešana",
+      "description": "Tehnoloģiju risinājumu ātra izstrāde un apstiprināšana, lai pirms pilna mēroga ieviešanas novērtētu tehnisko iespējamību, biznesa vērtību, integrācijas prasības, veiktspēju un mērogojamību.",
+      "initiateDiscovery": "Sāciet PoC atklāšanu",
+      "exploreDevelopment": "Izpētiet pielāgoto izstrādi",
+      "coreCapabilities": [
+        "PoC izstrāde",
+        "Prototipu inženierija",
+        "Priekšizpēte",
+        "Arhitektūras apstiprināšana",
+        "Integrācijas pārbaude",
+        "Veiktspējas salīdzinošā novērtēšana",
+        "Izmēģinājuma izvietošana",
+        "Vērtības novērtējums"
+      ],
+      "row1Eyebrow": "Ātrā validācija",
+      "row1Title": "No koncepcijas līdz apstiprinātai iespējamībai",
+      "row1P1": "Lai ideju pārvērstu uzņēmuma mēroga risinājumā, nepieciešama stingra iepriekšēja apstiprināšana. Mūsu PoC & Pilot pakalpojums novērtē tehnoloģiju dzīvotspēju, stresa testus, kritiskos integrācijas āķus un apstiprina biznesa IA pirms lielām kapitāla saistībām.",
+      "row1P2": "Mēs veidojam augstas precizitātes MVP un mērķtiecīgus smilškastes pilotprojektus, kas pierāda tehnisko iespējamību, mēra sistēmas latentumu un savlaicīgi apkopo tiešu ieinteresēto personu apstiprinājumu.",
+      "row1Cap": "Ātrā MVP prototipu izstrāde un tehniskie kritēriji",
+      "row2Eyebrow": "Agile prototipu veidošana",
+      "row2Title": "Interaktīvi MVP un UX validācija",
+      "row2P1": "Mēs veidojam interaktīvus karkasus, noklikšķināmas lietotāju plūsmas un funkcionālus koncepciju pierādījumus dienās, nevis mēnešos. Pārbaudiet reālu lietotāju mijiedarbību, uzlabojiet lietotāja interfeisa/UX modeļus un apkopojiet praktiskas atsauksmes no ieinteresētajām personām.",
+      "row2P2": "Saīsinot atgriezeniskās saites cilpas agrīnās izstrādes laikā, jūsu komanda samazina pārstrādāšanu un nosaka skaidras tehniskās specifikācijas, pirms sākas kapitālietilpīgas izveides fāzes.",
+      "row2Cap": "Ātra iterācija un noklikšķināmi UX prototipi",
+      "row3Eyebrow": "Integrācijas un mērogojamības pārbaude",
+      "row3Title": "Kompleksu sistēmu integrācijas novēršana",
+      "row3P1": "Atklājiet tehniskās vājās vietas, API ierobežojumus un veiktspējas ierobežojumus pirms pilnīgas kapitāla saistības. Mūsu izmēģinājuma inženieru komanda veic stresa testus integrācijas, datu cauruļvadu un trešo pušu API izolētās smilškastes vidēs.",
+      "row3P2": "Šī proaktīvā riska mazināšana nodrošina augstu sistēmas pieejamību, drošības atbilstību un paredzamus izstrādes termiņus, pārejot jūsu PoC uz uzņēmuma ražošanu.",
+      "row3Cap": "Sandbox integrācija un stresa pārbaude",
+      "row4Eyebrow": "Kontrolētas ražošanas pilots",
+      "row4Title": "Mērķtiecīga izmēģinājuma palaišana un biznesa gadījuma apstiprināšana",
+      "row4P1": "Izvietojiet mērķtiecīgus izmēģinājuma laidienus atlasītā lietotāju segmentā vai testa tirgū. Izsekojiet veiktspējas metriku, lietotāju pieņemšanas analīzi un darbības atgriezenisko saiti, lai kvantitatīvi noteiktu uzņēmējdarbības vērtību un izveidotu ar datiem pamatotu biznesa modeli.",
+      "row4P2": "Izmantojot reālās pasaules izmēģinājuma ieskatus, vadošie sponsori iegūst skaidrus ROI rādītājus, lai attaisnotu plašāku izvēršanu un stratēģiskus ieguldījumus digitālajā pārveidē.",
+      "row4Cap": "Kontrolēta izvietošana un veiktspējas telemetrija",
+      "pillarsTitle": "Mūsu pilotu inženierijas principi",
+      "pillarsSub": "Vadošie principi, kas tehnisko nenoteiktību pārvērš prognozējamos biznesa panākumos.",
+      "pillar1Title": "PoC un MVP prototipu veidošana",
+      "pillar1Desc": "Ātri piegādājiet funkcionālus prototipus, lai apstiprinātu vērtību piedāvājumus dzīves cikla sākumā.",
+      "pillar2Title": "Iespējamība un apstiprināšana",
+      "pillar2Desc": "Pārbaudiet API saderību, caurlaidspējas sliekšņus un atbilstības ierobežojumus smilškastes vidēs.",
+      "pillar3Title": "Mērogojamības novērtējums",
+      "pillar3Desc": "Simulējiet ražošanas slodzi, lai noteiktu jaudas ierobežojumus un noteiktu mākoņa arhitektūras izmērus.",
+      "pillar4Title": "Biznesa gadījuma apstiprināšana",
+      "pillar4Desc": "Nosakiet taustāmu IA un produktivitātes rādītājus, lai atbalstītu lēmumus par izlaišanu visā uzņēmumā.",
+      "ctaTitle": "Vai esat gatavs apstiprināt savu nākamo digitālo risinājumu?",
+      "ctaSub": "Sazinieties ar mūsu risinājumu inženieru komandu, lai izpētītu savas projekta prasības, izveidotu prototipu un pārbaudītu iespējamību bez riska.",
+      "ctaButton": "Rezervējiet PoC konsultāciju"
+    },
+    "sharedServices": {
+      "eyebrow": "Centralizētais operāciju centrs",
+      "titlePart1": "Kopīgi pakalpojumi un",
+      "titlePart2": "Pārvaldītās darbības",
+      "description": "Centralizēta tehnoloģiju un darbības iespēju piegāde biznesa vienībās, izmantojot standartizētus procesus, kvalificētus resursus, pārvaldības sistēmas, pakalpojumu pārvaldību un izmērāmus pakalpojumu līmeņus.",
+      "bookDiscovery": "Grāmatu pārvaldīto operāciju atklāšana",
+      "exploreFramework": "Izpētiet risinājumu ietvaru",
+      "coreCapabilities": [
+        "Pārvaldītie pakalpojumi",
+        "IT operācijas",
+        "Lietojumprogrammu atbalsts",
+        "Pakalpojumu pārvaldība",
+        "Resursu optimizācija",
+        "SLA vadība",
+        "Pārvaldība",
+        "Pastāvīga uzlabošana",
+        "Izmaksu optimizācija"
+      ],
+      "row1Eyebrow": "Vienotais piegādes centrs",
+      "row1Title": "Standartizēti pakalpojumi visās uzņēmējdarbības vienībās",
+      "row1P1": "Apvienojiet back-office IT, infrastruktūras pārvaldību un tehnisko atbalstu vienā augstas efektivitātes piegādes centrā.",
+      "row1P2": "Likvidējot dublējošas komandas pieskaitāmās izmaksas un standartizējot pakalpojumu sniegšanas modeļus, jūsu organizācija nodrošina nemainīgu kvalitāti un samazina kopējos darbības izdevumus.",
+      "row2Eyebrow": "24/7 SRE un lietojumprogrammu atbalsts",
+      "row2Title": "Proaktīva uzraudzība un ātra incidentu risināšana",
+      "row2P1": "Mūsu īpašie vietnes uzticamības inženieri (SRE) un atbalsta speciālisti nodrošina 24/7/365 telemetrijas uzraudzību, automatizētu brīdinājumu šķirošanu un ātru L1/L2/L3 problēmu atrisināšanu.",
+      "row2P2": "Pamatojoties uz stingrām SLA saistībām, mēs garantējam 99,99% pieejamību jūsu misijai kritiskajām lietojumprogrammām un mākoņa infrastruktūrai.",
+      "row3Eyebrow": "ITIL pārvaldība un atbilstība",
+      "row3Title": "Strukturētas pakalpojumu pārvaldības sistēmas",
+      "row3P1": "Ieviesiet nozarē vadošos ITSM standartus (ServiceNow, Jira Service Management) ar pārskatāmu biļešu iegādi, pamatcēloņu analīzi un izmaiņu pārvaldības aizsargmargām.",
+      "row3P2": "Visaptverošas audita pēdas un pārvaldības politikas nodrošina, ka jūsu darbība atbilst starptautiskajiem drošības standartiem.",
+      "row4Eyebrow": "FinOps un nepārtraukta uzlabošana",
+      "row4Title": "Paredzama budžeta plānošana un resursu optimizācija",
+      "row4P1": "Likvidējiet mākoņu izšķērdēšanu, optimizējiet skaitļošanas izmēru noteikšanu un automatizējiet ikdienas operatīvo apkopi, izmantojot FinOps labāko praksi.",
+      "row4P2": "Ikmēneša pārskatāmības atskaites un jaudas prognozes nodrošina nepārtrauktu darbības izmaksu optimizāciju un augstu kapitāla efektivitāti.",
+      "pillarsTitle": "Operāciju pīlāri",
+      "pillarsSub": "Pārbaudītas darbības sviras uzticamai uzņēmuma mērogojamībai.",
+      "pillar1Title": "24/7 pārvaldītas IT darbības",
+      "pillar1Desc": "Proaktīva NOC telemetrija, serveru labošana, infrastruktūras uzturēšana un 99,99% darbības laika garantijas.",
+      "pillar2Title": "ITSM un servisa dienests",
+      "pillar2Desc": "1/2/3 līmeņa daudzkanālu palīdzības dienests, incidentu maršrutēšana un strukturētas biļešu atrisināšanas darbplūsmas.",
+      "pillar3Title": "SLA un veiktspējas kontrole",
+      "pillar3Desc": "Līgumā nodrošināti atbildes laiki, MTTR kritēriji un caurspīdīgi ikmēneša darbības auditi.",
+      "pillar4Title": "FinOps un izmaksu optimizācija",
+      "pillar4Desc": "Nepārtraukta resursu pareiza izmēra noteikšana, licenču atgūšana un automatizēta mākoņdatošanas izmaksu samazināšana.",
+      "ctaTitle": "Vai esat gatavs paplašināt savas pārvaldītās darbības?",
+      "ctaSub": "Sadarbojieties ar Rezonants, lai iegūtu uzticamus, 24/7 pārvaldītus pakalpojumus, kas optimizē izmaksas un novērš darbības dīkstāves.",
+      "ctaButton": "Piesakiet konsultāciju par pārvaldītajām darbībām",
+      "howItWorksHeading": "Pierādīts ceļš uz kopīgu pakalpojumu panākumiem"
+    },
+    "aiRobotics": {
+      "brand": "AI un robotika",
+      "eyebrow": "Inteliģentas sistēmas",
+      "heroHeading": "AI un robotika strādā kopā",
+      "intro": "Mākslīgais intelekts (AI) un robotika pārveido veidu, kā uzņēmumi darbojas, apvienojot viedo lēmumu pieņemšanu ar progresīvu automatizāciju. AI ļauj mašīnām analizēt datus, apgūt modeļus un pieņemt gudrus lēmumus, savukārt robotika ienes šīs iespējas fiziskajā pasaulē, lai uzdevumus veiktu ātri, precīzi un konsekventi.",
+      "section1Heading": "Izstrādāts, lai racionalizētu katru darbību",
+      "section1Text": "Mūsu AI un robotikas risinājumi palīdz organizācijām racionalizēt darbību, samazināt manuālo piepūli un uzlabot produktivitāti dažādās nozarēs. No procesu automatizācijas un prognozēšanas analītikas līdz viedai robotikai un viedām sistēmām mēs piedāvājam inovatīvas tehnoloģijas, kas uzlabo efektivitāti, veicina izaugsmi un atbalsta digitālo transformāciju.",
+      "section2Heading": "Kur inteliģence satiekas ar darbību",
+      "section2Text": "Katru mijiedarbību, lēmumu un kustību nodrošina viena savienota sistēma — pārvēršot datus rezultātos reāllaikā.",
+      "footerTag": "Inovatīva tehnoloģija digitālai transformācijai"
+    },
+    "informationReporting": {
+      "brand": "Uzņēmuma datu platforma",
+      "heroTitle": "Informācijas un ziņošanas sistēmas",
+      "heroSubtitle": "Vienots patiesības avots katram departamentam — izveidots, lai neapstrādātus operatīvos datus pārvērstu lēmumos, pēc kuriem jūsu uzņēmums var rīkoties jau šodien.",
+      "statusLive": "LIVE",
+      "statusAnalyzed": "ANALIZĒTS",
+      "statusArchived": "ARHIVĒTS",
+      "statusPending": "GAIDA",
+      "metricUptime": "Sistēmas darbības laiks",
+      "metricSessions": "Aktīvās sesijas",
+      "metricReportsPerDay": "Ziņojumi / Diena",
+      "metricEvents": "Ikdienas uzņemtie notikumi",
+      "metricReports": "Plānotie ziņojumi",
+      "metricLatency": "API latentums",
+      "unifiedPlatform": "Vienotā platforma",
+      "analyticsSuite": "Analytics komplekts",
+      "reportingConsole": "Pārskatu konsole",
+      "businessOutcome": "Biznesa rezultāts",
+      "section1Heading": "Viena centralizēta sistēma katram svarīgajam rādītājam",
+      "section1P1": "Informācijas un atskaišu sistēmas ir būtiski biznesa risinājumi, kas ļauj organizācijām vākt, pārvaldīt un pārveidot datus jēgpilnos ieskatos. Šīs sistēmas integrē informāciju no vairākiem departamentiem, nodrošinot precīzu, konsekventu un reāllaika piekļuvi kritiskiem biznesa datiem. Nodrošinot centralizētu platformu informācijas pārvaldībai, organizācijas var uzlabot darbības redzamību, racionalizēt darbplūsmas un atbalstīt stratēģisku lēmumu pieņemšanu visos uzņēmuma līmeņos.",
+      "section1P2": "Šīs sistēmas izmanto automatizētus pārskatus, analīzi un informācijas paneļus, lai izsekotu veiktspēju, pārraudzītu galvenos rādītājus un ģenerētu reāllaika pārskatus. Samazinot manuālo piepūli un uzlabojot datu precizitāti, uzņēmumi var pieņemt ātrākus un efektīvākus lēmumus.",
+      "section2Heading": "Izstrādāts, lai nodrošinātu redzamību, atbilstību un mērogu",
+      "section2Text": "Ar uzlabotu redzamību, atbilstību un sadarbību informācijas un atskaišu sistēmas ļauj organizācijām optimizēt procesus, uzlabot produktivitāti un veicināt ilgtspējīgu uzņēmējdarbības izaugsmi konkurences apstākļos.",
+      "ctaHeading": "Sniedziet katrai komandai tādu pašu uzņēmuma reāllaika priekšstatu.",
+      "ctaText": "Uzziniet, kā Nexus Data Systems var apvienot jūsu pārskatus vienā viedā platformā.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Visas tiesības paturētas.",
+      "navOverview": "Pārskats",
+      "navCapabilities": "Iespējas",
+      "navImpact": "Ietekme",
+      "navContact": "Sazināties"
+    },
+    "managedServices": {
+      "subtitle": "Visaptveroši pārvaldīti pakalpojumi jūsu uzņēmumam"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Biznesa lietojumprogrammu modernizācija uz datiem balstītam uzņēmumam",
+      "excerpt": "Kā moderna lietojumprogrammu arhitektūra un saistītie dati var uzlabot darbības efektivitāti, mērogojamību un biznesa redzamību.",
+      "tag": "Biznesa transformācija",
+      "category": "BIZNESA TRANSFORMĀCIJA",
+      "summary": "Mūsdienīgs lietojumprogrammu un datu pamats var palīdzēt uzņēmumiem uzlabot darbības efektivitāti, savienot biznesa sistēmas un radīt labāku darbības pārskatāmību."
+    },
+    "artificial-intelligence": {
+      "title": "Kā AI pārveido uzņēmuma lietojumprogrammas",
+      "excerpt": "Izpētiet, kā viedā automatizācija, mākslīgā intelekta piloti un paredzamā inteliģence kļūst par daļu no uzņēmuma lietojumprogrammām, uz kurām uzņēmumi paļaujas katru dienu.",
+      "tag": "Mākslīgais intelekts",
+      "category": "MĀKSLĪGAIS INTELEKTS",
+      "summary": "Izpētiet, kā viedā automatizācija, mākslīgā intelekta koppiloti un paredzamā inteliģence pārvērš ikdienas uzņēmuma programmatūru adaptīvās, proaktīvās platformās."
+    },
+    "modern-erp": {
+      "title": "Biznesa transformācijas paātrināšana ar modernu ERP",
+      "excerpt": "Izpētiet, kā modernās ERP platformas savieno finanses, iepirkumus, piegādes ķēdi un biznesa operācijas, izmantojot vienotu digitālo pamatu.",
+      "tag": "Mūsdienu ERP",
+      "category": "MODERNA ERP",
+      "summary": "Mūsdienīga ERP platforma apvieno finanses, iepirkumus, piegādes ķēdi un biznesa operācijas vienotā, reāllaika darbības modelī."
+    },
+    "cybersecurity": {
+      "title": "Kibernoturības veidošana savienotā uzņēmumā",
+      "excerpt": "Izpētiet, kā organizācijas var stiprināt drošību, aizsargāt kritiskās sistēmas un sagatavoties apdraudējumiem arvien vairāk saistītā vidē.",
+      "tag": "Kiberdrošība",
+      "category": "KIBERDROŠĪBA",
+      "summary": "Tā kā uzņēmumi integrē arvien vairāk mākoņsistēmu, API un partneru ekosistēmu, kibernoturība nodrošina, ka misijai kritiskās darbības iztur mūsdienu draudus."
+    },
+    "cloud-modernization": {
+      "title": "Mākoņa mantoto lietojumprogrammu modernizācija",
+      "excerpt": "Izpētiet praktisku pieeju mantoto lietojumprogrammu novērtēšanai, modernizācijai un pārvietošanai uz mērogojamu, drošu mākoņa arhitektūru.",
+      "tag": "Mākonis un modernizācija",
+      "category": "MĀKOŅI UN MODERNIZĀCIJA",
+      "summary": "Strukturēts, pragmatisks ceļvedis, lai novērtētu, pārveidotu un migrētu monolītas uzņēmuma sistēmas uz elastīgām, apkopējamām mākoņa arhitektūrām."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "BIZNESA TRANSFORMĀCIJA",
+      "title": "Biznesa lietojumprogrammu modernizācija uz datiem balstītam uzņēmumam",
+      "subtitle": "Mūsdienīgs lietojumprogrammu un datu pamats var palīdzēt uzņēmumiem uzlabot darbības efektivitāti, savienot biznesa sistēmas un radīt labāku darbības pārskatāmību.",
+      "date": "2026. gada septembris",
+      "readTime": "7 min lasīt",
+      "imageCaption": "Uzņēmuma tehnoloģiju perspektīva — lietojumprogrammu arhitektūra un saistītie dati",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Biznesa lietojumprogrammas",
+          "desc": "Dažādi mantotie CRM, ERP un departamentu rīki, kas darbojas tvertnēs."
+        },
+        {
+          "title": "Vairāki datu avoti",
+          "desc": "Fragmentētas darbības tabulas, CSV ekstrakti un ad-hoc shēmas."
+        },
+        {
+          "title": "Atvienotas datu bāzes",
+          "desc": "Izolētas lokālas un nekoordinētas mākoņdatu krātuves."
+        },
+        {
+          "title": "Pārskati un biznesa lietotāji",
+          "desc": "Manuāla saskaņošana, konfliktējošas izklājlapas un aizkavēta ziņošana."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Biznesa lietojumprogrammas",
+          "desc": "Galvenās darbības platformas un mūsdienīgas atsaucīgas saskarnes."
+        },
+        {
+          "title": "API / integrācijas slānis",
+          "desc": "Droša, uz notikumiem balstīta API vārteja, kas savieno uzņēmuma darbplūsmas."
+        },
+        {
+          "title": "Datu pakalpojumi",
+          "desc": "Vienoti pamatdatu modeļi, cauruļvadi un optimizēti uzglabāšanas dzinēji."
+        },
+        {
+          "title": "Analīze un pārskati",
+          "desc": "Reāllaika telemetrija, semantiskie modeļi un automatizēta atskaite."
+        },
+        {
+          "title": "Biznesa lēmumu pieņēmēji",
+          "desc": "Tiešraides darbības informācijas paneļi, kas nodrošina vienotu vadītāju redzamību."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Uzņēmuma lietojumprogrammas",
+          "purpose": "Biznesa procesu vadība"
+        },
+        {
+          "area": "API",
+          "purpose": "Sistēmas integrācija"
+        },
+        {
+          "area": "Datu bāzes",
+          "purpose": "Strukturēti biznesa dati"
+        },
+        {
+          "area": "Datu integrācija",
+          "purpose": "Vairāku avotu pievienošana"
+        },
+        {
+          "area": "Analytics",
+          "purpose": "Biznesa ieskati"
+        },
+        {
+          "area": "Mākoņu infrastruktūra",
+          "purpose": "Mērogojamība un elastība"
+        },
+        {
+          "area": "Uzraudzība",
+          "purpose": "Uzticamība un veiktspēja"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Uzlabota darbības redzamība starp funkcionālajām vienībām",
+        "Labāka datu konsekvence un viens uzņēmuma patiesības avots",
+        "Samazinātas manuālās atskaites un automatizēta datu apkopošana",
+        "Uzlabota lietojumprogrammu veiktspēja un samazināts darījumu latentums",
+        "Vienkāršāka sistēmas integrācija, izmantojot standartizētas, drošas API",
+        "Lielāka mērogojamība, lai atbalstītu organisko izaugsmi un iegādi",
+        "Labāks pamats turpmākai inovācijai un izlūkdatu ieviešanai"
+      ],
+      "keyPerspectivePoints": [
+        "Izpratne par biznesa procesiem un reālām darbības darbplūsmām",
+        "Sistēmu savienošana, izmantojot uzticamus integrācijas standartus",
+        "Datu kvalitātes, pārvaldības un pamatdatu modeļu uzlabošana",
+        "Lietojumprogrammu modernizācija, nedestabilizējot ikdienas darbību",
+        "Mērogojamas arhitektūras izveide, kas piemērota elastīgai izaugsmei",
+        "Labākas uzņēmējdarbības redzamības nodrošināšana proaktīvai lēmumu pieņemšanai"
+      ],
+      "sec1Eyebrow": "BIZNESA IZAICINĀJUMS",
+      "sec1Heading": "Sarežģītība augošā uzņēmumā",
+      "sec1Subtext": "Uzņēmumiem paplašinās, tehnoloģiju ekosistēmas neizbēgami paplašinās. Tas, kas sākas kā mērķtiecīgi risinājumi atsevišķām nodaļām, var izvērsties par samezglotu atšķirīgu sistēmu tīklu.",
+      "sec2Eyebrow": "SISTĒMAS EVOLŪCIJA",
+      "sec2Heading": "Sarežģīta tehnoloģiju ainava",
+      "sec2Subtext": "Kad biznesa lietojumprogrammas, datu bāzes un operētājsistēmas attīstās neatkarīgi, informācijas plūsmas kļūst sadrumstalotas. Šīs sadrumstalotības izpratne ir pirmais kritiskais solis.",
+      "sec3Eyebrow": "PIEVIENOTAIS MODELIS",
+      "sec3Heading": "Mūsdienu lietojumprogrammu arhitektūra",
+      "sec3Subtext": "Uzņēmumi virzās uz notikumiem balstītu, API vispirms arhitektūru, kurā dati uzticami plūst pa galvenajām platformām un reāllaikā sasniedz lēmumu pieņēmējus.",
+      "sec4Eyebrow": "INTELEKTS UN REDZAMĪBA",
+      "sec4Heading": "Savienotie dati un analīze",
+      "sec4Subtext": "Kad biznesa lietojumprogrammas sazinās nevainojami, dati pārstāj būt atskaites blakusprodukts un kļūst par galveno darbības veiklības virzītājspēku.",
+      "sec5Eyebrow": "ARHITEKTŪRAS PLĀNS",
+      "sec5Heading": "Tehnoloģiju fonds",
+      "sec5Subtext": "Visaptverošs pārskats par galvenajām tehnoloģiju jomām, kas veido modernu, mērogojamu uzņēmuma pamatu.",
+      "sec6Eyebrow": "KVALITATĪVĀ VĒRTĪBA",
+      "sec6Heading": "Uzņēmējdarbības ietekme",
+      "sec6Subtext": "Lietojumprogrammu arhitektūras modernizācija un sadrumstalotu datu savienošana nodrošina taustāmus darbības uzlabojumus visā organizācijā.",
+      "ctaHeading": "Vai esat gatavs modernizēt savu tehnoloģiju vidi?",
+      "ctaDescription": "Izpētiet, kā moderna lietojumprogrammu arhitektūra, savienotie dati un mērogojamā tehnoloģija var palīdzēt organizācijām uzlabot efektivitāti un sagatavoties nākotnes izaugsmei.",
+      "ctaButton": "Sazinieties ar mūsu ekspertiem",
+      "sec1P1": "Tipiskā uzņēmuma vidē izaugsme bieži vien ievieš vairākas programmatūras paaudzes. Finanses, piegādes ķēde, klientu apkalpošana un lauka operācijas bieži darbojas, izmantojot atsevišķus programmatūras skursteņus, kas iegādāti vai izveidoti dažādos laikos. Vairāku gadu darbības evolūcijas laikā šīs sistēmas izstrādā savus datu formātus, atjaunina kadences un integrācijas dīvainības.",
+      "sec1P2": "Berze izpaužas visā uzņēmumā, izmantojot kopīgas darbības vājās vietas:",
+      "sec1List": [
+        {
+          "bold": "Vairākas atvienotas biznesa lietojumprogrammas",
+          "text": ", kam nepieciešama dublēta datu ievade un manuāla savstarpēja atsauce."
+        },
+        {
+          "bold": "Atvienotas datu bāzes",
+          "text": "darbojas bez centralizētas pārvaldības vai vienotiem pamatreģistriem."
+        },
+        {
+          "bold": "Manuālās atskaites pieskaitāmās izmaksas",
+          "text": ", kur analītiskās komandas pavada dienas, saliekot kopā eksportu, nevis atklājot ieskatus."
+        },
+        {
+          "bold": "Datu neatbilstības",
+          "text": "dažādās nodaļās, radot pretrunīgas atbildes uz būtiskiem darbības jautājumiem."
+        },
+        {
+          "bold": "Lietojumprogrammu uzturēšanas pieskaitāmās izmaksas un mērogojamības ierobežojumi",
+          "text": ", jo trauslajiem mantotajiem tiešajiem savienojumiem ir grūti atbalstīt pieaugošos darījumu apjomus."
+        }
+      ],
+      "sec1P3": "Lai risinātu šīs problēmas, tehnoloģiju ainava ir jāuztver nevis kā atsevišķu programmatūras pirkumu kopums, bet gan kā savstarpēji saistīta biznesa platforma, kas izstrādāta, lai atbalstītu stratēģisko veiklību.",
+      "legacyLandscapeBadge": "Mantotā bāzes līnija",
+      "legacyLandscapeTitle": "Sadrumstalota informācijas plūsma",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Datu tvertnes",
+          "desc": "Būtiski klientu, finanšu un krājumu dati paliek ieslodzīti departamentu platformās, novēršot vienotu vienotu skatījumu uz biznesa operācijām."
+        },
+        {
+          "num": "02",
+          "title": "Integrācijas nepilnības",
+          "desc": "Punkts-punkts savienojumi un nakts pakešu ekstrakti rada latentumu, augstu atteices līmeni un dārgas uzturēšanas izmaksas visās darba grupās."
+        },
+        {
+          "num": "03",
+          "title": "Aizkavēta informācija",
+          "desc": "Kad vadītājiem jāgaida dienas, līdz mēneša beigu saskaņošana, lai saprastu sniegumu, lēmumu pieņemšana ir reaktīva, nevis paredzama."
+        }
+      ],
+      "modernArchitectureBadge": "Mērķa arhitektūra",
+      "modernArchitectureTitle": "Savienota uzņēmuma lietojumprogrammas modelis",
+      "sec3P1": "Mūsdienīga lietojumprogrammu arhitektūra trauslus punktu savienojumus aizstāj ar veiklu, atsaistītu pamatu. Izveidojot stabilu API un integrācijas slāni, sistēmas mijiedarbojas, izmantojot pārvaldītus, drošus galapunktus, vienlaikus saglabājot atsevišķu biznesa vienību autonomiju.",
+      "sec3P2": "Šīs arhitektūras maiņas galvenās tehniskās iespējas ietver:",
+      "sec3List": [
+        {
+          "bold": "Lietojumprogrammu modernizācija:",
+          "text": "Pamatdarbības loģikas atdalīšana mērogojamos modulāros pakalpojumos."
+        },
+        {
+          "bold": "API integrācija:",
+          "text": "Standartizētu, dokumentētu saskarņu izveide iekšējai un partneru savietojamībai."
+        },
+        {
+          "bold": "Datu integrācija un datu bāzes optimizācija:",
+          "text": "Operatīvo datu cauruļvadu apvienošana ar augstas caurlaides spējas vaicājumu optimizāciju."
+        },
+        {
+          "bold": "Novērojamība un drošība:",
+          "text": "Centralizētas telemetrijas, audita pēdas un uz lomu balstītas piekļuves kontroles ieviešana visos pakalpojumos."
+        }
+      ],
+      "sec4P1": "Integrēti datu pamati pārveido to, kā vadības un operatīvās komandas mijiedarbojas ar informāciju. Tā vietā, lai paļautos uz retrospektīviem ziņojumiem, kas parāda to, kas notika pirms nedēļām, organizācijas iegūst reāllaika darbības telemetriju visās uzņēmējdarbības vienībās.",
+      "sec4P2": "Savienotie dati un analītika atbalsta ilgtspējīgus uzņēmējdarbības rezultātus, izmantojot:",
+      "sec4List": [
+        {
+          "bold": "Darbības redzamība:",
+          "text": "Nepārtraukta pārskatāmība attiecībā uz pārdošanu, krājumiem, izpildi un finanšu rezultātiem."
+        },
+        {
+          "bold": "Ātrākas atskaites kadences:",
+          "text": "Datu apkopošana pēc pieprasījuma, kas novērš atkārtotas manuālas izklājlapas."
+        },
+        {
+          "bold": "Konsekventa informācija:",
+          "text": "Atsevišķas definīcijas tādiem rādītājiem kā peļņa, klienta kalpošanas laika vērtība un potenciālā pirkuma ātrums."
+        },
+        {
+          "bold": "Labāks biznesa ieskats:",
+          "text": "Prognozējoša modeļu noteikšana, kas pirms laika atklāj riskus un iespējas."
+        },
+        {
+          "bold": "Uzlabota lēmumu pieņemšana:",
+          "text": "Pārliecināta izpildes darbība, ko atbalsta apstiprināta datu līnija un caurspīdīgums."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATĒĢISKĀ PERSPEKTĪVA",
+      "keyPerspectiveTitle": "Modernizācija ir vairāk nekā programmatūras nomaiņa",
+      "keyPerspectiveLead": "Biznesa lietojumprogrammu modernizācija nav vienkārši vecās programmatūras aizstāšana ar jauniem rīkiem. Tā ir apzināta tehnoloģiju saskaņošana ar to, kā uzņēmums darbojas, mērogojas un nodrošina vērtību."
+    },
+    "artificialIntelligence": {
+      "category": "MĀKSLĪGAIS INTELEKTS",
+      "title": "Kā mākslīgais intelekts pārveido uzņēmuma lietojumprogrammas",
+      "subtitle": "Izpētiet, kā viedā automatizācija, mākslīgā intelekta koppiloti un paredzamā inteliģence kļūst par daļu no uzņēmuma lietojumprogrammām, uz kurām uzņēmumi paļaujas katru dienu.",
+      "date": "2026. gada septembris",
+      "readTime": "6 min lasīt",
+      "imageCaption": "Uzņēmuma tehnoloģiju perspektīva — mākslīgais intelekts un uzņēmumu sistēmas",
+      "aiUseCases": [
+        {
+          "title": "Piegādes ķēdes prognozēšana",
+          "desc": "Pieprasījuma pieauguma un loģistikas kavēšanās prognozēšana, izmantojot vēsturisko piegādātāju telemetriju."
+        },
+        {
+          "title": "Automatizēta rēķinu auditēšana",
+          "desc": "Rindas elementu izvilkšana un saskaņošana ar pirkšanas pasūtījumiem bez cilvēka ievades."
+        },
+        {
+          "title": "Inteliģentie apkalpošanas dienesti",
+          "desc": "1. līmeņa darbinieku IT un personāla pieprasījumu šķirošana un automatizēta atrisināšana."
+        },
+        {
+          "title": "Klientu atteikšanās novēršana",
+          "desc": "Uzvedības klasterizācija, kas identificē agrīnus berzes signālus proaktīvai informēšanai."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Ātrāki operatīvie lēmumi, ko nosaka reāllaika prognozēšanas modeļi",
+        "Atkārtotas datu apstrādes un manuālās saskaņošanas samazināšana",
+        "Lielāka darbinieku caurlaidspēja ar kontekstuālo kopilota palīdzību",
+        "Uzlabota klientu apmierinātība, izmantojot īpaši personalizētu pieredzi",
+        "Nepārtraukta procesa pašoptimizācija, kuras pamatā ir reāla telemetrija",
+        "Neriska atbilstības izsekošana, izmantojot automatizētu audita žurnāla pārbaudi"
+      ],
+      "governancePoints": [
+        "Stingra, uz lomu balstīta piekļuve, kas nodrošina, ka AI modeļi nekad nenoplūst sensitīviem datiem",
+        "Caurspīdīgas argumentācijas pēdas, kas ļauj cilvēkam pārskatīt vērtīgas darbības",
+        "Nepārtraukta modeļa novērtēšana, lai pasargātu no halucinācijām un aizspriedumiem",
+        "Stingri datu izcelsmes standarti, kas atbilst GDPR, SOC 2 un HIPAA",
+        "Cilvēka cilpā eskalācijas ceļi nenoteiktiem malas apstākļiem"
+      ],
+      "sec1Eyebrow": "PĀREJA UZ VIETĒJO INTELEKTU",
+      "sec1Heading": "AI uzņēmumu lietojumprogrammās",
+      "sec1Subtext": "Mākslīgais intelekts pāriet no eksperimentāliem blakusprojektiem uz galvenajām darbības lietojumprogrammām, uz kurām uzņēmumi paļaujas katru dienu.",
+      "sec2Eyebrow": "AUTOMATIZĀCIJA APJOMS",
+      "sec2Heading": "Inteliģenta automatizācija",
+      "sec2Subtext": "Pāriet no tradicionālajiem uz noteikumiem balstītiem skriptiem uz kognitīvām darbplūsmām, kas izprot nestrukturētu saturu, pielāgojas variācijām un dinamiski optimizē procesus.",
+      "sec3Eyebrow": "IEGULTĀ PALĪDZĪBA",
+      "sec3Heading": "Uzņēmuma AI Copilots",
+      "sec3Subtext": "Pamatojoties uz organizatoriskajām zināšanām un uzņēmuma drošību, AI palīgi darbojas kā specializēti partneri ikdienas biznesa darbplūsmās.",
+      "sec4Eyebrow": "TURPMĀKĀ PAMATOJUMS",
+      "sec4Heading": "Paredzamā izlūkošana",
+      "sec4Subtext": "Uzņēmuma vēsturisko žurnālu un reāllaika operatīvo plūsmu pārveidošana par praktiski izmantojamu tālredzību.",
+      "sec5Eyebrow": "REĀLĀS PASAULES LIETOJUMI",
+      "sec5Heading": "Uzņēmuma AI lietošanas gadījumi",
+      "sec5Subtext": "Praktiski veidi, kā vadošās organizācijas izmanto mākslīgo intelektu galvenajās uzņēmējdarbības funkcijās.",
+      "sec6Eyebrow": "STRATĒĢISKĀ VĒRTĪBA",
+      "sec6Heading": "Uzņēmējdarbības priekšrocības",
+      "sec6Subtext": "Pārdomāti īstenojot ar pārvaldītiem uzņēmuma datiem, AI sniedz būtiskas kvalitatīvas priekšrocības.",
+      "ctaHeading": "Izpētiet AI iespējas savam biznesam",
+      "ctaDescription": "Atklājiet, kā viedā automatizācija, uzņēmuma koppiloti un paredzamie modeļi var uzlabot darbības efektivitāti jūsu pamatsistēmās.",
+      "ctaButton": "Sazinieties ar mūsu ekspertiem",
+      "sec1P1": "Gadiem ilgi uzņēmuma mākslīgais intelekts tika uzskatīts par ārēju iespēju: modeli, kas apmācīts izolācijā, smilškastes demonstrāciju vai izolētu tērzēšanas robotu, kas pieejams caur atsevišķu portālu. Mūsdienās paradigma ir būtiski mainījusies. Lielas ietekmes uzņēmumu AI ir iegults tieši ierakstu sistēmās — ERP, CRM, cilvēkkapitāla platformās un piegādes ķēdes dzinējos, kur notiek reāla uzņēmējdarbība.",
+      "sec1P2": "Kad izlūkošana darbojas ierakstu sistēmā, tā pārmanto organizācijas noteiktās drošības robežas, datu modeļus un biznesa loģiku. Tas ne tikai rada vispārīgas atbildes; tas darbojas uz reāliem pasūtījumiem, interpretē atvērtās atbalsta biļetes, saskaņo piegādātāju rēķinus un palīdz darbiniekiem tieši tajās saskarnēs, kurās viņi pārvietojas katru dienu.",
+      "sec1P3": "Šī transformācija pārceļ uzņēmuma programmatūru no pasīvām datu bāzēm, kas gaida cilvēka taustiņu nospiešanu, uz proaktīvām platformām, kas paredz vajadzības, automatizē darbības un sniedz savlaicīgus ieteikumus.",
+      "sec2P1": "Tradicionālā robotu procesu automatizācija (RPA) ir izcila deterministiskā, atkārtotā ekrāna skrāpēšanā. Tomēr stingras kārtulu kopas tiek pārtrauktas ikreiz, kad mainās forma, tiek saņemts negaidīts dokumenta izkārtojums vai rodas izņēmums. Viedā automatizācija novērš šo plaisu, apvienojot kognitīvo spriešanu ar darījumu izpildi:",
+      "sec2List": [
+        {
+          "bold": "Darbplūsmas automatizācija:",
+          "text": "Sarežģītu starpnodaļu operāciju organizēšana, maršrutēšanas uzdevumi, pamatojoties uz steidzamību un vēsturiskiem atrisināšanas ceļiem."
+        },
+        {
+          "bold": "Inteliģenta dokumentu apstrāde:",
+          "text": "Nestrukturētu PDF failu, e-pasta ziņojumu, piegādes manifestu un līgumu pārņemšana, pārvēršot tos strukturētās datu bāzes transakcijās."
+        },
+        {
+          "bold": "Saprātīga uzdevumu automatizācija:",
+          "text": "Daudzpakāpju darbības validācijas automatizācija, piemēram, pirkšanas pasūtījumu saskaņošana ar kvītis un bankas izrakstiem."
+        },
+        {
+          "bold": "Procesa optimizācija:",
+          "text": "Pastāvīga procesa žurnālu analīze, lai identificētu cikla laika vājās vietas un ieteiktu mērķtiecīgus darbplūsmas uzlabojumus."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Informācijas meklēšana",
+          "desc": "Semantiskā izguve starp izplatītajām zināšanu bāzēm, iekštīkla politikām, produktu specifikācijām un vēsturiskajām biļešu izšķirtspējām bez atslēgvārdu minēšanas."
+        },
+        {
+          "icon": "📝",
+          "title": "Dokumentu apkopojums",
+          "desc": "Tūlītēja garu RFP, pārdevēju līgumu, tehnisko specifikāciju un juridisko grozījumu destilācija izpildāmos izpildrakstos un riska kontrolsarakstos."
+        },
+        {
+          "icon": "✨",
+          "title": "Satura ģenerēšana",
+          "desc": "Palīdzēts izstrādāt klientu priekšlikumus, operatīvo dokumentāciju, standarta darbības procedūras (SOP) un standartizētus klientu atjauninājumus, kas saskaņoti ar zīmola standartiem."
+        },
+        {
+          "icon": "📈",
+          "title": "Datu analīze",
+          "desc": "Sarunu vaicājumu pārvēršana sarežģītos analītiskos vaicājumos, lidojuma diagrammu kopsavilkumu ģenerēšana un kritisku līderības noviržu izcelšana."
+        },
+        {
+          "icon": "🔄",
+          "title": "Biznesa darbplūsmas",
+          "desc": "Darījumu sākšana tieši no tērzēšanas uzvednēm, piemēram, resursu plānošana, biļešu izveide, ierakstu atjaunināšana vai pirkuma pieprasījumu iesniegšana."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Piekļuve ar lomu",
+          "desc": "Nodrošinot otrā pilota atbildes, tiek stingri ievēroti lietotāju atļauju līmeņi, tiek aizsargāti konfidenciāli finanšu dati, HR faili un intelektuālais īpašums."
+        }
+      ],
+      "sec4P1": "Lai gan ģeneratīvie modeļi izceļas ar valodas izpratni un sintezēšanu, paredzamā inteliģence koncentrējas uz matemātiskajiem modeļiem, kas paslēpti strukturētās uzņēmuma datu kopās. Iegultie prognozēšanas modeļi ļauj organizācijām paredzēt darbības šķēršļus, pirms tie pārtrauc darbību:",
+      "sec4List": [
+        {
+          "bold": "Operatīvā prognozēšana:",
+          "text": "Ieņēmumu tendenču, krājumu ātruma un resursu pieprasījuma prognozēšana, sintezējot sezonālos rādītājus ar reāllaika konveijera ātrumu."
+        },
+        {
+          "bold": "Paredzamā analīze:",
+          "text": "Precīza klientu atcelšanas risku, apkopes pasliktināšanās ciklu un piegādes ķēdes aizkavēšanās noteikšana, kamēr vēl ir laiks iejaukties."
+        },
+        {
+          "bold": "Riska identifikācija:",
+          "text": "Anomāliju atzīmēšana finanšu darījumos, atbilstības žurnālos un piegādātāju iepirkumu modeļos, pirms tās kļūst eskalētas."
+        },
+        {
+          "bold": "Pieprasījuma prognoze:",
+          "text": "Pārdošanas prognožu saskaņošana ar ražošanas jaudu un noliktavas krājumu līmeni, lai aizsargātu apgrozāmos līdzekļus."
+        }
+      ],
+      "keyPerspectiveEyebrow": "UZŅĒMUMA PĀRVALDĪBA",
+      "keyPerspectiveTitle": "Uzticēšanās, uzraudzība un aizsargsliedes",
+      "keyPerspectiveLead": "AI ir tik uzticams, cik uzticams ir zem tā esošais datu pamats un ar to saistītā pārvaldība. Ilgtspējīga uzņēmuma ieviešanai ir nepieciešama apzināta arhitektūras disciplīna:"
+    },
+    "modernErp": {
+      "category": "MODERNA ERP",
+      "title": "Uzņēmējdarbības transformācijas paātrināšana ar modernu ERP",
+      "subtitle": "Izpētiet, kā mūsdienīgas ERP platformas savieno finanses, iepirkumus, piegādes ķēdi un biznesa operācijas, izmantojot vienotu digitālo pamatu.",
+      "date": "2026. gada augusts",
+      "readTime": "6 min lasīt",
+      "imageCaption": "Uzņēmuma tehnoloģiju perspektīva — ERP un saistītās biznesa darbības",
+      "connectedFunctions": [
+        {
+          "title": "Finanšu vadība",
+          "desc": "Reāllaika virsgrāmatas atjauninājumi, automatizēta ieņēmumu atzīšana un tūlītēja vairāku valūtu saskaņošana."
+        },
+        {
+          "title": "Piegādes ķēde un loģistika",
+          "desc": "Pilnīga krājumu redzamība, noliktavas optimizācija un piegādātāja veiktspējas telemetrija."
+        },
+        {
+          "title": "Cilvēkkapitāls un darbaspēks",
+          "desc": "Darbinieku pašapkalpošanās portāli, automatizētas algas un integrēta talantu dzīves cikla plānošana."
+        },
+        {
+          "title": "Iepirkums un piegāde",
+          "desc": "Automatizēta pirkumu apstiprināšana, piegādātāja līgumu atbilstība un dinamiska tēriņu analīze."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Cloud-native arhitektūra",
+          "desc": "Elastīga aprēķinu mērogošana bez lokālas infrastruktūras slodzes vai traucējošas versijas bloķēšanas."
+        },
+        {
+          "title": "Atvērta API ekosistēma",
+          "desc": "Iepriekš iebūvēti savienotāji, kas nodrošina netraucētu divvirzienu datu sinhronizāciju ar pielāgotiem mikropakalpojumiem un CRM komplektiem."
+        },
+        {
+          "title": "Iegultā analīze",
+          "desc": "Tieša informācijas paneļa lejupielāde no augsta līmeņa bilancēm atsevišķos darījumu žurnālos."
+        },
+        {
+          "title": "Automatizēti darbplūsmas aktivizētāji",
+          "desc": "Notikumu vadīti notikumi aktivizē standarta starpnodaļu darbību autonomu izpildi."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Viens patiesības avots, kas novērš pretrunīgus departamentu ziņojumus",
+        "Krass mēneša beigu un ceturkšņa beigu slēgšanas ciklu samazinājums",
+        "Reāllaika inventāra un loģistikas redzamība, samazinot krājumus",
+        "Samazinātas IT uzturēšanas izmaksas, izmantojot modulārus mākoņa native atjauninājumus",
+        "Vienota atbilstības izsekošana vairāku reģionu nodokļu jurisdikcijās",
+        "Iegādāto entītiju ātrāka iekļaušana kopīgos darbības mugurkaulos"
+      ],
+      "erpStrategyPoints": [
+        "ERP arhitektūras saskaņošana ar galvenajām darbības darbplūsmām pirms konfigurēšanas",
+        "Moduļu izvietošanas modeļu izvēle, lai sasniegtu ātrus pagrieziena punktus",
+        "Prioritātes noteikšana augstas kvalitātes pamatdatu migrācijai un saskaņošanai",
+        "Automatizētas izmaiņu pārvaldības un lomai pielāgotu apmācību programmu iegulšana",
+        "API vārtejas projektēšana bezrūpīgai integrācijas paplašināšanai nākotnē"
+      ],
+      "sec1Eyebrow": "DARBĪBAS mugurkauls",
+      "sec1Heading": "Kāpēc mūsdienu ERP ir svarīga",
+      "sec1Subtext": "ERP vairs nav tikai back-office grāmatvedība. Tas ir modernā uzņēmuma darbības modelis, kas izteikts programmatūrā.",
+      "sec2Eyebrow": "INTEGRĒTA EKOSISTĒMA",
+      "sec2Heading": "Saistītās biznesa funkcijas",
+      "sec2Subtext": "Reāla organizatoriskā vērtība parādās, kad galvenās uzņēmējdarbības funkcijas veic darījumus, izmantojot kopīgu digitālo pamatu.",
+      "sec3Eyebrow": "KRUSTFUNKCIONĀLĀ HARMONIJA",
+      "sec3Heading": "Vienota operāciju un informācijas plūsma",
+      "sec3Subtext": "Saziņas sienu nojaukšana starp departamentiem, lai nodrošinātu plūstošas, sinhronizētas uzņēmuma darbplūsmas.",
+      "sec4Eyebrow": "UZŅĒMUMU TELEMETRIJA",
+      "sec4Heading": "Biznesa redzamība reāllaikā",
+      "sec4Subtext": "Darbības rādītāju apvienošana caurspīdīgos vadības paneļos, kas atspoguļo pašreizējo uzņēmējdarbības realitāti.",
+      "sec5Eyebrow": "PAMATPLATFORMAS ARHITEKTŪRA",
+      "sec5Heading": "Mūsdienu ERP iespējas",
+      "sec5Subtext": "Arhitektūras atribūti, kas atdala mūsdienu ERP platformas no stingrām mantotajām instalācijām.",
+      "sec6Eyebrow": "KVALITATĪVĀ IETEKME",
+      "sec6Heading": "Uzņēmējdarbības priekšrocības",
+      "sec6Subtext": "Pamatdarbības apvienošana vienotā digitālā pamatā nodrošina izmērāmu organizācijas noturību.",
+      "ctaHeading": "Modernizējiet uzņēmuma darbību",
+      "ctaDescription": "Izpētiet, kā mūsdienīgas ERP platformas savieno finanses, iepirkumus, piegādes ķēdi un biznesa operācijas, izmantojot vienotu digitālo pamatu.",
+      "ctaButton": "Sazinieties ar mūsu ekspertiem",
+      "sec1P1": "Strauji mainīgās uzņēmuma ainavās tradicionālās uzņēmuma resursu plānošanas sistēmas bieži vien saskaras ar grūtībām. Mantotie ERP, kas tika izveidoti pakešapstrādes un izolētu vietējo serveru laikmetā, bija ļoti pielāgoti, grūti jaunināmi un sāpīgi necaurredzami. Būtiskākās biznesa operācijas darbojās paralēlās tvertnēs, paļaujoties uz trauslu vienas nakts eksportu, lai sinhronizētu virsgrāmatas ar noliktavām.",
+      "sec1P2": "Mūsdienīga, mākoņdatošanas ERP būtiski no jauna definē šo dinamiku. Tas darbojas kā vienots uzņēmuma digitālais mugurkauls — dzīvs pamats, kurā finanses, iepirkumi, piegādes ķēde, krājumi un cilvēkresursi veic darījumus, izmantojot kopīgu datu modeli.",
+      "sec1P3": "Apvienojot pamatdarbības vienotā saskaņotā vidē, modernā ERP novērš darbības aklās zonas, kas palēnina izaugsmi, ļaujot vadītājiem vadīt biznesu, izmantojot reāllaika signālus, nevis novecojušus vēstures kopsavilkumus.",
+      "sec3P1": "Ekspluatācijas tvertnes reti ir cilvēku problēmas; tās ir arhitektūras problēmas. Kad klientu apkalpošanas, iepirkumu un noliktavas komandas strādā atvienotās lietojumprogrammās, katrai nodošanai ir nepieciešami manuāli e-pasta ziņojumi, izklājlapas un tālruņa zvani. Kļūdas vairojas, rēķini tiek aizturēti, un klientu saistības tiek paslīdētas.",
+      "sec3P2": "Mūsdienu ERP to risina, izmantojot vienotu datu līniju un uz notikumiem balstītu procesu organizēšanu:",
+      "sec3List": [
+        {
+          "bold": "Sinhronizēts pasūtījums skaidrā naudā:",
+          "text": "Kad tiek veikts klienta pasūtījums, krājumi tiek rezervēti automātiski, tiek ģenerētas piegādes etiķetes un uzreiz tiek atjauninātas norēķinu virsgrāmatas."
+        },
+        {
+          "bold": "Iepirkuma līdz samaksas pārredzamība:",
+          "text": "Pirkuma pasūtījumi, preču kvītis un pārdevēja rēķini tiek automātiski saskaņoti ar trīsvirzienu saskaņošanu, atzīmējot tikai izņēmumus, ko var pārskatīt cilvēks."
+        },
+        {
+          "bold": "Vienotā darbaspēka un ekspluatācijas izmaksu aprēķināšana:",
+          "text": "Projektu laika uzskaites tabulas, algu sadalījums un tiešie darbības izdevumi tiek kartēti tieši uz izmaksu centriem reāllaikā."
+        }
+      ],
+      "sec4P1": "Uzņēmuma darbība bez vienotas redzamības ir kā lidošana blīvā miglā ar aizkavētiem instrumentiem. Mūsdienu ERP nodrošina reāllaika telemetriju visās uzņēmējdarbības dimensijās:",
+      "sec4List": [
+        {
+          "bold": "Tiešraides vadības paneļi:",
+          "text": "Tūlītēji skati par bruto peļņu, darbības naudas plūsmām, atklātajām saistībām un pasūtījumu uzkrājumiem, negaidot perioda beigu slēgšanu."
+        },
+        {
+          "bold": "Pašapkalpošanās operatīvās atskaites:",
+          "text": "Nodaļu vadītāji var izveidot pielāgotus vaicājumus un padziļināti no uzņēmuma līmeņa kopsavilkumiem līdz atsevišķām darījumu rindas vienībām."
+        },
+        {
+          "bold": "Centralizēta galvenā informācija:",
+          "text": "Pretrunīgu skaitļu novēršana, izveidojot vienotus pārvaldītus pamatdatus klientiem, pārdevējiem un produktu katalogiem."
+        },
+        {
+          "bold": "Proaktīvi brīdinājumi par anomālijām:",
+          "text": "Automātiskie brīdinājumi nekavējoties informē vadītājus, ja peļņa nokrītas zem sliekšņa, krājumi ir izsīkuši vai piegādātāju piegādes slīd."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ERP TRANSFORMĀCIJAS FILOZOFIJA",
+      "keyPerspectiveTitle": "Pragmatiska modernizācija pār monolītu kapitālremontu",
+      "keyPerspectiveLead": "Mūsdienīga ERP transformācija ir veiksmīga, ja organizācijas to uztver kā evolucionāru darbības jauninājumu, nevis IT traucējumus, kas attiecas uz visu vai neko:"
+    },
+    "cybersecurity": {
+      "category": "KIBERDROŠĪBA",
+      "title": "Kibernoturības veidošana savienotā uzņēmumā",
+      "subtitle": "Izpētiet, kā organizācijas var stiprināt drošību, aizsargāt kritiskās sistēmas un sagatavoties apdraudējumiem arvien vairāk saistītā vidē.",
+      "date": "2026. gada septembris",
+      "readTime": "8 min lasīt",
+      "imageCaption": "Uzņēmuma tehnoloģiju perspektīva — draudu aizsardzība un nulles uzticības arhitektūra",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrija un noteikšana",
+          "desc": "Reāllaika žurnālu uzņemšana un SIEM anomāliju korelācija visos mākoņa galapunktos un darba slodzēs."
+        },
+        {
+          "title": "Ierobežošana un izolācija",
+          "desc": "Automatizēti tīkla karantīnas noteikumi, kas nekavējoties izolē apdraudētos konteinerus vai akreditācijas datus."
+        },
+        {
+          "title": "Atveseļošana un pamatcēloņi",
+          "desc": "Ātra ielāpu ieviešana un digitālā kriminālistika, kas identificē precīzu pārkāpuma vektoru."
+        },
+        {
+          "title": "Izturība un sacietēšana",
+          "desc": "Nepārtraukta atgriezeniskā saite par nemainīgām dublējumkopijām, politikas aizsargmargām un automatizētām sarkanās komandas simulācijām."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Ievērojami samazināts ievainojamības uzbrukumu virsmas mākoņa līdzekļos",
+        "Garantēta darbības nepārtrauktība un avārijas seku novēršana ar minimālu RTO/RPO",
+        "Pilnīga atbilstības uzticamība ISO 27001, SOC 2, HIPAA un GDPR auditos",
+        "Uzņēmuma galvenā intelektuālā īpašuma un konfidenciālu klientu ierakstu aizsardzība",
+        "Racionalizēta piegādātāju un trešo pušu riska pārvaldība, izmantojot vienotas piekļuves kontroles",
+        "Uzlabota klientu un investoru uzticēšanās, ko nodrošina pārbaudītas nulles uzticamības drošības pozīcijas"
+      ],
+      "zeroTrustPrinciples": [
+        "Nekad neuzticieties, vienmēr pārbaudiet: katram darījumam ir nepieciešama skaidra autentifikācija",
+        "Piekļuve ar vismazākajām privilēģijām: detalizētas lomu robežas, kas ierobežo sānu draudu kustību",
+        "Pieņemt pārkāpumu: nepārtraukta draudu uzraudzība, šifrēšana sūtīšanas laikā un miera stāvoklī",
+        "Mikrosegmentācija: tīkla ugunsmūri, kas izolē atsevišķu lietojumprogrammu darba slodzi",
+        "Nepārtraukta telemetrija: automatizēta uzvedības analīze, kas atzīmē anomālus sesijas pieprasījumus"
+      ],
+      "sec1Eyebrow": "PAPLAŠINĀJOŠAIS PERIMETRS",
+      "sec1Heading": "Savienotā uzņēmuma drošības ainava",
+      "sec1Subtext": "Tā kā mūsdienu organizācijas savieno vairāk lietojumprogrammu, mākoņa vides, attālinātos darbiniekus, mobilās ierīces un trešo pušu partnerus, tradicionālais drošības perimetrs pārstāj pastāvēt.",
+      "sec2Eyebrow": "VISPĀRĒJĀ AIZSARDZĪBA",
+      "sec2Heading": "Daudzslāņu aizsardzība pret draudiem",
+      "sec2Subtext": "Proaktīva aizsardzība, kas aizsargā kritisko infrastruktūru, sensitīvus korporatīvos datus un darbības sistēmas.",
+      "sec3Eyebrow": "JAUNĀ DROŠĪBAS ROBEŽA",
+      "sec3Heading": "Identitātes un piekļuves pārvaldība (IAM)",
+      "sec3Subtext": "Identitāte ir mūsdienu drošības pamata vadības plakne. Gandrīz visi nopietnie drošības pārkāpumi sākas ar apdraudētiem akreditācijas datiem, nevis programmatūras izmantošanu.",
+      "sec4Eyebrow": "ARHITEKTŪRAS PARADIGMA",
+      "sec4Heading": "Zero Trust arhitektūras demistificēšana",
+      "sec4Subtext": "Zero Trust nav atsevišķs produkts vai rīks. Tā ir arhitektūras stratēģija, kuras pamatā ir tiešs princips: pēc noklusējuma neuzticieties nevienai organizācijai tīklā vai ārpus tā.",
+      "sec5Eyebrow": "INFRASTRUKTŪRAS PĀRVALDĪBA",
+      "sec5Heading": "Mākoņa drošības apsvērumi",
+      "sec5Subtext": "Darba slodzes nodrošināšana publiskajā mākonī, hibrīdarhitektūrās un izplatītās konteineru vidēs.",
+      "sec6Eyebrow": "DARBĪBAS IZTURĪBA",
+      "sec6Heading": "Gatavība incidentiem: ārpus novēršanas",
+      "sec6Subtext": "Patiesa kibernoturība pieļauj, ka var notikt incidenti. Sagatavotība ir vērsta uz ātru ierobežošanu, minimāliem uzņēmējdarbības traucējumiem un pārbaudītu atveseļošanos.",
+      "sec7Eyebrow": "STRATĒĢISKĀ VĒRTĪBA",
+      "sec7Heading": "Uzņēmējdarbības priekšrocības",
+      "sec7Subtext": "Kibernoturīga uzņēmuma izveide aizsargā organizācijas vērtību, regulējošo stāvokli un reputāciju tirgū.",
+      "ctaHeading": "Pastipriniet sava uzņēmuma drošību",
+      "ctaDescription": "Izpētiet, kā organizācijas var stiprināt drošību, aizsargāt kritiskās sistēmas un sagatavoties apdraudējumiem arvien vairāk saistītā vidē.",
+      "ctaButton": "Sazinieties ar mūsu ekspertiem",
+      "sec1P1": "Mantotajā uzņēmumu IT laikmetā drošība darbojās pēc pils un grāvja doktrīnas: viss uzņēmuma biroju tīklā tika uzskatīts par uzticamu, bet viss ārpusē tika uzskatīts par neuzticamu. Viens uzņēmuma ugunsmūris aizsargāja iekšējos serverus, datu bāzes un galddatorus.",
+      "sec1P2": "Mūsdienu uzņēmums ir pāraudzis fiziskās sienas. Darba slodze notiek vairāku mākoņu vidēs (AWS, Azure, GCP), darbinieki piekļūst biznesa lietojumprogrammām no dažādām vietām, un API nepārtraukti apmainās ar sensitīviem darbības datiem ar ārējiem loģistikas nodrošinātājiem, finanšu iestādēm un SaaS piegādātājiem.",
+      "sec1P3": "Lai gan šī hipersavienojamība veicina milzīgu biznesa veiklību, tā ievērojami paplašina uzņēmuma uzbrukuma virsmu. Katrs API galapunkts, identitātes marķieris, pievienotā mobilā ierīce un SaaS integrācija ir potenciāls iedarbības vektors. Patiesai uzņēmuma aizsardzībai ir jāpāriet no aizsardzības, kas balstīta uz perimetru, uz proaktīvu, visaptverošu kibernoturību.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Draudu noteikšana",
+          "desc": "Ar mašīnmācīšanos atbalstīta draudu izlūkošana, kas reāllaikā pārrauga anomālus tīkla modeļus, akreditācijas datu ļaunprātīgu izmantošanu un nulles dienas ievainojamības."
+        },
+        {
+          "icon": "📡",
+          "title": "Drošības uzraudzība",
+          "desc": "Centralizētā drošības operāciju centra (SOC) telemetrija, kas korelē notikumus starp serveriem, konteineru klasteriem, identitātes nodrošinātājiem un galapunktiem."
+        },
+        {
+          "icon": "🔍",
+          "title": "Ievainojamības pārvaldība",
+          "desc": "Nepārtraukta automatizēta ievainojamību skenēšana visā infrastruktūrā, pirmkoda krātuvēs un konteineru reģistros, lai proaktīvi novērstu trūkumus."
+        },
+        {
+          "icon": "🔒",
+          "title": "Datu aizsardzība",
+          "desc": "Stingra šifrēšana sūtīšanas laikā (TLS 1.3) un miera stāvoklī (AES-256), kā arī detalizēta datu zudumu novēršanas (DLP) pārvaldība, lai novērstu intelektuālā īpašuma noplūdes."
+        }
+      ],
+      "sec3P1": "Lai aizsargātu uzņēmuma īpašumus, ir jānodrošina, lai katrai identitātei — neatkarīgi no tā, vai tās ir izpildvaras darbinieks, ārējais darbuzņēmējs vai autonoma programmatūras pakalpojuma konts – ir apstiprināta autorizācija tieši tiem resursiem, kuriem tā piekļūst.",
+      "sec3List": [
+        {
+          "bold": "Centralizēta identitātes pārvaldība:",
+          "text": "Vienotā pierakstīšanās (SSO) un apvienotie identitātes standarti, kas novērš sadrumstalotu paroļu krātuves dažādās lietojumprogrammās."
+        },
+        {
+          "bold": "Adaptīvā daudzfaktoru autentifikācija (MFA):",
+          "text": "Pret pikšķerēšanu izturīgas FIDO2 aparatūras atslēgas un uz risku balstītas kontekstuālas problēmas sensitīvām administratīvajām funkcijām."
+        },
+        {
+          "bold": "Detalizēta piekļuves kontrole:",
+          "text": "Smalkas, uz lomu balstītas (RBAC) un uz atribūtiem balstītas (ABAC) piekļuves kontroles, kas ieviestas API un datu bāzes līmenī."
+        },
+        {
+          "bold": "Mazāko privilēģiju principi:",
+          "text": "Pagaidu, tieši laikā (JIT) piekļuves piešķiršana, kuras termiņš beidzas automātiski, kad administratīvie uzdevumi tiek pabeigti."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NULL UZTICĪBAS PAMATDOKTRĪNA",
+      "keyPerspectiveTitle": "Nepārtraukta akla uzticēšanās pārbaude",
+      "keyPerspectiveLead": "Nulles uzticamības arhitektūrā netiešā uzticēšanās, kuras pamatā ir tīkla atrašanās vieta, ir pilnībā demontēta. Katram darījumam, datu bāzes vaicājumam un lietotāja pieteikšanās datiem nepārtraukti jāpierāda tā likumība:",
+      "cloudSecurityCards": [
+        {
+          "title": "Dalīta atbildība",
+          "desc": "Skaidra pārvaldība, kas nošķir mākoņa nodrošinātāja fiziskās infrastruktūras drošību no uzņēmuma atbildības par datu šifrēšanu, IAM politikām un lietojumprogrammas kodu."
+        },
+        {
+          "title": "Infrastruktūra kā kods (IaC)",
+          "desc": "Nemainīgas, pārbaudāmas mākoņa konfigurācijas, kas tiek pārvaldītas, izmantojot kodu. Automatizētie politikas kā koda skeneri pirms izvietošanas bloķē nepareizas konfigurācijas un atklātos segmentus."
+        },
+        {
+          "title": "Konteineru un Kubernetes drošība",
+          "desc": "Pastiprināti konteineru izpildlaiki, parakstīti attēlu reģistri, tīkla mikrosegmentācija un automatizēta slepeno pārvaldību, kas neļauj akreditācijas datus nonākt avotu krātuvēs."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "MĀKOŅI UN MODERNIZĀCIJA",
+      "title": "Mākoņa mantoto lietojumprogrammu modernizācija",
+      "subtitle": "Izpētiet praktisku pieeju mantoto lietojumprogrammu novērtēšanai, modernizēšanai un pārvietošanai uz mērogojamu, drošu mākoņa arhitektūru.",
+      "date": "2026. gada septembris",
+      "readTime": "6 min lasīt",
+      "imageCaption": "Uzņēmuma tehnoloģiju perspektīva — mākoņdatošanas pārplatformēšana un konteineru ievietošana",
+      "modernizationApproaches": [
+        {
+          "title": "Rehost (pacelšana un maiņa)",
+          "desc": "Ātra darba slodzes pāreja uz mākoņa virtuālajām mašīnām ar minimālām koda izmaiņām."
+        },
+        {
+          "title": "Atkārtota platforma (pacelšana un pārveidošana)",
+          "desc": "Jauniniet izpildlaika ietvarus, ieņemiet pārvaldītās mākoņdatu bāzes un racionalizējiet darbības."
+        },
+        {
+          "title": "Refaktors (mākoņa vietējā pārbūve)",
+          "desc": "Dekonstruējiet monolītus konteinerizētos mikropakalpojumos un uz notikumiem balstītos bezserveru API."
+        },
+        {
+          "title": "Aizstāt (SaaS modernizācija)",
+          "desc": "Atbrīvojieties no liekajām mantotajām sistēmām par labu mērķtiecīgai uzņēmuma mākoņprogrammatūrai."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Mantojuma novērtējums",
+          "desc": "Automatizēta atkarības kartēšana, tehniskā parādu kataloģizēšana un mākoņdatošanas gatavības vērtēšana."
+        },
+        {
+          "title": "Mērķa arhitektūra",
+          "desc": "Moduļu mikropakalpojumu rasējumi, konteineru topoloģijas un automatizētas IaC veidnes."
+        },
+        {
+          "title": "Pakāpeniska migrācija",
+          "desc": "Kanāriju izlaidumi, divu ierakstu datu sinhronizācija un pārtraukšanas viļņi bez dīkstāves."
+        },
+        {
+          "title": "Mākoņu optimizācija",
+          "desc": "Nepārtraukta izmaksu pārvaldība, automātiskās mērogošanas telemetrija un FinOps darbības pārskati."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponenciāli zemāki infrastruktūras uzturēšanas un aparatūras atsvaidzināšanas izdevumi",
+        "Gandrīz bezgalīga aprēķinu elastība, apstrādājot maksimālo uzņēmuma trafiku ar nulles latentumu",
+        "Paātrināts izlaišanas ātrums ar pilnībā automatizētiem CI/CD izvietošanas cauruļvadiem",
+        "Mantoto atsevišķu atteices punktu novēršana ar vairāku AZ augstu pieejamību",
+        "Modernas API arhitektūras, kas nodrošina ātru starpplatformu partneru integrāciju",
+        "Uzlabota reāllaika novērojamība attiecībā uz lietojumprogrammu veiktspēju un mākoņdatošanas izdevumiem"
+      ],
+      "landscapeAssessmentPoints": [
+        "Sarežģītu starplietojumprogrammu atkarību un datu sinhronizācijas kadenču kartēšana",
+        "Cietkodētu vides konfigurāciju un patentētu datu bāzes shēmu identificēšana",
+        "Novērtēt atbilstību normatīvajiem aktiem un datu suverenitātes ierobežojumus katrā jurisdikcijā",
+        "Reālistisku kopējo īpašumtiesību izmaksu (TCO) aprēķins visā faktorā, salīdzinot ar atkārtotas mitināšanas ceļiem",
+        "Skaidru izlaišanas viļņu izveide, lai aizsargātu aktīvās ikdienas biznesa darbības"
+      ],
+      "sec1Eyebrow": "MANTOTO SISTĒMU REALITĀTE",
+      "sec1Heading": "Mantojuma izaicinājums",
+      "sec1Subtext": "Novecojoši monolīti ierobežo inovācijas ātrumu, palielina darbības ievainojamību un palielina infrastruktūras uzturēšanas izmaksas.",
+      "sec2Eyebrow": "NOVĒRTĒJUMS UN ATKLĀŠANA",
+      "sec2Heading": "Lietojumprogrammas ainavas izpratne",
+      "sec2Subtext": "Veiksmīga mākoņu modernizācija sākas ar rūpīgu novērtējumu. Tieši pāriešana uz migrāciju, nepārbaudot lietojumprogrammu atkarības, ir galvenais aizkavētu pārslēgšanu iemesls.",
+      "sec3Eyebrow": "4 MODERNIZĀCIJAS CEĻI",
+      "sec3Heading": "Modernizācijas pieejas",
+      "sec3Subtext": "Nav vienotas migrācijas stratēģijas, kas būtu piemērota visiem. Vadošie uzņēmumi pielāgo pareizo modernizācijas modeli katrai konkrētajai darba slodzei, pamatojoties uz uzņēmuma vērtību, steidzamību un tehnisko parādu.",
+      "sec4Eyebrow": "MĒRĶA TRANSFORMĀCIJAS MODELIS",
+      "sec4Heading": "Modernā mākoņu arhitektūra",
+      "sec4Subtext": "Strukturēts ceļvedis, kas pārveido mantotos monolītus elastīgos, drošos un uzturējamos mākoņpakalpojumos.",
+      "sec5Eyebrow": "TRANSFORMĀCIJAS REZULTĀTI",
+      "sec5Heading": "Galvenās modernizācijas priekšrocības",
+      "sec5Subtext": "Mantoto sistēmu pārvietošana uz modernām mākoņa arhitektūrām nodrošina taustāmu darbības veiklību un izmaksu prognozējamību.",
+      "ctaHeading": "Modernizējiet savas mantotās lietojumprogrammas",
+      "ctaDescription": "Izpētiet praktisku pieeju mantoto lietojumprogrammu novērtēšanai, modernizēšanai un pārvietošanai uz mērogojamu, drošu mākoņa arhitektūru.",
+      "ctaButton": "Runājiet ar mūsu ekspertiem",
+      "sec1P1": "Pirms desmit gadiem izveidotās misijai kritiskās lietojumprogrammas joprojām rada miljardus uzņēmumu ieņēmumu, tomēr to arhitektūras neelastība rada pieaugošu darbības risku.",
+      "sec1P2": "Katrs uzņēmums saskaras ar spriedzi starp stabilitāti un modernizāciju. Mantotās sistēmas tika izstrādātas, lai nodrošinātu izturību, un tās ir uzticamas jau gadiem ilgi. Tomēr, pieaugot biznesa prasībām, šīs novecojošās arhitektūras saskaras ar strukturāliem ierobežojumiem:",
+      "sec1List": [
+        {
+          "bold": "Programmatūras kopu novecošana:",
+          "text": "Monolītas kodu bāzes, kas veidotas uz novecojušām ietvariem, un uzturēšanai ir pieejami arvien mazāki talantu kopumi."
+        },
+        {
+          "bold": "Sarežģīti apkopes cikli:",
+          "text": "Cieši savienoti komponenti, kur, mainot vienu elementu, pastāv risks, ka tiek sabojāti nesaistīti darbības moduļi."
+        },
+        {
+          "bold": "Ierobežota mērogojamība:",
+          "text": "Vertikālās mērogošanas ierobežojumi, kuru dēļ ir jāiegādājas dārga patentēta aparatūra, lai novērstu sezonas trafika kāpumus."
+        },
+        {
+          "bold": "Integrācijas izaicinājumi:",
+          "text": "Nespēja vienmērīgi izveidot saskarni ar modernām mobilajām lietotnēm, klientu portāliem vai partneru API bez trausliem pakešu skriptiem."
+        },
+        {
+          "bold": "Infrastruktūras ierobežojumi:",
+          "text": "Fiziskie serveru telpas dzīves cikli, rezerves ievainojamības un lieli jaudas/dzesēšanas darbības izdevumi."
+        }
+      ],
+      "sec2P1": "Pragmatisks modernizācijas ceļojums sākas, ieviešot pilnīgu skaidrību esošajā īpašumā:",
+      "sec2List": [
+        {
+          "bold": "Pieteikumi:",
+          "text": "Visu aktīvo darba slodžu, pielāgoto moduļu, fona skriptu un vēsturisko trešo pušu pakotņu kataloģizēšana."
+        },
+        {
+          "bold": "Atkarības:",
+          "text": "Sarežģīta izpildlaika savienojuma, koplietojamo datu bāzes tabulu, tiešu failu sistēmas izsaukumu un ārējo pakalpojumu līgumu kartēšana."
+        },
+        {
+          "bold": "Dati:",
+          "text": "Datu struktūru, darījumu integritātes prasību, dublēšanas kadences un regulatīvās suverenitātes noteikumu izvērtēšana."
+        },
+        {
+          "bold": "Infrastruktūra:",
+          "text": "CPU, atmiņas, krātuves izmantošanas un tīkla caurlaidspējas audits atbilstoši pareiza izmēra mērķa mākoņa specifikācijām."
+        },
+        {
+          "bold": "Uzņēmējdarbības kritiskums:",
+          "text": "Lietojumprogrammu kategorizēšana līmeņos, lai izstrādātu drošus, pakāpeniskas migrācijas viļņus ar skaidrām atkāpšanās procedūrām."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Priekšrocība:",
+      "cloudArchitectureBadge": "Modernizācijas dzīves cikls",
+      "cloudArchitectureTitle": "Pilnīga mākoņa modernizācijas plūsma",
+      "sec4P1": "Galamērķa arhitektūra atdala galvenās lietojumprogrammas modulāros, konteinerizētos pakalpojumos, kas tiek mitināti elastīgās mākoņu platformās (piemēram, Kubernetes vai pārvaldīti bez servera izpildlaiki).",
+      "sec4P2": "Izveidojot automatizētus CI/CD izvietošanas cauruļvadus, automatizētus zilganzaļus pārslēgumus un infrastruktūru kā kodu, izvietošana no nervus kutinošiem nedēļas nogales notikumiem pārvēršas par nevainojamu ikdienas rutīnu.",
+      "sec4P3": "Elastīgais aprēķins automātiski palielinās pieprasījuma pieauguma laikā un samazinās klusuma laikā, novēršot dīkstāves resursu izmaksas, vienlaikus garantējot mazāku sekundes atbildes laiku globālajiem lietotājiem.",
+      "keyPerspectiveEyebrow": "MODERNIZĀCIJAS LABĀKĀ PRAKSE",
+      "keyPerspectiveTitle": "Četri veiksmīgas migrācijas pīlāri",
+      "keyPerspectiveLead": "Pieredze liecina, ka modernizācijas projekti gūst panākumus, ja tie ir balstīti uz visaptverošu sagatavošanu, skaidru viļņu secību un stingru testēšanu:"
+    }
+  }
+}

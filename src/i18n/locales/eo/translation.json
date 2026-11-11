@@ -1,0 +1,2970 @@
+{
+  "nav": {
+    "about": "Pri",
+    "services": "Servoj",
+    "products": "Produktoj",
+    "perspectives": "Perspektivoj",
+    "technologies": "Teknologioj",
+    "contact": "Kontaktu",
+    "signIn": "Ensalutu",
+    "signUp": "Aliĝu",
+    "signOut": "Elsaluti",
+    "chooseLanguage": "Elektu vian lingvon",
+    "searchLanguage": "Serĉlingvo",
+    "resetEnglish": "Restarigi al la angla",
+    "noResults": "Neniuj lingvoj trovitaj",
+    "englishDefault": "Angla (Defaŭlte)",
+    "english": "la angla"
+  },
+  "hero": {
+    "eyebrow": "Rezonants — Hajderabado",
+    "title": "Programaro, kreita por la maniero kiel <em>via komerco</em> funkcias.",
+    "description": "Rezonants estas kompanio pri IT-servoj kaj ciferecaj produktoj. Ni desegnas, konstruas kaj skalas laŭmendajn programojn, TTT- kaj moveblajn produktojn, nuban infrastrukturon kaj AI - por kompanioj kiuj konkuras pri ekzekuto.",
+    "bookConsultation": "Rezervu senpagan konsulton",
+    "exploreServices": "Esploru servojn",
+    "years": "jaroj",
+    "projects": "projektoj",
+    "retention": "reteno",
+    "location": "Madhapur, Hajderabado",
+    "since": "Rezonants — ekde 2012",
+    "metaStudio": "Cifereca produktostudio",
+    "metaTech": "Retejo · Poŝtelefono · Nubo · AI"
+  },
+  "about": {
+    "eyebrow": "Pri Ni",
+    "title": "Konstruado de Ciferecaj Solvoj <em>Kiuj Movas Komercojn Antaŭen</em>",
+    "description": "Rezonants estas kompanio pri teknologiaj solvoj koncentrita al helpi entreprenojn transformi ideojn en signifajn ciferecajn spertojn. Ni kombinas teknologion, kreivon kaj komercan komprenon por liveri solvojn, kiuj estas desegnitaj laŭ realaj bezonoj.<br /><br />De cifereca transformo kaj laŭmenda programaro-disvolviĝo ĝis nubo, AI, aŭtomatigo kaj administritaj teknologiaj servoj, ni helpas organizojn simpligi kompleksecon, plibonigi efikecon kaj krei daŭran ciferecan valoron.<br /><br /><strong>Nia aliro estas simpla — komprenu la komercon, solvi la ĝustan problemon, solvi la problemon, kaj solvu la ĝustan teknologion.",
+    "awardWinning": "Premiita",
+    "awardText": "Rekonita pro livera plejboneco tra interreta kaj movebla produkta inĝenierado.",
+    "professionalStaff": "Profesia Kunlaborantaro",
+    "staffText": "Altnivelaj, respondecaj inĝenieroj, kiuj posedas la laboron de unua voko ĝis ekfunkciigo.",
+    "support247": "24/7 Subteno",
+    "supportText": "Administritaj servoj kaj subtena linio, kiu respondas kiam vi bezonas ĝin.",
+    "fairPrices": "Justaj Prezoj",
+    "pricesText": "Honestaj taksoj kaj travidebla fakturo pri ĉiu unuopa engaĝiĝo.",
+    "yearsExcellence": "Jaroj de Entreprena Plejboneco"
+  },
+  "stats": {
+    "happyClients": "Feliĉaj klientoj",
+    "projectsDone": "Projektoj faritaj",
+    "winAwards": "Gajnu premiojn"
+  },
+  "insights": {
+    "eyebrow": "Perspektivoj",
+    "title": "Perspektivoj",
+    "sub": "Esplorante ideojn, tendencojn kaj teknologion formantan la estontecon.",
+    "filters": {
+      "all": "Ĉiuj",
+      "digital-transformation": "Cifereca Transformo",
+      "ai": "AI & Aŭtomatigo",
+      "cloud": "Nubo",
+      "data": "Datumoj kaj Analizo",
+      "software": "Programaro",
+      "business": "Komerco & Teknologio"
+    },
+    "readMore": "Legu Pli",
+    "close": "Fermu",
+    "keyTakeaways": "Ŝlosilaj Arkitekturaj Prenoj",
+    "relatedServices": "Rilataj Kapabloj & Servoj",
+    "minRead": "min legita",
+    "item1Date": "jul 2026",
+    "item1Tag": "Produkto & ERP",
+    "item1Title": "Modula ERP-aliro por kreskantaj entreprenoj",
+    "item1Text": "Kiel ni strukturas ERP-engaĝiĝojn tiel financo, inventaro, HR kaj akiro integriĝas perfekte sen plurjara interrompo.",
+    "item2Date": "Junio ​​2026",
+    "item2Tag": "Artefarita Inteligenteco",
+    "item2Title": "Agentaj AI-sistemoj: transiro de babilrotoj al aŭtonoma ekzekuto",
+    "item2Text": "Arkitektado de kunordigitaj multi-agentaj LLM-sistemoj kiuj planas, validas kaj efektivigas kompleksajn komercajn laborfluojn kun homa-en-la-buklo-kontrolado.",
+    "item3Date": "Majo 2026",
+    "item3Tag": "Firmaa Mejloŝtono",
+    "item3Title": "Rekonita inter gvidaj IT-noviga studioj en Hajderabado",
+    "item3Text": "Nia inĝenieristiko estis agnoskita pro livera plejboneco, profundaj teknologiaj kapabloj kaj kliento kontento tra tutmonda produkta inĝenierado.",
+    "desc": "Esploru ideojn kaj perspektivojn de Rezonants pri cifereca transformo, AI, aŭtomatigo, nubo, datumoj, programaro kaj la estonteco de komerca teknologio.",
+    "categories": {
+      "digitalTransformation": "Cifereca Transformo",
+      "ai": "AI & Aŭtomatigo",
+      "cloud": "Nubo",
+      "data": "Datumoj kaj Analizo",
+      "software": "Programaro",
+      "business": "Komerco & Teknologio"
+    }
+  },
+  "technologies": {
+    "title": "Teknologioj & Arkitekturo",
+    "headline": "Enterprise Teknologiaj Solvoj",
+    "sub": "Inteligenta Teknologio. Aŭtomatigitaj Operacioj. Pli Saĝa Komerco.",
+    "selectTechnology": "Elektu teknologian solvon...",
+    "options": {
+      "aiRobotics": "AI & Robotika Solvoj",
+      "businessAutomation": "Komercaj Aŭtomataj Solvoj",
+      "cloudMigrations": "Nubaj Migradaj Solvoj",
+      "dataCenters": "Datumcentraj Solvoj",
+      "cognitiveAnalytics": "Kogna Analizo & AI",
+      "informationReporting": "Informoj kaj Raportaj Sistemoj",
+      "managedServices": "Administritaj Servoj",
+      "oneStopSolutions": "Unuhaltaj Teknologiaj Solvoj"
+    },
+    "explore": "Esploru Teknologion",
+    "bookDiscovery": "Libro Teknologia Malkovro",
+    "exploreAll": "Esploru Ĉiuj Teknologioj",
+    "coreCapabilities": "Kernaj Teknologiaj Kapabloj",
+    "bookConsultation": "Rezervu Konsulton"
+  },
+  "contact": {
+    "eyebrow": "Kontaktu",
+    "title": "Parolu kun altranga inĝeniero, ne kun venda skripto",
+    "sub": "Kunhavigu iom pri via projekto kaj ni respondos ene de unu labortago.",
+    "reachUs": "Atingu nin rekte",
+    "preferConversation": "Ĉu preferas konversacion? Ni estas unu voko for.",
+    "contactLede": "La plej rapida maniero por antaŭeniri estas mallonga konversacio. Atingu nin per iu ajn kanalo sube, aŭ rezervu sloton kaj ni venos al vi pretaj.",
+    "phone": "Telefono",
+    "email": "Retpoŝto",
+    "office": "Oficejo",
+    "hours": "Horoj",
+    "hoursValue": "Lu – Sat, 9:30 – 18:30 IST",
+    "bookSlot": "Rezervu konsultejon",
+    "sendMessage": "Sendu al ni mesaĝon",
+    "fieldsRequired": "Kampoj markitaj per * estas postulataj.",
+    "fullName": "Plena Nomo *",
+    "emailLabel": "Retpoŝto *",
+    "company": "Kompanio",
+    "subject": "Temo",
+    "messageLabel": "Mesaĝo *",
+    "sending": "Sendante...",
+    "sendBtn": "Sendu mesaĝon",
+    "successMsg": "Mesaĝo sendita! Kopio estis retpoŝta al vi.",
+    "errorMsg": "Ne eblis konservi vian mesaĝon. Kontrolu ke la tabelo contact_messages ekzistas, tiam provu denove.",
+    "offices": {
+      "vijayawada": "Vijayawada Oficejo",
+      "southAfrica": "Sudafrika Oficejo"
+    },
+    "placeholders": {
+      "fullName": "Via plena nomo",
+      "email": "vi@firmao.com",
+      "company": "Via firmao aŭ organizo",
+      "subject": "Kiel ni povas helpi?",
+      "message": "Rakontu al ni pri via projekto, templinio kaj celoj..."
+    },
+    "validation": {
+      "fullNameRequired": "Bonvolu enigi vian plenan nomon.",
+      "emailRequired": "Bonvolu enigi vian retadreson.",
+      "emailInvalid": "Bonvolu enigi validan retadreson.",
+      "messageRequired": "Bonvolu enigi mesaĝon."
+    }
+  },
+  "services": {
+    "eyebrow": "Servoj",
+    "title": "Kion ni faras",
+    "sub": "De strategio ĝis administritaj operacioj, ni liveras fin-al-finajn teknologiajn partnerecojn por kompanioj, kiuj konkuras pri ekzekuto.",
+    "items": {
+      "buildFromScratch": {
+        "label": "Komenco Al Deplojo",
+        "description": "Fin-al-fina evoluo de novaj ciferecaj solvoj de komercaj postuloj kaj solva arkitekturo per evoluo, integriĝo, testado, deplojo kaj daŭra subteno."
+      },
+      "businessProcessAutomation": {
+        "label": "Komerca Proceza Aŭtomatigo",
+        "description": "Dezajno kaj efektivigo de inteligentaj aŭtomatigaj solvoj, kiuj plifaciligas komercajn procezojn, forigas ripetajn manajn agadojn, plibonigas funkcian efikecon kaj akcelas komercajn rezultojn."
+      },
+      "centerOfExcellence": {
+        "label": "Centro de Plejboneco",
+        "description": "Establigo de specialiĝintaj teknologioj kaj komercaj kapablecaj centroj kiuj disponigas administradon, normojn, kompetentecon, kadrojn, reuzeblajn aktivaĵojn kaj kontinuan plibonigon tra la organizo."
+      },
+      "customDevelopmentCustomization": {
+        "label": "Propra Disvolviĝo & Personigo",
+        "description": "Disvolviĝo kaj plibonigo de aplikoj, platformoj, laborfluoj kaj entreprenaj solvoj por trakti unikajn komercajn postulojn kaj liveri tajloritan funkciojn."
+      },
+      "digitalTransformation": {
+        "label": "Cifereca Transformo",
+        "description": "Modernigo de komercaj operacioj, teknologiaj ekosistemoj kaj klientaj spertoj per nubo, AI, aŭtomatigo, datumoj kaj modernaj aplikaj teknologioj."
+      },
+      "endToEndSolutionFramework": {
+        "label": "Fin-al-Fina Solvokadro",
+        "description": "Ampleksa livera aliro kovranta la kompletan teknologian vivociklon—de strategio, postuloj kaj arkitekturo ĝis evoluo, integriĝo, deplojo, administrado, monitorado kaj subteno."
+      },
+      "migrationModernization": {
+        "label": "Migrado & Modernigo",
+        "description": "Sekura kaj strukturita migrado de aplikaĵoj, datumoj, platformoj, infrastrukturoj kaj laborŝarĝoj de heredaĵo aŭ ekzistantaj medioj al modernaj, skaleblaj kaj optimumigitaj teknologiaj platformoj."
+      },
+      "pocPilotImplementation": {
+        "label": "Pruvo de Koncepto (PoC) & Pilota Efektivigo",
+        "description": "Rapida disvolviĝo kaj validigo de teknologiaj solvoj por taksi teknikan fareblecon, komercan valoron, integrigajn postulojn, efikecon kaj skaleblon antaŭ plenskala efektivigo."
+      },
+      "sharedServicesManagedOperations": {
+        "label": "Komunaj Servoj kaj Administritaj Operacioj",
+        "description": "Alcentrigita livero de teknologio kaj operaciaj kapabloj tra komercaj unuoj per normigitaj procezoj, lertaj rimedoj, administradkadroj, serva administrado kaj mezureblaj servaj niveloj."
+      },
+      "customDevelopment": {
+        "label": "Komenco Al Deplojo",
+        "description": "Fin-al-fina evoluo de novaj ciferecaj solvoj de komercaj postuloj kaj solva arkitekturo per evoluo, integriĝo, testado, disfaldiĝo kaj daŭra subteno."
+      },
+      "processAutomation": {
+        "label": "Komerca Proceza Aŭtomatigo",
+        "description": "Dezajno kaj efektivigo de inteligentaj aŭtomatigaj solvoj, kiuj plifaciligas komercajn procezojn, forigas ripetajn manajn agadojn, plibonigas funkcian efikecon kaj akcelas komercajn rezultojn."
+      },
+      "solutionEngineering": {
+        "label": "Propra Disvolviĝo & Personigo",
+        "description": "Disvolviĝo kaj plibonigo de aplikaĵoj, platformoj, laborfluoj kaj entreprenaj solvoj por trakti unikajn komercajn postulojn kaj liveri tajloritan funkciojn."
+      },
+      "endToEndSolutions": {
+        "label": "Fin-al-fina Solvkadro",
+        "description": "Ampleksa livera aliro kovranta la kompletan teknologian vivociklon—de strategio, postuloj kaj arkitekturo ĝis evoluo, integriĝo, deplojo, administrado, monitorado kaj subteno."
+      },
+      "migrationServices": {
+        "label": "Migrado & Modernigo",
+        "description": "Sekura kaj strukturita migrado de aplikaĵoj, datumoj, platformoj, infrastrukturoj kaj laborŝarĝoj de heredaĵo aŭ ekzistantaj medioj al modernaj, skaleblaj kaj optimumigitaj teknologiaj platformoj."
+      },
+      "pilotPrototyping": {
+        "label": "Pruvo de Koncepto (PoC) & Pilota Efektivigo",
+        "description": "Rapida disvolviĝo kaj validigo de teknologiaj solvoj por taksi teknikan fareblecon, komercan valoron, integrigajn postulojn, efikecon kaj skaleblon antaŭ plenskala efektivigo."
+      },
+      "sharedServices": {
+        "label": "Komunaj Servoj kaj Administritaj Operacioj",
+        "description": "Alcentrigita livero de teknologio kaj operaciaj kapabloj tra komercaj unuoj per normigitaj procezoj, lertaj rimedoj, administradkadroj, serva administrado kaj mezureblaj servaj niveloj."
+      }
+    },
+    "common": {
+      "scheduleConsultation": "Programu Konsulton",
+      "exploreFramework": "Esploru Solvan Kadron",
+      "talkSeniorEngineer": "Parolu kun Supera Inĝeniero",
+      "exploreTechStack": "Esploru Teknologian Stakon",
+      "bookPocSession": "Rezervu PoC Discovery Sesion",
+      "seeAllServices": "Vidu Ĉiuj Servoj",
+      "requestAssessment": "Petu Migrantakso",
+      "exploreCloudSolutions": "Esploru Cloud Solutions"
+    },
+    "sharedServices": {
+      "heroBadge": "KOMUNAJ SERVOJ & ADMINISTRATAJ OPERACIOJ",
+      "heroTitle": "Entreprenaj Kunigitaj Servoj & Administritaj Operacioj",
+      "heroDesc": "Skali komercajn kapablojn, fluliniu transfunkciajn laborfluojn kaj atingu funkcian plejbonecon per normigitaj, sekuraj kaj kostefikaj komunaj servomodeloj.",
+      "bookDiscovery": "Libro Managed Operations Discovery",
+      "exploreFramework": "Esploru Solvokadron",
+      "coreCapabilities": "Kernaj Kapabloj:",
+      "managedServices": "Administritaj Servoj",
+      "itOperations": "IT-Operacioj",
+      "appSupport": "Aplika Subteno",
+      "serviceManagement": "Administrado de Servo",
+      "resourceOptimization": "Rimeda Optimumigo",
+      "slaManagement": "SLA-Administrado",
+      "governance": "Regado",
+      "continuousImprovement": "Daŭra Pliboniĝo",
+      "costOptimization": "Kosto-Optimumigo",
+      "readyTitle": "Preta por Optimumigi Viajn Operaciojn?",
+      "readyDesc": "Malkovru kiel niaj kadroj kun Komunaj Servoj kaj Administritaj Operacioj povas plibonigi servokvaliton, certigi funkcian kontinuecon kaj stiri daŭrigeblajn kostefikecojn por via entrepreno.",
+      "scheduleSession": "Planu Malkovran Sesion"
+    },
+    "solutionEngineering": {
+      "heroBadge": "SOLVOJENĜEJERO & ARKITEKTURO",
+      "heroTitle": "Propra Disvolviĝo & Personigo",
+      "heroDesc": "Arkitekto, inĝeniero, kaj deploji alt-efikecajn programajn sistemojn desegnitajn specife por viaj funkciaj laborfluoj, datumduktoj kaj skalaj postuloj."
+    },
+    "pilotPrototyping": {
+      "heroBadge": "RAPIDA NOVADO & EXPERIMENTADO",
+      "heroTitle": "Pruvo de Koncepto (PoC) & Pilota Efektivigo",
+      "heroDesc": "Validu emerĝajn teknologiojn, malriskigu kompleksajn arkitekturojn kaj pruvu komercan valoron per produktad-gradaj prototipoj en semajnoj, ne kvaronoj."
+    },
+    "endToEndSolutions": {
+      "heroBadge": "VIVCIKLA ARKITEKTURA & LIVERO",
+      "heroTitle": "Fin-al-Fina Solvokadro",
+      "heroDesc": "Unuigita livermodelo liganta produktan malkovron, solvan arkitekturon, inĝenieristikon, nuban infrastrukturon kaj 24/7 fidindajn operaciojn."
+    },
+    "migrationServices": {
+      "heroBadge": "INFRASTRUKTURO & LEGADO MODERNIGO",
+      "heroTitle": "Migrado & Modernigo",
+      "heroDesc": "Perfekte transiru heredajn laborŝarĝojn, monolitajn arkitekturojn kaj surlokan infrastrukturon al modernaj, sekuraj kaj skaleblaj nubaj platformoj."
+    },
+    "pages": {
+      "digitalTransformation": {
+        "eyebrow": "Entreprena Modernigo",
+        "titlePart1": "Cifereca",
+        "titlePart2": "Transformo",
+        "description": "Modernigo de komercaj operacioj, teknologiaj ekosistemoj kaj klientaj spertoj per nubo, AI, aŭtomatigo, datumoj kaj modernaj aplikaj teknologioj.",
+        "bookWorkshop": "Laborejo pri LibroTransformado",
+        "exploreFramework": "Esploru Solvokadron",
+        "startTransformation": "Komencu Transformadon",
+        "exploreStrategy": "Esploru Strategion",
+        "coreCapabilitiesTitle": "Kernaj Kapabloj",
+        "coreCapabilities": [
+          "Cifereca Strategio",
+          "Nuba Transformo",
+          "AI & Aŭtomatigo",
+          "Modernigo de aplikaĵo",
+          "Heredaĵo Modernigo",
+          "Datumoj kaj Analizo",
+          "Klienta Sperto",
+          "Teknologia Modernigo"
+        ],
+        "row1Eyebrow": "Strategio & Vojmapo",
+        "row1Title": "De Vizio al Efektivebla Vojmapo",
+        "row1P1": "Ni partneras kun entreprenaj gvidantoj por difini ciferecan strategion, komercajn kazojn kaj fazajn vojmapojn kun rapidaj gajnoj kaj senriska ekzekuto.",
+        "row1P2": "Prioritatigitaj iniciatoj, TCO-modeloj kaj KPI-oj certigas, ke ĉiu teknologia moderniga penado ligas rekte al enspezo, efikeco kaj klientkontento-rezultoj.",
+        "row2Eyebrow": "Heredaĵo Modernigo",
+        "row2Title": "Modernigu Sen Rompi la Komercon",
+        "row2P1": "Re-platformu monolitojn al mikroservoj, API-oj kaj nubo-denaskaj ŝablonoj kun nul-malfunkciaj interrompoj kaj aŭtomatigita regresa validigo.",
+        "row2P2": "Ni modernigas aplikaĵojn, datumbazojn kaj integrigajn tavolojn konservante konformecon kaj sekurecan pozicion.",
+        "row3Eyebrow": "Nubo, AI & Datumoj",
+        "row3Title": "Nuba Adopto & Datuma Inteligenteco",
+        "row3P1": "Adoptu AWS, Azure kaj GCP, konstruu modernajn datumduktojn kaj enmetu maŝinlernajn agentojn por funkciigi aŭtonomiajn decidojn.",
+        "row3P2": "De realtempa evento streaming ĝis unuigitaj paneloj, transformo fariĝas mezurebla kaj daŭrigebla.",
+        "row4Eyebrow": "Klienta Sperto",
+        "row4Title": "Modernaj Omnikanaj Spertoj",
+        "row4P1": "Restrukturi klientajn vojaĝojn tra respondemaj retejoj, iOS, Android kaj memservaj portaloj kun personigitaj interfacoj.",
+        "row4P2": "Platforma inĝenierado, telemetrio kaj aŭtomatigitaj reagoj daŭras ciferecan novigon.",
+        "pillarsTitle": "Transformaj Kolonoj",
+        "pillarsSub": "Rezulte-fokusitaj leviloj kiuj certigas daŭrigeblan ciferecan gvidadon.",
+        "pillar1Title": "Cifereca Strategio & Regado",
+        "pillar1Desc": "Fazitaj transformprojektoj kun komerca kaza modelado, arkitekturo-administrado kaj mejloŝtona riskspurado.",
+        "pillar2Title": "Nubo kaj Datuma Platformo",
+        "pillar2Desc": "AWS/Azure/GCP plurnubaj fundamentoj, aŭtomatigitaj duktoj kaj ebligo de entreprena datuma analizo.",
+        "pillar3Title": "AI & Aŭtomatigo",
+        "pillar3Desc": "Inteligenta proceza aŭtomatigo, kognaj AI-agentoj kaj prognoza telemetrio por optimumigi ĉiutagajn operaciojn.",
+        "pillar4Title": "Klienta Sperto",
+        "pillar4Desc": "Alt-konvertaj ĉiukanalaj ciferecaj portaloj kaj personigitaj interfacoj konstruitaj por maksimuma reteno de uzantoj.",
+        "ctaTitle": "Preta Transformi Vian Entreprenon?",
+        "ctaSub": "Kunlaboru kun Rezonants por faza, senriska cifereca transformo ligita al mezureblaj komercaj rezultoj.",
+        "ctaButton": "Rezervu Ciferecan Transforman Vokon"
+      },
+      "customDevelopment": {
+        "eyebrow": "Fin-al-Fina Cifereca Inĝenierado",
+        "titlePart1": "Komenco Al",
+        "titlePart2": "Deplojo",
+        "bookConsultation": "Rezervu Konsulton",
+        "exploreEngineering": "Esploru Solvan Inĝenieristikon"
+      },
+      "processAutomation": {
+        "eyebrow": "Inteligentaj Procezaj Operacioj",
+        "titlePart1": "Komerca Procezo",
+        "titlePart2": "Aŭtomatigo",
+        "bookDiscovery": "Libro Aŭtomata Malkovro",
+        "exploreCoE": "Esploru Centron de Plejboneco"
+      },
+      "centreOfExcellence": {
+        "badge": "REZONANTS COE",
+        "titlePart1": "Centro de",
+        "titlePart2": "Ekscelenco",
+        "bookConsultation": "Libro KoE-Konsulto",
+        "exploreCapabilities": "Esplori Kapablojn"
+      },
+      "endToEndSolutions": {
+        "eyebrow": "Kompleta Teknologia Vivociklo",
+        "titlePart1": "Fin-al-Fino",
+        "titlePart2": "Solva Kadro",
+        "startJourney": "Komencu Vian Vivciklan Vojaĝon",
+        "exploreTransformation": "Esploru Transformadon"
+      },
+      "migrationServices": {
+        "eyebrow": "Nubo & Infrastruktura Transformo",
+        "titlePart1": "Migrado &",
+        "titlePart2": "Modernigo",
+        "planMigration": "Planu Vian Migradon",
+        "exploreTransformation": "Esploru Transformadon"
+      },
+      "pilotPrototyping": {
+        "eyebrow": "Rapida Valumado & Farebleco",
+        "titlePart1": "Pruvo de Koncepto (PoC) &",
+        "titlePart2": "Pilota Efektivigo",
+        "initiateDiscovery": "Komencu PoC Discovery",
+        "exploreDevelopment": "Esploru Propran Disvolviĝon"
+      },
+      "solutionEngineering": {
+        "badge": "Tajlita Cifereca Inĝenierado",
+        "bookConsultation": "Rezervu Konsulton",
+        "exploreCapabilities": "Esplori Kapablojn"
+      },
+      "sharedServices": {
+        "eyebrow": "Centra Operacia Nabo",
+        "titlePart1": "Komunaj Servoj &",
+        "titlePart2": "Administritaj Operacioj",
+        "bookDiscovery": "Libro Managed Operations Discovery",
+        "exploreFramework": "Esploru Solvan Kadron"
+      }
+    },
+    "coreCapabilities": "Kernaj Kapabloj"
+  },
+  "products": {
+    "featured": "Elstaraj Produktoj",
+    "featuredSub": "Simpligu operaciojn, konektu teamojn, aŭtomatigu procezojn kaj stiru pli inteligentan komercan kreskon.",
+    "seeAll": "Vidu Ĉiuj Produktoj",
+    "featuredProducts": "ELSENTAJ PRODUZOJ",
+    "meetAutonomous": "Renkontu la Aŭtonoman Laborforton",
+    "meetAutonomousText": "Transformu viajn operaciojn kun AI-agentoj, kiuj laboras kune kun via teamo por trakti kompleksajn, ripetemajn taskojn.",
+    "learnMore": "Lernu Pli",
+    "erp": {
+      "title": "Unu Platformo Preta por Io ajn",
+      "sub": "Ebligi entreprenojn per konektitaj, inteligentaj kaj skaleblaj entreprenaj administradsolvoj.",
+      "explore": "Esploru ERP-solvojn",
+      "gridTitle": "ERP-SOLUCIOJ",
+      "promoTitle": "Modula ERP por Kresko",
+      "promoText": "Deploji modulajn ERP-funkciojn rapide sen la komplekseco de tradiciaj plurjaraj sistemoj.",
+      "scheduleDemo": "Horaro Demo"
+    },
+    "it": {
+      "title": "IT-Solvoj",
+      "sub": "Entreprena-nivela infrastrukturo, sekureco kaj DevOps-solvoj por konservi vian komercon funkcianta.",
+      "explore": "Esploru IT-Solvojn",
+      "gridTitle": "IT SOLVOJ",
+      "promoTitle": "Fidinda IT-Infrastrukturo",
+      "promoText": "Konstruu rezisteman teknologian fundamenton kun administritaj nubo, sekureco kaj DevOps servoj.",
+      "getStarted": "Komencu"
+    },
+    "crm": {
+      "title": "CRM-Solvoj",
+      "sub": "Administrado de klientrilatoj por plifaciligi vendojn, subtenojn kaj merkatajn laborfluojn.",
+      "explore": "Esploru CRM-Solvojn",
+      "gridTitle": "CRM-SOLUCIOJ",
+      "promoTitle": "Fermu Pliajn Ofertojn",
+      "promoText": "Potencigu viajn vendajn kaj subtenajn teamojn per unuigitaj klientdatenoj kaj inteligenta aŭtomatigo.",
+      "startTrial": "Komencu Senpagan Provon"
+    },
+    "hrms": {
+      "title": "HRMS-Solvoj",
+      "sub": "Administrado de homaj rimedoj kovrante salajro-etaton, rekrutadon, rendimenton kaj dungitan engaĝiĝon.",
+      "explore": "Esploru HRMS-Solvojn",
+      "gridTitle": "HRMS SOLVOJ",
+      "promoTitle": "Simpligu HR-Operaciojn",
+      "promoText": "Aŭtomatigu HR-laborfluojn de rekrutado ĝis emeritiĝo per moderna, unue dungita platformo.",
+      "requestDemo": "Petu Demo"
+    },
+    "sidebar": {
+      "featuredProducts": "Elstaraj Produktoj",
+      "erpSolutions": "ERP-Solvoj",
+      "solutions": "SOLVOJ"
+    },
+    "items": {
+      "rezonantsAiSuite": {
+        "title": "Rezonants AI Suite",
+        "description": "Inteligentaj aŭtonomaj agentoj kaj iloj, kiuj aŭtomatigas kompleksajn laborfluojn kaj klientajn operaciojn."
+      },
+      "cloudNexus": {
+        "title": "CloudNexus",
+        "description": "Plurnuba administradplatformo optimumiganta rendimenton, sekurecon, konformecon kaj kostojn."
+      },
+      "workSync": {
+        "title": "WorkSync",
+        "description": "Hibrida kunlaboro kaj produktiveca centro kun integra tasko, babilejo kaj dokumenta administrado."
+      },
+      "dataStream": {
+        "title": "DataStream",
+        "description": "Realtempa analiza motoro transformanta fluojn de komercaj eventoj en ageblajn komprenojn."
+      },
+      "rezonantsErpCore": {
+        "title": "Rezonants ERP Kerno",
+        "description": "Unuigita entreprena arkitekturo kunliganta financon, aktivojn, HR, aĉetadon kaj stokregistron."
+      },
+      "hrmsPro": {
+        "title": "HRMS Pro",
+        "description": "Dungita spertplatformo kovranta salajro-etaton, avantaĝojn, rendimentajn recenzojn kaj memservon."
+      },
+      "supplyChainIq": {
+        "title": "SupplyChain IQ",
+        "description": "Realtempa loĝistika spurado, aŭtomatigitaj magazenaj operacioj kaj postula prognozo."
+      },
+      "financeHub": {
+        "title": "Financa Centro",
+        "description": "Altnivela administrado de ĉeflibroj, fakturaj laborfluoj, aŭtomatigita plenumo kaj realtempaj monfluaj raportoj."
+      },
+      "cloudInfrastructure": {
+        "title": "Nuba Infrastrukturo",
+        "description": "Skalebla nuba arkitekturo, migrado kaj administrado tra AWS, Azure kaj GCP."
+      },
+      "cybersecuritySuite": {
+        "title": "Cybersecurity Suite",
+        "description": "Fin-al-fina sekureca monitorado, minaco-detekto kaj plenuma administrado."
+      },
+      "devopsPipeline": {
+        "title": "DevOps Pipeline",
+        "description": "CI/CD-aŭtomatigo, kontenerigo kaj infrastrukturo-kiel-kodo por pli rapida liverado."
+      },
+      "managedItServices": {
+        "title": "Administritaj IT-Servoj",
+        "description": "24/7 infrastrukturmonitorado, okazaĵrespondo, kaj iniciatema prizorgado."
+      },
+      "salesCrm": {
+        "title": "Vendo CRM",
+        "description": "Dukto-administrado, plumbopoentado, interkonsento-spurado kaj vendoprognozo en unu platformo."
+      },
+      "customerSupportHub": {
+        "title": "Klienta Subtena Centro",
+        "description": "Biletado, sciobazo, viva babilejo kaj ĉiukanala subtena administrado."
+      },
+      "marketingAutomation": {
+        "title": "Merkata Aŭtomatigo",
+        "description": "Kampanja orkestrado, retpoŝta aŭtomatigo, gvida nutrado kaj analizo."
+      },
+      "customer360View": {
+        "title": "Kliento 360 Vido",
+        "description": "Unuigitaj klientprofiloj kombinantaj vendojn, subtenojn kaj interagajn datumojn."
+      },
+      "coreHr": {
+        "title": "Kerna HR",
+        "description": "Oficistoj de dungitoj, hierarkio de la organizaĵo, administrado de forpermesoj kaj sekvado de ĉeesto."
+      },
+      "payrollCompliance": {
+        "title": "Salajro & Konformeco",
+        "description": "Aŭtomatigita salajro-traktado, impostkalkuloj kaj laŭleĝa plenumo."
+      },
+      "performanceManagement": {
+        "title": "Efikeca Administrado",
+        "description": "OKR-spurado, 360°-recenzoj, cel-agordado kaj dungitaj disvolvaj planoj."
+      },
+      "recruitmentPortal": {
+        "title": "Varbata Portalo",
+        "description": "Laborpostenoj, sekvado de kandidatoj, intervjua programado kaj enigaj laborfluoj."
+      }
+    },
+    "catalog": {
+      "featured": {
+        "title": "Elstaraj Produktoj",
+        "heading": "Elstaraj Produktoj",
+        "sub": "Simpligu operaciojn, konektu teamojn, aŭtomatigu procezojn kaj stiru pli inteligentan komercan kreskon.",
+        "promoTitle": "Renkontu la Aŭtonoman Laborforton",
+        "promoText": "Transformu viajn operaciojn per AI-agentoj, kiuj laboras kune kun via teamo por trakti kompleksajn, ripetemajn taskojn.",
+        "items": [
+          {
+            "title": "AI Aŭtomatigo & Inteligentaj Agentoj",
+            "description": "Aŭtomatigu ripetemajn taskojn kaj deploji inteligentajn AI-agentojn, kiuj plibonigas produktivecon, decidon kaj komercajn rezultojn."
+          },
+          {
+            "title": "IT-Servo kaj Cifereca Subteno",
+            "description": "Liveri pli rapidan, pli inteligentan IT-subtenon kun simpligita serva administrado, aŭtomatigo kaj ciferecaj laborfluoj."
+          },
+          {
+            "title": "Entreprena AI-Regado",
+            "description": "Konstruu respondecan adopton de AI kun forta regado, sekureco, observo, travidebleco kaj riskokontroloj."
+          },
+          {
+            "title": "Inteligentaj IT-Operacioj",
+            "description": "Transformu IT-operaciojn per AI-movita monitorado, aŭtomatigo, prognozaj komprenoj kaj iniciatema problemo-solvo."
+          },
+          {
+            "title": "Administrado de Klienta Sperto",
+            "description": "Kreu personecigitajn klientajn vojaĝojn kun inteligenta engaĝiĝo, aŭtomatigo, analizo kaj senjuntaj ciferecaj spertoj."
+          },
+          {
+            "title": "Komerca Strategio & Portfolio Optimumigo",
+            "description": "Akordigu teknologiajn investojn kun komercaj celoj por optimumigi biletujojn, plibonigi efikecon kaj stiri daŭrigeblan kreskon."
+          },
+          {
+            "title": "IT Aktivo kaj Teknologia Vivociklo",
+            "description": "Administru IT-aktivaĵojn dum ilia vivociklo kun pli bona videbleco, aŭtomatigo, kostkontrolo kaj teknologia planado."
+          },
+          {
+            "title": "Entreprena Risko & Konformeco",
+            "description": "Identigu, taksu kaj administru entreprenajn riskojn dum plifortigo de plenumo, kontrolo kaj organiza rezistemo."
+          },
+          {
+            "title": "Operacioj pri Cibersekureco kaj Minaco",
+            "description": "Protektu ciferecajn mediojn per iniciatema minaco-detekto, sekurecaj operacioj, okazaĵrespondo kaj kontinua monitorado."
+          },
+          {
+            "title": "Kampa Laborforta Aŭtomatigo",
+            "description": "Povigu kampajn teamojn per inteligenta planado, moveblaj laborfluoj, aŭtomatigo kaj realtempa funkcia videbleco."
+          },
+          {
+            "title": "Dungita Sperto & HR-Servoj",
+            "description": "Simpligu dungitajn servojn per ciferecaj laborfluoj, memservaj solvoj, aŭtomatigo kaj personigitaj dungitaj spertoj."
+          },
+          {
+            "title": "Unuigita Cifereca Laborejo",
+            "description": "Konektu homojn, procezojn, aplikojn kaj kunlaborajn ilojn per sekura, inteligenta kaj senjunta cifereca laborejo."
+          }
+        ]
+      },
+      "erp": {
+        "title": "ERP-solvoj",
+        "heading": "Unu Platformo, Preta por Io ajn",
+        "sub": "Ebligi entreprenojn per konektitaj, inteligentaj kaj skaleblaj entreprenaj administradsolvoj.",
+        "promoTitle": "Modula ERP por Kresko",
+        "promoText": "Deploji modulajn ERP-funkciojn rapide sen la komplekseco de tradiciaj plurjaraj sistemoj.",
+        "items": [
+          {
+            "title": "Komerca Proceza Aŭtomatigo",
+            "description": "Simpligu financon, HR, vendon, aĉetadon kaj ĉiutagajn operaciojn."
+          },
+          {
+            "title": "Integrita Komerca Administrado",
+            "description": "Konekti fakojn, datumojn kaj laborfluojn sur unuigita platformo."
+          },
+          {
+            "title": "Financo & Kontado",
+            "description": "Plibonigu financan videblecon, raportadon, buĝetadon kaj konformecon."
+          },
+          {
+            "title": "HR & Salajro",
+            "description": "Simpligu dungitan administradon, ĉeeston, salajro-etaton kaj HR-procezojn."
+          },
+          {
+            "title": "Provizoĉeno-Administrado",
+            "description": "Optimumigu aĉetadon, inventaron, vendistojn kaj loĝistikon."
+          },
+          {
+            "title": "Vendado & Klienta Administrado",
+            "description": "Administri kondukojn, klientojn, mendojn kaj vendan rendimenton efike."
+          },
+          {
+            "title": "Realtempa Analizo kaj Raportado",
+            "description": "Transformu komercajn datumojn en ageblajn komprenojn por pli rapidaj decidoj."
+          },
+          {
+            "title": "Nubaj ERP-Solvoj",
+            "description": "Ebligu sekuran, skaleblan kaj atingeblan entreprenan administradon de ie ajn."
+          }
+        ]
+      },
+      "it": {
+        "title": "IT-Solvoj",
+        "heading": "Niaj IT-Solvoj",
+        "sub": "Transformu IT-operaciojn per inteligentaj, iniciatemaj kaj skaleblaj ciferecaj solvoj, kiuj plibonigas rendimenton, produktivecon kaj komercan kontinuecon.",
+        "promoTitle": "Fidinda IT-Infrastrukturo",
+        "promoText": "Konstruu rezisteman teknologian fundamenton kun administritaj nubo, sekureco kaj DevOps servoj.",
+        "items": [
+          {
+            "title": "Administrado de IT-Servo",
+            "description": "Simpligu IT-servojn, okazaĵojn, petojn kaj laborfluojn por pli rapida rezolucio."
+          },
+          {
+            "title": "IT Operacia Administrado",
+            "description": "Monitoru infrastrukturon kaj aplikaĵojn per iniciatemaj, datumaj IT-operacioj."
+          },
+          {
+            "title": "IT Aktiva Administrado",
+            "description": "Administri teknologiajn aktivaĵojn efike reduktante kostojn, riskojn kaj vivciklokompleksecon."
+          },
+          {
+            "title": "Entreprena Arkitekturo",
+            "description": "Akordigu komercan strategion kun la ĝustaj teknologiaj arkitekturo kaj investoj."
+          },
+          {
+            "title": "Nuba Regado",
+            "description": "Plibonigu nuban sekurecon, konformecon, rendimenton kaj kostadministradon."
+          },
+          {
+            "title": "Ciferecaj Operacioj",
+            "description": "Aŭtomatigu IT-procezojn kaj akiru realtempan videblecon tra via teknologia medio."
+          },
+          {
+            "title": "Observeblo & Monitorado",
+            "description": "Detektu agadoproblemojn frue kaj konservu fidindajn ciferecajn spertojn."
+          },
+          {
+            "title": "Strategia Portfolio-Administrado",
+            "description": "Konekti IT-investojn kun komercaj prioritatoj kaj mezureblaj rezultoj."
+          }
+        ]
+      },
+      "crm": {
+        "title": "CRM-Solvoj",
+        "heading": "Niaj CRM-Solvoj",
+        "sub": "Liveru konektitajn, personigitajn kaj inteligentajn klientajn spertojn tra la tuta klienta vojaĝo.",
+        "promoTitle": "Fermu Pliajn Ofertojn",
+        "promoText": "Potencigu viajn vendajn kaj subtenajn teamojn per unuigitaj klientdatenoj kaj inteligenta aŭtomatigo.",
+        "items": [
+          {
+            "title": "Administrado de Klienta Servo",
+            "description": "Plibonigu klientan subtenon per pli rapida rezolucio, memservo kaj inteligentaj laborfluoj."
+          },
+          {
+            "title": "Venda Aŭtomatigo",
+            "description": "Aŭtomatigu vendajn agadojn, administru kondukojn kaj helpu teamojn fermi ŝancojn pli rapide."
+          },
+          {
+            "title": "Vendado kaj Ordo-Administrado",
+            "description": "Plifaciligu la vojaĝon de plumbo al mendo kaj plibonigu enspezan videblecon."
+          },
+          {
+            "title": "Administrado de Kampa Servo",
+            "description": "Optimumigu kampajn operaciojn, planadon, sendon kaj teknikistan produktivecon."
+          },
+          {
+            "title": "Administrado de Klienta Sperto",
+            "description": "Kreu senjuntajn kaj personecigitajn spertojn tra ĉiu klienta tuŝpunkto."
+          },
+          {
+            "title": "CRM-Analitiko kaj Enrigardoj",
+            "description": "Transformu klientajn datumojn en ageblajn komprenojn por pli inteligentaj komercaj decidoj."
+          },
+          {
+            "title": "Merkata Aŭtomatigo",
+            "description": "Aŭtomatigu kampanjojn, klientan engaĝiĝon kaj plumbon."
+          },
+          {
+            "title": "AI-Powered CRM",
+            "description": "Uzu inteligentan aŭtomatigon kaj AI-komprenojn por plibonigi produktivecon kaj klientan engaĝiĝon."
+          }
+        ]
+      },
+      "hrms": {
+        "title": "HRMS Solvoj",
+        "heading": "Niaj HRMS-Solvoj",
+        "sub": "Potencigu vian laborantaron per inteligentaj, integraj kaj aŭtomatigitaj HR-solvoj, kiuj simpligas administradon de dungitoj kaj plibonigas la laborejan sperton.",
+        "promoTitle": "Simpligu HR-Operaciojn",
+        "promoText": "Aŭtomatigu HR-laborfluojn de rekrutado ĝis emeritiĝo per moderna, unue dungita platformo.",
+        "items": [
+          {
+            "title": "Kerna HR-Administrado",
+            "description": "Administri dungitajn informojn, organizajn strukturojn kaj HR-procezojn efike."
+          },
+          {
+            "title": "Administrado de Salajro",
+            "description": "Aŭtomatigu salajro-etaton, salajro-traktadon, deprenojn kaj plenumadon."
+          },
+          {
+            "title": "Memservo de dungitoj",
+            "description": "Donu al dungitoj facilan aliron al HR-servoj, petoj, dokumentoj kaj informoj."
+          },
+          {
+            "title": "Administrado de Ĉeestado kaj Forlaso",
+            "description": "Simpligu sekvadon de ĉeesto, foripetojn, deĵorojn kaj laborhorojn."
+          },
+          {
+            "title": "Rekrutado & Enŝipiĝo",
+            "description": "Plifaciligi dungadon, administradon de kandidatoj, enŝipiĝon kaj integriĝon de dungitoj."
+          },
+          {
+            "title": "Efikeco-Administrado",
+            "description": "Fiksu celojn, spuru rendimenton kaj subtenu kontinuan disvolvon de dungitoj."
+          },
+          {
+            "title": "Lernado & Evoluo",
+            "description": "Administri trejnajn programojn, disvolvadon de kapabloj kaj kreskon de dungitoj."
+          },
+          {
+            "title": "HR-Analitiko kaj Raportado",
+            "description": "Transformu laborfortajn datumojn en ageblajn komprenojn por pli bonaj HR-decidoj."
+          },
+          {
+            "title": "AI-Powered HR-Aŭtomatigo",
+            "description": "Aŭtomatigu ripetemajn HR-taskojn kaj liveru pli rapidajn, personigitajn dungitajn spertojn."
+          }
+        ]
+      },
+      "appdev": {
+        "title": "Disvolviĝo de App",
+        "heading": "Niaj Servoj pri Disvolvado de App",
+        "sub": "Konstruu sekurajn, skaleblajn kaj alt-efikecajn aplikaĵojn, kiuj akcelas komercan kreskon kaj simpligas kompleksajn procezojn.",
+        "promoTitle": "Konstruu Apojn Uzantoj Amas",
+        "promoText": "De ideo ĝis lanĉo, nia teamo dizajnas kaj disvolvas altkvalitajn poŝtelefonajn kaj ret-aplikaĵojn kiuj skalas.",
+        "items": [
+          {
+            "title": "Propra Aplika Disvolviĝo",
+            "description": "Konstruu adaptitajn aplikojn desegnitajn laŭ viaj unikaj komercaj postuloj."
+          },
+          {
+            "title": "Disvolviĝo pri Retejo kaj Poŝtelefono",
+            "description": "Liveru senjuntajn ciferecajn spertojn tra TTT, poŝtelefono kaj pluraj aparatoj."
+          },
+          {
+            "title": "Enterprise Aplika Disvolviĝo",
+            "description": "Disvolvu skaleblajn solvojn, kiuj integriĝas kun viaj ekzistantaj komercaj sistemoj."
+          },
+          {
+            "title": "Malaltkoda & Senkoda Evoluo",
+            "description": "Akcelu aplikaĵan liveron per flekseblaj malaltkodaj evoluaj platformoj."
+          },
+          {
+            "title": "API & Sistemintegriĝo",
+            "description": "Konekti aplikaĵojn, platformojn kaj triajn sistemojn por senjunta datumfluo."
+          },
+          {
+            "title": "Modernigo de aplikaĵo",
+            "description": "Transformu heredajn aplikojn en modernajn, skaleblajn kaj efikajn solvojn."
+          },
+          {
+            "title": "AI-Potraj Aplikoj",
+            "description": "Integri AI, aŭtomatigon kaj inteligentajn kapablojn en komercajn aplikaĵojn."
+          },
+          {
+            "title": "Aplika Subteno kaj Prizorgado",
+            "description": "Certigu kontinuan agadon, sekurecon, ĝisdatigojn kaj fidindecon."
+          }
+        ]
+      }
+    }
+  },
+  "techNav": {
+    "aiRobotics": "AI & Robotiko",
+    "businessAutomation": "Komerca Aŭtomatigo",
+    "cloudMigrations": "Nubaj Migradoj",
+    "dataCenters": "Datumcentroj",
+    "cognitiveAnalyticsAi": "Kogna Analizo & AI",
+    "informationReportingSystems": "Informoj kaj Raportaj Sistemoj",
+    "managedServices": "Administritaj Servoj",
+    "oneStopSolutions": "Unuhaltaj Solvoj"
+  },
+  "servicePage": {
+    "serviceOverview": "Superrigardo de Servo",
+    "whatWeOffer": "Kion Ni Ofertas",
+    "whyChooseRezonants": "Kial Elekti Rezonants",
+    "benefitsOfWorking": "Avantaĝoj de labori kun ni",
+    "techStack": "Teknika Stako",
+    "technologiesWeUse": "Teknologioj, kiujn ni uzas",
+    "ourWork": "Nia Laboro",
+    "relatedProjects": "Rilataj projektoj",
+    "viewCaseStudy": "Rigardu kazesploron",
+    "readyToDiscuss": "Ĉu vi pretas diskuti pri via {{title}} projekto?",
+    "seniorEngineersReady": "Niaj altrangaj inĝenieroj pretas helpi vin plani, desegni kaj konstrui vian solvon.",
+    "startProject": "Komencu vian projekton",
+    "howItWorks": "Kiel Ĝi Funkcias"
+  },
+  "consultation": {
+    "badge": "Rezervu Senpagan Konsulton",
+    "title": "Ni Planu Vian Projekton <span class='hero-accent'>Kune</span>",
+    "description": "Programu sendevigan vokon kun niaj konsultistoj. Diskutu viajn postulojn, esploru la ĝustan teknikan aliron kaj ricevu klaran citaĵon - ĉio en malpli ol 30 minutoj.",
+    "bookSlot": "Rezervu Vian Slot",
+    "howItWorks": "Kiel Ĝi Funkcias",
+    "accountRequired": "Konto Bezonata",
+    "signInToBook": "Ensalutu por rezervi vian konsulton",
+    "accountRequiredText": "Vi bezonos Rezonants-konton por peti konsulton. Ensalutu aŭ kreu unu — ĝi daŭras malpli ol minuton.",
+    "signInToContinue": "Ensalutu por Daŭrigi",
+    "newToRezonants": "Nova al Rezonants?",
+    "createAccount": "Kreu konton",
+    "requestMeeting": "Petu Renkontiĝon",
+    "tellUsAboutProject": "Diru al Ni Pri Via Projekto",
+    "fillDetails": "Plenigu viajn detalojn kaj ni konfirmos vian konsultan fekon per retpoŝto.",
+    "fullName": "Plena Nomo *",
+    "email": "Retpoŝto *",
+    "phone": "Telefono *",
+    "company": "Kompanio",
+    "serviceOfInterest": "Interesa Servo *",
+    "selectService": "Elektu servon...",
+    "preferredDate": "Preferata Dato *",
+    "preferredTime": "Preferata Tempo *",
+    "selectTimeSlot": "Elektu tempoperiodon...",
+    "estimatedBudget": "Laŭtaksa Buĝeto",
+    "selectRange": "Elektu gamon...",
+    "projectRequirements": "Projektaj Postuloj",
+    "booking": "Rezervado…",
+    "bookFreeConsultation": "Rezervu Mian Senpagan Konsulton",
+    "freeNote": "100% senpage kaj sen devigo. Ni kutime respondas ene de 24 horoj.",
+    "whatToExpect": "Kion Atendi",
+    "preferToReachUs": "Preferas Rekte Atingi Nin?",
+    "callUs": "Voku nin",
+    "emailUs": "Retpoŝtu al ni",
+    "visitUs": "Vizitu nin",
+    "whyBookWithUs": "Kial Rezervi Kun Ni",
+    "freeCallTitle": "Senpaga Voko Kiu Efektive Helpas",
+    "freeCallNoPressure": "Senpaga Voko, Sen Premo",
+    "freeCallNoPressureText": "Ĉiu unua konsulto estas senpaga. Ne estas devo aĉeti - nur honesta konsilo.",
+    "seniorConsultants": "Nur Senioraj Konsultistoj",
+    "seniorConsultantsText": "Via kunveno estas gvidata de altrangaj inĝenieroj kaj konsilistoj, kiuj konstruas por vivtenilo.",
+    "clearTimelines": "Klarigi Templiniojn kaj Citaĵojn",
+    "clearTimelinesText": "Foriru kun difinita sekva paŝo, realisma templinio kaj travidebla prezo por via projekto.",
+    "services": {
+      "customSoftware": "Propra Programaro Disvolviĝo",
+      "webMobile": "Disvolviĝo pri Retejo kaj Poŝtelefono",
+      "cloudDevops": "Cloud & DevOps Solvoj",
+      "aiMl": "AI & Maŝina Lernado",
+      "itConsulting": "IT-Konsultado",
+      "digitalMarketing": "Cifereca Merkatado & SEO",
+      "erpSolutions": "ERP-Solvoj",
+      "other": "Aliaj / Ankoraŭ ne certas"
+    },
+    "budgets": {
+      "under1L": "Sub ₹ 1L",
+      "1to5L": "₹ 1L - ₹ 5L",
+      "5to10L": "₹ 5L - ₹ 10L",
+      "above10L": "₹10L+",
+      "notDecided": "Ankoraŭ ne decidita"
+    },
+    "expectPoints": {
+      "understandGoals": {
+        "title": "Komprenu viajn celojn",
+        "text": "Ni aŭskultas unue. 30-minuta voko por mapi viajn komercajn bezonojn, spektantaron kaj deziratajn rezultojn."
+      },
+      "technicalDirection": {
+        "title": "Akiru teknikan direkton",
+        "text": "Niaj inĝenieroj dividas la ĝustajn arkitekturon, staplon kaj aliron por via projekto."
+      },
+      "clearQuote": {
+        "title": "Ricevu klaran citaĵon",
+        "text": "Foriru kun travidebla takso, templinio kaj sekvaj paŝoj — sen devigo."
+      }
+    },
+    "validation": {
+      "nameRequired": "Plena nomo estas bezonata.",
+      "emailRequired": "Retpoŝto estas bezonata.",
+      "emailInvalid": "Enigu validan retpoŝton.",
+      "phoneRequired": "Telefonnumero estas bezonata.",
+      "phoneInvalid": "Enigu validan telefonnumeron.",
+      "serviceRequired": "Bonvolu elekti servon.",
+      "dateRequired": "Elektu preferatan daton.",
+      "timeRequired": "Elektu preferatan tempon.",
+      "messageTooShort": "Aldonu iom pli da detaloj (almenaŭ 10 signoj).",
+      "signInRequired": "Bonvolu ensaluti por rezervi vian konsulton.",
+      "couldNotBook": "Ne eblis rezervi vian konsulton. Kontrolu ke la konsulttabelo ekzistas, tiam provu denove.",
+      "bookedSuccess": "Konsulto mendita! Nia teamo baldaŭ konfirmos vian tempoperiodon per retpoŝto."
+    }
+  },
+  "auth": {
+    "welcomeBack": "Bonvenon Reen",
+    "createAccount": "Kreu konton",
+    "forgotPassword": "Forgesis Pasvorton",
+    "createNewPassword": "Kreu Novan Pasvorton",
+    "welcomeBackDesc": "Ensalutu al via Rezonants-konto.",
+    "createAccountDesc": "Aliĝu hodiaŭ al Rezonants.",
+    "forgotDesc": "Enigu vian retpoŝton kaj ni sendos al vi ligilon por restarigi vian pasvorton.",
+    "recoveryDesc": "Elektu fortan novan pasvorton por via konto.",
+    "fullName": "Plena Nomo",
+    "email": "Retpoŝto",
+    "password": "Pasvorto",
+    "newPassword": "Nova Pasvorto",
+    "confirmPassword": "Konfirmu Pasvorton",
+    "confirmNewPassword": "Konfirmu Novan Pasvorton",
+    "forgotPasswordLink": "Ĉu vi forgesis pasvorton?",
+    "privacyPolicy": "Mi akceptas la politikon de Rezonants <1>Privateco kaj Sekureco</1>.",
+    "sendResetLink": "Sendu Restarigi Ligon",
+    "signIn": "Ensalutu",
+    "signUp": "Aliĝu",
+    "pleaseWait": "Bonvolu atendi...",
+    "rememberedPassword": "Ĉu vi memoris vian pasvorton?",
+    "signInLink": "Ensalutu",
+    "noAccount": "Ĉu vi ne havas konton?",
+    "signUpLink": "Aliĝu",
+    "hasAccount": "Ĉu jam havas konton?",
+    "changedMind": "Ĉu vi ŝanĝis opinion?",
+    "backToSignIn": "Reen por ensaluti",
+    "resetSent": "Sendita ligilo por rekomencigita pasvorto! Kontrolu vian retpoŝton por krei novan pasvorton.",
+    "passwordUpdated": "Via pasvorto estas ĝisdatigita. Ensalutu per via nova pasvorto.",
+    "accountCreated": "Konto kreita! Kontrolu vian retpoŝton por konfirmi vian aliĝon, tiam ensalutu.",
+    "validation": {
+      "fullNameRequired": "Plena nomo estas bezonata.",
+      "emailRequired": "Retpoŝto estas bezonata.",
+      "emailInvalid": "Enigu validan retpoŝton.",
+      "passwordRequired": "Pasvorto estas bezonata.",
+      "passwordMinLength": "Pasvorto devas esti almenaŭ 6 signoj.",
+      "passwordsNoMatch": "Pasvortoj ne kongruas.",
+      "acceptTerms": "Bonvolu akcepti la Privatecan Politikon kaj Sekurecpolitikon de Rezonants por daŭrigi."
+    }
+  },
+  "chatbot": {
+    "chatWithRezonantsAi": "Babilu kun Rezonants AI",
+    "openChatLabel": "Malfermu la babilejon de Rezonants AI Assistant",
+    "chatTitle": "Rezonants AI-Asistanto",
+    "online": "Rete",
+    "expandLabel": "Plivastigu la babilejon",
+    "minimizeLabel": "Minimumu la babilejon",
+    "closeLabel": "Fermu la babilejon",
+    "expand": "Plivastigi",
+    "minimize": "Minimumigi",
+    "close": "Fermu",
+    "popularTopics": "Popularaj temoj",
+    "askPlaceholder": "Demandu min pri Rezonants...",
+    "messageLabel": "Mesaĝu al la Rezonants AI-Asistanto",
+    "sendLabel": "Sendu mesaĝon",
+    "sendTitle": "Sendu mesaĝon",
+    "enterToSend": "Enigu por sendi · Shift+Enter por nova linio",
+    "newChat": "Nova babilejo",
+    "typing": "Rezonants AI tajpas",
+    "menuOptions": "Menuopcioj",
+    "greetingMorning": "Bonan matenon",
+    "greetingAfternoon": "Bonan posttagmezon",
+    "greetingEvening": "Bonan vesperon",
+    "welcomeText": "! 👋 Bonvenon al Rezonants.\nMi estas la Rezonants AI-Asistanto. Mi povas helpi vin esplori niajn servojn, teknologiojn kaj kontaktinformojn."
+  },
+  "cookieConsent": {
+    "title": "Ni aprezas vian privatecon",
+    "description": "Ni uzas kuketojn por plibonigi vian foliuman sperton. Vi povas akcepti ĉiujn kuketojn, malakcepti neesencajn kuketojn aŭ agordi viajn preferojn. Esencaj kuketoj ĉiam estas ebligitaj por certigi, ke la retejo funkcias ĝuste.",
+    "acceptAll": "Akceptu Ĉion",
+    "rejectNonEssential": "Malakcepti Neesencajn",
+    "managePreferences": "Administri Preferojn",
+    "privacyPolicy": "Privateca Politiko"
+  },
+  "cookiePreferences": {
+    "title": "Administri Kuketajn Preferojn",
+    "description": "Elektu kiujn kategoriojn de kuketoj vi permesas. Esencaj kuketoj restas ebligitaj por konservi la retejon funkcianta.",
+    "essential": "Nepra",
+    "essentialDesc": "Bezonata por ke la retejo funkciu (aŭtentikigo, sekureco, ŝarĝoekvilibro). Ĉi tiuj ne povas esti malŝaltitaj.",
+    "analytics": "Analitiko",
+    "analyticsDesc": "Helpu nin kompreni kiel vizitantoj uzas la retejon por ke ni povu plibonigi ĝin. Malŝaltita defaŭlte.",
+    "marketing": "Merkatado",
+    "marketingDesc": "Uzita por montri al vi koncernajn ofertojn kaj kampanjojn. Malŝaltita defaŭlte.",
+    "cancel": "Nuligi",
+    "savePreferences": "Konservu Preferojn"
+  },
+  "privacy": {
+    "badge": "Laŭleĝa",
+    "title": "Privateca Politiko",
+    "description": "Kiel Rezonants kolektas, uzas kaj protektas viajn personajn informojn kaj kuketojn.",
+    "lastUpdated": "Lasta ĝisdatigo: aŭgusto 2026",
+    "managingPreferences": "Administri viajn preferojn",
+    "managingPreferencesDesc": "Vi povas revizii aŭ ŝanĝi kiujn kuketojn vi permesas iam ajn de la kuketo-preferpanelo.",
+    "manageCookiePreferences": "Administri Kuketajn Preferojn",
+    "section1": {
+      "title": "1. Informoj Ni Kolektas",
+      "body": [
+        "Ni kolektas informojn, kiujn vi provizas rekte (kiel via nomo kaj retpoŝtadreso kiam vi sendas la kontaktformularon aŭ kreas konton) kaj informojn kolektitajn aŭtomate per kuketoj kaj similaj teknologioj, kiel vizititaj paĝoj, tipo de aparato kaj proksimuma loko."
+      ]
+    },
+    "section2": {
+      "title": "2. Kiel Ni Uzas Kuketojn",
+      "body": [
+        "Esencaj kuketoj ĉiam estas ebligitaj ĉar la retejo ne povas funkcii ĝuste sen ili. Ili konservas seancon kaj aŭtentikigstaton kaj memoras viajn kuketajn preferojn.",
+        "Analizaj kuketoj helpas nin kompreni kiel vizitantoj uzas la retejon por ke ni povu plibonigi ĝin. Merkataj kuketoj estas uzataj por montri al vi koncernajn ofertojn kaj kampanjojn. Ĉi tiuj kategorioj estas ebligitaj nur kun via konsento kaj povas esti ŝanĝitaj en ajna momento de la kuketo-preferpanelo."
+      ]
+    },
+    "section3": {
+      "title": "3. Jura Bazo (GDPR)",
+      "body": [
+        "Ni prilaboras personajn datumojn pri la sekvaj leĝaj bazoj: via konsento (por neesencaj kuketoj kaj merkatado), plenumo de kontrakto (por servoj, kiujn vi petas), laŭleĝa devo kaj legitimaj interesoj, kie viaj rajtoj ne superas ilin. Vi povas retiri konsenton iam ajn sen influi la laŭleĝecon de prilaborado farita antaŭ retiriĝo."
+      ]
+    },
+    "section4": {
+      "title": "4. Viaj Rajtoj",
+      "body": [
+        "Depende de via loko, vi povas havi la rajton aliri, korekti, forigi aŭ limigi la prilaboradon de viaj personaj datumoj, kontraŭstari pri prilaborado kaj kontraŭ porteblo de datumoj. Vi ankaŭ povas prezenti plendon ĉe via loka kontrola aŭtoritato."
+      ]
+    },
+    "section5": {
+      "title": "5. Retenado kaj Sekureco de Datumoj",
+      "body": [
+        "Ni konservas personajn datumojn nur tiom longe kiom necesas por la celoj priskribitaj en ĉi tiu politiko. Ni aplikas taŭgajn teknikajn kaj organizajn mezurojn por protekti viajn informojn kontraŭ neaŭtorizita aliro, ŝanĝo, malkaŝo aŭ detruo."
+      ]
+    },
+    "section6": {
+      "title": "6. Triaj Servoj",
+      "body": [
+        "Iuj kuketoj povas esti starigitaj de triaj provizantoj (kiel analizaj aŭ reklamaj platformoj) kiuj helpas nin funkciigi la retejon. Ĉi tiuj provizantoj prilaboras datumojn laŭ siaj propraj privatecaj politikoj kaj nur kiam vi konsentis pri la koncerna kategorio."
+      ]
+    },
+    "contactUs": "7. Kontaktu Nin",
+    "contactUsText": "Por demandoj pri ĉi tiu politiko aŭ viaj personaj datumoj, kontaktu nin ĉe <1>info@rezonants.com</1> aŭ voku <3>18004103299</3>."
+  },
+  "ourServices": {
+    "eyebrow": "Servoj",
+    "title": "Niaj Servoj",
+    "sub": "Fin-al-finaj teknologiaj solvoj desegnitaj por helpi entreprenojn novigi, grimpi kaj sukcesi.",
+    "learnMore": "Lernu Pli",
+    "items": {
+      "inceptionToDeployment": {
+        "title": "Komenco Al Deplojo",
+        "text": "De komenca koncepto ĝis produktaddeplojo, ni liveras skaleblajn solvojn konstruitajn por realaj komercaj bezonoj."
+      },
+      "businessProcessAutomation": {
+        "title": "Komerca Proceza Aŭtomatigo",
+        "text": "Fluigi ripetemajn procezojn kaj plibonigu funkcian efikecon per inteligenta komerca aŭtomatigo."
+      },
+      "centerOfExcellence": {
+        "title": "Centro de Plejboneco",
+        "text": "Konstruu specialajn teknologiajn kapablojn kaj kompetentecon por stiri novigon, kvaliton kaj kontinuan plibonigon."
+      },
+      "customDevelopmentCustomization": {
+        "title": "Propra Disvolviĝo & Personigo",
+        "text": "Tajlitaj programaj solvoj desegnitaj ĉirkaŭ viaj unikaj komercaj postuloj kaj laborfluoj."
+      },
+      "digitalTransformation": {
+        "title": "Cifereca Transformo",
+        "text": "Modernigu vian komercon per ciferecaj strategioj, teknologioj kaj solvoj, kiuj kreas mezureblan efikon."
+      },
+      "endToEndSolutionFramework": {
+        "title": "Fin-al-Fina Solvokadro",
+        "text": "Integraj teknologiaj solvoj, kiuj ligas strategion, evoluon, efektivigon kaj daŭrajn operaciojn."
+      },
+      "migrationModernization": {
+        "title": "Migrado & Modernigo",
+        "text": "Modernigu heredajn aplikojn kaj migri sistemojn al skaleblaj, sekuraj kaj efikaj teknologiaj platformoj."
+      },
+      "pocPilotImplementation": {
+        "title": "Pruvo de Koncepto (PoC) & Pilota Efektivigo",
+        "text": "Konfirmu ideojn rapide per fokusitaj prototipoj kaj pilotaj efektivigoj antaŭ plenskala deplojo."
+      },
+      "sharedServicesManagedOperations": {
+        "title": "Komunaj Servoj & Administritaj Operacioj",
+        "text": "Fidindaj administritaj teknologiaj operacioj, kiuj plibonigas rendimenton, skaleblon kaj komercan kontinuecon."
+      }
+    }
+  },
+  "footer": {
+    "company": "Kompanio",
+    "about": "Pri",
+    "perspectives": "Perspektivoj",
+    "technologies": "Teknologioj",
+    "contact": "Kontaktu",
+    "services": "Servoj",
+    "getInTouch": "Kontaktu",
+    "bookConsultation": "Rezervu konsulton",
+    "copyright": "© {{year}} Rezonants. Ĉiuj rajtoj rezervitaj.",
+    "cookiePreferences": "Kuketaj Preferoj",
+    "privacyPolicy": "Privateca Politiko",
+    "description": "Rezonants estas kompanio pri IT-servoj kaj ciferecaj produktoj en Hajderabado, Barato. Ni desegnas, konstruas kaj skalas programaron por kompanioj, kiuj konkuras pri ekzekuto.",
+    "locations": "Niaj Lokoj",
+    "indiaHq": "Hajderabado, Barato — Barata Ĉefsidejo",
+    "southAfrica": "Sudafriko — REZONANTS PVT LTD",
+    "products": "Produktoj",
+    "followUs": "Sekvu nin",
+    "aboutUs": "Pri Ni",
+    "contactUs": "Kontaktu Nin",
+    "headline": "Ni konstruu",
+    "headlineAccent": "kio sekvas.",
+    "subheadline": "Kunlaboru kun Rezonants por transformi ideojn en realan komercan efikon.",
+    "credoIdeas": "IDEOJ",
+    "credoSolutions": "SOLVOJ",
+    "credoPeople": "HOMOJ",
+    "credoBrighterTomorrow": "PLI BRILA MORGAĜO",
+    "hyderabadLocation": "Hajderabado, Barato",
+    "vijayawadaLocation": "Vijayawada, Andra-Pradeŝo",
+    "southAfricaLocation": "Sudafriko – REZONANTS PVT LTD",
+    "termsOfUse": "Uzokondiĉoj",
+    "accessibility": "Alirebleco",
+    "quickLinks": "Rapidaj Ligiloj",
+    "explore": "Esplori",
+    "vijayawadaOffice": "Vijayawada Oficejo",
+    "allRightsReserved": "Ĉiuj rajtoj rezervitaj.",
+    "hyderabadPin": "Hajderabado, Hindio",
+    "southAfricaPin": "Sudafriko"
+  },
+  "common": {
+    "loading": "Ŝarĝante...",
+    "error": "Eraro",
+    "retry": "Reprovi",
+    "close": "Fermu",
+    "backToTop": "Reen al la supro",
+    "skipToContent": "Saltu al enhavo",
+    "scroll": "Rulumo",
+    "whatWeOffer": "Kion Ni Ofertas",
+    "howItWorks": "Kiel Ĝi Funkcias"
+  },
+  "phoneInput": {
+    "searchPlaceholder": "Serĉu landon aŭ kodon...",
+    "noResults": "Neniuj landoj trovitaj.",
+    "countryCodeLabel": "Landa vokokodo",
+    "required": "Telefonnumero estas bezonata.",
+    "incomplete": "Telefonnumero devas enhavi precize {{count}} ciferojn.",
+    "tooLong": "Telefonnumero ne povas enhavi pli ol {{count}} ciferojn.",
+    "invalid": "Enigu validan telefonnumeron por {{country}}."
+  },
+  "perspectives": {
+    "topic": "Temo:",
+    "published": "Eldonita:",
+    "readingTime": "Legotempo:",
+    "author": "Aŭtoro:",
+    "authorName": "Rezonants Enterprise Architecture Studio",
+    "techArea": "Teknologia Areo",
+    "purpose": "Celo",
+    "talkToExperts": "Parolu al Niaj Fakuloj",
+    "viewAll": "Rigardu Ĉiujn Perspektivojn",
+    "exploreMore": "ESPLORU PLI PERSPEKTIVOJ",
+    "continueExploring": "Daŭre Esplori Enterprise Technology Insights",
+    "readPerspective": "Legu Perspektivon"
+  },
+  "technologiesDetails": {
+    "ai-robotics-solutions": {
+      "title": "AI & Robotika Solvoj",
+      "tagline": "Inteligenta Teknologio. Aŭtomatigitaj Operacioj. Pli Saĝa Komerco.",
+      "heroBadge": "Inteligentaj Aŭtonomaj Sistemoj",
+      "overview": [
+        "Artefarita Inteligenteco kaj Robotiko transformas la manieron kiel organizoj funkcias, faras decidojn kaj liveras valoron. Niaj solvoj pri AI kaj Robotiko helpas entreprenojn preterpasi tradician aŭtomatigon kombinante artefaritan inteligentecon, maŝinlernadon, komputilan vidon, inteligentan procezan aŭtomatigon kaj robotikon por solvi praktikajn komercajn defiojn.",
+        "Ni desegnas inteligentajn solvojn ĉirkaŭ mezureblaj komercaj rezultoj. Ĉu la postulo estas aŭtomatigi ripetan laboron, analizi grandajn volumojn de informoj, detekti ŝablonojn, subteni decidojn aŭ enkonduki robotikon en operaciajn mediojn, nia aliro fokusiĝas pri fidindeco, skaleblo, sekureco kaj longdaŭra komerca valoro."
+      ],
+      "transformation": [
+        "Modernaj organizoj generas grandegajn kvantojn da datumoj kaj faras milojn da ripetaj agadoj ĉiutage. AI kaj robotiko povas transformi ĉi tiujn agadojn en inteligentajn, aŭtomatigitajn laborfluojn, kiuj plibonigas produktivecon permesante al dungitoj koncentriĝi pri pli altvaloraj respondecoj.",
+        "Niaj solvoj povas helpi organizojn aŭtomatigi ripetajn operaciojn, redukti manan intervenon, plibonigi precizecon, analizi kompleksajn informojn, subteni pli rapidajn decidojn, optimumigi rimedojn, plibonigi klientajn spertojn kaj konstrui skaleblajn inteligentajn sistemojn."
+      ],
+      "capabilities": [
+        {
+          "title": "Artefarita Inteligenteco",
+          "desc": "Ni disvolvas AI-movitajn solvojn, kiuj ebligas sistemojn kompreni informojn, identigi ŝablonojn, generi komprenojn kaj subteni komercajn decidojn."
+        },
+        {
+          "title": "Maŝina Lernado",
+          "desc": "Ni evoluigas maŝinlernajn modelojn por prognozo, klasifiko, rekomendsistemoj, detekto de anomalioj, prognoza analizo kaj inteligenta decida subteno."
+        },
+        {
+          "title": "Natura Lingva Prilaborado",
+          "desc": "NLP povas esti uzata por prilabori dokumentojn, kompreni tekston, klasifiki informojn, ĉerpi koncernan enhavon kaj subteni konversaciajn aplikojn."
+        },
+        {
+          "title": "Komputila Vido",
+          "desc": "Komputila vidado-solvoj povas subteni bildklasifikon, objektan detekton, kvalitan inspektadon, dokumentan prilaboradon, vidan monitoradon kaj videoan analizon."
+        },
+        {
+          "title": "Robotiko",
+          "desc": "Robotiko kombinas programaran inteligentecon kun fizikaj sistemoj por aŭtomatigi agadojn, kiuj tradicie postulas manan penadon. Aplikoj povas inkluzivi fabrikadon, loĝistikon, stokadon, inspektadon, materialan manipuladon kaj operacian subtenon."
+        },
+        {
+          "title": "Inteligenta Proceza Aŭtomatigo",
+          "desc": "AI povas esti kombinita kun laborflua aŭtomatigo por krei sistemojn kiuj interpretas informojn, aplikas komercajn regulojn aŭ modelojn kaj iniciatas la taŭgan procezon aŭtomate."
+        }
+      ],
+      "lifecycleSteps": [
+        "Komerca Takso",
+        "Datuma Analizo",
+        "AI-Strategio",
+        "Solva Arkitekturo",
+        "Evoluo",
+        "Integriĝo",
+        "Testado",
+        "Deplojo",
+        "Monitorado",
+        "Optimumigo"
+      ],
+      "benefits": [
+        "Pli alta entreprena operacia produktiveco",
+        "Granda redukto de operaciaj kostoj",
+        "Pli rapida prilaborado kaj milisekunda decida turniĝo",
+        "Plibonigita datumo kaj laborflua precizeco",
+        "Optimumigita fizika kaj komputila resursa utiligo",
+        "Reduktitaj operaciaj riskoj kaj homa eraro",
+        "Senjunta plurplatforma skaleblo",
+        "Plibonigitaj spertoj pri klientoj kaj dungitoj"
+      ],
+      "security": "Entreprenaj AI-solvoj devas esti dezajnitaj kun taŭgaj sekureco, alirkontroloj, datumprotekto, monitorado, modelregado kaj funkciaj sekurigiloj. Ni konsideras ĉi tiujn postulojn de la arkitektura etapo ĝis deplojo kaj daŭra prizorgado por certigi fidindan, produktad-gradan inteligentecon.",
+      "ctaHeadline": "Konstruu Inteligentan Estontecon",
+      "ctaSub": "Faru viajn operaciojn pli inteligentaj. Aŭtomatigu kio gravas. Konstruu por la estonteco."
+    },
+    "business-automation-solutions": {
+      "title": "Komercaj Aŭtomataj Solvoj",
+      "tagline": "Simpligu Procezojn. Forigi Ripeton. Akceli Kreskon.",
+      "heroBadge": "Fin-al-Fina Laborflua Optimumigo",
+      "overview": [
+        "Komerca aŭtomatigo ebligas organizojn anstataŭigi ripetajn manajn agadojn per simpligitaj ciferecaj laborfluoj. Niaj komercaj aŭtomatigaj solvoj helpas kompaniojn plibonigi produktivecon, redukti funkcian kompleksecon, minimumigi erarojn kaj krei konsekvencajn procezojn trans fakoj.",
+        "Ni analizas ekzistantajn laborfluojn, identigas proplempunktojn kaj dizajnas aŭtomatigajn solvojn, kiuj ligas homojn, aplikojn, datumojn kaj komercajn procezojn."
+      ],
+      "transformation": [
+        "Multaj organizoj ankoraŭ dependas de kalkultabeloj, retpoŝtoj, manaj aproboj, ripetema enigo de datumoj, traktado de dokumentoj kaj malkonektitaj aplikaĵoj. Ĉi tiuj procezoj konsumas valoran dungitan tempon kaj povas enkonduki prokrastojn, nekonsekvencojn kaj erarojn.",
+        "Nia aŭtomatiga aliro temigas kompreni la kompletan procezon, forigi nenecesajn paŝojn, integri sistemojn kaj aŭtomatigi la agadojn, kiuj provizas la plej grandan funkcian valoron."
+      ],
+      "capabilities": [
+        {
+          "title": "Laborflua Aŭtomatigo",
+          "desc": "Ni aŭtomatigas plurpaŝajn procezojn implikantajn dungitojn, aplikojn, aprobojn, sciigojn kaj datumojn tra diversaj fakoj."
+        },
+        {
+          "title": "Robota Proceza Aŭtomatigo",
+          "desc": "Programaraj robotoj povas fari ripetajn, regul-bazitajn agadojn kiel ekzemple enigo de datumoj, sistemaj ĝisdatigoj, repaciĝo kaj transdono de informoj."
+        },
+        {
+          "title": "Dokumenta Aŭtomatigo",
+          "desc": "Aŭtomatigitaj dokumentaj laborfluoj povas ĉerpi informojn, validigi datumojn, klasifiki dokumentojn, irigi petojn kaj komenci laŭfluajn procezojn."
+        },
+        {
+          "title": "Aproba Aŭtomatigo",
+          "desc": "Ciferecaj aprobaj laborfluoj aŭtomate direktas petojn al la ĝustaj deciduloj kaj donas realtempan videblecon al pritraktataj agoj."
+        },
+        {
+          "title": "Integriga Aŭtomatigo",
+          "desc": "Ni konektas komercajn aplikaĵojn por ke informoj povu aŭtomate moviĝi inter platformoj sen nenecesa mana interveno."
+        },
+        {
+          "title": "Sciigo Aŭtomatigo",
+          "desc": "Aŭtomatigitaj atentigoj kaj sciigoj helpas dungitojn respondi tuj al gravaj eventoj, templimoj, esceptoj kaj funkciaj ŝanĝoj."
+        }
+      ],
+      "lifecycleSteps": [
+        "Malkovru",
+        "Analizu",
+        "Dezajno",
+        "Aŭtomatigi",
+        "Integri",
+        "Testo",
+        "Deploji",
+        "Monitoro",
+        "Optimumigu"
+      ],
+      "benefits": [
+        "Pliigita teama trairo kaj operacia rapideco",
+        "Ege redukto de manaj eraroj en enigo de datumoj",
+        "Mallongigitaj fin-al-finaj procezdaŭroj",
+        "Unuigita videbleco tra komercaj operacioj",
+        "Normigita transdepartementa observo",
+        "Signife reduktitaj operaciaj elspezoj",
+        "Elasta kapablo skali laborkvantojn senpene",
+        "Povigitaj teamoj koncentriĝis pri klienta engaĝiĝo kaj strategia laboro"
+      ],
+      "security": "Ni kombinas laborfluajn platformojn kaj RPA kun inteligentaj kuntekst-konsciaj modeloj por certigi rol-bazitan alirkontrolon, ampleksajn reviziajn spurojn kaj striktan observon tra ĉiu aŭtomata transakcio.",
+      "ctaHeadline": "Konstruu Pli Efikajn Operaciojn",
+      "ctaSub": "Aŭtomatigi ripetan laboron. Povigu viajn homojn. Akcelu vian komercon."
+    },
+    "cloud-migration-solutions": {
+      "title": "Nubaj Migradaj Solvoj",
+      "tagline": "Movu al la Nubo kun Konfido.",
+      "heroBadge": "Plurnuba Transformo",
+      "overview": [
+        "Nuba komputado fariĝis kritika komponanto de moderna IT-infrastrukturo. Organizoj movas aplikojn, datumbazojn, laborŝarĝojn kaj infrastrukturon al nubaj medioj por plibonigi skaleblon, haveblecon, flekseblecon kaj operacian efikecon.",
+        "Niaj nubaj migraj servoj helpas organizojn taksi siajn nunajn mediojn, difini migradajn strategiojn, efektivigi migradojn kaj optimumigi laborŝarĝojn post kiam ili moviĝas al la nubo."
+      ],
+      "transformation": [
+        "Nuba migrado estas pli ol movi servilojn de unu medio al alia. Sukcesa migrado postulas zorgan takson de aplikoj, infrastrukturo, dependecoj, sekurecpostuloj, datumoj, rendimento, havebleco kaj komerca kontinueco.",
+        "Ni kreas migradstrategiojn bazitajn sur la nuna medio de la organizo kaj estontaj celoj, elektante la taŭgan migradpadronon por ĉiu laborkvanto."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktura Migrado",
+          "desc": "Ni migras tradiciajn servilojn, stokadon, virtualajn maŝinojn kaj laborŝarĝojn al modernaj nubaj medioj sur AWS, Azure kaj GCP."
+        },
+        {
+          "title": "Aplika Migrado",
+          "desc": "Aplikoj povas esti regastigitaj, replatformitaj, refactorigitaj aŭ restrukturitaj depende de komercaj kaj teknikaj postuloj."
+        },
+        {
+          "title": "Datumbaza Migrado",
+          "desc": "Ni migras datumbazojn konsiderante datumintegrecon, rendimenton, kongruon, haveblecon, sekurecon kaj reakirajn postulojn."
+        },
+        {
+          "title": "Nuba Modernigo",
+          "desc": "Migrado fariĝas ŝanco modernigi aplikaĵojn uzante ujojn, mikroservojn, administritajn datumbazojn, senservilajn servojn kaj nub-denaskajn arkitekturojn."
+        },
+        {
+          "title": "Hibrida Nubo",
+          "desc": "Organizoj, kiuj bezonas kaj surlokan kaj nuban infrastrukturon, povas adopti hibridajn arkitekturojn, kiuj perfekte ligas ekzistantajn sistemojn kun nubaj servoj."
+        },
+        {
+          "title": "Plurnubo",
+          "desc": "Por organizoj funkciigantaj tra pluraj nubaj platformoj, ni helpas desegni laborŝarĝajn strategiojn, kiuj plibonigas flekseblecon, fortikecon kaj regadon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Takso",
+        "Malkovro",
+        "Dependeco-Mapado",
+        "Migrada Strategio",
+        "Arkitektura Dezajno",
+        "Pilota Migrado",
+        "Datuma Migrado",
+        "Aplika Migrado",
+        "Testado",
+        "Produkta Migrado",
+        "Optimumigo"
+      ],
+      "benefits": [
+        "Elasta skaleblo kaj alta resursa havebleco",
+        "Pli granda infrastruktura fleksebleco kaj komerca facilmoveco",
+        "Forigita fizika datencentra prizorgado-ŝarĝo",
+        "Akcelita aplikaĵa funkcio",
+        "Fortika katastrofa reakiro kaj rezerva rezistemo",
+        "Tuja aliro al moderna nuba AI kaj administritaj servoj",
+        "Optimumigita FinOps-regado kaj TCO-redukto",
+        "Daŭra plenumo kaj aŭtomatigitaj sekurecaj bariloj"
+      ],
+      "security": "Sekureco estas integra parto de migrada planado. Ni konsideras identecon kaj aliradministradon, retsekurecon, ĉifradon en-transita kaj ripoza, datumprotekton, aplikaĵan vundeblecon-reviziojn, monitoradon, sekurkopion kaj katastrofan reakiron.",
+      "ctaHeadline": "Via Nuba Vojaĝo, Ĝuste Planita",
+      "ctaSub": "Modernigu vian infrastrukturon. Akceli novigon. Konstruu skaleblan nuban fundamenton."
+    },
+    "data-center-solutions": {
+      "title": "Datumcentraj Solvoj",
+      "tagline": "Fidinda Infrastrukturo por Misio-Kritikaj Operacioj.",
+      "heroBadge": "Misio-Kritika Infrastrukturo",
+      "overview": [
+        "Datumcentroj formas la fundamenton de modernaj ciferecaj entreprenoj. Aplikoj, datumbazoj, entreprenaj sistemoj, komunikadplatformoj kaj kritikaj komercaj servoj dependas de fidinda infrastrukturo.",
+        "Niaj datumcentraj solvoj fokusiĝas al desegnado, modernigo, administrado kaj optimumigo de infrastrukturaj medioj konstruitaj por havebleco, sekureco, skaleblo, rendimento kaj operacia efikeco."
+      ],
+      "transformation": [
+        "Moderna datumcentro postulas pli ol serviloj kaj stokado. Ĝi postulas zorge realigitan infrastrukturon tra komputado, retoj, sekureco, potenco, malvarmigo, monitorado, sekurkopio kaj katastrofa reakiro.",
+        "Ni helpas organizojn krei rezistemajn infrastrukturajn mediojn, kiuj subtenas kritikajn laborŝarĝojn kaj provizas fundamenton por estonta teknologia kresko."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktura Dezajno",
+          "desc": "Ni desegnas mediojn bazitajn sur laborŝarĝaj postuloj, kapablo, rendimento, havebleco, sekureco kaj estonta kresko."
+        },
+        {
+          "title": "Servila Infrastrukturo",
+          "desc": "Ni subtenas fizikajn kaj virtualajn servilmediojn por misi-kritikaj entreprenaj aplikaĵoj kaj laborŝarĝoj."
+        },
+        {
+          "title": "Stokaj Solvoj",
+          "desc": "Ni konsideras agadon, kapaciton, redundon, altrapida SAN/NAS, sekurkopion kaj datumprotektajn postulojn dum desegnado de stokaj medioj."
+        },
+        {
+          "title": "Reta Infrastrukturo",
+          "desc": "Ni desegnas retajn mediojn kun taŭga segmentado, redundo, malalt-latenteca agado, konektebleco kaj sekurecaj kontroloj."
+        },
+        {
+          "title": "Virtualigo",
+          "desc": "Virtualigo plibonigas utiligon de rimedoj, flekseblecon de laborŝarĝo kaj centralizitan infrastrukturan administradon."
+        },
+        {
+          "title": "Rezerva & Katastrofa Reakiro",
+          "desc": "Ni helpas organizojn establi sekurkopiajn strategiojn kaj reakirajn arkitekturojn dizajnitajn por minimumigi malfunkcion kaj forigi datumperdon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Kapacita Takso",
+        "Laborŝarĝa Profilado",
+        "Arkitektura Skizo",
+        "Aparataro & Virtuala Grandeco",
+        "Reta Segmentado",
+        "Stokado-Provizo",
+        "Redunda & DR Testado",
+        "Produktado-tranĉilo",
+        "24/7 Sana Monitorado",
+        "Daŭra Optimumigo"
+      ],
+      "benefits": [
+        "Garantiita 99.999% da infrastruktura funkciado",
+        "Nul unuopaj punktoj de fiasko kun plurtavola redundo",
+        "Optimumigita servila komputado kaj alt-denseca virtualigo",
+        "Sub-milisekundaj malalt-latentecaj interkonektaj arkitekturoj",
+        "Hardita fizika kaj cifereca perimetra sekureco",
+        "Proaktiva monitorado kaj aŭtomatigitaj malsukcesoj",
+        "Skalebla modula stokado por petabajtaj datumoj",
+        "Antaŭvidebla totalkosto de posedo kaj elektra efikeco"
+      ],
+      "security": "Sekureco estas integrita tra la infrastruktura tavolo, kovrante retan mikro-segmentadon, aparatan radikon de fido, nul-fidajn alirkontrolojn, kontinuajn vundeblecojn, finpunktodefendon kaj striktajn funkciajn politikojn.",
+      "ctaHeadline": "Estonte-Preta Infrastrukturo",
+      "ctaSub": "Konstruu fidindan infrastrukturon hodiaŭ. Kreu la fundamenton por la morgaŭa teknologio."
+    },
+    "cognitive-analytics-ai": {
+      "title": "Kogna Analizo & AI",
+      "tagline": "Turnu Datumojn en Inteligentecon.",
+      "heroBadge": "Datum-al-Decida Inteligenteco",
+      "overview": [
+        "Organizoj generas grandegajn kvantojn da informoj per aplikaĵoj, transakcioj, klientoj, operacioj, aparatoj kaj ciferecaj platformoj. La defio ne plu estas simple kolekti datumojn; ĝi komprenas tiujn datumojn kaj igas ĝin agebla inteligenteco.",
+        "Niaj Solvoj pri Kogna Analizo kaj AI kombinas altnivelan analizon, maŝinlernadon, artefaritan inteligentecon, datumtraktadon kaj komercan inteligentecon por helpi organizojn fari pli bonajn decidojn."
+      ],
+      "transformation": [
+        "Tradicia raportado rakontas al organizoj kio okazis. Altnivela analizo povas helpi klarigi kial ĝi okazis, identigi kio povas okazi poste kaj subteni decidojn pri tio, kio devus okazi.",
+        "Ni helpas organizojn establi datummediojn, kiuj preterpasas statikan raportadon al inteligenta analizo kaj decida subteno."
+      ],
+      "capabilities": [
+        {
+          "title": "Priskriba Analizo",
+          "desc": "Kompreni historian agadon per interagaj raportoj, plurdimensiaj paneloj, KPIoj kaj komercaj metrikoj."
+        },
+        {
+          "title": "Diagnoza Analizo",
+          "desc": "Identigu subestajn rilatojn, tendencojn, statistikajn anomaliojn kaj radikajn kaŭzojn malantaŭ komercaj rezultoj."
+        },
+        {
+          "title": "Prognoza Analizo",
+          "desc": "Uzu historiajn kaj realtempajn fluajn datumojn kun statistikaj modeloj por identigi eblajn estontajn rezultojn kaj postulojn."
+        },
+        {
+          "title": "Preskriba Analizo",
+          "desc": "Taksi eblajn agojn kaj subtenu optimumajn decidajn vojojn bazitajn sur antaŭviditaj rezultoj kaj strategiaj komercaj celoj."
+        },
+        {
+          "title": "Maŝinlernado-Modeloj",
+          "desc": "Disvolvu kutimajn modelojn por prognozo, klasifiko de klientoj, rekomendoj, detekto de fraŭdaj anomalioj kaj prognoza prizorgado."
+        },
+        {
+          "title": "AI-Powered Insights",
+          "desc": "Apliku kognan AI al amasaj volumoj de nestrukturitaj informoj por surfaci kaŝitajn ŝablonojn, plenumajn resumojn kaj rekomendojn."
+        }
+      ],
+      "lifecycleSteps": [
+        "Datumfontoj",
+        "Datuma Integriĝo",
+        "Datumtraktado",
+        "Datumstokado",
+        "Analitiko",
+        "AI/ML-Modeloj",
+        "Vidigo",
+        "Komercaj Decidoj"
+      ],
+      "benefits": [
+        "Fakte-bazita, datum-movita plenuma decidado",
+        "Preciza prognozo de postulo, enspezo kaj falo",
+        "Realtempa anomalio kaj fraŭdo-detekto",
+        "Profundaj 360° klientaj kondutkonoj kaj personigo",
+        "Optimumigita provizoĉeno kaj operacia efikeco",
+        "Mildigita operacia kaj financa risko",
+        "Malkovro de kaŝitaj enspezaj ŝancoj",
+        "Akcelita tempo al kompreno trans komercaj unuoj"
+      ],
+      "security": "Niaj analizaj ekosistemoj efektivigas fin-al-finan ĉifradon, aŭtomatan datummaskadon, striktajn RBAC-permesojn kaj modelan regadon por protekti proprietajn datumojn kaj konservi reguligan observon (GDPR, HIPAA, SOC 2).",
+      "ctaHeadline": "Konstruu Inteligentan Datuman Strategion",
+      "ctaSub": "Transformu informojn en komprenon. Transformu komprenon en ago."
+    },
+    "information-reporting-systems": {
+      "title": "Informoj kaj Raportaj Sistemoj",
+      "tagline": "La Ĝusta Informo. Je la Ĝusta Tempo. Por Pli bonaj Decidoj.",
+      "heroBadge": "Unuigita Entreprena Inteligenteco",
+      "overview": [
+        "Komercaj gvidantoj kaj operaciaj teamoj dependas de precizaj informoj por fari efikajn decidojn. Niaj Informoj kaj Raportaj Sistemoj helpas organizojn kolekti, organizi, analizi kaj prezenti komercajn informojn per strukturitaj informsistemoj, raportaj platformoj, paneloj kaj aŭtomatigitaj raportaj fluoj.",
+        "Organizoj ofte havas informojn distribuatajn tra aplikaĵoj, kalkultabeloj, datumbazoj kaj operaciaj sistemoj. Ĉi tio malfacilas establi konsekvencan vidon de komerca agado. Ni helpas integri informfontojn en strukturitajn raportmediojn, kiuj provizas fidindajn, alireblajn kaj konsekvencajn komercajn informojn."
+      ],
+      "transformation": [
+        "Raportsistemo ne devus simple montri nombrojn. Ĝi devus helpi uzantojn kompreni rendimenton, identigi problemojn, malkovri ŝancojn kaj fari informitajn decidojn.",
+        "Ni dizajnas raportajn mediojn laŭ la maniero kiel via organizo funkcias, liverante strukturitajn datum-al-decidajn ekosistemojn adaptitajn por ĉiuj administraj niveloj."
+      ],
+      "capabilities": [
+        {
+          "title": "Administraj Informaj Sistemoj (MIS)",
+          "desc": "Disvolvu unuigitajn informsistemojn, kiuj provizas plenuman administradon per koncerna operacia kaj strategia videbleco."
+        },
+        {
+          "title": "Komerca Raportado",
+          "desc": "Transformu krudajn komercajn datumojn de pluraj kanaloj en strukturitajn, normigitajn raportojn, kiuj kontinue kontrolas agadon."
+        },
+        {
+          "title": "Interagaj Paneloj",
+          "desc": "Provizu realtempan aŭ planitan interagan videblecon pri kritikaj komercaj metrikoj, KPIoj, tendencoj kaj fakaj agadoj."
+        },
+        {
+          "title": "KPI-Administrado",
+          "desc": "Difinu, spuru kaj komparu signifajn operaciajn KPI-ojn rekte vicigitajn kun ĝeneralaj entreprenaj kreskoceloj."
+        },
+        {
+          "title": "Datuma Integriĝo",
+          "desc": "Integri distribuitajn datumfontojn en unuigitajn datumstokejojn kaj semantikajn tavolojn por konsekvenca unu-vitra raportado."
+        },
+        {
+          "title": "Aŭtomatigita Raportado",
+          "desc": "Aŭtomate generu kaj distribuu personecigitajn raportojn laŭ antaŭdifinitaj horaroj, komercaj reguloj kaj hierarkioj de ricevantoj."
+        }
+      ],
+      "lifecycleSteps": [
+        "Komercaj Sistemoj",
+        "Datumkolekto",
+        "Datuma integriĝo",
+        "Datumtraktado",
+        "Datumdeponejo",
+        "Analitiko",
+        "Raportoj & Paneloj"
+      ],
+      "benefits": [
+        "Ununura fonto de vero tra la tuta entrepreno",
+        "Pli rapida aliro al realtempaj operaciaj metrikoj",
+        "Kompleta elimino de mana kalkultabelkunigo",
+        "Konsekvencaj, akordigitaj interfakaj KPIoj",
+        "Supera plenuma superrigardo kaj kontroladeblo",
+        "Aŭtomatigita distribuo rekte al koncernatoj",
+        "Granulaj vicnivelaj datumoj sekureco kaj permesoj",
+        "Plifortigita lerteco por respondi al funkciaj anomalioj"
+      ],
+      "security": "Komercaj informoj povas enhavi sentemajn operaciajn, financajn kaj klientajn datumojn. Niaj raportaj solvoj enigas multfaktoran aŭtentikigon, grajnecan rol-bazitan rajtigon, ĉifradon kaj reviziajn protokolojn en la raportan arkitekturon.",
+      "ctaHeadline": "Raportado Kiu Subtenas Kreskon",
+      "ctaSub": "Faru informojn alireblaj. Faru agadon videbla. Faru pli bonajn decidojn."
+    },
+    "managed-services": {
+      "title": "Administritaj Servoj",
+      "tagline": "Fidindaj Teknologiaj Operacioj. Sperta Subteno. Daŭra Pliboniĝo.",
+      "heroBadge": "24/7 IT Operacioj & Subteno",
+      "overview": [
+        "Modernaj IT-medioj estas kompleksaj kaj konstante ŝanĝiĝantaj. Organizoj bezonas fidindan infrastrukturon, aplikojn, retojn, sekurecon, monitoradon kaj teknikan subtenon por daŭrigi komercajn operaciojn.",
+        "Niaj Administritaj Servoj provizas daŭran teknologian administradon kaj operacian subtenon, permesante al organizoj konservi fidindajn IT-mediojn dum internaj teamoj koncentriĝas pri strategiaj iniciatoj."
+      ],
+      "transformation": [
+        "Tradicia IT-subteno ofte koncentriĝas pri solvado de problemoj post kiam ili okazas. Administritaj servoj prenas iniciateman aliron senĉese monitorante infrastrukturon, aplikojn, sistemojn kaj operaciajn mediojn.",
+        "Ĉi tiu aliro helpas frue identigi eblajn problemojn, konservi rendimenton, plibonigi haveblecon kaj redukti eviteblan funkcian interrompon."
+      ],
+      "capabilities": [
+        {
+          "title": "Infrastruktura Administrado",
+          "desc": "Subtenu la daŭran funkciadon, flikadon kaj administradon de serviloj, stokado, virtualigaj platformoj kaj infrastrukturo."
+        },
+        {
+          "title": "Nuba Administrado",
+          "desc": "Administri nubajn laborŝarĝojn, plurnubajn rimedojn, agordojn, monitoradon, rendimenton kaj FinOps-optimumigo."
+        },
+        {
+          "title": "Reta Administrado",
+          "desc": "Provizu 24/7 monitoradon, agado-administradon, agordan subtenon, SD-WAN-optimumigon kaj retajn problemojn."
+        },
+        {
+          "title": "Aplika Administrado",
+          "desc": "Subtenu kritikajn aplikaĵmediojn per iniciatema monitorado, prizorgado, cimsolvado kaj funkciaj ĝisdatigoj."
+        },
+        {
+          "title": "Monitorado & Observeblo",
+          "desc": "Provizu ampleksan realtempan videblecon pri sistema sano, latenteco, funkciado, infrastrukturaj dependecoj kaj atentigoj."
+        },
+        {
+          "title": "Administrado de Rezerva & Reakiro",
+          "desc": "Konservu aŭtomatigitajn rezervajn horarojn, testi malsukcesojn regule kaj certigi tujajn reakirajn kapablojn."
+        },
+        {
+          "title": "Sekurecaj Operacioj (SecOps)",
+          "desc": "Provizu kontinuan sekurecan monitoradon, flikadministradon, alirkontrolo-devigon kaj iniciateman minacon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Medio Enŝipiĝo",
+        "Malkovro & Bazlinio",
+        "Telemetria Integriĝo",
+        "SLA-Difino",
+        "24/7 Aktiva Monitorado",
+        "Okazaĵklasifiko",
+        "Rapida Rezolucio",
+        "Analizo de radika kaŭzo",
+        "Preventa Inĝenierado",
+        "Daŭra Optimumigo"
+      ],
+      "benefits": [
+        "Signife reduktita interna operacia ŝarĝo",
+        "Proaktiva problemo-detekto antaŭ ol uzantoj estas trafitaj",
+        "Garantiita 99.99% sistema havebleco kaj funkciado",
+        "Antaŭvidebla, travidebla IT-operacia buĝetado",
+        "Tuja aliro al altrangaj inĝenieraj specialistoj",
+        "Rapidaj SLA-subtenataj okazaĵaj respondaj tempoj",
+        "Aŭtomatigita katastrofa reakiro kaj komerca kontinueco",
+        "Daŭra teknologia optimumigo kaj modernigo"
+      ],
+      "security": "Niaj administritaj operacioj aliĝas al striktaj ITIL kaj ISO-kadroj, certigante ĉifritan aliron, izolitajn reviziajn protokolojn, malplej-privilegiajn akreditaĵojn kaj konforman vicigon tra ĉiu administrita rimedo.",
+      "ctaHeadline": "Daŭra Pliboniĝo",
+      "ctaSub": "Vi koncentriĝas pri via komerco. Ni helpas konservi vian teknologion funkcianta."
+    },
+    "one-stop-technology-solutions": {
+      "title": "Unuhaltaj Teknologiaj Solvoj",
+      "tagline": "Unu Teknologia Partnero. Multoblaj Kapabloj. Kompletaj Komercaj Solvoj.",
+      "heroBadge": "Unuigita Entreprena Partnero",
+      "overview": [
+        "Organizoj ofte laboras kun multoblaj teknologiaj provizantoj por infrastrukturo, nubo, aplikoj, aŭtomatigo, analizo, sekureco, subteno kaj cifereca transformo. Administri multoblajn vendistojn povas krei kompleksecon, komunikajn mankojn, duobligitan fortostreĉon kaj fragmentajn teknologiajn mediojn.",
+        "Nia One-Stop Technology Solutions aliro kunigas plurajn kapablojn sub unuigita servomodelo, helpante organizojn plani, efektivigi, integri, funkcii kaj kontinue plibonigi sian teknologian medion."
+      ],
+      "transformation": [
+        "Ni subtenas la kompletan teknologian vivociklon—de komprenado de komercaj postuloj kaj difinado de teknologia strategio ĝis desegnado de solvoj, efektivigo de platformoj, integriĝo de sistemoj, deplojado de aplikoj, monitorado de medioj kaj disponigado de daŭra subteno.",
+        "La celo estas krei konektitan teknologian ekosistemon prefere ol izolitajn solvojn."
+      ],
+      "capabilities": [
+        {
+          "title": "Strategio & Arkitekturo",
+          "desc": "Kompreni komercajn celojn kaj desegni skaleblajn, sekurajn kaj konserveblajn teknologiajn arkitekturojn."
+        },
+        {
+          "title": "Efektivigo & Konstruo",
+          "desc": "Efektivigu aplikojn, infrastrukturojn, integriĝojn, aŭtomatigon kaj ciferecajn platformojn kun entreprena rigoro."
+        },
+        {
+          "title": "Sistemintegriĝo",
+          "desc": "Konektu sistemojn kaj aplikaĵojn por ke informoj moviĝu perfekte tra la tuta organizo."
+        },
+        {
+          "title": "Strukturita Deplojo",
+          "desc": "Establi aŭtomatigitajn CI/KD kaj liberigu procezojn por movi solvojn en produktadon fidinde kaj sekure."
+        },
+        {
+          "title": "Daŭra Monitorado",
+          "desc": "Provizu fin-al-finan videblecon pri infrastrukturo, aplikoj, rendimento, havebleco kaj operacia sano."
+        },
+        {
+          "title": "Optimumigo & Subteno",
+          "desc": "Senĉese reviziu mediojn por plibonigi rendimenton, fidindecon, kostefikecon kaj skaleblon."
+        }
+      ],
+      "lifecycleSteps": [
+        "Strategio",
+        "Arkitekturo",
+        "Efektivigo",
+        "Integriĝo",
+        "Deplojo",
+        "Monitorado",
+        "Optimumigo",
+        "Subteno"
+      ],
+      "benefits": [
+        "Reduktita komplikeco kaj superkosto pri administrado de vendisto",
+        "Senjunta kunordigo tra ĉiuj arkitekturaj tavoloj",
+        "Pli rapida projekto-ekzekuto kun nulaj transdonprokrastoj",
+        "Antaŭvidebla buĝeta asigno kaj travidebla livero",
+        "Unuigita entreprena respondeco de nulo ĝis skalo",
+        "Skaleblaj solvoj desegnitaj por estonta komerca kresko",
+        "Longtempa fidinda teknologia partnereco",
+        "Ampleksa fin-al-fina cifereca transformo"
+      ],
+      "security": "Kun ununura fidinda partnero kontrolanta arkitekturon, efektivigon kaj operaciojn, sekureca regado restas nerompita tra ĉiuj niveloj—forigante integriĝajn blindajn punktojn kaj certigante kontinuan konformecon.",
+      "ctaHeadline": "Via Kompleta Teknologia Partnero",
+      "ctaSub": "Unu partnero. Unu vizio. Multoblaj teknologioj. Kompletaj solvoj."
+    }
+  },
+  "technologiesCommon": {
+    "overviewEyebrow": "Entreprena Superrigardo",
+    "overviewTitle": "Inteligenta Teknologio por Mezureblaj Rezultoj",
+    "transformationEyebrow": "Operacia Transformo",
+    "transformationTitle": "Transformi Komercon Per Inteligentaj Laborfluoj",
+    "deliveryEyebrow": "Strukturita Livera Aliro",
+    "deliveryTitle": "Fina-al-fina Ekzekuto & Daŭra Optimumigo",
+    "deliveryIntro": "Nia pruvita efektiviga aliro sekvas rigoran liveran vivociklon:",
+    "deliveryOutro": "Ĉi tiu strukturita sekvenco certigas striktan vicigon kun komercaj celoj, fortika sekureca pozicio kaj mezureblaj ROI-referencoj ĉe ĉiu fazo.",
+    "securityEyebrow": "Sekureco & Regado",
+    "securityTitle": "Enterprise-Gradaj Fidindeco kaj Konformecaj Sekurigiloj",
+    "securityOutro": "Ni enkonstruas striktan rol-bazitan alirkontrolon, aŭtomatigitan vundeblecon, modelan regadon kaj plurnivelan ĉifradon por certigi, ke via produktadmedio restas rezistema kaj plene konforma.",
+    "capabilitiesTitle": "Kernaj Teknologiaj Kapabloj",
+    "capabilitiesSub": "Ampleksaj teknikaj kompetentecoj kreitaj por skali viajn ciferecajn operaciojn.",
+    "bookDiscovery": "Libro Teknologia Malkovro",
+    "exploreAll": "Esploru Ĉiuj Teknologioj",
+    "bookConsultation": "Rezervu Konsulton",
+    "coreCapabilities": "Kernaj Kapabloj"
+  },
+  "servicesCommon": {
+    "coreCapabilities": "Kernaj Kapabloj",
+    "exploreFramework": "Esploru Solvokadron",
+    "bookConsultation": "Rezervu Konsulton",
+    "viewCaseStudies": "Rigardu Kazstudojn",
+    "provenPillars": "Provitaj Kolonoj",
+    "operationalOutcomes": "Operaciaj Rezultoj",
+    "learnMore": "Lernu Pli"
+  },
+  "servicesDetails": {
+    "customDevelopment": {
+      "eyebrow": "Fin-al-Fina Cifereca Inĝenierado",
+      "titlePart1": "Komenco Al",
+      "titlePart2": "Deplojo",
+      "description": "Fin-al-fina evoluo de novaj ciferecaj solvoj de komercaj postuloj kaj solva arkitekturo per evoluo, integriĝo, testado, deplojo kaj daŭra subteno.",
+      "bookConsultation": "Rezervu Konsulton",
+      "exploreEngineering": "Esploru Solvan Inĝenieristikon",
+      "coreCapabilities": [
+        "Inĝenieristiko de Postuloj",
+        "Solva Arkitekturo",
+        "Disvolviĝo de aplikaĵo",
+        "API-Integriĝo",
+        "Kvalita Asekuro",
+        "DevOps",
+        "Deplojo",
+        "Subteno & Prizorgado"
+      ],
+      "row1Eyebrow": "Plena Vivciklo Livero",
+      "row1Title": "Fin-al-Fina Evoluo de Postuloj al Skalo",
+      "row1P1": "Ĉiu nova cifereca iniciato komenciĝas per unikaj postuloj, funkciaj laborfluoj kaj strategiaj celoj, kiuj ne povas esti plenumitaj per unugranda programaro. Ni specialiĝas pri konstruado de kutimaj, alt-efikecaj programaj sistemoj tute de nulo.",
+      "row1P2": "De komencaj post-malkovro kaj teknika arkitekturo-dezajno ĝis lerta sprint-disvolvado, API-ekosistem-integriĝo, fortikaj testaj duktoj kaj aŭtomatigitaj nubaj deplojoj, niaj altrangaj inĝenieraj teamoj prenas plenan proprieton de via produkta vivociklo.",
+      "row2Eyebrow": "Solva Arkitekturo & Inĝenieristiko",
+      "row2Title": "Skaleblaj Sistemoj Konstruitaj por Entreprena Kresko",
+      "row2P1": "Ni desegnas rezistemajn programajn arkitekturojn adaptitajn por elteni pezajn produktajn ŝarĝojn. De modulaj mikroservoj kaj okazaĵaj backends ĝis altproduktaj datumfluoj kaj GraphQL/REST API-oj, ni konstruas platformojn kiuj skalas senpene.",
+      "row2P2": "Establante purajn, modulajn kodbazojn parigitaj kun aŭtomatigita testado kaj kontinua sekureca observo, ni certigas, ke via programaro-fondaĵo estas konservebla, kontrolada kaj preta por longdaŭra evoluo.",
+      "row3Eyebrow": "Kvalita Asekuro & DevOps",
+      "row3Title": "Lerta Livero kun Aŭtomatigitaj Duktoj",
+      "row3P1": "Nia livermodelo enkonstruas aŭtomatigitan unuon, integriĝon, kaj fin-al-finan regrestestadon kune kun enhavigitaj CI/KD-laborfluoj (Docker, Kubernetes, AWS/Azure/GCP).",
+      "row3P2": "Kun travideblaj sprint-demonstraĵoj, realtempa observebleco kaj mejloŝtono-movita rapideco, ni certigas rapidan merkatan tempon sen endanĝerigi sekurecon, stabilecon aŭ sperton de uzanto.",
+      "row4Eyebrow": "Deplojo & Subteno",
+      "row4Title": "Fidindaj 24/7 Operacioj kaj Longdaŭra Evoluo",
+      "row4P1": "Livero estas nur la komenco. Ni provizas iniciateman monitoradon, prizorgadon subtenatan de SLA, optimumigo de nuba infrastrukturo, agordado de rendimento kaj daŭrantaj funkcioj.",
+      "row4P2": "Nia inĝenieristiko agas kiel natura etendo de via organizo, certigante nulan malfunkcion kaj daŭran teknologian superecon en via merkato.",
+      "pillarsTitle": "Kernaj Kapabloj",
+      "pillarsSub": "Kompletaj plenstakaj kapabloj kreitaj por porti viajn ideojn de nulo al produktado.",
+      "pillar1Title": "Inĝenieristiko de Postuloj",
+      "pillar1Desc": "Profunda komerca analizo, funkciaj specifoj kaj uzanta vojaĝomapado por difini precizajn solvlimojn.",
+      "pillar2Title": "Solva Arkitekturo",
+      "pillar2Desc": "Skaleblaj nub-denaskaj arkitekturoj, datumbaza modelado, mikroservo-dezajno kaj nul-fidaj sekurecaj fundamentoj.",
+      "pillar3Title": "Aplika Disvolviĝo",
+      "pillar3Desc": "Modernaj plenstakaj TTT- kaj moveblaj aplikaĵoj kreitaj kun pura kodo, tip-sekureco kaj reaktivaj UI-normoj.",
+      "pillar4Title": "API-Integriĝo",
+      "pillar4Desc": "Altproduktaj REST/GraphQL-APIoj, rethook-okazaĵoj, pagpordeloj kaj senjunta triaparta ERP/CRM-sinkronigo.",
+      "ctaTitle": "Preta Konstrui Vian Solvon de Komenco ĝis Deplojo?",
+      "ctaSub": "Kunlaboru kun Rezonants por konstrui, realigi kaj disfaldi vian kutiman ciferecan platformon de komercaj postuloj ĝis produktada realeco.",
+      "ctaButton": "Rezervu Solvan Konsulton",
+      "pillar5Title": "Kvalita Asekuro",
+      "pillar5Desc": "Rigora testaŭtomatigo, ŝarĝo/streso-testado, vundebleco-skanado kaj regresaj testaj aroj.",
+      "pillar6Title": "DevOps & Deplojo",
+      "pillar6Desc": "Aŭtomatigitaj CI/KD-duktoj, ujo-instrumentado (Docker/K8s), infrastrukturo kiel kodo, kaj nul-malfunkciaj eldonoj.",
+      "pillar7Title": "Subteno & Prizorgado",
+      "pillar7Desc": "24/7 proaktiva monitorado, sano-telemetrio, agado-revizioj, sekureca flikaĵo kaj daŭra SLA prizorgado.",
+      "pillar8Title": "Daŭra Novigado",
+      "pillar8Desc": "Regula rapideco de funkcioj, integriĝo pri datuma analizo, AI-plibonigo kaj arkitekturaj modernigoj."
+    },
+    "processAutomation": {
+      "eyebrow": "Inteligentaj Procezaj Operacioj",
+      "titlePart1": "Komerca Procezo",
+      "titlePart2": "Aŭtomatigo",
+      "description": "Fin-al-fina aŭtomatigo de entreprenaj laborfluoj, kombinante robotan procezaŭtomatigon (RPA), inteligentan dokumenttraktadon, komercajn regulmotorojn kaj sisteman integriĝon.",
+      "bookDiscovery": "Libro Aŭtomata Malkovro",
+      "exploreFramework": "Esploru Solvokadron",
+      "coreCapabilities": [
+        "Laborflua Aŭtomatigo",
+        "Robota Proceza Aŭtomatigo",
+        "Dokumenta Pretigo",
+        "Integriga Inĝenierado",
+        "Komercaj Reguloj Motoroj",
+        "Proceza Analizo",
+        "Daŭra Optimumigo",
+        "Heredaĵa Integriĝo"
+      ],
+      "row1Eyebrow": "Robota Proceza Aŭtomatigo",
+      "row1Title": "Inteligentaj Botoj por Alt-Volumaj Operacioj",
+      "row1P1": "Forigu ripeteman manan eniron de datumoj, intersistemajn repaciĝojn kaj dokumentvojadon. Ni deplojas entreprenajn RPA-robotstojn, kiuj plenumas strukturitajn taskojn 24/7 kun nula erara indico.",
+      "row1P2": "Konektante heredajn labortablaj interfacoj, SAP/ERP-backends kaj nubaj datumbazoj, programaraj robotoj liberigas vian teamon koncentriĝi pri strategiaj komercaj iniciatoj.",
+      "row2Eyebrow": "Inteligenta Dokumenta Pretigo",
+      "row2Title": "OCR, Maŝinlernado kaj Dokumenta AI",
+      "row2P1": "Aŭtomate konsumu, klasifiku kaj ĉerpi datumojn de fakturoj, kontraktoj, identaj dokumentoj kaj reklamoj. Niaj AI-movitaj duktoj validas kampojn kontraŭ internaj datumbazoj kaj ekigas aŭtomatigitajn aprobajn laborfluojn.",
+      "row2P2": "Atingu rektajn pretigajn indicojn superantajn 95% dum draste reduktante la tempodaŭrojn de tagoj al sekundoj.",
+      "row3Eyebrow": "Proceza Orkestrado",
+      "row3Title": "Fin-al-Fina Transplatforma Sinkronigo",
+      "row3P1": "Konektu CRM, ERP, HRMS kaj bankajn API-ojn en unuigitajn realtempajn datumfluojn. Ni efektivigas evento-movitajn ellasilon, mesaĝajn atendovicojn kaj aŭtomatigitajn rezervilojn.",
+      "row3P2": "Informoj fluas perfekte tra departementoj sen homa interveno, forigante funkciajn silojn kaj komunikajn malfruojn.",
+      "row4Eyebrow": "Kontinua Telemetrio",
+      "row4Title": "Realtempa Proceza Analitiko kaj Kaizen-Insights",
+      "row4P1": "Spuri procezajn ekzekuttempojn, proplempunktojn, erarfrekvencojn kaj financan ROI en realtempaj plenumaj paneloj.",
+      "row4P2": "Daŭraj maŝinlernadaj diagnozoj malkovras novajn aŭtomatigajn ŝancojn, konservante vian entreprenon funkcii kun maksimuma efikeco.",
+      "pillarsTitle": "Aŭtomatigaj Kolonoj",
+      "pillarsSub": "Elprovitaj konstrubriketoj por inteligentaj entreprenaj operacioj.",
+      "pillar1Title": "Laborflua Aŭtomatigo",
+      "pillar1Desc": "Plurpaŝaj hom-en-la-buklo kaj ciferecaj laborfluoj reĝisorita kun aŭtomatigita envojigo kaj eskalado.",
+      "pillar2Title": "Robota Proceza Aŭtomatigo",
+      "pillar2Desc": "Regul-bazitaj softvaraj robotoj efektivigantaj rutinajn datumojn enigo, repaciĝo, kaj inter-aplikaj taskoj.",
+      "pillar3Title": "Inteligenta AI Aŭtomatigo",
+      "pillar3Desc": "Kognaj AI-agentoj, kiuj interpretas kuntekston, resumas nestrukturitan tekston kaj faras aŭtomatigitajn decidojn.",
+      "pillar4Title": "Proceza Optimumigo",
+      "pillar4Desc": "Proceza minado, detekto de botelkolo kaj laborfluoj de Kaizen, kiuj senĉese reduktas funkciajn kostojn.",
+      "ctaTitle": "Preta por Aŭtomatigi Viajn Komercajn Laborfluojn?",
+      "ctaSub": "Konektiĝu kun niaj aŭtomatigaj arkitektoj por identigi alt-ROI-ŝancojn kaj disfaldi inteligentajn ciferecajn laborfluojn.",
+      "ctaButton": "Rezervu Aŭtomatan Konsulton"
+    },
+    "centreOfExcellence": {
+      "eyebrow": "Inĝenieristiko-Normo & R&D",
+      "titlePart1": "Centro de",
+      "titlePart2": "Ekscelenco",
+      "description": "Alcentrigita organizo de altrangaj arkitektoj kaj domajnaj specialistoj dediĉitaj al normigado de inĝenieraj praktikoj, kondukado de novigado kaj akcelo de ciferecaj iniciatoj.",
+      "exploreStandards": "Esploru Inĝenierajn Normojn",
+      "initiateAssessment": "Komencu KoE-Takso",
+      "coreCapabilities": [
+        "Arkitekturaj Normoj",
+        "Reuzeblaj Kadroj",
+        "Plej bona Praktika Regado",
+        "Evoluigo de Kapabloj",
+        "Kvalita Benchmarking",
+        "R&D & Novigado",
+        "Teknologia Taksado",
+        "Trans-Projekta Gvidado"
+      ],
+      "uptimeLabel": "Enterprise Uptime",
+      "engineersLabel": "Inĝenieroj & Arkitektoj",
+      "deploymentsLabel": "AI & Nuba Deplojoj",
+      "satisfactionLabel": "Kliento Kontento",
+      "row1Eyebrow": "Kolono 01 — Inĝenieristiko-Normo",
+      "row1Title": "Alt-Efikeca Programaro-Inĝenierado",
+      "row1P1": "Nia Centro de Plejboneco establas normigitajn dezajnpadronojn, rigorajn aŭtomatigitajn provojn kaj nul-difektajn kodajn reviziajn praktikojn, kiuj akcelas la tempo-merkatiĝon tenante teknikan ŝuldon al nulo.",
+      "row1F1": "Aŭtomatigitaj CI/KD-eldonaj duktoj kun DORA metrika analizo",
+      "row1F2": "Strikta arkitektura reviziokomisionoj kaj mikroservoj regado",
+      "row1F3": "Daŭra sekureca flikaĵo kaj aŭtomatigita vundebleco",
+      "row1Btn": "Lernu Inĝenierajn Normojn",
+      "row1Tag": "DevOps & Kvalita Inĝenieristiko",
+      "row2Eyebrow": "Kolono 02 — R&D-Novigado",
+      "row2Title": "AI Noviga Laboratorio kaj Emerĝanta Teknologio",
+      "row2P1": "Ni eksperimentas kun plej altnivelaj maŝinlernado-modeloj, kutimaj AI-agentoj kaj inteligenta laborflua aŭtomatigo por konstrui venontgeneraciajn entreprenajn produktojn.",
+      "row2F1": "Enterprise Generative AI & RAG scio-integriĝo",
+      "row2F2": "Aŭtonomaj AI-agentaj laborfluoj por komercproceza aŭtomatigo",
+      "row2F3": "Propra optimumigo kaj fajnagordado de modeloj por maŝinlernado",
+      "row2Btn": "Esploru AI-Laboratorio",
+      "row2Tag": "Artefarita Inteligenteco & Neŭrala R&D",
+      "row3Eyebrow": "Kolono 03 — Infrastrukturo",
+      "row3Title": "Enterprise Cloud Architecture & Zero-Trust Security",
+      "row3P1": "Ni desegnas kaj administras rezistemajn plurnubajn mediojn konstruitajn sur nul-fidaj sekurecaj kadroj, certigante ke viaj datumoj restas protektitaj kontraŭ evoluantaj tutmondaj ciberminacoj.",
+      "row3F1": "AWS, Azure, & GCP plurnuba infrastruktura orkestrado",
+      "row3F2": "Nul-fida retaliro (ZTNA) kaj rol-bazitaj IAM-politikoj",
+      "row3F3": "Aŭtomatigita kontenera sekureca skanado kaj sekreta administrado",
+      "row3Btn": "Esploru Nubon kaj Sekurecon",
+      "row3Tag": "Nuba Arkitekturo & Nulo-Fido",
+      "pillarsTitle": "Niaj Kernaj Plejbonecaj Kadroj",
+      "pillarsSub": "Sistemigitaj evoluaj ludlibroj funkciigantaj misi-kritikajn platformojn.",
+      "pillar1Title": "Arkitektura Reviziokomisiono (ARB)",
+      "pillar1Desc": "Ampleksa superrigardo certigante ke ĉiuj entreprenaj solvoj kongruas kun strikta skaleblo, sekureco kaj observoprotokoloj.",
+      "pillar2Title": "Reuzeblaj Akceliloj & Komponanta Biblioteko",
+      "pillar2Desc": "Propraj dezajnaj sistemoj, API-komencaj ilaroj kaj backend-mikroservaj ŝablonoj reduktantaj komencan disvolvan tempon je 40%.",
+      "pillar3Title": "Kontinua Efikeco Profilado",
+      "pillar3Desc": "Altnivelaj realtempaj observeblaj duktoj monitorantaj aplikajn latentecon, trafluajn proplempunktojn kaj nubajn rimedojn.",
+      "pillar4Title": "Talento Pliigo & Gildoj",
+      "pillar4Desc": "Strukturitaj internaj gildoj kaj atestiloj kultivantaj profundajn teknikajn kapablojn tra nubo, DevOps kaj aplikata AI.",
+      "ctaTitle": "Altigu Vian Inĝenieran Normon",
+      "ctaSub": "Kunlaboru kun la Centro de Plejboneco de Rezonants por konstrui rezistemajn nubajn arkitekturojn, aŭtomatigi laborfluojn kaj akceli ciferecan produkton.",
+      "ctaButton": "Programu Plenuman Konsulton",
+      "badge": "REZONANTS COE",
+      "scroll": "Rulumu",
+      "p1Title": "Regado kaj Kadroj",
+      "p1Desc": "Establi tutentreprenan arkitekturan administradon, politikajn gardrelojn kaj plenumajn normojn.",
+      "p1Tag": "Regado",
+      "p2Title": "Teknologiaj Normoj kaj Arkitekturo",
+      "p2Desc": "Difinu modernajn referencajn arkitekturojn, kontrolitajn teknologiajn stakojn kaj mikroservajn ŝablonojn.",
+      "p2Tag": "Arkitekturo",
+      "p3Title": "Reuzeblaj Aktivoj & Bibliotekoj",
+      "p3Desc": "Akcelu disvolvan rapidecon per komunaj komponantoj, ŝablonoj, komencaj kompletoj kaj dezajnaj sistemoj.",
+      "p3Tag": "Reuzeblo",
+      "p4Title": "Disvolviĝo de Kompetenteco",
+      "p4Desc": "Strukturita trejnado, teknika mentoreco kaj lerteco por altigi teaman inĝenieran lertecon.",
+      "p4Tag": "Kompetenteco",
+      "p5Title": "Novigado kaj Emerĝa Tekniko",
+      "p5Desc": "R&D pri AI-agentoj, aŭtomatigaj duktoj kaj venontgeneraciaj kadroj por konservi merkatan randon.",
+      "p5Tag": "Novigo",
+      "p6Title": "Daŭra Pliboniĝo",
+      "p6Desc": "Daten-movita inĝenieristiko-metriko (DORA), SLA benchmarking, kaj daŭra kvalita optimumigo.",
+      "p6Tag": "Kvalito"
+    },
+    "solutionEngineering": {
+      "eyebrow": "Tajlita Cifereca Inĝenierado",
+      "titlePart1": "Propra Disvolviĝo &",
+      "titlePart2": "Personigo",
+      "description": "Disvolviĝo kaj plibonigo de aplikoj, platformoj, laborfluoj kaj entreprenaj solvoj por trakti unikajn komercajn postulojn kaj liveri tajloritajn funkciojn.",
+      "bookConsultation": "Rezervu Konsulton",
+      "exploreCapabilities": "Esplori Kapablojn",
+      "coreCapabilities": [
+        "Propra Disvolviĝo",
+        "Platforma agordo",
+        "Etendaĵoj",
+        "Propraj Laborfluoj",
+        "Disvolviĝo de API",
+        "Sistemintegriĝo",
+        "Plibonigo de UI/UX",
+        "Optimumigo de rendimento"
+      ],
+      "row1Eyebrow": "ADJITA FUNKCIO",
+      "row1Title": "Propraj Trajtoj Konstruitaj por Via Laborfluo",
+      "row1P1": "Norma entreprena programaro ofte ne sukcesas plenumi specialajn komercajn bezonojn. Nia laŭmenda inĝenieristiko disvolvas laŭmendajn aplikajn modulojn, kutimajn komercajn regulojn kaj specialajn etendaĵojn adaptitajn al viaj operacioj.",
+      "row1P2": "De kutimaj CRM kaj ERP-plibonigoj ĝis specialigitaj operaciaj portaloj, ni konstruas funkciojn, kiuj perfekte kongruas kun la ĝustaj laborfluopadronoj de via teamo.",
+      "row2Eyebrow": "INTEGRADO DE SISTEMA ENTERPRISE",
+      "row2Title": "Platforma Agordo kaj API-Evoluo",
+      "row2P1": "Konektu malsimilajn programajn sistemojn en unuigitan ciferecan ekosistemon. Ni kreas kutimajn REST kaj GraphQL API-ojn, rethook-traktilojn kaj entreprenajn mesaĝajn atendovicojn por certigi realtempan sinkronigon de datumoj tra ĉiuj viaj platformoj.",
+      "row2P2": "Ĉu integrigante triajn SaaS-ilojn aŭ etendante proprietajn surlokajn platformojn, niaj integrigaj arkitekturoj prioritatas datumintegrecon, trairon kaj nulan malfunkcion.",
+      "row3Eyebrow": "UI/UX & PERFORMANCE",
+      "row3Title": "Plibonigoj de UI/UX kaj Optimumigo de rendimento",
+      "row3P1": "Plialtigu heredajn interfacojn per modernaj, respondemaj uzantspertoj dizajnitaj por rapideco kaj klareco. Ni reinĝenieras fasadojn kun intuiciaj dezajnaj ŝablonoj, alirebleco-konformeco kaj fluliniaj interagaj modeloj.",
+      "row3P2": "Paralele, niaj agado-inĝenieroj optimumigas datumbazajn demandojn, kaŝmemorajn strategiojn kaj faskajn pakaĵojn por liveri tujajn respondtempojn tra ĉiuj aparatoj.",
+      "pillarsTitle": "Realigita laŭ Viaj Precizaj Specifoj",
+      "pillarsSub": "Entreprennivelaj personigaj metodaroj konstruitaj por skaliĝi perfekte.",
+      "pillar1Title": "Propraj Laborfluoj kaj Etendaĵoj",
+      "pillar1Desc": "Adaptita aplikaĵa logiko kaj aŭtomatigitaj ŝtatmaŝinoj agorditaj specife laŭ viaj internaj funkciaj reguloj.",
+      "pillar2Title": "API & Sistemintegriĝo",
+      "pillar2Desc": "Sekuraj, aŭtentikigitaj datumpontoj ligantaj proprietajn backends, ERP-seriojn, pagajn enirejojn kaj nubajn servojn.",
+      "pillar3Title": "Platforma agordo",
+      "pillar3Desc": "Profundaj arkitekturaj adaptoj kiuj modifas entreprenan programaron sen rompi ĝisdatigvojojn aŭ vendistajn subtenajn interkonsentojn.",
+      "pillar4Title": "Optimumigo de rendimento",
+      "pillar4Desc": "Agresema serĉprofilado, memorfuĝo elimino, kaj randa CDN-distribuo por sub-sekundaj paĝaj ŝarĝoj.",
+      "ctaTitle": "Preta agordi vian entreprenan platformon?",
+      "ctaSub": "Konektiĝu kun niaj solvo-arkitektoj por desegni kaj disfaldi kutimajn modulojn, laborfluojn kaj integriĝojn adaptitajn al viaj komercaj bezonoj.",
+      "ctaButton": "Rezervu personigovokon",
+      "badge": "Tajlita Cifereca Inĝenierado",
+      "viewAllServices": "Rigardu Ĉiuj Servoj"
+    },
+    "digitalTransformation": {
+      "eyebrow": "Entreprena Modernigo",
+      "titlePart1": "Cifereca",
+      "titlePart2": "Transformo",
+      "description": "Ampleksa modernigo de komercaj procezoj, teknologiaj arkitekturoj kaj funkciaj modeloj por stiri organizan lertecon, operacian efikecon kaj daŭrigeblan ciferecan kreskon.",
+      "startTransformation": "Komencu Transformadon",
+      "exploreStrategy": "Esploru Strategion",
+      "coreCapabilities": [
+        "Strategio & Vojmapo",
+        "Arkitektura Modernigo",
+        "Nubo & Infrastrukturo",
+        "Datumoj kaj Analizo",
+        "Proceza Ciferecigo",
+        "Klienta Sperto",
+        "Ŝanĝadministrado",
+        "Agil Funkciaj Modeloj"
+      ],
+      "row1Eyebrow": "Strategio & Vojmapo",
+      "row1Title": "De Vizio al Efektivebla Vojmapo",
+      "row1P1": "Ni partneras kun entreprenaj gvidantoj por difini ciferecan strategion, komercajn kazojn kaj fazajn vojmapojn kun rapidaj venkoj kaj senriska ekzekuto.",
+      "row1P2": "Prioritatigitaj iniciatoj, TCO-modeloj kaj KPIoj certigas, ke ĉiu teknologia moderniga penado ligas rekte al enspezoj, efikeco kaj klientkontento-rezultoj.",
+      "row2Eyebrow": "Heredaĵo Modernigo",
+      "row2Title": "Modernigu Sen Rompi la Komercon",
+      "row2P1": "Re-platformu monolitojn al mikroservoj, API-oj kaj nub-denaskaj ŝablonoj kun nul-malfunkciaj interrompoj kaj aŭtomatigita regresa validumado.",
+      "row2P2": "Ni modernigas aplikaĵojn, datumbazojn kaj integrigajn tavolojn konservante konformecon kaj sekurecan pozicion.",
+      "row3Eyebrow": "Nubo, AI & Datumoj",
+      "row3Title": "Nuba Adopto & Datuma Inteligenteco",
+      "row3P1": "Adoptu AWS, Azure kaj GCP, konstruu modernajn datumduktojn kaj enmetu maŝinlernajn agentojn por funkciigi aŭtonomiajn decidojn.",
+      "row3P2": "De realtempa evento streaming ĝis unuigitaj paneloj, transformo fariĝas mezurebla kaj daŭrigebla.",
+      "row4Eyebrow": "Klienta Sperto",
+      "row4Title": "Modernaj Omnikanaj Spertoj",
+      "row4P1": "Restrukturi klientajn vojaĝojn tra respondemaj retejoj, iOS, Android kaj memservaj portaloj kun personigitaj interfacoj.",
+      "row4P2": "Platforma inĝenierado, telemetrio kaj aŭtomatigitaj reagoj daŭras ciferecan novigon.",
+      "pillarsTitle": "Transformaj Kolonoj",
+      "pillarsSub": "Rezulte-fokusitaj leviloj kiuj certigas daŭrigeblan ciferecan gvidadon.",
+      "pillar1Title": "Cifereca Strategio & Regado",
+      "pillar1Desc": "Etapaj transformaj skizoj kun modeligado de komercaj kazoj, arkitekturo-administrado kaj mejloŝtona riskspurado.",
+      "pillar2Title": "Nubo kaj Datuma Platformo",
+      "pillar2Desc": "AWS/Azure/GCP plurnubaj fundamentoj, aŭtomatigitaj duktoj kaj ebligo de entreprena datuma analizo.",
+      "pillar3Title": "AI & Aŭtomatigo",
+      "pillar3Desc": "Inteligenta proceza aŭtomatigo, kognaj AI-agentoj kaj prognoza telemetrio por optimumigi ĉiutagajn operaciojn.",
+      "pillar4Title": "Klienta Sperto",
+      "pillar4Desc": "Alt-konvertaj ĉiukanalaj ciferecaj portaloj kaj personigitaj interfacoj konstruitaj por maksimuma reteno de uzantoj.",
+      "ctaTitle": "Preta Transformi Vian Entreprenon?",
+      "ctaSub": "Partneriĝu kun Rezonants por faza, senriska cifereca transformo ligita al mezureblaj komercaj rezultoj.",
+      "ctaButton": "Rezervu Ciferecan Transforman Vokon",
+      "bookWorkshop": "Laborejo pri LibroTransformado",
+      "exploreFramework": "Esploru Solvokadron",
+      "coreCapabilitiesTitle": "Kernaj Kapabloj"
+    },
+    "endToEndSolutions": {
+      "eyebrow": "Kompleta Teknologia Vivociklo",
+      "titlePart1": "Fin-al-fina Solvo",
+      "titlePart2": "Kadro",
+      "description": "Strukturita, plen-vivciklo-livera kadro ampleksanta komercajn postulojn, arkitekturdezajnon, inĝenieristikon, integriĝon, kvalitan certigon, nuban disfaldiĝon kaj administritajn operaciojn.",
+      "startJourney": "Komencu Vian Projekton",
+      "exploreFramework": "Esploru Kadron",
+      "coreCapabilities": [
+        "Analizo de Postuloj",
+        "Arkitektura Dezajno",
+        "Plena Staka Disvolviĝo",
+        "Integriĝo-Inĝenieristiko",
+        "Kvalita Asekuro",
+        "Disvolviĝo & Disvolviĝo",
+        "Daŭrantaj Operacioj",
+        "Daŭra Evoluo"
+      ],
+      "row1Eyebrow": "Strategio & Arkitekturo",
+      "row1Title": "Postuloj Inĝenieristiko & Solvo-Dezajno",
+      "row1P1": "Kunlaboraj laborrenkontiĝoj, komerca domajna mapado kaj nuba arkitekturo-specifoj dizajnitaj por forigi riskon antaŭ ol linio de kodo estas skribita.",
+      "row1P2": "Ni difinas datummodelojn, sekurecajn kadrojn kaj skaleblajn mejloŝtonojn, kiuj starigas longtempan sukceson.",
+      "row2Eyebrow": "Inĝenieristiko & Kvalito",
+      "row2Title": "Plena Disvolviĝo & Aŭtomatigita Testado",
+      "row2P1": "Modulaj mikroservoj, tipo-sekuraj API-oj kaj respondemaj fasadoj kombinitaj kun aŭtomatigitaj unuo, integriĝo kaj sekurecaj skanadoj.",
+      "row2P2": "Daŭraj integrigaj duktoj kun GitHub Actions, Terraform kaj aŭtomatigitaj sekurecaj bariloj.",
+      "row3Eyebrow": "Deplojo & Operacioj",
+      "row3Title": "Nuba Deplojo & 24/7 Administrita Monitorado",
+      "row3P1": "Plurnuba orkestrado sur AWS/Azure/GCP kun aŭtomatigita malfunkciigo, nul-malfunkciaj interrompoj kaj realtempa observebleco.",
+      "row3P2": "Ni provizas SLA-subtenatan prizorgadon kaj kontinuan telemetrian monitoradon por evolui vian produkton perfekte.",
+      "row4Eyebrow": "Entreprena Regado",
+      "row4Title": "Unuigita Regado kaj Daŭra Subteno",
+      "row4P1": "Unupunkta respondeco tra via tuta cifereca stako — travidebla sprintrapideco, antaŭvidebla buĝetado kaj kontinua novigado.",
+      "row4P2": "Regulaj funkcioj kaj modernigaj cikloj tenas vian entreprenon antaŭ la konkurado.",
+      "pillarsTitle": "Vivciklaj Kadraj Kolonoj",
+      "pillarsSub": "Ĉiu fazo kreita kun entreprena rigoro.",
+      "pillar1Title": "Strategio & Postuloj",
+      "pillar1Desc": "Domajna malkovro, arkitekturaj vojmapoj, kaj koncernata vicigo por forigi ekzekutriskojn.",
+      "pillar2Title": "Arkitekturo & Konstruo",
+      "pillar2Desc": "Fortikaj nubaj denaskaj mikroservoj, API-integriĝoj kaj kontinua QA-testado.",
+      "pillar3Title": "Sekureco & Deplojo",
+      "pillar3Desc": "Sekureca konformeco kun nul-fida, konteneritaj eldonoj kaj aŭtomatigitaj nubaj disfaldoj.",
+      "pillar4Title": "Regado kaj Subteno",
+      "pillar4Desc": "24/7 SLA-monitorado, santelemetrio kaj daŭra evolua inĝenierado.",
+      "ctaTitle": "Bezonas Kompletan Vivciklan Partneron?",
+      "ctaSub": "Ni posedas la plenan teknologian vivociklon por ke via teamo povu koncentriĝi pri kernaj komercaj rezultoj.",
+      "ctaButton": "Partnero por la Plena Vivciklo"
+    },
+    "migrationServices": {
+      "eyebrow": "Nubo & Infrastruktura Transformo",
+      "titlePart1": "Migrado &",
+      "titlePart2": "Modernigo",
+      "description": "Sekura, strukturita migrado de heredaĵaj aplikoj, datumbazoj kaj infrastrukturo al modernaj nubaj arkitekturoj, kunigita kun kontinua modernigo por plibonigita facilmoveco kaj efikeco.",
+      "bookAssessment": "Libro Migrata Takso",
+      "exploreStrategy": "Esploru Nuban Strategion",
+      "coreCapabilities": [
+        "Nuba Migrado",
+        "Modernigo de aplikaĵo",
+        "Datumbaza Migrado",
+        "Regastigo de Infrastrukturo",
+        "Kontenigo",
+        "Mikroservoj Transiro",
+        "Optimumigo de rendimento",
+        "Sekureco & Konformeco"
+      ],
+      "row1Eyebrow": "Nuba Migrado",
+      "row1Title": "Multi-Nuba Strategio & Lift-kaj-Optimumigi",
+      "row1P1": "Senjunta laborŝarĝa migrado tra AWS, Azure kaj Google Cloud kun aŭtomatigita malkovro, ondoplanado kaj nula komerca interrompo.",
+      "row1P2": "Ni ekvilibrigas regastigadon, replatformigon kaj refaktorigon por optimumigi totalkoston de posedo (TCO) kaj lertecon.",
+      "row2Eyebrow": "Migrado de datumoj kaj datumbazoj",
+      "row2Title": "Sekura ETL kaj Aŭtomata Datuma Validodo",
+      "row2P1": "Aŭtomatigita datumbaza reproduktado, skemtraduko, kaj altproduktaj ETL-duktoj kun 100% datumintegreco-konfirmo.",
+      "row2P2": "Nula malfunkcio-tranĉa provludo certigas kompletan datumkonsistecon kaj komercan kontinuecon.",
+      "row3Eyebrow": "Platforma Modernigo",
+      "row3Title": "Kontenigo & Kubernetes Orkestrado",
+      "row3P1": "Modernigu heredaĵajn monolitojn en skaleblajn mikroservojn reĝisoritajn per Kubernetes (EKS, AKS, GKE) kun aŭtomatigitaj IaC-projektoj.",
+      "row3P2": "Post-migrada rendimentoprofilado kaj kostooptimumigo certigas tujan ROI.",
+      "row4Eyebrow": "Tranĉa Planado",
+      "row4Title": "Aŭtomatigitaj Testado kaj Retiro Sekurecaj Retoj",
+      "row4P1": "Batal-provitaj interrompaj kurlibroj, aŭtomatigitaj regresaj serioj kaj tujaj retrovigaj mekanismoj por kompleta trankvilo.",
+      "row4P2": "Post-migrada santelemetrio kaj 24/7 hiperprizorgo garantias senmankan produktadstabilecon.",
+      "pillarsTitle": "Migrado-Asekuroj",
+      "pillarsSub": "Senriskataj movoj subtenataj de entreprenaj SLA-oj.",
+      "pillar1Title": "Nul-Malfunkcia Tranĉo",
+      "pillar1Desc": "Kanariaj eldonoj kaj datumbazo duoble-skriba sinkronigo por certigi seninterrompan uzantan aliron.",
+      "pillar2Title": "Aŭtomatigita Datenvalidigo",
+      "pillar2Desc": "Kontrolsumokomparoj, skemaj integrecaŭdigoj kaj aŭtomatigita ETL-repaco.",
+      "pillar3Title": "Rollback Sekurecaj Retoj",
+      "pillar3Desc": "Striktaj katastrofaj protokoloj kaj provludoj por enhavi riskon en ĉiu fazo.",
+      "pillar4Title": "Optimumigo de rendimento kaj kosto",
+      "pillar4Desc": "Nuba rajtigo, aŭtoskalaj politikoj kaj kost-regado paneloj inkluzivitaj.",
+      "ctaTitle": "Preta Migri kun Plena Fido?",
+      "ctaSub": "Kunlaboru kun Rezonants por strukturita, senriska nubo kaj modernigo de datumoj.",
+      "ctaButton": "Planu Vian Migradan Laborrenkontiĝon"
+    },
+    "pilotPrototyping": {
+      "eyebrow": "Rapida Valumado & Farebleco",
+      "titlePart1": "Pruvo de Koncepto (PoC) &",
+      "titlePart2": "Pilota Efektivigo",
+      "description": "Rapida disvolviĝo kaj validigo de teknologiaj solvoj por taksi teknikan fareblecon, komercan valoron, integrigajn postulojn, efikecon kaj skaleblon antaŭ plenskala efektivigo.",
+      "initiateDiscovery": "Komencu PoC Discovery",
+      "exploreDevelopment": "Esploru Propran Disvolviĝon",
+      "coreCapabilities": [
+        "PoC-Evoluo",
+        "Prototipa Inĝenieristiko",
+        "Studoj pri Farebleco",
+        "Arkitektura Valido",
+        "Integriga Testado",
+        "Efikeco Benchmarking",
+        "Pilota Deplojo",
+        "Valora Takso"
+      ],
+      "row1Eyebrow": "Rapida Valido",
+      "row1Title": "De Koncepto al Validigita Farebleco",
+      "row1P1": "Transformi ideon en entrepren-skalan solvon postulas rigoran antaŭan validigon. Nia PoC & Pilot-servo taksas teknologian daŭrigeblecon, streĉtestas kritikajn integrigajn hokojn kaj validas komercan ROI antaŭ gravaj kapitaldevontigoj.",
+      "row1P2": "Ni konstruas altfidelecajn MVP-ojn kaj fokusajn sandbox-pilotojn, kiuj pruvas teknikan fareblecon, mezuras sisteman latentecon kaj kolektas rektan validadon de koncernatoj frue.",
+      "row1Cap": "Rapidaj MVP-Prototipado & Teknikaj Komparnormoj",
+      "row2Eyebrow": "Lerta Prototipado",
+      "row2Title": "Interagaj MVP-oj & UX-Valimado",
+      "row2P1": "Ni konstruas interagajn dratokadrojn, klakeblajn uzantfluojn kaj funkciajn pruvkonceptojn en tagoj, ne monatoj. Testu realajn uzantinteragojn, rafinu UI/UX-ŝablonojn kaj kolektu ageblajn komentojn de koncernatoj.",
+      "row2P2": "Mallongigante reagojn dum frua evoluo, via teamo minimumigas relaboron kaj establas klarajn teknikajn specifojn antaŭ ol komenciĝas kapitalintensaj konstrufazoj.",
+      "row2Cap": "Rapida ripeto & Klakeblaj UX-Prototipoj",
+      "row3Eyebrow": "Testado pri Integriĝo kaj Skalebleco",
+      "row3Title": "De-Riska Kompleksaj Sistemintegriĝoj",
+      "row3P1": "Malkovru teknikajn proplempunktojn, API-limigojn kaj rendimentajn limojn antaŭ plena kapitalengaĝiĝo. Nia piloto-inĝenieristiko-teamo provas integriĝojn, datumduktojn kaj triajn API-ojn en izolitaj sablokesto-medioj.",
+      "row3P2": "Ĉi tiu iniciatema risko-mildigo certigas altan sisteman haveblecon, sekureckonformecon kaj antaŭvideblajn disvolvajn templiniojn dum transiro de via PoC al entreprena produktado.",
+      "row3Cap": "Sablokesto-Integriĝo kaj Streĉa Testado",
+      "row4Eyebrow": "Kontrolita Produktado-Piloto",
+      "row4Title": "Celita Pilota Lanĉo & Komerca Kazo Valimado",
+      "row4P1": "Deploji celitajn piloteldonojn al elektita uzantsegmento aŭ testmerkato. Spuri rendimento-metrikojn, uzantajn adopto-analitikojn kaj operaciajn sugestojn por kvantigi komercan valoron kaj establi datumon apogitan komercan kazon.",
+      "row4P2": "Kun realaj pilotaj komprenoj, administraj sponsoroj akiras klarajn ROI-metrikojn por pravigi pli larĝan deplojon kaj strategiajn ciferecajn transformajn investojn.",
+      "row4Cap": "Kontrolita Deplojo & Efikeco Telemetrio",
+      "pillarsTitle": "Niaj Pilotaj Inĝenieristikaj Principoj",
+      "pillarsSub": "Gvidprincipoj kiuj igas teknikan necertecon antaŭvidebla komerca sukceso.",
+      "pillar1Title": "PoC & MVP Prototipado",
+      "pillar1Desc": "Liveru funkciajn prototipojn rapide por validigi valorproponojn frue en la vivociklo.",
+      "pillar2Title": "Farebleco & Valumado",
+      "pillar2Desc": "Kontrolu API-kongruon, trairajn sojlojn kaj plenumajn limojn en sandbox-medioj.",
+      "pillar3Title": "Skalebleco-Taksado",
+      "pillar3Desc": "Simulu produktadŝarĝon por establi kapacitajn limojn kaj determini grandecon de nuba arkitekturo.",
+      "pillar4Title": "Validado de Komerco",
+      "pillar4Desc": "Kvantu percepteblajn ROI kaj produktiveco-metrikojn por subteni tutentreprenajn lanĉajn decidojn.",
+      "ctaTitle": "Ĉu vi pretas validigi vian sekvan ciferecan solvon?",
+      "ctaSub": "Konektiĝu kun nia solvo-inĝenieristiko por esplori viajn projektajn postulojn, konstrui prototipon kaj testi fareblecon kun nula risko.",
+      "ctaButton": "Rezervu PoC-Konsulton"
+    },
+    "sharedServices": {
+      "eyebrow": "Centra Operacia Nabo",
+      "titlePart1": "Komunaj Servoj &",
+      "titlePart2": "Administritaj Operacioj",
+      "description": "Alcentrigita livero de teknologio kaj operaciaj kapabloj tra komercaj unuoj per normigitaj procezoj, lertaj rimedoj, administradkadroj, serva administrado kaj mezureblaj servaj niveloj.",
+      "bookDiscovery": "Libro Managed Operations Discovery",
+      "exploreFramework": "Esploru Solvokadron",
+      "coreCapabilities": [
+        "Administritaj Servoj",
+        "IT-Operacioj",
+        "Aplika Subteno",
+        "Administrado de Servo",
+        "Rimeda Optimumigo",
+        "SLA-Administrado",
+        "Regado",
+        "Daŭra Pliboniĝo",
+        "Kosto-Optimumigo"
+      ],
+      "row1Eyebrow": "Unuigita Livera Nabo",
+      "row1Title": "Normigitaj Servoj Tra Ĉiuj Komercaj Unuoj",
+      "row1P1": "Plifirmigu back-officejan IT, infrastrukturan administradon kaj teknikan subtenon en ununuran alt-efikecan livercentron.",
+      "row1P2": "Forigante duoblan superkoston de la teamo kaj normigante servo-liverajn modelojn, via organizo certigas konsekvencan kvaliton kaj malaltigas totalajn operaciajn elspezojn.",
+      "row2Eyebrow": "24/7 SRE & Aplika Subteno",
+      "row2Title": "Proaktiva Monitorado & Rapida Okazaĵo-Rezolucio",
+      "row2P1": "Niaj diligentaj Inĝenieroj pri Reteja Fidindeco (SRE) kaj subtenaj specialistoj provizas 24/7/365 telemetrian monitoradon, aŭtomatigitan atentigtriadon kaj rapidan rezolucion de problemoj L1/L2/L3.",
+      "row2P2": "Subtenataj de striktaj SLA-devontigoj, ni garantias 99.99% haveblecon por viaj misi-kritikaj aplikoj kaj nuba infrastrukturo.",
+      "row3Eyebrow": "ITIL Regado kaj Konformeco",
+      "row3Title": "Strukturitaj Servaj Administraj Kadroj",
+      "row3P1": "Efektivigu industriajn gvidajn ITSM-normojn (ServiceNow, Jira Service Management) kun travideblaj biletoj, analizoj pri radika kaŭzo kaj gardajoj pri ŝanĝadministrado.",
+      "row3P2": "Ampleksaj reviziovojoj kaj regado-politikoj certigas, ke viaj operacioj restas konformaj al internaciaj sekurecnormoj.",
+      "row4Eyebrow": "FinOps & Daŭra Pliboniĝo",
+      "row4Title": "Antaŭvidebla Buĝetado & Rimeda Optimumigo",
+      "row4P1": "Forigu nuban malŝparon, optimumugu komputikan grandecon kaj aŭtomatigu rutinan funkcian prizorgadon kun FinOps plej bonaj praktikoj.",
+      "row4P2": "Monataj travideblaj raportoj kaj kapaciprognozoj certigas kontinuan operacian kostooptimumigon kaj altan kapitalefikecon.",
+      "pillarsTitle": "Operaciaj Kolonoj",
+      "pillarsSub": "Elprovitaj funkciaj leviloj por fidinda entreprena skaleblo.",
+      "pillar1Title": "24/7 Administritaj IT-Operacioj",
+      "pillar1Desc": "Proaktiva NOC-telemetrio, servila flikaĵo, infrastruktura prizorgado, kaj 99.99% garantioj de funkciado.",
+      "pillar2Title": "ITSM & Servotablo",
+      "pillar2Desc": "Tier 1/2/3 plurkanala helpservo, okazaĵvojigo kaj strukturitaj biletaj rezoluciaj laborfluoj.",
+      "pillar3Title": "SLA & Efikeckontrolo",
+      "pillar3Desc": "Kontrakte subtenitaj respondaj tempoj, MTTR-komparnormoj kaj travideblaj monataj agado-revizioj.",
+      "pillar4Title": "FinOps & Kosto-Optimumigo",
+      "pillar4Desc": "Daŭra rimedo ĝusta grandeco, licenca repreno kaj aŭtomatigita nuba kosto-redukto.",
+      "ctaTitle": "Preta por Skali Viajn Administritajn Operaciojn?",
+      "ctaSub": "Kunlaboru kun Rezonants por fidindaj, 24/7 administritaj servoj, kiuj optimumigas kostojn kaj forigas operacian malfunkcion.",
+      "ctaButton": "Rezervu Konsulton pri Administritaj Operacioj",
+      "howItWorksHeading": "Provita vojo al sukceso de komunaj servoj"
+    },
+    "aiRobotics": {
+      "brand": "AI & Robotiko",
+      "eyebrow": "Inteligentaj sistemoj",
+      "heroHeading": "AI kaj Robotiko laborante kune",
+      "intro": "Artefarita Inteligenteco (AI) kaj Robotiko transformas la manieron kiel entreprenoj funkcias kombinante inteligentan decidon kun altnivela aŭtomatigo. AI ebligas maŝinojn analizi datumojn, lerni ŝablonojn kaj fari inteligentajn decidojn, dum robotiko alportas ĉi tiujn kapablojn en la fizikan mondon por plenumi taskojn kun rapideco, precizeco kaj konsistenco.",
+      "section1Heading": "Konstruite por plifaciligi ĉiun operacion",
+      "section1Text": "Niaj solvoj pri AI kaj Robotiko helpas organizojn plifaciligi operaciojn, redukti manan penadon kaj plibonigi produktivecon tra diversaj industrioj. De proceza aŭtomatigo kaj prognoza analizo ĝis inteligenta robotiko kaj inteligentaj sistemoj, ni liveras novigajn teknologiojn, kiuj plibonigas efikecon, kondukas kreskon kaj subtenas ciferecan transformon.",
+      "section2Heading": "Kie inteligenteco renkontas agon",
+      "section2Text": "Ĉiu interago, decido kaj movado estas funkciigita de ununura konektita sistemo — igante datumojn en rezultojn en reala tempo.",
+      "footerTag": "Noviga teknologio por cifereca transformo"
+    },
+    "informationReporting": {
+      "brand": "Enterprise Datuma Platformo",
+      "heroTitle": "Informoj kaj Raportaj Sistemoj",
+      "heroSubtitle": "Ununura fonto de vero por ĉiu fako — konstruita por transformi krudajn operaciajn datumojn en decidojn, kiujn via komerco povas agi hodiaŭ.",
+      "statusLive": "VIVU",
+      "statusAnalyzed": "ANALISITA",
+      "statusArchived": "ARCHIVITA",
+      "statusPending": "ATENDA",
+      "metricUptime": "Sistemo Uptime",
+      "metricSessions": "Aktivaj Sesioj",
+      "metricReportsPerDay": "Raportoj / Tago",
+      "metricEvents": "Ĉiutaga Ingestita Eventoj",
+      "metricReports": "Planitaj Raportoj",
+      "metricLatency": "API Latenteco",
+      "unifiedPlatform": "Unuigita Platformo",
+      "analyticsSuite": "Analytics Suite",
+      "reportingConsole": "Raporta Konzolo",
+      "businessOutcome": "Komerca Rezulto",
+      "section1Heading": "Unu centralizita sistemo por ĉiu metriko kiu gravas",
+      "section1P1": "Informoj kaj Raportaj Sistemoj estas esencaj komercaj solvoj, kiuj ebligas al organizoj kolekti, administri kaj transformi datumojn en signifajn komprenojn. Ĉi tiuj sistemoj integras informojn de pluraj fakoj, certigante precizan, konsekvencan kaj realtempan aliron al kritikaj komercaj datumoj. Provizante centralizitan platformon por informa administrado, organizoj povas plibonigi funkcian videblecon, fluliniigi laborfluojn kaj subteni strategian decidon tra ĉiuj niveloj de la entrepreno.",
+      "section1P2": "Ĉi tiuj sistemoj uzas aŭtomatajn raportojn, analizojn kaj panelojn por spuri rendimenton, monitori ŝlosilajn metrikojn kaj generi realtempajn raportojn. Reduktante manan penadon kaj plibonigante datuman precizecon, entreprenoj povas fari pli rapide kaj pli efikajn decidojn.",
+      "section2Heading": "Konstruite por videbleco, konformeco kaj skalo",
+      "section2Text": "Kun plifortigita videbleco, konformeco kaj kunlaboro, Informoj kaj Raportaj Sistemoj ebligas al organizoj optimumigi procezojn, plibonigi produktivecon kaj stiri daŭrigeblan komercan kreskon en konkurenciva medio.",
+      "ctaHeading": "Donu al ĉiu teamo la saman realtempan bildon de la komerco.",
+      "ctaText": "Vidu kiel Nexus Data Systems povas plifirmigi vian raportadon en unu inteligenta platformo.",
+      "footerCopyright": "© 2026 Nexus Data Systems. Ĉiuj rajtoj rezervitaj.",
+      "navOverview": "Superrigardo",
+      "navCapabilities": "Kapabloj",
+      "navImpact": "Efiko",
+      "navContact": "Kontaktu"
+    },
+    "managedServices": {
+      "subtitle": "Ampleksaj administritaj servoj por via komerco"
+    }
+  },
+  "perspectivesData": {
+    "business-transformation": {
+      "title": "Modernigi Komercajn Aplikojn por Daten-Driven Entrepreno",
+      "excerpt": "Kiel moderna aplika arkitekturo kaj konektitaj datumoj povas plibonigi funkcian efikecon, skaleblon kaj komercan videblecon.",
+      "tag": "Komerca Transformo",
+      "category": "KOMERKA TRANSFORMADO",
+      "summary": "Moderna aplikaĵo kaj datuma fundamento povas helpi entreprenojn plibonigi funkcian efikecon, konekti komercajn sistemojn kaj krei pli bonan videblecon tra siaj operacioj."
+    },
+    "artificial-intelligence": {
+      "title": "Kiel AI Reformas Entreprenajn Aplikojn",
+      "excerpt": "Esploru kiel inteligenta aŭtomatigo, AI-kopilotoj kaj prognoza inteligenteco fariĝas parto de la entreprenaj aplikaĵoj, sur kiuj fidas entreprenoj ĉiutage.",
+      "tag": "Artefarita Inteligenteco",
+      "category": "ARTIFICIA INTELIGENTECO",
+      "summary": "Esploru kiel inteligenta aŭtomatigo, AI-kopilotoj kaj prognoza inteligenteco transformas ĉiutagan entreprenan programaron en adaptajn, iniciatemajn platformojn."
+    },
+    "modern-erp": {
+      "title": "Akceli Komercan Transformon kun Moderna ERP",
+      "excerpt": "Esploru kiel modernaj ERP-platformoj ligas financon, aĉetadon, provizoĉenon kaj komercajn operaciojn per unuigita cifereca fundamento.",
+      "tag": "Moderna ERP",
+      "category": "MODERNA ERP",
+      "summary": "Moderna ERP-platformo ligas financon, aĉetadon, provizoĉenon kaj komercajn operaciojn en unuigitan, realtempan operacian modelon."
+    },
+    "cybersecurity": {
+      "title": "Konstruado de Ciberrezisto en Konektita Entrepreno",
+      "excerpt": "Esploru kiel organizoj povas plifortigi sekurecon, protekti kritikajn sistemojn kaj prepariĝi por minacoj tra ĉiam pli konektitaj medioj.",
+      "tag": "Cibersekureco",
+      "category": "CIBERSEKURO",
+      "summary": "Ĉar entreprenoj integras pli da nubaj sistemoj, API-oj kaj partnerekosistemoj, ciber-rezisto certigas ke misi-kritikaj operacioj eltenas modernajn minacojn."
+    },
+    "cloud-modernization": {
+      "title": "Modernigi Heredajn Aplikojn por la Nubo",
+      "excerpt": "Esploru praktikan aliron por taksi, modernigi kaj movi heredaĵajn aplikaĵojn al skaleblaj, sekuraj nubaj arkitekturoj.",
+      "tag": "Nubo & Modernigo",
+      "category": "NUBO & MODERNIZO",
+      "summary": "Strukturita, pragmata vojmapo por taksi, refaktori kaj migri monolitajn entreprenajn sistemojn al elastaj, konserveblaj nubaj arkitekturoj."
+    }
+  },
+  "perspectivesArticles": {
+    "businessTransformation": {
+      "category": "KOMERKA TRANSFORMADO",
+      "title": "Modernigante Komercajn Aplikojn por Daten-Driven Entrepreno",
+      "subtitle": "Moderna aplikaĵo kaj datuma fundamento povas helpi entreprenojn plibonigi funkcian efikecon, konekti komercajn sistemojn kaj krei pli bonan videblecon tra siaj operacioj.",
+      "date": "septembro 2026",
+      "readTime": "7 min legado",
+      "imageCaption": "Enterprise Technology Perspective — Aplika Arkitekturo & Konektitaj Datumoj",
+      "legacyLandscapeFlow": [
+        {
+          "title": "Komercaj Aplikoj",
+          "desc": "Malsamaj heredaj CRM, ERP kaj fakaj iloj kurantaj en siloj."
+        },
+        {
+          "title": "Multoblaj Datumfontoj",
+          "desc": "Fragmentitaj operaciaj tabeloj, CSV-eltiraĵoj kaj ad-hoc-skemoj."
+        },
+        {
+          "title": "Malkonektitaj datumbazoj",
+          "desc": "Izolitaj surlokaj kaj nekunordigitaj nubaj datumdeponejoj."
+        },
+        {
+          "title": "Raportoj kaj Komercaj Uzantoj",
+          "desc": "Manaj repaciĝoj, konfliktantaj kalkultabeloj kaj prokrastita raportado."
+        }
+      ],
+      "modernArchitectureFlow": [
+        {
+          "title": "Komercaj Aplikoj",
+          "desc": "Kernaj operaciaj platformoj kaj modernaj respondemaj interfacoj."
+        },
+        {
+          "title": "API/Integriĝa Tavolo",
+          "desc": "Sekura, evento-movita API-enirejo liganta entreprenajn laborfluojn."
+        },
+        {
+          "title": "Datumoj",
+          "desc": "Unuigitaj majstraj datummodeloj, duktoj kaj optimumigitaj stokadmotoroj."
+        },
+        {
+          "title": "Analizo & Raportado",
+          "desc": "Realtempa telemetrio, semantikaj modeloj kaj aŭtomatigita raportado."
+        },
+        {
+          "title": "Komercaj Deciduloj",
+          "desc": "Vivaj funkciaj paneloj provizante unuecan administran videblecon."
+        }
+      ],
+      "techFoundationRows": [
+        {
+          "area": "Entreprenaj Aplikoj",
+          "purpose": "Komercproceza administrado"
+        },
+        {
+          "area": "APIoj",
+          "purpose": "Sistemintegriĝo"
+        },
+        {
+          "area": "Datumbazoj",
+          "purpose": "Strukturitaj komercaj datumoj"
+        },
+        {
+          "area": "Datuma Integriĝo",
+          "purpose": "Konekti plurajn fontojn"
+        },
+        {
+          "area": "Analitiko",
+          "purpose": "Komercaj komprenoj"
+        },
+        {
+          "area": "Nuba Infrastrukturo",
+          "purpose": "Skalebleco kaj fleksebleco"
+        },
+        {
+          "area": "Monitorado",
+          "purpose": "Fidindeco kaj rendimento"
+        }
+      ],
+      "businessImpactOutcomes": [
+        "Plibonigita funkcia videbleco trans trans-funkciaj unuoj",
+        "Pli bona datenkonsistenco kaj ununura fonto de entreprena vero",
+        "Reduktita mana raporta penado kaj aŭtomatigita datuma kompilo",
+        "Plibonigita aplikaĵa rendimento kaj reduktita transakcia latenco",
+        "Pli facila sistema integriĝo per normigitaj, sekuraj API-oj",
+        "Pli granda skaleblo por subteni organikan kreskon kaj akiron",
+        "Pli bona fundamento por estonta novigado kaj inteligenta adopto"
+      ],
+      "keyPerspectivePoints": [
+        "Kompreni komercajn procezojn kaj verajn funkciajn laborfluojn",
+        "Konekti sistemojn per fidindaj integrigaj normoj",
+        "Plibonigi datumkvaliton, regadon kaj majstrajn datumajn modelojn",
+        "Modernigi aplikaĵojn sen malstabiligi ĉiutagajn operaciojn",
+        "Krei skaleblan arkitekturon taŭgan por elasta kresko",
+        "Ebligi pli bonan komercan videblecon por iniciatema decido"
+      ],
+      "sec1Eyebrow": "LA KOMERKA DEFIO",
+      "sec1Heading": "Navigado de Komplekseco en Kreskanta Entrepreno",
+      "sec1Subtext": "Dum entreprenoj grimpas, teknologiaj ekosistemoj neeviteble vastiĝas. Kio komenciĝas kiel fokusitaj solvoj por individuaj fakoj, povas evolui al implikita reto de malsimilaj sistemoj.",
+      "sec2Eyebrow": "SISTEMA EVOLUO",
+      "sec2Heading": "Kompleksa Teknologia Pejzaĝo",
+      "sec2Subtext": "Kiam komercaj aplikaĵoj, datumbazoj kaj operaciaj sistemoj evoluas sendepende, informfluoj fragmentiĝas. Kompreni ĉi tiun fragmentiĝon estas la kritika unua paŝo.",
+      "sec3Eyebrow": "LA KONEKTA MODELO",
+      "sec3Heading": "Moderna Aplika Arkitekturo",
+      "sec3Subtext": "Entreprenoj moviĝas al evento-movita, API-unua arkitekturo kie datumoj fluas fidinde tra kernaj platformoj kaj atingas decidantojn en reala tempo.",
+      "sec4Eyebrow": "INTELIGENTECO & VIDebleco",
+      "sec4Heading": "Konektitaj Datumoj kaj Analizoj",
+      "sec4Subtext": "Kiam komercaj aplikaĵoj komunikas perfekte, datumoj ĉesas esti raporta kromprodukto kaj iĝas ĉefa ŝoforo de operacia lerteco.",
+      "sec5Eyebrow": "ARKITEKTURA SKEO",
+      "sec5Heading": "Teknologia Fondaĵo",
+      "sec5Subtext": "Ampleksa vido de la kernaj teknologiaj areoj kiuj formas modernan, skaleblan entreprenan fundamenton.",
+      "sec6Eyebrow": "KVALITATIVA VALORO",
+      "sec6Heading": "Komerca Efiko",
+      "sec6Subtext": "Modernigi aplikaĵarkitekturon kaj konekti fragmentajn datumojn liveras percepteblajn funkciajn plibonigojn tra la organizo.",
+      "ctaHeading": "Preta por Modernigi Vian Teknologian Medion?",
+      "ctaDescription": "Esploru kiel moderna aplika arkitekturo, konektitaj datumoj kaj skalebla teknologio povas helpi organizojn plibonigi efikecon kaj prepariĝi por estonta kresko.",
+      "ctaButton": "Parolu al Niaj Fakuloj",
+      "sec1P1": "En tipa entreprena medio, kresko ofte enkondukas plurajn generaciojn de programaro. Financo, provizoĉeno, klientservo kaj kampoperacioj ofte funkcias per apartaj softvarstakoj akiritaj aŭ konstruitaj en malsamaj tempoj. Dum jaroj da funkcia evoluo, ĉi tiuj sistemoj disvolvas siajn proprajn datumformatojn, ĝisdatigas kadencojn kaj integrigajn strangaĵojn.",
+      "sec1P2": "La frotado manifestiĝas tra la entrepreno tra oftaj funkciaj proplempunktoj:",
+      "sec1List": [
+        {
+          "bold": "Multoblaj malkonektitaj komercaj aplikaĵoj",
+          "text": "kiuj postulas duplikatan eniron de datumoj kaj manan krucreferencon."
+        },
+        {
+          "bold": "Malkonektitaj datumbazoj",
+          "text": "funkcianta sen centralizita regado aŭ unuigitaj majstraj registroj."
+        },
+        {
+          "bold": "Manlibro raportado superkoste",
+          "text": ", kie analizaj teamoj pasigas tagojn kunmetante eksportaĵojn prefere ol malkovrante komprenojn."
+        },
+        {
+          "bold": "Datumaj malkongruoj",
+          "text": "trans fakoj, kreante konfliktajn respondojn al fundamentaj funkciaj demandoj."
+        },
+        {
+          "bold": "Aplikaĵo prizorgado superkosto kaj skaleblo limoj",
+          "text": ", ĉar fragilaj heredaj punkto-al-punktaj konektoj luktas por subteni kreskantajn transakciajn volumojn."
+        }
+      ],
+      "sec1P3": "Trakti ĉi tiujn defiojn postulas rigardi la teknologian pejzaĝon ne kiel kolekton de izolitaj softvaraj aĉetoj, sed kiel interligita komerca platformo dizajnita por subteni strategian lertecon.",
+      "legacyLandscapeBadge": "Heredaĵa Bazlinio",
+      "legacyLandscapeTitle": "Fragmenta Informa Fluo",
+      "sec2Cards": [
+        {
+          "num": "01",
+          "title": "Datumaj Siloj",
+          "desc": "Decidaj datumoj pri klientoj, financaj kaj stokregistroj restas kaptitaj en fakaj platformoj, malhelpante ununuran unuigitan vidon de komercaj operacioj."
+        },
+        {
+          "num": "02",
+          "title": "Integrigaj Manĉoj",
+          "desc": "Punkto-al-punktaj konektoj kaj noktaj grupaj eltiraĵoj kreas latentecon, altajn malsukcesajn indicojn kaj multekostajn prizorgadojn tra funkciaj teamoj."
+        },
+        {
+          "num": "03",
+          "title": "Malfrua Informo",
+          "desc": "Kiam ekzekutivoj devas atendi tagojn por monatfina repaciĝo por kompreni rendimenton, decidofarado estas reaktiva prefere ol prognoza."
+        }
+      ],
+      "modernArchitectureBadge": "Cela Arkitekturo",
+      "modernArchitectureTitle": "Konektita Entreprena Aplika Modelo",
+      "sec3P1": "Moderna aplika arkitekturo anstataŭigas fragilajn punkto-al-punktajn ligojn per lerta, malkunliga fundamento. Establante fortikan API kaj integrigan tavolon, sistemoj interagas per regataj, sekuraj finpunktoj konservante la aŭtonomecon de individuaj komercsekcioj.",
+      "sec3P2": "Ŝlosilaj teknikaj kapabloj de ĉi tiu arkitektura ŝanĝo inkluzivas:",
+      "sec3List": [
+        {
+          "bold": "Modernigo de aplikaĵo:",
+          "text": "Malkunligi kernan komercan logikon en skaleblajn modulajn servojn."
+        },
+        {
+          "bold": "API-integriĝo:",
+          "text": "Establi normigitajn, dokumentitajn interfacojn por interna kaj partnera kunfunkciebleco."
+        },
+        {
+          "bold": "Datuma integriĝo kaj datumbaza optimumigo:",
+          "text": "Unuigante operaciajn datumduktojn kun alt-trafia demandoptimumigo."
+        },
+        {
+          "bold": "Observeblo kaj sekureco:",
+          "text": "Efektivigo de centralizita telemetrio, reviziovojoj kaj rol-bazitaj alirkontroloj tra ĉiuj servoj."
+        }
+      ],
+      "sec4P1": "Integritaj datumaj fundamentoj transformas kiel gvidado kaj operaciaj teamoj interagas kun informoj. Prefere ol fidi je retrospektivaj raportoj, kiuj montras tion, kio okazis antaŭ semajnoj, organizoj akiras vivan funkcian telemetrion tra komercaj unuoj.",
+      "sec4P2": "Konektitaj datumoj kaj analizoj subtenas daŭrigeblajn komercajn rezultojn per:",
+      "sec4List": [
+        {
+          "bold": "Funkcia videbleco:",
+          "text": "Daŭra travidebleco tra vendo, inventaro, plenumado kaj financa rendimento."
+        },
+        {
+          "bold": "Pli rapidaj raportaj kadencoj:",
+          "text": "Laŭpeta datuma agregado, kiu forigas ripetemajn manajn kalkultabelojn."
+        },
+        {
+          "bold": "Konsekvenca informo:",
+          "text": "Unuopaj difinoj por metrikoj kiel marĝeno, kliento dumviva valoro kaj plumborapideco."
+        },
+        {
+          "bold": "Pli bonaj komercaj komprenoj:",
+          "text": "Antaŭdira ŝablona detekto, kiu ekaperas riskojn kaj ŝancojn anticipe."
+        },
+        {
+          "bold": "Plibonigita decidiĝo:",
+          "text": "Fida plenuma agado subtenata de validigita datuma genlinio kaj travidebleco."
+        }
+      ],
+      "keyPerspectiveEyebrow": "STRATEGIA PERSPEKTIVO",
+      "keyPerspectiveTitle": "Modernigo Estas Pli Ol Programaro Anstataŭigo",
+      "keyPerspectiveLead": "Modernigi komercajn aplikaĵojn ne estas simple anstataŭigi malnovan programaron per novaj iloj. Ĝi estas intencita paraleligo de teknologio kun kiel la komerco funkcias, skalas kaj liveras valoron."
+    },
+    "artificialIntelligence": {
+      "category": "ARTIFICIA INTELIGENTECO",
+      "title": "Kiel AI Reformas Entreprenajn Aplikojn",
+      "subtitle": "Esploru kiel inteligenta aŭtomatigo, AI-kopilotoj kaj prognoza inteligenteco fariĝas parto de la entreprenaj aplikaĵoj, kiujn fidas entreprenoj ĉiutage.",
+      "date": "septembro 2026",
+      "readTime": "6 min legado",
+      "imageCaption": "Enterprise Technology Perspective — Artefarita Inteligenteco & Enterprise Systems",
+      "aiUseCases": [
+        {
+          "title": "Provizoĉeno",
+          "desc": "Antaŭdirado de postulpikoj kaj loĝistikaj prokrastoj de historia provizanta telemetrio."
+        },
+        {
+          "title": "Aŭtomatigita Reviziado de Fakturoj",
+          "desc": "Ĉerpi liniojn kaj kongrui kontraŭ aĉetmendoj kun nula homa eniro."
+        },
+        {
+          "title": "Inteligentaj Servaj Tabloj",
+          "desc": "Triaĝo kaj aŭtomatigita rezolucio de petoj pri IT kaj HR de dungitoj de Tier-1."
+        },
+        {
+          "title": "Kliento Churn Preventado",
+          "desc": "Kondutisma grupigo identiganta fruajn frikciajn signalojn por iniciatema atingo."
+        }
+      ],
+      "aiBusinessBenefits": [
+        "Pli rapidaj operaciaj decidoj pelitaj de realtempaj prognozaj modeloj",
+        "Redukto en ripetema datumtraktado kaj manaj repaciĝoj",
+        "Pli alta dungita trairo kun kunteksta kopilota asistado",
+        "Plibonigita klientokontento per hiperpersonigitaj spertoj",
+        "Kontinua proceza memoptimumigo bazita sur reala telemetrio",
+        "Senriska observo-spurado per aŭtomatigita revizio-registra inspektado"
+      ],
+      "governancePoints": [
+        "Strikta rol-bazita aliro certigante AI-modelojn neniam likas sentemajn datumojn",
+        "Travideblaj rezonaj spuroj permesantaj homan revizion pri altvaloraj agoj",
+        "Kontinua modela taksado por protekti kontraŭ halucino kaj biaso",
+        "Striktaj datendevenaj normoj konformaj al GDPR, SOC 2 kaj HIPAA",
+        "Homaj-en-la-buklaj eskaladovojoj por necertaj randkondiĉoj"
+      ],
+      "sec1Eyebrow": "LA MANIĜO AL DEnaska INTELIGENTO",
+      "sec1Heading": "AI en Entreprenaj Aplikoj",
+      "sec1Subtext": "Artefarita inteligenteco transiras de eksperimentaj flankprojektoj al la kernaj operaciaj aplikoj, kiujn entreprenoj fidas ĉiutage.",
+      "sec2Eyebrow": "AUTOMATIGO AL SKALA",
+      "sec2Heading": "Inteligenta Aŭtomatigo",
+      "sec2Subtext": "Transpaŝi tradiciajn regul-bazitajn skriptojn al kognaj laborfluoj, kiuj komprenas nestrukturitan enhavon, adaptiĝas al variadoj kaj optimumigas procezojn dinamike.",
+      "sec3Eyebrow": "INTEGRITA ASSISTADO",
+      "sec3Heading": "Enterprise AI-Kopilotoj",
+      "sec3Subtext": "Bazitaj en organiza scio kaj entreprena sekureco, AI-asistantoj funkcias kiel specialigitaj partneroj tra ĉiutagaj komercaj laborfluoj.",
+      "sec4Eyebrow": "ANTAŬRENKONTA RAZIONO",
+      "sec4Heading": "Prognoza Inteligenteco",
+      "sec4Subtext": "Transformi historiajn entreprenajn protokolojn kaj realtempajn funkciajn fontojn en agebla antaŭvido.",
+      "sec5Eyebrow": "REALMONDAJ APLIKOJ",
+      "sec5Heading": "Enterprise AI Uzkazoj",
+      "sec5Subtext": "Praktikaj manieroj gvidaj organizoj aplikas artefaritan inteligentecon tra kernaj komercaj funkcioj.",
+      "sec6Eyebrow": "STRATEGIA VALORO",
+      "sec6Heading": "Komercaj Avantaĝoj",
+      "sec6Subtext": "Se efektivigita penseme kun regataj entreprenaj datumoj, AI malŝlosas grandajn kvalitajn avantaĝojn.",
+      "ctaHeading": "Esploru AI-Ŝancojn por Via Komerco",
+      "ctaDescription": "Malkovru kiel inteligenta aŭtomatigo, entreprenaj kopilotoj kaj prognozaj modeloj povas malŝlosi funkcian efikecon tra viaj kernaj sistemoj.",
+      "ctaButton": "Parolu al Niaj Fakuloj",
+      "sec1P1": "Dum jaroj, entreprena artefarita inteligenteco estis traktita kiel ekstera kapablo: modelo trejnita izole, sablokesto-manifestacio, aŭ izolita babilejo alirebla per aparta portalo. Hodiaŭ, la paradigmo esence ŝanĝiĝis. Altefika entreprena AI estas enigita rekte en la sistemojn de rekordo - la ERPoj, CRMoj, homkapitalaj platformoj kaj provizoĉenaj motoroj kie reala komerco okazas.",
+      "sec1P2": "Kiam inteligenteco funkcias ene de la sistemo de rekordo, ĝi heredas la establitajn sekurecajn limojn de la organizo, datummodelojn kaj komercan logikon. Ĝi ne simple generas ĝeneralajn respondojn; ĝi agas laŭ vivaj mendoj, interpretas malfermajn subtenajn biletojn, akordigas provizantajn fakturojn kaj helpas dungitojn ene de la precizaj interfacoj, kiujn ili navigas ĉiutage.",
+      "sec1P3": "Ĉi tiu transformo movas entreprenan programaron de pasivaj datumbazoj, kiuj atendas homajn klavpremojn, al iniciatemaj platformoj, kiuj antaŭvidas bezonojn, aŭtomatigas paŝojn kaj ekaperas ĝustatempajn rekomendojn.",
+      "sec2P1": "Tradicia Robota Proceza Aŭtomatigo (RPA) elstaris je determinisma, ripetema ekranskrapado. Tamen, rigidaj reguloj rompas kiam ajn formo ŝanĝiĝas, alvenas neatendita dokumenta aranĝo aŭ okazas escepto. Inteligenta aŭtomatigo transpontas tiun disigon kombinante kognan rezonadon kun transakcia ekzekuto:",
+      "sec2List": [
+        {
+          "bold": "Laborflua aŭtomatigo:",
+          "text": "Orkestrado de kompleksaj transdepartamentaj operacioj, vojigo de taskoj surbaze de urĝaj kaj historiaj rezoluciaj vojoj."
+        },
+        {
+          "bold": "Inteligenta traktado de dokumentoj:",
+          "text": "Ingesti nestrukturitajn PDF-ojn, retpoŝtojn, sendajn manifestojn kaj kontraktojn, konvertante ilin en strukturitajn datumbaztransakciojn."
+        },
+        {
+          "bold": "Inteligenta taskoaŭtomatigo:",
+          "text": "Aŭtomatigi plurpaŝajn operaciajn validigojn—kiel ekzemple kongruo de aĉetmendoj kun kvitancoj kaj bankdeklaroj."
+        },
+        {
+          "bold": "Proceza optimumigo:",
+          "text": "Senĉese analizante procezajn protokolojn por identigi ciklotempajn proplempunktojn kaj rekomendi celitajn laborfluajn rafinadojn."
+        }
+      ],
+      "copilotCards": [
+        {
+          "icon": "🔍",
+          "title": "Informo Serĉo",
+          "desc": "Semantika rehavigo tra distribuitaj sciobazoj, intraretaj politikoj, produktaj specifoj kaj historiaj biletaj rezolucioj sen ŝlosilvorto divenado."
+        },
+        {
+          "icon": "📝",
+          "title": "Dokumenta Resumo",
+          "desc": "Tuja distilado de longaj RFP-oj, vendistaj interkonsentoj, teknikaj specifoj kaj leĝaj amendoj en ageblajn plenumajn raportojn kaj risklistojn."
+        },
+        {
+          "icon": "✨",
+          "title": "Enhavo Generado",
+          "desc": "Helpita redaktado de klientproponoj, operacia dokumentaro, normaj operaciaj proceduroj (SOPoj), kaj normigitaj klientaj ĝisdatigoj kongruaj kun marknormoj."
+        },
+        {
+          "icon": "📈",
+          "title": "Datuma Analizo",
+          "desc": "Tradukante konversaciajn demandojn en kompleksajn analizajn demandojn, generante surla flugajn diagramajn resumojn kaj elstarigante kritikajn eksteraĵojn por gvidado."
+        },
+        {
+          "icon": "🔄",
+          "title": "Komercaj Laborfluoj",
+          "desc": "Iniciati transakciojn rekte de babilaj invitoj—kiel plani rimedojn, krei biletojn, ĝisdatigi rekordojn aŭ sendi aĉetpetojn."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Rol-bazita Aliro",
+          "desc": "Certigi, ke la respondoj de kopiloto strikte respektu la permesajn nivelojn de uzanto, konservante konfidencajn financojn, HR-dosierojn kaj intelektan proprieton protektitaj."
+        }
+      ],
+      "sec4P1": "Dum generaj modeloj elstaras je komprenado kaj sintezado de lingvo, prognoza inteligenteco temigas matematikajn ŝablonojn kaŝitajn ene de strukturitaj entreprenaj datumaroj. Enkonstruitaj prognozaj modeloj rajtigas organizojn antaŭvidi funkciajn obstaklojn antaŭ ol ili interrompas operaciojn:",
+      "sec4List": [
+        {
+          "bold": "Funkcia prognozo:",
+          "text": "Antaŭdiro de enspeztendencoj, inventaro-rapideco, kaj rimedpostuloj per sintezado de laŭsezonaj indikiloj kun realtempa duktorapideco."
+        },
+        {
+          "bold": "Prognoza analizo:",
+          "text": "Indikante riskojn pri kliento de kliento, cikloj de degenero de bontenado kaj prokrastoj de provizoĉeno dum ankoraŭ estas tempo por interveni."
+        },
+        {
+          "bold": "Riskoidentigo:",
+          "text": "Markante anomaliojn en financaj transakcioj, plenumaj protokoloj, kaj vendistaj akirpadronoj antaŭ ol ili pliiĝas."
+        },
+        {
+          "bold": "Posta prognozo:",
+          "text": "Harmonigo de vendoprognozoj kun produktadkapacito kaj stokaj stokniveloj por protekti laborkapitalon."
+        }
+      ],
+      "keyPerspectiveEyebrow": "ENTRPRESA REGISTARO",
+      "keyPerspectiveTitle": "Fido, Superrigardo kaj Gardbarilo",
+      "keyPerspectiveLead": "AI estas nur same fidinda kiel la datuma fundamento sub ĝi kaj la regado ĉirkaŭ ĝi. Daŭrigebla entreprena adopto postulas konscian arkitekturan disciplinon:"
+    },
+    "modernErp": {
+      "category": "MODERNA ERP",
+      "title": "Akceli Komercan Transformon kun Moderna ERP",
+      "subtitle": "Esploru kiel modernaj ERP-platformoj ligas financon, aĉetadon, provizoĉenon kaj komercajn operaciojn per unuigita cifereca fundamento.",
+      "date": "Aŭgusto 2026",
+      "readTime": "6 min legado",
+      "imageCaption": "Enterprise Technology Perspective — ERP & Koneksaj Komercaj Operacioj",
+      "connectedFunctions": [
+        {
+          "title": "Financa Administrado",
+          "desc": "Realtempaj ĝisdatigoj de ĉeflibroj, aŭtomatigita enspezo-rekono kaj tuja plurvaluta repaciĝo."
+        },
+        {
+          "title": "Provizoĉeno & Loĝistiko",
+          "desc": "Fin-al-fina inventarovidebleco, stokoptimumigo kaj provizanta agado-telemetrio."
+        },
+        {
+          "title": "Homa Kapitalo & Laborforto",
+          "desc": "Memservaj dungitaj portaloj, aŭtomatigitaj salajro-etoj kaj integra talenta vivocikloplanado."
+        },
+        {
+          "title": "Akiro kaj Aprovizado",
+          "desc": "Aŭtomatigitaj aĉetaj aproboj, vendistaj kontrakto-konformo kaj dinamika elspezanalitiko."
+        }
+      ],
+      "modernCapabilities": [
+        {
+          "title": "Nubo-Denaska Arkitekturo",
+          "desc": "Elasta komputa skalado sen surloka infrastruktura superkosto aŭ interrompa versio-ŝlosado."
+        },
+        {
+          "title": "Malfermu API-Ekosistemon",
+          "desc": "Antaŭkonstruitaj konektiloj ebligante senjuntan dudirektan datumsinkronadon kun kutimaj mikroservoj kaj CRM-suitoj."
+        },
+        {
+          "title": "Enigita Analizo",
+          "desc": "Rektas instrumentpanelajn borojn de altnivelaj bilancoj en individuajn transakciajn protokolojn."
+        },
+        {
+          "title": "Aŭtomatigitaj Laborfluo-Eligiloj",
+          "desc": "Event-movita evento ekigas ekzekuti normajn transdepartamentajn operaciojn aŭtonome."
+        }
+      ],
+      "erpBusinessBenefits": [
+        "Ununura fonto de vero eliminanta konfliktajn departementajn raportojn",
+        "Drasta redukto en proksimaj cikloj de monato kaj kvaronfino",
+        "Realtempa inventaro kaj loĝistika videbleco minimumigante stockouts",
+        "Reduktita IT prizorgado superkoste per modulaj nub-denaskaj ĝisdatigoj",
+        "Unuigita observado tra plurregionaj impostaj jurisdikcioj",
+        "Pli rapida enŝipiĝo de akiritaj estaĵoj en komunajn operaciajn spinojn"
+      ],
+      "erpStrategyPoints": [
+        "Vicigante ERP-arkitekturon kun kernaj operaciaj laborfluoj antaŭ agordo",
+        "Elektante modulajn deplojajn modelojn por realigi rapidajn mejloŝtonajn venkojn",
+        "Priorigi altkvalitan majstran datuman migradon kaj repaciĝon",
+        "Enkonstruado de aŭtomata ŝanĝadministrado kaj roladaptita trejnadprogramoj",
+        "Desegni API-enirejojn por senfrikcia estonta integriga ekspansio"
+      ],
+      "sec1Eyebrow": "LA OPERACIA SPINO",
+      "sec1Heading": "Kial Moderna ERP Gravas",
+      "sec1Subtext": "ERP ne plu estas nur administra kontado. Ĝi estas la mastruma modelo de la moderna entrepreno esprimita en programaro.",
+      "sec2Eyebrow": "INTEGRATA EKOSISTEMO",
+      "sec2Heading": "Konektitaj Komercaj Funkcioj",
+      "sec2Subtext": "Reala organiza valoro aperas kiam kernaj komercaj funkcioj traktas kune sur komuna cifereca fundamento.",
+      "sec3Eyebrow": "TRANSFUNKCIA HARMONIO",
+      "sec3Heading": "Unuigitaj Operacioj kaj Informa Fluo",
+      "sec3Subtext": "Malkonstrui komunikajn murojn inter fakoj por ebligi fluidajn, sinkronigitajn entreprenajn laborfluojn.",
+      "sec4Eyebrow": "ENTREPRENA TELEMETRIA",
+      "sec4Heading": "Realtempa Komerca Videbleco",
+      "sec4Subtext": "Plifirmigi operaciajn metrikojn en travideblajn administrajn instrumentpanelojn, kiuj reflektas nunajn komercajn realaĵojn.",
+      "sec5Eyebrow": "KERNA PLATAFORMA ARKITEKTURA",
+      "sec5Heading": "Modernaj ERP-Kapabloj",
+      "sec5Subtext": "La arkitekturaj atributoj kiuj apartigas nuntempajn ERP-platformojn de rigidaj heredaj instalaĵoj.",
+      "sec6Eyebrow": "KVALITATIVA EFIKO",
+      "sec6Heading": "Komercaj Avantaĝoj",
+      "sec6Subtext": "Konekti kernajn komercajn operaciojn en unuigitan ciferecan fundamenton donas mezureblan organizan rezistecon.",
+      "ctaHeading": "Modernigu Viajn Entreprenajn Operaciojn",
+      "ctaDescription": "Esploru kiel modernaj ERP-platformoj ligas financon, aĉetadon, provizoĉenon kaj komercajn operaciojn per unuigita cifereca fundamento.",
+      "ctaButton": "Parolu al Niaj Fakuloj",
+      "sec1P1": "En rapidaj entreprenaj pejzaĝoj, tradiciaj sistemoj pri Entreprena Rimeda Planado ofte luktas. Konstruitaj en epoko de bata prilaborado kaj izolitaj lokaj serviloj, heredaj ERP-oj estis tre personigitaj, malfacile ĝisdatigeblaj kaj dolore maldiafanaj. Decidaj komercaj operacioj funkciis en paralelaj siloj, fidante je delikataj subitaj eksportaĵoj por sinkronigi ĉeflibrojn kun stokejoj.",
+      "sec1P2": "Moderna, nub-denaska ERP esence redifinas ĉi tiun dinamikon. Ĝi funkcias kiel la unuigita cifereca spino de la entrepreno - vivanta fundamento kie financo, akiro, provizoĉeno, inventaro kaj homaj rimedoj traktas laŭ komuna datuma modelo.",
+      "sec1P3": "Alportante kernoperaciojn en ununuran harmoniigitan medion, moderna ERP forigas la funkciajn blindajn punktojn kiuj malrapidigas kreskon, ebligante gvidantojn stiri la komercon uzante realtempajn signalojn prefere ol malfreŝaj historiaj resumoj.",
+      "sec3P1": "Funkciaj siloj malofte estas homproblemoj; ili estas arkitekturaj problemoj. Kiam klientservado, akiro kaj stokteamoj laboras en malkonektitaj aplikoj, ĉiu transdono postulas manajn retpoŝtojn, kalkultabelojn kaj telefonvokojn. Eraroj multiĝas, fakturoj estas retenitaj, kaj klientaj devontigoj glitas.",
+      "sec3P2": "Moderna ERP traktas ĉi tion per unuigita datuma genlinio kaj okazaĵ-movita procezinstrumentado:",
+      "sec3List": [
+        {
+          "bold": "Sinkronigita mendo al kontantmono:",
+          "text": "Kiam klienta mendo estas metita, stokregistroj aŭtomate rezervas, sendaj etikedoj generiĝas kaj fakturaj ĉeflibroj tuj ĝisdatiĝas."
+        },
+        {
+          "bold": "Aĉerpago-travidebleco:",
+          "text": "Aĉetmendoj, varaj kvitancoj kaj vendistaj fakturoj kongruas aŭtomate kun tridirekta repaciĝo, markante nur esceptojn por homa revizio."
+        },
+        {
+          "bold": "Unuigita laborkosto kaj operacia kosto:",
+          "text": "Projektaj tempofolioj, salajro-etatoj kaj rektaj operaciaj elspezoj mapas rekte al kostcentroj en reala tempo."
+        }
+      ],
+      "sec4P1": "Funkciigi entreprenon sen unuigita videbleco estas kiel flugi en densa nebulo kun malfruaj instrumentoj. Moderna ERP disponigas realtempan telemetrion trans ĉiu komerca dimensio:",
+      "sec4List": [
+        {
+          "bold": "Vivaj administraj paneloj:",
+          "text": "Tujaj vidoj de malnetaj marĝenoj, operaciaj monfluoj, malfermaj pasivoj kaj mendprokrastoj sen atendado de periodo-fino."
+        },
+        {
+          "bold": "Memserva operacia raportado:",
+          "text": "Departementaj estroj povas konstrui kutimajn demandojn kaj bori malsupren de entreprennivelaj resumoj al individuaj transakciaj linio-eroj."
+        },
+        {
+          "bold": "Alcentrigitaj majstraj informoj:",
+          "text": "Forigo de kontraŭdiraj nombroj per establado de unuopaj regataj ĉefdatenoj por klientoj, vendistoj kaj produktaj katalogoj."
+        },
+        {
+          "bold": "Proaktivaj anomaliaj alarmoj:",
+          "text": "Aŭtomatigitaj atentigoj tuj informas administrantojn kiam marĝenoj falas sub sojlon, stokregistro malmultiĝas aŭ provizantaj liveraĵoj glitas."
+        }
+      ],
+      "keyPerspectiveEyebrow": "FILOZOFIO DE TRANSFORMO DE ERP",
+      "keyPerspectiveTitle": "Pragmata Modernigo Super Monolita Revizio",
+      "keyPerspectiveLead": "Moderna ERP-transformo sukcesas kiam organizoj traktas ĝin kiel evoluan operacian ĝisdatigon prefere ol tute-aŭ-nenion IT-interrompon:"
+    },
+    "cybersecurity": {
+      "category": "CIBERSEKURO",
+      "title": "Konstruado de Ciberrezisto en Konektita Entrepreno",
+      "subtitle": "Esploru kiel organizoj povas plifortigi sekurecon, protekti kritikajn sistemojn kaj prepari por minacoj tra ĉiam pli konektitaj medioj.",
+      "date": "septembro 2026",
+      "readTime": "8 min legado",
+      "imageCaption": "Enterprise Technology Perspective — Minaca Defendo & Nula-Fida Arkitekturo",
+      "incidentReadinessPhases": [
+        {
+          "title": "Telemetrio & Detekto",
+          "desc": "Realtempa protokolo-konsumado kaj SIEM-anomalia korelacio tra ĉiuj nubaj finpunktoj kaj laborŝarĝoj."
+        },
+        {
+          "title": "Tenado & Izoliĝo",
+          "desc": "Aŭtomatigitaj retaj kvarantenaj reguloj tuj izolante kompromititajn ujojn aŭ akreditaĵojn."
+        },
+        {
+          "title": "Solvado & Radika Kaŭzo",
+          "desc": "Rapida disaŭdigo kaj cifereca jurmedicino identiganta la precizan rompovektoron."
+        },
+        {
+          "title": "Eltenemo & Malmoliĝo",
+          "desc": "Daŭraj sugestoj pri neŝanĝeblaj sekurkopioj, politikaj bariloj kaj aŭtomatigitaj ruĝteamaj simulaĵoj."
+        }
+      ],
+      "cyberBusinessBenefits": [
+        "Granda redukto de vundeblaj atakaj surfacoj tra nubaj aktivoj",
+        "Garantiita operacia kontinueco kaj katastrofa reakiro kun minimuma RTO/RPO",
+        "Tuta konforma konfido tra ISO 27001, SOC 2, HIPAA, kaj GDPR-revizioj",
+        "Protekto de kerna entreprena intelekta proprieto kaj konfidencaj klientaj registroj",
+        "Simpligita vendisto kaj triaparta riska administrado per unuigitaj alirkontroloj",
+        "Plifortigita kliento kaj investanto-fido subtenata de kontrolitaj nul-fidaj sekurecaj sintenoj"
+      ],
+      "zeroTrustPrinciples": [
+        "Neniam Fidu, Ĉiam Kontrolu: Eksplicita aŭtentigo necesa por ĉiu transakcio",
+        "Malplej-Privilegia Aliro: Granulaj rollimoj limigantaj flankajn minacmovon",
+        "Supozu Breĉon: Daŭra minaca monitorado, ĉifrado en trafiko kaj ripozo",
+        "Mikro-segmentado: Retaj fajroŝirmiloj izolante individuajn aplikajn laborŝarĝojn",
+        "Kontinua Telemetrio: Aŭtomatigita kondut-analizo markante nenormalajn sesiajn petojn"
+      ],
+      "sec1Eyebrow": "LA VANDAJNADA PERIMETRO",
+      "sec1Heading": "La Konektita Entreprena Sekureca Pejzaĝo",
+      "sec1Subtext": "Ĉar modernaj organizoj konektas pli da aplikaĵoj, nubaj medioj, malproksimaj dungitoj, porteblaj aparatoj kaj triaj partneroj, la tradicia sekureca perimetro ĉesas ekzisti.",
+      "sec2Eyebrow": "TUSTA DEFENDO",
+      "sec2Heading": "Plurtavola Minaco-Protekto",
+      "sec2Subtext": "Proaktivaj defendoj kiuj protektas kritikan infrastrukturon, sentemajn kompaniajn datumojn kaj operaciajn sistemojn.",
+      "sec3Eyebrow": "LA NOVA SEKURECO LIMO",
+      "sec3Heading": "Administrado de Identeco kaj Aliro (IAM)",
+      "sec3Subtext": "Identeco estas la fundamenta kontrolaviadilo de moderna sekureco. Preskaŭ ĉiuj gravaj sekurecaj breĉoj komenciĝas per kompromititaj akreditaĵoj prefere ol programaraj ekspluatoj.",
+      "sec4Eyebrow": "ARKITEKTURA PARADIGMO",
+      "sec4Heading": "Senmistifika Arkitekturo de Nula Fido",
+      "sec4Subtext": "Nula Fido ne estas ununura produkto aŭ ilo. Ĝi estas arkitektura strategio bazita sur simpla principo: fidi neniun enton ene aŭ ekster la reto defaŭlte.",
+      "sec5Eyebrow": "INFRASTRUKTURA REGISTARO",
+      "sec5Heading": "Konsideroj pri Nuba Sekureco",
+      "sec5Subtext": "Sekurigante laborŝarĝojn tra publika nubo, hibridaj arkitekturoj kaj distribuitaj ujmedioj.",
+      "sec6Eyebrow": "OPERAMA RESISTIENCO",
+      "sec6Heading": "Okazaĵpreteco: Preterpreventado",
+      "sec6Subtext": "Vera ciber-rezisto akceptas, ke okazaĵoj povas okazi. Preteco temigas rapidan retenon, minimuman komercan interrompon kaj kontrolitan resaniĝon.",
+      "sec7Eyebrow": "STRATEGIA VALORO",
+      "sec7Heading": "Komercaj Avantaĝoj",
+      "sec7Subtext": "Konstruado de ciber-rezistema entrepreno protektas organizan valoron, reguligan reputacion kaj merkatan reputacion.",
+      "ctaHeading": "Plifortigu Vian Entreprenan Sekurecon",
+      "ctaDescription": "Esploru kiel organizoj povas plifortigi sekurecon, protekti kritikajn sistemojn kaj prepari por minacoj tra ĉiam pli konektitaj medioj.",
+      "ctaButton": "Parolu al Niaj Fakuloj",
+      "sec1P1": "En la hereda epoko de entreprena IT, sekureco funkciis laŭ kastelo-kaj-fosaĵo-doktrino: ĉio ene de la kompania oficeja reto estis supozita fidinda, dum ĉio ekstere estis konsiderita nefidinda. Ununura kompania fajroŝirmilo protektis internajn servilojn, datumbazojn, kaj labortablaj komputiloj.",
+      "sec1P2": "La hodiaŭa entrepreno superis fizikajn murojn. Laborŝarĝoj loĝas tra plurnubaj medioj (AWS, Azure, GCP), dungitoj aliras komercajn aplikojn de diversaj lokoj, kaj API-oj kontinue interŝanĝas sentemajn operaciajn datumojn kun eksteraj loĝistikaj provizantoj, financejoj kaj SaaS-vendistoj.",
+      "sec1P3": "Dum ĉi tiu hiperkonektebleco kondukas enorman komercan lertecon, ĝi vaste vastigas la entreprenan ataksurfacon. Ĉiu API-finpunkto, identecĵetono, konektita movebla aparato kaj SaaS-integriĝo reprezentas eblan vektoron de malkovro. Vera entreprena protekto postulas ŝanĝi de perimetro-bazita defendo al iniciatema, fin-al-fina ciber-rezisto.",
+      "sec2Cards": [
+        {
+          "icon": "🛡️",
+          "title": "Detekto de Minaco",
+          "desc": "Maŝinlernado helpata minaca inteligenteco, kiu kontrolas anomaliajn retajn ŝablonojn, akreditaĵojn kaj nul-tagajn vundeblecojn en reala tempo."
+        },
+        {
+          "icon": "📡",
+          "title": "Sekureca Monitorado",
+          "desc": "Telemetrio de Centralized Security Operations Center (SOC) korelacianta eventojn tra serviloj, konteneroj, identecprovizantoj kaj finpunktoj."
+        },
+        {
+          "icon": "🔍",
+          "title": "Administrado de vundeblecoj",
+          "desc": "Daŭra aŭtomatigita vundebleco-skanado tra infrastrukturo, fontkodaj deponejoj kaj konteneraj registroj por solvi malfortojn proaktive."
+        },
+        {
+          "icon": "🔒",
+          "title": "Protekto de datumoj",
+          "desc": "Fortika ĉifrado en trafiko (TLS 1.3) kaj en ripozo (AES-256), kune kun regado de granulara preventa perdo de datumoj (DLP) por malhelpi likojn pri intelekta proprieto."
+        }
+      ],
+      "sec3P1": "Protekti entreprenajn aktivaĵojn postulas certigi, ke ĉiu identeco—ĉu homa oficulo, ekstera kontraktisto aŭ aŭtonoma programara servokonto—validigis rajtigon por la precizaj rimedoj, kiujn ĝi aliras.",
+      "sec3List": [
+        {
+          "bold": "Centra administrado de identeco:",
+          "text": "Ununura Ensaluto (SSO) kaj federaciaj identecnormoj kiuj eliminas fragmentajn pasvortajn butikojn tra aplikaĵoj."
+        },
+        {
+          "bold": "Adapta plurfaktora aŭtentigo (MFA):",
+          "text": "Fiŝ-rezistemaj FIDO2 aparataj ŝlosiloj kaj risk-bazitaj kontekstaj defioj por sentemaj administraj funkcioj."
+        },
+        {
+          "bold": "Granula alirkontrolo:",
+          "text": "Fajngrajnaj Rolbazitaj (RBAC) kaj Atribute-Bazitaj (ABAC) alirkontroloj devigitaj ĉe la API kaj datumbazniveloj."
+        },
+        {
+          "bold": "Malplej-privilegiaj principoj:",
+          "text": "Donante provizoran, ĝustatempan aliron (JIT) kiu eksvalidiĝas aŭtomate kiam administraj taskoj finiĝas."
+        }
+      ],
+      "keyPerspectiveEyebrow": "NULA FIDO KERNA DOKTRINO",
+      "keyPerspectiveTitle": "Daŭra Kontrolo Super Blinda Fido",
+      "keyPerspectiveLead": "En arkitekturo Zero Trust, implicita fido bazita sur retloko estas tute malmuntita. Ĉiu transakcio, datumbaza demando kaj uzantsaluto devas kontinue pruvi sian legitimecon:",
+      "cloudSecurityCards": [
+        {
+          "title": "Komuna Respondeco",
+          "desc": "Klara regado distingante la fizikan infrastrukturan sekurecon de la nuba provizanto de la respondeco de la entrepreno pri datuma ĉifrado, IAM-politikoj kaj aplika kodo."
+        },
+        {
+          "title": "Infrastrukturo kiel Kodo (IaC)",
+          "desc": "Neŝanĝeblaj, aŭdeblaj nubaj agordoj administritaj per kodo. Aŭtomatigitaj politiko-kiel-kodaj skaniloj blokas misagordojn kaj elmontritajn sitelojn antaŭ deplojo."
+        },
+        {
+          "title": "Ujo kaj Kubernetes Sekureco",
+          "desc": "Harditaj kontenaj rultempoj, subskribitaj bildregistroj, retmikro-segmentado, kaj aŭtomatigita sekreta administrado kiu tenas akreditaĵojn ekstere de fontdeponejoj."
+        }
+      ]
+    },
+    "cloudModernization": {
+      "category": "NUBO & MODERNIZO",
+      "title": "Modernigi Heredajn Aplikojn por la Nubo",
+      "subtitle": "Esploru praktikan aliron por taksi, modernigi kaj movi heredaĵajn aplikojn al skaleblaj, sekuraj nubaj arkitekturoj.",
+      "date": "septembro 2026",
+      "readTime": "6 min legi",
+      "imageCaption": "Enterprise Technology Perspective — Nubo-Native Re-platformigo & Kontenigo",
+      "modernizationApproaches": [
+        {
+          "title": "Regastigo (Levo & Ŝanĝo)",
+          "desc": "Transirigu laborŝarĝojn al nubaj virtualaj maŝinoj rapide kun minimumaj kodaj modifoj."
+        },
+        {
+          "title": "Replatformo (Levi kaj Reformigi)",
+          "desc": "Ĝisdatigu rultempajn kadrojn, adoptu administritajn nubajn datumbazojn kaj simpligu operaciojn."
+        },
+        {
+          "title": "Refaktoro (Nubo-Native Rekonstruo)",
+          "desc": "Malkonstruu monolitojn en konteneritajn mikroservojn kaj senservilajn API-ojn gvidatajn de eventoj."
+        },
+        {
+          "title": "Anstataŭigi (SaaS Modernigo)",
+          "desc": "Retiriĝi redundajn heredajn sistemojn favore al speciale konstruita entreprena nuba programaro."
+        }
+      ],
+      "cloudArchitectureFlow": [
+        {
+          "title": "Heredaĵa Takso",
+          "desc": "Aŭtomatigita dependecmapado, teknika ŝuldokatalogado kaj poentado de nubopreteco."
+        },
+        {
+          "title": "Cela Arkitekturo",
+          "desc": "Modulaj mikroservaj skizoj, ujtopologioj kaj aŭtomatigitaj IaC-ŝablonoj."
+        },
+        {
+          "title": "Etapa Migrado",
+          "desc": "Kanariaj eldonoj, du-skriba sinkronigo de datumoj kaj nul-malfunkciaj ondoj de tranĉo."
+        },
+        {
+          "title": "Nuba Optimumigo",
+          "desc": "Kontinua regado de kostoj, aŭtoskalaj telemetrioj kaj operaciaj recenzoj de FinOps."
+        }
+      ],
+      "cloudModernizationBenefits": [
+        "Eksponente malaltigas infrastrukturan prizorgadon kaj hardvarajn elspezojn",
+        "Preskaŭ senfina komputila elasteco pritraktante pintan entreprenan trafikon kun nula latenco",
+        "Akcelita eldonrapideco kun plene aŭtomatigitaj CI/KD-deplojduktoj",
+        "Forigo de heredaj unuopaj punktoj de fiasko kun mult-AZ alta havebleco",
+        "Modernaj API-arkitekturoj ebligante rapidajn transplatformajn partnerajn integriĝojn",
+        "Altnivela realtempa observebleco en aplikaĵa efikeco kaj nuba elspezo"
+      ],
+      "landscapeAssessmentPoints": [
+        "Mapado de kompleksaj interaplikaj dependecoj kaj datumsinkronigaj kadencoj",
+        "Identigi malmolajn mediajn agordojn kaj proprietajn datumbazajn skemojn",
+        "Taksante reguligan konformecon kaj limojn de suvereneco de datumoj per jurisdikcio",
+        "Kalkulado de realismaj Tutkosto de Posedo (TCO) tra refaktoraj kontraŭ regastigaj vojoj",
+        "Establi klarajn lanĉajn ondojn por protekti aktivajn ĉiutagajn komercajn operaciojn"
+      ],
+      "sec1Eyebrow": "LA REALO DE LEGAJ SISTEMOJ",
+      "sec1Heading": "La Heredaĵo-Defio",
+      "sec1Subtext": "Maljuniĝaj monolitoj limigas novigan rapidecon, pliigas operaciajn vundeblecojn kaj pligrandigas infrastrukturajn prizorgajn kostojn.",
+      "sec2Eyebrow": "TAXO & ELKOVERTO",
+      "sec2Heading": "Kompreni la Aplikan Pejzaĝon",
+      "sec2Subtext": "Sukcesa nuba modernigo komenciĝas per rigora taksado. Salti rekte en migradon sen revizii aplikaĵdependecojn estas la ĉefa kaŭzo de prokrastaj tranĉoj.",
+      "sec3Eyebrow": "LA 4 MODERNIGAJ VOJOJ",
+      "sec3Heading": "Modernigaj Aliroj",
+      "sec3Subtext": "Ne ekzistas unugranda strategio por ĉiuj migrado. Gvidantaj entreprenoj kongruas kun la ĝusta moderniga ŝablono al ĉiu specifa laborkvanto bazita sur komerca valoro, urĝeco kaj teknika ŝuldo.",
+      "sec4Eyebrow": "CELA TRANSFORMA MODELO",
+      "sec4Heading": "Moderna Nuba Arkitekturo",
+      "sec4Subtext": "Strukturita vojmapo, kiu transformas heredaĵajn monolitojn en elastajn, sekurajn kaj konserveblajn nubajn servojn.",
+      "sec5Eyebrow": "TRANSFORMAJ RESULTOJ",
+      "sec5Heading": "Ŝlosilaj Modernigaj Avantaĝoj",
+      "sec5Subtext": "Movi heredajn sistemojn al modernaj nubaj arkitekturoj liveras palpeblan operacian facilmovecon kaj kostan antaŭvideblecon.",
+      "ctaHeading": "Modernigu Viajn Heredajn Aplikojn",
+      "ctaDescription": "Esploru praktikan aliron por taksi, modernigi kaj movi heredaĵajn aplikaĵojn al skaleblaj, sekuraj nubaj arkitekturoj.",
+      "ctaButton": "Parolu al Niaj Fakuloj",
+      "sec1P1": "Misikritikaj aplikaĵoj konstruitaj antaŭ jardeko ankoraŭ kondukas miliardojn da entreprenaj enspezoj, tamen iliaj arkitekturaj rigidecoj kreas kreskantan operacian riskon.",
+      "sec1P2": "Ĉiu entrepreno alfrontas la streĉiĝon inter stabileco kaj modernigo. Heredaĵaj sistemoj estis kreitaj por fortikeco, kaj ili rezultis fidinde dum jaroj. Tamen, ĉar komercaj postuloj akcelas, ĉi tiuj maljuniĝaj arkitekturoj renkontas strukturajn limojn:",
+      "sec1List": [
+        {
+          "bold": "Maljuniĝantaj programaraj stakoj:",
+          "text": "Monolitaj kodbazoj konstruitaj sur malrekomenditaj kadroj kun malpliiĝantaj talentoj disponeblaj por prizorgado."
+        },
+        {
+          "bold": "Malfacilaj prizorgaj cikloj:",
+          "text": "Forte kunligitaj komponentoj kie ŝanĝi ununuran funkcion riskas rompi nerilatajn funkciajn modulojn."
+        },
+        {
+          "bold": "Limigita skaleblo:",
+          "text": "Vertikalaj skallimoj kiuj postulas aĉeti multekostan proprietan aparataron por trakti laŭsezonajn trafikpikojn."
+        },
+        {
+          "bold": "Integrigaj defioj:",
+          "text": "Nekapablo glate interfaci kun modernaj moveblaj apoj, klientportaloj aŭ partneraj API-oj sen delikataj bataj skriptoj."
+        },
+        {
+          "bold": "Infrastrukturaj limoj:",
+          "text": "Vivcikloj de fizikaj servilĉambroj, sekurkopiaj vundeblecoj, kaj alta potenco/malvarmigo operaciaj elspezoj."
+        }
+      ],
+      "sec2P1": "Pragmata moderniga vojaĝo komenciĝas establante totalan klarecon trans la ekzistanta biendomo:",
+      "sec2List": [
+        {
+          "bold": "Aplikoj:",
+          "text": "Katalogi ĉiujn aktivajn laborŝarĝojn, kutimajn modulojn, fonajn skriptojn kaj historiajn triajn pakaĵojn."
+        },
+        {
+          "bold": "Dependecoj:",
+          "text": "Mapado de kompleksa rultempa kuplado, komunaj datumbazaj tabeloj, rektaj dosiersistemvokoj kaj eksteraj servaj kontraktoj."
+        },
+        {
+          "bold": "Datumoj:",
+          "text": "Taksante datumstrukturojn, transakciajn integrecpostulojn, rezervan kadencon kaj reguligajn suverenecajn regulojn."
+        },
+        {
+          "bold": "Infrastrukturo:",
+          "text": "Kontrolante CPU, memoron, konservadon, kaj retan trairon al ĝusta grandeco celnuba specifoj."
+        },
+        {
+          "bold": "Komerckritikeco:",
+          "text": "Kategoriigi aplikojn en nivelojn por desegni sekurajn, enscenigitajn migrajn ondojn kun klaraj rezervaj proceduroj."
+        }
+      ],
+      "modernizationApproachesAdvantageLabel": "Avantaĝo:",
+      "cloudArchitectureBadge": "Modernigo Vivciklo",
+      "cloudArchitectureTitle": "Fin-al-Fina Nuba Moderniga Fluo",
+      "sec4P1": "La cel-arkitekturo malligas kernaplikaĵojn en modulajn, kontenerigitajn servojn gastigitajn sur elastaj nubaj platformoj (kiel ekzemple Kubernetes aŭ administritaj senservilaj rultempoj).",
+      "sec4P2": "Establante aŭtomatigitajn CI/KD-deplojajn duktojn, aŭtomatigitajn bluverdajn tranĉojn kaj infrastrukturon kiel kodon, deplojoj transformiĝas de nervozaj semajnfinaj eventoj en senfinajn ĉiutagajn rutinojn.",
+      "sec4P3": "Elasta komputado aŭtomate pligrandiĝas dum postulpliiĝo kaj malgrandiĝas dum paŭzoj, forigante neaktivajn rimedkostojn kaj garantiante sub-sekundajn respondtempojn por tutmondaj uzantoj.",
+      "keyPerspectiveEyebrow": "MODERNIZAJ BONAJ PRAKTIKOJ",
+      "keyPerspectiveTitle": "Kvar Kolonoj de Sukcesa Migrado",
+      "keyPerspectiveLead": "Sperto montras, ke modernigprojektoj sukcesas kiam bazite sur ampleksa preparo, klara ondosekvencado kaj rigora testado:"
+    }
+  }
+}
