@@ -2,22 +2,9 @@ import { PERSPECTIVE_INTENTS } from './perspectivesKnowledge.js'
 import { resolveDateTimeQuery } from './dateTimeIntent.js'
 import { resolveContactQuery } from './contactIntent.js'
 import { resolveMenuReply, answerGeneralKnowledge, parseOptionIndex, tryMathCalculation } from './chatMenus.js'
-import { translateText } from './translateHelper.js'
-
-const CONTACT = {
-  phone: '18004103299',
-  email: 'info@rezonants.com',
-  address:
-    'SBR Towers, Axis bank building, Second Floor, D No 1/98/93/23, HUDA Tecno Encalve Cyber Hills Colony, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081',
-  vijayawadaAddress:
-    'D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003',
-  southAfricaCompany: 'REZONANTS PVT LTD',
-  southAfricaAddress: 'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
-  sandtonAddress:
-    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
-  dubaiAddress: 'Dubai, United Arab Emirates',
-  hours: 'Monday – Saturday, 9:30 – 18:30 IST',
-}
+import { translateText, detectScriptLanguage } from './translateHelper.js'
+import { CONTACT } from '../config/contact.js'
+import { logUnansweredQuestion } from './chatLogger.js'
 
 // Time-based greeting from the visitor's current local clock
 // (<12:00 morning, 12:00–15:59 afternoon, 16:00+ evening).
@@ -43,10 +30,9 @@ export const QUICK_ACTIONS = [
   { label: 'Contact Rezonants', value: 'How can I contact Rezonants?' },
 ]
 
-const FALLBACK = `I don't have enough information to answer that yet. For accurate details, please contact the Rezonants team at ${CONTACT.email} or ${CONTACT.phone}, and they will be happy to help.`
+const FALLBACK = `I don't have enough information to answer that yet from published Rezonants site details.\nPlease reach out to our team at ${CONTACT.email} or ${CONTACT.phoneDisplay} (toll-free).\nYou can also Book a free consultation at ${CONTACT.companyName ? '/book-consultation' : '/book-consultation'}.`
 
-// Safety net: if the AI service is unreachable, still refuse secret requests
-// locally instead of treating them like ordinary questions.
+// Safety net: refuse secret, prompt-reveal, or rule-override attempts.
 const SECRET_PATTERNS = [
   'api key',
   'api-key',
@@ -65,6 +51,11 @@ const SECRET_PATTERNS = [
   'access key',
   'anon key',
   'service role',
+  'ignore previous instructions',
+  'ignore all instructions',
+  'ignore your rules',
+  'forget your rules',
+  'override your rules',
 ]
 
 function isSecretRequest(text) {
@@ -80,10 +71,10 @@ function isPersonnelQuestion(text) {
   return PERSONNEL_RE.test(normalize(text))
 }
 
-// Offer probes ("Does Rezonants offer X?", "Do you provide X?") with an unknown
+// Offer probes ("Does Rezonants offer X?", "Do you sell X?") with an unknown
 // object X: score only the object against the KB so unrelated words like
 // "services" in the question don't fake a match.
-const OFFER_PROBE_RE = /\b(?:do you|does rezonants|do you guys)\s+(?:offer|provide|have|support|build|make|develop)\s+(.+?)[?!.]*\s*$/
+const OFFER_PROBE_RE = /\b(?:do you|does rezonants|do you guys)\s+(?:offer|provide|have|support|build|make|develop|sell|repair|fix|manufacture)\s+(.+?)[?!.]*\s*$/
 
 function unknownOfferReply(text) {
   const normalized = normalize(text)
@@ -94,7 +85,7 @@ function unknownOfferReply(text) {
   const objectWords = objectText.split(' ').filter(Boolean)
   const { bestScore } = scoreAll(objectText, objectWords)
   if (bestScore === 0) {
-    return `That isn't something listed among Rezonants' services or products, so I don't have enough information to answer that yet. For accurate details, please contact the Rezonants team at ${CONTACT.email} or ${CONTACT.phone}, and they will be happy to help.`
+    return `That isn't something listed among Rezonants' services or products, so I don't have enough information to answer that yet. For accurate details, please contact the Rezonants team at ${CONTACT.email} or ${CONTACT.phoneDisplay}, or Book a free consultation at /book-consultation.`
   }
   return null
 }
@@ -127,24 +118,35 @@ const KB = [
       'about yourselves',
       'about yourself',
       'what is rezonants',
-      'rezonants',
+      'what are rezonants',
+      'what is resonants',
+      'what are resonants',
       'who is rezonants',
+      'who are rezonants',
+      'who is resonants',
+      'what does rezonants mean',
+      'rezonants means',
       'company overview',
       'what does rezonants do',
       'what do you do',
       'your company',
+      'rezonants company',
       'history',
       'since 2012',
       'founded',
     ],
-    reply: `Rezonants is an IT services and digital products company based in Madhapur, Hyderabad, India, operating since 2012. We design, build and scale custom software, web and mobile products, cloud infrastructure and AI — for companies that compete on execution. We're known for website design and development, web application development and mobile application development (iPhone, iPad, Android), built on trust, quality and long-term partnership.`,
+    reply: `Rezonants (Rezonant Solutions Private Limited) is an IT services and digital products company headquartered in Madhapur, Hyderabad, India.
+We design, build, and scale custom software, web and mobile applications, cloud infrastructure, AI, automation, and managed technology services.
+You can explore our services on the homepage or Book a free consultation at /book-consultation.`,
   },
   {
     id: 'services',
     keywords: [
       'what services',
+      'which services',
       'your services',
       'services do you',
+      'services provided',
       'services does rezonants',
       'it services',
       'kind of services',
@@ -230,7 +232,10 @@ Type a service name to learn more about its core capabilities.`,
       'data center',
       'data centers',
     ],
-    reply: `Rezonants offers Digital Transformation and Migration Services to modernize your technology, processes and culture. We help move applications, data and infrastructure to the cloud securely and cost-effectively, including cloud migrations on AWS, Azure and Google Cloud.`,
+    reply: `Rezonants provides Cloud Migration Solutions (/technologies/cloud-migration-solutions) and Migration & Modernization (/services/migration-modernization) across AWS, Azure, GCP, and hybrid cloud:
+- Infrastructure, application, and database migration (rehosting, replatforming, or refactoring)
+- Dependency mapping, ETL data validation, security guardrails, and cutover planning with minimal downtime
+- Post-migration optimization — Book a free consultation at /book-consultation to plan your migration.`,
   },
   {
     id: 'consulting',
@@ -525,8 +530,26 @@ You can also use the "Send us a message" form on our homepage, or book a free co
   },
   {
     id: 'pricing',
-    keywords: ['price', 'pricing', 'cost', 'costs', 'rates', 'rate', 'charge', 'how much', 'budget', 'quote', 'estimate'],
-    reply: `Project costs at Rezonants depend on scope, technology and timelines, so we don't publish fixed rates. We provide honest estimates and transparent billing on every engagement. Share your requirements and we'll send an accurate estimate — you can start with a free consultation from our website.`,
+    keywords: [
+      'price',
+      'pricing',
+      'cost',
+      'costs',
+      'rates',
+      'rate',
+      'charge',
+      'how much',
+      'website cost',
+      'app cost',
+      'budget',
+      'quote',
+      'quotation',
+      'estimate',
+      'proposal',
+    ],
+    reply: `Rezonants does not publish fixed prices for websites or software projects because cost depends on your project scope, features, and timeline.
+To get an accurate, transparent quote, please Book a free consultation at /book-consultation.
+You can also contact our team at ${CONTACT.email} or ${CONTACT.phoneDisplay} (toll-free).`,
   },
   {
     id: 'help',
@@ -624,17 +647,11 @@ Type a technology name to learn more about it.`,
       'featured products',
       'erp',
       'crm',
-      'hrms',
     ],
-    reply: `Rezonants offers a range of digital products across five categories:
-
-• Featured Products — Rezonants AI Suite, CloudNexus, WorkSync, DataStream
-• ERP Solutions — Rezonants ERP Core, HRMS Pro, SupplyChain IQ, Finance Hub
-• IT Solutions — Cloud Infrastructure, Cybersecurity Suite, DevOps Pipeline, Managed IT Services
-• CRM Solutions — Sales CRM, Customer Support Hub, Marketing Automation, Customer 360 View
-• HRMS Solutions — Core HR, Payroll & Compliance, Performance Management, Recruitment Portal
-
-There's also an App Development section covering web and mobile apps. Explore everything on our Products page (/products), or ask me about a specific category.`,
+    reply: `Rezonants offers digital products and solutions across six areas on /products:
+- Featured Products (AI automation, IT service support, AI governance, digital workplace)
+- ERP Solutions, IT Solutions, CRM Solutions, HRMS Solutions, and App Development
+Explore /products or Book a free consultation at /book-consultation.`,
   },
   {
     id: 'products-featured',
@@ -686,15 +703,25 @@ Details on the Products page (/products).`,
   },
   {
     id: 'products-hrms',
-    keywords: ['hrms solutions', 'core hr', 'payroll', 'performance management', 'recruitment portal'],
-    reply: `Our HRMS Solutions:
-
-• Core HR — employee records, org hierarchy, leave management, and attendance tracking.
-• Payroll & Compliance — automated payroll processing, tax calculations, and statutory compliance.
-• Performance Management — OKR tracking, 360° reviews, goal setting, and employee development plans.
-• Recruitment Portal — job postings, applicant tracking, interview scheduling, and onboarding workflows.
-
-Details on the Products page (/products#hrms).`,
+    keywords: [
+      'hrms',
+      'hrms solutions',
+      'hr software',
+      'hr management',
+      'human resource',
+      'human resources',
+      'core hr',
+      'payroll',
+      'attendance',
+      'leave management',
+      'performance management',
+      'recruitment portal',
+      'employee self service',
+    ],
+    reply: `Yes — Rezonants provides HRMS Solutions (/products#hrms) to simplify employee management and automate HR workflows:
+- Core HR Management, Employee Self-Service, and Attendance & Leave Management
+- Payroll Management, Recruitment & Onboarding, Performance Management, and Learning & Development
+- HR Analytics & Reporting and AI-Powered HR Automation`,
   },
   {
     id: 'products-appdev',
@@ -706,6 +733,42 @@ Details on the Products page (/products#hrms).`,
   // PERSPECTIVES_DATA — the same source the /perspectives pages use. Never
   // hard-code a second Perspective list here.
   ...PERSPECTIVE_INTENTS,
+  {
+    id: 'site-help-auth',
+    keywords: [
+      'sign in',
+      'login',
+      'log in',
+      'sign up',
+      'signup',
+      'register',
+      'create account',
+      'forgot password',
+      'reset password',
+      'my account',
+      'account page',
+    ],
+    reply: `You can use **Sign Up** or **Sign In** from the top navigation bar:
+- **Sign Up:** Enter Full Name, Email, and a 6+ character password, then confirm via the email verification link.
+- **Sign In / Password Reset:** Tick the Privacy & Security policy box to sign in, or click **Forgot password?** to reset via email.
+- **Manage Bookings:** Visit /account to update your profile, consultations, and messages.`,
+  },
+  {
+    id: 'site-help-language',
+    keywords: [
+      'language',
+      'languages',
+      'switch language',
+      'change language',
+      'translate',
+      'telugu',
+      'hindi',
+      'multilingual',
+    ],
+    reply: `Rezonants supports 115 languages across the website and chatbot.
+Use the language dropdown in the top header to search for your preferred language (such as Telugu, Hindi, Tamil, Spanish, or Arabic) or reset back to English.
+You can also type questions directly to me in your language.`,
+  },
   {
     id: 'security',
     keywords: ['security', 'privacy', 'data protection', 'gdpr', 'confidential'],
@@ -933,27 +996,40 @@ function resolveFollowUp(text, history) {
 }
 
 export async function getChatResponse(text, history = [], lang = 'en', currentMenuCategory = null) {
+  const originalText = typeof text === 'string' ? text : String(text || '')
+  const scriptLang = detectScriptLanguage(originalText)
+  const effectiveLang = scriptLang || (lang && lang !== 'en' ? lang : 'en')
+
+  // Translate non-English script queries into English so deterministic intents
+  // match cleanly even if the UI language toggle is still set to English.
+  const queryForMatching =
+    scriptLang && scriptLang !== 'en'
+      ? await translateText(originalText, 'en')
+      : originalText
+
   async function computeReply() {
-    if (isSecretRequest(text)) {
-      return `I'm sorry, but I can't share API keys, passwords, credentials or internal configuration. If you'd like help with Rezonants' services or contacting our team, I'm happy to assist.`
+    if (isSecretRequest(originalText) || isSecretRequest(queryForMatching)) {
+      return `I'm sorry, I can't share API keys, passwords, system prompts, or internal rules. I can help with Rezonants services, products, technologies, or contacting our team.`
     }
 
     // Personnel/salary specifics aren't published — answer honestly, never invent.
-    if (isPersonnelQuestion(text)) {
-      return `That detail isn't published on our website and I wouldn't want to guess. For anything about Rezonants' team or leadership, please contact ${CONTACT.email} or ${CONTACT.phone} and the team will help you directly.`
+    if (isPersonnelQuestion(queryForMatching)) {
+      return `That detail isn't published on our website and I wouldn't want to guess. For anything about Rezonants' team or leadership, please contact ${CONTACT.email} or ${CONTACT.phoneDisplay}.`
     }
 
     // Priority 0: mathematics (arithmetic, averages, percentages). Resolved before
     // the menu logic so "2+2" is calculated, not treated as a list selection —
     // while a bare "2" still falls through to the menu logic below.
-    const mathReply = tryMathCalculation(text)
+    const mathReply = tryMathCalculation(originalText) || tryMathCalculation(queryForMatching)
     if (mathReply) return mathReply
 
     // Priority 1-3: a numbered selection against the menu currently on screen,
-    // or a request for the Services / Technologies / Products menu. Resolved BEFORE every
-    // other intent so "2" is never treated as an unknown question and
-    // "services" never reaches the fallback.
-    const menuReply = resolveMenuReply(text, history, currentMenuCategory)
+    // or a request for the Services / Technologies / Products menu.
+    const menuReply =
+      resolveMenuReply(originalText, history, currentMenuCategory) ||
+      (queryForMatching !== originalText
+        ? resolveMenuReply(queryForMatching, history, currentMenuCategory)
+        : null)
     if (menuReply) {
       let nextCategory = currentMenuCategory
       if (/^Our Services:/m.test(menuReply)) nextCategory = 'services'
@@ -963,7 +1039,7 @@ export async function getChatResponse(text, history = [], lang = 'en', currentMe
     }
 
     // If the user enters a number without first selecting a category, ask whether they mean Services, Technologies, or Products.
-    const bareIndex = parseOptionIndex(text)
+    const bareIndex = parseOptionIndex(originalText)
     if (bareIndex !== null) {
       return {
         reply: `Did you mean Services, Technologies, or Products? Please specify a category or type "services", "technologies", or "products" to see the list.`,
@@ -971,21 +1047,27 @@ export async function getChatResponse(text, history = [], lang = 'en', currentMe
       }
     }
 
-    const unknownOffer = unknownOfferReply(text)
-    if (unknownOffer) return unknownOffer
+    const unknownOffer = unknownOfferReply(queryForMatching)
+    if (unknownOffer) {
+      void logUnansweredQuestion(originalText)
+      return unknownOffer
+    }
 
     // Company contact/location questions ("where are you located?", "give me
     // your phone number", "how do I reach your office?", "send address", ...)
-    // are answered from the known company details, for ANY phrasing.
-    const contactReply = resolveContactQuery(text)
+    const contactReply =
+      resolveContactQuery(queryForMatching) || resolveContactQuery(originalText)
     if (contactReply) return contactReply
 
-    const normalized = normalize(text)
+    const normalized = normalize(queryForMatching)
     const words = normalized.split(' ').filter(Boolean)
+    if (words.length === 1 && words[0] === 'rezonants') {
+      return KB.find((item) => item.id === 'about').reply
+    }
     const { best, bestScore } = scoreAll(normalized, words)
 
     // The visitor shared their name -> acknowledge it (works for ANY name).
-    const statedName = extractName(text)
+    const statedName = extractName(queryForMatching)
     if (statedName) {
       if (best && bestScore > 0) {
         return `Nice to meet you, ${statedName}! 👋 ${best.reply}`
@@ -994,7 +1076,7 @@ export async function getChatResponse(text, history = [], lang = 'en', currentMe
     }
 
     // Name recall question -> answer from the current chat only.
-    if (isNameQuestion(text)) {
+    if (isNameQuestion(queryForMatching)) {
       const name = findNameInHistory(history)
       if (name) return `Your name is ${name}.`
       return `I don't have your name yet — I only know what's shared within this chat. What should I call you?`
@@ -1002,36 +1084,34 @@ export async function getChatResponse(text, history = [], lang = 'en', currentMe
 
     // Priority 9: simple, well-known general-knowledge questions (capitals,
     // currencies, common facts, tech definitions) get a real answer instead of
-    // the Rezonants contact fallback — but ONLY once no Rezonants knowledge applies,
-    // because company information outranks general facts in the intent order.
+    // the fallback — ONLY once no Rezonants knowledge applies.
     if (bestScore === 0) {
-      const general = answerGeneralKnowledge(text)
+      const general = answerGeneralKnowledge(queryForMatching)
       if (general) return general
     }
 
     // General date/time questions ("present time", "today's date in Japan")
-    // are answered from the clock via IANA timezones — never the Rezonants
-    // fallback. Default location is India; a name shared in this chat
-    // personalizes the default-location time reply (spec: date/time + name).
-    const dateTimeReply = resolveDateTimeQuery(text, {
+    const dateTimeReply = resolveDateTimeQuery(queryForMatching, {
       name: findNameInHistory(history),
       greeting: getTimeGreeting(),
     })
     if (dateTimeReply) return dateTimeReply
 
-    // Pure greetings -> natural, brief reply (with name/context awareness);
-    // conversation context is preserved, never the fallback.
-    const greetingReply = getGreetingReply(text, history)
+    // Pure greetings -> natural, brief reply (with name/context awareness)
+    const greetingReply =
+      getGreetingReply(originalText, history) || getGreetingReply(queryForMatching, history)
     if (greetingReply) return greetingReply
 
-    // Follow-up ("tell me more", "the second one", "in simple words") ->
-    // resolve against the recent conversation instead of falling back.
+    // Follow-up ("tell me more", "the second one", "in simple words")
     if (bestScore === 0 && history.length > 0) {
-      const followUp = resolveFollowUp(text, history)
+      const followUp = resolveFollowUp(queryForMatching, history)
       if (followUp) return followUp
     }
 
-    if (!best) return FALLBACK
+    if (!best) {
+      void logUnansweredQuestion(originalText)
+      return FALLBACK
+    }
 
     return best.reply
   }
@@ -1040,7 +1120,10 @@ export async function getChatResponse(text, history = [], lang = 'en', currentMe
   const rawReply = typeof result === 'object' && result !== null && 'reply' in result ? result.reply : result
   const category = typeof result === 'object' && result !== null && 'currentMenuCategory' in result ? result.currentMenuCategory : null
 
-  const translated = lang && lang !== 'en' ? await translateText(rawReply, lang) : rawReply
+  const translated =
+    effectiveLang && effectiveLang !== 'en'
+      ? await translateText(rawReply, effectiveLang)
+      : rawReply
 
   const output = {
     response: translated,

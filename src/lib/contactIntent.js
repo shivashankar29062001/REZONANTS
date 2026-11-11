@@ -25,24 +25,9 @@
 // Express server (server/chat-api.js) and the offline/local fallback
 // (src/lib/chatKnowledge.js), so all three chat paths answer identically.
 
-export const CONTACT = {
-  company: 'REZONANTS',
-  website: 'rezonants.com',
-  websiteUrl: 'https://rezonants.com',
-  phone: '18004103299',
-  phoneDisplay: '1800 410 3299',
-  email: 'info@rezonants.com',
-  address:
-    'SBR Towers, Axis bank building, Second Floor, D No 1/98/93/23, HUDA Tecno Encalve Cyber Hills Colony, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081',
-  vijayawadaAddress:
-    'D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003',
-  southAfricaCompany: 'REZONANTS PVT LTD',
-  southAfricaAddress: 'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
-  sandtonAddress:
-    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
-  dubaiAddress: 'Dubai, United Arab Emirates',
-  hours: 'Monday – Saturday, 9:30 – 18:30 IST',
-}
+import { CONTACT, formatOfficeListText } from '../config/contact.js'
+
+export { CONTACT }
 
 // Lowercase, strip diacritics/apostrophes, collapse punctuation/hyphens to
 // spaces ("e-mail" -> "e mail", "toll-free" -> "toll free").
@@ -96,40 +81,26 @@ function isContactIntent(q) {
 
 function fullContactReply() {
   return [
-    `Sure! You can reach ${CONTACT.company} at:`,
-    '',
-    `📍 Address: ${CONTACT.address}`,
-    `📞 Phone (toll-free): ${CONTACT.phoneDisplay}`,
-    `✉️ Email: ${CONTACT.email}`,
-    `🌐 Website: ${CONTACT.website}`,
-    '',
-    'Our other offices:',
-    `📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}`,
-    `📍 South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
-    `📍 South Africa (Sandton): ${CONTACT.sandtonAddress}`,
-    `📍 Dubai, UAE: ${CONTACT.dubaiAddress}`,
-    '',
-    'Feel free to contact us if you need any additional information.',
+    `You can reach ${CONTACT.companyName} directly:`,
+    `- 📞 Toll-free: ${CONTACT.phoneDisplay} | ✉️ Email: ${CONTACT.email} | 🌐 ${CONTACT.website}`,
+    `- 🕒 Hours: ${CONTACT.hoursDetailed} | 📅 Book a free consultation: /book-consultation`,
+    formatOfficeListText(),
   ].join('\n')
 }
 
 function phoneReply() {
-  return `Our toll-free phone number is 📞 ${CONTACT.phoneDisplay}. You can also reach the team by email at ✉️ ${CONTACT.email} or through the contact form on 🌐 ${CONTACT.website}.`
+  return `Our toll-free phone number is 📞 ${CONTACT.phoneDisplay}. You can also email ✉️ ${CONTACT.email} or visit /book-consultation to schedule a free consultation.`
 }
 
 function emailReply() {
-  return `You can email ${CONTACT.company} at ✉️ ${CONTACT.email}. You can also call us on 📞 ${CONTACT.phoneDisplay} (toll-free) or use the contact form on 🌐 ${CONTACT.website}.`
+  return `You can email ${CONTACT.companyName} at ✉️ ${CONTACT.email}, call 📞 ${CONTACT.phoneDisplay} (toll-free), or use the contact form at /#contact.`
 }
 
 function locationReply() {
   return [
-    `📍 ${CONTACT.company} is headquartered at: ${CONTACT.address}`,
-    '',
-    'Our other offices:',
-    `📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}`,
-    `📍 South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
-    `📍 South Africa (Sandton): ${CONTACT.sandtonAddress}`,
-    `📍 Dubai, UAE: ${CONTACT.dubaiAddress}`,
+    `${CONTACT.companyName} operates from these office locations:`,
+    formatOfficeListText(),
+    `For inquiries, contact ${CONTACT.email} or ${CONTACT.phoneDisplay}.`,
   ].join('\n')
 }
 

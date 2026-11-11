@@ -6,6 +6,7 @@ import { useDocumentMeta } from '../lib/useDocumentMeta'
 import { useTranslation } from '../i18n/TranslationContext'
 import ConsultationsManager from '../components/ConsultationsManager'
 import PhoneInput from '../components/PhoneInput'
+import { CONTACT } from '../config/contact'
 import {
   DEFAULT_COUNTRY,
   formatE164,
@@ -14,15 +15,6 @@ import {
 } from '../lib/phone'
 
 const TIME_SLOTS = CONSULTATION_TIME_SLOTS
-
-const CONTACT = {
-  phone: '18004103299',
-  phoneHref: 'tel:18004103299',
-  email: 'info@rezonants.com',
-  emailHref: 'mailto:info@rezonants.com',
-  address:
-    'SBR Towers, Axis bank building, Second Floor, D No 1/98/93/23, HUDA Tecno Encalve Cyber Hills Colony, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081',
-}
 
 function BookConsultationPage({ onRequireAuth }) {
   const location = useLocation()

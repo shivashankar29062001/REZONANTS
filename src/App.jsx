@@ -13,6 +13,7 @@ import { Chatbot } from './components/Chatbot/Chatbot.tsx'
 import { Icon } from './components/Icon.jsx'
 import LanguageSelector from './components/LanguageSelector.jsx'
 import { BrandLogo } from './components/BrandLogo.jsx'
+import { CONTACT, OFFICE_LOCATIONS } from './config/contact.js'
 import './App.css'
 
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage.jsx'))
@@ -44,96 +45,6 @@ const MigrationServicesPage = lazy(() => import('./pages/services/MigrationServi
 const EndToEndSolutionsPage = lazy(() => import('./pages/services/EndToEndSolutionsPage.jsx'))
 const PilotPrototypingPage = lazy(() => import('./pages/services/PilotPrototypingPage.jsx'))
 const ProductsPage = lazy(() => import('./pages/ProductsPage.jsx'))
-
-const GMAIL_COMPOSE_URL =
-  'https://mail.google.com/mail/?view=cm&fs=1&to=info%40rezonants.com'
-
-const CONTACT = {
-  phone: '18004103299',
-  phoneHref: 'tel:18004103299',
-  phoneDisplay: '1800 410 3299',
-  email: 'info@rezonants.com',
-  emailHref: 'mailto:info@rezonants.com',
-  addressLine: 'SBR Towers, Axis bank building, Madhapur, Hyderabad',
-  address:
-    'SBR Towers, Axis bank building, Second Floor, D No 1/98/93/23, HUDA Tecno Encalve Cyber Hills Colony, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081',
-  mapsHref:
-    'https://www.google.com/maps/dir/?api=1&destination=Second+Floor,+Samridhi+Vasyam,+D+No+1%2F98%2F9%2F3%2F23,+Capital+Pk+Rd,+beside+Narayana+High+School,+Cyber+Hills+Colony,+VIP+Hills,+Jaihind+Enclave,+Madhapur,+Hyderabad,+Telangana+500081',
-  vijayawadaAddress:
-    'D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003',
-  vijayawadaMapsHref:
-    'https://www.google.com/maps/search/D.No.+24-29-210A,+Durgapuram,+Gulabithota+Road,+Vijayawada,+NTR+District,+Andhra+Pradesh+520003',
-  southAfricaCompany: 'REZONANTS PVT LTD',
-  southAfricaAddress: 'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
-  southAfricaMapsHref:
-    'https://www.google.com/maps/search/Unit+11+Sunset+View+10+Hazy+Street+Newcastle+Kwa-Zulu+Natal+2930+South+Africa',
-  sandtonAddress:
-    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
-  sandtonMapsHref:
-    'https://www.google.com/maps/search/Rayburn+House,+1-3+Mellis+Road,+Edenburg,+Rivonia,+Sandton+2146,+South+Africa',
-  dubaiAddress: 'Dubai, United Arab Emirates',
-  dubaiMapsHref:
-    'https://www.google.com/maps/search/Dubai,+United+Arab+Emirates',
-}
-
-const OFFICE_LOCATIONS = [
-  {
-    id: 'hyderabad',
-    contactLabelKey: 'contact.office',
-    contactLabelDefault: 'Office',
-    footerLabelKey: 'footer.hyderabadLocation',
-    footerLabelDefault: 'Hyderabad, India',
-    contactAriaLabel: 'Open office location on Google Maps',
-    footerAriaLabel: 'Open India office location on Google Maps',
-    address: CONTACT.address,
-    mapsHref: CONTACT.mapsHref,
-  },
-  {
-    id: 'vijayawada',
-    contactLabelKey: 'contact.offices.vijayawada',
-    contactLabelDefault: 'Vijayawada Office',
-    footerLabelKey: 'footer.vijayawadaLocation',
-    footerLabelDefault: 'Vijayawada, Andhra Pradesh',
-    contactAriaLabel: 'Open Vijayawada office location on Google Maps',
-    footerAriaLabel: 'Open Vijayawada office location on Google Maps',
-    address: CONTACT.vijayawadaAddress,
-    mapsHref: CONTACT.vijayawadaMapsHref,
-  },
-  {
-    id: 'newcastle',
-    contactLabelKey: 'contact.offices.southAfrica',
-    contactLabelDefault: 'South Africa Office — Newcastle',
-    footerLabelKey: 'footer.southAfricaLocation',
-    footerLabelDefault: 'South Africa – REZONANTS PVT LTD',
-    contactAriaLabel: 'Open South Africa office location on Google Maps',
-    footerAriaLabel: 'Open South Africa office location on Google Maps',
-    company: CONTACT.southAfricaCompany,
-    address: CONTACT.southAfricaAddress,
-    mapsHref: CONTACT.southAfricaMapsHref,
-  },
-  {
-    id: 'sandton',
-    contactLabelKey: 'contact.offices.sandton',
-    contactLabelDefault: 'South Africa Office — Sandton',
-    footerLabelKey: 'footer.sandtonLocation',
-    footerLabelDefault: 'Sandton, South Africa',
-    contactAriaLabel: 'Open Sandton office location on Google Maps',
-    footerAriaLabel: 'Open Sandton office location on Google Maps',
-    address: CONTACT.sandtonAddress,
-    mapsHref: CONTACT.sandtonMapsHref,
-  },
-  {
-    id: 'dubai',
-    contactLabelKey: 'contact.offices.dubai',
-    contactLabelDefault: 'Dubai Office',
-    footerLabelKey: 'footer.dubaiLocation',
-    footerLabelDefault: 'Dubai, UAE',
-    contactAriaLabel: 'Open Dubai office location on Google Maps',
-    footerAriaLabel: 'Open Dubai office location on Google Maps',
-    address: CONTACT.dubaiAddress,
-    mapsHref: CONTACT.dubaiMapsHref,
-  },
-]
 
 const NAV_ITEMS = [
   { id: 'about', label: 'About' },
@@ -1442,7 +1353,7 @@ function ContactForm() {
                 <li>
                   <span className="contact-icon">
                     <a
-                      href={GMAIL_COMPOSE_URL}
+                      href={CONTACT.gmailComposeUrl}
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label={`Email ${CONTACT.email}`}
@@ -1453,7 +1364,7 @@ function ContactForm() {
                   <span className="contact-channel">
                     <small>{t('contact.email')}</small>
                     <a
-                      href={GMAIL_COMPOSE_URL}
+                      href={CONTACT.gmailComposeUrl}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -1857,7 +1768,7 @@ function Footer() {
               <span className="footer-social-label">{t('footer.followUs', { defaultValue: 'Follow us' })}</span>
               <div className="footer-social-icons">
                 <a
-                  href="https://www.linkedin.com/company/rezonants/"
+                  href={CONTACT.social.linkedin}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Rezonants on LinkedIn"
@@ -1868,7 +1779,7 @@ function Footer() {
                   </svg>
                 </a>
                 <a
-                  href="https://twitter.com/rezonants"
+                  href={CONTACT.social.twitter}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Rezonants on Twitter / X"
@@ -1879,7 +1790,7 @@ function Footer() {
                   </svg>
                 </a>
                 <a
-                  href="https://www.instagram.com/rezonants_/"
+                  href={CONTACT.social.instagram}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Rezonants on Instagram"
@@ -1906,19 +1817,19 @@ function Footer() {
             <div className="footer-contact-cell footer-contact-stack">
               <div className="footer-contact-line">
                 <Icon name="phone" className="footer-contact-icon" />
-                <a href="tel:18004103299" className="footer-contact-link">
-                  18004103299
+                <a href={CONTACT.phoneHref} className="footer-contact-link">
+                  {CONTACT.phone}
                 </a>
               </div>
               <div className="footer-contact-line">
                 <Icon name="mail" className="footer-contact-icon" />
                 <a
-                  href={GMAIL_COMPOSE_URL}
+                  href={CONTACT.gmailComposeUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="footer-contact-link"
                 >
-                  info@rezonants.com
+                  {CONTACT.email}
                 </a>
               </div>
             </div>

@@ -4,8 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "build:knowledge": "node scripts/build-knowledge.js",
+    "predev": "node scripts/build-knowledge.js",
     "dev": "vite",
+    "preserver": "node scripts/build-knowledge.js",
     "server": "node server/chat-api.js",
+    "prebuild": "node scripts/build-knowledge.js",
     "build": "vite build",
     "lint": "oxlint",
     "test:chatbot": "node scripts/verify-chatbot-cases.mjs",

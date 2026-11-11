@@ -469,7 +469,7 @@ const MENU_FILLER = new Set([
   'me', 'mine', 'more', 'much', 'must', 'my', 'need', 'needs', 'new',
   'now', 'of', 'offering', 'offerings', 'offer', 'offers', 'on', 'one',
   'only', 'or', 'other', 'our', 'ours', 'out', 'over', 'own', 'please',
-  'prepare', 'print', 'provide', 'read', 'say', 'see', 'send', 'share',
+  'prepare', 'print', 'provide', 'provided', 'offered', 'available', 'deliver', 'delivered', 'rendered', 'supported', 'read', 'say', 'see', 'send', 'share',
   'should', 'show', 'showing', 'since', 'so', 'some', 'sort', 'stuff',
   'take', 'tell', 'than', 'that', 'the', 'their', 'theirs', 'them', 'then',
   'there', 'these', 'they', 'thing', 'things', 'this', 'those', 'though',
@@ -486,21 +486,21 @@ const MENU_FILLER = new Set([
 const MULTILINGUAL_SERVICE_WORDS = new Set([
   'service', 'services', 'servicios', 'servicio', 'servizi', 'servizio',
   'amasevisi', 'sevisi', 'isevisi', 'diensten', 'dienst', 'dienstleistungen',
-  'tjenester', 'uslugi', 'usluga', 'सेवाएं', 'सेवा', 'సేవలు', 'சேவைகள்',
+  'tjenester', 'uslugi', 'usluga', 'सेवाएं', 'सेवाएँ', 'सेवाओं', 'सेवा', 'సేవలు', 'సేవలను', 'சேவைகள்',
   'خدمات', 'خدمة', '服务', 'サービス'
 ])
 
 const MULTILINGUAL_TECH_WORDS = new Set([
   'tech', 'techs', 'technology', 'technologies', 'tecnologia', 'tecnologias',
   'technologie', 'technologies', 'ubuchwepheshe', 'teknologi', 'teknolojiler',
-  'teknoloji', 'taknik', 'तकनीक', 'సాంకేతికత', 'தொழில்நுட்பம்', 'تكنولوجيا',
+  'teknoloji', 'taknik', 'तकनीक', 'तकनीकों', 'प्रौद्योगिकी', 'సాంకేతికత', 'సాంకేతికతలు', 'సాంకేతికతలను', 'தொழில்நுட்பம்', 'تكنولوجيا',
   '技术', '技術', 'テクノロジー'
 ])
 
 const MULTILINGUAL_PRODUCT_WORDS = new Set([
   'product', 'products', 'producto', 'productos', 'produit', 'produits',
   'imikhiqizo', 'umkhiqizo', 'prodotto', 'prodotti', 'produkte', 'produkt',
-  'producten', 'produkter', 'utpaad', 'उत्पाद', 'ఉత్పత్తులు', 'தயாரிப்புகள்',
+  'producten', 'produkter', 'utpaad', 'उत्पाद', 'उत्पादों', 'ఉత్పత్తులు', 'ఉత్పత్తులను', 'தயாரிப்புகள்',
   'منتجات', 'منتج', '产品', '製品', 'プロダクト'
 ])
 

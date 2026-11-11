@@ -69,7 +69,6 @@ const PERSPECTIVE_KEYWORDS = {
     'your cloud perspective',
     'legacy application modernization',
     'legacy modernization',
-    'cloud migration',
     'replatforming',
     're architecting',
   ],
