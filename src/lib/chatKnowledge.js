@@ -13,6 +13,9 @@ const CONTACT = {
     'D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003',
   southAfricaCompany: 'REZONANTS PVT LTD',
   southAfricaAddress: 'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
+  sandtonAddress:
+    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
+  dubaiAddress: 'Dubai, United Arab Emirates',
   hours: 'Monday – Saturday, 9:30 – 18:30 IST',
 }
 
@@ -469,6 +472,12 @@ You can explore these under the Technologies section on our website.`,
       'hyderabad',
       'madhapur',
       'vijayawada',
+      'newcastle',
+      'sandton',
+      'rivonia',
+      'edenburg',
+      'dubai',
+      'uae',
       'south africa office',
       'office address',
       'office location',
@@ -487,7 +496,9 @@ You can explore these under the Technologies section on our website.`,
 ✉️ Email: ${CONTACT.email}
 📍 Hyderabad, India (Headquarters): ${CONTACT.address}
 📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}
-📍 South Africa Office: ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}
+📍 South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}
+📍 South Africa (Sandton): ${CONTACT.sandtonAddress}
+📍 Dubai, UAE: ${CONTACT.dubaiAddress}
 
 You can also use the "Send us a message" form on our homepage, or book a free consultation.`,
   },

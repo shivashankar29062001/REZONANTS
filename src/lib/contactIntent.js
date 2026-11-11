@@ -38,6 +38,9 @@ export const CONTACT = {
     'D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003',
   southAfricaCompany: 'REZONANTS PVT LTD',
   southAfricaAddress: 'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
+  sandtonAddress:
+    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
+  dubaiAddress: 'Dubai, United Arab Emirates',
   hours: 'Monday – Saturday, 9:30 – 18:30 IST',
 }
 
@@ -102,7 +105,9 @@ function fullContactReply() {
     '',
     'Our other offices:',
     `📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}`,
-    `📍 South Africa: ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
+    `📍 South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
+    `📍 South Africa (Sandton): ${CONTACT.sandtonAddress}`,
+    `📍 Dubai, UAE: ${CONTACT.dubaiAddress}`,
     '',
     'Feel free to contact us if you need any additional information.',
   ].join('\n')
@@ -120,7 +125,11 @@ function locationReply() {
   return [
     `📍 ${CONTACT.company} is headquartered at: ${CONTACT.address}`,
     '',
-    'We also have offices in Vijayawada (India) and Newcastle (South Africa) — just ask if you would like those addresses too.',
+    'Our other offices:',
+    `📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}`,
+    `📍 South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
+    `📍 South Africa (Sandton): ${CONTACT.sandtonAddress}`,
+    `📍 Dubai, UAE: ${CONTACT.dubaiAddress}`,
   ].join('\n')
 }
 

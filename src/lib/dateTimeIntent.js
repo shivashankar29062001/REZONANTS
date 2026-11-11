@@ -209,6 +209,7 @@ const CITY_ZONES = {
   lagos: 'Africa/Lagos',
   nairobi: 'Africa/Nairobi',
   johannesburg: 'Africa/Johannesburg',
+  sandton: 'Africa/Johannesburg',
   'cape town': 'Africa/Johannesburg',
   durban: 'Africa/Johannesburg',
   'addis ababa': 'Africa/Addis_Ababa',

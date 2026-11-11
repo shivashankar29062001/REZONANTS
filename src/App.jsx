@@ -67,7 +67,73 @@ const CONTACT = {
   southAfricaAddress: 'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
   southAfricaMapsHref:
     'https://www.google.com/maps/search/Unit+11+Sunset+View+10+Hazy+Street+Newcastle+Kwa-Zulu+Natal+2930+South+Africa',
+  sandtonAddress:
+    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
+  sandtonMapsHref:
+    'https://www.google.com/maps/search/Rayburn+House,+1-3+Mellis+Road,+Edenburg,+Rivonia,+Sandton+2146,+South+Africa',
+  dubaiAddress: 'Dubai, United Arab Emirates',
+  dubaiMapsHref:
+    'https://www.google.com/maps/search/Dubai,+United+Arab+Emirates',
 }
+
+const OFFICE_LOCATIONS = [
+  {
+    id: 'hyderabad',
+    contactLabelKey: 'contact.office',
+    contactLabelDefault: 'Office',
+    footerLabelKey: 'footer.hyderabadLocation',
+    footerLabelDefault: 'Hyderabad, India',
+    contactAriaLabel: 'Open office location on Google Maps',
+    footerAriaLabel: 'Open India office location on Google Maps',
+    address: CONTACT.address,
+    mapsHref: CONTACT.mapsHref,
+  },
+  {
+    id: 'vijayawada',
+    contactLabelKey: 'contact.offices.vijayawada',
+    contactLabelDefault: 'Vijayawada Office',
+    footerLabelKey: 'footer.vijayawadaLocation',
+    footerLabelDefault: 'Vijayawada, Andhra Pradesh',
+    contactAriaLabel: 'Open Vijayawada office location on Google Maps',
+    footerAriaLabel: 'Open Vijayawada office location on Google Maps',
+    address: CONTACT.vijayawadaAddress,
+    mapsHref: CONTACT.vijayawadaMapsHref,
+  },
+  {
+    id: 'newcastle',
+    contactLabelKey: 'contact.offices.southAfrica',
+    contactLabelDefault: 'South Africa Office — Newcastle',
+    footerLabelKey: 'footer.southAfricaLocation',
+    footerLabelDefault: 'South Africa – REZONANTS PVT LTD',
+    contactAriaLabel: 'Open South Africa office location on Google Maps',
+    footerAriaLabel: 'Open South Africa office location on Google Maps',
+    company: CONTACT.southAfricaCompany,
+    address: CONTACT.southAfricaAddress,
+    mapsHref: CONTACT.southAfricaMapsHref,
+  },
+  {
+    id: 'sandton',
+    contactLabelKey: 'contact.offices.sandton',
+    contactLabelDefault: 'South Africa Office — Sandton',
+    footerLabelKey: 'footer.sandtonLocation',
+    footerLabelDefault: 'Sandton, South Africa',
+    contactAriaLabel: 'Open Sandton office location on Google Maps',
+    footerAriaLabel: 'Open Sandton office location on Google Maps',
+    address: CONTACT.sandtonAddress,
+    mapsHref: CONTACT.sandtonMapsHref,
+  },
+  {
+    id: 'dubai',
+    contactLabelKey: 'contact.offices.dubai',
+    contactLabelDefault: 'Dubai Office',
+    footerLabelKey: 'footer.dubaiLocation',
+    footerLabelDefault: 'Dubai, UAE',
+    contactAriaLabel: 'Open Dubai office location on Google Maps',
+    footerAriaLabel: 'Open Dubai office location on Google Maps',
+    address: CONTACT.dubaiAddress,
+    mapsHref: CONTACT.dubaiMapsHref,
+  },
+]
 
 const NAV_ITEMS = [
   { id: 'about', label: 'About' },
@@ -1395,46 +1461,27 @@ function ContactForm() {
                     </a>
                   </span>
                 </li>
-                <li>
-                  <span className="contact-icon">
-                    <a href={CONTACT.mapsHref} target="_blank" rel="noopener noreferrer" aria-label="Open office location on Google Maps">
-                      <Icon name="pin" />
-                    </a>
-                  </span>
-                  <span className="contact-channel">
-                    <small>{t('contact.office')}</small>
-                    <a href={CONTACT.mapsHref} target="_blank" rel="noopener noreferrer">
-                      {CONTACT.address}
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span className="contact-icon">
-                    <a href={CONTACT.vijayawadaMapsHref} target="_blank" rel="noopener noreferrer" aria-label="Open Vijayawada office location on Google Maps">
-                      <Icon name="pin" />
-                    </a>
-                  </span>
-                  <span className="contact-channel">
-                    <small>{t('contact.offices.vijayawada', { defaultValue: 'Vijayawada Office' })}</small>
-                    <a href={CONTACT.vijayawadaMapsHref} target="_blank" rel="noopener noreferrer">
-                      {CONTACT.vijayawadaAddress}
-                    </a>
-                  </span>
-                </li>
-                <li>
-                  <span className="contact-icon">
-                    <a href={CONTACT.southAfricaMapsHref} target="_blank" rel="noopener noreferrer" aria-label="Open South Africa office location on Google Maps">
-                      <Icon name="pin" />
-                    </a>
-                  </span>
-                  <span className="contact-channel">
-                    <small>{t('contact.offices.southAfrica', { defaultValue: 'South Africa Office' })}</small>
-                    <a href={CONTACT.southAfricaMapsHref} target="_blank" rel="noopener noreferrer">
-                      <strong>{CONTACT.southAfricaCompany}</strong><br />
-                      Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa
-                    </a>
-                  </span>
-                </li>
+                {OFFICE_LOCATIONS.map((office) => (
+                  <li key={office.id}>
+                    <span className="contact-icon">
+                      <a href={office.mapsHref} target="_blank" rel="noopener noreferrer" aria-label={office.contactAriaLabel}>
+                        <Icon name="pin" />
+                      </a>
+                    </span>
+                    <span className="contact-channel">
+                      <small>{t(office.contactLabelKey, { defaultValue: office.contactLabelDefault })}</small>
+                      <a href={office.mapsHref} target="_blank" rel="noopener noreferrer">
+                        {office.company && (
+                          <>
+                            <strong>{office.company}</strong>
+                            <br />
+                          </>
+                        )}
+                        {office.address}
+                      </a>
+                    </span>
+                  </li>
+                ))}
                 <li>
                   <span className="contact-icon"><Icon name="clock" /></span>
                   <span className="contact-channel">
@@ -1649,37 +1696,28 @@ function FooterWorldMap() {
         <circle cx="264" cy="96" r="1.2" /><circle cx="270" cy="98" r="1.2" />
       </g>
 
-      {/* Office Marker 1: Hyderabad, India (Approx lon 78.5E, lat 17.4N) */}
-      <g className="footer-map-pin-group">
-        <circle
-          cx="201"
-          cy="49"
-          r="8"
-          className="footer-map-pulse-ring"
-          fill="none"
-          stroke="var(--primary)"
-          strokeWidth="1.2"
-        />
-        <circle cx="201" cy="49" r="4.5" fill="var(--primary)" opacity="0.28" />
-        <circle cx="201" cy="49" r="2.5" fill="var(--primary-hover)" />
-        <title>{t('footer.hyderabadPin', { defaultValue: 'Hyderabad, India' })}</title>
-      </g>
-
-      {/* Office Marker 2: South Africa (Newcastle, KZN approx lon 30E, lat 28S) */}
-      <g className="footer-map-pin-group">
-        <circle
-          cx="163"
-          cy="85"
-          r="8"
-          className="footer-map-pulse-ring"
-          fill="none"
-          stroke="var(--primary)"
-          strokeWidth="1.2"
-        />
-        <circle cx="163" cy="85" r="4.5" fill="var(--primary)" opacity="0.28" />
-        <circle cx="163" cy="85" r="2.5" fill="var(--primary-hover)" />
-        <title>{t('footer.southAfricaPin', { defaultValue: 'South Africa' })}</title>
-      </g>
+      {/* Office Location Markers */}
+      {[
+        { id: 'hyderabad', cx: 201, cy: 49, label: t('footer.hyderabadPin', { defaultValue: 'Hyderabad, India' }) },
+        { id: 'dubai', cx: 183, cy: 43, label: t('footer.dubaiPin', { defaultValue: 'Dubai, UAE' }) },
+        { id: 'sandton', cx: 160, cy: 82, label: t('footer.sandtonPin', { defaultValue: 'Sandton, South Africa' }) },
+        { id: 'newcastle', cx: 163, cy: 85, label: t('footer.southAfricaPin', { defaultValue: 'Newcastle, South Africa' }) },
+      ].map((pin) => (
+        <g key={pin.id} className="footer-map-pin-group">
+          <circle
+            cx={pin.cx}
+            cy={pin.cy}
+            r="8"
+            className="footer-map-pulse-ring"
+            fill="none"
+            stroke="var(--primary)"
+            strokeWidth="1.2"
+          />
+          <circle cx={pin.cx} cy={pin.cy} r="4.5" fill="var(--primary)" opacity="0.28" />
+          <circle cx={pin.cx} cy={pin.cy} r="2.5" fill="var(--primary-hover)" />
+          <title>{pin.label}</title>
+        </g>
+      ))}
     </svg>
   )
 }
@@ -1889,63 +1927,23 @@ function Footer() {
 
         {/* Contact Information & Office Locations Row */}
         <div className="footer-contact-row">
-          {/* Offices — three aligned address blocks in one row */}
           <div className="footer-offices-row">
-          <div className="footer-office-block">
-            <Icon name="pin" className="footer-contact-icon" />
-            <a
-              href={CONTACT.mapsHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-office-link"
-              aria-label="Open India office location on Google Maps"
-            >
-              <strong>{t('footer.hyderabadLocation', { defaultValue: 'Hyderabad, India' })}</strong>
-              <span>
-                SBR Towers, Axis bank building, Second Floor, D No 1/98/93/23, HUDA Tecno Encalve Cyber Hills Colony, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081
-              </span>
-            </a>
+            {OFFICE_LOCATIONS.map((office) => (
+              <div key={office.id} className="footer-office-block">
+                <Icon name="pin" className="footer-contact-icon" />
+                <a
+                  href={office.mapsHref}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="footer-office-link"
+                  aria-label={office.footerAriaLabel}
+                >
+                  <strong>{t(office.footerLabelKey, { defaultValue: office.footerLabelDefault })}</strong>
+                  <span>{office.address}</span>
+                </a>
+              </div>
+            ))}
           </div>
-
-          <div className="footer-contact-divider" aria-hidden="true" />
-
-          {/* Vijayawada Office */}
-          <div className="footer-office-block">
-            <Icon name="pin" className="footer-contact-icon" />
-            <a
-              href={CONTACT.vijayawadaMapsHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-office-link"
-              aria-label="Open Vijayawada office location on Google Maps"
-            >
-              <strong>{t('footer.vijayawadaLocation', { defaultValue: 'Vijayawada, Andhra Pradesh' })}</strong>
-              <span>
-                D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003
-              </span>
-            </a>
-          </div>
-
-          <div className="footer-contact-divider" aria-hidden="true" />
-
-          {/* South Africa Office */}
-          <div className="footer-office-block">
-            <Icon name="pin" className="footer-contact-icon" />
-            <a
-              href={CONTACT.southAfricaMapsHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-office-link"
-              aria-label="Open South Africa office location on Google Maps"
-            >
-              <strong>{t('footer.southAfricaLocation', { defaultValue: 'South Africa – REZONANTS PVT LTD' })}</strong>
-              <span>
-                Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa
-              </span>
-            </a>
-          </div>
-          </div>
-
         </div>
 
         {/* Bottom Legal / Copyright Row */}

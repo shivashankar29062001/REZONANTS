@@ -203,12 +203,14 @@ await asyncTest('Fix 4: translateText returns original for en and handles errors
 })
 
 // ─── 5. Fix 5: Company Information Accuracy ────────────────────
-test('Fix 5: Contact information includes Madhapur Hyderabad HQ, Vijayawada, and South Africa PVT LTD', () => {
+test('Fix 5: Contact information includes Madhapur Hyderabad HQ, Vijayawada, Newcastle, Sandton, and Dubai', () => {
   const contactText = resolveContactQuery('Where is your office?')
   assert(contactText !== null, 'Contact query should be resolved')
   assert(contactText.includes('Madhapur, Hyderabad'), 'Should include Madhapur, Hyderabad')
   assert(contactText.includes('Vijayawada'), 'Should include Vijayawada')
   assert(contactText.includes('REZONANTS PVT LTD'), 'Should include REZONANTS PVT LTD')
+  assert(contactText.includes('Sandton 2146'), 'Should include Sandton office')
+  assert(contactText.includes('Dubai, United Arab Emirates'), 'Should include Dubai office')
   assert(!contactText.includes('(PTY)'), 'Must not contain legacy (PTY)')
   assert(contactText.includes('1800 410 3299'), 'Should include toll-free 1800 410 3299')
   assert(contactText.includes('info@rezonants.com'), 'Should include info@rezonants.com')
