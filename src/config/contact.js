@@ -40,13 +40,6 @@ export const CONTACT = {
     'Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa',
   southAfricaMapsHref:
     'https://www.google.com/maps/search/Unit+11+Sunset+View+10+Hazy+Street+Newcastle+Kwa-Zulu+Natal+2930+South+Africa',
-  sandtonAddress:
-    'Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa',
-  sandtonMapsHref:
-    'https://www.google.com/maps/search/Rayburn+House,+1-3+Mellis+Road,+Edenburg,+Rivonia,+Sandton+2146,+South+Africa',
-  dubaiAddress: 'Dubai, United Arab Emirates',
-  dubaiMapsHref:
-    'https://www.google.com/maps/search/Dubai,+United+Arab+Emirates',
   social: {
     linkedin: 'https://www.linkedin.com/company/rezonants/',
     twitter: 'https://twitter.com/rezonants',
@@ -81,9 +74,9 @@ export const OFFICE_LOCATIONS = [
   },
   {
     id: 'newcastle',
-    title: 'South Africa Office (Newcastle)',
+    title: 'South Africa Office',
     contactLabelKey: 'contact.offices.southAfrica',
-    contactLabelDefault: 'South Africa Office — Newcastle',
+    contactLabelDefault: 'South Africa Office',
     footerLabelKey: 'footer.southAfricaLocation',
     footerLabelDefault: 'South Africa – REZONANTS PVT LTD',
     contactAriaLabel: 'Open South Africa office location on Google Maps',
@@ -92,39 +85,13 @@ export const OFFICE_LOCATIONS = [
     address: CONTACT.southAfricaAddress,
     mapsHref: CONTACT.southAfricaMapsHref,
   },
-  {
-    id: 'sandton',
-    title: 'South Africa Office (Sandton)',
-    contactLabelKey: 'contact.offices.sandton',
-    contactLabelDefault: 'South Africa Office — Sandton',
-    footerLabelKey: 'footer.sandtonLocation',
-    footerLabelDefault: 'Sandton, South Africa',
-    contactAriaLabel: 'Open Sandton office location on Google Maps',
-    footerAriaLabel: 'Open Sandton office location on Google Maps',
-    address: CONTACT.sandtonAddress,
-    mapsHref: CONTACT.sandtonMapsHref,
-  },
-  {
-    id: 'dubai',
-    title: 'Dubai Office (UAE)',
-    contactLabelKey: 'contact.offices.dubai',
-    contactLabelDefault: 'Dubai Office',
-    footerLabelKey: 'footer.dubaiLocation',
-    footerLabelDefault: 'Dubai, UAE',
-    contactAriaLabel: 'Open Dubai office location on Google Maps',
-    footerAriaLabel: 'Open Dubai office location on Google Maps',
-    address: CONTACT.dubaiAddress,
-    mapsHref: CONTACT.dubaiMapsHref,
-  },
 ]
 
 export function formatOfficeListText() {
   return [
     `- Hyderabad, India (Headquarters): ${CONTACT.address}`,
     `- Vijayawada, India: ${CONTACT.vijayawadaAddress}`,
-    `- South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
-    `- South Africa (Sandton): ${CONTACT.sandtonAddress}`,
-    `- Dubai, UAE: ${CONTACT.dubaiAddress}`,
+    `- South Africa Office: ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}`,
   ].join('\n')
 }
 

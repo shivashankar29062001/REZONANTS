@@ -110,7 +110,12 @@ const TEST_CASES = [
     en: 'Where is your office?',
     te: 'మీ కార్యాలయం ఎక్కడ ఉంది?',
     hi: 'आपका कार्यालय कहाँ है?',
-    verifyEn: (r) => /Hyderabad/i.test(r) && /Sandton/i.test(r) && /Dubai/i.test(r),
+    verifyEn: (r) =>
+      /Hyderabad/i.test(r) &&
+      /Vijayawada/i.test(r) &&
+      /Newcastle/i.test(r) &&
+      !/Sandton/i.test(r) &&
+      !/Dubai/i.test(r),
     expectScript: { te: /[\u0C00-\u0C7F]/, hi: /[\u0900-\u097F]/ },
   },
   {

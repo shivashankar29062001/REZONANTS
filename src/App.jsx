@@ -1610,9 +1610,7 @@ function FooterWorldMap() {
       {/* Office Location Markers */}
       {[
         { id: 'hyderabad', cx: 201, cy: 49, label: t('footer.hyderabadPin', { defaultValue: 'Hyderabad, India' }) },
-        { id: 'dubai', cx: 183, cy: 43, label: t('footer.dubaiPin', { defaultValue: 'Dubai, UAE' }) },
-        { id: 'sandton', cx: 160, cy: 82, label: t('footer.sandtonPin', { defaultValue: 'Sandton, South Africa' }) },
-        { id: 'newcastle', cx: 163, cy: 85, label: t('footer.southAfricaPin', { defaultValue: 'Newcastle, South Africa' }) },
+        { id: 'newcastle', cx: 163, cy: 85, label: t('footer.southAfricaPin', { defaultValue: 'South Africa' }) },
       ].map((pin) => (
         <g key={pin.id} className="footer-map-pin-group">
           <circle

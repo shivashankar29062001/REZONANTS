@@ -33,13 +33,11 @@ Every item below appears somewhere in the codebase (`src/`, `supabase/migrations
 6. **Business Hours vs 24/7 Support & Consultation Budgets**
    - Contact panel states **`Mon – Sat, 9:30 – 18:30 IST`**, older server prompts had `Monday–Saturday, 10:00–19:00 IST`, and About/Managed Services refer to **`24/7 Support` / `24/7/365`**.
    - `/book-consultation` lists INR budget options (`Under ₹1L`, `₹1L – ₹5L`, `₹5L – ₹10L`, `₹10L+`) and time slots `9:00 AM – 6:00 PM` (without timezone specified).
-   - **Action needed:** Confirm office vs 24/7 support hours, consultation slot timezone, and whether visitors from South Africa / UAE have separate consultation hours/currencies.
+   - **Action needed:** Confirm office vs 24/7 support hours, consultation slot timezone, and whether visitors from South Africa have separate consultation hours/currencies.
 
-7. **Hyderabad Address & Dubai Office Full Street Address**
+7. **Hyderabad Address Typo & Maps Pin Difference**
    - Hyderabad text contains typo `"HUDA Tecno Encalve"`, while the Google Maps link points to `"Samridhi Vasyam, D No 1/98/9/3/23, Capital Pk Rd"`.
-   - Dubai office currently has only `"Dubai, United Arab Emirates"` (no building/street address yet).
-   - South Africa has two offices listed: **Newcastle** (`Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930`) and **Sandton** (`Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146`).
-   - **Action needed:** Confirm official Hyderabad street spelling/pin and provide the full street address for the Dubai office.
+   - **Action needed:** Confirm official Hyderabad street spelling and postal pin.
 
 8. **Privacy Policy & Footer Legal Links**
    - `PrivacyPolicyPage.tsx` states `"Last updated: August 2026"` and line 82 renders `<1>info@rezonants.com</1>` literal tags because `t()` is rendered as plain text rather than `<Trans>`.

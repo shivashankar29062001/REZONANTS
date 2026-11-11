@@ -16,9 +16,7 @@
 - **Office Locations:**
 - Hyderabad, India (Headquarters): SBR Towers, Axis bank building, Second Floor, D No 1/98/93/23, HUDA Tecno Encalve Cyber Hills Colony, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081
 - Vijayawada, India: D.No. 24-29-210A, Durgapuram, Gulabithota Road, Vijayawada, NTR District, Andhra Pradesh – 520003
-- South Africa (Newcastle): REZONANTS PVT LTD, Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa
-- South Africa (Sandton): Rayburn House, 1–3 Mellis Road, Edenburg, Rivonia, Sandton 2146, South Africa
-- Dubai, UAE: Dubai, United Arab Emirates
+- South Africa Office: REZONANTS PVT LTD, Unit 11, Sunset View, 10 Hazy Street, Newcastle, Kwa-Zulu Natal, 2930, South Africa
 - **Social Links:** LinkedIn (`https://www.linkedin.com/company/rezonants/`), Twitter/X (`https://twitter.com/rezonants`), Instagram (`https://www.instagram.com/rezonants_/`)
 
 ## 3. Services
@@ -189,7 +187,7 @@ Rezonants publishes 5 official thought-leadership Perspectives on `/perspectives
    A: Rezonants (Rezonant Solutions Private Limited) is an IT services and digital products company headquartered in Madhapur, Hyderabad, India. We design, build, and scale custom software, web and mobile applications, cloud infrastructure, AI, automation, and managed technology services.
 
 2. **Q: Where is Rezonants located?**
-   A: Rezonants' India Headquarters is in Madhapur, Hyderabad, Telangana. We also operate offices in Vijayawada (India), Newcastle and Sandton (South Africa), and Dubai (UAE).
+   A: Rezonants' India Headquarters is in Madhapur, Hyderabad, Telangana. We also operate offices in Vijayawada (India) and Newcastle, Kwa-Zulu Natal (South Africa).
 
 3. **Q: How can I contact Rezonants directly?**
    A: You can call our toll-free number (`1800 410 3299` / `18004103299`), email `info@rezonants.com`, submit the homepage contact form (`/#contact`), or request a meeting on `/book-consultation`.

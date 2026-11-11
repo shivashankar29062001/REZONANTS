@@ -478,11 +478,6 @@ You can explore these under the Technologies section on our website.`,
       'madhapur',
       'vijayawada',
       'newcastle',
-      'sandton',
-      'rivonia',
-      'edenburg',
-      'dubai',
-      'uae',
       'south africa office',
       'office address',
       'office location',
@@ -501,9 +496,7 @@ You can explore these under the Technologies section on our website.`,
 ✉️ Email: ${CONTACT.email}
 📍 Hyderabad, India (Headquarters): ${CONTACT.address}
 📍 Vijayawada, India: ${CONTACT.vijayawadaAddress}
-📍 South Africa (Newcastle): ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}
-📍 South Africa (Sandton): ${CONTACT.sandtonAddress}
-📍 Dubai, UAE: ${CONTACT.dubaiAddress}
+📍 South Africa Office: ${CONTACT.southAfricaCompany}, ${CONTACT.southAfricaAddress}
 
 You can also use the "Send us a message" form on our homepage, or book a free consultation.`,
   },
