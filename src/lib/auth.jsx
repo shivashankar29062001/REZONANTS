@@ -5,7 +5,9 @@ import { getProfile, upsertProfile } from './database'
 // Public URL of the deployed site, used for links inside account emails.
 const SITE_URL = (
   import.meta.env.VITE_SITE_URL ||
-  (typeof window !== 'undefined' ? window.location.origin : 'https://rezonants.com')
+  (typeof window !== 'undefined'
+    ? window.location.origin + (import.meta.env.BASE_URL || '/')
+    : 'https://rezonants.com')
 ).replace(/\/+$/, '')
 
 function getSupabaseClient() {
@@ -215,7 +217,7 @@ export function AuthProvider({ children }) {
 
   async function resetPassword(email) {
     const { error } = await getSupabaseClient().auth.resetPasswordForEmail(email, {
-      redirectTo: window.location.origin + (import.meta.env.BASE_URL || '/'),
+      redirectTo: `${SITE_URL}/`,
     })
     if (error) throw error
   }
