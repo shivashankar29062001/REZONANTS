@@ -201,6 +201,9 @@ const SERVICES = [
 
 
 const NAV_OFFSET = 78
+const APP_BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '')
+const withBase = (path) => `${APP_BASE}${path}` || '/'
+const stripBase = (pathname) => (APP_BASE && pathname.startsWith(APP_BASE) ? pathname.slice(APP_BASE.length) || '/' : pathname)
 
 function scrollToSection(id) {
   const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
@@ -231,8 +234,8 @@ function SectionLink({ id, children, className = '', isActive = false, onNavigat
     onNavigate?.()
     const targetPath = id === 'top' ? '/' : `/${id}`
     if (isHomeRoute) {
-      if (typeof window !== 'undefined' && window.location.pathname !== targetPath) {
-        window.history.pushState(null, '', targetPath)
+      if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== targetPath) {
+        window.history.pushState(null, '', withBase(targetPath))
       }
       scrollToSection(id)
     } else {
@@ -294,7 +297,7 @@ function Navbar({ onSignIn, onSignUp }) {
   useEffect(() => {
     const handlePopState = () => {
       if (typeof window === 'undefined') return
-      const p = window.location.pathname
+      const p = stripBase(window.location.pathname)
       if (p === '/about') {
         scrollToSection('about')
         setActiveSection('about')
@@ -321,16 +324,16 @@ function Navbar({ onSignIn, onSignUp }) {
     const onOutside = (e) => {
       if (servicesRef.current && !servicesRef.current.contains(e.target)) {
         setServicesOpen((prev) => {
-          if (prev && !isHomeRoute && typeof window !== 'undefined' && window.location.pathname === '/services') {
-            window.history.pushState(null, '', location.pathname)
+          if (prev && !isHomeRoute && typeof window !== 'undefined' && stripBase(window.location.pathname) === '/services') {
+            window.history.pushState(null, '', withBase(location.pathname))
           }
           return false
         })
       }
       if (techRef.current && !techRef.current.contains(e.target)) {
         setTechOpen((prev) => {
-          if (prev && !isHomeRoute && typeof window !== 'undefined' && window.location.pathname === '/technologies') {
-            window.history.pushState(null, '', location.pathname)
+          if (prev && !isHomeRoute && typeof window !== 'undefined' && stripBase(window.location.pathname) === '/technologies') {
+            window.history.pushState(null, '', withBase(location.pathname))
           }
           return false
         })
@@ -391,7 +394,7 @@ function Navbar({ onSignIn, onSignUp }) {
         const activeName = current === 'gallery' ? 'technologies' : current
         setActiveSection(activeName)
         if (isHomeRoute && typeof window !== 'undefined') {
-          if (window.location.pathname === '/technologies' && (activeName === 'top' || !activeName)) {
+          if (stripBase(window.location.pathname) === '/technologies' && (activeName === 'top' || !activeName)) {
             return
           }
           const targetPath =
@@ -404,8 +407,8 @@ function Navbar({ onSignIn, onSignUp }) {
                   : activeName === 'contact'
                     ? '/contact'
                     : '/'
-          if (window.location.pathname !== targetPath) {
-            window.history.replaceState(null, '', targetPath)
+          if (stripBase(window.location.pathname) !== targetPath) {
+            window.history.replaceState(null, '', withBase(targetPath))
           }
         }
       }
@@ -440,8 +443,8 @@ function Navbar({ onSignIn, onSignUp }) {
             setTechOpen(false)
             if (location.pathname === '/') {
               e.preventDefault()
-              if (typeof window !== 'undefined' && window.location.pathname !== '/') {
-                window.history.pushState(null, '', '/')
+              if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== '/') {
+                window.history.pushState(null, '', withBase('/'))
               }
               scrollToSection('top')
               setActiveSection('top')
@@ -481,19 +484,19 @@ function Navbar({ onSignIn, onSignUp }) {
                       setTechOpen(false)
                       if (nextOpen) {
                         if (isHomeRoute) {
-                          if (typeof window !== 'undefined' && window.location.pathname !== '/services') {
-                            window.history.pushState(null, '', '/services')
+                          if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== '/services') {
+                            window.history.pushState(null, '', withBase('/services'))
                           }
                           scrollToSection('services')
                           setActiveSection('services')
                         } else {
-                          if (typeof window !== 'undefined' && window.location.pathname !== '/services') {
-                            window.history.pushState(null, '', '/services')
+                          if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== '/services') {
+                            window.history.pushState(null, '', withBase('/services'))
                           }
                         }
                       } else {
-                        if (!isHomeRoute && typeof window !== 'undefined' && window.location.pathname === '/services') {
-                          window.history.pushState(null, '', location.pathname)
+                        if (!isHomeRoute && typeof window !== 'undefined' && stripBase(window.location.pathname) === '/services') {
+                          window.history.pushState(null, '', withBase(location.pathname))
                         }
                       }
                     }}
@@ -564,19 +567,19 @@ function Navbar({ onSignIn, onSignUp }) {
                       setServicesOpen(false)
                       if (nextOpen) {
                         if (isHomeRoute) {
-                          if (typeof window !== 'undefined' && window.location.pathname !== '/technologies') {
-                            window.history.pushState(null, '', '/technologies')
+                          if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== '/technologies') {
+                            window.history.pushState(null, '', withBase('/technologies'))
                           }
                           scrollToSection('gallery')
                           setActiveSection('technologies')
                         } else {
-                          if (typeof window !== 'undefined' && window.location.pathname !== '/technologies') {
-                            window.history.pushState(null, '', '/technologies')
+                          if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== '/technologies') {
+                            window.history.pushState(null, '', withBase('/technologies'))
                           }
                         }
                       } else {
-                        if (!isHomeRoute && typeof window !== 'undefined' && window.location.pathname === '/technologies') {
-                          window.history.pushState(null, '', location.pathname)
+                        if (!isHomeRoute && typeof window !== 'undefined' && stripBase(window.location.pathname) === '/technologies') {
+                          window.history.pushState(null, '', withBase(location.pathname))
                         }
                       }
                     }}
@@ -640,8 +643,8 @@ function Navbar({ onSignIn, onSignUp }) {
                     closeMobile()
                     if (isHomeRoute) {
                       e.preventDefault()
-                      if (typeof window !== 'undefined' && window.location.pathname !== path) {
-                        window.history.pushState(null, '', path)
+                      if (typeof window !== 'undefined' && stripBase(window.location.pathname) !== path) {
+                        window.history.pushState(null, '', withBase(path))
                       }
                       scrollToSection(item.id)
                       setActiveSection(item.id)

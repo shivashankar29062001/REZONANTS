@@ -2,13 +2,13 @@
   "name": "Rezonants — Rezonant Solutions Private Limited",
   "short_name": "Rezonants",
   "description": "Rezonants — IT services and digital products engineered to scale.",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#22A55B",
   "icons": [
     {
-      "src": "/favicon-192x192.png",
+      "src": "./favicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }

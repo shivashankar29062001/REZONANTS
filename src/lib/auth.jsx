@@ -131,7 +131,7 @@ export function AuthProvider({ children }) {
         (stripSearch(window.location.search) || '') +
         (stripHash(window.location.hash) || '')
       window.history.replaceState(null, '', clean || window.location.pathname)
-      window.location.assign(window.location.origin + `/?confirmed=${status}#auth`)
+      window.location.assign(window.location.origin + (import.meta.env.BASE_URL || '/') + `?confirmed=${status}#auth`)
     }
 
     const finish = () => redirectWith('1')
@@ -215,7 +215,7 @@ export function AuthProvider({ children }) {
 
   async function resetPassword(email) {
     const { error } = await getSupabaseClient().auth.resetPasswordForEmail(email, {
-      redirectTo: window.location.origin,
+      redirectTo: window.location.origin + (import.meta.env.BASE_URL || '/'),
     })
     if (error) throw error
   }
