@@ -3,8 +3,9 @@ import { supabase } from './supabase'
 import { getProfile, upsertProfile } from './database'
 
 // Public URL of the deployed site, used for links inside account emails.
+const configuredSiteUrl = (import.meta.env.VITE_SITE_URL || '').trim()
 const SITE_URL = (
-  import.meta.env.VITE_SITE_URL ||
+  configuredSiteUrl ||
   (typeof window !== 'undefined'
     ? window.location.origin + (import.meta.env.BASE_URL || '/')
     : 'https://rezonants.com')

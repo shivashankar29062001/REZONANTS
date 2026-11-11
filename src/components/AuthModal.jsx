@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
+import { Trans } from 'react-i18next'
 import { getAuthErrorMessage, useAuth } from '../lib/auth'
-import { useTranslation } from '../i18n/TranslationContext'
+import { i18n, useTranslation } from '../i18n/TranslationContext'
 import { BrandLogo } from './BrandLogo.jsx'
 
 function AuthModal({ open, mode, onClose, onSwitchMode, redirectTo, notice }) {
@@ -290,7 +291,23 @@ function AuthModal({ open, mode, onClose, onSwitchMode, redirectTo, notice }) {
                     aria-invalid={errors.acceptedTerms ? 'true' : undefined}
                   />
                   <span>
-                    <span dangerouslySetInnerHTML={{ __html: t('auth.privacyPolicy') }} />
+                    <Trans
+                      i18nKey="auth.privacyPolicy"
+                      i18n={i18n}
+                      t={t}
+                      components={{
+                        1: (
+                          <Link
+                            to="/privacy"
+                            className="link-btn"
+                            onClick={(e) => {
+                              e.stopPropagation()
+                              onClose()
+                            }}
+                          />
+                        ),
+                      }}
+                    />
                   </span>
                 </label>
                 {errors.acceptedTerms && <span className="error-message">{errors.acceptedTerms}</span>}
